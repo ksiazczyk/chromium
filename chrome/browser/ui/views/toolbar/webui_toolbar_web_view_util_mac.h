@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac WebUI toolbar event forwarder header
+// summary: Declares a macOS event handler that forwards mouse events from popups to the WebUI toolbar WebView and reconstructs double and triple clicks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_TOOLBAR_WEB_VIEW_UTIL_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_TOOLBAR_WEB_VIEW_UTIL_MAC_H_
 

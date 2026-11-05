@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI home control browser tests
+// summary: Browser tests for the WebUI home button covering mouse, keyboard, and modifier clicks plus drag-and-drop homepage setting, also serving as PressHandler tests.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"

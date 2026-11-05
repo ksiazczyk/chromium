@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser app menu button implementation
+// summary: Implements the main browser window app menu button, including menu display, theme and inkdrop updates, label handling, and ChromeOS keyboard interactions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/browser_app_menu_button.h"
 
 #include <set>

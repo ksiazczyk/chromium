@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFeaturePromoController browser tests
+// summary: Browser tests covering promo display, dismissal, session behavior, and related interactions of the browser feature promo controller.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_feature_promo_controller.h"
 
 #include <optional>

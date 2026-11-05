@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate bubble interactive UI tests
+// summary: Interactive UI tests that exercise translate bubble flows using interaction sequences, histogram checks, and simulated network and language detection conditions.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_view.h"
 
 #include <string>

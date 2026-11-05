@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent session observer implementation browser test
+// summary: Browser tests for RecentSessionObserverImpl checking usage metric recording and low-usage session callbacks through a mocked session policy.
+// ---
+
 #include "chrome/browser/ui/user_education/recent_session_observer_impl.h"
 
 #include <memory>

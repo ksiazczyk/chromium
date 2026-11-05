@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education service implementation
+// summary: Implements Chrome's browser-side user education service, registering feature promos, new badges, tutorials, and help bubble factories for in-product help.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_user_education_service.h"
 
 #include <algorithm>

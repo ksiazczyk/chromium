@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs bubble view header
+// summary: Declares ChromeLabsBubbleView, the bubble dialog that hosts lab items in a scroll view and manages restart callbacks for applying flag changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_BUBBLE_VIEW_H_
 

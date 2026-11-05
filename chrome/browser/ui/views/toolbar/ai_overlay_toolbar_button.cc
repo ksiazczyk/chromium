@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay toolbar button implementation
+// summary: Implements the AI overlay toolbar button, including its options button, layout, icon updates and caption and persona toggles.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/ai_overlay_toolbar_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

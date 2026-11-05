@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom WebUI help bubble implementation
+// summary: Implements the default bubble view builder for WebUI-based custom help bubbles, including testing element identifiers.
+// ---
+
 #include "chrome/browser/ui/views/user_education/custom_webui_help_bubble.h"
 
 #include "ui/views/controls/webview/webview.h"

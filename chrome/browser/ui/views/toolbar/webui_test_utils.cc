@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar test utilities implementation
+// summary: Implements test helpers for the WebUI toolbar, such as waiting for toolbar readiness, simulating button clicks and checking element visibility.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_test_utils.h"
 
 #include "base/functional/bind.h"

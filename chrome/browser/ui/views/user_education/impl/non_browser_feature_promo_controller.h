@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-browser feature promo controller header
+// summary: Declares NonBrowserFeaturePromoController, a base promo controller for special surfaces like the profile picker.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_NON_BROWSER_FEATURE_PROMO_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_NON_BROWSER_FEATURE_PROMO_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action hover card controller
+// summary: Implements the controller that shows, hides, and animates hover cards for toolbar extension actions, including an event sniffer that dismisses them on input.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_action_hover_card_controller.h"
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser user education context interactive UI test
+// summary: Interactive UI tests for the browser user education context's element filtering across profiles, incognito windows and WebUI anchors.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_user_education_context.h"
 
 #include <functional>

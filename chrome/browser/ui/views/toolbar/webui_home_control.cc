@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI home button control implementation
+// summary: Implements the C++-side logic for the WebUI toolbar home button, including pinning, context menus, homepage undo bubbles, and URL drop handling.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_home_control.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tutorial interactive UI tests
+// summary: Interactive browser tests that run tutorial sequences in the Views UI, exercising tutorial registration, help bubbles, and interaction steps with metrics checks.
+// ---
+
 #include "components/user_education/common/tutorial/tutorial.h"
 
 #include "base/functional/bind.h"

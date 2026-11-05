@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI pinned toolbar actions test base implementation
+// summary: Implements the shared test fixture for WebUI pinned toolbar actions browser tests, enabling required features and mapping Chrome action IDs to toolbar mojom actions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_pinned_toolbar_actions_test_base.h"
 
 #include "base/functional/bind.h"

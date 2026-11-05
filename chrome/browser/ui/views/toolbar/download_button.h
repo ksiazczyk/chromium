@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButton interface and progress ring status enum
+// summary: Defines the virtual DownloadButton interface for the downloads toolbar button, plus the ActionItemProgressRingStatus enum describing progress ring states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_DOWNLOAD_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_DOWNLOAD_BUTTON_H_
 

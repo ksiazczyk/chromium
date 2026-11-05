@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tabs browser test mixin
+// summary: Template mixin for vertical tabs tests that enables vertical tabs mode and exposes state controllers and collection nodes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TEST_VERTICAL_TABS_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_TEST_VERTICAL_TABS_BROWSER_TEST_MIXIN_H_
 

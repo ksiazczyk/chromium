@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu test accessor header
+// summary: Declares AppMenuTestAccessor, a test helper for opening, closing, and inspecting the app menu whether it is backed by Views or WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TEST_SUPPORT_APP_MENU_TEST_ACCESSOR_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TEST_SUPPORT_APP_MENU_TEST_ACCESSOR_H_
 

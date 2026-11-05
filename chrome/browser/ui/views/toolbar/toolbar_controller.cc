@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarController implementation
+// summary: Implements toolbar element visibility management using flex rules, overflow menu generation, and pop-out handling for pinned toolbar actions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_controller.h"
 
 #include <optional>

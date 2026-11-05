@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom WebUI help bubble controller header
+// summary: Declares a WebUI controller base class for custom help bubble UIs, with config macros and a controller concept constraint.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_CUSTOM_WEBUI_HELP_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_CUSTOM_WEBUI_HELP_BUBBLE_CONTROLLER_H_
 

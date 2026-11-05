@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bubble controller implementation
+// summary: Implements the per-window controller that creates, shows, and closes full page and partial translate bubbles.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_controller.h"
 
 #include <memory>

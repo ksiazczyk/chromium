@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo dialog interactive UI tests
+// summary: Interactive tests that show feature promo dialogs anchored to browser UI elements using a mock feature engagement tracker.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

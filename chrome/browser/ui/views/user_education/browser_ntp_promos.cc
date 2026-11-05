@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser NTP promo registration implementation
+// summary: Registers and implements New Tab Page promos such as the extensions and customization promos, checking eligibility and launching the associated navigation.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_ntp_promos.h"
 
 #include "base/functional/callback_helpers.h"

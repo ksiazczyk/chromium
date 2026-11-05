@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs view controller header
+// summary: Declares ChromeLabsViewController, which links the bubble view with flags state and storage and manages restart and new badge logic.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_VIEW_CONTROLLER_H_
 

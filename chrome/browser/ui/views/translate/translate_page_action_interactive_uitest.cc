@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate page action interactive UI tests
+// summary: Interactive UI tests verifying translate icon behavior, including closing the partial translate bubble when the icon is clicked and the icon's accessible name.
+// ---
+
 #include <string>
 
 #include "chrome/browser/ui/actions/actions_util.h"

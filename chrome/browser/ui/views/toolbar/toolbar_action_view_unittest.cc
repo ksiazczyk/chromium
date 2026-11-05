@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar action view unit tests
+// summary: Unit tests for ToolbarActionView using a test delegate and test view model, exercising context menus, accessibility data, and drag behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_action_view.h"
 
 #include <memory>

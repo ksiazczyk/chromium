@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar accessibility test base class
+// summary: Declares ToolbarAccessibilityTest, a parameterized interactive UI test base that configures accessibility and finds AX nodes for WebUI and Views toolbar elements.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_ACCESSIBILITY_TEST_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_ACCESSIBILITY_TEST_H_
 

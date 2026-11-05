@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu implementation
+// summary: Implements the app menu that adapts the AppMenuModel to Views menu classes, handling bookmarks, zoom, profiles and upgrade state.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/app_menu.h"
 
 #include <stdint.h>

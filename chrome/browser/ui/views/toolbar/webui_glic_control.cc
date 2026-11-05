@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Glic control implementation
+// summary: Implements the WebUI Glic toolbar button, handling clicks, pinning preference changes, nudge labels, panel state, and the unpin context menu.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_glic_control.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload button interactive UI tests
+// summary: Interactive browser tests for reload button behavior, including external protocol handling under WebUI and views toolbar feature configurations.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/reload_button.h"
 
 #include "build/build_config.h"

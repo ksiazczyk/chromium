@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page action controller implementation
+// summary: Implements the per-tab controller that shows or hides the translate page action icon based on translation state and logs omnibox icon changes.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_page_action_controller.h"
 
 #include "base/check_deref.h"

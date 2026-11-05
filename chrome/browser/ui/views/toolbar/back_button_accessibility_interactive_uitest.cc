@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back button accessibility interactive UI tests
+// summary: Interactive browser tests verifying back button accessibility behavior, including left and middle clicks, under Views and WebUI toolbar configurations.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

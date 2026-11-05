@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for WebUI help bubble focus
+// summary: Interactive UI test verifying that a WebUI help bubble takes focus from the toolbar and moves focus into the contents pane when shown.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"
 #include "chrome/browser/ui/views/toolbar/toolbar_view.h"

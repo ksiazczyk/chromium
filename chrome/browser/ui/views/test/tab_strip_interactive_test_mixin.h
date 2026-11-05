@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip interactive test mixin
+// summary: Template mixin providing interactive test steps for focusing, hovering, and finishing animations in the tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TEST_TAB_STRIP_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_TEST_TAB_STRIP_INTERACTIVE_TEST_MIXIN_H_
 

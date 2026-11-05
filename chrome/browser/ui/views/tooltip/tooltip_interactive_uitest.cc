@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive tooltip browser tests
+// summary: Interactive browser tests covering tooltip show and hide behavior on platforms that display tooltips with TooltipAura, using a widget monitor, event generator, and controller test helper.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "base/strings/utf_string_conversions.h"

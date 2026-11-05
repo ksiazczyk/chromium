@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI home control test base implementation
+// summary: Shared fixture implementation for WebUI home button tests, providing home URL lookup, undo bubble helpers, and simulated drag-and-drop sequences.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_home_control_test_base.h"
 
 #include <string_view>

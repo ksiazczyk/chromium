@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate bubble controller unit tests
+// summary: Unit tests for the translate bubble controller covering bubble creation and closing with fake bubble models.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_controller.h"
 
 #include <memory>

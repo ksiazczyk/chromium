@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI battery saver control header
+// summary: Declares WebUIBatterySaverControl, which shows the battery saver bubble from the WebUI toolbar and tracks pending bubble anchoring and button visibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_BATTERY_SAVER_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_BATTERY_SAVER_CONTROL_H_
 

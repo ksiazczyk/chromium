@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload control interface
+// summary: Defines the ReloadControl interface for reload/stop mode switching and DevTools menu status shared by reload button implementations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_RELOAD_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_RELOAD_CONTROL_H_
 

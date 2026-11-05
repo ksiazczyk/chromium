@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tabs toolbar button implementation
+// summary: Implements the pinnable split tabs toolbar button, handling pin-state visibility, menus, status indicator, and accessibility updates.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/split_tabs_button.h"
 
 #include <memory>

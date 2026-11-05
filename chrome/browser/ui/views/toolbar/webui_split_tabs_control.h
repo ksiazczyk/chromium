@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI split tabs control header
+// summary: Declares WebUISplitTabsControl, the C++-side implementation of the WebUI-based split tabs button in the browser toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_SPLIT_TABS_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_SPLIT_TABS_CONTROL_H_
 

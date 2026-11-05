@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs coordinator header
+// summary: Declares ChromeLabsCoordinator, which owns the bubble and view controller lifecycle, toggles visibility, and manages the toolbar dot indicator.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_CHROME_LABS_CHROME_LABS_COORDINATOR_H_
 

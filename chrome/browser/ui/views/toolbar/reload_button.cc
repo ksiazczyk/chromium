@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button implementation
+// summary: Implements the toolbar reload button that switches between reload and stop modes, with dropdown menus, icon animations, and WaaP UI metrics recording.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/reload_button.h"
 
 #include <stddef.h>

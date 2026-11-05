@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFeaturePromoController browser test base declaration
+// summary: Declares the shared test base class and commonly used test features for browser feature promo controller browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_BROWSER_FEATURE_PROMO_CONTROLLER_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_BROWSER_FEATURE_PROMO_CONTROLLER_BROWSERTEST_BASE_H_
 

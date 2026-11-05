@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promo bubble view implementation
+// summary: Implements the bubble promo that encourages using Chrome on a synced iOS device, including reminder confirmation content and promo metrics.
+// ---
+
 #include "chrome/browser/ui/views/user_education/ios_promo_bubble_view.h"
 
 #include "base/functional/bind.h"

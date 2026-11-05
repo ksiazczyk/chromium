@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned action toolbar button menu model
+// summary: Implements the context menu model for pinned action toolbar buttons, adding action-specific items plus pin, unpin, and customize toolbar entries.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_action_toolbar_button_menu_model.h"
 
 #include <optional>

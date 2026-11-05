@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarController unit tests
+// summary: Unit tests for ToolbarController covering overflow behavior, flex layout ordering, pinned action delegates, and WebUI element handling.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_controller.h"
 
 #include <gtest/gtest.h>

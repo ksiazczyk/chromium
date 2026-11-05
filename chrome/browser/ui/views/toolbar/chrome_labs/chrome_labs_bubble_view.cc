@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs bubble view implementation
+// summary: Implements the Chrome Labs bubble dialog, including the footer with the relaunch message and button and the container that holds the lab items.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/chrome_labs/chrome_labs_bubble_view.h"
 
 #include "base/callback_list.h"

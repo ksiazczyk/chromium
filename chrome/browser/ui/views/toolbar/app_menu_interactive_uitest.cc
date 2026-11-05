@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu interactive UI tests
+// summary: Interactive UI tests for app menu drag and drop of bookmarks, parameterized over the app menu glow-up feature.
+// ---
+
 #include <string>
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButtonViews class header
+// summary: Declares DownloadButtonViews, the Views implementation of the DownloadButton interface that wraps the downloads button in a pinned toolbar actions container.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_DOWNLOAD_BUTTON_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_DOWNLOAD_BUTTON_VIEWS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: User education Views build definition
+summary: Defines the user_education and impl source sets, listing public headers, sources and dependencies for the Views user education code.

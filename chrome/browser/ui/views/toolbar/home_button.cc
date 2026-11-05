@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeButton implementation with undo bubble
+// summary: Implements the toolbar home button, its drag-and-drop home page handling, and the HomePageUndoBubble shown after changing the home page.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/home_button.h"
 
 #include <memory>

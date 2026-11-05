@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedToolbarActions interface header
+// summary: Defines the virtual interface for the browser's pinned toolbar actions component so cross-platform code can query and control pinned, popped-out, and highlighted actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_TOOLBAR_ACTIONS_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_TOOLBAR_ACTIONS_H_
 

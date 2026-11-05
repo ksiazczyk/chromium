@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Toolbar DEPS include rules
+summary: Sets include rules allowing the toolbar directory to depend on components/browser_apis/ui_controllers/toolbar.

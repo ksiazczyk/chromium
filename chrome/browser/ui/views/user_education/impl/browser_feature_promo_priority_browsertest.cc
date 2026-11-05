@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser feature promo priority browser test
+// summary: Browser tests for feature promo priority, covering startup show-result callbacks and required product messaging notices.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

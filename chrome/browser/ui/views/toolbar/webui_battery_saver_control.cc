@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI battery saver control implementation
+// summary: Implements the WebUI battery saver toolbar control, showing and closing the battery saver bubble and pushing button visibility state to the WebUI renderer.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_battery_saver_control.h"
 
 #include <utility>

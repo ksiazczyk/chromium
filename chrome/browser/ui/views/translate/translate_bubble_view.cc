@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bubble view implementation
+// summary: Implements the Chrome translate bubble shown from the location bar, including language tabs, options menu, error states, and source and target language selection.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_view.h"
 
 #include <stddef.h>

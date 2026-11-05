@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar view implementation
+// summary: Implements the browser window toolbar view, laying out navigation, location bar, app menu, page action and Glic buttons and handling commands and metrics.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_view.h"
 
 #include <algorithm>

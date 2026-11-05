@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partial translate bubble view unit tests
+// summary: Unit tests for the partial translate bubble view using a fake bubble model and test anchor widgets.
+// ---
+
 #include "chrome/browser/ui/views/translate/partial_translate_bubble_view.h"
 
 #include "base/memory/raw_ptr.h"

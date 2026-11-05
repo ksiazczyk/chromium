@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButtonViews implementation with progress ring
+// summary: Implements the Views downloads toolbar button, including the animated DownloadProgressRing view, badge updates, and accessibility announcements.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/download_button_views.h"
 
 #include <algorithm>

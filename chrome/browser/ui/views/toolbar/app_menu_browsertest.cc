@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu browser tests
+// summary: Browser tests covering app menu behavior, including profile, safety hub, sign-in and menu interaction scenarios.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/app_menu.h"
 
 #include <algorithm>

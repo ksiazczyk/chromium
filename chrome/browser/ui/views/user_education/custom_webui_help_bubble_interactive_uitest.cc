@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom WebUI help bubble interactive UI tests
+// summary: Interactive tests exercising custom WebUI-based help bubbles end to end using a dedicated test WebUI controller and mojo bindings.
+// ---
+
 #include <memory>
 
 #include "base/callback_list.h"

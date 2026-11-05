@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI pinned toolbar actions header
+// summary: Declares WebUIPinnedToolbarActions, the C++ side of the WebUI pinned toolbar actions handling pinning, overflow, highlighting and download button state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PINNED_TOOLBAR_ACTIONS_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PINNED_TOOLBAR_ACTIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for user education service and IPH configuration
+// summary: Browser tests validating in-product help feature configurations, checking registered promos for correct session rates, impacts, and documented exceptions.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_user_education_service.h"
 
 #include <cstdint>

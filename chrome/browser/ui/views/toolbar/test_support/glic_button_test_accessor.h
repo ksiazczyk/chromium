@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic button test accessor header
+// summary: Declares GlicButtonTestAccessor, a test helper for visibility waits, accessible names, collapse state, and clicks on the Glic toolbar button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TEST_SUPPORT_GLIC_BUTTON_TEST_ACCESSOR_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TEST_SUPPORT_GLIC_BUTTON_TEST_ACCESSOR_H_
 

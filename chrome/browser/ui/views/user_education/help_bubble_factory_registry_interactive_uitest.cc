@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble factory registry interactive UI tests
+// summary: Interactive tests that anchor help bubbles to toolbar and menu items through the help bubble factory registry.
+// ---
+
 #include "components/user_education/common/help_bubble/help_bubble_factory_registry.h"
 
 #include "base/task/single_thread_task_runner.h"

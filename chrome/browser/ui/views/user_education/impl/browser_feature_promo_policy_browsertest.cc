@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature promo policy browser tests
+// summary: Browser tests verifying feature promo policies, including legal notice promos, priority handling, and related gating behavior.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

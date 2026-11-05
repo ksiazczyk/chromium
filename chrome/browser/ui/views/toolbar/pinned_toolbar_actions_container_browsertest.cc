@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinnedToolbarActionsContainer browser tests
+// summary: In-process browser tests exercising pinned toolbar actions container behavior such as pinning, layout, and interactions with related browser UI features.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_toolbar_actions_container.h"
 
 #include <utility>

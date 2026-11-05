@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFeaturePromoController browser test base implementation
+// summary: Implements shared test features, fixtures, and helper steps used by the browser feature promo controller browser tests.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_feature_promo_controller_browsertest_base.h"
 
 #include <memory>

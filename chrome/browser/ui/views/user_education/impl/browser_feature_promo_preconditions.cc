@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser feature promo preconditions implementation
+// summary: Implements browser preconditions that gate feature promos, such as active window, fullscreen, omnibox, toolbar, and enterprise policy checks.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_feature_promo_preconditions.h"
 
 #include "base/time/default_clock.h"

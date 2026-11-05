@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarChipButton class header
+// summary: Declares ToolbarChipButton, a ToolbarButton subclass that supports a flat edge for chip-shaped toolbar buttons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_CHIP_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_CHIP_BUTTON_H_
 

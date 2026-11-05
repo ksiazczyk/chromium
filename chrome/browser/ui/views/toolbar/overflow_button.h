@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow button class declaration
+// summary: Declares the OverflowButton class, a ToolbarButton chevron that displays a dropdown of overflowed toolbar elements when pressed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_OVERFLOW_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_OVERFLOW_BUTTON_H_
 

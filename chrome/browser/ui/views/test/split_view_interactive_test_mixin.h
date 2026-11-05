@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view interactive test mixin
+// summary: Extends the split view browser test mixin with interactive test steps for entering and exiting split view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TEST_SPLIT_VIEW_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_TEST_SPLIT_VIEW_INTERACTIVE_TEST_MIXIN_H_
 

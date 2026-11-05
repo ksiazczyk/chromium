@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu header
+// summary: Declares the AppMenu class that adapts AppMenuModel to Views menu classes and manages menu display and interaction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_APP_MENU_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_APP_MENU_H_
 

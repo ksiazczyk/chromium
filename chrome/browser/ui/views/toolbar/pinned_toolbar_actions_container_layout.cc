@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedToolbarActionsContainerLayout implementation
+// summary: Implements layout calculation for the pinned actions container, allocating width by flex priority and deciding when the divider and buttons are visible.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_toolbar_actions_container_layout.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-browser feature promo controller implementation
+// summary: Implements a feature promo controller for user education surfaces that operate outside standard browser windows.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/non_browser_feature_promo_controller.h"
 
 #include "base/notreached.h"

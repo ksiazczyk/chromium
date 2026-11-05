@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser help bubble browser tests
+// summary: Verifies screen reader hints and accelerator text for focus help bubbles across toast, abridged, and tutorial promo types.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_help_bubble.h"
 
 #include <string>

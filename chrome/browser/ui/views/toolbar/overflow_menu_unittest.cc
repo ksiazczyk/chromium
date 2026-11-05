@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overflow menu unit tests
+// summary: Unit tests for the toolbar overflow menu covering responsive element info, pinned action handling, and menu construction behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/overflow_menu.h"
 
 #include <map>

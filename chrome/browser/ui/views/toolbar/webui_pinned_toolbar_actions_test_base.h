@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI pinned toolbar actions test base header
+// summary: Declares the base test fixture for pinned toolbar actions tests in the WebUI toolbar, with helpers to pin, unpin and click toolbar actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PINNED_TOOLBAR_ACTIONS_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PINNED_TOOLBAR_ACTIONS_TEST_BASE_H_
 

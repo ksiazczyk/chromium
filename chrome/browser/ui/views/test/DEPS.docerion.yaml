@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the browser UI views test directory
+summary: Grants this test directory an include rule allowing access to mojo/core/embedder.

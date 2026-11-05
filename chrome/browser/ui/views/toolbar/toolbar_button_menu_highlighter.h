@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarButtonMenuHighlighter class header
+// summary: Declares a helper that closes anchored IPH promos and highlights menu items when a toolbar button menu is about to be shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_BUTTON_MENU_HIGHLIGHTER_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_BUTTON_MENU_HIGHLIGHTER_H_
 

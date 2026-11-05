@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned action toolbar button class declaration
+// summary: Declares the PinnedActionToolbarButton class, a ToolbarButton for pinned actions with highlight, pin, icon visibility, and status indicator support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TOOLBAR_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TOOLBAR_BUTTON_H_
 

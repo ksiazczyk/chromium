@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser feature promo preconditions interactive UI tests
+// summary: Interactive UI tests verifying that browser feature promo preconditions such as window activation, fullscreen, and omnibox state work correctly.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_feature_promo_preconditions.h"
 
 #include <ctime>

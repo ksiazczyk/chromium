@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Translate views build targets
+summary: Defines source sets and dependencies for the Chrome translate bubble views, controller, test support, and test targets.

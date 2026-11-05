@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI performance intervention control header
+// summary: Declares WebUIPerformanceInterventionControl, the C++-side implementation of the WebUI performance intervention toolbar button and its bubble handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PERFORMANCE_INTERVENTION_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_PERFORMANCE_INTERVENTION_CONTROL_H_
 

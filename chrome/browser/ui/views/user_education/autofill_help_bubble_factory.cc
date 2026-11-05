@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill help bubble factory implementation
+// summary: Implements the factory that builds help bubbles anchored to autofill popups by resolving the browser widget from tracked elements.
+// ---
+
 #include "chrome/browser/ui/views/user_education/autofill_help_bubble_factory.h"
 
 #include "chrome/browser/ui/views/autofill/popup/popup_base_view.h"

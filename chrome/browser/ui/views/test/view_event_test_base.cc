@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View event test base implementation
+// summary: Implements the ViewEventTestBase harness that hosts a contents view in a widget and drives event-based views tests.
+// ---
+
 #include "chrome/browser/ui/views/test/view_event_test_base.h"
 
 #include "base/functional/bind.h"

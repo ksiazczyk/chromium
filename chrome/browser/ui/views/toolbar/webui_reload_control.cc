@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI reload control implementation
+// summary: Implements the C++-side logic of the WebUI toolbar reload button, including the reload context menu and state updates sent to the WebUI.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_reload_control.h"
 
 #include "base/time/time.h"

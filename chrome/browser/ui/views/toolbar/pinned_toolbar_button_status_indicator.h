@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedToolbarButtonStatusIndicator class header
+// summary: Declares the status indicator view attached to pinned toolbar buttons, with methods to set colors and show or hide the indicator.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_TOOLBAR_BUTTON_STATUS_INDICATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_TOOLBAR_BUTTON_STATUS_INDICATOR_H_
 
