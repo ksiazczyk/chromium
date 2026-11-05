@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch to fill error description sheet item layout
+summary: Android layout for the centered, screen-reader-focusable error description text shown in the touch-to-fill error sheet.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/touch_to_fill_error_description"
     android:layout_width="match_parent"

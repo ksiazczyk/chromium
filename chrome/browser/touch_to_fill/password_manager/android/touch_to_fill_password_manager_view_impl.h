@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill Password Manager View Implementation Header
+// summary: Declares the JNI-backed implementation of the Touch To Fill password manager view interface for Android.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_ANDROID_TOUCH_TO_FILL_PASSWORD_MANAGER_VIEW_IMPL_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_ANDROID_TOUCH_TO_FILL_PASSWORD_MANAGER_VIEW_IMPL_H_
 

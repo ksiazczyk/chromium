@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_ne.xtb.
+type: data
+title: Android Touch to Fill strings (Nepali)
+summary: Nepali translation bundle with UI strings for the Android Touch to Fill password manager, covering sign-in prompts, passkeys, saved passwords and recovery password messages.

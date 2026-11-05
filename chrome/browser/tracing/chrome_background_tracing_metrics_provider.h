@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome background tracing metrics provider header
+// summary: Declares the Chrome background tracing metrics provider that attaches system profile data to uploaded background traces.
+// ---
+
 #ifndef CHROME_BROWSER_TRACING_CHROME_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_TRACING_CHROME_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 

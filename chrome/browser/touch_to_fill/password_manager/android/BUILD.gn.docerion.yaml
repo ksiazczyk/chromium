@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch To Fill Password Manager Android Build File
+summary: Defines native, Java, and test build targets for the Android Touch To Fill password manager feature, including JNI header generation.

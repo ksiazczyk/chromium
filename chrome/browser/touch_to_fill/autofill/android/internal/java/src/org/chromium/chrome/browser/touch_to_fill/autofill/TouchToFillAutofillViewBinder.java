@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillAutofill view binder
+// summary: Maps changes to TouchToFillAutofillProperties in the property model to the corresponding TouchToFillAutofillView methods.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import static org.chromium.chrome.browser.touch_to_fill.autofill.TouchToFillAutofillProperties.DISMISS_HANDLER;

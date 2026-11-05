@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill password generation coordinator
+// summary: Coordinates the password generation bottom sheet, showing it, handling dismissal, and recording interaction result metrics.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import static org.chromium.chrome.browser.touch_to_fill.password_generation.TouchToFillPasswordGenerationProperties.ACCOUNT_EMAIL;

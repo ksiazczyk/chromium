@@ -3,6 +3,12 @@
       Use of this source code is governed by a BSD-style license that can be
       found in the LICENSE file. -->
 
+<!--docerion
+type: source
+title: No passkeys bottom sheet layout
+summary: Android XML layout for the bottom sheet shown when no passkeys are available, with a header image, title, subtitle, and use-another-device and OK buttons.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the tracing directory
+summary: Allows this directory to include the elevated tracing service IDL header and the tracing public mojom headers.

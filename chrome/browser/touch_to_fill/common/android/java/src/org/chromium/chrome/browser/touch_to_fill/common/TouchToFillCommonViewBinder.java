@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillCommonViewBinder
+// summary: Maps changes in TouchToFillCommonProperties property models to updates of the common TouchToFill header and button views.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.common;
 
 import static android.content.res.Resources.ID_NULL;

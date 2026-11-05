@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_zu.xtb.
+type: data
+title: Zulu translations for Android Touch To Fill password strings
+summary: Zulu translation bundle providing localized strings for the Android Touch To Fill password manager UI, covering sign-in prompts, saved password choices, and password management messages.

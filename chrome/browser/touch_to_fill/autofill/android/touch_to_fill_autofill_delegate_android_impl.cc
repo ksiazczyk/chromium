@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Touch-to-Fill autofill delegate implementation
+// summary: Implements the Android Touch-to-Fill autofill delegate that decides which notice to show and manages bottom sheet state.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_autofill_delegate_android_impl.h"
 
 #include <algorithm>

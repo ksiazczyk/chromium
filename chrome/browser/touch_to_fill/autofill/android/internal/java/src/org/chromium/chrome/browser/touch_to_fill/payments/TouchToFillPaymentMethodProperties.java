@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodProperties
+// summary: Defines the property keys, screen IDs and item types that describe the visible state of the touch-to-fill payment method component.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import android.graphics.drawable.Drawable;

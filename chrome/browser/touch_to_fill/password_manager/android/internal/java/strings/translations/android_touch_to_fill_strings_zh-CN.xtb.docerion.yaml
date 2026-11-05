@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_zh-CN.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Simplified Chinese)
+summary: Simplified Chinese translations of the Android Touch to Fill password manager UI strings, covering passkeys, saved password prompts and recovery messages.

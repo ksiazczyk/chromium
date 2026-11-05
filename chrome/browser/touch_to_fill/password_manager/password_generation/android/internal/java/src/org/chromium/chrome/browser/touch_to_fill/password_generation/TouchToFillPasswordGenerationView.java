@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill password generation bottom sheet view
+// summary: Android view implementing BottomSheetContent that renders the password generation sheet with title, subtitle and password display.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import android.content.Context;

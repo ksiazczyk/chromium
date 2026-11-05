@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetFocusHelper
+// summary: Helper that restores focus to the previously focused web content element after the bottom sheet closes, registering itself as a one-time bottom sheet observer.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.common;
 
 import androidx.annotation.VisibleForTesting;

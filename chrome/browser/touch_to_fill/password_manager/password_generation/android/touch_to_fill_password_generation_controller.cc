@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill password generation controller implementation
+// summary: Implements the controller that generates a password, shows the bottom sheet, suppresses the IME and logs dialog choices.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/password_generation/android/touch_to_fill_password_generation_controller.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_hi.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Hindi)
+summary: Hindi translations of the Android touch-to-fill password manager UI strings, covering passkey and password sign-in prompts, in Chrome XTB format.

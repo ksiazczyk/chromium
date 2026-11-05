@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerView
+// summary: Renders the bottom sheet displaying touch-to-fill credentials, handling item dividers and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No passkeys bottom sheet mediator
+// summary: Mediator that shows and hides the bottom sheet content through the BottomSheetController and notifies the native delegate exactly once on dismissal.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.no_passkeys;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

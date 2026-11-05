@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Touch To Fill dimension resources
+summary: Defines Android dimension values such as favicon, avatar and list item sizes used by the Touch To Fill password manager UI.
+-->
+
 <resources>
     <dimen name="touch_to_fill_favicon_size">24dp</dimen>
     <dimen name="touch_to_fill_favicon_size_modern">32dp</dimen>

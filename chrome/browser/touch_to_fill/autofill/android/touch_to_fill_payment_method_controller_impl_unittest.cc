@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch To Fill payment method controller implementation unit tests
+// summary: Unit tests for the Android payment method Touch To Fill controller, using mock views and delegates to verify showing payment methods, IBANs, loyalty cards, and BNPL flows.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_payment_method_controller_impl.h"
 
 #include <memory>

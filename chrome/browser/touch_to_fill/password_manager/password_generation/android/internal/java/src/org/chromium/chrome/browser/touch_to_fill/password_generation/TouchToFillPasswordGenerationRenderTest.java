@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch to Fill password generation render tests
+// summary: Parameterized render tests comparing screenshots of the password generation sheet against goldens in RTL and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

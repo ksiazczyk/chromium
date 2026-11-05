@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch to Fill password generation bridge tests
+// summary: Robolectric tests verifying that the bridge forwards dismissal and password acceptance or rejection events to the native side.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import static org.mockito.Mockito.verify;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Touch-to-Fill payment method controller
+// summary: Declares a gmock mock of the Touch-to-Fill payment method controller covering payment method, IBAN, loyalty card and BNPL flows for tests.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_MOCK_TOUCH_TO_FILL_PAYMENT_METHOD_CONTROLLER_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_MOCK_TOUCH_TO_FILL_PAYMENT_METHOD_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillAutofill coordinator
+// summary: Implements the TouchToFillAutofillComponent by showing an Autofill notice bottom sheet and wiring the mediator, view, and property change processor together.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import static org.chromium.chrome.browser.touch_to_fill.autofill.TouchToFillAutofillProperties.ItemType.FILL_BUTTON;

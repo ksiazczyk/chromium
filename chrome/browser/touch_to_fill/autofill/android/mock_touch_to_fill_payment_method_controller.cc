@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Touch-to-Fill payment method controller implementation
+// summary: Implements the constructor and destructor of the gmock mock for the Touch-to-Fill payment method controller used in tests.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/mock_touch_to_fill_payment_method_controller.h"
 
 namespace autofill {

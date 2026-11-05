@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill payment method controller implementation
+// summary: Implements the Android payment method Touch To Fill controller, showing the bottom sheet via JNI and handling suggestions, BNPL issuers, and keyboard suppression.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_payment_method_controller_impl.h"
 
 #include <memory>

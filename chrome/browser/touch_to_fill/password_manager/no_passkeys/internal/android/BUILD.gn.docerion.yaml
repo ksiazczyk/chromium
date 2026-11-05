@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for no-passkeys bottom sheet Android targets
+summary: Defines GN build targets for the Android no-passkeys bottom sheet, including JNI generation, library sources, resources, and Robolectric and instrumentation test targets.

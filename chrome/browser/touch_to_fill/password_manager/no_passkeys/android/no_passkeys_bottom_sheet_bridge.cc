@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-passkeys bottom sheet bridge implementation
+// summary: Implements the native side of the JNI bridge that shows and dismisses the Android no-passkeys bottom sheet and runs dismiss and use-another-device callbacks.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/no_passkeys/android/no_passkeys_bottom_sheet_bridge.h"
 
 #include <string>

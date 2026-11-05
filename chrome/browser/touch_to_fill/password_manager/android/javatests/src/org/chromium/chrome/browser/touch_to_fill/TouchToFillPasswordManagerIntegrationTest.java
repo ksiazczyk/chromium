@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch To Fill password manager integration tests
+// summary: Integration tests verifying that calls to the Touch To Fill password manager API end up rendering the bottom sheet view in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

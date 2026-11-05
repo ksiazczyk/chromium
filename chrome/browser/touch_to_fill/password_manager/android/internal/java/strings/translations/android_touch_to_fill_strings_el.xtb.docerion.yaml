@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_el.xtb.
+type: data
+title: Touch to Fill password strings (Greek)
+summary: Greek translation bundle with UI strings for the Android Touch to Fill password sheet, covering passkey and saved password prompts.

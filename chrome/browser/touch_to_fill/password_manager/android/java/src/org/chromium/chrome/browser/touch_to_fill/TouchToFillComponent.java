@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillComponent interface
+// summary: Defines the Android Touch to Fill component interface that shows saved passwords and passkeys in a bottom sheet and reports user selections, dismissal, and management actions to its delegate.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.content.Context;

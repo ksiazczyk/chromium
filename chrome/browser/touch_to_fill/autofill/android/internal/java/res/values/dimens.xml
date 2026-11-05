@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Touch to Fill autofill dimension resources
+summary: Defines Android dimension resources (paddings, margins, sizes) for the Touch to Fill autofill, BNPL, tabbed home, loyalty card, and ambient notice UIs in Chrome on Android.
+-->
+
 <resources>
     <dimen name="ttf_for_payments_menu_item_icon_padding">12dp</dimen>
     <dimen name="ttf_for_payments_terms_label_margin_horizontal">8dp</dimen>

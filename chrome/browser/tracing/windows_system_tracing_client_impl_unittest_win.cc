@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows system tracing client unit tests
+// summary: Unit tests for the Windows tracing client covering client creation, successful service invitation, AcceptInvitation failure, launch failure, and callback handling.
+// ---
+
 #include "base/process/process.h"
 #include "base/test/gmock_expected_support.h"
 #include "base/test/metrics/histogram_tester.h"

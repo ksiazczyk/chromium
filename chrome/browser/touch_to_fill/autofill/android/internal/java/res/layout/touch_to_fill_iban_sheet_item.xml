@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch to fill IBAN sheet item layout
+summary: Android layout for an IBAN entry in the touch-to-fill sheet, showing an IBAN icon, the IBAN number and an optional nickname.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:descendantFocusability="blocksDescendants"

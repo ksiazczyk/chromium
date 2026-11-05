@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Touch to Fill terms label sheet item layout
+summary: Single TextView layout item that displays centered terms text inside the Touch to Fill sheet.
+-->
+
  <TextView xmlns:android="http://schemas.android.com/apk/res/android"
       android:id="@+id/touch_to_fill_terms_label"
       android:layout_width="match_parent"

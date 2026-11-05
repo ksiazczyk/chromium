@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch To Fill Password Manager Android Internal Build File
+summary: GN build file defining the JNI generation, Android Java library, resources, and localized strings for the internal Touch To Fill password manager component.

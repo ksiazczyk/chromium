@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetFocusHelperRobolectricTest
+// summary: Robolectric tests verifying that BottomSheetFocusHelper registers as a one-time observer and restores web content focus when the sheet closes.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.common;
 
 import static org.mockito.Mockito.times;

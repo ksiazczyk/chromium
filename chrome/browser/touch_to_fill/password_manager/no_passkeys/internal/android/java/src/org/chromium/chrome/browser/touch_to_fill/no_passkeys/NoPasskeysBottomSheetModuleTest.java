@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No passkeys bottom sheet module tests
+// summary: Robolectric unit tests for the bridge verifying show and dismiss behavior, single dismissal, and callbacks triggered by the sheet buttons.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.no_passkeys;
 
 import static org.junit.Assert.assertEquals;

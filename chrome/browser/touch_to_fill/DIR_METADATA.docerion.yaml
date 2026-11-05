@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Touch to Fill directory metadata
+summary: Maps the touch_to_fill directory to the UI>Browser>Passwords Monorail component and a Buganizer component for issue tracking.

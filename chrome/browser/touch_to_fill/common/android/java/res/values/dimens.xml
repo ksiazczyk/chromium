@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Touch To Fill dimension resources
+summary: Defines dp dimension values for the Android Touch To Fill bottom sheet UI, including margins, paddings, button height, and header icon sizes.
+-->
+
 <resources>
     <dimen name="ttf_drag_handlebar_margin">6dp</dimen>
     <dimen name="ttf_buttons_vertical_margin">4dp</dimen>

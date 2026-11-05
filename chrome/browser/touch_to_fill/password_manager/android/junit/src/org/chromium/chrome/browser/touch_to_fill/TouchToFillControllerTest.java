@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchToFillControllerTest
+// summary: Robolectric unit tests for the Touch to Fill password sheet controller, covering sheet properties, credential and WebAuthn items, and user interactions.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

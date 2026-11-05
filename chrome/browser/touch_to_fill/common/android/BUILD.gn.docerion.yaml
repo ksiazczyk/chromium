@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch to Fill common Android build configuration
+summary: Defines GN build targets for the Touch to Fill common Android component, including Java resources, the shared Java library sources, and a Robolectric unit test target.

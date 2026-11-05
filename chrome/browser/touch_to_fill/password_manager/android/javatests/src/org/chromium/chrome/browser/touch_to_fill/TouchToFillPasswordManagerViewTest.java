@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch To Fill password manager view tests
+// summary: Instrumentation tests exercising the Touch To Fill password manager bottom sheet view, its properties, and user interactions with credentials.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

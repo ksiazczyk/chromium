@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch to Fill password generation controller unit tests
+// summary: Unit tests for the Android Touch to Fill password generation controller, covering keyboard suppression while the bottom sheet is shown and related metrics.
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

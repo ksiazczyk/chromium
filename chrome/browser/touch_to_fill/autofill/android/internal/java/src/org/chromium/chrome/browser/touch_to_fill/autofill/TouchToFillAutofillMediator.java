@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillAutofill mediator
+// summary: Holds the business logic of the TouchToFillAutofill MVC component, defining notice content and binding user interactions to the delegate while controlling the model.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

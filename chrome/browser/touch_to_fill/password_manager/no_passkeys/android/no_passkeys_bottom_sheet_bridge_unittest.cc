@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-passkeys bottom sheet bridge unit tests
+// summary: Unit tests covering show, dismiss, and use-another-device callback behavior of the no-passkeys bottom sheet bridge with a mocked JNI delegate.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/no_passkeys/android/no_passkeys_bottom_sheet_bridge.h"
 
 #include <jni.h>

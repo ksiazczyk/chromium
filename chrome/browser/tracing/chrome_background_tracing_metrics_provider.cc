@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome background tracing metrics provider implementation
+// summary: Implements the background tracing metrics provider that records system profile metrics such as accessibility, drive, network, antivirus and ChromeOS data into the UMA proto.
+// ---
+
 #include "chrome/browser/tracing/chrome_background_tracing_metrics_provider.h"
 
 #include <memory>

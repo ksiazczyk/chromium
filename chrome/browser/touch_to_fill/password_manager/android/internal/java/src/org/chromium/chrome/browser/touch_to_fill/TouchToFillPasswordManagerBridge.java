@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerBridge
+// summary: JNI bridge that creates and initializes the touch-to-fill component and forwards native calls, including credential arrays, to it.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.content.Context;

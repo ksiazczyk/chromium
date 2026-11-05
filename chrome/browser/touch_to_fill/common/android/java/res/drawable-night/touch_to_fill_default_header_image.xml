@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--VectorRaster is ignored because: The image should be shown rarely enough to prioritize binary size over inflation time.-->
+
+<!--docerion
+type: asset
+title: Touch to Fill night-mode default header image
+summary: Vector drawable providing the dark-theme header illustration for the Touch to Fill bottom sheet on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:width="320dp" android:height="114dp" android:viewportWidth="320" android:viewportHeight="114" tools:ignore="VectorRaster">
     <path android:pathData="M238.097 60.783a6.041 6.041 0 1 0 0 8.544 6.041 6.041 0 0 0 0-8.544z" android:fillColor="#123868"/>
     <path android:pathData="M242.89 84.786l-5.223-4.66 6.204-6.952-8.101-4.275 3.267-6.191 12.058 6.362a3.5 3.5 0 0 1 0.978 5.426z" android:fillColor="#154279"/>

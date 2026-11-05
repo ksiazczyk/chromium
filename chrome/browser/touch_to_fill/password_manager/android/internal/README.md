@@ -1,3 +1,9 @@
+---
+type: readme
+title: Touch To Fill Android Feature
+summary: Explains the MVC architecture of the internal Touch To Fill password manager component, covering the model, controller, and view parts and how they interact.
+---
+
 # Touch To Fill Android Feature
 
 This folder contains the internal parts of the Touch To Fill component. Files,

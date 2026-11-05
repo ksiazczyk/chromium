@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill controller base implementation
+// summary: Implements shared logic for Touch To Fill controllers, including initializing the hide helper and checking whether the associated WebContents is active.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_controller_base.h"
 
 #include <optional>

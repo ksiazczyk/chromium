@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tracing delegate implementation
+// summary: Implements the Chrome tracing delegate that decides when background tracing is allowed, emits incognito named triggers and controls Windows system tracing.
+// ---
+
 #include "chrome/browser/tracing/chrome_tracing_delegate.h"
 
 #include <optional>

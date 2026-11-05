@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillableItemCollectionInfo
+// summary: Holds an item's 1-based position and the total list size to build accessibility content descriptions for fillable items such as credentials.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.common;
 
 import org.chromium.build.annotations.NullMarked;

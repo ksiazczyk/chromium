@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch to Fill autofill Android internal build targets
+summary: GN build configuration defining the Android Java library and resources for the Touch to Fill autofill and payment method UI in Chrome on Android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill password manager controller implementation
+// summary: Implements the controller that sorts passkeys and passwords and drives the Touch To Fill bottom sheet, handling user selections.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/touch_to_fill_password_manager_controller.h"
 
 #include <algorithm>

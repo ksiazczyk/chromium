@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodMediator
+// summary: Mediator that translates controller events into property model updates for the payments sheet, including BNPL, loyalty card and error screens.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import static org.chromium.build.NullUtil.assertNonNull;
