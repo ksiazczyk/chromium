@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request window interface
+// summary: Declares functions to open a dialog window rendering a step of the WebAuthn UI and to test whether a URL is served by that window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_AUTHENTICATOR_REQUEST_WINDOW_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_AUTHENTICATOR_REQUEST_WINDOW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for web app UI tests
+summary: Sets per-file owners, delegating system web app tests to Ash WebUI owners and isolated web app tests to the isolated web apps owners.

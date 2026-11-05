@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey not accepted bubble controller
+// summary: Declares the controller managing the bubble shown when a passkey is not accepted, including title lookup and Google Password Manager link handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_NOT_ACCEPTED_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_NOT_ACCEPTED_BUBBLE_CONTROLLER_H_
 

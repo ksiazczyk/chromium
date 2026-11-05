@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass consent bubble controller implementation
+// summary: Controls the consent bubble, handling show requests, learn more navigation to settings, and opt-in metrics logging.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_consent_bubble_controller.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

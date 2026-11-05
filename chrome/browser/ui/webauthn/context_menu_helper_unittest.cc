@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu helper unit tests
+// summary: Unit tests verifying that the passkey-from-another-device context menu entry is enabled only for webauthn autocomplete fields with available passkeys.
+// ---
+
 #include "chrome/browser/ui/webauthn/context_menu_helper.h"
 
 #include <cstdint>

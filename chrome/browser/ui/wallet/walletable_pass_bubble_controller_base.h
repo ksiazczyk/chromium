@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass bubble controller base class
+// summary: Declares the base controller class that manages walletable pass bubble display, close reasons, and result callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_BUBBLE_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_BUBBLE_CONTROLLER_BASE_H_
 

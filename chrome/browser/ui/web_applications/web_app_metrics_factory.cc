@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app metrics factory implementation
+// summary: Implements the browser-context keyed service factory that builds and provides the per-profile WebAppMetrics instance with its dependencies.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_metrics_factory.h"
 
 #include "chrome/browser/engagement/site_engagement_service_factory.h"

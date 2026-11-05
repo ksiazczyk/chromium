@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for web content hairline Android targets
+summary: Defines GN build targets for the web content hairline UI, including Android resources, the Java library sources, and Robolectric JUnit tests with their dependencies.

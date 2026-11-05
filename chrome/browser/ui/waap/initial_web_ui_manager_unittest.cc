@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InitialWebUIManager unit tests
+// summary: Unit tests verifying RequestDeferShow behavior across WebUIReloadButton feature and deferral parameter configurations.
+// ---
+
 #include "chrome/browser/ui/waap/initial_web_ui_manager.h"
 
 #include "base/functional/callback_helpers.h"

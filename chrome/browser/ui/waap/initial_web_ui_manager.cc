@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI manager implementation
+// summary: Implements InitialWebUIManager, which pre-warms the toolbar WebContents and defers showing the browser window until the initial WebUI loads.
+// ---
+
 #include "chrome/browser/ui/waap/initial_web_ui_manager.h"
 
 #include "chrome/browser/profiles/profile.h"

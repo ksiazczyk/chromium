@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing process header
+// summary: Declares NavigationCapturingProcess and NavigationCapturingOverride, which define how navigations are captured into web app launches and how NavigateParams are overridden.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_CAPTURING_PROCESS_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_CAPTURING_PROCESS_H_
 

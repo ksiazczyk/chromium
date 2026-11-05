@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request window implementation
+// summary: Implements the dialog window that renders WebAuthn UI steps, including GAIA reauthentication with RAPT capture and Google Password Manager passkey PIN reset flows.
+// ---
+
 #include "chrome/browser/ui/webauthn/authenticator_request_window.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA install page action controller
+// summary: Implements the PWA install page action controller that shows the install page action and in-product help based on app banner state and site engagement.
+// ---
+
 #include "chrome/browser/ui/web_applications/pwa_install_page_action.h"
 
 #include <string>

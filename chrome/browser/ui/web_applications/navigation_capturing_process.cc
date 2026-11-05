@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing process implementation
+// summary: Implements the core logic that captures browser navigations into installed web app launches, including disposition handling, metrics, and launch queue population.
+// ---
+
 #include "chrome/browser/ui/web_applications/navigation_capturing_process.h"
 
 #include <utility>

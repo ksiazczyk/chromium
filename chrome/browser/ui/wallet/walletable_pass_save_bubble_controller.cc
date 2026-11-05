@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass save bubble controller implementation
+// summary: Implements the save bubble controller, including showing the bubble, retrieving the primary account email, and handling the go-to-wallet action.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_save_bubble_controller.h"
 
 #include "base/check.h"

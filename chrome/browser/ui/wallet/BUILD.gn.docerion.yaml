@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the walletable pass bubble UI
+summary: Defines the wallet source set, browser test and unit test targets, and their dependencies for the walletable pass bubble UI.

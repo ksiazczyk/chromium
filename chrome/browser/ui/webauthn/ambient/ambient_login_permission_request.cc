@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient login permission request implementation
+// summary: Implements the permission request that presents passkey, password, and federated credential options and reports the user's decision and selection.
+// ---
+
 #include "chrome/browser/ui/webauthn/ambient/ambient_login_permission_request.h"
 
 #include <memory>

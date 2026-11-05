@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app link capturing browser tests
+// summary: Browser tests verifying that links are captured into installed web apps, including tabbed display mode, launch handler client modes, and prerendering cases.
+// ---
+
 #include <tuple>
 
 #include "base/location.h"

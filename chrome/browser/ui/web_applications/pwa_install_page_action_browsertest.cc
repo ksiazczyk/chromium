@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA install page action browser tests
+// summary: Browser tests covering the PWA install page action's visibility, install flow, and in-product help promo behavior.
+// ---
+
 #include "chrome/browser/ui/web_applications/pwa_install_page_action.h"
 
 #include <stddef.h>

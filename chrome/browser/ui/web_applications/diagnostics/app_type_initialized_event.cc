@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App type initialized event implementation
+// summary: Implements a helper that posts a callback once a given app type is initialized in the profile's app service registry.
+// ---
+
 #include "chrome/browser/ui/web_applications/diagnostics/app_type_initialized_event.h"
 
 #include "base/task/sequenced_task_runner.h"

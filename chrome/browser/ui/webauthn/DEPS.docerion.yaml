@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebAuthn UI directory
+summary: Grants the webauthn UI directory permission to include headers from device/fido.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass consent bubble controller header
+// summary: Declares the controller that shows the consent bubble asking the user to save a walletable pass to their Google Wallet.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_CONSENT_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_CONSENT_BUBBLE_CONTROLLER_H_
 

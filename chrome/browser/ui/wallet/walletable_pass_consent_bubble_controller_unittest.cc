@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass consent bubble controller unit tests
+// summary: Unit tests for the consent bubble controller, verifying metrics such as the learn-more-clicked funnel event for boarding passes.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_consent_bubble_controller.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing redirection throttle header
+// summary: Declares NavigationCapturingRedirectionThrottle, which corrects PWA navigation capturing after redirection chains so the final URL drives the outcome.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_CAPTURING_REDIRECTION_THROTTLE_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_CAPTURING_REDIRECTION_THROTTLE_H_
 

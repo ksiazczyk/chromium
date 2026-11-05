@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection view interface
+// summary: Declares the AccountSelectionView interface and delegate callbacks for showing federated sign-in account dialogs, mainly for the Android frontend.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBID_ACCOUNT_SELECTION_VIEW_H_
 #define CHROME_BROWSER_UI_WEBID_ACCOUNT_SELECTION_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch navigation user data
+// summary: Implements per-navigation user data that stores and dispatches web app launch params, updating launch metrics and the tab's launch queue.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_launch_navigation_handle_user_data.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey upgrade request controller implementation
+// summary: Implements silent passkey creation in Google Password Manager to upgrade an existing password, using enclave transactions, password stores, and UMA metrics.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_upgrade_request_controller.h"
 
 #include <memory>

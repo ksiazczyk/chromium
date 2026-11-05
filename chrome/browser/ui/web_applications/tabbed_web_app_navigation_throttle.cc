@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed web app navigation throttle
+// summary: Implements a navigation throttle that routes link clicks in tabbed web apps with a pinned home tab to new app tabs or the home tab.
+// ---
+
 #include "chrome/browser/ui/web_applications/tabbed_web_app_navigation_throttle.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP UI metrics service implementation
+// summary: Implements the profile-scoped service that records InitialWebUI startup, first paint, and reload button metrics as UMA histograms and perfetto trace events.
+// ---
+
 #include "chrome/browser/ui/waap/waap_ui_metrics_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window controls overlay browser tests
+// summary: Browser tests checking window controls overlay display mode overrides and Blink use counter metrics when installing web apps with the feature.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/web_applications/test/web_app_browsertest_util.h"

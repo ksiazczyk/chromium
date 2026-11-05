@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app share target utilities
+// summary: Implements extraction of shared title, text, URL, and file fields from share intents and builds navigation parameters for web app share targets.
+// ---
+
 #include "chrome/browser/ui/web_applications/share_target_utils.h"
 
 #include <algorithm>

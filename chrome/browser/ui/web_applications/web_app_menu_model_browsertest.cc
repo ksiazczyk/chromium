@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app menu model browser tests
+// summary: Browser tests verifying that the web app menu model shows icons on its menu items and that commands such as uninstall and extensions have the expected enabled state.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_menu_model.h"
 
 #include <algorithm>

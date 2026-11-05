@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app interactive UI tests
+// summary: Interactive browser tests checking that PWAs opening in tabs open on the correct display in multi-screen setups, with platform-specific enablement.
+// ---
+
 #include <string>
 
 #include "base/test/run_until.h"

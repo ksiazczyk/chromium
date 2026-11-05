@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppInfoImageSource unit test
+// summary: Unit test verifying that non-integer DPI scale factors fall back to resizing the closest available icon bitmap instead of returning an empty representation.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_info_image_source.h"
 
 #include <utility>

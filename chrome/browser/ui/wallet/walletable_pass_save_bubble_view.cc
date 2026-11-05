@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass save bubble view implementation
+// summary: Implements the save bubble UI that renders pass attributes for loyalty cards, event passes, transit tickets, and boarding passes.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_save_bubble_view.h"
 
 #include <variant>

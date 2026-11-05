@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app browser tests
+// summary: Large browser test suite covering web app installation, launching, theming, window behavior and OS integration.
+// ---
+
 #include "chrome/browser/web_applications/web_app.h"
 
 #include <stddef.h>

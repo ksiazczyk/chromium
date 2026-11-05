@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to WebID content owners
+summary: Delegates code ownership and review responsibility to the OWNERS file of content/browser/webid.

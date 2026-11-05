@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WaaP build targets (BUILD.gn)
+summary: GN build file defining the waap, manager, window_metrics_manager, waap_utils and browser_tests targets for the WaaP browser UI code.

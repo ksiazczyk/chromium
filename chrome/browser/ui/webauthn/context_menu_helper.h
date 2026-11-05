@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn context menu helper interface
+// summary: Declares helpers that decide when the passkey-from-another-device context menu entry is shown and handle its selection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_CONTEXT_MENU_HELPER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_CONTEXT_MENU_HELPER_H_
 

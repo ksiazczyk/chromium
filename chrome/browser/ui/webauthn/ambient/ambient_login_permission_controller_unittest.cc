@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient login permission controller unit tests
+// summary: Unit tests covering the controller's request lifecycle, cross-origin subframe handling, dismissal, and reset behavior via a mock prompt factory.
+// ---
+
 #include "chrome/browser/ui/webauthn/ambient/ambient_login_permission_controller.h"
 
 #include <memory>

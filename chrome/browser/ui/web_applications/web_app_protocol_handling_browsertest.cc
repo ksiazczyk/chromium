@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app protocol handling browser tests
+// summary: Browser tests verifying that protocol handlers declared in web app manifests are registered correctly and that the Blink use counter metric is recorded.
+// ---
+
 #include <algorithm>
 
 #include "base/test/metrics/histogram_tester.h"

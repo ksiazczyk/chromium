@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web app UI tests
+summary: Grants specific test files additional include permissions for web package, Ash window manager, and Blink permissions policy headers.

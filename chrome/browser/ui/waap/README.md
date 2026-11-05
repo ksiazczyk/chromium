@@ -1,3 +1,9 @@
+---
+type: readme
+title: WaaP (Webium-as-a-Product) in Chrome
+summary: Overview of the WaaP directory and its UI metrics collection, linking to the WaapUIMetricsService design document.
+---
+
 # WaaP (Webium-as-a-Product) in Chrome
 
 This directory contains WaaP related chrome browser implementations.

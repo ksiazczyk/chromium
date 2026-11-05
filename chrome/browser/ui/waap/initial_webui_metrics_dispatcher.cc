@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI metrics dispatcher implementation
+// summary: Implements WebContents-based and native dispatchers that route initial WebUI latency milestones to WaapUIMetricsService and the window metrics manager.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_metrics_dispatcher.h"
 
 #include "chrome/browser/profiles/profile.h"

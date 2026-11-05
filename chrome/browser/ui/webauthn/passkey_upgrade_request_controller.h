@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey upgrade request controller
+// summary: Declares the controller handling conditionalCreate requests to silently upgrade a stored password to a passkey, with result enums for UMA logging.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_UPGRADE_REQUEST_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_UPGRADE_REQUEST_CONTROLLER_H_
 

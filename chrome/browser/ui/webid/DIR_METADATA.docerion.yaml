@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the WebID UI folder
+summary: Points to the shared WebID common metadata and lists the web-identity team email address for this directory.

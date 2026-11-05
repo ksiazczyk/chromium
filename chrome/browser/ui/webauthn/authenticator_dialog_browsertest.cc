@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the WebAuthn authenticator dialog
+// summary: Contains in-process browser tests covering the WebAuthn authenticator request dialog, including transports, passkey flows, enclave features and metrics.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

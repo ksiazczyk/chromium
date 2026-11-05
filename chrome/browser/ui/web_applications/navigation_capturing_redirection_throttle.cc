@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing redirection throttle implementation
+// summary: Implements a navigation throttle that notifies the navigation capturing process when a redirect chain completes so capturing can be corrected.
+// ---
+
 #include "chrome/browser/ui/web_applications/navigation_capturing_redirection_throttle.h"
 
 #include <memory>

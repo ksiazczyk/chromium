@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create shortcut dialog browser tests
+// summary: Browser tests for the create-shortcut flow that installs DIY apps, covering dialog behavior, icon generation, and install metrics.
+// ---
+
 #include <initializer_list>
 #include <optional>
 #include <string>

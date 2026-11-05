@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app browser test base implementation
+// summary: Implements shared setup for web app browser tests, including app installation, launching and embedded server helpers.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_browsertest_base.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey not accepted bubble controller implementation
+// summary: Implements the bubble controller shown when a passkey is not accepted, including navigation to Google Password Manager passkey details.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_not_accepted_bubble_controller.h"
 
 #include <string>

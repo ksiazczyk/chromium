@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for web app UI sources
+summary: Defines GN source sets and platform-conditional sources and dependencies for the web app UI code.

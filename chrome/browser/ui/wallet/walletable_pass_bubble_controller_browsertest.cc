@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass bubble controller browser tests
+// summary: Browser tests verifying the save bubble is reshown when the tab is reactivated after clicking the Go to wallet link.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/test/run_until.h"
 #include "chrome/browser/ui/browser_tabstrip.h"

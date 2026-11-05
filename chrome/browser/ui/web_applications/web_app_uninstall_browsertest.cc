@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app uninstall browser tests
+// summary: Browser tests covering web app uninstall flows, including restoring app windows as tabs and uninstalling a PWA with a window open.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/test/test_future.h"

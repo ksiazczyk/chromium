@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app menu model header
+// summary: Declares WebAppMenuModel, the app menu model for the menu button in web app browser windows, with uninstall and extensions commands and a ChromeOS move-to-desks submenu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_MENU_MODEL_H_
 

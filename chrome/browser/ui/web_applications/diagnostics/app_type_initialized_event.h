@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App type initialized event helper declaration
+// summary: Declares an app registry cache observer helper that asynchronously waits for an app type to become initialized.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_DIAGNOSTICS_APP_TYPE_INITIALIZED_EVENT_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_DIAGNOSTICS_APP_TYPE_INITIALIZED_EVENT_H_
 

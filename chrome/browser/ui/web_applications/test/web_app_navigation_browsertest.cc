@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app navigation browser test base implementation
+// summary: Implements the shared browser test base for web app navigation tests, including test URL constants and redirect helpers.
+// ---
+
 #include "chrome/browser/ui/web_applications/test/web_app_navigation_browsertest.h"
 
 #include <vector>

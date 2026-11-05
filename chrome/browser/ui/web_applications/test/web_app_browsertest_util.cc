@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app browser test utilities implementation
+// summary: Implements helper functions to install, launch and interact with web apps in Chromium browser tests.
+// ---
+
 #include "chrome/browser/ui/web_applications/test/web_app_browsertest_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP utilities implementation
+// summary: Implements WaaP helpers such as initial WebUI URL detection and WebContents prewarming configuration with a temporary color provider source.
+// ---
+
 #include "chrome/browser/ui/waap/waap_utils.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey saved confirmation controller unit tests
+// summary: Unit tests for the saved passkey confirmation bubble, covering titles with and without PIN creation, dismissal, and link click metrics.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_saved_confirmation_controller.h"
 
 #include <memory>

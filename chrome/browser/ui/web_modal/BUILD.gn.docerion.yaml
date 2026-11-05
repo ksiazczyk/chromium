@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_window_modal_dialog_delegate
+summary: GN build file defining the browser_window_modal_dialog_delegate source set with its public headers, sources, and dependency targets.

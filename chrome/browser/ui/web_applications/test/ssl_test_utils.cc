@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL mixed content test utilities implementation
+// summary: Implements checks for mixed content security state in web app windows and creates fake SSL certificates for tests.
+// ---
+
 #include "chrome/browser/ui/web_applications/test/ssl_test_utils.h"
 
 #include "chrome/browser/ssl/ssl_browsertest_util.h"

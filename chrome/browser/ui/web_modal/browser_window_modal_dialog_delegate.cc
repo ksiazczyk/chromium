@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowModalDialogDelegate implementation
+// summary: Implements the per-browser-window modal dialog delegate, handling tab blocking, dialog host lookup, DevTools scrim visibility, and security-driven fullscreen exit.
+// ---
+
 #include "chrome/browser/ui/web_modal/browser_window_modal_dialog_delegate.h"
 
 #include "base/functional/bind.h"

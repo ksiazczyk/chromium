@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the WebID UI source set
+summary: GN build file defining the webid source set plus browser test and unit test targets with their sources and dependencies.

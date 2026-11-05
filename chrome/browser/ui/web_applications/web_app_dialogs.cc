@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app dialog test hooks
+// summary: Provides test-only setters and getters that auto-respond to PWA install and create-shortcut dialogs during testing.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_dialogs.h"
 
 #include "base/auto_reset.h"

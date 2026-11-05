@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI profile service implementation
+// summary: Implements InitialWebUIProfileService, which prewarms the initial WebUI toolbar WebContents during profile initialization when the relevant feature flags are enabled.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_profile_service.h"
 
 #include "chrome/browser/profiles/profile.h"

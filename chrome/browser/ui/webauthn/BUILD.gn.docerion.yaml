@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the WebAuthn UI
+summary: Defines the GN source sets and dependencies that build the Chrome WebAuthn UI, listing headers and implementations for dialog controllers, sheet models and helpers.

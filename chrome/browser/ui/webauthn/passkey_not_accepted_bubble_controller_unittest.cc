@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey not accepted bubble controller unit tests
+// summary: Unit tests for the passkey not accepted bubble controller, covering implicit dismissal and navigation metrics when the Google Password Manager link is clicked.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_not_accepted_bubble_controller.h"
 
 #include <memory>

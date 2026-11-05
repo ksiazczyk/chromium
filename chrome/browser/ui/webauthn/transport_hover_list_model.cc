@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport hover list model implementation
+// summary: Implements the hover list model that displays selectable authenticator transport mechanisms from the WebAuthn request dialog model.
+// ---
+
 #include "chrome/browser/ui/webauthn/transport_hover_list_model.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request sheet model implementation
+// summary: Provides default implementations for the WebAuthn sheet model, such as empty descriptions, errors, hints and hidden GPM-related buttons.
+// ---
+
 #include "chrome/browser/ui/webauthn/authenticator_request_sheet_model.h"
 
 #include <string>

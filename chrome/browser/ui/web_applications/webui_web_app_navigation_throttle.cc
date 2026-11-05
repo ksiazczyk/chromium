@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI web app navigation throttle
+// summary: Navigation throttle that opens cross-origin WebUI navigations from WebUI-based web apps in a new foreground browser tab instead of the app window.
+// ---
+
 #include "chrome/browser/ui/web_applications/webui_web_app_navigation_throttle.h"
 
 #include "chrome/browser/ui/browser_window.h"

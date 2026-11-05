@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server redirect handle implementation
+// summary: Implements a request handler that serves configurable temporary redirects from the embedded test server during web app tests.
+// ---
+
 #include "chrome/browser/ui/web_applications/test/test_server_redirect_handle.h"
 
 #include "base/test/bind.h"

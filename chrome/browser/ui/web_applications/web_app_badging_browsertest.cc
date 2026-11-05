@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app badging browser tests
+// summary: Browser tests verifying app badge behavior for installed PWAs across frames, workers and cross-origin scopes.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "base/strings/string_number_conversions.h"

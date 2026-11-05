@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient login permission controller header
+// summary: Declares AmbientLoginPermissionController, a PageUserData class that manages ambient login permission requests across WebAuthn and FedCM.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_AMBIENT_AMBIENT_LOGIN_PERMISSION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_AMBIENT_AMBIENT_LOGIN_PERMISSION_CONTROLLER_H_
 

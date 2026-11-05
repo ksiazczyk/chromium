@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey deleted confirmation controller implementation
+// summary: Implements the bubble controller that confirms a passkey deletion, providing the localized title and reporting dismissal metrics.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_deleted_confirmation_controller.h"
 
 #include <string>

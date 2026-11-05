@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server redirect handle header
+// summary: Declares a scoped helper for injecting temporary redirects into EmbeddedTestServer, with usage examples for browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_TEST_TEST_SERVER_REDIRECT_HANDLE_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_TEST_TEST_SERVER_REDIRECT_HANDLE_H_
 

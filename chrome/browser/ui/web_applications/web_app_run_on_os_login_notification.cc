@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run on OS login notification implementation
+// summary: Builds and displays the ChromeOS notification reporting which web apps are set to run on OS login, with messages for single and multiple apps.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_run_on_os_login_notification.h"
 
 #include <algorithm>

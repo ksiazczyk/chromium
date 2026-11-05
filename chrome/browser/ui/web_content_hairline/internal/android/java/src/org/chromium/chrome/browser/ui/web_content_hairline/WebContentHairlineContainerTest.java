@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentHairlineContainer unit tests
+// summary: Robolectric unit tests verifying that WebContentHairlineContainer applies the correct Incognito tint and rounded corner drawables.
+// ---
+
 package org.chromium.chrome.browser.ui.web_content_hairline;
 
 import static org.junit.Assert.assertEquals;

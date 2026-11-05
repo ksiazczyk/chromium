@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn sheet models unit tests
+// summary: Unit tests for the WebAuthn sheet models, covering other-mechanism button visibility and multi-source picker sheet behavior.
+// ---
+
 #include "chrome/browser/ui/webauthn/sheet_models.h"
 
 #include <string>

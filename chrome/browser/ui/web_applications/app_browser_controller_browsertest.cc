@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppBrowserController high contrast theme browser test
+// summary: Browser test verifying that web app windows apply the OS high contrast window color as their theme color.
+// ---
+
 #include "chrome/browser/ui/web_applications/app_browser_controller.h"
 
 #include "chrome/browser/ui/web_applications/test/web_app_browsertest_util.h"

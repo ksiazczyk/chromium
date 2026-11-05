@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web share target browser tests
+// summary: Browser tests for sharing files and data to web apps via the sharesheet and web share target intents, including ChromeOS file handling.
+// ---
+
 #include <limits>
 #include <string>
 #include <string_view>

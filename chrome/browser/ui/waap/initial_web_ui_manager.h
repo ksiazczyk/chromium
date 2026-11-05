@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitialWebUIManager class header
+// summary: Declares InitialWebUIManager, which tracks initial WebUI loading state, manages show deferral, and hands off pre-warmed toolbar WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_INITIAL_WEB_UI_MANAGER_H_
 #define CHROME_BROWSER_UI_WAAP_INITIAL_WEB_UI_MANAGER_H_
 

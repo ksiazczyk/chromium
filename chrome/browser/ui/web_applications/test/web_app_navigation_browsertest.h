@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app navigation browser test base header
+// summary: Declares a browser test base class with link-clicking and navigation helpers for testing web app navigation behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_TEST_WEB_APP_NAVIGATION_BROWSERTEST_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_TEST_WEB_APP_NAVIGATION_BROWSERTEST_H_
 

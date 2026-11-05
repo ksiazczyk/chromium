@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn UI helpers implementation
+// summary: Implements a helper that converts a relying party ID into an elided host string for display in the WebAuthn UI.
+// ---
+
 #include "chrome/browser/ui/webauthn/webauthn_ui_helpers.h"
 
 #include <cstddef>

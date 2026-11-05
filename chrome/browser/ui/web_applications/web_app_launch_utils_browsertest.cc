@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app launch utils browser tests
+// summary: Parameterized browser tests covering reparenting tabs between regular browser windows and web app windows using the launch utilities.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_launch_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account hover list model implementation
+// summary: Implements the hover list model that displays passkey accounts with names, descriptions, icons and selection handling in the WebAuthn request dialog.
+// ---
+
 #include "chrome/browser/ui/webauthn/account_hover_list_model.h"
 
 #include <cstddef>

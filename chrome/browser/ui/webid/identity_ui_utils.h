@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity UI utilities header for FedCM
+// summary: Declares helper methods, avatar size constants, and histogram enums shared by the FedCM UI on desktop and Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBID_IDENTITY_UI_UTILS_H_
 #define CHROME_BROWSER_UI_WEBID_IDENTITY_UI_UTILS_H_
 

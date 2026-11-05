@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app UI manager browser tests
+// summary: Browser tests verifying WebAppUiManagerImpl window counting per app and uninstall behavior when closing the last app browser window.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_ui_manager_impl.h"
 
 #include "base/memory/raw_ptr.h"

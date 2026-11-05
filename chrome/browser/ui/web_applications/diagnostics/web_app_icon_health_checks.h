@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon health checks class declaration
+// summary: Declares a class that runs a suite of icon diagnostics on installed web apps at startup and records metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_DIAGNOSTICS_WEB_APP_ICON_HEALTH_CHECKS_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_DIAGNOSTICS_WEB_APP_ICON_HEALTH_CHECKS_H_
 

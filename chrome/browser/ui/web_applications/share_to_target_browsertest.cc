@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share to web app target browser tests
+// summary: Browser tests sharing content via the Web Share API to an installed web app and verifying the target opens with the shared data.
+// ---
+
 #include <string>
 
 #include "base/strings/stringprintf.h"

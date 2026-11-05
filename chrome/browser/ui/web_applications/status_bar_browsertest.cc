@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app status bar browser tests
+// summary: Browser tests verifying status bubbles appear in web app windows only for display modes that show a status bar.
+// ---
+
 #include "base/test/with_feature_override.h"
 #include "chrome/browser/ui/browser_ui_controller/browser_ui_controller.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

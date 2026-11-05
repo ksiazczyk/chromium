@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web App UI & Browser Integration (chrome/browser/ui/web_applications)
+summary: Explains the architectural layering, subsystem wiring, and testing setup for desktop PWA UI controllers in Chromium.
+relations:
+  - documents /chrome/browser/ui/web_applications/app_browser_controller.h
+  - documents /chrome/browser/ui/web_applications/web_app_browser_controller.h
+  - documents /chrome/browser/ui/web_applications/web_app_ui_manager_impl.h
+---
+
 # Web App UI & Browser Integration (`chrome/browser/ui/web_applications`)
 
 This directory contains the desktop UI controllers, browser window integration,

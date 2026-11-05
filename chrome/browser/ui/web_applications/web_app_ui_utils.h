@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app UI utilities header
+// summary: Declares helpers for web app settings links in page info, PWA install and open menu labels and icons, and opening app settings pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_UI_UTILS_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_UI_UTILS_H_
 
