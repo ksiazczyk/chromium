@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser action drag data implementation
+// summary: Implements drag-and-drop clipboard data for browser action views, including pickling, reading, and profile checks.
+// ---
+
 #include "chrome/browser/ui/views/extensions/browser_action_drag_data.h"
 
 #include <stdint.h>

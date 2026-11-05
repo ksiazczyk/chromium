@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job confirmation dialog implementation
+// summary: Implements the ChromeOS bubble dialog that asks users to allow an extension to start a print job, showing the extension name, icon, job title and printer.
+// ---
+
 #include "base/functional/bind.h"
 #include "chrome/browser/ui/extensions/extension_dialog_utils.h"
 #include "chrome/grit/generated_resources.h"

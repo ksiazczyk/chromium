@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scanner start scan confirmation dialog browser test
+// summary: Dialog browser test that invokes and verifies the document scanner start scan confirmation dialog UI.
+// ---
+
 #include "chrome/browser/ui/views/extensions/dialogs/document_scanner_start_scan_confirmation_dialog.h"
 
 #include "base/functional/callback_helpers.h"

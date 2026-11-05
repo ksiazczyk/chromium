@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chooser dialog view unit tests
+// summary: Unit tests for the chooser dialog view covering button states, device selection, and re-scan behavior with a fake Bluetooth chooser controller.
+// ---
+
 #include "chrome/browser/ui/views/extensions/chooser_dialog_view.h"
 
 #include <memory>

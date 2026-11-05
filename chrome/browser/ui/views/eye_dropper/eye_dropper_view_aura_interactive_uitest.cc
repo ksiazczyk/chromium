@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EyeDropperView Aura interactive UI tests
+// summary: Interactive browser tests covering eye dropper cancellation on window focus changes and cursor or touch movement, skipping Wayland sessions.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/views/eye_dropper/eye_dropper.h"

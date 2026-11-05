@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension context menu controller implementation
+// summary: Implements the controller that builds and runs the context menu for an extension action and notifies an observer when the menu opens or closes.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_context_menu_controller.h"
 
 #include <memory>

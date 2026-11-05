@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura extension action popup test helper
+// summary: Implements ExtensionActionTestHelper::WaitForPopup for Aura by waiting until the extension popup aura window becomes visible.
+// ---
+
 #include "base/check.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries dialog views browser test
+// summary: Browser test that shows and verifies the media galleries dialog views UI using a mocked dialog controller with sample gallery entries.
+// ---
+
 #include "chrome/browser/ui/views/extensions/media_galleries_dialog_views.h"
 
 #include <memory>

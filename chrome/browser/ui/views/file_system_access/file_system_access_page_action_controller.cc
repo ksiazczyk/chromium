@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access page action controller implementation
+// summary: Updates the visibility, icon, and tooltip of the file system access page action based on a tab origin's read and write grants.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_page_action_controller.h"
 
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"

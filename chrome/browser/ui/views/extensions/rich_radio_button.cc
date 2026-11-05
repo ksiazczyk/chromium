@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rich radio button implementation
+// summary: Implements a compound button that wraps a radio button with an icon, title, and description labels for use in extensions dialogs.
+// ---
+
 #include "chrome/browser/ui/views/extensions/rich_radio_button.h"
 
 #include <utility>

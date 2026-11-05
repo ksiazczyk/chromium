@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access usage bubble interactive UI test
+// summary: Interactive UI tests for the usage bubble, verifying it closes on tab switch, reopens from the location bar icon and reappears when permissions change.
+// ---
+
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"
 #include "chrome/browser/file_system_access/file_system_access_permission_context_factory.h"
 #include "chrome/browser/profiles/profile.h"

@@ -1,0 +1,4 @@
+# Docerion header of extension_action_test_helper_mac.mm.
+type: test
+title: Mac extension action popup test helper
+summary: Implements ExtensionActionTestHelper::WaitForPopup on macOS by waiting for the popup NSWindow to become the key window.

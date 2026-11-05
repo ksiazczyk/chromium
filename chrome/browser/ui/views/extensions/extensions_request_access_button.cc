@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions request access button implementation
+// summary: Implements the toolbar chip button that lists extensions requesting site access and grants them one-time access with a confirmation.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_request_access_button.h"
 
 #include <memory>

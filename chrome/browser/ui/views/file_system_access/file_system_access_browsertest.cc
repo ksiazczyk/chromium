@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access browser tests
+// summary: In-process browser tests covering file system access UI behavior such as permission prompts, page action indicators, and drag-and-drop of files.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"

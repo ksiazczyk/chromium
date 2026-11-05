@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar button implementation
+// summary: Implements the toolbar chip button that toggles the extensions menu and updates its icon, tooltip, and accessibility state.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_button.h"
 
 #include "base/feature_list.h"

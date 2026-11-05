@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu entry view browser test
+// summary: Browser test fixture for ExtensionsMenuEntryView that exercises menu entry state, action and context menu buttons and related user metrics.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/metrics/user_action_tester.h"
 #include "build/build_config.h"

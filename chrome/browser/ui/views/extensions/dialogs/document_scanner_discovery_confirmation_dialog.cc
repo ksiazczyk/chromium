@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner discovery confirmation dialog implementation
+// summary: Implements the bubble dialog asking users to allow an extension to discover document scanners, built with ui::DialogModel and shown via extension dialog utils.
+// ---
+
 #include "base/functional/bind.h"
 #include "chrome/browser/ui/extensions/extension_dialog_utils.h"
 #include "chrome/grit/generated_resources.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension post-install dialog view utils header
+// summary: Declares MaybeAddSigninPromoFootnoteView, the Views-specific hook that adds a sign-in promo footnote to the extension post-install dialog model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSION_POST_INSTALL_DIALOG_VIEW_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSION_POST_INSTALL_DIALOG_VIEW_UTILS_H_
 

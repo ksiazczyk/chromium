@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access test utilities implementation
+// summary: Implements a fake select file dialog and factory that return pre-determined files for testing File System Access UI flows.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_test_utils.h"
 
 #include "ui/shell_dialogs/selected_file_info.h"

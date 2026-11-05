@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG desktop portal eye dropper over D-Bus
+// summary: Implements the eye dropper via the org.freedesktop.portal.Screenshot PickColor portal call, exporting the window handle and handling portal requests and responses.
+// ---
+
 #include "chrome/browser/ui/views/eye_dropper/eye_dropper_portal.h"
 
 #include <algorithm>

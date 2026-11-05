@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner start scan confirmation dialog header
+// summary: Declares ShowDocumentScannerStartScanConfirmationDialog for showing a start-scan consent bubble anchored to the extension toolbar icon on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_DOCUMENT_SCANNER_START_SCAN_CONFIRMATION_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_DOCUMENT_SCANNER_START_SCAN_CONFIRMATION_DIALOG_H_
 

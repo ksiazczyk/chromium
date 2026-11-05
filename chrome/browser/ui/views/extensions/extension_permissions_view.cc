@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension permissions view implementation
+// summary: Builds the permissions section of the extension install dialog, listing each permission with optional expandable details.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_permissions_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

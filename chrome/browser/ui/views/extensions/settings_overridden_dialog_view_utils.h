@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overridden dialog view utils header
+// summary: Declares AddDialogContent, a helper that adds a pair of custom radio buttons letting users choose which setting to keep in the settings-overridden dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_SETTINGS_OVERRIDDEN_DIALOG_VIEW_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_SETTINGS_OVERRIDDEN_DIALOG_VIEW_UTILS_H_
 

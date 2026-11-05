@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu button implementation
+// summary: Implements ExtensionsMenuButton, the hover button for a single extension row in the extensions menu that shows icon, name and tooltip and triggers the extension action.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_button.h"
 
 #include "base/functional/bind.h"

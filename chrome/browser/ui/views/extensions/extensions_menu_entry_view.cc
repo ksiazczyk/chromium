@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu entry view implementation
+// summary: Implements ExtensionsMenuEntryView, the row view for a single extension in the new extensions menu with action, site access toggle, site permissions and context menu buttons.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_entry_view.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access views helpers implementation
+// summary: Provides helpers that build styled labels showing origins and paths with emphasis for File System Access permission dialogs.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_views_helpers.h"
 
 #include <string>

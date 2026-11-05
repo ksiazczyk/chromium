@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu view interactive UI tests
+// summary: Interactive UI tests exercising the extensions menu bubble with the access control feature disabled, covering popups, pinning, and navigation.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_view.h"
 
 #include <algorithm>

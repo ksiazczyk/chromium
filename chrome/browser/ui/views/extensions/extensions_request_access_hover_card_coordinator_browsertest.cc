@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions request access hover card coordinator browser tests
+// summary: Browser tests verifying that the request access hover card shows and hides correctly for the extensions toolbar button.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_request_access_hover_card_coordinator.h"
 
 #include "chrome/browser/ui/extensions/extensions_toolbar_view_model.h"

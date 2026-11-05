@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar button browser tests
+// summary: Browser tests checking that the extensions button opens and closes the menu and updates tooltip and accessible names.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_button.h"
 
 #include "chrome/browser/ui/views/extensions/extensions_menu_coordinator.h"

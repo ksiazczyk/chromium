@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expandable container view unit tests
+// summary: Unit tests verifying that the expandable container view toggles between visible and collapsed details when the link is triggered.
+// ---
+
 #include "chrome/browser/ui/views/extensions/expandable_container_view.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

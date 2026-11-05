@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore permission bubble view implementation
+// summary: Builds the location bar dialog that asks users to restore file or directory permissions previously granted to a site.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_restore_permission_bubble_view.h"
 
 #include "chrome/browser/picture_in_picture/picture_in_picture_input_protector.h"

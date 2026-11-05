@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries dialog views unit test
+// summary: Unit tests verifying that media galleries dialog checkboxes are initialized and toggled according to the gallery permissions held by the controller.
+// ---
+
 #include "chrome/browser/ui/views/extensions/media_galleries_dialog_views.h"
 
 #include <stdint.h>

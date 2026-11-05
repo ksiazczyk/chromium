@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device chooser extension browser tests
+// summary: Parameterized browser tests for device chooser bubbles for WebUSB and WebHID opened from extension pages.
+// ---
+
 #include <string>
 
 #include "base/containers/to_vector.h"

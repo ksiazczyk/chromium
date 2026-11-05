@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overridden dialog view utilities
+// summary: Builds content for settings-overridden extension dialogs, adding a description paragraph and rich radio button options to a dialog model builder.
+// ---
+
 #include "chrome/browser/ui/views/extensions/settings_overridden_dialog_view_utils.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for extensions views
+summary: Owners file that defers review ownership to the shared extensions UI_OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of eye_dropper_view_mac.mm.
+type: source
+title: EyeDropperViewMac implementation using NSColorSampler
+summary: Implements the macOS eye dropper with NSColorSampler, keeps the sampler alive during selection, and provides the ShowEyeDropper factory function.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the XDG desktop portal eye dropper
+// summary: Declares EyeDropperPortal, a content::EyeDropper implementation that picks colors through the XDG desktop portal, including a factory for testing with a custom D-Bus bus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EYE_DROPPER_EYE_DROPPER_PORTAL_H_
 #define CHROME_BROWSER_UI_VIEWS_EYE_DROPPER_EYE_DROPPER_PORTAL_H_
 

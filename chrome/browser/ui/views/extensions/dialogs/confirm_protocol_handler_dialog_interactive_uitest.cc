@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirm protocol handler dialog interactive UI tests
+// summary: Interactive browser tests verifying the protocol handler confirmation dialog is shown and its allow and deny buttons invoke the right callbacks.
+// ---
+
 #include "chrome/browser/ui/extensions/confirm_protocol_handler_dialog.h"
 
 #include "chrome/browser/profiles/profile.h"

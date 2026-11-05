@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar interactive UI test helpers
+// summary: Implements the ExtensionsToolbarUITest fixture helpers for loading, installing, and inspecting extensions in tests.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_interactive_uitest.h"
 
 #include <vector>

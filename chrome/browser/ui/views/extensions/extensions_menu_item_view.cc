@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu item view implementation
+// summary: Implements the per-extension row in the extensions menu, including pin and context menu buttons.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_item_view.h"
 
 #include <memory>

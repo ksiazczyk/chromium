@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic MIME handler omnibox chip browser tests
+// summary: Browser tests verifying the omnibox chip names the MIME handler extension for top-level and file URL content.
+// ---
+
 #include <string>
 #include <string_view>
 

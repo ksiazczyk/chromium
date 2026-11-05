@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access usage bubble view implementation
+// summary: Implements the location bar bubble that shows which files and directories a site can read or write via the File System Access API.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_usage_bubble_view.h"
 
 #include <vector>

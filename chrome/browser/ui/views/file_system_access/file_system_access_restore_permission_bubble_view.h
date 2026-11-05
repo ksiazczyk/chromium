@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore permission bubble view header
+// summary: Declares the bubble dialog and helper functions for showing restore-permission prompts with allow and deny actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_RESTORE_PERMISSION_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_RESTORE_PERMISSION_BUBBLE_VIEW_H_
 

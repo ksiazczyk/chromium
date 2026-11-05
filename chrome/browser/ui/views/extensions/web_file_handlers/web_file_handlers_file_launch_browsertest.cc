@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web file handlers file launch browser tests
+// summary: Browser tests verifying that Chrome extensions with web file handlers can launch files, including permission handling and launch dispositions.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <utility>

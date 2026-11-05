@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access bubble controller implementation
+// summary: Gathers a tab origin's granted file and directory permissions and shows the file system access usage bubble for them.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_bubble_controller.h"
 
 #include <iterator>

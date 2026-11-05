@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu test utility implementation
+// summary: Implements a test helper that drives the extensions menu and toolbar containers, supporting both Views and WebUI toolbar variants.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_test_util.h"
 
 #include <algorithm>

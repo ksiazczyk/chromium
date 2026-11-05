@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extensions dialogs build configuration (BUILD.gn)
+summary: Defines GN source sets and dependencies for the document scanner, print job, and request file system dialog implementations in this directory.

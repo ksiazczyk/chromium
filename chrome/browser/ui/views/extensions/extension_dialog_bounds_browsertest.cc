@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension dialog bounds browser test
+// summary: Browser test that opens the file dialog with the docked magnifier enabled and verifies the dialog UI, pending a move to SelectFileDialogExtensionBrowserTest.
+// ---
+
 #include <string>
 
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar desktop view controller implementation
+// summary: Implements the controller that adjusts extensions toolbar flex rules when Window Controls Overlay is toggled.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_desktop_view_controller.h"
 
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_desktop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu site permissions page interactive UI tests
+// summary: Interactive UI tests that open the extensions menu and verify the per-extension site permissions page navigation and behavior.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_site_permissions_page_view.h"
 
 #include "chrome/browser/profiles/profile.h"
