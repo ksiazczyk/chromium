@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkMenuDelegate header
+// summary: Declares BookmarkMenuDelegate, a shared menu delegate for bookmark menus that combines local and account bookmark nodes via BookmarkMergedSurfaceService.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_MENU_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_MENU_DELEGATE_H_
 

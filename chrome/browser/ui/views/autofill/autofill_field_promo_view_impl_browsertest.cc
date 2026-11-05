@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill field promo view browser test
+// summary: Browser test checking field promo view creation, bounds placement and overlap behavior with picture-in-picture windows across platforms.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_field_promo_view_impl.h"
 
 #include <optional>

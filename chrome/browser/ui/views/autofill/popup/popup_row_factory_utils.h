@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup row factory utilities header
+// summary: Declares factory functions for creating popup row and content views for regular, VCN, and IBAN suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_ROW_FACTORY_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_ROW_FACTORY_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit address profile dialog view implementation
+// summary: Implements EditAddressProfileView and the helper that shows the dialog for editing an address profile before saving it.
+// ---
+
 #include "chrome/browser/ui/views/autofill/edit_address_profile_view.h"
 
 #include <memory>

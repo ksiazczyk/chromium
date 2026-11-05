@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupRowContentView implementation
+// summary: Implements the content cell of a popup row, padding it so its content aligns with the popup bubble's arrow.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_content_view.h"
 
 #include <algorithm>

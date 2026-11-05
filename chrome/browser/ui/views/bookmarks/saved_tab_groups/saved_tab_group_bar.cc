@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group bar implementation
+// summary: Implements the SavedTabGroupBar toolbar view that renders saved tab group buttons and handles drag-and-drop and sync observer updates.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_bar.h"
 
 #include <algorithm>

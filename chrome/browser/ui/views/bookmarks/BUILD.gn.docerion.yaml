@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for bookmark views
+summary: Defines the GN source sets, public headers and dependencies for the bookmark views code in this directory.

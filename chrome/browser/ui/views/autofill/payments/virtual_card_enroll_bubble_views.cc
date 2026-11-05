@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enroll bubble views implementation
+// summary: Implements the bubble offering virtual card enrollment when a user pays with an eligible card, including legal messages, a loading state, and learn-more links.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/virtual_card_enroll_bubble_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSelectionDelegate class declaration
+// summary: Declares a Googlemock selection delegate stubbing GetSelectedCell and SetSelectedCell for popup tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_MOCK_SELECTION_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_MOCK_SELECTION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn dialog browser tests
+// summary: Dialog browser tests that show and verify the WebAuthn offer and verify-pending dialogs, including closing the tab or browser while a dialog is visible.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/webauthn_dialog.h"
 
 #include "base/functional/callback_helpers.h"

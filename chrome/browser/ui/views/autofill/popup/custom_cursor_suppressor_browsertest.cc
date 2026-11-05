@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom cursor suppressor browser tests
+// summary: In-process browser tests verifying custom cursor suppression across browser windows, tabs, navigations and extensions.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/custom_cursor_suppressor.h"
 
 #include <vector>

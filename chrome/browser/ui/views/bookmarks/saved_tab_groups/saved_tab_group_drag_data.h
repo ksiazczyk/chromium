@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group drag data class declaration
+// summary: Declares SavedTabGroupDragData, which writes and reads saved tab group drag payloads in OS exchange data for drag-and-drop, tracking insertion index and location.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_DRAG_DATA_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_DRAG_DATA_H_
 

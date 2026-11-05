@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser UI tests for the Gmail OTP opt-in bubble
+// summary: Parameterized browser tests that show, verify and dismiss the opt-in bubble across dark and light modes and RTL and LTR layouts, including pixel checks.
+// ---
+
 #include "chrome/browser/ui/views/autofill/one_time_tokens/gmail_otp_opt_in_bubble_view.h"
 
 #include <memory>

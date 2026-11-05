@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup view views unit tests
+// summary: Extensive unit tests for the autofill popup view covering rows, keyboard handling, accessibility, search, and suggestion display behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_view_views.h"
 
 #include <algorithm>

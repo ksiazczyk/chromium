@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI local save notification view header
+// summary: Declares the bubble view class that notifies users their Autofill AI data was saved locally.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_LOCAL_SAVE_NOTIFICATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_LOCAL_SAVE_NOTIFICATION_VIEW_H_
 

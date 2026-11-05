@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar view event interactive tests
+// summary: Interactive UI tests exercising bookmark bar event handling such as drag and drop, menus, and view interaction with test infrastructure.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

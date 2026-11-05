@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth confirmation bubble view
+// summary: Implements the desktop bubble that confirms mandatory reauth opt-in for saved payment methods, with a link to the payments settings page.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/mandatory_reauth_confirmation_bubble_view.h"
 
 #include "chrome/browser/ui/autofill/payments/mandatory_reauth_bubble_controller.h"

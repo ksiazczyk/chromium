@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage saved IBAN bubble view declaration
+// summary: Declares the manage saved IBAN bubble class that is accessible from the omnibox IBAN icon after a saved IBAN is submitted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_MANAGE_SAVED_IBAN_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_MANAGE_SAVED_IBAN_BUBBLE_VIEW_H_
 

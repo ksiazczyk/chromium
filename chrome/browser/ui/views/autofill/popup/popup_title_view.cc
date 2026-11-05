@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupTitleView implementation
+// summary: Implements PopupTitleView, which displays an uppercased section title label inside the autofill popup.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_title_view.h"
 
 #include "base/strings/string_util.h"

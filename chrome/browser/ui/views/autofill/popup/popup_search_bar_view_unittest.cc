@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupSearchBarView unit tests
+// summary: Unit tests for PopupSearchBarView covering focus handling, input change debouncing, placeholder rotation, and delegate notifications.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_search_bar_view.h"
 
 #include <memory>

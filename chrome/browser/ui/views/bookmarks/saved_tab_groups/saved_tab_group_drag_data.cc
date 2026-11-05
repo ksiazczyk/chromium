@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group drag data implementation
+// summary: Implements reading and writing saved tab group drag data, including drag images, for drag-and-drop operations.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_drag_data.h"
 
 #include <string>

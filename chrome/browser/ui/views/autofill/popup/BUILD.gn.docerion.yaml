@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill popup BUILD.gn
+summary: GN build file defining the source sets, public headers and dependencies for the autofill popup views in this directory.

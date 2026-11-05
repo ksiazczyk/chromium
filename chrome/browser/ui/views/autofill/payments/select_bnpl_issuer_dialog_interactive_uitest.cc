@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL issuer selection dialog interactive UI test
+// summary: Interactive UI tests for the BNPL issuer selection dialog, exercising dialog invocation, issuer selection, metrics logging, and keyboard interaction.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/select_bnpl_issuer_dialog.h"
 
 #include <string>

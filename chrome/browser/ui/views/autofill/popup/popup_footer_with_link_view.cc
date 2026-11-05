@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup footer with link view implementation
+// summary: Implements a footer view that shows text with an embedded link to a Chrome settings subpage and an optional leading icon.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_footer_with_link_view.h"
 
 #include <memory>

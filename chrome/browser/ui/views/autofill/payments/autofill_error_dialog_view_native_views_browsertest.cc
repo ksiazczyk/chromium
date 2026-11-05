@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill error dialog browser tests
+// summary: Parameterized browser tests that show the autofill error dialog for virtual card and BNPL error types and verify its behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/autofill_error_dialog_view_native_views.h"
 
 #include "base/run_loop.h"

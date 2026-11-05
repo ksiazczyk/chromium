@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkMenuDelegate implementation
+// summary: Implements BookmarkMenuDelegate, the shared menu delegate for bookmark menus used by the bookmark bar and app menu, covering favicons, commands, and drag-and-drop.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_menu_delegate.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI bubble utilities header
+// summary: Declares helper functions and constants for building Autofill AI bubble titles, icons, margins and attribute rows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_BUBBLE_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_BUBBLE_UTILS_H_
 

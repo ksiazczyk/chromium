@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL terms of service dialog implementation
+// summary: Implements BnplTosDialog, the dialog delegate view for the Buy-Now-Pay-Later Terms of Service, including accept, cancel, link, and throbber handling.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_tos_dialog.h"
 
 #include "base/strings/utf_string_conversions.h"

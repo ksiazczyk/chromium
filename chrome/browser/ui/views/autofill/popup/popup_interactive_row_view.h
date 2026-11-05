@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupInteractiveRowView interface
+// summary: Declares the abstract base class for selectable Autofill popup rows with content and control cells, cell selection, and key handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_INTERACTIVE_ROW_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_INTERACTIVE_ROW_VIEW_H_
 

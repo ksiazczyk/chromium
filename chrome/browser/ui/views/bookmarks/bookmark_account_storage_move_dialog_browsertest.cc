@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark account storage move dialog pixel tests
+// summary: Browser pixel tests that show the account storage move dialog and verify its appearance against baselines.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_account_storage_move_dialog.h"
 
 #include "base/test/scoped_feature_list.h"

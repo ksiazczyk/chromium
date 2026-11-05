@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPageActionController header
+// summary: Declares BookmarkPageActionController, a per-tab controller managing the state and visibility of the bookmark star page action.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_PAGE_ACTION_CONTROLLER_H_
 

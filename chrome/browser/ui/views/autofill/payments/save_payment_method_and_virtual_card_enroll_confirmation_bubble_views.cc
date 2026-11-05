@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save payment method and virtual card enroll confirmation bubble views
+// summary: Implements the desktop bubble confirming a card or IBAN upload save or virtual card enrollment, with success and failure states and Google Wallet or Google Pay branding.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_payment_method_and_virtual_card_enroll_confirmation_bubble_views.h"
 
 #include <utility>

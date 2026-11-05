@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments view utilities
+// summary: Shared helpers for payments autofill views, such as title views with Google Pay and BNPL issuer logos, icon and label construction and styling utilities.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/payments_view_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupBaseView implementation
+// summary: Implements the base view for autofill popups, covering widget creation, positioning, borders and event handling.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_base_view.h"
 
 #include <memory>

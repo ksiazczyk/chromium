@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL issuer selection dialog implementation
+// summary: Implements the desktop dialog for selecting a buy-now-pay-later issuer, showing a throbber, the issuer view, and a payment settings footnote link.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/select_bnpl_issuer_dialog.h"
 
 #include <memory>

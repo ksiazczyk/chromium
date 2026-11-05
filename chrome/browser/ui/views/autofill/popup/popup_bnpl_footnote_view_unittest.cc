@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL footnote view unit tests
+// summary: Unit tests for the BNPL footnote view, checking its accessibility role and setup within a test widget.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_bnpl_footnote_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI local save notification view unit tests
+// summary: Unit tests verifying that the Autofill AI local save notification view informs its controller when the dialog is accepted or closed.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/autofill_ai_local_save_notification_view.h"
 
 #include "base/memory/raw_ptr.h"

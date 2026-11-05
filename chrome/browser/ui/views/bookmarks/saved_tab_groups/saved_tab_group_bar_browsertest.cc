@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group bar browser tests
+// summary: In-process browser tests for the saved tab group bar, covering group opening and focusing behavior under data sharing feature flags.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_bar.h"
 
 #include <memory>

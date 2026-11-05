@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offer notification bubble views
+// summary: Implements the desktop bubble that displays card-linked, GPay promo code, and Google Wallet offers for the current page domain.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/offer_notification_bubble_views.h"
 
 #include "base/strings/utf_string_conversions.h"

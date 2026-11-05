@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Everything menu implementation for saved tab groups
+// summary: Implements the STGEverythingMenu that lists saved tab groups and a create-new-group entry for the app menu, saved tab group bar and vertical tab strip.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_everything_menu.h"
 
 #include <memory>

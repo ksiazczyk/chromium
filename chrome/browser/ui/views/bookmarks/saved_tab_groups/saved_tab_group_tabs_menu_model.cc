@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group tabs menu model implementation
+// summary: Implements the menu model for a saved tab group's tabs submenu with actions such as open, close, pin, move to new window and delete group.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_tabs_menu_model.h"
 
 #include <optional>

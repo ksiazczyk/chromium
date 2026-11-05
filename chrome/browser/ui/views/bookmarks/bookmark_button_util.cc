@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark button utilities implementation
+// summary: Implements a helper that creates the border used by bookmark bar buttons with the standard insets.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_button_util.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

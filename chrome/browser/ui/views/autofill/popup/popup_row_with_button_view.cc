@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup row with button view implementation
+// summary: Implements a popup row containing a delete button with hover tracking and placeholder paint handling.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_with_button_view.h"
 
 #include <memory>

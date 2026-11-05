@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bubble handler implementation
+// summary: Implements the views-based autofill bubble handler that creates and shows save card, IBAN, address profile, payments and other autofill bubbles.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_bubble_handler_impl.h"
 
 #include <concepts>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAccessibilitySelectionDelegate declaration
+// summary: Declares a gmock mock of PopupRowView's accessibility selection delegate that records NotifyAXSelection calls in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_MOCK_ACCESSIBILITY_SELECTION_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_MOCK_ACCESSIBILITY_SELECTION_DELEGATE_H_
 

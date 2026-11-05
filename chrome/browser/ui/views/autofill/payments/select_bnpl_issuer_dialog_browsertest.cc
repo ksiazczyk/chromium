@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL issuer selection dialog browser test
+// summary: Browser tests that show and verify the BNPL issuer selection dialog for eligible and ineligible issuer contexts.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/select_bnpl_issuer_dialog.h"
 
 #include "chrome/browser/ui/autofill/payments/payments_view_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup interactive row view implementation
+// summary: Implements the interactive popup row base class, currently providing constructors and metadata registration only.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_interactive_row_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

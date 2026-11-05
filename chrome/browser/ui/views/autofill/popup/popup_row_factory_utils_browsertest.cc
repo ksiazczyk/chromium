@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup row factory browser tests
+// summary: Browser tests covering popup row view creation for password, backup, footer, and other suggestion types.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_factory_utils.h"
 
 #include <algorithm>

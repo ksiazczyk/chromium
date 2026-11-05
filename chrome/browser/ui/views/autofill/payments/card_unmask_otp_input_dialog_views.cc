@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask OTP input dialog views implementation
+// summary: Implements the Views dialog where users enter an OTP to unmask a card, handling pending, invalid and confirmation states.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/card_unmask_otp_input_dialog_views.h"
 
 #include <string>

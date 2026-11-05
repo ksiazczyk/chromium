@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressBubbleBaseView class declaration
+// summary: Declares the base view class for address save and update bubbles, extending AutofillLocationBarBubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_BUBBLE_BASE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_BUBBLE_BASE_VIEW_H_
 

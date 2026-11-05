@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup warning view unit test
+// summary: Unit test verifying that PopupWarningView exposes the correct accessibility role and text name.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_warning_view.h"
 
 #include <memory>

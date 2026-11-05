@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressSignInPromoView class declaration
+// summary: Declares the AddressSignInPromoView class for the post-save address sign-in promo bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_SIGN_IN_PROMO_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_SIGN_IN_PROMO_VIEW_H_
 

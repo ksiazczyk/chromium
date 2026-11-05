@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card enroll bubble views interactive UI test
+// summary: Interactive UI tests for the virtual card enrollment bubble, covering enrollment fields, legal messages, the loading state, and metrics.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/virtual_card_enroll_bubble_views.h"
 
 #include <memory>

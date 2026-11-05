@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL dialog footnote view implementation
+// summary: Implements a horizontal footnote view with a styled label, link and optional bold range for BNPL dialogs.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_dialog_footnote.h"
 
 #include "chrome/browser/ui/views/autofill/payments/payments_view_util.h"

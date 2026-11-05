@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice bubble view browser tests
+// summary: Browser tests that enable the wallet reminder notice feature and verify the bubble is shown and the toolbar action item reflects bubble visibility.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/wallet_reminder_notice_bubble_view.h"
 
 #include "base/test/scoped_feature_list.h"

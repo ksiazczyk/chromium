@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask prompt view tester for Views
+// summary: Test helper that wraps CardUnmaskPromptViews to close the prompt and enter a CVC before accepting the dialog.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/card_unmask_prompt_view_tester_views.h"
 
 #include <string>

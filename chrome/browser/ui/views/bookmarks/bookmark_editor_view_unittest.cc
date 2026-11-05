@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark editor view unit tests
+// summary: Unit tests for the bookmark editor view, covering editing, tree selection, clipboard limits, and account bookmark scenarios.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_editor_view.h"
 
 #include <memory>

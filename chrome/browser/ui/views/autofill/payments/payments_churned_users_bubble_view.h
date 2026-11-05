@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users bubble view header
+// summary: Declares the PaymentsChurnedUsersBubbleView class for the churned users bubble, including its loading progress row and throbber members.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PAYMENTS_CHURNED_USERS_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PAYMENTS_CHURNED_USERS_BUBBLE_VIEW_H_
 

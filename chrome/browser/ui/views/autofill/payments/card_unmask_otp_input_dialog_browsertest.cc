@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask OTP input dialog browser test
+// summary: Parameterized browser tests for the card unmask OTP input dialog, covering display, closing tabs or the browser, and shown metrics.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"

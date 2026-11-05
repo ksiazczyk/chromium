@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill bubble view implementation
+// summary: Implements the location bar bubble that lists autofill payment suggestions under the omnibox and reports show, selection and close events to its controller.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/omnibox_autofill_bubble_view.h"
 
 #include <string>

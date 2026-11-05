@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill AI views build configuration
+summary: Defines source_set targets for the Autofill AI bubble views, their dependencies and the browser and unit test targets.

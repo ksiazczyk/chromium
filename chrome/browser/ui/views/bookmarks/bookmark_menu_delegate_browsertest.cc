@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkMenuDelegate browser tests
+// summary: In-process browser tests for BookmarkMenuDelegate covering bookmark bar and app menu bookmark menus, including managed and account bookmarks.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_menu_delegate.h"
 
 #include <memory>

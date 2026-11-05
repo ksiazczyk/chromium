@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressEditorView unit tests
+// summary: Unit tests for AddressEditorView covering form validation and error messages for required fields.
+// ---
+
 #include "chrome/browser/ui/views/autofill/address_editor_view.h"
 
 #include <memory>

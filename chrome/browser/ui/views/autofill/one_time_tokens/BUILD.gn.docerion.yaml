@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for one_time_tokens views
+summary: Defines GN source sets for the Gmail OTP opt-in bubble view plus its browser and unit test targets with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group tabs menu model declaration
+// summary: Declares STGTabsMenuModel, the menu model backing saved tab group tab submenus and context menus with command-to-action mapping.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_TABS_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_TABS_MENU_MODEL_H_
 

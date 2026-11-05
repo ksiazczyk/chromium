@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bubble view browser tests
+// summary: Browser tests covering the bookmark bubble dialog, including commerce price tracking and feature engagement behaviors.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bubble_view.h"
 
 #include "base/memory/raw_ptr.h"

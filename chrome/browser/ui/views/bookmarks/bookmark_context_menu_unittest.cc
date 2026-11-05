@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark context menu unit tests
+// summary: Unit tests covering bookmark context menu commands, feature overrides, and clipboard-related behavior.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_context_menu.h"
 
 #include <stddef.h>

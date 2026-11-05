@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo code label button implementation
+// summary: Implements a styled label button that displays a merchant promo code with a copy icon, payments-themed colors and ink drop effects.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/promo_code_label_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

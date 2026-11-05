@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill error dialog native views implementation
+// summary: Implements the desktop views-based autofill error dialog, laying out the error icon and description and notifying the controller on dismissal.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/autofill_error_dialog_view_native_views.h"
 
 #include "base/memory/weak_ptr.h"

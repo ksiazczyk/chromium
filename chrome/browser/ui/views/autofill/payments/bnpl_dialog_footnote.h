@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL dialog footnote view header
+// summary: Declares BnplDialogFootnote, the footnote banner view shown across the bottom of the BNPL issuer selection dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_BNPL_DIALOG_FOOTNOTE_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_BNPL_DIALOG_FOOTNOTE_H_
 

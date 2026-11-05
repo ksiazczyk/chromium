@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup row view unit tests
+// summary: Unit tests for row selection, keyboard events, mouse guarding, and accessibility behavior of PopupRowView.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_view.h"
 
 #include <memory>

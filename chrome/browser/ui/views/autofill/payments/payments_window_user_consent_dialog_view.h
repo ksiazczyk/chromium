@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window user consent dialog view header
+// summary: Declares the desktop native views implementation of the payments window user consent dialog and its controller interaction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_USER_CONSENT_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_USER_CONSENT_DIALOG_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupNoticeView implementation
+// summary: Implements the informational notice row shown at the bottom of the Autofill popup, including link, accept button, and metrics.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_notice_view.h"
 
 #include <memory>

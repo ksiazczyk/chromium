@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask authentication selection dialog browser test
+// summary: Browser tests that show the card unmask authentication selection dialog and verify challenge option selection behavior and logged metrics.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/autofill/payments/payments_view_factory.h"

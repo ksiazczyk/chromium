@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill suggestion view implementation
+// summary: Implements a button wrapping a popup row content view that updates highlight styling and runs callbacks when an omnibox autofill suggestion is selected or deselected.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/omnibox_autofill_suggestion_view.h"
 
 #include <utility>

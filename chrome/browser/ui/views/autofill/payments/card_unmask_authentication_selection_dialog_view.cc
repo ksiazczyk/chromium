@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication selection dialog view implementation
+// summary: Implements the Views dialog that lets users choose how to authenticate card unmasking, such as SMS or email OTP, CVC or 3DS challenge options.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/card_unmask_authentication_selection_dialog_view.h"
 
 #include "chrome/browser/ui/autofill/payments/payments_view_factory.h"

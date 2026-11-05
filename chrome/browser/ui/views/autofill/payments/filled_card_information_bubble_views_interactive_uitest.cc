@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filled card information bubble interactive UI test
+// summary: Interactive UI tests for the filled card information bubble, covering tooltips, accessible names, and card detail copy buttons.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/filled_card_information_bubble_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupNoticeView test API
+// summary: Test helper exposing internal PopupNoticeView state like description, accept button, and focus flags for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_NOTICE_VIEW_TEST_API_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_NOTICE_VIEW_TEST_API_H_
 

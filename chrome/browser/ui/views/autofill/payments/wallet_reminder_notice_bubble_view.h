@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice bubble view class declaration
+// summary: Declares WalletReminderNoticeBubbleView, an AutofillLocationBarBubble subclass that displays wallet reminder notices and forwards show, hide, and close events to its controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_WALLET_REMINDER_NOTICE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_WALLET_REMINDER_NOTICE_BUBBLE_VIEW_H_
 

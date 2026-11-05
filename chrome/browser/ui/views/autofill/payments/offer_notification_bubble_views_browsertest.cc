@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer notification bubble views browser tests
+// summary: Browser tests checking when the offer notification bubble appears, covering invalid offer data, promo code offers, and navigation timing.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/autofill/payments/payments_ui_constants.h"

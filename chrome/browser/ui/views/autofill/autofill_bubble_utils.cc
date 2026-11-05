@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bubble UI helper functions
+// summary: Provides helpers that build a standard edit button and a legal message view with clickable links for autofill bubble views.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_bubble_utils.h"
 
 #include <memory>

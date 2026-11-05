@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save address profile view unit tests
+// summary: Unit tests for SaveAddressProfileView that use a mock save bubble controller to exercise the save address prompt UI.
+// ---
+
 #include "chrome/browser/ui/views/autofill/save_address_profile_view.h"
 
 #include <memory>

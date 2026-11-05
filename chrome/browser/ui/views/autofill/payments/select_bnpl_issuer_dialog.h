@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL issuer selection dialog header
+// summary: Declares the SelectBnplIssuerDialog desktop dialog view for choosing a BNPL issuer, including throbber and footnote views and tab detach handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_SELECT_BNPL_ISSUER_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_SELECT_BNPL_ISSUER_DIALOG_H_
 

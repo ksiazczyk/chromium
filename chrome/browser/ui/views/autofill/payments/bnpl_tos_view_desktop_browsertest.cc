@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL terms of service view browser test
+// summary: Browser test that shows the BNPL Terms of Service UI and verifies it does not crash the browser.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_tos_view_desktop.h"
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BNPL terms of service view implementation
+// summary: Implements CreateAndShowBnplTos and BnplTosViewDesktop, which create and show the BNPL ToS dialog in a tab on desktop and open its links.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_tos_view_desktop.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar button implementation
+// summary: Implements the button classes used on the bookmark bar, including hover-triggered preconnect and prefetch preloading and tooltip handling.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_button.h"
 
 #include <string_view>

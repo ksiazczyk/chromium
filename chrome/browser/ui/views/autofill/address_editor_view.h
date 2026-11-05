@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressEditorView class declaration
+// summary: Declares the AddressEditorView class that builds and validates address profile editor fields.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_EDITOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_ADDRESS_EDITOR_VIEW_H_
 

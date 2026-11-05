@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyLoadingImageView implementation
+// summary: Implements an image view that defers loading its image content until the view is first painted and visible.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/lazy_loading_image_view.h"
 
 #include "base/check.h"

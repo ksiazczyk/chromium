@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyLoadingImageView unit tests
+// summary: Unit tests checking that the image loader runs only for visible views and that loaded content replaces the placeholder image.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/lazy_loading_image_view.h"
 
 #include "base/functional/callback_helpers.h"

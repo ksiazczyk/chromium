@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password favicon loader unit tests
+// summary: Unit tests for the password favicon loader using mocked large icon service and image fetcher components.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/password_favicon_loader.h"
 
 #include <memory>

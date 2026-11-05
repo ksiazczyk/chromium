@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity suppression dialog header
+// summary: Declares ShowEntitySuppressionDialogView, which shows a confirmation dialog for suppressing an Autofill AI entity and reports the user's decision via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_ENTITY_SUPPRESSION_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_ENTITY_SUPPRESSION_DIALOG_VIEW_H_
 

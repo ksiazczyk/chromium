@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt views implementation
+// summary: Implements the web-modal Views prompt for unmasking a saved credit card, including verification progress, errors and retry handling.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/card_unmask_prompt_views.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice bubble view implementation
+// summary: Implements the location bar bubble that shows wallet reminder notices, including the Lottie header image, title, and legal message lines from its controller.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/wallet_reminder_notice_bubble_view.h"
 
 #include <string>

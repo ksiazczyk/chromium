@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupLoadingView unit tests
+// summary: Unit tests verifying the loading view's accessibility role, throbber child view, and preferred size calculation.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_loading_view.h"
 
 #include <memory>

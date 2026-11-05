@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI local save notification view browser tests
+// summary: Parametrized in-process browser tests verifying the local save notification bubble in dark mode and RTL layouts.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/autofill_ai_local_save_notification_view.h"
 
 #include <string>

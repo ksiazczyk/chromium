@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth confirmation bubble view header
+// summary: Declares the MandatoryReauthConfirmationBubbleView class, the location bar bubble confirming mandatory reauth opt-in.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_MANDATORY_REAUTH_CONFIRMATION_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_MANDATORY_REAUTH_CONFIRMATION_BUBBLE_VIEW_H_
 

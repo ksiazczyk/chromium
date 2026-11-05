@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupSearchBarView implementation
+// summary: Implements the autofill popup search bar, including the search textfield and clear button used to filter popup suggestions.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_search_bar_view.h"
 
 #include <memory>

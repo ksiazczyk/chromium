@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupRowWithButtonView class header
+// summary: Declares a selectable autofill popup row view that embeds a button with configurable visibility and selection behavior for keyboard and accessibility navigation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_ROW_WITH_BUTTON_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_ROW_WITH_BUTTON_VIEW_H_
 

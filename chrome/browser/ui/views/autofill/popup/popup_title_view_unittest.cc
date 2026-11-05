@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup title view unit tests
+// summary: Unit tests verifying that the autofill popup title view exposes the correct accessible role and properties.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_title_view.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

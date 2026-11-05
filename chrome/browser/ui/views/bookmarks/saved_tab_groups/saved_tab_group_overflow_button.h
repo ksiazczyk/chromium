@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group overflow button declaration
+// summary: Declares SavedTabGroupOverflowButton, the menu button that opens the everything menu in the saved tab group bar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_OVERFLOW_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_OVERFLOW_BUTTON_H_
 

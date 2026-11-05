@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group overflow button implementation
+// summary: Implements the overflow menu button that opens the everything menu from the saved tab group bar, with icon, tooltip and accessibility settings.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_overflow_button.h"
 
 #include <memory>

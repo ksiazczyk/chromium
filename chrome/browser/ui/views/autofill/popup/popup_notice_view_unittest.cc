@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupNoticeView unit tests
+// summary: Unit tests covering notice row selection, keyboard focus handling, histogram metrics, and accept and link interactions.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_notice_view.h"
 
 #include <memory>

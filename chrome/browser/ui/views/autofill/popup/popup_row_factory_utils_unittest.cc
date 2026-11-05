@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup row factory unit tests
+// summary: Unit tests for popup row creation helpers, checking labels, icons, badges, and accessibility across suggestion types.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_factory_utils.h"
 
 #include <memory>

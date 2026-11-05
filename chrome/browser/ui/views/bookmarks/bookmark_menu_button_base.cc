@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark menu button base implementation
+// summary: Implements shared behavior for menu-hosting bookmark bar buttons, including hover-state handling during bookmark drags.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_menu_button_base.h"
 
 #include <memory>
