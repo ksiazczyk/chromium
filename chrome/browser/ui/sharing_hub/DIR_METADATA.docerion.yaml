@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sharing hub directory metadata
+summary: Maps the directory to the UI>Browser>Sharing monorail component and a Buganizer component for issue routing.

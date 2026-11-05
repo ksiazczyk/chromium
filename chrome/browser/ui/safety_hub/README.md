@@ -1,3 +1,11 @@
+---
+type: readme
+title: Safety Hub directory README
+summary: Explains the Safety Hub service architecture, the two-stage update process, result types and testing conventions.
+relations:
+  - references /chrome/browser/ui/safety_hub/safety_hub_service.h
+---
+
 ## Services
 
 This directory contains the services related to Safety Hub. Each specific

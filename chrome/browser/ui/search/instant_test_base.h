@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant test base class declaration
+// summary: Declares a mix-in base class that gives derived test classes Instant setup support and access to an HTTPS test server.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_INSTANT_TEST_BASE_H_
 #define CHROME_BROWSER_UI_SEARCH_INSTANT_TEST_BASE_H_
 

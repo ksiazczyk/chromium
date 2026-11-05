@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification service declaration
+// summary: Declares SafetyHubMenuNotificationService, a KeyedService that manages three-dot menu notifications across Safety Hub modules by priority and interval.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_SERVICE_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_SERVICE_H_
 

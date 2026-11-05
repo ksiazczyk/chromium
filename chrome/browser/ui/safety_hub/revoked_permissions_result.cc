@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions result implementation
+// summary: Implements the Safety Hub result that stores revoked permissions, serializes them, and decides when menu notifications are warranted.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_result.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search promotion manager factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides SearchPromotionManager instances for regular, non-incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_PROMOTION_SEARCH_PROMOTION_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_UI_SEARCH_PROMOTION_SEARCH_PROMOTION_MANAGER_FACTORY_H_
 

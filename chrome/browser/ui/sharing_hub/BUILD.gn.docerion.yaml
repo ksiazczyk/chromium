@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharing hub build targets
+summary: GN build file defining the sharing_hub and impl source sets for sharing hub bubble controllers, with ChromeOS and desktop variants plus test support.

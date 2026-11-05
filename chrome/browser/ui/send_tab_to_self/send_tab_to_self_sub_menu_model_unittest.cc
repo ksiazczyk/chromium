@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self submenu model unit tests
+// summary: Unit tests for the Send Tab to Self submenu model, covering device list limits, menu item display, and command execution.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_sub_menu_model.h"
 
 #include <memory>

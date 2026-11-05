@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disruptive notification permissions manager implementation
+// summary: Implements revocation of disruptive notification permissions based on daily notification counts and site engagement, with state tracking.
+// ---
+
 #include "chrome/browser/ui/safety_hub/disruptive_notification_permissions_manager.h"
 
 #include "base/auto_reset.h"

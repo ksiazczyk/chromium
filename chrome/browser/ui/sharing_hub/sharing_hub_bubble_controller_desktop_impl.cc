@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop sharing hub bubble controller implementation
+// summary: Implements the sharing hub controller for Windows, Mac and Linux, building first-party actions and showing the sharing hub bubble via the window controller.
+// ---
+
 #include "chrome/browser/ui/sharing_hub/sharing_hub_bubble_controller_desktop_impl.h"
 
 #include "base/metrics/user_metrics.h"

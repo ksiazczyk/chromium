@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search promotion navigation observer implementation
+// summary: Implements a per-tab observer that notifies the search promotion manager when a committed main-frame navigation lands on a Google Search URL.
+// ---
+
 #include "chrome/browser/ui/search_promotion/search_promotion_navigation_observer.h"
 
 #include "chrome/browser/profiles/profile.h"

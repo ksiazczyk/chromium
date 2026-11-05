@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search IPC router policy browser tests
+// summary: Browser tests checking that the search IPC router policy does not process or send messages such as omnibox focus or NTP theme for non-Instant pages.
+// ---
+
 #include "chrome/browser/ui/browser_tabstrip.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/search/search_ipc_router.h"

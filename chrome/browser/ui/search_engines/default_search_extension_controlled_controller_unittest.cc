@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the default search extension controlled controller
+// summary: Unit tests covering confirmation dialog behavior for extension-controlled default search engines, including simple and complex override extensions.
+// ---
+
 #include "chrome/browser/ui/search_engines/default_search_extension_controlled_controller.h"
 
 #include <memory>

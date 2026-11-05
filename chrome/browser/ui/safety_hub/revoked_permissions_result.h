@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions result header
+// summary: Declares the RevokedPermissionsResult class, PermissionsData and revocation types used to track revoked site permissions in Safety Hub.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_RESULT_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_REVOKED_PERMISSIONS_RESULT_H_
 

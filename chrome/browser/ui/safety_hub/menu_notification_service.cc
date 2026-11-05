@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification service implementation
+// summary: Implements SafetyHubMenuNotificationService, which gathers results from Safety Hub modules and picks which notification to show in the three-dot menu.
+// ---
+
 #include "chrome/browser/ui/safety_hub/menu_notification_service.h"
 
 #include <memory>

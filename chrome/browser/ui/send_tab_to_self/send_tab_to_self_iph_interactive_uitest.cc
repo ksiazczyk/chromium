@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self IPH interactive UI tests
+// summary: Interactive UI tests covering the Send Tab to Self in-product help promo, tutorials, device menu items, and toast behavior in the browser UI.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <utility>

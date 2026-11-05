@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub menu notification service unit tests
+// summary: Unit tests for SafetyHubMenuNotificationService verifying notification selection, dismissal, impression limits, and module-specific behavior.
+// ---
+
 #include "chrome/browser/ui/safety_hub/menu_notification_service.h"
 
 #include <ctime>

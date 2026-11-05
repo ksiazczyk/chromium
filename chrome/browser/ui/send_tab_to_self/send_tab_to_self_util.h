@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self UI utility function declarations
+// summary: Declares helper functions for the Send Tab to Self UI, including activating entries, opening received tabs in foreground or background, device icons, send-completion toasts, and opening the manage devices page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_UTIL_H_
 #define CHROME_BROWSER_UI_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_UTIL_H_
 

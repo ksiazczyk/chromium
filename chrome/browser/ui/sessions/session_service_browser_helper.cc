@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service browser helper implementation
+// summary: Implements the helper that syncs tab, tab group, split tab and window state with SessionService and TabRestoreService to enable session restore.
+// ---
+
 #include "chrome/browser/ui/sessions/session_service_browser_helper.h"
 
 #include "base/check_deref.h"

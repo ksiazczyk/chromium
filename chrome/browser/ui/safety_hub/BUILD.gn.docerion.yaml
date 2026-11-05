@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safety Hub build configuration (BUILD.gn)
+summary: Defines the Safety Hub source sets and their platform-specific sources and dependencies for the GN build.

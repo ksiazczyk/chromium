@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disruptive notification permissions manager unit tests
+// summary: Unit tests for the disruptive notification permissions manager covering revocation states, false positives and OS notifications.
+// ---
+
 #include "chrome/browser/ui/safety_hub/disruptive_notification_permissions_manager.h"
 
 #include <memory>

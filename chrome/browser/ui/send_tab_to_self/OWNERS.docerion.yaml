@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Send Tab to Self UI code owners
+summary: Delegates ownership reviews of this directory to the components/send_tab_to_self OWNERS file.

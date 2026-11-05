@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser controller header
+// summary: Declares the SerialChooserController class that supplies data for the Serial API permission prompt and observes port and Bluetooth adapter changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SERIAL_SERIAL_CHOOSER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SERIAL_SERIAL_CHOOSER_CONTROLLER_H_
 

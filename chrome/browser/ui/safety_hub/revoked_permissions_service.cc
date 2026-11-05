@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions service implementation
+// summary: Implements the service that tracks revoked permissions such as unused, abusive and disruptive notifications and re-grants or clears them on request.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_service.h"
 
 #include "base/check.h"

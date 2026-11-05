@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sharing hub owners
+summary: Delegates code ownership for the directory to the owners of components/send_tab_to_self.

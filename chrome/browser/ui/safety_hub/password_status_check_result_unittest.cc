@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password status check result unit tests
+// summary: Unit tests for PasswordStatusCheckResult covering dict conversion, notification triggers, and when new compromised passwords warrant notifications.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_result.h"
 
 #include "base/json/values_util.h"

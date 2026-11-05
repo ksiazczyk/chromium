@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revoked permissions OS notification display manager implementation
+// summary: Implements display and update of OS notifications summarizing revoked abusive and disruptive notification permissions.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_os_notification_display_manager.h"
 
 #include "base/strings/escape.h"

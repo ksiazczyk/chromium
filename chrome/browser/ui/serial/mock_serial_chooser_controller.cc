@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock serial chooser controller implementation
+// summary: Implements the mock serial chooser controller that stands in for the real controller in tests.
+// ---
+
 #include "chrome/browser/ui/serial/mock_serial_chooser_controller.h"
 
 #include <string>

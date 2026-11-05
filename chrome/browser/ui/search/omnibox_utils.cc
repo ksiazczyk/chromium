@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox utilities implementation
+// summary: Implements helpers to access the omnibox controller and to focus or unfocus the omnibox, supporting fakebox behavior on New Tab Pages.
+// ---
+
 #include "chrome/browser/ui/search/omnibox_utils.h"
 
 #include "chrome/browser/ui/browser_window.h"

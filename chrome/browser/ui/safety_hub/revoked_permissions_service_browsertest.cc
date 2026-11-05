@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revoked permissions service browser tests
+// summary: In-process browser tests verifying revocation, re-granting, notifications and metrics behavior of the revoked permissions service.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_service.h"
 
 #include <algorithm>

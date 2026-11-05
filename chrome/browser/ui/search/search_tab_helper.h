@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search tab helper header
+// summary: Declares SearchTabHelper, the per-tab embeddedSearch API implementation observing navigation, instant service and omnibox events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_SEARCH_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_SEARCH_SEARCH_TAB_HELPER_H_
 

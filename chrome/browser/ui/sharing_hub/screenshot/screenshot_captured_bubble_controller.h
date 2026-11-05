@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot captured bubble controller header
+// summary: Declares the WebContents-scoped controller responsible for showing, hiding, and closing the screenshot capture bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SHARING_HUB_SCREENSHOT_SCREENSHOT_CAPTURED_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SHARING_HUB_SCREENSHOT_SCREENSHOT_CAPTURED_BUBBLE_CONTROLLER_H_
 

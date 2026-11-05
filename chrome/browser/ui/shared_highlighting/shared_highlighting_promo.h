@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedHighlightingPromo class header
+// summary: Declares SharedHighlightingPromo, a WebContentsObserver responsible for displaying a promo when the user opens a page with highlighted text.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SHARED_HIGHLIGHTING_SHARED_HIGHLIGHTING_PROMO_H_
 #define CHROME_BROWSER_UI_SHARED_HIGHLIGHTING_SHARED_HIGHLIGHTING_PROMO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification class declaration
+// summary: Declares SafetyHubMenuNotification, which decides when Safety Hub notifications should appear in the Chrome menu based on impressions and intervals.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_MENU_NOTIFICATION_H_
 

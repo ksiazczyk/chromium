@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the shortcuts directory
+summary: Delegates review ownership of this directory to the OWNERS file in chrome/browser/shortcuts.

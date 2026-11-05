@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password status check service implementation
+// summary: Implements the service that periodically runs password checks with weighted day scheduling and tracks compromised, weak, and reused credentials.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_service.h"
 
 #include <memory>

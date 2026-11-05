@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub preference key constants
+// summary: Defines preference key constants for Safety Hub password check counts and timing, abusive notification blocklist checks, and unused site permission revocation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_PREFS_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_PREFS_H_
 

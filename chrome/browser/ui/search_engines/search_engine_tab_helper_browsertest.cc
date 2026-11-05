@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine tab helper browser tests
+// summary: Browser tests verifying keyword generation and OpenSearch description handling in SearchEngineTabHelper using an embedded test server.
+// ---
+
 #include "chrome/browser/ui/search_engines/search_engine_tab_helper.h"
 
 #include <utility>

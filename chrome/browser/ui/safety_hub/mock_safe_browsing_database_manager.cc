@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Safe Browsing database manager implementation
+// summary: Implements a mock Safe Browsing database manager that simulates URL check responses and tracks cancelled checks for Safety Hub tests.
+// ---
+
 #include "chrome/browser/ui/safety_hub/mock_safe_browsing_database_manager.h"
 
 MockSafeBrowsingDatabaseManager::MockSafeBrowsingDatabaseManager()

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to browser search owners
+summary: Delegates ownership review for this directory to the chrome/browser/search OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock serial chooser controller header
+// summary: Declares a gmock mock of the serial chooser controller with stubbed chooser, adapter, and help-link methods for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SERIAL_MOCK_SERIAL_CHOOSER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SERIAL_MOCK_SERIAL_CHOOSER_CONTROLLER_H_
 

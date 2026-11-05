@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification implementation
+// summary: Implements SafetyHubMenuNotification, which tracks impressions, dismissal, and serialization of Safety Hub notifications shown in the Chrome three-dot menu.
+// ---
+
 #include "chrome/browser/ui/safety_hub/menu_notification.h"
 
 #include <memory>

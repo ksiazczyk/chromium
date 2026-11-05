@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub HaTS survey service implementation
+// summary: Implements the service that triggers Trust & Safety sentiment surveys based on user interactions with Safety Hub modules and notifications.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_hats_service.h"
 
 #include <utility>

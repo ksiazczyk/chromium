@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub constant definitions
+// summary: Defines shared string keys, histogram names, and time constants used across Safety Hub modules.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_constants.h"
 
 #include "base/time/time.h"

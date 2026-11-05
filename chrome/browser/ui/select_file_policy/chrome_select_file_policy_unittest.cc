@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSelectFilePolicy unit tests
+// summary: Unit test verifying that SelectFileDialog notifies its listener asynchronously when file-selection dialogs are disabled by policy.
+// ---
+
 #include "chrome/browser/ui/select_file_policy/chrome_select_file_policy.h"
 
 #include <memory>

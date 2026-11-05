@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android password status check result implementation
+// summary: Android implementation of the password status check result that reads the compromised password count from preferences and drives magic stack menu notifications.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_result_android.h"
 
 #include <memory>

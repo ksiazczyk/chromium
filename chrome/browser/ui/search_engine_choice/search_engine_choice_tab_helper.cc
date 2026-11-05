@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice tab helper implementation
+// summary: Implements a WebContentsObserver that shows the search engine choice dialog when navigation, visibility and eligibility conditions are met.
+// ---
+
 #include "chrome/browser/ui/search_engine_choice/search_engine_choice_tab_helper.h"
 
 #include "base/check_deref.h"

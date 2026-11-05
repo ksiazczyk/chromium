@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub utility implementations
+// summary: Implements Safety Hub utility functions for revoked abusive and unused site permission checks, cleanup thresholds, version card data, and menu notification metrics.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_util.h"
 
 #include "chrome/browser/ui/safety_hub/safety_hub_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice UI build targets
+summary: GN build file defining the search_engine_choice and impl source sets for the search engine choice UI on non-Android platforms.

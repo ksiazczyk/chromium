@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub extensions result class declaration
+// summary: Declares SafetyHubExtensionsResult, a SafetyHubResult that tracks extensions needing review and supplies notification strings and command IDs for the Chrome menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_EXTENSIONS_RESULT_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_EXTENSIONS_RESULT_H_
 

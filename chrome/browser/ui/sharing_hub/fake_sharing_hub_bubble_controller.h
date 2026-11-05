@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sharing hub bubble controller
+// summary: Declares a test fake for SharingHubBubbleController with configurable actions and gmock callbacks for bubble interactions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SHARING_HUB_FAKE_SHARING_HUB_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SHARING_HUB_FAKE_SHARING_HUB_BUBBLE_CONTROLLER_H_
 

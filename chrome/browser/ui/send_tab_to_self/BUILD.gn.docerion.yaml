@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send Tab to Self UI GN build definition
+summary: Defines GN source sets for the Send Tab to Self UI headers, implementations, and browser and interactive UI test targets.

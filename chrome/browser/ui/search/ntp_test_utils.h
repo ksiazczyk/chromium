@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP test utilities header
+// summary: Declares ntp_test_utils helpers for configuring search providers and determining the final new tab page URL in test environments.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_NTP_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_SEARCH_NTP_TEST_UTILS_H_
 

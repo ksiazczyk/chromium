@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub menu notification service factory implementation
+// summary: Creates per-profile SafetyHubMenuNotificationService instances, wiring revoked permissions, password check, and extension dependencies on non-Android platforms.
+// ---
+
 #include "chrome/browser/ui/safety_hub/menu_notification_service_factory.h"
 
 #include "base/feature_list.h"

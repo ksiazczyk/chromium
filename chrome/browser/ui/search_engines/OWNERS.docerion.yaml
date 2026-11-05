@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the search engines UI folder
+summary: Inherits reviewers from components/search_engines and assigns per-file ownership for the default search extension controlled controller.

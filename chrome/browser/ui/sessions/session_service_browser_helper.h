@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service browser helper header
+// summary: Declares SessionServiceBrowserHelper, a TabStripModelObserver that forwards tab and window events to session services for session restore.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SESSIONS_SESSION_SERVICE_BROWSER_HELPER_H_
 #define CHROME_BROWSER_UI_SESSIONS_SESSION_SERVICE_BROWSER_HELPER_H_
 

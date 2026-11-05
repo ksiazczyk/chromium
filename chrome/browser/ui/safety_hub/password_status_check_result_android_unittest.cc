@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android password status check result unit tests
+// summary: Unit tests verifying serialization, notification triggers, new notification warrants, and cloning of the Android password status check result.
+// ---
+
 #include "chrome/browser/ui/safety_hub/password_status_check_result_android.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub result base class
+// summary: Declares the abstract base class for Safety Hub service results, covering serialization, menu notification triggers, strings, command IDs, and cloning.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_RESULT_H_
 #define CHROME_BROWSER_UI_SAFETY_HUB_SAFETY_HUB_RESULT_H_
 

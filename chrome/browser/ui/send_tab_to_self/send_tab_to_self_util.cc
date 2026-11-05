@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self UI utility functions
+// summary: Utility functions for opening received Send Tab to Self entries in new tabs, showing toasts, and recording related metrics.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_util.h"
 
 #include <optional>

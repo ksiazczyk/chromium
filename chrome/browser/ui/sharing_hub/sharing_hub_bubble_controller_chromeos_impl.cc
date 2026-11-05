@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS sharing hub bubble controller implementation
+// summary: Implements the sharing hub controller for ChromeOS by showing and closing the Sharesheet, handling tab visibility and logging share metrics.
+// ---
+
 #include "chrome/browser/ui/sharing_hub/sharing_hub_bubble_controller_chromeos_impl.h"
 
 #include "base/functional/callback_helpers.h"

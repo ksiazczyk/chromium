@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page navigation throttle declaration
+// summary: Declares a navigation throttle that opens the local new tab page when the remote new tab page cannot be loaded.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_NEW_TAB_PAGE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_SEARCH_NEW_TAB_PAGE_NAVIGATION_THROTTLE_H_
 

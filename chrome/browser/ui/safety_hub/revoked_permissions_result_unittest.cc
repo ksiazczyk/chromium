@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revoked permissions result unit tests
+// summary: Parameterized unit tests covering revoked permission results for abusive, disruptive and unused site permissions across feature flag variations.
+// ---
+
 #include "chrome/browser/ui/safety_hub/revoked_permissions_result.h"
 
 #include <list>

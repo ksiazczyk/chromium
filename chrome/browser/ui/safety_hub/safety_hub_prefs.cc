@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub preferences registration
+// summary: Registers Safety Hub profile preferences for background password checks, menu notifications, and unused site permission revocation on desktop and Android.
+// ---
+
 #include "chrome/browser/ui/safety_hub/safety_hub_prefs.h"
 
 #include "build/build_config.h"

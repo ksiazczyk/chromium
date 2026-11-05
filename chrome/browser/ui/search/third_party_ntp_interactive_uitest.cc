@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party NTP interactive UI tests
+// summary: Interactive UI tests checking that omnibox focus is retained across NTP reloads and navigations on third-party New Tab Pages.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/search/instant_service.h"
 #include "chrome/browser/search/instant_service_factory.h"

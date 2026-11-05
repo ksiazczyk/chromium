@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant controller class declaration
+// summary: Declares InstantController, which sends theme and most visited updates to the instant tab on tab switches and NTP navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SEARCH_INSTANT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SEARCH_INSTANT_CONTROLLER_H_
 

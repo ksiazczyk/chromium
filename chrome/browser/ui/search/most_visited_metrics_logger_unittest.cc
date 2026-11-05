@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited metrics logger unit tests
+// summary: Verifies that impressions, load state and navigations are recorded exactly once with the expected histogram buckets and user actions.
+// ---
+
 #include "chrome/browser/ui/search/most_visited_metrics_logger.h"
 
 #include "base/test/metrics/histogram_tester.h"

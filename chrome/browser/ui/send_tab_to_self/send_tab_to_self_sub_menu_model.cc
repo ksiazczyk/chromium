@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self submenu model implementation
+// summary: Implements the submenu model that builds Send Tab to Self menu items for target devices in context menus and app menus.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_sub_menu_model.h"
 
 #include <memory>

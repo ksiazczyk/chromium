@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the chrome search navigation throttle
+// summary: Unit tests verifying the throttle blocks renderer-initiated chrome-search navigations from non-instant processes and allows instant ones.
+// ---
+
 #include "chrome/browser/ui/search/chrome_search_navigation_throttle.h"
 
 #include "base/test/scoped_feature_list.h"

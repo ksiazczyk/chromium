@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSelectFilePolicy class declaration
+// summary: Declares ChromeSelectFilePolicy, a Chrome-specific SelectFilePolicy that checks local state and displays an infobar on the source WebContents when dialogs are denied.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SELECT_FILE_POLICY_CHROME_SELECT_FILE_POLICY_H_
 #define CHROME_BROWSER_UI_SELECT_FILE_POLICY_CHROME_SELECT_FILE_POLICY_H_
 

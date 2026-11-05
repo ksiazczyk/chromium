@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification wrapper implementation
+// summary: Android implementation that displays and updates revoked permission notifications by calling the UnsubscribedNotificationsNotificationManager Java class through JNI.
+// ---
+
 #include "chrome/browser/ui/safety_hub/notification_wrapper_android.h"
 
 #include "base/android/jni_android.h"

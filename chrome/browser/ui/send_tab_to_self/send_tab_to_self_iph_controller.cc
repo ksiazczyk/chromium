@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self IPH controller implementation
+// summary: Implements the controller that observes tab strip and model changes to show the Send Tab to Self in-product help promo once per startup.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_iph_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search tab helper Android unit tests
+// summary: Unit tests for Android-specific SearchTabHelper behavior, deriving tab active state from visibility and pushing NTP theme and most visited info to remote NTPs.
+// ---
+
 #include "chrome/browser/ui/search/search_tab_helper.h"
 
 #include <memory>

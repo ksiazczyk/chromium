@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search IPC router policy implementation
+// summary: Implements the SearchIPCRouter policy that decides which embedded search IPC messages are processed or sent, based on incognito status and Instant NTP state.
+// ---
+
 #include "chrome/browser/ui/search/search_ipc_router_policy_impl.h"
 
 #include "chrome/browser/profiles/profile.h"
