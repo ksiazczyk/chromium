@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuProperties
+// summary: Defines the property models and item types for the account menu popup, such as menu items, dividers, promo cards and identity cards.
+// ---
+
 package org.chromium.chrome.browser.toolbar.account_menu;
 
 import android.view.View.OnClickListener;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadProgressMediatorTest
+// summary: Robolectric unit tests verifying LoadProgressMediator's progress updates, completion states and tab switching behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import static org.junit.Assert.assertEquals;

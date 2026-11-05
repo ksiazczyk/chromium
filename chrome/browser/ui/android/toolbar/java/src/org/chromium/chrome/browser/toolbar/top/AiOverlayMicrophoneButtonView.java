@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay microphone button view
+// summary: Toolbar button view for the AI overlay microphone that scales its icon with audio energy and tints it red while active.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.Context;

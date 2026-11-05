@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarActionModeCallback
+// summary: ActionMode.Callback that animates toolbar visibility when copy and paste selection action modes start or end in the omnibox and toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.view.ActionMode;

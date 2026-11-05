@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionIconUtil
+// summary: Utility that converts icon canvas dimensions to dp and fetches extension action icons through the extensions toolbar bridge.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalNewTabButtonController
+// summary: Optional toolbar button that opens a new tab, adapting to form factor, configuration changes and tab strip visibility.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import android.content.Context;

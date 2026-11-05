@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuButton unit tests
+// summary: Robolectric unit tests for the MenuButton view, including tab switcher animation overlay drawing with and without the update badge.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import static org.junit.Assert.assertEquals;

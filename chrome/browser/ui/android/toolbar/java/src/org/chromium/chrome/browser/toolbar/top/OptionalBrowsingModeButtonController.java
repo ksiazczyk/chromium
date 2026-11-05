@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optional browsing mode button controller
+// summary: Encapsulates the logic for choosing which optional button is displayed on the browsing mode toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import androidx.annotation.VisibleForTesting;

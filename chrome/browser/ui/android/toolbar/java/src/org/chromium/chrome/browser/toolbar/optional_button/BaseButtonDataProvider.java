@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for adaptive toolbar button data providers
+// summary: Abstract base class for button data providers on the adaptive toolbar, managing observers, modal dialog disabling and incognito tab visibility.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.content.res.Resources;

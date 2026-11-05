@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceToolbarButtonController
+// summary: Controller that decides when to show the voice search toolbar button and handles its clicks, IPH, and voice search interactions.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

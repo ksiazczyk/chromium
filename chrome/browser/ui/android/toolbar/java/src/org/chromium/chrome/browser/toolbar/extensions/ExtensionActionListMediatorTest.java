@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionActionListMediatorTest
+// summary: Robolectric unit tests for the extension action list mediator, covering popups, context menus, and list state handling.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.junit.Assert.assertEquals;

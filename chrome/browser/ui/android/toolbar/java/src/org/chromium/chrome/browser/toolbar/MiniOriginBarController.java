@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MiniOriginBarController
+// summary: Controller toggling the mini origin presentation of the browsing mode toolbar, animating a reduced-height URL bar with keyboard, inset, and bottom sheet handling.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

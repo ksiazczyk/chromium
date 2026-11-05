@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressAnimationSmooth progress bar animation logic
+// summary: Implements the ToolbarProgressBar animation logic that smoothly accelerates and decelerates the loading progress bar using constant acceleration and deceleration.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

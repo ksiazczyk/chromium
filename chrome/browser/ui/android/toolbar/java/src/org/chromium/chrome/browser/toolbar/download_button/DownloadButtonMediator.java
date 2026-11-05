@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButtonMediator
+// summary: Mediator that updates the download button's property model from download state and theme color changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.download_button;
 
 import android.content.Context;

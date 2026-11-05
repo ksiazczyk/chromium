@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android web app header
+summary: Defines the android_library, android_resources, and robolectric_library targets with their sources and dependencies for the Chrome Android web app header UI.

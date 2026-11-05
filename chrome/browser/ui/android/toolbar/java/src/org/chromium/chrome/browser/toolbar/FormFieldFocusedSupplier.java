@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFieldFocusedSupplier
+// summary: Supplies whether an editable node is focused in the active WebContents by observing IME adapter events, and can reset and hide the keyboard.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

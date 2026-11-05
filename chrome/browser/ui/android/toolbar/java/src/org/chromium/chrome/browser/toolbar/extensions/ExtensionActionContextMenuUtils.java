@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionContextMenuUtils
+// summary: Utility that creates and shows the ListMenu-based context menu for extension actions in the toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.CLICK_LISTENER;

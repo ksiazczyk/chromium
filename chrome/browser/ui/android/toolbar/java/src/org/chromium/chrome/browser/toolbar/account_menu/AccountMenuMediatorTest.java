@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountMenuMediatorTest
+// summary: Robolectric unit tests covering the account menu mediator's menu items, histogram metrics and sign-in related behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.account_menu;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu item properties
+// summary: Defines property model keys for extension menu items, including icon, title, pin state, and site access controls.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.graphics.Bitmap;

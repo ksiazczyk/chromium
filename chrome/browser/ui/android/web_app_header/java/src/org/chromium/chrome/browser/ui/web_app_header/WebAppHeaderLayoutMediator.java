@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppHeaderLayoutMediator
+// summary: Mediator that observes desktop window and theme state changes and updates the web app header model that replaces the caption bar in web apps.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import android.graphics.Rect;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Declares include rules for the extensions toolbar directory, allowing dependencies on thin_webview and extensions common.

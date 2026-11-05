@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAccessControlButtonMediator
+// summary: Mediator that observes extension and tab changes to update the request access button and show related confirmation messages.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

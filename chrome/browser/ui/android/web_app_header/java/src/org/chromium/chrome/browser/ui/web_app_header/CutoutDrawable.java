@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CutoutDrawable
+// summary: Android drawable that paints a solid background while keeping specified rectangular cutout regions transparent.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import android.graphics.Canvas;

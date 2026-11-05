@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherButtonCoordinator
+// summary: Controller for the tab switcher button that wires click listeners, theme tint changes, and tab count updates into its property model.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.res.ColorStateList;

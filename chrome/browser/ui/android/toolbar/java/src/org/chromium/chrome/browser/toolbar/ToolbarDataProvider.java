@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarDataProvider interface
+// summary: Interface defining the data exposed for rendering the toolbar, including the current tab, URL, profile, incognito state, colors, and security icon.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import androidx.annotation.ColorInt;

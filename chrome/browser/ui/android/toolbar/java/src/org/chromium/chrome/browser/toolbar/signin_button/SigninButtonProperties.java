@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninButtonProperties
+// summary: Defines the writable property keys describing the sign-in button state, such as visibility, avatar, tint, and click handling.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import android.content.res.ColorStateList;

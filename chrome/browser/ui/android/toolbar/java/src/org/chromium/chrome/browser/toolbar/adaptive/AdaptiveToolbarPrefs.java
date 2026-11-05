@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar preferences
+// summary: Utility class that reads and writes the adaptive toolbar customization toggle and manual button override preferences.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.ADAPTIVE_TOOLBAR_CUSTOMIZATION_ENABLED;

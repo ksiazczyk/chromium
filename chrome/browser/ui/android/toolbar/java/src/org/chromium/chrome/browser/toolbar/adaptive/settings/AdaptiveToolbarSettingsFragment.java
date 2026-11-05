@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar settings fragment
+// summary: Settings fragment that lets users enable toolbar shortcut customization and choose the adaptive toolbar button via a switch and radio button group.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive.settings;
 
 import android.app.Activity;

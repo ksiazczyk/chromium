@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopToolbarCoordinatorUnitTest
+// summary: Robolectric unit tests covering the top toolbar coordinator's button handling, browser control visibility and tab-related behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.junit.Assert.assertEquals;

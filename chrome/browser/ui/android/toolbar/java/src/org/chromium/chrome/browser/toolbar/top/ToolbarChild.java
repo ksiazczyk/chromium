@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarChild
+// summary: Abstract base class for top toolbar child views, handling theme tint and incognito state observers plus lifecycle destruction.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.animation.Animator;

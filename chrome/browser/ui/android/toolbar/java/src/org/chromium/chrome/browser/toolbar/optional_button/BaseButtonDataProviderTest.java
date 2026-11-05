@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseButtonDataProvider unit tests
+// summary: Robolectric unit tests for BaseButtonDataProvider covering button data behavior, quiet variation and modal dialog handling.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import static org.junit.Assert.assertFalse;

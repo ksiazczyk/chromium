@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonDataImpl
+// summary: Implementation of ButtonData that stores can-show, enabled and text bubble state together with the button spec and update helpers.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.graphics.drawable.Drawable;

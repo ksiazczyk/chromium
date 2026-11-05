@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackButtonCoordinator
+// summary: Root component of the Chrome toolbar back button that exposes its public API and wires together the view, property model, and mediator.
+// ---
+
 package org.chromium.chrome.browser.toolbar.back_button;
 
 import android.animation.ObjectAnimator;

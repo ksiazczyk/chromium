@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar position preference with top and bottom options
+// summary: Radio button group preference letting users place the address bar at the top or bottom and persisting the toolbar position and source in shared and local preferences.
+// ---
+
 package org.chromium.chrome.browser.toolbar.settings;
 
 import android.animation.ArgbEvaluator;

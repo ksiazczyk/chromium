@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive toolbar features unit tests
+// summary: Unit tests for adaptive toolbar feature helpers, covering default button variants, translate and Glic enablement.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static org.junit.Assert.assertEquals;

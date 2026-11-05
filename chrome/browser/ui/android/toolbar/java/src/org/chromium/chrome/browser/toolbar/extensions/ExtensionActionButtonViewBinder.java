@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionButtonViewBinder
+// summary: Binds extension action button model properties like accessible name, icon and listeners to the ListMenuButton view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button coordinator
+// summary: Root component for the toolbar reload button that maintains stop and loading UI states and exposes an API for consumers to react to state changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.reload_button;
 
 import android.animation.ObjectAnimator;

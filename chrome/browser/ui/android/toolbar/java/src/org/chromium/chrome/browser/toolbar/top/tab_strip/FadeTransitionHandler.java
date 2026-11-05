@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FadeTransitionHandler
+// summary: Handles showing and hiding the Android tab strip through an in-place fade transition driven by scrim updates, owned by TabStripTransitionCoordinator.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top.tab_strip;
 
 import android.util.DisplayMetrics;

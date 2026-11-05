@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackButtonMediator
+// summary: Mediator that reacts to external events such as theme, tab, and enabled-state changes and reflects them on the back button property model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.back_button;
 
 import android.animation.ObjectAnimator;

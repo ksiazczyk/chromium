@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeButton
+// summary: Android custom view for the toolbar home button that extends ListMenuButton and manages visibility based on available space.
+// ---
+
 package org.chromium.chrome.browser.toolbar.home_button;
 
 import android.content.Context;

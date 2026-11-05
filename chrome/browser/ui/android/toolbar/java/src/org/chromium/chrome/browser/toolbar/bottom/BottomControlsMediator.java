@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom controls mediator
+// summary: Mediator holding the bottom controls business logic, reacting to fullscreen, keyboard, layout, tab, and browser controls events to update the model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import android.content.Context;

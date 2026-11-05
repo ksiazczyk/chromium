@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomOmniboxTipsPromoHandler
+// summary: TipsPromoHandler for the Bottom Omnibox tip that supplies promo bottom sheet content, opens address bar settings with the bottom toolbar option highlighted on acceptance, and reports bottom omnibox status as an eligibility signal.
+// ---
+
 package org.chromium.chrome.browser.toolbar.tips;
 
 import android.content.Context;

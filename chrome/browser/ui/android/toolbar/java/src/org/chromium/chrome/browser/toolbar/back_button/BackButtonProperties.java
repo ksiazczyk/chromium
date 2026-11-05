@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackButtonProperties
+// summary: Defines the writable property keys that represent the observable state of the toolbar back button model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.back_button;
 
 import android.content.res.ColorStateList;

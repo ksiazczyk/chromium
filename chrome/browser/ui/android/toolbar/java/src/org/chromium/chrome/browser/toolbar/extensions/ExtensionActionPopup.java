@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action popup UI manager
+// summary: Manages an anchored popup window hosting a ThinWebView that renders an extension action's popup HTML, handling sizing and native interactions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.app.Activity;

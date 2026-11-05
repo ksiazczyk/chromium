@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabletCaptureStateToken
+// summary: State token describing the tablet toolbar's visual state so identical capture bitmaps can be detected and unnecessary re-capturing avoided.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.graphics.drawable.Drawable;

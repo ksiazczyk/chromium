@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonProperties - property keys for the optional button model
+// summary: Defines writable property keys for the optional button's property model, covering button data, enabled state, transition callbacks, and appearance attributes such as icon tint, background color, and padding.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.content.res.ColorStateList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormFieldFocusedSupplierTest
+// summary: Robolectric unit tests covering FormFieldFocusedSupplier behavior across WebContents changes and editable node updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertFalse;

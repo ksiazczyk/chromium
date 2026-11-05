@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for web app header
+summary: Allows code in this directory to include headers from third_party/blink/public/mojom.

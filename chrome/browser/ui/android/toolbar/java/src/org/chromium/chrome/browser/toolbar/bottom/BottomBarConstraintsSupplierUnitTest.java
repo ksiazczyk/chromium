@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarConstraintsSupplier unit tests
+// summary: Robolectric unit tests verifying that the supplier follows base constraints on normal pages and forces BOTH constraints on the New Tab Page.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import static org.junit.Assert.assertEquals;

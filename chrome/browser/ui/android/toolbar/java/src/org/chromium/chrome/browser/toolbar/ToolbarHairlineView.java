@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarHairlineView
+// summary: Image view for the toolbar's bottom hairline that acts as a top control layer reporting its type, height, and visibility to the controls stacker.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration defining the Android library and Robolectric test targets for the extensions toolbar and its dependencies.

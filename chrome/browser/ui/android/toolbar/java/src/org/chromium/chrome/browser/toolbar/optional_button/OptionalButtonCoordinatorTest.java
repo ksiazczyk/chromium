@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptionalButtonCoordinator unit tests
+// summary: Robolectric unit tests for OptionalButtonCoordinator verifying transitions, theming, IPH highlighting and button updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import static org.junit.Assert.assertEquals;

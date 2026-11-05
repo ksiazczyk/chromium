@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonProperties
+// summary: Defines the property keys and helper property classes, such as theme and badge state, for the MenuButton MVC property model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import android.content.res.ColorStateList;

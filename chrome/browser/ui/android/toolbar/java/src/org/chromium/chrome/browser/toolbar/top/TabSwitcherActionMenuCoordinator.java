@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherActionMenuCoordinator
+// summary: Coordinator that builds and shows the popup menu for the tab switcher button, with items such as close tab, new tab, new incognito tab, and tab group actions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.Context;

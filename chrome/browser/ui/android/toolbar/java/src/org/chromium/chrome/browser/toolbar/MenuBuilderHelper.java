@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuBuilderHelper
+// summary: Helper sharing common code for building list menu buttons, providing an inset rect provider anchored to a toolbar view.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.view.View;

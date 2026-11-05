@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuMediator
+// summary: Mediator holding the business logic and menu item construction for the account menu popup, including sign-in, sync and settings actions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.account_menu;
 
 import static org.chromium.build.NullUtil.assertNonNull;

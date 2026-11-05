@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppHeaderLayout
+// summary: Root FrameLayout view for the web app header that manages paddings, background cutouts, and height, and reports width and visibility changes.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import android.content.Context;

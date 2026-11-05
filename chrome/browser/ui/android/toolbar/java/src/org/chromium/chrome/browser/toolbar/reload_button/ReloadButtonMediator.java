@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button mediator
+// summary: Mediator that glues reload button events, tab state, theme, and NTP loading signals to the property model driving the button's state.
+// ---
+
 package org.chromium.chrome.browser.toolbar.reload_button;
 
 import android.animation.ObjectAnimator;

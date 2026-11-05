@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarTabControllerImpl
+// summary: Implementation of ToolbarTabController that performs tab navigation, homepage opening, back press handling, and user action recording for the toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import org.chromium.base.Callback;

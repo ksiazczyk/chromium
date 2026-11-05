@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppHeaderLayoutCoordinator
+// summary: Coordinator that builds and manages the web app header UI, including toolbar buttons, theming, animations, and desktop windowing state.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeButtonCoordinatorTest
+// summary: Robolectric unit tests for HomeButtonCoordinator covering the long-press list menu, its disabled state, and tint change behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.home_button;
 
 import static org.junit.Assert.assertEquals;

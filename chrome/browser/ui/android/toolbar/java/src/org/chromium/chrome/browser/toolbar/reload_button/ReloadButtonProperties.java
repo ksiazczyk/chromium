@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button properties
+// summary: Defines the set of writable property keys, such as alpha, tint, visibility, and listeners, that describe the reload button's state.
+// ---
+
 package org.chromium.chrome.browser.toolbar.reload_button;
 
 import android.content.res.ColorStateList;

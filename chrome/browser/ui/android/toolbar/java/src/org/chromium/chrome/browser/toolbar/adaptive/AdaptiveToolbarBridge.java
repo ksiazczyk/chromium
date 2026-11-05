@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar native bridge
+// summary: JNI bridge that requests ranked adaptive toolbar button variants from the native segmentation platform.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import android.util.Pair;

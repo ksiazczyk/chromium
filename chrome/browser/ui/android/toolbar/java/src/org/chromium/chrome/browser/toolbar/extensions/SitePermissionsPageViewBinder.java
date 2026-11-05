@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site permissions page view binder
+// summary: Binds the site permissions page property model to its view, wiring back, close, and manage buttons, radio groups, and the show requests toggle.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.view.View;

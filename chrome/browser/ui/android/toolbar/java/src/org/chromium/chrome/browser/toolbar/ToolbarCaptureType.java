@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarCaptureType annotation
+// summary: IntDef annotation enumerating the types of toolbar bitmap captures, to be kept append-only and in sync with enums.xml.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import androidx.annotation.IntDef;

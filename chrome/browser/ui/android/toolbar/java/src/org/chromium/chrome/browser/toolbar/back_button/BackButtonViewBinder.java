@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackButtonViewBinder
+// summary: Static binder that applies changed property model keys to the underlying Android ChromeImageButton view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.back_button;
 
 import android.view.View;

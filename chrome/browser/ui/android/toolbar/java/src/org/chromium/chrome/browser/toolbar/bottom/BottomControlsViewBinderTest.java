@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomControlsViewBinder unit tests
+// summary: Robolectric unit tests verifying that the view binder applies property changes to the root view, container slot, and scene layer correctly.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import static org.junit.Assert.assertEquals;

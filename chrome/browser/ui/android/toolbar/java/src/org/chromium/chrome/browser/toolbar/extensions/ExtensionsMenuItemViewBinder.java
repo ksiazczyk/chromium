@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu item view binder
+// summary: Binds extension menu item properties such as title, icon, pin state, and site access toggle to the item view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.graphics.Bitmap;

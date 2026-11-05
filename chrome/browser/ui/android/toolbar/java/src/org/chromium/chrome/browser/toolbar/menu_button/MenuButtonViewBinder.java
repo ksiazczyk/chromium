@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonViewBinder
+// summary: View binder that applies MenuButton property model changes such as visibility, badge, theme and insets to the MenuButton view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import android.view.View;

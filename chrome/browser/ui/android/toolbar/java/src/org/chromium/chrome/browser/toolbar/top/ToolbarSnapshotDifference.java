@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarSnapshotDifference annotation
+// summary: IntDef annotation enumerating reasons two toolbar snapshots can differ, kept in sync with enums.xml and the tracing proto.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import androidx.annotation.IntDef;

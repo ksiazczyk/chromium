@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopToolbarOverlayProperties
+// summary: Property keys describing the top toolbar's composited layer, including visibility, offsets, colors, shadow and progress bar info.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import org.chromium.build.annotations.NullMarked;

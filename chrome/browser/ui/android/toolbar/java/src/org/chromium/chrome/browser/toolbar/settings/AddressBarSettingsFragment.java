@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar settings fragment
+// summary: Settings fragment for the address bar page that loads its preferences, supports a highlighted-option argument, and adjusts descriptions for foldable devices.
+// ---
+
 package org.chromium.chrome.browser.toolbar.settings;
 
 import android.content.Context;

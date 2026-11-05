@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarIntentMetadata
+// summary: Holds flags describing the launch intent, such as whether it came from the app launcher icon and whether it triggered a special effect on launch.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

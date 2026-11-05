@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ToolbarPositionController
+// summary: Manages the top or bottom position of the browsing mode toolbar, reacting to settings, long presses, keyboard visibility, and bottom sheet state.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

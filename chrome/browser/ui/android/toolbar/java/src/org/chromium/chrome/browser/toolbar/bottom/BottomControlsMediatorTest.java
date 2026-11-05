@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomControlsMediator unit tests
+// summary: Robolectric unit tests covering BottomControlsMediator behavior across visibility, fullscreen, keyboard, edge-to-edge, and tab obscuring events.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import static com.google.common.truth.Truth.assertThat;

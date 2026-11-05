@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonCoordinator root component
+// summary: Root coordinator for the toolbar app menu button that owns the MenuButton view and manages its visual state such as the app update badge.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import static android.view.View.LAYOUT_DIRECTION_RTL;

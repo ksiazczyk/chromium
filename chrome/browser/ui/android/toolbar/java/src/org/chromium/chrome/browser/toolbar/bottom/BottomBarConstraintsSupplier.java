@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar browser controls constraints supplier
+// summary: Supplies BrowserControlsState constraints for the bottom bar, overriding them to BOTH on native pages like the NTP so screenshot captures stay fresh.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import android.content.Context;

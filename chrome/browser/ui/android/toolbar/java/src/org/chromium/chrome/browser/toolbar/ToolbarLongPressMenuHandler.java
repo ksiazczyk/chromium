@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarLongPressMenuHandler
+// summary: Handles the toolbar long press popup menu with items for moving the address bar, copying the page link, and sending the tab to other devices.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

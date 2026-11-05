@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: MiniOriginBarControllerTest
+// summary: Robolectric unit tests exercising MiniOriginBarController state transitions, window insets animations, and touch or bottom sheet interactions.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

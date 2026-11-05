@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Signin button OWNERS
+summary: Delegates code ownership of the sign-in button folder to the shared Android OWNERS file via a file reference.

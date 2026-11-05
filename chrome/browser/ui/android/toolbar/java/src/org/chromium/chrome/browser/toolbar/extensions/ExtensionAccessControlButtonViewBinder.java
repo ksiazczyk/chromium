@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAccessControlButtonViewBinder
+// summary: Binds request access button model properties such as visibility, text, tooltip and click listener to the view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.chromium.chrome.browser.toolbar.extensions.ExtensionsToolbarProperties.IS_REQUEST_ACCESS_BUTTON_VISIBLE;

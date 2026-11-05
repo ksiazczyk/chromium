@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuViewBinder
+// summary: Binds account menu property models to their views, handling titles, icons, badges and containment styling for menu items.
+// ---
+
 package org.chromium.chrome.browser.toolbar.account_menu;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppHeaderLayoutProperties
+// summary: Defines the PropertyModel property keys describing the web app header state, such as paddings, height, visibility, and background.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import android.graphics.Rect;

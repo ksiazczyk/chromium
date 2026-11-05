@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar feature flags
+// summary: Utility class for feature flags and finch groups that control adaptive toolbar button behavior and appearance.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar native resource factory
+// summary: Utility class that creates native toolbar container resources from toolbar and location bar positions via JNI.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.graphics.Rect;

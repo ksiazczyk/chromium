@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryStateSupplier
+// summary: Provides the keyboard accessory's current bottom inset and whether the accessory sheet is showing, based on the ManualFillingComponent.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.view.View;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the extensions toolbar directory
+summary: Points to the extensions UI OWNERS file to define the code owners for this directory.

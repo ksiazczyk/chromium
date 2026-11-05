@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonViewBinder - model-to-view property binder
+// summary: Binds changes in the optional button property model to corresponding view updates, such as button data, transition callbacks, colors, padding, and transition cancellation.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import org.chromium.build.annotations.NullMarked;

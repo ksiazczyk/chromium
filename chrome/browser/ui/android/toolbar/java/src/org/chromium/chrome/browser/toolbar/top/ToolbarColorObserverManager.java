@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarColorObserverManager
+// summary: Receives toolbar color change updates from toolbar components and forwards opaque rendering colors to registered observers.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import androidx.annotation.ColorInt;

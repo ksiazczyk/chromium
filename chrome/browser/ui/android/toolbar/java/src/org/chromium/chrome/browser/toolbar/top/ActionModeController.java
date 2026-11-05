@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action mode animation controller
+// summary: Controls how the toolbar animates while the action mode bar is shown and manages the toolbar action mode callback.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.animation.Animator;

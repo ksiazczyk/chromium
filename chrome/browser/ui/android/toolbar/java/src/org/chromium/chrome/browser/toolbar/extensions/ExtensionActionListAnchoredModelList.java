@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionListAnchoredModelList
+// summary: ModelList wrapper that adds start and end placeholder anchors so edge extension icons slide instead of fading during animations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import androidx.recyclerview.widget.RecyclerView;

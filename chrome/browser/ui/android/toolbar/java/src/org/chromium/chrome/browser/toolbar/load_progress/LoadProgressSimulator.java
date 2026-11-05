@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadProgressSimulator
+// summary: Simulates incremental load progress via a message loop when a page does not send real load progress signals.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import android.os.Handler;

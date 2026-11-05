@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuItemState
+// summary: Holds the UI state needed to display an update-related main menu item, including title, icon, colors and enabled flag.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import androidx.annotation.ColorRes;

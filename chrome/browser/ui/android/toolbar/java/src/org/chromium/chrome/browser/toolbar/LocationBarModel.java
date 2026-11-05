@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarModel
+// summary: Primary implementation of LocationBarDataProvider and ToolbarDataProvider, managing toolbar and omnibox state with JNI-backed URL formatting, security status, and caching.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

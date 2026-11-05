@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollingBottomViewSceneLayer
+// summary: Composited scene layer for a bottom-of-screen view that mimics top browser controls scrolling behavior, handling offsets, visibility, shadow, and edge-to-edge padding in the Chromium Android toolbar.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import android.graphics.RectF;

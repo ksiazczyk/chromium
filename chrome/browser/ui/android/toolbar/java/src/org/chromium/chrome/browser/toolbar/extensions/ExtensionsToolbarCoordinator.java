@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar coordinator interface
+// summary: Interface for the extension-related toolbar UI that other code must use instead of conditionally compiled extension classes, with maybeCreate to instantiate an implementation.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

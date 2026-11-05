@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenInBrowserButtonController unit tests
+// summary: Robolectric unit tests for the open-in-browser button, verifying IPH commands, engagement events and user actions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static org.junit.Assert.assertEquals;

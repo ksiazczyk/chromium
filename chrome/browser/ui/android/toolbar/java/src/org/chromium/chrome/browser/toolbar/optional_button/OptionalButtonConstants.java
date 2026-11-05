@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonConstants
+// summary: Defines constants for the optional button, including the TransitionType annotation used as arguments for transition callbacks.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import androidx.annotation.IntDef;

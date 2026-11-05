@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonDataProvider interface
+// summary: Interface for components that want to display a button in the optional slot of the browsing mode toolbar, with observer and lifecycle methods.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import org.chromium.build.annotations.NullMarked;

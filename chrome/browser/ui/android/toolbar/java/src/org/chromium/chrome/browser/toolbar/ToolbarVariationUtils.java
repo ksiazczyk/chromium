@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarVariationUtils
+// summary: Utility that determines toolbar variation configuration, such as back button placement and app menu visibility, from Android Bottom Bar feature flags.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;
