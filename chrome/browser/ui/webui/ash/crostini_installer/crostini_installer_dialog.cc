@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer dialog implementation
+// summary: Implements the system web dialog that shows or focuses the Crostini installer UI with fixed size, shelf properties, and installer-open tracking.
+// ---
+
 #include "chrome/browser/ui/webui/ash/crostini_installer/crostini_installer_dialog.h"
 
 #include "ash/constants/webui_url_constants.h"

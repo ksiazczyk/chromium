@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base lock dialog class declaration
+// summary: Declares BaseLockDialog, the frameless modal system dialog base class shared by lock screen reauth dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_BASE_LOCK_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_BASE_LOCK_DIALOG_H_
 

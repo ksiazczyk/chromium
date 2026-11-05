@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Urgent password expiry notification handler header
+// summary: Declares the WebUIMessageHandler for the urgent password expiry notification, exposing handlers for the user's continue action and for fetching the updated time-until-expiry title.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_IN_SESSION_PASSWORD_CHANGE_URGENT_PASSWORD_EXPIRY_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_IN_SESSION_PASSWORD_CHANGE_URGENT_PASSWORD_EXPIRY_NOTIFICATION_HANDLER_H_
 

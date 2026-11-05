@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LauncherInternalsUI controller header
+// summary: Declares the WebUI controller and its WebUIConfig class for the ChromeOS launcher internals debug page, including Mojo binding members.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LAUNCHER_INTERNALS_LAUNCHER_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LAUNCHER_INTERNALS_LAUNCHER_INTERNALS_UI_H_
 

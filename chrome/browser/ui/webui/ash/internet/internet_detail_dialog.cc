@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternetDetailDialog implementation for network details dialog
+// summary: Implements the internet details system dialog with localized strings and a message handler for captive portal sign-in.
+// ---
+
 #include "chrome/browser/ui/webui/ash/internet/internet_detail_dialog.h"
 
 #include "ash/constants/ash_features.h"

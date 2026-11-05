@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the edu_coexistence library and tests
+summary: Defines the edu_coexistence static library and the browser_tests source set with their sources and dependencies for the ChromeOS EDU coexistence flow.

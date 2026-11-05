@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change handler class declaration
+// summary: Declares the PasswordChangeHandler WebUI message handler used by the in-session password change page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_IN_SESSION_PASSWORD_CHANGE_PASSWORD_CHANGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_IN_SESSION_PASSWORD_CHANGE_PASSWORD_CHANGE_HANDLER_H_
 

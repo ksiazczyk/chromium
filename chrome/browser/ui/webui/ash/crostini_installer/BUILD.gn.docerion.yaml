@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crostini installer build configuration (BUILD.gn)
+summary: Defines the crostini_installer static library sources and dependencies plus the Mojo bindings target for the installer.

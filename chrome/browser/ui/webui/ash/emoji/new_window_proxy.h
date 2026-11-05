@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New window proxy header
+// summary: Declares NewWindowProxy, the Mojo receiver that lets the emoji picker WebUI open URLs in new browser tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_NEW_WINDOW_PROXY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_NEW_WINDOW_PROXY_H_
 

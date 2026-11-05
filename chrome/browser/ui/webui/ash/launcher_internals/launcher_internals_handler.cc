@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher internals page handler implementation
+// summary: Implements the launcher internals page handler, converting search controller results and keywords into Mojo Result structs for the WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/launcher_internals/launcher_internals_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

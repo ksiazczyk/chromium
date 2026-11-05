@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive internals WebUI controller header
+// summary: Declares the WebUI controller class and its WebUIConfig for the drive-internals diagnostics page used to diagnose Drive issues on Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_DRIVE_INTERNALS_DRIVE_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_DRIVE_INTERNALS_DRIVE_INTERNALS_UI_H_
 

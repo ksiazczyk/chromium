@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker WebUI implementation
+// summary: Implements the ChromeOS emoji picker WebUI controller, including the bubble dialog view that positions the picker around the caret and helpers that map picker categories to Mojo enums.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/emoji_ui.h"
 
 #include <iostream>

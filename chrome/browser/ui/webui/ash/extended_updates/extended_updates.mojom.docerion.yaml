@@ -1,0 +1,4 @@
+# Docerion header of extended_updates.mojom.
+type: source
+title: Extended Updates Mojo interface definitions
+summary: Defines the Mojo interfaces for the Extended Updates WebUI, covering page handler creation, opt-in, dialog closing, and listing installed Android apps.

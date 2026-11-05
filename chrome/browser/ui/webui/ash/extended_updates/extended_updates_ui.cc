@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtendedUpdatesUI implementation
+// summary: Implements the WebUI controller for the ChromeOS extended updates dialog, adding the data source, localized strings, theme source, trusted types CSP, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/extended_updates/extended_updates_ui.h"
 
 #include "ash/constants/url_constants.h"

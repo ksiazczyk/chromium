@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for lock screen reauth
+summary: Points to the SAML integration owners file as the reviewers for this directory.

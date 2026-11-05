@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth WebUI message handler implementation
+// summary: Implements LockScreenReauthHandler, handling online reauth messages such as starting Gaia or SAML authentication, password updates, and device ID retrieval.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_reauth_handler.h"
 
 #include <algorithm>

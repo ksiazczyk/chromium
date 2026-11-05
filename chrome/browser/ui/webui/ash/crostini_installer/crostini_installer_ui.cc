@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer WebUI controller implementation
+// summary: Implements the WebUI controller that registers the data source, localized strings, resources, and Mojo bindings for the installer page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/crostini_installer/crostini_installer_ui.h"
 
 #include <string>

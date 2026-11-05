@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the firmware update UI
+summary: Defines dependency rules for the directory, blocking ChromeOS code from depending on //chrome and discouraging new //chrome dependencies.

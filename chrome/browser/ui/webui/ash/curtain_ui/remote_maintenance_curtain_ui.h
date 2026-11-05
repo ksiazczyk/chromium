@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote maintenance curtain WebUI class declarations
+// summary: Declares the RemoteMaintenanceCurtainUIConfig and RemoteMaintenanceCurtainUI classes that provide the remote maintenance curtain WebUI controller for ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CURTAIN_UI_REMOTE_MAINTENANCE_CURTAIN_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CURTAIN_UI_REMOTE_MAINTENANCE_CURTAIN_UI_H_
 

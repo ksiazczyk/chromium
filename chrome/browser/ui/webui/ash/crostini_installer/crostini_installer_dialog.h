@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer dialog class declaration
+// summary: Declares CrostiniInstallerDialog, a SystemWebDialogDelegate that shows the installer WebUI for a profile with an on-loaded callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CROSTINI_INSTALLER_CROSTINI_INSTALLER_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CROSTINI_INSTALLER_CROSTINI_INSTALLER_DIALOG_H_
 

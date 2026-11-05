@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the DLP internals WebUI controller
+// summary: Implements the WebUI controller that creates the data source, adds profile and reporting status flags, sets content security policy and binds the page handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/dlp_internals/dlp_internals_ui.h"
 
 #include "ash/constants/url_constants.h"

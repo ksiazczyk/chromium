@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen network WebUI message handler implementation
+// summary: Implements NetworkConfigMessageHandler, which handles WebUI messages for adding networks, showing network details or configuration, and reporting the hostname in the lock screen reauth flow.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lock_screen_reauth/lock_screen_network_handler.h"
 
 #include <memory>

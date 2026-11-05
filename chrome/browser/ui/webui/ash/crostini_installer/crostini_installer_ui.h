@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer WebUI controller header
+// summary: Declares the CrostiniInstallerUI WebUI controller and its WebUIConfig, including Mojo bindings for the page handler factory that drives the Crostini installer dialog on Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CROSTINI_INSTALLER_CROSTINI_INSTALLER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CROSTINI_INSTALLER_CROSTINI_INSTALLER_UI_H_
 

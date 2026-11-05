@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the emoji picker WebUI
+summary: Points the directory's metadata to the shared common metadata for the Ash input method UI.

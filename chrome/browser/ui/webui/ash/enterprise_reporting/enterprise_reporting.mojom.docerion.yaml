@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting.mojom.
+type: source
+title: Enterprise reporting Mojo interface definitions
+summary: Defines ErpHistoryData structs and the Page, PageHandler, and PageHandlerFactory Mojo interfaces used to exchange ERP history and debug state with the reporting page.

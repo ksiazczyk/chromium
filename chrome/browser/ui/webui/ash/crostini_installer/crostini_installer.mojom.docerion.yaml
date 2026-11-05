@@ -1,0 +1,4 @@
+# Docerion header of crostini_installer.mojom.
+type: source
+title: Crostini installer Mojo interface definitions
+summary: Defines the PageHandlerFactory, PageHandler, and Page Mojo interfaces used to control Crostini installation and report progress between browser and renderer.

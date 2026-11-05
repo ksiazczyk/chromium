@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen network WebUI controller declaration
+// summary: Declares the WebUI controller and its config class for the lock screen network selection dialog, including mojo interface binding and a test accessor for the main handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_NETWORK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_NETWORK_UI_H_
 

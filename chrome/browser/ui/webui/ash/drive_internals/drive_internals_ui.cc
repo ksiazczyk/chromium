@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive internals WebUI controller implementation
+// summary: Implements the WebUI controller for the drive-internals diagnostics page, including message handlers, GCache metadata enumeration, log level mapping, and Drive pinning information for Chrome OS.
+// ---
+
 #include "chrome/browser/ui/webui/ash/drive_internals/drive_internals_ui.h"
 
 #include <stddef.h>

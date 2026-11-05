@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP internals page handler implementation
+// summary: Implements the DlpInternalsPageHandler mojo interface, converting DLP content restrictions, reporting events and file database entries into Mojo types.
+// ---
+
 #include "chrome/browser/ui/webui/ash/dlp_internals/dlp_internals_page_handler.h"
 
 #include <sys/stat.h>

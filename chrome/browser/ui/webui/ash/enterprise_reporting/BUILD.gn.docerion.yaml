@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: enterprise reporting WebUI build targets'
+summary: Defines the Mojo bindings target, the enterprise_reporting static library, and the unit_tests source_set for the ChromeOS enterprise reporting WebUI.

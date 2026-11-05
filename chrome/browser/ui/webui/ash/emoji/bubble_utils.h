@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker bubble placement utilities header
+// summary: Declares GetBubbleBoundsAroundCaret, a helper that computes on-screen bubble bounds around the text caret in screen coordinates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_BUBBLE_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_BUBBLE_UTILS_H_
 

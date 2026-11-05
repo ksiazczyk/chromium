@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics dialog class declaration
+// summary: Declares the DiagnosticsDialog system web dialog class, its DiagnosticsPage enum, dialog ID constant, and static show and close helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_DIAGNOSTICS_DIALOG_DIAGNOSTICS_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_DIAGNOSTICS_DIALOG_DIAGNOSTICS_DIALOG_H_
 

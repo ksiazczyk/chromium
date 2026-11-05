@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm password change WebUI message handler implementation
+// summary: Implements the WebUI handler that reports initial dialog state, performs cryptohome password changes, and reacts to incorrect password events.
+// ---
+
 #include "chrome/browser/ui/webui/ash/in_session_password_change/confirm_password_change_handler.h"
 
 #include <string>

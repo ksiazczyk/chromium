@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Launcher internals include rule dependencies
+summary: Sets DEPS include rules for the directory, blocking //chrome dependencies while allowing launcher_internals, app_list, and grit includes.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the internet WebUI directory
+summary: Sets Chromium include rules for the directory, blocking //chrome dependencies while allowing specific ash, profile, and dialog includes.

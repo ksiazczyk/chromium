@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics dialog unit tests
+// summary: Unit test verifying that an initialized DiagnosticsDialog instance can be found through SystemWebDialogDelegate::FindInstance.
+// ---
+
 #include "chrome/browser/ui/webui/ash/diagnostics_dialog/diagnostics_dialog.h"
 
 #include "base/memory/raw_ptr.h"

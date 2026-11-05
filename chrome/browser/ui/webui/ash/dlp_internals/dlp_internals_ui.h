@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the DLP internals WebUI controller
+// summary: Declares the WebUI controller class and its configuration that register the DLP internals debugging page, plus the page handler binding method.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_DLP_INTERNALS_DLP_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_DLP_INTERNALS_DLP_INTERNALS_UI_H_
 

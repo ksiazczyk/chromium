@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the floating workspace dialog
+// summary: Contains in-process browser tests that show each dialog screen, press the cancel button, and verify the dialog closes as expected.
+// ---
+
 #include "chrome/browser/ui/webui/ash/floating_workspace/floating_workspace_dialog.h"
 
 #include <string>

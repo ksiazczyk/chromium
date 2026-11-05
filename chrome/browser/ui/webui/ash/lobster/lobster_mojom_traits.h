@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster Mojo type traits
+// summary: Header providing mojo EnumTraits and StructTraits that map ash Lobster enums and feedback types to their mojom counterparts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOBSTER_LOBSTER_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOBSTER_LOBSTER_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU coexistence state tracker implementation
+// summary: Implements the singleton tracker that coordinates parental consent between the child signin helper and the login handler and records flow result metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/edu_coexistence/edu_coexistence_state_tracker.h"
 
 #include <utility>

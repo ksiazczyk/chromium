@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for healthd internals
+summary: Delegates ownership to the cros_healthd OWNERS file and assigns IPC security owners to changes of *.mojom files.

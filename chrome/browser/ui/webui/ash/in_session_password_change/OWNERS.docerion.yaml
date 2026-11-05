@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to SAML integration owners
+summary: Delegates code ownership for this directory to the ash SAML integration owners list.

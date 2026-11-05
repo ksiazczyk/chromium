@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher internals page handler header
+// summary: Declares LauncherInternalsHandler, a SearchController observer that forwards launcher search results to the internals WebUI page over Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LAUNCHER_INTERNALS_LAUNCHER_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LAUNCHER_INTERNALS_LAUNCHER_INTERNALS_HANDLER_H_
 

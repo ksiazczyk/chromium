@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the lock screen reauth static library
+summary: Defines the lock_screen_reauth static library target with its sources and Chromium dependency list.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for dlp_internals
+summary: Delegates directory ownership to the DLP policy OWNERS file and assigns security owners to changes of mojom files.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the curtain_ui static library
+summary: Defines the curtain_ui static library build, listing the remote maintenance curtain UI sources and its ChromeOS WebUI dependencies.

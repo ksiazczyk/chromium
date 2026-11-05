@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for diagnostics_dialog
+summary: DEPS file restricting allowed includes to system web apps, system web dialog, and profiles, while discouraging new //chrome dependencies.

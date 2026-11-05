@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Crostini installer include dependency rules
+summary: Sets include_rules that block general //chrome dependencies while allowing this directory, other ash directories, and specific includes.

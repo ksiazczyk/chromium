@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Kerberos directory
+summary: Restricts and allows Chromium include dependencies for the Kerberos WebUI directory, with a special rule for test files.

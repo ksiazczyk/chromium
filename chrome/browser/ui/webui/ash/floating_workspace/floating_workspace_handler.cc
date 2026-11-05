@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace dialog WebUI handler implementation
+// summary: Implements the WebUI message handler that registers initialize, network, and hostname messages and forwards screen changes to the dialog's JavaScript.
+// ---
+
 #include "chrome/browser/ui/webui/ash/floating_workspace/floating_workspace_handler.h"
 
 #include <string>

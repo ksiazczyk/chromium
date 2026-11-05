@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker page handler implementation
+// summary: Implements the Mojo page handler for the emoji picker, covering emoji and GIF insertion, search, history and variant preferences, and usage metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/emoji_page_handler.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for curtain_ui
+summary: Sets include dependency rules for the directory, blocking //chrome dependencies except explicitly allowed curtain_ui, login, profile, and grit headers.

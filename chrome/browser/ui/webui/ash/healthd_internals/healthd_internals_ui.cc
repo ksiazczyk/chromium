@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals WebUI controller implementation
+// summary: Implements the healthd internals WebUI controller, registering the message handler, theme source and HTML data source for the diagnostics page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/healthd_internals/healthd_internals_ui.h"
 
 #include "ash/constants/url_constants.h"

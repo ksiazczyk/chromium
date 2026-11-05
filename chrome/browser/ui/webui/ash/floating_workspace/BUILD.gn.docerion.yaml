@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Floating workspace WebUI build targets (BUILD.gn)
+summary: Defines the static library and browser test targets that compile the floating workspace dialog, handler, and UI sources together with their GN dependencies.

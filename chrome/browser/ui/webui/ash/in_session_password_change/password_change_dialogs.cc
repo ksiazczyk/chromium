@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change system dialog implementations
+// summary: Implements frameless modal system dialogs for password change, password change confirmation, and urgent password expiry notification, sized to fit the display.
+// ---
+
 #include "chrome/browser/ui/webui/ash/in_session_password_change/password_change_dialogs.h"
 
 #include <memory>

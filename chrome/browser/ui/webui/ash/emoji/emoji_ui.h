@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker WebUI controller header
+// summary: Declares the EmojiUI WebUI controller and its config for the emoji picker, covering show conditions, category and query state, and Mojo interface binding for page, search, and new-window handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_EMOJI_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_EMOJI_EMOJI_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cryptohome directory
+summary: Defines include rules that block //chrome dependencies and allow specific includes for the cryptohome WebUI directory.

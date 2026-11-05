@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the in-session password change static library
+summary: Defines the in_session_password_change static library, listing its source files and its public and internal build dependencies.

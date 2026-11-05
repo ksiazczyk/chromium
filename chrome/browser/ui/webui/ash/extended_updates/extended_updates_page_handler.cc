@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates page handler implementation
+// summary: Implements the Mojo PageHandler for the Extended Updates WebUI, handling opt-in requests, dialog closing, and listing user-installed ARC apps.
+// ---
+
 #include "chrome/browser/ui/webui/ash/extended_updates/extended_updates_page_handler.h"
 
 #include <algorithm>

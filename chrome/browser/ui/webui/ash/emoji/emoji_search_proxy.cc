@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji search proxy implementation
+// summary: Implements the EmojiSearch Mojo interface, forwarding search queries to the emoji search component and returning emoji, symbol, and emoticon results to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/emoji_search_proxy.h"
 
 #include <memory>

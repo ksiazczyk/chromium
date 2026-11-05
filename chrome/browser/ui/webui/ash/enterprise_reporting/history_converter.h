@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ERP history converter declaration
+// summary: Declares ConvertHistory, which turns reporting ERPHealthData protobuf into Mojo ErpHistoryData for the enterprise reporting page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ENTERPRISE_REPORTING_HISTORY_CONVERTER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ENTERPRISE_REPORTING_HISTORY_CONVERTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster page handler unit tests
+// summary: Unit tests for LobsterPageHandler using a fake LobsterSession, a testing profile, and a temporary download directory.
+// ---
+
 #include "chrome/browser/ui/webui/ash/lobster/lobster_page_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer page handler implementation
+// summary: Implements the Mojo page handler that starts, cancels, and reports progress of installation and computes free disk space slider ticks.
+// ---
+
 #include "chrome/browser/ui/webui/ash/crostini_installer/crostini_installer_page_handler.h"
 
 #include <algorithm>

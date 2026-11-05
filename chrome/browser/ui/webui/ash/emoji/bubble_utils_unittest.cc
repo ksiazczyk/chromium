@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for emoji picker bubble placement
+// summary: Parameterized unit tests verifying bubble placement around carets in screen corners and that bubbles never appear off screen.
+// ---
+
 #include "chrome/browser/ui/webui/ash/emoji/bubble_utils.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

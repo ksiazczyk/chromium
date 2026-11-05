@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for lock screen reauth
+summary: Sets include rules restricting ChromeOS dependencies on //chrome and allows specific exceptions for this directory.

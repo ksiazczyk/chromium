@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Crostini installer code owners
+summary: Delegates ownership to the guest_os OWNERS file and assigns IPC security owners for mojom files.

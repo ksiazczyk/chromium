@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the floating workspace WebUI directory
+summary: Designates code ownership by referencing the parent floating workspace OWNERS file and listing an individual owner.

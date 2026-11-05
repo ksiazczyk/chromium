@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the diagnostics dialog
+summary: Defines the diagnostics_dialog static library and its unit_tests source_set, listing sources and dependencies for the ChromeOS diagnostics dialog.

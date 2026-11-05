@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History converter unit tests
+// summary: Unit tests verifying that ConvertHistory translates ERPHealthData proto records into Mojom history events with the expected calls, parameters, statuses and timestamps.
+// ---
+
 #include "chrome/browser/ui/webui/ash/enterprise_reporting/history_converter.h"
 
 #include "chrome/browser/ui/webui/ash/enterprise_reporting/enterprise_reporting.mojom.h"

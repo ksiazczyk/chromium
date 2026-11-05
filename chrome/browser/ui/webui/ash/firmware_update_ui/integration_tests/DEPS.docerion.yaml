@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for firmware update integration tests
+summary: Sets include rules that block //chrome dependencies for ChromeOS, allowing only chrome/test for these integration tests.

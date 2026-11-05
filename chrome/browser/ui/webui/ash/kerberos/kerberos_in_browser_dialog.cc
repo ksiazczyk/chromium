@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Kerberos in-browser dialog
+// summary: Implements the system web dialog shown when Kerberos authentication fails in ChromeOS, covering sizing, closing behavior and opening the Kerberos settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/kerberos/kerberos_in_browser_dialog.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KerberosInBrowserDialog class declaration
+// summary: Declares the dialog class that shows a system modal when Kerberos authentication fails while accessing a website in ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_KERBEROS_KERBEROS_IN_BROWSER_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_KERBEROS_KERBEROS_IN_BROWSER_DIALOG_H_
 

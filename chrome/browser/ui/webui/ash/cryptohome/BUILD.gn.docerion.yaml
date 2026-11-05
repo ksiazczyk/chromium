@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for cryptohome WebUI
+summary: GN build file that defines the cryptohome static library with its source files and ChromeOS D-Bus, crypto and content dependencies.

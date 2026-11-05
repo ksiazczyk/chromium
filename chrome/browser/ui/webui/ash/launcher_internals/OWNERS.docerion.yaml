@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Launcher internals code owners
+summary: Lists the directory owner and routes Mojo file approvals to the IPC security owners.

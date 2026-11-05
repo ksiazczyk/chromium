@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace dialog WebUI handler declaration
+// summary: Declares the WebUI message handler for the floating workspace dialog, exposing screen switching and network-related message callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_FLOATING_WORKSPACE_FLOATING_WORKSPACE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Kerberos WebUI
+summary: Defines the kerberos static library and browser test target with their sources and dependencies for the ChromeOS Kerberos in-browser dialog.

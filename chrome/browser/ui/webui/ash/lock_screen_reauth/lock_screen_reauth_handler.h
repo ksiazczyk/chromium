@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth WebUI message handler header
+// summary: Declares LockScreenReauthHandler, the WebUI message handler driving the lock screen online authentication flow, including SAML password confirmation and auto-reload support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_REAUTH_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOCK_SCREEN_REAUTH_LOCK_SCREEN_REAUTH_HANDLER_H_
 
