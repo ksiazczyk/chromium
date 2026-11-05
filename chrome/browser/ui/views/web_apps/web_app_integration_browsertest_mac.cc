@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Integration Browser Tests for macOS
+// summary: macOS-specific web app integration browser tests covering app shim launching, corrupted shims, and profile handling.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_manager_mac.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/profiles/profile_manager.h"

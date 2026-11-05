@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover list view implementation
+// summary: Implements HoverListView, which renders model-provided items as scrollable hover buttons with icons, titles, descriptions, and chevrons for WebAuthn dialogs.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/hover_list_view.h"
 
 #include <algorithm>

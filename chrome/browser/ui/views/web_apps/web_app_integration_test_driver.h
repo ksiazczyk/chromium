@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app integration test driver header
+// summary: Header for the integration test driver, defining the enumerations and interfaces used by the generated web app integration test actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_INTEGRATION_TEST_DRIVER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_INTEGRATION_TEST_DRIVER_H_
 

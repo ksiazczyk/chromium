@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Isolated Web Apps views
+summary: Delegates directory ownership to the isolated web apps browser engine OWNERS file.

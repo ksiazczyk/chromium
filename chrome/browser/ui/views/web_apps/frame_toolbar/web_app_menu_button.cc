@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app menu button implementation
+// summary: Implements the app menu button for web app windows, including highlight animations and pending update indicators.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_menu_button.h"
 
 #include "base/callback_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Isolated Web Apps views
+summary: Defines GN source sets for the IWA installer, identity view, installability checker, and multi-capture notification dialog.

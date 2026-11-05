@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi Capture Notification Details View interface
+// summary: Declares the view that informs users which apps may use the getAllScreensMedia multi screen capture API, shown from the login notification.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_ISOLATED_WEB_APPS_MULTI_CAPTURE_NOTIFICATION_DETAILS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_ISOLATED_WEB_APPS_MULTI_CAPTURE_NOTIFICATION_DETAILS_VIEW_H_
 

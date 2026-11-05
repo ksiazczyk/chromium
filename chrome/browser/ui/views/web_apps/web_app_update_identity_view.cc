@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app update identity view
+// summary: Implements a vertical layout view showing an app's icon, name, and origin for use in the web app update dialog.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_update_identity_view.h"
 
 #include "base/strings/utf_string_conversions.h"

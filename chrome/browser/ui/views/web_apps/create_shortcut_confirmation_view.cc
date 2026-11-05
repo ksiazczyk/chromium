@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create shortcut confirmation view implementation
+// summary: Implements the dialog for editing details when creating a shortcut web app, including title text field, icon display, and open-as options.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/create_shortcut_confirmation_view.h"
 
 #include <memory>

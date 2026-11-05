@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Progress View Header
+// summary: Declares WebAppInstallProgressView, a view with a progress bar for reporting installation progress.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_INSTALL_PROGRESS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_INSTALL_PROGRESS_VIEW_H_
 

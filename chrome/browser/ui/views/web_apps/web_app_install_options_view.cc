@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Options View
+// summary: Implements the view presenting installation options such as create shortcut and pin to taskbar, including icon rendering with shadows and masking.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_install_options_view.h"
 
 #include <memory>

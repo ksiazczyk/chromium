@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop FedCM account selection view browser tests
+// summary: Browser tests covering dialog display and account selection flows of the desktop FedCM account selection view.
+// ---
+
 #include "chrome/browser/ui/views/webid/fedcm_account_selection_view_desktop.h"
 
 #include "base/run_loop.h"

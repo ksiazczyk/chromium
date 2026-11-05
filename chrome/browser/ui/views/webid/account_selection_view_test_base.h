@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account selection view test base declarations
+// summary: Declares a base class with test constants and account row checks shared by FedCM account selection view unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBID_ACCOUNT_SELECTION_VIEW_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBID_ACCOUNT_SELECTION_VIEW_TEST_BASE_H_
 

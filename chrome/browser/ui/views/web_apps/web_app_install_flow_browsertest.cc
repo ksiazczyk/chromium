@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app install flow browser tests
+// summary: Browser tests driving the multi-step install flow through intro, options, progress, and success dialogs.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/run_loop.h"
 #include "base/scoped_observation.h"

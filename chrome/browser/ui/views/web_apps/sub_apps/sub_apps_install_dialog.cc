@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub apps install dialog view implementation
+// summary: Builds the modal dialog model listing candidate sub-apps with icons, a shared permissions warning, and a link to App Management settings.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <string>

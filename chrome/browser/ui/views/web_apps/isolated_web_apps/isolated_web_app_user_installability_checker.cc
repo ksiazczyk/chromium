@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App User Installability Checker implementation
+// summary: Runs the user installability check for an isolated web app bundle and reports results such as installable, updatable, outdated, or invalid.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_user_installability_checker.h"
 
 #include <memory>

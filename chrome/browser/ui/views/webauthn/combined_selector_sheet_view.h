@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined selector sheet view header
+// summary: Declares the sheet view for choosing a credential in immediate mediation requests, delegating radio button selection changes to its model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_COMBINED_SELECTOR_SHEET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_COMBINED_SELECTOR_SHEET_VIEW_H_
 

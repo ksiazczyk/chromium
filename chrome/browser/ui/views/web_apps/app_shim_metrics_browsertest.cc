@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App shim metrics browser test
+// summary: Browser test verifying Apps.AppShim.Launched and WillTerminate histograms are recorded when a standalone app shim launches and quits.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/ui/views/web_apps/web_app_integration_test_driver.h"

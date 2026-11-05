@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub apps install dialog controller header
+// summary: Declares the dialog model delegate controller with dialog view IDs and testing hooks for the sub apps install prompt.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_SUB_APPS_SUB_APPS_INSTALL_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_SUB_APPS_SUB_APPS_INSTALL_DIALOG_CONTROLLER_H_
 

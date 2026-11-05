@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View visible in active widget notifier header
+// summary: Declares a utility that invokes a callback when a widget is active and a specified element is visible, or on widget destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_VIEW_VISIBLE_IN_ACTIVE_WIDGET_NOTIFIER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_VIEW_VISIBLE_IN_ACTIVE_WIDGET_NOTIFIER_H_
 

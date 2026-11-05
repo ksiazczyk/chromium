@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing intent picker test utilities
+// summary: Test helpers for link capturing tests that locate, wait for and click the intent picker button and bubble in browser tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_link_capturing_test_utils.h"
 
 #include "base/check_is_test.h"

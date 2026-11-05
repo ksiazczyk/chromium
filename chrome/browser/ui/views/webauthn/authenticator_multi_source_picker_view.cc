@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source passkey picker view implementation
+// summary: Implements AuthenticatorMultiSourcePickerView, which lists primary and secondary passkey options in hover lists for the WebAuthn multi-source picker sheet.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_multi_source_picker_view.h"
 
 #include <memory>

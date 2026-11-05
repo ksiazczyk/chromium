@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM modal dialog view implementation
+// summary: Implements FedCmModalDialogView, the popup window for FedCM flows such as identity provider sign-in, including sizing, focus handling and histogram logging.
+// ---
+
 #include "chrome/browser/ui/views/webid/fedcm_modal_dialog_view.h"
 
 #include <algorithm>

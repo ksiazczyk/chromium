@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM modal dialog view class declaration
+// summary: Declares FedCmModalDialogView, which opens, closes and positions FedCM popup windows, notifies observers, and defines enums for close-reason histograms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBID_FEDCM_MODAL_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBID_FEDCM_MODAL_DIALOG_VIEW_H_
 

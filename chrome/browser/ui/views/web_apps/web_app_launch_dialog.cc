@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch dialog implementation
+// summary: Implements the dialog shown when a web app is launched via the web install API, including auto-close when the host window becomes too small.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/task/sequenced_task_runner.h"

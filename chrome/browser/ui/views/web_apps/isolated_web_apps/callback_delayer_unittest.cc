@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackDelayer unit tests
+// summary: Verifies progress callbacks, delayed completion, and timer pausing behavior using mock time.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/callback_delayer.h"
 
 #include "base/functional/bind.h"

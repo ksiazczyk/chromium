@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch app user choice dialog header
+// summary: Declares the base dialog shown before Chrome launches an app window for protocol handler or file handler launches, with allow, deny and remember options.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_LAUNCH_APP_USER_CHOICE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_LAUNCH_APP_USER_CHOICE_DIALOG_VIEW_H_
 

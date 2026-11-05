@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebID account selection UI utility declarations
+// summary: Declares helpers for account selection dialog titles, subtitles and accessibility announcements shared by the WebID views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBID_WEBID_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBID_WEBID_UTILS_H_
 

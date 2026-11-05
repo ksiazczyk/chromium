@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey not accepted bubble view unit tests
+// summary: Unit tests that create the passkey not accepted bubble and verify it shows a non-empty window title.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_not_accepted_bubble_view.h"
 
 #include <utility>

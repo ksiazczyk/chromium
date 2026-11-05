@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler picker interactive UI test
+// summary: Interactive browser tests for the protocol handler picker dialog using isolated web apps, covering protocol link launches and app windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_INTERACTVE_UITEST_CC_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_INTERACTVE_UITEST_CC_
 

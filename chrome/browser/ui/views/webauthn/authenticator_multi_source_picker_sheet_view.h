@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source picker sheet view header
+// summary: Declares AuthenticatorMultiSourcePickerSheetView, the WebAuthn request dialog sheet for selecting between multiple accounts and mechanisms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_MULTI_SOURCE_PICKER_SHEET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_MULTI_SOURCE_PICKER_SHEET_VIEW_H_
 

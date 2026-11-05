@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app install intro view implementation
+// summary: Implements the install dialog intro view showing app icon, name, origin, and description, including DIY apps.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_install_intro_view.h"
 
 #include <memory>

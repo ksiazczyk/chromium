@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Installer Coordinator Implementation
+// summary: Implements the coordinator that launches the installer dialog for a signed web bundle and manages its lifetime.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_installer_coordinator.h"
 
 #include <memory>

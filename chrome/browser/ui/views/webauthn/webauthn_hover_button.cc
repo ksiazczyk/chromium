@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn hover button implementation
+// summary: Implements WebAuthnHoverButton, a hoverable button with an optional icon, title, subtitle and secondary icon arranged in a table layout for the WebAuthn UI.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/webauthn_hover_button.h"
 
 #include <memory>

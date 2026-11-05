@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey deleted confirmation view implementation
+// summary: Implements a password bubble view that informs the user their passkey was deleted, showing the Google Password Manager update-needed label and recording display metrics.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_deleted_confirmation_view.h"
 
 #include <memory>

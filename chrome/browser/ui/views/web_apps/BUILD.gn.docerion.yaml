@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for web app views UI
+summary: Defines GN source sets for dialogs, utilities, and progress delay plus the browser test targets of the web app views UI directory.

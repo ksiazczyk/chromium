@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app install dialog delegate implementation
+// summary: Implements the install dialog delegate with user metrics, page action highlights, and anti-spoofing size checks.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_install_dialog_delegate.h"
 
 #include <memory>

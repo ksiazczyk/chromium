@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View visible in active widget notifier implementation
+// summary: Implements a fire-and-forget notifier that runs a callback when a widget is painted as active and a tracked element is visible.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/view_visible_in_active_widget_notifier.h"
 
 #include <utility>

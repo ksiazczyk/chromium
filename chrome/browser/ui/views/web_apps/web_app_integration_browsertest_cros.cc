@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Integration Browser Tests for ChromeOS
+// summary: ChromeOS-specific web app integration browser tests, including generated test cases for shortcuts, launching, and window behavior.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/web_apps/web_app_integration_test_driver.h"
 #include "content/public/test/browser_test.h"

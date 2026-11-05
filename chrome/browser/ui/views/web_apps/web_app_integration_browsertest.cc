@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Integration Browser Tests
+// summary: Browser integration tests covering web app install, update, launch, and uninstall flows across platforms.
+// ---
+
 #include "base/debug/stack_trace.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

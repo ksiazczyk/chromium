@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the account selection modal view
+// summary: Browser tests exercising the FedCM account selection modal dialog UI states using a fake delegate and test URL loader factory.
+// ---
+
 #include "chrome/browser/ui/views/webid/account_selection_modal_view.h"
 
 #include <string>

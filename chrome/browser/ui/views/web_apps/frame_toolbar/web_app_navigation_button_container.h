@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app navigation button container header
+// summary: Declares WebAppNavigationButtonContainer, which holds the back and reload controls on the far left of the toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_FRAME_TOOLBAR_WEB_APP_NAVIGATION_BUTTON_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_FRAME_TOOLBAR_WEB_APP_NAVIGATION_BUTTON_CONTAINER_H_
 

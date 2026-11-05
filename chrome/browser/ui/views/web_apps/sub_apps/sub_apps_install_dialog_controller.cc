@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub apps install dialog controller implementation
+// summary: Implements accept and close handling for the dialog and the automatic accept/cancel override used in tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/sub_apps/sub_apps_install_dialog_controller.h"
 
 #include <optional>

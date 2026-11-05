@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated apps dialog view header
+// summary: Declares the dialog view that lists deprecated Chrome apps and uninstalls them when the user accepts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_DEPRECATED_APPS_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_DEPRECATED_APPS_DIALOG_VIEW_H_
 

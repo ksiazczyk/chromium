@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common WebAuthn dialog view helpers implementation
+// summary: Implements shared view builders for WebAuthn dialogs, including a passkey icon with username label and a Google Password Manager icon with label.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_common_views.h"
 
 #include <memory>

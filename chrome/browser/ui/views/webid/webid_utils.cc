@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebID account selection UI utilities
+// summary: Implements helpers that select localized titles and subtitles for account selection sheets and send accessibility announcements for WebID dialogs.
+// ---
+
 #include "chrome/browser/ui/views/webid/webid_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

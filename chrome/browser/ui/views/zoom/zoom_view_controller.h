@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomViewController class declaration
+// summary: Declares ZoomViewController, a per-tab controller that keeps the zoom page action in sync with the zoom level and shows or hides the zoom bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ZOOM_ZOOM_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_ZOOM_ZOOM_VIEW_CONTROLLER_H_
 

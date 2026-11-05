@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM modal dialog view unit tests
+// summary: Unit tests for FedCmModalDialogView covering popup window opening, dispositions, fullscreen behavior, bounds and close-reason histogram metrics.
+// ---
+
 #include "chrome/browser/ui/views/webid/fedcm_modal_dialog_view.h"
 
 #include <memory>

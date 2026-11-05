@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon, name and origin view implementation
+// summary: Implements the dialog view that shows a web app's icon, title, and origin or version label.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_icon_name_and_origin_view.h"
 
 #include <memory>

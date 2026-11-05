@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app dialog test utilities
+// summary: Test helper that opens a popup window of a given size via window.open and waits for its WebContents to appear.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_dialog_test_utils.h"
 
 #include "base/run_loop.h"

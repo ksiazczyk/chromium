@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop FedCM account selection view unit tests
+// summary: Unit tests for the desktop FedCM account selection view using a mock account selection view and mock tab interface.
+// ---
+
 #include "chrome/browser/ui/views/webid/fedcm_account_selection_view_desktop.h"
 
 #include <memory>

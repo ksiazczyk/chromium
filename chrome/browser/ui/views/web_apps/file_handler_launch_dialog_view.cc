@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handler launch dialog view implementation
+// summary: Implements the dialog asking users to allow a PWA to open files before launching it.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/file_handler_launch_dialog_view.h"
 
 #include <algorithm>

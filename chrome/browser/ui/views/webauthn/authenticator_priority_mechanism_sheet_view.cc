@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator priority mechanism sheet view implementation
+// summary: Implements the WebAuthn request dialog sheet view for confirming selection of a priority mechanism, building a hover list of transports.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_priority_mechanism_sheet_view.h"
 
 #include <memory>

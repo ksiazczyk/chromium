@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM arbitrary PIN entry view implementation
+// summary: Implements the PIN textfield with a reveal button used to enter an arbitrary GPM PIN in WebAuthn passkey dialogs.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_gpm_arbitrary_pin_view.h"
 
 #include <memory>

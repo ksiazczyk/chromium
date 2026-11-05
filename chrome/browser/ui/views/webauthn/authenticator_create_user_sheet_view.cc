@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create user sheet view implementation
+// summary: Implements the WebAuthn request dialog sheet that displays the username of the passkey being created.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_create_user_sheet_view.h"
 
 #include <memory>

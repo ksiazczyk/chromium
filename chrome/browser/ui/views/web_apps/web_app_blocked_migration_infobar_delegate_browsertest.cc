@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app blocked migration infobar browser tests
+// summary: Browser tests covering creation, acceptance and dismissal of the blocked migration infobar under both the centralized and legacy infobar frameworks.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_blocked_migration_infobar_delegate.h"
 
 #include "base/memory/raw_ptr.h"

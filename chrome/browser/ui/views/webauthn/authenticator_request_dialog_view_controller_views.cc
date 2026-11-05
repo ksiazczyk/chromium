@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request dialog view controller implementation
+// summary: Implements the views-based controller that creates the WebAuthn request dialog, observes model changes, and swaps sheets on step transitions.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_request_dialog_view_controller_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey upgrade bubble view header
+// summary: Declares the bubble view that informs the user a passkey was created during a passkey upgrade (conditional create) request.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_UPGRADE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_UPGRADE_BUBBLE_VIEW_H_
 

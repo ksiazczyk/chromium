@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress delay header
+// summary: Declares ProgressDelay, a repeating-timer helper that emits progress callbacks over a configurable delay and step count.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROGRESS_DELAY_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROGRESS_DELAY_H_
 

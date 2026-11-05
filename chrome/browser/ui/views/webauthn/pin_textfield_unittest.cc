@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN textfield unit tests
+// summary: Unit tests checking the PIN textfield's accessible value as digits are appended, removed, obscured, and disabled.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/pin_textfield.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hybrid and security key sheet view implementation
+// summary: Implements the WebAuthn request dialog sheet for hybrid and security key mechanisms, building icon-labelled mechanism descriptions and QR code content.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_hybrid_and_security_key_sheet_view.h"
 
 #include <memory>

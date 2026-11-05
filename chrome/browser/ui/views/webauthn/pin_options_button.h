@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN options button header
+// summary: Declares a button shown in the GPM PIN creation dialog that opens a menu letting the user pick the PIN format.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PIN_OPTIONS_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PIN_OPTIONS_BUTTON_H_
 

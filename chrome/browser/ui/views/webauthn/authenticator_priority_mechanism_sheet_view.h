@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator priority mechanism sheet view header
+// summary: Declares the sheet view class used to confirm selection of a priority mechanism in the WebAuthn request dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_PRIORITY_MECHANISM_SHEET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_PRIORITY_MECHANISM_SHEET_VIEW_H_
 

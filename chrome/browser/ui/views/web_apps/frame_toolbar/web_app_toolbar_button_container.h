@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app toolbar button container class declaration
+// summary: Declares WebAppToolbarButtonContainer, which hosts the web app toolbar buttons and defines timing constants for the origin fade animation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_FRAME_TOOLBAR_WEB_APP_TOOLBAR_BUTTON_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_FRAME_TOOLBAR_WEB_APP_TOOLBAR_BUTTON_CONTAINER_H_
 

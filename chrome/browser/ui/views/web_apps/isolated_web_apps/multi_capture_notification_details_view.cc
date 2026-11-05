@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi Capture Notification Details View implementation
+// summary: Implements the details dialog listing apps with and without multi capture notifications, including app icons and list layouts.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/multi_capture_notification_details_view.h"
 
 #include "base/strings/utf_string_conversions.h"

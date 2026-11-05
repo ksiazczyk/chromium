@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler picker dialog header
+// summary: Declares the protocol handler picker dialog model, selection row view, and entry types for choosing a preferred protocol handler app.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_DIALOG_H_
 

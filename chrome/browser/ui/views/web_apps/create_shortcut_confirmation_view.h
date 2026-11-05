@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create shortcut confirmation view header
+// summary: Declares the CreateShortcutConfirmationView dialog class used to edit details when creating a shortcut web app.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_CREATE_SHORTCUT_CONFIRMATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_CREATE_SHORTCUT_CONFIRMATION_VIEW_H_
 

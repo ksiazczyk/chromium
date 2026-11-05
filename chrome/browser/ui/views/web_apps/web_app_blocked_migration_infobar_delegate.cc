@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app blocked migration infobar delegate
+// summary: Implements the confirm infobar shown when a web app migration is blocked, with create, remove and lookup helpers, a learn-more link and dismiss callbacks.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_blocked_migration_infobar_delegate.h"
 
 #include <memory>

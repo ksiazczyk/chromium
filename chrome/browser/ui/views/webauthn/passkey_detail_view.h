@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey detail view header
+// summary: Declares PasskeyDetailView, a view displaying user information for a passkey.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_DETAIL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_DETAIL_VIEW_H_
 

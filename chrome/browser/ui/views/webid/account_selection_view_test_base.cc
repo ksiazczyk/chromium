@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account selection view test base implementation
+// summary: Implements shared helpers that build test identity request accounts and inspect account rows for FedCM account selection view tests.
+// ---
+
 #include "chrome/browser/ui/views/webid/account_selection_view_test_base.h"
 
 #include "base/strings/utf_string_conversions.h"

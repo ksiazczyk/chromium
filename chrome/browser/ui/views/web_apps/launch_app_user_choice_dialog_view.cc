@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch app user choice dialog implementation
+// summary: Implements the dialog that lets users allow or deny a web app launch, with a checkbox to remember the selection for future launches.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/launch_app_user_choice_dialog_view.h"
 
 #include <memory>

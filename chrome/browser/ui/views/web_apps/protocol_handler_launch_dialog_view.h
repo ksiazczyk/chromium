@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler launch dialog view header
+// summary: Declares the user choice dialog shown before launching a PWA to handle a protocol launch, extending LaunchAppUserChoiceDialogView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_LAUNCH_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_LAUNCH_DIALOG_VIEW_H_
 

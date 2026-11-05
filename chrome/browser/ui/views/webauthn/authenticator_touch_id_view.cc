@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID sheet view implementation
+// summary: Implements the sheet prompting macOS users to authenticate with Touch ID for passkey flows, showing a lock icon when biometrics are unavailable.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_touch_id_view.h"
 
 #include <memory>

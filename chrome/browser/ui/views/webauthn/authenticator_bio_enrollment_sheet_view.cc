@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorBioEnrollmentSheetView implementation
+// summary: Implements the fingerprint enrollment sheet with a fingerprint icon and ring progress bar driven by remaining bio samples.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_bio_enrollment_sheet_view.h"
 
 #include <utility>

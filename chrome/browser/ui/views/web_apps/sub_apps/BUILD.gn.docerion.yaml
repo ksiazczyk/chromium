@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sub apps install dialog views build targets (BUILD.gn)
+summary: Defines GN source sets for the sub apps install dialog controller and dialog view with their dependencies.

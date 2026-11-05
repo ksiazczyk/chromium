@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler picker coordinator implementation
+// summary: Implements the UI flow for picking a web app to handle a protocol request, including metrics logging and preferred app launching.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/protocol_handler_picker_coordinator.h"
 
 #include <algorithm>

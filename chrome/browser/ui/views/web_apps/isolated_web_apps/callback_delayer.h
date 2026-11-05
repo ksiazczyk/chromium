@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackDelayer header
+// summary: Declares CallbackDelayer, which buffers callback execution until a minimum duration passes while emitting progress updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_ISOLATED_WEB_APPS_CALLBACK_DELAYER_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_ISOLATED_WEB_APPS_CALLBACK_DELAYER_H_
 

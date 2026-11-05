@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler launch dialog browser tests
+// summary: Browser tests for the protocol handler launch dialog, covering test app installation, dialog display and closing with different reasons.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

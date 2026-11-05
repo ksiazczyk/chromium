@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Zoom view controller build targets
+summary: GN build file defining the zoom source set, its implementation target, and the testonly interactive UI test target for the desktop zoom page action.

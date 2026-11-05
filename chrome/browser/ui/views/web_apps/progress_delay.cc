@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress delay implementation
+// summary: Implements a timer-driven helper that reports stepped progress over a delay, with the delay zeroed when running under tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/progress_delay.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App identity view implementation
+// summary: Builds a view showing an IWA's icon, title, and version by extending WebAppIconNameAndOriginView.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_identity_view.h"
 
 #include <memory>

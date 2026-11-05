@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force-installed deprecated apps dialog browser tests
+// summary: Browser tests verifying the dialog shown when launching force-installed deprecated Chrome apps.
+// ---
+
 #include "base/feature_list.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/extensions/chrome_app_deprecation.h"

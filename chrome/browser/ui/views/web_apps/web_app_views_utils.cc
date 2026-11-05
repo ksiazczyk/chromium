@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app views utilities implementation
+// summary: Implements shared views helpers that build name, origin, and version labels for web app dialogs and normalize suggested app titles.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_views_utils.h"
 
 #include <memory>

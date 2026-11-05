@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler launch dialog implementation
+// summary: Implements the allow or deny dialog shown when a web app protocol handler is launched, plus the helper that creates and shows the dialog widget.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/protocol_handler_launch_dialog_view.h"
 
 #include <memory>

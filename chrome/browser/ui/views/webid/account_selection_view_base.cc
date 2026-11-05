@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection view base implementation
+// summary: Implements shared FedCM account selection view logic such as data sharing disclosure text, error codes and dialog string formatting.
+// ---
+
 #include "chrome/browser/ui/views/webid/account_selection_view_base.h"
 
 #include <memory>

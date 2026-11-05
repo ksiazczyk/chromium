@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source picker sheet view implementation
+// summary: Implements the WebAuthn request dialog sheet that builds the multi-source picker content for choosing between multiple accounts and mechanisms.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_multi_source_picker_sheet_view.h"
 
 #include <memory>

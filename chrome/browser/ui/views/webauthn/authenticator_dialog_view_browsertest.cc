@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the WebAuthn authenticator request dialog view
+// summary: Browser tests exercising the WebAuthn authenticator request dialog, using test sheet models and views to check buttons, labels, and dialog behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

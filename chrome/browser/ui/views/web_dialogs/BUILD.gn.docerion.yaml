@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the web_dialogs source sets
+summary: Defines the web_dialogs source set and its unit_tests target, listing public headers, sources and dependency targets for the Chrome WebUI dialogs.

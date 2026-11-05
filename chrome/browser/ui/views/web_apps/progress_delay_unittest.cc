@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Progress delay unit tests
+// summary: Unit tests verifying that ProgressDelay reports stepped progress values and completion using mock time.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/progress_delay.h"
 
 #include "base/functional/bind.h"

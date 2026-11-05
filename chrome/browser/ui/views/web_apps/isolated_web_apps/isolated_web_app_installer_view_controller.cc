@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Installer View Controller Implementation
+// summary: Implements the controller that drives the installer dialog, fetches update manifests and installs the bundle.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_installer_view_controller.h"
 
 #include <algorithm>

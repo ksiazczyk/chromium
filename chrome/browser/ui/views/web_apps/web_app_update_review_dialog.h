@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app update review dialog header
+// summary: Declares element identifiers for the update review dialog buttons and a BrowserView class property that tracks when the dialog is showing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_UPDATE_REVIEW_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_UPDATE_REVIEW_DIALOG_H_
 

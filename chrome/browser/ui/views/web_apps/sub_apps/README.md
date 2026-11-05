@@ -1,3 +1,13 @@
+---
+type: readme
+title: Sub Apps Install Dialog Views UI
+summary: Explains the directory's role in the IWA sub-app installation prompt and links to companion documentation and key components.
+relations:
+  - references /chrome/browser/ui/views/web_apps/AGENTS.md
+  - references /chrome/browser/web_applications/sub_apps/README.md
+  - documents /chrome/browser/ui/views/web_apps/sub_apps/sub_apps_install_dialog.cc
+---
+
 # Sub Apps Install Dialog Views UI (`chrome/browser/ui/views/web_apps/sub_apps`)
 
 This directory implements the user confirmation dialog displayed when an

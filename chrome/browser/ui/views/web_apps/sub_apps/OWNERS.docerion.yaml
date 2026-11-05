@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the sub apps install dialog views directory
+summary: Lists the primary code owner and the secondary platform owners file for review routing in this directory.

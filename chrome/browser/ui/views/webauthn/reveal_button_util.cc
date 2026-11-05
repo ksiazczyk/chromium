@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reveal button utility implementation
+// summary: Implements a factory that builds the eye icon toggle button used to show or hide the PIN in WebAuthn dialogs.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/reveal_button_util.h"
 
 #include <memory>

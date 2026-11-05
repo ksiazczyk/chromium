@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window controls overlay toggle button implementation
+// summary: Implements the toolbar button that toggles the window controls overlay for web apps and updates its icon and tooltip to reflect the enabled state.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/window_controls_overlay_toggle_button.h"
 
 #include "base/functional/bind.h"

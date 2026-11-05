@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple install dialog bubble view browser test
+// summary: Browser tests for the web app simple install dialog bubble view covering install flows, metrics, and related UI behavior.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/memory/weak_ptr.h"
 #include "base/run_loop.h"

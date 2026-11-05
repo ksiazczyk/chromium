@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app uninstall dialog browser tests
+// summary: Browser tests for the web app uninstall dialog, covering isolated web apps, sub-app identity views, and uninstall flows.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

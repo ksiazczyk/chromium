@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall sub app identity view implementation
+// summary: Implements the UninstallSubAppIdentityView dialog that shows the icon, app name and parent app name of an isolated web app sub app being uninstalled, with optional icon masking.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/uninstall_sub_app_identity_view.h"
 
 #include <memory>

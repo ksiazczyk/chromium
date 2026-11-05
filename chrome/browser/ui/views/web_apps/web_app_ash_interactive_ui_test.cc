@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app Ash interactive UI tests
+// summary: Interactive browser tests verifying the web app toolbar menu button opens and closes on click, including in ChromeOS immersive fullscreen mode.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

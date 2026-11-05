@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View visible in active widget notifier unit test
+// summary: Unit tests for ViewVisibleInActiveWidgetNotifier covering widget activation, element visibility, and widget destruction scenarios.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/view_visible_in_active_widget_notifier.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM arbitrary alphanumeric PIN entry view header
+// summary: Declares AuthenticatorGPMArbitraryPinView, a WebAuthn dialog view with a textfield and reveal button for entering an alphanumeric Google Password Manager PIN.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_GPM_ARBITRARY_PIN_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_GPM_ARBITRARY_PIN_VIEW_H_
 

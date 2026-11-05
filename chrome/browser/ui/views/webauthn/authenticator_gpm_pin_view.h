@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM numeric PIN entry view header
+// summary: Declares AuthenticatorGPMPinView, a view with a textfield for entering a numeric-only Google Password Manager PIN plus a delegate interface for pin updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_GPM_PIN_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_GPM_PIN_VIEW_H_
 

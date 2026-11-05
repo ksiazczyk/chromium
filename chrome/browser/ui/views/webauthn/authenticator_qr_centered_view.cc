@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator QR centered view implementation
+// summary: Implements a view that renders a centered QR code image with rounded background and passkey center for WebAuthn hybrid flows.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_qr_centered_view.h"
 
 #include <memory>

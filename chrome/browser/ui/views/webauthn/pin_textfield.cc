@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN textfield implementation
+// summary: Implements a textfield that draws each PIN digit in its own cell, with obscuring, disabling, and accessibility support.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/pin_textfield.h"
 
 #include <algorithm>

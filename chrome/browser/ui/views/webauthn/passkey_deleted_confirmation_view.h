@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey deleted confirmation view header
+// summary: Declares PasskeyDeletedConfirmationView, a password bubble view informing the user that their passkey was deleted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_DELETED_CONFIRMATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_DELETED_CONFIRMATION_VIEW_H_
 

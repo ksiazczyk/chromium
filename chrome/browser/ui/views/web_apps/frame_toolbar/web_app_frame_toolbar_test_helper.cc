@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app frame toolbar test helper implementation
+// summary: Implements helpers that install and launch web apps, load test pages, and expose frame toolbar views for browser tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_frame_toolbar_test_helper.h"
 
 #include <string_view>

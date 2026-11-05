@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorClientPinEntrySheetView implementation
+// summary: Implements the WebAuthn dialog sheet that hosts the PIN entry view and forwards PIN changes to its model.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_client_pin_entry_sheet_view.h"
 
 #include <memory>

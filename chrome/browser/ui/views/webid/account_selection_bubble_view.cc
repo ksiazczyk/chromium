@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection bubble view implementation
+// summary: Implements the bubble dialog for the desktop FedCM flow, showing an account chooser whose content changes across the FedCM flow steps.
+// ---
+
 #include "chrome/browser/ui/views/webid/account_selection_bubble_view.h"
 
 #include <algorithm>

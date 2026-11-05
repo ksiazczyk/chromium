@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app install flow dialog delegate implementation
+// summary: Implements the staged install flow delegate that advances through intro, options, progress, and success views.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_install_flow_dialog_delegate.h"
 
 #include <algorithm>

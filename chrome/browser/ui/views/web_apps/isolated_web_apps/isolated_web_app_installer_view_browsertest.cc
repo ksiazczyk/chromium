@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Installer View UI Tests
+// summary: Browser UI and pixel tests verifying installer dialog screens, nested dialogs and dark or RTL variants.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_installer_view.h"
 
 #include <optional>

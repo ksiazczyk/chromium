@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon, name and origin view header
+// summary: Declares WebAppIconNameAndOriginView, a view pairing an app icon and name with its origin or version.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_ICON_NAME_AND_ORIGIN_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_ICON_NAME_AND_ORIGIN_VIEW_H_
 

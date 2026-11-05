@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ring progress bar implementation
+// summary: Implements an animated circular progress ring used as a progress indicator in the WebAuthn UI.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/ring_progress_bar.h"
 
 #include <algorithm>

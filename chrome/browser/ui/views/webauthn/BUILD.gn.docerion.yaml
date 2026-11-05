@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn views build definition
+summary: GN build file defining the webauthn source set with its public headers, sources and dependency targets.

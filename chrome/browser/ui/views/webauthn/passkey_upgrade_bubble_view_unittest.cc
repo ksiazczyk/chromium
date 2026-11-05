@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey upgrade bubble view unit tests
+// summary: Unit tests verifying the passkey upgrade bubble shows a title without standard buttons and that the manage passkeys button opens the password details page.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_upgrade_bubble_view.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM numeric PIN entry view implementation
+// summary: Implements AuthenticatorGPMPinView, a numeric-only PIN textfield with a reveal toggle that handles key events and notifies its delegate of pin changes.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_gpm_pin_view.h"
 
 #include <memory>

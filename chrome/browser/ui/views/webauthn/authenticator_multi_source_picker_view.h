@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator multi-source picker view header
+// summary: Declares the view class that displays one or two lists for selecting between multiple Web Authentication accounts and mechanisms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_MULTI_SOURCE_PICKER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_MULTI_SOURCE_PICKER_VIEW_H_
 
