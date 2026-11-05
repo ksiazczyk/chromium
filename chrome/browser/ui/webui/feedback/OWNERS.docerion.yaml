@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feedback directory owners
+summary: Points to the shared OWNERS file in components/feedback to define the code owners for this directory.

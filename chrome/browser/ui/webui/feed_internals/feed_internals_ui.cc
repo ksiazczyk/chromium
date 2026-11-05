@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed internals WebUI controller implementation
+// summary: Implements the FeedInternalsUI controller that serves the snippets-internals WebUI page and binds the Feed V2 page handler to incoming Mojo requests.
+// ---
+
 #include "chrome/browser/ui/webui/feed_internals/feed_internals_ui.h"
 
 #include <utility>

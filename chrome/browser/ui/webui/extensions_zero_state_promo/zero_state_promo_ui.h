@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state promo WebUI controller header
+// summary: Declares the ZeroStatePromoController, a top chrome and custom help bubble WebUI controller that also implements the page handler factory.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_EXTENSIONS_ZERO_STATE_PROMO_ZERO_STATE_PROMO_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_EXTENSIONS_ZERO_STATE_PROMO_ZERO_STATE_PROMO_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads list tracker implementation
+// summary: Implements the tracker that observes download items, applies search queries, and converts them into Mojo data for the downloads page, including danger type mapping and display URL length limits.
+// ---
+
 #include "chrome/browser/ui/webui/downloads/downloads_list_tracker.h"
 
 #include <algorithm>

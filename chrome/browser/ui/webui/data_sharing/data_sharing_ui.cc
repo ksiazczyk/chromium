@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing WebUI controller implementation
+// summary: Implements the chrome-untrusted data sharing WebUI controller with data source setup, content security policies and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/data_sharing/data_sharing_ui.h"
 
 #include "base/strings/strcat.h"

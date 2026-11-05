@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Critical Actions page handler
+// summary: Tests empty queries, pagination, search and deletion behaviour of the page handler using a TestingProfile and the CriticalActionHistory feature.
+// ---
+
 #include "chrome/browser/ui/webui/critical_actions/critical_actions_page_handler.h"
 
 #include <memory>

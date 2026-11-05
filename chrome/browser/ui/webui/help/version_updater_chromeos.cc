@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS version updater implementation
+// summary: Implements ChromeOS update checks, channel switching, end-of-life info and network permission handling via the update engine.
+// ---
+
 #include "chrome/browser/ui/webui/help/version_updater_chromeos.h"
 
 #include <cmath>

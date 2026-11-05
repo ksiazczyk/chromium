@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feed internals code owners
+summary: Delegates directory ownership to components/feed OWNERS and routes Mojo file changes to the IPC security owners.

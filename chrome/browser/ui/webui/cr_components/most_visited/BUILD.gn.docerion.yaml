@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Most visited component build targets (BUILD.gn)
+summary: Defines GN source_set targets and dependencies for the MostVisited handler and pref observer, plus their unit test target.

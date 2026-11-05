@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryClustersUtil implementation
+// summary: Implements PopulateSource to add history clusters feature flags, policy-driven visibility, debug and image settings, and localized strings to the WebUI data source.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/history_clusters/history_clusters_util.h"
 
 #include "base/feature_list.h"

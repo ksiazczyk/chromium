@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic version updater for Linux and unbranded Windows
+// summary: Provides a minimal VersionUpdater that only reports whether an upgrade is already available via the upgrade detector.
+// ---
+
 #include <memory>
 #include <string>
 

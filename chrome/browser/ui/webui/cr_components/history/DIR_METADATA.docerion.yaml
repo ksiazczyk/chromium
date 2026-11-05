@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the history cr_components folder
+summary: Points the directory metadata to the shared COMMON_METADATA mixins of the history resources folder.

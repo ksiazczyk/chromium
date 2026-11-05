@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed internals WebUI controller header
+// summary: Declares the FeedInternalsUI Mojo WebUI controller and its internal WebUI config, which enable the page for non-incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEED_INTERNALS_FEED_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_FEED_INTERNALS_FEED_INTERNALS_UI_H_
 

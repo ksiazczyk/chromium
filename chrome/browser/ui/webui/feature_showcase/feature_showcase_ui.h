@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase WebUI controller header
+// summary: Declares the feature showcase WebUI controller and its WebUIConfig, including Mojo interface bindings for the default browser, Gemini, Google Lens, password manager and themes handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_FEATURE_SHOWCASE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_FEATURE_SHOWCASE_UI_H_
 

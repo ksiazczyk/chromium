@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsUI WebUI controller header
+// summary: Declares the DevToolsUI WebUI controller class with static helpers for proxy and remote URLs and frontend resource detection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEVTOOLS_DEVTOOLS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DEVTOOLS_DEVTOOLS_UI_H_
 

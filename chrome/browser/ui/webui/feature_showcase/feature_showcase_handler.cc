@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase handler implementation
+// summary: Implements the feature showcase page handler that invokes the finish and next-step-shown callbacks from the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/feature_showcase_handler.h"
 
 #include <utility>

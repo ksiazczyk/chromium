@@ -1,0 +1,4 @@
+# Docerion header of default_browser.mojom.
+type: source
+title: Default browser Mojo interface definitions
+summary: Defines Mojo interfaces letting the WebUI tell the browser to set Chrome as the default browser or skip that step.

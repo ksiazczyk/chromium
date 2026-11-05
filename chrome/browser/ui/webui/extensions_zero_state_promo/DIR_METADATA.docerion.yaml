@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the extensions zero state promo folder
+summary: Maps the folder to the Platform>Extensions monorail component, the webstore-consumer team and a Buganizer component.

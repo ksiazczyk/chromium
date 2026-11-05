@@ -1,0 +1,4 @@
+# Docerion header of site_data.mojom.
+type: source
+title: Site data Mojo interface definitions
+summary: Defines Mojo structs and the SiteDataProvider interface that expose site data database rows and size to the Discards WebUI.

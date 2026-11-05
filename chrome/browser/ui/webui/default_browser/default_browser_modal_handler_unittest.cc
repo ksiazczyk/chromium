@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the default browser modal handler
+// summary: Verifies that TryAgain increments the sticky modal retry count histogram and that retry without a prompt surface manager is a no-op.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/default_browser_modal_handler.h"
 
 #include <memory>

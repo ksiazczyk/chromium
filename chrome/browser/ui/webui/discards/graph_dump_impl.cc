@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph dump interface implementation
+// summary: Implements the GraphDump interface that serializes performance manager graph nodes and favicons to JSON for the Discards WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/discards/graph_dump_impl.h"
 
 #include <memory>

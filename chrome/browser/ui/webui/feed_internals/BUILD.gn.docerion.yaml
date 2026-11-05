@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed internals GN build file
+summary: Defines the Mojo bindings target and the Android-only feed_internals source set with its sources and dependencies for the Chrome build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the default browser modal dialog delegate
+// summary: Implements Show(), which opens the default browser modal as a Chrome WebUI dialog with URL parameters for the settings illustration, taskbar pinning and modality.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/default_browser_modal_dialog_delegate.h"
 
 #include <memory>

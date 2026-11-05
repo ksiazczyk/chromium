@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome colors implementation
+// summary: Builds compile-time arrays of Chrome colors and dynamic color info entries used by the Customize Chrome theme color picker.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/theme_color_picker/customize_chrome_colors.h"
 
 #include <array>

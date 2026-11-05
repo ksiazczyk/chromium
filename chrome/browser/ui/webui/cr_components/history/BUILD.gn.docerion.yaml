@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the history WebUI component
+summary: Defines the GN source_set for the history WebUI component, listing history_util sources and dependencies on base, browser, components and UI targets.

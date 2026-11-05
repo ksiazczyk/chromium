@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the flags WebUI
+summary: Defines the flags WebUI source set with its dependencies plus a testonly unit test target for the message handler.

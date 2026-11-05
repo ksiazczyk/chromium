@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Drive Picker Host directory metadata
+summary: Maps the directory to Buganizer component 1457180 for issue tracking.

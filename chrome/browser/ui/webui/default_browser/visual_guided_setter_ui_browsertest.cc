@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual guided setter UI browser test
+// summary: In-process browser test that loads the visual guided setter WebUI, binds the Mojo page handler factory, and calls SetAnchorRect against a mock page.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/visual_guided_setter_ui.h"
 
 #include <memory>

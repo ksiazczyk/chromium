@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device log WebUI controller implementation
+// summary: Implements the ChromeOS device log WebUI controller and its message handler, which return the device event log as JSON, clear the log, and provide localized strings for the page.
+// ---
+
 #include "chrome/browser/ui/webui/device_log/device_log_ui.h"
 
 #include <memory>

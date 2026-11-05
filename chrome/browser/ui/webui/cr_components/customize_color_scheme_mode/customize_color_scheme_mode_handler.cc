@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize color scheme mode WebUI handler implementation
+// summary: Implements the Mojo WebUI handler that sets and reports the browser color scheme mode through the profile's ThemeService.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/customize_color_scheme_mode/customize_color_scheme_mode_handler.h"
 
 #include "chrome/browser/profiles/profile.h"

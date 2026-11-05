@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker Host WebUI controller
+// summary: Implements the WebUI controller and config for the Drive Picker Host page, including OAuth token fetching and Cloud project number extraction for the Google Picker API.
+// ---
+
 #include "chrome/browser/ui/webui/drive_picker_host/drive_picker_host_ui.h"
 
 #include "chrome/browser/browser_process.h"

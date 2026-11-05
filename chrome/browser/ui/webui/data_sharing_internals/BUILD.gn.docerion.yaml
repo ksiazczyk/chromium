@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the data sharing internals WebUI
+summary: Defines the GN source_set for the data sharing internals WebUI, listing its sources and dependencies on Chrome, content, and data sharing components.

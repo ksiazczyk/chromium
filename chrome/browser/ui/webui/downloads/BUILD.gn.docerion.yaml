@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Downloads WebUI GN build file
+summary: Defines the Mojo bindings target, the downloads source set, and unit and interactive UI test targets for the Chrome downloads WebUI.

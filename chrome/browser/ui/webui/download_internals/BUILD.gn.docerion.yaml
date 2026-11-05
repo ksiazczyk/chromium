@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the download_internals WebUI
+summary: GN build file defining the download_internals source set, listing its sources, public headers, and dependencies on browser, download, and network components.

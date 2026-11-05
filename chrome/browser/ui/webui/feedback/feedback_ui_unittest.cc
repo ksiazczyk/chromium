@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback UI unit tests
+// summary: Unit tests verifying that FeedbackUI::IsFeedbackEnabled reflects the kUserFeedbackAllowed preference for a testing profile.
+// ---
+
 #include "chrome/browser/ui/webui/feedback/feedback_ui.h"
 
 #include "chrome/common/pref_names.h"

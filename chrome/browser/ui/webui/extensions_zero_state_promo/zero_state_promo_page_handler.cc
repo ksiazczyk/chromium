@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state promo page handler implementation
+// summary: Opens the Chrome Web Store link for a clicked promo chip in a new tab, appending a variant-specific UTM source and logging a histogram.
+// ---
+
 #include "chrome/browser/ui/webui/extensions_zero_state_promo/zero_state_promo_page_handler.h"
 
 #include "base/memory/ptr_util.h"

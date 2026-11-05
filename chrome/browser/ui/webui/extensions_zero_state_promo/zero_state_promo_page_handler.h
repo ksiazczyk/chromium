@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state promo page handler header
+// summary: Declares the ZeroStatePromoPageHandler class implementing the Mojo PageHandler interface for the promo WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_EXTENSIONS_ZERO_STATE_PROMO_ZERO_STATE_PROMO_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_EXTENSIONS_ZERO_STATE_PROMO_ZERO_STATE_PROMO_PAGE_HANDLER_H_
 

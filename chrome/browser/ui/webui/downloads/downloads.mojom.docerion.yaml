@@ -1,0 +1,4 @@
+# Docerion header of downloads.mojom.
+type: source
+title: Downloads WebUI Mojo interface definitions
+summary: Defines the Mojo enums, download data struct, and page handler interfaces used to pass download item state, danger types, and Safe Browsing information between the browser and the downloads WebUI.

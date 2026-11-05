@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for customize buttons
+summary: Defines GN build targets for the customize buttons Mojo bindings, handler sources, and browser tests.

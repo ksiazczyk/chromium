@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for signin web UI components
+summary: Defines the signin source set and its unit tests with their build dependencies.

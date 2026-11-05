@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini handler unit tests
+// summary: Unit tests for GeminiHandler verifying that accepting or skipping consent updates Glic FRE prefs and records the expected feature showcase histograms.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/gemini_handler.h"
 
 #include <optional>

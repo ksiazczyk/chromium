@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual guided setter layout utils unit tests
+// summary: Unit test that checks the visual guided setter layout table and docking thresholds against measured values across Windows text scale factors, using fake screen and text scale fixtures.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/visual_guided_setter_layout_utils.h"
 
 #include <windows.h>

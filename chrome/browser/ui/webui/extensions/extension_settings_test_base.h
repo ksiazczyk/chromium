@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings test base header
+// summary: Declares ExtensionSettingsTestBase, the C++ base class for extensions WebUI tests, with install helpers and test-scoped verification bypasses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_EXTENSIONS_EXTENSION_SETTINGS_TEST_BASE_H_
 #define CHROME_BROWSER_UI_WEBUI_EXTENSIONS_EXTENSION_SETTINGS_TEST_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Critical Actions WebUI directory
+summary: Delegates ownership to the Critical Actions component owners and assigns IPC security owners for Mojo files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedHandler implementation
+// summary: Implements the browser-side handler for most visited tiles, covering tile add, delete, reorder, undo, prerendering, and impression logging.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/most_visited/most_visited_handler.h"
 
 #include <map>

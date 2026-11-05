@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini disclosure unit tests
+// summary: Tests that the generated Gemini disclosure strings match the expected content for US and Korean regions and for managed devices.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/gemini_disclosure.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

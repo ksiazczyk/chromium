@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions sidebar promo interface
+// summary: Declares the SidebarPromo struct and helper functions that list all promos and pick the daily-rotating unexpired promo for the extensions page sidebar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_EXTENSIONS_SIDEBAR_PROMOS_H_
 #define CHROME_BROWSER_UI_WEBUI_EXTENSIONS_SIDEBAR_PROMOS_H_
 

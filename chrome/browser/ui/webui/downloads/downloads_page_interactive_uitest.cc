@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads page interactive UI test
+// summary: Interactive browser tests for the downloads WebUI page, covering opening it via the app menu and interacting with download items.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/bind.h"

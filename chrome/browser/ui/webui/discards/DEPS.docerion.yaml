@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the discards directory
+summary: Grants the discards WebUI directory access to performance manager site data persistence and policy headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome colors header
+// summary: Declares the subset of Chrome color IDs, the DynamicColorInfo struct, the generated color arrays, and a hue-to-color helper for the theme color picker.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_THEME_COLOR_PICKER_CUSTOMIZE_CHROME_COLORS_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_THEME_COLOR_PICKER_CUSTOMIZE_CHROME_COLORS_H_
 

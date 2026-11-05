@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the device_log WebUI
+summary: Defines the device_log source_set with its sources and dependencies on Chrome, content, and device event log components.

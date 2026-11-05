@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker Host request implementation
+// summary: Implements the move-only DrivePickerHostRequest class that pairs a request type with a mojo result handler remote.
+// ---
+
 #include "chrome/browser/ui/webui/drive_picker_host/drive_picker_host_request.h"
 
 #include <utility>

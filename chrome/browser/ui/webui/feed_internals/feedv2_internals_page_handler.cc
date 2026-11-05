@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed V2 internals page handler implementation
+// summary: Implements the Mojo PageHandler for Feed V2, reporting feed properties, fetch and upload stats, histograms, and state dumps, and applying debug overrides.
+// ---
+
 #include "chrome/browser/ui/webui/feed_internals/feedv2_internals_page_handler.h"
 
 #include <utility>

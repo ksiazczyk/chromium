@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive Picker Host build targets
+summary: Defines GN build targets for the drive_picker_host WebUI, including mojo bindings, request and UI source sets, and unit tests.

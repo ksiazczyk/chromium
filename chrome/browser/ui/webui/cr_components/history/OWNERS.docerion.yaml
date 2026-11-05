@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the history cr_components folder
+summary: Delegates ownership review of this directory to the OWNERS file of chrome/browser/resources/history.

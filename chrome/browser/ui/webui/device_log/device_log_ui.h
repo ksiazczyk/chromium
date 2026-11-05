@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device log WebUI controller declarations
+// summary: Declares the ChromeOS DeviceLogUI WebUI controller and its DeviceLogUIConfig class that registers the device log page with the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEVICE_LOG_DEVICE_LOG_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DEVICE_LOG_DEVICE_LOG_UI_H_
 

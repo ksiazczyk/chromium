@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox handler class declarations
+// summary: Declares ComposeboxOmniboxClient and ComposeboxHandler, the Mojo page handler bridging the composebox WebUI to browser services.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_COMPOSEBOX_COMPOSEBOX_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_COMPOSEBOX_COMPOSEBOX_HANDLER_H_
 

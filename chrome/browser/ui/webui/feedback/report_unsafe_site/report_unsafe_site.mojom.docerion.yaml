@@ -1,0 +1,4 @@
+# Docerion header of report_unsafe_site.mojom.
+type: source
+title: Mojo interfaces for the report unsafe site WebUI
+summary: Defines the PageHandler and PageHandlerFactory Mojo interfaces for browser-side handling of the report unsafe site WebUI.

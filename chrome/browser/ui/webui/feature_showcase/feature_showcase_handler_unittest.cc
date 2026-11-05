@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature showcase handler unit tests
+// summary: Unit tests verifying that the feature showcase handler invokes its finish and next-step callbacks when the corresponding mojo methods are called.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/feature_showcase_handler.h"
 
 #include "base/functional/callback_helpers.h"

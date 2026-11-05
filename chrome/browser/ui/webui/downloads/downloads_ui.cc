@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads WebUI controller implementation
+// summary: Implements the downloads WebUI controller, creating the data source, localized strings, and Mojo page handler bindings.
+// ---
+
 #include "chrome/browser/ui/webui/downloads/downloads_ui.h"
 
 #include <memory>

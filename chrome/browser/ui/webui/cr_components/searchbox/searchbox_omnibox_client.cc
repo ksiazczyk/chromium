@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchboxOmniboxClient implementation
+// summary: Implements an OmniboxClient for WebUI search boxes, supplying profile-scoped services such as bookmarks, prefs, template URLs and the autocomplete classifier.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/searchbox_omnibox_client.h"
 
 #include "chrome/browser/autocomplete/autocomplete_classifier_factory.h"

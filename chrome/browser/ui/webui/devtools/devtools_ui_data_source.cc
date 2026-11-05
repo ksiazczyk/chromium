@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools UI data source implementation
+// summary: Implements the WebUI data source that serves DevTools frontend resources, resolving request paths, stripping revision-prefixed segments, mapping filenames to MIME types, and returning 404 responses for missing files.
+// ---
+
 #include "chrome/browser/ui/webui/devtools/devtools_ui_data_source.h"
 
 #include <list>

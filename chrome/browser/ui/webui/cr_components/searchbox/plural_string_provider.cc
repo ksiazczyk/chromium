@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plural string provider implementation
+// summary: Implements the Mojo plural string provider that serves localized pluralized strings to searchbox and composebox WebUI pages.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/plural_string_provider.h"
 
 #include <memory>

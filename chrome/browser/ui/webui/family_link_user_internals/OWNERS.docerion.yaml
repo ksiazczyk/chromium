@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for family_link_user_internals
+summary: Delegates ownership review of this directory to the supervised_user OWNERS file.

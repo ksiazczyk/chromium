@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guided setter overlay window unit tests
+// summary: Unit tests verifying the overlay window lifecycle, visibility on UpdateAndShow, and hiding behavior.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/guided_setter_overlay_window_win.h"
 
 #include <memory>

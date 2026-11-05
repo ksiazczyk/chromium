@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens handler header
+// summary: Declares GoogleLensHandler, the Mojo-backed browser-side handler for the Google Lens feature showcase step.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_GOOGLE_LENS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_GOOGLE_LENS_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the zero state promo page handler
+// summary: Verifies that each Web Store link opens the expected URL with UTM parameters and records the correct histogram bucket.
+// ---
+
 #include "chrome/browser/ui/webui/extensions_zero_state_promo/zero_state_promo_page_handler.h"
 
 #include <string_view>

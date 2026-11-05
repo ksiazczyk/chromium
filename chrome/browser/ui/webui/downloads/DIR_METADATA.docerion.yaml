@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Downloads WebUI directory metadata
+summary: Maps the downloads WebUI directory to the UI>Browser>Downloads monorail component and a Buganizer component ID.

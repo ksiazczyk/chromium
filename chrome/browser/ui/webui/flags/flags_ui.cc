@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the flags WebUI controller
+// summary: Implements the WebUI controller for Chrome's flags page, creating the data source, adding strings and resources, and handling ChromeOS owner warnings.
+// ---
+
 #include "chrome/browser/ui/webui/flags/flags_ui.h"
 
 #include <memory>

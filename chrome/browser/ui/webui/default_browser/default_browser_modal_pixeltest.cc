@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel tests for the default browser modal dialog
+// summary: Interactive browser tests that show the modal dialog and capture screenshots with and without the settings illustration against a baseline CL.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/default_browser/default_browser_features.h"

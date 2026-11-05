@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state promo WebUI controller implementation
+// summary: Sets up the top chrome WebUI data source with localized strings, theme source and variant flags for the extensions zero state promo.
+// ---
+
 #include "chrome/browser/ui/webui/extensions_zero_state_promo/zero_state_promo_ui.h"
 
 #include <string>

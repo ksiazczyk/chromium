@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback WebUI implementation
+// summary: Implements the feedback WebUI controller, registering localized strings, data sources and handlers for the feedback dialog and unsafe site reporting.
+// ---
+
 #include "chrome/browser/ui/webui/feedback/feedback_ui.h"
 
 #include "base/functional/bind.h"

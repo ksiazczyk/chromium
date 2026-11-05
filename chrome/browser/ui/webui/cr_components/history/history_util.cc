@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History WebUI shared utility implementation
+// summary: Implements HistoryUtil by populating a shared WebUI data source with localized strings and configuration used by both the main history page and the history side panel.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/history/history_util.h"
 
 #include "chrome/browser/history_embeddings/history_embeddings_utils.h"

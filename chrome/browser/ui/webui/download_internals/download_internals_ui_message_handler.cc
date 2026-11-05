@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadInternalsUIMessageHandler implementation
+// summary: Implements WebUI message handlers for service status, service downloads and starting background downloads, forwarding download service logger events to the page.
+// ---
+
 #include "chrome/browser/ui/webui/download_internals/download_internals_ui_message_handler.h"
 
 #include "base/functional/bind.h"

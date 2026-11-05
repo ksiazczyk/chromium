@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feature showcase DEPS include rules
+summary: Restricts includes for this directory by allowing headers from components/glic.

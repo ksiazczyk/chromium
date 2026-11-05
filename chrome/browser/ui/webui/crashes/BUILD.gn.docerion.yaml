@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crashes WebUI build definition
+summary: Defines the crashes source set for the Chromium build, listing its sources, public headers, and dependencies, with an extra ChromeOS dependency.

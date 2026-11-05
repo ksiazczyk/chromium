@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomizeButtonsHandler class declaration
+// summary: Declares the CustomizeButtonsHandler class implementing the Mojo handler interface for customize buttons on the new tab page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CUSTOMIZE_BUTTONS_CUSTOMIZE_BUTTONS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CUSTOMIZE_BUTTONS_CUSTOMIZE_BUTTONS_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for theme color picker
+summary: Defines GN source sets for the theme color picker, its customize chrome colors implementation, handler, and unit tests together with their dependencies.

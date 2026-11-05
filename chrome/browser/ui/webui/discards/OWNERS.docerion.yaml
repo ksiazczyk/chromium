@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the discards directory
+summary: Delegates ownership to the performance manager owners and assigns IPC security owners to Mojo files.

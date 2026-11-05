@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the help version updater
+summary: Defines the help source set with per-platform version updater sources plus test support and unit test targets.

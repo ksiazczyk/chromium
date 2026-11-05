@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini disclosure header
+// summary: Declares the GeminiDisclosure struct and the function returning region-specific Gemini consent strings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_GEMINI_DISCLOSURE_H_
 #define CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_GEMINI_DISCLOSURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing page handler implementation
+// summary: Implements the browser-side Mojo page handler for share links, group previews, group actions and access token fetching.
+// ---
+
 #include "chrome/browser/ui/webui/data_sharing/data_sharing_page_handler.h"
 
 #include "base/task/single_thread_task_runner.h"

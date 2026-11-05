@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing WebUI build configuration
+summary: GN build file defining the Mojo bindings, source sets and unit test target for the data sharing WebUI.

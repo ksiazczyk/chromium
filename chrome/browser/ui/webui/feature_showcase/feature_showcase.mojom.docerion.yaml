@@ -1,0 +1,4 @@
+# Docerion header of feature_showcase.mojom.
+type: source
+title: Feature showcase Mojo interface definitions
+summary: Defines Mojo interfaces for the WebUI to notify the browser when a showcase step is shown and when the showcase is finished.

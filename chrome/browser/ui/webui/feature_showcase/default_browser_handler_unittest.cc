@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser handler unit tests
+// summary: Unit tests verifying that DefaultBrowserHandler logs metrics, triggers default browser setting, and pins to the taskbar on Windows.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/default_browser_handler.h"
 
 #include <memory>

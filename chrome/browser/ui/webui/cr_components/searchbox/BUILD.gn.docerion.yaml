@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Searchbox BUILD.gn build definition
+summary: Defines the GN source sets for the browser-side searchbox components, listing sources and dependencies for the searchbox and searchbox_impl targets.

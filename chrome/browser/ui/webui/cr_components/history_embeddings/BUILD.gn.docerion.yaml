@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the history embeddings WebUI component
+summary: Defines the source_set targets and dependencies for the history embeddings handler plus its unit test and interactive UI test targets.

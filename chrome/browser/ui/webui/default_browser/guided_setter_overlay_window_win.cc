@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guided setter overlay window implementation
+// summary: Implements the click-through topmost Windows overlay window that draws the guidance arrow from the WebUI stage to the Settings Set default button.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/guided_setter_overlay_window_win.h"
 
 #include <cmath>

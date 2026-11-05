@@ -1,0 +1,4 @@
+# Docerion header of drive_picker_host.mojom.
+type: source
+title: Drive Picker Host Mojo interface
+summary: Defines the Mojo DrivePickerHostHandler interface for the browser-side handler of the Drive Picker Host WebUI, called from the renderer side.

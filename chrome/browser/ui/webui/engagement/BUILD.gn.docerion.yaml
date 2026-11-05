@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Engagement WebUI build configuration
+summary: GN build definition for the engagement source set, listing the site engagement UI sources and the Chromium dependencies it links against.

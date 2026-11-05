@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools data source unit tests
+// summary: Unit tests for DevToolsDataSource covering bundled, remote, and custom frontend request handling using stubbed network and file requests.
+// ---
+
 #include "chrome/browser/ui/webui/devtools/devtools_ui_data_source.h"
 
 #include <memory>

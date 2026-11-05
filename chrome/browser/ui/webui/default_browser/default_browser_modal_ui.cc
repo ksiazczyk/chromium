@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the default browser modal WebUI controller
+// summary: Sets up the WebUI data source, localized strings and URL query parameters for the default browser modal page together with its WebUI config.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/default_browser_modal_ui.h"
 
 #include <string>

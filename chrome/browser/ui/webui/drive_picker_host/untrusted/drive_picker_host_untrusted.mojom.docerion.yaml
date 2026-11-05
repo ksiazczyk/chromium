@@ -1,0 +1,4 @@
+# Docerion header of drive_picker_host_untrusted.mojom.
+type: source
+title: Drive Picker untrusted Mojo interfaces
+summary: Defines Mojo interfaces for communication between the browser and the untrusted Drive Picker page, covering picker display, ConsentKit messaging, and error handling.

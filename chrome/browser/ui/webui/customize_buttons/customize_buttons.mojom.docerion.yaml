@@ -1,0 +1,4 @@
+# Docerion header of customize_buttons.mojom.
+type: source
+title: Customize buttons Mojo interfaces
+summary: Defines Mojo interfaces for bidirectional communication between the new tab page WebUI document and the browser-side customize buttons handler.

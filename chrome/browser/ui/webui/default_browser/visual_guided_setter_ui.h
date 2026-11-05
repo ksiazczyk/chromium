@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual guided setter WebUI controller header
+// summary: Header declaring VisualGuidedSetterUI and its WebUIConfig, the Mojo WebUI controller that serves the visual guided setter page and binds the page handler factory.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing WebUI controller header
+// summary: Declares the DataSharingUI controller and config classes plus the delegate interface used by the data sharing bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DATA_SHARING_DATA_SHARING_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DATA_SHARING_DATA_SHARING_UI_H_
 

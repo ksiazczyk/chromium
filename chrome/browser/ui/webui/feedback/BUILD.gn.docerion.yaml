@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feedback WebUI GN build configuration
+summary: GN build file defining the feedback source sets, public headers, dependencies, and the unit test target for the feedback WebUI.

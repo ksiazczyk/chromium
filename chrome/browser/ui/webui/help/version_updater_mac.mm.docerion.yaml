@@ -1,0 +1,4 @@
+# Docerion header of version_updater_mac.mm.
+type: source
+title: macOS implementation of the version updater for the Help page
+summary: Implements VersionUpdater on macOS, mapping Omaha updater states to Help page status, progress and error messages for update checks.

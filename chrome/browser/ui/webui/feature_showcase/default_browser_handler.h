@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser handler header
+// summary: Declares the DefaultBrowserHandler class implementing the default browser Mojo interface, including testing hooks and a can-pin flag.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_DEFAULT_BROWSER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_DEFAULT_BROWSER_HANDLER_H_
 
