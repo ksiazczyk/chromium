@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sentiment service factory unit tests
+// summary: Unit tests checking that the factory creates the service only when HaTS eligibility, feature flags, platform and English locale conditions are met.
+// ---
+
 #include "chrome/browser/ui/hats/trust_safety_sentiment_service_factory.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login handler implementation
+// summary: Implements LoginHandler, including global handler tracking, credential handling via SetAuth, auth cancellation, and password manager integration.
+// ---
+
 #include "chrome/browser/ui/login/login_handler.h"
 
 #include <string>

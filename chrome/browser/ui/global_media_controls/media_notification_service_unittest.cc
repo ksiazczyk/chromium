@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaNotificationService unit tests
+// summary: Unit tests for MediaNotificationService covering media session items, device selection, and presentation request notification behavior.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_service.h"
 
 #include <memory>

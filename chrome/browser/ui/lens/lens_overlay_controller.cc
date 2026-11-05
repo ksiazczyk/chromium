@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay controller implementation
+// summary: Implements LensOverlayController, which manages all Lens overlay state for a tab, including side panel, search, metrics, and theme handling.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_controller.h"
 
 #include <algorithm>

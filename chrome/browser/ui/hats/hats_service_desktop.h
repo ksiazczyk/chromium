@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsServiceDesktop class header
+// summary: Declares HatsServiceDesktop and its DelayedSurveyTask, which observes web contents and schedules delayed survey launches on desktop.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_HATS_SERVICE_DESKTOP_H_
 #define CHROME_BROWSER_UI_HATS_HATS_SERVICE_DESKTOP_H_
 

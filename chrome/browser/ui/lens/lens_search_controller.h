@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search controller header
+// summary: Declares LensSearchController, the tab-attached entry point controller for all Lens Search features, including overlay invocation and initialization APIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_SEARCH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_SEARCH_CONTROLLER_H_
 

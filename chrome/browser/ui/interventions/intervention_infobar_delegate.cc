@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterventionInfoBarDelegate implementation
+// summary: Implements the intervention infobar delegate, treating infobar dismissal as acceptance of the intervention.
+// ---
+
 #include "chrome/browser/ui/interventions/intervention_infobar_delegate.h"
 
 #include "chrome/browser/ui/interventions/intervention_delegate.h"

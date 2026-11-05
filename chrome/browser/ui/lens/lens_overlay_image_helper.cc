@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay image helper implementation
+// summary: Implements helpers that downscale, crop and encode bitmaps into Lens image data and compute bounding boxes for overlay requests.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_image_helper.h"
 
 #include <algorithm>

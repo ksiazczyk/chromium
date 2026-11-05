@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay gen204 controller unit tests
+// summary: Unit tests for the Lens Overlay gen204 controller, verifying the URLs and parameters of latency, task completion and semantic event pings.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_gen204_controller.h"
 
 #include "base/base64url.h"

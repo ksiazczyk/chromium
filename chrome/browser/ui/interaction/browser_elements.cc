@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElements implementation
+// summary: Implements BrowserElements, which retrieves tracked UI elements from the ElementTracker for the current browser window and notifies custom element events.
+// ---
+
 #include "chrome/browser/ui/interaction/browser_elements.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

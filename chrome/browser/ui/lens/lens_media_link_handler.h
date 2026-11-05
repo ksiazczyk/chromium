@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Lens media link handler header
+// summary: Declares LensMediaLinkHandler, which intercepts YouTube video links clicked during a Lens overlay session and seeks the playing media session.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_MEDIA_LINK_HANDLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_MEDIA_LINK_HANDLER_H_
 

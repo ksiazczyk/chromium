@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouterUIServiceFactory unit tests
+// summary: Unit tests verifying service creation, that the action controller is omitted when media routing is disabled by policy, and observer notification on disabling.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui_service_factory.h"
 
 #include <memory>

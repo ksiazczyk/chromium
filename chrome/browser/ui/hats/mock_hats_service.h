@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockHatsService gmock header
+// summary: Declares a gmock mock of HatsServiceDesktop with stubbed survey launch methods so tests can fake survey behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_MOCK_HATS_SERVICE_H_
 #define CHROME_BROWSER_UI_HATS_MOCK_HATS_SERVICE_H_
 

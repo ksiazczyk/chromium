@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracking metadata
+summary: Maps the directory to the Internals>Media>UI Monorail component and a public Buganizer component for issue routing.

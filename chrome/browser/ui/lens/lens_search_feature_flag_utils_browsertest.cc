@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens search feature flag utils browser tests
+// summary: Browser tests verifying Lens Search feature flag behavior, including AIM eligibility and overlay permission granting, using a fake eligibility service.
+// ---
+
 #include "chrome/browser/ui/lens/lens_search_feature_flag_utils.h"
 
 #include <memory>

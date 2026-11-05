@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Lens UI directory
+summary: Lists additional include rules that code in the Lens UI directory is allowed to depend on.

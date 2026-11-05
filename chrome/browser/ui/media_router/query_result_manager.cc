@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query result manager implementation
+// summary: Implements QueryResultManager, which tracks media sinks compatible with each cast mode and notifies observers when results change.
+// ---
+
 #include "chrome/browser/ui/media_router/query_result_manager.h"
 
 #include <algorithm>

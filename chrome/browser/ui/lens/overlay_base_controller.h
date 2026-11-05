@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay base controller
+// summary: Declares OverlayBaseController, which manages overlay state for a tab via a documented state machine covering showing, hiding, backgrounding and closing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_OVERLAY_BASE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_OVERLAY_BASE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterventionDelegate interface
+// summary: Declares an abstract C++ interface with methods for accepting, declining, and sticky-declining an intervention in response to user actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_INTERVENTIONS_INTERVENTION_DELEGATE_H_
 #define CHROME_BROWSER_UI_INTERVENTIONS_INTERVENTION_DELEGATE_H_
 

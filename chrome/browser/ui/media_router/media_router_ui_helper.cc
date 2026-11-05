@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router UI helper functions
+// summary: Implements media router UI helpers including route request timeouts, extension name lookup, and screen capture permission checks.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui_helper.h"
 
 #include "base/atomic_sequence_num.h"

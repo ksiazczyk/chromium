@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog model implementation
+// summary: Implements CastDialogModel, including lookup of the first sink with an active route.
+// ---
+
 #include "chrome/browser/ui/media_router/cast_dialog_model.h"
 
 namespace media_router {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens composebox controller implementation
+// summary: Implements the controller that binds the Lens composebox WebUI, issues AIM queries, and manages visual selection context.
+// ---
+
 #include "chrome/browser/ui/lens/lens_composebox_controller.h"
 
 #include "base/base64url.h"

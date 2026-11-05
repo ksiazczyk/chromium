@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouterUI unit tests
+// summary: Unit tests for MediaRouterUI covering presentation requests, sink and route handling, and cast dialog controller model updates using mock media router helpers.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui.h"
 
 #include <algorithm>

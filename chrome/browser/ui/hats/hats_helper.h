@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsHelper class declaration
+// summary: Declares a per-tab browser-side helper that observes web contents to trigger Happiness Tracking Surveys.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_HATS_HELPER_H_
 #define CHROME_BROWSER_UI_HATS_HATS_HELPER_H_
 

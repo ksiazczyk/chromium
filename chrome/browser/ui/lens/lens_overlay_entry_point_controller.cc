@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay entry point controller implementation
+// summary: Implements the per-browser-window controller that updates the enabled and visible state of Lens Overlay entry points such as the toolbar page action.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_entry_point_controller.h"
 
 #include "base/byte_size.h"

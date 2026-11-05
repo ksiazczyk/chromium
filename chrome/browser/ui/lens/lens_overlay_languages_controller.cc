@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay languages controller
+// summary: Fetches supported translate source and target languages for the Lens overlay from the translate GetSupportedLanguages endpoint.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_languages_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidChooser interface
+// summary: Declares the HidChooser class that owns a HID device chooser dialog and closes it when destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HID_HID_CHOOSER_H_
 #define CHROME_BROWSER_UI_HID_HID_CHOOSER_H_
 

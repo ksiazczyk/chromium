@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay blur layer delegate implementation
+// summary: Implements the layer delegate that captures periodic background screenshots and paints a blurred image behind the Lens overlay.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_blur_layer_delegate.h"
 
 #include "base/compiler_specific.h"

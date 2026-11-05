@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification device provider implementation
+// summary: Implements the audio output device provider, including logic that resolves and removes the ambiguous default fallback device.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_device_provider_impl.h"
 
 #include <algorithm>

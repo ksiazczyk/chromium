@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay event handler header
+// summary: Declares the handler that processes keyboard events for the Lens Overlay, such as Escape dismissal and copy shortcuts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_EVENT_HANDLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_EVENT_HANDLER_H_
 

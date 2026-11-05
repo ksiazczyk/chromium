@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens preselection bubble header
+// summary: Declares the Lens preselection bubble view, its element identifiers, menu commands, and methods for updating label text and icon.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_PRESELECTION_BUBBLE_H_
 #define CHROME_BROWSER_UI_LENS_LENS_PRESELECTION_BUBBLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Lens composebox controller
+// summary: Browser tests covering composebox binding, query issuance, metrics, and overlay state transitions.
+// ---
+
 #include "chrome/browser/ui/lens/lens_composebox_controller.h"
 
 #include "base/test/bind.h"

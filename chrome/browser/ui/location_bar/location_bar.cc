@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBar base class implementation
+// summary: Implements the LocationBar base class, including observer defaults, weak pointer support, and bounds and focus change notifications.
+// ---
+
 #include "chrome/browser/ui/location_bar/location_bar.h"
 
 LocationBar::Observer::~Observer() = default;

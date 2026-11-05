@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay gen204 controller implementation
+// summary: Implements sending gen204 pings that report Lens Overlay latency, task completion and semantic event data when the user is opted into metrics reporting.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_gen204_controller.h"
 
 #include <optional>

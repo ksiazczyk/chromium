@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for media router UI
+summary: Maps the directory to the Cast UI component in Monorail and Buganizer for issue tracking.

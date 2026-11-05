@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation request notification producer unit tests
+// summary: Unit tests covering creation and lifecycle of presentation request notifications using mock media router, device picker provider, and presentation manager instances.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/presentation_request_notification_producer.h"
 
 #include <utility>

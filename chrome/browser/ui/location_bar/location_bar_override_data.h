@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarOverrideData header
+// summary: Declares a WebContentsUserData that overrides the LocationBar tied to a WebContents so secondary UI surfaces use their own location bar instance.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LOCATION_BAR_LOCATION_BAR_OVERRIDE_DATA_H_
 #define CHROME_BROWSER_UI_LOCATION_BAR_LOCATION_BAR_OVERRIDE_DATA_H_
 

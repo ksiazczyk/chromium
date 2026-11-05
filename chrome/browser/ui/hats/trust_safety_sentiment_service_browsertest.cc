@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust & Safety sentiment service browser tests
+// summary: In-process browser tests verifying that Page Info, privacy settings and new tab page interactions trigger HaTS sentiment surveys as expected.
+// ---
+
 #include "chrome/browser/ui/hats/trust_safety_sentiment_service.h"
 
 #include "base/memory/raw_ptr.h"

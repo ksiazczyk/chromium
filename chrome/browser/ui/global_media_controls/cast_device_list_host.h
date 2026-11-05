@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device list host class declaration
+// summary: Declares CastDeviceListHost, which forwards cast device updates and picker UI events between Media Router and the global media controls UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_CAST_DEVICE_LIST_HOST_H_
 #define CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_CAST_DEVICE_LIST_HOST_H_
 

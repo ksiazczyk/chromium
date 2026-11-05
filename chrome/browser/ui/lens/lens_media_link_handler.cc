@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens media link handler implementation
+// summary: Implements interception of YouTube link navigations while the Lens overlay is open, seeking the active media session to the target timestamp.
+// ---
+
 #include "chrome/browser/ui/lens/lens_media_link_handler.h"
 
 #include "chrome/browser/ui/lens/lens_overlay_url_builder.h"

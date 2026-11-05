@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog model declaration
+// summary: Declares the model holding the dialog header, media sinks, and permission-rejected state used to populate the Cast dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_DIALOG_MODEL_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_DIALOG_MODEL_H_
 

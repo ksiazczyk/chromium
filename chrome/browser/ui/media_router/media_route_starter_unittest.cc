@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouteStarter unit tests
+// summary: Unit tests for MediaRouteStarter covering presentation, mirroring, and remote playback sources, cast mode support, and route creation.
+// ---
+
 #include "chrome/browser/ui/media_router/media_route_starter.h"
 
 #include <algorithm>

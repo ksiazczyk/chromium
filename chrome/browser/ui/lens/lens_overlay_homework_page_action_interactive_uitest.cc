@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay homework page action interactive UI tests
+// summary: Interactive UI tests for the Lens Overlay homework page action, checking its visibility, the edu action chip count and location bar focus behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <vector>

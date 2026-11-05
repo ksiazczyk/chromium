@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation request notification item implementation
+// summary: Implements the media notification item that observes the media session behind a presentation request and updates the global media controls device picker with metadata and images.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/presentation_request_notification_item.h"
 
 #include "base/unguessable_token.h"

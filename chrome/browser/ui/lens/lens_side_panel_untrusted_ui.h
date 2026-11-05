@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens side panel untrusted WebUI controller declaration
+// summary: Declares the Lens side panel untrusted WebUI controller and its config class, including mojo binding methods for side panel, ghost loader, searchbox, composebox and help bubble handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_SIDE_PANEL_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_UI_LENS_LENS_SIDE_PANEL_UNTRUSTED_UI_H_
 

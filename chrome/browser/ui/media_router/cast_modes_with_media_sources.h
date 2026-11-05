@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast modes with media sources declaration
+// summary: Declares a class mapping each cast mode to its associated media sources for a given sink.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_MODES_WITH_MEDIA_SOURCES_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_MODES_WITH_MEDIA_SOURCES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay live test
+// summary: Live end-to-end test that signs in and exercises the Lens overlay flow, verifying results rendering and interaction with the side panel.
+// ---
+
 #include <optional>
 
 #include "base/feature_list.h"

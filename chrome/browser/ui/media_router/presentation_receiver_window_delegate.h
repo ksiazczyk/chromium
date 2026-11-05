@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation receiver window delegate interface
+// summary: Interface for communication between a presentation receiver window and its controller, supplying the WebContents and reporting window closure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_PRESENTATION_RECEIVER_WINDOW_DELEGATE_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_PRESENTATION_RECEIVER_WINDOW_DELEGATE_H_
 

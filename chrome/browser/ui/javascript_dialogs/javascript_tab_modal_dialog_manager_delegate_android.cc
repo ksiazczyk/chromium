@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab modal dialog manager delegate implementation
+// summary: Implements the Android delegate that creates tab modal JavaScript dialogs and reports tab foreground state.
+// ---
+
 #include "chrome/browser/ui/javascript_dialogs/javascript_tab_modal_dialog_manager_delegate_android.h"
 
 #include "chrome/browser/android/tab_android.h"

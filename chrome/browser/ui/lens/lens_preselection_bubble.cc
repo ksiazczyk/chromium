@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens preselection bubble implementation
+// summary: Implements the bubble view that guides users on interacting with the Lens overlay, including label, icon, exit and cancel buttons, and a more-info menu.
+// ---
+
 #include "chrome/browser/ui/lens/lens_preselection_bubble.h"
 
 #include <memory>

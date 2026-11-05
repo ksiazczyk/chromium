@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode controller implementation
+// summary: Implements ImmersiveModeController, including unowned user data registration, browser lookup helpers, and observer management.
+// ---
+
 #include "chrome/browser/ui/immersive/immersive_mode_controller.h"
 
 #include "base/observer_list.h"

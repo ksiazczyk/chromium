@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode controller class declaration
+// summary: Declares the ImmersiveModeController interface and ImmersiveRevealedLock for hiding and revealing top-of-window views in immersive mode on Chrome OS and macOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_IMMERSIVE_IMMERSIVE_MODE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_IMMERSIVE_IMMERSIVE_MODE_CONTROLLER_H_
 

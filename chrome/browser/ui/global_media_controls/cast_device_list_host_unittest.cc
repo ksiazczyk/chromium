@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastDeviceListHost
+// summary: Verifies device list host behavior using a mocked cast dialog controller and Mojo device list client test doubles.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_device_list_host.h"
 
 #include "base/memory/raw_ptr.h"

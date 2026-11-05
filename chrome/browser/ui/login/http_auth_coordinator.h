@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth coordinator class declaration
+// summary: Declares HttpAuthCoordinator, which coordinates the browser-side implementation of content::LoginDelegate and owns one Flow instance per login delegate request.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LOGIN_HTTP_AUTH_COORDINATOR_H_
 #define CHROME_BROWSER_UI_LOGIN_HTTP_AUTH_COORDINATOR_H_
 

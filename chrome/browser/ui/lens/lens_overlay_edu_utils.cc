@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay EDU action chip utilities
+// summary: Implements checks for when to show the Lens overlay education action chip and records its shown count and timing.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_edu_utils.h"
 
 #include "base/time/time.h"

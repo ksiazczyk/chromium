@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Location bar issue tracker metadata
+summary: Routes bugs for the location bar directory to the UI>Browser>Omnibox monorail component and Buganizer component 1457180.

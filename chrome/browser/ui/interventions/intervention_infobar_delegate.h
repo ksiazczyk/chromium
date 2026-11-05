@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterventionInfoBarDelegate class declaration
+// summary: Declares a specialized infobars::InfoBarDelegate for intervention infobars that notifies an InterventionDelegate when the infobar is dismissed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_INTERVENTIONS_INTERVENTION_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_INTERVENTIONS_INTERVENTION_INFOBAR_DELEGATE_H_
 

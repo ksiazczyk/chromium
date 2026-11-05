@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElements class declaration
+// summary: Declares the BrowserElements base class, which provides element context and ElementTracker lookups per browser window via unowned user data, with a virtual GetContext for platform implementations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_INTERACTION_BROWSER_ELEMENTS_H_
 #define CHROME_BROWSER_UI_INTERACTION_BROWSER_ELEMENTS_H_
 

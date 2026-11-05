@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification service implementation
+// summary: Implements the global media controls service, managing media items, cast device lists, presentation requests, and in-product help triggers.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_service.h"
 
 #include <algorithm>

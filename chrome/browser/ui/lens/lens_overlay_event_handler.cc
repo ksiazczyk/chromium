@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay event handler implementation
+// summary: Implements keyboard handling for the Lens Overlay, hiding it on Escape and triggering copy on Ctrl or Cmd+C when no text is selected.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_event_handler.h"
 
 #include "chrome/browser/ui/lens/lens_overlay_controller.h"

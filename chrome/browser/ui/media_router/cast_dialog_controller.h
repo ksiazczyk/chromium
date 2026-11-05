@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog controller interface
+// summary: Declares the CastDialogController interface that handles Cast dialog user input, updates the model, and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_CAST_DIALOG_CONTROLLER_H_
 

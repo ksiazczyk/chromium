@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hung renderer build targets
+summary: Defines the hung_renderer source set and the testonly interactive_ui_tests target with their sources and dependencies.

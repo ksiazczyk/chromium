@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay query controller unit tests
+// summary: Unit tests for the Lens overlay query controller covering query flows, translate requests, metrics, and server response handling.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_query_controller.h"
 
 #include <string>

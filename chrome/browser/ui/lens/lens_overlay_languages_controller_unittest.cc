@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay languages controller unit tests
+// summary: Unit tests for the supported languages controller, covering successful responses, malformed JSON, and request timeouts.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_languages_controller.h"
 
 #include <vector>

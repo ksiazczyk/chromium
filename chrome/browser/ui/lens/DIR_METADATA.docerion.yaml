@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Lens UI directory metadata
+summary: Points this directory to the shared Lens component metadata via a mixin.

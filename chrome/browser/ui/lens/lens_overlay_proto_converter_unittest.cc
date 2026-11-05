@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay proto converter unit tests
+// summary: Unit tests for converting Lens overlay server protos to mojom, covering bounding boxes, text layout, and translation data.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_proto_converter.h"
 
 #include <vector>

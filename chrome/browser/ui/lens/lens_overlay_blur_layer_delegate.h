@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay blur layer delegate header
+// summary: Declares the layer delegate controlling the blurred background layer behind the Lens overlay, including screenshot capture and show/hide behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_BLUR_LAYER_DELEGATE_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_BLUR_LAYER_DELEGATE_H_
 

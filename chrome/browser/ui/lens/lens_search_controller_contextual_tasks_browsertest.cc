@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search controller contextual tasks browser tests
+// summary: Browser tests covering LensSearchController interaction with contextual tasks, including eligibility, side panel routing, permissions and metrics.
+// ---
+
 #include <map>
 
 #include "base/base64url.h"

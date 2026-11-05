@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay base controller implementation
+// summary: Implements the Lens overlay base controller, managing its state machine, screenshot capture, side panel handoff and overlay WebUI lifecycle per tab.
+// ---
+
 #include "chrome/browser/ui/lens/overlay_base_controller.h"
 
 #include "base/i18n/rtl.h"

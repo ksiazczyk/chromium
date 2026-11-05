@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search feature flag utilities
+// summary: Implements helpers that evaluate Lens overlay contextual searchbox and AIM feature flags, locale and country eligibility, and permission preferences.
+// ---
+
 #include "chrome/browser/ui/lens/lens_search_feature_flag_utils.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay search URL builder declaration
+// summary: Declares functions for constructing and inspecting Lens overlay search URLs, including text-only and Lens search URL builders, equivalence checks, and redirect handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_URL_BUILDER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_URL_BUILDER_H_
 

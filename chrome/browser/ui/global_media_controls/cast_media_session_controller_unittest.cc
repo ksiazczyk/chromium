@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media session controller unit tests
+// summary: Unit tests for CastMediaSessionController checking that play, pause, track, seek, volume and mute commands are forwarded correctly to the MediaController.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_session_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel navigation throttle declaration
+// summary: Declares a navigation throttle that blocks cross-origin links and invalid search result URLs in the Lens overlay results side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_SIDE_PANEL_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_SIDE_PANEL_NAVIGATION_THROTTLE_H_
 

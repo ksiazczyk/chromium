@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search controller unit tests
+// summary: Unit tests for LensSearchController using mock tab and browser window interfaces, covering initialization and overlay opening with feature flags enabled.
+// ---
+
 #include "chrome/browser/ui/lens/lens_search_controller.h"
 
 #include "base/test/scoped_feature_list.h"

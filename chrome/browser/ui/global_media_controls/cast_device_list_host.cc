@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device list host implementation
+// summary: Implements the adapter between Media Router cast dialogs and the Global Media Controls Mojo device list interfaces, including sink icon and cast mode selection.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_device_list_host.h"
 
 #include "base/strings/utf_string_conversions.h"

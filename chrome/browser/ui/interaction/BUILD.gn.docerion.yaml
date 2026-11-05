@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the interaction source set
+summary: GN build file defining the interaction source set with browser_elements.cc and browser_elements.h and public dependencies on browser_window, ui/base/interaction, and unowned_user_data.

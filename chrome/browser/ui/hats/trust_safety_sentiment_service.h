@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust & Safety sentiment service header
+// summary: Declares the TrustSafetySentimentService keyed service that receives events from Trust & Safety features and triggers HaTS surveys on the NTP.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_TRUST_SAFETY_SENTIMENT_SERVICE_H_
 #define CHROME_BROWSER_UI_HATS_TRUST_SAFETY_SENTIMENT_SERVICE_H_
 

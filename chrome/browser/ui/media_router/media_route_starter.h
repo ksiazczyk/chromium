@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteStarter class declaration
+// summary: Declares MediaRouteStarter, the class providing cast services (sinks, routes, start and terminate route) to UI controllers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_ROUTE_STARTER_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_ROUTE_STARTER_H_
 

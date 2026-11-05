@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens overlay side panel coordinator
+// summary: Test double of the Lens side panel coordinator that records loading states, AIM client messages and handshake calls for verification.
+// ---
+
 #include "chrome/browser/ui/lens/test_lens_overlay_side_panel_coordinator.h"
 
 #include "chrome/browser/ui/lens/lens_search_controller.h"

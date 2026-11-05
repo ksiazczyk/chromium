@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens keyed service factory implementation
+// summary: Implements the profile keyed service factory that creates LensKeyedService instances, redirecting incognito profiles to the original profile.
+// ---
+
 #include "chrome/browser/ui/lens/lens_keyed_service_factory.h"
 
 #include "chrome/common/chrome_features.h"

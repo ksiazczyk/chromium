@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens media link handler unit tests
+// summary: Unit tests for the Lens media link handler, covering navigation replacement rules for media links using a mock media session.
+// ---
+
 #include "chrome/browser/ui/lens/lens_media_link_handler.h"
 
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"

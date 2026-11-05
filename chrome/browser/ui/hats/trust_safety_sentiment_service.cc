@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust & Safety sentiment service implementation
+// summary: Implements the service that tracks Trust & Safety related user interactions and decides when to launch a HaTS sentiment survey on the new tab page.
+// ---
+
 #include "chrome/browser/ui/hats/trust_safety_sentiment_service.h"
 
 #include <map>

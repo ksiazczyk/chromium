@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media notification service
+summary: Grants media_notification_service files extra include permissions for Ash session controller and system headers on ChromeOS.

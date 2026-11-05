@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification device provider unit tests
+// summary: Tests the provider implementation with a mock audio system, focusing on default device removal and device description handling.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_device_provider_impl.h"
 
 #include <algorithm>

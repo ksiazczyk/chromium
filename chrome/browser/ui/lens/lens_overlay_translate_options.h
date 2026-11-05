@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay translate options struct
+// summary: Defines a struct that carries the source and target languages for Lens overlay translation requests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_TRANSLATE_OPTIONS_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_TRANSLATE_OPTIONS_H_
 

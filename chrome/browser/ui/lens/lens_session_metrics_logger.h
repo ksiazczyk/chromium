@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens session metrics logger
+// summary: Declares the class that tracks session-specific metrics for the Lens overlay and logs them, primarily at the end of a session.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_SESSION_METRICS_LOGGER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_SESSION_METRICS_LOGGER_H_
 

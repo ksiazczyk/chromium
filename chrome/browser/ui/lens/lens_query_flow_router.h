@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens query flow router header
+// summary: Declares the router that starts, restarts, and resumes Lens query flows, manages context upload modes, and exposes suggest inputs and Gen204 identifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_QUERY_FLOW_ROUTER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_QUERY_FLOW_ROUTER_H_
 

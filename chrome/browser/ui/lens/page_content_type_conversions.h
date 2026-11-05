@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content type conversions header
+// summary: Declares functions that convert MIME type strings to Lens document types and Mojo page content types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_PAGE_CONTENT_TYPE_CONVERSIONS_H_
 #define CHROME_BROWSER_UI_LENS_PAGE_CONTENT_TYPE_CONVERSIONS_H_
 

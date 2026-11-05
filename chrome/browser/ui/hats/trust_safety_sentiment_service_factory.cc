@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Trust & Safety sentiment service factory implementation
+// summary: Profile-keyed service factory that creates the sentiment service only for eligible desktop platforms, English locales and non-incognito profiles.
+// ---
+
 #include "chrome/browser/ui/hats/trust_safety_sentiment_service_factory.h"
 
 #include <iterator>

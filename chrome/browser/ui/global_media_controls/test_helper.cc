@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock web contents presentation manager test helper
+// summary: Implements MockWebContentsPresentationManager, a test double that tracks default presentation requests and notifies presentation observers for tests.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/test_helper.h"
 
 #include <memory>

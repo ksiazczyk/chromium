@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens help menu utilities implementation
+// summary: Implements help menu actions for the Lens overlay, opening the feedback page, help center URL and My Activity page in response to user events.
+// ---
+
 #include "chrome/browser/ui/lens/lens_help_menu_utils.h"
 
 #include <string>

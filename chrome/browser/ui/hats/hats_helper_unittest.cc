@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HatsHelper
+// summary: Uses mock services to verify HatsHelper informs the sentiment service on new tab page navigation and not on other pages.
+// ---
+
 #include "chrome/browser/ui/hats/hats_helper.h"
 
 #include "base/memory/raw_ptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the HaTS survey code
+summary: Defines the hats and impl source sets with their sources and platform-conditional dependencies for building the HaTS code.

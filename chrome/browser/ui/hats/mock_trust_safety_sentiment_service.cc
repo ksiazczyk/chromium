@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock trust safety sentiment service implementation
+// summary: Implements MockTrustSafetySentimentService and a builder that produces a NiceMock of the sentiment service for tests.
+// ---
+
 #include "chrome/browser/ui/hats/mock_trust_safety_sentiment_service.h"
 
 #include <memory>

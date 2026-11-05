@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for contextual tasks Lens overlay
+// summary: Interactive browser tests covering the contextual tasks integration with the Lens overlay, including search, omnibox, and side panel flows.
+// ---
+
 #include <optional>
 #include <utility>
 

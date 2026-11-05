@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab modal dialog manager delegate implementation
+// summary: Implements the desktop delegate handling dialog creation, tab attention, Safe Browsing warnings, and metrics.
+// ---
+
 #include "chrome/browser/ui/javascript_dialogs/javascript_tab_modal_dialog_manager_delegate_desktop.h"
 
 #include <algorithm>

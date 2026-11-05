@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginTabHelper class header
+// summary: Declares the WebContentsObserver helper responsible for showing authentication prompts, handling entered credentials, and managing response rewriting and prompt cancellation state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LOGIN_LOGIN_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_LOGIN_LOGIN_TAB_HELPER_H_
 

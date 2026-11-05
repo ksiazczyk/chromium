@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens keyed service header
+// summary: Declares LensKeyedService, a per-profile keyed service counting Lens EDU action chip impressions and storing the last shown time.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_KEYED_SERVICE_H_
 #define CHROME_BROWSER_UI_LENS_LENS_KEYED_SERVICE_H_
 

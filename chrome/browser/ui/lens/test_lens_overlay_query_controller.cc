@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens overlay query controller
+// summary: Implements mock and fake Lens overlay query controllers plus a fake endpoint fetcher that returns canned responses for testing query flows.
+// ---
+
 #include "test_lens_overlay_query_controller.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentationReceiverWindowController implementation
+// summary: Creates an off-the-record profile and sandboxed WebContents, loads the receiver URL into a fullscreen window, and handles termination and profile cleanup.
+// ---
+
 #include "chrome/browser/ui/media_router/presentation_receiver_window_controller.h"
 
 #include <utility>

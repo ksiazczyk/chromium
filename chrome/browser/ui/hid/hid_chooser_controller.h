@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidChooserController interface
+// summary: Declares the chooser controller that supplies chooser options and device add, remove and change updates for the WebHID permission prompt.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HID_HID_CHOOSER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_HID_HID_CHOOSER_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay proto converter header
+// summary: Declares functions that convert Lens overlay server and interaction responses into text and overlay object mojom types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_PROTO_CONVERTER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_PROTO_CONVERTER_H_
 

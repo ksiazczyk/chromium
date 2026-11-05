@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media notification item implementation
+// summary: Implements the media notification shown for Cast sessions, covering media status updates, artwork fetching, and playback action handling.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_notification_item.h"
 
 #include "base/i18n/rtl.h"

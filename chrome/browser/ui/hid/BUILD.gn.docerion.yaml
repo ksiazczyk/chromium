@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the HID chooser UI
+summary: GN build file defining the hid source set and its unit test target, listing sources and dependencies for the browser HID chooser UI.

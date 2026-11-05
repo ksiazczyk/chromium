@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for unintentional logging
+# summary: Presubmit check that flags DVLOG or VLOG statements in changed files unless the CL description sets SKIP_LOG_CHECK.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

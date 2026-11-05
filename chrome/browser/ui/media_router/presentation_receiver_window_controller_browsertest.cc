@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation receiver window controller browser tests
+// summary: Browser tests for the presentation receiver window controller, covering presentation API messaging between a fake controller connection and the receiver window.
+// ---
+
 #include "chrome/browser/ui/media_router/presentation_receiver_window_controller.h"
 
 #include <string>

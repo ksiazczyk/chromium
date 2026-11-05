@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for global media controls
+summary: Defines the source sets, dependencies, and unit test targets for the Chrome global media controls UI code.

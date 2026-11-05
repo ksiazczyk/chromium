@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens searchbox controller unit tests
+// summary: Unit tests verifying that pending searchbox text queries and thumbnails are flushed to the handler once it is bound.
+// ---
+
 #include "chrome/browser/ui/lens/lens_searchbox_controller.h"
 
 #include "chrome/browser/ui/webui/searchbox/lens_searchbox_handler.h"

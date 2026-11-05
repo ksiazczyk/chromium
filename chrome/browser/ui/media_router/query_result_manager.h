@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query result manager header
+// summary: Declares QueryResultManager, which supplies the cast dialog with lists of media sinks compatible with the sources registered for each cast mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_QUERY_RESULT_MANAGER_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_QUERY_RESULT_MANAGER_H_
 

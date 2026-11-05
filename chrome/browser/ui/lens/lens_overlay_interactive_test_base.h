@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay interactive test base header
+// summary: Declares test doubles and a base class with reusable steps for interactive Lens overlay tests, such as opening the overlay and selecting regions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_INTERACTIVE_TEST_BASE_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_INTERACTIVE_TEST_BASE_H_
 
