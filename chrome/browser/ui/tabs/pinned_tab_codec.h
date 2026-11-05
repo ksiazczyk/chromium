@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabCodec class header
+// summary: Declares PinnedTabCodec, which registers, writes and reads the set of pinned tabs stored in preferences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_PINNED_TAB_CODEC_H_
 #define CHROME_BROWSER_UI_TABS_PINNED_TAB_CODEC_H_
 

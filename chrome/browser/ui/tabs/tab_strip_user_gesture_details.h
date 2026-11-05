@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip user gesture details
+// summary: Defines a struct describing the gesture type and timestamp that triggered tab activation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_USER_GESTURE_DETAILS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_USER_GESTURE_DETAILS_H_
 

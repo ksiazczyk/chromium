@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncServiceInitializedObserver implementation
+// summary: Implements an observer helper that blocks on a RunLoop until the TabGroupSyncService signals it has finished asynchronous initialization.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/tab_group_sync_service_initialized_observer.h"
 
 #include "base/run_loop.h"

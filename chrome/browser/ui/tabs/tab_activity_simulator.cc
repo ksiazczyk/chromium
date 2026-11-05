@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab activity simulator implementation
+// summary: Implements a test helper that creates test WebContents, adds them to a tab strip, navigates, and simulates tab switching with visibility changes.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_activity_simulator.h"
 
 #include "base/check.h"

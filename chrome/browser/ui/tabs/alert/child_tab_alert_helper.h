@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child tab alert helper class declaration
+// summary: Declares ChildTabAlertHelper, an unowned user data feature that tracks alerts from child WebContents such as payment handler dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_ALERT_CHILD_TAB_ALERT_HELPER_H_
 #define CHROME_BROWSER_UI_TABS_ALERT_CHILD_TAB_ALERT_HELPER_H_
 

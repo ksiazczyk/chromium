@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab group action context header
+// summary: Declares the desktop TabGroupActionContext struct holding a browser pointer and opening source to help open saved tab groups in the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_TAB_GROUP_ACTION_CONTEXT_DESKTOP_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_TAB_GROUP_ACTION_CONTEXT_DESKTOP_H_
 

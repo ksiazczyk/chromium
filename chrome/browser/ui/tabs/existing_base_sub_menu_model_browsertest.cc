@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExistingBaseSubMenuModel browser tests
+// summary: Browser tests verifying command ID alerting, execution and menu building behavior of the ExistingBaseSubMenuModel tab context submenu base class.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_base_sub_menu_model.h"
 
 #include <memory>

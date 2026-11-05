@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabFeatures implementation
+// summary: Implements TabFeatures, the per-tab aggregator that owns and wires the many browser tab helpers, controllers, and services for a single tab.
+// ---
+
 #include "chrome/browser/ui/tabs/public/tab_features.h"
 
 #include <memory>

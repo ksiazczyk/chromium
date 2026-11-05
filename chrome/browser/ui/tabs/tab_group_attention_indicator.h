@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group attention indicator
+// summary: Header for TabGroupAttentionIndicator, which tracks a tab group's attention state and notifies registered observers of state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_ATTENTION_INDICATOR_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_ATTENTION_INDICATOR_H_
 

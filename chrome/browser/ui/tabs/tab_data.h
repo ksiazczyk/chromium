@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab data struct and observer declarations
+// summary: Declares the TabData struct caching tab UI state such as title, favicon, alerts, and pinning, plus TabDataObserver, which tracks tab changes and notifies subscribers via callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_DATA_H_
 #define CHROME_BROWSER_UI_TABS_TAB_DATA_H_
 

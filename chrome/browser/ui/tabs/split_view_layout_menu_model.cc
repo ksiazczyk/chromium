@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view layout menu model implementation
+// summary: Implements a menu model offering side-by-side and stacked split layouts, with localized labels, icons, and a callback that reports the chosen layout.
+// ---
+
 #include "chrome/browser/ui/tabs/split_view_layout_menu_model.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

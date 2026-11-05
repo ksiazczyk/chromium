@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab alert controller interactive UI tests
+// summary: Interactive browser tests verifying tab alert state changes when switching tabs with Glic access; the test suite is currently disabled.
+// ---
+
 #include "chrome/browser/ui/tabs/alert/tab_alert_controller.h"
 
 #include <optional>

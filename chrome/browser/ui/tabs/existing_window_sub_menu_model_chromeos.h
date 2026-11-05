@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS ExistingWindowSubMenuModel class declaration
+// summary: Declares the ChromeOS subclass of ExistingWindowSubMenuModel that builds the submenu grouped by desks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_EXISTING_WINDOW_SUB_MENU_MODEL_CHROMEOS_H_
 #define CHROME_BROWSER_UI_TABS_EXISTING_WINDOW_SUB_MENU_MODEL_CHROMEOS_H_
 

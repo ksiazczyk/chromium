@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration messaging observer browser tests
+// summary: Browser tests covering display of persistent and instant collaboration messages, toast actions, and attention indicators.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/collaboration_messaging_observer.h"
 
 #include <optional>

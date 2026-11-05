@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip state controller implementation
+// summary: Implements the concrete state controller, wiring preferences, session service, action items, toasts and user education for the vertical tab strip.
+// ---
+
 #include "chrome/browser/ui/tabs/vertical_tab_strip_state_controller_impl.h"
 
 #include <optional>

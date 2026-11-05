@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip scrubbing metrics implementation
+// summary: Counts tabs scrubbed by mouse and keyboard presses and records the counts as UMA histograms at regular intervals.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_scrubbing_metrics.h"
 
 #include <stddef.h>

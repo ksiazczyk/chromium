@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModel implementation
+// summary: Core implementation of the tab strip model that manages tab insertion, removal, selection, groups, splits, and observer notifications in the browser UI.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 
 #include <algorithm>

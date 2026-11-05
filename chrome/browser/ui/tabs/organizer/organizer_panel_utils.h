@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel feature flag declarations
+// summary: Declares Organizer Panel feature flags and accessor functions for checking feature and field trial parameter states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_ORGANIZER_ORGANIZER_PANEL_UTILS_H_
 #define CHROME_BROWSER_UI_TABS_ORGANIZER_ORGANIZER_PANEL_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAttachmentTracker class declaration
+// summary: Declares TabAttachmentTracker, unowned user data on a tab that counts attachment and insertion occurrences in a tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_ATTACHMENT_TRACKER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_ATTACHMENT_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab alert controller class declaration
+// summary: Declares TabAlertController, which observes web contents to keep track of all active alerts and exposes callbacks when the shown alert changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_ALERT_TAB_ALERT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_ALERT_TAB_ALERT_CONTROLLER_H_
 

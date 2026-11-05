@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab style implementation
+// summary: Implements tab rendering metrics such as standard and pinned widths, corner radii, overlap, separators, and hover card preview size.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_style.h"
 
 #include <array>

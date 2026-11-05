@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab alert icon helpers declaration
+// summary: Declares functions returning the icon, indicator color, and image model for a given tab alert state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_ALERT_TAB_ALERT_ICON_H_
 #define CHROME_BROWSER_UI_TABS_ALERT_TAB_ALERT_ICON_H_
 

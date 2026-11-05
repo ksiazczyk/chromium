@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab group
+// summary: Declares TabGroupDesktop, a desktop TabGroup subclass with a factory that constructs platform-specific TabGroupFeatures for tab groups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_DESKTOP_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_DESKTOP_H_
 

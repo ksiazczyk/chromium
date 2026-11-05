@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip scrubbing metrics header
+// summary: Declares the TabStripScrubbingMetrics class that tracks tab scrubbing counts and reports them via a repeating timer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_SCRUBBING_METRICS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_SCRUBBING_METRICS_H_
 

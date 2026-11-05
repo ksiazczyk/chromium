@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabAttachmentTracker browser tests
+// summary: Browser test verifying a tab's attachment count starts at one and increments to two when the tab moves between browser windows.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_attachment_tracker.h"
 
 #include "chrome/browser/ui/browser_commands.h"

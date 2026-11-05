@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab menu model unit tests
+// summary: Unit tests for TabMenuModel verifying menu item counts and commands for web apps, extensions, contextual tasks and other tab strip states.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_menu_model.h"
 
 #include "base/test/scoped_feature_list.h"

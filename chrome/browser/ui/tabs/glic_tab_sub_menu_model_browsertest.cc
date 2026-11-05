@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab submenu browser tests
+// summary: In-process browser tests for the Glic tab context submenu, covering tab pinning to conversations and related command behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/glic_tab_sub_menu_model.h"
 
 #include <optional>

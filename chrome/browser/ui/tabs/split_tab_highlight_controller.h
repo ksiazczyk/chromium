@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab highlight controller class declaration
+// summary: Declares SplitTabHighlightController, which coordinates highlighting of the active tab in a split when UI surfaces such as the omnibox popup or bubbles are shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_HIGHLIGHT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_HIGHLIGHT_CONTROLLER_H_
 

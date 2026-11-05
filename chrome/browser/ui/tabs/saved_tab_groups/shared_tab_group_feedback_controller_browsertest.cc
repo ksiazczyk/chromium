@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group feedback controller browser test
+// summary: Browser test enabling the data sharing feature and verifying the feedback button becomes visible in the pinned toolbar with the expected element identifier.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/shared_tab_group_feedback_controller.h"
 
 #include "base/test/scoped_feature_list.h"

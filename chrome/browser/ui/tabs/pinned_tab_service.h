@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedTabService class header
+// summary: Declares PinnedTabService, a keyed service that keeps pinned tab preferences up to date via tab strip observations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_PINNED_TAB_SERVICE_H_
 #define CHROME_BROWSER_UI_TABS_PINNED_TAB_SERVICE_H_
 

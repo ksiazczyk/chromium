@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMenuModelDelegate implementation
+// summary: Implements TabMenuModelDelegate, storing the delegate as unowned user data on the browser window and providing lookup from a browser window interface.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_menu_model_delegate.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

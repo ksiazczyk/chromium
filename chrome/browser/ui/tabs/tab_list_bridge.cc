@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListBridge implementation
+// summary: Implements the bridge between the cross-platform TabListInterface and the desktop TabStripModel, handling tab operations, groups, and splits.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_list_bridge.h"
 
 #include <cstddef>

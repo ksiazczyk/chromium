@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip metrics recording
+// summary: Records UMA histograms and user actions for switching between vertical and horizontal tab strip modes from various entry points.
+// ---
+
 #include "chrome/browser/ui/tabs/vertical_tab_strip_metrics.h"
 
 #include "base/logging.h"

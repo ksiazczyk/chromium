@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab mute menu model implementation
+// summary: Implements the tab context menu submenu for muting or unmuting both sites in a split or only the site in one of the two views, with layout-aware labels and icons.
+// ---
+
 #include "chrome/browser/ui/tabs/split_tab_mute_menu_model.h"
 
 #include <optional>

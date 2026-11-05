@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Other device tabs sub menu model browser tests
+// summary: Browser tests checking the cross-device tabs submenu appears below History in the app menu with correct label and icon, and is absent when the feature is off or in incognito.
+// ---
+
 #include "chrome/browser/ui/tabs/other_device_tabs_sub_menu_model.h"
 
 #include <memory>

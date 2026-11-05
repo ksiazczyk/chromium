@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child tab alert helper implementation
+// summary: Implements ChildTabAlertHelper, which tracks active media alerts raised by child WebContents hosted in a tab and notifies listeners of state changes.
+// ---
+
 #include "chrome/browser/ui/tabs/alert/child_tab_alert_helper.h"
 
 #include <utility>

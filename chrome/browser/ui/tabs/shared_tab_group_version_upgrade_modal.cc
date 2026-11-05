@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group version upgrade modal implementation
+// summary: Implements a modal dialog and toast that prompt users to update Chrome when shared tab groups come from an out-of-date browser version.
+// ---
+
 #include "chrome/browser/ui/tabs/shared_tab_group_version_upgrade_modal.h"
 
 #include "base/functional/bind.h"

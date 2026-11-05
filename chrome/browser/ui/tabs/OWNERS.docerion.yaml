@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tabs directory code owners
+summary: Lists the code owners for the tabs directory, including per-file owner rules for tab dialog manager and glic actor files.

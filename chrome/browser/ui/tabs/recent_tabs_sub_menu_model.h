@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs submenu model header
+// summary: Declares RecentTabsSubMenuModel, a menu model that builds the Recent tabs submenu from local recently closed entries and remote device tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_RECENT_TABS_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_RECENT_TABS_SUB_MENU_MODEL_H_
 

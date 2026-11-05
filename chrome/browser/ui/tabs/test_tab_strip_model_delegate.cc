@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double for the tab strip model delegate
+// summary: Provides a stub TabStripModelDelegate implementation with no-op and default-returning methods for tab strip tests.
+// ---
+
 #include "chrome/browser/ui/tabs/test_tab_strip_model_delegate.h"
 
 #include <vector>

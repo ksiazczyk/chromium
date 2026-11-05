@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExistingTabGroupSubMenuModel implementation
+// summary: Implements the tab context menu submenu that lists existing tab groups, including saved groups and groups in other windows, for adding selected tabs to a group.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_tab_group_sub_menu_model.h"
 
 #include <optional>

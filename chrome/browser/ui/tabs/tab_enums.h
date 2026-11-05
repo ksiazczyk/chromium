@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-related enum definitions
+// summary: Defines enums for tab mute reasons, close and add types, new tab sources, activation types, and vertical tab strip collapse state used across the tab UI code.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_ENUMS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_ENUMS_H_
 

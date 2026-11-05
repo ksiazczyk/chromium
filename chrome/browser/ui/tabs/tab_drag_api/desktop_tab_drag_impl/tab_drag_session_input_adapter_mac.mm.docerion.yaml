@@ -1,0 +1,4 @@
+# Docerion header of tab_drag_session_input_adapter_mac.mm.
+type: source
+title: Mac input adapter implementation for tab drag sessions
+summary: Implements MacInputAdapter, capturing Cocoa mouse and key events during tab drags and converting them to screen-coordinate tab drag input events.

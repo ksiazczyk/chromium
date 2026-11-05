@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instant message queue processor unit tests
+// summary: Unit tests for queueing instant collaboration messages and verifying toast display behavior with a mock data sharing service.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/instant_message_queue_processor.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab drag window adapter unit tests
+// summary: Unit tests for TabDragWindowAdapterImpl, covering whole-window drag behavior with mock browser window interfaces, testing profiles and a fake global browser collection.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_drag_api/desktop_tab_drag_impl/tab_drag_window_adapter_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCloseTypesData implementation
+// summary: Implements WebContents user data that stores the close types associated with a WebContents being closed.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_close_types_data.h"
 
 #include "chrome/browser/ui/tabs/tab_enums.h"

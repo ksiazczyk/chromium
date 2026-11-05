@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM entry test checker implementation
+// summary: Implements UkmEntryChecker helpers that verify recorded UKM entries and their metrics match test expectations.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_ukm_test_helper.h"
 
 #include <stdint.h>

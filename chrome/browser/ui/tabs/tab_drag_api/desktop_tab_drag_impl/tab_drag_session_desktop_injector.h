@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab drag session injector header
+// summary: Declares TabDragSessionDesktopInjector, the desktop TabDragSessionInjector providing the window registry, input adapter, session listener, and drop target registry.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_DRAG_API_DESKTOP_TAB_DRAG_IMPL_TAB_DRAG_SESSION_DESKTOP_INJECTOR_H_
 #define CHROME_BROWSER_UI_TABS_TAB_DRAG_API_DESKTOP_TAB_DRAG_IMPL_TAB_DRAG_SESSION_DESKTOP_INJECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message queue processor implementation
+// summary: Implements queueing of browser-level instant collaboration messages, avatar fetching, and showing them as toasts.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/instant_message_queue_processor.h"
 
 #include "base/check_is_test.h"

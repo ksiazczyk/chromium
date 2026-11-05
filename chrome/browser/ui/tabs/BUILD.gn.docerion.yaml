@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabs UI GN build targets
+summary: Defines GN source sets and dependencies for the browser tabs UI, including the tabs_public interface, tab enums, shared utilities, and menu model targets.

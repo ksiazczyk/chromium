@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab service implementation
+// summary: Observes browser windows and tab strip changes to save pinned tabs to preferences on exit or when windows close.
+// ---
+
 #include "chrome/browser/ui/tabs/pinned_tab_service.h"
 
 #include "base/functional/bind.h"

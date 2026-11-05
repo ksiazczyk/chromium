@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Desktop tab drag BUILD.gn build targets
+summary: Defines the desktop_tab_drag_impl source set plus unit and browser test targets, with platform-specific sources and dependencies for Mac and Aura.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for saved tab groups
+summary: Allows the directory to include headers from the saved_tab_groups and data_sharing components.

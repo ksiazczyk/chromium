@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostRecentSharedTabUpdateStore implementation
+// summary: Implements MostRecentSharedTabUpdateStore, which records the most recent local update to a shared tab group and triggers in-product help promos anchored to the updated tab.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/most_recent_shared_tab_update_store.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

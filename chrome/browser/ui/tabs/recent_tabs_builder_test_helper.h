@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs builder test helper header
+// summary: Declares a test helper for adding sessions, windows, and tabs with timestamps and titles, and for exporting and verifying them against session sync.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_RECENT_TABS_BUILDER_TEST_HELPER_H_
 #define CHROME_BROWSER_UI_TABS_RECENT_TABS_BUILDER_TEST_HELPER_H_
 

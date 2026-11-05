@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group menu utilities unit tests
+// summary: Unit tests covering menu text for titled and untitled groups and tabs plus sorting of groups by creation time while filtering empty groups.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/tab_group_menu_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

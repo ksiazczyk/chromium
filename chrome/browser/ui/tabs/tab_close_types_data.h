@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCloseTypesData class declaration
+// summary: Declares WebContents user data that preserves close types across unload listeners when a tab is closed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_CLOSE_TYPES_DATA_H_
 #define CHROME_BROWSER_UI_TABS_TAB_CLOSE_TYPES_DATA_H_
 

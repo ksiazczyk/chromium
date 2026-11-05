@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tab group home directory
+summary: Lists the Chromium developers responsible for reviewing changes in this directory and falls back to the parent tabs OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab favicon theming declarations
+// summary: Declares helpers that recolor default and monochrome tab favicons against the tab background using the color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_FAVICON_THEMING_H_
 #define CHROME_BROWSER_UI_TABS_TAB_FAVICON_THEMING_H_
 

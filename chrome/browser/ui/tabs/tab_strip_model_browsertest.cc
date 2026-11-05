@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripModel browser tests
+// summary: Browser tests for TabStripModel behavior, including prevent-close handling for web apps, policy-driven features, and tab close cancellation events.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 
 #include "ash/constants/web_app_id_constants.h"

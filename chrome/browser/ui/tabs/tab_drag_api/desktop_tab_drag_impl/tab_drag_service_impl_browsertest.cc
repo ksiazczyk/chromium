@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab drag service browser tests
+// summary: Browser tests for TabDragServiceImpl that use toy input, window, and drop target adapters to exercise tab drag sessions and drop target registration.
+// ---
+
 #include "components/browser_apis/tab_drag/tab_drag_service_impl.h"
 
 #include <algorithm>

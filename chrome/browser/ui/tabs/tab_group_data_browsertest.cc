@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group data browser tests
+// summary: Browser tests verifying that TabGroupDataObserver notifies subscribers when tabs are added, removed, moved or their data changes within a group.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_data.h"
 
 #include "chrome/browser/ui/tabs/tab_enums.h"

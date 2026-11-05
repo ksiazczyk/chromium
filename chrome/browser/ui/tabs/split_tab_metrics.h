@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab metrics declarations
+// summary: Declares enums for split tab creation and orientation change sources and functions to record split view metrics and UKM events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_METRICS_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_METRICS_H_
 

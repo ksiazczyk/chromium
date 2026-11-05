@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripModelStatsRecorder unit tests
+// summary: Unit tests verifying tab activation counting and tab selection histogram recording for the stats recorder.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model_stats_recorder.h"
 
 #include <memory>

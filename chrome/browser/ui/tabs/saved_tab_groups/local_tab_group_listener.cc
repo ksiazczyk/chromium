@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local tab group listener implementation
+// summary: Implements a listener that syncs local tab group changes, such as tabs and visuals, to the tab group sync service.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/local_tab_group_listener.h"
 
 #include <unordered_map>

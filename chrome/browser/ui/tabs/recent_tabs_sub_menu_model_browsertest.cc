@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs submenu model browser tests
+// summary: Browser tests covering the Recent tabs submenu model, including recently closed entries, tabs from other devices, sync setup, and menu metrics.
+// ---
+
 #include "chrome/browser/ui/tabs/recent_tabs_sub_menu_model.h"
 
 #include <memory>

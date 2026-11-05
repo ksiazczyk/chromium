@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab codec implementation
+// summary: Encodes and decodes pinned tabs between browser windows and the profile's pinned tabs preference list for startup restore.
+// ---
+
 #include "chrome/browser/ui/tabs/pinned_tab_codec.h"
 
 #include <stddef.h>

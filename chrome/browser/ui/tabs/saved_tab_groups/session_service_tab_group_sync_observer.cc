@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service tab group sync observer implementation
+// summary: Observes tab group sync changes and writes saved tab group metadata to the session service so group state persists across browser sessions.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/session_service_tab_group_sync_observer.h"
 
 #include <optional>

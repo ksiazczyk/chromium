@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel profile preference registration
+// summary: Registers syncable and dictionary profile preferences for the Organizer Panel entrypoint and section states.
+// ---
+
 #include "chrome/browser/ui/tabs/organizer/organizer_prefs.h"
 
 #include "chrome/common/pref_names.h"

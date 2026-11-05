@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab swap menu model header
+// summary: Declares a simple menu model that offers swapping tabs within a split view, with dynamic labels, icons, and element identifiers for the start and end tab items.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_SWAP_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_SWAP_MENU_MODEL_H_
 

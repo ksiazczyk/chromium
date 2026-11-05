@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab style header
+// summary: Declares the TabStyle interface with path types, hover styles, selection states, and color structs used to render tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STYLE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STYLE_H_
 

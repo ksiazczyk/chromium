@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragServiceFeature implementation
+// summary: Implements the per-browser-window feature that builds a TabDragServiceImpl from the global tab drag session manager and accepts Mojo TabDragService clients.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_drag_api/tab_drag_service_feature.h"
 
 #include "chrome/browser/browser_process.h"

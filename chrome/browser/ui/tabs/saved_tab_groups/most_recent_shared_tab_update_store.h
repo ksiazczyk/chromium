@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostRecentSharedTabUpdateStore class header
+// summary: Declares a per-browser-window store of the most recent shared tab group update, used by asynchronous messaging systems like user education promos to find their anchor.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_MOST_RECENT_SHARED_TAB_UPDATE_STORE_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_MOST_RECENT_SHARED_TAB_UPDATE_STORE_H_
 

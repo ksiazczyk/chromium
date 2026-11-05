@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentsObservingTabFeature header
+// summary: Declares a WebContentsObserver base class for tab features that need to track WebContents state across content discards.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_CONTENTS_OBSERVING_TAB_FEATURE_H_
 #define CHROME_BROWSER_UI_TABS_CONTENTS_OBSERVING_TAB_FEATURE_H_
 

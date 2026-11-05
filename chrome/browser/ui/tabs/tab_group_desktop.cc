@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab group implementation
+// summary: Implements TabGroupDesktop, the desktop TabGroup subclass that creates and initializes group-scoped TabGroupFeatures for a profile.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_desktop.h"
 
 #include <memory>

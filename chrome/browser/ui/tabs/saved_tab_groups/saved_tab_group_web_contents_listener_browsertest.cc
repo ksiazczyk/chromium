@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group web contents listener browser tests
+// summary: Browser tests verifying deferred tab state, foregrounding, and navigation behavior of the saved tab group web contents listener.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_web_contents_listener.h"
 
 #include "base/test/scoped_feature_list.h"

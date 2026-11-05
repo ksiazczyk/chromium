@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMenuModel implementation
+// summary: Builds the tab context menu, including submenus for existing groups and windows, split tabs, send tab to self, extension items, and Glic entries.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_menu_model.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the tab group home sources
+summary: GN build file defining the tab_group_home and constants source sets with their sources and dependencies for non-Android builds.

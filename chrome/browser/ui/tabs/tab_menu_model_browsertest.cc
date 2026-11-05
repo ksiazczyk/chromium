@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab menu model browser tests
+// summary: Browser tests for the tab context menu model, covering menu items across features such as split tabs, saved tab groups, send tab to self, commerce and Glic.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_menu_model.h"
 
 #include <utility>

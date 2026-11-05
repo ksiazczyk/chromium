@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab utility functions implementation
+// summary: Implements helpers that find the last active tab in a split and determine whether it sits at the start, end, top, or bottom of the split layout.
+// ---
+
 #include "chrome/browser/ui/tabs/split_tab_util.h"
 
 #include <algorithm>

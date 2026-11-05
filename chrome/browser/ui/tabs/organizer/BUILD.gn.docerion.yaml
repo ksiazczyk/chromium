@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the tabs organizer
+summary: Defines GN source sets for the organizer panel headers, implementation, and unit tests along with their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync navigation browser tests
+// summary: Browser integration tests that perform user actions on the tab strip and verify that tab group sync and database write events are recorded as expected.
+// ---
+
 #include <memory>
 
 #include "base/task/single_thread_task_runner.h"

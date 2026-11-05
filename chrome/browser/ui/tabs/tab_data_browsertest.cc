@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabDataObserver browser tests
+// summary: Browser tests verifying that TabDataObserver exposes correct tab data, covering default values for title, favicon, network state, alert state, and related properties.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_data.h"
 
 #include <memory>

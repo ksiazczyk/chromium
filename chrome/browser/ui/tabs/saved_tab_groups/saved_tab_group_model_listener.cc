@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedTabGroupModelListener implementation
+// summary: Implements SavedTabGroupModelListener, which observes browsers and tab strip changes to keep saved tab group models in sync with local tab groups.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_model_listener.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inactive window mouse event controller unit tests
+// summary: Unit tests verifying that mouse events are accepted while a window is inactive only within scoped acceptance, covering nested scopes and counter behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/inactive_window_mouse_event_controller.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

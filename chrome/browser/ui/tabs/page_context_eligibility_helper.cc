@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context eligibility helper implementation
+// summary: Implements a tab-scoped helper that tracks page context eligibility via the optimization guide observer and notifies listeners on tab activation, deactivation, and content changes.
+// ---
+
 #include "chrome/browser/ui/tabs/page_context_eligibility_helper.h"
 
 #include "base/functional/bind.h"

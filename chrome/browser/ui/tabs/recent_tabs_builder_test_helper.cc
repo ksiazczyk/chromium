@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs builder test helper implementation
+// summary: Implements a test utility that creates fake synced sessions, windows, and tabs and exports them to session sync for exercising recent tabs features in tests.
+// ---
+
 #include "chrome/browser/ui/tabs/recent_tabs_builder_test_helper.h"
 
 #include <stddef.h>

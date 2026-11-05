@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration messaging page action controller header
+// summary: Declares a per-tab controller that shows or hides the collaboration messaging page action when tab data updates or the tab is activated.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_PAGE_ACTION_CONTROLLER_H_
 

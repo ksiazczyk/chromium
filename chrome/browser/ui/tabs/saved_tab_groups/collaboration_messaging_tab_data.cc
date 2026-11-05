@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration messaging tab data implementation
+// summary: Implements per-tab collaboration message storage, avatar fetching, and fallback avatar rendering for hover cards and page actions.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/collaboration_messaging_tab_data.h"
 
 #include "base/strings/utf_string_conversions.h"

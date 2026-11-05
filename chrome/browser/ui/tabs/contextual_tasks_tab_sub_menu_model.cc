@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks tab submenu model implementation
+// summary: Implements the tab context submenu that shares selected tabs with AI Mode through the Contextual Tasks side panel controller.
+// ---
+
 #include "chrome/browser/ui/tabs/contextual_tasks_tab_sub_menu_model.h"
 
 #include <vector>

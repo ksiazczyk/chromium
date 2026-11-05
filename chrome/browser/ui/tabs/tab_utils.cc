@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab site mute state utilities implementation
+// summary: Implements helpers that check whether sites in a tab strip are muted via content settings and WebContents audio state.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_utils.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

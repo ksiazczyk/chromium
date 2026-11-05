@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Existing base submenu model implementation
+// summary: Implements the shared base submenu model that builds tab context menu entries for existing windows or tab groups, including command mapping and menu building.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_base_sub_menu_model.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

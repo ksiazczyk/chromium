@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModel class declaration
+// summary: Declares the TabStripModel, TabGroupModelFactory, and detached tab structures used to model the browser's tab strip on desktop platforms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_H_
 

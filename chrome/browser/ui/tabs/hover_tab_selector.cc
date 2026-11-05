@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover tab selector implementation
+// summary: Implements delayed spring-loaded tab transitions, activating the hovered tab after a short delay unless the transition is canceled.
+// ---
+
 #include "chrome/browser/ui/tabs/hover_tab_selector.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab metrics provider header
+// summary: Declares TabMetricsProvider and the VerticalTabsState enum used to report tab strip orientation metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_METRICS_PROVIDER_H_
 

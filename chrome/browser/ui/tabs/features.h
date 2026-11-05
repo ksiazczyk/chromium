@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs feature flag declarations
+// summary: Declares Chromium feature flags and helper functions for tab UI features such as split view orientation, Tab Search improvements, and tab strip unification.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_FEATURES_H_
 #define CHROME_BROWSER_UI_TABS_FEATURES_H_
 

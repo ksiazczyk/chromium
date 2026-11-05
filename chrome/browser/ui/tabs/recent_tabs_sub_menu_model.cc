@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs submenu model implementation
+// summary: Implements the menu model for the Recent tabs submenu, listing locally closed tabs, groups, windows, splits, and tabs opened on other devices.
+// ---
+
 #include "chrome/browser/ui/tabs/recent_tabs_sub_menu_model.h"
 
 #include <stddef.h>

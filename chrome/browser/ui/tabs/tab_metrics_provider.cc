@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab metrics provider implementation
+// summary: Implements TabMetricsProvider, logging UMA histograms for the vertical tabs state across profiles and on user education session starts.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_metrics_provider.h"
 
 #include "base/metrics/histogram_functions.h"

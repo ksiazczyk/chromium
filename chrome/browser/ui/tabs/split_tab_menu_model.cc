@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab menu model implementation
+// summary: Implements the split tab context menu with commands for reversing position, closing tabs, exiting the split, feedback and orientation toggling, plus metrics logging.
+// ---
+
 #include "chrome/browser/ui/tabs/split_tab_menu_model.h"
 
 #include <string>

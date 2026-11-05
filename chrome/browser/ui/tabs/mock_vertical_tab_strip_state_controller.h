@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock vertical tab strip state controller header
+// summary: Declares a gmock-based mock of VerticalTabStripStateController that stubs its methods and exposes change notifications for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_MOCK_VERTICAL_TAB_STRIP_STATE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_MOCK_VERTICAL_TAB_STRIP_STATE_CONTROLLER_H_
 

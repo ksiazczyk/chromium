@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group version upgrade modal declarations
+// summary: Declares functions to show a modal prompting a Chrome update when the client is too old for a shared tab group and a toast after a successful update.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SHARED_TAB_GROUP_VERSION_UPGRADE_MODAL_H_
 #define CHROME_BROWSER_UI_TABS_SHARED_TAB_GROUP_VERSION_UPGRADE_MODAL_H_
 

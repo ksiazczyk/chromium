@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedTabGroupOnCloseHelper class header
+// summary: Declares SavedTabGroupOnCloseHelper, a WebContentsObserver that adds a tab to a specified closed saved tab group when the tab is deleted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_ON_CLOSE_HELPER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SAVED_TAB_GROUP_ON_CLOSE_HELPER_H_
 

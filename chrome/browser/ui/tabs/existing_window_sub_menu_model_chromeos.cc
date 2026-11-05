@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS ExistingWindowSubMenuModel implementation
+// summary: ChromeOS-specific implementation of the move-to-window submenu that groups target browser windows by desks with desk headings.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_window_sub_menu_model_chromeos.h"
 
 #include "base/strings/string_number_conversions.h"

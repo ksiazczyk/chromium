@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group feedback controller
+// summary: Controls the shared tab group feedback toolbar action and in-product help, showing them when shared tab groups are open in the browser.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/shared_tab_group_feedback_controller.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab dialog manager implementation
+// summary: Implements TabDialogManager, which creates, positions, and observes tab-modal dialog widgets within the browser window across platforms.
+// ---
+
 #include "chrome/browser/ui/tabs/public/tab_dialog_manager.h"
 
 #include <algorithm>

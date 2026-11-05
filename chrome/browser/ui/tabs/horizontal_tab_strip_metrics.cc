@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal tab strip metrics implementation
+// summary: Records histograms for horizontal tab strip scrolling, including scroll source events and periodic logging of whether unpinned tabs overflow.
+// ---
+
 #include "chrome/browser/ui/tabs/horizontal_tab_strip_metrics.h"
 
 #include "base/check.h"

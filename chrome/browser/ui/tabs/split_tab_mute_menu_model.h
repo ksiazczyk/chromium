@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab mute menu model class declaration
+// summary: Declares SplitTabMuteMenuModel, a tab context menu submenu that lets users mute or unmute sites in a split tab, with its command IDs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_MUTE_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_MUTE_MENU_MODEL_H_
 

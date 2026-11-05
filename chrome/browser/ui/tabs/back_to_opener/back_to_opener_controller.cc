@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-to-opener controller implementation
+// summary: Implements the back-to-opener controller, opener and tab-close observers, and metrics for establishing and clearing tab opener relationships.
+// ---
+
 #include "chrome/browser/ui/tabs/back_to_opener/back_to_opener_controller.h"
 
 #include "base/metrics/histogram_functions.h"

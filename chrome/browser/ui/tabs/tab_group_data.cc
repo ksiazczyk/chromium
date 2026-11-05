@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group data implementation
+// summary: Implements TabGroupTabData, TabGroupData and TabGroupDataObserver, which cache tab group data for hover cards and notify subscribers on updates.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_data.h"
 
 #include <algorithm>

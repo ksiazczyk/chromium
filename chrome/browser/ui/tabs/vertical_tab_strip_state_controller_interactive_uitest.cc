@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip state controller interactive UI tests
+// summary: Interactive browser tests covering collapse, resizing, mode changes, toasts and feature promos for the vertical tab strip state controller.
+// ---
+
 #include "chrome/browser/ui/tabs/vertical_tab_strip_state_controller.h"
 
 #include "base/feature_list.h"

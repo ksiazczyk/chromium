@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab menu model class declaration
+// summary: Declares SplitTabMenuModel, the menu model for split tab commands, including its persisted command ID enum and the menu sources used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_MENU_MODEL_H_
 

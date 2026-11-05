@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExistingBaseSubMenuModel base class header
+// summary: Declares ExistingBaseSubMenuModel, the base class that builds tab context menu submenus with unique command IDs and a consistent layout for adding tabs to new or existing groups and windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_EXISTING_BASE_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_EXISTING_BASE_SUB_MENU_MODEL_H_
 

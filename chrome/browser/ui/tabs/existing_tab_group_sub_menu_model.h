@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExistingTabGroupSubMenuModel class declaration
+// summary: Declares the submenu model for adding tabs to existing tab groups, with helpers to decide submenu visibility and map menu entries to group IDs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_EXISTING_TAB_GROUP_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_EXISTING_TAB_GROUP_SUB_MENU_MODEL_H_
 

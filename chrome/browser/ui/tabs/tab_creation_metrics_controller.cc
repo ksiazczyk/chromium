@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreationMetricsController implementation
+// summary: Implements a per-tab controller that records tab grouping transitions to the Tab.GroupingTransition2 histogram after a ten second delay.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_creation_metrics_controller.h"
 
 #include "base/metrics/histogram_functions.h"
