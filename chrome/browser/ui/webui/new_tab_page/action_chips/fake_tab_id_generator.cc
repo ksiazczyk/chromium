@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab ID generator implementation
+// summary: Provides a fake TabIdGenerator that derives a tab handle ID by hashing the tab title, for use in tests.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/fake_tab_id_generator.h"
 
 #include "base/no_destructor.h"

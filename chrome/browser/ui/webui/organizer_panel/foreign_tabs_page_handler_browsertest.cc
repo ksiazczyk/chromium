@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Foreign tabs page handler browser tests
+// summary: Browser tests verifying foreign tab listing, recency sorting, and opening via a fake session sync service.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/foreign_tabs_page_handler.h"
 
 #include <memory>

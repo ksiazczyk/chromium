@@ -1,0 +1,4 @@
+# Docerion header of foo.mojom.
+type: source
+title: foo.mojom Mojo interface for the dummy module
+summary: Defines the FooDataItem struct and the FooHandler interface whose GetData call returns dummy module items to JavaScript.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab ID generator interface for action chips
+// summary: Declares the TabIdGenerator interface and its implementation for generating tab handle IDs, allowing the production free function to be mocked in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_TAB_ID_GENERATOR_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_TAB_ID_GENERATOR_H_
 

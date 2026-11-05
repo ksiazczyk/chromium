@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predictors WebUI message handler implementation
+// summary: Implements the WebUI message handler that serves autocomplete action predictor and resource prefetch predictor database contents to the predictors page.
+// ---
+
 #include "chrome/browser/ui/webui/predictors/predictors_handler.h"
 
 #include <memory>

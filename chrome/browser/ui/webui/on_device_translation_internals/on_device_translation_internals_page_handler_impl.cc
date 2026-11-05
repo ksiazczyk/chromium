@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation internals page handler implementation
+// summary: Implements the browser-side page handler that installs and uninstalls translation language packs and reports their status to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/on_device_translation_internals/on_device_translation_internals_page_handler_impl.h"
 
 #include "base/strings/strcat.h"

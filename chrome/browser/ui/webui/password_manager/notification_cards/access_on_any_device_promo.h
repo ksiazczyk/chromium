@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access on any device promo header
+// summary: Declares the AccessOnAnyDevicePromo notification card class for promoting Password Manager use on mobile devices.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_ACCESS_ON_ANY_DEVICE_PROMO_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_ACCESS_ON_ANY_DEVICE_PROMO_H_
 

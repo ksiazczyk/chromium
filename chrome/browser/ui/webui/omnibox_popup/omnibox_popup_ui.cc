@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup WebUI controller implementation
+// summary: Implements the WebUI controller for the omnibox popup, setting up data sources, Mojo interface bindings, and AI mode button UI configuration.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_ui.h"
 
 #include <atomic>

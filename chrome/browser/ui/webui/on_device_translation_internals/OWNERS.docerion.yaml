@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for on-device translation internals
+summary: Delegates ownership to the AI browser OWNERS file and requires IPC security owners' approval for Mojom file changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere debug page handler header
+// summary: Declares the OmniboxEverywhereDebugPageHandler class implementing the Mojo PageHandler interface for the debug WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_DEBUG_OMNIBOX_EVERYWHERE_DEBUG_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_DEBUG_OMNIBOX_EVERYWHERE_DEBUG_PAGE_HANDLER_H_
 

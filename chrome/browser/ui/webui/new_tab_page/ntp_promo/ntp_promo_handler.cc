@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP promo handler implementation
+// summary: Implements the browser-side Mojo handler that fetches showable promos from the user education controller and forwards shown, clicked, and dismissed events.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/ntp_promo/ntp_promo_handler.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere handler implementation
+// summary: Implements the Omnibox Everywhere searchbox Mojo handler, covering voice search, FRE stages, hotkeys, profile actions, and URL opening.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_handler.h"
 
 #include <utility>

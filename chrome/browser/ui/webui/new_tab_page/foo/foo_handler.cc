@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FooHandler implementation
+// summary: Implements GetData by building a hardcoded list of four dummy items with labels, values and image URLs and returning them via the Mojo callback.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/foo/foo_handler.h"
 
 #include "base/strings/string_number_conversions.h"

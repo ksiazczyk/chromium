@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the NTP Microsoft Auth module
+summary: Defines the shared and untrusted Mojom targets, the ntp_microsoft_auth source set, and its unit test target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password notification card base implementation
+// summary: Implements default behavior for the password notification card base class, such as severity, dismissibility, and action button defaults.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_card.h"
 
 namespace password_manager {

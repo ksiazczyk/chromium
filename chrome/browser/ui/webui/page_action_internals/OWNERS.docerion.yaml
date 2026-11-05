@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for page_action_internals
+summary: Lists code owners for the directory and routes .mojom file reviews to the IPC security owners.

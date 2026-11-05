@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab ID generator interface
+// summary: Declares a fake TabIdGenerator subclass that overrides GenerateTabHandleId for test scenarios.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_FAKE_TAB_ID_GENERATOR_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_FAKE_TAB_ID_GENERATOR_H_
 

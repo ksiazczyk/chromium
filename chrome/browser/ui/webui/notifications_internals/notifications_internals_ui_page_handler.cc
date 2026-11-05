@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications internals page handler implementation
+// summary: Implements the page handler that maps feature types to tips notifications and schedules them via the notification scheduler service.
+// ---
+
 #include "chrome/browser/ui/webui/notifications_internals/notifications_internals_ui_page_handler.h"
 
 #include "base/functional/bind.h"

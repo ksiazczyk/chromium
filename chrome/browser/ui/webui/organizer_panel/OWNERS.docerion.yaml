@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the organizer panel directory
+summary: Lists code owners for the directory and routes Mojom file reviews to the security owners.

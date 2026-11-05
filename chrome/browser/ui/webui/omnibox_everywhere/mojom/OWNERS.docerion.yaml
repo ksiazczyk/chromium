@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Omnibox Everywhere Mojom files
+summary: Sets per-file ownership so that changes to any .mojom file in this directory require review by the IPC security owners.

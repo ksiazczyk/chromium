@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action internals WebUI controller header
+// summary: Declares the WebUI controller and its internal WebUI config class, including Mojo interface binding for the page-action-internals debug page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PAGE_ACTION_INTERNALS_PAGE_ACTION_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_PAGE_ACTION_INTERNALS_PAGE_ACTION_INTERNALS_UI_H_
 

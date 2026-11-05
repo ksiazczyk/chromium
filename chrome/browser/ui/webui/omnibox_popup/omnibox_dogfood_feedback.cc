@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox dogfood feedback implementation
+// summary: Implements the dogfood feedback entry point that opens Chrome's feedback form with diagnostics listing overridden omnibox and WebUI features.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_dogfood_feedback.h"
 
 #include "base/feature_list.h"

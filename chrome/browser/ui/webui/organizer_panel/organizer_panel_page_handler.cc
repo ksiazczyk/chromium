@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel page handler implementation
+// summary: Implements browser-side handling of section expanded and show-all preferences and closing the panel.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/organizer_panel_page_handler.h"
 
 #include <algorithm>

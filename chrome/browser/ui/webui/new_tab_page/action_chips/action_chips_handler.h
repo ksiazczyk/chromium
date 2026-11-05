@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips handler class declaration
+// summary: Declares the ActionChipsHandler class implementing the Mojo handler interface, with tab strip observation on non-Android platforms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_ACTION_CHIPS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_ACTION_CHIPS_HANDLER_H_
 

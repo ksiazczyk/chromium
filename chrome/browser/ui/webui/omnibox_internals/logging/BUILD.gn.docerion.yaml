@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for omnibox logging
+summary: Defines the mojom bindings target for logs.mojom and the static library that builds the omnibox logging page handler sources.

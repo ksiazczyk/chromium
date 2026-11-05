@@ -1,0 +1,4 @@
+# Docerion header of notifications_internals.mojom.
+type: source
+title: Notifications internals Mojom interface
+summary: Defines the PageHandler Mojo interface that the notifications internals page uses to schedule notifications.

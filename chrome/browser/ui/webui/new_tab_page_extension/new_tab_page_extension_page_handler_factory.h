@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension page handler factory header
+// summary: Declares the DocumentUserData-based factory that binds NTP and searchbox PageHandlerFactory Mojo interfaces and owns per-document handler state for extension frames.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_EXTENSION_NEW_TAB_PAGE_EXTENSION_PAGE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_EXTENSION_NEW_TAB_PAGE_EXTENSION_PAGE_HANDLER_FACTORY_H_
 

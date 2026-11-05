@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for omnibox popup Mojom bindings
+summary: GN build file that compiles omnibox_popup.mojom and omnibox_popup_aim.mojom into a Mojom target with a WebUI module path and dependencies.

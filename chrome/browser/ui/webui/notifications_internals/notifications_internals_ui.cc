@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications internals WebUI controller implementation
+// summary: Implements the WebUI controller for the notifications internals page, registering its data source and binding the mojo page handler to the notification schedule service.
+// ---
+
 #include "chrome/browser/ui/webui/notifications_internals/notifications_internals_ui.h"
 
 #include <utility>

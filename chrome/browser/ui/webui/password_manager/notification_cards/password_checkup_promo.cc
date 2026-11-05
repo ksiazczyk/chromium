@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password checkup promo card implementation
+// summary: Implements the password checkup notification card, including weekly re-show logic and checks for leak detection policy and saved passwords.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/password_checkup_promo.h"
 
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageNotAvailableForGuestUI header
+// summary: Declares the PageNotAvailableForGuestUI WebUIController class used to show the page-not-available-for-guest page to guest profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PAGE_NOT_AVAILABLE_FOR_GUEST_PAGE_NOT_AVAILABLE_FOR_GUEST_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_PAGE_NOT_AVAILABLE_FOR_GUEST_PAGE_NOT_AVAILABLE_FOR_GUEST_UI_H_
 

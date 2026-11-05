@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for the Promo struct
+// summary: Implements deserialization of the Promo Mojom struct into the user education NtpShowablePromo type.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/ntp_promo/ntp_promo_mojom_traits.h"
 
 #include "chrome/browser/ui/webui/new_tab_page/ntp_promo/ntp_promo.mojom-data-view.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for composebox and realbox eligibility
+// summary: Tests IsNtpComposeboxEnabled and IsNtpRealboxNextEnabled across feature flag and AIM eligibility states using a mocked eligibility service and testing profile.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/composebox/variations/composebox_fieldtrial.h"
 
 #include <memory>

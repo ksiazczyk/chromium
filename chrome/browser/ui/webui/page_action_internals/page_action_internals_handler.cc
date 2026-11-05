@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageActionInternalsHandler implementation
+// summary: Implements the browser-side Mojo handler that shows, hides and configures debug page actions and anchored message bubbles for the internals page.
+// ---
+
 #include "chrome/browser/ui/webui/page_action_internals/page_action_internals_handler.h"
 
 #include <memory>

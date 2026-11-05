@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension config provider header
+// summary: Declares the configuration provider class that supplies loadTimeData and localized strings for the new tab page component extension, mirroring the built-in new tab page setup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_EXTENSION_NEW_TAB_PAGE_EXTENSION_CONFIG_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_EXTENSION_NEW_TAB_PAGE_EXTENSION_CONFIG_PROVIDER_H_
 

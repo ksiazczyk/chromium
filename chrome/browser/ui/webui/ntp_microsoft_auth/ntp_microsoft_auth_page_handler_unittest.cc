@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Microsoft Auth page handler
+// summary: Tests the page handler's auth actions and histogram metrics using mock auth service and document objects with a testing profile.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_microsoft_auth/ntp_microsoft_auth_page_handler.h"
 
 #include <memory>

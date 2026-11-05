@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for managed status on the policy page
+// summary: Browser tests for managed status and banner behavior on the policy page.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

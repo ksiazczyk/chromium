@@ -1,0 +1,4 @@
+# Docerion header of ntp_microsoft_auth_untrusted_ui.mojom.
+type: source
+title: Mojo interfaces for NTP Microsoft authentication
+summary: Defines Mojo interfaces for communication between the untrusted Microsoft auth document and the browser, covering access tokens, silent auth, and auth state errors.

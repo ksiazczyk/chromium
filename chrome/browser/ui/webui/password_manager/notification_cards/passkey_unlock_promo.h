@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey unlock promo card header
+// summary: Declares the promo card that prompts users to verify their identity to use passkeys on this device.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_PASSKEY_UNLOCK_PROMO_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_PASSKEY_UNLOCK_PROMO_H_
 

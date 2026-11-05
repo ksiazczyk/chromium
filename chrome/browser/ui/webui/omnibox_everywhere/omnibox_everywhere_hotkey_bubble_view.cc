@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere hotkey bubble view implementation
+// summary: Implements the floating bubble dialog that presents preset keyboard shortcut options for the Omnibox Everywhere first-run experience.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_hotkey_bubble_view.h"
 
 #include <algorithm>

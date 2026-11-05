@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Action chips OWNERS file
+summary: Inherits owners from the parent new tab page directory and requires security owner review for Mojo interface file changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotebooksInternalsUIConfig class declaration
+// summary: Declares the NotebooksInternalsUIConfig class, an InternalWebUIConfig that creates the controller for the notebooks internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NOTEBOOKS_INTERNALS_NOTEBOOKS_INTERNALS_UI_CONFIG_H_
 #define CHROME_BROWSER_UI_WEBUI_NOTEBOOKS_INTERNALS_NOTEBOOKS_INTERNALS_UI_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab ID generator implementation
+// summary: Implements TabIdGenerator, returning the tab handle's raw value or a null value for missing tabs.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/tab_id_generator.h"
 
 #include "base/no_destructor.h"

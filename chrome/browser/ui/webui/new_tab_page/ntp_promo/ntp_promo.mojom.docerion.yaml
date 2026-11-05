@@ -1,0 +1,4 @@
+# Docerion header of ntp_promo.mojom.
+type: source
+title: NTP promo Mojo interface definitions
+summary: Defines Mojo interfaces and structs for requesting, showing, clicking, and dismissing new tab page promos between the browser and WebUI.

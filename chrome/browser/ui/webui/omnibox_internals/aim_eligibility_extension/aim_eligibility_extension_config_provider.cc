@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility extension config provider implementation
+// summary: Implements the config provider that registers the AIM eligibility extension with the extension config map, maps its default page resource, and supplies load-time data plus JS error reporting settings.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility_extension/aim_eligibility_extension_config_provider.h"
 
 #include <memory>

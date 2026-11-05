@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aim eligibility extension bridge factory implementation
+// summary: Builds the profile-keyed bridge service when the AIM eligibility component extension feature is enabled.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility_extension/aim_eligibility_extension_bridge_factory.h"
 
 #include <memory>

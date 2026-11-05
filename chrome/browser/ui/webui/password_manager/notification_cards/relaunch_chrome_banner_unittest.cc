@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch Chrome banner unit tests
+// summary: Unit tests for the relaunch Chrome banner, verifying severity, non-dismissability, and visibility based on encryption availability.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/relaunch_chrome_banner.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: New Tab Page code owners
+summary: Lists code owners for review approvals and routes Mojom file changes to security owners.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for binder provider files
+summary: Sets per-file ownership rules that delegate binder provider files to the IPC security owners.

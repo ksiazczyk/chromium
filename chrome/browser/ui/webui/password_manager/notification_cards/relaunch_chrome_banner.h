@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch Chrome banner header
+// summary: Declares the non-dismissible banner that reports a Keychain error and prompts a Chrome relaunch.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_RELAUNCH_CHROME_BANNER_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_RELAUNCH_CHROME_BANNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy page message handler header
+// summary: Declares the PolicyUIHandler class implementing the policy page mojo interface, message handling, and schema registry observation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_POLICY_POLICY_UI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_POLICY_POLICY_UI_HANDLER_H_
 

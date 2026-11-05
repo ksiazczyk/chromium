@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox internals page handler implementation
+// summary: Runs autocomplete controllers, observes query results, and sends responses, bitmaps, and ML scoring data to the internals page.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/omnibox_internals_page_handler.h"
 
 #include <stddef.h>

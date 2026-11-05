@@ -1,0 +1,4 @@
+# Docerion header of on_device_translation_internals.mojom.
+type: source
+title: Mojo interface definitions for on-device translation internals page
+summary: Defines the Mojo interfaces, language pack structs, and status enum used for communication between the internals WebUI page and the browser process.

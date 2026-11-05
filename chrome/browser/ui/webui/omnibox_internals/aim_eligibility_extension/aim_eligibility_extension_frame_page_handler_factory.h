@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility extension frame page handler factory header
+// summary: Declares a DocumentUserData-based factory handling Mojo connection requests from AIM Eligibility extension frames, with lifetime scoped to the RenderFrameHost.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_FRAME_PAGE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_FRAME_PAGE_HANDLER_FACTORY_H_
 

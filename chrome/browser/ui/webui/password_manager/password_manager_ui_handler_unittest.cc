@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password Manager UI handler unit tests
+// summary: Unit tests for PasswordManagerUIHandler using mock delegates, test password stores and Mojo fakes to verify WebUI handler behavior.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/password_manager_ui_handler.h"
 
 #include <memory>

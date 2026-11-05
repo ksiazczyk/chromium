@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension page handler factory implementation
+// summary: Implements the document-scoped Mojo factory that creates NewTabPageHandler and RealboxHandler for new tab page component extension frames, sharing contextual search session state.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_extension/new_tab_page_extension_page_handler_factory.h"
 
 #include <memory>

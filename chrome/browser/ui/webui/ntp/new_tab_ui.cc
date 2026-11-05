@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page WebUI controller implementation
+// summary: Implements the NewTabUI controller and HTML source that serve the incognito, guest and isolated mode new tab pages, including profile-type enablement checks.
+// ---
+
 #include "chrome/browser/ui/webui/ntp/new_tab_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predictors WebUI controller implementation
+// summary: Implements the WebUI controller that registers the message handler and adds the HTML data source with content security policy overrides for the predictors page.
+// ---
+
 #include "chrome/browser/ui/webui/predictors/predictors_ui.h"
 
 #include <memory>

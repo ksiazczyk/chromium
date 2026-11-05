@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the response capture navigation throttle
+// summary: Verifies throttle creation and redirect interception for popup and iframe Microsoft auth navigations using navigation simulators.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_microsoft_auth/ntp_microsoft_auth_response_capture_navigation_throttle.h"
 
 #include <memory>

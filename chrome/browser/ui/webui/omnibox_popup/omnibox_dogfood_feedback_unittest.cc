@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox dogfood feedback unit tests
+// summary: Unit tests verifying that the dogfood feedback feature filter accepts only omnibox and WebUI related features and that the diagnostics list relevant enabled and disabled overrides with trials, groups and parameters.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_dogfood_feedback.h"
 
 #include <string>

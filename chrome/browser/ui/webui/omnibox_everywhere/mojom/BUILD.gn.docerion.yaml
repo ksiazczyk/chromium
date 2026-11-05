@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox Everywhere Mojo bindings build definition
+summary: Defines the GN build target that generates Mojo bindings for the Omnibox Everywhere WebUI from omnibox_everywhere.mojom, with dependencies on omnibox, composebox, base, and geometry Mojom modules.

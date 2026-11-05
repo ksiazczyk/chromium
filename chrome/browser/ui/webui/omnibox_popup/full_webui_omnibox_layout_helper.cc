@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox layout helper implementation
+// summary: Implements the helper that reads the location bar alignment insets and injects them into the WebUI data source as load-time data.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/full_webui_omnibox_layout_helper.h"
 
 #include "chrome/browser/ui/views/omnibox/full_webui_omnibox_frame.h"

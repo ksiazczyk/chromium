@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the omnibox popup WebUI
+summary: Defines the omnibox_popup source set and its unit_tests target, listing sources, public headers and dependencies for the full WebUI omnibox popup.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips generator implementation
+// summary: Implements generation of action chips for a tab using autocomplete providers and remote suggestion responses, with feature-based chip limits.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/action_chips_generator.h"
 
 #include <algorithm>

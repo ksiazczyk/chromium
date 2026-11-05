@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageNotAvailableForGuestUI implementation
+// summary: Implements the WebUI controller that serves the page-not-available-for-guest page with localized titles for bookmarks, history, extensions and password manager hosts.
+// ---
+
 #include "chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.h"
 
 #include "base/strings/utf_string_conversions.h"

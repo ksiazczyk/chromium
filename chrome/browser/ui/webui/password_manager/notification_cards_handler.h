@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification cards handler class declaration
+// summary: Declares NotificationCardsHandler, a WebUI message handler that dynamically displays actionable password manager notification cards.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_HANDLER_H_
 

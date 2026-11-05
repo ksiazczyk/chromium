@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Omnibox Everywhere debug WebUI
+summary: GN build file that defines the Mojo bindings target and the source_set for the Omnibox Everywhere debug WebUI page and its dependencies.

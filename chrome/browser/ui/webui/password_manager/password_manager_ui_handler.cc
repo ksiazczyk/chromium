@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager UI handler implementation
+// summary: Implements the Mojo PageHandler that relays WebUI requests such as password export, deletion, import and password change to browser-side services.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/password_manager_ui_handler.h"
 
 #include <optional>

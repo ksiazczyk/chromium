@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension bridge implementation
+// summary: Implements the per-profile bridge that registers the extension's config and binder providers and adds the sanitized image data source.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_extension/new_tab_page_extension_bridge.h"
 
 #include <memory>

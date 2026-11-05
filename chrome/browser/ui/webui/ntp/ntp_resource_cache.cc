@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP resource cache implementation
+// summary: Generates and caches the HTML and CSS for incognito, guest, isolated and other OTR profile new tab pages, applying theme colors and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ntp/ntp_resource_cache.h"
 
 #include <string>

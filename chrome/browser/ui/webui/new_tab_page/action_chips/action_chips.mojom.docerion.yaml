@@ -1,0 +1,4 @@
+# Docerion header of action_chips.mojom.
+type: source
+title: Action chips Mojo interface definitions
+summary: Defines Mojo structs and interfaces for exchanging action chip data and commands between the browser and the new tab page WebUI.

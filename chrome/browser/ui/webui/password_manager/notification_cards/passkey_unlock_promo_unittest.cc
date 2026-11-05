@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey unlock promo unit tests
+// summary: Unit tests for the passkey unlock promo card, covering card properties and visibility rules for dismissal, errors, null manager, and feature flags.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/passkey_unlock_promo.h"
 
 #include <memory>

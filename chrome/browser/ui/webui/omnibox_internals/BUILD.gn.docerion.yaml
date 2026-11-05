@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the omnibox internals WebUI
+summary: GN build configuration defining the Mojo bindings with C++ typemaps, the mojom traits source set, and the omnibox internals WebUI source set with its dependencies.

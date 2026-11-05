@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Team and bug tracker metadata for the ntp folder
+summary: Declares the owning team email and the public Buganizer component for the new tab page WebUI directory.

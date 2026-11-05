@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabPageThirdPartyHandler browser-side implementation
+// summary: Implements the browser-side Mojo handler that watches theme, native theme, and color provider changes and pushes theme updates to the WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_third_party/new_tab_page_third_party_handler.h"
 
 #include "base/feature_list.h"

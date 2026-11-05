@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the AIM eligibility debug UI
+summary: Defines the Mojo bindings target and the static library with its sources and dependencies for the AIM eligibility debug WebUI.

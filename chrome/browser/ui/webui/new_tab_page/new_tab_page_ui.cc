@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page WebUI implementation
+// summary: Implements the WebUI controller for Chrome's New Tab Page, registering message handlers and data sources for search, most visited tiles, backgrounds, and NTP modules.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/new_tab_page_ui.h"
 
 #include <memory>

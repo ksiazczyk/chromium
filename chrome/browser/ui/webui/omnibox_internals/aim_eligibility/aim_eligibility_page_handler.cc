@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility page handler implementation
+// summary: Implements the browser-side Mojo handler that queries eligibility state, pushes changes to the debug page, and supports debugging server eligibility requests.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility/aim_eligibility_page_handler.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_aim.mojom.
+type: source
+title: Mojo interfaces for the Omnibox AIM popup
+summary: Defines browser and page interfaces for the AI Mode omnibox popup, handling popup visibility, composebox context, and input focus.

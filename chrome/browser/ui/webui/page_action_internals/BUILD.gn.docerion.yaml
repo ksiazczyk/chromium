@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page action internals GN build definition
+summary: GN build file that defines the Mojo bindings target and the source sets for the page action internals debug WebUI.

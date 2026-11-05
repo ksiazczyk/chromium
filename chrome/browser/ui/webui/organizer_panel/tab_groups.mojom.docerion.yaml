@@ -1,0 +1,4 @@
+# Docerion header of tab_groups.mojom.
+type: source
+title: Mojo interfaces for organizer panel tab groups
+summary: Defines Mojo structs and interfaces for listing, opening, creating, and showing context menus for tab groups in the organizer panel.

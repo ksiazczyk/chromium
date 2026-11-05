@@ -1,0 +1,4 @@
+# Docerion header of omnibox_internals.mojom.
+type: source
+title: Mojo definitions for omnibox internals matches and signals
+summary: Defines Mojo structs for autocomplete matches, scoring signals, and omnibox responses, plus the page handler interface used by the omnibox-internals WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page untrusted WebUI data source implementation
+// summary: Implements the untrusted data source for the New Tab Page WebUI, serving templated resources and background image data while validating background image paths to prevent directory traversal.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/untrusted_source.h"
 
 #include <numeric>

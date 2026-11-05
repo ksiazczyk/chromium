@@ -1,0 +1,4 @@
+# Docerion header of omnibox_everywhere_debug.mojom.
+type: source
+title: Omnibox Everywhere debug Mojo interface definitions
+summary: Defines the Mojo interfaces and enums the debug WebUI uses to control Omnibox Everywhere preferences, invoke the omnibox, trigger IPH, and reset settings.

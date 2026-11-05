@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NTP composebox configuration
+// summary: Verifies the NTP composebox config for disabled, default, and invalid Base64 proto parameter cases, checking defaults and parse-success histogram reporting.
+// ---
+
 #include <string>
 
 #include "base/base64.h"

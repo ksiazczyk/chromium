@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere WebUI controller declaration
+// summary: Declares the OmniboxEverywhereUIConfig and OmniboxEverywhereUI WebUI controller, which binds Mojo handler factories for searchbox, composebox, most visited, and help bubble interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync handler header
+// summary: Declares SyncHandler, a WebUIMessageHandler that lets the password manager WebUI query and observe sync service and identity manager state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_SYNC_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_SYNC_HANDLER_H_
 

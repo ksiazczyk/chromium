@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote suggestions service simple unit tests
+// summary: Unit tests covering request URL construction, response parsing, and network and parse error handling for the remote suggestions service.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/remote_suggestions_service_simple.h"
 
 #include <algorithm>

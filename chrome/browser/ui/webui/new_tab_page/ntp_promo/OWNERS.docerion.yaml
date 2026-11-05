@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the ntp_promo directory
+summary: Assigns review ownership of Mojom and Mojom traits files to the IPC security owners.

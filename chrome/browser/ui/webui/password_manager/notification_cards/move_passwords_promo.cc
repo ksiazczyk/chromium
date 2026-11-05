@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move passwords promo implementation
+// summary: Implements the promo card that prompts users to move locally saved passwords to their account, using the batch upload service and sync state.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/move_passwords_promo.h"
 
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate.h"

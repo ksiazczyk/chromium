@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPasswordManagerPromo notification card header
+// summary: Declares the WebPasswordManagerPromo class, a password manager notification card that promotes the web version of Password Manager with a link to the website.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_WEB_PASSWORD_MANAGER_PROMO_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_WEB_PASSWORD_MANAGER_PROMO_H_
 

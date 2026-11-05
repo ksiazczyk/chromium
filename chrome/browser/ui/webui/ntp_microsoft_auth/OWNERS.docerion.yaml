@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the directory
+summary: Inherits reviewers from the new tab page WebUI and requires security owners for Mojom file changes.

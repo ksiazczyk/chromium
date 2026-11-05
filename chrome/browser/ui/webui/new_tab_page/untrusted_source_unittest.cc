@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Untrusted source unit tests
+// summary: Unit tests for UntrustedSource using a fake One Google Bar service to verify request and query parameter handling.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/untrusted_source.h"
 
 #include <map>

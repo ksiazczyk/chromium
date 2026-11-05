@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification cards handler implementation
+// summary: Implements the WebUI message handler that picks which notification card to show, records dismissals, and updates card preferences.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards_handler.h"
 
 #include <algorithm>

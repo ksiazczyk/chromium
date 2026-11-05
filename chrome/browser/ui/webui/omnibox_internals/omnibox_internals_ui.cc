@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the omnibox internals WebUI controller
+// summary: Implements the WebUI controller for the omnibox-internals page, setting up the data source, resources, load-time data, and Mojo interface bindings for omnibox, AIM eligibility, and logging handlers.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/omnibox_internals_ui.h"
 
 #include <utility>

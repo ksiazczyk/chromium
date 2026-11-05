@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup AIM handler implementation
+// summary: Implements the Mojo page handler for the AIM omnibox popup, forwarding close, context menu and searchbox context events between browser and page.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_aim_handler.h"
 
 #include "chrome/browser/ui/contextual_search/searchbox_context_data.h"

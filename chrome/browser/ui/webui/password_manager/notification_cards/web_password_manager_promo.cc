@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web password manager promo implementation
+// summary: Implements the promo card pointing to the web Password Manager, shown only when password sync is active and display limits allow.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/web_password_manager_promo.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility extension service worker page handler factory implementation
+// summary: Implements the profile-scoped Mojo PageHandlerFactory for AIM Eligibility extension service workers, tracking created page handlers until disconnect or shutdown.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility_extension/aim_eligibility_extension_service_worker_page_handler_factory.h"
 
 #include <memory>

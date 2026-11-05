@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility extension frame page handler factory implementation
+// summary: Implements the document-scoped Mojo PageHandlerFactory that binds connection requests from AIM Eligibility extension frames and creates AimEligibilityPageHandler instances.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility_extension/aim_eligibility_extension_frame_page_handler_factory.h"
 
 #include <memory>

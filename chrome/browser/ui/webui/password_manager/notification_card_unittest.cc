@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification card unit tests
+// summary: Unit tests for password notification cards, covering display limits, dismissal tracking, and promo card behavior with fake services.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_card.h"
 
 #include <limits>

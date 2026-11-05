@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action chips mojo test utilities implementation
+// summary: Implements debug printing and factory helpers for action chips mojo objects such as TabInfo and ActionChip used in tests.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/action_chips_mojo_test_utils.h"
 
 #include <ostream>

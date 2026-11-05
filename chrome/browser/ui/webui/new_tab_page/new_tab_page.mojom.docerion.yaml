@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page.mojom.
+type: source
+title: New Tab Page Mojo interface definitions
+summary: Defines Mojo structs, enums, and interfaces for New Tab Page data such as themes, background images, and doodles exchanged between browser and WebUI.

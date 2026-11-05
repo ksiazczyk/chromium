@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup AIM handler unit tests
+// summary: Unit tests for OmniboxPopupAimHandler covering context menu display, close requests with cached draft text and popup shown behavior.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_aim_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Organizer panel GN build file
+summary: Defines the Mojo bindings, the organizer panel source set, and browser test targets for the WebUI.

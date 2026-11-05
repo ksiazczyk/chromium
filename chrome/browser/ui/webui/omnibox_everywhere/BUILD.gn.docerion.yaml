@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the omnibox_everywhere source set and its Windows/Mac unit test target with dependencies.

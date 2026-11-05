@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Page WebUI GN build rules
+summary: Defines GN build targets for the New Tab Page WebUI, including Mojo bindings generation and source sets for headers and implementation.

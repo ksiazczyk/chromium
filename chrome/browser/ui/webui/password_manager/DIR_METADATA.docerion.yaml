@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for password manager WebUI
+summary: Points to the shared metadata definition used for the password manager resources directory.

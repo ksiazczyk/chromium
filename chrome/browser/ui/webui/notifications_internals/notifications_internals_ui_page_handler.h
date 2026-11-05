@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications internals page handler header
+// summary: Declares the page handler implementing the notifications internals mojo interface, which schedules notifications via the scheduler service and preference service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NOTIFICATIONS_INTERNALS_NOTIFICATIONS_INTERNALS_UI_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_NOTIFICATIONS_INTERNALS_NOTIFICATIONS_INTERNALS_UI_PAGE_HANDLER_H_
 

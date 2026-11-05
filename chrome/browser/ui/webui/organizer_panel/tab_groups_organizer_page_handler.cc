@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups organizer page handler implementation
+// summary: Implements the browser-side handler that supplies tab group data, opens or creates groups, and shows context menus for the organizer panel.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/tab_groups_organizer_page_handler.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_third_party.mojom.
+type: source
+title: Mojo interfaces for third-party new tab page theming
+summary: Defines the Theme struct and the PageHandlerFactory, PageHandler, and Page Mojo interfaces used to exchange theme data between browser and WebUI.

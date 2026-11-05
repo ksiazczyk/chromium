@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Response capture navigation throttle implementation
+// summary: Intercepts redirects from Microsoft auth popups and iframes on the NTP and reroutes them to about:blank at the opener's origin.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_microsoft_auth/ntp_microsoft_auth_response_capture_navigation_throttle.h"
 
 #include <string>

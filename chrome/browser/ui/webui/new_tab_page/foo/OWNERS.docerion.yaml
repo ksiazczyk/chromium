@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the foo directory
+summary: Delegates ownership to the parent new_tab_page directory and requires IPC security owners for Mojo files.

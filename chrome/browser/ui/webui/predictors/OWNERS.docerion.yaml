@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the predictors WebUI directory
+summary: Delegates code ownership review to the OWNERS file of chrome/browser/predictors.

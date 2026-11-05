@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for notifications internals
+summary: Declares code owners for the directory and routes Mojom file reviews to IPC security owners.

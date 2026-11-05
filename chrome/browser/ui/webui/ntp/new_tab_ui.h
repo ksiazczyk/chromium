@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page WebUI controller header
+// summary: Declares NewTabUIConfig and NewTabUI, the WebUI controller for incognito and guest mode new tab pages, with helpers for titles and text direction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NTP_NEW_TAB_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_NTP_NEW_TAB_UI_H_
 

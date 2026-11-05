@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the new tab page extension
+summary: Delegates ownership to the new tab page OWNERS file and routes binder provider changes to IPC security owners.

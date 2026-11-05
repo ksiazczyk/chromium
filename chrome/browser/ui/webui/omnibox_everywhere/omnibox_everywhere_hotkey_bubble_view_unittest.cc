@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere hotkey bubble view unit tests
+// summary: Unit tests for the Omnibox Everywhere hotkey bubble view, covering show and close behavior, anchor alignment of bubble bounds, and contents view structure.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_hotkey_bubble_view.h"
 
 #include <memory>
