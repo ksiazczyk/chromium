@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast dialog button implementation
+// summary: Implements the cast dialog hover button that launches the access code cast flow and ignores right mouse clicks.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_access_code_cast_button.h"
 
 #include <memory>

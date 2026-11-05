@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video stream coordinator implementation
+// summary: Connects to camera video sources, manages frame handling with badges and a throbber overlay, and records preview duration and error metrics.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/video_stream_coordinator.h"
 
 #include <stdlib.h>

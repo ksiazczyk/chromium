@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls interactive UI tests
+// summary: Interactive browser tests exercising the cookie controls bubble and page action, including toggle behavior, user metrics, reloading, and feature promos.
+// ---
+
 #include <vector>
 
 #include "base/strings/utf_string_conversions.h"

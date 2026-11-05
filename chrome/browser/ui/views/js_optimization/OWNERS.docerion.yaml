@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the js_optimization directory
+summary: Lists the code owners of the js_optimization directory and additionally includes the safe_browsing component's OWNERS file.

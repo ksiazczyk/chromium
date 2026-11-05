@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video format comparison header
+// summary: Declares helpers for computing frame aspect ratio and selecting the closest supported video capture format, along with default frame rate and aspect ratio constants.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_CAMERA_PREVIEW_VIDEO_FORMAT_COMPARISON_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_CAMERA_PREVIEW_VIDEO_FORMAT_COMPARISON_H_
 

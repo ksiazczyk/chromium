@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location icon state helper implementation
+// summary: Implements helpers that compute security chip text, visibility, accessibility state, animation rules, and paste-and-go behavior for the location icon.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_state_helper.h"
 
 #include "build/branding_buildflags.h"

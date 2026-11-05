@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera coordinator implementation
+// summary: Implements CameraCoordinator, linking the camera device selection UI with the mediator and video stream coordinator, including metrics recording.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/camera_coordinator.h"
 
 #include <memory>

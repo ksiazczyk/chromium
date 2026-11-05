@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for confirm infobar custom layout
+// summary: Browser test verifying that ConfirmInfoBar shows the default layout and the link-before-button layout correctly.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/views/infobars/confirm_infobar.h"

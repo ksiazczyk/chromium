@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog metrics header
+// summary: Declares CastDialogMetrics, a per-dialog-open recorder of UMA metrics such as sink load time, cast mode, and sink count.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_METRICS_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_METRICS_H_
 

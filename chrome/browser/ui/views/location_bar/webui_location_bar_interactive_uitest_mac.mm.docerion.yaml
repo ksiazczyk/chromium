@@ -1,0 +1,4 @@
+# Docerion header of webui_location_bar_interactive_uitest_mac.mm.
+type: test
+title: Mac first responder test helper implementation
+summary: Implements the macOS helper via a private NSWindow selector to swap the first responder without resigning, simulating fullscreen behavior.

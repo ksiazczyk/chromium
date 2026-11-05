@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt previews coordinator header
+// summary: Declares the coordinator that hosts media previews inside the permission prompt and exposes the view type for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_PERMISSION_PROMPT_PREVIEWS_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_PERMISSION_PROMPT_PREVIEWS_COORDINATOR_H_
 

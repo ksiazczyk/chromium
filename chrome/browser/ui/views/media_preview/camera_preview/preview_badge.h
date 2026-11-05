@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview badge declaration
+// summary: Declares CreatePreviewBadge, a factory function that builds the badge view with icon for the camera preview.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_CAMERA_PREVIEW_PREVIEW_BADGE_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_CAMERA_PREVIEW_PREVIEW_BADGE_H_
 

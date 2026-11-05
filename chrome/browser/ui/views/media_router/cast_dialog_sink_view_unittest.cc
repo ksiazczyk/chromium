@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastDialogSinkView unit tests
+// summary: Unit tests for CastDialogSinkView covering available, connected, freezable, and frozen sinks with tab and desktop sources.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_sink_view.h"
 
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"

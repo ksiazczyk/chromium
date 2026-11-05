@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls bubble view pixel tests
+// summary: Browser pixel tests verifying the rendering of the cookie controls bubble using an HTTPS test server, mock certificate verifier, and mocked time.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/memory/scoped_refptr.h"
 #include "base/time/time_override.h"

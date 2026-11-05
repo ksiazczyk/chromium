@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker page action controller implementation
+// summary: Implements the controller that shows, hides, and overrides the intent picker page action icon, text, tooltip, and suggestion chip per tab.
+// ---
+
 #include "chrome/browser/ui/views/intent_picker/intent_picker_view_page_action_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

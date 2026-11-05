@@ -6,6 +6,12 @@
 // `LensOverlayEntryPointController` once the page actions migration is
 // complete.
 
+// ---docerion
+// type: test
+// title: Lens overlay page action icon view interactive UI test
+// summary: Interactive browser tests verifying the Lens overlay page action icon in the location bar, including visibility and focus behavior during the page actions migration.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastDialogSinkButton unit tests
+// summary: Unit tests verifying title and status labels of the Cast dialog sink button for available, connecting, connected, issue, and DIAL sinks.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_sink_button.h"
 
 #include "base/strings/utf_string_conversions.h"

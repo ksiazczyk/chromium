@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS optimizations page action controller header
+// summary: Declares the tab-scoped controller that manages visibility of the JS optimizations omnibox icon and its explanatory bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_JS_OPTIMIZATION_JS_OPTIMIZATIONS_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_JS_OPTIMIZATION_JS_OPTIMIZATIONS_PAGE_ACTION_CONTROLLER_H_
 

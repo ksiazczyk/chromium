@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info previews coordinator unit tests
+// summary: Unit tests verifying view type mapping and duration histogram updates for page info camera and mic previews.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/page_info_previews_coordinator.h"
 
 #include <optional>

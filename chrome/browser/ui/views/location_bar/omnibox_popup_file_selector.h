@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup file selector header
+// summary: Declares OmniboxPopupFileSelector, which handles system file selection dialogs and prepared file data for omnibox uploads.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_OMNIBOX_POPUP_FILE_SELECTOR_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_OMNIBOX_POPUP_FILE_SELECTOR_H_
 

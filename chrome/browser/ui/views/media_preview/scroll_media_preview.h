@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll media preview header
+// summary: Declares the helper that creates a scroll view within a parent view and returns the parent of the views inside it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_SCROLL_MEDIA_PREVIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_SCROLL_MEDIA_PREVIEW_H_
 

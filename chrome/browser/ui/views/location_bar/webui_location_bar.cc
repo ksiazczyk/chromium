@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI location bar implementation
+// summary: Implements the WebUI-based location bar, wiring omnibox actions, content setting icons, permission chips, and page info bubbles.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/webui_location_bar.h"
 
 #include <memory>

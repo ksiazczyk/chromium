@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS optimizations page action controller implementation
+// summary: Implements the per-tab controller that shows the JS optimizations omnibox icon and bubble when V8 optimizations are disabled for the current site.
+// ---
+
 #include "chrome/browser/ui/views/js_optimization/js_optimizations_page_action_controller.h"
 
 #include "base/check.h"

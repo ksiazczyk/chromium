@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents display observer view implementation
+// summary: Implements the observer that tracks which display hosts the web contents and runs a callback when the display changes.
+// ---
+
 #include "chrome/browser/ui/views/media_router/web_contents_display_observer_view.h"
 
 #include <memory>

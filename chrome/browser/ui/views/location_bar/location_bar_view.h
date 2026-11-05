@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarView class declaration
+// summary: Declares the LocationBarView class that paints the URL bar strip and hosts omnibox, page action, and permission chip content in the browser toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_BAR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_BAR_VIEW_H_
 

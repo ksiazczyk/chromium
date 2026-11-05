@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls content view browser tests
+// summary: In-process browser tests checking the accessibility name of the cookie controls toggle button and how it updates when the sites label changes.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_content_view.h"
 
 #include "base/strings/string_util.h"

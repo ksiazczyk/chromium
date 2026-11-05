@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location icon state helper interface
+// summary: Declares helpers for security chip text, visibility, accessibility, tooltips, animation rules, and middle-click paste-and-go in the location bar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_ICON_STATE_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LOCATION_ICON_STATE_HELPER_H_
 

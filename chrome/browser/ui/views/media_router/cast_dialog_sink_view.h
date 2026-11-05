@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDialogSinkView header
+// summary: Declares CastDialogSinkView, the Cast dialog view containing buttons for interacting with a cast sink, including stop and freeze actions and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_SINK_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_SINK_VIEW_H_
 

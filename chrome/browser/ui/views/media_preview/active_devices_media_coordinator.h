@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active devices media coordinator header
+// summary: Declares ActiveDevicesMediaCoordinator, an observer of the capture devices dispatcher that manages media coordinators and separators for active devices.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_ACTIVE_DEVICES_MEDIA_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_ACTIVE_DEVICES_MEDIA_COORDINATOR_H_
 

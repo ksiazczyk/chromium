@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation receiver window factory
+// summary: Creates presentation receiver windows by combining the receiver frame and view into a themed widget.
+// ---
+
 #include <memory>
 
 #include "base/check.h"

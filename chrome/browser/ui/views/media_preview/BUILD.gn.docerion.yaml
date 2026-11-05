@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media preview build targets
+summary: Defines the GN source sets for the media preview code, its unit tests and interactive UI tests, including dependencies and allowed circular includes.

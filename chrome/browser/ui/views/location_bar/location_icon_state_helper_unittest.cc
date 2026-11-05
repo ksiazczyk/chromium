@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location icon state helper unit tests
+// summary: Unit tests verifying security chip text, visibility, and animation rules for special schemes, editing states, and security level transitions.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_state_helper.h"
 
 #include "build/branding_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastDialogView browser tests
+// summary: Dialog browser tests that show the Cast dialog with available, connected, unavailable, and mixed sink models using a mock dialog controller.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_view.h"
 
 #include "chrome/browser/ui/media_router/cast_dialog_controller.h"

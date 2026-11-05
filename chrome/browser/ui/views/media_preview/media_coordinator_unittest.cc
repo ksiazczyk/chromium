@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media coordinator unit tests
+// summary: Unit tests for MediaCoordinator covering device preference ranking and preview behavior using fake audio and video capture services.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_coordinator.h"
 
 #include "chrome/browser/media/prefs/capture_device_ranking.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router UI browser tests
+// summary: Browser tests verifying that the ephemeral cast toolbar icon appears for active routes and issues across multiple browser windows.
+// ---
+
 #include "base/run_loop.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/actions/chrome_action_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active devices media coordinator implementation
+// summary: Implements the coordinator that observes media capture device updates and creates mutable or per-device media coordinators for the web contents' active devices.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/active_devices_media_coordinator.h"
 
 #include <memory>

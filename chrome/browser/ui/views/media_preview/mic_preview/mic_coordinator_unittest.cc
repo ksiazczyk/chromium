@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mic coordinator
+// summary: Unit tests covering device list updates, combobox contents, device selection and metrics histograms using fake audio service components.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/mic_coordinator.h"
 
 #include <memory>

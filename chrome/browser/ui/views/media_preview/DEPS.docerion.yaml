@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media preview include rules
+summary: Grants the media preview directory permission to include headers from components/capture_mode.

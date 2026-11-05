@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent chip button test base header
+// summary: Declares a shared test base class with helpers for checking intent chip collapse state, visibility, and generating parameterized test names.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_INTENT_CHIP_BUTTON_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_INTENT_CHIP_BUTTON_TEST_BASE_H_
 

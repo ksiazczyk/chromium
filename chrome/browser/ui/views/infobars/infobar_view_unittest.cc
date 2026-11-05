@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarView unit tests for layout and controls
+// summary: Unit tests covering InfoBarView centered layout, label and icon sizing, and confirm infobar buttons, links, and button styles.
+// ---
+
 #include "chrome/browser/ui/views/infobars/infobar_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab footer controller implementation
+// summary: Implements the controller that manages new tab footer visibility from preferences, navigation and enterprise state.
+// ---
+
 #include "chrome/browser/ui/views/new_tab_footer/footer_controller.h"
 
 #include "base/metrics/histogram_functions.h"

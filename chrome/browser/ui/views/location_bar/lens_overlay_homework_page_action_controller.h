@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay homework page action controller header
+// summary: Declares the per-tab controller managing the full lifecycle of the Lens overlay homework page action chip, including visibility and user interaction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LENS_OVERLAY_HOMEWORK_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_LENS_OVERLAY_HOMEWORK_PAGE_ACTION_CONTROLLER_H_
 

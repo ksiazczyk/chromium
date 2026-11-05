@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selected keyword view implementation
+// summary: Implements the location bar view that displays the tab-to-search keyword chip, including keyword label names and icons for search engines, extensions and starter pack entries.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/selected_keyword_view.h"
 
 #include "build/branding_buildflags.h"

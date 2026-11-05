@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastDialogNoSinksView unit tests
+// summary: Unit tests for the Cast dialog view shown when no sinks are found, covering the search timer, icon and label changes, and permission-rejected messaging.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_no_sinks_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting bubble dialog browser test
+// summary: Browser tests for content setting bubble dialogs, covering popup blocking and quiet notification permission prompts.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/strings/string_util.h"
 #include "base/test/scoped_feature_list.h"

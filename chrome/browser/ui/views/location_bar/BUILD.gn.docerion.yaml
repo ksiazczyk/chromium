@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar build definition
+summary: Defines the GN source sets, public headers, and dependencies for the location bar views in the Chrome browser UI.

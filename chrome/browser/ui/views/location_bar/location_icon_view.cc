@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationIconView implementation
+// summary: Implements the location icon view showing page security status or extension names at the leading edge of the omnibox and opening Page Info.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_view.h"
 
 #include "base/functional/bind.h"

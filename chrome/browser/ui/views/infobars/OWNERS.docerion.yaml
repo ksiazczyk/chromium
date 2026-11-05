@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the infobars views directory
+summary: Lists code owners for the infobars views directory, including the owners of components/infobars and musalmaan@chromium.org.

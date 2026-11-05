@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate navigation infobar view implementation
+// summary: Implements the alternate navigation infobar view that displays a message split around an embedded link and creates a styled label infobar.
+// ---
+
 #include "chrome/browser/ui/views/infobars/alternate_nav_infobar_view.h"
 
 #include <stddef.h>

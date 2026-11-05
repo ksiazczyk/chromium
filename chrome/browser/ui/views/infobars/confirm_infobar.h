@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar class declaration
+// summary: Declares ConfirmInfoBar, an infobar showing a message, up to two optional buttons and an optional right-aligned link, with factory methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_H_
 #define CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_H_
 

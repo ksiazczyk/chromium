@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prompt previews coordinator unit tests
+// summary: Unit tests verifying view type selection for camera, mic and combined previews, duration histogram recording, and death on no eligible devices.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/permission_prompt_previews_coordinator.h"
 
 #include <optional>

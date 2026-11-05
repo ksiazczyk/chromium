@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi menu view unit tests
+// summary: Unit tests for the Mahi menu view covering bounds, button callbacks, question submission, and accessibility announcements using a fake web contents manager.
+// ---
+
 #include "chrome/browser/ui/views/mahi/mahi_menu_view.h"
 
 #include <memory>

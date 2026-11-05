@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastBrowserController browser tests
+// summary: Browser tests verifying Cast toolbar icon states for issues, local routes and paused mirroring, with optional pixel checks.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_browser_controller.h"
 
 #include "base/command_line.h"

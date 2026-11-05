@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Lens region search views
+summary: Defines the GN source sets and dependencies for the Lens region search instructions view and its unit tests.

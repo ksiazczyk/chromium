@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI content setting image control unit tests
+// summary: Unit tests for WebUIContentSettingImageControl using fake image models and delegates to cover visibility, bubbles, and dashboard updates.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/webui_content_setting_image_control.h"
 
 #include <memory>

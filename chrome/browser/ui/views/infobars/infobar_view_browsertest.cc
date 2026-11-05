@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarView browser tests for accessibility and theming
+// summary: Browser tests verifying InfoBarView accessibility alert events, accessible node properties, and that theme colors apply to infobar container labels.
+// ---
+
 #include "chrome/browser/ui/views/infobars/infobar_view.h"
 
 #include "base/memory/raw_ptr.h"

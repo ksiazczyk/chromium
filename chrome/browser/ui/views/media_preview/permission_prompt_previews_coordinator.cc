@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt previews coordinator implementation
+// summary: Builds the media preview shown in the permission prompt, selecting a camera, mic or combined view and recording preview duration metrics on destruction.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/permission_prompt_previews_coordinator.h"
 
 #include "base/check.h"

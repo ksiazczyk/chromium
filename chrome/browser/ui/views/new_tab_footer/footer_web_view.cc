@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab footer web view implementation
+// summary: Implements the WebView hosting the new tab footer WebUI, handling show and close, context menus and keyboard events.
+// ---
+
 #include "chrome/browser/ui/views/new_tab_footer/footer_web_view.h"
 
 #include "base/metrics/histogram_functions.h"

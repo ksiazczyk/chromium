@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls bubble view implementation
+// summary: Implements the location bar cookie controls bubble, managing its content and reloading views, title and subtitle updates, favicon updates, and close callbacks.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/cookie_controls/cookie_controls_bubble_view_impl.h"
 
 #include <string>

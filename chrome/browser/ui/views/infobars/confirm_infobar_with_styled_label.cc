@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarWithStyledLabel implementation
+// summary: Implements ConfirmInfoBarWithStyledLabel, rendering template messages with inline links via placeholder substitution and StyledLabel style ranges.
+// ---
+
 #include "chrome/browser/ui/views/infobars/confirm_infobar_with_styled_label.h"
 
 #include <string>

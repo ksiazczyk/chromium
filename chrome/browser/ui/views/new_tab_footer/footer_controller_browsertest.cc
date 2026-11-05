@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab footer controller browser tests
+// summary: Browser tests verifying footer visibility, extension attribution and management notices with histogram metrics.
+// ---
+
 #include "chrome/browser/ui/views/new_tab_footer/footer_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

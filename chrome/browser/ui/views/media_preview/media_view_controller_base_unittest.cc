@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media view controller base unit tests
+// summary: Parameterized unit tests for MediaViewControllerBase covering device selection, labels, metrics, and accessibility announcements.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_view_controller_base.h"
 
 #include <memory>

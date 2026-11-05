@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selected keyword view interactive UI tests
+// summary: Interactive browser tests checking that activating an extension's omnibox keyword shows the extension's short name in the selected keyword label.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/selected_keyword_view.h"
 
 #include "base/test/run_until.h"

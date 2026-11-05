@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserElementsViews browser tests
+// summary: In-process browser tests verifying view lookup, element context, primary window widget, and typed view retrieval.
+// ---
+
 #include "chrome/browser/ui/views/interaction/browser_elements_views.h"
 
 #include "base/test/bind.h"

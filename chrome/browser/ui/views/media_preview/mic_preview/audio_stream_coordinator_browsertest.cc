@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the audio stream coordinator
+// summary: In-process browser test verifying the coordinator connects via a fake stream factory and receives the expected number of audio buses.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/audio_stream_coordinator.h"
 
 #include <memory>

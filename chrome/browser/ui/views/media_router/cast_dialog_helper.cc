@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog helper implementation
+// summary: Implements CreateThrobber, building a bordered throbber view whose overall size matches the primary icon used in the Cast dialog.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_helper.h"
 
 #include "ui/gfx/geometry/insets.h"

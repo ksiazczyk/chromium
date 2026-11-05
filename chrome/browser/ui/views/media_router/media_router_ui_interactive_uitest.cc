@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router UI interactive UI tests
+// summary: Interactive browser tests that open the cast dialog from the toolbar and context menu and check dialog behavior and metrics.
+// ---
+
 #include "base/run_loop.h"
 #include "build/build_config.h"
 #include "chrome/app/chrome_command_ids.h"

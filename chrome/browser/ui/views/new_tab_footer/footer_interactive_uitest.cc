@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab footer interactive UI tests
+// summary: Interactive UI tests exercising the footer WebUI, including Customize Chrome and extension-overridden NTP scenarios.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/browser_process.h"

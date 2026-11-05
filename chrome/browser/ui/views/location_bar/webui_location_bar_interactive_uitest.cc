@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI location bar interactive UI tests
+// summary: Interactive UI tests for the WebUI location bar and omnibox popup, exercising mouse input, clipboard, focus, and navigation flows.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/webui_location_bar.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiMenuController implementation
+// summary: Implements the controller that decides between the condensed and full Mahi menu based on selected text length and page distillability.
+// ---
+
 #include "chrome/browser/ui/views/mahi/mahi_menu_controller.h"
 
 #include <memory>

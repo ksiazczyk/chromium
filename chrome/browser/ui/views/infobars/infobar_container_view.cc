@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainerView implementation
+// summary: Implements the views-specific infobar container, adding a content shadow, background, accessibility, and queued-count pill handling.
+// ---
+
 #include "chrome/browser/ui/views/infobars/infobar_container_view.h"
 
 #include <algorithm>

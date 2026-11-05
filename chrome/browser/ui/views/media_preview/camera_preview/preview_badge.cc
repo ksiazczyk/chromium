@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview badge implementation
+// summary: Creates the rounded preview badge view with a videocam vector icon and localized label used on the video stream preview.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/preview_badge.h"
 
 #include "chrome/browser/ui/layout_constants.h"

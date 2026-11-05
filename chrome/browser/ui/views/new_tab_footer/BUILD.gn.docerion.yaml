@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the new tab footer views
+summary: Defines GN source sets for the new tab footer views plus their browser test and interactive UI test targets.

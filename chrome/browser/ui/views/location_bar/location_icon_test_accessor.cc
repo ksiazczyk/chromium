@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location icon test accessor implementation
+// summary: Implements a test accessor that clicks and inspects the location icon and its Page Info bubble in both Views and WebUI toolbar modes.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_icon_test_accessor.h"
 
 #include "base/strings/stringprintf.h"

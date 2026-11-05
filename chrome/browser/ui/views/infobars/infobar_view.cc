@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarView implementation
+// summary: Implements InfoBarView, the base views representation of an infobar with icon, close button, labels, links, and the queued-count pill.
+// ---
+
 #include "chrome/browser/ui/views/infobars/infobar_view.h"
 
 #include <algorithm>

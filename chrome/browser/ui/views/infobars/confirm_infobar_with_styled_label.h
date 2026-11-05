@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfirmInfoBarWithStyledLabel header
+// summary: Declares ConfirmInfoBarWithStyledLabel, a ConfirmInfoBar subclass that supports inline links in the message text through StyledLabel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_WITH_STYLED_LABEL_H_
 #define CHROME_BROWSER_UI_VIEWS_INFOBARS_CONFIRM_INFOBAR_WITH_STYLED_LABEL_H_
 

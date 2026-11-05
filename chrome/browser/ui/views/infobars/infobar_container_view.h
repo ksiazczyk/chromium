@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarContainerView header
+// summary: Declares InfoBarContainerView, the views-specific infobar container that hosts infobar views, draws a content shadow, and manages the queued-count pill.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INFOBARS_INFOBAR_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_INFOBARS_INFOBAR_CONTAINER_VIEW_H_
 

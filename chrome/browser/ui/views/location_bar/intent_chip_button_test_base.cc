@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent chip button test base implementation
+// summary: Implements shared helpers for intent chip tests, including chip visibility checks, page action accessors, and test name generation.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/intent_chip_button_test_base.h"
 
 #include "base/test/run_until.h"

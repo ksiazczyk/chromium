@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDialogView implementation
+// summary: Implements the Cast dialog bubble view that lets users start and stop casting, populating the sink list, no-sinks view, and permission-rejected view from the model.
+// ---
+
 #include "chrome/browser/ui/views/media_router/cast_dialog_view.h"
 
 #include <optional>

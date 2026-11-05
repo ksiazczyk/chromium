@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS optimizations infobar delegate header
+// summary: Declares the ConfirmInfoBarDelegate subclass that informs users a reload is required after re-enabling JavaScript optimizations for a site.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_JS_OPTIMIZATION_JS_OPTIMIZATIONS_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_JS_OPTIMIZATION_JS_OPTIMIZATIONS_INFOBAR_DELEGATE_H_
 

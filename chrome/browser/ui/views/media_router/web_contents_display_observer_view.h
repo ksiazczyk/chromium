@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents display observer view declaration
+// summary: Declares the views-based observer that watches widget, browser and web contents changes to report the current display of the web contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_WEB_CONTENTS_DISPLAY_OBSERVER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_WEB_CONTENTS_DISPLAY_OBSERVER_VIEW_H_
 

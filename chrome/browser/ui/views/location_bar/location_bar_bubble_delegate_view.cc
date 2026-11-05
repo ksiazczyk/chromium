@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar bubble delegate implementation
+// summary: Implements the base bubble dialog for location bar icons, covering accessibility roles, fullscreen transitions, and closing on web content events.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/location_bar_bubble_delegate_view.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream coordinator class declaration
+// summary: Declares the coordinator that sets up, updates and maintains the AudioStreamView and connects the audio capturer to a device.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_AUDIO_STREAM_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PREVIEW_MIC_PREVIEW_AUDIO_STREAM_COORDINATOR_H_
 

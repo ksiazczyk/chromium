@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi menu pixel test
+// summary: Parameterized browser pixel test capturing Mahi menu screenshots across dark and light mode, RTL, and narrow or wide layouts for Skia Gold verification.
+// ---
+
 #include "ash/public/cpp/style/dark_light_mode_controller.h"
 #include "base/i18n/base_i18n_switches.h"
 #include "base/strings/strcat.h"

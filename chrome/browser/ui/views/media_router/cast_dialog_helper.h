@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast dialog helper header
+// summary: Declares the CreateThrobber helper and the primary icon size and border constants shared by Cast dialog views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_HELPER_H_
 

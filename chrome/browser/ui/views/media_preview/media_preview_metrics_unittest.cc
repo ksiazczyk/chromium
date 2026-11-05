@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media preview metrics unit tests
+// summary: Unit tests verifying histogram bucket behavior of media preview duration metrics for the permission prompt and page info UI locations.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_preview_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

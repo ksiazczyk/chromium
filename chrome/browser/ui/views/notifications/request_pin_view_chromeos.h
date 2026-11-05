@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestPinView class declaration for ChromeOS
+// summary: Declares the RequestPinView dialog class, managed by SecurityTokenPinDialogHostPopupImpl, for requesting PIN or PUK codes with attempts and error display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_NOTIFICATIONS_REQUEST_PIN_VIEW_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_NOTIFICATIONS_REQUEST_PIN_VIEW_CHROMEOS_H_
 

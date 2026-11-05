@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find bar interactive UI tests
+// summary: Interactive UI test verifying that the find page action icon becomes visible in the toolbar when the find command is triggered.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

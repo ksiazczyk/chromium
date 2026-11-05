@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zoom bubble view browser tests
+// summary: Browser tests covering zoom bubble anchoring, visibility and closing behavior in fullscreen and immersive modes across platforms.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/zoom_bubble_view.h"
 
 #include "base/test/scoped_feature_list.h"

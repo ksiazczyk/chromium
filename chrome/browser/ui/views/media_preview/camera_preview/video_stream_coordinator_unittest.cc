@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video stream coordinator unit tests
+// summary: Unit tests for the video stream coordinator using a fake video source and histogram testers to verify metrics, frame handling, and error behavior.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/video_stream_coordinator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selected keyword view accessibility unit tests
+// summary: Unit tests verifying that SelectedKeywordView sets polite live region attributes and fires live region changed events for accessibility.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/selected_keyword_view.h"
 
 #include "chrome/browser/search_engines/template_url_service_factory_test_util.h"

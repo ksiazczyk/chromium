@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream view implementation
+// summary: Implements painting of the live mic audio level bar, including accessibility role, localized name, colors and rounded rectangle drawing.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/audio_stream_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slide and crossfade icon label bubble layout strategy implementation
+// summary: Implements an animation layout strategy that slides and crossfades icon label bubble views, computing proposed layouts and animation progress.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/slide_and_crossfade_icon_label_bubble_layout_strategy.h"
 
 #include <algorithm>

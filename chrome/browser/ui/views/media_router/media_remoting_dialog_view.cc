@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media remoting dialog views implementation
+// summary: Implements the Views coordinator and bubble dialog that let users enable or disable media remoting during a Cast session.
+// ---
+
 #include "chrome/browser/ui/views/media_router/media_remoting_dialog_view.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

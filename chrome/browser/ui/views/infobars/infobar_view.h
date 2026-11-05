@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarView header
+// summary: Declares InfoBarView, the base views class for infobars, defining element identifiers, label and link factories, and width assignment helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INFOBARS_INFOBAR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_INFOBARS_INFOBAR_VIEW_H_
 

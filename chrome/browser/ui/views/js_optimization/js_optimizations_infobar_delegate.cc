@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS optimizations infobar delegate implementation
+// summary: Implements the confirmation infobar shown when JavaScript optimizations are re-enabled for a site, offering a button that reloads the page.
+// ---
+
 #include "chrome/browser/ui/views/js_optimization/js_optimizations_infobar_delegate.h"
 
 #include <memory>

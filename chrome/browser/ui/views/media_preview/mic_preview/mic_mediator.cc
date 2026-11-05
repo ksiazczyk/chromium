@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic mediator implementation
+// summary: Implements the bridge to the audio service that fetches input stream parameters, binds the stream factory and reports device list changes.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/mic_preview/mic_mediator.h"
 
 #include <utility>

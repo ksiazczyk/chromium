@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip button implementation
+// summary: Implements the omnibox chip button, an MdTextButton with icon and label, expand and collapse animation, padding, and theme-based colors.
+// ---
+
 #include "chrome/browser/ui/views/location_bar/omnibox_chip_button.h"
 
 #include <optional>

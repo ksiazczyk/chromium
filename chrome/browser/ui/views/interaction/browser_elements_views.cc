@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElementsViews implementation
+// summary: Implements Views-specific browser element access, including view lookup and primary window widget retrieval via ElementTrackerViews.
+// ---
+
 #include "chrome/browser/ui/views/interaction/browser_elements_views.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface_iterator.h"

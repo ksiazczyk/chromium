@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls page action controller header
+// summary: Declares CookieControlsPageActionController, which manages showing, hiding, and executing the cookie controls page action for a tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_COOKIE_CONTROLS_COOKIE_CONTROLS_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_LOCATION_BAR_COOKIE_CONTROLS_COOKIE_CONTROLS_PAGE_ACTION_CONTROLLER_H_
 

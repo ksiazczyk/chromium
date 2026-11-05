@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera mediator implementation
+// summary: Implements CameraMediator, connecting to the video capture service, observing video device changes, and preference-ranking the device list.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/camera_mediator.h"
 
 #include "chrome/browser/media/prefs/capture_device_ranking.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera view controller implementation
+// summary: Implements CameraViewController, building the device combobox items and updating the base media view when the camera device list changes.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/camera_preview/camera_view_controller.h"
 
 #include <memory>

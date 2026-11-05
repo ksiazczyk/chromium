@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDialogAccessCodeCastButton class header
+// summary: Declares the cast dialog button used to open the access code cast dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_ACCESS_CODE_CAST_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_ROUTER_CAST_DIALOG_ACCESS_CODE_CAST_BUTTON_H_
 

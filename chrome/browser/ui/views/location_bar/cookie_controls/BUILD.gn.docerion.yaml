@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cookie controls views build targets
+summary: GN build file defining source sets for the cookie controls bubble UI plus its browser test and interactive UI test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media view implementation
+// summary: Implements MediaView, a vertical box layout view that serves as the base view for camera and mic preview views.
+// ---
+
 #include "chrome/browser/ui/views/media_preview/media_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

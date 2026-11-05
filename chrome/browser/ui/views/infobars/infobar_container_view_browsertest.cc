@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarContainerView browser tests
+// summary: In-process browser tests covering priority-based infobar behavior, visibility, and related container functionality in InfoBarContainerView.
+// ---
+
 #include "chrome/browser/ui/views/infobars/infobar_container_view.h"
 
 #include <memory>
