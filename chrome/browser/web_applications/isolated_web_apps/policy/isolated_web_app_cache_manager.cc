@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaBundleCacheManager Implementation
+// summary: Implements IwaBundleCacheManager logic for cleaning, evicting, and removing cached IWA bundles based on policy and device local account state on ChromeOS.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_manager.h"
 
 #include <memory>

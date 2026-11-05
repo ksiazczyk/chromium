@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallFromInfoJob header
+// summary: Declares the job that starts a web app installation from prefilled install info without fetching a manifest, including overwrite and install params handling.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_INSTALL_FROM_INFO_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_INSTALL_FROM_INFO_JOB_H_
 

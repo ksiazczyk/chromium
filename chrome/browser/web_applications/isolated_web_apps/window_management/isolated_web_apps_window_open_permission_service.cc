@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web Apps Window Open Permission Service
+// summary: Implements the service that tracks windows opened by non-policy IWAs and shows a system notification when a burst of windows is detected.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service.h"
 
 #include <algorithm>

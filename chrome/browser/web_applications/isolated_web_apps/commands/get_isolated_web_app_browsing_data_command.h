@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Isolated Web App Browsing Data Command Header
+// summary: Declares the GetIsolatedWebAppBrowsingDataCommand that computes total browsing data usage per installed Isolated Web App under an AllAppsLock.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_ISOLATED_WEB_APP_BROWSING_DATA_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_ISOLATED_WEB_APP_BROWSING_DATA_COMMAND_H_
 

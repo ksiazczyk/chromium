@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app isolation delegate header
+// summary: Declares WebAppIsolationDelegateImpl, which handles resource cleanup on uninstall, app size jobs, and isolated storage path lookup for IWAs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WEB_APP_ISOLATION_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WEB_APP_ISOLATION_DELEGATE_IMPL_H_
 

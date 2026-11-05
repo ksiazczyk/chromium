@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App User Installed Manager Unit Tests
+// summary: Unit tests verifying that a user-installed isolated web app is removed after its bundle ID is added to the blocklist via the key distribution component.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_user_installed_manager.h"
 
 #include <memory>

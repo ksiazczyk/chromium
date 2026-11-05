@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App install and update command browser tests
+// summary: Browser tests covering install, prepare-and-store update, and apply update commands for signed web bundles in both dev mode and production install sources.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockHolder implementation
+// summary: Implements PartitionedLockHolder methods for holding granted locks, releasing them all and invalidating weak pointers.
+// ---
+
 #include "chrome/browser/web_applications/locks/partitioned_lock_holder.h"
 
 #include <vector>

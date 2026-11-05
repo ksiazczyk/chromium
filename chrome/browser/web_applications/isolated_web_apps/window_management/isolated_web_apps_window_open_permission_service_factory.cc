@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window Open Permission Service Factory
+// summary: Profile-keyed service factory that creates the window open permission service when its feature flag is enabled.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service_factory.h"
 
 #include "base/feature_list.h"

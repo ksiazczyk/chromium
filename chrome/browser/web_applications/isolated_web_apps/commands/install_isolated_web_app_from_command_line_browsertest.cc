@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install Isolated Web App From Command Line Browser Test
+// summary: Browser test verifying that isolated web apps are installed when Chrome is launched with the install-isolated-web-app-from-url switch in dev mode.
+// ---
+
 #include <memory>
 #include <optional>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup Orphaned Isolated Web Apps Command Header
+// summary: Declares the orphaned IWA cleanup command with success and error result types and a UMA error enum for persisted logging.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CLEANUP_ORPHANED_ISOLATED_WEB_APPS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CLEANUP_ORPHANED_ISOLATED_WEB_APPS_COMMAND_H_
 

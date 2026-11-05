@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Close Window Browser Test
+// summary: Browser test verifying when an Isolated Web App is allowed to close its window through window.close().
+// ---
+
 #include <utility>
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

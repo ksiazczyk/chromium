@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update Manifest parsing implementation
+// summary: Implements UpdateManifest::CreateFromJson, parsing version entries and channel metadata from JSON into a validated manifest value type.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update_manifest/update_manifest.h"
 
 #include <algorithm>

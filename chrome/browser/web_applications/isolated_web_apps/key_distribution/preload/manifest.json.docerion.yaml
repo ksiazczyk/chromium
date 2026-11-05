@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Iwa Key Distribution component manifest
+summary: Component manifest declaring the Iwa Key Distribution preload component with its version and preloaded status.

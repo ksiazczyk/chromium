@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock base class implementation
+// summary: Implements lock type naming, debug values, and Lock resource accessors plus lock holder initialization for acquire and upgrade.
+// ---
+
 #include "chrome/browser/web_applications/locks/lock.h"
 
 #include <memory>

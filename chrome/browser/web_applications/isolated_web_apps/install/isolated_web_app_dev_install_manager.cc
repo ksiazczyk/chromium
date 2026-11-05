@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Dev Install Manager Implementation
+// summary: Implements developer-mode installation of Isolated Web Apps from dev proxy URLs, local or remote signed web bundles, and command line switches.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/install/isolated_web_app_dev_install_manager.h"
 
 #include <memory>

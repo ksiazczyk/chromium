@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionedLockManager unit tests
+// summary: Unit tests for PartitionedLockManager covering lock id population, acquisition ordering, and waiting for held locks.
+// ---
+
 #include "chrome/browser/web_applications/locks/partitioned_lock_manager.h"
 
 #include "base/functional/bind.h"

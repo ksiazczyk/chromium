@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoopLock class declaration
+// summary: Declares a placeholder lock that locks nothing, usable when a command does not yet know which resources it needs and may upgrade later.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_NOOP_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_NOOP_LOCK_H_
 

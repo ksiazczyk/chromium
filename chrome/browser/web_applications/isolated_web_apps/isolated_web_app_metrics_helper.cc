@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App sub-app UKM metrics helper
+// summary: Reports UKM metrics on isolated sub-app counts per parent app and on sub-app install and update results.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_metrics_helper.h"
 
 #include "chrome/browser/web_applications/web_app.h"

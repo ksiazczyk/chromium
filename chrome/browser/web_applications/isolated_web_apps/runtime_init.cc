@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Runtime Initialization
+// summary: Initializes isolated web app runtime singletons, the key distribution runtime data provider, and the isolation delegate at browser startup.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/runtime_init.h"
 
 #include "chrome/browser/web_applications/isolated_web_apps/chrome_iwa_client.h"

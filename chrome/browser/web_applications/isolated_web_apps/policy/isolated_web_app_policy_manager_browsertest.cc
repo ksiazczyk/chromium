@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Policy Manager Browser Tests
+// summary: Browser tests verifying enterprise policy handling of isolated web apps, including ChromeOS login and session scenarios.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_policy_manager.h"
 
 #include <stddef.h>

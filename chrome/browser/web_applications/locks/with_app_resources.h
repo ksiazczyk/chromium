@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithAppResources mixin for web app component access
+// summary: Declares a mixin class giving lock holders read/write access to WebAppProvider components like the registrar, install manager, and icon manager.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_WITH_APP_RESOURCES_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_WITH_APP_RESOURCES_H_
 

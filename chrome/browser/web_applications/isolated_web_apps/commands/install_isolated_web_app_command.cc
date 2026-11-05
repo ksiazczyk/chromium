@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Isolated Web App Command Implementation
+// summary: Implements the WebAppCommand that installs an Isolated Web App from a signed bundle or dev proxy source, covering trust checks, storage partition creation, and finalization.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/install_isolated_web_app_command.h"
 
 #include <memory>

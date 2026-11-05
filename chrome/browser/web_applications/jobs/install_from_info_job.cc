@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallFromInfoJob implementation
+// summary: Implements the job that installs a web app from prefilled install info, applying install params and trusted-icon handling before delegating to the finalize install job.
+// ---
+
 #include "chrome/browser/web_applications/jobs/install_from_info_job.h"
 
 #include <memory>

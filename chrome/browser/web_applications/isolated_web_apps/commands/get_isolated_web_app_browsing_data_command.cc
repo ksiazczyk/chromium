@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Isolated Web App Browsing Data Command Implementation
+// summary: Implements the command that computes per-origin browsing data usage in bytes for every installed Isolated Web App by running concurrent app size jobs.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_isolated_web_app_browsing_data_command.h"
 
 #include <memory>

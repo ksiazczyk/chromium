@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include Rules for Isolated Web Apps Directory
+summary: Chromium DEPS file that disallows chrome/browser/ui/views includes in this directory except for browser and interactive UI test files.

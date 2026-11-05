@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cleanup Bundle Cache Command Unit Tests
+// summary: Parameterized unit tests verifying bundle cache cleanup across session types, checking which directories are kept or deleted and the emitted metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/cleanup_bundle_cache_command.h"
 
 #include <memory>

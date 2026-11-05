@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestUpdateJob header
+// summary: Declares ManifestUpdateJob and its options for detecting manifest changes, applying silent updates, or saving pending updates requiring user confirmation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MANIFEST_UPDATE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MANIFEST_UPDATE_JOB_H_
 

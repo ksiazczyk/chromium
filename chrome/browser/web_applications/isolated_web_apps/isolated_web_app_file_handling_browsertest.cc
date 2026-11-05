@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App file handling browser tests
+// summary: Browser tests launching isolated web apps with files through file handlers, covering launch flows and ChromeOS file manager integration.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/test/bind.h"
 #include "base/test/test_future.h"

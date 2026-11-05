@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GatherMigrationSourceInfoJob API
+// summary: Declares the job that collects information from a source application needed to migrate it to a new application.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GATHER_MIGRATION_SOURCE_INFO_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GATHER_MIGRATION_SOURCE_INFO_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management content setting observer
+// summary: Declares an observer that watches window management content setting changes and notifies WebContents, which affects whether scripts may call window.close.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_WINDOW_MANAGEMENT_CONTENT_SETTING_OBSERVER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_WINDOW_MANAGEMENT_CONTENT_SETTING_OBSERVER_H_
 

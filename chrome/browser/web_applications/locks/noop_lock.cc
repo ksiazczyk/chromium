@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoopLock implementation
+// summary: Implements NoopLockDescription and NoopLock, granting only base lock resources since it locks no resources.
+// ---
+
 #include "chrome/browser/web_applications/locks/noop_lock.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update Manifest parser fuzzer
+// summary: Fuzz test that feeds arbitrary JSON values to UpdateManifest::CreateFromJson to verify the parser handles any input without crashing.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update_manifest/update_manifest.h"
 
 #include "base/at_exit.h"

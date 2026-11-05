@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Apply Update Command Unit Tests
+// summary: Unit tests for the apply-update command, checking pending update application, cleanup of update info, and failure paths using fake web app provider infrastructure.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/isolated_web_app_apply_update_command.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParseManifestFromStringJob declaration
+// summary: Declares the job that parses web app manifest contents from a string and returns the parsed manifest or a structured failure reason.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_PARSE_MANIFEST_FROM_STRING_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_PARSE_MANIFEST_FROM_STRING_JOB_H_
 

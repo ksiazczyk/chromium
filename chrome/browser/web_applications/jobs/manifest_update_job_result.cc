@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestUpdateJobResult implementation
+// summary: Implements stream output and debug serialization for ManifestUpdateJobResult values and the result-with-timestamp wrapper.
+// ---
+
 #include "chrome/browser/web_applications/jobs/manifest_update_job_result.h"
 
 #include <ostream>

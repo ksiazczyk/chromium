@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get Isolated Web App Browsing Data Command Browser Test
+// summary: Browser test verifying that GetIsolatedWebAppBrowsingData reports per-origin storage usage for installed isolated web apps and their Controlled Frame partitions.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_isolated_web_app_browsing_data_command.h"
 
 #include <memory>

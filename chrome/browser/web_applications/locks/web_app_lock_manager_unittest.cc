@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppLockManager unit tests
+// summary: Unit tests verifying lock acquisition, blocking between conflicting locks, and debug value behavior for NoopLock, AppLock, AllAppsLock, and shared web contents locks.
+// ---
+
 #include "chrome/browser/web_applications/locks/web_app_lock_manager.h"
 
 #include <memory>

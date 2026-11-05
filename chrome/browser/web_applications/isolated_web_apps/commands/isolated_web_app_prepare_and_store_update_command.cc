@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Prepare And Store Update Command Implementation
+// summary: Implements the command that dry-runs an Isolated Web App update and, on success, persists the pending update information into the Web App database.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/isolated_web_app_prepare_and_store_update_command.h"
 
 #include <cstddef>

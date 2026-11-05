@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remove Isolated Web App Data Unit Test
+// summary: Unit test verifying that ResetAllContentSettingsForIsolatedWebApp restores geolocation and notification settings to their initial defaults.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/remove_isolated_web_app_data.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

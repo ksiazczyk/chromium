@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web Apps window open permission service factory
+// summary: Declares a keyed service factory that provides the Isolated Web Apps window open permission service instance for each browser profile.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_ISOLATED_WEB_APPS_WINDOW_OPEN_PERMISSION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_ISOLATED_WEB_APPS_WINDOW_OPEN_PERMISSION_SERVICE_FACTORY_H_
 

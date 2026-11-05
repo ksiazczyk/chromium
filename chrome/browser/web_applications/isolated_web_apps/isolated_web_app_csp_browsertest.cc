@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App CSP browser tests
+// summary: Browser tests verifying the enforced Content Security Policy of Isolated Web Apps, including base element and resource origin rules.
+// ---
+
 #include <optional>
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup Bundle Cache Command Header
+// summary: Declares the bundle cache cleanup command with success and error result types for removing cached bundle directories under an AllAppsLock.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CLEANUP_BUNDLE_CACHE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CLEANUP_BUNDLE_CACHE_COMMAND_H_
 

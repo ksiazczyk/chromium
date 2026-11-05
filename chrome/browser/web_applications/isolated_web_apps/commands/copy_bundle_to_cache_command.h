@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy Bundle to Cache Command Header
+// summary: Declares the CopyBundleToCacheCommand that copies an Isolated Web App signed bundle file into the device cache under an AppLock, with result, success and histogram-logged error types.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_COPY_BUNDLE_TO_CACHE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_COPY_BUNDLE_TO_CACHE_COMMAND_H_
 

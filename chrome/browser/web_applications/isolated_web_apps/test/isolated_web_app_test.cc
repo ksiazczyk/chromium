@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolatedWebAppTest fixture implementation
+// summary: Implements the IsolatedWebAppTest base fixture, setting up a testing profile, fake web app provider, feature flags, and teardown handling.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/isolated_web_app_test.h"
 
 #include "base/test/test_timeouts.h"

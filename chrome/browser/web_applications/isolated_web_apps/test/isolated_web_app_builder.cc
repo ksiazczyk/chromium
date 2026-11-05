@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolatedWebAppBuilder implementation
+// summary: Implements fluent builders that construct signed .swbn bundles and dev-mode proxy servers with custom manifests, resources, and signatures for tests.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/isolated_web_app_builder.h"
 
 #include <cstddef>

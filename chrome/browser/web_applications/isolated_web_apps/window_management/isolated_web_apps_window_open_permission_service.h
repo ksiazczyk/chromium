@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web Apps Window Open Permission Service Header
+// summary: Declares the KeyedService that monitors WebContents created by Isolated Web Apps and manages burst window-open notifications.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_ISOLATED_WEB_APPS_WINDOW_OPEN_PERMISSION_SERVICE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_WINDOW_MANAGEMENT_ISOLATED_WEB_APPS_WINDOW_OPEN_PERMISSION_SERVICE_H_
 

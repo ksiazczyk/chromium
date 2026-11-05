@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the remove obsolete bundle versions cache command
+// summary: Implements the command that deletes all cached IWA bundle versions except the currently installed one, with UMA metrics and error reporting.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/remove_obsolete_bundle_versions_cache_command.h"
 
 #include "base/files/file_enumerator.h"

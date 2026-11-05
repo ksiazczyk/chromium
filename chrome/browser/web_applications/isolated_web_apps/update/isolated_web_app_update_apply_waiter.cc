@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App update apply waiter implementation
+// summary: Holds keep-alives and waits for all open windows of an Isolated Web App to close before signaling that a pending update can be applied.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_waiter.h"
 
 #include "base/functional/bind.h"

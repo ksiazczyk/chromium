@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA force-install policy test utilities implementation
+// summary: Implements helpers to add, remove, edit, and create force-install policy entries in the IsolatedWebAppInstallForceList preference for tests.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/policy_test_utils.h"
 
 #include "chrome/common/pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Update Notification Service Implementation
+// summary: Implements ChromeOS notifications that tell users a downloaded isolated web app update is pending and offer a restart button to apply it.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_notification_service.h"
 
 #include "ash/constants/ash_features.h"

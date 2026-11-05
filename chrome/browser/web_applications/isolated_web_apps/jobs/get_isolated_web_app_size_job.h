@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetIsolatedWebAppSizeJob header
+// summary: Declares GetIsolatedWebAppSizeJob, a ComputeAppSizeJob subclass that calculates total on-disk storage for an installed isolated web app, including web platform storage, icons, and bundle size.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_JOBS_GET_ISOLATED_WEB_APP_SIZE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_JOBS_GET_ISOLATED_WEB_APP_SIZE_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IwaBundleCacheManager Unit Tests
+// summary: Unit tests for IwaBundleCacheManager covering cache cleanup and eviction for IWA kiosk accounts using stubbed ChromeOS settings and a fake web app provider.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_manager.h"
 
 #include <memory>

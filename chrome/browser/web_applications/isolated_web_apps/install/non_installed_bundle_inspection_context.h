@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Installed Bundle Inspection Context Header
+// summary: Declares NonInstalledBundleInspectionContext and the IwaOperation variant so components can share IWA operation info via WebContents user data.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_INSTALL_NON_INSTALLED_BUNDLE_INSPECTION_CONTEXT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_INSTALL_NON_INSTALLED_BUNDLE_INSPECTION_CONTEXT_H_
 

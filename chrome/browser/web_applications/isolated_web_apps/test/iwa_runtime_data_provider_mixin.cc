@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA runtime data provider test mixin implementation
+// summary: Implements a browser test mixin that injects a custom IwaRuntimeDataProvider instance right after browser process initialization.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/iwa_runtime_data_provider_mixin.h"
 
 #include "chrome/browser/chrome_browser_main.h"

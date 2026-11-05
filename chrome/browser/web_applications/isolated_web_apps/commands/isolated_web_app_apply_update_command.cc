@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Apply Update Command Implementation
+// summary: Implements the command that applies a pending Isolated Web App update, performing trust checks, key rotation handling, storage partition creation, and finalization.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/isolated_web_app_apply_update_command.h"
 
 #include <memory>

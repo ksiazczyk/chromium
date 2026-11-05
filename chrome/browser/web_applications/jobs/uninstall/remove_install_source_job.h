@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveInstallSourceJob class declaration
+// summary: Declares the RemoveInstallSourceJob uninstall job that removes install managements from a web app, uninstalling the whole app if no managements are left.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_INSTALL_SOURCE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_INSTALL_SOURCE_JOB_H_
 

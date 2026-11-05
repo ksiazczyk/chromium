@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Permissions Policy Cache Browser Tests
+// summary: Browser tests checking permissions policy cache behavior across isolated web app install, update, and uninstall flows.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/iwa_permissions_policy_cache.h"
 
 #include <optional>

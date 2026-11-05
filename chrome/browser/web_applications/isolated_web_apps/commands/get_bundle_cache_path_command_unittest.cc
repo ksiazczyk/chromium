@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get Bundle Cache Path Command Unit Tests
+// summary: Unit tests for the bundle cache path command, verifying version lookup, newest-version selection, and success and error histogram metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_bundle_cache_path_command.h"
 
 #include "ash/constants/ash_paths.h"

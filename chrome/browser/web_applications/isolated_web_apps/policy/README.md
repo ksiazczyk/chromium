@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web App Enterprise Policy & Bundle Cache
+summary: Explains how the directory handles enterprise policy force-installation and ChromeOS bundle caching for Isolated Web Apps, outlining the policy manager, installer, and cache components.
+relations:
+  - documents /chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_client.cc
+  - documents /chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_client.h
+  - documents /chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_manager.cc
+---
+
 # Isolated Web App Enterprise Policy & Bundle Cache (`chrome/browser/web_applications/isolated_web_apps/policy`)
 
 This directory manages enterprise policy force-installation and ChromeOS bundle

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithAppResources mixin implementation
+// summary: Implements accessors for web app components such as the registrar, sync bridge, and install manager, CHECK-failing when the lock is not granted.
+// ---
+
 #include "chrome/browser/web_applications/locks/with_app_resources.h"
 
 #include "chrome/browser/web_applications/locks/web_app_lock_manager.h"

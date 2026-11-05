@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLock header
+// summary: Declares PartitionedLock, a move-only handle for a lock granted by PartitionedLockManager that releases the lock when destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_H_
 

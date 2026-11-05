@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App browser tests
+// summary: Browser tests covering Isolated Web App behavior such as push messaging, notifications, link capturing, cookie settings and app lifecycle.
+// ---
+
 #include <optional>
 #include <string_view>
 

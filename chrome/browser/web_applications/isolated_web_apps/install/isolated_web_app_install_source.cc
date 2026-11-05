@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Install Source Implementation
+// summary: Implements factory methods that pair an IWA source with a webapps install surface for graphical installer, policy, kiosk, RMA, dev UI, and command line.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/install/isolated_web_app_install_source.h"
 
 #include "base/files/file_path.h"

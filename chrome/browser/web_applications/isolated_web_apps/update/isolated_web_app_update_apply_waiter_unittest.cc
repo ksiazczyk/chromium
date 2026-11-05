@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App update apply waiter unit tests
+// summary: Unit tests verifying the waiter signals when app windows close and calls back synchronously when no windows are open.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_waiter.h"
 
 #include "base/functional/callback_helpers.h"

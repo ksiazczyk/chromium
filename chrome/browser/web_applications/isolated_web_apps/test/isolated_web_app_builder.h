@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolatedWebAppBuilder and ManifestBuilder declarations
+// summary: Declares ManifestBuilder, IsolatedWebAppBuilder, and scoped bundle and proxy app helpers for building Isolated Web App test fixtures.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_ISOLATED_WEB_APP_BUILDER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_ISOLATED_WEB_APP_BUILDER_H_
 

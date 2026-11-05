@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FinalizeInstallOrUpdateJob API and options
+// summary: Declares the finalizer job for web app installs and updates together with the FinalizeJobOptions struct controlling install surfaces and OS integration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_FINALIZE_INSTALL_OR_UPDATE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_FINALIZE_INSTALL_OR_UPDATE_JOB_H_
 

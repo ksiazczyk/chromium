@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust and signature verifier header
+// summary: Declares the CheckTrustAndSignatures overloads that verify Isolated Web App trust and bundle signatures before operations such as installation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TRUST_AND_SIGNATURE_VERIFIER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TRUST_AND_SIGNATURE_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA key distribution test utilities implementation
+// summary: Implements test helpers that install and register the IwaKeyDistribution component with the component updater and wait for its load during browser tests.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/key_distribution/test_utils.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA Permissions Policy Cache Implementation
+// summary: Implements a volatile per-profile cache of permissions policies parsed from isolated web app manifests, including entitlement filtering and manifest warnings.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/iwa_permissions_policy_cache.h"
 
 #include "base/containers/map_util.h"

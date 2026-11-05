@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web Apps Browser Integration
+summary: Overview of the Chrome browser-process Isolated Web Apps implementation, its key responsibilities, subdirectory map, and core root components.
+relations:
+  - references /chrome/browser/ui/views/web_apps/isolated_web_apps/README.md
+  - references /chrome/browser/web_applications/docs/isolated_web_apps.md
+  - references /chrome/browser/web_applications/isolated_web_apps/AGENTS.md
+---
+
 # Isolated Web Apps Browser Integration (`chrome/browser/web_applications/isolated_web_apps`)
 
 This directory contains the Chrome browser-process implementation of **Isolated

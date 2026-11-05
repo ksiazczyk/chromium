@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Dev Install Manager Header
+// summary: Declares IsolatedWebAppDevInstallManager, which manages developer-mode Isolated Web App installations from dev proxies, bundles, and the command line.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_INSTALL_ISOLATED_WEB_APP_DEV_INSTALL_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_INSTALL_ISOLATED_WEB_APP_DEV_INSTALL_MANAGER_H_
 

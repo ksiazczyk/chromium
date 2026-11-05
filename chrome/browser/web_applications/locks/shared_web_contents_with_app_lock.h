@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWebContentsWithAppLock combining app and web contents locks
+// summary: Declares a lock granting exclusive access to both the background shared web contents and the specified app ids, without guaranteeing the apps are installed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_SHARED_WEB_CONTENTS_WITH_APP_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_SHARED_WEB_CONTENTS_WITH_APP_LOCK_H_
 

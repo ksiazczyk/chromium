@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Window Open Permission Service Browser Test
+// summary: Browser test verifying notification display, acknowledgment, and persistence for the window open permission service.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service.h"
 
 #include <optional>

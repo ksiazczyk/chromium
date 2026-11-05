@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParseManifestFromStringJob implementation
+// summary: Implements a job that loads about:blank in the shared web contents, parses manifest string contents, and validates start_url and name fields.
+// ---
+
 #include "chrome/browser/web_applications/jobs/parse_manifest_from_string_job.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App feature and policy checks
+// summary: Implements helpers that determine whether Isolated Web App developer mode and unmanaged installation are enabled based on feature flags, preferences and policy.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_features.h"
 
 #include "base/feature_list.h"

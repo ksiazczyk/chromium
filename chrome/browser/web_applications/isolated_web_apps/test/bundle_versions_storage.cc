@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BundleVersionsStorage implementation
+// summary: Implements storage that serves signed web bundles and their update manifests at per-bundle URLs, building manifest JSON and bundle URLs for IWA tests.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/bundle_versions_storage.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App update check and prepare task implementation
+// summary: Fetches the update manifest, selects a target version for the update channel, downloads the signed web bundle, and stages the update.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_check_and_prepare_task.h"
 
 #include <cstdint>

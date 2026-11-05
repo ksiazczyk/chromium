@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App clipboard interactive UI test
+// summary: Interactive UI test verifying that an installed isolated web app can read and write the clipboard when the permissions policy allows it.
+// ---
+
 #include <memory>
 #include <string_view>
 

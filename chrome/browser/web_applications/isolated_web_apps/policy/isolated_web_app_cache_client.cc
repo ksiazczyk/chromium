@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaCacheClient Implementation
+// summary: Implements IwaCacheClient helpers that detect the current session type and compute cache directories and bundle file paths for cached IWA bundles.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_client.h"
 
 #include <algorithm>

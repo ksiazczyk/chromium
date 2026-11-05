@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppLockManager implementation with partitioned lock mapping
+// summary: Implements the WebAppLockManager, mapping each lock type onto PartitionedLockManager requests with strict lock ordering to prevent deadlocks and support lock upgrades.
+// ---
+
 #include "chrome/browser/web_applications/locks/web_app_lock_manager.h"
 
 #include <memory>

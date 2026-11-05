@@ -1,3 +1,13 @@
+---
+type: guide
+title: Isolated Web Apps Browser Engine Agent Guidelines
+summary: Agent guidelines covering canonical docs, architectural and locking invariants, testing guardrails, and command-line workflows for the Isolated Web Apps browser engine directory.
+relations:
+  - references /chrome/browser/ui/views/web_apps/isolated_web_apps/AGENTS.md
+  - references /chrome/browser/web_applications/AGENTS.md
+  - references /chrome/browser/web_applications/docs/isolated_web_apps.md
+---
+
 # Isolated Web Apps Browser Engine (`chrome/browser/web_applications/isolated_web_apps`)
 
 **Parent:**

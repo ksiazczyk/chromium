@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Controlled Frame Partition Command Header
+// summary: Declares GetControlledFramePartitionWithLock, which returns and registers the storage partition config used by a Controlled Frame element of an Isolated Web App.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_CONTROLLED_FRAME_PARTITION_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_CONTROLLED_FRAME_PARTITION_COMMAND_H_
 

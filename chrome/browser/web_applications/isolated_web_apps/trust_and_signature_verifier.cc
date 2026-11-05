@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust and signature verifier implementation
+// summary: Implements CheckTrustAndSignatures, which validates IWA trust and Signed Web Bundle signatures and returns the integrity block or a null result for dev-mode proxies.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/trust_and_signature_verifier.h"
 
 #include <optional>

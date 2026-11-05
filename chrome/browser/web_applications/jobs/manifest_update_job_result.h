@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestUpdateJobResult header
+// summary: Defines the ManifestUpdateJobResult enum of update outcomes and the ManifestUpdateJobResultWithTimestamp type returned to manifest update callers.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MANIFEST_UPDATE_JOB_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MANIFEST_UPDATE_JOB_RESULT_H_
 

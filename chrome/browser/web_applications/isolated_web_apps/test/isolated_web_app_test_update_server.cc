@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App test update server implementation
+// summary: Implements a local embedded test server that serves update manifests and signed web bundles for Isolated Web App browser tests, with optional port reuse across test restarts.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/isolated_web_app_test_update_server.h"
 
 #include <variant>

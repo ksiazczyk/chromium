@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComputeAppSizeJob abstract base class
+// summary: Declares the abstract base class for jobs that calculate the on-disk storage size of an installed web app.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_COMPUTE_APP_SIZE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_COMPUTE_APP_SIZE_JOB_H_
 

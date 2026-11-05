@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Apply Update Command Header
+// summary: Declares IsolatedWebAppApplyUpdateCommand, which applies a pending update read from IsolationData::pending_update_info and reports success or failure.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_ISOLATED_WEB_APP_APPLY_UPDATE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_ISOLATED_WEB_APP_APPLY_UPDATE_COMMAND_H_
 

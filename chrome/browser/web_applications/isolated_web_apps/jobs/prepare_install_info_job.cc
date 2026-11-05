@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareInstallInfoJob implementation
+// summary: Implements PrepareInstallInfoJob, which loads the generated install page, retrieves and validates the web app manifest, and assembles WebAppInstallInfo for isolated web app installs and updates.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/jobs/prepare_install_info_job.h"
 
 #include "base/feature_list.h"

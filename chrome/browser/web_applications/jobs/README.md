@@ -1,3 +1,11 @@
+---
+type: readme
+title: Jobs directory overview and best practices
+summary: Explains the role of jobs as reusable units of work within commands and lists best practices for composability, scheduling, inputs and outputs, lock passing and destruction order.
+relations:
+  - references /chrome/browser/web_applications/commands/README.md
+---
+
 # Jobs (`chrome/browser/web_applications/jobs`)
 
 This directory contains reusable units of work, referred to as "jobs".

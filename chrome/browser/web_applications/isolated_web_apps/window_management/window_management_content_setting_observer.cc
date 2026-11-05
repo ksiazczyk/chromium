@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management content setting observer implementation
+// summary: Implements an observer that reacts to window management content setting changes and refreshes WebContents preferences for isolated web apps.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/window_management/window_management_content_setting_observer.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

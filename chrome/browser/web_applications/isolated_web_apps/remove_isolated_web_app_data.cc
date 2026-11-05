@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove Isolated Web App Data Implementation
+// summary: Removes browsing data, content settings, and storage for uninstalled isolated web apps using the browsing data remover and storage utilities.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/remove_isolated_web_app_data.h"
 
 #include <variant>

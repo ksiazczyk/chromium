@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Throttle Unit Tests
+// summary: Unit tests using mock navigation handles to verify the throttle proceeds for non-IWA navigations and defers until the web app provider is initialized.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_throttle.h"
 
 #include "base/run_loop.h"

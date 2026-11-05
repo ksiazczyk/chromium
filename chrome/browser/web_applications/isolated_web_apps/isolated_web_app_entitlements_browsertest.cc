@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App entitlements browser tests
+// summary: Browser tests verifying that Isolated Web App entitlements grant permissions policy features such as direct sockets and sub apps.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/web_applications/test/isolated_web_app_test_utils.h"

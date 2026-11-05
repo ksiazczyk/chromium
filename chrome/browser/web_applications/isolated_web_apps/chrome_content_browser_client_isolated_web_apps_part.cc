@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA Content Browser Client Part Implementation
+// summary: Implements the IWA portion of ChromeContentBrowserClient, including required header enforcement on navigations and baseline permissions policy lookups.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/chrome_content_browser_client_isolated_web_apps_part.h"
 
 #include "base/command_line.h"

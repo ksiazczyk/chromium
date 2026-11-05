@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallPlaceholderJob unit tests
+// summary: Unit tests for the placeholder install job, using fake provider, mock data retriever and test URL loader to exercise the externally managed install flow.
+// ---
+
 #include "chrome/browser/web_applications/jobs/install_placeholder_job.h"
 
 #include <memory>

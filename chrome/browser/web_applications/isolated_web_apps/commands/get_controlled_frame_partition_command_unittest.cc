@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get Controlled Frame Partition Command Unit Tests
+// summary: Unit tests for the Controlled Frame partition command, checking registration of single, multiple and in-memory partitions for an installed Isolated Web App.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_controlled_frame_partition_command.h"
 
 #include <string>

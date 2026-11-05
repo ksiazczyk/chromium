@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integrity block data gmock matchers
+// summary: Provides gmock matchers that assert the public keys in IntegrityBlockData signatures for Ed25519 and ECDSA P-256.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_INTEGRITY_BLOCK_DATA_MATCHER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_INTEGRITY_BLOCK_DATA_MATCHER_H_
 

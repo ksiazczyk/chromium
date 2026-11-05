@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the remove obsolete bundle versions cache command
+// summary: Declares the RemoveObsoleteBundleVersionsCacheCommand along with its success and error result types used to clean stale IWA bundle cache versions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_REMOVE_OBSOLETE_BUNDLE_VERSIONS_CACHE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_REMOVE_OBSOLETE_BUNDLE_VERSIONS_CACHE_COMMAND_H_
 

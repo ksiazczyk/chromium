@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the remove obsolete bundle versions cache command
+// summary: Parameterized unit tests verifying removal of obsolete cached IWA bundle versions per session type, including cache setup and histogram metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/remove_obsolete_bundle_versions_cache_command.h"
 
 #include <string>

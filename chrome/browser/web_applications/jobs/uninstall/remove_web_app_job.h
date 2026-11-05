@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveWebAppJob class declaration
+// summary: Declares RemoveWebAppJob, the uninstall job that removes a web app and all its data, plus the RemoveForCorruptDatabase helper for headless cleanup of corrupted apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_WEB_APP_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_WEB_APP_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA test server configurator header
+// summary: Declares a helper to configure a fake IWA self-hosted update server for unit tests, including bundle registration and update manifest responses.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_IWA_TEST_SERVER_CONFIGURATOR_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_IWA_TEST_SERVER_CONFIGURATOR_H_
 

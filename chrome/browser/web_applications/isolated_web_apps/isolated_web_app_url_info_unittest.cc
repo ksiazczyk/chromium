@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App URL info unit tests
+// summary: Unit tests validating IsolatedWebAppUrlInfo creation from URLs, origin and app ID derivation, and storage partition configs for controlled frame.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_url_info.h"
 
 #include <utility>

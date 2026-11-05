@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed Web Bundle Metadata Unit Tests
+// summary: Unit tests that build test signed web bundles and manifests and verify metadata creation, including trust checks and install info preparation.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/signed_web_bundle_metadata.h"
 
 #include <string_view>

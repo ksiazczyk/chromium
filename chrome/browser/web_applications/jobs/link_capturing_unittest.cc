@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing unit tests
+// summary: Parameterized tests verifying single and overlapping app link capturing preferences, including enabling, disabling and default-on feature behavior.
+// ---
+
 #include "base/test/test_future.h"
 #include "chrome/browser/apps/link_capturing/link_capturing_feature_test_support.h"
 #include "chrome/browser/web_applications/test/web_app_install_test_utils.h"

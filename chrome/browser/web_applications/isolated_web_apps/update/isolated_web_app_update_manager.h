@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Update Manager Header
+// summary: Declares the update manager that discovers, downloads, and installs isolated web app updates, including update options and persisted error types.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_ISOLATED_WEB_APP_UPDATE_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_ISOLATED_WEB_APP_UPDATE_MANAGER_H_
 

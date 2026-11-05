@@ -1,3 +1,12 @@
+---
+type: readme
+title: WebAppProvider Locks overview and usage
+summary: Documents the web app locking system, covering usage, deadlock prevention, lock upgrading and composition, testing, and architecture.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - documents /chrome/browser/web_applications/locks/web_app_lock_manager.h
+---
+
 # [WebAppProvider](../README.md) > Locks
 
 ## Overview

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App update check and prepare task header
+// summary: Declares the task parameters and the task that checks for and prepares Isolated Web App updates, including a manifest-check-only mode.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_ISOLATED_WEB_APP_UPDATE_CHECK_AND_PREPARE_TASK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_ISOLATED_WEB_APP_UPDATE_CHECK_AND_PREPARE_TASK_H_
 

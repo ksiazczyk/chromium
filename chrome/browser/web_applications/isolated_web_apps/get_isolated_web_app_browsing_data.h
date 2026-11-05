@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Isolated Web App Browsing Data header
+// summary: Declares GetIsolatedWebAppBrowsingData, which calculates the total browsing data size for all installed Isolated Web Apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_GET_ISOLATED_WEB_APP_BROWSING_DATA_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_GET_ISOLATED_WEB_APP_BROWSING_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppUninstallAndReplaceJob class declaration
+// summary: Declares WebAppUninstallAndReplaceJob, which uninstalls from-apps or extensions and migrates OS integration attributes to the replacement app.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_WEB_APP_UNINSTALL_AND_REPLACE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_WEB_APP_UNINSTALL_AND_REPLACE_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check Isolated Web App Bundle User Installability Command Implementation
+// summary: Implements a WebAppCommand that checks whether a Signed Web Bundle is installable, updatable, outdated, blocklisted, or missing from the user install allowlist.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/check_isolated_web_app_bundle_user_installability_command.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallPlaceholderJob header
+// summary: Declares the job used in the externally managed app install flow to install a placeholder app when the app's install URL fails to load.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_INSTALL_PLACEHOLDER_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_INSTALL_PLACEHOLDER_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Installer Unit Tests
+// summary: Unit tests for the isolated web app installer, covering bundle installation flows and ChromeOS bundle cache copy metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_installer.h"
 
 #include <memory>

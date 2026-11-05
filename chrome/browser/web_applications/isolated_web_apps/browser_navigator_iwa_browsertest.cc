@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser navigator tests for isolated web apps
+// summary: Browser tests verifying how the browser navigator opens and handles isolated web apps, including protocol handler navigation from installed signed web bundles.
+// ---
+
 #include <memory>
 #include <string>
 

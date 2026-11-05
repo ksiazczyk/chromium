@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Bundle Cache Path Command Header
+// summary: Declares the GetBundleCachePathCommand that returns the cached bundle path and version for an Isolated Web App, with histogram-logged error codes.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_BUNDLE_CACHE_PATH_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_GET_BUNDLE_CACHE_PATH_COMMAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManifestToWebAppInstallInfoJob unit tests
+// summary: Unit tests for ManifestToWebAppInstallInfoJob covering manifest conversion, icon purposes and limits, localization fallbacks, and shortcut entries.
+// ---
+
 #include "chrome/browser/web_applications/jobs/manifest_to_web_app_install_info_job.h"
 
 #include <map>

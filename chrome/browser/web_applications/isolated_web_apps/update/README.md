@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web App Update Pipeline
+summary: Describes the directory's components for discovering, preparing, and atomically applying Isolated Web App updates, including the manager, tasks, waiter, and notification service.
+relations:
+  - documents /chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_task.cc
+  - documents /chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_task.h
+  - documents /chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_waiter.cc
+---
+
 # Isolated Web App Update Pipeline (`chrome/browser/web_applications/isolated_web_apps/update`)
 
 This directory implements automatic and manual update discovery, preparation,

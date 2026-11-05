@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome IWA Client Header
+// summary: Declares ChromeIwaClient, the Chrome-side IwaClient singleton that resolves sources for requests and runs callbacks when apps close.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_CHROME_IWA_CLIENT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_CHROME_IWA_CLIENT_H_
 
