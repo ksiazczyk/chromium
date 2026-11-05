@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal window proxy class declaration
+// summary: Declares CaptivePortalWindowProxy, which controls showing and closing the captive portal sign-in window and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_CAPTIVE_PORTAL_WINDOW_PROXY_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_CAPTIVE_PORTAL_WINDOW_PROXY_H_
 

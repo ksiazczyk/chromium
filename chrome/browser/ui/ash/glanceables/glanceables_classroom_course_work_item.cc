@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom course work item implementation
+// summary: Implements course work item handling, converting due dates and aggregating student submission states for the classroom UI.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_classroom_course_work_item.h"
 
 #include <optional>

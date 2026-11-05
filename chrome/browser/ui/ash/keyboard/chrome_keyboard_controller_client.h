@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keyboard controller client header
+// summary: Declares the ChromeKeyboardControllerClient singleton, its observer interface, and keyboard configuration APIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_CONTROLLER_CLIENT_H_
 

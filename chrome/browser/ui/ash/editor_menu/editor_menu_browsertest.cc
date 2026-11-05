@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor menu browser tests
+// summary: In-process browser tests for the editor menu, covering feature flag states, editor contexts, widget contents, and UI behavior.
+// ---
+
 #include <string_view>
 #include <vector>
 

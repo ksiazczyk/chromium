@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE dialog size utilities implementation
+// summary: Computes the size and centered bounds of the OOBE dialog from display size, shelf height, and orientation using spec-defined limits.
+// ---
+
 #include "chrome/browser/ui/ash/login/oobe_dialog_size_utils.h"
 
 #include "ash/public/cpp/shelf_config.h"

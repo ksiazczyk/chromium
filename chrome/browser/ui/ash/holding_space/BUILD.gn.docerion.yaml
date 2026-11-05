@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Holding space GN build configuration
+summary: Defines the GN build targets for the holding space library and its unit and browser test source sets, along with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraduationManagerImpl class header
+// summary: Declares GraduationManagerImpl, a singleton observing session start and the Graduation enablement policy to manage the Transfer app state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GRADUATION_GRADUATION_MANAGER_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_GRADUATION_GRADUATION_MANAGER_IMPL_H_
 

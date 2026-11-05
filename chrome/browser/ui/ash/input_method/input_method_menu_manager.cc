@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method menu manager implementation
+// summary: Implements the singleton InputMethodMenuManager that stores the input method menu item list and notifies observers when it changes.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/input_method_menu_manager.h"
 
 #include <stddef.h>

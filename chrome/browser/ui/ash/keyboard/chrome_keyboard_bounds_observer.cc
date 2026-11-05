@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keyboard bounds observer implementation
+// summary: Implements insets and occluded bounds updates for windows overlapping the virtual keyboard.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_bounds_observer.h"
 
 #include "ash/constants/ash_features.h"

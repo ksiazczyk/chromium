@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini app interactive UI tests
+// summary: Interactive browser tests verifying the Gemini web app behavior in the ChromeOS app list, shelf and settings, parameterized across session types.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

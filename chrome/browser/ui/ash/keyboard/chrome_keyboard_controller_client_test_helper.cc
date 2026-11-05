@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper for ChromeKeyboardControllerClient
+// summary: Implements the test helper, including a fake ash::KeyboardController, for tests using ChromeKeyboardControllerClient.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_controller_client_test_helper.h"
 
 #include <set>

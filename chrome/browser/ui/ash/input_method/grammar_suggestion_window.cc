@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grammar suggestion window implementation
+// summary: Implements the bubble popup that lets users accept or ignore grammar suggestions and undo autocorrected words, with hover and press highlighting.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/grammar_suggestion_window.h"
 
 #include "chrome/browser/ui/ash/input_method/border_factory.h"

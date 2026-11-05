@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImeControllerClientImpl unit tests
+// summary: Unit tests for the IME controller client using a mock input method manager and a test IME controller to verify IME switching and state updates.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/ime_controller_client_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space browser test base implementation
+// summary: Implements the base class for holding space browser tests, providing helpers to add and remove holding space items and access the test API.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_browsertest_base.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginWebDialog implementation
+// summary: Implements LoginWebDialog, a system-modal web dialog shown during OOBE and login, with sizing rules and a Shift-Back close accelerator.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_web_dialog.h"
 
 #include "base/strings/utf_string_conversions.h"

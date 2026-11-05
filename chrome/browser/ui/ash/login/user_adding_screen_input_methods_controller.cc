@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User adding screen input methods controller
+// summary: Saves and restores input method state while the user adding screen is shown, adjusting the IME UI style for login.
+// ---
+
 #include "chrome/browser/ui/ash/login/user_adding_screen_input_methods_controller.h"
 
 #include "components/user_manager/user_manager.h"

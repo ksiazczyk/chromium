@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Candidate view unit tests
+// summary: Unit tests for CandidateView covering highlighting, mouse hover behavior and accessibility events.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/candidate_view.h"
 
 #include <stddef.h>

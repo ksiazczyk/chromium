@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Candidate window view pixel tests
+// summary: Skia Gold pixel browser test verifying the rendered appearance of the candidate window view.
+// ---
+
 #include <optional>
 
 #include "base/i18n/base_i18n_switches.h"

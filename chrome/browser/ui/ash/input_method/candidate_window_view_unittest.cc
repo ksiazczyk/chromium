@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Candidate window view unit tests
+// summary: Unit tests for CandidateWindowView covering candidate updates, selection and label content.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/candidate_window_view.h"
 
 #include <stddef.h>

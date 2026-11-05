@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the in-session auth library
+summary: Defines the static_library target for the in-session auth sources and a testonly unit_tests source_set, listing their GN dependencies.

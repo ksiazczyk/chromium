@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Ash global media controls
+summary: Delegates review ownership to the global media controls and media router OWNERS files, including Cast-related changes.

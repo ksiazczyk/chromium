@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space utility header
+// summary: Declares holding space utility functions for file path validity checks, partitioning paths by existence or validity, and resolving file system types, URLs, and images.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_HOLDING_SPACE_HOLDING_SPACE_UTIL_H_
 #define CHROME_BROWSER_UI_ASH_HOLDING_SPACE_HOLDING_SPACE_UTIL_H_
 

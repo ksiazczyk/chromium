@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate window layout constants
+// summary: Defines font sizes, label width limits and infolist icon dimensions used by the candidate window views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONSTANTS_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_WINDOW_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodMenuItem struct declaration
+// summary: Declares the InputMethodMenuItem struct holding a key, label, and checked state that describes an input method engine menu property.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_INPUT_METHOD_MENU_ITEM_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_INPUT_METHOD_MENU_ITEM_H_
 

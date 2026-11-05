@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu chip view implementation
+// summary: Implements EditorMenuChipView, a rounded Material text button with an icon representing a preset text query chip in the editor menu.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_chip_view.h"
 
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_strings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space persistence delegate implementation
+// summary: Implements persistence of holding space items in profile preferences, including model restoration and incremental updates.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_persistence_delegate.h"
 
 #include <algorithm>

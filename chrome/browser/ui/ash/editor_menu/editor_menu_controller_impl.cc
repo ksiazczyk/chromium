@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu controller implementation
+// summary: Implements the ReadWriteCardController for the editor menu, managing card sessions, lobster integration, and the menu widget lifecycle.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_controller_impl.h"
 
 #include <memory>

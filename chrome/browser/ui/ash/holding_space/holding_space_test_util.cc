@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space test utilities implementation
+// summary: Implements test helpers for holding space tests, such as simulating input, selecting menu items, and waiting for item removal.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_test_util.h"
 
 #include <algorithm>

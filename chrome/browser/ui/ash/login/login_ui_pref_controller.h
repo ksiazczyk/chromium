@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginUIPrefController class declaration
+// summary: Declares LoginUIPrefController, which applies owner and device policy preferences to the login screen UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_UI_PREF_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_UI_PREF_CONTROLLER_H_
 

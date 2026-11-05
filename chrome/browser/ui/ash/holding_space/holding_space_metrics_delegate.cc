@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space metrics delegate implementation
+// summary: Implements the holding space delegate that records total item count metrics with debounced scheduling.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_metrics_delegate.h"
 
 #include <vector>

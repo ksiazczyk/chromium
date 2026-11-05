@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock assistive delegate implementation
+// summary: Implements a mock AssistiveDelegate that records the last clicked assistive window type for use in tests.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/mock_assistive_delegate.h"
 
 #include "chrome/browser/ui/ash/input_method/assistive_delegate.h"

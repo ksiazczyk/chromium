@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Ash login UI directory
+summary: Delegates ownership to the Ash login owners and assigns special owners for kiosk app and login display host files.

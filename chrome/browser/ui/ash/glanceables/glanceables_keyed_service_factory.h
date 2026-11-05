@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesKeyedServiceFactory header
+// summary: Declares the GlanceablesKeyedServiceFactory, a profile keyed service factory that creates GlanceablesKeyedService instances for regular profiles only.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GLANCEABLES_GLANCEABLES_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_GLANCEABLES_GLANCEABLES_KEYED_SERVICE_FACTORY_H_
 

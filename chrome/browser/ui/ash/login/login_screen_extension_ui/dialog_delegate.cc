@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogDelegate implementation
+// summary: Implements the web dialog delegate providing title, content URL, screen-relative size and close behavior for the login screen extension dialog.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/dialog_delegate.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

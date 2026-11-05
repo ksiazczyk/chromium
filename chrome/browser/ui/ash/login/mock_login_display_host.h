@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockLoginDisplayHost mock class declaration
+// summary: Declares a gmock implementation of LoginDisplayHost used to fake login display host behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_MOCK_LOGIN_DISPLAY_HOST_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_MOCK_LOGIN_DISPLAY_HOST_H_
 

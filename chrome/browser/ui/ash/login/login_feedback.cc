@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginFeedback implementation
+// summary: Implements LoginFeedback, which opens the OS feedback dialog with a login-screen feedback flow for a given profile.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_feedback.h"
 
 #include <utility>

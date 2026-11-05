@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorManagerAsh class declaration
+// summary: Declares the Ash implementation of EditorManager that wraps EditorPanelManagerImpl and manages observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_ASH_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_ASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginWebDialog browser tests
+// summary: Browser tests checking that the login web dialog cannot be minimized, closes via Shift+BrowserBack, and handles a missing parent window.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_web_dialog.h"
 
 #include "chrome/browser/profiles/profile.h"

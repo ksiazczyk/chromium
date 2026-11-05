@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedSuggestionCandidateButton class declaration
+// summary: Declares IndexedSuggestionCandidateButton, a views button showing a candidate text label above its index label with a highlight method.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_INDEXED_SUGGESTION_CANDIDATE_BUTTON_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_INDEXED_SUGGESTION_CANDIDATE_BUTTON_H_
 

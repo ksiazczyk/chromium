@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster manager implementation
+// summary: Implements LobsterManager, which starts the Lobster flow by firing the injected LobsterController trigger with the given freeform text.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/lobster_manager.h"
 
 #include "ash/lobster/lobster_controller.h"

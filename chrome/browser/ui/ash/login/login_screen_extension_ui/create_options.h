@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateOptions struct declaration
+// summary: Declares the options struct used to configure a login screen extension UI dialog, including extension name, content URL and close callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_CREATE_OPTIONS_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_CREATE_OPTIONS_H_
 

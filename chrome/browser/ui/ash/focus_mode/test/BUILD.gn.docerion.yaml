@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Focus mode test support BUILD.gn
+summary: Defines the testonly static_library test_support for focus mode, listing the test certificate sources and the test data directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extension UI window class declaration
+// summary: Declares the Window class and WindowFactory for windows created by the chrome.loginScreenUi API, managing the widget, view and delegate with an optional user-visible close button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_WINDOW_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_WINDOW_H_
 

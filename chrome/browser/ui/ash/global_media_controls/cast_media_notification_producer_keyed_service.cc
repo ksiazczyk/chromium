@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media notification producer keyed service implementation
+// summary: Implements the keyed service that attaches and removes Cast media notification producers on media item managers and cleans up on shutdown.
+// ---
+
 #include "chrome/browser/ui/ash/global_media_controls/cast_media_notification_producer_keyed_service.h"
 
 #include "ash/shell.h"

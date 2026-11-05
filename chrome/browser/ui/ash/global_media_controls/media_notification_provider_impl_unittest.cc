@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MediaNotificationProviderImpl
+// summary: Unit tests covering media notification list views, device selection, cast notification items, and provider observer behavior for the Ash global media controls provider.
+// ---
+
 #include "chrome/browser/ui/ash/global_media_controls/media_notification_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME color helpers
+// summary: Provides helpers that resolve ChromeOS semantic colors according to the current dark or light mode state.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/colors.h"
 
 #include "ash/style/dark_light_mode_controller_impl.h"

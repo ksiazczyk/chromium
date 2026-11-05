@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeGameDashboardDelegate header
+// summary: Declares the ChromeGameDashboardDelegate class that implements the ash game dashboard delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GAME_DASHBOARD_CHROME_GAME_DASHBOARD_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_GAME_DASHBOARD_CHROME_GAME_DASHBOARD_DELEGATE_H_
 

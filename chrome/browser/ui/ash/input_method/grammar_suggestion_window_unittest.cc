@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grammar suggestion window unit tests
+// summary: Unit tests verifying that the suggestion and ignore buttons are highlighted and unhighlighted correctly, one at a time.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/grammar_suggestion_window.h"
 
 #include "base/memory/raw_ptr.h"

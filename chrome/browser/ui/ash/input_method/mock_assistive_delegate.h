@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock assistive delegate header
+// summary: Declares a mock AssistiveDelegate for tests that tracks the last assistive window button click.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/assistive_delegate.h"
 
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_MOCK_ASSISTIVE_DELEGATE_H_

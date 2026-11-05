@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables Classroom client unit tests
+// summary: Unit tests for the classroom client covering fetching, pagination, HTTP errors and submission aggregation via an embedded test server.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_classroom_client_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeKeyboardUI unit tests
+// summary: Verifies that ChromeKeyboardUI successfully loads a keyboard window with a valid aura::Window.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_ui.h"
 
 #include <memory>

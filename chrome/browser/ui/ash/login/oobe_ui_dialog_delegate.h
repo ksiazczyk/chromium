@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE UI dialog delegate header
+// summary: Declares OobeUIDialogDelegate, which controls the OOBE UI dialog widget's visibility, state, and modal dialog hosting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_OOBE_UI_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_OOBE_UI_DIALOG_DELEGATE_H_
 

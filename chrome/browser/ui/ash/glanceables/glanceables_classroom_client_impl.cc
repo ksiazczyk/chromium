@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom client implementation
+// summary: Implements GlanceablesClassroomClient by fetching courses, course work and student submissions from the Google Classroom API.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_classroom_client_impl.h"
 
 #include <algorithm>

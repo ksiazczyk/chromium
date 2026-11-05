@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistiveDelegate interface for assistive window callbacks
+// summary: Declares the AssistiveDelegate interface and AssistiveWindowButton types used to report assistive window button clicks and state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_ASSISTIVE_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_ASSISTIVE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraduationManagerImpl implementation
+// summary: Implements the per-session manager that updates the Transfer system web app's pinned and readiness state from the Graduation policy, prefs and a midnight timer.
+// ---
+
 #include "chrome/browser/ui/ash/graduation/graduation_manager_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

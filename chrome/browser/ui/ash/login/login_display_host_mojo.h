@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHostMojo class declaration
+// summary: Declares the login display host that drives the views-based sign-in screen in Ash, including user selection and Gaia dialog handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_MOJO_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_MOJO_H_
 

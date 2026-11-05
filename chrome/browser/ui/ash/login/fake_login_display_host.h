@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake login display host class declaration
+// summary: Declares FakeLoginDisplayHost, a no-op LoginDisplayHost for tests that can host a wizard controller, OobeUI, and metrics helper.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_FAKE_LOGIN_DISPLAY_HOST_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_FAKE_LOGIN_DISPLAY_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-session auth dialog client
+// summary: Unit tests for InSessionAuthDialogClient that use fake user manager, cryptohome and userdataauth clients to exercise password and PIN authentication.
+// ---
+
 #include "chrome/browser/ui/ash/in_session_auth/in_session_auth_dialog_client.h"
 
 #include "ash/constants/ash_features.h"

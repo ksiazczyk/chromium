@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Completion suggestion view implementation
+// summary: Implements the suggestion button view, including annotation labels for enter, tab, and down keys, highlighting, and anchoring logic.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/completion_suggestion_view.h"
 
 #include <string_view>

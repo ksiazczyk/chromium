@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google One offer IPH tab helper implementation
+// summary: Implements the tab helper that shows a Google One offer notification when users visit Google Drive or Photos, handling Get Perk clicks and dismiss events.
+// ---
+
 #include "chrome/browser/ui/ash/google_one/google_one_offer_iph_tab_helper.h"
 
 #include <memory>

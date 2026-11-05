@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space keyed service browser tests
+// summary: Browser tests for the holding space keyed service, parameterized over downloads and DriveFS file systems, covering item behavior across file system changes.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_keyed_service.h"
 
 #include <algorithm>

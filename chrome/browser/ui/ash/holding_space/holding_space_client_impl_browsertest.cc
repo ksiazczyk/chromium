@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space client browser tests
+// summary: Contains browser tests verifying HoldingSpaceClientImpl behaviors such as adding, opening, and pinning holding space items.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_client_impl.h"
 
 #include <string>

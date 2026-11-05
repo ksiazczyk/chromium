@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the captive portal window
+// summary: Browser tests covering showing, redirection handling, state transitions, and closing of the captive portal window on the login screen.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_switches.h"

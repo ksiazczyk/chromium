@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion window view unit tests
+// summary: Parameterized unit tests for the suggestion window view in horizontal and vertical orientations, covering candidates, highlighting, and buttons.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/suggestion_window_view.h"
 
 #include <algorithm>

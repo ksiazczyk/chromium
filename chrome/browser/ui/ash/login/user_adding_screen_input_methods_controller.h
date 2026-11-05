@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserAddingScreenInputMethodsController header
+// summary: Declares a UserAddingScreen observer that applies login keyboard layouts while the user adding screen is shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_USER_ADDING_SCREEN_INPUT_METHODS_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_USER_ADDING_SCREEN_INPUT_METHODS_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor menu view unit tests
+// summary: Unit tests for the editor menu view that use a mock delegate to verify chip creation and layout, textfield interactions and widget behavior.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_view.h"
 
 #include <string_view>

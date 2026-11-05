@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for Cast start via global media controls
+// summary: In-process browser test exercising Cast start flows through the Ash global media controls UI with a mocked media router.
+// ---
+
 #include "ash/root_window_controller.h"
 #include "ash/shelf/shelf.h"
 #include "ash/shell.h"

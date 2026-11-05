@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble border factory for assistive windows
+// summary: Creates styled bubble borders with standard shadow and rounded corners for undo and suggestion assistive windows.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/border_factory.h"
 
 #include "ui/gfx/geometry/rounded_corners_f.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu view delegate interface
+// summary: Defines the delegate interface for editor menu view events such as settings and chip presses, tab selection, textfield submission and visibility changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_VIEW_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_VIEW_DELEGATE_H_
 

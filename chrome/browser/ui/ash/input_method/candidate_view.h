@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate view class header
+// summary: Declares CandidateView, a button that renders a single candidate row with shortcut, candidate and annotation labels.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_VIEW_H_
 

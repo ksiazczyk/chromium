@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignatureBuilder class declaration for YMC request signing
+// summary: Declares the SignatureBuilder class, which builds signature bases and signed HTTP headers for YouTube MediaConnect device attestation requests using a certificate manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_FOCUS_MODE_SIGNATURE_BUILDER_H_
 #define CHROME_BROWSER_UI_ASH_FOCUS_MODE_SIGNATURE_BUILDER_H_
 

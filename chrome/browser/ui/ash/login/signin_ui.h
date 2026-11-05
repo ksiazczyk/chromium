@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Sign-in UI interface
+// summary: Defines the SigninUI interface that connects sign-in logic with its UI, covering onboarding, encryption migration, and error display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_SIGNIN_UI_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_SIGNIN_UI_H_
 

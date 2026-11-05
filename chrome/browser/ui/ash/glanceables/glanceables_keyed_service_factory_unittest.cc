@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceablesKeyedServiceFactory unit tests
+// summary: Unit tests verifying that the GlanceablesKeyedServiceFactory provides no service for guest and off-the-record profiles.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_keyed_service_factory.h"
 
 #include <memory>

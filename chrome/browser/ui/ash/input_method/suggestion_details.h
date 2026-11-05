@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion details struct
+// summary: Defines the SuggestionDetails struct holding suggestion text, confirmed length, and annotation display flags.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_SUGGESTION_DETAILS_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_SUGGESTION_DETAILS_H_
 

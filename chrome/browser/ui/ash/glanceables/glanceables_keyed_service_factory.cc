@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesKeyedServiceFactory implementation
+// summary: Implements the GlanceablesKeyedServiceFactory, which builds the service for regular profiles and records the time management glanceables feature status histogram.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_keyed_service_factory.h"
 
 #include <memory>

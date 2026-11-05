@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Focus mode BUILD.gn build definition
+summary: Defines the focus_mode static library plus unit test and browser test source sets with their sources and dependencies.

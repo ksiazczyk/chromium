@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost card controller class declaration
+// summary: Declares the controller managing the lifetime of Magic Boost opt-in cards, including show and close methods for opt-in and disclaimer widgets.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MAGIC_BOOST_MAGIC_BOOST_CARD_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_MAGIC_BOOST_MAGIC_BOOST_CARD_CONTROLLER_H_
 

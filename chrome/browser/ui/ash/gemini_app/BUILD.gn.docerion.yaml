@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gemini app interactive UI tests build file
+summary: Defines the interactive_ui_tests source set for branded ChromeOS builds, listing the Gemini app UI test sources and their build dependencies.

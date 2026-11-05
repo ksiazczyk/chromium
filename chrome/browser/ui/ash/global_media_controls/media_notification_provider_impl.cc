@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationProviderImpl implementation for Ash global media controls
+// summary: Implements the Ash media notification provider, wiring the media session service and global media controls item manager into the ChromeOS status area media tray.
+// ---
+
 #include "chrome/browser/ui/ash/global_media_controls/media_notification_provider_impl.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost opt-in card metrics implementation
+// summary: Records histograms for user actions on the opt-in card, split by the triggering opt-in feature and also logged as totals.
+// ---
+
 #include "chrome/browser/ui/ash/magic_boost/magic_boost_metrics.h"
 
 #include <string>

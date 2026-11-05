@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate window view implementation
+// summary: Implements the candidate window bubble, including border placement, page index computation and candidate updates.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/candidate_window_view.h"
 
 #include <stddef.h>

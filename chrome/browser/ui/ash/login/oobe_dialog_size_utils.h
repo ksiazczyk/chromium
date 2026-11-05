@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE dialog size utilities declaration
+// summary: Declares constants and helper functions for calculating and positioning the OOBE dialog on a host display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_OOBE_DIALOG_SIZE_UTILS_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_OOBE_DIALOG_SIZE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost opt-in card view implementation
+// summary: Implements the Magic Boost opt-in card view, building its layout, labels, buttons and host widget for the ChromeOS feature.
+// ---
+
 #include "chrome/browser/ui/ash/magic_boost/magic_boost_opt_in_card.h"
 
 #include <string>

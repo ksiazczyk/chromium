@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor menu utils unit tests
+// summary: Unit tests for the ChromeOS editor menu utils, verifying editor menu bounds placement relative to the cursor and context menu across screen scenarios.
+// ---
+
 #include "utils.h"
 
 #include "base/i18n/language_tag.h"

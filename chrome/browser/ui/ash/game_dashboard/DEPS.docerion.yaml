@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Game Dashboard DEPS include rules
+summary: Sets include rules for the directory, allowing its own headers and listing the permitted //chrome dependencies.

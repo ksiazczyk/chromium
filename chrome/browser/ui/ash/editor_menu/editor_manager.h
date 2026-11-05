@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorManager interface
+// summary: Declares the EditorManager interface with an observer for editor mode changes and methods for editing flows, promo cards, context and logging.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_H_
 

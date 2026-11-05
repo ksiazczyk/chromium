@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-target handler implementation
+// summary: Implements event interception that dispatches mouse and key events to companion views such as Quick Answers, Editor Menu, and Mahi menus.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/utils/pre_target_handler.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardUI header
+// summary: Declares ChromeKeyboardUI, a KeyboardUI subclass that exposes the virtual keyboard window and input method to Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_UI_H_
 #define CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_UI_H_
 

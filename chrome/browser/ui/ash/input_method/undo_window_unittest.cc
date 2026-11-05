@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Undo window unit tests
+// summary: Unit tests verifying the undo window's undo button highlight and unhighlight behavior with a mock assistive delegate.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/undo_window.h"
 
 #include "base/memory/raw_ptr.h"

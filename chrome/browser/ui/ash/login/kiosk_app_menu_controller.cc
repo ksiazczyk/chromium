@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app menu controller implementation
+// summary: Builds kiosk app menu entries for the login screen and keeps the Ash kiosk menu in sync with the various kiosk app managers.
+// ---
+
 #include "chrome/browser/ui/ash/login/kiosk_app_menu_controller.h"
 
 #include <string>

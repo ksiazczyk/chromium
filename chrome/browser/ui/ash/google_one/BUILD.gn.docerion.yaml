@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Google One offer IPH
+summary: Defines the google_one static library and browser_tests source_set with their sources and dependencies for the ChromeOS Google One offer IPH feature.

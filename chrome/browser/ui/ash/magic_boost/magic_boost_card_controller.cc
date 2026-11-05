@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost card controller implementation
+// summary: Implements the controller that shows, updates, and dismisses Magic Boost opt-in and disclaimer widgets in response to text selection and PDF context menu events.
+// ---
+
 #include "chrome/browser/ui/ash/magic_boost/magic_boost_card_controller.h"
 
 #include "base/check_deref.h"

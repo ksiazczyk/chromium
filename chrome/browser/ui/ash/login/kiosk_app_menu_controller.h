@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppMenuController class declaration
+// summary: Declares an observer that updates the login screen kiosk app menu when kiosk app data changes and dispatches apps to Ash.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_KIOSK_APP_MENU_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_KIOSK_APP_MENU_CONTROLLER_H_
 

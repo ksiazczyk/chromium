@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardUIFactory implementation
+// summary: Creates a ChromeKeyboardUI instance bound to the active user profile for the keyboard controller.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_ui_factory.h"
 
 #include "chrome/browser/profiles/profile_manager.h"

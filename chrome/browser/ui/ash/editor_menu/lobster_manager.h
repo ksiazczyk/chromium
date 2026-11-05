@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster manager header
+// summary: Declares LobsterManager, a small wrapper that starts the Lobster flow through an owned LobsterController trigger.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_LOBSTER_MANAGER_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_LOBSTER_MANAGER_H_
 

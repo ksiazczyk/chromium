@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Holding space DEPS include rules
+summary: Specifies allowed and forbidden include rules for the holding space directory, restricting ChromeOS dependencies on //chrome.

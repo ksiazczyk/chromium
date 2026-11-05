@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Border factory for IME assistive windows
+// summary: Declares GetBorderForWindow, which creates bubble borders for undo and suggestion windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_BORDER_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_BORDER_FACTORY_H_
 

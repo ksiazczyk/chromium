@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialogDelegate unit tests
+// summary: Unit tests verifying modal type, dialog title, content URL, resize and close behavior of the login screen extension dialog delegate.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/dialog_delegate.h"
 
 #include <memory>

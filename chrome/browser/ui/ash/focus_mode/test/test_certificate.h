@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-1 test certificate reader header
+// summary: Declares ReadSha1TestCertificate, which returns a DER encoded X.509 certificate self-signed with SHA-1 and expiring in 2124.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_FOCUS_MODE_TEST_TEST_CERTIFICATE_H_
 #define CHROME_BROWSER_UI_ASH_FOCUS_MODE_TEST_TEST_CERTIFICATE_H_
 

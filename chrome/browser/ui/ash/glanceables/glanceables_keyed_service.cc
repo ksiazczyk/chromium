@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables keyed service implementation
+// summary: Implements the per-profile glanceables service that creates classroom and tasks clients and registers them with the controller.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_keyed_service.h"
 
 #include <algorithm>

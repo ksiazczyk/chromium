@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space client implementation
+// summary: Implements the browser-side holding space client, handling opening, pinning, copying images to clipboard, and managing suggestions.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_client_impl.h"
 
 #include <algorithm>

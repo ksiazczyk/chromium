@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test mount point header
+// summary: Declares a scoped test mount point helper that registers temporary external file system mount points, grants file manager access, and creates test files.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_HOLDING_SPACE_SCOPED_TEST_MOUNT_POINT_H_
 #define CHROME_BROWSER_UI_ASH_HOLDING_SPACE_SCOPED_TEST_MOUNT_POINT_H_
 

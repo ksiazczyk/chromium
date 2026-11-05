@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User adding screen browser tests
+// summary: Browser tests verifying start, cancel, and completion behavior of the user adding screen in multi-sign-in sessions.
+// ---
+
 #include "chrome/browser/ui/ash/login/user_adding_screen.h"
 
 #include <memory>

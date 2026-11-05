@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate view implementation
+// summary: Implements CandidateView, the button rendering one candidate row with shortcut, candidate and annotation labels.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/candidate_view.h"
 
 #include "base/strings/utf_string_conversions.h"

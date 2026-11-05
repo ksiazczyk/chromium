@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfolistWindow class declaration
+// summary: Declares InfolistWindow, a bubble dialog widget that displays infolist entries with delayed and immediate show and hide methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_INFOLIST_WINDOW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_INFOLIST_WINDOW_H_
 

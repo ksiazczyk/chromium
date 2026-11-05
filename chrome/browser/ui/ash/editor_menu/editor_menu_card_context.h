@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu card context header
+// summary: Declares EditorMenuCardContext, a builder-style struct holding editor mode, lobster mode, and selection state for the editor menu card.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_CARD_CONTEXT_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_CARD_CONTEXT_H_
 

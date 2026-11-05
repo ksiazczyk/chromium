@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHostWebUI header for WebUI-based OOBE and login screens
+// summary: Declares the WebUI implementation of the login display host that runs OOBE wizard screens such as welcome, network, EULA and update, plus the legacy account picker, loading the OOBE interface hidden until it signals readiness.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_WEBUI_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_WEBUI_H_
 

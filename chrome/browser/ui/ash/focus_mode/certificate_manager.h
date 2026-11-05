@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager interface
+// summary: Declares the CertificateManager API for obtaining attestation certificates and using them to sign data, with a Key identifier type.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_FOCUS_MODE_CERTIFICATE_MANAGER_H_
 #define CHROME_BROWSER_UI_ASH_FOCUS_MODE_CERTIFICATE_MANAGER_H_
 

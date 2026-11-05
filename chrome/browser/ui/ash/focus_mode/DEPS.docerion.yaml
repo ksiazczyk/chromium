@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Focus mode include dependency rules
+summary: Sets DEPS include rules for this directory, allowing its own headers, listed Chrome dependencies, and test-only includes.

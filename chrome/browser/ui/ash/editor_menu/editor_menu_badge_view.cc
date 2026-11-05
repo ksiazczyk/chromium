@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu badge view implementation
+// summary: Implements EditorMenuBadgeView, a label badge marking the editor menu as experimental, with theme-aware rounded background colors.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_badge_view.h"
 
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_strings.h"

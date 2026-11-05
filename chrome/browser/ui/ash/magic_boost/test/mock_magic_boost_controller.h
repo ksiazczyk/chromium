@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Magic Boost controller header
+// summary: Defines a GoogleMock subclass of ash::MagicBoostController mocking ShowDisclaimerUi and CloseDisclaimerUi for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MAGIC_BOOST_TEST_MOCK_MAGIC_BOOST_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_MAGIC_BOOST_TEST_MOCK_MAGIC_BOOST_CONTROLLER_H_
 

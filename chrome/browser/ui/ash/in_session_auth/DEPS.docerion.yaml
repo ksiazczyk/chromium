@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the in-session auth directory
+summary: Sets DEPS include rules that block //chrome dependencies for ChromeOS code, allow this directory and specific //chrome includes, and grant extra includes to tests.

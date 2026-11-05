@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keyboard bounds observer header
+// summary: Declares the observer class that updates window insets when virtual keyboard bounds change.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_BOUNDS_OBSERVER_H_
 #define CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_BOUNDS_OBSERVER_H_
 

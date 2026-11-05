@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHostMojo implementation
+// summary: Implements the login display host for the views-based Ash sign-in screen, wiring auth, kiosk launch, Gaia dialog and OOBE screen flows.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_display_host_mojo.h"
 
 #include <optional>

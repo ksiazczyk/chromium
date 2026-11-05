@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Holding space DIR_METADATA
+summary: Points the holding space directory to the shared holding space common metadata mixins.

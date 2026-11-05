@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI login view class declaration
+// summary: Declares WebUILoginView, the views widget rendering the WebUI login screen with dialog hosting, session observation, and URL loading APIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_WEBUI_LOGIN_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_WEBUI_LOGIN_VIEW_H_
 

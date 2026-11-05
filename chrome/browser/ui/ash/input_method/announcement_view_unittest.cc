@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AnnouncementView accessibility announcements
+// summary: Verifies that AnnouncementView fires live region events and sets the correct accessibility role and polite live status attributes.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/announcement_view.h"
 
 #include "base/memory/raw_ptr.h"
