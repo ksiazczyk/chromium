@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseRenderer implementation compiling GL shader programs
+// summary: Implements BaseRenderer by compiling vertex and fragment shaders, linking the GL program, and resolving position and clip rect handles.
+// ---
+
 #include "chrome/browser/vr/renderers/base_renderer.h"
 
 #include <ostream>

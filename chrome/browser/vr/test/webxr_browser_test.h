@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR browser test base class
+// summary: Declares the base browser test class for WebXR and WebVR tests with virtual session entry, exit, and wait helpers.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_WEBXR_BROWSER_TEST_H_
 #define CHROME_BROWSER_VR_TEST_WEBXR_BROWSER_TEST_H_
 

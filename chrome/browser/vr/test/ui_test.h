@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR UI test base class header
+// summary: Declares the UiTest base class providing visibility checks and time-advancing helpers for VR UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_UI_TEST_H_
 #define CHROME_BROWSER_VR_TEST_UI_TEST_H_
 

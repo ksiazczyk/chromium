@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linear layout unit tests
+// summary: Unit tests verifying horizontal and vertical linear layout positioning, margins, and child alignment in the VR UI scene.
+// ---
+
 #include "chrome/browser/vr/elements/linear_layout.h"
 
 #include <memory>

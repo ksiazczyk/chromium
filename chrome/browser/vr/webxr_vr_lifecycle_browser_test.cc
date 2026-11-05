@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR lifecycle browser tests
+// summary: Browser tests checking that XR session state on the RenderProcessHost is updated and cleaned up during session start, stop, and tab closure.
+// ---
+
 #include "base/test/run_until.h"
 #include "build/build_config.h"
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"

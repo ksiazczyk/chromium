@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR export macro
+// summary: Defines the VR_EXPORT macro controlling symbol visibility for the VR component across platforms.
+// ---
+
 #ifndef CHROME_BROWSER_VR_VR_EXPORT_H_
 #define CHROME_BROWSER_VR_VR_EXPORT_H_
 

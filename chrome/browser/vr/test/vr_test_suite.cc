@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR test suite implementation
+// summary: Implements the VR test suite, setting up the browser task environment, Mojo, and the vr_test.pak resource bundle.
+// ---
+
 #include "chrome/browser/vr/test/vr_test_suite.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VR databinding bindings
+// summary: Tests one-way boolean bindings and historic bindings, verifying that updates push model values to views only when the model value changes.
+// ---
+
 #include "chrome/browser/vr/databinding/binding.h"
 
 #include "base/functional/callback.h"

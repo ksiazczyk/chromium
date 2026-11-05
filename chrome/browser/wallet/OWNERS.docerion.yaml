@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wallet OWNERS reference
+summary: Points to components/wallet/OWNERS as the owner list for this directory.

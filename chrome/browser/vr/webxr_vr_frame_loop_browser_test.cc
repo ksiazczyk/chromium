@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR frame loop browser test
+// summary: Browser tests checking that the WebXR frame loop is not stalled and that a late base layer set submits no frames until the loop restarts.
+// ---
+
 #include <memory>
 
 #include "base/environment.h"

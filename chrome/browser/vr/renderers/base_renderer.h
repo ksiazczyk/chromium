@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseRenderer base class header for VR GL renderers
+// summary: Declares the BaseRenderer base class holding the GL program, position, and clip rect handles shared by VR UI renderers.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDERERS_BASE_RENDERER_H_
 #define CHROME_BROWSER_VR_RENDERERS_BASE_RENDERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rect unit tests
+// summary: Unit tests verifying that Rect sets its edge and center colors correctly and animates them through the scene's transition system.
+// ---
+
 #include "chrome/browser/vr/elements/rect.h"
 
 #include <memory>

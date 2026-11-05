@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI scene creator implementation
+// summary: Builds the VR UI scene hierarchy, creating elements and binding model state to views for the Chrome VR browser UI.
+// ---
+
 #include "chrome/browser/vr/ui_scene_creator.h"
 
 #include <memory>

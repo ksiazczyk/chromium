@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XR browser test base class
+// summary: Declares the base browser test class for XR tests, defining poll timeouts, runtime types, and JavaScript convenience methods.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_XR_BROWSER_TEST_H_
 #define CHROME_BROWSER_VR_TEST_XR_BROWSER_TEST_H_
 

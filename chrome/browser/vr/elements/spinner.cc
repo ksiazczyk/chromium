@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spinner UI element implementation
+// summary: Implements the Spinner VR UI element, drawing an animated loading arc driven by keyframed rotation, sweep, and start-angle animations.
+// ---
+
 #include "chrome/browser/vr/elements/spinner.h"
 
 #include "cc/paint/skia_paint_canvas.h"

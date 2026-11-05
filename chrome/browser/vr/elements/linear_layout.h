@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear layout element declaration
+// summary: Declares a UiElement subclass that arranges layout-enabled children in a line with configurable direction and margin.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_LINEAR_LAYOUT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_LINEAR_LAYOUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR browser test base implementation
+// summary: Implements WebXrBrowserTestBase helpers for checking XR device presence and entering or ending WebXR sessions.
+// ---
+
 #include "chrome/browser/vr/test/webxr_browser_test.h"
 #include "content/public/browser/web_contents.h"
 

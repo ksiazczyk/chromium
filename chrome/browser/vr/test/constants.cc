@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR test constants implementation
+// summary: Provides the projection matrix used on a Pixel phone with the Daydream headset for VR test expectations.
+// ---
+
 #include "chrome/browser/vr/test/constants.h"
 
 namespace vr {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadialGradientQuadRenderer implementation for gradient quads
+// summary: Implements RadialGradientQuadRenderer with shaders that draw radial gradient quads supporting corner radii, clipping, and opacity.
+// ---
+
 #include "chrome/browser/vr/renderers/radial_gradient_quad_renderer.h"
 
 #include "chrome/browser/vr/elements/corner_radii.h"

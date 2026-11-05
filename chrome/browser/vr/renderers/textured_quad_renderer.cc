@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TexturedQuadRenderer implementation for textured rounded quads
+// summary: Implements TexturedQuadRenderer with rounded-rect triangle tessellation and shaders for drawing textured, clipped, blended quads in VR.
+// ---
+
 #include "chrome/browser/vr/renderers/textured_quad_renderer.h"
 
 #include "device/vr/vr_gl_util.h"

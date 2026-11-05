@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI renderer implementation
+// summary: Implements per-eye rendering of UI scene elements, ordered by draw phase, including the WebVR overlay foreground pass.
+// ---
+
 #include "chrome/browser/vr/ui_renderer.h"
 
 #include "base/trace_event/trace_event.h"

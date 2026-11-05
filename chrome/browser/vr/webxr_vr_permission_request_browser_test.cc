@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR permission request browser test
+// summary: Browser test verifying that in-session permission requests show a notification and that closing the browser while it is visible causes no issues.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"
 #include "chrome/browser/vr/test/mock_xr_device_hook_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for VR databinding bindings
+// summary: Declares the BindingBase interface with virtual Update and ToString methods that binding subclasses implement to tie models to views.
+// ---
+
 #ifndef CHROME_BROWSER_VR_DATABINDING_BINDING_BASE_H_
 #define CHROME_BROWSER_VR_DATABINDING_BINDING_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boarding pass JNI bridge
+// summary: Native JNI bridge exposing boarding pass detection to Java and adapting result callbacks between Java and the C++ detector.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"

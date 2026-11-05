@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR browser test implementation
+// summary: Implements VR-specific WebXR test bases, including immersive session handling, permission prompt mocking, and runtimeless variants.
+// ---
+
 #include "chrome/browser/vr/test/webxr_vr_browser_test.h"
 
 #include <cstring>

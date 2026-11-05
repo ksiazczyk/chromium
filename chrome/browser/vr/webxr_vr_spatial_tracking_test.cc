@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR spatial tracking browser tests
+// summary: Browser tests verifying that WebXR still offers an inline identity reference space with no runtimes available and that reference spaces are rejected on sensorless devices.
+// ---
+
 #include "base/cfi_buildflags.h"
 #include "build/build_config.h"
 #include "chrome/browser/vr/test/webxr_vr_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR UI host implementation
+// summary: Implements VrUiHost on the browser main thread, managing capture state indicators, permission prompts, and the VR browser renderer thread for WebXR sessions.
+// ---
+
 #include "chrome/browser/vr/ui_host/vr_ui_host_impl.h"
 
 #include <algorithm>

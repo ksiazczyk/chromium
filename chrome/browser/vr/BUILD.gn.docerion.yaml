@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for chrome/browser/vr
+summary: Defines GN build targets, source sets, and test targets for the VR browser code, including the vr_ui component and WebXR browser tests.

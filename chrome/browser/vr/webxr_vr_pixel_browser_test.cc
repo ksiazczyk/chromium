@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR VR pixel browser test
+// summary: Pixel test for WebXR that enters presentation, submits frames, and validates a rendered pixel has the expected color.
+// ---
+
 #include <atomic>
 #include <memory>
 

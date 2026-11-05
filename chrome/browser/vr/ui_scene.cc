@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI scene implementation
+// summary: Implements the UI scene graph with element add/remove, per-frame binding updates, visibility queries, and element lookup.
+// ---
+
 #include "chrome/browser/vr/ui_scene.h"
 
 #include <string>

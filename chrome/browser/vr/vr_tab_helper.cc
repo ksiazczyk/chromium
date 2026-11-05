@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR tab helper implementation
+// summary: Implements VrTabHelper, which tracks whether a tab is in VR or displayed in a headset and updates web preferences and tab state accordingly.
+// ---
+
 #include "chrome/browser/vr/vr_tab_helper.h"
 
 #include "build/build_config.h"

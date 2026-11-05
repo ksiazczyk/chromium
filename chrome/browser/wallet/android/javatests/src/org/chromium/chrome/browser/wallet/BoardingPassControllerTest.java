@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BoardingPassControllerTest
+// summary: Robolectric unit tests verifying that BoardingPassController detects boarding passes only on allowed URLs and manages its Tab observer lifecycle.
+// ---
+
 package org.chromium.chrome.browser.wallet;
 
 import static org.junit.Assert.assertFalse;

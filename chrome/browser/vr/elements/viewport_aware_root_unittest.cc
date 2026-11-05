@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewportAwareRoot unit tests
+// summary: Unit tests verifying that ViewportAwareRoot adjusts rotation and translation for head pose changes, repositioning elements once the rotation threshold is exceeded.
+// ---
+
 #include "chrome/browser/vr/elements/viewport_aware_root.h"
 
 #include <cmath>

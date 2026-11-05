@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR GL test suite implementation
+// summary: Implements VrGlTestSuite, initializing and cleaning up GL display support and optionally the GPU command buffer for VR tests.
+// ---
+
 #include "chrome/browser/vr/test/vr_gl_test_suite.h"
 
 #include "ui/gl/gl_display.h"

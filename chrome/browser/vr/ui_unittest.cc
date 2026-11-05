@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI unit tests
+// summary: Tests for the VR UI covering capturing toasts, WebXR mode visibility, and permission indicator updates.
+// ---
+
 #include "chrome/browser/vr/ui_scene_creator.h"
 
 #include "base/numerics/ranges.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome XR integration client header
+// summary: Declares ChromeXrIntegrationClient, which provides XR install helpers, additional providers, runtime observers and VR UI hosts to the content browser client.
+// ---
+
 #ifndef CHROME_BROWSER_VR_CHROME_XR_INTEGRATION_CLIENT_H_
 #define CHROME_BROWSER_VR_CHROME_XR_INTEGRATION_CLIENT_H_
 

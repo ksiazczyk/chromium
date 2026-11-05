@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text rendering performance tests
+// summary: Measures VR text element render times with a lap timer for lorem ipsum strings of 100 and 700 characters and reports average render time metrics.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/timer/lap_timer.h"
 #include "chrome/browser/vr/elements/text.h"

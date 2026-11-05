@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pose utility header
+// summary: Declares GetForwardVector, which returns the head's forward look direction as a unit vector for a given head pose transform.
+// ---
+
 #ifndef CHROME_BROWSER_VR_POSE_UTIL_H_
 #define CHROME_BROWSER_VR_POSE_UTIL_H_
 

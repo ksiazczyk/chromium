@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewportAwareRoot class header
+// summary: Declares the ViewportAwareRoot UI element, the root of viewport-aware VR elements that adjusts yaw rotation and translation so children stay visible in the current viewport.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_VIEWPORT_AWARE_ROOT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_VIEWPORT_AWARE_ROOT_H_
 

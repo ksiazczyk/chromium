@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiElement base class declaration
+// summary: Declares the UiElement base class for VR scene elements with layout, animation, visibility, clipping, and rendering interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_H_
 #define CHROME_BROWSER_VR_ELEMENTS_UI_ELEMENT_H_
 

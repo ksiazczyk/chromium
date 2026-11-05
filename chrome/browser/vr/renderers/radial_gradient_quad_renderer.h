@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadialGradientQuadRenderer class header for gradient quads
+// summary: Declares the RadialGradientQuadRenderer class extending BaseRenderer with a Draw method for gradient colors, clip rect, and corner radii.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDERERS_RADIAL_GRADIENT_QUAD_RENDERER_H_
 #define CHROME_BROWSER_VR_RENDERERS_RADIAL_GRADIENT_QUAD_RENDERER_H_
 

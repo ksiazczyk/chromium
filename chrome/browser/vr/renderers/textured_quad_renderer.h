@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TexturedQuadRenderer class header for textured quad rendering
+// summary: Declares the TexturedQuadRenderer class extending BaseRenderer with quad queuing, buffered flushing, and shared vertex and index buffers.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDERERS_TEXTURED_QUAD_RENDERER_H_
 #define CHROME_BROWSER_VR_RENDERERS_TEXTURED_QUAD_RENDERER_H_
 

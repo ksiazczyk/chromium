@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI scene layout constants
+// summary: Defines layout constants for VR UI elements such as content distance, fullscreen size, URL bar, indicators, and toasts.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_SCENE_CONSTANTS_H_
 #define CHROME_BROWSER_VR_UI_SCENE_CONSTANTS_H_
 

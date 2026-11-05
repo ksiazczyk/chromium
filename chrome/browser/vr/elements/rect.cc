@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect UI element implementation
+// summary: Implements the Rect VR UI element, drawing a shader-based rectangle with animated center and edge colors, radial gradient, and local opacity.
+// ---
+
 #include "chrome/browser/vr/elements/rect.h"
 
 #include "chrome/browser/vr/target_property.h"

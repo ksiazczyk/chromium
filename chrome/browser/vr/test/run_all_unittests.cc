@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VR unit tests entry point
+// summary: Entry point that launches VR unit tests through the VrTestSuite test suite.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "chrome/browser/vr/test/vr_test_suite.h"

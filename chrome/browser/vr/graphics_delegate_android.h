@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android graphics delegate header
+// summary: Declares GraphicsDelegateAndroid, which manages double-buffered AHardwareBuffer slots and GL contexts for rendering the VR overlay on Android.
+// ---
+
 #ifndef CHROME_BROWSER_VR_GRAPHICS_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_VR_GRAPHICS_DELEGATE_ANDROID_H_
 

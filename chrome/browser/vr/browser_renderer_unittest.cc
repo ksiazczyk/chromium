@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserRenderer unit tests
+// summary: Unit tests for BrowserRenderer using mock UI and graphics delegates to verify frame drawing and visibility reporting.
+// ---
+
 #include "chrome/browser/vr/browser_renderer.h"
 
 #include "base/memory/raw_ptr.h"

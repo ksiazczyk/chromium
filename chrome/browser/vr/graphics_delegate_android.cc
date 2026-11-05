@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android graphics delegate implementation
+// summary: Implements the Android GraphicsDelegate using offscreen GL contexts, AHardwareBuffer-backed shared images and the mailbox-to-surface bridge for VR overlay rendering.
+// ---
+
 #include "chrome/browser/vr/graphics_delegate_android.h"
 
 #include <cstdint>

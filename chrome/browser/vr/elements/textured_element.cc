@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TexturedElement implementation
+// summary: Implements Skia-backed OpenGL texture creation, dirty-texture tracking, and textured quad rendering for VR UI elements.
+// ---
+
 #include "chrome/browser/vr/elements/textured_element.h"
 
 #include "base/trace_event/trace_event.h"

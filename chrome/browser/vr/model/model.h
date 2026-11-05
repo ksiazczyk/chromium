@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model declaration aggregating VR browsing and WebVR state
+// summary: Declares the Model struct that combines the color scheme, WebVR state and the active, background and potential capturing permission states.
+// ---
+
 #ifndef CHROME_BROWSER_VR_MODEL_MODEL_H_
 #define CHROME_BROWSER_VR_MODEL_MODEL_H_
 

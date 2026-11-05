@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR geometry utility implementation
+// summary: Implements CalculatePixelSpaceRect, which converts a normalized texture rectangle into a pixel-space rectangle for VR rendering.
+// ---
+
 #include "chrome/browser/vr/vr_geometry_util.h"
 
 #include "ui/gfx/geometry/point3_f.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render info struct
+// summary: Defines the RenderInfo struct holding the head pose and left and right eye camera models used for VR rendering.
+// ---
+
 #ifndef CHROME_BROWSER_VR_RENDER_INFO_H_
 #define CHROME_BROWSER_VR_RENDER_INFO_H_
 

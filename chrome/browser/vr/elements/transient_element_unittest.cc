@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SimpleTransientElement visibility
+// summary: Tests visibility, timeout-based hiding, refresh behavior, and child propagation for SimpleTransientElement in the VR UI.
+// ---
+
 #include "chrome/browser/vr/elements/transient_element.h"
 
 #include <memory>

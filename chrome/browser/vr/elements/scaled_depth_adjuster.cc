@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScaledDepthAdjuster implementation
+// summary: Implements ScaledDepthAdjuster, which scales descendants to adjust their depth while accounting for adjustments made by ancestor adjusters.
+// ---
+
 #include "chrome/browser/vr/elements/scaled_depth_adjuster.h"
 
 namespace vr {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics delegate header
+// summary: Declares GraphicsDelegate, the platform-abstracted manager of VR rendering surfaces, buffers and viewports that supplies projection and view matrices for drawing browser UI.
+// ---
+
 #ifndef CHROME_BROWSER_VR_GRAPHICS_DELEGATE_H_
 #define CHROME_BROWSER_VR_GRAPHICS_DELEGATE_H_
 

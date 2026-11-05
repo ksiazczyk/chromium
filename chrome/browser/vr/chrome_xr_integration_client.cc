@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeXrIntegrationClient implementation
+// summary: Implements Chrome's XR integration client, wiring runtime device providers and managing WebXR raw camera capture indicators.
+// ---
+
 #include "chrome/browser/vr/chrome_xr_integration_client.h"
 
 #include <memory>

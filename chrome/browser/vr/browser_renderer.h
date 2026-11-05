@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserRenderer class declaration
+// summary: Declares the BrowserRenderer class that handles head and controller input, audio, and frame rendering for the VR browser.
+// ---
+
 #ifndef CHROME_BROWSER_VR_BROWSER_RENDERER_H_
 #define CHROME_BROWSER_VR_BROWSER_RENDERER_H_
 

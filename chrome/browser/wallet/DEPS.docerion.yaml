@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wallet DEPS include rules
+summary: Sets include rules allowing dependencies on the wallet content and core browser component directories.

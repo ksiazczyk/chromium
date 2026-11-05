@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indicator spec struct declaration
+// summary: Declares the IndicatorSpec struct pairing UI element names, vector icons, and resource strings with capture state signals.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_INDICATOR_SPEC_H_
 #define CHROME_BROWSER_VR_ELEMENTS_INDICATOR_SPEC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR WebContents observer header
+// summary: Declares VrWebContentsObserver, a WebContentsObserver that runs a callback when the observed WebContents is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_VR_VR_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_VR_VR_WEB_CONTENTS_OBSERVER_H_
 

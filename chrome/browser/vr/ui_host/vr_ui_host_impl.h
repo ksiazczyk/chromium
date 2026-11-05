@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR UI host class header
+// summary: Declares the VRUiHostImpl class, which implements VrUiHost and observes permission prompts and media picker dialogs while tracking capturing state transience.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_HOST_VR_UI_HOST_IMPL_H_
 #define CHROME_BROWSER_VR_UI_HOST_VR_UI_HOST_IMPL_H_
 

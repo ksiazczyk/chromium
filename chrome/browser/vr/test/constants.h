@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared constants for VR tests
+// summary: Declares shared test constants such as head pose, controller position, epsilon, Pixel screen size, and lorem ipsum strings for VR tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_CONSTANTS_H_
 #define CHROME_BROWSER_VR_TEST_CONSTANTS_H_
 

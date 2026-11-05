@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoardingPassBridge
+// summary: JNI bridge that exposes native boarding pass detection methods, deciding whether to run detection for a URL and returning detected boarding pass strings as a promise.
+// ---
+
 package org.chromium.chrome.browser.wallet;
 
 import org.jni_zero.JNINamespace;

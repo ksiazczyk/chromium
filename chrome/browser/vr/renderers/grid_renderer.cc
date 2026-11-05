@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GridRenderer implementation drawing VR grid lines
+// summary: Implements GridRenderer with vertex and fragment shaders that draw a fading gridline pattern with configurable color, line count, and opacity.
+// ---
+
 #include "chrome/browser/vr/renderers/grid_renderer.h"
 
 #include "device/vr/vr_gl_util.h"

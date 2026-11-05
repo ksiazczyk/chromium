@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UiElement unit tests
+// summary: Unit tests covering UiElement child bounds containment, child replacement, and padding layout behavior.
+// ---
+
 #include "chrome/browser/vr/elements/ui_element.h"
 
 #include <utility>

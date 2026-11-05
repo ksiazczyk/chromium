@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows graphics delegate for VR browser
+// summary: Declares GraphicsDelegateWin, the Windows implementation of the VR graphics delegate that manages GPU shared images, sync tokens, and GL context binding.
+// ---
+
 #ifndef CHROME_BROWSER_VR_GRAPHICS_DELEGATE_WIN_H_
 #define CHROME_BROWSER_VR_GRAPHICS_DELEGATE_WIN_H_
 

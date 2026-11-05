@@ -1,0 +1,4 @@
+# Docerion header of run_xr_android_emulator_tests.py.
+type: test
+title: WebXR Android emulator test wrapper
+summary: Python wrapper that runs WebXR Android browser tests on an emulator, defaulting to the validating command decoder and a *WebXr* gtest filter.

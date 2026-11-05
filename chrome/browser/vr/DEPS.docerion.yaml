@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/vr
+summary: Specifies allowed include dependencies for the VR browser directory, including an exception routing openxr_platform.h through device/vr.

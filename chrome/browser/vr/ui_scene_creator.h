@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI scene creator header
+// summary: Declares UiSceneCreator, which constructs the VR UI scene hierarchy for the browser UI.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_SCENE_CREATOR_H_
 #define CHROME_BROWSER_VR_UI_SCENE_CREATOR_H_
 

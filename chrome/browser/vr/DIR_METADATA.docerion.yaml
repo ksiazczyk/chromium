@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome/browser/vr
+summary: Records the issue tracker component, team email, and Buganizer component used for the VR browser directory.

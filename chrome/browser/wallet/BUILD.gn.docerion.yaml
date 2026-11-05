@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wallet BUILD.gn build targets
+summary: Defines the wallet source set and non-Android browser test targets with their public headers and dependencies.

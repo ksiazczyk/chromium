@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grid class implementation
+// summary: Implements the VR Grid element, animating its grid color and rendering a gradient grid quad through the UiElementRenderer.
+// ---
+
 #include "chrome/browser/vr/elements/environment/grid.h"
 
 #include "chrome/browser/vr/target_property.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockXRDeviceHookBase header
+// summary: Declares the XRTestHook mock base class with input source creation, device configuration, head pose, event simulation, and frame waiting APIs for WebXR tests.
+// ---
+
 #ifndef CHROME_BROWSER_VR_TEST_MOCK_XR_DEVICE_HOOK_BASE_H_
 #define CHROME_BROWSER_VR_TEST_MOCK_XR_DEVICE_HOOK_BASE_H_
 

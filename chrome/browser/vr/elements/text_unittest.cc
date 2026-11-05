@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Text element multiline behavior
+// summary: Verifies that the Text element wraps long strings into multiple lines and grows texture height as the field width shrinks.
+// ---
+
 #include "chrome/browser/vr/elements/text.h"
 
 #include "base/strings/utf_string_conversions.h"

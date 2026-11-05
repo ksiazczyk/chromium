@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass barcode detector browser tests
+// summary: Browser tests verifying walletable pass barcode detection returns no barcodes for a black image and handles image extractor disconnection gracefully.
+// ---
+
 #include "components/wallet/content/browser/walletable_pass_barcode_detector.h"
 
 #include <memory>

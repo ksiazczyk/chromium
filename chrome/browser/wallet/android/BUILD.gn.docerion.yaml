@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wallet Android build targets
+summary: GN build file defining the wallet_android source set, Java library, JNI header generation and unit test targets for boarding pass detection.

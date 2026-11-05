@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientElement implementation
+// summary: Implements transient VR UI elements that hide themselves after a timeout, including SimpleTransientElement frame-based logic.
+// ---
+
 #include "chrome/browser/vr/elements/transient_element.h"
 #include "base/functional/callback_helpers.h"
 

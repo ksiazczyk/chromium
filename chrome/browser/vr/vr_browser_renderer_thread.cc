@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR browser renderer thread implementation
+// summary: Implements the thread performing browser-side VR rendering, handling frame timeouts, spinner state, and overlay submission.
+// ---
+
 #include "chrome/browser/vr/vr_browser_renderer_thread.h"
 
 #include <vector>

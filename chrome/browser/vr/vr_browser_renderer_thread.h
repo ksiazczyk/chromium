@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR browser renderer thread header
+// summary: Declares VRBrowserRendererThread, which coordinates browser-side VR rendering, frame timing, and the ImmersiveOverlay lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_VR_VR_BROWSER_RENDERER_THREAD_H_
 #define CHROME_BROWSER_VR_VR_BROWSER_RENDERER_THREAD_H_
 

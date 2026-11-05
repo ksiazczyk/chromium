@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebVR model with presentation states and prompt types
+// summary: Declares the WebVrState enum for frame-waiting and presentation states, the external prompt notification type, and the WebVrModel struct tracking them.
+// ---
+
 #ifndef CHROME_BROWSER_VR_MODEL_WEB_VR_MODEL_H_
 #define CHROME_BROWSER_VR_MODEL_WEB_VR_MODEL_H_
 

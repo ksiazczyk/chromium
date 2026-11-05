@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI scene header
+// summary: Declares UiScene, which manages UI elements, per-frame callbacks, dirty-texture tracking, and element lookup by name or id.
+// ---
+
 #ifndef CHROME_BROWSER_VR_UI_SCENE_H_
 #define CHROME_BROWSER_VR_UI_SCENE_H_
 

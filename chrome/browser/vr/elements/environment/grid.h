@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grid class declaration
+// summary: Declares the Grid class, a Rect subclass that draws a quad with a radial gradient and grid lines for the VR environment.
+// ---
+
 #ifndef CHROME_BROWSER_VR_ELEMENTS_ENVIRONMENT_GRID_H_
 #define CHROME_BROWSER_VR_ELEMENTS_ENVIRONMENT_GRID_H_
 
