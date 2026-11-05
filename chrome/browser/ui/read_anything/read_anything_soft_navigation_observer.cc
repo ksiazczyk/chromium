@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything soft navigation observer implementation
+// summary: Page load metrics observer that notifies the Read Anything controller when a soft navigation first contentful paint occurs in the active tab.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_soft_navigation_observer.h"
 
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"

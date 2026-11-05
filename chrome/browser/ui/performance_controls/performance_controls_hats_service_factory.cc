@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance controls HaTS service factory
+// summary: Implements the profile-keyed factory that creates the HaTS survey service when survey features are enabled and the user is eligible.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_controls_hats_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

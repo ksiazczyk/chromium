@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Move to account store bubble controller unit tests
+// summary: Unit tests for the move-to-account-store bubble controller, covering bubble closing, accepting a move when account storage is enabled, and rejection behavior.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/move_to_account_store_bubble_controller.h"
 
 #include "chrome/browser/signin/identity_manager_factory.h"

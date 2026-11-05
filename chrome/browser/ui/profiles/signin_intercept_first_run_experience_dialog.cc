@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin intercept first run dialog implementation
+// summary: Implements the modal first run dialog shown after signin interception, stepping through sync confirmation, profile customization, and history sync optin.
+// ---
+
 #include "chrome/browser/ui/profiles/signin_intercept_first_run_experience_dialog.h"
 
 #include "base/check_op.h"

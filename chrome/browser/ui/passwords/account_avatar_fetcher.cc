@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account avatar fetcher implementation
+// summary: Implements fetching credential avatar images and delivering them to the delegate for the password UI.
+// ---
+
 #include "chrome/browser/ui/passwords/account_avatar_fetcher.h"
 
 #include "net/base/load_flags.h"

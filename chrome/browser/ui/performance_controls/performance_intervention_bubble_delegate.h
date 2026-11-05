@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance intervention bubble delegate
+// summary: Declares the delegate class that handles events raised by the performance intervention bubble dialog, such as closing, dismissing, and deactivating selected tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_PERFORMANCE_INTERVENTION_BUBBLE_DELEGATE_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_PERFORMANCE_INTERVENTION_BUBBLE_DELEGATE_H_
 

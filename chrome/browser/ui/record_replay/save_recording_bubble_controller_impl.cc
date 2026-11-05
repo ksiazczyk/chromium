@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save Recording Bubble Controller Implementation
+// summary: Implements the Save Recording bubble controller, persisting the named recording to the task store, showing a toast, and running the close closure.
+// ---
+
 #include "chrome/browser/ui/record_replay/save_recording_bubble_controller_impl.h"
 
 #include "base/functional/callback.h"

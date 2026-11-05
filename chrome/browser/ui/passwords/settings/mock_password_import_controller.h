@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock password import controller header
+// summary: Declares a gmock mock of the password import controller interface for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_SETTINGS_MOCK_PASSWORD_IMPORT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_SETTINGS_MOCK_PASSWORD_IMPORT_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver chip controller implementation
+// summary: Implements the controller that shows, expands, and hides the memory saver page action chip and collapses expanded chips after a timeout.
+// ---
+
 #include "chrome/browser/ui/performance_controls/memory_saver_chip_controller.h"
 
 #include "base/byte_size.h"

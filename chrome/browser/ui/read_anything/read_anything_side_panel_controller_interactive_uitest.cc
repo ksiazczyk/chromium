@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything side panel controller interactive UI tests
+// summary: Interactive browser tests covering Read Anything side panel entry registration, lifecycle observer activation and open-trigger handling.
+// ---
+
 #include <optional>
 
 #include "base/test/scoped_feature_list.h"

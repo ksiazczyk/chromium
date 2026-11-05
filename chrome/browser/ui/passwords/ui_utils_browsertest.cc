@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password UI utilities browser tests
+// summary: Browser test verifying that navigating to the manage passwords page triggers the perception survey via the HATS service.
+// ---
+
 #include "chrome/browser/ui/passwords/ui_utils.h"
 
 #include "base/test/scoped_feature_list.h"

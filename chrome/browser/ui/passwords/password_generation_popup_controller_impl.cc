@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation popup controller implementation
+// summary: Implements the password generation popup controller, handling key press registration, popup positioning, password generation, and notifying the renderer and password manager.
+// ---
+
 #include "chrome/browser/ui/passwords/password_generation_popup_controller_impl.h"
 
 #include <math.h>

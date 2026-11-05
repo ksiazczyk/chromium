@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage passwords bubble controller unit tests
+// summary: Unit tests for the manage passwords bubble controller, setting up a testing profile with mock password store and sync service to verify bubble behavior and metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/manage_passwords_bubble_controller.h"
 
 #include <memory>

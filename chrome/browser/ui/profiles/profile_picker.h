@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker class header
+// summary: Declares the ProfilePicker class that controls the profile picker window, its entry points, and first run experience exit statuses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_PICKER_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_PICKER_H_
 

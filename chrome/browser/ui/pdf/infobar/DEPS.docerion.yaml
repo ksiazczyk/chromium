@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF infobar include rules
+summary: Specifies allowed include rules for the directory, permitting components/pdf/common and content/public/test.

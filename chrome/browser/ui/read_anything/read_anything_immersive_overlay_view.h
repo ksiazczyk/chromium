@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything immersive overlay view interface
+// summary: Declares the overlay view class that shows and closes the immersive Reading Mode UI over page contents and exposes focus callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_OVERLAY_VIEW_H_
 

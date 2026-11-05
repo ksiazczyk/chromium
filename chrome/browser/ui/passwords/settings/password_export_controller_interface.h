@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password export controller interface
+// summary: Defines the PasswordExportControllerInterface so methods that use the export controller can be unit tested.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_SETTINGS_PASSWORD_EXPORT_CONTROLLER_INTERFACE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_SETTINGS_PASSWORD_EXPORT_CONTROLLER_INTERFACE_H_
 

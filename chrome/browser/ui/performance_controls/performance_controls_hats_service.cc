@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance controls HaTS service
+// summary: Implements the service that launches performance controls HaTS surveys when a new tab page is opened.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_controls_hats_service.h"
 
 #include <algorithm>

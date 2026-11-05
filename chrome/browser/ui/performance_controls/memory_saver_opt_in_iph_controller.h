@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver opt-in IPH controller class declaration
+// summary: Declares the observer-based controller that triggers the memory saver opt-in feature promo on memory, tab count, and jank threshold events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_MEMORY_SAVER_OPT_IN_IPH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_MEMORY_SAVER_OPT_IN_IPH_CONTROLLER_H_
 

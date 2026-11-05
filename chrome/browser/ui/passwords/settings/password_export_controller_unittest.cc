@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password export controller unit tests
+// summary: Unit tests for the password export controller using fake select file dialogs that force or cancel file selection.
+// ---
+
 #include "chrome/browser/ui/passwords/settings/password_export_controller.h"
 
 #include <memory>

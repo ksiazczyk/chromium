@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource usage collector observer declarations
+// summary: Declares an observer that watches TabResourceUsageCollector and invokes a closure on metrics refresh.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_RESOURCE_USAGE_COLLECTOR_OBSERVER_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_RESOURCE_USAGE_COLLECTOR_OBSERVER_H_
 

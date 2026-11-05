@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF infobar prefs unit tests
+// summary: Unit tests verifying infobar show tracking, exponential backoff of the show interval, the maximum show limit, and detection of a disabled PDF viewer.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_prefs.h"
 
 #include "base/time/time.h"

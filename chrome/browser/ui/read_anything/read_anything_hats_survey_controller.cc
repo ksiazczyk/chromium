@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything HaTS survey controller implementation
+// summary: Implements the HaTS survey controller that records Reading Mode usage timestamps and triggers a satisfaction survey after qualifying sessions.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_hats_survey_controller.h"
 
 #include "base/json/values_util.h"

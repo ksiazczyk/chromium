@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password export controller implementation
+// summary: Implements the password export flow, showing a file selection dialog and driving the password manager exporter with progress callbacks.
+// ---
+
 #include "chrome/browser/ui/passwords/settings/password_export_controller.h"
 
 #include <string>

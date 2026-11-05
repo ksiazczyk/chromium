@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test permission bubble view delegate implementation
+// summary: Implements a stub permission prompt delegate that returns fixed origins and no-op UI behavior for use in tests.
+// ---
+
 #include "chrome/browser/ui/permission_bubble/permission_bubble_test_util.h"
 
 #include "components/permissions/permission_request.h"

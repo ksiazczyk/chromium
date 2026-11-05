@@ -1,3 +1,9 @@
+---
+type: readme
+title: Record Replay - Browser UI README
+summary: Describes the browser-process UI components of the Record Replay feature, the SaveRecordingBubbleController, and upkeep guidelines for AI agents.
+---
+
 # Record Replay - Browser UI
 
 This directory (`chrome/browser/ui/record_replay`) contains the browser-process

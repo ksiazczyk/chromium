@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation popup observer interface
+// summary: Declares an observer interface notified when the password generation popup is shown or hidden, currently only used for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORD_GENERATION_POPUP_OBSERVER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORD_GENERATION_POPUP_OBSERVER_H_
 

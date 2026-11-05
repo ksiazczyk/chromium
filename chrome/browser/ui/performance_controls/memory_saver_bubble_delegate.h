@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver bubble delegate class declaration
+// summary: Declares the delegate for the memory saver bubble dialog that handles events raised from the dialog and tracks the close action.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_MEMORY_SAVER_BUBBLE_DELEGATE_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_MEMORY_SAVER_BUBBLE_DELEGATE_H_
 

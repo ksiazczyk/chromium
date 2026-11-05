@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication confirmation bubble controller declaration
+// summary: Declares the controller managing the biometric authentication confirmation bubble, including image IDs and settings link handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_BIOMETRIC_AUTHENTICATION_CONFIRMATION_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_BIOMETRIC_AUTHENTICATION_CONFIRMATION_BUBBLE_CONTROLLER_H_
 

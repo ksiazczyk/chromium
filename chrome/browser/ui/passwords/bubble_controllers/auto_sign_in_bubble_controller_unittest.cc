@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the auto sign-in bubble controller
+// summary: Unit tests verifying auto sign-in toast timeout handling and the reported dismissal metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/auto_sign_in_bubble_controller.h"
 
 #include <memory>

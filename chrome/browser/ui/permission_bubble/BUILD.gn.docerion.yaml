@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Permission bubble build configuration
+summary: Defines GN source sets for the permission bubble prompt header, browser tests, and test support with their platform-conditional dependencies.

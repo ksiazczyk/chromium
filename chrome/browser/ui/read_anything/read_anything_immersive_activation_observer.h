@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything immersive activation observer interface
+// summary: Declares a checked observer interface notified when immersive Reading Mode is shown or closed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_ACTIVATION_OBSERVER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_ACTIVATION_OBSERVER_H_
 

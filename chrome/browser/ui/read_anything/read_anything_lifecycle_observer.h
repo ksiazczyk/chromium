@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything lifecycle observer header
+// summary: Defines an observer interface for Reading Mode lifecycle events such as activation, closing, and destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_LIFECYCLE_OBSERVER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_LIFECYCLE_OBSERVER_H_
 

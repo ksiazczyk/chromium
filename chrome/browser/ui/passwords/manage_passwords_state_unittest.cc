@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagePasswordsState unit tests
+// summary: Unit tests for ManagePasswordsState covering state transitions and credential handling, including exact, PSL-matched, and federated credentials.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_state.h"
 
 #include <algorithm>

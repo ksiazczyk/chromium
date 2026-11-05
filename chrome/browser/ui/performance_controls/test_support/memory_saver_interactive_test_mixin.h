@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver interactive test mixin
+// summary: Template mixin adding interactive test steps to check, discard, and reload tabs for memory saver tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_MEMORY_SAVER_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TEST_SUPPORT_MEMORY_SAVER_INTERACTIVE_TEST_MIXIN_H_
 

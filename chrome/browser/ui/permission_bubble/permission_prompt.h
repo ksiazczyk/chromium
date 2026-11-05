@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt factory declarations
+// summary: Declares factory functions that create Chrome permission prompts and the content scrim for embedded permission prompt flows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERMISSION_BUBBLE_PERMISSION_PROMPT_H_
 #define CHROME_BROWSER_UI_PERMISSION_BUBBLE_PERMISSION_PROMPT_H_
 

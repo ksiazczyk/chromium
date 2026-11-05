@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab resource usage tab helper unit tests
+// summary: Unit tests covering memory usage get and set behavior, the high memory usage threshold, and resource usage change callback invocation.
+// ---
+
 #include "chrome/browser/ui/performance_controls/tab_resource_usage_tab_helper.h"
 
 #include "base/byte_size.h"

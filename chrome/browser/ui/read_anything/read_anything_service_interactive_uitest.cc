@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAnythingService interactive UI tests
+// summary: Interactive browser tests verifying that ReadAnythingService is created for guest profiles and that the TTS engine extension is not installed during tests.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_service.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in bubble controller implementation
+// summary: Implements the controller for the auto sign-in toast, recording timeout and dismissal reason metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/auto_sign_in_bubble_controller.h"
 
 #include "chrome/browser/ui/passwords/passwords_model_delegate.h"

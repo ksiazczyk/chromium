@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload dialog delegate interface
+// summary: Declares the BatchUploadDelegate implementation that triggers creation of the Batch Upload dialog view for local data sync.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_BATCH_UPLOAD_UI_DELEGATE_H_
 #define CHROME_BROWSER_UI_PROFILES_BATCH_UPLOAD_UI_DELEGATE_H_
 

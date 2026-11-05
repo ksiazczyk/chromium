@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource usage collector observer implementation
+// summary: Implements an observer that runs a given callback when tab resource metrics are refreshed.
+// ---
+
 #include "chrome/browser/ui/performance_controls/test_support/resource_usage_collector_observer.h"
 
 ResourceUsageCollectorObserver::ResourceUsageCollectorObserver(

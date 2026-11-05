@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential manager dialog controller implementation
+// summary: Implements the account chooser and autosignin first run dialogs, including credential sorting, localized messages, and biometric reauth handling for credential filling.
+// ---
+
 #include "chrome/browser/ui/passwords/credential_manager_dialog_controller_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

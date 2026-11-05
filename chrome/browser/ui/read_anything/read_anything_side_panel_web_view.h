@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything side panel web view header
+// summary: Declares ReadAnythingSidePanelWebView, the side panel WebUI view class for Read Anything with navigation, context menu and keyboard event handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_WEB_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post save compromised bubble controller unit tests
+// summary: Unit tests for the post-save compromised bubble controller, verifying content, images, button text, and navigation for the safe state and more-to-fix bubble types.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/post_save_compromised_bubble_controller.h"
 
 #include "chrome/browser/ui/passwords/passwords_model_delegate_mock.h"

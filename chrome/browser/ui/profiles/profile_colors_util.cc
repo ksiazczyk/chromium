@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile theme color utilities implementation
+// summary: Computes profile theme and avatar colors, including saturation and lightness filters used to autoselect colors for new profiles.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_colors_util.h"
 
 #include "base/functional/callback.h"

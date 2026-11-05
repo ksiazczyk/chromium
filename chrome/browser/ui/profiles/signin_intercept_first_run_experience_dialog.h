@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin intercept first run dialog header
+// summary: Declares the first run experience dialog class with dialog event metrics enums and the ordered first run steps.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_SIGNIN_INTERCEPT_FIRST_RUN_EXPERIENCE_DIALOG_H_
 #define CHROME_BROWSER_UI_PROFILES_SIGNIN_INTERCEPT_FIRST_RUN_EXPERIENCE_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAnythingSidePanelController header
+// summary: Declares ReadAnythingSidePanelController, a per-tab SidePanelEntryObserver that facilitates showing the Read Anything side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_CONTROLLER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SIDE_PANEL_CONTROLLER_H_
 

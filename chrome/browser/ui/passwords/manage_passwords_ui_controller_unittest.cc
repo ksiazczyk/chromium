@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagePasswordsUIController unit tests
+// summary: Unit tests for ManagePasswordsUIController covering password submission, bubble and icon behavior, leak dialogs, sync states, and metrics.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake password import controller header
+// summary: Declares FakePasswordImportController, a test fake of the password import controller interface with a settable import result status.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_SETTINGS_FAKE_PASSWORD_IMPORT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_SETTINGS_FAKE_PASSWORD_IMPORT_CONTROLLER_H_
 

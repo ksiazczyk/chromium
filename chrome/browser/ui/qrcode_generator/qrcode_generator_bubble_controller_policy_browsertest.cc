@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy browser tests for the QR code generator controller
+// summary: Browser tests verifying that the QRCodeGeneratorEnabled policy controls availability, bubble display, and dynamic closing of the generator.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/policy/policy_test_utils.h"

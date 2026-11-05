@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin intercept first run dialog browser tests
+// summary: Browser tests for the signin intercept first run experience dialog covering sync, profile customization, and history sync flows.
+// ---
+
 #include "chrome/browser/ui/profiles/signin_intercept_first_run_experience_dialog.h"
 
 #include "base/command_line.h"

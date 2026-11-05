@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker unit tests
+// summary: Unit tests for ProfilePicker startup mode and first run behavior using TestingProfileManager and fake profile storage.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_picker.h"
 
 #include <memory>

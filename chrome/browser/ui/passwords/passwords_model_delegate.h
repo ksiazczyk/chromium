@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsModelDelegate interface
+// summary: Declares the interface implemented by ManagePasswordsUIController that supplies bubble state, pending credentials, and user action callbacks to the passwords UI models.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_MODEL_DELEGATE_H_
 

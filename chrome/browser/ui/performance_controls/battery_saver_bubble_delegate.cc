@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver bubble delegate implementation
+// summary: Implements the delegate for the battery saver bubble dialog, handling window closing and session-off clicks and recording bubble actions.
+// ---
+
 #include "chrome/browser/ui/performance_controls/battery_saver_bubble_delegate.h"
 
 #include "chrome/browser/performance_manager/public/user_tuning/battery_saver_mode_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything immersive web view header
+// summary: Declares a WebView wrapper that hosts the Reading Mode WebUI inside the immersive overlay view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_IMMERSIVE_WEB_VIEW_H_
 

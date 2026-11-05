@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Read Anything browser UI
+summary: Defines GN source sets and dependencies for the Read Anything feature, covering prefs, public headers, and implementation targets.

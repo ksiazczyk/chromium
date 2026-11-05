@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Biometric authentication confirmation bubble controller unit tests
+// summary: Unit tests verifying the biometric authentication confirmation bubble controller's title, image IDs, settings link navigation, and bubble closing behavior.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/biometric_authentication_confirmation_bubble_controller.h"
 
 #include "chrome/browser/ui/passwords/passwords_model_delegate_mock.h"

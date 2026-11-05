@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage passwords bubble controller implementation
+// summary: Implements the controller providing data and actions for the ManagePasswordsView, including credential lists, details mode, favicons, and password store updates.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/manage_passwords_bubble_controller.h"
 
 #include <string_view>

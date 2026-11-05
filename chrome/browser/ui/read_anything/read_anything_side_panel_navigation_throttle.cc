@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything side panel navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts user navigations to the Read Anything URL and shows the side panel instead of loading the page.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_side_panel_navigation_throttle.h"
 
 #include <memory>

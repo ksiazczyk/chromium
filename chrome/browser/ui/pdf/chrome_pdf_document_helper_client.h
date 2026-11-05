@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome PDF document helper client header
+// summary: Declares ChromePDFDocumentHelperClient, the Chrome subclass of pdf::PDFDocumentHelperClient overriding document load and save callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PDF_CHROME_PDF_DOCUMENT_HELPER_CLIENT_H_
 #define CHROME_BROWSER_UI_PDF_CHROME_PDF_DOCUMENT_HELPER_CLIENT_H_
 

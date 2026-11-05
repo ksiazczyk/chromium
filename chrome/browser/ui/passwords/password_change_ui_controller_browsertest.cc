@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change UI controller browser tests
+// summary: In-process browser tests verifying dialogs, toasts and histogram logging behavior of the password change UI controller.
+// ---
+
 #include "chrome/browser/ui/passwords/password_change_ui_controller.h"
 
 #include <string_view>

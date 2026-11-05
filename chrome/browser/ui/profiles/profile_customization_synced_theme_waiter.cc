@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization synced theme waiter implementation
+// summary: Implements a waiter that delays profile customization until a synced theme is applied, handling sync preconditions, extension themes and a timeout.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_customization_synced_theme_waiter.h"
 
 #include "base/functional/callback.h"

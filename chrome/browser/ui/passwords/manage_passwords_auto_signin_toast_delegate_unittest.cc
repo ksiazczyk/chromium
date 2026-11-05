@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto sign-in toast delegate unit tests
+// summary: Tests that the delegate shows the auto sign-in toast with the username parameter and navigates to password manager settings when the menu command runs.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_auto_signin_toast_delegate.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

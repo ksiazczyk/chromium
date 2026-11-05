@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance intervention bubble delegate
+// summary: Implements bubble close, dismiss, and deactivate actions that discard tabs for performance interventions.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_intervention_bubble_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar preferences implementation
+// summary: Implements preference helpers that track how often and how recently the infobar was shown, and check whether the PDF viewer is disabled or default browser settings are policy controlled.
+// ---
+
 #include "chrome/browser/ui/pdf/infobar/pdf_infobar_prefs.h"
 
 #include <cmath>

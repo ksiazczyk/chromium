@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-domain confirmation popup controller unit tests
+// summary: Unit tests for the cross-domain confirmation popup controller using a mock popup view, synthetic input events and histogram checks.
+// ---
+
 #include "chrome/browser/ui/passwords/password_cross_domain_confirmation_popup_controller_impl.h"
 
 #include <memory>

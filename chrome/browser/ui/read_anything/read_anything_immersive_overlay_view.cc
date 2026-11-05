@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything immersive overlay view implementation
+// summary: Implements the overlay view that hosts the immersive Reading Mode UI on top of the main web contents and manages controller subscriptions.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_immersive_overlay_view.h"
 
 #include <memory>

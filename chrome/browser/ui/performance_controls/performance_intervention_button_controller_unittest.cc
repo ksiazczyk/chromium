@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance intervention button controller unit tests
+// summary: Unit tests for the intervention button controller, covering notification gating, acceptance history trimming, and feature engagement tracker interactions.
+// ---
+
 #include "chrome/browser/ui/performance_controls/performance_intervention_button_controller.h"
 
 #include <memory>

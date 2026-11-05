@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the successful password change bubble controller
+// summary: Verifies with a mock delegate that the success bubble reports the correct metrics when the user finishes the password change or opens the password manager.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/password_change/successful_password_change_bubble_controller.h"
 
 #include <memory>

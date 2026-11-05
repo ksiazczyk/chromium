@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for profile color utilities
+// summary: Tests profile color generation and autoselection behavior using a testing profile manager and deterministic color generators.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_colors_util.h"
 
 #include "base/format_macros.h"

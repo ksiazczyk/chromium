@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagePasswordsState header
+// summary: Declares ManagePasswordsState, the class that stores the current password UI state and up-to-date credential data for ManagePasswordsUIController.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_STATE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_STATE_H_
 

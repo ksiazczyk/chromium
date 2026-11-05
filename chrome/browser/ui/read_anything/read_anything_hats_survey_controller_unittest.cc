@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything HaTS survey controller unit tests
+// summary: Unit tests verifying usage recording and survey trigger conditions for the Reading Mode HaTS survey controller using mock services.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_hats_survey_controller.h"
 
 #include "base/json/values_util.h"

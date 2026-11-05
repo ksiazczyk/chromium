@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Well-known change password navigation throttle browser tests
+// summary: Browser tests covering navigation to .well-known/change-password and redirection based on server responses and the change password service.
+// ---
+
 #include "chrome/browser/ui/passwords/well_known_change_password_navigation_throttle.h"
 
 #include <map>

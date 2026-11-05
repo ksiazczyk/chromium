@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile view utils unit tests
+// summary: Tests incognito policy handling of IsOpenLinkOTREnabled and avatar gradient ring sizing and thickness.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_view_utils.h"
 
 #include "chrome/browser/prefs/incognito_mode_prefs.h"

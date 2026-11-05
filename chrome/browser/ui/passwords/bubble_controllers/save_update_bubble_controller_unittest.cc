@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save/update bubble controller unit tests
+// summary: Unit tests for the save/update password bubble controller covering save and update flows, dismissal metrics, smart bubble stats and UKM recording.
+// ---
+
 #include "chrome/browser/ui/passwords/bubble_controllers/save_update_bubble_controller.h"
 
 #include <memory>

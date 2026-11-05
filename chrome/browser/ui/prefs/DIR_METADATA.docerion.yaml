@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA component routing for prefs
+summary: Maps the directory to the Internals>Preferences monorail component and a Buganizer component ID for issue routing.

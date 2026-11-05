@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list model
+// summary: Declares a model of tab page contexts with an observer interface that is notified when the tab count changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TAB_LIST_MODEL_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_TAB_LIST_MODEL_H_
 

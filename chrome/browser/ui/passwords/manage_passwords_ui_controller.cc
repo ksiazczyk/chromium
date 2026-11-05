@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagePasswordsUIController implementation
+// summary: Implements the per-tab controller that manages the password page action icon, save and auto sign-in bubbles, credential dialogs, and related promotions.
+// ---
+
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordImportControllerInterface declaration
+// summary: Defines the interface for PasswordImportController so methods that use it can be unittested, covering import, continue import, and importer reset operations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_SETTINGS_PASSWORD_IMPORT_CONTROLLER_INTERFACE_H_
 #define CHROME_BROWSER_UI_PASSWORDS_SETTINGS_PASSWORD_IMPORT_CONTROLLER_INTERFACE_H_
 

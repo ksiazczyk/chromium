@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything omnibox controller implementation
+// summary: Implements per-tab logic for suggesting Reading Mode via the omnibox entry point, including metrics and IPH timers.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_omnibox_controller.h"
 
 #include "base/metrics/histogram_functions.h"

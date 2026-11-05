@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything preferences registration
+// summary: Registers syncable profile preferences for Reading Mode fonts, spacing, voices, and entry point state.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_prefs.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch Chrome bubble controller header
+// summary: Declares RelaunchChromeBubbleController, which manages the relaunch Chrome bubble shown while a password form is rendered and the user has no keychain access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_RELAUNCH_CHROME_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_BUBBLE_CONTROLLERS_RELAUNCH_CHROME_BUBBLE_CONTROLLER_H_
 

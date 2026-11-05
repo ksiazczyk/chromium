@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordsLeakDialogDelegateMock class
+// summary: Defines a GoogleMock implementation of PasswordsLeakDialogDelegate used to stub leak dialog interactions in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_LEAK_DIALOG_DELEGATE_MOCK_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORDS_LEAK_DIALOG_DELEGATE_MOCK_H_
 

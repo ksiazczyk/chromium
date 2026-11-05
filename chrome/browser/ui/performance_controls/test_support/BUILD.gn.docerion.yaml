@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Performance controls test support build definition
+summary: GN build file defining the testonly test_support source set and its dependencies for performance controls browser tests.

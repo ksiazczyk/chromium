@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resource usage tab helper implementation
+// summary: Implements the per-tab helper that stores tab memory usage, resets it on navigation, and notifies registered change callbacks.
+// ---
+
 #include "chrome/browser/ui/performance_controls/tab_resource_usage_tab_helper.h"
 
 #include "base/byte_size.h"

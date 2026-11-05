@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account info display unit tests
+// summary: Tests for helpers that determine the account name and info shown in password messages depending on sign-in, password sync state, and email display capabilities.
+// ---
+
 #include "base/test/task_environment.h"
 #include "chrome/browser/ui/passwords/ui_utils.h"
 #include "components/signin/public/base/consent_level.h"

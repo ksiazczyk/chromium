@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF infobar delegate header
+// summary: Declares the PDF infobar delegate that customizes the appearance and behavior of the infobar offering to set Chrome as the default PDF viewer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_PDF_INFOBAR_PDF_INFOBAR_DELEGATE_H_
 

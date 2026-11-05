@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything immersive web view implementation
+// summary: Implements the web view hosting the immersive Reading Mode WebUI, forwarding keyboard events, URL openings, and closing tab-modal dialogs.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_immersive_web_view.h"
 
 #include <utility>

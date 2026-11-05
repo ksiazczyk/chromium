@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile error dialog header
+// summary: Declares ShowProfileErrorDialog and the ProfileErrorType enum that backs the profile error histogram.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_ERROR_DIALOG_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_ERROR_DIALOG_H_
 

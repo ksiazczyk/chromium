@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile UI test helpers
+// summary: Declares helper functions to wait for profile picker widget creation, loads, and managed user notice screens during tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PROFILES_PROFILE_UI_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_PROFILES_PROFILE_UI_TEST_UTILS_H_
 

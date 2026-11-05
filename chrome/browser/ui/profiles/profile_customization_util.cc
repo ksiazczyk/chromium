@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization utilities implementation
+// summary: Implements FinalizeNewProfileSetup and ProfileNameResolver, which finalizes new profiles and derives profile names from signed-in account info.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_customization_util.h"
 
 #include "base/auto_reset.h"

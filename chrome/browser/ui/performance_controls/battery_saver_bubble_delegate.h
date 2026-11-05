@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver bubble delegate header
+// summary: Declares the delegate class for the battery saver bubble dialog that handles events raised from the dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUBBLE_DELEGATE_H_
 #define CHROME_BROWSER_UI_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUBBLE_DELEGATE_H_
 

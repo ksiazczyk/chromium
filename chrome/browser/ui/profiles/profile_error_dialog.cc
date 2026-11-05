@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile error dialog implementation
+// summary: Shows a warning dialog when part of the profile fails to open, records error histograms and optionally opens a feedback page with diagnostics.
+// ---
+
 #include "chrome/browser/ui/profiles/profile_error_dialog.h"
 
 #include "base/base_switches.h"

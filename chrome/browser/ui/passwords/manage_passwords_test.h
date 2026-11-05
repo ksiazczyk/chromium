@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagePasswordsTest fixture header
+// summary: Declares the ManagePasswordsTest interactive browser test fixture with helpers to drive password bubble states, sync configuration, and histogram checks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_TEST_H_
 #define CHROME_BROWSER_UI_PASSWORDS_MANAGE_PASSWORDS_TEST_H_
 

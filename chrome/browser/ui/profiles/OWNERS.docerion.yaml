@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers for profiles UI
+summary: Lists code owners for the directory and adds desktop sign-in owners for UI changes related to the sign-in flow.

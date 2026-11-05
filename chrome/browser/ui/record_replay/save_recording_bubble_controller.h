@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save Recording Bubble Controller Interface
+// summary: Abstract interface for the Save Recording bubble controller, declaring save, cancel, bubble-closed, and recording URL access methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_RECORD_REPLAY_SAVE_RECORDING_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_RECORD_REPLAY_SAVE_RECORDING_BUBBLE_CONTROLLER_H_
 

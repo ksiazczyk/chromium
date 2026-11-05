@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential manager dialog controller unit tests
+// summary: Unit tests for the credential manager dialog controller covering account chooser display, credential selection, metrics, and autosignin prompt behavior.
+// ---
+
 #include "chrome/browser/ui/passwords/credential_manager_dialog_controller_impl.h"
 
 #include <memory>

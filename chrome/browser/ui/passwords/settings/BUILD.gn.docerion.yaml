@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password settings BUILD.gn
+summary: Defines GN source sets for the password import and export controller interfaces, implementations, unit tests and test support in the password settings UI.

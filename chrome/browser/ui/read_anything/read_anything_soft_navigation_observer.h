@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything soft navigation observer header
+// summary: Declares ReadAnythingSoftNavigationObserver, a page load metrics observer that reports soft navigations to the Read Anything controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SOFT_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_UI_READ_ANYTHING_READ_ANYTHING_SOFT_NAVIGATION_OBSERVER_H_
 

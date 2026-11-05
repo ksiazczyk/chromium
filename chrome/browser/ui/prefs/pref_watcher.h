@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefWatcher class and factory declarations
+// summary: Declares the PrefWatcher keyed service and its profile factory, which watch WebKit and renderer preference updates and notify tab helpers and Mojo watchers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PREFS_PREF_WATCHER_H_
 #define CHROME_BROWSER_UI_PREFS_PREF_WATCHER_H_
 

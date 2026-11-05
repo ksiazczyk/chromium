@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list model implementation
+// summary: Implements a model holding tab page contexts, supporting observer notifications when tabs are removed from the list.
+// ---
+
 #include "chrome/browser/ui/performance_controls/tab_list_model.h"
 
 #include <algorithm>

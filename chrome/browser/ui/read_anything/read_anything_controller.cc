@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything controller implementation
+// summary: Implements the Reading Mode controller, including WebContents observation, PDF fit-to-width URLs, find bar, and side panel presentation state.
+// ---
+
 #include "chrome/browser/ui/read_anything/read_anything_controller.h"
 
 #include "base/functional/bind.h"

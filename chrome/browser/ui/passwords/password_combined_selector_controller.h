@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password combined selector controller interface
+// summary: Base controller interface for the combined password selector view, defining display type, title and subtitle texts, and credential selection callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PASSWORDS_PASSWORD_COMBINED_SELECTOR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PASSWORDS_PASSWORD_COMBINED_SELECTOR_CONTROLLER_H_
 

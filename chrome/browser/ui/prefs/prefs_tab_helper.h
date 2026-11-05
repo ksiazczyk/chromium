@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefsTabHelper class declaration
+// summary: Declares the per-tab PrefsTabHelper WebContentsUserData class that updates web and renderer preferences when profile preferences change.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PREFS_PREFS_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_PREFS_PREFS_TAB_HELPER_H_
 
