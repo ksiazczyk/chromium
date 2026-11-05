@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker metrics provider header
+// summary: Declares a metrics provider and profile observer that reports translate ranker events and controls ranker logging.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_TRANSLATE_RANKER_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_TRANSLATE_TRANSLATE_RANKER_METRICS_PROVIDER_H_
 

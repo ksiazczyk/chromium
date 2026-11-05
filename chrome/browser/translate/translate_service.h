@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate service header
+// summary: Declares the TranslateService singleton managing resources required for Translate, with testing hooks and helpers for availability and target language.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_TRANSLATE_SERVICE_H_
 #define CHROME_BROWSER_TRANSLATE_TRANSLATE_SERVICE_H_
 

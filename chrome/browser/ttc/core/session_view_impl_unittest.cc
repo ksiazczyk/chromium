@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionViewImpl error-to-toast mapping unit tests
+// summary: Unit tests verifying that each session error code maps to the expected toast identifier.
+// ---
+
 #include "chrome/browser/ttc/core/session_view_impl.h"
 
 #include "chrome/browser/ui/toasts/api/toast_id.h"

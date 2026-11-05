@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: trusted vault browser targets'
+summary: Defines the trusted_vault source sets, their dependencies, and the unit and browser test targets for the Chrome trusted vault code.

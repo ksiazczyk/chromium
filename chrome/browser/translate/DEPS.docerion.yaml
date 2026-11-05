@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the translate directory
+summary: Grants this directory permission to include the PDF mojom header and the read anything UI headers.

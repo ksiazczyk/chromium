@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker Android header
+// summary: Declares VoiceFocusedContentsTrackerAndroid, the Android tracker that follows TabModel and tab events to report the active WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_ANDROID_H_
 #define CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_ANDROID_H_
 

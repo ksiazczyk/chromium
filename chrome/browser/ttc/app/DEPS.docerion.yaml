@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: TTC app include rules
+summary: DEPS rules allowing the TTC app directory to include headers from components/ttc/app.

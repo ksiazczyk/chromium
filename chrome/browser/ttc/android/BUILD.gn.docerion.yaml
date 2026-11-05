@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android TTC integration
+summary: 'Defines GN targets for the Android TTC code: the Java library and resources, Robolectric tests, JNI header generation and the native Android source set.'

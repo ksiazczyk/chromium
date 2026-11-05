@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker factory header
+// summary: Declares the TranslateRankerFactory keyed service factory that supplies a TranslateRanker instance per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_TRANSLATE_RANKER_FACTORY_H_
 #define CHROME_BROWSER_TRANSLATE_TRANSLATE_RANKER_FACTORY_H_
 

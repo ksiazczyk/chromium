@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionViewAndroid class declaration
+// summary: Declares the Android SessionView subclass that relays session view events to the profile's TtcKeyedServiceAndroid bridge, with the session UI living in Java.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_ANDROID_SESSION_VIEW_ANDROID_H_
 #define CHROME_BROWSER_TTC_ANDROID_SESSION_VIEW_ANDROID_H_
 

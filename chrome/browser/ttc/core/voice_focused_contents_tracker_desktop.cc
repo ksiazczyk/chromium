@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker desktop implementation
+// summary: Implements the desktop VoiceFocusedContentsTracker by binding to the last active browser window and following window activation and tab changes.
+// ---
+
 #include "chrome/browser/ttc/core/voice_focused_contents_tracker_desktop.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcKeyedServiceAndroid class declaration
+// summary: Declares the Java-facing counterpart of TtcKeyedService, stored as user data on the native service so the native and Java objects share a lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_ANDROID_TTC_KEYED_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_TTC_ANDROID_TTC_KEYED_SERVICE_ANDROID_H_
 

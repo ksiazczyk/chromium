@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcKeyedServiceAndroid implementation
+// summary: Implements the JNI bridge that owns the Java TtcKeyedService, handles session start and end calls from Java and pushes state and view events back to Java.
+// ---
+
 #include "chrome/browser/ttc/android/ttc_keyed_service_android.h"
 
 #include <memory>

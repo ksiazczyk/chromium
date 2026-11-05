@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConversationImpl implementation
+// summary: Implements ConversationImpl, wiring the audio controller and TTC backend to the session controller for capture, playback, transcripts, and tool calls.
+// ---
+
 #include "chrome/browser/ttc/app/conversation_impl.h"
 
 #include <utility>

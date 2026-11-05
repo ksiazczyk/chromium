@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC core test utilities implementation
+// summary: Implements test helpers for TTC core, including an actor journal recorder, a mock conversation and a short message-loop wait used by tests.
+// ---
+
 #include "chrome/browser/ttc/core/test_utils.h"
 
 #include "base/run_loop.h"

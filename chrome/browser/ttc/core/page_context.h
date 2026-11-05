@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContext struct declaration
+// summary: Declares a cheap-to-copy struct holding immutable annotated page content and a result type carrying fetch failure reasons.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_PAGE_CONTEXT_H_
 #define CHROME_BROWSER_TTC_CORE_PAGE_CONTEXT_H_
 

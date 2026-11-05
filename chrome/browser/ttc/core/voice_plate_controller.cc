@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice plate controller implementation
+// summary: Implements VoicePlateController, which shows and moves the dictation bubble voice plate UI across the profile's active browser windows.
+// ---
+
 #include "chrome/browser/ttc/core/voice_plate_controller.h"
 
 #include <memory>

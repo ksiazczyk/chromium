@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC entrypoint controller implementation
+// summary: Implements the window-scoped controller that routes toolbar and app menu activations to the TTC service and updates the toolbar button state.
+// ---
+
 #include "chrome/browser/ttc/core/entrypoint_controller.h"
 
 #include "base/functional/bind.h"

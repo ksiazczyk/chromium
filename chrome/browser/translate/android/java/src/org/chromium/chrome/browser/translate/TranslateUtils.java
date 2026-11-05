@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateUtils
+// summary: Utility that determines whether the current tab's content can be manually translated, with optional menu logging.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import org.chromium.build.annotations.NullMarked;

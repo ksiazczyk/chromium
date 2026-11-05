@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker header
+// summary: Declares VoiceFocusedContentsTracker, which tracks the active tab's contents across a profile's browser windows and notifies observers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_H_
 #define CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_H_
 

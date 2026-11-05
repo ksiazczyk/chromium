@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EvalAudioController header for in-memory test audio
+// summary: Declares an in-memory AudioController that injects canned capture audio into observers and records playback audio for testing and evaluation harnesses.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_EVAL_AUDIO_CONTROLLER_H_
 #define CHROME_BROWSER_TTC_CORE_EVAL_AUDIO_CONTROLLER_H_
 

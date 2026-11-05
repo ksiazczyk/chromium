@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context manager for current page state
+// summary: Maintains the current page's URL, title, content tree and WebMCP tools, notifying listeners on content updates and new page navigations.
+// ---
+
 import type {PageContentNode, WebMcpToolDefinition} from './ai_overlay_dialog.mojom-webui.js';
 import {log, warnLog} from './logging.js';
 

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Generate AiOverlayTools tool definitions from Mojom files
+# summary: Python script that parses the AiOverlayTools interface from tools/*.mojom files, including comments and parameter types, and writes generated tool definitions to generated_tool_definitions.h.
+# ---
+
 '''
 Reads tools/*.mojom and outputs generated tool definitions to
 generated_tool_definitions.h.

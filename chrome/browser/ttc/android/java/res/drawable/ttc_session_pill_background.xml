@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: TTC Session Pill Background Drawable
+summary: Android ripple drawable that supplies the rounded, highlight-responsive background for the TTC session pill, using theme color and dimension resources.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?attr/colorControlHighlight">
     <item>

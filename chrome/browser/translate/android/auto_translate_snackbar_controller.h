@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoTranslateSnackbarController class declaration
+// summary: Declares the controller coordinating ChromeTranslateClient and the Java SnackbarManager to show snackbars for auto-translations.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_ANDROID_AUTO_TRANSLATE_SNACKBAR_CONTROLLER_H_
 #define CHROME_BROWSER_TRANSLATE_ANDROID_AUTO_TRANSLATE_SNACKBAR_CONTROLLER_H_
 

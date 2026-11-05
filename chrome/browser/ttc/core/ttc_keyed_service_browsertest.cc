@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC keyed service browser tests
+// summary: Browser tests verifying the TTC keyed service is created for regular profiles and only when the TTC and actor features are enabled.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_keyed_service.h"
 
 #include "base/test/scoped_feature_list.h"

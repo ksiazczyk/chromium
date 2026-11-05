@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionView interface for session UI interaction
+// summary: Abstract interface for the object implementing all UI interaction for a session, covering audio level updates, initialization, and error reporting.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_SESSION_VIEW_H_
 #define CHROME_BROWSER_TTC_CORE_SESSION_VIEW_H_
 

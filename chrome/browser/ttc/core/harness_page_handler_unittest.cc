@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HarnessPageHandler unit tests
+// summary: Unit tests covering session start and close behavior plus text and audio turn handling of the evaluation harness page handler.
+// ---
+
 #include "chrome/browser/ttc/core/harness_page_handler.h"
 
 #include <memory>

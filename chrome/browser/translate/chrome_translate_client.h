@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome translate client class declaration
+// summary: Declares ChromeTranslateClient, a per-WebContents translate client exposing the translate driver, language detection driver, translate prefs and manager access.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_CHROME_TRANSLATE_CLIENT_H_
 #define CHROME_BROWSER_TRANSLATE_CHROME_TRANSLATE_CLIENT_H_
 

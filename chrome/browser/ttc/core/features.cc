@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC feature flag definitions
+// summary: Defines disabled-by-default base features for enabling the TTC feature and its first run experience.
+// ---
+
 #include "chrome/browser/ttc/core/features.h"
 
 namespace ttc {

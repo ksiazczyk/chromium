@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session journal implementation header
+// summary: Declares SessionJournalImpl, which records a TTC session's events in the actor journal under the session's current actor task.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_SESSION_JOURNAL_IMPL_H_
 #define CHROME_BROWSER_TTC_CORE_SESSION_JOURNAL_IMPL_H_
 

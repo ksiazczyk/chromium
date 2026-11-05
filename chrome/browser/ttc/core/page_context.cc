@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContext implementation
+// summary: Implements constructors and copy and move semantics for the ref-counted page context wrapper.
+// ---
+
 #include "chrome/browser/ttc/core/page_context.h"
 
 #include <utility>

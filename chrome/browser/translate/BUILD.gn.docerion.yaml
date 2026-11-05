@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Chrome translate browser code
+summary: Defines GN source sets for the translate browser code, including public headers, implementation, test support and browser test targets with their platform-specific dependencies.

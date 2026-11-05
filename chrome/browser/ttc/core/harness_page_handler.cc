@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HarnessPageHandler implementation
+// summary: Implements the Mojo page handler that starts and closes evaluation sessions and forwards text and PCM16 audio turns to the eval harness.
+// ---
+
 #include "chrome/browser/ttc/core/harness_page_handler.h"
 
 #include <utility>

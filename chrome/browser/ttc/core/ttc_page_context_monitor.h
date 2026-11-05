@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC page context monitor header
+// summary: Declares TtcPageContextMonitor, which observes page content extraction for a monitored WebContents and invokes callbacks when page context is invalidated or freshly extracted.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TTC_PAGE_CONTEXT_MONITOR_H_
 #define CHROME_BROWSER_TTC_CORE_TTC_PAGE_CONTEXT_MONITOR_H_
 

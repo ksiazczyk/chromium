@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC core test utilities header
+// summary: Declares MockConversation, ActorJournalRecorder and TinyWait helpers that support TTC core unit and browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TEST_UTILS_H_
 #define CHROME_BROWSER_TTC_CORE_TEST_UTILS_H_
 

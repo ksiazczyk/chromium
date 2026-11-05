@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the transition manager source set
+summary: GN build file that defines the transition_manager source_set with its public header, sources, and dependencies on base, keyed service core, and profiles.

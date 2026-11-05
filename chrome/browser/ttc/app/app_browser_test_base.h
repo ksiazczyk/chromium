@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC app browser test base class
+// summary: Declares AppBrowserTestBase, a PlatformBrowserTest base offering session, conversation, and backend helpers for TTC app browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_APP_APP_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_TTC_APP_APP_BROWSER_TEST_BASE_H_
 

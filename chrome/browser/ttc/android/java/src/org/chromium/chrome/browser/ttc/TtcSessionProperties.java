@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionProperties
+// summary: 'Property keys for the TTC session pill model: visibility, status text, audio level and click listener.'
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import android.view.View;

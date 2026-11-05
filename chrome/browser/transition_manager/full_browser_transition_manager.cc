@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullBrowserTransitionManager implementation
+// summary: Implements the singleton manager that runs deferred profile-creation callbacks when a profile is created and cleans up mappings when it is destroyed.
+// ---
+
 #include "chrome/browser/transition_manager/full_browser_transition_manager.h"
 
 #include "base/no_destructor.h"

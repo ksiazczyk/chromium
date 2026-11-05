@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context URL support utility implementation
+// summary: Implements IsUrlSupportedForPageContext, allowing only New Tab Page and HTTP(S) URLs that are not blocked by the actor safety lists.
+// ---
+
 #include "chrome/browser/ttc/core/page_context_util.h"
 
 #include <string_view>

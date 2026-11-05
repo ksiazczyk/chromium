@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI Overlay Dialog styles
+summary: Styles the dialog layout, persona avatar states, caption bubbles and mock audio injection controls.
+*/
+
 #container {
   display: flex;
   flex-direction: row;

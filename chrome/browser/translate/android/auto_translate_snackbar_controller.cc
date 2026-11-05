@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-translate snackbar controller implementation
+// summary: Implements the native AutoTranslateSnackbarController that shows and dismisses the auto-translate snackbar through a bridge to Java.
+// ---
+
 #include "chrome/browser/translate/android/auto_translate_snackbar_controller.h"
 
 #include <memory>

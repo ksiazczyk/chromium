@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC interactive browser test base header
+// summary: Declares the shared base class for TTC interactive browser tests with helpers for accessing the profile, service, and session controller.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TTC_INTERACTIVE_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_TTC_CORE_TTC_INTERACTIVE_BROWSER_TEST_BASE_H_
 

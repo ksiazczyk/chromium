@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the transition manager directory
+summary: OWNERS file listing hanxi@chromium.org as the reviewer responsible for changes in this directory.

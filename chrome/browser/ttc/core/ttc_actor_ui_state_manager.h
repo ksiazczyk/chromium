@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC actor UI state manager header
+// summary: Declares TtcActorUiStateManager, the TTC-specific ActorUiStateManagerInterface used by TTC actor tasks instead of the profile-wide manager.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TTC_ACTOR_UI_STATE_MANAGER_H_
 #define CHROME_BROWSER_TTC_CORE_TTC_ACTOR_UI_STATE_MANAGER_H_
 

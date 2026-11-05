@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool controller implementation
+// summary: Implements execution of session tool calls such as navigation, clicking, scrolling, media control and tab management via actor tool requests, journaling results.
+// ---
+
 #include "chrome/browser/ttc/core/tool_controller.h"
 
 #include <memory>

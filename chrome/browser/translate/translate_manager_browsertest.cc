@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate manager browser test
+// summary: Browser tests covering TranslateManager behavior such as language detection, translate triggers, the translate bubble, PDF translation, and toasts.
+// ---
+
 #include "components/translate/core/browser/translate_manager.h"
 
 #include <memory>

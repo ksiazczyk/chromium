@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionWindowTracker
+// summary: Tracks windows hosting the session UI per profile and ends the session once the last visible window goes away.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import org.chromium.base.ThreadUtils;

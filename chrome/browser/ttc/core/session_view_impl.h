@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionViewImpl class header
+// summary: Declares SessionViewImpl, which owns the session's main voice plate UI surface and routes audio, initialization, and error events to it.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_SESSION_VIEW_IMPL_H_
 #define CHROME_BROWSER_TTC_CORE_SESSION_VIEW_IMPL_H_
 

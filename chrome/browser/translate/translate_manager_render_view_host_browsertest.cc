@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate manager render view host browser test
+// summary: Browser tests using a mock TranslateAgent to exercise TranslateManager flows such as context menus, translate bubbles, and script fetching.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

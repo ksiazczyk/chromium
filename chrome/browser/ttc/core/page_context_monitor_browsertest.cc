@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context monitor browser tests
+// summary: Browser tests verifying page context monitoring across navigations, iframes and cross-site content using an embedded test server.
+// ---
+
 #include <iterator>
 #include <memory>
 #include <optional>

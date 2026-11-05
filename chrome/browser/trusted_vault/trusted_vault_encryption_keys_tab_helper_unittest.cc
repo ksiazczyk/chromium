@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted vault encryption keys tab helper unit tests
+// summary: Unit tests checking that the encryption keys Mojo API is exposed only to allowed origins and how the tab helper behaves across navigations.
+// ---
+
 #include "chrome/browser/trusted_vault/trusted_vault_encryption_keys_tab_helper.h"
 
 #include "base/memory/scoped_refptr.h"

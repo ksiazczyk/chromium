@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoTranslateSnackbarControllerJavaTest
+// summary: Instrumentation tests verifying the auto-translate snackbar message, undo action data, and Chrome display of Translate language codes.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import android.app.Activity;

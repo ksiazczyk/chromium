@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionMediator
+// summary: Runs TTC sessions for an activity, requesting microphone permission, following the active profile, and mirroring service state into the pill's model.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import android.Manifest;

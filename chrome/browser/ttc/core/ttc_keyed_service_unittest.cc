@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC keyed service unit tests
+// summary: Unit tests for the TTC keyed service covering session start and end behavior using a fake conversation.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_keyed_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault service factory implementation
+// summary: Builds the per-profile TrustedVaultService with platform-specific clients for the Chrome sync and passkeys security domains.
+// ---
+
 #include "chrome/browser/trusted_vault/trusted_vault_service_factory.h"
 
 #include <memory>

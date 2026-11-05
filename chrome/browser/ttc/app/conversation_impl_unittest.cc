@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConversationImpl unit tests
+// summary: Unit tests for the conversation implementation, using fake session controller and journal plus mock audio components to exercise tool calls, transcriptions and errors.
+// ---
+
 #include "chrome/browser/ttc/app/conversation_impl.h"
 
 #include <algorithm>

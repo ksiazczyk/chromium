@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session controller implementation unit tests
+// summary: Unit tests for SessionControllerImpl using a mock conversation and observer, covering lifecycle and model turn event notifications.
+// ---
+
 #include "chrome/browser/ttc/core/session_controller_impl.h"
 
 #include <memory>

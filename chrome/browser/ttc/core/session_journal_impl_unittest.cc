@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session journal implementation unit tests
+// summary: Unit tests verifying that SessionJournalImpl logs entries on the correct task and MES client tracks and handles task ID changes safely.
+// ---
+
 #include "chrome/browser/ttc/core/session_journal_impl.h"
 
 #include <memory>

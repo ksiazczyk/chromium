@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullBrowserTransitionManager class declaration
+// summary: Declares a UI-thread singleton that lets SimpleKeyedServices register callbacks to complete initialization during the transition from service manager mode to full browser.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSITION_MANAGER_FULL_BROWSER_TRANSITION_MANAGER_H_
 #define CHROME_BROWSER_TRANSITION_MANAGER_FULL_BROWSER_TRANSITION_MANAGER_H_
 

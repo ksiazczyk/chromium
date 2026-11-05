@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionViewImpl implementation
+// summary: Implements the session view by forwarding audio levels and state to the voice plate controller and mapping error codes to toast notifications.
+// ---
+
 #include "chrome/browser/ttc/core/session_view_impl.h"
 
 #include <memory>

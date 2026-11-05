@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Overlay Dialog app element
+// summary: Main Lit element wiring audio capture and playback, captions, conversation state and Mojo handlers, with stubs for unbranded builds.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

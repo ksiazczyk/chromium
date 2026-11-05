@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcKeyedServiceFactory
+// summary: Factory that returns the TTC keyed service for a profile, or null when the feature is unavailable, including a testing override hook.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import org.jni_zero.JNINamespace;

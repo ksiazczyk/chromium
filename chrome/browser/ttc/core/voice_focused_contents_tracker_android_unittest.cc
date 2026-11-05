@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice focused contents tracker Android unit tests
+// summary: Unit tests for the Android voice focused contents tracker using fake TabModels to verify active tab tracking across models and windows.
+// ---
+
 #include "chrome/browser/ttc/core/voice_focused_contents_tracker_android.h"
 
 #include <memory>

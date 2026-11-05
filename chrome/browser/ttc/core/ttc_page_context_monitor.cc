@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC page context monitor implementation
+// summary: Implements the monitor that fetches cached or new annotated page context for a session and reports invalidation and fetch results.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_page_context_monitor.h"
 
 #include <optional>

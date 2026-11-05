@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtcSessionWindowTrackerTest
+// summary: Robolectric unit tests for TtcSessionWindowTracker verifying the session ends only when the last tracked window is removed.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import static org.junit.Assert.assertEquals;

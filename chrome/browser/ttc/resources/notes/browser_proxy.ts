@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Remembered Notes WebUI
+// summary: Singleton browser proxy that binds the Mojo page handler and AI overlay tools remotes for the Remembered Notes WebUI.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from '../ai_overlay_dialog.mojom-webui.js';
 import {AiOverlayToolsRemote} from '../tools.mojom-webui.js';
 

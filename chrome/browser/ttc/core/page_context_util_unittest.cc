@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context URL support unit tests
+// summary: Unit tests covering supported and unsupported URL schemes and hosts, plus actor safety list blocking behavior for page context.
+// ---
+
 #include "chrome/browser/ttc/core/page_context_util.h"
 
 #include <string_view>

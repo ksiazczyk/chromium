@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC eval window test API
+// summary: Exposes window.ttc with start, end, sendText and sendAudio when the TTC test API flag is enabled, delegating to HarnessPageHandler.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 import type {HarnessPageCallbackRouter, HarnessPageHandlerRemote, TurnResult} from '../eval_harness.mojom-webui.js';

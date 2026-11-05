@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session controller interface
+// summary: Abstract interface for the TTC session lifecycle coordinator, defining observer notifications, tool calls, journal access and audio level updates.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_SESSION_CONTROLLER_H_
 #define CHROME_BROWSER_TTC_CORE_SESSION_CONTROLLER_H_
 

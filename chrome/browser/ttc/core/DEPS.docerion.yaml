@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for TTC core
+summary: Restricts includes in the TTC core directory, allowing only the public headers of the TTC app implementation.

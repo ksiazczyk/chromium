@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake translate agent class declaration
+// summary: Declares the fake TranslateAgent mojo implementation with flags for called translate and revert translation, used by translate browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_FAKE_TRANSLATE_AGENT_H_
 #define CHROME_BROWSER_TRANSLATE_FAKE_TRANSLATE_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tool controller browser tests
+// summary: Browser tests covering ToolController tool call execution, including navigation, tab and window management, media control, screenshots and error handling.
+// ---
+
 #include "chrome/browser/ttc/core/tool_controller.h"
 
 #include <map>

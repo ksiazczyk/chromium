@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC actor UI state manager implementation
+// summary: Implements the TTC-specific actor UI state manager that acknowledges UI events and opts out of the actor tab navigation confirmation UI.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_actor_ui_state_manager.h"
 
 #include <utility>

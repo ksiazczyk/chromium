@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateBridge JNI implementation
+// summary: Implements JNI entry points and a translation observer that connect Java translate UI code to ChromeTranslateClient and TranslateManager.
+// ---
+
 #include "chrome/browser/translate/android/translate_bridge.h"
 
 #include <ranges>
