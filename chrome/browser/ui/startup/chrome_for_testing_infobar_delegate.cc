@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing infobar delegate implementation
+// summary: Implements the Chrome for Testing infobar stating that this build is unsupported and does not auto-update, with a link to download Chrome.
+// ---
+
 #include "chrome/browser/ui/startup/chrome_for_testing_infobar_delegate.h"
 
 #include <memory>

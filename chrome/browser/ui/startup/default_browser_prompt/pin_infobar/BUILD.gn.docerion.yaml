@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for pin infobar
+summary: Defines source sets for the pin-to-taskbar infobar public API, implementation, and unit tests, with Windows and Mac specific sources and dependencies.

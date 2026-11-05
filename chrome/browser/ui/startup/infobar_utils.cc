@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup infobar utilities
+// summary: Implements AddInfoBarsIfNecessary, deciding which startup infobars such as bad flags, automation, obsolete system, and default browser prompts to show on launch.
+// ---
+
 #include "chrome/browser/ui/startup/infobar_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin infobar delegate unit tests
+// summary: Unit tests verifying that the pin infobar delegate records accepted, dismissed, and ignored user interaction histograms correctly.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_delegate.h"
 
 #include "base/test/metrics/histogram_tester.h"

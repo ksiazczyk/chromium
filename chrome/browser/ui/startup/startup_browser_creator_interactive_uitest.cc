@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup browser creator interactive browser tests
+// summary: Interactive browser tests verifying startup browser launch behavior, including activation of the last used profile among several profiles and session startup preferences.
+// ---
+
 #include "chrome/browser/ui/startup/startup_browser_creator.h"
 
 #include <memory>

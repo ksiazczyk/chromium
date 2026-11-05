@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BrowserSyncedWindowDelegate implementation
+// summary: Implements the desktop BrowserSyncedWindowDelegate, exposing tab count, pinned state, window type, and sync eligibility for a browser window.
+// ---
+
 #include "chrome/browser/ui/sync/browser_synced_window_delegate.h"
 
 #include "base/check.h"

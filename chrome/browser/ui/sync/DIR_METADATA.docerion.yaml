@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync UI
+summary: Directory metadata that inherits the common sync component mixins from components/sync for chrome/browser/ui/sync.

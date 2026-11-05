@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsync availability infobar delegate header
+// summary: Declares the infobar delegate that warns OSCryptAsync is unavailable and suggests relaunching the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_OSCRYPTASYNC_AVAILABILITY_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_STARTUP_OSCRYPTASYNC_AVAILABILITY_INFOBAR_DELEGATE_H_
 

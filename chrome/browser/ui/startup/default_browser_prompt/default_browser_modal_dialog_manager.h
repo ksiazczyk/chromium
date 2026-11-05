@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser modal dialog manager header
+// summary: Declares DefaultBrowserModalDialogManager, the global manager for modal default browser dialog widgets across browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_DEFAULT_BROWSER_PROMPT_DEFAULT_BROWSER_MODAL_DIALOG_MANAGER_H_
 #define CHROME_BROWSER_UI_STARTUP_DEFAULT_BROWSER_PROMPT_DEFAULT_BROWSER_MODAL_DIALOG_MANAGER_H_
 

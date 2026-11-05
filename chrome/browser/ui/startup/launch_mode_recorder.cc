@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch mode recorder
+// summary: Computes and records the launch mode metric describing how Chrome was launched, from shortcuts, protocol or file handlers, notifications, or command line arguments.
+// ---
+
 #include "chrome/browser/ui/startup/launch_mode_recorder.h"
 
 #include <string>

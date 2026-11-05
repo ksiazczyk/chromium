@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API keys infobar delegate implementation
+// summary: Creates the confirm infobar that warns when Google API keys are missing, with a Learn More link to developer documentation.
+// ---
+
 #include "chrome/browser/ui/startup/google_api_keys_infobar_delegate.h"
 
 #include <memory>

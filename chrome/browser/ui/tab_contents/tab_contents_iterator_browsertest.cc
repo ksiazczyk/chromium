@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab contents iterator browser tests
+// summary: In-process browser tests checking that ForEachTabInterface counts tabs across browsers, supports early exit, and handles tab destruction during iteration.
+// ---
+
 #include "chrome/browser/ui/tab_contents/tab_contents_iterator.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab_contents
+summary: Defines the tab_contents source sets, platform-conditional sources, dependencies, and unit test targets for Chrome's WebContents UI helpers.

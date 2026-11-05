@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Chrome scheme utility header
+// summary: Declares helpers that strip the direct launch scheme prefix from startup arguments and extract the inner URL, accepting only the scheme registered for the browser instance.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_GOOGLE_CHROME_SCHEME_UTIL_H_
 #define CHROME_BROWSER_UI_STARTUP_GOOGLE_CHROME_SCHEME_UTIL_H_
 

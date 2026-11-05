@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser infobar manager implementation
+// summary: Implements showing the default browser infobar across browser windows, including the migrated global infobar path and metrics logging.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_infobar_manager.h"
 
 #include <utility>

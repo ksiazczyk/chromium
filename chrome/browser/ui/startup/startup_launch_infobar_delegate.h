@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch infobar delegate header
+// summary: Declares StartupLaunchInfoBarDelegate, the ConfirmInfoBarDelegate for the Start Chrome with Windows opt-in and opt-out infobars.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_STARTUP_LAUNCH_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_STARTUP_STARTUP_LAUNCH_INFOBAR_DELEGATE_H_
 

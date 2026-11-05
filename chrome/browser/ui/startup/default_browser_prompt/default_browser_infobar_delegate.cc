@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser infobar delegate implementation
+// summary: Implements the confirm infobar delegate shown when Chrome is not the default browser, updating prompt prefs on dismiss or accept.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_infobar_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup feature flags header
+// summary: Declares the feature that destroys and recreates the session storage database on fresh non-recovery process startups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FEATURES_H_
 #define CHROME_BROWSER_UI_STARTUP_FEATURES_H_
 

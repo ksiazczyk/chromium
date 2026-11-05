@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin infobar Mac Dock utilities header
+// summary: Declares Mac helpers that report whether Chrome is missing from the Dock and add Chrome to the Dock so it stays there after closing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_DEFAULT_BROWSER_PROMPT_PIN_INFOBAR_PIN_INFOBAR_MAC_UTIL_H_
 #define CHROME_BROWSER_UI_STARTUP_DEFAULT_BROWSER_PROMPT_PIN_INFOBAR_PIN_INFOBAR_MAC_UTIL_H_
 

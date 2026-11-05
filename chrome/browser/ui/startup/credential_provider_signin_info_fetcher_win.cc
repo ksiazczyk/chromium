@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider sign-in info fetcher implementation
+// summary: Fetches the token handle, user info, and MDM tokens over Gaia OAuth needed to complete a GCPW sign-in, reporting results via a callback.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_info_fetcher_win.h"
 
 #include <memory>

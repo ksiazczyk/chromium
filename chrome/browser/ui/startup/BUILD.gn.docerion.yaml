@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Startup UI build configuration (BUILD.gn)
+summary: GN build configuration defining source sets, buildflags and platform-specific dependencies for the browser startup UI, including GCPW signin test support.

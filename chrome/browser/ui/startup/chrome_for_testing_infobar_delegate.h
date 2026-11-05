@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing infobar delegate header
+// summary: Declares ChromeForTestingInfoBarDelegate, an unclosable infobar noting that Chrome for Testing is unsupported and does not auto-update.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_CHROME_FOR_TESTING_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_STARTUP_CHROME_FOR_TESTING_INFOBAR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser prompt build targets
+summary: GN build file defining the default browser prompt source sets, public headers, dependencies and the unit and browser test targets.

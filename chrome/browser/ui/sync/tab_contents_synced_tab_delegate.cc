@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab contents synced tab delegate implementation
+// summary: Implements the SyncedTabDelegate interface for tabs backed by a WebContents, exposing navigation entries, extension app id and cached last active time for session sync.
+// ---
+
 #include "chrome/browser/ui/sync/tab_contents_synced_tab_delegate.h"
 
 #include "base/memory/ref_counted.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus result file writer implementation
+// summary: Converts focus results into JSON with status and exit code and writes the result file asynchronously on a background thread.
+// ---
+
 #include "chrome/browser/ui/startup/focus/focus_result_file_writer.h"
 
 #include <string_view>

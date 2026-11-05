@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome web contents view drop handling unit tests
+// summary: Unit tests for drop handling, covering enterprise deep scanning of dropped data and ChromeOS fusebox file path behavior.
+// ---
+
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_view_handle_drop.h"
 
 #include <memory>

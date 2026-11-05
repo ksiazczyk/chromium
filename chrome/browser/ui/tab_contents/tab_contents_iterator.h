@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForEachTabInterface declaration
+// summary: Declares ForEachTabInterface, a helper that iterates over all TabInterfaces across profiles and browsers with optional early exit from the callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_CONTENTS_TAB_CONTENTS_ITERATOR_H_
 #define CHROME_BROWSER_UI_TAB_CONTENTS_TAB_CONTENTS_ITERATOR_H_
 

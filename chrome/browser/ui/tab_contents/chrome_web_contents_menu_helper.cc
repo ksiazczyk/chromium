@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web contents menu helper implementation
+// summary: Enriches context menu parameters with preference-based properties that gate default search provider menu access.
+// ---
+
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_menu_helper.h"
 
 #include "build/build_config.h"

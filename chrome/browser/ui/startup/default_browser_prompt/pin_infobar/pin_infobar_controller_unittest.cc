@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin infobar controller unit tests
+// summary: Unit tests for the pin infobar controller covering infobar display conditions using mock browser window interfaces and testing profiles.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_controller.h"
 
 #include <memory>

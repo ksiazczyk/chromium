@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential provider sign-in dialog test data interface
+// summary: Declares a storage class holding expected successful sign-in and OAuth fetch results used to validate the credential provider sign-in dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_DIALOG_WIN_TEST_DATA_H_
 #define CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_DIALOG_WIN_TEST_DATA_H_
 

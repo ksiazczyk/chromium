@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin infobar controller crash tests
+// summary: Regression tests reproducing a crash when OnShouldOfferToPinResult runs without active web contents and verifying cleanup when the InfoBarManager is destroyed first.
+// ---
+
 #include <memory>
 
 #include "base/test/bind.h"

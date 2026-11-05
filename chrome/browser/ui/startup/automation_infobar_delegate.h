@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation infobar delegate header
+// summary: Declares AutomationInfoBarDelegate, a confirm infobar that informs users their browser is being controlled by an automated test.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_AUTOMATION_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_STARTUP_AUTOMATION_INFOBAR_DELEGATE_H_
 

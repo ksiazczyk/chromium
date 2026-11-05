@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the tab_sharing directory
+summary: Allows the tab_sharing directory to include chrome_layout_provider.h from chrome/browser/ui/views.

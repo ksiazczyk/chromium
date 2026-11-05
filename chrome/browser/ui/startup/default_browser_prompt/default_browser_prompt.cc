@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser prompt implementation
+// summary: Implements the startup default browser prompt, checking default browser state, suppression prefs, and policies before showing the prompt.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_prompt.h"
 
 #include <limits>

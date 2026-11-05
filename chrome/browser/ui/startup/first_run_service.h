@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunService header
+// summary: Declares FirstRunService, a keyed service that runs the First Run Experience for the primary profile on Dice platforms and resumes interrupted tasks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FIRST_RUN_SERVICE_H_
 #define CHROME_BROWSER_UI_STARTUP_FIRST_RUN_SERVICE_H_
 

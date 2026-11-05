@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreTabHelper implementation for per-tab browser functionality
+// summary: Implements the per-tab CoreTabHelper providing tab status text, default titles, content restrictions, and Google Lens image search with thumbnail downscaling and encoding.
+// ---
+
 #include "chrome/browser/ui/tab_contents/core_tab_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock TabSharingUI implementation
+// summary: Implements a no-op mock of TabSharingUI with a screensharing histogram logger for use in tests.
+// ---
+
 #include "chrome/browser/ui/tab_sharing/mock_tab_sharing_ui.h"
 
 MockTabSharingUI::MockTabSharingUI()

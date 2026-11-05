@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad flags prompt implementation
+// summary: Implements startup warnings, infobars and dialogs for dangerous command-line flags such as sandbox disables and host rules, plus invalid user data dir alerts.
+// ---
+
 #include "chrome/browser/ui/startup/bad_flags_prompt.h"
 
 #include <algorithm>

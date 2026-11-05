@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup infobar observer implementation
+// summary: Observes a profile and its browsers to run a callback that adds startup infobars once the next browser window has active web contents, then removes itself.
+// ---
+
 #include "chrome/browser/ui/startup/startup_infobar_observer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser bubble dialog implementation
+// summary: Builds and shows the bubble dialog prompting users to set Chrome as the default browser, with title image, body text and styled setup steps.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_bubble_dialog.h"
 
 #include <memory>

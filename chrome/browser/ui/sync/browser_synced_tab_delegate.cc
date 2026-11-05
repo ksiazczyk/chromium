@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BrowserSyncedTabDelegate implementation
+// summary: Implements the desktop BrowserSyncedTabDelegate, reading window and session IDs from SessionTabHelper and attaching itself as unowned tab user data.
+// ---
+
 #include "chrome/browser/ui/sync/browser_synced_tab_delegate.h"
 
 #include "chrome/browser/sync/sessions/sync_sessions_router_tab_helper.h"

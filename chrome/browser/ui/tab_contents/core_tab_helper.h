@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreTabHelper class declaration
+// summary: Declares the CoreTabHelper per-tab class with APIs for tab status text, content restriction updates, and Lens image search including image downscale and encode helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_CONTENTS_CORE_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_TAB_CONTENTS_CORE_TAB_HELPER_H_
 

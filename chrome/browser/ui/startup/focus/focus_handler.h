@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus handler interface
+// summary: Declares the FocusStatus and FocusResult types and the entry points for processing focus requests from the command line.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FOCUS_FOCUS_HANDLER_H_
 #define CHROME_BROWSER_UI_STARTUP_FOCUS_FOCUS_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync passphrase dialog implementation
+// summary: Implements the sync passphrase dialog, validating the entered passphrase and linking to the sync dashboard where users can clear their sync data.
+// ---
+
 #include "chrome/browser/ui/sync/sync_passphrase_dialog.h"
 
 #include <functional>

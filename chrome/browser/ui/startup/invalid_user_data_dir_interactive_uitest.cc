@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invalid user data dir interactive UI test
+// summary: Browser test ensuring startup with an invalid user data dir shows the error dialog without freezing the main thread and still allows a clean exit.
+// ---
+
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/simple_message_box_internal.h"
 #include "chrome/common/chrome_paths.h"

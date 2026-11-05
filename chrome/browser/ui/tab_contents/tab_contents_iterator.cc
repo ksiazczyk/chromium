@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForEachTabInterface implementation
+// summary: Implements ForEachTabInterface, which visits every TabInterface across browser windows ordered by activation and stops early when the callback returns false.
+// ---
+
 #include "chrome/browser/ui/tab_contents/tab_contents_iterator.h"
 
 #include "chrome/browser/tab_list/tab_list_interface.h"

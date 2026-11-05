@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus handler implementation
+// summary: Implements processing of focus command-line requests by collecting matching tabs and app windows and focusing the best candidate.
+// ---
+
 #include "chrome/browser/ui/startup/focus/focus_handler.h"
 
 #include <algorithm>

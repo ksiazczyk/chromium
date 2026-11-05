@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunService implementation
+// summary: Implements the service that decides whether to open the First Run Experience and tracks its finished state in local prefs for Dice platforms.
+// ---
+
 #include "chrome/browser/ui/startup/first_run_service.h"
 
 #include <memory>

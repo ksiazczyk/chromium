@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser prompt manager implementation
+// summary: Implements the singleton prompt manager that decides when to show prompts, picks the prompt surface, and handles taskbar pinning on Windows.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_prompt_manager.h"
 
 #include <memory>

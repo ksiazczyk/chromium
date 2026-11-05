@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obsolete system infobar delegate
+// summary: Implements an infobar warning that the running system is obsolete and no longer receives updates, with a Learn More link that persists until dismissed.
+// ---
+
 #include "chrome/browser/ui/startup/obsolete_system_infobar_delegate.h"
 
 #include <memory>

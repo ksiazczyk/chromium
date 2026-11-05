@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the tab_sharing directory
+summary: Sets the UI>Browser>MediaCapture bug component, team email and Buganizer component for the tab_sharing directory.

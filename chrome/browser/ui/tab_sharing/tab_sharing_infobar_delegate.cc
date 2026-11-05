@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing infobar delegate implementation
+// summary: Implements the tab sharing infobar delegate, including stop, share-this-tab-instead and captured surface control buttons.
+// ---
+
 #include "chrome/browser/ui/tab_sharing/tab_sharing_infobar_delegate.h"
 
 #include <string>

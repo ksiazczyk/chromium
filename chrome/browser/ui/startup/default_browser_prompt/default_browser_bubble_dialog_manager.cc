@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser bubble dialog manager implementation
+// summary: Implements showing and closing the bubble dialog per browser window and forwarding accept and dismiss results to the prompt manager.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_bubble_dialog_manager.h"
 
 #include "base/functional/bind.h"

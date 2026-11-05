@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile launch observer header
+// summary: Declares the singleton observer tracking launched profiles and browser windows to coordinate startup profile activation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_PROFILE_LAUNCH_OBSERVER_H_
 #define CHROME_BROWSER_UI_STARTUP_PROFILE_LAUNCH_OBSERVER_H_
 

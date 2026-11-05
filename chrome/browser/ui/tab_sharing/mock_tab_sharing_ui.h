@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock TabSharingUI header
+// summary: Declares a gmock-based MockTabSharingUI that fakes start and stop sharing behavior for tab sharing tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_SHARING_MOCK_TAB_SHARING_UI_H_
 #define CHROME_BROWSER_UI_TAB_SHARING_MOCK_TAB_SHARING_UI_H_
 

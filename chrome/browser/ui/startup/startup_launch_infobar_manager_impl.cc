@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch infobar manager implementation
+// summary: Implements the manager that shows and tracks startup launch infobars across browser windows and tabs, logging UMA histograms for shown infobars and user interactions.
+// ---
+
 #include "chrome/browser/ui/startup/startup_launch_infobar_manager_impl.h"
 
 #include <utility>

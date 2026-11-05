@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup infobar observer header
+// summary: Declares StartupInfoBarObserver, a profile-scoped observer that invokes an infobar-adding callback on the next created browser with tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_STARTUP_INFOBAR_OBSERVER_H_
 #define CHROME_BROWSER_UI_STARTUP_STARTUP_INFOBAR_OBSERVER_H_
 

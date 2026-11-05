@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup browser creator unit tests
+// summary: Unit test verifying that StartupBrowserCreator loads a profile without a window when the no-startup-window command line switch is present.
+// ---
+
 #include "chrome/browser/ui/startup/startup_browser_creator.h"
 
 #include "base/command_line.h"

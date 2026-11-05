@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run test utilities header
+// summary: Declares helpers to fake first run state, read the first-run-finished pref, and a browser test base for exercising FirstRunService.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FIRST_RUN_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_STARTUP_FIRST_RUN_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser prompt interactive UI tests
+// summary: Interactive UI tests covering the default browser prompt infobar, app menu item visibility, and prompt removal behavior.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_prompt.h"
 
 #include <cstdint>

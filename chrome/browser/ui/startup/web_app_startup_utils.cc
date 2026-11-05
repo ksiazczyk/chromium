@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app startup launch handling implementation
+// summary: Implements web app startup logic that handles --app-id command line launches, creates app windows and finalizes web app launches with metrics.
+// ---
+
 #include "chrome/browser/ui/startup/web_app_startup_utils.h"
 
 #include <memory>

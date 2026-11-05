@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing infobar delegate unit tests
+// summary: Unit tests for TabSharingInfoBarDelegate covering infobar creation, button labels, icons and tab roles.
+// ---
+
 #include "chrome/browser/ui/tab_sharing/tab_sharing_infobar_delegate.h"
 
 #include <tuple>

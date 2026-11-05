@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for sync UI source sets
+summary: Defines GN source sets for the sync UI delegates and passphrase dialog, plus their unit and interactive UI tests, with platform-conditional sources and dependencies.

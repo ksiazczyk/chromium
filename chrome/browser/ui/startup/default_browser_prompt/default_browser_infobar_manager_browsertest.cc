@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser infobar manager browser tests
+// summary: Browser tests verifying that the default browser infobar shows in every window and that dismiss interactions are recorded, for legacy and migrated infobar paths.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_infobar_manager.h"
 
 #include <memory>

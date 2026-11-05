@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSyncedWindowDelegate class declaration
+// summary: Declares the desktop BrowserSyncedWindowDelegate, a SyncedWindowDelegate that observes the tab strip and lists a browser window's tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SYNC_BROWSER_SYNCED_WINDOW_DELEGATE_H_
 #define CHROME_BROWSER_UI_SYNC_BROWSER_SYNCED_WINDOW_DELEGATE_H_
 

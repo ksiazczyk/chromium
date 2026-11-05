@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync passphrase dialog unit tests
+// summary: Unit tests verifying that SyncPassphraseDialogDecryptData accepts the correct passphrase and rejects a wrong one while keeping passphrase required.
+// ---
+
 #include "chrome/browser/ui/sync/sync_passphrase_dialog.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab_contents
+summary: Grants core_tab_helper_unittest.cc an extra include of the libwebp decode header.

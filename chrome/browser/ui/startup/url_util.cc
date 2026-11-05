@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch URL validation helpers
+// summary: Implements web-safe and web-unsafe launch URL validation, restricting startup and external launch URLs to approved schemes, settings pages and special cases.
+// ---
+
 #include "chrome/browser/ui/startup/url_util.h"
 
 #include "base/logging.h"

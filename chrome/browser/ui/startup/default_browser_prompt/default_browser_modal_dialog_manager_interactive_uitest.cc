@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser modal dialog manager interactive UI tests
+// summary: Interactive UI tests for the modal dialog prompt surfaces, checking show and close behavior and ShellIntegration histograms for both illustration variants.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

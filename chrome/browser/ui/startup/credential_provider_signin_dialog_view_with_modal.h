@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider sign-in dialog view with modal header
+// summary: Declares CredentialProviderWebDialogViewWithModal, a web dialog view supporting modal dialog hosting for webauthn during credential provider sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_DIALOG_VIEW_WITH_MODAL_H_
 #define CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_DIALOG_VIEW_WITH_MODAL_H_
 

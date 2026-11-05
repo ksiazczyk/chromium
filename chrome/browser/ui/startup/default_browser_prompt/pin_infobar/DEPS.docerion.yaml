@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Grants this directory permission to include headers from content/public/test for its tests.

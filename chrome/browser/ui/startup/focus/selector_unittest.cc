@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selector unit tests
+// summary: Tests ParseSelectors for exact, wildcard, multiple, invalid, and whitespace-only inputs, plus Selector ToString and IsValid behavior.
+// ---
+
 #include "chrome/browser/ui/startup/focus/selector.h"
 
 #include <string>

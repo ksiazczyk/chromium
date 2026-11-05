@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup tab provider implementation
+// summary: Implements the policies that decide which tabs to open at startup, covering first run, reset triggers, pinned tabs, preferences, new tab page, command line and What's New tabs.
+// ---
+
 #include "chrome/browser/ui/startup/startup_tab_provider.h"
 
 #include <algorithm>

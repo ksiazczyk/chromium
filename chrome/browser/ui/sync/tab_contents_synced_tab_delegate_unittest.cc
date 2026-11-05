@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab contents synced tab delegate unit tests
+// summary: Unit tests for TabContentsSyncedTabDelegate covering serialized navigation entries for invalid indices and ShouldSync behavior on initial navigation entries.
+// ---
+
 #include "chrome/browser/ui/sync/tab_contents_synced_tab_delegate.h"
 
 #include "base/test/scoped_feature_list.h"
