@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking handler unit tests
+// summary: Unit tests for the price tracking handler verifying bookmark product info conversion, tracking, untracking, and Mojo page notifications using mock services.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/price_tracking_handler.h"
 
 #include "base/test/scoped_feature_list.h"

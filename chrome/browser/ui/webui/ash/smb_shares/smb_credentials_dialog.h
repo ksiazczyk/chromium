@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB credentials dialog header
+// summary: Declares the credentials dialog, its WebUI config, and the callback interface for credential responses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_CREDENTIALS_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SMB_SHARES_SMB_CREDENTIALS_DIALOG_H_
 

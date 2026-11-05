@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for shortcut customization integration tests
+summary: Defines the interactive_ui_tests source set with its sources and dependencies for the ChromeOS shortcut customization WebUI integration tests.

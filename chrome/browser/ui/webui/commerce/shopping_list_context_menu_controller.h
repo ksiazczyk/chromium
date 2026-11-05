@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping list context menu controller header
+// summary: Declares a helper class owned by the bookmarks side panel UI for shopping-related context menu items that track or untrack prices for product bookmarks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMMERCE_SHOPPING_LIST_CONTEXT_MENU_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBUI_COMMERCE_SHOPPING_LIST_CONTEXT_MENU_CONTROLLER_H_
 

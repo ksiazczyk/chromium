@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInternalsUI controller header
+// summary: Declares the sys-internals WebUI controller class and its WebUIConfig, which registers the page under the Chrome UI scheme and the sys-internals host.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SYS_INTERNALS_SYS_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SYS_INTERNALS_SYS_INTERNALS_UI_H_
 

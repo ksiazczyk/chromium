@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer WebUI header
+// summary: Declares the CertificateViewerUI class and its WebUI configuration used for the constrained certificate viewer dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CERTIFICATE_VIEWER_CERTIFICATE_VIEWER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CERTIFICATE_VIEWER_CERTIFICATE_VIEWER_UI_H_
 

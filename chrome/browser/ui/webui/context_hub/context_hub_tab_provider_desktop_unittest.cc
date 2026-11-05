@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context hub desktop tab provider unit tests
+// summary: Unit tests for the desktop tab provider, using mock browser windows, tab strip models and sync services to verify tab and group behavior.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_tab_provider_desktop.h"
 
 #include <memory>

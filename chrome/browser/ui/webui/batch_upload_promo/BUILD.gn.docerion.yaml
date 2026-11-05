@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Batch upload promo BUILD.gn build targets
+summary: Defines the batch_upload_promo and unit_tests source sets with their sources and dependencies for the Chrome batch upload promo WebUI.

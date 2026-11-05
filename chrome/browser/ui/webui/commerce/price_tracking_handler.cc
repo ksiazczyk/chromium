@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking handler implementation
+// summary: Implements the Mojo handler for tracking and untracking product prices, managing shopping bookmarks, and reacting to subscription changes.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/price_tracking_handler.h"
 
 #include "base/debug/dump_without_crashing.h"

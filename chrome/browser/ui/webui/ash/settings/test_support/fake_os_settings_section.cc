@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fake OS settings section
+// summary: Implements the fake settings section, registering subpages and settings into the hierarchy and recording logged metrics during tests.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/test_support/fake_os_settings_section.h"
 
 #include <optional>

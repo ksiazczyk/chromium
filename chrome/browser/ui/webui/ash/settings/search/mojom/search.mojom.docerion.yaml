@@ -1,0 +1,4 @@
+# Docerion header of search.mojom.
+type: source
+title: Mojom definitions for OS settings search results
+summary: Defines the Mojom enums, structs and interfaces describing OS settings search results, their metadata, ranking, identifiers and observers.

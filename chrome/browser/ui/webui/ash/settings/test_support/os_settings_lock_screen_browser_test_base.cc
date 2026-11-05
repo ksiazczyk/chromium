@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSSettingsLockScreenBrowserTestBase implementation
+// summary: C++ implementation of the browser test base fixture that sets up a logged-in user with a specific auth factor and navigates to the ChromeOS lock screen settings section.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/test_support/os_settings_lock_screen_browser_test_base.h"
 
 #include <string>

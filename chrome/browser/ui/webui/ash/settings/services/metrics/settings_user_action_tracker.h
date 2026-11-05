@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings_user_action_tracker.h
+// summary: Declares SettingsUserActionTracker, the Mojo interface binding user action recording for the Settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_SETTINGS_USER_ACTION_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_SETTINGS_USER_ACTION_TRACKER_H_
 

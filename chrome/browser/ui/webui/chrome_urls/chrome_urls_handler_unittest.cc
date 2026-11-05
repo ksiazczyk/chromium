@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeUrlsHandler
+// summary: Unit tests covering ChromeUrlsHandler URL listing, sorting, and debug-pages-enabled behavior using test WebUI configs.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_urls/chrome_urls_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration page handler implementation
+// summary: Implements the Mojo page handler that supplies dialog info and updates the remaining migration time in the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/skyvault/local_files_migration_page_handler.h"
 
 #include "base/functional/callback.h"

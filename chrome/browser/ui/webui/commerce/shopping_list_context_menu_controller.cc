@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping list context menu controller implementation
+// summary: Adds and executes price tracking context menu items for product bookmarks in the bookmark side panel, delegating track and untrack actions to the price tracking handler.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/shopping_list_context_menu_controller.h"
 
 #include "base/metrics/user_metrics.h"

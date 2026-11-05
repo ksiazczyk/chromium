@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System web dialog browser tests
+// summary: Browser tests verifying that system web dialogs are modal before login, non-modal after login, findable by instance, and sized for font settings.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "ash/public/cpp/test/shell_test_api.h"
 #include "chrome/browser/ash/login/login_manager_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS settings test support library
+summary: Defines the test_support static library containing fake settings sections, hierarchy, and browser test mixins, along with its dependencies.

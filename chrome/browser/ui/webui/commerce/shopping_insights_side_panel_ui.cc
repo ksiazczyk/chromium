@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping insights side panel UI implementation
+// summary: Implements the shopping insights side panel WebUI controller, setting up localized strings, data sources, and Mojo handler factories for price insights and tracking.
+// ---
+
 #include "chrome/browser/ui/webui/commerce/shopping_insights_side_panel_ui.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the user_image WebUI library
+summary: Defines the static_library build target for the user image WebUI data source, listing its source files and ChromeOS dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome_finds_internals
+summary: Lists the owners of the chrome_finds_internals directory and routes Mojom file reviews to the IPC security owners.

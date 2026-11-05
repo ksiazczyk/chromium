@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager utility functions
+// summary: Provides helpers to show certificate viewer dialogs and to check whether CA certificate management is allowed by policy.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/certificate_manager_utils.h"
 
 #include <vector>

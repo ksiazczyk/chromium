@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the slow WebUI directory
+summary: Sets include rules that block //chrome dependencies for ChromeOS code while allowing this directory's own headers and existing grit resource includes.

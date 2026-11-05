@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Connectors internals BUILD.gn build definition
+summary: Defines the connectors_internals source set and unit test targets with their GN dependencies for the Chrome enterprise connectors internals WebUI.

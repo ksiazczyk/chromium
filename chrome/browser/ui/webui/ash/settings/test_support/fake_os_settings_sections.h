@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOsSettingsSections collection class for tests
+// summary: Declares FakeOsSettingsSections, a collection of fake settings sections with a method to fill them with fake settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_OS_SETTINGS_SECTIONS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_OS_SETTINGS_SECTIONS_H_
 

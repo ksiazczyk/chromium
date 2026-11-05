@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub Mojo traits declarations
+// summary: Declares Mojo enum, struct and union trait specializations mapping Context Hub C++ types to Mojo types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONTEXT_HUB_CONTEXT_HUB_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_CONTEXT_HUB_CONTEXT_HUB_MOJOM_TRAITS_H_
 

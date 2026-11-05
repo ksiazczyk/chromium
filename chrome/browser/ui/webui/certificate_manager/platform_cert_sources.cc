@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform root store certificate source for the certificate manager
+// summary: Implements the certificate source that lists, views and exports certificates from the platform root store for the certificate manager WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/platform_cert_sources.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload promo handler unit tests
+// summary: Unit tests for BatchUploadPromoHandler covering local data count updates and promo interactions using a test sync service and a mock page.
+// ---
+
 #include "chrome/browser/ui/webui/batch_upload_promo/batch_upload_promo_handler.h"
 
 #include "base/memory/raw_ptr.h"

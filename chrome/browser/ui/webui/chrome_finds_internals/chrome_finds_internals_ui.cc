@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds internals WebUI page handler implementation
+// summary: Implements the Finds internals page handler that runs the FindsService model and queries browsing history, returning up to 500 entries as JSON for the UI.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_finds_internals/chrome_finds_internals_ui.h"
 
 #include <algorithm>

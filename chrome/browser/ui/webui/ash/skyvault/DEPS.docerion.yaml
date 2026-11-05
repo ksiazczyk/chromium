@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the skyvault WebUI directory
+summary: Restricts //chrome dependencies and lists allowed includes for the local files migration directory and its tests.

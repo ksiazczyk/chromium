@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCommandHandler implementation
+// summary: Implements the Mojo CommandHandler that executes browser commands such as opening settings, feedback forms, tutorials and Glic from WebUI JavaScript.
+// ---
+
 #include "chrome/browser/ui/webui/browser_command/browser_command_handler.h"
 
 #include <algorithm>

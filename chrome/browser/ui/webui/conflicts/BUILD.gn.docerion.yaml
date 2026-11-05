@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the conflicts WebUI
+summary: GN build file defining the Windows-only conflicts source set, listing its sources, public headers and dependencies.

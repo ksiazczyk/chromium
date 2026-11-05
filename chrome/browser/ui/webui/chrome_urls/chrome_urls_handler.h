@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handler interface for the chrome-urls page
+// summary: Declares the ChromeUrlsHandler class that serves the list of WebUI URLs and toggles debug pages for the chrome-urls page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CHROME_URLS_CHROME_URLS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CHROME_URLS_CHROME_URLS_HANDLER_H_
 

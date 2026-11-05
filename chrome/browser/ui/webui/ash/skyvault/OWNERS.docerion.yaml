@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the skyvault WebUI directory
+summary: Delegates ownership to the SkyVault policy owners and requires security review for Mojo file changes.

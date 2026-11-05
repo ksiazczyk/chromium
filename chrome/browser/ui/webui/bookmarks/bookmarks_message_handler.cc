@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks WebUI message handler implementation
+// summary: Implements WebUI message handlers for bookmark editing, account storage upload, opening bookmarks, and promo card interactions.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmarks_message_handler.h"
 
 #include <utility>

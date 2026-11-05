@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights handler declaration
+// summary: Declares the PriceInsightsHandler Mojo interface implementation used by the shopping insights side panel UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMMERCE_PRICE_INSIGHTS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_COMMERCE_PRICE_INSIGHTS_HANDLER_H_
 

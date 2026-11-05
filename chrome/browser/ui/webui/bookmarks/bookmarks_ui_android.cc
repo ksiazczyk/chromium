@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android bookmarks favicon resource loader
+// summary: Android implementation that returns the bookmarks favicon bytes for the Bookmarks WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmarks_ui_android.h"
 
 #include "base/memory/ref_counted_memory.h"

@@ -1,0 +1,4 @@
+# Docerion header of chrome_finds_internals.mojom.
+type: source
+title: Mojo interface definitions for the Finds internals WebUI
+summary: Defines the Mojo interfaces for browser-to-renderer messaging on the Finds internals page, covering log messages, FindsService model runs, and history JSON retrieval.

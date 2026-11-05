@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compose WebUI OWNERS
+summary: Delegates ownership to the Compose component owners and routes .mojom file changes to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB credentials dialog browser tests
+// summary: Browser tests covering dialog close, reuse for the same mount ID, and submitting credentials.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_credentials_dialog.h"
 
 #include "ash/constants/webui_url_constants.h"

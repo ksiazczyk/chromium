@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserImageSource class declaration
+// summary: Declares the UserImageSource URL data source class that serves user images for ChromeOS user accounts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_USER_IMAGE_USER_IMAGE_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_USER_IMAGE_USER_IMAGE_SOURCE_H_
 

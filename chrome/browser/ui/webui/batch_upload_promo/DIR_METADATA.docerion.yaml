@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Batch upload promo DIR_METADATA
+summary: Declares the UI>Browser>Profiles monorail component and Buganizer component ID used for tracking issues in this directory.

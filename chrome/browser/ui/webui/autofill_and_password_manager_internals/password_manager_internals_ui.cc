@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager internals WebUI controller implementation
+// summary: Implements the WebUI controller for the password manager internals page, wiring its HTML source and shared message handler to the password manager log router.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_and_password_manager_internals/password_manager_internals_ui.h"
 
 #include "base/functional/bind.h"

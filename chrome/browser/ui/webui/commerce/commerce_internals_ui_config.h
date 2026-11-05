@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals WebUI config declaration
+// summary: Declares CommerceInternalsUIConfig, an InternalWebUIConfig subclass for the commerce internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMMERCE_COMMERCE_INTERNALS_UI_CONFIG_H_
 #define CHROME_BROWSER_UI_WEBUI_COMMERCE_COMMERCE_INTERNALS_UI_CONFIG_H_
 

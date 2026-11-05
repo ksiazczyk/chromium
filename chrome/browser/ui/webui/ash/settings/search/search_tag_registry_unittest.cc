@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchTagRegistry unit tests
+// summary: Unit tests for SearchTagRegistry that verify adding and removing search tags updates the LocalSearchService index and notifies observers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/search/search_tag_registry.h"
 
 #include <array>

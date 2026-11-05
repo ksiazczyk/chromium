@@ -1,0 +1,4 @@
+# Docerion header of user_action_recorder.mojom.
+type: source
+title: Mojom interface for recording OS settings user actions
+summary: Defines the UserActionRecorder interface used by settings JS to record user actions such as focus, clicks, navigation, searches and setting changes.

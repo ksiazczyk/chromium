@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking handler declaration
+// summary: Declares PriceTrackingHandler, a Mojo handler that also observes bookmark model and commerce subscription changes for the commerce side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMMERCE_PRICE_TRACKING_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_COMMERCE_PRICE_TRACKING_HANDLER_H_
 

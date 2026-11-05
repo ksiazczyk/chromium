@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth internals WebUI controller implementation
+// summary: Implements the WebUI controller for the Bluetooth internals page, registering resources and content security policy and binding the Mojo page handler.
+// ---
+
 #include "chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.h"
 
 #include "base/functional/bind.h"

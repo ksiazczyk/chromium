@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser switch WebUI handler unit tests
+// summary: Unit tests the BrowserSwitchHandler message handling, checking the enabled state response and the internals JSON output.
+// ---
+
 #include "chrome/browser/ui/webui/browser_switch/browser_switch_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub page handler implementation
+// summary: Implements the Context Hub WebUI page handler, serving auto todos, memory bank entries, tabs, history, favicons and topics data.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_page_handler.h"
 
 #include <algorithm>

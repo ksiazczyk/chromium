@@ -1,0 +1,4 @@
+# Docerion header of context_hub.mojom.
+type: source
+title: Context Hub Mojo interface definitions
+summary: Defines the Mojo interface, structs, enums, unions and feature flags exchanged between the browser and the Context Hub WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the user certificate source
+// summary: Unit tests covering user certificate listing, import, deletion and trust handling in the certificate manager.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/user_cert_sources.h"
 
 #include "base/containers/to_vector.h"

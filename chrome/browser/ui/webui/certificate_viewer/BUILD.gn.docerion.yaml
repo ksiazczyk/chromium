@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Certificate viewer WebUI build definition (BUILD.gn)
+summary: GN build file defining the certificate_viewer source set and its dependencies for the WebUI certificate viewer.

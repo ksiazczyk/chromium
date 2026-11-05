@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color pipeline internals WebUI controller implementation
+// summary: Implements the ColorPipelineInternalsUI Mojo WebUI controller, creating its WebUI data source and adding the theme source.
+// ---
+
 #include "chrome/browser/ui/webui/color_pipeline_internals/color_pipeline_internals_ui.h"
 
 #include <vector>

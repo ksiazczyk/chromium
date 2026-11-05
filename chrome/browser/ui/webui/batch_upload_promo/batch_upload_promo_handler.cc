@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload promo handler implementation
+// summary: Implements the WebUI page handler that reports local sync data counts and opens the batch upload dialog when the promo is clicked.
+// ---
+
 #include "chrome/browser/ui/webui/batch_upload_promo/batch_upload_promo_handler.h"
 
 #include "base/check_deref.h"

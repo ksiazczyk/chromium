@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill ML internals WebUI controller implementation
+// summary: Implements the WebUI controller that serves the autofill ML internals debug page, registers its resources and binds the Mojo page handler.
+// ---
+
 #include "chrome/browser/ui/webui/autofill_ml_internals/autofill_ml_internals_ui.h"
 
 #include "chrome/browser/autofill/ml_log_router_factory.h"

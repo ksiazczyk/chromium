@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: per_session_settings_user_action_tracker.cc
+// summary: Implements per-session tracking of Settings user actions such as focus, clicks, navigation, search and setting changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/metrics/per_session_settings_user_action_tracker.h"
 
 #include "ash/constants/ash_login_pref_names.h"

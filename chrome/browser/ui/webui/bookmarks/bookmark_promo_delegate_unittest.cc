@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark promo delegate unit tests
+// summary: Unit tests verifying promo eligibility, data, and dismissal behavior for the batch upload and sign-in promo delegates.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmark_promo_delegate.h"
 
 #include <memory>

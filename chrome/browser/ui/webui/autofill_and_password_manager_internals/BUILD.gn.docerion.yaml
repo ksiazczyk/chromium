@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for autofill and password manager internals WebUI
+summary: GN build file defining the source set and non-Android browser test target with their dependencies for the autofill and password manager internals UI.

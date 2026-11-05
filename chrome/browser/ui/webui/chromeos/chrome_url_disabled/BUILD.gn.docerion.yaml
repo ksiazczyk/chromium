@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chrome_url_disabled
+summary: GN build file defining the chrome_url_disabled source set with its sources and dependencies for ChromeOS.

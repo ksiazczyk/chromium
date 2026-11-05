@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: System web dialog include dependency rules
+summary: Restricts //chrome includes for the directory, allowing only its own files, selected dependencies, and test-only includes.

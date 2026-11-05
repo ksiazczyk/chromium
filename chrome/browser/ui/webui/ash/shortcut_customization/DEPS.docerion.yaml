@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shortcut customization DEPS include rules
+summary: Defines include rules that block dependencies on //chrome for the Ash shortcut customization WebUI, allowing only whitelisted existing dependencies under //chrome.

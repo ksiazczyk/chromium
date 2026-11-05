@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting net/cert owners
+summary: Points review ownership for the certificate viewer directory to the net/cert/OWNERS file.

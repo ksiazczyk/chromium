@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content settings WebUI
+summary: Delegates ownership to the content settings OWNERS file and routes Mojo file changes to the security owners.

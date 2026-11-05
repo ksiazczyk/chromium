@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: os_settings_metrics_provider.cc
+// summary: Implements the OS settings metrics provider that logs verified access state and unique settings changed histograms per session.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/services/metrics/os_settings_metrics_provider.h"
 
 #include "ash/constants/ash_login_pref_names.h"

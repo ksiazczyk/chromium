@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTagRegistry class header
+// summary: Declares the SearchTagRegistry class, which registers and unregisters settings search tags with the LocalSearchService and exposes tag metadata and update observers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_SEARCH_TAG_REGISTRY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SEARCH_SEARCH_TAG_REGISTRY_H_
 

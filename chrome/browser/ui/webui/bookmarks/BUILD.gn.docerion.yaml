@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks WebUI build configuration
+summary: GN build file defining the bookmarks WebUI source set with its dependencies, plus unit test and browser test targets.

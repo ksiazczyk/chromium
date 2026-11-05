@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SMB shares WebUI build configuration
+summary: GN build file defining the smb_shares static library and its browser test and unit test targets.

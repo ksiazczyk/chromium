@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for chrome_finds_internals WebUI
+summary: GN build file that defines the chrome_finds_internals static library and its Mojo bindings targets with their source and dependency lists.

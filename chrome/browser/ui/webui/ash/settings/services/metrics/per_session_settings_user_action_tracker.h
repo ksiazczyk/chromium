@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: per_session_settings_user_action_tracker.h
+// summary: Declares PerSessionSettingsUserActionTracker, which measures user effort to change a setting within one Settings session.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_PER_SESSION_SETTINGS_USER_ACTION_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_SERVICES_METRICS_PER_SESSION_SETTINGS_USER_ACTION_TRACKER_H_
 

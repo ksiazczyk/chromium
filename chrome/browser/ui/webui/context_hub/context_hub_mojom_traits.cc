@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub Mojo traits implementation
+// summary: Implements Mojo trait conversions between Context Hub browser-side C++ types and their Mojo counterparts.
+// ---
+
 #include "chrome/browser/ui/webui/context_hub/context_hub_mojom_traits.h"
 
 #include <cstdint>

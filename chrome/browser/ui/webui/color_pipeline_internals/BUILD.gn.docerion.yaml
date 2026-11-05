@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for color_pipeline_internals
+summary: GN build file defining the color_pipeline_internals source set with its sources and dependencies for the Chrome WebUI.

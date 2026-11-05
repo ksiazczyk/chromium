@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the content settings WebUI controller
+// summary: Declares the Mojo WebUI controller and its internal WebUI config that serve the content settings internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONTENT_SETTINGS_CONTENT_SETTINGS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CONTENT_SETTINGS_CONTENT_SETTINGS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser test mixin to open and drive the ChromeOS settings WebUI
+// summary: Declares a browser test mixin that opens the ChromeOS settings WebUI and exposes a Mojo test API for controlling the settings UI from C++ tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_OS_SETTINGS_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_OS_SETTINGS_BROWSER_TEST_MIXIN_H_
 

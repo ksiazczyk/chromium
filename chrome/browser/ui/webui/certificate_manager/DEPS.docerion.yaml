@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Certificate manager include rules
+summary: Grants this directory include access to the chromeos/ash/components/kcer component.

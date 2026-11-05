@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handler implementation for the chrome-urls page
+// summary: Implements the Mojo page handler that gathers WebUI URLs from the config map plus special-case hosts, then sorts and returns them.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_urls/chrome_urls_handler.h"
 
 #include <vector>

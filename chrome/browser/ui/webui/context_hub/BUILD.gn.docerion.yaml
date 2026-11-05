@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Context Hub WebUI build file (BUILD.gn)
+summary: Defines GN build targets for the Context Hub WebUI, including Mojo bindings generation with typemaps and the page handler source set.

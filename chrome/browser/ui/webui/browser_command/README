@@ -1,3 +1,9 @@
+---
+type: readme
+title: browser_command directory README
+summary: Explains that the directory holds desktop implementations of the browser commands Mojo interface and requires security and NTP owner review for changes.
+---
+
 This directory contains the Desktop implementations of the browser
 commands located at:
 //ui/webui/resources/js/browser_command/browser_command.mojom

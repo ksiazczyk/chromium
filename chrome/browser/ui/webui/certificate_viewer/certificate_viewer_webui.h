@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer dialog declaration
+// summary: Declares CertificateViewerDialog and its WebUI message handler for showing, modifying, and exporting certificate details.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CERTIFICATE_VIEWER_CERTIFICATE_VIEWER_WEBUI_H_
 #define CHROME_BROWSER_UI_WEBUI_CERTIFICATE_VIEWER_CERTIFICATE_VIEWER_WEBUI_H_
 

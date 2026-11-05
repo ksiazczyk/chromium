@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the content settings WebUI handler
+// summary: Unit tests verifying that the handler reads cookie settings, handles all content settings types, and converts patterns to and from strings.
+// ---
+
 #include "chrome/browser/ui/webui/content_settings/content_settings_handler.h"
 
 #include <memory>

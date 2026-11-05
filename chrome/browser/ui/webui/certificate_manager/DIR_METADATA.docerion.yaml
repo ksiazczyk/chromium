@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Certificate manager directory metadata
+summary: Declares the owning team email and Buganizer component for the certificate manager directory.

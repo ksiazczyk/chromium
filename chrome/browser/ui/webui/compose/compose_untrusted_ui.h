@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose untrusted WebUI controller header
+// summary: Declares ComposeUntrustedUI and its WebUI config, including the Mojo factory for untrusted Compose session page handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_COMPOSE_COMPOSE_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_COMPOSE_COMPOSE_UNTRUSTED_UI_H_
 

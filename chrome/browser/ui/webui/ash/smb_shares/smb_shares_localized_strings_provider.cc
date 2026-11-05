@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB shares localized strings provider implementation
+// summary: Adds the localized string entries for adding SMB shares, including field labels, authentication options and error messages, to the WebUI data source.
+// ---
+
 #include "chrome/browser/ui/webui/ash/smb_shares/smb_shares_localized_strings_provider.h"
 
 #include "chrome/grit/generated_resources.h"

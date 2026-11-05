@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the browser_command directory
+summary: Lists the Chromium developers responsible for reviewing changes to the browser_command directory.

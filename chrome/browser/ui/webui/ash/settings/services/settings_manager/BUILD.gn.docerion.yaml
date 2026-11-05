@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the settings_manager library
+summary: Defines the GN build targets for the OS settings manager static library and its unit test source set, with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOsSettingsSection test double of OsSettingsSection
+// summary: Declares FakeOsSettingsSection, a test double that stores fake subpages and settings, returns dummy values, and records logged metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_OS_SETTINGS_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_TEST_SUPPORT_FAKE_OS_SETTINGS_SECTION_H_
 

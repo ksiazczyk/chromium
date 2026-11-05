@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sys-internals WebUI
+summary: GN build file defining the sys_internals static library with its backend sources and dependencies.

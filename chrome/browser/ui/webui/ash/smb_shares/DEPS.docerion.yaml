@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SMB shares include rules
+summary: DEPS file restricting dependencies, allowing only listed //chrome includes for this ChromeOS WebUI directory.

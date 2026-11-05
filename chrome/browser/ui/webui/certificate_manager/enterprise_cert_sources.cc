@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise certificate sources
+// summary: Implements enterprise trusted, intermediate and distrusted certificate sources with certificate listing, viewing and PEM export for the certificate manager UI.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/enterprise_cert_sources.h"
 
 #include <vector>

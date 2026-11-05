@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the content settings WebUI Mojo handler
+// summary: Declares ContentSettingsHandler, the Mojo page handler that reads content settings and converts settings patterns for the internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONTENT_SETTINGS_CONTENT_SETTINGS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CONTENT_SETTINGS_CONTENT_SETTINGS_HANDLER_H_
 

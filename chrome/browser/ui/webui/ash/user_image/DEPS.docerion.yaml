@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the user_image directory
+summary: Sets include dependency rules, blocking //chrome dependencies while allowing this directory to include its own files.

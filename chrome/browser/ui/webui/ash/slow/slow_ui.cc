@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow WebUI page implementation
+// summary: Implements the slow WebUI page and its message handler, letting users enable or disable performance tracing for feedback reports through a preference.
+// ---
+
 #include "chrome/browser/ui/webui/ash/slow/slow_ui.h"
 
 #include <memory>

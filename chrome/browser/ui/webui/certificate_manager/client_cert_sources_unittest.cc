@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate sources unit test
+// summary: Tests that two simultaneous GetCertificateInfos calls on the platform client certificate source both complete successfully.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_manager/client_cert_sources.h"
 
 #include "base/test/test_future.h"

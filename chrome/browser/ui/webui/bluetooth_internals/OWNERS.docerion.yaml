@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for bluetooth_internals
+summary: Delegates ownership to device/bluetooth owners and routes Mojom file reviews to security owners.

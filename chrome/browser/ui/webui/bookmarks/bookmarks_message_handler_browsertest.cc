@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks message handler browser tests
+// summary: In-process browser tests verifying message handler behavior for account storage upload and promo card interactions.
+// ---
+
 #include "chrome/browser/ui/webui/bookmarks/bookmarks_message_handler.h"
 
 #include "base/memory/raw_ptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for settings search Mojom targets
+summary: GN build file that defines the mojom target for the ChromeOS settings search Mojom sources and its public dependencies.

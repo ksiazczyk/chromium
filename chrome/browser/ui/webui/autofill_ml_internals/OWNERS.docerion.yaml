@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for autofill_ml_internals
+summary: OWNERS file delegating code review ownership to the components/autofill owners list.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings search Mojom
+summary: Include rules that forbid ChromeOS code in this directory from depending on //chrome, noting an ongoing refactor effort.

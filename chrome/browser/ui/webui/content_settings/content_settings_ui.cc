@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the content settings WebUI controller
+// summary: Implements the WebUI controller that sets up the data source and creates the Mojo page handler for the content settings internals page.
+// ---
+
 #include "chrome/browser/ui/webui/content_settings/content_settings_ui.h"
 
 #include <memory>

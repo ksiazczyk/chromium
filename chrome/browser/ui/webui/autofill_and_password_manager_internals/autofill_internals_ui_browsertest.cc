@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill internals WebUI browser tests
+// summary: Browser tests for the autofill internals page, covering the cache reset button, confirmation dialogs, and entity data management features.
+// ---
+
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/gmock_callback_support.h"
 #include "base/test/run_until.h"

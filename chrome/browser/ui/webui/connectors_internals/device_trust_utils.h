@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust utilities header
+// summary: Declares utility functions that return Device Trust key info and indicate whether the current Chrome build can delete Device Trust keys.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONNECTORS_INTERNALS_DEVICE_TRUST_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_CONNECTORS_INTERNALS_DEVICE_TRUST_UTILS_H_
 

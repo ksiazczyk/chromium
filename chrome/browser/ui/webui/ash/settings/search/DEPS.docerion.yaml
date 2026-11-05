@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the settings search directory
+summary: Specifies which headers this directory may include, blocking //chrome dependencies except for explicitly allowed paths.

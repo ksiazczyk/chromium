@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the sys-internals WebUI
+summary: Restricts dependencies on //chrome while allowing this directory's own includes and existing grit dependencies.

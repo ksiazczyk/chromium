@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for ChromeOS shortcut customization
+// summary: Interactive Ash browser tests exercising the ChromeOS shortcut customization WebUI, covering accelerator editing, navigation, search, and keyboard device simulation.
+// ---
+
 #include "ash/accelerators/accelerator_lookup.h"
 #include "ash/ash_element_identifiers.h"
 #include "ash/constants/ash_features.h"

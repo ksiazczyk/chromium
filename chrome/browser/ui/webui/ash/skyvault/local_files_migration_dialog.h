@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration dialog class declaration
+// summary: Declares the WebUI-based dialog for local files migration, including show, lookup and migration callback APIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SKYVAULT_LOCAL_FILES_MIGRATION_DIALOG_H_
 
