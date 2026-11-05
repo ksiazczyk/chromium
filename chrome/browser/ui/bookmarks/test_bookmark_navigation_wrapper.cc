@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmark navigation wrapper implementation
+// summary: Implements a test double that records navigation URLs and transitions instead of performing real navigation during bookmark tests.
+// ---
+
 #include "chrome/browser/ui/bookmarks/test_bookmark_navigation_wrapper.h"
 
 #include "chrome/browser/ui/navigator/browser_navigator_params.h"

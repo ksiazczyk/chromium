@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark editor interface
+// summary: Defines the cross-platform bookmark editor interface with edit details for editing, adding, moving, and converting nodes to folders.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_EDITOR_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_EDITOR_H_
 

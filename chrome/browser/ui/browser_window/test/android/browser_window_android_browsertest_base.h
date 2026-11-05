@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser window Android browser test base header
+// summary: Declares an Android browser test base class with a scoped feature list for browser window tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_ANDROID_BROWSER_WINDOW_ANDROID_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_TEST_ANDROID_BROWSER_WINDOW_ANDROID_BROWSERTEST_BASE_H_
 

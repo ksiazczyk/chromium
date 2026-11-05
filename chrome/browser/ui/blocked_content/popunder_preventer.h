@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopunderPreventer class declaration
+// summary: Declares a helper used around WebContents activations to record potential popunders so they regain activation when the preventer is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLOCKED_CONTENT_POPUNDER_PREVENTER_H_
 #define CHROME_BROWSER_UI_BLOCKED_CONTENT_POPUNDER_PREVENTER_H_
 

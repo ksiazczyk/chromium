@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabScrubber class declaration
+// summary: Declares the TabScrubber singleton event handler that switches browser tabs in response to three-finger swipe scroll events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CHROMEOS_TAB_SCRUBBER_TAB_SCRUBBER_H_
 #define CHROME_BROWSER_UI_CHROMEOS_TAB_SCRUBBER_TAB_SCRUBBER_H_
 

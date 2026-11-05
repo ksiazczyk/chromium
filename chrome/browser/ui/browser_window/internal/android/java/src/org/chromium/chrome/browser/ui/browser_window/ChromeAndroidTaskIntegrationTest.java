@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAndroidTask integration tests
+// summary: On-device integration tests for ChromeAndroidTask window creation, bounds changes, and task behavior across activity types.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.junit.Assert.assertEquals;

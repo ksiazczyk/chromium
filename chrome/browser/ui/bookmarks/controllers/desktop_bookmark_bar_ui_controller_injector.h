@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark bar UI controller injector header
+// summary: Declares the desktop injector holding browser-scoped adapters for the bookmark bar UI controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_DESKTOP_BOOKMARK_BAR_UI_CONTROLLER_INJECTOR_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_DESKTOP_BOOKMARK_BAR_UI_CONTROLLER_INJECTOR_H_
 

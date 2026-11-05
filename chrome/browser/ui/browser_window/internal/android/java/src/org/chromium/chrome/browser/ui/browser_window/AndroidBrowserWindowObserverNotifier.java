@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBrowserWindowObserverNotifier
+// summary: Maintains an observer list and dispatches browser window added, removed, activated, and deactivated lifecycle events.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import org.chromium.base.ObserverList;

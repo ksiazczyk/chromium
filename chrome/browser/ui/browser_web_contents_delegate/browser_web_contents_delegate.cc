@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWebContentsDelegate implementation
+// summary: Implements the BrowserWebContentsDelegate class, handling WebContentsDelegate duties such as keyboard events, pointer and keyboard lock, picture-in-picture, drag-and-drop, and dialogs for the host browser.
+// ---
+
 #include "chrome/browser/ui/browser_web_contents_delegate/browser_web_contents_delegate.h"
 
 #include "base/check_deref.h"

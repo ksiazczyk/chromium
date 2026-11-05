@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockedStateController class and state definitions
+// summary: Declares the LockedState enum, capability struct, and controller API for managing locked browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CHROMEOS_LOCKED_STATE_LOCKED_STATE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_CHROMEOS_LOCKED_STATE_LOCKED_STATE_CONTROLLER_H_
 

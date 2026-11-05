@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/browser/ui/chromeos
+summary: Defines dependency rules that disallow includes from ash and chrome, with a specific exception permitting chrome/test includes in test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidBrowserWindowNativeUnitTestSupport
+// summary: Java support class for the AndroidBrowserWindow native unit test, building a mocked window instance and invoking its native pointer and destroy methods.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.mockito.Mockito.mock;

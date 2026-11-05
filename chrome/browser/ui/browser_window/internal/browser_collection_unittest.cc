@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserCollection unit tests
+// summary: Unit tests covering ForEach iteration, ordering, early stopping, resilience to browser destruction, and enumeration of newly created browsers.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_collection.h"
 
 #include <algorithm>

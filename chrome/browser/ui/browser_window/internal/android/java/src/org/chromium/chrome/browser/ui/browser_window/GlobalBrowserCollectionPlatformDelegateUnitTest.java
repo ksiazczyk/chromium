@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalBrowserCollectionPlatformDelegate unit tests
+// summary: Unit tests verifying the delegate notifies native code about task and browser window events.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static org.junit.Assert.assertFalse;

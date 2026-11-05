@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBaseWindow
+// summary: Java bridge to the native AndroidBaseWindow, exposing window state and operations such as bounds, show, activate, and maximize over JNI.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import android.graphics.Rect;

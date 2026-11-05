@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark UI utilities header
+// summary: Declares shared bookmark UI helpers for bookmarking URLs, toggling the bookmark bar, drag-and-drop operations, and Apps shortcut visibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_UTILS_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_UTILS_H_
 

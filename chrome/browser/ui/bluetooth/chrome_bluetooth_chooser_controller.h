@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth chooser controller interface
+// summary: Declares ChromeBluetoothChooserController, the Chrome-specific Bluetooth chooser controller with methods for help and permission navigation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLUETOOTH_CHROME_BLUETOOTH_CHOOSER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_BLUETOOTH_CHROME_BLUETOOTH_CHOOSER_CONTROLLER_H_
 

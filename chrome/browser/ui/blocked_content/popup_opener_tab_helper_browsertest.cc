@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup opener tab helper browser tests
+// summary: Browser tests verifying that the popup opener tab helper logs UKM Popup_Page metrics correctly under different popup blocker content settings.
+// ---
+
 #include "components/blocked_content/popup_opener_tab_helper.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

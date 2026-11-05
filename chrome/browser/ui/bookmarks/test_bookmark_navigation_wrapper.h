@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmark navigation wrapper header
+// summary: Declares a testing replacement for the bookmark navigation wrapper that records navigated URLs and page transitions for assertions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_TEST_BOOKMARK_NAVIGATION_WRAPPER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_TEST_BOOKMARK_NAVIGATION_WRAPPER_H_
 

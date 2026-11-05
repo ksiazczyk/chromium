@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for blocked content
+summary: Points the directory metadata at the shared blocked_content component metadata through a mixins entry.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the browser_window directory
+summary: Lists the directory owners and routes reviews of BUILD.gn files to BUILD_OWNERS via a per-file rule.

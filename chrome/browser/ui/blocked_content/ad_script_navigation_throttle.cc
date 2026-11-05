@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ad script navigation throttle implementation
+// summary: Implements a navigation throttle that records ad-script-initiated cross-site main frame navigations made without a user gesture.
+// ---
+
 #include "chrome/browser/ui/blocked_content/ad_script_navigation_throttle.h"
 
 #include <memory>

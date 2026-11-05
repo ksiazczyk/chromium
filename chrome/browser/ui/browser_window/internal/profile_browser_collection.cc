@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileBrowserCollection implementation
+// summary: Implements the per-profile browser collection, including tabbed browser lookup and off-the-record browser counts across profiles.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/profile_browser_collection.h"
 
 #include "base/check_deref.h"

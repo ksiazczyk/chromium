@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAndroidTaskImpl unit tests
+// summary: Extensive Robolectric unit tests covering ChromeAndroidTaskImpl task state, window actions, profiles, and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import static android.os.Looper.getMainLooper;

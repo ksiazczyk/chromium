@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopBrowserWindowCapabilities implementation
+// summary: Implements desktop browser window capabilities such as picture-in-picture detection, visibility, close state, contents size, and keyboard lock handling.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/desktop_browser_window_capabilities.h"
 
 #include "base/check_deref.h"

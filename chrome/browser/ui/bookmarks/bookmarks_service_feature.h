@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksService feature header
+// summary: Declares BookmarksServiceFeature, which manages the BookmarksService lifecycle and defers or disconnects clients around model load and shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARKS_SERVICE_FEATURE_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARKS_SERVICE_FEATURE_H_
 

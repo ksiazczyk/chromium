@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalBrowserCollection interactive UI tests
+// summary: Interactive UI tests verifying browser creation, activation and observer notifications for the global browser collection across desktop and Android.
+// ---
+
 #include "base/scoped_observation.h"
 #include "chrome/browser/profiles/profile_manager.h"
 #include "chrome/browser/profiles/profile_test_util.h"

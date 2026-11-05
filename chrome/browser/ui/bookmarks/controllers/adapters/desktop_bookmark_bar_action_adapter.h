@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark bar action adapter class
+// summary: Declares the desktop implementation of the bookmark bar action adapter, including context menu observation and close callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_ADAPTERS_DESKTOP_BOOKMARK_BAR_ACTION_ADAPTER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_ADAPTERS_DESKTOP_BOOKMARK_BAR_ACTION_ADAPTER_H_
 

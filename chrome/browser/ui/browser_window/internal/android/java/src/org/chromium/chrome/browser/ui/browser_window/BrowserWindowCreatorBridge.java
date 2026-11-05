@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowCreatorBridge
+// summary: Entry point called from native code to create browser windows synchronously or asynchronously after validating the create parameters.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import androidx.annotation.VisibleForTesting;

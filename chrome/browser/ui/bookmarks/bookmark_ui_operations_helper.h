@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUIOperationsHelper class header
+// summary: Declares helpers for dropping, copying, cutting and pasting bookmark nodes, with an abstraction for merged and non-merged drop targets.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_UI_OPERATIONS_HELPER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_UI_OPERATIONS_HELPER_H_
 

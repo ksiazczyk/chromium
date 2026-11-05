@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBaseWindow class declaration
+// summary: Declares AndroidBaseWindow, the Android implementation of ui::BaseWindow that bridges to a Java counterpart.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_INTERNAL_ANDROID_ANDROID_BASE_WINDOW_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_INTERNAL_ANDROID_ANDROID_BASE_WINDOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdSequencer
+// summary: Thread-safe generator of sequential IDs that are unique within a process and do not persist across restarts.
+// ---
+
 package org.chromium.chrome.browser.ui.browser_window;
 
 import org.chromium.build.annotations.NullMarked;

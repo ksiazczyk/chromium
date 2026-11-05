@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBrowserWindowEnumerator implementation
+// summary: Implements an enumerator over browser windows that tracks newly created and closed windows via GlobalBrowserCollection observation.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_browser_window_enumerator.h"
 
 #include <algorithm>

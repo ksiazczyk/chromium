@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowCreateParams implementation
+// summary: Implements constructors and move semantics for the browser window creation parameters structure.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/create_browser_window.h"
 
 #include "base/check_deref.h"

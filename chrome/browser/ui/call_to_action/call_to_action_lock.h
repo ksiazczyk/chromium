@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallToActionLock and ScopedCallToActionLock declarations
+// summary: Declares CallToActionLock and ScopedCallToActionLock so mutually exclusive features can gate window-level call to action UI per browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CALL_TO_ACTION_CALL_TO_ACTION_LOCK_H_
 #define CHROME_BROWSER_UI_CALL_TO_ACTION_CALL_TO_ACTION_LOCK_H_
 

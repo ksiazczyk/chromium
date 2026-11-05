@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalBrowserCollection implementation
+// summary: Implements the global collection of browser windows, tracking creation and activation order and notifying observers of browser lifecycle events.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/global_browser_collection.h"
 
 #include <algorithm>

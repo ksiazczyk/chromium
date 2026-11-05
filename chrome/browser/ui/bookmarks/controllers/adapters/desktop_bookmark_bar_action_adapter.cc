@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark bar action adapter implementation
+// summary: Implements desktop bookmark bar actions, opening bookmarks and the apps page, recording launch metrics, and showing context menus.
+// ---
+
 #include "chrome/browser/ui/bookmarks/controllers/adapters/desktop_bookmark_bar_action_adapter.h"
 
 #include "base/check.h"

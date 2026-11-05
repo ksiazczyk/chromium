@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar controller implementation
+// summary: Implements bookmark bar visibility control based on preferences, active tab, NTP state, fullscreen and split tabs.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_bar_controller.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined bookmarks view header
+// summary: Declares CombinedBookmarksView, which presents local, account, and managed bookmarks under a synthetic root with unique UUID mapping.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_COMBINED_BOOKMARKS_VIEW_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_COMBINED_BOOKMARKS_VIEW_H_
 

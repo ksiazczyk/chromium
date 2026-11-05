@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark editor implementation
+// summary: Implements applying bookmark editor edits, creating new URLs and folders and choosing default parent nodes for moved bookmarks.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_editor.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidBrowserWindow implementation
+// summary: Implements BrowserWindowInterface on Android, managing profile, session ID, close callbacks and URL opening via JNI.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_browser_window.h"
 
 #include <jni.h>

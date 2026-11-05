@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidBrowserWindow browser tests
+// summary: Browser tests covering synchronous and asynchronous OpenURL behavior of AndroidBrowserWindow against an embedded test server.
+// ---
+
 #include "chrome/browser/ui/browser_window/internal/android/android_browser_window.h"
 
 #include "base/base_switches.h"

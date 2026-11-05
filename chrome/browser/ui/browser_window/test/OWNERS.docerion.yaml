@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners rules for the test directory
+summary: Delegates review ownership of BUILD.gn in this test directory to the browser window BUILD_OWNERS file.

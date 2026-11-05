@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for bookmark bar controllers
+summary: Defines the controllers, impl, and unit_tests source sets with their sources and dependencies for the bookmark bar UI.

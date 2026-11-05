@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateBrowserWindow browser tests
+// summary: In-process browser tests covering synchronous and asynchronous window creation plus app window cloning and DevTools window creation.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/create_browser_window.h"
 
 #include "base/functional/bind.h"

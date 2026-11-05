@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark context menu controller unit tests
+// summary: Unit tests for bookmark context menu commands using a testing profile and merged surface bookmark service.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_context_menu_controller.h"
 
 #include <stddef.h>

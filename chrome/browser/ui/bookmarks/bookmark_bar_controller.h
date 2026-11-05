@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar controller interface
+// summary: Declares the per-browser controller that manages bookmark bar state, change reasons and force-show flags.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_BAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_BAR_CONTROLLER_H_
 

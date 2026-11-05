@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Combined bookmarks view unit tests
+// summary: Unit tests for CombinedBookmarksView covering tree queries, permanent node visibility, add and remove operations, and unique UUID mapping.
+// ---
+
 #include "chrome/browser/ui/bookmarks/combined_bookmarks_view.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ChromeOS screen orientation library
+summary: Defines a static library for the screen orientation delegate and a testonly browser_tests source set with their dependencies.

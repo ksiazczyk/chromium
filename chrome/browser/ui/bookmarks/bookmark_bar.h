@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar state enums
+// summary: Defines the BookmarkBar class with enums for bookmark bar visibility state and animated state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_BAR_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_BAR_H_
 

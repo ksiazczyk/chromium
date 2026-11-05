@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebustBlockTabHelper class declaration
+// summary: Declares the tab helper that tracks blocked framebust URLs, initiator data, and click callbacks for the desktop blocked-framebust UI, owned by the tab's TabFeatures.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BLOCKED_CONTENT_FRAMEBUST_BLOCK_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_BLOCKED_CONTENT_FRAMEBUST_BLOCK_TAB_HELPER_H_
 

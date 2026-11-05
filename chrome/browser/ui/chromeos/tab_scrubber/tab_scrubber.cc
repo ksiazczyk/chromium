@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabScrubber implementation
+// summary: Implements tab switching via multi-finger horizontal swipes on ChromeOS, tracking swipe position, direction, highlighted tab and delayed activation.
+// ---
+
 #include "chrome/browser/ui/chromeos/tab_scrubber/tab_scrubber.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for locked_state dependencies
+summary: Restricts which headers the locked_state directory and its test files are allowed to include.

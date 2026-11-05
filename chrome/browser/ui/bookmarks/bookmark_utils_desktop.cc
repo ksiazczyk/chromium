@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop bookmark utilities implementation
+// summary: Implements desktop bookmark actions including opening all bookmarks with prompting, delete confirmation dialogs, and navigation wrapping for testing.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_utils_desktop.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUnderNavigationThrottle implementation
+// summary: Implements a navigation throttle for primary main frame navigations that detects and logs tab-under attempts and triggers framebust blocking or messages.
+// ---
+
 #include "chrome/browser/ui/blocked_content/tab_under_navigation_throttle.h"
 
 #include <cmath>

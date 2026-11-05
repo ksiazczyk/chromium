@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked window parameters implementation
+// summary: Implements BlockedWindowParams, converting blocked popup details such as URL, initiator and window features into NavigateParams.
+// ---
+
 #include "chrome/browser/ui/blocked_content/blocked_window_params.h"
 
 #include "chrome/browser/profiles/profile.h"

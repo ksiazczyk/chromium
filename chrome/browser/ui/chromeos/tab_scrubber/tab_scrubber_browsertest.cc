@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabScrubber browser tests
+// summary: Contains in-process browser tests for tab scrubbing, covering activation, immersive mode interaction and locale or RTL behavior.
+// ---
+
 #include "chrome/browser/ui/chromeos/tab_scrubber/tab_scrubber.h"
 
 #include <memory>

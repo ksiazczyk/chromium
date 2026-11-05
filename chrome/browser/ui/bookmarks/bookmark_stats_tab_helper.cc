@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark stats tab helper implementation
+// summary: Implements a WebContents tab helper that tracks bookmark launch actions and reports time-to-first-paint metrics for the bookmark bar.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_stats_tab_helper.h"
 
 #include "base/metrics/histogram_functions.h"

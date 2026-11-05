@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUiController implementation
+// summary: Implements the controller that coalesces and applies browser UI updates for navigation, toolbar state, status bubbles, and tab notifications.
+// ---
+
 #include "chrome/browser/ui/browser_ui_controller/browser_ui_controller.h"
 
 #include <vector>

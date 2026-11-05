@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for bookmark bar controllers
+summary: Delegates code ownership for this directory to the owners of components/browser_apis.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark UI utils desktop unit tests
+// summary: Unit tests for HasBookmarkURLs and HasBookmarkURLsAllowedInIncognitoMode bookmark utility functions.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/ui/bookmarks/bookmark_utils.h"

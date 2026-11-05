@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup tracker browser tests
+// summary: Browser tests verifying UKM Popup_Closed metrics for tracked popups, such as engagement time, user-initiated closes, and Safe Browsing status.
+// ---
+
 #include "components/blocked_content/popup_tracker.h"
 
 #include <memory>

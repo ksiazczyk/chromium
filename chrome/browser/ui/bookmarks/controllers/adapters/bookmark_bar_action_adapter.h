@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar action adapter interface
+// summary: Declares the abstract interface for bookmark bar actions such as opening bookmarks, folders, the apps page, and context menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_ADAPTERS_BOOKMARK_BAR_ACTION_ADAPTER_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_CONTROLLERS_ADAPTERS_BOOKMARK_BAR_ACTION_ADAPTER_H_
 

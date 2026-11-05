@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android global browser collection platform delegate
+// summary: Android platform delegate that forwards browser created, closed, activated, and deactivated events from Java to the GlobalBrowserCollection.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/global_browser_collection_platform_delegate.h"
 
 #include "chrome/browser/ui/browser_window/internal/jni/GlobalBrowserCollectionPlatformDelegate_jni.h"

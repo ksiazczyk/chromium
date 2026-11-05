@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Android browser window tests
+summary: Delegates ownership of the Android browser window test directory to the owners of the public Android browser window directory.

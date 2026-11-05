@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUIOperationsHelper implementation
+// summary: Implements bookmark UI operations including drag-and-drop of bookmark nodes and clipboard copy, cut and paste of bookmarks.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmark_ui_operations_helper.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksService feature implementation
+// summary: Implements BookmarksServiceFeature, initializing the BookmarksService once the merged bookmark model loads and managing queued mojo connections.
+// ---
+
 #include "chrome/browser/ui/bookmarks/bookmarks_service_feature.h"
 
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service.h"

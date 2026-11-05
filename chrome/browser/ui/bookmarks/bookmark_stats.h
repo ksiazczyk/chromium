@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark metrics declarations
+// summary: Declares bookmark entry point and launch location enums plus functions for recording bookmark usage metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_STATS_H_
 #define CHROME_BROWSER_UI_BOOKMARKS_BOOKMARK_STATS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockedStateController implementation
+// summary: Implements browser lock states and command capability restrictions for extension-locked and OnTask modes.
+// ---
+
 #include "chrome/browser/ui/chromeos/locked_state/locked_state_controller.h"
 
 #include "ash/wm/window_pin_util.h"

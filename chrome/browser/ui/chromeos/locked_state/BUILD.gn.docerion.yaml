@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Locked state BUILD.gn build definition
+summary: Defines the locked_state and browser_tests source sets with their sources and build dependencies.

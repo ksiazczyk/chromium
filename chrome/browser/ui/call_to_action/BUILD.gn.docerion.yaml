@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Call to action build configuration
+summary: Defines the call_to_action source set and a non-Android browser test target with dependencies on base, browser window, and UI base.

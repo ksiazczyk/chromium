@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bluetooth UI directory metadata
+summary: Points the directory metadata to the shared mixins defined in content/browser/bluetooth/COMMON_METADATA.

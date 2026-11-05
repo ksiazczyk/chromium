@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn browser_tests group for chrome/browser/ui/chromeos
+summary: GN build file that aggregates the browser_tests targets of the locked_state, screen_orientation, and tab_scrubber subdirectories into one testonly group.
