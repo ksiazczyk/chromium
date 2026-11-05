@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything app model implementation
+// summary: Implements ReadAnythingAppModel, which holds accessibility tree state, selection data, and metrics for the Read Anything side panel.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_app_model.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything app controller browser tests
+// summary: Browser tests for the Read Anything WebUI app controller, using mocked distiller and page handler dependencies to exercise rendering behavior.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_app_controller.h"
 
 #include <cstddef>

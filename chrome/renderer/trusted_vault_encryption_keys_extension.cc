@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultEncryptionKeysExtension implementation
+// summary: Implements private JavaScript APIs on Google Accounts origins that set sync and client encryption keys and add trusted vault recovery methods for the browser.
+// ---
+
 #include "chrome/renderer/trusted_vault_encryption_keys_extension.h"
 
 #include <utility>

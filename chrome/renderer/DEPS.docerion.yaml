@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for chrome/renderer
+summary: Specifies which headers and components files in the renderer directory are allowed to include.

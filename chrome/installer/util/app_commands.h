@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppCommands collection declaration
+// summary: Declares AppCommands, a collection of AppCommand objects initialized from a registry key with WOW64 access handling.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_APP_COMMANDS_H_
 #define CHROME_INSTALLER_UTIL_APP_COMMANDS_H_
 

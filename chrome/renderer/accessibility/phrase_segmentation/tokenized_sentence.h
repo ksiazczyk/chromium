@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenizedSentence class declaration
+// summary: Declares TokenizedSentence, which holds tokenizer output and computes word and character counts between tokens for phrase detection.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKENIZED_SENTENCE_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKENIZED_SENTENCE_H_
 

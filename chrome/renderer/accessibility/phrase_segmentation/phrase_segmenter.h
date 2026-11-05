@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhraseSegmenter class declaration
+// summary: Declares PhraseSegmenter, which breaks text into phrases by splitting the token dependency graph for smart highlighting.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_PHRASE_SEGMENTER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_PHRASE_SEGMENTER_H_
 

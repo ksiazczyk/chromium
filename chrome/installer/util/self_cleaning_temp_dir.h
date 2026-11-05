@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelfCleaningTempDir class declaration
+// summary: Declares a helper that manages a temporary directory and additionally cleans up intermediate directories it created, scheduling undeletable ones for removal at reboot.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_SELF_CLEANING_TEMP_DIR_H_
 #define CHROME_INSTALLER_UTIL_SELF_CLEANING_TEMP_DIR_H_
 

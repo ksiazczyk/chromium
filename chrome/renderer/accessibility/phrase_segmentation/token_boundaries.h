@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenBoundaries class declaration
+// summary: Declares TokenBoundaries, a container for inter-token boundary weights used by the phrase breaking algorithm.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKEN_BOUNDARIES_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKEN_BOUNDARIES_H_
 

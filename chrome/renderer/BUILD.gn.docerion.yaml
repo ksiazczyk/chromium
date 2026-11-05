@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Chrome renderer
+summary: Defines build targets, grit resources, and dependencies for the Chrome renderer process code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome render thread observer implementation
+// summary: Implements ChromeRenderThreadObserver, which applies Chrome-specific renderer configuration, visited links, media strings and ChromeOS merge session handling.
+// ---
+
 #include "chrome/renderer/chrome_render_thread_observer.h"
 
 #include <stddef.h>

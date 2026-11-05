@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetRegValueWorkItem implementation
+// summary: Implements a work item that sets REG_SZ, REG_DWORD, or REG_QWORD registry values with overwrite control, Wow64 access options, and rollback support.
+// ---
+
 #include "chrome/installer/util/set_reg_value_work_item.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallationState unit tests
+// summary: Tests ProductState::FindProductGuid lookup of Windows Installer product GUIDs by display name, with and without a hint GUID.
+// ---
+
 #include "chrome/installer/util/installation_state.h"
 
 #include "base/strings/cstring_view.h"

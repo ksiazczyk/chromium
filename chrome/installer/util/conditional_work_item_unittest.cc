@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConditionalWorkItem unit tests
+// summary: Tests conditional execution and rollback of if and else branches using mock work items and conditions.
+// ---
+
 #include "chrome/installer/util/conditional_work_item.h"
 
 #include <memory>

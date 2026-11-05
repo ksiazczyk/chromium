@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash merge session loader throttle unit tests
+// summary: Verifies that Google XHR requests are throttled during cookie minting while non-Google requests are not.
+// ---
+
 #include "chrome/renderer/ash_merge_session_loader_throttle.h"
 
 #include <memory>

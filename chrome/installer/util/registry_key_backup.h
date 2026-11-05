@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryKeyBackup class interface
+// summary: Declares RegistryKeyBackup, a container that recursively reads and rewrites a registry key with its values and subkeys.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_REGISTRY_KEY_BACKUP_H_
 #define CHROME_INSTALLER_UTIL_REGISTRY_KEY_BACKUP_H_
 

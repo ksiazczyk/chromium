@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App categorizer unit tests
+// summary: Tests AppCategorizer's detection of Hangouts URLs and whitelisted chat apps across valid and invalid cases.
+// ---
+
 #include "chrome/renderer/app_categorizer.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

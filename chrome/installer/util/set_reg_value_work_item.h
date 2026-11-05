@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetRegValueWorkItem class declaration
+// summary: Declares a WorkItem subclass that sets a registry value of string, DWORD, or QWORD type only if the target key exists, optionally deriving the value via a callback.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_SET_REG_VALUE_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_SET_REG_VALUE_WORK_ITEM_H_
 

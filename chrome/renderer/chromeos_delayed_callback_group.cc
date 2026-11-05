@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS delayed callback group implementation
+// summary: Implements DelayedCallbackGroup, which queues callbacks that run together via RunAll or expire with a timeout reason after a delay.
+// ---
+
 #include "chrome/renderer/chromeos_delayed_callback_group.h"
 
 #include <utility>

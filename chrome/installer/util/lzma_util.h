@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LZMA archive unpacking utility
+// summary: Declares the UnPackArchive helpers and LzmaUtilImpl class that unpack LZMA archives into a directory, with status codes used for metrics.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_LZMA_UTIL_H_
 #define CHROME_INSTALLER_UTIL_LZMA_UTIL_H_
 

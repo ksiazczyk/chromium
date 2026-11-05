@@ -9,6 +9,12 @@
 // In the event that the upgrade fails, this module will install a new service
 // and mark the original service for deletion.
 
+// ---docerion
+// type: source
+// title: InstallServiceWorkItem for Windows service installation
+// summary: Declares a WorkItem subclass that installs, upgrades, or deletes a Windows service for Chrome, including COM CLSID and IID registration.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INSTALL_SERVICE_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_INSTALL_SERVICE_WORK_ITEM_H_
 

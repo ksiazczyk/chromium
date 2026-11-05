@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Localized string utilities unit tests
+// summary: Tests that mode-specific strings are distinct per install mode, placeholder formatting, and mode-based string id mapping.
+// ---
+
 #include "chrome/installer/util/l10n_string_util.h"
 
 #include <string>

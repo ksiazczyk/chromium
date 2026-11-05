@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create directory work item header
+// summary: Declares CreateDirWorkItem, a WorkItem subclass that creates a directory with intermediate paths and removes created directories on rollback.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_CREATE_DIR_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_CREATE_DIR_WORK_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create registry key work item header
+// summary: Declares CreateRegKeyWorkItem, a WorkItem subclass that creates a registry key with all necessary intermediate keys and supports rollback.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_CREATE_REG_KEY_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_CREATE_REG_KEY_WORK_ITEM_H_
 

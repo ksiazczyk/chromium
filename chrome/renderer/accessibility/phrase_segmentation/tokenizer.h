@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tokenizer class header
+// summary: Declares the Tokenizer class, whose Tokenize method returns a list of start and end indices for each token in the input string.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKENIZER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_TOKENIZER_H_
 

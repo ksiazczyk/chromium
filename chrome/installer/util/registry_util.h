@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry utility functions interface
+// summary: Declares registry deletion helpers, conditional delete functions, and predicates such as ValueEquals and ProgramCompare.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_REGISTRY_UTIL_H_
 #define CHROME_INSTALLER_UTIL_REGISTRY_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeDistiller class header
+// summary: Declares the AXTreeDistiller class, which distills an AXTreeUpdate via the Screen2x ML model when available or a rules-based algorithm otherwise.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_AX_TREE_DISTILLER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_AX_TREE_DISTILLER_H_
 

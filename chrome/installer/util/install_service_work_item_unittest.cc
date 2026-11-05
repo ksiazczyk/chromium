@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallServiceWorkItem unit tests
+// summary: Unit tests verifying service installation, upgrade, deletion, and COM registration behavior of the service installation work item.
+// ---
+
 #include "chrome/installer/util/install_service_work_item.h"
 
 #include <shlobj.h>

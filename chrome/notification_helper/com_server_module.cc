@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM server module implementation
+// summary: Implements registration and unregistration of the NotificationActivator class objects and logs module status histograms.
+// ---
+
 // This macro is used in <wrl/module.h>. Since only the COM functionality is
 // used here (while WinRT isn't being used), define this macro to optimize
 // compilation of <wrl/module.h> for COM-only.

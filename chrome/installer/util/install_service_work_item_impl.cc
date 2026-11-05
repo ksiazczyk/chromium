@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallServiceWorkItemImpl implementation
+// summary: Implements Windows service installation and upgrade logic, including SCM operations, sparse metrics, and COM registry path handling.
+// ---
+
 #include "chrome/installer/util/install_service_work_item_impl.h"
 
 #include <cguid.h>

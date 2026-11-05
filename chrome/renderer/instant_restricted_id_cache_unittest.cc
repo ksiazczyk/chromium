@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instant restricted ID cache unit tests
+// summary: Unit tests covering automatic and manual restricted ID generation, cache eviction, and lookup behavior of InstantRestrictedIDCache.
+// ---
+
 #include <stdint.h>
 
 #include <limits>

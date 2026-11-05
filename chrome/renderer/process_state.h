@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process state header
+// summary: Declares process_state helpers to get and set the incognito and instant process status of the renderer process.
+// ---
+
 #ifndef CHROME_RENDERER_PROCESS_STATE_H_
 #define CHROME_RENDERER_PROCESS_STATE_H_
 

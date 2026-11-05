@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyParserModel class and model state enum
+// summary: Declares the DependencyParserModel class for initializing and running a TFLite dependency parsing model, plus the model state enum used for histograms.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_MODEL_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_MODEL_H_
 

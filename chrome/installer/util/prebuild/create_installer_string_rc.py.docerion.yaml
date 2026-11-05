@@ -1,0 +1,4 @@
+# Docerion header of create_installer_string_rc.py.
+type: source
+title: Installer string ID definitions for resource generation
+summary: Defines the string IDs extracted from Chrome's .grd files for the Windows installer, including brand- and install-mode-specific variants used at runtime.

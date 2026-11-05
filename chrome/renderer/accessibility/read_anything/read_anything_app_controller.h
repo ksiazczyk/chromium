@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything app controller header
+// summary: Declares ReadAnythingAppController, a gin-wrappable render frame observer that unserializes AX tree updates and exposes node information to the Read Anything web app.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_APP_CONTROLLER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_APP_CONTROLLER_H_
 

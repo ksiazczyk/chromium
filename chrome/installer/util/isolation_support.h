@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer isolation attribute helper header
+// summary: Declares GetIsolationAttributeName, a helper that returns the name of the isolation security attribute used by the Chrome installer.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_ISOLATION_SUPPORT_H_
 #define CHROME_INSTALLER_UTIL_ISOLATION_SUPPORT_H_
 

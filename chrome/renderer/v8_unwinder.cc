@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 stack unwinder implementation
+// summary: Implements stack unwinding for V8 generated code frames used by the stack sampling profiler, tracking V8 code ranges and modules.
+// ---
+
 #include "chrome/renderer/v8_unwinder.h"
 
 #include <algorithm>

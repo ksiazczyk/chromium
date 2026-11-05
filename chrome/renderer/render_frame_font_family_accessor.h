@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameFontFamilyAccessor class declaration
+// summary: Declares the render frame observer that waits for first contentful paint, copies font family names from Blink, and supplies them to the browser over Mojo.
+// ---
+
 #ifndef CHROME_RENDERER_RENDER_FRAME_FONT_FAMILY_ACCESSOR_H_
 #define CHROME_RENDERER_RENDER_FRAME_FONT_FAMILY_ACCESSOR_H_
 

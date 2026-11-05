@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud traversal utilities unit tests
+// summary: Unit tests for Read Aloud traversal utilities, verifying anchor node selection for editable text and links and granularity behavior on accessibility trees.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_aloud_traversal_utils.h"
 
 #include <memory>

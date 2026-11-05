@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for native HTML dialogs in the installer
+// summary: Declares the HTMLDialog interface and EulaHTMLDialog for showing HTML-based dialogs, such as the EULA, before Chrome is installed.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_HTML_DIALOG_H_
 #define CHROME_INSTALLER_UTIL_HTML_DIALOG_H_
 

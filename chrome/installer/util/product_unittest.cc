@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Product installation unit tests
+// summary: Unit tests checking basic product install state from the registry and that the user data dir is not under Program Files; launch tests are not implemented.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

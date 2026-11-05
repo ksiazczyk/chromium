@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegistryKeyBackup unit tests
+// summary: Unit tests covering initialization, writing, and swapping of RegistryKeyBackup instances against a temporary registry.
+// ---
+
 #include "chrome/installer/util/registry_key_backup.h"
 
 #include <windows.h>

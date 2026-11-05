@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Work item for installing or deleting a Windows service
+// summary: Implements a work item that delegates to InstallServiceWorkItemImpl to install, delete, and query Windows services and COM registration during setup.
+// ---
+
 #include "chrome/installer/util/install_service_work_item.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyParserOpResolver class declaration
+// summary: Declares a TFLite MutableOpResolver subclass that supplies the operators needed to run the dependency parser model.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_OP_RESOLVER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_DEPENDENCY_PARSER_OP_RESOLVER_H_
 

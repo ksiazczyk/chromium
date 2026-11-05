@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree distiller implementation
+// summary: Implements rules-based distillation of accessibility trees to identify main content nodes, with metrics recording for the algorithm and Screen2x paths.
+// ---
+
 #include "chrome/renderer/accessibility/ax_tree_distiller.h"
 
 #include <algorithm>

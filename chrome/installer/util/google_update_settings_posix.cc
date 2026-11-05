@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleUpdateSettings POSIX implementation
+// summary: Implements stats consent and metrics client info handling on POSIX platforms via the client ID backup file manager.
+// ---
+
 #include "chrome/installer/util/google_update_settings.h"
 
 #include "base/task/lazy_thread_pool_task_runner.h"

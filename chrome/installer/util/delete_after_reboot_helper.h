@@ -5,6 +5,12 @@
 // This file declares helper methods used to schedule files for deletion
 // on next reboot.
 
+// ---docerion
+// type: source
+// title: Delete after reboot helper header
+// summary: Declares helpers for scheduling file and directory deletion after reboot and for converting pending move lists to and from registry format.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DELETE_AFTER_REBOOT_HELPER_H_
 #define CHROME_INSTALLER_UTIL_DELETE_AFTER_REBOOT_HELPER_H_
 

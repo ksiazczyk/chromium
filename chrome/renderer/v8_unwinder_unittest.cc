@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 unwinder unit tests
+// summary: Unit tests for V8Unwinder that verify unwinding of V8 generated code frames using a scoped V8 environment and stack sampling test utilities.
+// ---
+
 #include "chrome/renderer/v8_unwinder.h"
 
 #include <memory>

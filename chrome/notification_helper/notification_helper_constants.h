@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper constants header
+// summary: Declares the notification helper histogram allocator name constant for other modules.
+// ---
+
 #ifndef CHROME_NOTIFICATION_HELPER_NOTIFICATION_HELPER_CONSTANTS_H_
 #define CHROME_NOTIFICATION_HELPER_NOTIFICATION_HELPER_CONSTANTS_H_
 

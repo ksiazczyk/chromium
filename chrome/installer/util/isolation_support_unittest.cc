@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolation support unit tests
+// summary: Verifies that the isolation attribute name matches the expected value for each branding configuration.
+// ---
+
 #include "chrome/installer/util/isolation_support.h"
 
 #include <string>

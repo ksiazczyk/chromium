@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleUpdateSettings class declaration
+// summary: Declares the GoogleUpdateSettings class providing access to Google Update group policies, ClientState data, and stats consent settings.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_SETTINGS_H_
 #define CHROME_INSTALLER_UTIL_GOOGLE_UPDATE_SETTINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTokenPrivilege unit tests
+// summary: Unit tests verifying that ScopedTokenPrivilege enables a privilege and restores it afterwards, including the already-enabled case, skipping when not run as admin.
+// ---
+
 #include "chrome/installer/util/scoped_token_privilege.h"
 
 #include <shlobj.h>

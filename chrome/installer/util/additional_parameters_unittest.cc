@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AdditionalParameters
+// summary: Unit tests covering stats default parsing, full suffix handling, and channel parsing for the additional parameters registry value.
+// ---
+
 #include "chrome/installer/util/additional_parameters.h"
 
 #include <optional>

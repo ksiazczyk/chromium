@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryEntry implementation
+// summary: Implements the RegistryEntry class that models a Windows registry key/value and generates work items to create, set, or delete it.
+// ---
+
 #include "chrome/installer/util/registry_entry.h"
 
 #include "base/check.h"

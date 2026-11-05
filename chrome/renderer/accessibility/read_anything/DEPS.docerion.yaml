@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for read_anything
+summary: Defines include rules for the read_anything renderer directory, allowing chrome/common/read_anything and re2 only in specific controller and model files.

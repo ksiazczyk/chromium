@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProductState class declaration
+// summary: Declares ProductState, a registry-backed representation of Chrome's installation state with version, channel, brand, and command accessors.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INSTALLATION_STATE_H_
 #define CHROME_INSTALLER_UTIL_INSTALLATION_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Installer util build targets
+summary: Defines GN build targets for the installer utility, including metainstaller utils, work item sources, and string variants for Windows.

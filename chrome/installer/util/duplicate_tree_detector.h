@@ -6,6 +6,12 @@
 // is "identical" to another (for some value of identical, see below).
 //
 
+// ---docerion
+// type: source
+// title: Duplicate tree detector header
+// summary: Declares IsIdenticalFileHierarchy, a weak identity check between two file or directory trees that does not checksum contents.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DUPLICATE_TREE_DETECTOR_H_
 #define CHROME_INSTALLER_UTIL_DUPLICATE_TREE_DETECTOR_H_
 

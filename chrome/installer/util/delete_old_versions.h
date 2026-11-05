@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete old versions header
+// summary: Declares DeleteOldVersions, which removes files belonging to old Chrome versions and never deletes the active executables or their version directories.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DELETE_OLD_VERSIONS_H_
 #define CHROME_INSTALLER_UTIL_DELETE_OLD_VERSIONS_H_
 

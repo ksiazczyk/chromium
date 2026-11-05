@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenizedSentence implementation
+// summary: Implements TokenizedSentence construction from text or token lists, plus word counting between token indices.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/tokenized_sentence.h"
 
 #include "tokenized_sentence.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the installer HTML dialog
+// summary: Implements HTMLDialogWin using the MSHTML ShowHTMLDialog API with window hooks to render native HTML dialogs on Windows.
+// ---
+
 #include <windows.h>
 
 #include <mshtmhst.h>

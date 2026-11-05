@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetRegValueWorkItem unit tests
+// summary: Unit tests using a registry override to verify setting new and existing values with and without the overwrite flag, plus rollback behavior.
+// ---
+
 #include "chrome/installer/util/set_reg_value_work_item.h"
 
 #include <windows.h>

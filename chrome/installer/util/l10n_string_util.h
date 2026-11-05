@@ -10,6 +10,12 @@
 // to get the resource id for the localized product name in en-US, we take
 // IDS_PRODUCT_NAME_BASE + IDS_L10N_OFFSET_EN_US.
 
+// ---docerion
+// type: source
+// title: Localized string utilities header
+// summary: Declares helpers for localized installer strings, the translation delegate interface, and mode-specific message id mapping.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_L10N_STRING_UTIL_H_
 #define CHROME_INSTALLER_UTIL_L10N_STRING_UTIL_H_
 

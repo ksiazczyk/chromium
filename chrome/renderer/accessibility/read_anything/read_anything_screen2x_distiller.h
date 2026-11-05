@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen2x distiller class
+// summary: Declares the Screen2xDistiller class for Screen2x and rules-based accessibility tree distillation in Read Anything.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_SCREEN2X_DISTILLER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_SCREEN2X_DISTILLER_H_
 

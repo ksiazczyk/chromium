@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper crash reporter client header
+// summary: Declares the crash reporter client class that configures crash reporting for the notification helper process.
+// ---
+
 #ifndef CHROME_NOTIFICATION_HELPER_NOTIFICATION_HELPER_CRASH_REPORTER_CLIENT_H_
 #define CHROME_NOTIFICATION_HELPER_NOTIFICATION_HELPER_CRASH_REPORTER_CLIENT_H_
 

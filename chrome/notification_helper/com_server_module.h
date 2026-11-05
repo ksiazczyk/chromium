@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM server module class declaration
+// summary: Declares ComServerModule, which hosts the NotificationActivator COM component and waits until all registered objects are released.
+// ---
+
 #ifndef CHROME_NOTIFICATION_HELPER_COM_SERVER_MODULE_H_
 #define CHROME_NOTIFICATION_HELPER_COM_SERVER_MODULE_H_
 

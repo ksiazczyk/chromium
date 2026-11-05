@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientIdBackupFileManager unit tests
+// summary: Tests reading, validation, caching, and clearing of the client ID backup file using a temporary user data directory.
+// ---
+
 #include "chrome/installer/util/client_id_backup_file_manager.h"
 
 #include <optional>

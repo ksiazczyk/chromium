@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom menu command constants
+// summary: Defines the MenuCommands enum with plugin run and hide commands used by renderer context menus.
+// ---
+
 #ifndef CHROME_RENDERER_CUSTOM_MENU_COMMANDS_H_
 #define CHROME_RENDERER_CUSTOM_MENU_COMMANDS_H_
 

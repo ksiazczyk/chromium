@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AdvancedFirewallManager
+// summary: Tests adding and deleting firewall rules for the application, skipping the tests when the process is not running with high integrity.
+// ---
+
 #include "chrome/installer/util/advanced_firewall_manager_win.h"
 
 #include <stddef.h>

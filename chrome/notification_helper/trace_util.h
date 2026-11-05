@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace macro header
+// summary: Defines the Trace macro as a no-op in release builds and forwards to TraceImpl for debugger output in debug builds.
+// ---
+
 #ifndef CHROME_NOTIFICATION_HELPER_TRACE_UTIL_H_
 #define CHROME_NOTIFICATION_HELPER_TRACE_UTIL_H_
 

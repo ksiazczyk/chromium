@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper utility
+// summary: Helper that locates chrome.exe one folder above or alongside the notification helper executable.
+// ---
+
 #include "chrome/notification_helper/notification_helper_util.h"
 
 #include "base/base_paths.h"

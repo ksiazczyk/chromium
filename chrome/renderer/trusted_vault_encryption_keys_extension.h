@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultEncryptionKeysExtension class declaration
+// summary: Declares the render frame observer that installs private APIs on Google Accounts origins to configure on-device encryption keys for the trusted vault component.
+// ---
+
 #ifndef CHROME_RENDERER_TRUSTED_VAULT_ENCRYPTION_KEYS_EXTENSION_H_
 #define CHROME_RENDERER_TRUSTED_VAULT_ENCRYPTION_KEYS_EXTENSION_H_
 

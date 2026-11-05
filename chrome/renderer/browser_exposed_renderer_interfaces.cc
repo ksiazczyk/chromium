@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-exposed renderer Mojo interfaces
+// summary: Registers Mojo binders exposing renderer interfaces such as visited links, web cache, WebRTC logging, spellcheck, and font prewarming.
+// ---
+
 #include "chrome/renderer/browser_exposed_renderer_interfaces.h"
 
 #include <memory>

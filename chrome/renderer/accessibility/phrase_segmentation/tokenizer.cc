@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tokenizer implementation
+// summary: Implements Tokenizer::Tokenize, which uses base::i18n::BreakIterator to split text into word and punctuation tokens returned as start and end index pairs.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/tokenizer.h"
 
 #include <cstdint>

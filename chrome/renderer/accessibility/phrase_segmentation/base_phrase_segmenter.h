@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract phrase segmenter interface and strategy enum
+// summary: Declares the BasePhraseSegmenter interface, the words/characters Strategy enum with thresholds, and the CalculatePhraseBoundaries helper for phrase splitting.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_BASE_PHRASE_SEGMENTER_H_
 #define CHROME_RENDERER_ACCESSIBILITY_PHRASE_SEGMENTATION_BASE_PHRASE_SEGMENTER_H_
 

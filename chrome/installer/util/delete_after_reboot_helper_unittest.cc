@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete after reboot helper unit tests
+// summary: Unit tests for the delete-after-reboot helpers, including multi-string conversions and scheduling deletions, requiring admin rights for HKLM.
+// ---
+
 #include "chrome/installer/util/delete_after_reboot_helper.h"
 
 #include <windows.h>

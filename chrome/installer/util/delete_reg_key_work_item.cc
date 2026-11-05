@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete registry key work item implementation
+// summary: Implements a work item that deletes a Windows registry key, backing up the key beforehand so rollback can restore it.
+// ---
+
 #include "chrome/installer/util/delete_reg_key_work_item.h"
 
 #include "base/check.h"

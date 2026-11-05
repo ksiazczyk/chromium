@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.loadTimes and chrome.csi bindings header
+// summary: Declares LoadTimesBindings, a gin-wrappable class that installs chrome.loadTimes() and chrome.csi() on the chrome object.
+// ---
+
 #ifndef CHROME_RENDERER_LOADTIMES_BINDINGS_H_
 #define CHROME_RENDERER_LOADTIMES_BINDINGS_H_
 

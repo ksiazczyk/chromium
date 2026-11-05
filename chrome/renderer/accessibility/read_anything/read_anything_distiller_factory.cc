@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything distiller factory implementation
+// summary: Implements the factory that creates Screen2x or Readability distiller instances depending on the requested distillation method.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_distiller_factory.h"
 
 #include <memory>

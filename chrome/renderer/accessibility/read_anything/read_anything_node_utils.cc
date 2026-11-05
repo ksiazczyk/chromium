@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything node utilities implementation
+// summary: Implements helper functions for inspecting accessibility nodes, including text detection, HTML tag mapping, and PDF artifact handling.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_node_utils.h"
 
 #include <algorithm>

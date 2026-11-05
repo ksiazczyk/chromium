@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Beacon class declaration
+// summary: Declares the Beacon class and factory functions for per-user and per-install first or last event timestamps stored in the registry.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_BEACONS_H_
 #define CHROME_INSTALLER_UTIL_BEACONS_H_
 

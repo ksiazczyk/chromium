@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeleteTreeWorkItem unit tests
+// summary: Unit tests for DeleteTreeWorkItem covering tree deletion with rollback enabled and disabled behavior.
+// ---
+
 #include "chrome/installer/util/delete_tree_work_item.h"
 
 #include <memory>

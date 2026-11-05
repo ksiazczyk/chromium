@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud traversal utilities implementation
+// summary: Implements helpers for Read Aloud text traversal, including granularity text segments, range-to-segment lookups, and placeholder phrase boundary calculation.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_aloud_traversal_utils.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Work item list header
+// summary: Declares WorkItemList, a WorkItem subclass that recursively contains a sequence of work items with add methods and rollback support.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_WORK_ITEM_LIST_H_
 #define CHROME_INSTALLER_UTIL_WORK_ITEM_LIST_H_
 

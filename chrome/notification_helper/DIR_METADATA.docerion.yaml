@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Notification helper bug tracking metadata
+summary: Maps the directory to the UI>Notifications monorail component and a public Buganizer component for issue routing.

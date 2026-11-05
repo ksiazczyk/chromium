@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installer util unit test runner
+// summary: Entry point that launches the chrome installer util unit tests, registering the Chrome path provider, initializing COM, and setting up install details before running the suite.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "base/test/test_suite.h"

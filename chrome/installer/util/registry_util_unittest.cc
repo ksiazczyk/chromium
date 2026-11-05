@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registry utility unit tests
+// summary: Unit tests for registry deletion helpers and conditional delete predicates using mocked registry overrides.
+// ---
+
 #include "chrome/installer/util/registry_util.h"
 
 #include <iterator>

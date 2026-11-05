@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenBoundaries implementation
+// summary: Implements calculation of inter-token boundary weights from the dependency tree, applying punctuation and whitespace rules.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/token_boundaries.h"
 
 #include <cstdlib>

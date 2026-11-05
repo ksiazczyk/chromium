@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unbuffered file writer implementation
+// summary: Implements direct unbuffered file writing on Windows with sector-aligned buffers, checkpoint and commit operations, and error histogram reporting.
+// ---
+
 #include "chrome/installer/util/unbuffered_file_writer.h"
 
 #include <windows.h>

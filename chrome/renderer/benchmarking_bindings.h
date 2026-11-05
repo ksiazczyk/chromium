@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmarking bindings header
+// summary: Declares a gin-wrappable class exposing renderer PID, timing, mark functions, and network cache controls for benchmarks.
+// ---
+
 #ifndef CHROME_RENDERER_BENCHMARKING_BINDINGS_H_
 #define CHROME_RENDERER_BENCHMARKING_BINDINGS_H_
 

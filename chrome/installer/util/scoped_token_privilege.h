@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTokenPrivilege class declaration
+// summary: Declares a Windows-only RAII class that enables a named token privilege for its lifetime and exposes is_enabled to report whether the privilege was successfully enabled.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_SCOPED_TOKEN_PRIVILEGE_H_
 #define CHROME_INSTALLER_UTIL_SCOPED_TOKEN_PRIVILEGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeProductState test helper
+// summary: Provides a fake ProductState with setters for version, brand, usage stats and uninstall command for use in unit tests.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_FAKE_PRODUCT_STATE_H_
 #define CHROME_INSTALLER_UTIL_FAKE_PRODUCT_STATE_H_
 

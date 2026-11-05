@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-install registry value storage implementation
+// summary: Implements PerInstallValue, which stores, reads, and deletes named JSON values in the Windows registry on a per-install basis.
+// ---
+
 #include "chrome/installer/util/per_install_values.h"
 
 #include <optional>

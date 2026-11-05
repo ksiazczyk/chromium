@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: Duplicate tree detector implementation
+// summary: Implements IsIdenticalFileHierarchy, comparing two file hierarchies by structure, file size and, in developer builds, modification time.
+// ---
+
 #include "chrome/installer/util/duplicate_tree_detector.h"
 
 #include <windows.h>

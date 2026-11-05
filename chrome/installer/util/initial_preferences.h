@@ -5,6 +5,12 @@
 // This file contains functions processing initial preference file used by
 // setup and first run.
 
+// ---docerion
+// type: source
+// title: Initial preferences class for setup and first run
+// summary: Declares the InitialPreferences class and documents the JSON format of distribution options used by setup and first run.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_INITIAL_PREFERENCES_H_
 #define CHROME_INSTALLER_UTIL_INITIAL_PREFERENCES_H_
 

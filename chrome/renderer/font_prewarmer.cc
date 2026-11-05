@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font prewarmer implementation
+// summary: Implements the FontPrewarmer Mojo service that forwards font prewarming requests from the browser to Blink's font rendering.
+// ---
+
 #include "chrome/renderer/font_prewarmer.h"
 
 #include "content/public/renderer/render_frame.h"

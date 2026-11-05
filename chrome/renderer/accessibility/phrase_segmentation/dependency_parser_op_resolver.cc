@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Op resolver registration for the dependency parser model
+// summary: Registers the builtin and custom TFLite operators required by the dependency parsing model, including QRNN pooling and sequence string projection.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/dependency_parser_op_resolver.h"
 
 #include "components/optimization_guide/core/optimization_guide_features.h"

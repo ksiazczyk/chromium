@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud app model implementation
+// summary: Implements the Read Aloud model that manages speech settings, enabled languages and voices, highlight granularity, and accessibility tree positions for phrase highlighting.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_aloud_app_model.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of using_util.vsprops.
+type: config
+title: Visual Studio property sheet for installer util
+summary: Visual Studio property sheet that adds generated installer_util_strings include directories to the compiler and resource compiler tools.

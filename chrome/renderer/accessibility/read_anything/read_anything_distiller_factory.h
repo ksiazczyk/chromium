@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything distiller factory header
+// summary: Declares ReadAnythingDistillerFactory, which instantiates concrete distiller engines and encapsulates their engine-specific dependencies.
+// ---
+
 #ifndef CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_DISTILLER_FACTORY_H_
 #define CHROME_RENDERER_ACCESSIBILITY_READ_ANYTHING_READ_ANYTHING_DISTILLER_FACTORY_H_
 

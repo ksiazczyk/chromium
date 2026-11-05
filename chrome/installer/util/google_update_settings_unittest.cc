@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleUpdateSettings unit tests
+// summary: Unit tests for GoogleUpdateSettings that redirect registry hives to test update policies, ap keys, and install settings independently of the machine.
+// ---
+
 #include "chrome/installer/util/google_update_settings.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientIdBackupFileManager implementation
+// summary: Implements the singleton that reads, validates, caches, and stores the client ID backup file used for metrics reporting consent.
+// ---
+
 #include "chrome/installer/util/client_id_backup_file_manager.h"
 
 #include "base/check.h"

@@ -4,6 +4,12 @@
 //
 // This file contains helper functions used by setup.
 
+// ---docerion
+// type: source
+// title: Header for installer helper functions
+// summary: Declares helper functions used by setup to locate existing, default, and preference-based Chrome install directories for per-user and per-machine installs.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_HELPER_H_
 #define CHROME_INSTALLER_UTIL_HELPER_H_
 

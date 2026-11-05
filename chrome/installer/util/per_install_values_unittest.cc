@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-install registry value unit tests
+// summary: Unit test that verifies setting, getting, and deleting a PerInstallValue in the registry, skipping system-install cases without admin rights.
+// ---
+
 #include "chrome/installer/util/per_install_values.h"
 
 #include <shlobj.h>

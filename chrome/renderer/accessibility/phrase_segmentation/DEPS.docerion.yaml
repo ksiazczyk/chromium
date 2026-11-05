@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for phrase segmentation dependencies
+summary: Defines the allowed include paths for the phrase segmentation directory, covering optimization guide, TFLite, TFLite Support, and TensorFlow dependencies.

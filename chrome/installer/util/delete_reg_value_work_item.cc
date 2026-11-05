@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete registry value work item implementation
+// summary: Implements a work item that deletes a registry value after saving its previous contents so rollback can restore the original value and type.
+// ---
+
 #include "chrome/installer/util/delete_reg_value_work_item.h"
 
 #include "base/logging.h"

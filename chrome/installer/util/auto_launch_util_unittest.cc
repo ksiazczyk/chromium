@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto-launch utility unit tests
+// summary: Unit test verifying the known-answer hash used in the Chrome auto-launch registry key name for a fixed user data path.
+// ---
+
 #include "chrome/installer/util/auto_launch_util.h"
 
 #include "base/logging.h"

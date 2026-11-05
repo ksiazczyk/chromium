@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Additional parameters registry access
+// summary: Implements reading, parsing, and writing the 'ap' additional parameters value in the Windows registry Client State key used for update checks.
+// ---
+
 #include "chrome/installer/util/additional_parameters.h"
 
 #include <windows.h>

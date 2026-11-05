@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Accounts private API extension implementation
+// summary: Injects an OAuthConsent JavaScript API into Google Accounts pages and forwards consent results to the browser over Mojo.
+// ---
+
 #include "chrome/renderer/google_accounts_private_api_extension.h"
 
 #include "chrome/renderer/google_accounts_private_api_util.h"

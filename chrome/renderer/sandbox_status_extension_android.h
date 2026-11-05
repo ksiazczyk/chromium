@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android sandbox status extension class declaration
+// summary: Declares the SandboxStatusExtension class, a ref-counted RenderFrameObserver that installs the sandbox status JavaScript function on Android once the browser sends an approval IPC.
+// ---
+
 #ifndef CHROME_RENDERER_SANDBOX_STATUS_EXTENSION_ANDROID_H_
 #define CHROME_RENDERER_SANDBOX_STATUS_EXTENSION_ANDROID_H_
 

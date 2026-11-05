@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the read_anything directory
+summary: Points to the read_anything browser UI owners and assigns per-file review responsibility for DEPS and read_anything files.

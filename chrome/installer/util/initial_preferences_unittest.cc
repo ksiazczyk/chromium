@@ -4,6 +4,12 @@
 //
 // Unit tests for initial preferences related methods.
 
+// ---docerion
+// type: test
+// title: Unit tests for initial preferences parsing
+// summary: Unit tests verifying parsing of distribution parameters, missing values, and command line handling in initial preferences.
+// ---
+
 #include "chrome/installer/util/initial_preferences.h"
 
 #include <stddef.h>

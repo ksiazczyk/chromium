@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installer logging unit tests
+// summary: Tests log file truncation behavior including cases where truncation is not needed or the file is in use.
+// ---
+
 
 #include "chrome/installer/util/logging_installer.h"
 

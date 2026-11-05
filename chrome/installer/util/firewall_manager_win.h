@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirewallManager interface
+// summary: Declares the FirewallManager abstract interface for checking local port use and adding or removing Chrome's Windows firewall rules.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_FIREWALL_MANAGER_WIN_H_
 #define CHROME_INSTALLER_UTIL_FIREWALL_MANAGER_WIN_H_
 

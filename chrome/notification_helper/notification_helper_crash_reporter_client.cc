@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification helper crash reporter client
+// summary: Implements the crash reporter client that initializes Crashpad with the handler embedded in chrome.exe for this process.
+// ---
+
 #include "chrome/notification_helper/notification_helper_crash_reporter_client.h"
 
 #include <memory>

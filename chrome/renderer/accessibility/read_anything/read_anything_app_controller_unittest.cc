@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything app controller unit tests
+// summary: Unit tests for the Read Anything app controller covering distillation, selection, and read-aloud behavior with mocked dependencies.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_app_controller.h"
 
 #include <cstddef>

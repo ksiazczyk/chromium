@@ -6,6 +6,12 @@
 // Windows shell. These methods are all static and currently part of
 // ShellUtil class.
 
+// ---docerion
+// type: source
+// title: ShellUtil class declarations for Windows shell integration
+// summary: Declares the ShellUtil class with static methods and enums for shell integration, shortcut operations, and default handler state used by Chrome and the installer.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_SHELL_UTIL_H_
 #define CHROME_INSTALLER_UTIL_SHELL_UTIL_H_
 

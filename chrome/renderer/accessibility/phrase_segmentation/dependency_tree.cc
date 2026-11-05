@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dependency tree subtree boundary computation
+// summary: Builds a dependency tree from tokens and dependency heads, computes subtree boundaries, and finds boundaries for parent edges used in phrase segmentation.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/dependency_tree.h"
 
 #include <cstdlib>

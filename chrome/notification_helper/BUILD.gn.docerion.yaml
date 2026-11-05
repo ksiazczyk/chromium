@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification helper GN build targets
+summary: Defines the notification_helper executable, its library and constants source sets, version resources, and the unit test target.

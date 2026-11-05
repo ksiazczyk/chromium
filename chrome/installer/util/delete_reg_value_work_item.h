@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete registry value work item header
+// summary: Declares DeleteRegValueWorkItem, a WorkItem subclass that deletes a REG_SZ, REG_DWORD, or REG_QWORD registry value only when the target key exists.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_DELETE_REG_VALUE_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_DELETE_REG_VALUE_WORK_ITEM_H_
 

@@ -6,6 +6,12 @@
 // out during install/update/uninstall. Supports rollback of actions if this
 // process fails.
 
+// ---docerion
+// type: source
+// title: Work item base class
+// summary: Base class defining the do and rollback API for installer actions, including best-effort and rollback flags and static factory methods for concrete work items.
+// ---
+
 #ifndef CHROME_INSTALLER_UTIL_WORK_ITEM_H_
 #define CHROME_INSTALLER_UTIL_WORK_ITEM_H_
 

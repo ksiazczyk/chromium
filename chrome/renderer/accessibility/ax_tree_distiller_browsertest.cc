@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX tree distiller browser tests
+// summary: Browser tests that distill accessibility trees from HTML pages and verify the resulting content node IDs match expected text content.
+// ---
+
 #include "chrome/renderer/accessibility/ax_tree_distiller.h"
 
 #include <array>

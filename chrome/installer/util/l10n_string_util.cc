@@ -4,6 +4,12 @@
 //
 // This file defines utility functions for fetching localized resources.
 
+// ---docerion
+// type: source
+// title: Localized string utilities implementation
+// summary: Fetches localized installer strings from bundled Windows string resources using language selection and an optional translation delegate.
+// ---
+
 #include "chrome/installer/util/l10n_string_util.h"
 
 #include <windows.h>

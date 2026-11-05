@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen2x distiller implementation
+// summary: Implements Screen2x distillation by serializing the accessibility tree and forwarding it to the AX tree distiller, reporting content node IDs on completion.
+// ---
+
 #include "chrome/renderer/accessibility/read_anything/read_anything_screen2x_distiller.h"
 
 #include <optional>

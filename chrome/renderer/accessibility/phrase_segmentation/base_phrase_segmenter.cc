@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phrase boundary calculation from break likelihood scores
+// summary: Implements CalculatePhraseBoundaries, converting a segmenter's break likelihood scores into sorted character offsets for splitting a sentence into phrases.
+// ---
+
 #include "chrome/renderer/accessibility/phrase_segmentation/base_phrase_segmenter.h"
 
 #include <algorithm>  // For std::sort
