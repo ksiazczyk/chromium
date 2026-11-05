@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session request throttled in-renderer manager implementation
+// summary: Implements the renderer manager that notifies the browser over Mojo when bound session requests are blocked on a stale cookie.
+// ---
+
 #include "chrome/renderer/bound_session_credentials/bound_session_request_throttled_in_renderer_manager.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.certificateProvider API
+// summary: Custom bindings that attach validated, single-use result callbacks to certificateProvider events by massaging request IDs out of event arguments.
+// ---
+
 const certificateProviderInternal =
     getInternalApi('certificateProviderInternal');
 

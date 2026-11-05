@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for webui_browser
+summary: Allowlist permitting includes from components/guest_contents/renderer plus extra browser and content headers for the browsertest.

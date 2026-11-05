@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy activity log filter delegate implementation
+// summary: Implements Chrome's policy activity log filter that flags high-risk extension DOM events for enterprise telemetry.
+// ---
+
 #include "chrome/renderer/extensions/chrome_policy_activity_log_filter_delegate.h"
 
 #include "chrome/common/extensions/activity_log_policy_util.h"

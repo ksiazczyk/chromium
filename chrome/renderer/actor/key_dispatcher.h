@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key dispatcher class declaration
+// summary: Declares KeyDispatcher and KeyParams for generating and dispatching keyboard event sequences with delays and safe cancellation.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_KEY_DISPATCHER_H_
 #define CHROME_RENDERER_ACTOR_KEY_DISPATCHER_H_
 

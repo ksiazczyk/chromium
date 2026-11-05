@@ -8,6 +8,12 @@
 // doesn't provide any new functionality; it translates its API to the
 // WebView API.
 
+// ---docerion
+// type: source
+// title: Controlled frame context menus adapter
+// summary: Wraps WebView's context menus implementation with a web-friendly, promise-based API for Controlled Frame.
+// ---
+
 const CHROME_WEB_VIEW_CONTEXT_MENUS_PROMISE_API_METHODS =
     require('chromeWebViewContextMenusApiMethods').PROMISE_API_METHODS;
 const logging = requireNative('logging');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorPageController header
+// summary: Declares NetErrorPageController, which binds helper functions to the JavaScript window.errorPageController object on network error pages.
+// ---
+
 #ifndef CHROME_RENDERER_NET_NET_ERROR_PAGE_CONTROLLER_H_
 #define CHROME_RENDERER_NET_NET_ERROR_PAGE_CONTROLLER_H_
 

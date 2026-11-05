@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorHelper implementation
+// summary: Implements the renderer-side NetErrorHelper that observes render frames, generates network error pages, and handles DNS probe updates and button actions.
+// ---
+
 #include "chrome/renderer/net/net_error_helper.h"
 
 #include <memory>

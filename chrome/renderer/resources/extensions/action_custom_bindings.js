@@ -4,6 +4,12 @@
 
 // Custom binding for the action API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.action API
+// summary: Registers a custom hook that routes the action.setIcon request through the shared setIcon handler.
+// ---
+
 const getSetIconHandler = require('setIcon').getSetIconHandler;
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

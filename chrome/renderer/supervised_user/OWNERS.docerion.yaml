@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Supervised user renderer OWNERS
+summary: Owners file that delegates review ownership of the supervised user renderer code to the browser-side OWNERS file.

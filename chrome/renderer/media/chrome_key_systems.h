@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome key systems registration header
+// summary: Declares GetChromeKeySystems, which registers key systems supported by the chrome/ layer for a render frame.
+// ---
+
 #ifndef CHROME_RENDERER_MEDIA_CHROME_KEY_SYSTEMS_H_
 #define CHROME_RENDERER_MEDIA_CHROME_KEY_SYSTEMS_H_
 

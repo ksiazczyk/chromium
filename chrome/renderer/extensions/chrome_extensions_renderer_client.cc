@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions renderer client implementation
+// summary: Implements the Chrome-specific renderer client for extensions, wiring policy activity logging, permissions, and resource request policy delegates.
+// ---
+
 #include "chrome/renderer/extensions/chrome_extensions_renderer_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session request throttled handler renderer header
+// summary: Declares the renderer implementation of BoundSessionRequestThrottledHandler that posts blocked-on-cookie handling to the IO thread.
+// ---
+
 #ifndef CHROME_RENDERER_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_HANDLER_RENDERER_IMPL_H_
 #define CHROME_RENDERER_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_REQUEST_THROTTLED_HANDLER_RENDERER_IMPL_H_
 

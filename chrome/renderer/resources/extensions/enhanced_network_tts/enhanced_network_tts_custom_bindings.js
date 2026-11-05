@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced network TTS custom bindings
+// summary: JavaScript adapter that binds the enhanced network TTS Mojo interface so renderer code can request enhanced-voice audio data and receive it via callbacks.
+// ---
+
 'use strict';
 
 if ((typeof mojo === 'undefined') || !mojo.bindingsLibraryInitialized) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto key classes for enterprise.platformKeys
+// summary: Implements the WebCrypto key pair and symmetric key wrappers used by the enterprise.platformKeys extension API.
+// ---
+
 const utils = require('utils');
 const intersect = require('platformKeys.utils').intersect;
 const keyModule = require('platformKeys.Key');

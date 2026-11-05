@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for phishing DOM utils eligibility checks
+// summary: Verifies CanPerformPhishingDetection reports a valid status for http and https pages and rejects file and data URL schemes.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/phishing_dom_utils.h"
 
 #include "content/public/test/render_view_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtleCrypto implementation for enterprise.platformKeys
+// summary: Implements WebCrypto SubtleCrypto operations with validation of supported RSA, ECDSA, and AES-CBC algorithms and key usages.
+// ---
+
 const utils = require('utils');
 const internalAPI = getInternalApi('enterprise.platformKeysInternal');
 const intersect = require('platformKeys.utils').intersect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Capture custom bindings implementation
+// summary: Implements custom bindings for the pageCapture API, creating blobs from files and sending response acknowledgement IPCs for capture requests.
+// ---
+
 #include "chrome/renderer/extensions/api/page_capture_custom_bindings.h"
 
 #include "base/functional/bind.h"

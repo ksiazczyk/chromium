@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled frame implementation class
+// summary: Implements ControlledFrameImpl, extending ChromeWebViewImpl with Controlled Frame events, context menus, and client hints support.
+// ---
+
 const ChromeWebViewImpl = require('chromeWebView').ChromeWebViewImpl;
 const ControlledFrameInternal = getInternalApi('controlledFrameInternal');
 const ControlledFrameEvents =

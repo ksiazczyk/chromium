@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoardingPassExtractor class declaration
+// summary: Declares the BoardingPassExtractor class, a RenderFrameObserver implementing the mojom BoardingPassExtractor interface for extracting boarding passes.
+// ---
+
 #ifndef CHROME_RENDERER_WALLET_BOARDING_PASS_EXTRACTOR_H_
 #define CHROME_RENDERER_WALLET_BOARDING_PASS_EXTRACTOR_H_
 

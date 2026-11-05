@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Actor renderer directory metadata
+summary: Maps the directory to the UI>Browser>Actor component, the chrome-actor team email and a Buganizer component for issue routing.

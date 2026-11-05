@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility private hooks delegate unit tests
+// summary: Unit tests verifying the getDisplayNameForLocale behavior of the accessibilityPrivate hooks delegate across various locales.
+// ---
+
 #include "chrome/renderer/extensions/api/accessibility_private_hooks_delegate.h"
 
 #include "base/strings/stringprintf.h"

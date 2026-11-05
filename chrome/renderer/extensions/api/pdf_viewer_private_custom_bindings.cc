@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer private custom bindings implementation
+// summary: Implements custom bindings for the pdfViewerPrivate API, providing GetTextInfo which serializes typefaces and gathers text information for a textarea element.
+// ---
+
 #include "chrome/renderer/extensions/api/pdf_viewer_private_custom_bindings.h"
 
 #include <optional>

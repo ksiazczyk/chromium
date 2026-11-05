@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity API hooks delegate implementation
+// summary: Implements native hooks for the identity API that massage getAuthToken results so callbacks receive separate token and scope arguments while promises return a single object.
+// ---
+
 #include "chrome/renderer/extensions/api/identity_hooks_delegate.h"
 
 #include "base/check.h"

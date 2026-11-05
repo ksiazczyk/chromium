@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates ownership of the PDF renderer directory to the reviewers listed in the pdf directory's OWNERS file.

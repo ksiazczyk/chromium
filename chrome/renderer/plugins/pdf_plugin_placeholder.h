@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF plugin placeholder class declaration
+// summary: Declares PDFPluginPlaceholder, a gin-wrappable placeholder letting users open a PDF when plugins are disabled.
+// ---
+
 #ifndef CHROME_RENDERER_PLUGINS_PDF_PLUGIN_PLACEHOLDER_H_
 #define CHROME_RENDERER_PLUGINS_PDF_PLUGIN_PLACEHOLDER_H_
 

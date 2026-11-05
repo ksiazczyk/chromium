@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to shared extension metadata
+summary: Sets the mixins field so the directory inherits the common metadata defined in //extensions/COMMON_METADATA.

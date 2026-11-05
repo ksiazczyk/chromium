@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for extension renderer resources
+summary: GN build file that packs the extension custom binding JavaScript sources into a generated resources.grdp bundle, with ChromeOS-only and PDF-conditional inputs.

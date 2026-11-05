@@ -4,6 +4,12 @@
 
 // Custom binding for the GCM API.
 
+// ---docerion
+// type: source
+// title: GCM custom bindings
+// summary: Custom binding for the GCM API that validates send message data keys, forbids reserved prefixes, and enforces the maximum payload size.
+// ---
+
 const forEach = require('utils').forEach;
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

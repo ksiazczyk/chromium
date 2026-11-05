@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity API hooks delegate header
+// summary: Declares the APIBindingHooksDelegate providing custom native hooks for the chrome.identity API.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_IDENTITY_HOOKS_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_API_IDENTITY_HOOKS_DELEGATE_H_
 

@@ -5,6 +5,12 @@
 // This module implements chrome-specific <webview> API.
 // See web_view_api_methods.js for details.
 
+// ---docerion
+// type: source
+// title: Chrome-specific <webview> API implementation
+// summary: Implements the Chrome-specific <webview> API, including per-instance context menus events and the WebViewContextMenusImpl object exposed as <webview>.contextMenus.
+// ---
+
 const ChromeWebView = getInternalApi('chromeWebViewInternal');
 const ChromeWebViewSchema =
     requireNative('schema_registry').GetSchema('chromeWebViewInternal');

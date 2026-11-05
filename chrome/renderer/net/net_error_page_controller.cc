@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorPageController implementation
+// summary: Implements the gin-wrapped errorPageController JavaScript bindings that forward error page button clicks and easter egg actions to the delegate.
+// ---
+
 #include "chrome/renderer/net/net_error_page_controller.h"
 #include "content/public/renderer/render_frame.h"
 #include "gin/object_template_builder.h"

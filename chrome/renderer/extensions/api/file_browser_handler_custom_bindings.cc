@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBrowserHandler custom bindings implementation
+// summary: Implements custom bindings for the fileBrowserHandler API, routing GetExternalFileEntry to create external file system entries on ChromeOS.
+// ---
+
 #include "chrome/renderer/extensions/api/file_browser_handler_custom_bindings.h"
 
 #include <string>

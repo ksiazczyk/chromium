@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool base implementation
+// summary: Implements ToolBase, the shared base for actor tools, providing target resolution, live validation, hit testing, occlusion checks, scroll into view, and metrics.
+// ---
+
 #include "chrome/renderer/actor/tool_base.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications native handler implementation
+// summary: Implements the notifications native handler, exposing GetNotificationImageSizes to the renderer with notification bitmap sizes and the maximum supported resource scale factor.
+// ---
+
 #include "chrome/renderer/extensions/api/notifications_native_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension API hooks delegate implementation
+// summary: Implements native hooks for the chrome.extension API, aliasing deprecated methods to their chrome.runtime counterparts.
+// ---
+
 #include "chrome/renderer/extensions/api/extension_hooks_delegate.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session request throttled handler renderer unit tests
+// summary: Unit tests verifying that blocked-on-cookie requests reach the manager on the IO thread and callbacks run on the caller's sequence.
+// ---
+
 #include "chrome/renderer/bound_session_credentials/bound_session_request_throttled_handler_renderer_impl.h"
 
 #include <algorithm>

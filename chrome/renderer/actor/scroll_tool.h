@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll tool class declaration
+// summary: Declares ScrollTool, a renderer actor tool that performs a scroll over a target, supporting pixel distances and asynchronous page or document granularity scrolls.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_SCROLL_TOOL_H_
 #define CHROME_RENDERER_ACTOR_SCROLL_TOOL_H_
 

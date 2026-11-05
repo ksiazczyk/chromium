@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user error page controller delegate implementation
+// summary: Implements the delegate as a render frame observer that forwards interstitial actions to the browser via the SupervisedUserCommands Mojo interface.
+// ---
+
 #include "chrome/renderer/supervised_user/supervised_user_error_page_controller_delegate_impl.h"
 
 #include "chrome/renderer/supervised_user/supervised_user_error_page_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for renderer extensions
+summary: Points to the shared extensions metadata and lists the extensions team email for code reviews.

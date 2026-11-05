@@ -4,6 +4,12 @@
 
 // Custom binding for the fileManagerPrivate API.
 
+// ---docerion
+// type: source
+// title: fileManagerPrivate custom bindings
+// summary: Custom binding for the fileManagerPrivate API that adapts callbacks with last-error propagation, resolves isolated entries, and maps Drive search results to external file entries.
+// ---
+
 // Natives
 const blobNatives = requireNative('blob_natives');
 const fileManagerPrivateNatives = requireNative('file_manager_private');

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for renderer resources
+summary: Delegates ownership review of this directory to the WebUI platform owners list.

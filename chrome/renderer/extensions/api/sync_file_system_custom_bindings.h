@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file system custom bindings header
+// summary: Declares SyncFileSystemCustomBindings, the native handler exposing GetSyncFileSystemObject for the syncFileSystem API.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_SYNC_FILE_SYSTEM_CUSTOM_BINDINGS_H_
 #define CHROME_RENDERER_EXTENSIONS_API_SYNC_FILE_SYSTEM_CUSTOM_BINDINGS_H_
 

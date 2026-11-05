@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll tool implementation
+// summary: Implements ScrollTool, which scrolls a target element or page by pixel offset or granularity such as page up and down, logging offsets and results to the journal.
+// ---
+
 #include "chrome/renderer/actor/scroll_tool.h"
 
 #include <optional>

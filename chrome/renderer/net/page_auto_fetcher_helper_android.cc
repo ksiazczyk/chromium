@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page auto fetcher helper Android implementation
+// summary: Implements PageAutoFetcherHelper, binding a Mojo OfflinePageAutoFetcher remote from the renderer and scheduling or cancelling offline page auto-fetch requests.
+// ---
+
 #include "chrome/renderer/net/page_auto_fetcher_helper_android.h"
 
 #include <utility>

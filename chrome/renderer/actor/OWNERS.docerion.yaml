@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor renderer owners
+summary: Delegates ownership review for this directory to chrome/browser/actor/OWNERS.

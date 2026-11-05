@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndigoAgent class header
+// summary: Declares the IndigoAgent RenderFrameObserver that injects the Indigo content script and serves the chrome.mojom.IndigoAgent interface per render frame.
+// ---
+
 #ifndef CHROME_RENDERER_INDIGO_INDIGO_AGENT_H_
 #define CHROME_RENDERER_INDIGO_INDIGO_AGENT_H_
 

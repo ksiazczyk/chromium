@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web URL pattern natives browser tests
+// summary: Browser tests exercising URLPatternToMatchPatterns with URL pattern inputs and their expected match pattern outputs.
+// ---
+
 #include "chrome/renderer/controlled_frame/web_url_pattern_natives.h"
 
 #include <optional>

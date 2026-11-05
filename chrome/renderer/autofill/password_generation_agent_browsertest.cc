@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation agent browser tests
+// summary: Browser tests for the renderer password generation agent, exercising generation triggers with fake Mojo drivers.
+// ---
+
 #include "components/autofill/content/renderer/password_generation_agent.h"
 
 #include <string.h>

@@ -4,6 +4,12 @@
 
 // Custom binding for the image writer private API.
 
+// ---docerion
+// type: source
+// title: imageWriterPrivate custom bindings
+// summary: Custom binding for the image writer private API that rewrites writeFromFile arguments from a file entry into file system name and relative path values.
+// ---
+
 apiBridge.registerCustomHook(function(bindingsAPI) {
   const apiFunctions = bindingsAPI.apiFunctions;
 

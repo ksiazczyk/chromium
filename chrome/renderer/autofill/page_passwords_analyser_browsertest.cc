@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page passwords analyser browser tests
+// summary: Browser tests verifying the console warnings the page passwords analyser emits for password fields and autocomplete attributes.
+// ---
+
 #include "components/autofill/content/renderer/page_passwords_analyser.h"
 
 #include "chrome/test/base/chrome_render_view_test.h"

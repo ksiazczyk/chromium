@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake password generation driver implementation
+// summary: Implements the fake PasswordGenerationDriver Mojo receiver used to bind and flush test messages.
+// ---
+
 #include "chrome/renderer/autofill/fake_password_generation_driver.h"
 
 #include <utility>

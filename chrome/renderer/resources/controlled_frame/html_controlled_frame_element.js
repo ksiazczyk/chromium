@@ -4,6 +4,12 @@
 
 // This module implements chrome-specific <controlledframe> Element.
 
+// ---docerion
+// type: source
+// title: HTML controlled frame element
+// summary: Implements the chrome-specific <controlledframe> element, forwarding API methods and converting web naming to WebView naming.
+// ---
+
 const ControlledFrameImpl = require('controlledFrameImpl').ControlledFrameImpl;
 const forwardApiMethods =
     require('guestViewContainerElement').forwardApiMethods;

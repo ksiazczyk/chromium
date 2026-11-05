@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script tool class declaration
+// summary: Declares ScriptTool, a renderer actor tool that invokes a script tool in the frame's document, with validate, execute, cancel, and debug interfaces.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_SCRIPT_TOOL_H_
 #define CHROME_RENDERER_ACTOR_SCRIPT_TOOL_H_
 

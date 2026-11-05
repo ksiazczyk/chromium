@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool executor implementation
+// summary: Implements ToolExecutor, which receives tool invocations in the renderer, creates the matching tool such as click or scroll, and drives initialization, execution, and cancellation.
+// ---
+
 #include "chrome/renderer/actor/tool_executor.h"
 
 #include <cstdint>

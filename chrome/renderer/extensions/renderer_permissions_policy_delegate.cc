@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer permissions policy delegate implementation
+// summary: Implements the renderer permissions policy delegate that blocks extensions from scripting the Chrome Web Store page and instant (new tab) processes.
+// ---
+
 #include "chrome/renderer/extensions/renderer_permissions_policy_delegate.h"
 
 #include "base/command_line.h"

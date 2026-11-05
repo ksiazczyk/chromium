@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility private API hooks delegate header
+// summary: Declares the AccessibilityPrivateHooksDelegate class providing custom native hooks for the accessibilityPrivate extension API.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_ACCESSIBILITY_PRIVATE_HOOKS_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_API_ACCESSIBILITY_PRIVATE_HOOKS_DELEGATE_H_
 

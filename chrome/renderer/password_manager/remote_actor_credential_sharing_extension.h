@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing extension header
+// summary: Declares the RemoteActorCredentialSharingExtension RenderFrameObserver class that installs the requestAgentAuthentication JavaScript API bindings.
+// ---
+
 #ifndef CHROME_RENDERER_PASSWORD_MANAGER_REMOTE_ACTOR_CREDENTIAL_SHARING_EXTENSION_H_
 #define CHROME_RENDERER_PASSWORD_MANAGER_REMOTE_ACTOR_CREDENTIAL_SHARING_EXTENSION_H_
 

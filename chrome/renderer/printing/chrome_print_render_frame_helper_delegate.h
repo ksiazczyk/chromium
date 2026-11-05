@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome print render frame helper delegate header
+// summary: Declares ChromePrintRenderFrameHelperDelegate, the Chrome implementation of PrintRenderFrameHelper's Delegate interface for renderer-side printing behavior.
+// ---
+
 #ifndef CHROME_RENDERER_PRINTING_CHROME_PRINT_RENDER_FRAME_HELPER_DELEGATE_H_
 #define CHROME_RENDERER_PRINTING_CHROME_PRINT_RENDER_FRAME_HELPER_DELEGATE_H_
 

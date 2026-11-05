@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome plugin placeholder implementation
+// summary: Implements ChromePluginPlaceholder, the renderer-side placeholder for blocked or missing plugins, including context menu and status handling.
+// ---
+
 #include "chrome/renderer/plugins/chrome_plugin_placeholder.h"
 
 #include <memory>

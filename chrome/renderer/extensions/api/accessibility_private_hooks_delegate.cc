@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility private API hooks delegate implementation
+// summary: Implements native hooks for the accessibilityPrivate extension API, handling getDisplayNameForLocale to return locale display names.
+// ---
+
 #include "chrome/renderer/extensions/api/accessibility_private_hooks_delegate.h"
 
 #include "base/i18n/language_tag.h"

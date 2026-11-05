@@ -5,6 +5,12 @@
 // This module contains the public-facing context menus API functions for
 // <webview>.
 
+// ---docerion
+// type: source
+// title: Webview context menus promise API methods
+// summary: Exports the list of <webview> context menus API methods (create, remove, removeAll, update) that can return Promises, with their callback argument indexes.
+// ---
+
 // Contains a list of API details that can return Promises. The details have the
 // API name and the argument list index for their callback parameter. The
 // callback index is necessary for APIs that are implemented by an internal API

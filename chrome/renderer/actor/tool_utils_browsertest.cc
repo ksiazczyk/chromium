@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor tool utilities browser tests
+// summary: Browser tests for actor tool utilities covering node lookup by ID, nested frames, viewport checks and disallowed interaction reason strings.
+// ---
+
 #include "chrome/renderer/actor/tool_utils.h"
 
 #include <memory>

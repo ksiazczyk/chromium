@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key dispatcher implementation
+// summary: Implements KeyDispatcher, which dispatches sequences of keyboard events with delays for the actor's typing action and handles cancellation safely.
+// ---
+
 #include "chrome/renderer/actor/key_dispatcher.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchBox unit and fuzz tests
+// summary: Tests and fuzzes internal parsing of frame tokens and restricted icon URLs in searchbox.cc using a mock icon URL helper.
+// ---
+
 #include "chrome/renderer/searchbox/searchbox.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingAgent class header
+// summary: Declares the self-deleting OnboardingAgent observer that forwards onboarding results from the dialog renderer to the browser via Mojo.
+// ---
+
 #ifndef CHROME_RENDERER_INDIGO_ONBOARDING_AGENT_H_
 #define CHROME_RENDERER_INDIGO_ONBOARDING_AGENT_H_
 

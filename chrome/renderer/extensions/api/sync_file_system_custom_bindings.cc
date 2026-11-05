@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file system custom bindings implementation
+// summary: Implements native custom bindings for the syncFileSystem extension API, creating sync file system objects from a name and root URL.
+// ---
+
 #include "chrome/renderer/extensions/api/sync_file_system_custom_bindings.h"
 
 #include <string>

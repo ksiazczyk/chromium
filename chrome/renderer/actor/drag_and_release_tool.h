@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and release tool class declaration
+// summary: Declares the DragAndReleaseTool class that performs drag and release actions over targets via injected mouse events.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_DRAG_AND_RELEASE_TOOL_H_
 #define CHROME_RENDERER_ACTOR_DRAG_AND_RELEASE_TOOL_H_
 

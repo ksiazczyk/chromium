@@ -4,6 +4,12 @@
 
 // Custom binding for the browserAction API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.browserAction API
+// summary: Custom binding for the browserAction API that handles setIcon and resolves openPopup callbacks to the extension's popup view.
+// ---
+
 const getSetIconHandler = require('setIcon').getSetIconHandler;
 const getExtensionViews = requireNative('runtime').GetExtensionViews;
 

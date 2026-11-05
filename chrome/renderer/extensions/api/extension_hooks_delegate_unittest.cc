@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for chrome.extension API hooks delegate
+// summary: Unit tests verifying the ExtensionHooksDelegate messaging behavior for chrome.extension methods, including sendRequest and runtime-aliased calls, via the native bindings system test base.
+// ---
+
 #include "chrome/renderer/extensions/api/extension_hooks_delegate.h"
 
 #include <string_view>

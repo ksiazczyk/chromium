@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorHelperCore implementation
+// summary: Implements the NetErrorHelperCore logic for error page generation and updates, reload button tracking, metrics, and Android auto-fetch scheduling.
+// ---
+
 #include "chrome/renderer/net/net_error_helper_core.h"
 
 #include <stddef.h>

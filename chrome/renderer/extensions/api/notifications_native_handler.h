@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications native handler header
+// summary: Declares NotificationsNativeHandler, which provides notifications_private.GetImageSizes so the renderer learns the rendered size of each notification component and the system scale factor.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_NOTIFICATIONS_NATIVE_HANDLER_H_
 #define CHROME_RENDERER_EXTENSIONS_API_NOTIFICATIONS_NATIVE_HANDLER_H_
 

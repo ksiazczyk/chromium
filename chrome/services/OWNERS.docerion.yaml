@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chrome services ownership delegation
+summary: Delegates code review ownership for chrome/services to the OWNERS file of the top-level services directory.

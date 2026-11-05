@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer private custom bindings header
+// summary: Declares PdfViewerPrivateCustomBindings for the pdfViewerPrivate API, implementing chrome.pdfViewerPrivate.GetTextInfo and guarded by the ENABLE_PDF_INK2 build flag.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_PDF_VIEWER_PRIVATE_CUSTOM_BINDINGS_H_
 #define CHROME_RENDERER_EXTENSIONS_API_PDF_VIEWER_PRIVATE_CUSTOM_BINDINGS_H_
 

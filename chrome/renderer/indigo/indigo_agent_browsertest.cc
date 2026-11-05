@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndigoAgent browser tests
+// summary: Browser tests for IndigoAgent covering script injection, image replacement start, and invoke error reporting using a mock IndigoAgentHost.
+// ---
+
 #include "chrome/renderer/indigo/indigo_agent.h"
 
 #include <optional>

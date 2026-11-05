@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Searchbox include dependency rules
+summary: Defines allowed include dependencies for the searchbox renderer directory, permitting favicon_base and ntp_tiles plus fuzztest for unit tests.

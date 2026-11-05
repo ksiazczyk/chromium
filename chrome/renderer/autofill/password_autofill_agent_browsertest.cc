@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password autofill agent browser tests
+// summary: Large browser test suite covering the renderer password autofill agent, including form filling, submission and driver interactions.
+// ---
+
 #include "components/autofill/content/renderer/password_autofill_agent.h"
 
 #include <string>

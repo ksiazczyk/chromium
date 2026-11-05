@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journal logging implementation
+// summary: Implements the Journal class that buffers actor action log entries and sends them to the browser process over Mojo with rate limiting.
+// ---
+
 #include "chrome/renderer/actor/journal.h"
 
 #include "base/rand_util.h"

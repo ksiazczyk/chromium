@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer safe browsing directory
+summary: Defines allowed include dependencies for the safe browsing renderer code, with extra rules for the phishing classifier browser tests.

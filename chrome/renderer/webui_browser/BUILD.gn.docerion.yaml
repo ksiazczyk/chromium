@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for webui_browser
+summary: Defines the webui_browser source set and a testonly browser_tests target with their sources and dependencies.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Plugin placeholder styles
+summary: Shared CSS stylesheet that lays out and styles the plugin placeholder pages, centering the icon and message with responsive media queries.
+*/
+
 html, body {
   -webkit-user-select: none;
   font-family: sans-serif;

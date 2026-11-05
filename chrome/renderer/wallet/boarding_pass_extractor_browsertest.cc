@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boarding pass extractor browser tests
+// summary: Browser tests verifying boarding pass extraction via an injected script and that pages without a boarding pass title return no results.
+// ---
+
 #include "chrome/renderer/wallet/boarding_pass_extractor.h"
 
 #include "chrome/test/base/chrome_render_view_test.h"

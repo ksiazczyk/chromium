@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing hooks delegate header
+// summary: Declares the PrintingHooksDelegate class providing custom native hooks for the printing extension API.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_PRINTING_HOOKS_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_API_PRINTING_HOOKS_DELEGATE_H_
 

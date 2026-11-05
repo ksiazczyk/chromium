@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileManagerPrivate custom bindings implementation
+// summary: Implements custom bindings for the fileManagerPrivate API, routing GetFileSystem, GetExternalFileEntry and GetEntryURL handlers for external file systems.
+// ---
+
 #include "chrome/renderer/extensions/api/file_manager_private_custom_bindings.h"
 
 #include <string>

@@ -6,6 +6,12 @@
 // TODO(dewittj) Refactor custom binding to reduce redundancy between the
 // extension action APIs.
 
+// ---docerion
+// type: source
+// title: System indicator custom bindings
+// summary: Custom binding for the chrome.systemIndicator API that wires the setIcon function to the shared getSetIconHandler for extension action icons.
+// ---
+
 const getSetIconHandler = require('setIcon').getSetIconHandler;
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

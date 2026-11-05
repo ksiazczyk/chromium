@@ -8,6 +8,12 @@
 // doesn't provide any new functionality; it translates its API to the
 // WebView API.
 
+// ---docerion
+// type: source
+// title: Controlled frame web request adapter
+// summary: Wraps WebView's WebRequest with a web-friendly API, translating request and response details to web naming conventions.
+// ---
+
 const $Headers = require('safeMethods').SafeMethods.$Headers;
 
 const convertURLPatternsToMatchPatterns =

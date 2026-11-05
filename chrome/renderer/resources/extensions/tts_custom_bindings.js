@@ -4,6 +4,12 @@
 
 // Custom binding for the tts API.
 
+// ---docerion
+// type: source
+// title: TTS custom bindings
+// summary: Custom binding for the chrome.tts API that manages speak requests, tracks per-utterance event handlers, and keeps background pages alive during speech events.
+// ---
+
 const idGenerator = requireNative('id_generator');
 const lazyBG = requireNative('lazy_background_page');
 

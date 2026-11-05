@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionHooksDelegate header for chrome.extension API custom hooks
+// summary: Declares the APIBindingHooksDelegate that implements custom native hooks for the chrome.extension API, covering sendRequest, getURL, getViews and background page handling.
+// ---
+
 #ifndef CHROME_RENDERER_EXTENSIONS_API_EXTENSION_HOOKS_DELEGATE_H_
 #define CHROME_RENDERER_EXTENSIONS_API_EXTENSION_HOOKS_DELEGATE_H_
 

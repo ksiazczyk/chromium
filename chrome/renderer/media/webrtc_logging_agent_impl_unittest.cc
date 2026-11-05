@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC logging agent unit test
+// summary: Unit test verifying that the agent records log messages while running, stops recording after Stop, and notifies the client exactly once.
+// ---
+
 #include <stdint.h>
 
 #include <string>

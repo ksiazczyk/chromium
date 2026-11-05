@@ -4,6 +4,12 @@
 
 // Custom bindings for the downloads API.
 
+// ---docerion
+// type: source
+// title: downloads custom bindings
+// summary: Custom bindings for the downloads API that massage onDeterminingFilename events and validate filename and conflictAction values before forwarding suggestions to downloadsInternal.
+// ---
+
 const downloadsInternal = getInternalApi('downloadsInternal');
 
 bindingUtil.registerEventArgumentMassager(

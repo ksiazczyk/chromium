@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingAgent renderer-side implementation
+// summary: Implements the onboarding agent that exposes window.chromeOnboarding in the onboarding dialog renderer so it can acknowledge the Chrome disclaimer.
+// ---
+
 #include "chrome/renderer/indigo/onboarding_agent.h"
 
 #include "base/feature_list.h"

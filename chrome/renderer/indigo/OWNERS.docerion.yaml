@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Indigo renderer OWNERS
+summary: Delegates reviewer ownership of the indigo renderer directory to the owners of the browser-side indigo OWNERS file.

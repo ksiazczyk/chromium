@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media feed URL discovery in the renderer
+// summary: Discovers Media Feed URLs by scanning the main frame's head for a link element with rel media-feed and validating that it is a valid same-origin URL.
+// ---
+
 #include "chrome/renderer/media/media_feeds.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptoKey implementation for platform keys
+// summary: Defines the Key class with key type and usage enums and exposes key identifiers (SPKI or symmetric key ID) for the platform keys APIs.
+// ---
+
 const utils = require('utils');
 
 /**

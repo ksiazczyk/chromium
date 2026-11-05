@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScriptContext effective document URL browser tests
+// summary: Browser tests verifying how ScriptContext computes effective document URLs for contexts and script injection across nested, sandboxed, and data URL frames.
+// ---
+
 #include "extensions/renderer/script_context.h"
 
 #include "chrome/test/base/chrome_render_view_test.h"

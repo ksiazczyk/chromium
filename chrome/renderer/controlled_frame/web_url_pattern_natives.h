@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web URL pattern natives header
+// summary: Declares the WebUrlPatternNatives native handler and the URLPattern-to-match-pattern conversion entry point.
+// ---
+
 #ifndef CHROME_RENDERER_CONTROLLED_FRAME_WEB_URL_PATTERN_NATIVES_H_
 #define CHROME_RENDERER_CONTROLLED_FRAME_WEB_URL_PATTERN_NATIVES_H_
 

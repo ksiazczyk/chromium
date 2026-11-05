@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for controlled frame resources
+summary: Points to the shared OWNERS file in chrome/common/controlled_frame as the owner of this directory.

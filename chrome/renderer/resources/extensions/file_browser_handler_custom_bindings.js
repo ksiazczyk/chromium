@@ -4,6 +4,12 @@
 
 // Custom binding for the fileBrowserHandler API.
 
+// ---docerion
+// type: source
+// title: fileBrowserHandler custom bindings
+// summary: Custom binding for the fileBrowserHandler API that converts onExecute event file definitions into FileEntry or DirectoryEntry instances for both Ash and Lacros flows.
+// ---
+
 const fileBrowserNatives = requireNative('file_browser_handler');
 const fileSystemHelpers = requireNative('file_system_natives');
 const entryIdManager = require('entryIdManager');

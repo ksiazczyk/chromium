@@ -4,6 +4,12 @@
 
 // Custom binding for the pageAction API.
 
+// ---docerion
+// type: source
+// title: Page Action API custom bindings
+// summary: Custom renderer binding that wires the pageAction.setIcon handler to the shared set icon implementation.
+// ---
+
 const getSetIconHandler = require('setIcon').getSetIconHandler;
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

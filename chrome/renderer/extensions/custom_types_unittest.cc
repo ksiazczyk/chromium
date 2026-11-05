@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom types context invalidation unit tests
+// summary: Unit tests checking that extension API custom types such as content settings fail with the expected error after the extension context is invalidated.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/values_test_util.h"
 #include "components/crx_file/id_util.h"

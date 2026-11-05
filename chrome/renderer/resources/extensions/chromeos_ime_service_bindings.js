@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo bindings for the ChromeOS IME service
+// summary: Bridges the ChromeOS IME Mojo service and IME extensions through an InputChannel that routes text and protobuf messages between them.
+// ---
+
 'use strict';
 
 if ((typeof mojo === 'undefined') || !mojo.bindingsLibraryInitialized) {

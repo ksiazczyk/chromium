@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type tool header
+// summary: Declares TypeTool, the actor tool that validates targets and simulates typing text into a DOM node via key dispatch.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_TYPE_TOOL_H_
 #define CHROME_RENDERER_ACTOR_TYPE_TOOL_H_
 

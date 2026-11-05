@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the net renderer folder
+summary: Lists the preferred network stack owner and delegates offline page reviews to net/OWNERS.

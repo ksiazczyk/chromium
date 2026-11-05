@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Printing directory metadata
+summary: Maps the chrome/renderer/printing directory to the Internals>Printing Monorail component and Buganizer component 1457089.

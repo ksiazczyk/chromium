@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flash embed URL rewriting implementation
+// summary: Rewrites Flash embed URLs for YouTube, Dailymotion and Vimeo to their modern HTML5 embed equivalents.
+// ---
+
 #include "chrome/renderer/media/flash_embed_rewrite.h"
 
 #include <string_view>

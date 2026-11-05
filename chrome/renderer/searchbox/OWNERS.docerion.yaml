@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Searchbox directory owners
+summary: Delegates code review ownership of the searchbox directory to the owners of chrome/browser/search.

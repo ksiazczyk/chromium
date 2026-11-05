@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation test utilities header
+// summary: Declares helper functions used by password generation tests to set an eligible form and create event listener registration scripts.
+// ---
+
 #ifndef CHROME_RENDERER_AUTOFILL_PASSWORD_GENERATION_TEST_UTILS_H_
 #define CHROME_RENDERER_AUTOFILL_PASSWORD_GENERATION_TEST_UTILS_H_
 

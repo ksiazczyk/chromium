@@ -4,6 +4,12 @@
 
 // This module contains the public-facing API functions for <controlledframe>.
 
+// ---docerion
+// type: source
+// title: Controlled frame API method lists
+// summary: Defines the synchronous, promise-based, and deleted API method lists exposed by the <controlledframe> element.
+// ---
+
 // Contains a list of API method names that do not produce asynchronous results
 // for use in GuestViewContainerElement.forwardApiMethods().
 const CONTROLLED_FRAME_API_METHODS = [

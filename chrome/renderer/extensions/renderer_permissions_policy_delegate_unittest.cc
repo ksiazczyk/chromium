@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer permissions policy delegate unit tests
+// summary: Unit tests verifying that extensions cannot access pages in the Web Store process or in the instant process via the permissions policy delegate.
+// ---
+
 #include "chrome/renderer/extensions/renderer_permissions_policy_delegate.h"
 
 #include <memory>

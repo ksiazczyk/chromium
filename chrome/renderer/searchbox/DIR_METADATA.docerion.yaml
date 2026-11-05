@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Searchbox directory bug component metadata
+summary: Maps the searchbox directory to Buganizer component 1619002 for public issue tracking.

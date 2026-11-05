@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtleCrypto implementation for platform keys
+// summary: Implements WebCrypto SubtleCrypto sign and verify operations backed by tokens, with WebCrypto-style errors kept in sync with the C++ internal API.
+// ---
+
 const utils = require('utils');
 const internalAPI = getInternalApi('platformKeysInternal');
 const keyModule = require('platformKeys.Key');

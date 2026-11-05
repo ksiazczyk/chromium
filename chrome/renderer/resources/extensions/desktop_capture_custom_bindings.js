@@ -4,6 +4,12 @@
 
 // Custom binding for the desktopCapture API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.desktopCapture API
+// summary: Custom binding that tracks pending chooseDesktopMedia requests by generated ID and supports cancelling them.
+// ---
+
 const idGenerator = requireNative('id_generator');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

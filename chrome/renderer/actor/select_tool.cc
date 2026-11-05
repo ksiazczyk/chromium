@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select tool implementation
+// summary: Implements SelectTool, which validates that the target is an enabled select element and sets its value to choose an option, dispatching DOM events.
+// ---
+
 #include "chrome/renderer/actor/select_tool.h"
 
 #include <cstdint>

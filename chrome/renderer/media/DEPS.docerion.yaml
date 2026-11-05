@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer media directory
+summary: Defines allowed include dependencies for sources in chrome/renderer/media, with a special rule for chrome_key_systems.cc.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetErrorHelperCore unit tests
+// summary: Unit tests for NetErrorHelperCore covering error page generation, DNS probe updates, button navigation, and error page metrics using a mock delegate.
+// ---
+
 #include "chrome/renderer/net/net_error_helper_core.h"
 
 #include <stddef.h>

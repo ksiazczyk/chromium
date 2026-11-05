@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the chrome renderer plugins directory
+summary: DEPS file that defines the allowed include dependencies for chrome/renderer/plugins, permitting gin.

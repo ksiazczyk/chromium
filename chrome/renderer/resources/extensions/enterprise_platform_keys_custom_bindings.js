@@ -14,6 +14,12 @@
 // wrapper.
 // The Token object holds the token id and the SubtleCrypto member.
 
+// ---docerion
+// type: source
+// title: enterprise.platformKeys custom bindings
+// summary: Custom binding for the enterprise.platformKeys API that wraps internal token IDs in Token objects with SubtleCrypto support for getTokens requests.
+// ---
+
 const Token = require('enterprise.platformKeys.Token').Token;
 const internalAPI = getInternalApi('enterprise.platformKeysInternal');
 

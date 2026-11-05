@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the commerce renderer
+summary: Grants the commerce renderer directory include access to headers under components/commerce/core.

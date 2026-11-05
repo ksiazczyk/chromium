@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool base class declaration
+// summary: Declares ToolBase plus the ResolvedTarget and ValidationResult structs that renderer actor tools use for target handling and validation.
+// ---
+
 #ifndef CHROME_RENDERER_ACTOR_TOOL_BASE_H_
 #define CHROME_RENDERER_ACTOR_TOOL_BASE_H_
 
