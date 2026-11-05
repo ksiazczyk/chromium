@@ -1,0 +1,4 @@
+# Docerion header of IDS_INCOGNITO_BADGE.png.sha1.
+type: data
+title: Incognito badge screenshot SHA1
+summary: Stores the SHA-1 hash of the PNG screenshot associated with the IDS_INCOGNITO_BADGE UI string message.

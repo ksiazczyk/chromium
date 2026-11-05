@@ -1,0 +1,4 @@
+# Docerion header of IDS_GRACEFUL_SHUTDOWN_TITLE.png.sha1.
+type: asset
+title: SHA1 for IDS_GRACEFUL_SHUTDOWN_TITLE screenshot
+summary: Contains the SHA1 hash of the screenshot PNG for the graceful shutdown title string, letting tools verify the referenced translation image.
