@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the layouts module
+summary: Defines GN targets for the Android layouts Java library, native scene layer sources, JNI header generation, and Robolectric unit tests.

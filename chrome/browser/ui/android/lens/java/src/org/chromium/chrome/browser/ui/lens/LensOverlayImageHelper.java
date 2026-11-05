@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Overlay image compositing helper
+// summary: Collects screen and window metrics and composites a window capture into a full-screen bitmap for Lens Overlay image requests.
+// ---
+
 package org.chromium.chrome.browser.ui.lens;
 
 import android.content.Context;

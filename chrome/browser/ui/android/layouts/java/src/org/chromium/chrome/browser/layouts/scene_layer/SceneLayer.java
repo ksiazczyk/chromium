@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneLayer Java class with JNI binding to native scene layer
+// summary: Java representation of a scene layer that initializes, references, and destroys its native counterpart through JNI, and can remove itself from the layer tree.
+// ---
+
 package org.chromium.chrome.browser.layouts.scene_layer;
 
 import androidx.annotation.VisibleForTesting;

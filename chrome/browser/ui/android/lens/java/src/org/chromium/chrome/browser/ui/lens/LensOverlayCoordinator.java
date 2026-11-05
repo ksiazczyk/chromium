@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensOverlayCoordinator for the Android Lens Overlay
+// summary: Coordinates the Lens Overlay feature for a tab, managing the JNI bridge, overlay UI state, and the WebUI-based overlay implementation.
+// ---
+
 package org.chromium.chrome.browser.ui.lens;
 
 import android.content.Context;

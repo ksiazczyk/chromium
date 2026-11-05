@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: NTP logo and doodle dimensions for sw600dp
+summary: Defines tablet-specific dimensions for the new tab page logo and doodle, including heights and top margins used by Chromium's Android logo UI.
+-->
+
 <resources>
   <dimen name="ntp_logo_height">72dp</dimen>
   <dimen name="ntp_logo_margin_top">64dp</dimen>

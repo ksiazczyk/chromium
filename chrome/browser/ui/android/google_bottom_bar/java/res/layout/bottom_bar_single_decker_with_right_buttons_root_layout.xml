@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--TODO:  Update to match the specs"-->
+
+<!--docerion
+type: source
+title: Bottom bar single-decker with right buttons root layout
+summary: Root LinearLayout for the single-decker bottom bar with a weighted searchbox container on the left and a buttons container on the right.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:background="@color/google_bottom_bar_background_color"

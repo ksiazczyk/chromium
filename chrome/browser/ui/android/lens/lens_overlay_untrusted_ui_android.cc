@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay untrusted WebUI controller implementation
+// summary: Implements the chrome-untrusted Lens overlay WebUI controller that serves placeholder HTML, CSS, and JavaScript for the overlay interface.
+// ---
+
 #include "chrome/browser/ui/android/lens/lens_overlay_untrusted_ui_android.h"
 
 #include "base/memory/ref_counted_memory.h"

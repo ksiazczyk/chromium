@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android favicon directory
+summary: Sets the allowed include and dependency rules for code in the Android favicon directory.

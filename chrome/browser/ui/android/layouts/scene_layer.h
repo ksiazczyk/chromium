@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneLayer class declaration
+// summary: Declares the SceneLayer class, a native wrapper around cc::slim::Layer that bridges to the Java SceneLayer with background and lifecycle hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_LAYOUTS_SCENE_LAYER_H_
 #define CHROME_BROWSER_UI_ANDROID_LAYOUTS_SCENE_LAYER_H_
 

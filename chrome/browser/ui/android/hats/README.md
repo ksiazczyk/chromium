@@ -1,3 +1,13 @@
+---
+type: readme
+title: Clank HaTS Survey Integration Guide
+summary: Explains how to integrate HaTS surveys on Clank, covering SurveyConfig, SurveyUiDelegate, SurveyClient creation, and the survey presentation flow.
+relations:
+  - documents /chrome/browser/ui/android/hats/java/src/org/chromium/chrome/browser/ui/hats/MessageSurveyUiDelegate.java
+  - documents /chrome/browser/ui/android/hats/java/src/org/chromium/chrome/browser/ui/hats/SurveyUiDelegate.java
+  - documents /chrome/browser/ui/hats/survey_config.h
+---
+
 # Clank HaTS Survey Integration Guide
 
 This one-page explains the integration steps needed to use HaTS on Clank. For generic integration flow beyond coding, please see [go/clank-hats](go/clank-hats).

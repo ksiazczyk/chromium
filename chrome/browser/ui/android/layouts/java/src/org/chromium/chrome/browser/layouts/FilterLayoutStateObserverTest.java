@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterLayoutStateObserver tests
+// summary: Robolectric unit tests verifying that FilterLayoutStateObserver only triggers for the layout type it filters on.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import static org.junit.Assert.assertEquals;

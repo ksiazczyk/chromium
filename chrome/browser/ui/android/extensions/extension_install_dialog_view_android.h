@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension install dialog header
+// summary: Declares the Android implementation of the extension install dialog, owned by its Java peer, with JNI callbacks for dialog acceptance, cancellation, and dismissal.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_INSTALL_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_INSTALL_DIALOG_VIEW_ANDROID_H_
 

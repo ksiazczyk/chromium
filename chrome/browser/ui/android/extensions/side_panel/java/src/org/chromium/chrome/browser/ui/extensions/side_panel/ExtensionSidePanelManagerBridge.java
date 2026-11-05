@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSidePanelManagerBridge interface
+// summary: Java bridge interface giving access to cross-platform extension side panel code, extending ChromeAndroidTaskFeature so instances follow the ChromeAndroidTask lifecycle.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.side_panel;
 
 import org.chromium.build.annotations.NullMarked;

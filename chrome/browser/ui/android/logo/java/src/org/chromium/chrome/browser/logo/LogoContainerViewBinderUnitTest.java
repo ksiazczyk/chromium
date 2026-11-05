@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogoContainerViewBinder unit tests
+// summary: Robolectric unit tests verifying that the binder applies logo model properties, animations, and loading UI behavior to the container view.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import static org.junit.Assert.assertEquals;

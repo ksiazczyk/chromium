@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorAnimationHandler
+// summary: Manages active compositor animators and pushes frame updates to them for browser layout animations.
+// ---
+
 package org.chromium.chrome.browser.layouts.animation;
 
 import android.animation.Animator;

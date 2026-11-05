@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for extension browser window helper internals
+summary: GN build file defining the C++ source_set, Java android_library, and JNI generation targets for the Android extension browser window helper internals.

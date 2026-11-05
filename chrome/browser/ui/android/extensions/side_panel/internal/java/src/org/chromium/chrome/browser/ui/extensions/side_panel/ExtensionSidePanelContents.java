@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSidePanelContents
+// summary: Manages the Java-side representation of an extension side panel by wrapping its WebContents in a ThinWebView for the Android view hierarchy.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.side_panel;
 
 import android.content.Context;

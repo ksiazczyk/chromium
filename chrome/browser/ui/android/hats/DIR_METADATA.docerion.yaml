@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Android HaTS surveys
+summary: Declares the bug tracker component, team email, and Android OS for the directory.

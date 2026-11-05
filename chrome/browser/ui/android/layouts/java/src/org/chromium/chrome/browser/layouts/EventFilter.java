@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFilter
+// summary: Abstract base class that intercepts and processes touch and hover input events for non-Android compositor views.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import android.content.Context;

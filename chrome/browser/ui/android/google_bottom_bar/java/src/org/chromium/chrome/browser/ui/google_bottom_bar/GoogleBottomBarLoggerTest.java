@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Google Bottom Bar logger tests
+// summary: Robolectric unit tests for GoogleBottomBarLogger verifying that created, variant, shown, and updated events are logged to the right histograms.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.chromium.chrome.browser.ui.google_bottom_bar.GoogleBottomBarLogger.BOTTOM_BAR_CREATED_HISTOGRAM;

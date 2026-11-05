@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorModelChangeProcessor
+// summary: Binds property models to SceneLayer views and requests new compositor frames when observed properties change.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.chromium.base.Callback;

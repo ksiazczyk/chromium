@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android extensions UI
+summary: Grants the directory include access to the Android browser UI settings and site settings components.

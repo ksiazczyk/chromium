@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining a stub android_library target that replaces the internal extensions windowing Java target when it is not compiled into the build.

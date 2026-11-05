@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the message survey UI delegate
+// summary: Robolectric unit tests verifying message-based survey invitation behavior, including acceptance, dismissal, presentation failure, and showing after tab load.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.junit.Assert.assertEquals;

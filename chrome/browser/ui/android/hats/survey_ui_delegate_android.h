@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Survey UI Delegate Interface for Android
+// summary: Declares the C++ interface for displaying survey invitations on Android, with callbacks for acceptance, decline and presentation failure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_UI_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_UI_DELEGATE_ANDROID_H_
 

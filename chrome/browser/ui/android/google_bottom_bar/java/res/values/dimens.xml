@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google bottom bar dimension resources
+summary: Defines dimension resources for the Google bottom bar, covering button sizes, padding, margins, and search box measurements in a kept-sorted list.
+-->
+
 <resources>
   <!-- go/keep-sorted start -->
   <dimen name="google_bottom_bar_button_margin_vertical">8dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSidePanelManagerBridgeFactory
+// summary: Factory that creates the real ExtensionSidePanelManagerBridge implementation for the internal build variant.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.side_panel;
 
 import org.chromium.build.annotations.NullMarked;

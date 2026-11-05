@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of Android extension side panel contents
+// summary: Implements the native side of extension side panel content on Android, bridging ExtensionViewHost to the Java ExtensionSidePanelContents that embeds the WebContents in a ThinWebView.
+// ---
+
 #include "chrome/browser/ui/android/extensions/side_panel/internal/extension_side_panel_contents_android.h"
 
 #include "base/android/jni_android.h"

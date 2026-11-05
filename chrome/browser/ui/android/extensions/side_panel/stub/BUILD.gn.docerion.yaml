@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stub BUILD.gn for Android extension side panel Java target
+summary: Defines an android_library stub target that replaces the internal extension side panel Java target when it is not compiled into the build.

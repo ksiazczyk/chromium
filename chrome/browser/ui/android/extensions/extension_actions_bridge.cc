@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension actions JNI bridge implementation
+// summary: Implements the JNI bridge that connects a browser window to the Java extension actions UI.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_actions_bridge.h"
 
 #include <memory>

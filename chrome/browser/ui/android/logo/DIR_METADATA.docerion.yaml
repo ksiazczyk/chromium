@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android logo component
+summary: Declares the Android OS mapping and the public Buganizer component used for issues in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android extension side panel internal build targets
+summary: Defines the C++ source_set, Java android_library, JNI generation, and Robolectric test targets for the Android extension side panel internals.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUi
+// summary: Static utility entry point for the extension UI that delegates to a pluggable backend for enablement, omnibox icons and input handling.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

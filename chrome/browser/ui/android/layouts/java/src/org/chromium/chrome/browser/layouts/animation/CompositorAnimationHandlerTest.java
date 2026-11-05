@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorAnimationHandlerTest
+// summary: Robolectric unit tests verifying that concurrent compositor animations finish independently over time.
+// ---
+
 package org.chromium.chrome.browser.layouts.animation;
 
 import org.junit.Assert;

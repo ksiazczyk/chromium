@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay controller Android header
+// summary: Declares LensOverlayControllerAndroid, a WebContentsObserver that captures window snapshots and drives the Lens overlay UI from native code.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_LENS_LENS_OVERLAY_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_LENS_LENS_OVERLAY_CONTROLLER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedLayoutManager
+// summary: Interface used by glue code to manage LayoutManager lifecycle, adding a destroy method for browser shutdown cleanup.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.chromium.build.annotations.NullMarked;

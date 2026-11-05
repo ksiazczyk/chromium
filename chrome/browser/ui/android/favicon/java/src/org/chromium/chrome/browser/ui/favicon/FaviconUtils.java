@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconUtils
+// summary: Utility class for favicons that provides default sizes and creates circular, rounded rectangle, and rounded bitmap icon generators for monogram-style icons.
+// ---
+
 package org.chromium.chrome.browser.ui.favicon;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the HaTS Android directory
+summary: Sets include rules that block access to the internal subdirectory, with a temporary exception for SurveyThrottler.java during modularization.

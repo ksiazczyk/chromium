@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Android Interventions UI OWNERS
+summary: OWNERS file that delegates code ownership for the Android interventions UI to the shared interventions OWNERS file in the parent directory.

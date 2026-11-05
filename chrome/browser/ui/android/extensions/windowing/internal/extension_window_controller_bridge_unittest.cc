@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for ExtensionWindowControllerBridge
+// summary: Native unit tests that exercise ExtensionWindowControllerBridge through Java test support, covering task events and window controller notifications with mock browser and profile setup.
+// ---
+
 #include "chrome/browser/ui/android/extensions/windowing/internal/extension_window_controller_bridge.h"
 
 #include <jni.h>

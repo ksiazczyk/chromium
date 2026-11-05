@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--TODO:  Update to match the specs"-->
+
+<!--docerion
+type: source
+title: Bottom bar no-variant root layout
+summary: Root LinearLayout for the bottom bar variant without a searchbox, serving as a centered container for buttons.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/bottom_bar_buttons_container"
     android:orientation="vertical"

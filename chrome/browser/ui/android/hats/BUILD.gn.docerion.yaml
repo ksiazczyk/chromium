@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Android HaTS survey code
+summary: Defines the Java and C++ build targets, JNI header generation, and test targets for the Android HaTS survey integration.

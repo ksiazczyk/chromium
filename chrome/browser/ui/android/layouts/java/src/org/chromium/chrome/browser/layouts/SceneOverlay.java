@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneOverlay
+// summary: Interface for scene overlays that add UI to composited layouts, covering event filters, sizing, updates, and back press handling.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import android.graphics.RectF;

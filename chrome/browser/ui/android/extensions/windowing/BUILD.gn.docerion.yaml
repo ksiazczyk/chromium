@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android extension windowing build targets
+summary: GN build file defining the Java library and factory targets for Android extension windowing code.

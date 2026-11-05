@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension test message listener implementation
+// summary: Implements a JNI test helper that wraps ExtensionTestMessageListener so Android extension tests can wait for, inspect, and reply to extension messages.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_test_message_listener_android.h"
 
 #include <memory>

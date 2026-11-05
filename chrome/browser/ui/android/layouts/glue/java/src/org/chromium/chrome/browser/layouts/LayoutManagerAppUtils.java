@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerAppUtils
+// summary: Utility class letting app code attach a shared LayoutManager to a WindowAndroid and detach it from associated windows.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSurveyUtils test utilities for HATS surveys
+// summary: Provides test helpers for the survey system, including a JUnit rule that installs a test survey factory, forces surveys to show, and exposes the last shown trigger ID and PSD data.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import android.app.Activity;

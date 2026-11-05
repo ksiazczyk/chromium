@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoMediator
+// summary: Mediator that fetches and loads the logo for the Start surface and NTP, handling animated logos, search engine changes, and logo impression metrics.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

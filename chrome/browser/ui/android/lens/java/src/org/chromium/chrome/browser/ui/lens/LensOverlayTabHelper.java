@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Overlay tab showing-state helper
+// summary: Lightweight per-tab helper that exposes an observable supplier of the Lens Overlay showing state for UI elements such as the Omnibox.
+// ---
+
 package org.chromium.chrome.browser.ui.lens;
 
 import org.chromium.base.UserData;

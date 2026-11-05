@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowControllerListObserverForTesting implementation
+// summary: Implements the singleton WindowControllerListObserverForTesting that records extension window events such as creation, removal, bounds and focus changes for tests.
+// ---
+
 #include "chrome/browser/ui/android/extensions/windowing/internal/window_controller_list_observer_for_testing.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Survey Config Holder Class Declaration
+// summary: Declares SurveyConfigHolder, which stores survey configurations keyed by trigger and initializes the corresponding Java holder for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_CONFIG_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_CONFIG_ANDROID_H_
 

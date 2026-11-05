@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android survey client JNI implementation
+// summary: Implements SurveyClientAndroid, which forwards C++ survey launch requests and product-specific data to the Java SurveyClient over JNI.
+// ---
+
 #include "chrome/browser/ui/android/hats/survey_client_android.h"
 
 #include <vector>

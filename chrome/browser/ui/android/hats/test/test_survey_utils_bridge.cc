@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native JNI bridge for HaTS test survey utilities
+// summary: Implements the C++ side of the JNI bridge that sets up and resets the Java test survey factory and reads the last shown survey trigger ID.
+// ---
+
 #include "chrome/browser/ui/android/hats/test/test_survey_utils_bridge.h"
 
 #include <string>

@@ -6,6 +6,13 @@ found in the LICENSE file.
 -->
 <!--TODO: update image Icon contentDescription for accessibility-->
 <!--TODO: move page_insights_icon to its own resource target-->
+
+<!--docerion
+type: source
+title: Google bottom bar spotlight layout
+summary: Layout for the spotlight Google bottom bar variant with a weighted container for non-spotlit buttons aligned to the end.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/google_bottom_bar_container"

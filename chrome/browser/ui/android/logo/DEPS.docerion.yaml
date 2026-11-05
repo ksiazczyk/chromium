@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency include rules for the logo directory
+summary: Restricts includes to the NewTabPageUtils Java file and the Android image fetcher component.

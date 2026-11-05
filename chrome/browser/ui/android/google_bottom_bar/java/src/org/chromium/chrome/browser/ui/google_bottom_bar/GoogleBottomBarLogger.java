@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Bottom Bar logger
+// summary: Records Google Bottom Bar events such as bar creation, variant layout, button visibility, and button updates to Custom Tabs histograms.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import androidx.annotation.IntDef;

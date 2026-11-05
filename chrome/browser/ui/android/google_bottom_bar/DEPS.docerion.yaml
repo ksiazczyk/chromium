@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for google_bottom_bar
+summary: Restricts includes within this directory to base/android and ui/android.

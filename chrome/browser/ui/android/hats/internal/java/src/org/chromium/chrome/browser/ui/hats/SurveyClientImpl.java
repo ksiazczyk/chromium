@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyClientImpl
+// summary: SurveyClient implementation that manages survey presentation, activity lifecycle handling, and PSD value aggregation.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

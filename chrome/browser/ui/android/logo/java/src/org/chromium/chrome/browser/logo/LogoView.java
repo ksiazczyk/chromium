@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoView
+// summary: Image view that shows the search provider logo, cross-fades in new logos and plays animated doodles on click.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

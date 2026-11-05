@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google bottom bar color resources
+summary: Defines color resources for the Google bottom bar, mapping its background and search box background to baseline color values pending final UI decisions.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- TODO(b/340434096): Finalize UI -->
   <color name="google_bottom_bar_background_color">@color/default_bg_color_baseline</color>

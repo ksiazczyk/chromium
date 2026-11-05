@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LensOverlayImageHelper
+// summary: Robolectric tests covering screen metric collection across API levels and bitmap compositing behavior of the image helper.
+// ---
+
 package org.chromium.chrome.browser.ui.lens;
 
 import static org.junit.Assert.assertEquals;

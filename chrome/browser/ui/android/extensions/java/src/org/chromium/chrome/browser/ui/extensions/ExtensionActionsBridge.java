@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionsBridge
+// summary: JNI bridge for interacting with toolbar extension actions for a browser window and profile, with native lifetime management.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import org.jni_zero.JNINamespace;

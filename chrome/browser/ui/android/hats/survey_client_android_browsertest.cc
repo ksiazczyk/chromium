@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Survey Client Android Browser Tests
+// summary: Browser tests that launch HaTS surveys through the Android survey client and verify invitation acceptance and dismissal using a test message dispatcher.
+// ---
+
 #include "chrome/browser/ui/android/hats/survey_client_android.h"
 
 #include <memory>

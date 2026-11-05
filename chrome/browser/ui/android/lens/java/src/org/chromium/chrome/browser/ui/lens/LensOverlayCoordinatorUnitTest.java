@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LensOverlayCoordinator
+// summary: Robolectric unit tests that verify Lens Overlay coordinator behavior using mocked JNI, tab, profile, and identity dependencies.
+// ---
+
 package org.chromium.chrome.browser.ui.lens;
 
 import static org.junit.Assert.assertEquals;

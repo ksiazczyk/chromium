@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoCoordinator
+// summary: Coordinator that fetches and displays the search provider logo for the Start surface and NTP, wiring the mediator, property model, and container view.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import static org.chromium.chrome.browser.logo.LogoUtils.getGoogleLogoDrawable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyClientBridge
+// summary: JNI glue class that creates a survey client on behalf of C++ code and delegates survey display calls to it.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

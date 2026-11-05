@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Bottom Bar actions handler tests
+// summary: Robolectric unit tests for GoogleBottomBarActionsHandler verifying button click behaviors and Google app intents.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the layouts directory
+summary: Grants this directory include access to the cc/slim headers used by the native scene layer code.

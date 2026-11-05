@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: ic_webstore vector drawable icon
+summary: Android vector drawable providing the web store icon used by the Chrome extensions UI on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:width="24dp"

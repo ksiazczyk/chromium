@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExtensionUiBackendRule
+// summary: JUnit rule that activates a FakeExtensionUiBackend for the duration of a test and resets it afterwards.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import org.junit.rules.ExternalResource;

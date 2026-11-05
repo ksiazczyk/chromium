@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension site settings implementation
+// summary: Implements ShowExtensionSiteSettings, opening the extension site details settings page in a new tab or falling back to the Java developer private bridge.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_site_settings_android.h"
 
 #include "base/feature_list.h"

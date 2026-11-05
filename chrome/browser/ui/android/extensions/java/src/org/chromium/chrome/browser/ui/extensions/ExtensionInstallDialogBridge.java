@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstallDialogBridge
+// summary: JNI bridge that builds and shows the extension install modal dialog, handling its property model, content view and dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

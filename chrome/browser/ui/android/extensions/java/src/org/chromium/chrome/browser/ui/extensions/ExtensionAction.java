@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAction
+// summary: Java model of an extension action's state for a tab, including name, title, accessible name and hover card data, created via JNI.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import androidx.annotation.VisibleForTesting;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Extension request access button background
+summary: Ripple drawable providing the pill-shaped background for the extension request access toolbar button.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?attr/colorControlHighlight">
     <!-- Mask to keep the ripple effect within the pill shape -->

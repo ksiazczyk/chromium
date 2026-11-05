@@ -6,6 +6,13 @@ found in the LICENSE file.
 -->
 <!--TODO: update image Icon contentDescription for accessibility-->
 <!--TODO: move page_insights_icon to its own resource target-->
+
+<!--docerion
+type: source
+title: Google bottom bar even layout
+summary: Empty horizontal container layout for the even Google bottom bar variant, with TODOs for accessibility descriptions and icon resources.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/google_bottom_bar_container"

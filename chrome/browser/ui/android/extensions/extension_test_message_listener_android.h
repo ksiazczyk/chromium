@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension test message listener JNI bridge
+// summary: Declares a JNI bridge class wrapping ExtensionTestMessageListener so Android extension tests can wait for and reply to test messages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_TEST_MESSAGE_LISTENER_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_TEST_MESSAGE_LISTENER_ANDROID_H_
 

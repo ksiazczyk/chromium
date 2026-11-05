@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HaTS service implementation
+// summary: Implements HatsServiceAndroid, including delayed survey tasks that present survey invitations through the Android message UI.
+// ---
+
 #include "chrome/browser/ui/android/hats/hats_service_android.h"
 
 #include <algorithm>

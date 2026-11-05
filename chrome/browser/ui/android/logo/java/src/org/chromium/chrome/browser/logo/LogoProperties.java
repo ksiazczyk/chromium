@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoProperties
+// summary: Defines the writable property keys used to build and update the logo view on the start surface and NTP.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.graphics.drawable.AnimatedImageDrawable;

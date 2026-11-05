@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout test utilities for waiting on and showing layouts
+// summary: Provides test helpers that wait for a layout to finish showing and that start showing a layout via the LayoutManager during layout-related tests.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.junit.Assert;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Layouts test utilities build target
+summary: Defines a test-only Android library providing layout test utilities for Chrome's UI layouts, with dependencies on base and content test support.

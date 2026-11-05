@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogoUtilsUnitTest
+// summary: Robolectric unit tests verifying LogoUtils layout parameters, doodle heights and top margins across form factors.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.app.Activity;

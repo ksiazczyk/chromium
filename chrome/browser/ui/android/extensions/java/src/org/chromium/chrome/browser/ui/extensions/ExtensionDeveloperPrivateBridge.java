@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionDeveloperPrivateBridge
+// summary: Called from native code to open the per-extension site settings page in Android settings navigation.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.content.Context;

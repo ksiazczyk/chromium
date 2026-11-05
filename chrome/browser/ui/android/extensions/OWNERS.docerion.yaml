@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Android extensions UI
+summary: Delegates ownership review of this directory to the extensions UI owners file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterLayoutStateObserver
+// summary: Observer wrapper that forwards layout state events to a delegate only when they match a specified layout type.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.chromium.build.annotations.NullMarked;

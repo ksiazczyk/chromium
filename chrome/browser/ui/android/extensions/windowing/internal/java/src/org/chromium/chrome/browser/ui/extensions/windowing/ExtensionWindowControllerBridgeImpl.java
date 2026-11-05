@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWindowControllerBridgeImpl
+// summary: Implements the extension window controller bridge, forwarding Android task lifecycle, bounds and focus events to native code via JNI and recording window events for tests.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.windowing;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyClient interface for showing surveys
+// summary: Interface for the client responsible for showing a HaTS survey in a given activity, optionally with product-specific bit and string data.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import android.app.Activity;

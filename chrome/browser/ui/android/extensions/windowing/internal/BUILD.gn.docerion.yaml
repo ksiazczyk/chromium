@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android extension windowing internal targets
+summary: Defines GN targets for the Android extension windowing internals, including the C++ source set, Java library, JNI generation, enum srcjar, and native and Java test targets.

@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: NTP logo and doodle dimension resources
+summary: Defines Android dimension values such as heights, margins and padding for the new tab page logo and doodle views.
+-->
+
 <resources>
   <dimen name="ntp_logo_height">48dp</dimen>
   <dimen name="ntp_logo_margin_top">12dp</dimen>

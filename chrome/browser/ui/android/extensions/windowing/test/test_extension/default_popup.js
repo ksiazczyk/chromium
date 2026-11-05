@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup Logic for chrome.windows API Testing
+// summary: Handles the popup's button clicks by calling chrome.windows APIs, validating window IDs, building update options, and displaying API return values.
+// ---
+
 const windowQueryOptions = {
     populate: true,
     windowTypes: ["app", "custom-tab", "normal", "popup"]

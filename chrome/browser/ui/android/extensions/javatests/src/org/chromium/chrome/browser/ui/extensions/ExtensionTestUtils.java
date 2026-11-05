@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionTestUtils
+// summary: Utilities for extension integration tests, such as loading unpacked extensions and enabling or disabling extensions by ID.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

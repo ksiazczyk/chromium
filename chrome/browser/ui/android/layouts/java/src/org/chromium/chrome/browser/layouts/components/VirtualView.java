@@ -1,6 +1,13 @@
 // Copyright 2015 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: VirtualView interface for accessibility events
+// summary: Java interface in Chrome's layouts components that supplies accessibility descriptions, touch targets, priority, and click and focus handling for virtual views.
+// ---
+
 package org.chromium.chrome.browser.layouts.components;
 
 import android.graphics.RectF;

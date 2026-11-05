@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility JNI bridge for Downloads and omnibox
+// summary: Implements JNI helpers for locating files under Downloads and for extension omnibox icons and omnibox input entered routing.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_util_bridge.h"
 
 #include <optional>

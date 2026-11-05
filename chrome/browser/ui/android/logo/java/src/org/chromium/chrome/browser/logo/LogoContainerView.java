@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoContainerView
+// summary: FrameLayout container that manages the logo view, loading UI, default logo fallback, and layout properties for the NTP logo.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.content.Context;

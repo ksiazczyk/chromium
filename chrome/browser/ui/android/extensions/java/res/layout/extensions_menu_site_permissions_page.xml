@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Extensions menu site permissions page layout
+summary: Android layout for the per-extension site permissions page in the extensions menu, offering radio choices for access on click, on the current site, or on all sites.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

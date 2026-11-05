@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionPopupContents
+// summary: Java-side owner of an extension action popup's WebContents, bridging load, resize, keyboard and close events to native code.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.view.KeyEvent;

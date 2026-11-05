@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoBridge
+// summary: JNI bridge to the C++ LogoService that fetches the default search provider logo and defines the Logo data class and observer interface.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.graphics.Bitmap;

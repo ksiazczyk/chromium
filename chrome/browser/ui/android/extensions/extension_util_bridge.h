@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility bridge header for Downloads file helpers
+// summary: Declares helpers that get or create files under Downloads by name and extension for Android extension code.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_UTIL_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_UTIL_BRIDGE_H_
 

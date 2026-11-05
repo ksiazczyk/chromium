@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Extensions empty state illustration
+summary: Vector drawable illustration with gradient fill used for the extensions zero or empty state view.
+-->
+
 <vector
     tools:ignore="UnusedResources,VectorRaster"
     xmlns:tools="http://schemas.android.com/tools"

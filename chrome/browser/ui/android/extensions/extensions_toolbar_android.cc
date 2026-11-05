@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extensions toolbar JNI bridge implementation
+// summary: Implements the extensions toolbar bridge, handling extension popups, context menus, icons and action state for the Java UI.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extensions_toolbar_android.h"
 
 #include <cstdint>

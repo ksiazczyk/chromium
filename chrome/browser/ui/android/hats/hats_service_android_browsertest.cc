@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Android HaTS service
+// summary: Browser tests verifying how delayed HaTS surveys behave across navigations for different navigation behavior settings.
+// ---
+
 #include "chrome/browser/ui/android/hats/hats_service_android.h"
 
 #include <memory>

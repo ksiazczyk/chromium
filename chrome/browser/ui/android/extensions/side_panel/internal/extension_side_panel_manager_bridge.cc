@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of the extension side panel manager bridge
+// summary: Implements the JNI entry points that create and destroy the native ExtensionSidePanelManagerBridge bound to a browser window.
+// ---
+
 #include "chrome/browser/ui/android/extensions/side_panel/internal/extension_side_panel_manager_bridge.h"
 
 #include <jni.h>

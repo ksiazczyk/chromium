@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extensions menu delegate JNI bridge
+// summary: Implements the Android extensions menu logic, exposing menu entries, action icons and site permission states to the Java UI.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extensions_menu_delegate_android.h"
 
 #include "base/android/jni_string.h"
