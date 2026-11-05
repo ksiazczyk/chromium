@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info infobar delegate implementation
+// summary: Implements the confirm infobar shown after page info permission changes, offering a button that reloads the page so the new settings take effect.
+// ---
+
 #include "chrome/browser/ui/page_info/page_info_infobar_delegate.h"
 
 #include "base/check_op.h"

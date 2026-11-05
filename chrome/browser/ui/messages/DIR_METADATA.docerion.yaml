@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Messages UI directory metadata
+summary: Declares metadata mixins for the chrome/browser/ui/messages directory, inheriting component and team info from components/messages COMMON_METADATA.

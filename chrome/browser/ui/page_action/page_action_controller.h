@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action controller header
+// summary: Declares the page action controller with enums and structs for suggestion chips, anchored messages, priorities, and animation parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_CONTROLLER_H_
 

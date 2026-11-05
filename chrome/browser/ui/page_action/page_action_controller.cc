@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action controller implementation
+// summary: Implements the per-tab page action controller that shows, hides, and manages page actions, including scoped activity tracking.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_controller.h"
 
 #include <algorithm>

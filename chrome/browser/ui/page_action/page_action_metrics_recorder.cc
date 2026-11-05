@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action metrics recorder implementation
+// summary: Implements recording of per-action and page-level page action metrics such as shows and clicks per navigation.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_metrics_recorder.h"
 
 #include <utility>

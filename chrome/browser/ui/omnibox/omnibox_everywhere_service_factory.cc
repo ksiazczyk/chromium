@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEverywhereService factory implementation
+// summary: Implements the profile-keyed factory that creates OmniboxEverywhereService on Mac and Windows when the kOmniboxEverywhere feature is enabled.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere_service_factory.h"
 
 #include "base/logging.h"

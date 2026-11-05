@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock page action model for tests
+// summary: Declares a gmock mock of PageActionModelInterface exposing visibility, chip, anchored message, image, and animation properties.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_MOCK_PAGE_ACTION_MODEL_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_MOCK_PAGE_ACTION_MODEL_H_
 

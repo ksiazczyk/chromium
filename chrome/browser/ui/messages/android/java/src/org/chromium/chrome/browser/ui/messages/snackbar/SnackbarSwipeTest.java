@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snackbar swipe-to-dismiss tests
+// summary: UI tests verifying that dragging a shown snackbar horizontally dismisses it via the swipe handler.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import static org.junit.Assert.assertFalse;

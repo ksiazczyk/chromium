@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox pedal implementations unit tests
+// summary: Unit tests for omnibox pedal implementations, covering synonym concept matching, execution contexts, and profile variants such as incognito and guest sessions.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_pedal_implementations.h"
 
 #include <algorithm>

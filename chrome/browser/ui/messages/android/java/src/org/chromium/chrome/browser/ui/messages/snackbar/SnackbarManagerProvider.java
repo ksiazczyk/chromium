@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnackbarManagerProvider window binding
+// summary: Attaches, detaches and retrieves the activity's SnackbarManager through a WindowAndroid's unowned user data host.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import org.chromium.base.UnownedUserDataKey;

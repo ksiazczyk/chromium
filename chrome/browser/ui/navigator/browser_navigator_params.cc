@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigateParams implementation
+// summary: Implements NavigateParams constructors and fills navigation parameters from content OpenURLParams.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator_params.h"
 
 #include <utility>

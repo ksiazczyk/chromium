@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere controller implementation
+// summary: Implements the coordinator that manages hotkey registration, profile observation, background mode, and feature invocation.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_controller.h"
 
 #include <utility>

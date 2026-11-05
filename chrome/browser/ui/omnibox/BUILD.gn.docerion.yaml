@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox BUILD.gn build definition
+summary: Defines the omnibox and impl source sets with their public headers and dependency graph for the Chrome browser UI omnibox.

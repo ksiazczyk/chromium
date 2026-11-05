@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere preferences definitions
+// summary: Defines preference names, the FRE stage enum, and the ShowShortcutsPrefValue tri-state used to configure Omnibox Everywhere behavior such as hotkeys, background mode, and AI Mode entrypoints.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_PREFS_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_PREFS_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Page Actions
+summary: Explains the Page Action framework and gives a step-by-step guide for adding, controlling, customizing, and testing URL bar page actions.
+relations:
+  - references /chrome/browser/ui/page_action/docs/page_action_example.png
+  - references /ui/actions/actions.h
+  - references /chrome/browser/ui/actions/chrome_action_id.h
+---
+
 # Page Actions
 
 The Page Action system provides URL bar-based UI entry points to more general

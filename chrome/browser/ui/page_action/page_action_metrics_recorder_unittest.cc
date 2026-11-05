@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action metrics recorder unit tests
+// summary: Unit tests verifying page action metrics histograms for icon and chip shows and clicks across navigations.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_metrics_recorder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere region select overlay unit tests
+// summary: Unit tests for the region select overlay, covering multi-display widget slicing, drag selection, keyboard handling, and cropping of the captured region.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_region_select_overlay.h"
 
 #include <memory>

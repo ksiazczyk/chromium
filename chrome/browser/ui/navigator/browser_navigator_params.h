@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigateParams struct
+// summary: Defines the NavigateParams struct that tells Navigate() which URL, contents, browser and disposition to use for a navigation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_PARAMS_H_
 #define CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_PARAMS_H_
 

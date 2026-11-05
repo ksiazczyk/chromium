@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page info UI delegate header
+// summary: Declares the ChromePageInfoUiDelegate class that supplies Chrome-specific UI behavior for the page info bubble, including permission options and side panel actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_INFO_CHROME_PAGE_INFO_UI_DELEGATE_H_
 #define CHROME_BROWSER_UI_PAGE_INFO_CHROME_PAGE_INFO_UI_DELEGATE_H_
 

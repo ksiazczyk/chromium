@@ -1,0 +1,4 @@
+# Docerion header of mac_window_util_unittest.mm.
+type: test
+title: Mac window utility unit tests
+summary: Tests null-safety, window activation ordering, and Space disassociation behavior of the Mac window helpers.

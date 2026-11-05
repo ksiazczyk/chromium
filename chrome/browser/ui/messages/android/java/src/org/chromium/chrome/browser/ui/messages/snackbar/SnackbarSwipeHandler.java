@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnackbarSwipeHandler gesture handling
+// summary: Handles horizontal swipe touch events on a snackbar, dismissing it past a threshold or resetting its position through a delegate.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import android.content.Context;

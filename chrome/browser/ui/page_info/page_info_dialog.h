@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info dialog header
+// summary: Declares the entry points and callbacks for showing the page info dialog, including the platform-specific ShowPageInfoDialogImpl function.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_INFO_PAGE_INFO_DIALOG_H_
 #define CHROME_BROWSER_UI_PAGE_INFO_PAGE_INFO_DIALOG_H_
 

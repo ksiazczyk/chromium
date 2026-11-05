@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxEditModel browser tests
+// summary: Browser test verifying that the AskG composebox flow populates searchbox context with the correct tab attachment data.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_edit_model.h"
 
 #include <stdint.h>

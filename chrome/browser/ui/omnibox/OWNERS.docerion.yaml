@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox OWNERS file
+summary: Delegates code ownership of the omnibox UI directory to components/omnibox/OWNERS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEditModel implementation
+// summary: Implements the omnibox edit model, handling user input, keyword mode, navigation, metrics, and suggestion actions.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_edit_model.h"
 
 #include <stddef.h>

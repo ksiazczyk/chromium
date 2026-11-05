@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere preferences implementation
+// summary: Registers local state and profile preferences for Omnibox Everywhere and implements helpers for hotkeys, ephemeral model, shortcuts visibility, and first-run experience stages.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_prefs.h"
 
 #include <string_view>

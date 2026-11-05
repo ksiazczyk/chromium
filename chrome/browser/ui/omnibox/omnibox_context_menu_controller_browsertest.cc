@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox context menu controller browser tests
+// summary: Browser tests for the omnibox context menu controller, covering menu commands, recent tabs, file selectors, and popup behavior.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_context_menu_controller.h"
 
 #include "base/run_loop.h"

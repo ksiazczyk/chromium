@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxPopupFileSelector fake implementation
+// summary: Test fake of OmniboxPopupFileSelector that records file upload dialog calls and reopens AI mode when file selection is canceled.
+// ---
+
 #include "chrome/browser/ui/omnibox/test_omnibox_popup_file_selector.h"
 
 #include <optional>

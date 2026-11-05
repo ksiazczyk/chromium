@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action trigger and entry point definitions
+// summary: Declares the PageActionTrigger alias and PageActionEntryPoint enum along with class property keys for storing them on views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_TRIGGERS_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_TRIGGERS_H_
 

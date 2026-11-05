@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser navigator params utilities unit tests
+// summary: Unit tests for the navigation params utilities, covering tab matching and LoadURLParams conversion with mock browser, tab list, and Android-specific setup.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator_params_utils.h"
 
 #include <memory>

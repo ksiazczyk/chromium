@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action observer implementation
+// summary: Implements PageActionObserver by observing the page action model and distilling it into PageActionState notifications for icon, chip, and anchored message events.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_observer.h"
 
 #include <memory>

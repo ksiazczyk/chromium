@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser navigator test base class
+// summary: Declares BrowserNavigatorTest, an InteractiveBrowserTest base class providing helpers and navigation test utilities.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_BROWSERTEST_H_
 #define CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_BROWSERTEST_H_
 

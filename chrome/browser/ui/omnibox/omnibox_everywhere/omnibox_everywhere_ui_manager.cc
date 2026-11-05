@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere UI manager implementation
+// summary: Implements the manager for the desktop Omnibox Everywhere window, covering popup sizing, WebUI contents, profile switching, context menus, and region capture.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_ui_manager.h"
 
 #include <algorithm>

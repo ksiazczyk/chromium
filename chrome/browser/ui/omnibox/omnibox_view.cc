@@ -5,6 +5,12 @@
 // This file defines helper functions shared by the various implementations
 // of OmniboxView.
 
+// ---docerion
+// type: source
+// title: OmniboxView shared implementation
+// summary: Implements helper functions shared across OmniboxView platform implementations, including icon selection and edit-state checks for the omnibox.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_view.h"
 
 #include <algorithm>

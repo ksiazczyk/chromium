@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test page action properties provider
+// summary: Declares a testing properties provider that lets tests configure a custom map of page action properties.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_TEST_PAGE_ACTION_PROPERTIES_PROVIDER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_TEST_PAGE_ACTION_PROPERTIES_PROVIDER_H_
 

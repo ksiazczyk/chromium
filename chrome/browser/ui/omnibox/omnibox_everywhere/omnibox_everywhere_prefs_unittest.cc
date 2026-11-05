@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere preferences unit tests
+// summary: Unit tests for Omnibox Everywhere preferences, covering shortcuts visibility fallbacks, profile isolation, enterprise policy handling, and hotkey behavior.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_prefs.h"
 
 #include <memory>

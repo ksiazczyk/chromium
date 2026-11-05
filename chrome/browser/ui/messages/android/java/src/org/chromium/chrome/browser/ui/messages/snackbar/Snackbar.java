@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snackbar model with types and UMA identifiers
+// summary: Defines the Snackbar model with action, notification and persistent types plus UMA feature identifiers for bottom-of-screen messages with optional actions.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import android.graphics.drawable.Drawable;

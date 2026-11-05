@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser navigator browser tests
+// summary: Contains in-process browser tests covering navigation dispositions, singleton tabs, incognito behavior and related navigation features.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator_browsertest.h"
 
 #include <memory>

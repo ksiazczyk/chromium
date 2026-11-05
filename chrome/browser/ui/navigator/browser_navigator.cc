@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser navigator implementation
+// summary: Implements the Navigate functions that open URLs or WebContents in browser windows and tabs according to NavigateParams.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action pass key
+// summary: Defines PageActionPassKey, a shared secret restricting sensitive page action framework methods to core controller, model, and view code.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_PASS_KEY_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_PASS_KEY_H_
 

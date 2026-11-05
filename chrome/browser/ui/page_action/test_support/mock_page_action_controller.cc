@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock page action controller implementation
+// summary: Implements the mock page action controller with default gmock behavior for ActionExists and observer registration on the mock model.
+// ---
+
 #include "chrome/browser/ui/page_action/test_support/mock_page_action_controller.h"
 
 namespace page_actions {

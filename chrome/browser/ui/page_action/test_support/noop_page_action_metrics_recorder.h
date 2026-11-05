@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op page action metrics recorder
+// summary: Declares a do-nothing page action metrics recorder and its factory for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_NOOP_PAGE_ACTION_METRICS_RECORDER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_NOOP_PAGE_ACTION_METRICS_RECORDER_H_
 

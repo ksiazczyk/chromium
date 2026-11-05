@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page actions GN build targets
+summary: Defines GN source sets for the page action framework, including headers, implementation, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox next features unit tests
+// summary: Unit tests for omnibox next feature flags, including composebox configuration parsing and screen reader suppression behavior.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_next_features.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action properties provider implementation
+// summary: Registers static properties such as histogram names, icon types, element identifiers, and priorities for each known Chrome page action.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_properties_provider.h"
 
 #include <algorithm>

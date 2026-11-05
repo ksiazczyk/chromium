@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page info UI delegate implementation
+// summary: Implements the Chrome-specific page info UI delegate, deciding which permission options to show and providing about-this-site, merchant trust, and settings link behavior.
+// ---
+
 #include "chrome/browser/ui/page_info/chrome_page_info_ui_delegate.h"
 
 #include "base/notreached.h"

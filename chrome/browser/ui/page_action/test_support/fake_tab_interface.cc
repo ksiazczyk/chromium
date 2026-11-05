@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tab interface implementation
+// summary: Implements a fake TabInterface that creates test WebContents via a factory and notifies registered activation and deactivation callbacks.
+// ---
+
 #include "chrome/browser/ui/page_action/test_support/fake_tab_interface.h"
 
 #include <memory>

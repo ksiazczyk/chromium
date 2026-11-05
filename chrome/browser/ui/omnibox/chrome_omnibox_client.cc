@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome omnibox client implementation
+// summary: Implements ChromeOmniboxClient, wiring the omnibox UI to browser services such as bookmarks, history, search engines, preloading, Lens, and metrics.
+// ---
+
 #include "chrome/browser/ui/omnibox/chrome_omnibox_client.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Navigator directory owners
+summary: Lists code owners for the navigator directory and assigns a per-file owner for the Android browser_navigator_params files.

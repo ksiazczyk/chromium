@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action metrics recorder interface
+// summary: Defines the interface and factory for the page action metrics recorder so a mock can be used in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_METRICS_RECORDER_INTERFACE_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_METRICS_RECORDER_INTERFACE_H_
 

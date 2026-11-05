@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxView fake class declaration
+// summary: Declares TestOmniboxView, a fake OmniboxView implementation providing stubbed text and selection behavior for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_VIEW_H_
 #define CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_VIEW_H_
 

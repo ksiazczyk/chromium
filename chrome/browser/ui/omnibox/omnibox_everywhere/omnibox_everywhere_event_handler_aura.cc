@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura event handler implementation
+// summary: Handles mouse events on the Omnibox Everywhere window, starting a move loop when dragging from draggable background regions.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_event_handler_aura.h"
 
 #include "base/check.h"

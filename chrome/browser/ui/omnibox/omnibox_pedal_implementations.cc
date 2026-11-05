@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox pedal implementations
+// summary: Implements Chrome-specific omnibox pedals, quick actions like clearing browsing data and managing passwords, with localized synonym groups.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_pedal_implementations.h"
 
 #include "base/feature_list.h"

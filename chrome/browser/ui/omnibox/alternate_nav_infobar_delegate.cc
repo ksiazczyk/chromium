@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate nav infobar delegate implementation
+// summary: Implements the infobar delegate that offers a did-you-mean navigation link after omnibox searches and updates shortcuts and history.
+// ---
+
 #include "chrome/browser/ui/omnibox/alternate_nav_infobar_delegate.h"
 
 #include <string>

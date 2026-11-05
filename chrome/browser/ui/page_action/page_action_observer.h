@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action observer interface and state snapshot
+// summary: Declares the PageActionState per-tab snapshot struct and the PageActionObserver interface for icon, chip, and anchored message visibility events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_OBSERVER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-modal popup navigation implementation
+// summary: Implements BrowserNavigatorTabModal::ShowImpl, which opens a URL as a new popup browser tied to the source web contents.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator_tab_modal.h"
 
 #include "chrome/browser/profiles/profile.h"

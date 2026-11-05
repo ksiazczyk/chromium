@@ -1,0 +1,4 @@
+# Docerion header of mac_window_util.mm.
+type: source
+title: Mac window utility implementation
+summary: Implements the macOS helpers that reset window collection behavior and bring the targeted browser window to the front.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere Windows shortcut implementation
+// summary: Implements Windows helpers that create the Start Menu shortcut and resolve the channel-specific display name, AppUserModelId, and taskbar window properties.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_shortcut_win.h"
 
 #include <string>

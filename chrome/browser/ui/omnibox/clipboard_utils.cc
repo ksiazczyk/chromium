@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox clipboard helpers implementation
+// summary: Implements GetClipboardText, reading plain text or bookmark URLs from the clipboard for pasting into the omnibox.
+// ---
+
 #include "chrome/browser/ui/omnibox/clipboard_utils.h"
 
 #include <string>

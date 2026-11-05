@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock page action controller for tests
+// summary: Declares a gmock mock of PageActionController covering show, hide, suggestion chip, anchored message, and override methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_MOCK_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_MOCK_PAGE_ACTION_CONTROLLER_H_
 

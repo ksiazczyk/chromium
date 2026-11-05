@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome omnibox navigation observer implementation
+// summary: Implements the desktop omnibox navigation observer that shows the alternate navigation infobar when an alternative URL probe succeeds during a search navigation.
+// ---
+
 #include "chrome/browser/ui/omnibox/chrome_omnibox_navigation_observer.h"
 
 #include <string>

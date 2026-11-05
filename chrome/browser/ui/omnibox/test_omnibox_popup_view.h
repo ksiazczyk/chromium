@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxPopupView fake header
+// summary: Declares TestOmniboxPopupView, a fake popup view implementation for use in omnibox tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_POPUP_VIEW_H_
 #define CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_POPUP_VIEW_H_
 

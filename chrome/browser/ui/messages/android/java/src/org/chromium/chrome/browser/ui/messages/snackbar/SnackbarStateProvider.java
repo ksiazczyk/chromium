@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnackbarStateProvider observer interface
+// summary: Interface letting observers track snackbar visibility and color state changes and query whether snackbars span the full container width.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import androidx.annotation.ColorInt;

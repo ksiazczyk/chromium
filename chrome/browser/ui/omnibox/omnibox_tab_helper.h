@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox tab helper header
+// summary: Declares OmniboxTabHelper, a WebContentsUserData that lets observers listen for omnibox input, focus, and popup visibility changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox next features declarations
+// summary: Declares feature flags, parameters, and helper functions for next-generation omnibox features, with guidance on which accessors callers should use.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_NEXT_FEATURES_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_NEXT_FEATURES_H_
 

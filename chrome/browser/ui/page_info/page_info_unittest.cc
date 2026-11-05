@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info unit tests
+// summary: Unit tests covering the page info UI, including permission display logic, content settings, security state, and related delegate behavior.
+// ---
+
 #include "components/page_info/page_info.h"
 
 #include <algorithm>

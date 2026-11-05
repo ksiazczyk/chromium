@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI mode page action controller interactive UI tests
+// summary: Interactive UI tests verifying the AI mode page action icon behavior with mock eligibility services and WebUI omnibox features.
+// ---
+
 #include "chrome/browser/ui/omnibox/ai_mode_page_action_controller.h"
 
 #include <memory>

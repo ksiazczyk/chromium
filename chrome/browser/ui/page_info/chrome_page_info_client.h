@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page info client interface
+// summary: Declares Chrome's PageInfoClient implementation that supplies page info delegates to the //components/page_info classes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_INFO_CHROME_PAGE_INFO_CLIENT_H_
 #define CHROME_BROWSER_UI_PAGE_INFO_CHROME_PAGE_INFO_CLIENT_H_
 

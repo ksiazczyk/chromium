@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere region select overlay header
+// summary: Declares the manager that shows frameless fullscreen overlay widgets with desktop screenshots for region selection across all connected displays.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_REGION_SELECT_OVERLAY_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_REGION_SELECT_OVERLAY_H_
 

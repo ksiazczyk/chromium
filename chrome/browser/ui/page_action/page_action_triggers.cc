@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action trigger property keys
+// summary: Defines UI class property keys that attach page action trigger and entry point values to views.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_triggers.h"
 
 #include "ui/base/class_property.h"

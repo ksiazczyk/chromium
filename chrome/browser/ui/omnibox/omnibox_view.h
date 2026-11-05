@@ -8,6 +8,12 @@
 // the view.  Since the model is shared between platforms, we need to define an
 // interface that all view implementations will share.
 
+// ---docerion
+// type: source
+// title: OmniboxView interface
+// summary: Defines the platform-independent OmniboxView interface that the shared OmniboxEditModel uses to communicate with toolkit-specific edit views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_VIEW_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_VIEW_H_
 

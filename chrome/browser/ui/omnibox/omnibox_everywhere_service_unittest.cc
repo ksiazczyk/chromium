@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxEverywhereService unit tests
+// summary: Unit tests for OmniboxEverywhereService covering profile access, FRE preference defaults, and screenshot disclosure dialog behavior.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere_service.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere feature promo controller header
+// summary: Declares the Omnibox Everywhere feature promo controller, a NonBrowserFeaturePromoController managed by OmniboxEverywhereService for displaying IPH in the popup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_FEATURE_PROMO_CONTROLLER_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_FEATURE_PROMO_CONTROLLER_H_
 

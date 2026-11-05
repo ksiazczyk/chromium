@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxEditModel fake implementation
+// summary: Test double of OmniboxEditModel that overrides match lookup, popup data changes, and pref service access for use in unit tests.
+// ---
+
 #include "chrome/browser/ui/omnibox/test_omnibox_edit_model.h"
 
 #include <algorithm>

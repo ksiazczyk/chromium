@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action metrics recorder header
+// summary: Declares the metrics recorder class that tracks per-action display state and records page action metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_METRICS_RECORDER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_METRICS_RECORDER_H_
 

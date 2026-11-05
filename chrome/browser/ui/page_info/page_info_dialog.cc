@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info dialog implementation
+// summary: Implements ShowPageInfoDialog, which locates the browser for a tab and triggers the platform-specific page info dialog, plus a test-only creation callback.
+// ---
+
 #include "chrome/browser/ui/page_info/page_info_dialog.h"
 
 #include "base/no_destructor.h"

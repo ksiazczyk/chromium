@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page info client implementation
+// summary: Implements ChromePageInfoClient by creating a ChromePageInfoDelegate and mapping native resource IDs to Java drawable IDs on Android.
+// ---
+
 #include "chrome/browser/ui/page_info/chrome_page_info_client.h"
 
 #include "chrome/browser/android/resource_mapper.h"

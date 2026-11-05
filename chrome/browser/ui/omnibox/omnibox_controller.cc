@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxController implementation
+// summary: Implements the controller that coordinates the autocomplete controller, edit model, and popup state for the omnibox.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_controller.h"
 
 #include <memory>

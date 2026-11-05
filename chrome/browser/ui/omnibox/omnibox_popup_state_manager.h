@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup state manager header
+// summary: Declares the OmniboxPopupState enum and OmniboxPopupStateManager class that give model and view layers a single source of truth for popup visibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_POPUP_STATE_MANAGER_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_POPUP_STATE_MANAGER_H_
 

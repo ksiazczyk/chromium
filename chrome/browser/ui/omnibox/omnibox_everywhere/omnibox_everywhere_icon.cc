@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere icon implementation
+// summary: Builds the Omnibox Everywhere icon, choosing a branded Google G resource or a generic search vector icon depending on branding and platform buildflags.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_icon.h"
 
 #include "build/branding_buildflags.h"

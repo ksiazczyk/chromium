@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox pedals locale data test
+// summary: Unit test verifying that pedal concept translation data loads for every supported locale via the ResourceBundle.
+// ---
+
 #include "base/environment.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"

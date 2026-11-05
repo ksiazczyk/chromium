@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEditModel class header
+// summary: Declares OmniboxEditModel with its state, observer interface, and APIs for keyword mode, focus, and popup selection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EDIT_MODEL_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EDIT_MODEL_H_
 
