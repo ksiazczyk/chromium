@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the WebAuthn proto library
+summary: Defines the GN proto_library build target that compiles enclave_local_state.proto.

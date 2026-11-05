@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity API permission context unit tests
+// summary: Unit tests for the FedCM API permission context covering embargo behavior and third-party cookie settings.
+// ---
+
 #include "chrome/browser/webid/federated_identity_api_permission_context.h"
 
 #include "base/memory/raw_ptr.h"

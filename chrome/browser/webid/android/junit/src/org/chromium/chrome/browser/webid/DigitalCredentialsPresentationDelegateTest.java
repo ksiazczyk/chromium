@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DigitalCredentialsPresentationDelegate
+// summary: Robolectric unit tests verifying extraction of digital credential responses from intents, error handling, and large payload result passing.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static org.junit.Assert.assertEquals;

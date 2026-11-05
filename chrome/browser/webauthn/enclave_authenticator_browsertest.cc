@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enclave authenticator browser tests
+// summary: Browser test suite exercising enclave passkey flows, including sign-in, sync, trusted vault key retrieval, password store setup, and WebAuthn request UI interactions.
+// ---
+
 #include <algorithm>
 #include <cstdint>
 #include <memory>

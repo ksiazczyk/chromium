@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorIncognitoConfirmationBottomsheet
+// summary: Android bottom sheet that warns users before creating a WebAuthn credential in Incognito mode and runs accept or reject callbacks based on the user's choice.
+// ---
+
 package org.chromium.chrome.browser.webauthn;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

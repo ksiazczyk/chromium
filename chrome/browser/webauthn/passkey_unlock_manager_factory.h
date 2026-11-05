@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyUnlockManager service factory header
+// summary: Header declaring PasskeyUnlockManagerFactory, which provides per-profile access to the PasskeyUnlockManager keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_PASSKEY_UNLOCK_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_WEBAUTHN_PASSKEY_UNLOCK_MANAGER_FACTORY_H_
 

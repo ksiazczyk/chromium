@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePasswordCredentialFetcher implementation
+// summary: Implements a controllable fake password credential fetcher that records calls and lets tests supply passwords and trigger callbacks manually.
+// ---
+
 #include "chrome/browser/webauthn/fake_password_credential_fetcher.h"
 
 #include <utility>

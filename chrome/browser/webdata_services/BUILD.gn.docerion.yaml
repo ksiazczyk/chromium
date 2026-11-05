@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for webdata_services
+summary: Defines GN source sets for the browser-side web data service factory and its dependencies.

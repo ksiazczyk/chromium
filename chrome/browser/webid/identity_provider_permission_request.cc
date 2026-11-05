@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity provider permission request implementation
+// summary: Implements the identity provider permission prompt, invoking a callback with the user's allow or deny decision.
+// ---
+
 #include "chrome/browser/webid/identity_provider_permission_request.h"
 
 #include <variant>

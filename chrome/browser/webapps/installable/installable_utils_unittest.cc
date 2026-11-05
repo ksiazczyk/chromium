@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for installed web app origin utilities
+// summary: Unit tests covering the desktop implementation of origin-based installed web app lookups in installable_utils.
+// ---
+
 #include "chrome/browser/webapps/installable/installable_utils.h"
 
 #include "chrome/browser/web_applications/test/web_app_install_test_utils.h"

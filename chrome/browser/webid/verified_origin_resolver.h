@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verified origin resolver declaration
+// summary: Declares a resolver that maps an IdP origin to a verified Android app package and service using intent discovery and Digital Asset Links.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_VERIFIED_ORIGIN_RESOLVER_H_
 #define CHROME_BROWSER_WEBID_VERIFIED_ORIGIN_RESOLVER_H_
 

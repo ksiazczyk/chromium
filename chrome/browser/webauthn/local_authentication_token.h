@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication token alias
+// summary: Defines the LocalAuthenticationToken type as a macOS local-authentication context or a no-op struct on other platforms.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_LOCAL_AUTHENTICATION_TOKEN_H_
 #define CHROME_BROWSER_WEBAUTHN_LOCAL_AUTHENTICATION_TOKEN_H_
 

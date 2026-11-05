@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyUnlockManager service factory
+// summary: Profile-keyed service factory that creates a PasskeyUnlockManager per profile, depending on the passkey model, enclave manager, and sync services.
+// ---
+
 #include "chrome/browser/webauthn/passkey_unlock_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for installed web app permissions
+// summary: Implements the JNI bridge that fetches installed web app permission rules from Java and routes permission decisions back to the installed web app provider.
+// ---
+
 #include "chrome/browser/webapps/installable/installed_webapp_bridge.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential sorter desktop unit tests
+// summary: Unit tests verifying mechanism deduplication, sorting results, and deduplication histogram metrics for the desktop credential sorter across UI presentations.
+// ---
+
 #include "chrome/browser/webauthn/credential_sorter_desktop.h"
 
 #include "base/functional/callback_helpers.h"

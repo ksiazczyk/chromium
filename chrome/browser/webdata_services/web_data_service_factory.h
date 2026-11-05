@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web data service factory header
+// summary: Declares the singleton factory associating WebDataServiceWrapper instances with profiles and accessors for autofill, keyword and token web data.
+// ---
+
 #ifndef CHROME_BROWSER_WEBDATA_SERVICES_WEB_DATA_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_WEBDATA_SERVICES_WEB_DATA_SERVICE_FACTORY_H_
 

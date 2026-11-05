@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCredentialUIController header
+// summary: Header for PasswordCredentialUIController, which manages password credential selection and OS re-authentication in the WebAuthn dialog on non-Android platforms.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_PASSWORD_CREDENTIAL_UI_CONTROLLER_H_
 #define CHROME_BROWSER_WEBAUTHN_PASSWORD_CREDENTIAL_UI_CONTROLLER_H_
 

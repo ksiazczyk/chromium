@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity IdP registration context implementation
+// summary: Implements the browser-side context that stores which identity providers the user explicitly accepted for FedCM, backed by content settings.
+// ---
+
 #include "chrome/browser/webid/federated_identity_identity_provider_registration_context.h"
 
 #include "base/strings/utf_string_conversions.h"

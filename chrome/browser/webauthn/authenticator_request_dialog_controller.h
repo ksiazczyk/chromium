@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorRequestDialogController class header
+// summary: Declares the controller that drives the WebAuthn request dialog state machine and reacts to model, passkey model and upgrade events.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_REQUEST_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_REQUEST_DIALOG_CONTROLLER_H_
 

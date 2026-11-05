@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake unexportable key provider header
+// summary: Declares scoped helpers that substitute fake or null unexportable key providers while in scope for WebAuthn tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_WEBAUTHN_SCOPED_FAKE_UNEXPORTABLE_KEY_PROVIDER_H_
 #define CHROME_BROWSER_WEBAUTHN_WEBAUTHN_SCOPED_FAKE_UNEXPORTABLE_KEY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebAuthenticationDelegate implementation
+// summary: Implements ChromeWebAuthenticationDelegate, handling attestation policies, RP ID overrides, passkey signals and request proxies for WebAuthn in Chrome.
+// ---
+
 #include "chrome/browser/webauthn/chrome_web_authentication_delegate.h"
 
 #include <algorithm>

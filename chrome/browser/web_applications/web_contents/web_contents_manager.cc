@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsManager implementation
+// summary: Implements the factory that creates URL loaders, data retrievers, and icon downloaders, and provides manifest and app ID accessors for WebContents.
+// ---
+
 #include "chrome/browser/web_applications/web_contents/web_contents_manager.h"
 
 #include <memory>

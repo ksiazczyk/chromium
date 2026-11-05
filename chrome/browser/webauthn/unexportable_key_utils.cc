@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key utilities implementation
+// summary: Selects the platform-appropriate unexportable key provider for WebAuthn, with software fallbacks and provider-type metrics recording.
+// ---
+
 #include "chrome/browser/webauthn/unexportable_key_utils.h"
 
 #include <atomic>

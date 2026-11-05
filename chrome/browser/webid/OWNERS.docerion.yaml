@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebID directory owners
+summary: Delegates ownership to the shared WebID OWNERS file and adds the permissions owners for permission-related files.

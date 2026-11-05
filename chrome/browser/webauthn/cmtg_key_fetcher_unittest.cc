@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CMTG key fetcher unit tests
+// summary: Unit tests for CmtgKeyFetcher covering successful fetches, errors, timeouts, and blocking wait behavior with a fake provider.
+// ---
+
 #include "chrome/browser/webauthn/cmtg_key_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of installed web app origin utilities
+// summary: Implements helpers that check whether an origin contains an installed web app and collect HTTPS origins with installed web apps, using Android or desktop web app backends.
+// ---
+
 #include "chrome/browser/webapps/installable/installable_utils.h"
 
 #include "build/build_config.h"

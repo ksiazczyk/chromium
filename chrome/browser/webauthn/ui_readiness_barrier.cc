@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI readiness barrier implementation
+// summary: Implements the barrier that waits for transport availability, password credentials, and enclave readiness before triggering the WebAuthn UI flow.
+// ---
+
 #include "chrome/browser/webauthn/ui_readiness_barrier.h"
 
 #include <utility>

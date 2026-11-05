@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN local preference registration
+// summary: Registers local state string preferences for the Windows App Runtime package family name, minimum version, and dependency ID.
+// ---
+
 #include "chrome/browser/webnn/webnn_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

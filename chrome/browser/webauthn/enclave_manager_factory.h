@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnclaveManagerFactory header
+// summary: Declares the EnclaveManagerFactory keyed service factory that returns per-profile EnclaveManager instances and provides a testing URL loader override.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_FACTORY_H_
 

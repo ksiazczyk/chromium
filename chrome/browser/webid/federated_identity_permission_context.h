@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity permission context header
+// summary: Declares the FedCM permission context for relying party sharing permissions, IdP sign-in status, and IdP registration, as a keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_PERMISSION_CONTEXT_H_
 

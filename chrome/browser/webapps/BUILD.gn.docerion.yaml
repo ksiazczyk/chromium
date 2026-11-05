@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome webapps browser code
+summary: Defines source sets and platform-specific dependencies for the webapps browser code, including Android, desktop and interactive UI test targets.

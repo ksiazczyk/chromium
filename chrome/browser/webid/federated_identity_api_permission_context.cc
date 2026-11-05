@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity API permission context implementation
+// summary: Implements permission checks for the FedCM API, including embargo handling, dismissal recording, and third-party cookie access checks.
+// ---
+
 #include "chrome/browser/webid/federated_identity_api_permission_context.h"
 
 #include "chrome/browser/browser_features.h"

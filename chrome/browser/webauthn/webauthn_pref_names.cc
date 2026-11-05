@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn preference name constants
+// summary: Defines preference name constants for WebAuthn settings such as broken certificate allowance, enclave counters and remote access.
+// ---
+
 #include "chrome/browser/webauthn/webauthn_pref_names.h"
 
 namespace webauthn::pref_names {

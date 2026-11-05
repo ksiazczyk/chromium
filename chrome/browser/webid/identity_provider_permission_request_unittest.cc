@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity provider permission request unit tests
+// summary: Unit tests checking that granted, denied and cancelled permission prompts invoke the callback with the expected result.
+// ---
+
 #include "chrome/browser/webid/identity_provider_permission_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn client for Android header
+// summary: Declares ChromeWebAuthnClientAndroid, the Chrome implementation of WebAuthnClientAndroid for handling pending WebAuthn requests on Android.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ANDROID_CHROME_WEBAUTHN_CLIENT_ANDROID_H_
 #define CHROME_BROWSER_WEBAUTHN_ANDROID_CHROME_WEBAUTHN_CLIENT_ANDROID_H_
 

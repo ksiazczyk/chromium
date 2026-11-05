@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital credential presentation delegate for Android
+// summary: Requests digital credential presentation through the GMS Identity Credential Manager, handling responses, errors and large payloads.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import android.app.Activity;

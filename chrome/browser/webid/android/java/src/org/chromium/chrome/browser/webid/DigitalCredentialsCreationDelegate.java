@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital credential creation delegate for Android
+// summary: Requests digital credential creation through the GMS Identity Credential Manager and delivers the protocol response or error to the caller.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static androidx.credentials.DigitalCredential.TYPE_DIGITAL_CREDENTIAL;

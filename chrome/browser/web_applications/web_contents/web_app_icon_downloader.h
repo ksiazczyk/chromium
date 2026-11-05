@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppIconDownloader class header
+// summary: Declares the downloader that fetches icons from a WebContents, with options for page favicons, fail-fast behavior, and callbacks reporting downloaded icons.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_APP_ICON_DOWNLOADER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_APP_ICON_DOWNLOADER_H_
 

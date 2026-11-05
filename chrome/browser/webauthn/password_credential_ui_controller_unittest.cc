@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordCredentialUIController unit tests
+// summary: Unit tests for PasswordCredentialUIController verifying password selection callbacks and biometric or OS authentication requirements.
+// ---
+
 #include "chrome/browser/webauthn/password_credential_ui_controller.h"
 
 #include "base/memory/ptr_util.h"

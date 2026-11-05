@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM enclave controller implementation
+// summary: Implements the controller that drives Google Password Manager enclave authenticator flows, including trusted vault connections, metrics, and UI steps.
+// ---
+
 #include "chrome/browser/webauthn/gpm_enclave_controller.h"
 
 #include <algorithm>

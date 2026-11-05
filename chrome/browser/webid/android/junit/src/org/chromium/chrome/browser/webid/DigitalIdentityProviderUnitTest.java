@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DigitalIdentityProvider
+// summary: Robolectric unit tests checking that credential exceptions map to the correct digital identity request metric statuses.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static org.junit.Assert.assertEquals;

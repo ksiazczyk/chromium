@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request scheduler implementation
+// summary: Implements scheduling of WebAuthn requests so that at most one active authenticator request delegate exists per WebContents.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_request_scheduler.h"
 
 #include "base/memory/weak_ptr.h"

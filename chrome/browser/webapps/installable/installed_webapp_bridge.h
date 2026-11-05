@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the installed web app JNI bridge
+// summary: Declares the Android bridge used to query installed web app permissions and deliver permission prompt decisions from Java code.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_BRIDGE_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsManager class header
+// summary: Declares the manager wrapping all WebContents functionality needed by WebAppProvider, virtual for faking via FakeWebContentsManager in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_CONTENTS_MANAGER_H_
 

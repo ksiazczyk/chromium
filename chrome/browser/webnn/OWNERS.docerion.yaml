@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebNN browser owners
+summary: OWNERS file that delegates code ownership to services/webnn/OWNERS.

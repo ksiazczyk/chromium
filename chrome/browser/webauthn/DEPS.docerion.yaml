@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebAuthn directory include rules
+summary: Lists allowed include rules for the chrome/browser/webauthn directory, covering Android components, device/fido and CBOR.

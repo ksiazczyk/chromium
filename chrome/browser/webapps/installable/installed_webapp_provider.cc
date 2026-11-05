@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappProvider implementation
+// summary: Implements a content settings provider that exposes notification and geolocation permissions of installed web apps as read-only rules to the content settings system.
+// ---
+
 #include "chrome/browser/webapps/installable/installed_webapp_provider.h"
 
 #include <memory>

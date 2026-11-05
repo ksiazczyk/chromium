@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill credential receiver interface
+// summary: Declares the pure-virtual interface that receives outcomes of the Touch To Fill credential selection sheet, such as selected credentials or dismissal.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_TOUCH_TO_FILL_CREDENTIAL_RECEIVER_H_
 #define CHROME_BROWSER_WEBAUTHN_TOUCH_TO_FILL_CREDENTIAL_RECEIVER_H_
 

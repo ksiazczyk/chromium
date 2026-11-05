@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for installable web app targets
+summary: Defines GN source sets for installable web app utilities, Android JNI bridges, browser tests and unit tests, with platform-conditional dependencies.

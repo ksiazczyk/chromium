@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebAuthenticationDelegateBase implementation
+// summary: Implements shared WebAuthn delegate logic for desktop and Android, including checks for which origins may use the remote desktop client override.
+// ---
+
 #include "chrome/browser/webauthn/chrome_web_authentication_delegate_base.h"
 
 #include "base/command_line.h"

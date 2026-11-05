@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enclave authenticator test base class
+// summary: Declares EnclaveAuthenticatorTestBase, a SyncTest-derived base providing common setup such as UV key support, trusted vault simulation, and passkey model access for enclave tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ENCLAVE_AUTHENTICATOR_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_WEBAUTHN_ENCLAVE_AUTHENTICATOR_BROWSERTEST_BASE_H_
 

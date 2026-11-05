@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLEv2 Android module unit tests
+// summary: Unit tests verifying CBOR parsing and serialization of Phone-as-a-Security-Key linking data using a sample captured from Play Services.
+// ---
+
 #include "chrome/browser/webauthn/android/cable_module_android.h"
 
 #include <algorithm>

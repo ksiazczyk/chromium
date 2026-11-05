@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLE registration state implementation
+// summary: Implements RegistrationState, managing linking and sync FCM registrations, Play Services prelink queries, and signaling Sync once enough state is available.
+// ---
+
 #include "chrome/browser/webauthn/android/cable_registration_state.h"
 
 #include <array>

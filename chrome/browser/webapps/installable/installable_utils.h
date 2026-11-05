@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for installed web app origin utilities
+// summary: Declares helpers that detect installed web apps within a browser context origin and return the set of HTTPS origins containing installed web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLABLE_UTILS_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLABLE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud Keychain recovery implementation
+// summary: Implements iCloud recovery that matches local iCloud Keychain keys against security domain members and decrypts the passkeys domain secret.
+// ---
+
 #include "chrome/browser/webauthn/icloud_recovery.h"
 
 #include <algorithm>

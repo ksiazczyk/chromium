@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppDataRetriever unit tests
+// summary: Unit tests for WebAppDataRetriever using ChromeRenderViewHostTestHarness, a fake WebPageMetadataAgent, and WebContentsTester to exercise install info and manifest logic.
+// ---
+
 #include "chrome/browser/web_applications/web_contents/web_app_data_retriever.h"
 
 #include <memory>

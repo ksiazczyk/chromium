@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeyUnlockManager browser tests
+// summary: Browser tests verifying passkey unlock readiness, error UI state changes, and trusted vault encryption unlock flows for the enclave-based passkey unlock manager.
+// ---
+
 #include "chrome/browser/webauthn/passkey_unlock_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

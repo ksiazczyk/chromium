@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAuthn directory owners
+summary: Refers to device/fido/OWNERS to designate the code owners of the WebAuthn browser directory.

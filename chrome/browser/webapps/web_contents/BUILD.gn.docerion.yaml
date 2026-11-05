@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for web app URL loader browser tests
+summary: GN build file defining a testonly browser_tests source_set that compiles web_app_url_loader_browsertest.cc with its Chromium test dependencies.

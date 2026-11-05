@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN preference constants
+// summary: Declares preference name constants for Windows App Runtime package metadata and the RegisterLocalPrefs function.
+// ---
+
 #ifndef CHROME_BROWSER_WEBNN_WEBNN_PREFS_H_
 #define CHROME_BROWSER_WEBNN_WEBNN_PREFS_H_
 

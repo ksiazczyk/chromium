@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorReference struct header
+// summary: Declares the AuthenticatorReference struct holding the ID, transport and type of authenticators found but not yet dispatched.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_REFERENCE_H_
 #define CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_REFERENCE_H_
 

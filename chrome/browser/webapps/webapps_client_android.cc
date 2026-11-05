@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsClientAndroid implementation
+// summary: Android WebappsClient implementation handling install sources, app banner managers and WebAPK installation conflicts.
+// ---
+
 #include "chrome/browser/webapps/webapps_client_android.h"
 
 #include "base/logging.h"

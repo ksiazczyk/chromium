@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI readiness barrier header
+// summary: Declares UiReadinessBarrier, which coordinates asynchronous inputs needed before showing the WebAuthn request dialog UI.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_UI_READINESS_BARRIER_H_
 #define CHROME_BROWSER_WEBAUTHN_UI_READINESS_BARRIER_H_
 

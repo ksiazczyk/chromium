@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAuthenticatorRequestDelegate header
+// summary: Declares ChromeAuthenticatorRequestDelegate, the Chrome implementation of content::AuthenticatorRequestClientDelegate that drives WebAuthn request behavior.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CHROME_AUTHENTICATOR_REQUEST_DELEGATE_H_
 #define CHROME_BROWSER_WEBAUTHN_CHROME_AUTHENTICATOR_REQUEST_DELEGATE_H_
 

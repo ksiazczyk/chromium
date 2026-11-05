@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM clickthrough rate metadata proto
+// summary: Defines a protobuf message storing aggregated FedCM clickthrough rate metrics, including per page load, per client, and per impression rates plus sign-in likelihood fields.
+// ---
+
 syntax = "proto3";
 
 package webid;

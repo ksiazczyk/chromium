@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web data service factory implementation
+// summary: Implements the per-profile WebDataServiceWrapper factory, mapping database load errors to profile error dialogs.
+// ---
+
 #include "chrome/browser/webdata_services/web_data_service_factory.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey model profile factory
+// summary: Profile-keyed service factory that builds the PasskeyModel sync bridge and registers passkey affiliation sources, with special handling for guest profiles.
+// ---
+
 #include "chrome/browser/webauthn/passkey_model_factory.h"
 
 #include <memory>

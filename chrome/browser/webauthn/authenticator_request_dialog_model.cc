@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request dialog model implementation
+// summary: Implements the WebAuthn request dialog model, mapping UI steps to dialogs or windows and broadcasting observer events.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_request_dialog_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity provider permission request declaration
+// summary: Declares a permissions::PermissionRequest subclass that prompts for identity provider access and reports acceptance.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_IDENTITY_PROVIDER_PERMISSION_REQUEST_H_
 #define CHROME_BROWSER_WEBID_IDENTITY_PROVIDER_PERMISSION_REQUEST_H_
 

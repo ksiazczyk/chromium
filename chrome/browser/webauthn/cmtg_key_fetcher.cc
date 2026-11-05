@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG key fetcher
+// summary: Implements fetching CMTG device keys from Cryptauth with timeout handling and blocking latency metrics.
+// ---
+
 #include "chrome/browser/webauthn/cmtg_key_fetcher.h"
 
 #include "base/metrics/histogram_functions.h"

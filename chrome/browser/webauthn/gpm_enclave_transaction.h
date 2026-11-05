@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM enclave transaction header
+// summary: Declares GPMEnclaveTransaction and the EnclaveUserVerificationMethod enum used for enclave authenticator requests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_GPM_ENCLAVE_TRANSACTION_H_
 #define CHROME_BROWSER_WEBAUTHN_GPM_ENCLAVE_TRANSACTION_H_
 

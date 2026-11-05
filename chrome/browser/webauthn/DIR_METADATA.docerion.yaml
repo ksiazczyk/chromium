@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebAuthn directory metadata
+summary: Declares the Blink>WebAuthentication monorail component, the identity-dev team email and a Buganizer component ID for the directory.

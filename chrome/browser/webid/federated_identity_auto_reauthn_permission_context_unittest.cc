@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated identity auto re-authn permission context unit tests
+// summary: Unit tests for the FedCM auto re-authn permission context, covering opt-in behavior, content settings, and password manager settings service integration.
+// ---
+
 #include "chrome/browser/webid/federated_identity_auto_reauthn_permission_context.h"
 
 #include "base/containers/flat_map.h"

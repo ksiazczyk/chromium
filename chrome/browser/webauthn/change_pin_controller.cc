@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change PIN controller factory
+// summary: Provides ForWebContents to obtain the change PIN controller for a WebContents, returning the implementation or a testing instance.
+// ---
+
 #include "chrome/browser/webauthn/change_pin_controller.h"
 
 #include "chrome/browser/webauthn/change_pin_controller_impl.h"

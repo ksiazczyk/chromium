@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolver mapping FedCM origins to verified Android services
+// summary: Resolves a FedCM origin to a verified Android app package and bound service name using Digital Asset Links verification.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import android.content.Context;

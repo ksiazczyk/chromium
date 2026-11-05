@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Webapps directory metadata
+summary: Points this directory's metadata to the shared COMMON_METADATA file in components/webapps.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Share Target request body utilities
+// summary: Implements helpers that percent-escape strings and build multipart or URL-encoded POST request bodies for share targets, including file and text parts.
+// ---
+
 #include "chrome/browser/web_share_target/target_util.h"
 
 #include <utility>

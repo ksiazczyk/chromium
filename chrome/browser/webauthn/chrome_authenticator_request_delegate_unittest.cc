@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome authenticator request delegate unit tests
+// summary: Unit tests for ChromeAuthenticatorRequestDelegate covering transport availability, hybrid passkey outcomes, sign-in state and related behavior.
+// ---
+
 #include "chrome/browser/webauthn/chrome_authenticator_request_delegate.h"
 
 #include <algorithm>

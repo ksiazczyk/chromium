@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS unexportable key utils unit tests
+// summary: Unit tests for WebAuthn unexportable key utilities on ChromeOS, parameterized over the merged WebAuthn auth dialog feature.
+// ---
+
 #include "chrome/browser/webauthn/unexportable_key_utils.h"
 
 #include <memory>

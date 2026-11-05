@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity auto reauthn permission context browser tests
+// summary: Browser tests verifying the auto reauthn default setting and that auto reauthn is blocked while an actor task controls the tab.
+// ---
+
 #include "chrome/browser/webid/federated_identity_auto_reauthn_permission_context.h"
 
 #include "base/test/bind.h"

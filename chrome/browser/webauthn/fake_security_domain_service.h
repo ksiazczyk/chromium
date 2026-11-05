@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security domain service interface
+// summary: Declares FakeSecurityDomainService, a test fake for the Security Domain Service that records members, enforces epochs, and can simulate errors.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_FAKE_SECURITY_DOMAIN_SERVICE_H_
 #define CHROME_BROWSER_WEBAUTHN_FAKE_SECURITY_DOMAIN_SERVICE_H_
 

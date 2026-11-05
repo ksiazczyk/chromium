@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI readiness barrier unit tests
+// summary: Unit tests verifying that the UI readiness barrier shows the WebAuthn UI only once all required inputs and readiness signals are present.
+// ---
+
 #include "chrome/browser/webauthn/ui_readiness_barrier.h"
 
 #include <memory>

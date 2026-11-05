@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 Android module header
+// summary: Declares functions for cloud message registration, sync advertising data, local-state prefs, and CBOR conversion of Phone-as-a-Security-Key info.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ANDROID_CABLE_MODULE_ANDROID_H_
 #define CHROME_BROWSER_WEBAUTHN_ANDROID_CABLE_MODULE_ANDROID_H_
 

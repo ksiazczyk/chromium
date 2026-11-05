@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey model factory
+// summary: Declares PasskeyModelFactory, the profile-keyed service factory providing the per-profile PasskeyModel instance.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_PASSKEY_MODEL_FACTORY_H_
 #define CHROME_BROWSER_WEBAUTHN_PASSKEY_MODEL_FACTORY_H_
 

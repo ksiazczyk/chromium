@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebAuthenticationDelegate header
+// summary: Declares ChromeWebAuthenticationDelegate, the //chrome implementation of content::WebAuthenticationDelegate with platform-specific overrides.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CHROME_WEB_AUTHENTICATION_DELEGATE_H_
 #define CHROME_BROWSER_WEBAUTHN_CHROME_WEB_AUTHENTICATION_DELEGATE_H_
 

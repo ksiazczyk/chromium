@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsClientDesktop header for the desktop web apps client
+// summary: Declares the desktop-specific WebappsClient singleton with install conflict handling, app installation queries and ML promotion methods.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_WEBAPPS_CLIENT_DESKTOP_H_
 #define CHROME_BROWSER_WEBAPPS_WEBAPPS_CLIENT_DESKTOP_H_
 

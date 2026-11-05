@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enclave keys waiter utility
+// summary: Declares EnclaveKeysWaiter, an EnclaveManager observer utility for tests to wait for completion of out-of-context recovery and obtain its outcome.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ENCLAVE_KEYS_WAITER_H_
 #define CHROME_BROWSER_WEBAUTHN_ENCLAVE_KEYS_WAITER_H_
 

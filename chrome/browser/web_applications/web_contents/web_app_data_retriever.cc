@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppDataRetriever implementation
+// summary: Implements retrieval of WebAppInstallInfo, installability checks, manifest lookups, and icon fetching from a WebContents, with timeouts and metadata population.
+// ---
+
 #include "chrome/browser/web_applications/web_contents/web_app_data_retriever.h"
 
 #include <memory>

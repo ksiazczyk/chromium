@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey unlock manager
+// summary: Declares PasskeyUnlockManager, a keyed service that determines whether GPM passkeys are locked but unlockable and notifies observers of error UI state.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_PASSKEY_UNLOCK_MANAGER_H_
 #define CHROME_BROWSER_WEBAUTHN_PASSKEY_UNLOCK_MANAGER_H_
 

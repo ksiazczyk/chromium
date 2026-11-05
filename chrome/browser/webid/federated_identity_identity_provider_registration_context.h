@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity IdP registration context header
+// summary: Declares the context that tracks which identity providers the user has explicitly registered for FedCM, with register and unregister methods.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_IDENTITY_PROVIDER_REGISTRATION_CONTEXT_H_
 #define CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_IDENTITY_PROVIDER_REGISTRATION_CONTEXT_H_
 

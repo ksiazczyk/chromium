@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebNN browser include rules
+summary: DEPS file listing the headers and components that code in chrome/browser/webnn is allowed to include.

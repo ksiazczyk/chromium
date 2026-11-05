@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM bound service connection to Android IdP apps
+// summary: Connects to Android identity provider apps through bound services and exchanges FedCM request and response messages with native code.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import android.content.ComponentName;

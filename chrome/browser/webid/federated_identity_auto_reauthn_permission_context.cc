@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity auto reauthn permission context implementation
+// summary: Implements permission logic for FedCM auto sign-in, including embargo recording, user mediation settings, and actor-based blocking.
+// ---
+
 #include "chrome/browser/webid/federated_identity_auto_reauthn_permission_context.h"
 
 #include "base/time/time.h"

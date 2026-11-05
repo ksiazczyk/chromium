@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential deduplication and sorting logic
+// summary: Header defining credential type enums and a template helper that deduplicates credentials per account, selecting the best GPM passkey, platform passkey, or password for WebAuthn.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CREDENTIAL_SORTER_H_
 #define CHROME_BROWSER_WEBAUTHN_CREDENTIAL_SORTER_H_
 

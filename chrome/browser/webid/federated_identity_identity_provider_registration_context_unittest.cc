@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated identity IdP registration context unit tests
+// summary: Unit tests for the IdP registration context, verifying registration idempotency, ordering of multiple IdPs, and unregistration behavior.
+// ---
+
 #include "chrome/browser/webid/federated_identity_identity_provider_registration_context.h"
 
 #include <memory>

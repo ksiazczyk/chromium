@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn client for Android implementation
+// summary: Implements ChromeWebAuthnClientAndroid, forwarding pending WebAuthn requests to the Android request delegate and disallowing requests during active actor tasks.
+// ---
+
 #include "chrome/browser/webauthn/android/chrome_webauthn_client_android.h"
 
 #include "base/feature_list.h"

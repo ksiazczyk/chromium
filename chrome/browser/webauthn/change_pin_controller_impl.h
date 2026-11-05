@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change PIN controller implementation header
+// summary: Declares ChangePinControllerImpl with the GPM PIN change state machine, histogram event enum, and an ASCII flow diagram.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CHANGE_PIN_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_WEBAUTHN_CHANGE_PIN_CONTROLLER_IMPL_H_
 

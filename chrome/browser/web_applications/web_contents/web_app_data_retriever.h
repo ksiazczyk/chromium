@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppDataRetriever class header
+// summary: Declares the class the WebApp system uses to retrieve install information, check installability, and fetch manifests and icons from a WebContents on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_APP_DATA_RETRIEVER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_CONTENTS_WEB_APP_DATA_RETRIEVER_H_
 

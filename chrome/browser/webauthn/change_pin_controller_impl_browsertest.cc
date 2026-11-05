@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Change PIN controller browser tests
+// summary: Browser tests exercising the GPM PIN change flow end to end, waiting on dialog model steps and checking histograms; disabled under MSAN.
+// ---
+
 #include "chrome/browser/webauthn/change_pin_controller_impl.h"
 
 #include <memory>

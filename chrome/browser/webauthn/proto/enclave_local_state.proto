@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave local state protobuf definitions
+// summary: Defines protobuf messages for WebAuthn enclave local state, covering wrapped Google Password Manager PINs, device and member keys, and security domain secrets.
+// ---
+
 syntax = "proto3";
 
 package webauthn_pb;

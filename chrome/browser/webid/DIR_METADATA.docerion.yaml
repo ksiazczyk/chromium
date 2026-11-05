@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebID directory metadata
+summary: Points the WebID browser directory to the shared COMMON_METADATA file from content/browser/webid.

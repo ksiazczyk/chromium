@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test identity provider for FedCM browser tests
+// summary: Test identity provider service that answers FedCM bound-service requests from the Android browser tests APK.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import android.app.Service;

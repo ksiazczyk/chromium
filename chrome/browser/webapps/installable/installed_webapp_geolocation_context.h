@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappGeolocationContext class declaration
+// summary: Declares the GeolocationContext implementation that manages a set of installed webapp geolocation bridges, supporting overrides and permission revocation.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_GEOLOCATION_CONTEXT_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_GEOLOCATION_CONTEXT_H_
 

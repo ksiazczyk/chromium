@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCredentialFetcher header
+// summary: Header for PasswordCredentialFetcher, a per-document helper that fetches password credentials and updates their last-used timestamps.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_PASSWORD_CREDENTIAL_FETCHER_H_
 #define CHROME_BROWSER_WEBAUTHN_PASSWORD_CREDENTIAL_FETCHER_H_
 
