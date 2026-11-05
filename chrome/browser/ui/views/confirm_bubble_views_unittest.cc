@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirm Bubble Unit Test
+// summary: Unit test verifying that the confirm bubble owns its model and deletes it when the bubble is created and closed.
+// ---
+
 #include "chrome/browser/ui/views/confirm_bubble_views.h"
 
 #include <utility>

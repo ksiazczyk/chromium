@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus highlight class declaration
+// summary: Declares the AccessibilityFocusHighlight class, a layer delegate and animation observer that highlights the focused UI element for accessibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_FOCUS_HIGHLIGHT_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_FOCUS_HIGHLIGHT_H_
 

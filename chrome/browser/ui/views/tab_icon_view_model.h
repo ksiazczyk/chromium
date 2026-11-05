@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabIconViewModel interface
+// summary: Defines the interface classes implement to supply animation state and favicons to TabIconView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_ICON_VIEW_MODEL_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_ICON_VIEW_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Close bubble on tab activation helper
+// summary: Implements a TabStripModel observer that closes its owner bubble dialog whenever the active tab changes.
+// ---
+
 #include "chrome/browser/ui/views/close_bubble_on_tab_activation_helper.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito clear browsing data dialog browser tests
+// summary: Browser tests verifying the incognito clear browsing data bubble, its coordinator, widget lifetime, and metrics.
+// ---
+
 #include "chrome/browser/ui/views/incognito_clear_browsing_data_dialog.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel animations provider header
+// summary: Declares the OrganizerPanelAnimations class with show and hide motions and visible width and background opacity animation sequences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ANIMATIONS_ORGANIZER_PANEL_ANIMATIONS_H_
 #define CHROME_BROWSER_UI_VIEWS_ANIMATIONS_ORGANIZER_PANEL_ANIMATIONS_H_
 

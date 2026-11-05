@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeViewsDelegate class declaration
+// summary: Declares ChromeViewsDelegate, a views::ViewsDelegate subclass that saves window placement, manages keep-alive lifetime and provides platform hooks for native widget creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CHROME_VIEWS_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_CHROME_VIEWS_DELEGATE_H_
 

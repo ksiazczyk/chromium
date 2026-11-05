@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task Manager View Implementation
+// summary: Implements the task manager dialog UI with filter tabs, a process table, search bar, sorting, and context menus across platforms.
+// ---
+
 #include "chrome/browser/ui/views/task_manager_view.h"
 
 #include <stddef.h>

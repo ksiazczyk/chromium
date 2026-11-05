@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task Manager Search Bar View Unit Test
+// summary: Unit tests for the task manager search bar covering textfield focus, key handling, clear button visibility, and throttled input change callbacks.
+// ---
+
 #include "chrome/browser/ui/views/task_manager_search_bar_view.h"
 
 #include <memory>

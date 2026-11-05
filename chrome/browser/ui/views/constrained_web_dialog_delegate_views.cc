@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constrained Web Dialog Delegate Views
+// summary: Implements the views-based constrained web dialog delegate, including the WebView that hosts the dialog's web contents.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"

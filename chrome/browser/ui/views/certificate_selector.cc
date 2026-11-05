@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate selector dialog
+// summary: Implements the Views dialog for selecting client certificate identities, including its table model, ChromeOS certificate provider support, and glic dev flow handling.
+// ---
+
 #include "chrome/browser/ui/views/certificate_selector.h"
 
 #include <stddef.h>  // For size_t.

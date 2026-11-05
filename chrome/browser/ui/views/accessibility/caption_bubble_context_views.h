@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleContextViews header
+// summary: Declares CaptionBubbleContextViews, the Views implementation of the browser caption bubble context used by live captions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_VIEWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol dialog browser tests
+// summary: Browser tests covering accept, cancel, close, remember-checkbox, and tab-close scenarios of the external protocol dialog along with their launch metrics.
+// ---
+
 #include "chrome/browser/ui/views/external_protocol_dialog.h"
 
 #include <memory>

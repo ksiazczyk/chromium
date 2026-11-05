@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views implementations of browser dialog creation
+// summary: Provides desktop dialog-creation methods for Views platforms, such as the bookmark editor, USB device permissions prompt, audio output picker, task manager, and pending bubble showing.
+// ---
+
 #include <memory>
 #include <utility>
 

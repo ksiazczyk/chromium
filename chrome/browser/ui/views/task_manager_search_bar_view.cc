@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task Manager Search Bar View Implementation
+// summary: Implements the task manager search bar view with a search icon, textfield input, and clear button, notifying a delegate of throttled input changes.
+// ---
+
 #include "chrome/browser/ui/views/task_manager_search_bar_view.h"
 
 #include <memory>

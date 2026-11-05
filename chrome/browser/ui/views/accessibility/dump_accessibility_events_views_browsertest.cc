@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views accessibility events dump browser tests
+// summary: Meta-tests validating the Views accessibility event recording framework, checking focus events and allow and deny filters.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "ui/views/accessibility/view_accessibility.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting bubble interactive UI tests
+// summary: Interactive UI tests checking that the content setting bubble stays open during prerendering and closes correctly via widget observation.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_bubble_contents.h"
 
 #include <algorithm>

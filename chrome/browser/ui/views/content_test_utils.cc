@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content test utilities implementation
+// summary: Implements a test helper that replaces page content with a text input and verifies typing via generated key events.
+// ---
+
 #include "chrome/browser/ui/views/content_test_utils.h"
 
 #include "base/run_loop.h"

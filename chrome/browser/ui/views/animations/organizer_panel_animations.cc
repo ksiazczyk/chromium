@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel animations implementation
+// summary: Implements the OrganizerPanelAnimations provider with show and hide motions, visible width and background opacity sequences, and performance histogram names.
+// ---
+
 #include "chrome/browser/ui/views/animations/organizer_panel_animations.h"
 
 #include "chrome/browser/ui/animation/browser_animation_types.h"

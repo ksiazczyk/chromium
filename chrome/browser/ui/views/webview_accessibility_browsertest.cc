@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView Accessibility Browser Tests
+// summary: Browser tests checking WebView accessibility trees, such as counting offscreen buttons, using an HTTPS embedded test server.
+// ---
+
 #include <memory>
 #include <optional>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login Handler Views
+// summary: Implements the Views-based login handler and dialog that prompt users for credentials during HTTP authentication challenges.
+// ---
+
 #include <string>
 
 #include "base/memory/raw_ptr.h"

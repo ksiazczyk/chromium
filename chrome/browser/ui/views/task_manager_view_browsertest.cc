@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task Manager View Browser Test
+// summary: In-process browser tests for the task manager view covering row filtering, sorting, column visibility, preferences, and window behavior.
+// ---
+
 #include "chrome/browser/ui/views/task_manager_view.h"
 
 #include <stddef.h>

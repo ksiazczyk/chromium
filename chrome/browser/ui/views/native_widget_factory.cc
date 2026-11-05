@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native widget factory for Aura
+// summary: Creates and configures Aura native widgets for browser windows, attaching theme profile keys to the underlying windows.
+// ---
+
 #include "chrome/browser/ui/views/native_widget_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

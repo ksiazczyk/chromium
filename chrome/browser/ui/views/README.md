@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browser Views
+summary: Explains that this directory holds Views-based implementations of browser UI and advises adding new pieces in subdirectories.
+---
+
 # Browser Views
 
 This directory contains all [Views](/docs/ui/README.md)-based implementations

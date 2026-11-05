@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global error bubble view implementation
+// summary: Implements the bubble view that shows standard global errors anchored to the app menu, with accept and cancel button handling.
+// ---
+
 #include "chrome/browser/ui/views/global_error_bubble_view.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView Interactive UI Tests
+// summary: Interactive test verifying that mouse move events are delivered to a WebView at the expected coordinates in a separate widget.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/profiles/profile_manager.h"

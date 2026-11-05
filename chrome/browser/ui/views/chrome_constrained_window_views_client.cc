@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome constrained window views client implementation
+// summary: Implements the Chrome client for constrained windows, resolving the modal dialog host and host view for a given parent window.
+// ---
+
 #include "chrome/browser/ui/views/chrome_constrained_window_views_client.h"
 
 #include "base/memory/ptr_util.h"

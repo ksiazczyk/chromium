@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation icon setter header
+// summary: Declares ElevationIconSetter, which badges a button with the Windows UAC shield icon for elevation prompts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ELEVATION_ICON_SETTER_H_
 #define CHROME_BROWSER_UI_VIEWS_ELEVATION_ICON_SETTER_H_
 

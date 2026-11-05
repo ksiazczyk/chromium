@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol dialog test harness implementation
+// summary: Implements the browser test harness for the external protocol dialog, including a fake shell worker, test API, and ExternalProtocolHandler delegate stubs.
+// ---
+
 #include "chrome/browser/ui/views/external_protocol_dialog_test_harness.h"
 
 #include "chrome/browser/external_protocol/external_protocol_handler.h"

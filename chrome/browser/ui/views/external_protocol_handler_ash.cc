@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash external protocol handler
+// summary: ChromeOS Ash implementation of ExternalProtocolHandler that routes protocol URLs to web apps, ARC, or guest OS handlers and otherwise shows the external protocol dialog.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux accessibility event recorder support for Views dump tests
+// summary: Implements the Linux-specific factory that creates an AX event recorder for Views accessibility event dump tests, using a stub tree manager when ViewsAX is disabled.
+// ---
+
 #include <memory>
 
 #include "base/no_destructor.h"

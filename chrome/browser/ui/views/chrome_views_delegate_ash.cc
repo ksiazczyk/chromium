@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeViewsDelegate Ash implementation
+// summary: Implements ChromeViewsDelegate for ChromeOS Ash, covering menu accelerator processing, capture-mode menu behavior, default frame views and native widget creation.
+// ---
+
 #include "ash/public/cpp/accelerators.h"
 #include "ash/shell.h"
 #include "base/functional/bind.h"

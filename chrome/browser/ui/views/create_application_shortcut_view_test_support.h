@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create Application Shortcut Dialog Test Support Header
+// summary: Declares a widget-shown waiter specialized for the create-application-shortcut dialog so tests can wait for and accept it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CREATE_APPLICATION_SHORTCUT_VIEW_TEST_SUPPORT_H_
 #define CHROME_BROWSER_UI_VIEWS_CREATE_APPLICATION_SHORTCUT_VIEW_TEST_SUPPORT_H_
 

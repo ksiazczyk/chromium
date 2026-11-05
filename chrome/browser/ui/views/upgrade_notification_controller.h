@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upgrade Notification Controller Header
+// summary: Declares UpgradeNotificationController, which observes UpgradeDetector and updates browser UI for outdated installs and critical upgrades.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_UPGRADE_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_UPGRADE_NOTIFICATION_CONTROLLER_H_
 

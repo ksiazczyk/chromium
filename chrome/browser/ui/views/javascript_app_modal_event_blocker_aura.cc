@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript App Modal Event Blocker (Aura)
+// summary: Aura implementation that blocks key, mouse, scroll, and touch events to browser windows other than the one hosting an app modal dialog.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_view.h"
 #include "chrome/browser/ui/views/javascript_app_modal_event_blocker.h"
 #include "ui/aura/env.h"

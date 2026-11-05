@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS Intent Picker Browser Tests
+// summary: ChromeOS-specific browser tests for the intent picker bubble, including ARC app integration, preferred apps, and intent handling metrics.
+// ---
+
 #include <memory>
 #include <vector>
 

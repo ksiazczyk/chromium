@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run dialog implementation
+// summary: Implements the first run dialog for metrics reporting opt-in and default browser selection, exiting the process when the dialog is not accepted.
+// ---
+
 #include "chrome/browser/ui/views/first_run_dialog.h"
 
 #include <string>

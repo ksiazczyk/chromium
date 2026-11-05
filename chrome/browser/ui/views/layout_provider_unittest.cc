@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout Provider Unit Test
+// summary: Unit tests for ChromeLayoutProvider and typography, including checks of default system font settings and legacy font sizes across platforms.
+// ---
+
 #include <array>
 
 #include "base/functional/callback.h"

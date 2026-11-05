@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Search Bubble UI Browser Test
+// summary: Browser test for the Tab Search bubble UI that coordinates widget and WebUI bubble observers to capture consistent frames for pixel tests.
+// ---
+
 #include "base/run_loop.h"
 #include "chrome/browser/ui/test/test_browser_dialog.h"
 #include "chrome/browser/ui/views/bubble/webui_bubble_manager.h"

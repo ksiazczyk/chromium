@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Picker Utils Header
+// summary: Declares helpers for showing the media picker dialog as web-modal and applying the Mac floating companion window treatment.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MEDIA_PICKER_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_MEDIA_PICKER_UTILS_H_
 

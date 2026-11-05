@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Window Sizer Header
+// summary: Declares WindowSizerLinux, a WindowSizer subclass that adjusts the work area for Linux platform specifics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WINDOW_SIZER_LINUX_H_
 #define CHROME_BROWSER_UI_VIEWS_WINDOW_SIZER_LINUX_H_
 

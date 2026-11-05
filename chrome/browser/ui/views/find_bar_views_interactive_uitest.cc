@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find bar interactive UI tests
+// summary: Interactive UI tests for the find bar covering find-in-page behavior, focus, clipboard interactions and accessibility across platforms.
+// ---
+
 #include "base/i18n/number_formatting.h"
 #include "base/strings/string_util.h"
 #include "base/strings/utf_string_conversions.h"

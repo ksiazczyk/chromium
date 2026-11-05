@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble menu item factory implementation
+// summary: Creates and configures hover buttons used as menu items inside bubbles, with ink drop highlights, focus behavior, and right-aligned accelerator labels.
+// ---
+
 #include "chrome/browser/ui/views/bubble_menu_item_factory.h"
 
 #include <memory>

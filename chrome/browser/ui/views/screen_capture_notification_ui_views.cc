@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture notification bar view implementation
+// summary: Implements the draggable screen capture notification bar shown while a tab shares the screen, built with Views widgets.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

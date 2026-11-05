@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Setting Bubble Contents
+// summary: Implements the bubble UI that presents a page's content setting permissions with site rows, manage and done controls.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_bubble_contents.h"
 
 #include <algorithm>

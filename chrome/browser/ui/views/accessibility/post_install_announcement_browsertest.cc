@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post-install announcement browser test
+// summary: Browser test verifying that an alert announcement is fired only when Chrome is launched by the installer and not on a normal launch.
+// ---
+
 #include "chrome/common/chrome_switches.h"
 #include "chrome/test/base/in_process_browser_test.h"
 #include "content/public/test/browser_test.h"

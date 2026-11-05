@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent Picker Bubble View Unit Tests
+// summary: Unit tests for the intent picker bubble view covering bubble creation, user interactions, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/intent_picker_bubble_view.h"
 
 #include <optional>

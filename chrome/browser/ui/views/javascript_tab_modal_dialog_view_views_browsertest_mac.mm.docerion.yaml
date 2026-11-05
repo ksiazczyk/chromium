@@ -1,0 +1,4 @@
+# Docerion header of javascript_tab_modal_dialog_view_views_browsertest_mac.mm.
+type: test
+title: JavaScript Tab Modal Dialog Mac Browser Test
+summary: Mac-specific browser tests verifying VoiceOver accessibility exposure of the JavaScript alert dialog's native window and root view.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent Picker Dialog Browser Test
+// summary: Dialog browser test that shows and verifies the intent picker bubble UI, including the grid view variant under link capturing features.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

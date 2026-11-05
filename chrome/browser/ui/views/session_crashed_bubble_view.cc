@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session crashed bubble view implementation
+// summary: Implements the bubble offering to restore the previous session after a crash, including UMA opt-in and help links.
+// ---
+
 #include "chrome/browser/ui/views/session_crashed_bubble_view.h"
 
 #include <stddef.h>

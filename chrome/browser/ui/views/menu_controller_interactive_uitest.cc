@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu controller mnemonic interactive UI tests
+// summary: Interactive UI tests checking that menu items are activated via mnemonics and title letter matching, with platform-specific disabling.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/menu_test_base.h"

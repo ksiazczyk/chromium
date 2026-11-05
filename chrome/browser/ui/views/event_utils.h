@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event utilities header
+// summary: Declares event_utils helpers for detecting disposition events and translating keyboard events into reorder and extend-selection directions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EVENT_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_EVENT_UTILS_H_
 

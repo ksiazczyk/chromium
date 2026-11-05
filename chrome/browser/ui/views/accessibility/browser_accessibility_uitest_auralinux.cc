@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura Linux accessibility browser tests
+// summary: In-process browser tests for Aura Linux that verify ATK accessibility properties such as index in parent, embed relationships, and tab-modal dialogs.
+// ---
+
 #include <atk/atk.h>
 #include <stddef.h>
 

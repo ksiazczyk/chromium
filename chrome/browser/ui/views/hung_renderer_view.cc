@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hung renderer dialog views implementation
+// summary: Implements the Views dialog and table model shown when a renderer process hangs, letting users wait or kill unresponsive pages.
+// ---
+
 #include "chrome/browser/ui/views/hung_renderer_view.h"
 
 #include <memory>

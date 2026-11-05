@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser main extra parts for Views UI
+// summary: Implements startup hooks that create the Views delegate, layout provider, constrained window client and relaunch notification controller.
+// ---
+
 #include "chrome/browser/ui/views/chrome_browser_main_extra_parts_views.h"
 
 #include <utility>

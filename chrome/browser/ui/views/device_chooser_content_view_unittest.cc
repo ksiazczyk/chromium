@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device chooser content view unit tests
+// summary: Unit tests for the device chooser content view using a fake Bluetooth chooser controller to exercise table, throbber, and rescan behavior.
+// ---
+
 #include "chrome/browser/ui/views/device_chooser_content_view.h"
 
 #include <memory>

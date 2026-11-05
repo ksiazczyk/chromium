@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab view header
+// summary: Declares SadTabView, a views::View subclass that presents the crashed sad tab UI in the browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAD_TAB_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SAD_TAB_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip accessibility events dump browser test
+// summary: Browser test dumping accessibility events in the tab strip, covering selection events fired on window activation for JAWS and the BrowserRootView class name guard.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/browser_tabstrip.h"

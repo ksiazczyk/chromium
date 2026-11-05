@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac Test Helper for Status Bubble Window Alpha
+// summary: Declares a Mac-only test helper that returns the native window alpha value, since the widget API only supports setting opacity.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_BUBBLE_VIEWS_BROWSERTEST_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_BUBBLE_VIEWS_BROWSERTEST_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting site row view implementation
+// summary: Implements a row view showing a site favicon, security-formatted site name, and toggle button for changing that site's permission.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_site_row_view.h"
 
 #include <memory>

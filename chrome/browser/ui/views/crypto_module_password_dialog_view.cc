@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto Module Password Dialog View
+// summary: Implements the modal dialog that asks for a crypto module password, showing reason text for operations such as cert enrollment, client auth, or import.
+// ---
+
 #include "chrome/browser/ui/views/crypto_module_password_dialog_view.h"
 
 #include "base/strings/utf_string_conversions.h"

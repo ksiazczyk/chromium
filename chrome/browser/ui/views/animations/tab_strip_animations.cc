@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip animations implementation
+// summary: Implements the TabStripAnimations provider with expand, collapse, and hover motions plus width, opacity, top, and corner sequences for the vertical tab strip.
+// ---
+
 #include "chrome/browser/ui/views/animations/tab_strip_animations.h"
 
 #include "chrome/browser/ui/animation/browser_animation_types.h"

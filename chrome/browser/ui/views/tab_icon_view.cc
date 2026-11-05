@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabIconView implementation
+// summary: Implements the view that paints a tab's favicon or a loading throbber, including default favicon creation and proportional icon scaling.
+// ---
+
 #include "chrome/browser/ui/views/tab_icon_view.h"
 
 #include <memory>

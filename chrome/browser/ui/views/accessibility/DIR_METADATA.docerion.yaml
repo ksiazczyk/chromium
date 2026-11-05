@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the UI Accessibility component
+summary: Declares the monorail component UI>Accessibility and the public Buganizer component id used for triaging issues in this directory.

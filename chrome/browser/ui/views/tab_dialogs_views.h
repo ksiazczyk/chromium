@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDialogsViews class declaration
+// summary: Declares TabDialogsViews, the Views implementation of the TabDialogs interface that shows tab-scoped dialogs such as the hung renderer dialog and passwords bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_DIALOGS_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_DIALOGS_VIEWS_H_
 

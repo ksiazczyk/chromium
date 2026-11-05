@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeViewsDelegate Windows implementation
+// summary: Implements ChromeViewsDelegate for Windows, including appbar autohide taskbar edge detection, window icon handling and native widget creation.
+// ---
+
 #include "chrome/browser/ui/views/chrome_views_delegate.h"
 
 #include <dwmapi.h>

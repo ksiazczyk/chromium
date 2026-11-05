@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard Access Interactive UI Test
+// summary: Interactive UI tests covering keyboard-driven focus changes and app menu opening and dismissal in the browser window.
+// ---
+
 #include "base/location.h"
 #include "base/memory/raw_ptr.h"
 #include "base/memory/weak_ptr.h"

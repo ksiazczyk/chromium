@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting site row view unit tests
+// summary: Unit tests verifying that clicking the site row's toggle flips its state and invokes the permission callback.
+// ---
+
 #include "chrome/browser/ui/views/content_setting_site_row_view.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol dialog test harness header
+// summary: Declares the ExternalProtocolDialogBrowserTest harness used to show and exercise the external protocol dialog in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTERNAL_PROTOCOL_DIALOG_TEST_HARNESS_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTERNAL_PROTOCOL_DIALOG_TEST_HARNESS_H_
 

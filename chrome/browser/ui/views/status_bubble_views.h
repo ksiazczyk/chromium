@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status Bubble Views Class Declaration
+// summary: Declares StatusBubbleViews, the Views implementation of StatusBubble that displays fading bubbles for link targets and status text.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_BUBBLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_BUBBLE_VIEWS_H_
 

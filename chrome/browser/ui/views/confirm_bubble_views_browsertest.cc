@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirm Bubble Browser Tests
+// summary: Browser tests that display the confirm bubble and verify its UI and accessibility properties.
+// ---
+
 #include "chrome/browser/ui/views/confirm_bubble_views.h"
 
 #include "chrome/browser/ui/browser_window.h"

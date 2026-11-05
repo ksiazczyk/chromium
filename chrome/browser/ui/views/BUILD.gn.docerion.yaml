@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for browser UI views
+summary: Defines GN build targets, sources and dependencies for the browser UI views component.

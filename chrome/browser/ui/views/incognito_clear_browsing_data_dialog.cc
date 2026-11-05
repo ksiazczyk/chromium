@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito clear browsing data dialog implementation
+// summary: Implements the incognito bubble explaining that browsing data is not saved, with variants for default and history disclaimer types.
+// ---
+
 #include "chrome/browser/ui/views/incognito_clear_browsing_data_dialog.h"
 
 #include "base/metrics/histogram_functions.h"

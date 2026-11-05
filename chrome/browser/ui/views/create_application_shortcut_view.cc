@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create application shortcut dialog implementation
+// summary: Implements the modal dialog for creating desktop shortcuts for Chrome extension apps and web apps, including Windows taskbar handling.
+// ---
+
 #include "chrome/browser/ui/views/create_application_shortcut_view.h"
 
 #include <utility>

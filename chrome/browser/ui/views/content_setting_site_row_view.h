@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting site row view header
+// summary: Declares a view with a site name and a toggle to change the permission of that site, with a favicon loaded asynchronously.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTENT_SETTING_SITE_ROW_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTENT_SETTING_SITE_ROW_VIEW_H_
 

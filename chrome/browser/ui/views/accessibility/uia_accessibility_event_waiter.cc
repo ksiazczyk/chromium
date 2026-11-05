@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIA accessibility event waiter implementation
+// summary: Implements a dedicated MTA thread that subscribes to Windows UI Automation events so accessibility tests can wait for focus, property, structure and notification events.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/uia_accessibility_event_waiter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme-tracking non-accessible image view implementation
+// summary: Implements ThemeTrackingNonAccessibleImageView, a theme-aware image view marked invisible to accessibility so screen readers skip it.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/theme_tracking_non_accessible_image_view.h"
 
 #include "base/functional/callback.h"

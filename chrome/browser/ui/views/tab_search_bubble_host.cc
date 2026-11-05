@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchBubbleHost implementation
+// summary: Implements the host that anchors the Tab Search WebUI bubble to its toolbar button, handles opening actions, and records usage metrics.
+// ---
+
 #include "chrome/browser/ui/views/tab_search_bubble_host.h"
 
 #include "base/functional/bind.h"

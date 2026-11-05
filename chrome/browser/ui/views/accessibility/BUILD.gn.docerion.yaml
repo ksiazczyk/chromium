@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Views accessibility sources and tests
+summary: Defines GN source sets for the Views accessibility code, its implementation, and the unit and browser test targets with platform-conditional dependencies.

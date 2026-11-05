@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript Tab Modal Dialog Browser Test
+// summary: Browser tests verifying the accessible name, description, role, and ignored close button of the JavaScript tab-modal alert dialog.
+// ---
+
 #include "chrome/browser/ui/views/javascript_tab_modal_dialog_view_views.h"
 
 #include "base/functional/bind.h"

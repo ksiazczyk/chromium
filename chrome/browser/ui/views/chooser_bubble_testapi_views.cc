@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser bubble test API for Views
+// summary: Implements the ChooserBubbleUiWaiter test helper that waits for the Views chooser bubble widget to be shown or closed.
+// ---
+
 #include <optional>
 
 #include "base/test/bind.h"

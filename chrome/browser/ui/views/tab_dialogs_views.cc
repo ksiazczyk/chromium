@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Dialogs Views Implementation
+// summary: Implements TabDialogsViews, providing Views dialogs for hung renderers, password management, collected cookies, and deprecated web apps.
+// ---
+
 #include "chrome/browser/ui/views/tab_dialogs_views.h"
 
 #include <memory>

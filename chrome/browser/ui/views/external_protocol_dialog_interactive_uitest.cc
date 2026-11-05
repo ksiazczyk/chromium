@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol dialog interactive UI test
+// summary: Interactive browser test verifying keyboard focus and cancel button behavior in the external protocol dialog as a regression test.
+// ---
+
 #include "chrome/browser/ui/views/external_protocol_dialog.h"
 
 #include <memory>

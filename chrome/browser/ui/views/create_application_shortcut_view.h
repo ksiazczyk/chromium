@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create Application Shortcut Dialog Header
+// summary: Declares the dialog view that lets users create desktop shortcuts for Chrome apps, with checkboxes for shortcut locations and a completion callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CREATE_APPLICATION_SHORTCUT_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CREATE_APPLICATION_SHORTCUT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run dialog browser tests
+// summary: Browser tests verifying the first run dialog UI and that its close callback reports whether the dialog was accepted or cancelled.
+// ---
+
 #include "chrome/browser/ui/views/first_run_dialog.h"
 
 #include "base/functional/callback_helpers.h"

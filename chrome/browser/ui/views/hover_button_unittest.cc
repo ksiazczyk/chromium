@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HoverButton unit tests
+// summary: Unit tests for HoverButton covering tooltips, accessible names, subtitles and layout with varying title and subtitle text lengths.
+// ---
+
 #include "chrome/browser/ui/views/controls/hover_button.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-accessible image view header
+// summary: Declares NonAccessibleImageView, an image view that sets the invisible accessibility state so screen readers skip it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_NON_ACCESSIBLE_IMAGE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_ACCESSIBILITY_NON_ACCESSIBLE_IMAGE_VIEW_H_
 

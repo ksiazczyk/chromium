@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar view header
+// summary: Declares FindBarView, which draws the find bar's text box and buttons and forwards user search input to the FindBarHost.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FIND_BAR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FIND_BAR_VIEW_H_
 

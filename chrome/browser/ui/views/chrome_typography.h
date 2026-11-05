@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome typography contexts and styles
+// summary: Defines the Chrome text context and style enums for typography, covering omnibox text, tab hover cards, side panel titles and toast body text.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CHROME_TYPOGRAPHY_H_
 #define CHROME_BROWSER_UI_VIEWS_CHROME_TYPOGRAPHY_H_
 

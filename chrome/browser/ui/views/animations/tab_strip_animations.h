@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip animations provider header
+// summary: Declares the TabStripAnimations class with expand and collapse motions and width, hover opacity, top, and corner animation sequences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_ANIMATIONS_TAB_STRIP_ANIMATIONS_H_
 #define CHROME_BROWSER_UI_VIEWS_ANIMATIONS_TAB_STRIP_ANIMATIONS_H_
 

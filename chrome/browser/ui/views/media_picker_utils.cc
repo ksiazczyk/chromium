@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Picker Utils
+// summary: Implements helpers that decide whether the media picker can show as web-modal and center its dialog widget on the originating window's display.
+// ---
+
 #include "chrome/browser/ui/views/media_picker_utils.h"
 
 #include <algorithm>

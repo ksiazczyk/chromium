@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caption bubble controller Views browser tests
+// summary: Parameterized browser tests for the live caption bubble controller Views UI, covering caption settings, translation and bubble behavior.
+// ---
+
 #include "components/live_caption/views/caption_bubble_controller_views.h"
 
 #include <memory>

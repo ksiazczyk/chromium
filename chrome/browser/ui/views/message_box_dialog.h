@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box dialog header
+// summary: Declares MessageBoxDialog, a DialogDelegate and WidgetObserver that shows simple message boxes and reports the user's result via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MESSAGE_BOX_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_MESSAGE_BOX_DIALOG_H_
 

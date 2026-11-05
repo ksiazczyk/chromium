@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Notification Bubble View
+// summary: Implements the bubble dialog that warns about a critical browser update and counts down to an automatic restart, offering restart and cancel actions.
+// ---
+
 #include "chrome/browser/ui/views/critical_notification_bubble_view.h"
 
 #include "base/i18n/time_formatting.h"

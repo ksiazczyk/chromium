@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sad tab split view browser test
+// summary: Browser test verifying that a crashed tab's sad tab view is attached to the secondary pane of a split view.
+// ---
+
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/sad_tab.h"

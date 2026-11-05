@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSearchBubbleHost browser tests
+// summary: Browser tests verifying tab search bubble show timing, fullscreen anchoring, and background color matching the browser theme.
+// ---
+
 #include "chrome/browser/ui/views/tab_search_bubble_host.h"
 
 #include "base/run_loop.h"

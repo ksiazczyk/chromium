@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caret browsing dialog implementation
+// summary: Implements the modal dialog confirming caret browsing activation, showing the platform-specific toggle key and a do-not-ask checkbox.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/caret_browsing_dialog_delegate.h"
 
 #include <memory>

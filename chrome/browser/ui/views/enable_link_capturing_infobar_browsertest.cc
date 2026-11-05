@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing infobar browser tests
+// summary: Parametrized browser tests verifying the enable link capturing infobar for web apps across feature versions and centralized infobar migration settings.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <tuple>

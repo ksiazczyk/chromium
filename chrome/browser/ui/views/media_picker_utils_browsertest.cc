@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media picker utils browser tests
+// summary: Browser tests verifying media picker dialog widget creation and its modality behavior for tabs, extension popups, and floating contexts.
+// ---
+
 #include "chrome/browser/ui/views/media_picker_utils.h"
 
 #include <memory>

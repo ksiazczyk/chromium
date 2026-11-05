@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upgrade Notification Controller Browser Tests
+// summary: Browser tests verifying the outdated upgrade and critical notification bubbles, including app menu highlighting and accessibility properties on Windows.
+// ---
+
 #include "chrome/browser/ui/views/upgrade_notification_controller.h"
 
 #include "base/i18n/time_formatting.h"

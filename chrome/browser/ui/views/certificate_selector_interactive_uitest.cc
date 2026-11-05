@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate selector interactive UI tests
+// summary: Interactive browser tests covering the certificate selector's table row text and its accept and cancel behavior.
+// ---
+
 #include "chrome/browser/ui/views/certificate_selector.h"
 
 #include "base/files/file_path.h"

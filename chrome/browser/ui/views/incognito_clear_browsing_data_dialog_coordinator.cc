@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito clear browsing data dialog coordinator implementation
+// summary: Implements the per-browser-window coordinator that creates, shows, and tracks the incognito clear browsing data bubble.
+// ---
+
 #include "chrome/browser/ui/views/incognito_clear_browsing_data_dialog_coordinator.h"
 
 #include <memory>

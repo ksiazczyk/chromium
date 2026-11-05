@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme Copying Widget Implementation
+// summary: Implements a widget that supplies its theme provider, custom theme, and native theme from a reference widget and stops when that widget is destroyed.
+// ---
+
 #include "chrome/browser/ui/views/theme_copying_widget.h"
 
 ThemeCopyingWidget::ThemeCopyingWidget(views::Widget* role_model)

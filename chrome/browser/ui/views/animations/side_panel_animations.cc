@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel animations implementation
+// summary: Implements the SidePanelAnimations provider with open, open-with-content-transition, and close motions plus width, shadow, scrim, and transition sequences.
+// ---
+
 #include "chrome/browser/ui/views/animations/side_panel_animations.h"
 
 #include "chrome/browser/ui/ui_features.h"

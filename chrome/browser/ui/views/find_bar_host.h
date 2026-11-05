@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar host header
+// summary: Declares FindBarHost, the per-BrowserView widget host that shows, hides, and moves the find-in-page bar and relays search results to its view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FIND_BAR_HOST_H_
 #define CHROME_BROWSER_UI_VIEWS_FIND_BAR_HOST_H_
 

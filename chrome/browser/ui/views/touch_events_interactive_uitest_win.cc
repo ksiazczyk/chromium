@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch event handling interactive UI test for Windows
+// summary: Interactive UI test verifying touch event handling and gesture recognizer behavior, including recursive event handling, on Windows.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "build/build_config.h"

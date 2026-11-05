@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EULA dialog browser test
+// summary: Dialog browser test that invokes and verifies the Linux EULA dialog UI, with a note that it is disabled on Linux ASan.
+// ---
+
 #include "chrome/browser/ui/views/eula_dialog_linux.h"
 
 #include "base/functional/callback_helpers.h"

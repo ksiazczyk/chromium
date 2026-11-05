@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uninstall dialog unit tests
+// summary: Unit tests verifying the result codes produced by accepting, cancelling and closing the uninstall dialog.
+// ---
+
 #include "chrome/browser/ui/views/uninstall_view.h"
 
 #include "base/functional/callback_helpers.h"

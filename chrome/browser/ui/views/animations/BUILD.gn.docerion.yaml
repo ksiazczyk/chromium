@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for browser UI animations
+summary: Defines the animations source set listing the animation sources and its public dependencies on base, UI, and browser animation targets.

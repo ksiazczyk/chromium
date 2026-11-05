@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event utilities implementation
+// summary: Implements helpers that classify mouse events for disposition and map keyboard events to reorder and selection-extension directions for tabs and toolbars.
+// ---
+
 #include "chrome/browser/ui/views/event_utils.h"
 
 #include "base/i18n/rtl.h"

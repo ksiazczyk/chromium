@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar owner interface
+// summary: Declares the FindBarOwner interface that abstracts the find bar's owner, decoupling FindBarHost from BrowserView for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FIND_BAR_OWNER_H_
 #define CHROME_BROWSER_UI_VIEWS_FIND_BAR_OWNER_H_
 

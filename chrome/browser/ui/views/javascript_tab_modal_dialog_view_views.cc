@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript Tab Modal Dialog View
+// summary: Implements the tab-modal JavaScript alert, confirm, and prompt dialog for Views-based desktop platforms, with accessibility support.
+// ---
+
 #include "chrome/browser/ui/views/javascript_tab_modal_dialog_view_views.h"
 
 #include "base/functional/callback.h"

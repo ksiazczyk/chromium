@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EULA dialog for Linux
+// summary: Implements the Linux End User License Agreement dialog that shows the terms text and reports accept, cancel, or close decisions through a callback.
+// ---
+
 #include "chrome/browser/ui/views/eula_dialog_linux.h"
 
 #include <memory>

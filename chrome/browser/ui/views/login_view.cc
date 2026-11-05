@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login View
+// summary: Implements the login view with authority labels plus username and password fields used in HTTP/FTP authentication dialogs.
+// ---
+
 #include "chrome/browser/ui/views/login_view.h"
 
 #include <memory>

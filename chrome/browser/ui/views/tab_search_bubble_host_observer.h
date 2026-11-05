@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchBubbleHostObserver interface
+// summary: Defines observer callbacks for tab search bubble initialization, destruction, and host destruction, factored out to avoid a circular dependency.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_SEARCH_BUBBLE_HOST_OBSERVER_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_SEARCH_BUBBLE_HOST_OBSERVER_H_
 

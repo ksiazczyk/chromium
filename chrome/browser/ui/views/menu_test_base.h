@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu test base class header
+// summary: Declares MenuTestBase, a convenience base class that supplies common functionality for menu-related view tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_MENU_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_MENU_TEST_BASE_H_
 
