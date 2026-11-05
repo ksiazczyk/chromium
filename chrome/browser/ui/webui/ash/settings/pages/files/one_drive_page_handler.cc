@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive settings page handler implementation
+// summary: Implements the OneDrive settings page handler, covering user email lookup, connect and disconnect flows, opening the OneDrive folder, and reacting to mount and preference changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/files/one_drive_page_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App permission handler implementation for ChromeOS settings
+// summary: Implements the WebUI handler that lists apps with camera, microphone and location permissions and opens related permission settings pages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/app_permission_handler.h"
 
 #include <algorithm>

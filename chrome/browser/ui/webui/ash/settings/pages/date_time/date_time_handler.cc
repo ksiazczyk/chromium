@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time settings page message handler implementation
+// summary: Implements the WebUI message handler for the ChromeOS date and time settings page, covering timezone policy handling, set-time UI, and parent access flows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/date_time/date_time_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

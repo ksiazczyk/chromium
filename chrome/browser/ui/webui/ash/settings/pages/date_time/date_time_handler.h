@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time settings page message handler header
+// summary: Declares the DateTimeHandler class, a WebUI message handler and SystemClockClient observer for the ChromeOS date and time settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_DATE_TIME_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_DATE_TIME_HANDLER_H_
 

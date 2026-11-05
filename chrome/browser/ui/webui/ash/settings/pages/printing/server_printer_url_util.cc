@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server printer URL utilities
+// summary: Implements helpers that validate and normalize server printer URLs, converting IPP/IPPS schemes to HTTP/HTTPS with the correct ports.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/printing/server_printer_url_util.h"
 
 #include "url/gurl.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the internet settings directory
+summary: Restricts include dependencies for the directory, blocking //chrome by default and whitelisting specific ash, ChromeOS and test paths.

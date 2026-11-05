@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the files settings directory
+summary: Specifies allowed include rules for the files settings directory, with extra allowances for browser and unit test files.

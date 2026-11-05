@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization settings section implementation
+// summary: Implements the Personalization settings section, adding localized strings, search tags, and the Personalization Hub handler to ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/personalization/personalization_section.h"
 
 #include <array>

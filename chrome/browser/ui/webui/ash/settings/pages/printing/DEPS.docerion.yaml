@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Printing settings DEPS include rules
+summary: Restricts include dependencies for the printing settings directory, allowing only specific //chrome headers with a test-only exception.

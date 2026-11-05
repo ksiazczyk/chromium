@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search settings section unit tests
+// summary: Verifies visibility of search settings toggles such as Lobster, Magic Boost, and Scanner under various feature states.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/search/search_section.h"
 
 #include <memory>

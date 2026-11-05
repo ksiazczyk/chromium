@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeopleSection unit tests
+// summary: Unit tests for the People section covering account manager search tags and remove-account settings behavior using test user sessions and accounts.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/people_section.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost notice page handler factory implementation
+// summary: Creates the Magic Boost notice handler instance when the settings WebUI requests a page handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/search/magic_boost_notice_page_handler_factory.h"
 
 #include <memory>

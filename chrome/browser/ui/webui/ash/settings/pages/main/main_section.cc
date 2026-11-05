@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the main ChromeOS settings section
+// summary: Implements MainSection, adding localized strings for search, update-required end-of-life banners, and ChromeOS user info to the settings WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/main/main_section.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bluetooth settings include rules
+summary: DEPS file restricting and allowing include dependencies for the Bluetooth settings directory.

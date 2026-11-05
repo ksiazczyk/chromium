@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the internet settings message handler
+// summary: Tests that the internet handler correctly sends GMS core notifications disabled device names to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/internet/internet_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Preferences section implementation
+// summary: Implements the System Preferences settings section, aggregating subsections such as Date & Time, Files, Languages, Power, Reset, Search, Startup and Storage.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/system_preferences/system_preferences_section.h"
 
 #include <array>

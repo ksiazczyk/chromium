@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for integration tests
+summary: Sets include rules that block //chrome dependencies by default and allow specific Ash and test includes for interactive uitest files.

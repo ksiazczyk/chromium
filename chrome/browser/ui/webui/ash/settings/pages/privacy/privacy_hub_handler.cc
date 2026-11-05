@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub WebUI handler implementation
+// summary: Implements the ChromeOS settings WebUI handler for Privacy Hub, exposing microphone, camera, geolocation, timezone, and sunrise/sunset state to the frontend.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/privacy_hub_handler.h"
 
 #include "ash/constants/ash_features.h"

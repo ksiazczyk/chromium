@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Preferences section header
+// summary: Declares the SystemPreferencesSection class, which composes the Date & Time, Files, Languages, Power, Reset, Search, Startup and Storage subsections.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SYSTEM_PREFERENCES_SYSTEM_PREFERENCES_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SYSTEM_PREFERENCES_SYSTEM_PREFERENCES_SECTION_H_
 

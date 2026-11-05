@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGazeSettingsHandler class declaration
+// summary: Declares the FaceGazeSettingsHandler WebUI message handler for toggling FaceGaze and receiving gesture info in ChromeOS accessibility settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_FACEGAZE_SETTINGS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_FACEGAZE_SETTINGS_HANDLER_H_
 

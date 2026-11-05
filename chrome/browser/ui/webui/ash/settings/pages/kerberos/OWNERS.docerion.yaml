@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the Kerberos settings folder
+summary: Delegates code ownership review to the OWNERS file of the ChromeOS Kerberos component.

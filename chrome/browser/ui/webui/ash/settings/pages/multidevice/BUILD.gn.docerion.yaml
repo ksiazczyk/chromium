@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multidevice settings library
+summary: Defines the multidevice static library and its unit_tests source set, listing sources and dependencies for the ChromeOS settings multidevice page.

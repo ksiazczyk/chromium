@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the languages settings directory
+summary: Sets include rules that restrict ChromeOS dependencies on //chrome while allowing specific ash settings, input method, and keyboard headers.

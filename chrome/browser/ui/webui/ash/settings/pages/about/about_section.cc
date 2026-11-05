@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the About Chrome OS settings section
+// summary: Implements the AboutSection class, providing load-time data, UI strings, search tags, and handlers for the About Chrome OS settings page and its subpages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/about/about_section.h"
 
 #include <array>

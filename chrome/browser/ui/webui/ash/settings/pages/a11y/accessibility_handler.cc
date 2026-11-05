@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings WebUI message handler implementation
+// summary: Implements the WebUI message handler for accessibility settings, covering startup sound, ChromeVox tutorial, braille display address, flash notification preview, and dictation locales.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/accessibility_handler.h"
 
 #include <set>

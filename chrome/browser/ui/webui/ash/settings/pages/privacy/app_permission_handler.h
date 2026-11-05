@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App permission handler class declaration
+// summary: Declares the AppPermissionHandler Mojo interface implementation that exposes app permission data to the ChromeOS settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_APP_PERMISSION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_APP_PERMISSION_HANDLER_H_
 

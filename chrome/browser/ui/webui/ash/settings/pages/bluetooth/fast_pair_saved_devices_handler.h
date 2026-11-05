@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair saved devices settings WebUI handler header
+// summary: Declares the Chrome OS settings WebUI message handler for the Fast Pair saved devices subpage, covering loading devices, removing them, and encoding device images as base64 data URLs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_BLUETOOTH_FAST_PAIR_SAVED_DEVICES_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_BLUETOOTH_FAST_PAIR_SAVED_DEVICES_HANDLER_H_
 

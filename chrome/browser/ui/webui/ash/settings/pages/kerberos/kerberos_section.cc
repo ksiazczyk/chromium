@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos settings section implementation
+// summary: Implements the Kerberos settings section, registering the accounts handler and fixed and dynamic search tags.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/kerberos/kerberos_section.h"
 
 #include <array>

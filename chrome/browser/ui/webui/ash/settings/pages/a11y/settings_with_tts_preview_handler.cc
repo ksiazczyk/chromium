@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS settings preview handler implementation
+// summary: Implements the shared WebUI handler for ChromeOS TTS-related settings pages, including voice listing and text-to-speech voice preview support.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/settings_with_tts_preview_handler.h"
 
 #include "base/functional/bind.h"

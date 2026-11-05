@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskingSection implementation
+// summary: Implements the MultitaskingSection class, registering search tags, localized strings, and metrics for snap window suggestion settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/multitasking/multitasking_section.h"
 
 #include <array>

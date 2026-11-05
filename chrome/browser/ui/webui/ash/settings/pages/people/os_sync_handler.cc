@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSSyncHandler implementation for OS sync settings
+// summary: Implements the WebUI message handler that pushes Chrome OS sync preferences to the settings page and handles navigation, datatype, and browser sync settings messages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/os_sync_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

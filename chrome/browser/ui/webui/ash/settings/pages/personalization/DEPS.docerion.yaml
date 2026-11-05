@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the personalization settings directory
+summary: Sets Chromium include rules for the directory, restricting //chrome dependencies and allowing only the unit test to include chrome/test.

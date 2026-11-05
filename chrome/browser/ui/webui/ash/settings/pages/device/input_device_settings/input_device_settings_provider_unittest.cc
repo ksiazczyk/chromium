@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input device settings provider unit tests
+// summary: Unit tests for the input device settings provider, covering observer notifications and settings updates using fake observers and mock controllers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/input_device_settings/input_device_settings_provider.h"
 
 #include <algorithm>

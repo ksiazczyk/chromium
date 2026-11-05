@@ -1,0 +1,4 @@
+# Docerion header of date_time_handler.mojom.
+type: source
+title: Mojom interfaces for the date/time settings page handler
+summary: Defines PageHandlerFactory, PageHandler and Page interfaces for renderer-browser communication covering timezone lookup, set date/time UI and parent access validation.

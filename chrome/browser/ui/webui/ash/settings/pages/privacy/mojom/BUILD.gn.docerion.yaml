@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the app permission handler Mojom target
+summary: Defines the GN build target that generates Mojom bindings for app_permission_handler.mojom, with dependencies on Mojo base and app management bindings.

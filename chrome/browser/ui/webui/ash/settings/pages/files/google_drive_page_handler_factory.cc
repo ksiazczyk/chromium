@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive page handler factory implementation
+// summary: Implements the Mojo factory that creates the Google Drive settings page handler for a given profile.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/files/google_drive_page_handler_factory.h"
 
 #include <memory>

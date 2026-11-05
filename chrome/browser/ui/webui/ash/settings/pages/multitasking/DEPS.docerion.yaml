@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Multitasking settings DEPS include rules
+summary: Defines include rules that restrict //chrome dependencies for ChromeOS while allowing specific ash settings includes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the languages settings section
+summary: Defines the GN static_library target for the languages settings section, listing its sources and dependencies.

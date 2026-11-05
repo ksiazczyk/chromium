@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the power settings section
+summary: Defines GN build targets for the ChromeOS settings power section, including the power static library and its browser test source set.

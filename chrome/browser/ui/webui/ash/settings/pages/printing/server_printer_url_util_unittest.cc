@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server printer URL utility unit tests
+// summary: Unit tests verifying scheme validation and GURL generation for server printer URLs, including IPP/IPPS to HTTP/HTTPS mapping and default ports.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/printing/server_printer_url_util.h"
 
 #include <optional>

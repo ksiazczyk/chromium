@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the files settings Mojom target
+summary: Defines the Mojom GN target that builds the Google Drive and OneDrive handler interface definitions together with their public dependencies.

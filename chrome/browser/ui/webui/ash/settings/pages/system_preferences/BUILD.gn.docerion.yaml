@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the system_preferences settings library
+summary: Defines the GN static_library target for the ChromeOS settings System Preferences section, listing its sources and dependencies.

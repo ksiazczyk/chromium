@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings WebUI message handler implementation
+// summary: Implements the ChromeOS Displays settings handler that highlights displays and applies drag deltas via CrosDisplayConfig.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_display_handler.h"
 
 #include "ash/display/cros_display_config.h"

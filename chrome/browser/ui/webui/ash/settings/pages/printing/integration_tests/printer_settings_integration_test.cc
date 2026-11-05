@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer settings integration test
+// summary: Crosier integration test that adds a manual CUPS printer through the Ash Settings UI, using a sample PPD served by an embedded test server.
+// ---
+
 #include <string>
 #include <string_view>
 

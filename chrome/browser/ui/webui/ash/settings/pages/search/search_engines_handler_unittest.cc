@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines handler Ash unit tests
+// summary: Tests that the search engines handler opens the browser search settings page via the new window delegate.
+// ---
+
 #include "chrome/browser/ui/webui/settings/search_engines_handler.h"
 
 #include "ash/constants/chrome_webui_url_constants.h"

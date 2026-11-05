@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the reset settings section
+summary: GN build file defining the reset static library for ChromeOS Ash settings, listing reset_section sources and its build dependencies.

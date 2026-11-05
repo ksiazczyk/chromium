@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerSection implementation for OS settings
+// summary: Implements the PowerSection for ChromeOS settings, adding load-time data, handlers, and search tags for the power settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/power/power_section.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos accounts WebUI handler implementation
+// summary: Implements the WebUI message handler that adds, removes, validates and lists Kerberos accounts and supplies load-time strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/kerberos/kerberos_accounts_handler.h"
 
 #include <string>

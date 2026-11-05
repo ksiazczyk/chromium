@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Drive settings handler browser tests
+// summary: Browser tests for the Google Drive settings handler that use fake DriveFS and spaced clients to verify space calculations and bulk pinning status.
+// ---
+
 #include <initializer_list>
 
 #include "ash/constants/ash_features.h"

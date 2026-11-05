@@ -1,0 +1,4 @@
+# Docerion header of display_settings_provider.mojom.
+type: source
+title: Mojo interface definitions for display settings
+summary: Defines the Mojo interface between the browser process and the settings app, covering display settings enums, value structs, and observer interfaces.

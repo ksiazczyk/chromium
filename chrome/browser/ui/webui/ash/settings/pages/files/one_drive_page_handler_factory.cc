@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive page handler factory implementation
+// summary: Implements the OneDrive page handler factory, binding the Mojo receiver and creating the OneDrivePageHandler for the settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/files/one_drive_page_handler_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App notification settings handler class
+// summary: Declares the Mojo handler for app notification permissions, quiet mode, and app change observers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_APP_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_APP_NOTIFICATION_HANDLER_H_
 

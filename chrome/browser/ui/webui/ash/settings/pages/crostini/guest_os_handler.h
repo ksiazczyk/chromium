@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsHandler header for guest OS settings WebUI
+// summary: Declares the GuestOsHandler class that handles guest OS shared path display, shared path removal, and USB device sharing messages for the Chrome OS settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_CROSTINI_GUEST_OS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_CROSTINI_GUEST_OS_HANDLER_H_
 

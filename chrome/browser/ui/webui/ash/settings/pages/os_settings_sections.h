@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsSections class declaration
+// summary: Declares the collection of all OsSettingsSection implementations, with lookup by section enum and access to the ordered section list.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_OS_SETTINGS_SECTIONS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_OS_SETTINGS_SECTIONS_H_
 

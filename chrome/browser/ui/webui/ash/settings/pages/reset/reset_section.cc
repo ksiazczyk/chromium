@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResetSection implementation for Ash settings reset page
+// summary: Implements the Reset settings section, adding localized strings and search tags for powerwash and sanitize when powerwash is allowed for the user.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/reset/reset_section.h"
 
 #include <array>

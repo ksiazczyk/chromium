@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ash settings device integration tests
+summary: Defines the testonly interactive_ui_tests source set and its dependencies for the ChromeOS Ash settings device page integration tests.

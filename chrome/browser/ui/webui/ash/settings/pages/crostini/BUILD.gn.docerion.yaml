@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crostini settings build targets
+summary: GN build file defining the crostini settings static library and its unit test target with their dependencies.

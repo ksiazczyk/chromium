@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageHandler implementation for the OS settings storage page
+// summary: Implements the WebUI message handler that reports storage sizes, external storages, encryption state, and low-space status for the ChromeOS settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/storage/device_storage_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentalControlsHandler class declaration
+// summary: Declares the WebUI message handler class for the Chrome OS Parental Controls settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_PARENTAL_CONTROLS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_PARENTAL_CONTROLS_HANDLER_H_
 

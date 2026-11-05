@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the keyboard settings handler
+// summary: Tests keyboard device detection and show-keys-changed WebUI messages using fake udev devices and a test WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_keyboard_handler.h"
 
 #include <memory>

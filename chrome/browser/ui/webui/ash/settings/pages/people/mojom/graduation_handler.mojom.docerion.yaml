@@ -1,0 +1,4 @@
+# Docerion header of graduation_handler.mojom.
+type: source
+title: Graduation handler Mojom interfaces
+summary: Defines the GraduationHandler and GraduationObserver Mojom interfaces that connect the Graduation settings UI with ChromeOS.

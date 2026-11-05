@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiDeviceSection
+// summary: Tests the multidevice settings section using fake managers and a mock WebUI data source to verify load-time data and search behavior.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_section.h"
 
 #include <string>

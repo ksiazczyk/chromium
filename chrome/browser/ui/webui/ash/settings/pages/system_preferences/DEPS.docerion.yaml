@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system_preferences
+summary: Sets include rules that restrict which Chrome and ash settings directories this folder may depend on.

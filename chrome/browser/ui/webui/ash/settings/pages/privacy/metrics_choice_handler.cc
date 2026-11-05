@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics choice handler implementation
+// summary: Implements the WebUI message handler that reads and updates the user's metrics consent choice in ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/metrics_choice_handler.h"
 
 #include "base/check.h"

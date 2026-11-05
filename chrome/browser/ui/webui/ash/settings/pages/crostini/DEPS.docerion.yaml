@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Crostini settings
+summary: Restricts include dependencies for the directory, allowing only approved ash and //chrome paths and extra test-only includes.

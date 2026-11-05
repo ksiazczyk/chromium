@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice settings section implementation
+// summary: Implements the multidevice settings section, registering UI strings, search tags, subpages, and Nearby Share and Phone Hub settings rows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_section.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the people settings directory
+summary: Sets the allowed include dependencies for this directory, with specific exceptions for graduation, unittest and browsertest files.

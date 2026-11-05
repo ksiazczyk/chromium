@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the search settings directory
+summary: Restricts and grants include dependencies for the ChromeOS settings search code and its unit tests.

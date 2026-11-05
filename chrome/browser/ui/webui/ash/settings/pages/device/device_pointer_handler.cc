@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer settings WebUI message handler implementation
+// summary: Implements the Pointer settings handler that reports touchpad, mouse, haptic touchpad, and pointing stick presence.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_pointer_handler.h"
 
 #include "base/functional/bind.h"

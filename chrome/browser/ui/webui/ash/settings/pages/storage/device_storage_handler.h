@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageHandler class header with storage space states and thresholds
+// summary: Declares the StorageHandler WebUI message handler, the StorageSpaceState enum, and the low and critically low disk space thresholds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_DEVICE_STORAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_DEVICE_STORAGE_HANDLER_H_
 

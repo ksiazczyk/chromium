@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy settings section implementation
+// summary: Implements the Privacy and Security settings section, registering message handlers, localized strings, load-time data, and search tags for ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/privacy_section.h"
 
 #include <array>

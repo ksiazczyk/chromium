@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the display settings provider
+// summary: Unit tests that verify tablet mode, display configuration, brightness, and ambient light sensor notifications and their metrics using fake observers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/display_settings/display_settings_provider.h"
 
 #include "ash/display/display_performance_mode_controller.h"

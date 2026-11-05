@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the internet settings folder
+summary: Points to shared network directory metadata through a mixin for the ChromeOS Ash WebUI resources.

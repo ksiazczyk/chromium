@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost notice handler class declaration
+// summary: Declares the Mojo page handler that displays the Magic Boost notice for the settings search page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SEARCH_MAGIC_BOOST_NOTICE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SEARCH_MAGIC_BOOST_NOTICE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the power settings directory
+summary: Specifies include dependency rules for the power settings directory, blocking //chrome dependencies except those needed by the browser test.

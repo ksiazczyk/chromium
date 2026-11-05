@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the accessibility settings handler
+// summary: Contains in-process browser tests for the accessibility settings handler, covering WebUI calls, dictation locales, and input method behavior with a persisted test user.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/accessibility_handler.h"
 
 #include <memory>

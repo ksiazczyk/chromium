@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings section implementation
+// summary: Implements the accessibility settings section, providing UI strings, search tags, subpage hierarchy, and handlers for features such as Select-to-Speak, Switch Access, FaceGaze, and text-to-speech.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/accessibility_section.h"
 
 #include <array>

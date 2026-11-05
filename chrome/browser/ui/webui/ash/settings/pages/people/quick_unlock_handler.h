@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickUnlockHandler class declaration
+// summary: Declares the settings WebUI handler class for quick unlock, including PIN state, auth factor, and policy request handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_QUICK_UNLOCK_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_QUICK_UNLOCK_HANDLER_H_
 

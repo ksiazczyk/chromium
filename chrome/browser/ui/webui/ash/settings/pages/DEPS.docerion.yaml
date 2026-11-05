@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings pages
+summary: Restricts includes in this directory, allowing the app_service dependency while discouraging new //chrome dependencies during an ongoing refactor.

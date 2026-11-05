@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio page interactive UI tests
+// summary: Interactive UI tests that exercise audio input and output device controls, including volume, mute, and voice isolation, on the ChromeOS settings audio page.
+// ---
+
 #include <cstdint>
 #include <memory>
 

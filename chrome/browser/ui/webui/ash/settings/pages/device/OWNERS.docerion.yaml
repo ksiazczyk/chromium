@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file redirect for the device settings directory
+summary: Redirects code ownership to the OWNERS file of the settings device page resources.

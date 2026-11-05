@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device section implementation for Chrome OS settings
+// summary: Implements the Device settings section, registering display, keyboard, pointer and stylus handlers and adding UI strings and search tags.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_section.h"
 
 #include <array>

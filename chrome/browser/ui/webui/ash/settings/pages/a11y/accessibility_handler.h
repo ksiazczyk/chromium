@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityHandler class declaration
+// summary: Declares the AccessibilityHandler WebUI message handler class, including SodaInstaller observation and dictation locale helpers for ChromeOS accessibility settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_ACCESSIBILITY_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_ACCESSIBILITY_HANDLER_H_
 

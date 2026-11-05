@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for input device settings
+summary: Defines GN build targets for the input device settings Mojo interface, the provider static library, and its unit tests.

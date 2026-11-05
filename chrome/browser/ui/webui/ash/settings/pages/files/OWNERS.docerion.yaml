@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the files settings directory
+summary: Delegates ownership review for this directory to the file manager OWNERS file.

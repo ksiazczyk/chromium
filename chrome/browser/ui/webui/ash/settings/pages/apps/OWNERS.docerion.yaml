@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Ash settings apps handlers
+summary: Delegates review to the app management owners and assigns parental controls files to the child accounts owners.

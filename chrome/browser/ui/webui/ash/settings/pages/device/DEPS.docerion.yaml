@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for device settings dependencies
+summary: 'Restricts and allows #include dependencies for the device settings directory, with extra allowances for its unit tests.'

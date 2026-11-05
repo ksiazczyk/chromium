@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS settings WebUI handler implementation
+// summary: Implements the WebUI handler for guest OS shared paths and shared USB devices in settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/crostini/guest_os_handler.h"
 
 #include <string>

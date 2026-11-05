@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager UI handler implementation
+// summary: Implements the WebUI message handler for listing, adding, reauthenticating, migrating and removing accounts in ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/account_manager_ui_handler.h"
 
 #include <utility>

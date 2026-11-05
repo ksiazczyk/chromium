@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of Readiness mojom enum traits
+// summary: Implements conversions between apps::Readiness and the mojom Readiness enum for Mojo serialization.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/mojom/app_type_mojom_traits.h"
 
 namespace mojo {

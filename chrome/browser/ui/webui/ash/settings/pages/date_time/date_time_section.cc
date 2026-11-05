@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time settings section implementation
+// summary: Implements the Date and Time settings section, registering search tags, load-time data, and handlers for the OS settings UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/date_time/date_time_section.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the multidevice settings directory
+summary: Restricts //chrome includes for ChromeOS and grants specific exceptions for ash settings, nearby sharing, and test-only dependencies.

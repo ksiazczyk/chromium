@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard settings WebUI message handler implementation
+// summary: Implements the Keyboard settings handler that tracks attached keyboard types and launches the shortcut customization app.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_keyboard_handler.h"
 
 #include "ash/constants/ash_features.h"

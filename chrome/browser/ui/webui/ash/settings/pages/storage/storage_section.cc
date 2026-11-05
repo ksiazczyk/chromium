@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageSection implementation with search tags and localized strings
+// summary: Implements the storage settings section, registering search tags and localized strings for the storage and external storage subpages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/storage/storage_section.h"
 
 #include <array>

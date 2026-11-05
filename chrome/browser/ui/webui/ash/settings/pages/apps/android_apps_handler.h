@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android apps settings message handler class
+// summary: Declares the WebUI message handler observing ARC app changes and Play Store state for the settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_ANDROID_APPS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_ANDROID_APPS_HANDLER_H_
 

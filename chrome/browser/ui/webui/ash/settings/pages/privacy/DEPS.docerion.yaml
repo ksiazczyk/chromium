@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the privacy settings directory
+summary: 'Restricts and allows #include dependencies for the privacy settings directory, with special rules for test files.'

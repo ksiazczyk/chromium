@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app permission handler
+// summary: Tests the app permission handler's app listing, permission updates and settings navigation using AppService test support.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/app_permission_handler.h"
 
 #include <memory>

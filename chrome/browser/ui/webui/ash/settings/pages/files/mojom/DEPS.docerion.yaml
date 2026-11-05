@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the mojom directory
+summary: Restricts dependencies so ChromeOS code in this directory does not include //chrome headers, noting existing exceptions under active refactoring.

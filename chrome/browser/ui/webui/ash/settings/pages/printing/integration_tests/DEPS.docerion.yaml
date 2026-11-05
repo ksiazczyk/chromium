@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for printer settings integration tests
+summary: Restricts //chrome dependencies for the directory and grants the printer settings integration test access to specific //chrome headers it needs.

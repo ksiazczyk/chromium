@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost notice page handler factory declaration
+// summary: Declares the Mojo page handler factory that instantiates the Magic Boost notice handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SEARCH_MAGIC_BOOST_NOTICE_PAGE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_SEARCH_MAGIC_BOOST_NOTICE_PAGE_HANDLER_FACTORY_H_
 

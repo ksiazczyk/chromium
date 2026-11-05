@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultideviceHandler
+// summary: Tests the multidevice settings handler with fake services, covering feature states, prefs, policies, and permission onboarding histograms.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Magic Boost Mojom bindings
+summary: Defines the mojom target that generates bindings for magic_boost_handler.mojom, with a dependency on Mojo base mojoms, for ChromeOS only.

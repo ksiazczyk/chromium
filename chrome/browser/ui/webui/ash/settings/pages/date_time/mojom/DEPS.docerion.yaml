@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the date/time Mojom directory
+summary: Sets include rules that forbid dependencies on //chrome in this ChromeOS settings directory, with an exception list for existing dependencies.

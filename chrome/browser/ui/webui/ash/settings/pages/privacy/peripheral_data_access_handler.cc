@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral data access handler implementation
+// summary: Implements the WebUI handler that reports Thunderbolt support and the peripheral data access policy state for ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/peripheral_data_access_handler.h"
 
 #include <string>

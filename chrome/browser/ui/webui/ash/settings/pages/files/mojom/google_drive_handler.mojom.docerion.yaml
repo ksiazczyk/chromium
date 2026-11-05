@@ -1,0 +1,4 @@
+# Docerion header of google_drive_handler.mojom.
+type: source
+title: Google Drive settings page handler Mojom interfaces
+summary: Defines Mojo interfaces for the Google Drive settings page, covering pinning status, content cache size, clearing pinned files and progress updates.

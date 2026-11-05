@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App parental controls handler for ChromeOS settings
+// summary: Declares the Mojo handler that manages app parental controls in ChromeOS settings, including the blocked app registry, PIN setup and validation, and observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_APP_PARENTAL_CONTROLS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_APP_PARENTAL_CONTROLS_HANDLER_H_
 

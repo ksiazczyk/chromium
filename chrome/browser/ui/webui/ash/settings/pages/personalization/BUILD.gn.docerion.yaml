@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the personalization settings library
+summary: Defines the GN build targets for the personalization settings static library and its unit tests, listing sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android apps settings message handler implementation
+// summary: Implements the WebUI handler that reports Play Store and settings app availability and launches Android apps settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/android_apps_handler.h"
 
 #include "base/functional/bind.h"

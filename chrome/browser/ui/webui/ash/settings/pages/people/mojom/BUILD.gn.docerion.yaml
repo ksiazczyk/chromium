@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for graduation handler Mojom target
+summary: Defines the GN build target that generates Mojom bindings for graduation_handler.mojom, restricted to ChromeOS builds.

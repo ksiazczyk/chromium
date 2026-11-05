@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos accounts WebUI handler class declaration
+// summary: Declares the KerberosAccountsHandler class that handles WebUI messages for managing Kerberos accounts in ChromeOS settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_KERBEROS_KERBEROS_ACCOUNTS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_KERBEROS_KERBEROS_ACCOUNTS_HANDLER_H_
 

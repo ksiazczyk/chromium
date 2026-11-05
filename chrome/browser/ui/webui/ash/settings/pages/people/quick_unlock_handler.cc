@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickUnlockHandler implementation
+// summary: Implements the quick unlock settings WebUI handler that reports PIN login availability, active authentication factors, and policy-based restrictions.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/quick_unlock_handler.h"
 
 #include <optional>

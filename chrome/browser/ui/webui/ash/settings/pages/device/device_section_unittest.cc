@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Device settings section
+// summary: Unit tests verifying search result identifiers and search tags for the Device settings section, including keyboard and printing subpages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_section.h"
 
 #include "ash/constants/ash_pref_names.h"

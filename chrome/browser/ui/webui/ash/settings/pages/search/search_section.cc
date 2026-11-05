@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search settings section implementation
+// summary: Implements the Search settings section, adding UI strings, handlers, and search tags for features like Quick Answers and Magic Boost.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/search/search_section.h"
 
 #include <memory>
