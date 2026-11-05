@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access bubble class declaration
+// summary: Declares the ExclusiveAccessBubble base class that informs users when fullscreen, keyboard lock or pointer lock is active and how to exit.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble row list view info header
+// summary: Declares the observer interface and row list info class that tracks download rows for the download bubble UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_ROW_LIST_VIEW_INFO_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_ROW_LIST_VIEW_INFO_H_
 

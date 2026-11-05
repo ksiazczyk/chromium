@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download danger dialog interactive UI tests
+// summary: Interactive browser tests verifying that the download danger dialog reports ACCEPT and CANCEL actions back to the extension API backend.
+// ---
+
 #include "chrome/browser/ui/extensions/download_danger_dialog.h"
 
 #include <optional>

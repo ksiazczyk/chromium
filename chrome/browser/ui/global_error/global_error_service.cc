@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalErrorService implementation
+// summary: Implements adding, removing, and querying global errors, closing bubbles on removal, and notifying observers of changes.
+// ---
+
 #include "chrome/browser/ui/global_error/global_error_service.h"
 
 #include <stddef.h>

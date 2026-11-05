@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the feature first-run dialog helper
+// summary: In-process browser tests verifying that the feature first-run dialog is constructed correctly from its parameters and handles accept and cancel actions.
+// ---
+
 #include "chrome/browser/ui/feature_first_run/feature_first_run_helper.h"
 
 #include <memory>

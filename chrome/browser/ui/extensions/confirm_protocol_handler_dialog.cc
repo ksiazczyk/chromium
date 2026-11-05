@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm protocol handler dialog implementation
+// summary: Implements the dialog that asks users to confirm when an extension-registered protocol handler takes over a navigation.
+// ---
+
 #include "chrome/browser/ui/extensions/confirm_protocol_handler_dialog.h"
 
 #include "base/strings/string_util.h"

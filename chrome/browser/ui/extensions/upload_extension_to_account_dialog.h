@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload extension to account dialog API
+// summary: Declares ShowUploadExtensionToAccountDialog, which shows a confirmation dialog when an extension is uploaded to the user's account.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_UPLOAD_EXTENSION_TO_ACCOUNT_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_UPLOAD_EXTENSION_TO_ACCOUNT_DIALOG_H_
 

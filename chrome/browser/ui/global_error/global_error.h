@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalError and GlobalErrorWithStandardBubble class declarations
+// summary: Declares the GlobalError interface with severity levels and menu or bubble hooks, and a subclass that supplies a standard error bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_H_
 #define CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install blocked dialog header
+// summary: Declares ShowExtensionInstallBlockedDialog, which notifies users that an extension installation is blocked due to policy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_BLOCKED_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_BLOCKED_DIALOG_H_
 

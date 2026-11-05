@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble info base class with observer support
+// summary: Defines a templated base class that manages observer lists for download bubble info classes plus a simple change observer for views without incremental updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_INFO_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_INFO_H_
 

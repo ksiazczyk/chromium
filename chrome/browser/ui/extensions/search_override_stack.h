@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search override stack state and metrics declarations
+// summary: Declares the SearchOverrideStackState enum and helpers that classify the extension stack beneath the default-search-controlling extension and record related histograms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_SEARCH_OVERRIDE_STACK_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_SEARCH_OVERRIDE_STACK_H_
 

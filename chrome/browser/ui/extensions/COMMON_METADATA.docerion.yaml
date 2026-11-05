@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Chromium metadata for the extensions UI directory
+summary: Declares the issue tracker component, team email and Buganizer component used for this directory.

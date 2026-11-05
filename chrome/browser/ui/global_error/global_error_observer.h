@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalErrorObserver interface
+// summary: Declares a CheckedObserver interface that is notified whenever the set of global errors changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_OBSERVER_H_
 #define CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overridden dialog declarations
+// summary: Declares ShowSettingsOverriddenDialog and element identifiers for the dialog warning users about extension-overridden settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_SETTINGS_OVERRIDDEN_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_SETTINGS_OVERRIDDEN_DIALOG_H_
 

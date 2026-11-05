@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenTabParams struct header
+// summary: Defines the FullscreenTabParams struct carrying display ID and navigation and status bar preferences used when entering tab fullscreen mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_FULLSCREEN_TAB_PARAMS_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_FULLSCREEN_TAB_PARAMS_H_
 

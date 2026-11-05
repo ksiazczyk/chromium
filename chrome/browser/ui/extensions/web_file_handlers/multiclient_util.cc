@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-client web file handler launch utility implementation
+// summary: Implements helpers that detect web app file handlers with the multiple-clients launch type and build per-file app launch parameters for opening each file in its own tab.
+// ---
+
 #include "chrome/browser/ui/extensions/web_file_handlers/multiclient_util.h"
 
 #include "components/services/app_service/public/cpp/app_launch_params.h"

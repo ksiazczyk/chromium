@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLockController header
+// summary: Declares the controller that decides whether keyboard lock requests from a WebContents are allowed and manages lock state and Escape handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_KEYBOARD_LOCK_CONTROLLER_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_KEYBOARD_LOCK_CONTROLLER_H_
 

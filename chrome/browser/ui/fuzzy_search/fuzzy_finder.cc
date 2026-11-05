@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzyFinder implementation
+// summary: Implements the FuzzyFinder scoring and alignment logic, including typo tolerance, transposition handling, word boundary bonuses, and score thresholds for fuzzy search.
+// ---
+
 #include "chrome/browser/ui/fuzzy_search/fuzzy_finder.h"
 
 #include <algorithm>

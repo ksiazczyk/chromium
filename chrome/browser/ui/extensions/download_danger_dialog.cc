@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download danger dialog implementation
+// summary: Implements the danger prompt dialog shown when an extension attempts to download a dangerous file, observing the download item.
+// ---
+
 #include "chrome/browser/ui/extensions/download_danger_dialog.h"
 
 #include <memory>

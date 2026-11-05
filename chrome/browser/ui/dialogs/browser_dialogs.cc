@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser dialog helpers implementation
+// summary: Implements platform-specific dialog helpers such as showing tab modals, window name prompts, and folder upload confirmation across desktop and Android.
+// ---
+
 #include "chrome/browser/ui/dialogs/browser_dialogs.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar state factory implementation
+// summary: Implements the profile keyed service factory that builds separate FindBarState instances per browser context, including incognito.
+// ---
+
 #include "chrome/browser/ui/find_bar/find_bar_state_factory.h"
 
 #include "chrome/browser/ui/find_bar/find_bar_state.h"

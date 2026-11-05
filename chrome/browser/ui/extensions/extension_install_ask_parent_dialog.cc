@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ask-parent dialog for extension installs
+// summary: Implements the Android tab-modal dialog that prompts a supervised user to ask their parent for approval to install an extension, with test auto-confirm support.
+// ---
+
 #include "build/build_config.h"
 
 #if BUILDFLAG(IS_ANDROID)

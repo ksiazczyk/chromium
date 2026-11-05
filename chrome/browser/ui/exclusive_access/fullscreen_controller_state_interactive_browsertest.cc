@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller state interactive tests
+// summary: Interactive browser test fixture that runs the fullscreen controller state machine against real windows, disabled on infrastructure due to flakiness.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/browser_tabstrip.h"
 #include "chrome/browser/ui/browser_window.h"

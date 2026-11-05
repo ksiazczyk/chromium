@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installation error infobar delegate header
+// summary: Declares a confirm infobar delegate that reports extension installation errors to the user.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_INSTALLATION_ERROR_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_INSTALLATION_ERROR_INFOBAR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hosted app browser tests
+// summary: Browser tests for hosted app browser UI behavior, including app window icons, navigation, uninstall flows, and app menu actions.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm protocol handler dialog header
+// summary: Declares ShowConfirmProtocolHandlerDialog, which prompts users about extension-registered protocol handlers on non-Android builds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_CONFIRM_PROTOCOL_HANDLER_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_CONFIRM_PROTOCOL_HANDLER_DIALOG_H_
 

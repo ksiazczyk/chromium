@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled home dialog controller header
+// summary: Declares the controller class that supplies text and handles results for the extension home page override warning bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_CONTROLLED_HOME_DIALOG_CONTROLLER_H_
 

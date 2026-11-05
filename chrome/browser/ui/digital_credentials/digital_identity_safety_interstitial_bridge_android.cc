@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android digital identity safety interstitial bridge implementation
+// summary: Implements the C++ side of the JNI bridge that shows the modal dialog asking users whether to share their identity with a website on Android.
+// ---
+
 #include "chrome/browser/ui/digital_credentials/digital_identity_safety_interstitial_bridge_android.h"
 
 #include "base/android/jni_android.h"

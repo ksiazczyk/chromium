@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for file system access UI
+summary: Delegates ownership reviews to the OWNERS file of the content browser file system access directory.

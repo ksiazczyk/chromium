@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled home dialog implementation
+// summary: Implements the dialog notifying users when an extension has changed the home page, closing it when the extension is unloaded or uninstalled.
+// ---
+
 #include "chrome/browser/ui/extensions/controlled_home_dialog.h"
 
 #include "base/functional/bind.h"

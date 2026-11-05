@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of extension dialog utilities
+// summary: Implements the extension dialog helpers on Android by showing tab-modal dialogs, since dialogs are never anchored to the extension action button there.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_dialog_utils.h"
 
 #include <utility>

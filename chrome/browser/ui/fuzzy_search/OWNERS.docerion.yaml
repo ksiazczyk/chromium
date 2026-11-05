@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the fuzzy_search directory
+summary: Lists the email addresses of the owners responsible for reviewing changes in the chrome/browser/ui/fuzzy_search directory.

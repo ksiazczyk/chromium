@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionEnableFlow class declaration
+// summary: Declares ExtensionEnableFlow, which runs a UI flow to enable a disabled or terminated extension and notifies its delegate when enabling finishes or is aborted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ENABLE_FLOW_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ENABLE_FLOW_H_
 

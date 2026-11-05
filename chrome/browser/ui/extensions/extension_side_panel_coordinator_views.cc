@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel coordinator views implementation
+// summary: Views implementation of the extension side panel coordinator delegate that creates extension hosts and views and manages side panel entry lifecycle and action item references.
+// ---
+
 #include <memory>
 #include <optional>
 

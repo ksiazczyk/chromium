@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window fullscreen controller implementation
+// summary: Implements the fullscreen controller, deciding whether UI should be hidden in fullscreen based on immersive mode and frame view state, and supporting forced fullscreen.
+// ---
+
 #include "chrome/browser/ui/fullscreen/browser_window_fullscreen_controller.h"
 
 #include "base/types/to_address.h"

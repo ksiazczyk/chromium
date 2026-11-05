@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dangerous file dialog browser test
+// summary: Browser test that invokes and verifies the dangerous file dialog UI for a .swf file from an example origin.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_dangerous_file_dialog.h"
 
 #include "base/files/file_path.h"

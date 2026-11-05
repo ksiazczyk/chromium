@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system access permission dialog browser tests
+// summary: Browser tests that show the permission dialog across file, folder, read, write, and origin variations to verify its UI.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_permission_dialog.h"
 
 #include <optional>

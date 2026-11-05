@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outdated upgrade bubble implementation
+// summary: Implements the bubble warning that a Chrome upgrade is overdue, opening the reinstall URL or re-enabling auto-update on Windows depending on channel.
+// ---
+
 #include "chrome/browser/ui/dialogs/outdated_upgrade_bubble.h"
 
 #include "base/functional/bind.h"

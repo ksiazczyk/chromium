@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension post-install dialog implementation
+// summary: Implements the dialog shown after an extension is installed, including how-to-use text, shortcut links and platform-specific behavior.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_post_install_dialog.h"
 
 #include <memory>

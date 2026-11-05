@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for GlobalErrorService
+// summary: In-process browser tests verifying that global error bubble views are shown, closed, and highlighted in the app menu.
+// ---
+
 #include "chrome/browser/ui/global_error/global_error_service.h"
 
 #include <memory>

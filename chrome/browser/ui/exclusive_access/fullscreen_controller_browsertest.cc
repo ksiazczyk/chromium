@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller browser tests
+// summary: Browser tests for the fullscreen controller covering file URL fullscreen, keyboard lock and exclusive access bubble display.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/fullscreen_controller.h"
 
 #include "base/functional/bind.h"

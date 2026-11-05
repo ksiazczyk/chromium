@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android digital identity safety interstitial bridge header
+// summary: Declares the C++ counterpart to DigitalIdentitySafetyInterstitialBridge.java, which initiates the identity-sharing interstitial and reports its outcome.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_SAFETY_INTERSTITIAL_BRIDGE_ANDROID_H_
 #define CHROME_BROWSER_UI_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_SAFETY_INTERSTITIAL_BRIDGE_ANDROID_H_
 

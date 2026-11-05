@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble icon, color and action utilities implementation
+// summary: Computes icons, colors, quick actions and progress bar state for download bubble rows and security pages based on download danger type, state and enterprise policies.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_info_utils.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

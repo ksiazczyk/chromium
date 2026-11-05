@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension settings overridden dialog implementation
+// summary: Implements the dialog shown when an extension overrides browser settings, tracking shown profiles, acknowledgment preferences and metrics.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_settings_overridden_dialog.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hosted app browser controller implementation
+// summary: Implements the controller for the browser UI of extension-based hosted apps, covering icons, titles, app scope, and uninstall handling.
+// ---
+
 #include "chrome/browser/ui/extensions/hosted_app_browser_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

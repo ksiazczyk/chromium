@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-client web file handler launch utility declarations
+// summary: Declares extensions namespace helpers that check web app file handlers for multiple-clients launch support and build per-file app launch parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_WEB_FILE_HANDLERS_MULTICLIENT_UTIL_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_WEB_FILE_HANDLERS_MULTICLIENT_UTIL_H_
 

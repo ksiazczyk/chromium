@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload page dialog controller header
+// summary: Declares the controller for the dialog that asks to reload the active page so a list of extensions can run.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_RELOAD_PAGE_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_RELOAD_PAGE_DIALOG_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system access UI helpers unit tests
+// summary: Unit tests covering path display, elision, and URL identity formatting in the file system access UI helpers.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_ui_helpers.h"
 
 #include <string>

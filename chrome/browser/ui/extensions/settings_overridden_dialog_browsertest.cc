@@ -6,6 +6,12 @@
 // chrome/browser/ui/extensions/settings_overridden_dialog_interactive_uitest.cc
 // which supports more complex interaction and explicit-choice dialogs.
 
+// ---docerion
+// type: test
+// title: Settings overridden dialog browser tests
+// summary: Browser tests exercising the settings overridden dialog using a stub controller and extension-driven scenarios such as NTP overrides.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_dialog.h"
 
 #include <algorithm>

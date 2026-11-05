@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload page dialog controller Android browser tests
+// summary: Browser tests verifying the Android reload-page message shown for one or more extensions using a mock message dispatcher.
+// ---
+
 #include "chrome/browser/ui/extensions/reload_page_dialog_controller.h"
 
 #include "base/strings/stringprintf.h"

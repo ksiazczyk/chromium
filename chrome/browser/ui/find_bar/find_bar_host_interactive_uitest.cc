@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find in page interactive UI tests
+// summary: Interactive tests checking which element is focused when a find session ends, such as links found via the find box.
+// ---
+
 #include <string_view>
 
 #include "base/strings/utf_string_conversions.h"

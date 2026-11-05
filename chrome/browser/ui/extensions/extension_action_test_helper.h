@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action test helper
+// summary: Test helper interface for browser tests to inspect and interact with extension action toolbar buttons and popups across platforms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ACTION_TEST_HELPER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_ACTION_TEST_HELPER_H_
 

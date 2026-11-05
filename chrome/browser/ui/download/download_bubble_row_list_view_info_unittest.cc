@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble row list view info unit tests
+// summary: Unit tests for DownloadBubbleRowListViewInfo covering adding, ordering and removing download rows using mock download items.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_row_list_view_info.h"
 
 #include "base/test/bind.h"

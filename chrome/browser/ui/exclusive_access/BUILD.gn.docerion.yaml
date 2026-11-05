@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Exclusive access build targets
+summary: GN build file defining the exclusive_access source set plus test_support, unit_tests and browser_tests targets with their dependencies.

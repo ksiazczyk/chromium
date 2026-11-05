@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel manager implementation
+// summary: Implements ExtensionSidePanelManager, creating and removing per-extension side panel coordinators as extensions load or unload, with permission and incognito checks.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_side_panel_manager.h"
 
 #include <memory>

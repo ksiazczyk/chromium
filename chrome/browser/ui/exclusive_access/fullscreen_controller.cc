@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen controller implementation
+// summary: Implements Chrome's fullscreen behaviour, handling browser and tab fullscreen modes, keyboard lock, display checks and the fullscreen-allowed policy.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/fullscreen_controller.h"
 
 #include "base/auto_reset.h"

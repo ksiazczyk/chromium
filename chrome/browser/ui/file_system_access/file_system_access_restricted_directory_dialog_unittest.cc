@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system access restricted directory dialog unit tests
+// summary: Unit tests verifying accept, cancel, close, focus, and drag-and-drop behavior of the restricted directory dialog.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_restricted_directory_dialog.h"
 
 #include <optional>

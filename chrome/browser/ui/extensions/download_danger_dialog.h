@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download danger dialog header
+// summary: Declares the function that shows a native dialog asking the user whether to accept a dangerous download, preventing malicious extensions from auto-accepting it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_DOWNLOAD_DANGER_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_DOWNLOAD_DANGER_DIALOG_H_
 

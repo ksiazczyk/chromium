@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata referencing shared metadata
+summary: Points the directory to COMMON_METADATA so it inherits the extensions UI tracker and team metadata.

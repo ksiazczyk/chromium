@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the extension enable flow
+// summary: Browser tests verifying that enabling extensions blocked by policy or greylisting fails gracefully and leaves the extension disabled.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_enable_flow.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

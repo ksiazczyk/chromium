@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemMode enum for download security UI states
+// summary: Defines the DownloadItemMode enum of security UI states for a download item and declares the function that selects the mode matching the current model state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_ITEM_MODE_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_ITEM_MODE_H_
 

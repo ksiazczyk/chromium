@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindBarController implementation
+// summary: Implements the controller that shows and ends find sessions, handles tab changes, and coordinates the find bar with browser commands.
+// ---
+
 #include "chrome/browser/ui/find_bar/find_bar_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process singleton dialog interface
+// summary: Declares ShowProcessSingletonDialog, which reports a profile-in-use error during startup and blocks until the dialog is closed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DIALOGS_PROCESS_SINGLETON_DIALOG_LINUX_H_
 #define CHROME_BROWSER_UI_DIALOGS_PROCESS_SINGLETON_DIALOG_LINUX_H_
 

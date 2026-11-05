@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension accelerator priority constant
+// summary: Defines the high accelerator priority that lets extension keybindings override web page key handling by default.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_ACCELERATOR_PRIORITY_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_ACCELERATOR_PRIORITY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser focus controller interface
+// summary: Declares the virtual base class that manages pane focus rotation and accessibility focus for a browser window, plus a stub implementation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_H_
 #define CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_H_
 

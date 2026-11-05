@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature first-run dialog helper header
+// summary: Declares helpers to show a tab-modal feature first-run dialog and to create styled infobox and dialog content container views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FEATURE_FIRST_RUN_FEATURE_FIRST_RUN_HELPER_H_
 #define CHROME_BROWSER_UI_FEATURE_FIRST_RUN_FEATURE_FIRST_RUN_HELPER_H_
 

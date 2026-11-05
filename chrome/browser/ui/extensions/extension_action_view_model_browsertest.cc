@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action view model browser tests
+// summary: Browser tests covering extension action view model behavior such as icons, titles, site access permissions and popup handling.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_action_view_model.h"
 
 #include <stddef.h>

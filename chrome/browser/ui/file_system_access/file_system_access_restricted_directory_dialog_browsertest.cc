@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system access restricted directory dialog browser tests
+// summary: Browser tests that display the restricted directory dialog for open and drag-and-drop access triggers.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_restricted_directory_dialog.h"
 
 #include "base/functional/callback_helpers.h"

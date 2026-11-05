@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installation error infobar delegate implementation
+// summary: Shows an infobar with a learn-more link when an extension CRX installation fails.
+// ---
+
 #include "chrome/browser/ui/extensions/installation_error_infobar_delegate.h"
 
 #include "chrome/browser/infobars/confirm_infobar_creator.h"

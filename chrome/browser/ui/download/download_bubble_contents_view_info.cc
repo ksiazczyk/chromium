@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble contents view info implementation
+// summary: Implements the info class for the download bubble contents view, exposing row models and initializing, resetting and updating the security view state.
+// ---
+
 #include "chrome/browser/ui/download/download_bubble_contents_view_info.h"
 
 #include <algorithm>

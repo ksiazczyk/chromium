@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings overridden dialog unit tests
+// summary: Unit tests verifying that the settings-overridden dialog is shown once and reports the correct dialog results through a test controller.
+// ---
+
 #include "chrome/browser/ui/extensions/settings_overridden_dialog.h"
 
 #include <optional>

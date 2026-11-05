@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action view model implementation
+// summary: Implements platform-agnostic extension action UI logic, including icons with badges, hover card site access state, popups and context menus.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_action_view_model.h"
 
 #include <memory>

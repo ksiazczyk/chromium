@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access test fixture implementation
+// summary: Implements the ExclusiveAccessTest fixture with helpers for entering fullscreen, requesting keyboard and pointer lock, and sending escape events in tests.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_test.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload extension to account dialog implementation
+// summary: Shows a modal dialog confirming upload of a local extension to the signed-in account, displaying the account avatar and email.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/extensions/sync/account_extension_tracker.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser focus controller interface
+// summary: Declares the WebUI implementation of BrowserFocusController with unimplemented focus and accessibility methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_WEBUI_H_
 #define CHROME_BROWSER_UI_FOCUS_BROWSER_FOCUS_CONTROLLER_WEBUI_H_
 

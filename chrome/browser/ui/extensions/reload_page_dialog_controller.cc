@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload page dialog controller implementation
+// summary: Implements the dialog prompting the user to reload the active page so extensions can run, including Android message support.
+// ---
+
 #include "chrome/browser/ui/extensions/reload_page_dialog_controller.h"
 
 #include "base/barrier_closure.h"

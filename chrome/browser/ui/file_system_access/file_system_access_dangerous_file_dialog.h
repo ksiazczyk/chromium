@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous file dialog interface
+// summary: Declares the entry point to show the dangerous file extension warning dialog and a testing variant that builds the dialog model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_DANGEROUS_FILE_DIALOG_H_
 #define CHROME_BROWSER_UI_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_DANGEROUS_FILE_DIALOG_H_
 

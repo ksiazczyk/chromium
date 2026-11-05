@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install blocked dialog
+// summary: Implements the tab-modal dialog notifying the user that an extension install is blocked by policy, optionally showing a custom administrator message.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/ui/dialogs/browser_dialogs.h"
 #include "chrome/grit/generated_resources.h"

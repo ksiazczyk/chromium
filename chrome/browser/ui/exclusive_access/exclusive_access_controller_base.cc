@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access controller base implementation
+// summary: Implements the base class for exclusive access controllers, handling tab observation, navigation-triggered exit, and tab close cleanup.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_controller_base.h"
 
 #include "chrome/browser/ui/exclusive_access/exclusive_access_manager.h"

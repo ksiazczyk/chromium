@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzyFinder class and search result declarations
+// summary: Declares the FuzzyFinder class, FuzzySearchResult struct, and internal alignment types used to run fuzzy searches and produce match ranges for UI highlighting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FUZZY_SEARCH_FUZZY_FINDER_H_
 #define CHROME_BROWSER_UI_FUZZY_SEARCH_FUZZY_FINDER_H_
 

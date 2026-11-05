@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble icon, color and action utilities header
+// summary: Declares structs and helper functions shared by the row view and security subpage, covering icon and color selection, quick actions and progress bar state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_INFO_UTILS_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_INFO_UTILS_H_
 

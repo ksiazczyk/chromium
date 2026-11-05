@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access manager implementation
+// summary: Implements the manager that combines fullscreen, keyboard lock, and pointer lock modes, including Esc key press-and-hold handling and exit bubble updates.
+// ---
+
 #include "chrome/browser/ui/exclusive_access/exclusive_access_manager.h"
 
 #include <utility>

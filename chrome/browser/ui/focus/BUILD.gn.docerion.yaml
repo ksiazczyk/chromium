@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser focus module build targets
+summary: Defines the focus and impl source sets for the browser focus controller and lists their public headers and build dependencies.

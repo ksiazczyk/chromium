@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstallUI base class
+// summary: Defines the ExtensionInstallUI interface for reporting extension install success or failure and controlling post-install UI behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_UI_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_UI_H_
 

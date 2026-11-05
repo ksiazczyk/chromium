@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuzzyFinder unit tests
+// summary: Unit tests for FuzzyFinder covering exact, substring, typo, transposition, and no-match cases using a fake FuzzySearchItem implementation.
+// ---
+
 #include "chrome/browser/ui/fuzzy_search/fuzzy_finder.h"
 
 #include <memory>

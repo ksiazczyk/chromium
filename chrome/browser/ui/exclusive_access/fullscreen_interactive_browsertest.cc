@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen interactive browser tests
+// summary: Interactive browser tests verifying fullscreen acquisition and exit notifications for main frames and cross-site child frames.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "base/test/run_until.h"

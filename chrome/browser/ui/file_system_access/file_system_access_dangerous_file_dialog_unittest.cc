@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dangerous file dialog unit tests
+// summary: Unit tests covering accept, cancel, close, destroy-without-action, and initial focus behavior of the dangerous file dialog.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_dangerous_file_dialog.h"
 
 #include <optional>

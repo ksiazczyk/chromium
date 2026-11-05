@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ExtensionInstallUI implementation
+// summary: Implements ExtensionInstallUI on Android, handling successful installs with post-install dialogs and in-product help such as pinning and manage-extensions IPH.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_ui_android.h"
 
 #include <memory>

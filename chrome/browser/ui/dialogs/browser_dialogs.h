@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser dialog helpers interface
+// summary: Declares shared helpers for showing browser dialogs, including the task manager, browser modals, bubbles, app shortcut dialogs, and HTML dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DIALOGS_BROWSER_DIALOGS_H_
 #define CHROME_BROWSER_UI_DIALOGS_BROWSER_DIALOGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop extension install UI header
+// summary: Declares ExtensionInstallUIDesktop, which manages the extension install UI bubble on Windows, Mac, Linux and ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_UI_DESKTOP_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_INSTALL_UI_DESKTOP_H_
 

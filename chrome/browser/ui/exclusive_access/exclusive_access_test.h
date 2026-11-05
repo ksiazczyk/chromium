@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access test fixture header
+// summary: Declares the ExclusiveAccessTest fixture and MockExclusiveAccessController used by exclusive access browser tests for fullscreen, keyboard lock, and pointer lock.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_TEST_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_TEST_H_
 

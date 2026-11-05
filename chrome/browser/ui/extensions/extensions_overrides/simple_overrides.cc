@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple override extension detection implementation
+// summary: Implements detection of simple override extensions by checking that a manifest contains only allowlisted keys, and exposes the allowlist for testing.
+// ---
+
 #include "chrome/browser/ui/extensions/extensions_overrides/simple_overrides.h"
 
 #include "extensions/common/api/incognito.h"

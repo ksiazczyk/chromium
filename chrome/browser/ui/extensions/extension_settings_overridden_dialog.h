@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension settings overridden dialog controller
+// summary: Declares the controller for dialogs about extension-controlled settings, with parameters for acknowledgment preferences, histograms and HaTS surveys.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SETTINGS_OVERRIDDEN_DIALOG_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SETTINGS_OVERRIDDEN_DIALOG_H_
 

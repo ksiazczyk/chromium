@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble contents view info header
+// summary: Declares the info class backing the download bubble contents view, providing access to row list and security view info and model updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_CONTENTS_VIEW_INFO_H_
 #define CHROME_BROWSER_UI_DOWNLOAD_DOWNLOAD_BUBBLE_CONTENTS_VIEW_INFO_H_
 

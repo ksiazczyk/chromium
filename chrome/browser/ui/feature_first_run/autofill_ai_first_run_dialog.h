@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI first-run dialog header
+// summary: Declares ShowAutofillAiFirstRunDialog, which displays the Autofill AI opt-in flow as a tab-modal dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FEATURE_FIRST_RUN_AUTOFILL_AI_FIRST_RUN_DIALOG_H_
 #define CHROME_BROWSER_UI_FEATURE_FIRST_RUN_AUTOFILL_AI_FIRST_RUN_DIALOG_H_
 

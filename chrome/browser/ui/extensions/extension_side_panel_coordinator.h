@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel coordinator
+// summary: Declares the coordinator that manages extension side panel entries, hosts and views, including its platform-specific delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_COORDINATOR_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find in page host browser tests
+// summary: Large browser test suite covering find-in-page behavior across anchors, frames, selections, large text areas, and historical crash pages.
+// ---
+
 #include "chrome/browser/ui/views/find_bar_host.h"
 
 #include <stddef.h>

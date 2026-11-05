@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller state unit tests
+// summary: Unit tests that exhaustively exercise the fullscreen controller across all event permutations using a mocked ExclusiveAccessContext test window.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

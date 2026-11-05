@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled home dialog controller browser tests
+// summary: Browser tests verifying warning and acknowledgment behavior for extensions that override the home page.
+// ---
+
 #include "chrome/browser/ui/extensions/controlled_home_dialog_controller.h"
 
 #include "base/files/file_util.h"

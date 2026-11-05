@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalErrorServiceFactory implementation
+// summary: Implements the profile-keyed factory that creates and provides GlobalErrorService instances for browser profiles.
+// ---
+
 #include "chrome/browser/ui/global_error/global_error_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

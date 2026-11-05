@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions container interface header
+// summary: Declares the ExtensionsContainer interface for toolbar containers hosting extensions, covering popups, the extensions menu and in-product help triggers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_CONTAINER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSIONS_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu view model implementation
+// summary: Implements the platform-agnostic model for the extensions menu, including main page state detection, action sorting, and site access handling.
+// ---
+
 #include "chrome/browser/ui/extensions/extensions_menu_view_model.h"
 
 #include <memory>

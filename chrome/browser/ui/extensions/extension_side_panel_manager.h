@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel manager header
+// summary: Declares ExtensionSidePanelManager, which tracks side panel coordinators for extensions per browser window or tab and updates them on extension load and unload.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_MANAGER_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_MANAGER_H_
 

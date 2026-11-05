@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for extension image util toolbar color
+// summary: Browser test checking that the default toolbar color assumed by extensions::image_util matches the themed toolbar color; currently disabled.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/themes/theme_properties.h"
 #include "chrome/browser/ui/browser_window.h"

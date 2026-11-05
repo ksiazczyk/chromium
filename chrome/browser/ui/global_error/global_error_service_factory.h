@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global error service factory header
+// summary: Declares the GlobalErrorServiceFactory singleton that owns a GlobalErrorService per profile and cleans up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_GLOBAL_ERROR_GLOBAL_ERROR_SERVICE_FACTORY_H_
 

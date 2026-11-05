@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous file dialog implementation
+// summary: Implements the tab-modal dialog that warns users before saving files with dangerous extensions, using safe browsing file type policies.
+// ---
+
 #include "chrome/browser/ui/file_system_access/file_system_access_dangerous_file_dialog.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for extensions overrides directory
+summary: Defines code ownership for the extensions overrides directory and requires review by an extensions API owner for changes.

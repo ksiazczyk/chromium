@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of GetDesiredDownloadItemMode
+// summary: Implements GetDesiredDownloadItemMode, which maps a download's security state to a UI mode such as normal, dangerous, malicious, insecure warn or block, or deep scanning.
+// ---
+
 #include "chrome/browser/ui/download/download_item_mode.h"
 
 #include "chrome/browser/download/download_ui_model.h"

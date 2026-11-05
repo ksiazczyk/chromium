@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension side panel test utilities header
+// summary: Declares OpenExtensionSidePanel, a test helper that opens the side panel for a given extension in a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_EXTENSIONS_EXTENSION_SIDE_PANEL_TEST_UTILS_H_
 

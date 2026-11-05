@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search override stack
+// summary: Manages the stack of extensions overriding the default search engine, recording dialog stack metrics and revert floors.
+// ---
+
 #include "chrome/browser/ui/extensions/search_override_stack.h"
 
 #include <memory>

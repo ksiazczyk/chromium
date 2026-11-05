@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu view model browser tests
+// summary: Browser tests for the extensions menu view model using fake and test delegates to cover host access requests, site settings, and action behavior.
+// ---
+
 #include "chrome/browser/ui/extensions/extensions_menu_view_model.h"
 
 #include <string>

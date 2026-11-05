@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access bubble hide callback types
+// summary: Defines the ExclusiveAccessBubbleHideReason enum and callback types used to report whether a bubble was not shown, interrupted or timed out.
+// ---
+
 #ifndef CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_HIDE_CALLBACK_H_
 #define CHROME_BROWSER_UI_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_HIDE_CALLBACK_H_
 

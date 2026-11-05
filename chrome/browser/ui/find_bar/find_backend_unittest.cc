@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find bar state unit tests
+// summary: Unit tests verifying find text and prepopulate text state behave correctly across multiple WebContents instances.
+// ---
+
 #include <string>
 
 #include "base/strings/string_util.h"
