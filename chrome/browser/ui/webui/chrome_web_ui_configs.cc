@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI configs registration
+// summary: Registers the WebUI configurations for Chrome's built-in internal pages, covering diagnostics, settings, and internals screens across platforms.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_web_ui_configs.h"
 
 #include "build/android_buildflags.h"

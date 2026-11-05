@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App home page handler browser tests
+// summary: Browser tests for the app home page handler covering app listing, launching, shortcuts, run-on-os-login modes, and uninstall flows.
+// ---
+
 #include "chrome/browser/ui/webui/app_home/app_home_page_handler.h"
 
 #include <string_view>

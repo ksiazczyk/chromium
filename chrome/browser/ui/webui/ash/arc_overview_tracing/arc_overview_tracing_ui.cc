@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC overview tracing WebUI controller implementation
+// summary: Implements the ARC overview tracing WebUI controller, registering its data source and resources and handling tracing model loading and events.
+// ---
+
 #include "chrome/browser/ui/webui/ash/arc_overview_tracing/arc_overview_tracing_ui.h"
 
 #include <memory>

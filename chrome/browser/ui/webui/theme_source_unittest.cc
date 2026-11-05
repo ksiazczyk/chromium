@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the theme source
+// summary: Unit tests verifying MIME type handling, theme image data and new tab CSS generation of the theme URL data source.
+// ---
+
 #include "chrome/browser/ui/webui/theme_source.h"
 
 #include <stddef.h>

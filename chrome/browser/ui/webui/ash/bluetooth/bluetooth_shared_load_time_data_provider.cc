@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth shared load-time data provider implementation
+// summary: Adds localized Bluetooth pairing and accessibility strings as load-time data to the WebUI data source for shared Bluetooth UI elements.
+// ---
+
 #include "chrome/browser/ui/webui/ash/bluetooth/bluetooth_shared_load_time_data_provider.h"
 
 #include "ash/constants/url_constants.h"

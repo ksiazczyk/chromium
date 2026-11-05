@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI build targets and generated allowlists (BUILD.gn)
+summary: GN build file defining WebUI source sets, generated URL hash allowlists, and dependencies for chrome/browser/ui/webui.

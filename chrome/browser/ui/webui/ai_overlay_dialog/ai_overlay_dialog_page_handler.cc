@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side handler for AI overlay dialog Mojo calls
+// summary: Implements the PageHandler for the AI overlay dialog, handling audio streaming, viewport capture, remembered notes, WebMCP tool execution, and page context updates.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/ai_overlay_dialog_page_handler.h"
 
 #include <algorithm>

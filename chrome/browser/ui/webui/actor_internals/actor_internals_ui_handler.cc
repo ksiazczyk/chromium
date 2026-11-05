@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor internals page handler implementation
+// summary: Implements the actor internals page handler, forwarding actor journal entries to the UI and saving journal traces to a user-selected pftrace file.
+// ---
+
 #include "chrome/browser/ui/webui/actor_internals/actor_internals_ui_handler.h"
 
 #include "base/containers/flat_map.h"

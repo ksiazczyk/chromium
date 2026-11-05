@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App install directory owners
+summary: Lists alancutter@chromium.org as owner and assigns IPC security owners to review changes to the Mojo files.

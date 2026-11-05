@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive upload handler browser tests
+// summary: Browser tests exercising the Drive upload workflow via DriveUploadHandler::Upload, verifying upload results, notifications and histogram metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/drive_upload_handler.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash WebUI config manager header
+// summary: Declares the AshWebUIConfigManager singleton that registers Ash trusted and untrusted WebUIConfigs and unregisters them in LIFO order on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CONFIG_ASH_WEB_UI_CONFIG_MANAGER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CONFIG_ASH_WEB_UI_CONFIG_MANAGER_H_
 

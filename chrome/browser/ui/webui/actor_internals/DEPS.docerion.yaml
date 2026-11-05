@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor internals
+summary: Grants this directory permission to include headers from components/actor/core/internals.

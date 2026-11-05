@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed UI handler unit tests
+// summary: Unit tests using a mock policy provider to verify the managed UI state is disabled by default, enabled when managed, auto-updated on policy changes and disabled for child accounts.
+// ---
+
 #include "chrome/browser/ui/webui/managed_ui_handler.h"
 
 #include <optional>

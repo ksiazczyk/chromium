@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app settings page handler implementation
+// summary: Implements the page handler for the web app settings UI, computing supported links, scope extensions and formatted origins for installed web apps.
+// ---
+
 #include "chrome/browser/ui/webui/app_management/web_app_settings_page_handler.h"
 
 #include "base/notimplemented.h"

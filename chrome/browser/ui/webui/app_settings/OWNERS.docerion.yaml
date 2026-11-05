@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the app_settings directory
+summary: Delegates review ownership of the app_settings WebUI directory to the web_applications OWNERS file.

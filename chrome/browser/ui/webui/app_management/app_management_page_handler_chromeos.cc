@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS App Management page handler implementation
+// summary: Implements the ChromeOS App Management page handler with support for pinning, preferred apps, window modes and isolated web app updates.
+// ---
+
 #include "chrome/browser/ui/webui/app_management/app_management_page_handler_chromeos.h"
 
 #include <set>

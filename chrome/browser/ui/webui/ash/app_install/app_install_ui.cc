@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install dialog WebUI implementation
+// summary: Implements the app install dialog WebUI controller, registering its data source, localized strings, resources, image and theme sources, and the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

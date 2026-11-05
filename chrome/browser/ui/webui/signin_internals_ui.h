@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in internals WebUI controller and handler declarations
+// summary: Declares the sign-in internals WebUI controller, its WebUI config, and a message handler that reports sign-in status and handles account capability overrides.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for desktop AiOverlayTools
+// summary: Browser tests covering desktop AI overlay tools such as search, find and highlight, video control, translation, and bookmarks.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/tools/tools.h"
 
 #include <memory>

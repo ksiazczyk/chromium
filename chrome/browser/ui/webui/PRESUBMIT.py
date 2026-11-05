@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for chrome/browser/ui/webui
+# summary: Presubmit script running web_dev_style checks on WebUI files at upload and commit time.
+# ---
+
 """Presubmit script for files in chrome/browser/ui/webui.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

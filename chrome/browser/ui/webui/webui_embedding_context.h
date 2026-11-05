@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI embedding context API
+// summary: Declares utilities to initialize, set, get, and observe the browser window and tab interfaces that embed a WebUI host WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_EMBEDDING_CONTEXT_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_EMBEDDING_CONTEXT_H_
 

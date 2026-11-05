@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefs internals browser test
+// summary: Browser test that sets a unique homepage preference and verifies the prefs internals page serves and displays it.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/uuid.h"

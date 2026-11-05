@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account migration welcome dialog implementation
+// summary: Implements the system web dialog that shows the account migration welcome screen, handling focus, size, dialog arguments, and reuse or replacement for a given email.
+// ---
+
 #include "chrome/browser/ui/webui/ash/account_manager/account_migration_welcome_dialog.h"
 
 #include <string>

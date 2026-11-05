@@ -1,0 +1,4 @@
+# Docerion header of ai_overlay_dialog.mojom.
+type: source
+title: Mojo interface definitions for the AI overlay dialog
+summary: Defines Mojo structs and interfaces for the AI overlay dialog, covering page context nodes, image capture, remembered notes, WebMCP tools, and streaming sessions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload page handler implementation
+// summary: Implements the Mojo page handler for the cloud upload dialog, handling dialog arguments, Office web app installation, OneDrive sign-in and ODFS mounting, and reporting user actions back to the browser.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_page_handler.h"
 
 #include <cstddef>

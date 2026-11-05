@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup localized strings provider implementation
+// summary: Supplies localized strings and load-time data constants for the cellular setup flow, covering eSIM, QR code scanning, SIM detection, and provisioning pages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cellular_setup/cellular_setup_localized_strings_provider.h"
 
 #include <vector>

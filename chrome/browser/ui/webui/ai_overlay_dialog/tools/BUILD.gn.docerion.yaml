@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for AI overlay tools
+summary: GN build file that compiles the tools Mojom bindings and generates tool definition headers and TypeScript for the AI overlay dialog.

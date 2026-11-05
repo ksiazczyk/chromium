@@ -1,3 +1,12 @@
+---
+type: guide
+title: AI tool definition rules and constraints (AGENTS.md)
+summary: Sets rules for writing and changing AI tool definitions in tools.mojom, keeping tool schemas model-agnostic and placing routing policy in system instructions.
+relations:
+  - documents /chrome/browser/ui/webui/ai_overlay_dialog/tools/tools.mojom
+  - references /chrome/browser/ttc/resources/tools/generate_tool_definitions.py
+---
+
 # AI Tool Definition Rules & Constraints (`AGENTS.md`)
 
 This file governs all changes to `tools.mojom`, tool schemas, and assistant tool definitions in Chrome.

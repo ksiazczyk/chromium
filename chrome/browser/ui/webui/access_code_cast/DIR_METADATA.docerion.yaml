@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for access code cast
+summary: Points DIR_METADATA at the shared COMMON_METADATA mixins for this directory.

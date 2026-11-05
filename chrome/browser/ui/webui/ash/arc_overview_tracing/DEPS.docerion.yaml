@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Arc overview tracing include dependency rules
+summary: Sets include rules that block //chrome dependencies while allowing the specific ash and arc includes this directory needs.

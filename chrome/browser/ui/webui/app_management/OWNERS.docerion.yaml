@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App management OWNERS file
+summary: Points to the web applications OWNERS file as the owner list for the app management directory.

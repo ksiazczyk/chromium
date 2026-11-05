@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor internals WebUI controller implementation
+// summary: Implements the ActorInternalsUI WebUI controller, setting up the data source, enabling the page when the actor service exists, and binding the mojo page handler.
+// ---
+
 #include "chrome/browser/ui/webui/actor_internals/actor_internals_ui.h"
 
 #include <memory>

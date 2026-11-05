@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plural string handler implementation
+// summary: Implements a WebUI message handler that returns pluralized localized strings and concatenated string tuples to WebUI pages.
+// ---
+
 #include "chrome/browser/ui/webui/plural_string_handler.h"
 
 #include "base/functional/bind.h"

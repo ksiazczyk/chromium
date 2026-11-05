@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI load timer implementation
+// summary: Implements WebuiLoadTimer, which measures WebUI page load times and reports them to UMA histograms.
+// ---
+
 #include "chrome/browser/ui/webui/webui_load_timer.h"
 
 #include "base/metrics/histogram.h"

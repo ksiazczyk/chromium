@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automated mount error notification implementation
+// summary: Shows a persistent system notification when automated OneDrive mounting fails, with a sign-in button that opens the OneDrive connect dialog.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/automated_mount_error_notification.h"
 
 #include <memory>

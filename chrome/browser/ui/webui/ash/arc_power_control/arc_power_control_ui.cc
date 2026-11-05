@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC power control WebUI implementation
+// summary: Implements the WebUI config and controller for the ARC power control page, registering its HTML, JS and CSS resources, content security policy and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/arc_power_control/arc_power_control_ui.h"
 
 #include <memory>

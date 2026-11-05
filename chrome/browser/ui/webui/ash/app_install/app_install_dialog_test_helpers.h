@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install dialog test helpers
+// summary: Declares helper functions for tests to inspect and interact with the app install dialog, such as reading its title and clicking its action button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_APP_INSTALL_APP_INSTALL_DIALOG_TEST_HELPERS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_APP_INSTALL_APP_INSTALL_DIALOG_TEST_HELPERS_H_
 

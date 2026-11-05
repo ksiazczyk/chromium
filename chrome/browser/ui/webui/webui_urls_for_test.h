@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URLs for test header
+// summary: Declares functions returning lists of WebUI pages for TrustedTypes violation tests and for pages that fail sanity check tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_URLS_FOR_TEST_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_URLS_FOR_TEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for app_service_internals
+summary: Ownership rules delegating review to the App Service OWNERS file and requiring IPC security review for Mojom changes.

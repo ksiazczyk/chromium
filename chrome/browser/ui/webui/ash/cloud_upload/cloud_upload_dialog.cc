@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload dialog implementation
+// summary: Implements the ChromeOS cloud upload system web dialog that coordinates file handler selection, Google Drive and OneDrive upload flows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_dialog.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile setup WebUI implementation
+// summary: Implements the deprecated mobile setup WebUI controller that serves cellular network and device information to the activation page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cellular_setup/mobile_setup_ui.h"
 
 #include <stddef.h>

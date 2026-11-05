@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor internals GN build file
+summary: Defines the actor_internals source set for the Chrome actor internals WebUI, listing its C++ sources and its public and private build dependencies.

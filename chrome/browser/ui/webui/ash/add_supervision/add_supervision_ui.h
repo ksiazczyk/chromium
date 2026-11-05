@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add Supervision dialog and WebUI controller declarations
+// summary: Declares the add-supervision system dialog, its WebUI configuration, and the Mojo WebUI controller classes that let users convert a Google account into a supervised Family Link account.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ADD_SUPERVISION_ADD_SUPERVISION_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ADD_SUPERVISION_ADD_SUPERVISION_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeOS offline terms handling
+// summary: Tests AboutUIHTMLSource serving of offline terms, privacy policy, and os-credits content on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/webui/about/about_ui.h"
 
 #include <memory>

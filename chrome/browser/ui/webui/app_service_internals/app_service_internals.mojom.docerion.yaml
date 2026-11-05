@@ -1,0 +1,4 @@
+# Docerion header of app_service_internals.mojom.
+type: source
+title: App Service internals Mojo interface definitions
+summary: Defines Mojo structs carrying App Service debugging data and the page handler interface used by the App Service internals debug WebUI.

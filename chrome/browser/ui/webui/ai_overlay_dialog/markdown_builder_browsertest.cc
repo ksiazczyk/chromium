@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Markdown builder browser tests
+// summary: Browser tests that load HTML pages and check the markdown MarkdownBuilder produces for headings, lists, tables and redaction.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/markdown_builder.h"
 
 #include "base/strings/string_util.h"

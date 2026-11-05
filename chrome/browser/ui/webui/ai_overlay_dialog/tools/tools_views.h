@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiOverlayToolsViews class declaration
+// summary: Declares AiOverlayToolsViews, the desktop Views implementation of the AiOverlayTools Mojo interface covering tab, scroll, fullscreen, and Gemini panel operations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_TOOLS_TOOLS_VIEWS_H_
 #define CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_TOOLS_TOOLS_VIEWS_H_
 

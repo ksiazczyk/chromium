@@ -1,0 +1,4 @@
+# Docerion header of access_code_cast.mojom.
+type: source
+title: Access code cast Mojo interface definitions
+summary: Defines the Mojo interfaces and enums used for communication between the WebUI page and the browser-side handler.

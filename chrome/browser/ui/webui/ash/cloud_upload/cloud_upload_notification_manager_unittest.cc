@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload notification manager unit tests
+// summary: Unit tests verifying the progress, complete and error notifications produced by CloudUploadNotificationManager, including cancel buttons and display sources.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_notification_manager.h"
 
 #include <optional>

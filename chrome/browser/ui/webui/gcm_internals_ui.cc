@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI controller and handler
+// summary: Implements the WebUI config, controller, and message handler for the GCM internals diagnostics page, returning GCM statistics and toggling activity recording.
+// ---
+
 #include "chrome/browser/ui/webui/gcm_internals_ui.h"
 
 #include <memory>

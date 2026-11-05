@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cellular setup library
+summary: Defines the cellular_setup static library build, listing its source files and its ChromeOS UI, network, and content dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome URL data manager browser tests
+// summary: Browser tests verifying WebUI data source navigation, including HTTP 200 responses for the new tab page and handling of unknown resources.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string_view>

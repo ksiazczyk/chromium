@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app settings WebUI controller implementation
+// summary: Implements the WebUI controller for the app settings page, registering data sources and localized strings for app management.
+// ---
+
 #include "chrome/browser/ui/webui/app_settings/web_app_settings_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

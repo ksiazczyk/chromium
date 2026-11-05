@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon data source class declaration
+// summary: Declares the FaviconSource URL data source class that forwards favicon requests from WebUI pages to the history backend, with options for request format and untrusted serving.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FAVICON_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_FAVICON_SOURCE_H_
 

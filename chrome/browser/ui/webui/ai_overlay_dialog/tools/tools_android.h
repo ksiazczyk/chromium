@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiOverlayToolsAndroid class declaration
+// summary: Declares AiOverlayToolsAndroid, the Android subclass overriding tab, scroll, fullscreen, and Gemini panel tool methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_TOOLS_TOOLS_ANDROID_H_
 #define CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_TOOLS_TOOLS_ANDROID_H_
 

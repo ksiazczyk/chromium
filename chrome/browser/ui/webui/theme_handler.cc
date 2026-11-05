@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme handler for WebUI theme changes
+// summary: WebUI message handler that keeps theme CSS caches up to date and notifies pages when the theme changes.
+// ---
+
 #include "chrome/browser/ui/webui/theme_handler.h"
 
 #include <memory>

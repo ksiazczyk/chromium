@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Constrained web dialog browser tests
+// summary: Browser tests covering constrained WebUI dialogs, including auto-resizing behavior, modal dialog management, and dialog size constraints.
+// ---
+
 #include "chrome/browser/ui/webui/constrained_web_dialog_ui.h"
 
 #include "base/command_line.h"

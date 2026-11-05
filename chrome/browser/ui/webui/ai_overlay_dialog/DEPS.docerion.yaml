@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the AI overlay dialog directory
+summary: DEPS file allowing includes from components/ttc/app within this directory.

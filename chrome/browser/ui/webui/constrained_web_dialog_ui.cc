@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstrainedWebDialogUI implementation
+// summary: Implements the WebUI controller for tab-modal constrained HTML dialogs, wiring dialog close messages, message handlers, and delegate access on WebContents.
+// ---
+
 #include "chrome/browser/ui/webui/constrained_web_dialog_ui.h"
 
 #include <string>

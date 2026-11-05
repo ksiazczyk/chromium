@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast dialog implementation
+// summary: Implements the access code cast WebDialog, including dialog sizing, positioning, and single-instance handling.
+// ---
+
 #include "chrome/browser/ui/webui/access_code_cast/access_code_cast_dialog.h"
 
 #include "base/json/json_writer.h"

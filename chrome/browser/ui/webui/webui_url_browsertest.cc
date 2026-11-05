@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI URL browser tests
+// summary: Browser tests checking that all registered WebUI URLs appear in the test lists and load without console errors.
+// ---
+
 #include <string>
 #include <string_view>
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the AI overlay dialog directory
+summary: Lists code owners for the directory and routes .mojom files to security owners for review.

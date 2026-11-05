@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed UI handler implementation
+// summary: Implements ManagedUIHandler, a WebUI message handler that adds managed-state strings to data sources and updates them when profile policy or supervised-user preferences change.
+// ---
+
 #include "chrome/browser/ui/webui/managed_ui_handler.h"
 
 #include <utility>

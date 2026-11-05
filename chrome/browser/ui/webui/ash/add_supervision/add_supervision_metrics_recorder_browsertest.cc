@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add Supervision metrics recorder browser tests
+// summary: Browser tests verifying that the Add Supervision metrics recorder emits the expected histograms and user actions during enrollment.
+// ---
+
 #include "chrome/browser/ui/webui/ash/add_supervision/add_supervision_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

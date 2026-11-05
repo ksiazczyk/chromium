@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Access code cast include rules
+summary: DEPS file allowing the directory to include views headers needed to show the dialog in ChromeOS.

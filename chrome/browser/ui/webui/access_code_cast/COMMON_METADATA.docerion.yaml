@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Access code cast team metadata
+summary: Declares the Buganizer component ID and team email for the access code cast directory.

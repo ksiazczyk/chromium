@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning WebUI message handler
+// summary: Implements the ChromeOS certificate provisioning WebUI handler that reports and controls certificate provisioning processes.
+// ---
+
 #include "chrome/browser/ui/webui/certificate_provisioning_ui_handler.h"
 
 #include <string>

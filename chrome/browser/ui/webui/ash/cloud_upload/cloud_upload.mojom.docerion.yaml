@@ -1,0 +1,4 @@
+# Docerion header of cloud_upload.mojom.
+type: source
+title: Cloud upload Mojo interface definitions
+summary: Defines the Mojo enums, structs and interfaces used for communication between the cloud upload dialog renderer and the browser process.

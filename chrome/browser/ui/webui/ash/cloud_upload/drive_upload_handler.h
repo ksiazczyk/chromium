@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive upload handler class declaration
+// summary: Declares the DriveUploadHandler class that manages the upload-to-Drive workflow after user confirmation and reports the hosted URL through an upload callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_DRIVE_UPLOAD_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_DRIVE_UPLOAD_HANDLER_H_
 

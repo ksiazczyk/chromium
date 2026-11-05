@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the about WebUI
+summary: Defines GN source sets for the about WebUI, its implementation dependencies, and ChromeOS-only unit tests.

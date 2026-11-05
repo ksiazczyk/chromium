@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC power control WebUI header
+// summary: Declares the WebUIConfig and WebUIController classes for the ARC power control page, including locale storage handling and controller creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ARC_POWER_CONTROL_ARC_POWER_CONTROL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ARC_POWER_CONTROL_ARC_POWER_CONTROL_UI_H_
 

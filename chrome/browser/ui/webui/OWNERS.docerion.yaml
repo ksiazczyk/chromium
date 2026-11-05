@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/browser/ui/webui
+summary: Lists code owners and per-file review requirements for WebUI files, including WebUI config and factory changes.

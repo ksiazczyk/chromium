@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile setup WebUI header
+// summary: Declares the WebUIConfig and WebDialogUI controller classes for the deprecated mobile setup page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_MOBILE_SETUP_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_MOBILE_SETUP_UI_H_
 

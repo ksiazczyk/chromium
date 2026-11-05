@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App install directory include rules
+summary: Sets include rules for the app_install directory, restricting //chrome dependencies and allowing specific includes for tests and app_install_ui.

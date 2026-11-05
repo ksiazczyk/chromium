@@ -1,0 +1,4 @@
+# Docerion header of app_home.mojom.
+type: source
+title: App home Mojo interface definitions
+summary: Mojo IDL defining the app info structs and the browser-to-renderer interfaces used by the apps page to list, launch, install, and uninstall apps.

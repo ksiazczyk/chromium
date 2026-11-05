@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud open metrics unit tests
+// summary: Unit tests verifying Metric logging behavior, state transitions and CloudOpenMetrics reporting using histogram testers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_open_metrics.h"
 
 #include "base/debug/dump_without_crashing.h"

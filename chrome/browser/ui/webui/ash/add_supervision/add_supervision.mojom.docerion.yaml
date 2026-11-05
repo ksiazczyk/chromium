@@ -1,0 +1,4 @@
+# Docerion header of add_supervision.mojom.
+type: source
+title: AddSupervisionHandler Mojo interface
+summary: Defines the Mojo interface and OAuth token fetch status enum used to integrate the Add Supervision WebUI with ChromeOS.

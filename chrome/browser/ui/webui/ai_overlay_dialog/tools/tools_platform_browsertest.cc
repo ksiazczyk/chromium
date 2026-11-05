@@ -5,6 +5,12 @@
 // Tests for the AiOverlayTools behavior shared by desktop and Desktop Android.
 // Desktop-only tools are covered by tools_browsertest.cc.
 
+// ---docerion
+// type: test
+// title: Cross-platform browser tests for AiOverlayTools
+// summary: Browser tests for AiOverlayTools behavior shared by desktop and Android, such as page scrolling, using an embedded test server.
+// ---
+
 #include <memory>
 #include <string>
 #include <variant>

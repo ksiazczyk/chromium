@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the AI overlay dialog WebUI
+summary: Defines GN build targets for the AI overlay dialog WebUI, including Mojo bindings generation and source sets for the dialog implementation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension control WebUI message handler
+// summary: WebUI message handler that disables an extension by ID, validating the ID received from the WebUI frontend before acting on it.
+// ---
+
 #include "chrome/browser/ui/webui/extension_control_handler.h"
 
 #include "base/check.h"

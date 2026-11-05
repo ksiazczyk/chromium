@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add Supervision handler helper functions
+// summary: Implements helpers that filter ARC app updates, record sign-out metrics and check whether supervision enrollment is completed.
+// ---
+
 #include "chrome/browser/ui/webui/ash/add_supervision/add_supervision_handler_utils.h"
 
 #include "base/check.h"

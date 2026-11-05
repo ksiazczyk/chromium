@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome WebUI controller factory browser tests
+// summary: Browser tests for ChromeWebUIControllerFactory covering chrome-untrusted same-host data sources, favicon lookup for settings, and NTP WebUI availability across profile types.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_web_ui_controller_factory.h"
 
 #include "base/run_loop.h"

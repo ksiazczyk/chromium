@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome content browser client WebUI part browser tests
+// summary: Browser tests checking that WebUI pages use default font size preferences and that navigation from WebUI to non-WebUI pages behaves correctly.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/navigator/browser_navigator_params.h"

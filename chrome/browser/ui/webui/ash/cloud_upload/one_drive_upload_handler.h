@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive upload handler class declaration
+// summary: Declares the OneDriveUploadHandler class that manages the upload-to-OneDrive workflow after user confirmation and reports results through an upload callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_ONE_DRIVE_UPLOAD_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_ONE_DRIVE_UPLOAD_HANDLER_H_
 

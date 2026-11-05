@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App home page handler implementation
+// summary: Implements the browser-side page handler that supplies installed app data and handles actions such as launching, uninstalling, and opening settings for the apps WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/app_home/app_home_page_handler.h"
 
 #include "base/check_deref.h"

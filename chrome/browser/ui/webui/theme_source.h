@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeSource class declaration
+// summary: Declares ThemeSource, a URLDataSource that serves theme images and generates colors CSS from the ColorProvider for WebUI clients.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_THEME_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_THEME_SOURCE_H_
 

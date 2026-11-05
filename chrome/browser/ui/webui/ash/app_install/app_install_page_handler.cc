@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install page handler
+// summary: Implements the browser-side Mojo handler for the app install dialog, handling dialog args, app install and launch, dialog closing and metrics recording.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_page_handler.h"
 
 #include <utility>

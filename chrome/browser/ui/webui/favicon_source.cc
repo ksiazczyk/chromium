@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon data source implementation for WebUI
+// summary: Implements the browser-side data source that serves favicons to WebUI pages, supporting legacy and newer request formats, trusted and untrusted serving, origin checks, and default icon responses.
+// ---
+
 #include "chrome/browser/ui/webui/favicon_source.h"
 
 #include <cmath>

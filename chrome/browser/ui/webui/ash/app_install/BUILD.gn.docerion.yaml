@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App install dialog GN build targets
+summary: Defines GN build targets for the ChromeOS app install dialog, including Mojo bindings, the app_install library, browser tests and test support.

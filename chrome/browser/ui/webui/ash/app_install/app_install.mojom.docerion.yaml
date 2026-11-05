@@ -1,0 +1,4 @@
+# Docerion header of app_install.mojom.
+type: source
+title: App install Mojo interface definitions
+summary: Defines Mojo structs and interfaces for the app install dialog, covering dialog arguments, app info, screenshots and browser-side actions.

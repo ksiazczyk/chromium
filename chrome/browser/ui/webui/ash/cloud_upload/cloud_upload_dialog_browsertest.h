@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload dialog browser test header
+// summary: Declares NonManagedUserWebUIBrowserTest, a WebUIMochaBrowserTest fixture that enables the Cloud Upload WebUI for non-managed users in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_CLOUD_UPLOAD_DIALOG_BROWSERTEST_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_CLOUD_UPLOAD_DIALOG_BROWSERTEST_H_
 

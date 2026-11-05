@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context monitor implementation
+// summary: Implements PageContextMonitor, which watches the active tab, fetches page context and converts content nodes to mojo for the dialog page handler.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/page_context_monitor.h"
 
 #include "base/feature_list.h"

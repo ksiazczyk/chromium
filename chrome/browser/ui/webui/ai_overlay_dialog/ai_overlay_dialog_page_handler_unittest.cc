@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AI overlay dialog page handler
+// summary: Unit tests for AiOverlayDialogPageHandler using mock browser window, tab strip, and Mojo Page objects.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/ai_overlay_dialog_page_handler.h"
 
 #include <optional>

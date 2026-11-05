@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosComponents browser test for ChromeOS WebUI components
+// summary: Parameterized in-process browser test that serves a test WebUI host, imports each ChromeOS component script, and verifies its custom element is defined without runtime errors.
+// ---
+
 #include <string_view>
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension control handler header
+// summary: Declares ExtensionControlHandler, a WebUI message handler for disabling extensions, intended for use in settings pages or the password manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_EXTENSION_CONTROL_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_EXTENSION_CONTROL_HANDLER_H_
 

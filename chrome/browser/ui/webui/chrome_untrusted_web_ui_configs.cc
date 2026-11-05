@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome untrusted WebUI config registration
+// summary: Registers Chrome's untrusted WebUI configurations, such as Lens, Compose, print preview and data sharing, in the WebUIConfigMap.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_untrusted_web_ui_configs.h"
 
 #include "build/android_buildflags.h"

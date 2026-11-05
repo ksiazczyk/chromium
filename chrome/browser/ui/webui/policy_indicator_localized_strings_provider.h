@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy indicator localized strings provider header
+// summary: Declares the function that adds policy indicator localized strings to a WebUI data source.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_POLICY_INDICATOR_LOCALIZED_STRINGS_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_POLICY_INDICATOR_LOCALIZED_STRINGS_PROVIDER_H_
 

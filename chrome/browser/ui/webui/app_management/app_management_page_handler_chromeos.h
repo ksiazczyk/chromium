@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS App Management page handler header
+// summary: Declares the ChromeOS App Management page handler, including shelf pinning, preferred app and isolated web app update handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_MANAGEMENT_APP_MANAGEMENT_PAGE_HANDLER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_MANAGEMENT_APP_MANAGEMENT_PAGE_HANDLER_CHROMEOS_H_
 

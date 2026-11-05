@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI URL histogram browser tests
+// summary: Browser tests verifying WebUI URL hashes and host variants are registered in the metrics enums and variants files.
+// ---
+
 #include "chrome/browser/ui/webui/webui_url_hashes.h"
 
 #include "base/hash/hash.h"

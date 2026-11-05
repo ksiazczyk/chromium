@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Ash WebUI config directory
+summary: Include rules that block //chrome dependencies for ChromeOS while whitelisting the Ash WebUI directories this config may use.

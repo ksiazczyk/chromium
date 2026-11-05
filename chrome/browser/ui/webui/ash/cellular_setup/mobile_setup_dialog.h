@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile setup dialog header
+// summary: Declares the deprecated MobileSetupDialog system dialog used to show carrier account details for a cellular network.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_MOBILE_SETUP_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_MOBILE_SETUP_DIALOG_H_
 

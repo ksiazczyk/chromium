@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Arc overview tracing code owners
+summary: Delegates ownership of this directory to the owners of chrome/browser/ash/arc/tracing.

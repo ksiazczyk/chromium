@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs internals data source
+// summary: Implements the data source that serves browser preferences as pretty-printed JSON text for the prefs internals page, handling single-preference requests.
+// ---
+
 #include "chrome/browser/ui/webui/prefs_internals_source.h"
 
 #include <string>

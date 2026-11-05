@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorInternalsUIHandler header
+// summary: Declares the handler that observes the aggregated actor journal and manages trace logging through a file selection dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_HANDLER_H_
 

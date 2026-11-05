@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app settings WebUI controller header
+// summary: Declares the WebUI controller and its configuration for the app settings page, including app management interface binding and uninstall observation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_SETTINGS_WEB_APP_SETTINGS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_SETTINGS_WEB_APP_SETTINGS_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for about_ui.cc
+summary: Grants about_ui.cc an include exception to depend on ash/strings for ChromeOS builds.

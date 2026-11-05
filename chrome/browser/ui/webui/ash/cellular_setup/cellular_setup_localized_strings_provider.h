@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup localized strings provider header
+// summary: Declares functions that add localized strings and non-string load-time data for the cellular setup WebUI to a data source or values builder.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_CELLULAR_SETUP_LOCALIZED_STRINGS_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CELLULAR_SETUP_CELLULAR_SETUP_LOCALIZED_STRINGS_PROVIDER_H_
 

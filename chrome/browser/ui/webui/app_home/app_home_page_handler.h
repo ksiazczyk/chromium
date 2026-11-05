@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App home page handler class declaration
+// summary: Declares the AppHomePageHandler class, which bridges the apps WebUI to web app and extension services and observes install and registry changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_HOME_APP_HOME_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_HOME_APP_HOME_PAGE_HANDLER_H_
 
