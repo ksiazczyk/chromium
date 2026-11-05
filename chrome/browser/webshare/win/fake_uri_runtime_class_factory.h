@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake URI runtime class factory for tests
+// summary: Declares a fake IUriRuntimeClassFactory WinRT implementation used by GTests to create URI objects during Web Share tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_URI_RUNTIME_CLASS_FACTORY_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_URI_RUNTIME_CLASS_FACTORY_H_
 

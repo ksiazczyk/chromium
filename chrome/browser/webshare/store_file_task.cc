@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store file task implementation
+// summary: Writes a shared file blob to disk via a Mojo data pipe, defending against oversized or malformed data from a compromised renderer.
+// ---
+
 #include "chrome/browser/webshare/store_file_task.h"
 
 #include "base/containers/span.h"

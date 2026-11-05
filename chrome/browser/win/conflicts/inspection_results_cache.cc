@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspection results cache implementation
+// summary: Implements serialization, deserialization and MD5 validation of the module inspection results cache, including time stamp based expiry.
+// ---
+
 #include "chrome/browser/win/conflicts/inspection_results_cache.h"
 
 #include <algorithm>

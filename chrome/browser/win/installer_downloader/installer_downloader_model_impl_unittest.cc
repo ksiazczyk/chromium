@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installer downloader model unit tests
+// summary: Unit tests for the installer downloader model, covering infobar show-count limits, eligibility checks, and download behavior using a mocked system info provider.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_model_impl.h"
 
 #include <optional>

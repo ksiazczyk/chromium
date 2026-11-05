@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceScope
+// summary: Interface extending SurfaceScope to provide per-surface reliability loggers for feed launch, user interaction, and card opening.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import org.jspecify.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDataTransferManagerInterop implementation
+// summary: Implements the fake IDataTransferManagerInterop, managing per-window fake DataTransferManagers and configurable ShowShareUIForWindow behaviors.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_transfer_manager_interop.h"
 
 #include "base/functional/callback.h"

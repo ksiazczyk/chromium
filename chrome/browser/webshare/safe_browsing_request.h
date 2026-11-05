@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingRequest class declaration
+// summary: Declares SafeBrowsingRequest, which checks whether a website URL is safe via Safe Browsing before sharing files with the Web Share API.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_SAFE_BROWSING_REQUEST_H_
 #define CHROME_BROWSER_WEBSHARE_SAFE_BROWSING_REQUEST_H_
 

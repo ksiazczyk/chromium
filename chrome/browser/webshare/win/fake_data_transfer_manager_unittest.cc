@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDataTransferManager unit tests
+// summary: Unit tests exercising the fake DataTransferManager's event registration, DataPackage content and deferred request handling.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_transfer_manager.h"
 
 #include <windows.storage.h>

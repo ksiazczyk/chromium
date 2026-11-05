@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellLinkItem and JumpListUpdater class declarations
+// summary: Declares ShellLinkItem, which holds title, icon and command-line data for a jump list link, and JumpListUpdater, a utility that wraps the boilerplate for updating Windows JumpLists.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_JUMPLIST_UPDATER_H_
 #define CHROME_BROWSER_WIN_JUMPLIST_UPDATER_H_
 

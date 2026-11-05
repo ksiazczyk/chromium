@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share service browser tests
+// summary: Browser tests for the Web Share service, exercising text and file sharing across ChromeOS, Windows and macOS using fake platform share components.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/test_future.h"
 #include "build/build_config.h"

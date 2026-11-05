@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessScope interface for singleton-level dependencies
+// summary: Interface to initialize singleton-level dependencies for xsurface and obtain surface scopes such as FeedSurfaceScope with activity-scoped dependency providers.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

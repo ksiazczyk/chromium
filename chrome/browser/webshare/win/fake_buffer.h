@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBuffer class declaration
+// summary: Declares FakeBuffer, an IBuffer and IBufferByteAccess test double used to supply byte buffers in GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_BUFFER_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_BUFFER_H_
 

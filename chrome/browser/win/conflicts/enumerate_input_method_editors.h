@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for third-party IME enumeration
+// summary: Declares the IME registry key, the enumerated callback type and the function to find installed third-party input method editors.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_ENUMERATE_INPUT_METHOD_EDITORS_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_ENUMERATE_INPUT_METHOD_EDITORS_H_
 

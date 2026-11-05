@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared bug tracking metadata for the conflicts directory
+summary: Declares the Monorail component and public Buganizer component ID used for issues filed against this code.

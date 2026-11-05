@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Buganizer tracking
+summary: Metadata file mapping the isolated browser directory to its public Buganizer component for issue tracking.

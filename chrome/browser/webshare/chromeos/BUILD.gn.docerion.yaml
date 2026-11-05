@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Webshare ChromeOS unit tests build file
+summary: Defines the testonly unit_tests source set and its dependencies for the ChromeOS Web Share sharesheet client unit tests.

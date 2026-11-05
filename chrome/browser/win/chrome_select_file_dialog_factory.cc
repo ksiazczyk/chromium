@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog factory implementation
+// summary: Executes Windows Open/Save file dialogs in a utility process through the UtilWin service to isolate the browser from shell extension instability.
+// ---
+
 #include "chrome/browser/win/chrome_select_file_dialog_factory.h"
 
 #include <utility>

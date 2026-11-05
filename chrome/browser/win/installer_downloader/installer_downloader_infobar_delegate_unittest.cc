@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installer downloader infobar delegate unit tests
+// summary: Unit tests verifying the infobar delegate's identifier, icon, message and link text, buttons, and link click behavior.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_infobar_delegate.h"
 
 #include <memory>

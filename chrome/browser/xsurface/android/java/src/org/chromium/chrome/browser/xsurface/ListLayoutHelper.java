@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ListLayoutHelper interface for list layout helpers
+// summary: Interface with helper methods to lay out list items in a surface-controlled RecyclerView, including visible item positions, scrolling and column count handling.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.view.View;

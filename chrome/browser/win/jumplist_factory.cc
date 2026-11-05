@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpListFactory implementation
+// summary: Creates per-profile JumpList instances through a ProfileKeyedServiceFactory that depends on tab restore, top sites, and favicon services.
+// ---
+
 #include "chrome/browser/win/jumplist_factory.h"
 
 #include "base/no_destructor.h"

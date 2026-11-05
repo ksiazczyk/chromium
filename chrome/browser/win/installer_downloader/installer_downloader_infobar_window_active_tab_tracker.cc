@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar active tab tracker implementation
+// summary: Runs the show infobar callback whenever the active tab of a browser window changes.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_infobar_window_active_tab_tracker.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

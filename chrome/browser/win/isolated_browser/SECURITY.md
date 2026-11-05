@@ -1,3 +1,11 @@
+---
+type: reference
+title: Windows Isolated Browser Security & Architecture
+summary: Documents the isolated browser architecture, component roles, relaunch mechanics, and security model including threat boundaries and limitations.
+relations:
+  - documents /chrome/browser/win/isolated_browser/isolated_browser_support.h
+---
+
 # Windows Isolated Browser Security & Architecture
 
 ## 1. Architectural Overview

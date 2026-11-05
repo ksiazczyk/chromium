@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped share operation fake components implementation
+// summary: Implements a scoped helper that registers fake data writer, storage file, and URI factories so GTests can exercise ShareOperation without real Windows APIs.
+// ---
+
 #include "chrome/browser/webshare/win/scoped_share_operation_fake_components.h"
 
 #include <windows.storage.streams.h>

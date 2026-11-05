@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module info structures header
+// summary: Defines ModuleInfoKey, ModuleInspectionResult and ModuleInfoData used by the ModuleDatabase to uniquely identify and describe loaded modules.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_INFO_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_INFO_H_
 

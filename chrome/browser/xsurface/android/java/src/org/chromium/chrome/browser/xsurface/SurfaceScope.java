@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceScope interface providing renderers with shared dependencies
+// summary: Interface that provides list and surface renderers sharing the same dependencies, plus methods to replace and remove data store entries for a surface.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/child dependencies
+summary: Lists the include directories allowed for code in chrome/child, covering crash handling, content child APIs, gin, and V8.

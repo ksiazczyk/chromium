@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IME enumeration
+// summary: Verifies that fake IMEs registered in an overridden registry are found and that Microsoft IMEs are skipped during enumeration.
+// ---
+
 #include "chrome/browser/win/conflicts/enumerate_input_method_editors.h"
 
 #include <vector>

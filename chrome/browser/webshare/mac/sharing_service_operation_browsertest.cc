@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for SharingServiceOperation file sharing
+// summary: Browser test verifying that navigator.share() with files whose names contain illegal characters succeeds with sanitized file paths.
+// ---
+
 #include "chrome/browser/webshare/mac/sharing_service_operation.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS sharesheet client
+// summary: Unit tests the sharesheet client share flow, including incognito and enterprise isolated mode profiles, using mock time and test callbacks.
+// ---
+
 #include "chrome/browser/webshare/chromeos/sharesheet_client.h"
 
 #include <string>

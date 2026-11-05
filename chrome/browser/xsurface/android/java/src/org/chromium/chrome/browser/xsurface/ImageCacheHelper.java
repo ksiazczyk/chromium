@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageCacheHelper interface for image cache management
+// summary: Interface for managing the image cache, letting native code prefetch images into the disk cache and clear the memory cache across xsurface.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

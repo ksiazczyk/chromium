@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info provider implementation header
+// summary: Declares the concrete SystemInfoProvider implementation that answers Win11 hardware, OneDrive sync, and OS eligibility queries.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_SYSTEM_INFO_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_SYSTEM_INFO_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareSubDirectoryTask class declaration
+// summary: Declares PrepareSubDirectoryTask, which creates subdirectories needed for a share and invokes a callback with the result.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_PREPARE_SUBDIRECTORY_TASK_H_
 #define CHROME_BROWSER_WEBSHARE_PREPARE_SUBDIRECTORY_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareSubDirectoryTask implementation
+// summary: Implements a task that creates parent directories for shared subdirectories on a blocking thread pool and reports the result.
+// ---
+
 #include "chrome/browser/webshare/prepare_subdirectory_task.h"
 
 #include "base/files/file.h"

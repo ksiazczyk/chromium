@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows app icon functions
+// summary: Verifies that the shared icons returned by GetAppIcon and GetSmallAppIcon are valid and consistently reused across calls.
+// ---
+
 #include "chrome/browser/win/app_icon.h"
 
 #include <windows.h>

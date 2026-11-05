@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JumpList file utility unit tests
+// summary: Unit tests verifying DeleteDirectoryContent, DeleteDirectory, delete limits, and FilesExceedLimitInDir behavior using a temporary directory.
+// ---
+
 #include "chrome/browser/win/jumplist_file_util.h"
 
 #include <string>

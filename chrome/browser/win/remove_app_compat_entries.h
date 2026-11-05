@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveAppCompatEntries function declarations
+// summary: Declares functions that strip compatibility mode layer names from a program's registry entry and from a layers string, returning whether the string changed.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_REMOVE_APP_COMPAT_ENTRIES_H_
 #define CHROME_BROWSER_WIN_REMOVE_APP_COMPAT_ENTRIES_H_
 

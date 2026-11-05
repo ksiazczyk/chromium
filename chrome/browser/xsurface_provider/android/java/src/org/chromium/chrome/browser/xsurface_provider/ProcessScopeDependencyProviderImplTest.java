@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessScopeDependencyProviderImplTest
+// summary: Robolectric tests verifying that xsurface usage and crash reporting is enabled only when both the feature flag and metrics reporting are on.
+// ---
+
 package org.chromium.chrome.browser.xsurface_provider;
 
 import static org.junit.Assert.assertFalse;

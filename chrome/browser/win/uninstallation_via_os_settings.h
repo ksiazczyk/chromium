@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings uninstall registration API
+// summary: Declares functions to register and remove an uninstall command for a program in the Windows Programs and Features control panel.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_UNINSTALLATION_VIA_OS_SETTINGS_H_
 #define CHROME_BROWSER_WIN_UNINSTALLATION_VIA_OS_SETTINGS_H_
 

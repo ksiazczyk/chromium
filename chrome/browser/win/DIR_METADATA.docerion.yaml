@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking component
+summary: Maps the directory to the Internals>PlatformIntegration monorail component and a Buganizer component ID for issue routing.

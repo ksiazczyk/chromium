@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDataTransferManagerInterop unit tests
+// summary: Unit tests covering the fake interop's window lookup, DataRequested listener checks and ShowShareUIForWindow behavior modes.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_transfer_manager_interop.h"
 
 #include <windows.applicationmodel.datatransfer.h>

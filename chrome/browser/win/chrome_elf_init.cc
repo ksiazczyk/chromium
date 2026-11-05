@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side Chrome ELF blocklist initialization
+// summary: Initializes the browser blocklist and extension point mitigations from chrome_elf beacons, reporting setup outcomes through UMA histograms.
+// ---
+
 #include "chrome/browser/win/chrome_elf_init.h"
 
 #include <stddef.h>

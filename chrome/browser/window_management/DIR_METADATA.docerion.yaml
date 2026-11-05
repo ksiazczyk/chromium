@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Window management directory metadata
+summary: Declares the Blink>Screen>MultiScreen issue tracker component and the pwa-dev team email for this directory.

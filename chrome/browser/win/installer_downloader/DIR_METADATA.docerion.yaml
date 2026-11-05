@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Component and team metadata for installer_downloader
+summary: Maps the folder to the UI>Browser>TopChrome component and lists the owning team email for bug routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome ELF blocklist unit tests
+// summary: Unit tests verifying blocklist beacon setup, field-trial-based disabling, first-run state, and failure handling for Chrome ELF on Windows.
+// ---
+
 #include "chrome/browser/win/chrome_elf_init.h"
 
 #include <memory>

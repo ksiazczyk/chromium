@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamType
+// summary: Annotation defining integer constants for feed stream types such as the For You feed, with several legacy values deprecated.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import androidx.annotation.IntDef;

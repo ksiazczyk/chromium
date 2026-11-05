@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows parental controls detection implementation
+// summary: Reads Windows Parental Controls restrictions through the WPC API on a worker thread, caches the resulting state, and emits histograms behind a feature flag.
+// ---
+
 #include "chrome/browser/win/parental_controls.h"
 
 #include <windows.h>

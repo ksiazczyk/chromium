@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module info utility unit tests
+// summary: Tests certificate info extraction for signed and unsigned files, environment variable mapping, path prefix collapsing and module image header reading.
+// ---
+
 #include "chrome/browser/win/conflicts/module_info_util.h"
 
 #include <windows.h>

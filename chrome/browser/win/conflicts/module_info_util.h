@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module info utility functions header
+// summary: Declares CertificateInfo and helpers for certificate extraction, Microsoft signature checks, path prefix collapsing and reading module image size and time date stamp.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_INFO_UTIL_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_INFO_UTIL_H_
 

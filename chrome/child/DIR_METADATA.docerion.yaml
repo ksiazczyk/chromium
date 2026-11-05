@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for chrome/child
+summary: Maps the chrome/child directory to the Internals>Core monorail component and a public Buganizer component ID for issue tracking.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the xsurface directory
+summary: Lists dewittj@chromium.org as an owner and defers to the feed component's OWNERS file.

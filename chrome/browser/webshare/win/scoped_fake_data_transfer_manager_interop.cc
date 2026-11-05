@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped fake data transfer manager interop implementation
+// summary: Implements a scoped helper that registers a fake DataTransferManagerInterop and overrides RoGetActivationFactory so tests can simulate the Windows Share contract.
+// ---
+
 #include "chrome/browser/webshare/win/scoped_fake_data_transfer_manager_interop.h"
 
 #include <windows.applicationmodel.datatransfer.h>

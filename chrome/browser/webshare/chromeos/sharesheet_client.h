@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetClient header for ChromeOS Web Share
+// summary: Declares the SharesheetClient class, the ChromeOS implementation of navigator.share() that forwards shares to SharesheetService.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_CHROMEOS_SHARESHEET_CLIENT_H_
 #define CHROME_BROWSER_WEBSHARE_CHROMEOS_SHARESHEET_CLIENT_H_
 

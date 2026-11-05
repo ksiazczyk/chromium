@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the ChromeOS sharesheet client
+// summary: Runs in-process browser tests verifying that the sharesheet client shares text and multiple files with correct paths, sizes, and content types.
+// ---
+
 #include "chrome/browser/webshare/chromeos/sharesheet_client.h"
 
 #include <string>

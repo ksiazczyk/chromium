@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enumeration of Windows shell extensions
+// summary: Reads shell extension DLL paths from the registry across shell object types, including the approved shell extensions list.
+// ---
+
 #include "chrome/browser/win/conflicts/enumerate_shell_extensions.h"
 
 #include <string>

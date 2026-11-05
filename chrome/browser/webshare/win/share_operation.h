@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ShareOperation class header
+// summary: Declares the ShareOperation class that runs Windows Share operations for shared content and files, invoking a callback on completion or cancellation.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_SHARE_OPERATION_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_SHARE_OPERATION_H_
 

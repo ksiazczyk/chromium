@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inspection results cache unit tests
+// summary: Unit tests covering writing and reading the cache, missing files, and handling of expired inspection results.
+// ---
+
 #include "chrome/browser/win/conflicts/inspection_results_cache.h"
 
 #include <memory>

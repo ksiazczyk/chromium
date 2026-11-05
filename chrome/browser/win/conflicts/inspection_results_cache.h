@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspection results cache interface
+// summary: Defines the inspection results cache type and helpers to add, query, read and write cached module inspection results to disk.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_INSPECTION_RESULTS_CACHE_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_INSPECTION_RESULTS_CACHE_H_
 

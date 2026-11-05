@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enumeration of third-party input method editors
+// summary: Enumerates third-party IMEs from the Windows registry, skipping Microsoft IMEs, and reports their DLL paths, image size and timestamp.
+// ---
+
 #include "chrome/browser/win/conflicts/enumerate_input_method_editors.h"
 
 #include <algorithm>

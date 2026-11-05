@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareDirectoryTask class declaration
+// summary: Declares PrepareDirectoryTask, which creates a directory to hold files being shared and schedules deletion of old shared files.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_PREPARE_DIRECTORY_TASK_H_
 #define CHROME_BROWSER_WEBSHARE_PREPARE_DIRECTORY_TASK_H_
 

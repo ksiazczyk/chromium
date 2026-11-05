@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share service implementation
+// summary: Implements the browser-side Web Share service, validating dangerous filenames and MIME types and dispatching share operations for each platform.
+// ---
+
 #include "chrome/browser/webshare/share_service_impl.h"
 
 #include <algorithm>

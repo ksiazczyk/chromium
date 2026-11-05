@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FakeUriRuntimeClassFactory
+// summary: Verifies that the fake URI runtime class factory creates valid URIs and fails on invalid input such as empty or malformed strings.
+// ---
+
 #include "chrome/browser/webshare/win/fake_uri_runtime_class_factory.h"
 
 #include <wrl/implements.h>

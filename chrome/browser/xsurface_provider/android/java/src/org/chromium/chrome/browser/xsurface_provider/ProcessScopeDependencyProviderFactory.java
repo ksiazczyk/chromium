@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessScopeDependencyProviderFactory interface
+// summary: Interface whose create() method constructs a ProcessScopeDependencyProvider instance, used via reflection when native code requests one.
+// ---
+
 package org.chromium.chrome.browser.xsurface_provider;
 
 import org.chromium.build.annotations.NullMarked;

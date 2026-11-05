@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake storage file statics implementation
+// summary: Implements fake IStorageFileStatics and a FakeStorageFile that create streamed files asynchronously for Web Share tests.
+// ---
+
 #include "chrome/browser/webshare/win/fake_storage_file_statics.h"
 
 #include <windows.foundation.h>

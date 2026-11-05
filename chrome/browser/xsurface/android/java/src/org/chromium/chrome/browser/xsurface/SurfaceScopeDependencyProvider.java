@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceScopeDependencyProvider interface for surface-level dependencies
+// summary: Interface implemented in Chromium that provides surface-level dependencies such as the hosting activity, its context and dark mode state, and should only be called on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.app.Activity;

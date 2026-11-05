@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer downloader infobar delegate interface
+// summary: Declares the infobar delegate class that creates and shows the installer downloader confirm infobar and reports user acceptance or dismissal.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_INSTALLER_DOWNLOADER_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_INSTALLER_DOWNLOADER_INFOBAR_DELEGATE_H_
 

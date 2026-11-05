@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleEventSinkImpl browser-side Mojo interface header
+// summary: Declares ModuleEventSinkImpl, the browser-process endpoint of the mojom::ModuleEventSink interface that forwards module load events to a provided callback.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_EVENT_SINK_IMPL_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_EVENT_SINK_IMPL_H_
 

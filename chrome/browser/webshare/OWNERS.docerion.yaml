@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the webshare directory
+summary: Lists the primary and secondary code owners of the chrome/browser/webshare directory.

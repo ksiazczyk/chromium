@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window management printing interactive UI test
+// summary: Interactive UI regression test verifying that screen change events during a nested event loop from window.print() do not crash.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/printing/print_preview_dialog_controller.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

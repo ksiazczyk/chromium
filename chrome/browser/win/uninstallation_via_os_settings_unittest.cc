@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings uninstall registration unit tests
+// summary: Unit tests using a registry override to verify duplicate key handling and the registry values written during uninstall registration.
+// ---
+
 #include "chrome/browser/win/uninstallation_via_os_settings.h"
 
 #include <string>

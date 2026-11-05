@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated browser support implementation
+// summary: Implements launching and monitoring the isolated browser process, persisting isolation state to the registry, and reporting launch results.
+// ---
+
 #include "chrome/browser/win/isolated_browser/isolated_browser_support.h"
 
 #include <objbase.h>

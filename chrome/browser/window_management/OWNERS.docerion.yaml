@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Window management directory owners
+summary: Lists the primary and per-file code owners responsible for reviewing changes in this directory.

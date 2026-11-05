@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app icon loading implementation
+// summary: Loads application icon resources from the browser DLL and provides HICON, size, and image family helpers for Windows.
+// ---
+
 #include "chrome/browser/win/app_icon.h"
 
 #include "chrome/common/chrome_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active browser window tracker implementation
+// summary: Implements tracking of the last active normal browser window and notifies registered change and removal callbacks.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_active_browser_window_tracker.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Taskbar manager unit tests
+// summary: Unit tests for taskbar pinning that verify callback results and histogram reporting, limited to feature-unavailable cases because tests lack .rc resources.
+// ---
+
 #include "chrome/browser/win/taskbar_manager.h"
 
 #include <shlobj.h>

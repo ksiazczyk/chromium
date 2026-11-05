@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process finder implementation
+// summary: Finds an already running Chrome window and forwards the current command line to it via WM_COPYDATA so a new launch rendezvous with the existing instance.
+// ---
+
 #include "chrome/browser/win/chrome_process_finder.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the child static library
+summary: Defines the child static library, adding Windows V8 crashpad support sources and PDF child initialization sources with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows taskbar pinning manager implementation
+// summary: Implements pinning Chrome windows to the Windows taskbar via ITaskbarManager, serializing App User Model ID updates on a dedicated sequence and recording pin result histograms.
+// ---
+
 #include "chrome/browser/win/taskbar_manager.h"
 
 #include <shlobj.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDataTransferManager implementation
+// summary: Implements a fake IDataTransferManager with DataPackage, property set and event handling used to simulate Windows sharing in tests.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_transfer_manager.h"
 
 #include <wrl/module.h>

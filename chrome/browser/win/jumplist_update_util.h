@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpList update utility header
+// summary: Declares MostVisitedItemsUnchanged, used to check whether most-visited JumpList entries are unchanged.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_JUMPLIST_UPDATE_UTIL_H_
 #define CHROME_BROWSER_WIN_JUMPLIST_UPDATE_UTIL_H_
 

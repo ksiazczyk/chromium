@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped share operation fake components header
+// summary: Declares a scoped helper that creates and maintains fake Windows API equivalents used by ShareOperation, simplifying GTest setup for share operations.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_SCOPED_SHARE_OPERATION_FAKE_COMPONENTS_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_SCOPED_SHARE_OPERATION_FAKE_COMPONENTS_H_
 

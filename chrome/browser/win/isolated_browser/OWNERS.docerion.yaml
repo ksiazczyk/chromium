@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the isolated browser directory
+summary: Lists the owner responsible for reviewing changes to the Windows isolated browser code.

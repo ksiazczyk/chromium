@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for V8 crashpad support on Windows
+// summary: Declares the SetUp function that hooks V8 to Crashpad for exception reporting on Windows.
+// ---
+
 #ifndef CHROME_CHILD_V8_CRASHPAD_SUPPORT_WIN_H_
 #define CHROME_CHILD_V8_CRASHPAD_SUPPORT_WIN_H_
 

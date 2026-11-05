@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon reader service header
+// summary: Declares LaunchIconReaderInstance, which spawns an isolated icon utility service whose lifetime is tied to the returned Mojo remote.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_ICON_READER_SERVICE_H_
 #define CHROME_BROWSER_WIN_ICON_READER_SERVICE_H_
 

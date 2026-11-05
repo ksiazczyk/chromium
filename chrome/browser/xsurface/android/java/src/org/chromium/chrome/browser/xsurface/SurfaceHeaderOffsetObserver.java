@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceHeaderOffsetObserver interface for header scroll offsets
+// summary: Interface that receives vertical offset changes of the header item in a surface's scrollable container, including offsets produced by simulated scrolling translations.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

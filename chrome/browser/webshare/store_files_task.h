@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store files task header
+// summary: Declares StoreFilesTask, a self-owned task that stores multiple shared files and invokes the share callback when done.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_STORE_FILES_TASK_H_
 #define CHROME_BROWSER_WEBSHARE_STORE_FILES_TASK_H_
 

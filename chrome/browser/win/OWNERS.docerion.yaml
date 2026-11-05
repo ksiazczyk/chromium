@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers list for the Windows browser directory
+summary: Lists the designated reviewers for the directory and delegates chrome_elf_init file reviews to the chrome_elf owners.

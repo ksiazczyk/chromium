@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoveCompatLayers unit tests
+// summary: Unit tests covering removal of none, all, and subsets of known compatibility mode layer tokens from layers strings, including the leading tilde token.
+// ---
+
 #include "chrome/browser/win/remove_app_compat_entries.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module database implementation
+// summary: Implements the ModuleDatabase singleton that tracks modules loaded across Chrome processes, including shell extensions and IMEs, and notifies observers.
+// ---
+
 #include "chrome/browser/win/conflicts/module_database.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShowShareUIForWindowOperation class declaration
+// summary: Declares ShowShareUIForWindowOperation, which asynchronously invokes the Windows share UI for a window and delivers share data to a callback on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_SHOW_SHARE_UI_FOR_WINDOW_OPERATION_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_SHOW_SHARE_UI_FOR_WINDOW_OPERATION_H_
 

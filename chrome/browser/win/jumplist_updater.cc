@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpListUpdater implementation for Windows JumpLists
+// summary: Implements Windows JumpList updates by creating IShellLink shell links with paths, arguments, icons and titles, and committing them to an application's destination list.
+// ---
+
 #include "chrome/browser/win/jumplist_updater.h"
 
 #include <objbase.h>

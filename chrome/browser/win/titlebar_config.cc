@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Titlebar custom drawing configuration
+// summary: Defines ShouldBrowserCustomDrawTitlebar, which currently always reports that Windows browser windows custom draw their titlebar.
+// ---
+
 #include "chrome/browser/win/titlebar_config.h"
 
 bool ShouldBrowserCustomDrawTitlebar(BrowserView* browser_view) {

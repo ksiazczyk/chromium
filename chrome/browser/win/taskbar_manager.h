@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows taskbar pinning manager API
+// summary: Declares functions to offer and perform taskbar pinning, plus enums for pin channels and result metrics used by the Windows taskbar manager.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_TASKBAR_MANAGER_H_
 #define CHROME_BROWSER_WIN_TASKBAR_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceScopeDependencyProvider
+// summary: Interface providing surface-level dependencies for xsurface, including autoplay preferences, video playback event and error reporting, and toolbar bounds.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import android.graphics.Rect;
