@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac native widget for the browser window frame
+// summary: Declares BrowserNativeWidgetMac, a NativeWidgetMac subclass providing the browser window frame on macOS with touch bar, fullscreen, and command handling support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_MAC_H_
 

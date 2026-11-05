@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi contents background view header
+// summary: Declares MultiContentsBackgroundView, a view that efficiently paints the multi-contents background via solid color or textured layers with configurable rounded corners.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_BACKGROUND_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_BACKGROUND_VIEW_H_
 

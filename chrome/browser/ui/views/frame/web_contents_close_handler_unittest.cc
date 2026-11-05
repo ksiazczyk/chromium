@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsCloseHandler unit tests
+// summary: Unit tests verifying that the web contents close handler clones and destroys web contents layers correctly on active tab changes and during tab close flows.
+// ---
+
 #include "chrome/browser/ui/views/frame/web_contents_close_handler.h"
 
 #include "base/test/task_environment.h"

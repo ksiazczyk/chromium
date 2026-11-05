@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura browser native widget factory
+// summary: Creates a BrowserNativeWidgetAura as the platform browser native widget on Aura-based platforms.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_native_widget_aura.h"
 #include "chrome/browser/ui/views/frame/browser_native_widget_factory.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS BrowserFrameView interface
+// summary: Declares the ChromeOS BrowserFrameView subclass and its appearance provider, display, window and app registry observer roles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_CHROMEOS_H_
 

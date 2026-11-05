@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDeviceSelectorView class declaration
+// summary: Declares CastDeviceSelectorView and IssueHoverButton for showing a list of castable devices within MediaDialogView on non-CrOS desktop platforms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_GLOBAL_MEDIA_CONTROLS_CAST_DEVICE_SELECTOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_GLOBAL_MEDIA_CONTROLS_CAST_DEVICE_SELECTOR_VIEW_H_
 

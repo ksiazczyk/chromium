@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserWidget browser tests
+// summary: Browser tests for BrowserWidget covering DevTools initial bounds, custom themes, color variants, and widget bounds on initialization.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_widget.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindBarOwnerViews implementation
+// summary: Implements the Views find bar owner that connects FindBarHost to BrowserView, including immersive mode and bubble handling.
+// ---
+
 #include "chrome/browser/ui/views/frame/find_bar_owner_views.h"
 
 #include "chrome/browser/profiles/profile.h"

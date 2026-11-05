@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip background blur backdrop implementation
+// summary: Implements a view painted behind the vertical tab strip in Glass expand-on-hover mode, drawing a translucent toolbar-colored backdrop and an edge stroke clipped to the background path.
+// ---
+
 #include "chrome/browser/ui/views/frame/vertical_tab_strip_background_blur_backdrop.h"
 
 #include "cc/paint/paint_flags.h"

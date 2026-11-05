@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media dialog view unit tests
+// summary: Unit tests for the media dialog view using mock media routers, notification services, and simulated media sessions.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_dialog_view.h"
 
 #include "base/strings/stringprintf.h"

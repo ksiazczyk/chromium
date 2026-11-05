@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immersive mode test helper header
+// summary: Declares the ImmersiveModeTester helper and touch UI test base templates used by immersive mode tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_TESTER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_TESTER_H_
 

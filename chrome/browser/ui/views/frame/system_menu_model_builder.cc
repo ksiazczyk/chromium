@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System menu model builder implementation
+// summary: Implements the builder that constructs the browser window system menu, including zoom, vertical tab toggles, Glic pinning and ChromeOS move-to-desks and teleport items.
+// ---
+
 #include "chrome/browser/ui/views/frame/system_menu_model_builder.h"
 
 #include "base/command_line.h"

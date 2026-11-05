@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip region view implementation
+// summary: Implements the container view for the vertical tab strip and views sharing its space, covering layout, resizing, expand-on-hover, drag and drop, metrics, and organizer panel integration.
+// ---
+
 #include "chrome/browser/ui/views/frame/vertical_tab_strip_region_view.h"
 
 #include <algorithm>

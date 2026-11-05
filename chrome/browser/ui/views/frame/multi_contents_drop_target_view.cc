@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi contents drop target view implementation
+// summary: Implements MultiContentsDropTargetView, the animated drop target shown while dragging tabs or links to create a split view, with nudge and full states.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_drop_target_view.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Capture Border View Implementation
+// summary: Implements the view that paints the border around captured tab contents, including custom path painting in split mode around the mini toolbar.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_capture_border_view.h"
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System menu model delegate implementation
+// summary: Implements the SimpleMenuModel delegate that determines checked, enabled, visible and executed commands for browser system context menus across platforms.
+// ---
+
 #include "chrome/browser/ui/views/frame/system_menu_model_delegate.h"
 
 #include "base/metrics/user_metrics.h"

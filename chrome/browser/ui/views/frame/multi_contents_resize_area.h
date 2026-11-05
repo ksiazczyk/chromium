@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiContentsResizeArea class declarations
+// summary: Declares the resize handle view and the resize area drawn between WebContents in a MultiContentsView, which respond to mouse, gesture and key events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_RESIZE_AREA_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_RESIZE_AREA_H_
 

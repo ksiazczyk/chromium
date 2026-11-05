@@ -1,0 +1,4 @@
+# Docerion header of browser_frame_view_mac_browsertest.mm.
+type: test
+title: Mac browser frame view browser tests
+summary: Browser tests for the Mac frame view covering PWA title updates, caption button placeholders, and vertical tab strip behavior in fullscreen.

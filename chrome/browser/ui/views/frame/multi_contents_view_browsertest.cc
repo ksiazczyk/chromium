@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiContentsView browser tests
+// summary: In-process browser tests covering MultiContentsView split view layout, resizing, swapping, drag-and-drop and fullscreen behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view.h"
 
 #include "base/check_deref.h"

@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_overlay_views_mac.mm.
+type: source
+title: macOS immersive mode overlay views implementation
+summary: Implements the macOS immersive fullscreen overlay widget and tab container overlay, including widget creation, accelerator forwarding and drag-and-drop forwarding.

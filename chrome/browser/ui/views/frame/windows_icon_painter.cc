@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows caption icon painters implementation
+// summary: Implements painters that draw Windows 10 and Windows 11 minimize, maximize, restore, close, and tab search icons for caption buttons.
+// ---
+
 #include "chrome/browser/ui/views/frame/windows_icon_painter.h"
 
 #include "base/numerics/safe_conversions.h"

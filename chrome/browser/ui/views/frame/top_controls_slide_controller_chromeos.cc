@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS top controls slide controller implementation
+// summary: Implements the ChromeOS top controls slide behavior in tablet mode, tracking per-tab shown ratios and forcing controls visible for editable, insecure, or special pages.
+// ---
+
 #include "chrome/browser/ui/views/frame/top_controls_slide_controller_chromeos.h"
 
 #include <tuple>

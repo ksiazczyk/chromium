@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Indigo views OWNERS pointer
+summary: Delegates code ownership for the indigo views directory to the shared OWNERS file in chrome/browser/indigo.

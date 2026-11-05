@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserFrameView interface
+// summary: Declares the abstract base class for browser window frame views covering title bar, borders, caption buttons and tab strip layout.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_H_
 

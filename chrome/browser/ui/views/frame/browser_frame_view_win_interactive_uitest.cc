@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows frame view interactive UI test
+// summary: Interactive UI test verifying the Windows system menu can be triggered with the Alt+Space keyboard shortcut under the menu simplification feature.
+// ---
+
 #include "chrome/browser/ui/browser_element_identifiers.h"
 #include "chrome/browser/ui/ui_features.h"
 #include "chrome/browser/ui/views/frame/browser_view.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device footer view implementation
+// summary: Implements the footer view showing the casting device name and a stop casting button for cast media items in the media dialog.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/cast_device_footer_view.h"
 
 #include "base/strings/utf_string_conversions.h"

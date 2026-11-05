@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen control view interactive UI tests
+// summary: Interactive browser tests covering the fullscreen exit control popup behavior for mouse, touch, and keyboard input.
+// ---
+
 #include "components/fullscreen_control/fullscreen_control_view.h"
 
 #include <memory>

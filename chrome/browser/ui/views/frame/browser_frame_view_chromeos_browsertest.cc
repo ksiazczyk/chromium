@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS BrowserFrameView browser tests
+// summary: Extensive ChromeOS browser tests covering tablet mode, immersive mode, system web apps and session restore for the frame view.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_chromeos.h"
 
 #include <string>

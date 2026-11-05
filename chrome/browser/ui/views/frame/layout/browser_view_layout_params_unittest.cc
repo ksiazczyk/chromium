@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserLayoutParams unit tests
+// summary: Unit tests verifying BrowserLayoutParams coordinate conversion, client area, and inset behavior against leading and trailing exclusion areas.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout_params.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

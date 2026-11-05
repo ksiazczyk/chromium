@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom floating corner implementation
+// summary: Implements CustomFloatingCorner, a single floating curved corner view with configurable background, stroke, corner radius, orientation, and alpha.
+// ---
+
 #include "chrome/browser/ui/views/frame/custom_floating_corner.h"
 
 #include <optional>

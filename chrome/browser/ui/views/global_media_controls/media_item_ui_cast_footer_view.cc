@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media item footer view implementation
+// summary: Implements the footer view with a stop casting button shown for cast media items, mainly on Chrome OS Ash.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_item_ui_cast_footer_view.h"
 
 #include "components/media_message_center/vector_icons/vector_icons.h"

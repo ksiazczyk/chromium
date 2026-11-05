@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Aura native widget class header
+// summary: Declares BrowserNativeWidgetAuraLinux, which provides the browser window frame on Desktop Linux/X11 with custom frame preference and window class support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_AURA_LINUX_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_AURA_LINUX_H_
 

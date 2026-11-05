@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowFrameView header
+// summary: Declares ShadowFrameView, a view that adds an elevated shadow box around UI elements, including a ShadowAlpha struct describing key and ambient shadow colors per theme.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_SHADOW_FRAME_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_SHADOW_FRAME_VIEW_H_
 

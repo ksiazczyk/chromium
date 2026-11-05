@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows taskbar icon updater implementation
+// summary: Updates the browser window taskbar icon in response to profile changes and widget visibility on Windows.
+// ---
+
 #include "chrome/browser/ui/views/frame/windows_taskbar_icon_updater.h"
 
 #include "base/check_is_test.h"

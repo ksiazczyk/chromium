@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media toolbar button contextual menu implementation
+// summary: Implements the media toolbar button's contextual menu with a show-other-sessions preference toggle and a branded cast issue feedback command.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_toolbar_button_contextual_menu.h"
 
 #include <memory>

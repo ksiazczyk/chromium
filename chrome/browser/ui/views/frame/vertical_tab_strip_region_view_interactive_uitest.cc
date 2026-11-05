@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip region view interactive UI tests
+// summary: Interactive UI tests verifying the region view background across window activation, the time-to-switch histogram, and omnibox focus suppressing expand-on-hover.
+// ---
+
 #include "chrome/browser/ui/views/frame/vertical_tab_strip_region_view.h"
 
 #include "base/test/metrics/histogram_tester.h"

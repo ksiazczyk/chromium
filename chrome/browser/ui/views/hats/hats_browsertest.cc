@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the HaTS Next survey dialog
+// summary: Browser tests that exercise survey loading, closing, histograms, and UKM reporting of the HaTS Next dialog using a mock dialog and mock HaTS service.
+// ---
+
 #include <memory>
 #include <string>
 

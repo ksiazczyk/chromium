@@ -1,0 +1,4 @@
+# Docerion header of browser_native_widget_factory_mac.mm.
+type: source
+title: Mac browser native widget factory
+summary: Creates a BrowserNativeWidgetMac as the platform browser native widget on macOS.

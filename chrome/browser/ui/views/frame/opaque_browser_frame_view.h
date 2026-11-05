@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opaque browser frame view class header
+// summary: Declares the OpaqueBrowserFrameView class, the non-client frame view for opaque browser windows, including layout delegation and window control interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_OPAQUE_BROWSER_FRAME_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_OPAQUE_BROWSER_FRAME_VIEW_H_
 

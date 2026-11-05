@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser View Layout Delegate Browser Tests
+// summary: Browser tests verifying the layout delegate across normal, maximized, and immersive mode window states.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout_delegate_impl.h"
 
 #include <memory>

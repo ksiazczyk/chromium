@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode controller factory
+// summary: Factory that instantiates the platform-appropriate immersive mode controller for ChromeOS, Mac, or a stub fallback.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/frame/immersive_mode_controller_stub.h"
 #include "chrome/browser/ui/window_feature_controller/window_feature_controller.h"

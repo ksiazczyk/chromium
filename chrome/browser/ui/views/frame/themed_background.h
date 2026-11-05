@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemedBackground class header
+// summary: Declares the ThemedBackground views::Background that renders toolbar or frame theme images with a shared alignment scheme and exposes static painting helpers for descendant views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_THEMED_BACKGROUND_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_THEMED_BACKGROUND_H_
 

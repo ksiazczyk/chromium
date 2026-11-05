@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal tab strip region view class declaration
+// summary: Declares HorizontalTabStripRegionViewOld, the container for the tabstrip and views sharing its space except caption buttons, with layout and drag-drop APIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_HORIZONTAL_TAB_STRIP_REGION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_HORIZONTAL_TAB_STRIP_REGION_VIEW_H_
 

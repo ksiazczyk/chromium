@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS ash browser view with rounded corners
+// summary: BrowserView subclass for ChromeOS ash that applies window rounded corners to the frame scrim and multi-contents view.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_view_ash.h"
 
 #include <algorithm>

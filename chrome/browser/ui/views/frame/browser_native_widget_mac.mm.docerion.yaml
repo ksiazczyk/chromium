@@ -1,0 +1,4 @@
+# Docerion header of browser_native_widget_mac.mm.
+type: source
+title: Browser native widget implementation for macOS
+summary: Implements the macOS native widget for browser windows, handling commands, touch bar, fullscreen, keyboard shortcuts and window behavior.

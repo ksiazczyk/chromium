@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents web view header
+// summary: Declares ContentsWebView, a views::WebView that displays the active tab's WebContents and manages status bubble, background visibility, layer cloning, and close handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_WEB_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media dialog UI test helper implementation
+// summary: Implements test helpers that wait for the media dialog and toolbar button to open, show, hide, and display text during browser tests.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_dialog_ui_for_test.h"
 
 #include "base/run_loop.h"

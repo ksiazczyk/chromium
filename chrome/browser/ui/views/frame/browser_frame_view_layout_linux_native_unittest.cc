@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for native Linux frame view layout
+// summary: Unit tests for BrowserFrameViewLayoutLinuxNative that verify caption button layout using mock nav button providers and layout delegates.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_layout_linux_native.h"
 
 #include <memory>

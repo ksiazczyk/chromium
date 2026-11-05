@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the HaTS Next survey dialog
+// summary: Declares the HatsNextWebDialog class that displays Happiness Tracking Surveys in a bubble dialog and exposes survey answer parsing and UKM encoding helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_HATS_HATS_NEXT_WEB_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_HATS_HATS_NEXT_WEB_DIALOG_H_
 

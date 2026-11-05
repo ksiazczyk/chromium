@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarButtonProvider interface
+// summary: Declares the interface a view implements to expose toolbar buttons, bubble anchors, page action views, app menu control, and find bar bounds for a BrowserView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TOOLBAR_BUTTON_PROVIDER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TOOLBAR_BUTTON_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaItemUIDeviceSelectorView class declaration
+// summary: Declares the Chrome OS device selector view that lists audio output and cast devices for a media item, including histogram names and Mojo device list client integration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_UI_DEVICE_SELECTOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_UI_DEVICE_SELECTOR_VIEW_H_
 

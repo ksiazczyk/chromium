@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserView focus interactive UI tests
+// summary: Interactive browser tests verifying focus traversal and view focus behavior in BrowserView, including split tab contents and mini toolbar focus order.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/run_until.h"
 #include "build/build_config.h"

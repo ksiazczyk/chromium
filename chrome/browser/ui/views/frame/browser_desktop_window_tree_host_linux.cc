@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser desktop window tree host implementation
+// summary: Implements the Linux browser desktop window tree host, covering custom frame decisions, tab drag state, DBus app menus, and device scale factor changes.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_desktop_window_tree_host_linux.h"
 
 #include <optional>

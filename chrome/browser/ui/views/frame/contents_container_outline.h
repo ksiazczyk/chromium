@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Container Outline Header
+// summary: Declares ContentsContainerOutline, which draws the contents container outline over the mini toolbar with configurable thickness and highlight colors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CONTAINER_OUTLINE_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CONTAINER_OUTLINE_H_
 

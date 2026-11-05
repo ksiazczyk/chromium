@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Opaque browser frame view browser tests
+// summary: Browser tests for web app windows that use the opaque browser frame view, checking frame toolbar behavior, theme colors, and Linux system theme handling.
+// ---
+
 #include "chrome/browser/ui/views/frame/opaque_browser_frame_view.h"
 
 #include "base/memory/raw_ptr.h"

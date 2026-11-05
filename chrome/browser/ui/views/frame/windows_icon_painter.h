@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows icon painter class header
+// summary: Declares Windows10IconPainter and its Windows11IconPainter subclass, which paint the caption button icons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_WINDOWS_ICON_PAINTER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_WINDOWS_ICON_PAINTER_H_
 

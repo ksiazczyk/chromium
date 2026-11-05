@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for global media controls views
+summary: Points to the shared COMMON_METADATA mixins of chrome/browser/ui/global_media_controls for this directory's metadata.

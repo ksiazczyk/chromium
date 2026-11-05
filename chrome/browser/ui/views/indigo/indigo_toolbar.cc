@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo toolbar implementation
+// summary: Implements the collapsible, closable Indigo toolbar overlay, including layout constants, buttons, animations, and event targeting for the browser UI.
+// ---
+
 #include "chrome/browser/ui/views/indigo/indigo_toolbar.h"
 
 #include <memory>

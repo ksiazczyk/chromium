@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture browser frame view implementation
+// summary: Implements the frame view for picture-in-picture and always-on-top browser windows, including the top bar, back-to-tab button, hit testing and window controls.
+// ---
+
 #include "chrome/browser/ui/views/frame/picture_in_picture_browser_frame_view.h"
 
 #include <memory>

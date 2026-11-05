@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserFrameView base class implementation
+// summary: Implements the shared BrowserFrameView base class, including a debug overlay that paints browser frame layout regions.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view.h"
 
 #include <string_view>

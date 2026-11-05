@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for Linux custom frame behavior
+// summary: Browser test verifying that UseCustomFrame respects both the user preference and platform server-side window decoration support, covering known regressions.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_native_widget_aura_linux.h"
 
 #include "base/test/bind.h"

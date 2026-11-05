@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowFrameView implementation
+// summary: Implements a non-interactive view that draws a TopChrome drop shadow with configurable elevation, opacity, and corner radii, updating shadow colors for light and dark themes.
+// ---
+
 #include "chrome/browser/ui/views/frame/shadow_frame_view.h"
 
 #include <memory>

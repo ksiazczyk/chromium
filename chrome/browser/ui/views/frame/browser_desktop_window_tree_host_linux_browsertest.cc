@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Linux desktop window tree host fullscreen behavior
+// summary: Runs in-process browser tests verifying tab fullscreen behavior when the window is minimized, restored, or unminimized on Linux.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_desktop_window_tree_host_linux.h"
 
 #include "base/command_line.h"

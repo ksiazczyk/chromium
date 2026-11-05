@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser View Layout Delegate Implementation
+// summary: Implements the concrete layout delegate backed by a live BrowserView, answering queries about tab strips, toolbars, and window state.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout_delegate_impl.h"
 
 #include "base/callback_list.h"

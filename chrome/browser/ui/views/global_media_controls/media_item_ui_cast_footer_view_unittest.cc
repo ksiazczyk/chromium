@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media item footer view unit tests
+// summary: Unit tests verifying that clicking the stop casting button runs the callback and disables the button.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_item_ui_cast_footer_view.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views frame view factory for Windows and Linux
+// summary: Creates platform-specific browser frame views for Windows and Linux, including native, opaque and picture-in-picture variants.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser window property tests for Windows
+// summary: Windows browser tests validating the app user model ID, relaunch name, relaunch command, and icon properties set on browser windows per profile.
+// ---
+
 #include <objbase.h>
 
 #include <propkey.h>

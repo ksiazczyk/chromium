@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Container View Header
+// summary: Declares ContentsContainerView, which holds the contents web view, devtools, overlays, capture border, outline, and mini toolbar, with layout and accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CONTAINER_VIEW_H_
 

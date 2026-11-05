@@ -1,3 +1,13 @@
+---
+type: readme
+title: Browser View Layout
+summary: Overview of the BrowserViewLayout system and a how-to guide for adding views, laying them out, and modifying layout logic in Chromium's browser UI.
+relations:
+  - documents /chrome/browser/ui/views/frame/layout/browser_view_app_layout_impl.h
+  - documents /chrome/browser/ui/views/frame/layout/browser_view_popup_layout_impl.h
+  - documents /chrome/browser/ui/views/frame/layout/browser_view_tabbed_layout_impl.h
+---
+
 # Browser View Layout
 
 This is an overview of the `BrowserViewLayout` system, and a how-to for

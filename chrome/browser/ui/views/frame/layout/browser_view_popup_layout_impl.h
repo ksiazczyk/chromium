@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup browser layout class header
+// summary: Declares BrowserViewPopupLayoutImpl, the layout implementation for popup, DevTools, and picture-in-picture windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_POPUP_LAYOUT_IMPL_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_POPUP_LAYOUT_IMPL_H_
 

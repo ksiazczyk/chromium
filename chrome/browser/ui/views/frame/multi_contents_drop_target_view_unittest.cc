@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi contents drop target view unit tests
+// summary: Unit tests for MultiContentsDropTargetView covering show and hide behavior, drop sides, drag types, and animation across parameterized drop side cases.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_drop_target_view.h"
 
 #include <memory>

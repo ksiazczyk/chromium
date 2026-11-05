@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for global media controls views
+summary: Defines GN source sets for the media toolbar button, global media controls views, their implementation, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser tests for the system menu model builder
+// summary: ChromeOS browser tests checking system menu command availability for apps when locked or not locked for OnTask, including move-to-desks entries.
+// ---
+
 #include "ash/public/cpp/autotest_desks_api.h"
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/ash/boca/on_task/on_task_locked_controller.h"

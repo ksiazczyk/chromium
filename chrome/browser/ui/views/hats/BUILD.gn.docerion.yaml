@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the HaTS views survey dialog
+summary: Defines GN source sets and dependencies for the HaTS Next survey dialog code, its implementation, and its browser and unit test targets.

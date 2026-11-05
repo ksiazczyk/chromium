@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget accessibility event browser tests
+// summary: Browser tests verifying window activation and deactivation ATK accessibility events on Linux, including postponed events firing when AT-SPI becomes ready.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"
 #include "build/build_config.h"

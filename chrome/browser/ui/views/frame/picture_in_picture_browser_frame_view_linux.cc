@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture browser frame view for Linux
+// summary: Linux implementation of the picture-in-picture frame view that draws frame borders and shadows via the Linux window frame provider or a classic frame background.
+// ---
+
 #include "chrome/browser/ui/views/frame/picture_in_picture_browser_frame_view_linux.h"
 
 #include "chrome/browser/themes/theme_service.h"

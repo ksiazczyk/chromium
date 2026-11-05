@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native toolkit frame view for Linux browser windows
+// summary: Implements the Linux frame view variant that paints the window frame and caption buttons using images from the native toolkit's nav button provider.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_linux_native.h"
 
 #include "base/notreached.h"

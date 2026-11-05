@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base tab strip region view class declaration
+// summary: Declares BaseTabStripRegionView, the shared base for horizontal and vertical tab strip region views that manages observers, controllers, and drag-and-drop behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BASE_TAB_STRIP_REGION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BASE_TAB_STRIP_REGION_VIEW_H_
 

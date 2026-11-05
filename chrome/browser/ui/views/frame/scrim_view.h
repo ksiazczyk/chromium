@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrimView header
+// summary: Declares ScrimView, a views::View subclass that covers whatever is behind it with a darkening scrim color and can apply rounded corner radii.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_SCRIM_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_SCRIM_VIEW_H_
 

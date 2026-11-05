@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file code owners for the frame directory
+summary: Lists reviewers responsible for Ash, ChromeOS, Linux, X11, top controls slide, system web app, and picture-in-picture frame files.

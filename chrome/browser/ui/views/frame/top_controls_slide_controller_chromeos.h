@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS top controls slide controller header
+// summary: Declares the ChromeOS controller that shows and hides browser top controls with gesture scrolls in tablet mode, observing tabs, displays, and the location bar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTROLS_SLIDE_CONTROLLER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTROLS_SLIDE_CONTROLLER_CHROMEOS_H_
 

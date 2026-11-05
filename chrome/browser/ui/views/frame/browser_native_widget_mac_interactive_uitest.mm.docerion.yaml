@@ -1,0 +1,4 @@
+# Docerion header of browser_native_widget_mac_interactive_uitest.mm.
+type: test
+title: Interactive UI tests for the Mac browser native widget
+summary: Interactive in-process browser tests covering fullscreen transitions, key equivalent handling and window behavior of the Mac native widget.

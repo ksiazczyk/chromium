@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media toolbar button contextual menu unit tests
+// summary: Unit tests checking the contextual menu model contents, toggling of the show-other-sessions item, and its disabling when the related media router policy is set.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_toolbar_button_contextual_menu.h"
 
 #include <memory>

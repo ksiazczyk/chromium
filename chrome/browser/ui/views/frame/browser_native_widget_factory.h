@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserNativeWidgetFactory class header
+// summary: Declares the factory interface for constructing platform-specific BrowserNativeWidget implementations for browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_FACTORY_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_FACTORY_H_
 

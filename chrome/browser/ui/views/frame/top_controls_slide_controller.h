@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopControlsSlideController interface
+// summary: Defines the interface for Android-like top-chrome sliding on page scroll, covering shown ratio, fullscreen state changes, and gesture scroll progress.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTROLS_SLIDE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTROLS_SLIDE_CONTROLLER_H_
 

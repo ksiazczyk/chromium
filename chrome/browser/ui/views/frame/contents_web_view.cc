@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents web view implementation
+// summary: Implements ContentsWebView, the view presenting the active tab's WebContents, handling the status bubble, background radii, bounds animation, and modal blocking state.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_web_view.h"
 
 #include "base/debug/dump_without_crashing.h"

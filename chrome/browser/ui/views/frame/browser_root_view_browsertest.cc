@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the browser root view
+// summary: In-process browser tests verifying drag-and-drop behavior, drop info clearing and mouse wheel handling of BrowserRootView.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_root_view.h"
 
 #include <memory>

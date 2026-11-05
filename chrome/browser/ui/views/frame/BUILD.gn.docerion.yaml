@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the browser frame views
+summary: Defines GN source sets and dependencies for the browser window frame components, including shadow views, picture-in-picture frame view, and ChromeOS-specific frame code.

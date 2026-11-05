@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Ash and platform dependencies
+summary: Grants specific files in this directory permission to include Ash, DBus, and other headers normally forbidden by the directory's dependency rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Aura native widget implementation
+// summary: Implements Linux-specific browser window frame behavior, including WM_CLASS and Wayland app ID setup, the custom frame preference, and desktop entry change handling.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_native_widget_aura_linux.h"
 
 #include <string>

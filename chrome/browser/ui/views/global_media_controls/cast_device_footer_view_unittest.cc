@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastDeviceFooterView
+// summary: Unit tests verifying device name display and the stop casting button behavior of CastDeviceFooterView.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/cast_device_footer_view.h"
 
 #include "base/test/mock_callback.h"

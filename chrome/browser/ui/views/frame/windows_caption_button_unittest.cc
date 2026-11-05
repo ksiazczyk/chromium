@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowsCaptionButton focus behavior test
+// summary: Unit test verifying that the Windows caption button uses accessible-only focus behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/windows_caption_button.h"
 
 #include "chrome/browser/ui/view_ids.h"

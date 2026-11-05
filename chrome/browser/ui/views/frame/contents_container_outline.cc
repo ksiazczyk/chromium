@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Container Outline Implementation
+// summary: Implements the view that draws the contents container outline as a single Skia path with rounded corners and optional paths around the mini toolbar.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_container_outline.h"
 
 #include "base/i18n/rtl.h"

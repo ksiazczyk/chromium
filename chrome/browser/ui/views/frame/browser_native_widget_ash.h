@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash browser native widget class declaration
+// summary: Declares BrowserNativeWidgetAsh, which provides the frame for Chrome browser windows on ChromeOS under classic ash.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_ASH_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_ASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimize button metrics for Windows header
+// summary: Declares MinimizeButtonMetrics, a helper shared by Windows frame code to obtain and cache the native minimize button's X offset, handling activation and DPI changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MINIMIZE_BUTTON_METRICS_WIN_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MINIMIZE_BUTTON_METRICS_WIN_H_
 

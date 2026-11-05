@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastDeviceSelectorView
+// summary: Unit tests covering device list updates, show and hide behavior, and the close button of CastDeviceSelectorView.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/cast_device_selector_view.h"
 
 #include "base/test/metrics/histogram_tester.h"

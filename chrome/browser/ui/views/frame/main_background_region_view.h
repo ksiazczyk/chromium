@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main background region view header
+// summary: Declares MainBackgroundRegionView, a view that paints and styles the browser background when visible, such as when the side panel is active.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MAIN_BACKGROUND_REGION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MAIN_BACKGROUND_REGION_VIEW_H_
 

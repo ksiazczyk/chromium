@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus app menu for Linux
+// summary: Implements the D-Bus global application menu on Linux, defining static File, Edit, and other menus wired to Chrome commands plus dynamic recently closed and most visited items.
+// ---
+
 #include "chrome/browser/ui/views/frame/dbus_appmenu.h"
 
 #include <stddef.h>

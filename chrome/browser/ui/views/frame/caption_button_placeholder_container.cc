@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption button placeholder container
+// summary: Implements a layer-painting view that reserves placeholder space for window caption buttons in the browser frame.
+// ---
+
 #include "chrome/browser/ui/views/frame/caption_button_placeholder_container.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

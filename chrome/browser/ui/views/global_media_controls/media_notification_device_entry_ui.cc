@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification device entry UI implementation
+// summary: Implements audio and cast device entry views for media device selectors, including icon creation, throbbers, and color updates.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_notification_device_entry_ui.h"
 
 #include "base/strings/utf_string_conversions.h"

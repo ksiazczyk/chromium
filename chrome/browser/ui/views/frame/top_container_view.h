@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopContainerView header
+// summary: Declares the view that holds the tab strip, toolbar, and sometimes bookmark bar, stacking above web contents in ChromeOS immersive fullscreen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TOP_CONTAINER_VIEW_H_
 

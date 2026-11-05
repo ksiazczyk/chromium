@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindBarOwnerViews class declaration
+// summary: Declares FindBarOwnerViews, which exposes a subset of BrowserView functionality such as bounding boxes and anchoring to FindBarHost.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_FIND_BAR_OWNER_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_FIND_BAR_OWNER_VIEWS_H_
 

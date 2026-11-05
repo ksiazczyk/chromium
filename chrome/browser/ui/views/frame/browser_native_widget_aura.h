@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura native widget for the browser window frame
+// summary: Declares BrowserNativeWidgetAura, a DesktopNativeWidgetAura subclass that provides the window frame for Chrome browser windows on Aura platforms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_AURA_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_NATIVE_WIDGET_AURA_H_
 

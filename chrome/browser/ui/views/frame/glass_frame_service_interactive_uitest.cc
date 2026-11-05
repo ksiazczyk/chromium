@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glass frame service interactive UI tests
+// summary: Interactive browser tests for the glass frame service, covering theme changes, feature promos, and tab strip behavior with the kGlassFrame feature enabled.
+// ---
+
 #include "chrome/browser/ui/views/frame/glass_frame_service.h"
 
 #include "base/callback_list.h"

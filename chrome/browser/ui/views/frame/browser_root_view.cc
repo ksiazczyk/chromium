@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser root view with drag-and-drop to the tab strip
+// summary: Implements the root view used by the browser widget, forwarding drop events to the tab strip and processing dropped URLs and files.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_root_view.h"
 
 #include <cmath>

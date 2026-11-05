@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Capture Border View Header
+// summary: Declares ContentsCaptureBorderView, a view that draws the captured-tab contents border and tracks split mode, capture location, and mini toolbar bounds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CAPTURE_BORDER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CONTENTS_CAPTURE_BORDER_VIEW_H_
 

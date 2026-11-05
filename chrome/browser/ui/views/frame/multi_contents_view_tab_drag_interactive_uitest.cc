@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-contents view tab drag interactive UI tests
+// summary: Interactive UI tests verifying tab drag entrypoints into split view, covering drop target display and browser window behavior during tab drags.
+// ---
+
 #include "base/feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/profiles/profile.h"

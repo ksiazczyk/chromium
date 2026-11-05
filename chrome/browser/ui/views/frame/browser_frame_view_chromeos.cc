@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS BrowserFrameView implementation
+// summary: Implements the ChromeOS browser frame view with immersive mode, tablet mode, frame header and profile indicator support.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_chromeos.h"
 
 #include <memory>

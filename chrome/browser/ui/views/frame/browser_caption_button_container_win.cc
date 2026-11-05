@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows caption button container implementation
+// summary: Implements the Windows caption button container that creates minimize, maximize, restore, and close buttons and handles non-client hit testing for them.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_caption_button_container_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS browser frame header helper class
+// summary: Declares a helper class that draws custom ChromeOS frame headers using colors and images supplied by an appearance provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_HEADER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_HEADER_CHROMEOS_H_
 

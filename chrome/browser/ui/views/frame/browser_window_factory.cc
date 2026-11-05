@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window factory
+// summary: Creates browser windows by selecting WebUI, Ash, or standard BrowserView implementations and initializing the associated BrowserWidget.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

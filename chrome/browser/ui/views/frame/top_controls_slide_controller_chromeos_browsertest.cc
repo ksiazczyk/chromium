@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top controls slide controller ChromeOS browser tests
+// summary: Browser tests for the top controls slide controller on ChromeOS, checking top Chrome element translations during scrolling, layout counts, and permission prompt behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/top_controls_slide_controller.h"
 
 #include <memory>

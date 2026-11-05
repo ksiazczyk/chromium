@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsTaskbarIconUpdater class header
+// summary: Declares a class that observes profile attribute storage and widget changes to keep the Windows taskbar icon up to date.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_WINDOWS_TASKBAR_ICON_UPDATER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_WINDOWS_TASKBAR_ICON_UPDATER_H_
 

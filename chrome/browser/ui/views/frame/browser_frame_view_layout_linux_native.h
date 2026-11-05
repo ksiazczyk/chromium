@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the native Linux frame layout class
+// summary: Declares BrowserFrameViewLayoutLinuxNative, a layout specialization that positions frame buttons rendered by the native toolkit.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_LAYOUT_LINUX_NATIVE_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_LAYOUT_LINUX_NATIVE_H_
 
