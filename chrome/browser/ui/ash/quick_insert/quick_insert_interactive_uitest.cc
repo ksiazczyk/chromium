@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick insert picker interactive UI tests
+// summary: Interactive Ash UI tests exercising the quick insert picker, including accelerator toggling, search field focus, emoji, GIF and image items, and history-driven suggestions.
+// ---
+
 #include <memory>
 #include <vector>
 

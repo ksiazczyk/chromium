@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers retry view implementation
+// summary: Implements the Quick Answers retry view that shows a network error message with a retry button and configurable first-line text.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/retry_view.h"
 
 #include <string_view>

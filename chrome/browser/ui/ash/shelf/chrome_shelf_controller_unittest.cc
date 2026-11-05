@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome shelf controller unit tests
+// summary: Unit tests covering ChromeShelfController behavior including pinned apps, item status and titles, and shelf model updates.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_controller.h"
 
 #include <stddef.h>

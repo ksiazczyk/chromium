@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf prefs implementation
+// summary: Implements ChromeShelfPrefs, bridging synced preferences and the Ash shelf, including pinned app ordering and shelf alignment and auto-hide prefs.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_prefs.h"
 
 #include <stddef.h>

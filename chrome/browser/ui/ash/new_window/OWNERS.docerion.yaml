@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the new_window client files
+summary: Routes ownership of chrome_new_window_client files to the ash settings OWNERS and notes updates when OS settings sections change.

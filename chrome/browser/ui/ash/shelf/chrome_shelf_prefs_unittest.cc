@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome shelf prefs unit tests
+// summary: Unit tests for ChromeShelfPrefs covering pinned app sync, pin position updates, and shelf preference behavior using fake sync services.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_prefs.h"
 
 #include <algorithm>

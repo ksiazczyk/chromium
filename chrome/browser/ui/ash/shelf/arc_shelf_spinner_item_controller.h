@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcShelfSpinnerItemController class declaration
+// summary: Declares the shelf item controller that shows a spinner over an ARC app icon while ARC is not ready and launches the app once it becomes available.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ARC_SHELF_SPINNER_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ARC_SHELF_SPINNER_ITEM_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Quick Answers test base implementation
+// summary: Implements the ChromeQuickAnswersTestBase fixture that starts a user session, creates a testing profile, and initializes the Quick Answers controller for tests.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/test/chrome_quick_answers_test_base.h"
 
 #include <memory>

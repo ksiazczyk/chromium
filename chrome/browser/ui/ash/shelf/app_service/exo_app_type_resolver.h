@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExoAppTypeResolver class header
+// summary: Declares ExoAppTypeResolver, which populates window properties identifying the application type of exo toplevel windows based on app_id and startup_id.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_EXO_APP_TYPE_RESOLVER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_EXO_APP_TYPE_RESOLVER_H_
 

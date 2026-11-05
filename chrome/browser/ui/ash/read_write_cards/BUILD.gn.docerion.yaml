@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for read write cards
+summary: Defines the read_write_cards, read_write_cards_manager, and unit_tests source sets with their sources and dependencies for ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector navigation throttle browser tests
+// summary: Browser tests verifying how Projector app URLs are launched and redirected by the ChromeOS navigation capturing throttle across feature versions.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

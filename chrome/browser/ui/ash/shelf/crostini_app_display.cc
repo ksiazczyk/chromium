@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini app display implementation
+// summary: Implements CrostiniAppDisplay, which maps Crostini app IDs to display IDs so their windows open on the intended display.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/crostini_app_display.h"
 
 #include "ui/display/display.h"

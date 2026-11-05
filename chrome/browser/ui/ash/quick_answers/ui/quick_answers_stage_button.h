@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers stage button class declaration
+// summary: Declares QuickAnswersStageButton, a views::Button subclass that updates its background on focus, blur and state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_STAGE_BUTTON_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_STAGE_BUTTON_H_
 

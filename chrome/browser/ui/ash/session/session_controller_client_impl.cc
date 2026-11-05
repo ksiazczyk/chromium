@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session controller client implementation
+// summary: Implements the Chrome-side session controller client that pushes session state to Ash and handles lock, sign-out, restart, and user switching requests.
+// ---
+
 #include "chrome/browser/ui/ash/session/session_controller_client_impl.h"
 
 #include <algorithm>

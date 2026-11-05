@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service shelf context menu header
+// summary: Declares AppServiceShelfContextMenu, which builds and executes shelf context menu items for App Service apps of various app types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_SHELF_CONTEXT_MENU_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_SHELF_CONTEXT_MENU_H_
 

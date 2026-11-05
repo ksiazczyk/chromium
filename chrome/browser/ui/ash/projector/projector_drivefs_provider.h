@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector DriveFS provider declarations
+// summary: Declares ProjectorDriveFsProvider with static helpers for DriveFS mount status and a session observer that triggers a callback on active user changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_DRIVEFS_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_DRIVEFS_PROVIDER_H_
 

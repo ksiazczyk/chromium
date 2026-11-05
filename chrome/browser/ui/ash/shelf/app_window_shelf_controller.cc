@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window shelf controller implementation
+// summary: Observes window activation and shelf delegate changes to keep app window shelf items and their status in sync.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_window_shelf_controller.h"
 
 #include "ash/public/cpp/shelf_model.h"

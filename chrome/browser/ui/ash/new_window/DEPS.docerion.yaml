@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the new_window directory
+summary: Restricts which //chrome headers and directories the new_window sources may include, with extra rules for the client and its tests.

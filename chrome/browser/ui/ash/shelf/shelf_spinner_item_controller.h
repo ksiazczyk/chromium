@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf spinner item controller header
+// summary: Declares ShelfSpinnerItemController, a shelf item delegate that shows an app icon with an overlaid spinner while ARC or Crostini is not ready.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_SHELF_SPINNER_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_SHELF_SPINNER_ITEM_CONTROLLER_H_
 

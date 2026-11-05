@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfPromiseAppUpdater class header
+// summary: Declares ShelfPromiseAppUpdater, responsible for triggering shelf item updates when promise app updates occur.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_SHELF_APP_SERVICE_PROMISE_APP_UPDATER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_SHELF_APP_SERVICE_PROMISE_APP_UPDATER_H_
 

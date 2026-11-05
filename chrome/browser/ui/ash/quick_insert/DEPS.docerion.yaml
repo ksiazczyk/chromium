@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quick Insert DEPS include rules
+summary: Defines allowed include dependencies for the quick_insert directory, with special rules for its unit and browser tests.

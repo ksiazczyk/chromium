@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfAppUpdater class declaration
+// summary: Declares the ShelfAppUpdater base class and its Delegate interface for app install, update, show-in-shelf, and uninstall events affecting shelf items.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_SHELF_APP_UPDATER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_SHELF_APP_UPDATER_H_
 

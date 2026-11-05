@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the directory
+summary: DEPS file restricting //chrome includes and whitelisting the specific headers this directory and its browser test may depend on.

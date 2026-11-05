@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app installer context menu header
+// summary: Declares IsolatedWebAppInstallerContextMenu, a simple menu model delegate for isolated web app installer shelf items.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ISOLATED_WEB_APP_INSTALLER_CONTEXT_MENU_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ISOLATED_WEB_APP_INSTALLER_CONTEXT_MENU_H_
 

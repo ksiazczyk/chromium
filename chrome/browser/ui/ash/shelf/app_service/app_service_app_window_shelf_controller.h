@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app window shelf controller header
+// summary: Declares AppServiceAppWindowShelfController, which adds and removes launcher items and puts running apps on the Chrome OS shelf.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_SHELF_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_SHELF_CONTROLLER_H_
 

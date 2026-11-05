@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for MediaClientImpl
+// summary: In-process browser tests verifying media key forwarding, capture state updates, and camera privacy switch notifications across multiple profiles and browsers.
+// ---
+
 #include "chrome/browser/ui/ash/media_client/media_client_impl.h"
 
 #include <memory>

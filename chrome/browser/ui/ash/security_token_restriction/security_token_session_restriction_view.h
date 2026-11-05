@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token session restriction dialog view class declaration
+// summary: Declares the SecurityTokenSessionRestrictionView dialog class that counts down to logout or lock when a security token is removed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SECURITY_TOKEN_RESTRICTION_SECURITY_TOKEN_SESSION_RESTRICTION_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_SECURITY_TOKEN_RESTRICTION_SECURITY_TOKEN_SESSION_RESTRICTION_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost user consent view unit tests
+// summary: Unit tests for the Magic Boost user consent view covering view creation, intent chips, and settings button behavior.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/magic_boost_user_consent_view.h"
 
 #include "base/test/scoped_feature_list.h"

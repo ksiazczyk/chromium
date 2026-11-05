@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf metrics provider implementation
+// summary: Implements a metrics provider that records UMA data on shelf items, such as which default apps are pinned to the shelf for the active profile.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_metrics_provider.h"
 
 #include "ash/public/cpp/shelf_item.h"

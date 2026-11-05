@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers stage button implementation
+// summary: Implements a button that shows a highlight background on hover or focus and fires its action on press for the Quick Answers menu.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/quick_answers_stage_button.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

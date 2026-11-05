@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppWindow implementation
+// summary: Implements ArcAppWindow, a shelf-tracked ARC app window that manages icons, fullscreen mode, activation state, and closing ARC tasks.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/arc_app_window.h"
 
 #include "base/auto_reset.h"

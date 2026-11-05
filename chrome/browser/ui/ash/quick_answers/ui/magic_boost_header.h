@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost header declaration
+// summary: Declares GetMagicBoostHeader, which returns a builder for the Magic Boost consent view header.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_MAGIC_BOOST_HEADER_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_MAGIC_BOOST_HEADER_H_
 

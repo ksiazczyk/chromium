@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether notification presenter implementation
+// summary: Implements notifications for ChromeOS Instant Tethering events such as nearby hotspots, setup requirements, and failed host connections.
+// ---
+
 #include "chrome/browser/ui/ash/network/tether_notification_presenter.h"
 
 #include <algorithm>

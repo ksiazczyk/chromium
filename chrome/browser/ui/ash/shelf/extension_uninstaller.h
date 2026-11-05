@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension uninstaller header
+// summary: Declares ExtensionUninstaller, which shows the extension uninstall dialog and cleans up when the dialog closes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_EXTENSION_UNINSTALLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_EXTENSION_UNINSTALLER_H_
 

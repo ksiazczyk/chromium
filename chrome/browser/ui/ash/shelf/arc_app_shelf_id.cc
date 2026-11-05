@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppShelfId implementation
+// summary: Implements ArcAppShelfId, parsing and serializing shelf identifiers that combine an ARC app id with an optional shelf group id from strings and intents.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/arc_app_shelf_id.h"
 
 #include "base/strings/string_split.h"

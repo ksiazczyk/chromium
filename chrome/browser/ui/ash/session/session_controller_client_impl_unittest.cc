@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session controller client unit tests
+// summary: Unit tests for SessionControllerClientImpl covering session state updates, locking, session termination, and multi-profile behavior using fake dependencies.
+// ---
+
 #include "chrome/browser/ui/ash/session/session_controller_client_impl.h"
 
 #include <memory>

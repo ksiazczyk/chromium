@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for main_extra_parts
+summary: Specifies allowed include dependencies for the main_extra_parts directory, permitting existing //chrome dependencies while ChromeOS code avoids depending on //chrome.

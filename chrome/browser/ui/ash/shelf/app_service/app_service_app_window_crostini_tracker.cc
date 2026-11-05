@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service Crostini app window tracker implementation
+// summary: Implements Crostini app window handling for the shelf, including display moves, self-activation permissions, and force-close registration.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_app_window_crostini_tracker.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

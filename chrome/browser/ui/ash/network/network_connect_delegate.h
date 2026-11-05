@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectDelegate class header
+// summary: Declares the delegate implementing ash::NetworkConnect::Delegate to show network configure, settings, enrollment, mobile setup, portal signin, and error UI for Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_NETWORK_NETWORK_CONNECT_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_NETWORK_NETWORK_CONNECT_DELEGATE_H_
 

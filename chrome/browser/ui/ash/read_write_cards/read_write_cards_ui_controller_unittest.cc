@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadWriteCardsUiController unit tests
+// summary: Unit tests for the read write cards UI controller, parameterized over the Mahi feature flag, covering widget layout, sizing, and view management.
+// ---
+
 #include "chrome/browser/ui/ash/read_write_cards/read_write_cards_ui_controller.h"
 
 #include <memory>

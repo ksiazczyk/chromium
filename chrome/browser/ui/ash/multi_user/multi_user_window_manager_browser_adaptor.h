@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user window manager browser adaptor interface
+// summary: Declares the adaptor class that registers browser and app windows with ash's MultiUserWindowManager for multi-profile sessions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_BROWSER_ADAPTOR_H_
 #define CHROME_BROWSER_UI_ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_BROWSER_ADAPTOR_H_
 

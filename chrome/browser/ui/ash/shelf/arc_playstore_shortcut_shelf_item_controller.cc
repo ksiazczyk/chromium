@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPlaystoreShortcutShelfItemController implementation
+// summary: Implements the shelf item controller that launches the Play Store when its shortcut is selected, deferring the launch until the app is available.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/arc_playstore_shortcut_shelf_item_controller.h"
 
 #include <utility>

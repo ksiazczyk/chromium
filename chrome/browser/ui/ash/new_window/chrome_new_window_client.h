@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNewWindowClient class declaration
+// summary: Declares ChromeNewWindowClient, which handles new tabs, windows, and app launches requested by ash over mojo and via the ARC bridge.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_NEW_WINDOW_CHROME_NEW_WINDOW_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_NEW_WINDOW_CHROME_NEW_WINDOW_CLIENT_H_
 

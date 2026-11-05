@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers result view implementation
+// summary: Implements ResultView, a flex layout view showing first and second line result texts, phonetics info and a phonetics audio button.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/result_view.h"
 
 #include <memory>

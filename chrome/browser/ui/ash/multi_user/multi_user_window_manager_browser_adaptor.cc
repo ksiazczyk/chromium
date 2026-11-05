@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user window manager browser adaptor implementation
+// summary: Implements the adaptor that keeps ash's MultiUserWindowManager in sync with browser and app windows, tagging each window with its owning user.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_window_manager_browser_adaptor.h"
 
 #include <set>

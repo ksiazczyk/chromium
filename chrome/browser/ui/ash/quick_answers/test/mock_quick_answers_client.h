@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Quick Answers client header
+// summary: Declares a gmock-based MockQuickAnswersClient that stubs QuickAnswersClient methods such as SendRequest and OnQuickAnswerClick for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_TEST_MOCK_QUICK_ANSWERS_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_TEST_MOCK_QUICK_ANSWERS_CLIENT_H_
 

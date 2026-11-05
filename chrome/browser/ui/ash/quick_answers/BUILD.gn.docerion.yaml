@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Answers build targets for Chrome browser UI
+summary: Defines GN source sets for the Quick Answers controller, state and UI code, plus unit test and browser test targets with their dependencies.

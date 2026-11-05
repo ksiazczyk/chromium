@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost user consent view implementation
+// summary: Implements the Magic Boost user consent view with intent chip labels, a settings button, and focus handling within read write cards.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/magic_boost_user_consent_view.h"
 
 #include <memory>

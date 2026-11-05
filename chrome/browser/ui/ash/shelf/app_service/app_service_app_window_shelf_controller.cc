@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app window shelf controller implementation
+// summary: Implements the shelf controller that observes the App Service InstanceRegistry and aura windows to manage running app shelf items.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_app_window_shelf_controller.h"
 
 #include <algorithm>

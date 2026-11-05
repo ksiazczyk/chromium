@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app shelf context menu header
+// summary: Declares AppServicePromiseAppShelfContextMenu, a ShelfContextMenu subclass that provides the menu model for promise app shelf items.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_PROMISE_APP_SHELF_CONTEXT_MENU_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_PROMISE_APP_SHELF_CONTEXT_MENU_H_
 

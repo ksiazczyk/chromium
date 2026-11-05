@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers pixel tests
+// summary: Parameterized browser pixel tests comparing Quick Answers UI screenshots across dark mode, RTL, layout width, and Magic Boost variants.
+// ---
+
 #include <optional>
 #include <string>
 

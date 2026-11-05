@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsManager singleton implementation
+// summary: Implements the ReadWriteCardsManager global instance access with checks that only one manager exists at a time.
+// ---
+
 #include "chrome/browser/ui/ash/read_write_cards/read_write_cards_manager.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quick Answers include rules
+summary: Restricts which headers the quick_answers directory may include, with extra allowances for test and pixel test files.

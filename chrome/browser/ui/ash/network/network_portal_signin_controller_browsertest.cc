@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal signin controller browser tests
+// summary: Browser tests exercising the portal signin UI against an embedded test server serving a fake captive portal page and verifying downloads are blocked.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_portal_signin_controller.h"
 
 #include <memory>

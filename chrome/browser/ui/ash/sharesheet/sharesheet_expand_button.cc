@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet expand button implementation
+// summary: Implements the button that toggles the sharesheet target list between a default state showing more apps and an expanded state.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_expand_button.h"
 
 #include "ash/public/cpp/ash_typography.h"

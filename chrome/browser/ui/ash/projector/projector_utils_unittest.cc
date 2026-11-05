@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector utils unit tests
+// summary: Unit tests for Projector utility functions, with a ScopedLogIn helper that logs fake users of various types into a fake user manager.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_utils.h"
 
 #include <memory>

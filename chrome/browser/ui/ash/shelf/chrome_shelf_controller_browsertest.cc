@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome shelf controller browser tests
+// summary: Browser tests exercising ChromeShelfController shelf behavior such as pinning, app launching, menus, and multi-user scenarios.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_controller.h"
 
 #include <stddef.h>

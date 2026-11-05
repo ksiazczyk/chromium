@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharesheet bubble view unit tests
+// summary: Unit tests covering bubble display, target selection, expanded state, clipboard, accessibility, and metrics for the sharesheet bubble view.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_bubble_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for multi-user utilities
+// summary: Unit tests for the multi_user_util account ID and profile helpers, using fake user managers and a signin identity test environment.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_util.h"
 
 #include <memory>

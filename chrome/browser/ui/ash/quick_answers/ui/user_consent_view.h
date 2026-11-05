@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers user consent view header
+// summary: Declares the UserConsentView class with button callbacks, intent type and text setters, focus handling, and a view builder for the consent UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_USER_CONSENT_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_USER_CONSENT_VIEW_H_
 

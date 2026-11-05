@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector utility function declarations
+// summary: Declares Projector utility functions for profile eligibility, app enablement, media and metadata file checks, and sending files to the Projector app.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_UTILS_H_
 #define CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet bubble view delegate implementation
+// summary: Implements the SharesheetUiDelegate that owns the bubble view, forwards show, resize, and close requests, and reports bubble visibility.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_bubble_view_delegate.h"
 
 #include <utility>

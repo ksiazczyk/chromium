@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf spinner controller header
+// summary: Declares ShelfSpinnerController, which adds spinner shelf items for apps that are not immediately available and handles user switching and spinner cleanup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_SHELF_SPINNER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_SHELF_SPINNER_CONTROLLER_H_
 

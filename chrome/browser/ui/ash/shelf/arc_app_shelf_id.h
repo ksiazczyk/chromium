@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppShelfId header
+// summary: Declares ArcAppShelfId, an identifier made of a valid ARC app id plus an optional shelf group id, with conversion helpers from strings and intents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_SHELF_ID_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_SHELF_ID_H_
 

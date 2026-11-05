@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf item factory header
+// summary: Declares ChromeShelfItemFactory, which converts app IDs into ShelfItem and ShelfItemDelegate objects for insertion into the Ash shelf model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_ITEM_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_ITEM_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet UI layout constants
+// summary: Declares inline constants for sharesheet bubble width, spacing, expand button, image preview, header, and text line-height dimensions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_CONSTANTS_H_
 #define CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_CONSTANTS_H_
 

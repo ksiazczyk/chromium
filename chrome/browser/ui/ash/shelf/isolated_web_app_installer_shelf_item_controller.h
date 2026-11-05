@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app installer shelf item controller header
+// summary: Declares IsolatedWebAppInstallerShelfItemController, a single-window shelf item delegate and window observer for installer instances.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ISOLATED_WEB_APP_INSTALLER_SHELF_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ISOLATED_WEB_APP_INSTALLER_SHELF_ITEM_CONTROLLER_H_
 

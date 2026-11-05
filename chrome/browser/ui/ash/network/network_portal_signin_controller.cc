@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal signin controller implementation
+// summary: Implements the captive portal signin UI controller, choosing dialog, window, or tab signin modes while handling proxy settings, policies, and metrics.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_portal_signin_controller.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

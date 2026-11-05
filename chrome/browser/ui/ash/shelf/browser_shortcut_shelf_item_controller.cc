@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserShortcutShelfItemController implementation
+// summary: Implements the shelf delegate for the browser shortcut, maintaining an ordered browser list and activating or advancing to the next browser window.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/browser_shortcut_shelf_item_controller.h"
 
 #include <algorithm>

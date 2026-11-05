@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app shelf context menu implementation
+// summary: Implements the shelf context menu for promise apps, building a menu model that only offers the pin option.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_promise_app_shelf_context_menu.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app window shelf item controller header
+// summary: Declares AppServiceAppWindowShelfItemController, the shelf item delegate for App Service app windows, which tracks task ids and ARC ghost window session ids.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_SHELF_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_SHELF_ITEM_CONTROLLER_H_
 

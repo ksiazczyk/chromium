@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sharesheet DIR_METADATA
+summary: Points the directory metadata to the shared mixins in chrome/browser/sharesheet/COMMON_METADATA.

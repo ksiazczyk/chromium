@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers user consent view implementation
+// summary: Implements the user consent view for Quick Answers, building the title, description, intent icon, and Allow and No Thanks buttons based on intent type.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/user_consent_view.h"
 
 #include <memory>

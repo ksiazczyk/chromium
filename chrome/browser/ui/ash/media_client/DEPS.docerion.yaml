@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the media_client directory
+summary: Lists allowed //chrome and ui includes for the directory, with extra include permissions for browser test files.

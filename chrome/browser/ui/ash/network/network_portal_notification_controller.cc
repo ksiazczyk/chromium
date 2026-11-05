@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal notification controller implementation
+// summary: Implements the message center notification shown when the networking stack detects a captive portal, including notification creation, click handling, and UMA metrics.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_portal_notification_controller.h"
 
 #include <stdint.h>

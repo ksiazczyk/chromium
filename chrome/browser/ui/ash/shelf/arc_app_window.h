@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppWindow header
+// summary: Declares ArcAppWindow, a ui::BaseWindow subclass that lets the ChromeOS launcher control ARC app windows, including icon loading and fullscreen mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_H_
 

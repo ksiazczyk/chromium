@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserMainExtraPartsAsh class declaration
+// summary: Declares the ChromeBrowserMainExtraPartsAsh class that performs Ash-specific browser initialization for chrome/browser/ui/ash components.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MAIN_EXTRA_PARTS_CHROME_BROWSER_MAIN_EXTRA_PARTS_ASH_H_
 #define CHROME_BROWSER_UI_ASH_MAIN_EXTRA_PARTS_CHROME_BROWSER_MAIN_EXTRA_PARTS_ASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsView implementation
+// summary: Implements the base view for cards shown in the read write cards widget, applying rounded-corner shadows and tracking context menu bounds.
+// ---
+
 #include "chrome/browser/ui/ash/read_write_cards/read_write_cards_view.h"
 
 #include <optional>

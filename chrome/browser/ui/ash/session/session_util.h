@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session utility header
+// summary: Declares session helpers for getting the active browser context, deciding whether a window can be shown for a user, and creating avatar images.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SESSION_SESSION_UTIL_H_
 #define CHROME_BROWSER_UI_ASH_SESSION_SESSION_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Privacy Hub include rules for Chrome dependencies
+summary: DEPS file blocking //chrome dependencies for ChromeOS code while allowing specific profile and permission view includes, plus extra allowances for tests.

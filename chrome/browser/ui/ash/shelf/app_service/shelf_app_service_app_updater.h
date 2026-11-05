@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfAppServiceAppUpdater class header
+// summary: Declares ShelfAppServiceAppUpdater, an AppRegistryCache observer that handles life cycle events for App Service apps on the shelf.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_SHELF_APP_SERVICE_APP_UPDATER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_SHELF_APP_SERVICE_APP_UPDATER_H_
 

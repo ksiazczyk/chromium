@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector SODA installation controller unit tests
+// summary: Unit tests for ProjectorSodaInstallationController using a mock SODA installer to verify installation status notifications and locale handling.
+// ---
+
 #include "projector_soda_installation_controller.h"
 
 #include "ash/constants/ash_features.h"

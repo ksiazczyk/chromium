@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Ash network UI directory
+summary: Restricts Chromium includes for the directory and grants specific exceptions, including per-file rules for tests.

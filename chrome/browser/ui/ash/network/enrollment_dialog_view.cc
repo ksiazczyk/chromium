@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate enrollment dialog implementation
+// summary: Implements the dialog that displays certificate enrollment URI content when a network requires enrollment.
+// ---
+
 #include "chrome/browser/ui/ash/network/enrollment_dialog_view.h"
 
 #include "ash/utility/wm_util.h"

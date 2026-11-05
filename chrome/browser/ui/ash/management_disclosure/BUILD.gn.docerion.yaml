@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for management disclosure
+summary: GN build file defining the management_disclosure static library and the testonly browser_tests source set with their sources and dependencies.

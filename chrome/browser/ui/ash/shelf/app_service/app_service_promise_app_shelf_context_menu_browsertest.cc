@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise app shelf context menu browser test
+// summary: Browser test verifying that the context menu of a pinned promise app contains only the toggle pin command.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_promise_app_shelf_context_menu.h"
 
 #include <memory>

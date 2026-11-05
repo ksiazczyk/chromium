@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User consent view accessibility unit test
+// summary: Unit test verifying that UserConsentView reports the expected accessible name and description when a dictionary intent is set.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/user_consent_view.h"
 
 #include "chrome/browser/ui/ash/read_write_cards/read_write_cards_ui_controller.h"

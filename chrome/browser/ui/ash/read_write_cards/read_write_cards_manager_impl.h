@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsManagerImpl class declaration
+// summary: Declares the concrete manager that provides supported UI controllers for given context menu parameters, owning the UI controller and feature-specific controllers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_MANAGER_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_MANAGER_IMPL_H_
 

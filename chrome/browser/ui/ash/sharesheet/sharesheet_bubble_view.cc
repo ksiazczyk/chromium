@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet bubble view implementation
+// summary: Implements the ChromeOS sharesheet bubble, laying out share targets in a grid with expand and collapse animation, sizing, and accessibility support.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_bubble_view.h"
 
 #include <algorithm>

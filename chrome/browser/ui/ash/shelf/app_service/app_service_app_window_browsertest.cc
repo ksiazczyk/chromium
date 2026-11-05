@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service app window browser tests
+// summary: Browser tests verifying shelf behavior for ARC, Borealis, system web app, and web app windows through the App Service shelf controller.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <vector>

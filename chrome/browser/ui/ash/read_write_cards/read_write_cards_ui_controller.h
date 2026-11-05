@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsUiController class declaration
+// summary: Declares the controller managing the read write cards widget, including APIs for setting and removing quick answers and Mahi views and updating context menu bounds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_UI_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_UI_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers result view declaration
+// summary: Declares ResultView, a FlexLayoutView that renders Quick Answers result lines with phonetics audio playback and a view builder.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_RESULT_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_RESULT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector SODA installation controller declarations
+// summary: Declares ProjectorSodaInstallationController, which observes the SODA installer and locale changes to report speech recognition availability to Projector.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_SODA_INSTALLATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_PROJECTOR_PROJECTOR_SODA_INSTALLATION_CONTROLLER_H_
 

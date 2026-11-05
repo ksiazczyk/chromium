@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfControllerHelper class declaration
+// summary: Declares ShelfControllerHelper, which assists ChromeShelfController with ExtensionService interaction and app lookup and status utilities.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_SHELF_CONTROLLER_HELPER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_SHELF_CONTROLLER_HELPER_H_
 

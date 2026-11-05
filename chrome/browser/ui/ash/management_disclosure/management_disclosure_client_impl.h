@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management disclosure client class declaration
+// summary: Header declaring ManagementDisclosureClientImpl, which handles management disclosure requests from ash to chrome using policy connector and profile data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MANAGEMENT_DISCLOSURE_MANAGEMENT_DISCLOSURE_CLIENT_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_MANAGEMENT_DISCLOSURE_MANAGEMENT_DISCLOSURE_CLIENT_IMPL_H_
 

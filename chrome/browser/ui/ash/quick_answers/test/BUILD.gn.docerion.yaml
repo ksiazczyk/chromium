@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Answers test targets build file
+summary: GN build file defining the test-only mock_quick_answers_client and test_support source sets used by Quick Answers tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension shelf context menu browser test
+// summary: Browser test verifying that the launch-new submenu dynamically updates the parent menu item's label and icon after selection.
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/app_menu_constants.h"

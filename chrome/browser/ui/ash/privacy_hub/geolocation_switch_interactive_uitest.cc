@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation switch interactive UI test
+// summary: Interactive browser test that verifies geolocation permission prompts and system-level geolocation access behavior in the ChromeOS Privacy Hub.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/geolocation_access_level.h"
 #include "ash/system/privacy_hub/geolocation_privacy_switch_controller.h"

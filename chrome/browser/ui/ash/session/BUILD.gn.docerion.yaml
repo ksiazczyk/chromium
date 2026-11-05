@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Session build configuration
+summary: GN build file defining the session static library, a test_support target, and unit test targets with their dependencies for the Ash session code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf controller implementation
+// summary: Implements ChromeShelfController, which manages the Ash shelf for Chrome by syncing shelf items with profile preferences and app state.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_controller.h"
 
 #include <algorithm>

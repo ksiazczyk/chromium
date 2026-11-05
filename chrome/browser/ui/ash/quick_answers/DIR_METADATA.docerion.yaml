@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Quick Answers directory metadata
+summary: Points to the shared COMMON_METADATA file of the chromeos quick_answers component for directory metadata.

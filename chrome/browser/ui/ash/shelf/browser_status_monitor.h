@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser status monitor header
+// summary: Declares BrowserStatusMonitor, which tracks browser and tab creation, removal, and activation to keep the Ash shelf representation up to date.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_BROWSER_STATUS_MONITOR_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_BROWSER_STATUS_MONITOR_H_
 

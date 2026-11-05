@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector DriveFS provider implementation
+// summary: Implements ProjectorDriveFsProvider, which exposes DriveFS integration service lookups and observes session changes to notify when the active user switches.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_drivefs_provider.h"
 
 #include "base/files/file_path.h"
