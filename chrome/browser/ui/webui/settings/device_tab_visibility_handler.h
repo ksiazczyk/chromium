@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device tab visibility handler header
+// summary: Declares the WebUI handler for the deviceTabVisibility subpage that lists synced foreign sessions and persists per-device tab visibility preferences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_DEVICE_TAB_VISIBILITY_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_DEVICE_TAB_VISIBILITY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox composebox handler implementation
+// summary: Implements OmniboxComposeboxHandler for the omnibox popup composebox, including page classification, query submission and context handling.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/omnibox_composebox_handler.h"
 
 #include "chrome/browser/autocomplete/aim_eligibility_service_factory.h"

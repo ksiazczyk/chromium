@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the settings WebUI directory
+summary: Specifies allowed include rules for the settings WebUI directory, with per-file exceptions for security key and localized strings handlers.

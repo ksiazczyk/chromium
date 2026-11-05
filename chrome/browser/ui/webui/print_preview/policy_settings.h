@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview policy settings header
+// summary: Declares the PolicySettings class that registers enterprise policy preferences for print preview.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_POLICY_SETTINGS_H_
 #define CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_POLICY_SETTINGS_H_
 

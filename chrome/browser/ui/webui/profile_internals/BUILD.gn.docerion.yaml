@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the profile_internals WebUI
+summary: Defines the profile_internals source set and its unit tests together with their Chromium dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for profile_internals
+summary: Points to the shared metadata mixins of chrome/browser/profiles for this directory.

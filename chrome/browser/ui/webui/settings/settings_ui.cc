@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings WebUI controller implementation
+// summary: Implements the WebUI controller for the browser settings page, registering message handlers, mojo interfaces, and data sources.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_ui.h"
 
 #include <stddef.h>

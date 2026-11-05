@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings helper implementation
+// summary: Implements helpers that translate content settings, exceptions, and chooser grants into data shown by the settings site settings WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/settings/site_settings_helper.h"
 
 #include <algorithm>

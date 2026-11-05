@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance page settings WebUI handler class declaration
+// summary: Declares the PerformanceHandler class that serves performance settings page requests and observes battery saver mode changes for the settings UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_PERFORMANCE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_PERFORMANCE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security settings provider header
+// summary: Declares AddSecurityData, which adds security-specific load-time data to the settings WebUI data source.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SECURITY_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SECURITY_SETTINGS_PROVIDER_H_
 

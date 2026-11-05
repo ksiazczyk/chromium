@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system settings handler implementation
+// summary: Implements the WebUI settings handler that opens the macOS trackpad gestures pane in the system settings app.
+// ---
+
 #include "chrome/browser/ui/webui/settings/mac_system_settings_handler.h"
 
 #include "base/mac/mac_util.h"

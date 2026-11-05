@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared settings localized strings provider
+// summary: Adds localized strings and feature flags for accessibility annotations, captions, live caption, sync, and secure DNS to the settings WebUI data source.
+// ---
+
 #include "chrome/browser/ui/webui/settings/shared_settings_localized_strings_provider.h"
 
 #include <string>

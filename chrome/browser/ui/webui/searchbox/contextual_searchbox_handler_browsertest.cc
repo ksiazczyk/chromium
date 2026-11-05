@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual searchbox handler browser test
+// summary: Browser tests exercising the contextual searchbox handler and its interaction with contextual search services and browser UI.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_handler.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings utilities implementation
+// summary: Implements settings utility functions for validating startup page URLs and dispatching interaction events for Settings CUJ telemetry.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_utils.h"
 
 #include "base/check.h"

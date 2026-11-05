@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic settings WebUI message handler implementation
+// summary: Implements the settings WebUI handler for Glic, managing launcher enablement, keyboard shortcuts, web actuation, experimental triggering, and actor login permissions.
+// ---
+
 #include "chrome/browser/ui/webui/settings/glic_handler.h"
 
 #include <string>

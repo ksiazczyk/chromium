@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset password WebUI implementation
+// summary: Implements the reset password WebUI page, including the Mojo handler that triggers a password change via the password protection service and populates localized strings for the warning.
+// ---
+
 #include "chrome/browser/ui/webui/reset_password/reset_password_ui.h"
 
 #include <memory>

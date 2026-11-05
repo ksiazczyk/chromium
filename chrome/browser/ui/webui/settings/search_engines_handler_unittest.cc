@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines handler unit tests
+// summary: Unit tests for the search engines settings handler covering engine lists, default choice, guest mode and choice dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/settings/search_engines_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance page settings WebUI handler implementation
+// summary: Implements the C++ message handlers behind Chrome's performance settings page, covering battery saver status, tab discard exception validation, open sites, and CPU performance info.
+// ---
+
 #include "chrome/browser/ui/webui/settings/performance_handler.h"
 
 #include "base/feature_list.h"

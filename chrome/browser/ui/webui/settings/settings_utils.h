@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings utilities header
+// summary: Declares the settings_utils namespace functions for proxy and certificate dialogs, startup page validation, and telemetry event helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_UTILS_H_
 

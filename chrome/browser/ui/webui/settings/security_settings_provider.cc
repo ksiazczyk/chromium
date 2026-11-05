@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security settings load-time data provider
+// summary: Adds security-related feature flags such as HTTPS-first mode and hash prefix real-time lookups to the settings WebUI data source.
+// ---
+
 #include "chrome/browser/ui/webui/settings/security_settings_provider.h"
 
 #include "base/feature_list.h"

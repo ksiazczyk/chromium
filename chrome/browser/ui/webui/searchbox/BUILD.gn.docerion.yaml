@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Searchbox BUILD.gn
+summary: Defines the searchbox and searchbox_test_utils source sets with their sources and dependencies for the Chrome WebUI searchbox.

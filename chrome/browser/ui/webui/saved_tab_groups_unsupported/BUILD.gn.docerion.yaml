@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Saved tab groups unsupported BUILD.gn
+summary: Defines the saved_tab_groups_unsupported source set, listing its sources and dependencies on Chrome common, content, UI base, and WebUI resources.

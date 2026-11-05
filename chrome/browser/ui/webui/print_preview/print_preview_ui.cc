@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview WebUI controller implementation
+// summary: Implements the WebUI controller for Chrome's print preview dialog, setting up data sources, message handlers, preferences, and metrics for preview rendering and printing.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_ui.h"
 
 #include <algorithm>

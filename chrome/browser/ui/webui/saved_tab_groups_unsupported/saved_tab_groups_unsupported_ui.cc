@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab groups unsupported WebUI controller
+// summary: Implements the WebUI controller for the saved tab groups unsupported page, registering its data source resources and localized error message.
+// ---
+
 #include "chrome/browser/ui/webui/saved_tab_groups_unsupported/saved_tab_groups_unsupported_ui.h"
 
 #include "chrome/grit/generated_resources.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere settings handler unit tests
+// summary: Unit tests covering getting and setting the Omnibox Everywhere shortcut, its validation, and persistence in local state.
+// ---
+
 #include "chrome/browser/ui/webui/settings/omnibox_everywhere_settings_handler.h"
 
 #include <memory>

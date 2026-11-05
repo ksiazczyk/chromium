@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser lifetime settings handler implementation
+// summary: Implements settings WebUI messages for restarting, relaunching, ChromeOS sign-out and factory reset, and relaunch confirmation dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/settings/browser_lifetime_handler.h"
 
 #include "base/functional/bind.h"

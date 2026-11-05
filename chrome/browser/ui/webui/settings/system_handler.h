@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System settings page handler header
+// summary: Declares the SystemHandler class that supplies load-time data and handles the showProxySettings message for the system page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SYSTEM_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SYSTEM_HANDLER_H_
 

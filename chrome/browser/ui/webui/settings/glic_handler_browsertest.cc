@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic handler browser tests
+// summary: Browser tests verifying GlicHandler behavior for shortcuts, web actuation toggle visibility, consent, enterprise policy, and subscription eligibility.
+// ---
+
 #include "chrome/browser/ui/webui/settings/glic_handler.h"
 
 #include <memory>

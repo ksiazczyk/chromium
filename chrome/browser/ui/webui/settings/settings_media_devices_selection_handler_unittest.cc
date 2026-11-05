@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media devices selection handler unit tests
+// summary: Unit tests for the media devices selection handler using fake audio and video capture services and a test WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_media_devices_selection_handler.h"
 
 #include "base/test/test_future.h"

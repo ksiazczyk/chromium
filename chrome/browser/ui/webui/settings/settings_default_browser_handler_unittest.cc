@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Default browser handler unit tests
+// summary: Unit tests for the default browser settings handler, using fake default browser setters, shell delegates, and a test WebUI to exercise message handling.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_default_browser_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake print render frame implementation
+// summary: Implements a stub PrintRenderFrame that intercepts browser print requests so unit tests can observe them.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/fake_print_render_frame.h"
 
 #include <utility>

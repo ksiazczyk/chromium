@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub handler unit tests
+// summary: Unit tests for the Safety Hub handler covering unused permission revocation, password and version cards, and extension results.
+// ---
+
 #include "chrome/browser/ui/webui/settings/safety_hub_handler.h"
 
 #include <ctime>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for private_ai_internals
+summary: Lists code owners for the directory and routes reviews of .mojom files to the security owners.

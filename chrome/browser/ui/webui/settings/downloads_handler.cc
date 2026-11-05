@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads handler implementation
+// summary: Implements the Downloads settings page handler for download location selection, auto-open file types, and ChromeOS location text.
+// ---
+
 #include "chrome/browser/ui/webui/settings/downloads_handler.h"
 
 #include "base/functional/bind.h"

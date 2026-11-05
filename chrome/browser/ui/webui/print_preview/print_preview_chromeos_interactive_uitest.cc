@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS print preview interactive UI test
+// summary: Interactive ChromeOS UI test that opens the OS printer settings from the print preview destination dialog.
+// ---
+
 #include "ash/webui/settings/public/constants/routes.mojom-forward.h"
 #include "ash/webui/settings/public/constants/routes_util.h"
 #include "chrome/browser/printing/print_preview_dialog_controller.h"

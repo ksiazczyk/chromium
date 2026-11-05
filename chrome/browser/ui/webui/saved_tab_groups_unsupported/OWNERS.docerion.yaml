@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Saved tab groups unsupported owners
+summary: Delegates code ownership for the directory to the owners listed in components/saved_tab_groups/OWNERS.

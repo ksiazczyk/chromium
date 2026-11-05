@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens searchbox handler class declaration
+// summary: Declares LensSearchboxHandler, the browser-side handler for bidirectional communication with the WebUI Lens overlay and side panel searchboxes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCHBOX_LENS_SEARCHBOX_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCHBOX_LENS_SEARCHBOX_HANDLER_H_
 

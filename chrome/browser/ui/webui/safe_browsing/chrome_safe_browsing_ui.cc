@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing WebUI implementation
+// summary: Implements ChromeSafeBrowsingUI, constructing the Safe Browsing WebUI with Chrome's local state delegate and OS crypt.
+// ---
+
 #include "chrome/browser/ui/webui/safe_browsing/chrome_safe_browsing_ui.h"
 
 #include "chrome/browser/browser_process.h"

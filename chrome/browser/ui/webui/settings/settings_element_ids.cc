@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI element identifier definitions
+// summary: Defines element identifiers and custom event types used for interaction tracking across settings navigation, search, site permissions, and appearance features.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_element_ids.h"
 #include "ui/base/interaction/element_tracker.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI element identifier declarations
+// summary: Declares the element identifiers and custom event types shared by settings UI interaction tracking and tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_ELEMENT_IDS_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_ELEMENT_IDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for segmentation internals WebUI
+summary: Ownership rules that delegate review to the segmentation platform owners and require security owners for changes to mojom files.

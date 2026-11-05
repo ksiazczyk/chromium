@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile internals handler header
+// summary: Declares the WebUI message handler that provides the ordered profile list and per-profile entries for the profile internals debug page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PROFILE_INTERNALS_PROFILE_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PROFILE_INTERNALS_PROFILE_INTERNALS_HANDLER_H_
 

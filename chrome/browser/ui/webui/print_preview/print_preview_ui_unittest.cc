@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview UI unit tests
+// summary: Unit tests for PrintPreviewUI covering preview data handling, dialog controller association, and out-of-process printing.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_ui.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual searchbox screenshare controller unit tests
+// summary: Unit tests for the contextual searchbox screenshare controller using fake desktop capturers and mock hosts and delegates.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_screenshare_controller.h"
 
 #include <memory>

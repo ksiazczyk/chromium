@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance settings WebUI handler header
+// summary: Declares the AppearanceHandler class that handles appearance settings messages such as theme changes, toolbar customization, and vertical tab strip recording.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_APPEARANCE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_APPEARANCE_HANDLER_H_
 

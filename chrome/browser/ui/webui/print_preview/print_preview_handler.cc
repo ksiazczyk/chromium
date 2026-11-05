@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview handler implementation
+// summary: Implements the WebUI message handler for the print preview dialog, coordinating printer handlers, policies and print jobs.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_handler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for print preview utilities
+// summary: Tests CDD validation, DPI capability handling, media size filtering, and vendor capability sanitization used by print preview.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_utils.h"
 
 #include <memory>

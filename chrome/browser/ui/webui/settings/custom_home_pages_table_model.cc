@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom home pages table model implementation
+// summary: Implements the table model listing startup pages, loading page titles from the history service and filling the list with currently open browser pages.
+// ---
+
 #include "chrome/browser/ui/webui/settings/custom_home_pages_table_model.h"
 
 #include <stddef.h>

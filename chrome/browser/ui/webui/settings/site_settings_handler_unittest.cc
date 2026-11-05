@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site settings handler unit tests
+// summary: Unit tests for the Chrome settings site settings WebUI handler, covering content setting exceptions, chooser permissions, and per-site grouping.
+// ---
+
 #include "chrome/browser/ui/webui/settings/site_settings_handler.h"
 
 #include <algorithm>

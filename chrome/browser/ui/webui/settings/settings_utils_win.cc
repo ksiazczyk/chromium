@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows settings utilities
+// summary: Implements Windows proxy settings via ms-settings and a certificate management dialog shown on a dedicated dialog thread.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_utils.h"
 
 #include <windows.h>

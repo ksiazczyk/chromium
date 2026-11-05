@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys settings handler unit tests
+// summary: Unit tests the security key settings handlers using virtual FIDO devices for PIN, reset, fingerprint enrollment and credential management flows.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_security_key_handler.h"
 
 #include <cstddef>

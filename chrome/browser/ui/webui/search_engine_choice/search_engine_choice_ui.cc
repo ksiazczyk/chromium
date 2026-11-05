@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice WebUI controller implementation
+// summary: Implements the WebUI controller for the search engine choice page, building the JSON list of selectable search engines and registering resources and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/search_engine_choice/search_engine_choice_ui.h"
 
 #include "base/check_deref.h"

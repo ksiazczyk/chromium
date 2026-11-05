@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data handler implementation
+// summary: Implements the WebUI handler for the clear browsing data dialog, including counters, deletion and sync state updates.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_clear_browsing_data_handler.h"
 
 #include <stddef.h>

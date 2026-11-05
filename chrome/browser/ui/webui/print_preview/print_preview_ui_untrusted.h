@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted print preview UI header
+// summary: Declares the PrintPreviewUIUntrusted controller and its config for serving print preview data over the chrome-untrusted scheme.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PRINT_PREVIEW_UI_UNTRUSTED_H_
 #define CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PRINT_PREVIEW_UI_UNTRUSTED_H_
 

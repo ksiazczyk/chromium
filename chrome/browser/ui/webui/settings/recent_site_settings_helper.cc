@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent site settings helper implementation
+// summary: Helper that gathers a profile's recently changed site permissions and embargoed origins, ordered by recency and permission priority.
+// ---
+
 #include "chrome/browser/ui/webui/settings/recent_site_settings_helper.h"
 
 #include <algorithm>

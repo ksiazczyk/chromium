@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS local printer handler unit tests
+// summary: Unit tests for the ChromeOS local printer handler, covering printer enumeration, capabilities, and IPP client info calculation with fake dependencies.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/local_printer_handler_chromeos.h"
 
 #include <algorithm>

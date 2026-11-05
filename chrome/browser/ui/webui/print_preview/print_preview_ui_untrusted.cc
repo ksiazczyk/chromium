@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted print preview UI implementation
+// summary: Implements the chrome-untrusted print preview controller that serves preview PDF data from the print preview data service.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_ui_untrusted.h"
 
 #include <memory>

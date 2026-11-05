@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation internals WebUI controller implementation
+// summary: Implements the WebUI controller for the segmentation internals page, setting up its data source and binding the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/segmentation_internals/segmentation_internals_ui.h"
 
 #include "base/feature_list.h"

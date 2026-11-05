@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParseDataPath unit tests
+// summary: Unit tests verifying that ParseDataPath correctly parses valid preview PDF paths and rejects invalid ones such as wrong suffixes or malformed IDs.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/parse_data_path.h"
 
 #include <optional>

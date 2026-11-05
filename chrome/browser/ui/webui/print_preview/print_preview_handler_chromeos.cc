@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS print preview handler implementation
+// summary: Implements ChromeOS-specific print preview messages such as printer setup, EULA lookup and print server selection.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_handler_chromeos.h"
 
 #include <stddef.h>

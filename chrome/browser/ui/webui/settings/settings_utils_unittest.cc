@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings utilities unit tests
+// summary: Unit tests verifying FixupAndValidateStartupPage rejects invalid URLs and fixes up valid ones such as about:settings.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -4,6 +4,12 @@
 
 // Adapted version of the tests.
 
+// ---docerion
+// type: test
+// title: People handler browser tests
+// summary: Browser tests for the People settings handler, adapted to cover sign-out behavior when sync is off.
+// ---
+
 #include "chrome/browser/ui/webui/settings/people_handler.h"
 
 #include <memory>

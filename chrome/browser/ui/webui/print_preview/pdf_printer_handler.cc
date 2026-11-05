@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF printer handler implementation
+// summary: Implements the Save as PDF destination for print preview, including file naming, save location selection, and writing print data to disk.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/pdf_printer_handler.h"
 
 #include <algorithm>

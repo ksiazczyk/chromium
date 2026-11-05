@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals WebUI controller declarations
+// summary: Declares the WebUI controller and configuration classes for the browser's private AI internals debugging page, including the Mojo page handler binding members.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRIVATE_AI_INTERNALS_PRIVATE_AI_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_PRIVATE_AI_INTERNALS_PRIVATE_AI_INTERNALS_UI_H_
 

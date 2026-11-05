@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation handler header
+// summary: Declares the WebUI message handler for Dictation settings that sets and validates the dictation shortcut hotkey.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_DICTATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_DICTATION_HANDLER_H_
 

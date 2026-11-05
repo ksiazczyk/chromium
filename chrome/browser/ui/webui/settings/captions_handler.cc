@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captions settings handler implementation
+// summary: Implements the captions settings subpage handler for live caption, SODA speech recognition, and language pack installation, removal, and progress reporting.
+// ---
+
 #include "chrome/browser/ui/webui/settings/captions_handler.h"
 
 #include <algorithm>

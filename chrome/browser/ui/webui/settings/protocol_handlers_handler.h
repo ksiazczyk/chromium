@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handlers settings WebUI handler class declaration
+// summary: Declares the ProtocolHandlersHandler class that observes protocol handler registry and web app changes for the settings UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_PROTOCOL_HANDLERS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_PROTOCOL_HANDLERS_HANDLER_H_
 

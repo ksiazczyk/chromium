@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS settings handler implementation
+// summary: Implements the WebUI handler for secure DNS settings, including resolver lists, config validation and probing.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_secure_dns_handler.h"
 
 #include <memory>

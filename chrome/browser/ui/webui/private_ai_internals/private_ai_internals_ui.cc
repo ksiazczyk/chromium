@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals WebUI controller implementation
+// summary: Implements the WebUI controller and configuration for the browser's private AI internals debugging page, including feature gating, data source setup, and Mojo interface binding.
+// ---
+
 #include "chrome/browser/ui/webui/private_ai_internals/private_ai_internals_ui.h"
 
 #include <memory>

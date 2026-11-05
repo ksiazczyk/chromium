@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device AI settings handler header
+// summary: Declares the OnDeviceAiSettingsHandler for the on-device AI settings page, including get, set and feedback message handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_ON_DEVICE_AI_SETTINGS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_ON_DEVICE_AI_SETTINGS_HANDLER_H_
 

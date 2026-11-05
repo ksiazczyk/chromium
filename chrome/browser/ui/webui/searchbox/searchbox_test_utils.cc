@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox test utilities implementation
+// summary: Implements shared mocks and setup helpers for searchbox WebUI tests, including mock browser window, tab list, tab interface, pages, and autocomplete objects.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/searchbox_test_utils.h"
 
 #include <memory>

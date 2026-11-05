@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On Startup settings page handler header
+// summary: Declares the OnStartupHandler class, which observes extension registry changes and serves NTP extension info and startup page validation to the settings UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_ON_STARTUP_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_ON_STARTUP_HANDLER_H_
 

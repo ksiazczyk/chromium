@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent site settings helper unit tests
+// summary: Unit tests for recent site permission retrieval, covering incognito timestamps, embargoed settings, and ordering of permission changes.
+// ---
+
 #include "chrome/browser/ui/webui/settings/recent_site_settings_helper.h"
 
 #include "base/memory/raw_ptr.h"

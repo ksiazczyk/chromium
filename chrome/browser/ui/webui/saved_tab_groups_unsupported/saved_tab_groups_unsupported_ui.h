@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab groups unsupported WebUI controller header
+// summary: Declares the SavedTabGroupsUnsupportedUI controller and its WebUI config for pages whose URLs are not supported by the saved tab groups feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SAVED_TAB_GROUPS_UNSUPPORTED_SAVED_TAB_GROUPS_UNSUPPORTED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SAVED_TAB_GROUPS_UNSUPPORTED_SAVED_TAB_GROUPS_UNSUPPORTED_UI_H_
 

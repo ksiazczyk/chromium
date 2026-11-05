@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting settings handler implementation
+// summary: Implements the WebUI handler that reads and toggles the metrics reporting preference for Google-branded, non-ChromeOS builds.
+// ---
+
 #include "build/branding_buildflags.h"
 #include "build/build_config.h"
 

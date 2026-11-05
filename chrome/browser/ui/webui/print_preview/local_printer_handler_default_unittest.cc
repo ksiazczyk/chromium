@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default local printer handler unit tests
+// summary: Unit tests for LocalPrinterHandlerDefault covering default printer lookup, printer enumeration, and capability fetching with local and out-of-process print backends.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/local_printer_handler_default.h"
 
 #include <functional>

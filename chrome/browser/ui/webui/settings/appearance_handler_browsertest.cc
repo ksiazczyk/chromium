@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Appearance handler browser tests
+// summary: In-process browser tests verifying that the appearance settings handler opens the Customize Chrome toolbar section and resets pinned toolbar actions to defaults.
+// ---
+
 #include "chrome/browser/ui/webui/settings/appearance_handler.h"
 
 #include <memory>

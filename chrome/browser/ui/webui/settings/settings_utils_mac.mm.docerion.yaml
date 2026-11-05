@@ -1,0 +1,4 @@
+# Docerion header of settings_utils_mac.mm.
+type: source
+title: macOS settings utilities
+summary: Implements macOS proxy settings via System Settings, Keychain certificate access, and validation of saved font family preferences.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox handler implementation
+// summary: Implements the WebUI message handler that collects browser and renderer process sandbox diagnostics and Windows sandbox feature states for the sandbox internals page.
+// ---
+
 #include "chrome/browser/ui/webui/sandbox/sandbox_handler.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the sandbox internals WebUI
+summary: GN build file defining the sandbox WebUI source set with its sources and platform-specific dependencies for Windows, Android, Linux and ChromeOS.

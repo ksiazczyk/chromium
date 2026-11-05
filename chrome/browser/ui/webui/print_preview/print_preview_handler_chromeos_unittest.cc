@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS print preview handler unit tests
+// summary: Unit tests for the ChromeOS print preview handler using fake printers managers and print server configurations.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_handler_chromeos.h"
 
 #include <map>

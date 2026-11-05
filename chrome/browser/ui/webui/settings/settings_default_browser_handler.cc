@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser settings WebUI handler implementation
+// summary: Implements the settings WebUI message handler for default browser state, including set-as-default actions, taskbar pinning on Windows, and pref change observation.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_default_browser_handler.h"
 
 #include <utility>

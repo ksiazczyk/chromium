@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the accessibility settings handler
+// summary: Unit tests for AccessibilityMainHandler's Screen AI install state reporting on desktop platforms.
+// ---
+
 #include "chrome/browser/ui/webui/settings/accessibility_main_handler.h"
 
 #if BUILDFLAG(IS_WIN) || BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_MAC)

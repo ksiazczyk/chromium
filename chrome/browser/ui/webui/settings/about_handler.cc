@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About page WebUI message handler implementation
+// summary: Implements the WebUI message handler for the Chrome About page, covering update status, version info, feedback, and ChromeOS-specific behaviors.
+// ---
+
 #include "chrome/browser/ui/webui/settings/about_handler.h"
 
 #include <stddef.h>

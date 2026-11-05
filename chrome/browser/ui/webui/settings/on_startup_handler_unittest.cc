@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On Startup handler unit tests
+// summary: Unit tests for the On Startup settings handler covering NTP extension retrieval and startup page URL validation.
+// ---
+
 #include "chrome/browser/ui/webui/settings/on_startup_handler.h"
 
 #include <string>

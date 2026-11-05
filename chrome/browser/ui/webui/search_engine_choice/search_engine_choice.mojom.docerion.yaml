@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice.mojom.
+type: source
+title: Search engine choice Mojo interface definitions
+summary: Defines the PageHandlerFactory and PageHandler Mojo interfaces for displaying the choice dialog, handling engine selection, link and button clicks, and recording scroll state.

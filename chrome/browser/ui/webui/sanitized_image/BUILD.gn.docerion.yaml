@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the sanitized image source
+summary: Defines the sanitized_image_source source set and its unit test target, listing the Chromium dependencies required to build them.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension printer handler implementation
+// summary: Implements the PrinterHandler interface via the printerProvider extension API, including USB printer enumeration and PWG raster conversion for print jobs.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/extension_printer_handler.h"
 
 #include <algorithm>

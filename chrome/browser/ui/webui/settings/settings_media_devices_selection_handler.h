@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media devices selection handler header
+// summary: Declares the handler for media device selection in content settings, observing audio and video device changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_MEDIA_DEVICES_SELECTION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_MEDIA_DEVICES_SELECTION_HANDLER_H_
 

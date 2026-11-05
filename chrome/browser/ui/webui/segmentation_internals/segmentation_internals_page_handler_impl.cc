@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation internals page handler implementation
+// summary: Implements the browser-side page handler that forwards WebUI requests to the segmentation platform service and relays status and client info updates to the page.
+// ---
+
 #include "chrome/browser/ui/webui/segmentation_internals/segmentation_internals_page_handler_impl.h"
 
 #include "base/functional/bind.h"

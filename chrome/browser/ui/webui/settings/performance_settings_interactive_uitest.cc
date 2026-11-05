@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance settings interactive UI tests
+// summary: Interactive browser tests exercising the performance settings page UI, including memory saver toggles, aggressiveness radio buttons, and tab discard exception dialogs.
+// ---
+
 #include "base/json/values_util.h"
 #include "base/power_monitor/battery_state_sampler.h"
 #include "base/strings/strcat.h"

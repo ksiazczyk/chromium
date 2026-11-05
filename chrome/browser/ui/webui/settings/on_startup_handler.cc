@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On Startup settings page handler implementation
+// summary: Implements the WebUI message handler for the On Startup settings page, exposing the NTP-overriding extension and validating startup page URLs.
+// ---
+
 #include "chrome/browser/ui/webui/settings/on_startup_handler.h"
 
 #include <string>

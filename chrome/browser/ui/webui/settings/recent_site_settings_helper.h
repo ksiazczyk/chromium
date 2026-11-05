@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent site settings helper declarations
+// summary: Declares structs and a helper that collect the most recent site permission changes grouped by origin and profile for the settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_RECENT_SITE_SETTINGS_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_RECENT_SITE_SETTINGS_HELPER_H_
 

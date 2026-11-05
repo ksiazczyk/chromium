@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile internals handler implementation
+// summary: Implements the message handler for the profile internals debug page, building profile entries with signin state, GAIA details, and country ID debug strings.
+// ---
+
 #include "chrome/browser/ui/webui/profile_internals/profile_internals_handler.h"
 
 #include <optional>

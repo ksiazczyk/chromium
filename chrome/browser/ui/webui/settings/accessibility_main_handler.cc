@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings WebUI accessibility main handler implementation
+// summary: Implements the settings WebUI accessibility handler, exposing screen reader state, image label confirmation, and ScreenAI install state to the page and forwarding install progress updates.
+// ---
+
 #include "chrome/browser/ui/webui/settings/accessibility_main_handler.h"
 
 #include <utility>

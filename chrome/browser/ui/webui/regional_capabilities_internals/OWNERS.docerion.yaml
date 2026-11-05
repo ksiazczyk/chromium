@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for regional capabilities internals
+summary: Delegates ownership and review responsibility to the owners of components/regional_capabilities.

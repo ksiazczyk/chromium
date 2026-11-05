@@ -1,0 +1,4 @@
+# Docerion header of segmentation_internals.mojom.
+type: source
+title: Mojom interfaces for segmentation internals WebUI
+summary: Defines the mojom structs and interfaces used for bidirectional communication between the segmentation internals WebUI page and its browser-side handler.

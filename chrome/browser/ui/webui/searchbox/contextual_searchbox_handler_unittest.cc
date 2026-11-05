@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual searchbox handler unit tests
+// summary: Extensive unit tests for the contextual searchbox handler covering contextual search, contextual tasks, and file handling behavior.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Untrusted print preview UI unit tests
+// summary: Unit tests verifying that the untrusted print preview data source returns correct preview and test PDF data.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_ui_untrusted.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device tab visibility handler implementation
+// summary: Implements the settings handler that lists synced foreign sessions and stores per-session tab visibility state in profile preferences.
+// ---
+
 #include "chrome/browser/ui/webui/settings/device_tab_visibility_handler.h"
 
 #include <string>

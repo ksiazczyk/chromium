@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance settings WebUI handler implementation
+// summary: Implements the Chrome appearance settings page handler for theme selection, Customize Chrome side panel, pinned toolbar actions, and vertical tab strip metrics.
+// ---
+
 #include "chrome/browser/ui/webui/settings/appearance_handler.h"
 
 #include "base/check.h"

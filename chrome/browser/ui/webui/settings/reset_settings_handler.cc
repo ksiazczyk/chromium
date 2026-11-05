@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset settings handler implementation
+// summary: Implements the WebUI handler for resetting profile settings, including the reset banner, reset reporting, and ChromeOS powerwash support.
+// ---
+
 #include "chrome/browser/ui/webui/settings/reset_settings_handler.h"
 
 #include <string>
