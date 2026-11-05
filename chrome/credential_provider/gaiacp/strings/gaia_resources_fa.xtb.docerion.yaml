@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_fa.xtb.
+type: data
+title: Persian translation bundle for Gaia credential provider strings
+summary: Persian translationbundle XML with localized UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

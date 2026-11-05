@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUserProfile implementation
+// summary: Implements ScopedUserProfile, which ensures a Windows user profile is created, saves Gaia account info to the registry, encrypts refresh tokens with DPAPI, and updates Google account profile pictures.
+// ---
+
 #include "chrome/credential_provider/gaiacp/scoped_user_profile.h"
 
 #include <Windows.h>

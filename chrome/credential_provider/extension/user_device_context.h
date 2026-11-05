@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User device context struct
+// summary: Defines the UserDeviceContext struct holding device resource ID, serial number, machine GUID, user SID and DM token used by extension tasks.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_USER_DEVICE_CONTEXT_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_USER_DEVICE_CONTEXT_H_
 

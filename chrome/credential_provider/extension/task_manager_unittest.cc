@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager unit tests
+// summary: Unit tests for the GCPW extension task manager, using fake tasks, registry overrides and mock time to verify periodic task execution and last-sync tracking.
+// ---
+
 #include "chrome/credential_provider/extension/task_manager.h"
 
 #include <windows.h>

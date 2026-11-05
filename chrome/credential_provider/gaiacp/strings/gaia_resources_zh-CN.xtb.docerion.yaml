@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_zh-CN.xtb.
+type: data
+title: Simplified Chinese translations for Gaia credential provider strings
+summary: Simplified Chinese translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

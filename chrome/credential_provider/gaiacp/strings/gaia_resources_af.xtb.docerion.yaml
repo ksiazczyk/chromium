@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_af.xtb.
+type: data
+title: Afrikaans translation bundle for Gaia credential provider
+summary: Afrikaans UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

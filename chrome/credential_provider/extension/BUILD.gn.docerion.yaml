@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the GCPW extension
+summary: GN build file defining version resources, grit resources, source sets and the gcpw_extension executable.

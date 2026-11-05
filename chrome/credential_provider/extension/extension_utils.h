@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW extension service utilities
+// summary: Declares helpers to install, uninstall, and query the GCPW extension Windows service and to derive registry names for task sync state.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_EXTENSION_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_EXTENSION_UTILS_H_
 

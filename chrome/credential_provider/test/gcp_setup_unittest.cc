@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GCPW setup and installation
+// summary: Tests GCPW installation, registration, upgrade, and uninstall behavior of the setup library using temp directories and registry overrides.
+// ---
+
 #include <unknwn.h>
 
 #include <datetimeapi.h>

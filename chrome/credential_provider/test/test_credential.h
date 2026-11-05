@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test credential base for Gaia credential provider tests
+// summary: Declares the ITestCredential interface and the CTestCredentialBase template that fakes a Gaia-backed ICredentialProviderCredential for testing the Windows credential provider.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_TEST_TEST_CREDENTIAL_H_
 #define CHROME_CREDENTIAL_PROVIDER_TEST_TEST_CREDENTIAL_H_
 

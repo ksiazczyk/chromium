@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential provider filter header
+// summary: Declares the ICredentialProviderFilter COM class that forces users needing Gaia reauth out of normal sign-in before other credential providers are shown.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_PROVIDER_FILTER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_PROVIDER_FILTER_H_
 

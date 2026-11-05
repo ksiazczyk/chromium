@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policies manager implementation
+// summary: Implements fetching device policies from GCPW backends and Omaha policy responses, combining per-user policies and enforcing GCPW update settings.
+// ---
+
 #include "chrome/credential_provider/gaiacp/device_policies_manager.h"
 
 #include <wrl/client.h>

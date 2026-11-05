@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_pa.xtb.
+type: data
+title: Punjabi translation bundle for Google Credential Provider
+summary: Punjabi strings for the Google Credential Provider for Windows, covering sign-in errors, password sync and account management messages.

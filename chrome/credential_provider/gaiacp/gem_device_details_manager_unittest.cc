@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GEM device details manager unit tests
+// summary: Parameterized unit tests verifying device detail uploads via the ESA task using fake OS users, fetchers and server responses.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gem_device_details_manager.h"
 
 #include <windows.h>

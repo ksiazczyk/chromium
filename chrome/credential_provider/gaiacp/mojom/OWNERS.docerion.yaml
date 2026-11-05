@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the owners of the GCPW mojom directory and routes reviews of mojom files to the IPC security owners.

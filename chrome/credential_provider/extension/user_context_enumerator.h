@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User context enumerator header
+// summary: Declares the UserContextEnumerator singleton that performs a given task for every GCPW user associated with the device.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_USER_CONTEXT_ENUMERATOR_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_USER_CONTEXT_ENUMERATOR_H_
 

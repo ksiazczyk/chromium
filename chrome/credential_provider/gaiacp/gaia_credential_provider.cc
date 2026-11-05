@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential provider implementation
+// summary: Implements the CGaiaCredentialProvider COM object that supplies Gaia-backed credentials to the Windows logon UI and creates anonymous, other user, and reauth credentials.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_provider.h"
 
 #include <credentialprovider.h>

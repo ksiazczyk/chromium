@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_sr-Latn.xtb.
+type: data
+title: Gaia resources translation bundle (Serbian, Latin script)
+summary: Serbian Latin-script translations of UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

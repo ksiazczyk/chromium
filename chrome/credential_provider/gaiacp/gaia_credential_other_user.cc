@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other user Gaia credential implementation
+// summary: Implements the other user Gaia credential, building the Gaia login command line so users in the default other user flow accept the terms of service each time.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_other_user.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential provider DLL module header
+// summary: Declares the GCPW DLL module class managing DLL lifecycle, testing mode, token handle validity, extension checks, and crash reporting.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_PROVIDER_MODULE_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_PROVIDER_MODULE_H_
 

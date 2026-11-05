@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User device context implementation
+// summary: Implements the constructors and equality comparison for the UserDeviceContext struct.
+// ---
+
 #include "chrome/credential_provider/extension/user_device_context.h"
 
 namespace credential_provider {

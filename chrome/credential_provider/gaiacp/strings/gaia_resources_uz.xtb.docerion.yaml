@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_uz.xtb.
+type: data
+title: Uzbek translations for Gaia credential provider strings
+summary: Uzbek translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

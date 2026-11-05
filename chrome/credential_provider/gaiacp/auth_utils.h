@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows authentication package utilities header
+// summary: Declares functions to get the auth package id, build credential pack buffers and determine user SIDs.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_AUTH_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_AUTH_UTILS_H_
 

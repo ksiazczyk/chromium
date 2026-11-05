@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedUserProfile unit tests
+// summary: Unit tests verifying validation of Google profile picture URLs and building of sized profile picture URLs in ScopedUserProfile.
+// ---
+
 #include "chrome/credential_provider/gaiacp/scoped_user_profile.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

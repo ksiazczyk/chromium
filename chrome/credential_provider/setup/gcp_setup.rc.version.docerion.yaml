@@ -1,0 +1,4 @@
+# Docerion header of gcp_setup.rc.version.
+type: config
+title: Installer version resource template
+summary: VERSIONINFO resource template with placeholders for the Google Credential Provider installer version and product metadata.

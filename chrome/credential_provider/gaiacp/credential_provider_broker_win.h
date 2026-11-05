@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID broker header
+// summary: Declares the Windows implementation of the Gaia credential provider HID broker mojo interface.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_CREDENTIAL_PROVIDER_BROKER_WIN_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_CREDENTIAL_PROVIDER_BROKER_WIN_H_
 

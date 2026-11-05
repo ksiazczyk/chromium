@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_zu.xtb.
+type: data
+title: 'Gaia Credential Provider strings: Zulu translation bundle'
+summary: Zulu translations of the Google Credential Provider for Windows sign-in and password-sync UI messages, stored as an XML translation bundle.

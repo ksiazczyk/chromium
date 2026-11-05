@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCPW setup build targets and resources
+summary: Defines build targets for the credential provider setup, including the common library, grit resources, self-extracting binary and installer executable.

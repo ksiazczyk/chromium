@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_uk.xtb.
+type: data
+title: Ukrainian translations for Gaia credential provider strings
+summary: Ukrainian translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

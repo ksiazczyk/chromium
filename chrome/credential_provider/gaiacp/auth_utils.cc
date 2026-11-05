@@ -6,6 +6,12 @@
 // to create the authentication packages used to sign the user into a Windows
 // system.
 
+// ---docerion
+// type: source
+// title: Windows authentication package utilities
+// summary: Builds and protects Windows credential serialization buffers used to sign users into the system.
+// ---
+
 #include "chrome/credential_provider/gaiacp/auth_utils.h"
 
 #include <atlconv.h>

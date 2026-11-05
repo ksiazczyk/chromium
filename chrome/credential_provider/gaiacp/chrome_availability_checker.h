@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome availability checker header
+// summary: Declares a class that reports Chrome availability and can be overridden to return forced values in tests.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_CHROME_AVAILABILITY_CHECKER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_CHROME_AVAILABILITY_CHECKER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_as.xtb.
+type: data
+title: Assamese translation bundle for Gaia credential provider
+summary: Assamese UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

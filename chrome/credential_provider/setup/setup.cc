@@ -5,6 +5,12 @@
 // This app is written as a windowsless win32 app instead of a console app so
 // that the app can be made entireless silent, as required by omaha.
 
+// ---docerion
+// type: source
+// title: GCPW installer entry point
+// summary: Implements the silent windowless Win32 installer entry point with logging, crashpad handler mode and install or uninstall dispatch.
+// ---
+
 #include <Windows.h>
 
 #include <shlobj.h>  // Needed for IsUserAnAdmin()

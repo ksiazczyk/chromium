@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW setup utilities header
+// summary: Declares the setup command-line switches, the StandaloneInstallerConfigurator singleton class, and the secure DLL loading helper for the GCPW installer.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_SETUP_SETUP_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_SETUP_SETUP_UTILS_H_
 

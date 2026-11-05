@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporting configuration implementation
+// summary: Configures Crashpad crash reporting for the GCPW installer and sets crash keys such as install versus uninstall operation.
+// ---
+
 #include "chrome/credential_provider/setup/gcp_installer_crash_reporting.h"
 
 #include <string>

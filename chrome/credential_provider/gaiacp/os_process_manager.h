@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS process manager header
+// summary: Declares OSProcessManager, which manages OS process creation with logon tokens and permission setup for logon SIDs.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_PROCESS_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_PROCESS_MANAGER_H_
 

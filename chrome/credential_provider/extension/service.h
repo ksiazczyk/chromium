@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW extension service class declaration
+// summary: Declares the Service singleton that manages the GCPW extension service lifetime, control handler, and status reporting to the service control manager.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_SERVICE_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_SERVICE_H_
 

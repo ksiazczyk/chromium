@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources.grd.
+type: config
+title: GCPW string translations grit file
+summary: Grit resource definition listing translated GCPW credential provider strings for all supported Chrome languages.

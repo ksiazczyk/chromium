@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_km.xtb.
+type: data
+title: Google Credential Provider strings, Khmer translation bundle
+summary: Khmer translations of UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password synchronization errors, and administrator guidance.

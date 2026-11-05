@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped LSA policy implementation
+// summary: Implements ScopedLsaPolicy for opening LSA policy handles and storing, retrieving, removing private data and managing account rights.
+// ---
+
 #include "chrome/credential_provider/gaiacp/scoped_lsa_policy.h"
 
 #include <windows.h>

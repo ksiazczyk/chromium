@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager implementation with backoff scheduling
+// summary: Implements TaskManager scheduling of registered periodic tasks, tracking last sync times in the registry and applying backoff after failures.
+// ---
+
 #include "chrome/credential_provider/extension/task_manager.h"
 
 #include <windows.h>

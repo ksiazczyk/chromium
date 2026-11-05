@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiments manager implementation
+// summary: Implements the experiments manager that registers supported experiments with defaults, reloads per-user values from fetched files, and serves experiment values.
+// ---
+
 #include "chrome/credential_provider/gaiacp/experiments_manager.h"
 
 #include <string_view>

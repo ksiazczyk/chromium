@@ -1,0 +1,4 @@
+# Docerion header of extension_resources.grd.
+type: config
+title: Grit resource definitions for the extension
+summary: Grit file listing resource outputs and including the extension icon for the GCPW extension.

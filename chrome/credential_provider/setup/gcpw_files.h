@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW install file lists interface
+// summary: Declares the GCPWFiles singleton that provides the effective installable files and COM DLLs to register.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_SETUP_GCPW_FILES_H_
 #define CHROME_CREDENTIAL_PROVIDER_SETUP_GCPW_FILES_H_
 

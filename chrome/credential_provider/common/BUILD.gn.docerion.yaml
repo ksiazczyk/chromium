@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for GCPW common string constants
+summary: Defines the common_constants source set that compiles gcp_strings.cc and gcp_strings.h, the constants shared between the credential provider DLL and Chrome.

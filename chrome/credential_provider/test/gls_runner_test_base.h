@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLS runner test base class declaration
+// summary: Declares a test base class that drives the full credential provider call sequence with fake managers, fetchers, and event objects.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_TEST_GLS_RUNNER_TEST_BASE_H_
 #define CHROME_CREDENTIAL_PROVIDER_TEST_GLS_RUNNER_TEST_BASE_H_
 

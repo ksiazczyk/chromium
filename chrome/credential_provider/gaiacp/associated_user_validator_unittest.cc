@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Associated user validator unit tests
+// summary: Unit tests for the associated user validator using fake OS user manager, HTTP fetcher, LSA policy and registry overrides.
+// ---
+
 #include "chrome/credential_provider/gaiacp/associated_user_validator.h"
 
 #include <memory>

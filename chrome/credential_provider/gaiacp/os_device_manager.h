@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS device manager header
+// summary: Declares the OSDeviceManager singleton used to open OS device handles and query HID usage pages, with a hook to swap in test instances.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_DEVICE_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_DEVICE_MANAGER_H_
 

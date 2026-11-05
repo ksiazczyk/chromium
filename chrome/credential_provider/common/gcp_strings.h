@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of shared GCPW string constants
+// summary: Declares the shared GCPW constants for JSON keys, registry values, signin switches, signin URL parameters and the UI process exit code enum.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_COMMON_GCP_STRINGS_H_
 #define CHROME_CREDENTIAL_PROVIDER_COMMON_GCP_STRINGS_H_
 

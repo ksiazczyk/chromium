@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW crash reporting header
+// summary: Declares ConfigureGcpCrashReporting, which sets up crash reporting and startup crash keys for the credential provider.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTING_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTING_H_
 

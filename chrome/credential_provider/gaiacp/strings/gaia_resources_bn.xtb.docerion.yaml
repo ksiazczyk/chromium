@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_bn.xtb.
+type: data
+title: Bengali translation bundle for Gaia credential provider
+summary: Bengali UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for credential_provider
+summary: Lists the owners responsible for reviewing changes and routes translation artifact files to the translation owners.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for credential_provider
+summary: Sets include rules allowing dependencies on Chrome installer, updater, net, and other components, with extra rules for unit tests.

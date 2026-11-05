@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS and service fakes for GCPW tests
+// summary: Implements fake OS process, user, and device managers plus registry override helpers that replace Windows services in credential provider tests.
+// ---
+
 #include "chrome/credential_provider/test/gcp_fakes.h"
 
 #include <windows.h>

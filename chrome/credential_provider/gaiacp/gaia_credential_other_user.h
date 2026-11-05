@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other user Gaia credential class declaration
+// summary: Declares COtherUserGaiaCredential, a Gaia credential variant that supports appearing on the Windows Other User tile when system policies allow it.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_OTHER_USER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GAIA_CREDENTIAL_OTHER_USER_H_
 

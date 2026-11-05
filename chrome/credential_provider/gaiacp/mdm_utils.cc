@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDM enrollment utilities
+// summary: Implements MDM enrollment checks, password LSA store keys, escrow service settings and device details upload handling for GCPW.
+// ---
+
 #include "chrome/credential_provider/gaiacp/mdm_utils.h"
 
 #include <windows.h>

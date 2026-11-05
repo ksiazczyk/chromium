@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCP installer build targets
+summary: Defines the GN action that builds gcp_installer.exe and groups the credential provider targets for Windows builds.

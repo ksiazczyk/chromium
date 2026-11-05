@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test credential provider interface
+// summary: Declares the ITestCredentialProvider test interface exposing username, password, SID and credentials-changed state for credential provider tests.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_TEST_TEST_CREDENTIAL_PROVIDER_H_
 #define CHROME_CREDENTIAL_PROVIDER_TEST_TEST_CREDENTIAL_PROVIDER_H_
 

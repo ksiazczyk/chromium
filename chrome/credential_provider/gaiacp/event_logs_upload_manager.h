@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event logs upload manager
+// summary: Declares the manager that uploads GCPW event viewer logs to GEM cloud storage, including the event log entry structure and chunked upload request handling.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_EVENT_LOGS_UPLOAD_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_EVENT_LOGS_UPLOAD_MANAGER_H_
 

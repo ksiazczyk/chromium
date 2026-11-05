@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW utility declarations
+// summary: Declares GCPW constants and helpers for username and buffer limits, data paths, standard handle creation and device data.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential implementation
+// summary: Implements the CGaiaCredential COM object for the default add user flow, configuring the Gaia logon screen command line including the terms-of-service switch.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential.h"
 
 #include "base/command_line.h"

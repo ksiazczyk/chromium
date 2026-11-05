@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event logging API manager interface
+// summary: Declares EventLoggingApiManager, a virtual wrapper exposing the Win32 Event logging API for querying, rendering and closing Windows event log handles.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_EVENT_LOGGING_API_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_EVENT_LOGGING_API_MANAGER_H_
 

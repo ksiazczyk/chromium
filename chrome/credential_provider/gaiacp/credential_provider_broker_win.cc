@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID broker for the credential provider
+// summary: Opens HID device handles and reads usage pages to serve the credential provider HID broker mojo interface.
+// ---
+
 #include "chrome/credential_provider/gaiacp/credential_provider_broker_win.h"
 
 #define INITGUID

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauth credential implementation
+// summary: Implements the credential for re-authenticating an existing Windows user associated with a Gaia account, building the GLS command line with gaia id and prefill email.
+// ---
+
 #include "chrome/credential_provider/gaiacp/reauth_credential.h"
 
 #include "base/command_line.h"

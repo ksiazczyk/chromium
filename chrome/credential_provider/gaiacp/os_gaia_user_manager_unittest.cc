@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS gaia user manager unit tests
+// summary: Unit tests for OSGaiaUserManager covering gaia user creation and password changes using fake OS user manager and LSA policy fakes.
+// ---
+
 #include "chrome/credential_provider/gaiacp/os_gaia_user_manager.h"
 
 #include <windows.h>

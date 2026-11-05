@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia credential unit tests
+// summary: Unit tests for the Gaia credential verifying authentication handling for same and different passwords and sign-in results.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential.h"
 
 #include <wrl/client.h>

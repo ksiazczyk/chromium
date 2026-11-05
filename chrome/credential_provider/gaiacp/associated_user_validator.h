@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Associated user validator header
+// summary: Declares the thread-safe validator that caches token handle validity and controls user access updates for the credential provider.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_ASSOCIATED_USER_VALIDATOR_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_ASSOCIATED_USER_VALIDATOR_H_
 

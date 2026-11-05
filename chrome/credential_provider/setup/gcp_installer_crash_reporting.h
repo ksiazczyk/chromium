@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporting interface
+// summary: Declares the function that sets up the crash reporting system and startup crash keys for the installer process.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_SETUP_GCP_INSTALLER_CRASH_REPORTING_H_
 #define CHROME_CREDENTIAL_PROVIDER_SETUP_GCP_INSTALLER_CRASH_REPORTING_H_
 

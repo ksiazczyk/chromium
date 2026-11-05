@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App inventory manager implementation
+// summary: Implements uploading installed Win32 app inventory to the GEM backend and the ESA task that triggers it.
+// ---
+
 #include "chrome/credential_provider/extension/app_inventory_manager.h"
 
 #include <memory>

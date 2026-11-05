@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App inventory manager class declaration
+// summary: Declares AppInventoryManager, which uploads app data to GCPW backends and provides the ESA task creator.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_APP_INVENTORY_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_APP_INVENTORY_MANAGER_H_
 

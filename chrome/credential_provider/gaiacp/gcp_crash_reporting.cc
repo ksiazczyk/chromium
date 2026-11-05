@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW crash reporting setup
+// summary: Configures the Crashpad crash reporting system for the credential provider DLL, including handler startup and common crash keys.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcp_crash_reporting.h"
 
 #include <utility>

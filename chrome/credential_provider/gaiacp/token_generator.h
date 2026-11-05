@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenGenerator class header
+// summary: Declares the TokenGenerator singleton class that generates cryptographically strong random tokens for GCPW.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_TOKEN_GENERATOR_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_TOKEN_GENERATOR_H_
 

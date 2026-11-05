@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COM fakes declarations for credential provider tests
+// summary: Declares fake COM interfaces including credential provider users, user arrays, and credential event fakes for use in GCPW unit tests.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_TEST_COM_FAKES_H_
 #define CHROME_CREDENTIAL_PROVIDER_TEST_COM_FAKES_H_
 

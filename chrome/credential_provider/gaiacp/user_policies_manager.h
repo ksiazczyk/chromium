@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPoliciesManager class header
+// summary: Declares the UserPoliciesManager class for fetching, storing and retrieving cloud user policies from the GCPW backend.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_USER_POLICIES_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_USER_POLICIES_MANAGER_H_
 

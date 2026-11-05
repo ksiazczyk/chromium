@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_lv.xtb.
+type: data
+title: Gaia resources translation bundle (Latvian)
+summary: Latvian translation bundle with localized strings for the Google Credential Provider sign-in UI on Windows, covering work account login, password sync, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting utilities
+// summary: Implements helpers for the Crashpad dump folder, common crash keys and the GCPW usage stats consent read from the registry.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcp_crash_reporting_utils.h"
 
 #include <winerror.h>

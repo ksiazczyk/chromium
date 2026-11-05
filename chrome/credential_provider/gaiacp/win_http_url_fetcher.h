@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHttpUrlFetcher class declaration
+// summary: Declares the WinHttpUrlFetcher class for small synchronous HTTP requests and the BuildRequestAndFetchResultFromHttpService helper with retry and timeout handling.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_WIN_HTTP_URL_FETCHER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_WIN_HTTP_URL_FETCHER_H_
 

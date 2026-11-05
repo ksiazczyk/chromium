@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_ca.xtb.
+type: data
+title: Catalan translation bundle for Gaia credential provider
+summary: Catalan UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

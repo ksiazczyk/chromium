@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting utilities header
+// summary: Declares helpers for the crash dump folder, common crash keys and the system-level stats upload consent.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTING_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTING_UTILS_H_
 

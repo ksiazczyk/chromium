@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_te.xtb.
+type: data
+title: Telugu translations for Gaia credential provider strings
+summary: Telugu translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows service manager interface for GCPW extension
+// summary: Declares the OSServiceManager singleton that wraps Windows service control manager APIs for installing, controlling, and updating the GCPW extension service.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_OS_SERVICE_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_OS_SERVICE_MANAGER_H_
 

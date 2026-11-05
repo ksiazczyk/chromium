@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_fi.xtb.
+type: data
+title: Finnish translation bundle for Gaia credential provider strings
+summary: Finnish translationbundle XML with localized UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

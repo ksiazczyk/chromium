@@ -1,0 +1,4 @@
+# Docerion header of extension.rc.version.
+type: config
+title: Version info resource template
+summary: VERSIONINFO resource template with placeholders for the Google Credential Provider for Windows Extension.

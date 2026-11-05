@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW extension service implementation
+// summary: Implements the GCPW extension service main loop, handling the service control manager handshake, control requests, and running periodic tasks.
+// ---
+
 #include "chrome/credential_provider/extension/service.h"
 
 #include "base/run_loop.h"
