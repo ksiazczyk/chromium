@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser instant controller browser test
+// summary: Browser tests verifying tab reload behavior when the default search provider or Google base URL changes.
+// ---
+
 #include "chrome/browser/ui/browser_instant_controller.h"
 
 #include <stddef.h>

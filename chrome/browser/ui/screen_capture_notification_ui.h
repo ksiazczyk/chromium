@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture notification UI interface
+// summary: Declares the ScreenCaptureNotificationUI interface for creating platform-specific notifications shown while screen content is captured.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SCREEN_CAPTURE_NOTIFICATION_UI_H_
 #define CHROME_BROWSER_UI_SCREEN_CAPTURE_NOTIFICATION_UI_H_
 

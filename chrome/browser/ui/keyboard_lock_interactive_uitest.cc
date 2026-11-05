@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard lock interactive UI tests
+// summary: Interactive browser tests verifying the keyboard lock API at the browser UI level, covering locking all keys, specific keys, the escape key, and unlocking.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

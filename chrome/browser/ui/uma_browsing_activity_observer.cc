@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA browsing activity observer
+// summary: Records UMA metrics about browsing activity, such as tab and tab group counts per navigation and time between upgrade detection and app termination.
+// ---
+
 #include "chrome/browser/ui/uma_browsing_activity_observer.h"
 
 #include <algorithm>

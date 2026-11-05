@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA browsing activity observer
+// summary: Declares classes that observe tab and navigation events and log UMA histograms of browser tab counts and update-related timings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_UMA_BROWSING_ACTIVITY_OBSERVER_H_
 #define CHROME_BROWSER_UI_UMA_BROWSING_ACTIVITY_OBSERVER_H_
 

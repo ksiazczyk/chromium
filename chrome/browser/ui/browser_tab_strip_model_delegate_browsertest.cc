@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Browser tab strip model delegate browser tests
+// summary: Browser tests for BrowserTabStripModelDelegate, covering moving tabs to new windows and toggling site muting via the tab strip context menu.
+// ---
+
 #include "chrome/browser/ui/browser_tab_strip_model_delegate.h"
 
 #include "build/branding_buildflags.h"

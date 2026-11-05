@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collected cookies dialog browser test
+// summary: Browser tests that show and verify the collected cookies dialog, including double display and navigating away while it is open.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

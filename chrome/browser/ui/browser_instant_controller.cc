@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser instant controller implementation
+// summary: Implements BrowserInstantController, reloading Instant and new tab pages when the default search engine changes.
+// ---
+
 #include "chrome/browser/ui/browser_instant_controller.h"
 
 #include "base/functional/bind.h"

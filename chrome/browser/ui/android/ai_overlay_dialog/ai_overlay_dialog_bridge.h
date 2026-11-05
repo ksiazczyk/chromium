@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiOverlayDialogBridge native class declaration
+// summary: Declares the native counterpart of the Java AiOverlayDialogBridge, which owns the window-scoped AiOverlayDialogControllerAndroid and exposes the audio energy forwarding helper.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AI_OVERLAY_DIALOG_AI_OVERLAY_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AI_OVERLAY_DIALOG_AI_OVERLAY_DIALOG_BRIDGE_H_
 

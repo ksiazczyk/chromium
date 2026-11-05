@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser window state unit tests
+// summary: Unit tests verifying that command-line window size and position switches update browser window bounds and show state, leaving defaults intact for missing or invalid input.
+// ---
+
 #include "chrome/browser/ui/browser_window_state.h"
 
 #include "base/command_line.h"

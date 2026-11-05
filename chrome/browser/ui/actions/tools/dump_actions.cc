@@ -5,6 +5,12 @@
 // This command-line program dumps the computed values of all actiop IDs to
 // stdout.
 
+// ---docerion
+// type: source
+// title: dump_actions.cc
+// summary: Command-line program that prints the computed values of all Chrome action IDs to stdout.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <functional>

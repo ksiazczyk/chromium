@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker tab helper header
+// summary: Declares IntentPickerTabHelper, which updates intent picker page action visibility and presents app choices for handling URLs in a tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_INTENT_PICKER_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_INTENT_PICKER_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonState annotation for interactive and visual states
+// summary: Defines an IntDef annotation with DEFAULT, INVISIBLE_AND_CLICKABLE, and UNCLICKABLE states for action buttons.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator table implementation
+// summary: Implements the mapping of keyboard accelerators to Chrome browser commands across platforms.
+// ---
+
 #include "chrome/browser/ui/accelerator_table.h"
 
 #include <stddef.h>

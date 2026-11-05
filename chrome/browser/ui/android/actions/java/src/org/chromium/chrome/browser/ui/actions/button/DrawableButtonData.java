@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawableButtonData for non-resource drawable buttons
+// summary: Implements DisplayButtonData to resolve text, content description, and a non-resource drawable for a button.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import android.content.Context;

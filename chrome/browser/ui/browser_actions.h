@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActions class header for window-scoped actions
+// summary: Declares the BrowserActions class that registers and manages action items scoped to a browser window, with initialization grouped by side panel, menu, toolbar, navigation and submenu actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_ACTIONS_H_
 #define CHROME_BROWSER_UI_BROWSER_ACTIONS_H_
 

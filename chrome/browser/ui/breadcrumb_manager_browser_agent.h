@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager browser agent header
+// summary: Declares BreadcrumbManagerBrowserAgent, a TabStripModelObserver that logs tab events to the breadcrumb manager service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 #define CHROME_BROWSER_UI_BREADCRUMB_MANAGER_BROWSER_AGENT_H_
 

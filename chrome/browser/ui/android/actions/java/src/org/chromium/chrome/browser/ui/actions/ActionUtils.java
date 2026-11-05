@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionUtils
+// summary: Helper methods for action buttons, including applying button states to views and registering bottom bar actions such as home, glic, new tab and app menu.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.content.res.Resources;

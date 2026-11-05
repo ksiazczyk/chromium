@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped tabbed browser displayer implementation
+// summary: Implements ScopedTabbedBrowserDisplayer, which finds or creates a tabbed browser and restores and shows its window on destruction.
+// ---
+
 #include "chrome/browser/ui/scoped_tabbed_browser_displayer.h"
 
 #include "chrome/browser/ui/browser_window.h"

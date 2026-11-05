@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac helpers for opening browser utility windows
+// summary: Implements Mac-specific functions that open new windows for About, history, downloads, help, settings and other pages when no window exists.
+// ---
+
 #include "chrome/browser/ui/browser_mac.h"
 
 #include "chrome/browser/profiles/profile.h"

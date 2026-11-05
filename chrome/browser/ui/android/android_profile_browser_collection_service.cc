@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android profile browser collection service implementation
+// summary: Implements a per-profile keyed service that tracks browser windows for a profile by observing the global browser collection.
+// ---
+
 #include "chrome/browser/ui/android/android_profile_browser_collection_service.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

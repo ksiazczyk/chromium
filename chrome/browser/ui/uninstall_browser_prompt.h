@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall browser prompt
+// summary: Declares the function that shows the uninstall confirmation dialog and returns the resulting exit code.
+// ---
+
 #ifndef CHROME_BROWSER_UI_UNINSTALL_BROWSER_PROMPT_H_
 #define CHROME_BROWSER_UI_UNINSTALL_BROWSER_PROMPT_H_
 

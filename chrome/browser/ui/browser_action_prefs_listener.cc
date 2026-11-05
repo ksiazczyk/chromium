@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser action prefs listener implementation
+// summary: Implements a listener that updates browser action visibility and enabled state from sharing hub and QR code generator preferences.
+// ---
+
 #include "chrome/browser/ui/browser_action_prefs_listener.h"
 
 #include "base/check_deref.h"

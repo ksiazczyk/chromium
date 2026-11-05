@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab controller header
+// summary: Declares SadTabController, which owns or tracks the sad tab view and manages its background radii and focus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAD_TAB_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SAD_TAB_CONTROLLER_H_
 

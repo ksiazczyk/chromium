@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarControllerUtil declaration
+// summary: Declares ToolbarControllerUtil, a static helper letting tests control whether toolbar buttons are prevented from overflowing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CONTROLLER_UTIL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CONTROLLER_UTIL_H_
 class ToolbarControllerUtil {

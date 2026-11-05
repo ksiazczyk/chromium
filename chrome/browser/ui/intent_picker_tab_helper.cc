@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker tab helper implementation
+// summary: Implements the per-tab helper that controls intent picker icon visibility and shows the app picker bubble or launches apps for link capturing.
+// ---
+
 #include "chrome/browser/ui/intent_picker_tab_helper.h"
 
 #include <optional>

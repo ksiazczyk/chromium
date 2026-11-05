@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SadTab interface header
+// summary: Declares the cross-platform SadTab interface with a factory for platform implementations, crash display rules, and accessors for UI strings and help links.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAD_TAB_H_
 #define CHROME_BROWSER_UI_SAD_TAB_H_
 

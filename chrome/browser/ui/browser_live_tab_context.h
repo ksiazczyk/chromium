@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser live tab context header
+// summary: Declares BrowserLiveTabContext, the LiveTabContext implementation backed by a browser window for session restore.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_LIVE_TAB_CONTEXT_H_
 #define CHROME_BROWSER_UI_BROWSER_LIVE_TAB_CONTEXT_H_
 

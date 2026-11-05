@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android about app info implementation
+// summary: Supplies Google Play services and OS version strings for the About page by querying Android through JNI.
+// ---
+
 #include "chrome/browser/ui/android/android_about_app_info.h"
 
 #include <jni.h>

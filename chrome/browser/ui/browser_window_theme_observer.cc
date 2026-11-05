@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window theme observer implementation
+// summary: Implements an observer that watches the profile's ThemeService and notifies registered listeners when the browser window theme changes.
+// ---
+
 #include "chrome/browser/ui/browser_window_theme_observer.h"
 
 #include "chrome/browser/themes/theme_service.h"

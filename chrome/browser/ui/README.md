@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chromium browser UI directory overview
+summary: Describes the browser UI directory, its main subdirectories, and guidance for where to add new files.
+---
+
 This directory contains the implementation of the Chromium UI. There are
 subdirectories with implementations for specific toolkits and OSes.
 

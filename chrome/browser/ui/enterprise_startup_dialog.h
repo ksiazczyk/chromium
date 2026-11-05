@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise startup dialog interface
+// summary: Declares the EnterpriseStartupDialog interface shown during startup while enterprise policy work such as cloud enrollment blocks browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ENTERPRISE_STARTUP_DIALOG_H_
 #define CHROME_BROWSER_UI_ENTERPRISE_STARTUP_DIALOG_H_
 

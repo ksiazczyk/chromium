@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac-specific browser commands header
+// summary: Declares Mac-only browser commands for toggling the fullscreen toolbar, JavaScript from AppleEvents, and revealing the toolbar in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_COMMANDS_MAC_H_
 #define CHROME_BROWSER_UI_BROWSER_COMMANDS_MAC_H_
 

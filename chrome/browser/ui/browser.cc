@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser class implementation
+// summary: Implements the Browser class representing a single desktop browser window, wiring up sessions, devtools, downloads, printing and UI features.
+// ---
+
 #include "chrome/browser/ui/browser.h"
 
 #include <stddef.h>

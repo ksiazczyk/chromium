@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserManagerService factory implementation
+// summary: Implements the keyed service factory that creates a BrowserManagerService for each profile, including contexts without browser windows.
+// ---
+
 #include "chrome/browser/ui/browser_manager_service_factory.h"
 
 #include "base/no_destructor.h"

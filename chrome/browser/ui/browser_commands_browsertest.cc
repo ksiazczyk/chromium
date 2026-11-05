@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser commands browser tests
+// summary: Browser tests for Chrome UI commands, covering tab creation, tab groups, split tabs, toasts, side panels, and related metrics.
+// ---
+
 #include "chrome/browser/ui/browser_commands.h"
 
 #include "base/path_service.h"

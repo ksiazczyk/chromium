@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay dialog controller implementation
+// summary: Implements the base controller that toggles the overlay, manages caption and persona state, media permissions, and remembered notes preferences.
+// ---
+
 #include "chrome/browser/ui/ai_overlay_dialog/ai_overlay_dialog_controller.h"
 
 #include "base/functional/callback_forward.h"

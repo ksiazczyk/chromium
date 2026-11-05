@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unload controller implementation
+// summary: Implements the controller that tracks unload state and warns users before closing tabs, downloads, or the last browser window.
+// ---
+
 #include "chrome/browser/ui/unload_controller.h"
 
 #include <algorithm>

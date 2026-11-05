@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionButtonData interface with toggle and visual states
+// summary: Defines an interface extending FullButtonData that adds toggle state and ButtonState handling for action buttons.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import org.chromium.build.annotations.NullMarked;

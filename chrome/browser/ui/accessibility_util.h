@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility utility header
+// summary: Declares AnnounceInActiveBrowser, which announces a message as an accessibility alert in the active browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACCESSIBILITY_UTIL_H_
 #define CHROME_BROWSER_UI_ACCESSIBILITY_UTIL_H_
 

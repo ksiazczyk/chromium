@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS browser commands implementation
+// summary: Implements the TakeScreenshot command for ChromeOS by recording a user metric and capturing screenshots of all displays.
+// ---
+
 #include "chrome/browser/ui/browser_commands_chromeos.h"
 
 #include "ash/public/cpp/capture_mode/capture_mode_api.h"

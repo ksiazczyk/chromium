@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUIHelper browser tests
+// summary: Browser tests verifying TabUIHelper behavior and notifications for title changes, tab discard UI, and tab visibility changes.
+// ---
+
 #include "chrome/browser/ui/tab_ui_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed browser UI helpers declarations
+// summary: Declares functions controlling the managed browser UI, including display conditions, menu item labels, icons, tooltips, and WebUI footnote strings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MANAGED_UI_H_
 #define CHROME_BROWSER_UI_MANAGED_UI_H_
 

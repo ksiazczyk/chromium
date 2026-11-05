@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Switcher action button binder
+// summary: Binds Tab Switcher action state such as tab count, incognito flag and notification dot to a TabSwitcherButtonView.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.tabswitcher;
 
 import android.view.View;

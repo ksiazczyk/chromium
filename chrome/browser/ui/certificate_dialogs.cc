@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate export dialogs implementation
+// summary: Implements file selection and export dialogs that save certificates and certificate chains in formats such as PEM, DER, and PKCS#7.
+// ---
+
 
 #include "chrome/browser/ui/certificate_dialogs.h"
 

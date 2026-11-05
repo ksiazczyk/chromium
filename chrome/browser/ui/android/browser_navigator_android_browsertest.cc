@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android browser navigation browser tests
+// summary: Browser tests for Android navigation behavior, covering tab additions, window open dispositions, and navigation UI data tracking.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionRegistryUnitTest
+// summary: Robolectric unit tests covering registration, lookup, unregistration and observer notification of action models in ActionRegistry.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome action ID definitions with legacy command mappings
+// summary: Defines the Chrome action ID macros and documents their correlation with legacy IDC_ command IDs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ACTIONS_CHROME_ACTION_ID_H_
 #define CHROME_BROWSER_UI_ACTIONS_CHROME_ACTION_ID_H_
 

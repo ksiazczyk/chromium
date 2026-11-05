@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollPrefManager implementation
+// summary: Implements the manager that tracks the overscroll history navigation preference and applies it to each tab's WebContents, deciding whether touch or wheel overscroll gestures are allowed.
+// ---
+
 #include "chrome/browser/ui/overscroll_pref_manager.h"
 
 #include "base/feature_list.h"

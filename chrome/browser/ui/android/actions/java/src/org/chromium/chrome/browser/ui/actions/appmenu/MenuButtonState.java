@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu button UI state
+// summary: Holds the UI state for the update-decorated main menu button, including its content description and dark, light, and adaptive badge icon resources.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.appmenu;
 
 import androidx.annotation.DrawableRes;

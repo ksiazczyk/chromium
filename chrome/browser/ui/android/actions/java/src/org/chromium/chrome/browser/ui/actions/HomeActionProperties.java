@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeActionProperties
+// summary: Defines property keys specific to the home button action, combining the base action keys with long-press menu and click-with-meta-state callbacks.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import org.chromium.build.annotations.NullMarked;

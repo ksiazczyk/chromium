@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandActionUpdater implementation
+// summary: Implements a CommandUpdater that routes legacy browser command support, enablement, execution and observer registration to the declarative Action framework.
+// ---
+
 #include "chrome/browser/ui/actions/command_action_updater.h"
 
 #include <utility>

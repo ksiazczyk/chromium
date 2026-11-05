@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceTextResolver
+// summary: TextResolver implementation that resolves a string or plural resource to text, caching the resolved result for later calls.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionId
+// summary: Defines an IntDef annotation of action IDs such as home button, tab switcher, app menu and new tab that can be registered in the action registry.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import androidx.annotation.IntDef;

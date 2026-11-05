@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito allowed URL unit tests
+// summary: Unit tests for IsURLAllowedInIncognito, including the case that an empty view-source URL is allowed in incognito.
+// ---
+
 #include "chrome/browser/ui/incognito_allowed_url.h"
 
 #include "content/public/test/browser_task_environment.h"

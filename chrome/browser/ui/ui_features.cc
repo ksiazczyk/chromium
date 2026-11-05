@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI feature flag definitions
+// summary: Defines base::Feature flags and parameters for top chrome UI, including tab strip declutter, toolbar glow up, and settings refresh experiments.
+// ---
+
 #include "chrome/browser/ui/ui_features.h"
 
 #include "base/feature_list.h"

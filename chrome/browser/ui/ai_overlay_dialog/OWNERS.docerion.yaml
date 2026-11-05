@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the AI overlay dialog directory
+summary: Lists the directory's code reviewers and additionally includes the chrome/browser/ai OWNERS file.

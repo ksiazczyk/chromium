@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network profile bubble declarations
+// summary: Declares the NetworkProfileBubble class that detects profiles on network shares, warns the user, registers preferences, and records related UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NETWORK_PROFILE_BUBBLE_H_
 #define CHROME_BROWSER_UI_NETWORK_PROFILE_BUBBLE_H_
 

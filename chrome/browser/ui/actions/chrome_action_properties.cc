@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property key definitions for Chrome actions
+// summary: Defines UI class property keys for window open disposition and action invocation source.
+// ---
+
 #include "chrome/browser/ui/actions/chrome_action_properties.h"
 
 #include "ui/base/window_open_disposition.h"

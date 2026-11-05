@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser action prefs listener header
+// summary: Declares BrowserActionPrefsListener, which watches profile and local preferences to update browser action states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_ACTION_PREFS_LISTENER_H_
 #define CHROME_BROWSER_UI_BROWSER_ACTION_PREFS_LISTENER_H_
 

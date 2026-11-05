@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session crashed bubble interface
+// summary: Declares the base class for the bubble shown after a session crash, offering session restore and metrics reporting opt-in.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SESSION_CRASHED_BUBBLE_H_
 #define CHROME_BROWSER_UI_SESSION_CRASHED_BUBBLE_H_
 

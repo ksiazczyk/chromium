@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SadTab implementation
+// summary: Implements the sad tab logic that decides when to show crash UI after a renderer termination and supplies titles, messages, feedback actions and UMA metrics.
+// ---
+
 #include "chrome/browser/ui/sad_tab.h"
 
 #include <vector>

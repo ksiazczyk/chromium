@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Core browser commands browser tests
+// summary: Browser tests for core browser commands, including zoom, bookmarks, tab groups, tab lifecycle, and window features.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

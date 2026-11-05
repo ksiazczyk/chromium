@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser close behavior tests
+// summary: Browser tests for window close behavior, mocking download core services to cover download shutdown counts and multi-profile download warnings, including ChromeOS specifics.
+// ---
+
 #include <stddef.h>
 
 #include "base/check_op.h"

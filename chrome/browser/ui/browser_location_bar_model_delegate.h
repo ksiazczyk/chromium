@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLocationBarModelDelegate class declaration
+// summary: Declares a ChromeLocationBarModelDelegate subclass that uses a browser's TabStripModel to supply the active web contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_LOCATION_BAR_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_BROWSER_LOCATION_BAR_MODEL_DELEGATE_H_
 

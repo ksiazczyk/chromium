@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android UI build targets
+summary: GN build file defining source sets for Android browser UI code, the context menu helper, and Android browser tests with their dependencies.

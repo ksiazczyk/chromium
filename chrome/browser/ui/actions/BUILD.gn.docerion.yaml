@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome UI actions
+summary: Defines GN source sets and test targets for the Chrome browser UI actions code, including a testonly dump_actions tool.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac fullscreen utilities header
+// summary: Declares macOS helpers for detecting content fullscreen mode and the always-show-toolbar-in-fullscreen preference.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FULLSCREEN_UTIL_MAC_H_
 #define CHROME_BROWSER_UI_FULLSCREEN_UTIL_MAC_H_
 

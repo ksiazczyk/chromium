@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser navigation implementation
+// summary: Implements Android browser navigation, adjusting navigate parameters and selecting a suitable target browser or new window for tab creation.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator.h"
 
 #include "base/feature_list.h"

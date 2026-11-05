@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status bubble interface
+// summary: Defines the StatusBubble interface for the browser window's status display area, covering status text, link URLs, hiding, and mouse movement handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STATUS_BUBBLE_H_
 #define CHROME_BROWSER_UI_STATUS_BUBBLE_H_
 

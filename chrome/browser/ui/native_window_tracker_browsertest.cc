@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native window tracker browser test
+// summary: Browser test verifying that NativeWindowTracker correctly reports when a browser's native window has been destroyed.
+// ---
+
 #include "ui/native_window_tracker/native_window_tracker.h"
 
 #include "chrome/browser/ui/browser_window.h"

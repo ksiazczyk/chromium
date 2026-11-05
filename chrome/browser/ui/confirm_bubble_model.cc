@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm bubble model implementation
+// summary: Implements the ConfirmBubbleModel base class with default OK and Cancel labels and empty accept, cancel and help page handlers.
+// ---
+
 #include "chrome/browser/ui/confirm_bubble_model.h"
 
 #include "base/logging.h"

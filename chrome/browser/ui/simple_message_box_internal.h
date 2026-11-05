@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple message box internal flag header
+// summary: Declares the extern flag that makes tests behave as if a blocking message box was dismissed with OK.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIMPLE_MESSAGE_BOX_INTERNAL_H_
 #define CHROME_BROWSER_UI_SIMPLE_MESSAGE_BOX_INTERNAL_H_
 

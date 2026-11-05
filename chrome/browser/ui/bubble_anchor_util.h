@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble anchor utility header
+// summary: Declares helpers for computing the screen rect used to anchor bubbles such as Page Info to browser components, with fallback offsets when no toolbar is visible.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BUBBLE_ANCHOR_UTIL_H_
 #define CHROME_BROWSER_UI_BUBBLE_ANCHOR_UTIL_H_
 

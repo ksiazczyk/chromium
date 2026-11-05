@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tab menu model delegate header
+// summary: Declares BrowserTabMenuModelDelegate, a TabMenuModelDelegate implementation backed by a browser instance.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_TAB_MENU_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_BROWSER_TAB_MENU_MODEL_DELEGATE_H_
 

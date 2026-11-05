@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus tab after navigation helper implementation
+// summary: Implements a WebContentsObserver that focuses tab contents when renderer-initiated navigations leave the New Tab Page.
+// ---
+
 #include "chrome/browser/ui/focus_tab_after_navigation_helper.h"
 
 #include "chrome/browser/profiles/profile.h"

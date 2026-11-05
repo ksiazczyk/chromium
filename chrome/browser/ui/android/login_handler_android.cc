@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HTTP login handler implementation
+// summary: Implements the Android LoginHandler that shows the ChromeHttpAuthHandler dialog for HTTP authentication challenges and manages fullscreen blockers while the dialog is open.
+// ---
+
 #include "chrome/browser/ui/login/login_handler.h"
 
 #include <memory>

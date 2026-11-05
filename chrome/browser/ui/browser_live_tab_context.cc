@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser live tab context implementation
+// summary: Implements the sessions LiveTabContext for a browser, supporting tab restore, tab groups, splits and window metadata.
+// ---
+
 #include "chrome/browser/ui/browser_live_tab_context.h"
 
 #include <algorithm>

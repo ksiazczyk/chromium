@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android accelerator utilities unit tests
+// summary: Unit tests verifying IsChromeAccelerator behavior with the universal keyboard handling feature enabled and disabled.
+// ---
+
 #include "chrome/browser/ui/accelerator_utils.h"
 
 #include "base/test/scoped_feature_list.h"

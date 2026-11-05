@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actions implementation
+// summary: Implements BrowserActions, defining the large set of browser-wide actions, their visibility, enabled state and accelerators.
+// ---
+
 #include "chrome/browser/ui/browser_actions.h"
 
 #include <memory>

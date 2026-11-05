@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android UI folder
+summary: Points this directory to the shared Chrome Android common metadata mixins.

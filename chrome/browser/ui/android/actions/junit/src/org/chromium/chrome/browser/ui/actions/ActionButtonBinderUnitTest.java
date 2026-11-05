@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionButtonBinderUnitTest
+// summary: Robolectric unit tests verifying that ActionButtonBinder binds action button properties such as icons, tints, press callbacks and delegating views to views.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import static org.junit.Assert.assertEquals;

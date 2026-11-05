@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS settings window manager header
+// summary: Declares SettingsWindowManager, which associates each profile with one Settings browser window and offers APIs to show settings pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SETTINGS_WINDOW_MANAGER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_SETTINGS_WINDOW_MANAGER_CHROMEOS_H_
 

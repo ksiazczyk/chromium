@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCommandController implementation
+// summary: Implements the controller that updates and executes Chrome browser commands, deriving enabled state from tab, zoom, fullscreen, locked fullscreen and content restriction changes.
+// ---
+
 #include "chrome/browser/ui/browser_command_controller.h"
 
 #include <stddef.h>

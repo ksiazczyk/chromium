@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Chrome Android UI actions library
+summary: GN build file defining the android_library target for the org.chromium.chrome.browser.ui.actions Java sources, listing source files and dependencies.

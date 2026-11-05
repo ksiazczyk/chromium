@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript app modal dialog view factory installer
+// summary: Installs the Android native dialog factory for JavaScript app modal dialogs, creating AppModalDialogViewAndroid views for WebContents.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

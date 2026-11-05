@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito clear browsing data dialog interface
+// summary: Abstract interface connecting chrome/browser/ui clients to the incognito clear browsing data dialog implementation, defining dialog and action types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_INCOGNITO_CLEAR_BROWSING_DATA_DIALOG_INTERFACE_H_
 #define CHROME_BROWSER_UI_INCOGNITO_CLEAR_BROWSING_DATA_DIALOG_INTERFACE_H_
 

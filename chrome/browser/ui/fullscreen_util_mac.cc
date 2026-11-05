@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac fullscreen utilities implementation
+// summary: Implements helpers to check content-initiated fullscreen state and the always-show-toolbar setting on macOS.
+// ---
+
 #include "chrome/browser/ui/fullscreen_util_mac.h"
 
 #include "chrome/browser/profiles/profile.h"

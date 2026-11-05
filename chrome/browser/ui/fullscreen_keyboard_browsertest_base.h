@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen keyboard browser test base header
+// summary: Declares the base class for fullscreen keyboard lock browser tests with helpers for sending shortcuts and verifying results.
+// ---
+
 #ifndef CHROME_BROWSER_UI_FULLSCREEN_KEYBOARD_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_FULLSCREEN_KEYBOARD_BROWSERTEST_BASE_H_
 

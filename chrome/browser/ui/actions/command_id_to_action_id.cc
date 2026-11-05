@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command ID to action ID mapping implementation
+// summary: Builds the static map from IDC_ command IDs to Action IDs and provides the lookup used to route legacy browser commands into the Action framework.
+// ---
+
 #include "chrome/browser/ui/actions/command_id_to_action_id.h"
 
 #include <utility>

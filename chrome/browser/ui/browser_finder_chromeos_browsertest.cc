@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser finder browser test
+// summary: ChromeOS browser test checking browser lookup across profiles, desks and multi-user window management.
+// ---
+
 #include "ash/multi_user/multi_user_window_manager.h"
 #include "ash/shell.h"
 #include "ash/wm/desks/desk.h"

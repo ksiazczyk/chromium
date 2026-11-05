@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentlyAudibleHelper implementation
+// summary: Implements a per-tab helper that tracks audibility and computes whether a tab was recently audible, so the audio playing icon persists briefly after sound stops.
+// ---
+
 #include "chrome/browser/ui/recently_audible_helper.h"
 
 #include "base/no_destructor.h"

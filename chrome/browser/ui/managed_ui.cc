@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed browser UI helpers implementation
+// summary: Implements helpers that decide when a managed browser message should appear and provide its URL, icon, menu labels, tooltips, and WebUI footnotes for enterprise and supervised profiles.
+// ---
+
 #include "chrome/browser/ui/managed_ui.h"
 
 #include <optional>

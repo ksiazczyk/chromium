@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome pages implementation
+// summary: Implements helpers that open built-in Chrome pages such as settings, history, bookmarks, downloads, extensions, help, and site settings in the browser.
+// ---
+
 #include "chrome/browser/ui/chrome_pages.h"
 
 #include <stddef.h>

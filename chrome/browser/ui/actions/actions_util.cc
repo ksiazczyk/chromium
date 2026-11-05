@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text cleaning helpers for action item strings
+// summary: Implements GetCleanText, which strips ellipses and keyboard accelerators from strings used in action items.
+// ---
+
 #include "chrome/browser/ui/actions/actions_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle bubble header
+// summary: Declares ShowIdleBubble, which displays a bubble informing the user that idle timeout actions have just run, plus a test accessor.
+// ---
+
 #ifndef CHROME_BROWSER_UI_IDLE_BUBBLE_H_
 #define CHROME_BROWSER_UI_IDLE_BUBBLE_H_
 

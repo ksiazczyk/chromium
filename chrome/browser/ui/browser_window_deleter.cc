@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindow custom deleter implementation
+// summary: Implements the BrowserWindowDeleter functor that destroys browser windows by calling DeleteBrowserWindow.
+// ---
+
 #include "chrome/browser/ui/browser_window_deleter.h"
 
 #include "chrome/browser/ui/browser_window.h"

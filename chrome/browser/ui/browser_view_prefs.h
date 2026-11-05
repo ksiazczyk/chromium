@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser view prefs header
+// summary: Declares RegisterBrowserViewProfilePrefs for registering syncable profile preferences specific to BrowserView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_VIEW_PREFS_H_
 #define CHROME_BROWSER_UI_BROWSER_VIEW_PREFS_H_
 

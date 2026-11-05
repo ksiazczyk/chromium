@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome HTTP auth handler header
+// summary: Declares the ChromeHttpAuthHandler class that connects the native LoginHandler to the Java HTTP authentication login dialog on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_CHROME_HTTP_AUTH_HANDLER_H_
 #define CHROME_BROWSER_UI_ANDROID_CHROME_HTTP_AUTH_HANDLER_H_
 

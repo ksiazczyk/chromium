@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionButtonBinder
+// summary: Binds action button property models to Android views, handling icons, tint, content description, tooltip, selection, press callbacks and button state.
+// ---
+
 package org.chromium.chrome.browser.ui.actions;
 
 import android.content.res.ColorStateList;

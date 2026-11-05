@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton tab navigation helpers
+// summary: Implements helpers that show singleton tabs and optionally overwrite the new tab page when navigating to a singleton URL.
+// ---
+
 #include "chrome/browser/ui/singleton_tabs.h"
 
 #include "chrome/browser/profiles/profile.h"

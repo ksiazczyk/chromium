@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceButtonDataUnitTest
+// summary: Robolectric unit tests for ResourceButtonData, verifying text and icon resolution from resources plus hashCode and equals semantics.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.button;
 
 import static org.junit.Assert.assertEquals;

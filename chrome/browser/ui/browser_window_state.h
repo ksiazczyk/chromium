@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window state header
+// summary: Declares functions for window names, placement dictionaries, and saving or restoring window bounds, show state, and workspace.
+// ---
+
 #ifndef CHROME_BROWSER_UI_BROWSER_WINDOW_STATE_H_
 #define CHROME_BROWSER_UI_BROWSER_WINDOW_STATE_H_
 

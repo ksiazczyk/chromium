@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Off-the-record session state implementation
+// summary: Implements IsOffTheRecordSessionActive() by iterating current browser windows and checking whether any uses an off-the-record profile.
+// ---
+
 #include "chrome/browser/ui/browser_otr_state.h"
 
 #include "chrome/browser/profiles/profile.h"

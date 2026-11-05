@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI layout constants declarations
+// summary: Declares the LayoutConstant enum with documented size, padding, and spacing values used across the Chrome browser UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LAYOUT_CONSTANTS_H_
 #define CHROME_BROWSER_UI_LAYOUT_CONSTANTS_H_
 

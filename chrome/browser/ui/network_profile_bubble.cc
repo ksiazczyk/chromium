@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network profile bubble implementation
+// summary: Implements detection of Chrome profiles located on network shares on Windows, showing a warning bubble with rate limiting and UMA metrics.
+// ---
+
 #include "chrome/browser/ui/network_profile_bubble.h"
 
 #include <windows.h>

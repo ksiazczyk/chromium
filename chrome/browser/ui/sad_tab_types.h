@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab kind enum
+// summary: Defines the SadTabKind enum distinguishing crashed, out-of-memory, killed, and ChromeOS OOM-killer tab states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SAD_TAB_TYPES_H_
 #define CHROME_BROWSER_UI_SAD_TAB_TYPES_H_
 

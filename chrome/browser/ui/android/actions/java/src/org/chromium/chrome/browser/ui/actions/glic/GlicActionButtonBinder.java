@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic action button binder
+// summary: Binds the Glic action property model to an Android view, setting the drawable on the image view and starting animation on the first layer.
+// ---
+
 package org.chromium.chrome.browser.ui.actions.glic;
 
 import android.graphics.drawable.Animatable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac fullscreen utility browser tests
+// summary: Browser tests verifying fullscreen_util_mac helpers for content and browser fullscreen states and the always-show-toolbar preference on macOS.
+// ---
+
 #include "chrome/browser/ui/fullscreen_util_mac.h"
 
 #include "chrome/browser/profiles/profile.h"
