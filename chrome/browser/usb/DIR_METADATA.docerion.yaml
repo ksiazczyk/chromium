@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the USB folder
+summary: Points to COMMON_METADATA so this directory inherits the USB component and team metadata.

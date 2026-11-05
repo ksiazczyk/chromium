@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education configuration provider unit tests
+// summary: Unit tests verifying generated feature engagement configurations for toast, snooze, keyed notice, and other promo types.
+// ---
+
 #include "chrome/browser/user_education/user_education_configuration_provider.h"
 
 #include <initializer_list>

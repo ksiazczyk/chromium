@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledAndCriticalVersion value type implementation
+// summary: Implements the InstalledAndCriticalVersion struct that carries the installed browser version and an optional critical update version.
+// ---
+
 #include "chrome/browser/upgrade_detector/get_installed_version.h"
 
 #include <utility>

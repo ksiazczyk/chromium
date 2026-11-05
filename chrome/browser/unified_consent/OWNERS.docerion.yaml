@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for unified consent
+summary: Delegates code review ownership to the owners file of the components/unified_consent directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUpdaterClient class declaration
+// summary: Declares the cross-platform client that registers the browser with the Chromium updater and triggers on-demand updates.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_H_
 #define CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_H_
 

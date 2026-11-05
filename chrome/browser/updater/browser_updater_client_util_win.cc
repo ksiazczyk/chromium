@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows updater client utilities
+// summary: Windows implementation that derives the browser updater scope from the install type and marks the browser as active.
+// ---
+
 #include "chrome/browser/updater/browser_updater_client_util.h"
 
 #include "chrome/browser/updater/updater.h"

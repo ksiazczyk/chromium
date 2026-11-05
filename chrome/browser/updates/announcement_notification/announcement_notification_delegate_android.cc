@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android announcement notification delegate implementation
+// summary: Implements the Android delegate that shows the announcement notification and checks first-run status through JNI calls into Java.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_delegate_android.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 compile hints metadata protobuf definition
+// summary: Defines the Model protobuf message holding version, sample count, Bloom filter words, and timestamp data used for V8 compile hints.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

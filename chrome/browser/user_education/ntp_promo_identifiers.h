@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page promo identifiers
+// summary: Defines constant identifiers for New Tab Page user education promos that also serve as pref keys, kept in sync with histogram metadata.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_NTP_PROMO_IDENTIFIERS_H_
 #define CHROME_BROWSER_USER_EDUCATION_NTP_PROMO_IDENTIFIERS_H_
 

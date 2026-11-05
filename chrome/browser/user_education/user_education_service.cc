@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education service implementation
+// summary: Implements UserEducationService, wiring tutorial, feature promo, new badge, NTP promo, and session tracking components for a profile.
+// ---
+
 #include "chrome/browser/user_education/user_education_service.h"
 
 #include <memory>

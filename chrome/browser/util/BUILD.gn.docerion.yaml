@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for browser util Java library
+summary: Defines the Android Java library, JNI header generation, and Robolectric unit test targets for the chrome browser util directory, listing their sources and dependencies.

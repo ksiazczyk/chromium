@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: UsbNotificationManagerTest
+// summary: JUnit and Robolectric tests verifying UsbNotificationManager behaviour, including notification content, service stopping and tab bring-to-front delegate actions.
+// ---
+
 package org.chromium.chrome.browser.usb;
 
 import static org.junit.Assert.assertEquals;

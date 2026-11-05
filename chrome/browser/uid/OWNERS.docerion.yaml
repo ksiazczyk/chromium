@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the UID browser directory
+summary: Delegates code ownership of the uid directory to the owners file of components/signin.

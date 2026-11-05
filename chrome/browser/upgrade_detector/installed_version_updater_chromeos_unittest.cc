@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS installed version updater unit tests
+// summary: Unit tests verifying that update engine status changes, updates, and rollbacks notify the BuildState as expected.
+// ---
+
 #include "chrome/browser/upgrade_detector/installed_version_updater_chromeos.h"
 
 #include <memory>

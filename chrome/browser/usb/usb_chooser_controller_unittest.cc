@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsbChooserController unit tests
+// summary: Unit tests for the USB chooser controller verifying device listing, selection, and chooser view updates with fake USB devices.
+// ---
+
 #include "chrome/browser/usb/usb_chooser_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater client utility header
+// summary: Declares updater and helper name constants and GetBrowserUpdaterScope, which determines whether the browser uses the user or system updater.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_UTIL_H_
 #define CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome USB delegate implementation
+// summary: Implements the Chrome content UsbDelegate, handling device permissions, chooser invocation, connection tracking, and privileged extensions.
+// ---
+
 #include "chrome/browser/usb/chrome_usb_delegate.h"
 
 #include <string_view>

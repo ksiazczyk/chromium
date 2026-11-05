@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB metrics recording
+// summary: Records UMA histograms for WebUSB permission revocation and chooser closure outcomes.
+// ---
+
 #include "chrome/browser/usb/web_usb_histograms.h"
 
 #include "base/metrics/histogram_macros.h"

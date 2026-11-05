@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB system tray icon implementation
+// summary: Implements the UsbSystemTrayIcon base class providing icon, title and settings labels plus connection tracker lookup.
+// ---
+
 #include "chrome/browser/usb/usb_system_tray_icon.h"
 
 #include "base/functional/bind.h"

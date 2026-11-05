@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser updater interaction functions
+// summary: Implements helpers to query updater state, policies and app states and to trigger on-demand update checks.
+// ---
+
 #include "chrome/browser/updater/updater.h"
 
 #include <optional>

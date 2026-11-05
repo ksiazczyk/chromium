@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB policy allowed devices implementation
+// summary: Implements UsbPolicyAllowedDevices, which maps vendor and product IDs from the WebUSB allow policy preference to permitted origins.
+// ---
+
 #include "chrome/browser/usb/usb_policy_allowed_devices.h"
 
 #include <optional>

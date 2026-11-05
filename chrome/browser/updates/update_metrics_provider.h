@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateMetricsProvider class declaration
+// summary: Declares the UpdateMetricsProvider class and the PendingUpdateState and PageBlockingUpdate enums that are logged as histograms.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATES_UPDATE_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_UPDATES_UPDATE_METRICS_PROVIDER_H_
 

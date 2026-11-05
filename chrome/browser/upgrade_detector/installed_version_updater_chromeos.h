@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS installed version updater header
+// summary: Declares the ChromeOS installed version updater that watches UpdateEngineClient for updates requiring a restart and reports them to BuildState.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_INSTALLED_VERSION_UPDATER_CHROMEOS_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_INSTALLED_VERSION_UPDATER_CHROMEOS_H_
 

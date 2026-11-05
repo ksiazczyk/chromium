@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility declarations for the updater client
+// summary: Declares helpers to override the update service with fakes and to load app states in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_TESTUTILS_H_
 #define CHROME_BROWSER_UPDATER_BROWSER_UPDATER_CLIENT_TESTUTILS_H_
 

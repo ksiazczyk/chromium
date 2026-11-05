@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser updater client implementation
+// summary: Implements browser registration, on-demand updates, periodic task runs and updater state queries against the Chromium updater service.
+// ---
+
 #include "chrome/browser/updater/browser_updater_client.h"
 
 #include <algorithm>

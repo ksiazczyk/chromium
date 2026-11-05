@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Web USB chooser implementation
+// summary: Implements WebUsbChooserAndroid by creating the Android USB chooser dialog when a webpage requests device access and handling dialog closure.
+// ---
+
 #include "chrome/browser/usb/android/web_usb_chooser_android.h"
 
 #include <utility>

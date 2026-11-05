@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledAndCriticalVersion and GetInstalledVersion declarations
+// summary: Declares the InstalledAndCriticalVersion struct and the platform-specific GetInstalledVersion function that reports the installed browser version via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_GET_INSTALLED_VERSION_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_GET_INSTALLED_VERSION_H_
 

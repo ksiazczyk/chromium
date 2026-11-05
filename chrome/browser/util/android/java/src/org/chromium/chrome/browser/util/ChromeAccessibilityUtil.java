@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome accessibility wiring
+// summary: Singleton extending AccessibilityUtil to provide Chrome-specific wiring and access to the accessibility enabled state.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import org.chromium.build.annotations.NullMarked;

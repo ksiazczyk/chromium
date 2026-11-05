@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbBlocklist class declaration
+// summary: Declares the UsbBlocklist singleton that excludes devices from WebUSB access by vendor, product and version, with Finch-updatable entries.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_BLOCKLIST_H_
 #define CHROME_BROWSER_USB_USB_BLOCKLIST_H_
 

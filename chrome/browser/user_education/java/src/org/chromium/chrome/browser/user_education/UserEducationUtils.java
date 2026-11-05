@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationUtils with optional promo type recording
+// summary: Static utilities for user education that define an OptionalPromoType IntDef and record which optional promo was shown to a startup histogram.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IphCommand
+// summary: Robolectric unit tests verifying IphCommand's fetchFromResources behavior for fallback and supplied inset rects using mocked Resources.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import static org.junit.Assert.assertEquals;

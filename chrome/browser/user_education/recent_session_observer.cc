@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentSessionObserver implementation
+// summary: Implements the observer that notifies registered callbacks about low usage sessions and runs new callbacks immediately if a session already occurred.
+// ---
+
 #include "chrome/browser/user_education/recent_session_observer.h"
 
 RecentSessionObserver::RecentSessionObserver() = default;

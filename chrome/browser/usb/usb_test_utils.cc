@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB connection tracker and tray icon test fakes implementation
+// summary: Implements fake USB connection tracker and system tray icon classes that delegate to mock device notification objects for tests.
+// ---
+
 #include "chrome/browser/usb/usb_test_utils.h"
 
 #include "chrome/browser/device_notifications/device_status_icon_renderer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session observer interface
+// summary: Declares RecentSessionObserver, which notifies registered callbacks when a new session starts for a low-usage profile.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_RECENT_SESSION_OBSERVER_H_
 #define CHROME_BROWSER_USER_EDUCATION_RECENT_SESSION_OBSERVER_H_
 

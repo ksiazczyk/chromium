@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BuildState
+// summary: Verifies that BuildState notifies observers of updates, holds installed and critical versions, and ignores duplicate updates.
+// ---
+
 #include "chrome/browser/upgrade_detector/build_state.h"
 
 #include <optional>

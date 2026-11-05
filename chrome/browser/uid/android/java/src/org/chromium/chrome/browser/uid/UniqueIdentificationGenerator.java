@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueIdentificationGenerator interface
+// summary: Interface for generators that produce a string uniquely identifying a Chrome installation, requiring an empty string on failure instead of null.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import org.chromium.build.annotations.NullMarked;

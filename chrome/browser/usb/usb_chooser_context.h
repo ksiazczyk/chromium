@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbChooserContext class declaration
+// summary: Declares UsbChooserContext, which manages origin-scoped USB device permissions and notifies observers of device changes.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_H_
 #define CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_H_
 

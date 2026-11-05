@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification delegate header
+// summary: Declares the default AnnouncementNotificationService delegate for non-Android platforms and the announcement notification ID constant.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATES_ANNOUNCEMENT_NOTIFICATION_ANNOUNCEMENT_NOTIFICATION_DELEGATE_H_
 #define CHROME_BROWSER_UPDATES_ANNOUNCEMENT_NOTIFICATION_ANNOUNCEMENT_NOTIFICATION_DELEGATE_H_
 

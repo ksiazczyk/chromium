@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: V8 compile hints build configuration
+summary: Defines GN source sets for the V8 compile hints browser code, its dependencies, and its unit test target.

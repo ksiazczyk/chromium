@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationHelper for triggering IPH bubbles
+// summary: Manages requests to trigger in-product help, showing text bubbles with view highlights, callbacks, snooze support and blue bubble cooldown handling based on the feature engagement tracker.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import static org.chromium.build.NullUtil.assertNonNull;

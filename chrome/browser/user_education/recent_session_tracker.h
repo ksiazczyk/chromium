@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session tracker class
+// summary: Declares RecentSessionTracker, which tracks recent user sessions on the device to inform user education experience triggers.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_RECENT_SESSION_TRACKER_H_
 #define CHROME_BROWSER_USER_EDUCATION_RECENT_SESSION_TRACKER_H_
 

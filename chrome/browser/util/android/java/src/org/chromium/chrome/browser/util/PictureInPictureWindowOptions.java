@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureWindowOptions
+// summary: Data type describing window bounds and disallow-return-to-opener settings for a Document Picture-in-Picture window, with Bundle conversion.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.graphics.Rect;

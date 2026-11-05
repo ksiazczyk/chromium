@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS upgrade detector implementation
+// summary: Implements the ChromeOS upgrade detector, tracking update engine status and computing elevated, high, and grace relaunch deadlines from policy settings.
+// ---
+
 #include "chrome/browser/upgrade_detector/upgrade_detector_chromeos.h"
 
 #include <stdint.h>

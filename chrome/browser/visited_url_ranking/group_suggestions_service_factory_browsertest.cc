@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group suggestions service factory browser test
+// summary: Browser test that enables the group suggestion feature, registers a test delegate, and verifies group suggestions are shown for tabs on Android.
+// ---
+
 #include "chrome/browser/visited_url_ranking/group_suggestions_service_factory.h"
 
 #include "base/functional/bind.h"

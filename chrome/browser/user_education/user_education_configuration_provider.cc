@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education configuration provider implementation
+// summary: Supplies feature engagement configuration for registered in-product help promos, setting session rates, blocking rules, and default triggers.
+// ---
+
 #include "chrome/browser/user_education/user_education_configuration_provider.h"
 
 #include <algorithm>

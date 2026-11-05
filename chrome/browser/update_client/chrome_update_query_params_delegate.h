@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome update query params delegate header
+// summary: Declares ChromeUpdateQueryParamsDelegate, a singleton supplying extra query parameters and the locale language for update client requests.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATE_CLIENT_CHROME_UPDATE_QUERY_PARAMS_DELEGATE_H_
 #define CHROME_BROWSER_UPDATE_CLIENT_CHROME_UPDATE_QUERY_PARAMS_DELEGATE_H_
 

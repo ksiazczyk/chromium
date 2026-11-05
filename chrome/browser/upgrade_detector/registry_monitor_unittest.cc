@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registry monitor unit tests
+// summary: Unit tests for the Windows registry monitor covering invalid keys, missing permissions, and single or repeated key change notifications.
+// ---
+
 #include "chrome/browser/upgrade_detector/registry_monitor.h"
 
 #include "base/run_loop.h"

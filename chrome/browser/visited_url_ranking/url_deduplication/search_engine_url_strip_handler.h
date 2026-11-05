@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineURLStripHandler class declaration
+// summary: Declares the URLStripHandler subclass that strips extra parameters from search engine URLs, configured with a template URL service, keyword and normalization flags.
+// ---
+
 #ifndef CHROME_BROWSER_VISITED_URL_RANKING_URL_DEDUPLICATION_SEARCH_ENGINE_URL_STRIP_HANDLER_H_
 #define CHROME_BROWSER_VISITED_URL_RANKING_URL_DEDUPLICATION_SEARCH_ENGINE_URL_STRIP_HANDLER_H_
 

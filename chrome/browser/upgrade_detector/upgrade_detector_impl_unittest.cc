@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop upgrade detector unit tests
+// summary: Unit tests for the desktop upgrade detector covering notification stages, thresholds, outdated install detection, and simulated upgrade switches.
+// ---
+
 #include "chrome/browser/upgrade_detector/upgrade_detector_impl.h"
 
 #include <array>

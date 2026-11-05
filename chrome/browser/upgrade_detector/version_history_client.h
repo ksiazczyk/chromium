@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version history client header for last served date lookups
+// summary: Declares GetVersionReleasesUrl and GetLastServedDate, which query the Chrome VersionHistory API for the most recent time a version was still served.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_VERSION_HISTORY_CLIENT_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_VERSION_HISTORY_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB policy allowed devices class header
+// summary: Declares UsbPolicyAllowedDevices, which checks whether an origin may use a USB device according to policy preferences.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_POLICY_ALLOWED_DEVICES_H_
 #define CHROME_BROWSER_USB_USB_POLICY_ALLOWED_DEVICES_H_
 

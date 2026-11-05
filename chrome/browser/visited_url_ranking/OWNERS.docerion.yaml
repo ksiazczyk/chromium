@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to component owners
+summary: Points directory ownership review to the OWNERS file of components/visited_url_ranking.

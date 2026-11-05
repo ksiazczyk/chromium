@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater health check task
+// summary: Records updater health metrics such as updater version validity and Windows service and scheduled task presence and enabled state.
+// ---
+
 #include "chrome/browser/updater/check_updater_health_task.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android user agent browser tests
+// summary: Android browser tests verifying navigator.platform values with the ReduceUserAgentMinorVersion and AndroidDesktopUASpoofAsChromeOS features enabled or disabled.
+// ---
+
 #include <sys/utsname.h>
 
 #include "base/android/device_info.h"

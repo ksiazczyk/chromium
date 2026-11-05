@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryMonitor class declaration
+// summary: Declares a monitor of the install directory that detects changes indicating a new browser version.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_DIRECTORY_MONITOR_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_DIRECTORY_MONITOR_H_
 

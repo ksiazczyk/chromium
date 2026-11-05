@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsbConnectionTracker browser tests
+// summary: Browser tests for the USB connection tracker covering extension origin connections and system tray icon behavior.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/device_notifications/device_connection_tracker_test_base.h"
 #include "chrome/browser/usb/usb_connection_tracker_factory.h"

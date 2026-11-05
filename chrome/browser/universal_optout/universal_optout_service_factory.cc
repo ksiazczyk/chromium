@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal opt-out service factory implementation
+// summary: Implements the per-profile factory that builds UniversalOptOutService instances when the kUniversalOptOut feature is enabled, wiring prefs, variations, and identity manager.
+// ---
+
 #include "chrome/browser/universal_optout/universal_optout_service_factory.h"
 
 #include "base/check_deref.h"

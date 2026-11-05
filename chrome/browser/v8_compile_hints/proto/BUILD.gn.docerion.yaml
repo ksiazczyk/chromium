@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for V8 compile hints proto
+summary: Defines the proto_library GN target that compiles v8_compile_hints_metadata.proto and links it against the optimization guide protos.

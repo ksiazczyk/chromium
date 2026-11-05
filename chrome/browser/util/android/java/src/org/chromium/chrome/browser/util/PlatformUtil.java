@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformUtil
+// summary: Utility class with native-called methods that open a content URI via ACTION_VIEW and launch external protocol URLs on Android.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.content.ActivityNotFoundException;

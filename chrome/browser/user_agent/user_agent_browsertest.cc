@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User agent reduction browser tests
+// summary: Browser tests checking the sent User-Agent header and navigator.platform per platform under the ReduceUserAgentMinorVersion feature.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

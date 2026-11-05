@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock USB device observer declaration
+// summary: Declares a gmock-based mock of UsbChooserContext::DeviceObserver for testing device add and remove notifications.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_MOCK_DEVICE_OBSERVER_H_
 #define CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_MOCK_DEVICE_OBSERVER_H_
 

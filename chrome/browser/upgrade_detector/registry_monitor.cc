@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry version monitor
+// summary: Watches the browser's Clients registry key on Windows and reports changes or errors to the installed version poller.
+// ---
+
 #include "chrome/browser/upgrade_detector/registry_monitor.h"
 
 #include <memory>

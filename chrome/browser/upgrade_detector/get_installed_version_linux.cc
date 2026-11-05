@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux implementation of GetInstalledVersion
+// summary: Retrieves the installed Chrome version on Linux by running the browser binary with the --product-version switch on a background thread.
+// ---
+
 #include "chrome/browser/upgrade_detector/get_installed_version.h"
 
 #include <string>

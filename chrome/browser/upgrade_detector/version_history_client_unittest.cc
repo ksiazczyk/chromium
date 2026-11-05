@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the version history client
+// summary: Unit tests that verify GetLastServedDate parses VersionHistory API responses correctly and handles server errors such as 404 responses.
+// ---
+
 #include "chrome/browser/upgrade_detector/version_history_client.h"
 
 #include <string_view>

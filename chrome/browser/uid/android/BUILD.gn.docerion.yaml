@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android UID identification generator build targets
+summary: Defines the Android Java library for unique identification generators and the Robolectric unit test targets that cover them.

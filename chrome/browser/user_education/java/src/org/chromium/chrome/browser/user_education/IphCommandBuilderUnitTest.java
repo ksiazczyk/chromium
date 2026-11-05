@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IphCommandBuilder
+// summary: Robolectric unit tests verifying IphCommandBuilder's inset rect handling, including null defaults, null insets and valid inset values.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import static org.junit.Assert.assertEquals;

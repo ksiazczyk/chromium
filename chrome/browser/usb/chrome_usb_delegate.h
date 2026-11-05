@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome USB delegate header
+// summary: Declares ChromeUsbDelegate, the Chrome implementation of the content UsbDelegate interface for WebUSB support.
+// ---
+
 #ifndef CHROME_BROWSER_USB_CHROME_USB_DELEGATE_H_
 #define CHROME_BROWSER_USB_CHROME_USB_DELEGATE_H_
 

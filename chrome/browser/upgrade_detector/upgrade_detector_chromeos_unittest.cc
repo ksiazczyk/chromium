@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS upgrade detector unit tests
+// summary: Unit tests for the ChromeOS upgrade detector covering deadline calculation, timezone handling, and update notifications using a fake update engine client.
+// ---
+
 #include "chrome/browser/upgrade_detector/upgrade_detector_chromeos.h"
 
 #include <memory>

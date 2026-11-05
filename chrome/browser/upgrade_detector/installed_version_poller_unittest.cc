@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installed version poller unit tests
+// summary: Unit tests for the installed version poller, using a fake monitor to verify upgrade, critical update, rollback, and error notifications.
+// ---
+
 #include "chrome/browser/upgrade_detector/installed_version_poller.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB browser test utilities declarations
+// summary: Declares TestUsbDelegate and TestUsbContentBrowserClient used to fake the WebUSB chooser in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_BROWSER_TEST_UTILS_H_
 #define CHROME_BROWSER_USB_USB_BROWSER_TEST_UTILS_H_
 

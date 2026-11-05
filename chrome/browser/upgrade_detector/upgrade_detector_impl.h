@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop upgrade detector class
+// summary: Declares UpgradeDetectorImpl, the desktop implementation of UpgradeDetector that polls the installed version and observes variations service changes.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_DETECTOR_IMPL_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_DETECTOR_IMPL_H_
 

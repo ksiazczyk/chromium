@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education storage service implementation
+// summary: Persists in-product help, new badge, product messaging, NTP promo, and recent session data in profile preferences, defining the pref paths used for storage.
+// ---
+
 #include "chrome/browser/user_education/browser_user_education_storage_service.h"
 
 #include <optional>

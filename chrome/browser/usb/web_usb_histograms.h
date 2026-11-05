@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB histogram enums and recording functions
+// summary: Defines enums for WebUSB chooser closure and permission revocation reasons used in histograms, plus functions to record those metrics.
+// ---
+
 #ifndef CHROME_BROWSER_USB_WEB_USB_HISTOGRAMS_H_
 #define CHROME_BROWSER_USB_WEB_USB_HISTOGRAMS_H_
 

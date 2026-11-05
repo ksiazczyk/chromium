@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service factory implementation
+// summary: Builds the per-profile GroupSuggestionsService when the group suggestion feature is enabled, wiring the visited URL ranking service and tab events transformer.
+// ---
+
 #include "chrome/browser/visited_url_ranking/group_suggestions_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

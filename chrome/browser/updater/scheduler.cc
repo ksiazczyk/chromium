@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic updater task scheduler
+// summary: Schedules the updater's periodic tasks shortly after browser startup and re-runs them every five hours.
+// ---
+
 #include "chrome/browser/updater/scheduler.h"
 
 #include "base/functional/bind.h"

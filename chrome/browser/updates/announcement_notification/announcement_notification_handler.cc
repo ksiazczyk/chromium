@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification handler implementation
+// summary: Handles clicks and closes of the announcement notification, opening the announcement URL in a new foreground tab when appropriate.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_handler.h"
 
 #include "base/metrics/field_trial_params.h"

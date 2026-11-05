@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tutorial identifiers
+// summary: Defines constants for tutorial identifiers and metric prefixes used by Chrome user education tutorials such as tab groups and Lens overlay.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_TUTORIAL_IDENTIFIERS_H_
 #define CHROME_BROWSER_USER_EDUCATION_TUTORIAL_IDENTIFIERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome USB delegate unit tests
+// summary: Unit tests for ChromeUsbDelegate covering device permission grants, extension allowlisting, and service worker access.
+// ---
+
 #include "chrome/browser/usb/chrome_usb_delegate.h"
 
 #include <optional>

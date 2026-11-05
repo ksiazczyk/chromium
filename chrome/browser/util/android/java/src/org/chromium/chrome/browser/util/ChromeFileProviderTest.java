@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ChromeFileProvider
+// summary: Robolectric tests verifying that ChromeFileProvider blocks file access until notification and handles changed or null file URIs correctly.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.net.Uri;

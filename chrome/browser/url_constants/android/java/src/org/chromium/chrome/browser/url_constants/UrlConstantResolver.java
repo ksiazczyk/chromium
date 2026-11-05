@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlConstantResolver
+// summary: Resolves Chrome native page URL constants for the New Tab Page, bookmarks and history, applying registered dynamic overrides while keeping the original constants stable for lookups and logging.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import org.chromium.build.annotations.NullMarked;

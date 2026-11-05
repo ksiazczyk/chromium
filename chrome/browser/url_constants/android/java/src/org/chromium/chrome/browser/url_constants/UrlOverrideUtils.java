@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlOverrideUtils
+// summary: Provides predicates for whether the NTP, bookmarks, or history pages are overridden, hiding the extension and policy registries behind the checks.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import org.chromium.base.DeviceInfo;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the browser user education storage service
+// summary: Tests reading, saving, and resetting promo, session, badge, and NTP promo data against a live testing profile with a mock clock.
+// ---
+
 #include "chrome/browser/user_education/browser_user_education_storage_service.h"
 
 #include <memory>

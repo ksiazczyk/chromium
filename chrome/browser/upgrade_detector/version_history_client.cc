@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionHistory API client
+// summary: Queries the VersionHistory API to determine the age of the running Chrome version so relaunches can be forced when RelaunchFastIfOutdated applies.
+// ---
+
 #include "chrome/browser/upgrade_detector/version_history_client.h"
 
 #include <memory>

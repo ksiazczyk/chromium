@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake update service test utilities
+// summary: Provides a fake UpdateService and helpers used to test browser updater client behavior.
+// ---
+
 #include "chrome/browser/updater/browser_updater_client_testutils.h"
 
 #include <string>

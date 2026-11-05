@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB pinned notification implementation
+// summary: Implements the USB pinned notification that renders the WebUSB system tray indicator with extension list strings.
+// ---
+
 #include "chrome/browser/usb/usb_pinned_notification.h"
 
 #include "chrome/browser/device_notifications/device_pinned_notification_renderer.h"

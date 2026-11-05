@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome update query params delegate implementation
+// summary: Implements the singleton delegate that builds extra update request parameters from the channel name, product version, and application locale.
+// ---
+
 #include "chrome/browser/update_client/chrome_update_query_params_delegate.h"
 
 #include "base/lazy_instance.h"

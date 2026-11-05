@@ -1,0 +1,4 @@
+# Docerion header of get_installed_version_mac.mm.
+type: source
+title: macOS implementation of GetInstalledVersion
+summary: Fetches the installed Chrome version on macOS through the updater's CurrentlyInstalledVersion function on a background thread.

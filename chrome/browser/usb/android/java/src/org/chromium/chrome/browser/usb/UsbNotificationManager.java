@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbNotificationManager
+// summary: Creates, updates and cancels the WebUSB notification shown when a website is connected to a USB device on Android.
+// ---
+
 package org.chromium.chrome.browser.usb;
 
 import android.content.Context;

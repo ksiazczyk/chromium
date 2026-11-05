@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome file provider for blocked file sharing
+// summary: FileProvider subclass that shares files and can block client access to a not-yet-written file until notifyFileReady is called.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.database.Cursor;

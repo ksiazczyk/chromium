@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent session tracker unit tests
+// summary: Unit tests for RecentSessionTracker using fake session managers and in-memory storage to verify session recording and callbacks.
+// ---
+
 #include "chrome/browser/user_education/recent_session_tracker.h"
 
 #include <memory>

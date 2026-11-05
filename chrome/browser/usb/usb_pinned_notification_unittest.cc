@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB pinned notification unit tests
+// summary: Unit tests for UsbPinnedNotification covering tray icon titles, messages and connection tracker integration.
+// ---
+
 #include "chrome/browser/usb/usb_pinned_notification.h"
 
 #include <string>

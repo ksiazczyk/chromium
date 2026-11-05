@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings Secure based unique identification generator
+// summary: Unique ID generator that MD5-hashes the Android Settings.Secure.ANDROID_ID value with an optional salt, returning an empty string when the ID is unavailable.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledVersionMonitor interface
+// summary: Defines the abstract InstalledVersionMonitor interface that notifies observers about changes to the browser's installation.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_INSTALLED_VERSION_MONITOR_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_INSTALLED_VERSION_MONITOR_H_
 

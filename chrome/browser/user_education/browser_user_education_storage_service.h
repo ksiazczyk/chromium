@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education storage service header
+// summary: Declares BrowserUserEducationStorageService and RecentSessionData, the profile-backed storage interface for promo, session, badge, and messaging data.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_BROWSER_USER_EDUCATION_STORAGE_SERVICE_H_
 #define CHROME_BROWSER_USER_EDUCATION_BROWSER_USER_EDUCATION_STORAGE_SERVICE_H_
 

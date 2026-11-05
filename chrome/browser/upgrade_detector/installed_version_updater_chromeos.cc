@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS installed version updater
+// summary: Observes the ChromeOS update engine and pushes update status, including enterprise rollback and channel switch powerwash cases, to the BuildState.
+// ---
+
 #include "chrome/browser/upgrade_detector/installed_version_updater_chromeos.h"
 
 #include "base/functional/bind.h"

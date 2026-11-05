@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows periodic task scheduling
+// summary: Windows implementation of periodic tasks that checks updater health and wakes all updaters.
+// ---
+
 #include "chrome/browser/updater/scheduler.h"
 
 #include <utility>

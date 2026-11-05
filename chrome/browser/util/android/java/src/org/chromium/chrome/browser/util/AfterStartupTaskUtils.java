@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AfterStartupTaskUtils JNI glue
+// summary: JNI call glue that informs the C++ side when startup is complete so deferred tasks can be scheduled and new tasks run without deferral.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import org.jni_zero.NativeMethods;

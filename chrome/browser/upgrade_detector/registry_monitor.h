@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry version monitor header
+// summary: Declares RegistryMonitor, an InstalledVersionMonitor that detects installed version changes via the Windows registry.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_REGISTRY_MONITOR_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_REGISTRY_MONITOR_H_
 

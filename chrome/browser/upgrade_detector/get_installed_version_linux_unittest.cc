@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux GetInstalledVersion implementation
+// summary: Multiprocess unit tests covering the Linux GetInstalledVersion implementation, including missing versions, process errors, and unexpected output.
+// ---
+
 #include "chrome/browser/upgrade_detector/get_installed_version.h"
 
 #include <stdio.h>

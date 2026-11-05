@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of GetInstalledVersion
+// summary: Reads the installed and critical update versions from the Windows registry via InstallUtil and reports them on a background thread.
+// ---
+
 #include "chrome/browser/upgrade_detector/get_installed_version.h"
 
 #include <utility>

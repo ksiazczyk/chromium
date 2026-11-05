@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser util
+summary: Lists the owners of the browser util directory and per-file owner overrides for default browser and browser UI utility files.

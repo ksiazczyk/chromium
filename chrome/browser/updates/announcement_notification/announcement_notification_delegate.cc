@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification delegate implementation
+// summary: Implements the non-Android delegate that displays the announcement notification via the notification display service and reports first-run status.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_delegate.h"
 
 #include <string>

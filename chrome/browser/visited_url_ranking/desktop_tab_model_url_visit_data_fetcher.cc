@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab model URL visit data fetcher implementation
+// summary: Implements fetching URL visit data from desktop browser windows and tab strips, deduplicating entries by URL merge key.
+// ---
+
 #include "chrome/browser/visited_url_ranking/desktop_tab_model_url_visit_data_fetcher.h"
 
 #include <map>

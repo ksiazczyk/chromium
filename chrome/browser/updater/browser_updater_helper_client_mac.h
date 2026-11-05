@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac privileged helper client header
+// summary: Declares BrowserUpdaterHelperClientMac, a client that connects the browser to the privileged helper to set up the system-level updater.
+// ---
+
 #ifndef CHROME_BROWSER_UPDATER_BROWSER_UPDATER_HELPER_CLIENT_MAC_H_
 #define CHROME_BROWSER_UPDATER_BROWSER_UPDATER_HELPER_CLIENT_MAC_H_
 
