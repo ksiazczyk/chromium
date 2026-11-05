@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for digital credentials UI
+summary: DIR_METADATA file that inherits the common digital credentials metadata mixins for this directory.

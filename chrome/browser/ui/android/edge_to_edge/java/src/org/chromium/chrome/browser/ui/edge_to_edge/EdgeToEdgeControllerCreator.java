@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Edge-to-edge controller creator
+// summary: Listens to window insets via the InsetObserver and initializes an EdgeToEdgeController when gesture navigation or status bar insets appear.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.app.Activity;

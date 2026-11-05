@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeControllerTest
+// summary: Extensive Robolectric test suite for the edge-to-edge controller covering insets, fullscreen, feature flags, native pages and tab behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static android.view.Display.INVALID_DISPLAY;

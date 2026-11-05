@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App header utilities for desktop windowing
+// summary: Utility class with heuristics and enums for detecting desktop windowing mode, activity focus at startup, and OEM restrictions on external displays.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import static android.os.Build.VERSION.SDK_INT;

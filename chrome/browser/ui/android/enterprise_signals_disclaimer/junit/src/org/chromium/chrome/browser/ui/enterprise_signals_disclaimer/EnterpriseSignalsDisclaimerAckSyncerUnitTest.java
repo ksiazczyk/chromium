@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EnterpriseSignalsDisclaimerAckSyncer
+// summary: Robolectric unit tests verifying that the ack syncer initializes once and syncs known account GAIA IDs to the native bridge as accounts change.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceLockMediatorUnitTest
+// summary: Robolectric unit tests for DeviceLockMediator covering device lock state handling, PIN creation intents, reauthentication, and dialog metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertFalse;

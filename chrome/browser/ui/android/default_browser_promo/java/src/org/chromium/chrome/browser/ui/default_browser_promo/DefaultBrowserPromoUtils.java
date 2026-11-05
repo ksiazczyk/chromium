@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo utils
+// summary: Singleton utility that fetches default browser info, defines promo entry points and triggers the appropriate promo UI with a cooldown period.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.EDUCATIONAL_TIP_LAST_DEFAULT_BROWSER_PROMO_TIMESTAMP;

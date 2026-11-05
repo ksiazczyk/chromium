@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrivingRestrictionsManagerTest
+// summary: Robolectric unit tests verifying that DrivingRestrictionsManager starts and stops monitoring and finishes activities when driving optimization is required.
+// ---
+
 package org.chromium.chrome.browser.ui.cars;
 
 import static org.junit.Assert.assertFalse;

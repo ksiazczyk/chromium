@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ephemeral tab component
+summary: Maps the directory to the UI>Browser>Mobile>PreviewTab monorail component, the Chrome Android team email and a Buganizer component ID.

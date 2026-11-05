@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo manager tests
+// summary: Robolectric tests verifying that DefaultBrowserPromoManager records outcome metrics correctly across default browser state transitions.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import static org.mockito.Mockito.any;

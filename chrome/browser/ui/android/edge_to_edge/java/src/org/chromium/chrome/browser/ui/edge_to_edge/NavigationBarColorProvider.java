@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Navigation bar color provider interface
+// summary: Interface for broadcasting navigation bar color and divider color changes to observers, reflecting the original non-transparent bar color.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import androidx.annotation.ColorInt;

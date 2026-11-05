@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android serial chooser dialog unit tests
+// summary: Unit tests for SerialChooserDialogAndroid that exercise dialog creation and updates using a mock Java dialog and a mock serial chooser controller.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/serial_chooser_dialog_android.h"
 
 #include <string>

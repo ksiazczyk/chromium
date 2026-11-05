@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo message controller tests
+// summary: Robolectric tests for the promo message banner, checking the settings intent, engagement events, metrics and dismissal handling.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import static org.hamcrest.MatcherAssert.assertThat;

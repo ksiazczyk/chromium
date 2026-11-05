@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the enterprise signals disclaimer
+summary: Defines GN targets for JNI headers, native sources, unit tests, the Android Java library and resources of the enterprise signals disclaimer feature.

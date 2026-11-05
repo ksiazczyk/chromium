@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge field trial OEM overrides
+// summary: Field trial implementation enabling edge-to-edge features per device manufacturer with configurable minimum Android API versions.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.os.Build;

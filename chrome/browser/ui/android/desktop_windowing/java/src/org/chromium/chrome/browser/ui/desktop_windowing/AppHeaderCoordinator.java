@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppHeaderCoordinator
+// summary: Coordinates app header drawing in desktop windowing mode by tracking window insets, activity state, and pushing updates to the tab strip.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import static android.view.WindowInsetsController.APPEARANCE_LIGHT_CAPTION_BARS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App header test utilities
+// summary: Shared helper for app header tests that sets up mock caption bar insets to simulate desktop windowing heuristic results.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import static org.mockito.Mockito.doReturn;

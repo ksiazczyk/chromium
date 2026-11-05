@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeControllerFactory
+// summary: Factory that creates the edge-to-edge controller on supported Android versions and builds the bottom chin coordinator.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.app.Activity;

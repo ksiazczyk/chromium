@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicAppHeaderStateProvider
+// summary: Basic AppHeaderStateProvider implementation that observes caption bar insets and stores the current app header state for the activity window.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import android.app.Activity;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: SimpleEdgeToEdgeController unit tests
+// summary: Robolectric tests checking that SimpleEdgeToEdgeController reports correct bottom insets and edge-to-edge opt-in state for window insets with and without a navigation bar.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static androidx.core.view.WindowInsetsCompat.Type.navigationBars;

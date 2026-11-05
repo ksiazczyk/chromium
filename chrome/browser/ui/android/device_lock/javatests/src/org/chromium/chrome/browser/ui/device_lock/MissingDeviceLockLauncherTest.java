@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: MissingDeviceLockLauncherTest
+// summary: Instrumented JUnit tests for the MissingDeviceLockLauncher, verifying device lock checks, dialog handling and password store wipe behavior with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertFalse;

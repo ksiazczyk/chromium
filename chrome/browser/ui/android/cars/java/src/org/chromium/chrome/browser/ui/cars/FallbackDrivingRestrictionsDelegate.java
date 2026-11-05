@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FallbackDrivingRestrictionsDelegate
+// summary: No-op fallback delegate used when no downstream DrivingRestrictionsDelegateFactory implementation is available via service loading.
+// ---
+
 package org.chromium.chrome.browser.ui.cars;
 
 import org.chromium.base.Callback;

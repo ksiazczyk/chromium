@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Default browser promo include rules
+summary: Restricts which directories this folder may include from, allowing base, chrome browser, components, and UI Android dependencies.

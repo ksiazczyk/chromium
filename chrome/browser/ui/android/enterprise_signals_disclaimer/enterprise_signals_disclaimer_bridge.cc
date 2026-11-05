@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for the enterprise signals disclaimer
+// summary: Exposes the acknowledgment manager's query, set and cleanup functions to Java through JNI using local state preferences.
+// ---
+
 #include "chrome/browser/ui/android/enterprise_signals_disclaimer/enterprise_signals_disclaimer_bridge.h"
 
 #include <jni.h>

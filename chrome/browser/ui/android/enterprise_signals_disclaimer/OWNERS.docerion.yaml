@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the enterprise signals disclaimer folder
+summary: Lists ssolarewicz@google.com as primary owner and points to components/enterprise/OWNERS as backup reviewers.

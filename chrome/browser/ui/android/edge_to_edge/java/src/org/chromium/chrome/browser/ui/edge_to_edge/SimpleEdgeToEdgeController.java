@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple edge-to-edge controller
+// summary: Simple EdgeToEdgeController implementation that consumes bottom navigation bar insets and exposes them for padding content views.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static androidx.core.view.WindowInsetsCompat.Type.navigationBars;

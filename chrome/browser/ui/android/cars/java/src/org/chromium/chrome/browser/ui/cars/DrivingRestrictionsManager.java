@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrivingRestrictionsManager
+// summary: Singleton manager that tracks application state to start and stop driving restriction monitoring and finishes activities when distraction optimization is required.
+// ---
+
 package org.chromium.chrome.browser.ui.cars;
 
 import android.app.Activity;

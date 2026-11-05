@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralTabMediator
+// summary: Mediator that wires the ephemeral tab's web contents, delegates, and sheet content together and notifies registered observers of tab events.
+// ---
+
 package org.chromium.chrome.browser.ephemeraltab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disclaimer acknowledgment syncer
+// summary: Observes IdentityManager account changes and clears disclaimer acknowledgments for accounts that are no longer on the device.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.chromium.build.NullUtil.assertNonNull;

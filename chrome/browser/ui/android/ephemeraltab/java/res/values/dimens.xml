@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Ephemeral tab dimension resources
+summary: Defines Android dimension resources for the ephemeral tab UI, including the 24dp favicon size used in Chromium.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Ephemeral tab dimensions -->
     <dimen name="ephemeral_tab_favicon_size">24dp</dimen>

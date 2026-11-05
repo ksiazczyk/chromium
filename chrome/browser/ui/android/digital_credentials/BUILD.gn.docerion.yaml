@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Digital credentials Android UI build targets
+summary: GN build file defining the Android Java library, JNI header generation, enum srcjar, and instrumentation test targets for the digital credentials interstitial UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeTopScalpSceneLayerTest
+// summary: Robolectric tests for the top scalp scene layer, covering JNI layer updates, render request triggers and content tree attachment.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertFalse;

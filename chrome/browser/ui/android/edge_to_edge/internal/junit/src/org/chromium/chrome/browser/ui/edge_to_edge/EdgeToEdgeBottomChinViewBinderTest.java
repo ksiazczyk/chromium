@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeBottomChinViewBinderTest
+// summary: Robolectric tests verifying that the bottom chin view binder applies property model changes to the Android view and scene layer.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

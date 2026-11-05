@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modal dialog host for the enterprise signals disclaimer
+// summary: Implements EnterpriseSignalsDisclaimerHost by showing the disclaimer as an app modal dialog via ModalDialogManager and translating dialog dismissal causes for the controller callback.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import android.view.View;

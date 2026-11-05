@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MissingDeviceLockViewBinderTest
+// summary: Robolectric tests for MissingDeviceLockViewBinder verifying that create, continue, and checkbox interactions trigger the bound handlers.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise signals disclaimer controller
+// summary: Decides when and how managed users see the disclaimer, choosing modal dialog or bottom sheet presentation and handling metrics and user decisions.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.chromium.build.NullUtil.assertNonNull;

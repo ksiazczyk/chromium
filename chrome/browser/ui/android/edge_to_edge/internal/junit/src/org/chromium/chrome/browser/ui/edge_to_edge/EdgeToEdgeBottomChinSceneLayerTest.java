@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeBottomChinSceneLayerTest
+// summary: Robolectric tests for the bottom chin scene layer, covering JNI layer updates, render request triggers and overlay visibility under feature flags.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertFalse;

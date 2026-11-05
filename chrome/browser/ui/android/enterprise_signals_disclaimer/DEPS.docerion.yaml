@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the folder
+summary: Grants the folder permission to include headers from components/browser_ui/bottomsheet/android.

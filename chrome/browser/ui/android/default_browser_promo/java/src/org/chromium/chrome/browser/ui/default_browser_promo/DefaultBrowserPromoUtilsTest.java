@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo utils tests
+// summary: Parameterized Robolectric unit tests covering promo triggering, suppression, entry points and message display behavior of DefaultBrowserPromoUtils.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import static org.mockito.ArgumentMatchers.any;

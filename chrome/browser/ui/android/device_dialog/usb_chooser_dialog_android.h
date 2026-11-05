@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB chooser dialog header
+// summary: Declares UsbChooserDialogAndroid, the Android chooser view for selecting a USB device, with the callback type for creating the Java dialog and JNI result handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_USB_CHOOSER_DIALOG_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_USB_CHOOSER_DIALOG_ANDROID_H_
 

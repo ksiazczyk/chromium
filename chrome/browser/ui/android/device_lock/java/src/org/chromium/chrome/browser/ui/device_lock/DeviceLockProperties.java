@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockProperties
+// summary: Defines the property keys for the device lock property model, covering UI state, source, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.view.View.OnClickListener;

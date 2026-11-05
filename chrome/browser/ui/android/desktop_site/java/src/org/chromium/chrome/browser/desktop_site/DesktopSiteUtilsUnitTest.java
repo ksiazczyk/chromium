@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopSiteUtilsUnitTest
+// summary: Robolectric unit tests for DesktopSiteUtils covering desktop user agent content settings, global default-on thresholds and related preference behavior.
+// ---
+
 package org.chromium.chrome.browser.desktop_site;
 
 import static org.mockito.ArgumentMatchers.any;

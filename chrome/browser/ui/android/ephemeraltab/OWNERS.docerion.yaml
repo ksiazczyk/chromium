@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ephemeral tab directory
+summary: Lists the Chromium developers responsible for reviewing changes in this directory.

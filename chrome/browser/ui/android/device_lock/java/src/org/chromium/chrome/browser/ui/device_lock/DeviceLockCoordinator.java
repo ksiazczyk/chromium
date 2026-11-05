@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockCoordinator
+// summary: Coordinator that creates and manages the device lock UI, wiring together the view, mediator, and reauthentication bridge.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.app.Activity;

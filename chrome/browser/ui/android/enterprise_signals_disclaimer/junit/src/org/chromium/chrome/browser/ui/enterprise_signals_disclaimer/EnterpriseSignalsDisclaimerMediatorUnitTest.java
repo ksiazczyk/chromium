@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EnterpriseSignalsDisclaimerMediator
+// summary: Robolectric unit tests verifying the disclaimer mediator's property model, including profile picture rendering and updates for managed accounts.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.mockito.ArgumentMatchers.any;

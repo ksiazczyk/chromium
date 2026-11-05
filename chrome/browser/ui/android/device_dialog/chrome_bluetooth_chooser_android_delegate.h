@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth chooser Android delegate header
+// summary: Declares ChromeBluetoothChooserAndroidDelegate, Chrome's implementation of the permissions Bluetooth chooser delegate for Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_CHROME_BLUETOOTH_CHOOSER_ANDROID_DELEGATE_H_
 #define CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_CHROME_BLUETOOTH_CHOOSER_ANDROID_DELEGATE_H_
 

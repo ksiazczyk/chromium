@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSiteUtils
+// summary: Chromium Android utility class for desktop sites that manages request desktop site content settings and global default-on thresholds for display size, screen width and memory.
+// ---
+
 package org.chromium.chrome.browser.desktop_site;
 
 import android.app.Activity;

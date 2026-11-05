@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise signals disclaimer metrics helper
+// summary: Records UMA histograms for the enterprise signals disclaimer, covering shown requests, results, time to user action, and implicit dismissals within a five-minute window.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import androidx.annotation.IntDef;

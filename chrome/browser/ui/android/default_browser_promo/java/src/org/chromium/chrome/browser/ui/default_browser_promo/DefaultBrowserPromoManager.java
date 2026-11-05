@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo manager
+// summary: Shows default browser promo dialogs through the Android RoleManager and records the promo outcome metrics after the user responds.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import android.annotation.SuppressLint;

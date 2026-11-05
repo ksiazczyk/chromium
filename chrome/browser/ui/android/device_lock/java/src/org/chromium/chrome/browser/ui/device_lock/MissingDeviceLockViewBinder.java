@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Missing device lock view binder
+// summary: Stateless binder that applies MissingDeviceLockProperties state to the missing device lock view, wiring button click listeners and the remove-local-data checkbox.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.chromium.chrome.browser.ui.device_lock.MissingDeviceLockProperties.ON_CHECKBOX_TOGGLED;

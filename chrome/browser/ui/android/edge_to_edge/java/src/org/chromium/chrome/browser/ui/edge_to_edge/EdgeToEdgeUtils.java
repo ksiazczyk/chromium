@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge eligibility utilities and metrics
+// summary: Utility class determining whether edge-to-edge is enabled and eligible for the current session and recording related eligibility histograms.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.app.Activity;

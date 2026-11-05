@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device lock UI Android build targets
+summary: GN build file defining the Android library targets, sources and dependencies for the Chrome device lock UI and its unit and Robolectric tests.

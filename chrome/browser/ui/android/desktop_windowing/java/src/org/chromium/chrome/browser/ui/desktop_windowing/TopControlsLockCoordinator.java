@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopControlsLockCoordinator
+// summary: Manages locking of browser top controls on large screen form factors based on desktop windowing mode, tab strip visibility, and side UI changes.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import android.content.Context;

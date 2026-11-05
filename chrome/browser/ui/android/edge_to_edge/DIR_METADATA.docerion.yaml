@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Edge-to-edge directory metadata
+summary: Records the monorail component, team email, Android OS, and Buganizer component ID used for filing issues against the edge-to-edge directory.

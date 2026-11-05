@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeTopScalpViewBinder
+// summary: Binds the top scalp property model values to the EdgeToEdgeTopScalpSceneLayer and provides a no-op binder for compositor frame updates.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.chromium.chrome.browser.ui.edge_to_edge.EdgeToEdgeTopScalpProperties.COLOR;

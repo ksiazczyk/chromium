@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralTabObserver
+// summary: Observer interface with default methods for ephemeral tab events such as toolbar creation, navigation, title changes, and web contents destruction.
+// ---
+
 package org.chromium.chrome.browser.ephemeraltab;
 
 import android.view.ViewGroup;

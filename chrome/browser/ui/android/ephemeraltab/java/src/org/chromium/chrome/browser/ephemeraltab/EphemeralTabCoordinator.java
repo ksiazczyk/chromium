@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralTabCoordinator
+// summary: Central coordinator class that spins up the components needed to display short-lived web contents in the Android bottom sheet ephemeral tab UI.
+// ---
+
 package org.chromium.chrome.browser.ephemeraltab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

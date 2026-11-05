@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrivingRestrictionsDelegateFactory interface
+// summary: Interface that instantiates a DrivingRestrictionsDelegate with a driving optimization callback.
+// ---
+
 package org.chromium.chrome.browser.ui.cars;
 
 import org.chromium.base.Callback;

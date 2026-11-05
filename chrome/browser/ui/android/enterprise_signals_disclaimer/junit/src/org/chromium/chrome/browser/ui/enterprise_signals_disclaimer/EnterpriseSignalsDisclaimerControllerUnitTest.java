@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EnterpriseSignalsDisclaimerController
+// summary: Robolectric unit tests covering the disclaimer controller's behavior across sign-in states, presentation modes, host and coordinator factories, and recorded metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.mockito.ArgumentMatchers.any;

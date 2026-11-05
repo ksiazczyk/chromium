@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BasicAppHeaderStateProvider unit tests
+// summary: Unit tests verifying that BasicAppHeaderStateProvider reports the app header state correctly inside and outside desktop windowing mode.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import static org.junit.Assert.assertFalse;

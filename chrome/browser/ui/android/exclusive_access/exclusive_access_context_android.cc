@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access context implementation
+// summary: Implements the Android exclusive access context, handling fullscreen entry and exit, bubble updates, and asynchronous bubble destruction.
+// ---
+
 #include "exclusive_access_context_android.h"
 
 #include "base/functional/callback.h"

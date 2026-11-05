@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo metrics
+// summary: Helper class that records histograms for promo entry point clicks, role manager dialog shows and promo outcomes.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import androidx.annotation.IntDef;

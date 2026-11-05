@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device lock directory include rules
+summary: Defines the allowed include and dependency paths for code in the device lock UI directory.

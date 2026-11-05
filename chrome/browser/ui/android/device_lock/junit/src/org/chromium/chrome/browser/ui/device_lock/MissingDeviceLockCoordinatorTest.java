@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MissingDeviceLockCoordinatorTest
+// summary: Robolectric tests for MissingDeviceLockCoordinator covering showing and hiding the removal dialog and continuing without a device lock.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser state provider
+// summary: Determines the current system default browser state and decides whether the promo should be shown based on that state.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import android.content.pm.ResolveInfo;

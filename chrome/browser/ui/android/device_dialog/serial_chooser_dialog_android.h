@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android serial port chooser dialog header
+// summary: Declares SerialChooserDialogAndroid, the Android view that lets the user pick a serial port, including the JavaDialog interface and callbacks for selections, cancellations and help pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_SERIAL_CHOOSER_DIALOG_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_SERIAL_CHOOSER_DIALOG_ANDROID_H_
 

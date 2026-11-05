@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the digital credentials UI directory
+summary: DEPS file allowing this directory to include code from the content/public/android/java tree.

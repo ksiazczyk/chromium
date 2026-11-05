@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS inheriting the parent exclusive access owners
+summary: Points to the shared OWNERS file in the parent exclusive_access directory for reviewer approval.

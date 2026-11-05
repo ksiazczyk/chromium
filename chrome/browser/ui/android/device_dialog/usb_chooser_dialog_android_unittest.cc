@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android USB chooser dialog unit tests
+// summary: Tests UsbChooserDialogAndroid, verifying that a chooser request from a subframe is attributed to the main frame origin when the Java dialog is created.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/usb_chooser_dialog_android.h"
 
 #include <string>

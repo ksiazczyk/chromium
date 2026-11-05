@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeOSWrapperImpl
+// summary: Default implementation of EdgeToEdgeOSWrapper that forwards padding calls to the given Android view.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.view.View;

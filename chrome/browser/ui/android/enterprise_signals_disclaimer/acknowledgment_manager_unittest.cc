@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the acknowledgment manager
+// summary: Covers default state, setting acknowledgments, idempotency, prepopulated preferences and removal of accounts not present on the device.
+// ---
+
 #include "chrome/browser/ui/android/enterprise_signals_disclaimer/acknowledgment_manager.h"
 
 #include <string>

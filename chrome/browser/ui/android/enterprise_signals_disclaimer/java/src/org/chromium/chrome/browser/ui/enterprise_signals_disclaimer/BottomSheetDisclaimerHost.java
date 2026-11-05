@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet disclaimer host
+// summary: Implements EnterpriseSignalsDisclaimerHost by showing the disclaimer in a bottom sheet and reporting dismissal causes to the embedder's callback.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import android.content.res.Resources;

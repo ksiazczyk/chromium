@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Enterprise signals disclaimer dimension resources
+summary: Defines Android dimension values for the enterprise signals disclaimer UI, including profile picture size and badge size and positioning.
+-->
+
 <resources>
     <dimen name="enterprise_signals_disclaimer_profile_picture_size">72dp</dimen>
     <dimen name="enterprise_signals_disclaimer_badge_size">22.5dp</dimen>
