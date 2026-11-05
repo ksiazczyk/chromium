@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: GN build targets for web app Mojom files'
+summary: GN build file defining the mojom_web_apps_enum and web_app_shortcut_copier_mojom targets for the web applications Mojom sources.

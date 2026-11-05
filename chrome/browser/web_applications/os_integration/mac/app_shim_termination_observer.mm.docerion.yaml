@@ -1,0 +1,4 @@
+# Docerion header of app_shim_termination_observer.mm.
+type: source
+title: App shim termination observer implementation
+summary: Implements KVO-based observation of NSRunningApplication termination, invoking the callback on the UI thread.

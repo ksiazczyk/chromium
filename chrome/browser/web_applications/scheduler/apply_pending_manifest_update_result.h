@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply pending manifest update result enum
+// summary: Defines the UMA-recorded ApplyPendingManifestUpdateResult enum for pending manifest update outcomes and a completion callback type.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_APPLY_PENDING_MANIFEST_UPDATE_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_APPLY_PENDING_MANIFEST_UPDATE_RESULT_H_
 

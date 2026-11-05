@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the web app shortcut copier
+summary: GN build definition for the web_app_shortcut_copier library and executable, including rpath and install name handling for macOS.

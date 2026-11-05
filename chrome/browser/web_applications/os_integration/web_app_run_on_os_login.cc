@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app run on OS login scheduling
+// summary: Schedules registration and unregistration of web apps to run on OS login on the shortcut IO thread, posting results back to the UI thread.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include <memory>

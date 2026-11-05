@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app user install policy handler implementation
+// summary: Applies the WebAppInstallByUserEnabled policy to browser prefs and disables app sync when user web app installs are blocked.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_user_install_policy_handler.h"
 
 #include <algorithm>

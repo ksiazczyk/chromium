@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts versioning Mac unit tests
+// summary: Unit tests verifying that Mac app shortcut versions are stored in prefs and updated when the OS integration manager starts.
+// ---
+
 #include <memory>
 
 #include "base/apple/foundation_util.h"

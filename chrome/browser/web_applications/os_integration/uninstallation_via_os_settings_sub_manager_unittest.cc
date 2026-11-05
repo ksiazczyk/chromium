@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uninstallation via OS settings sub manager unit tests
+// summary: Unit tests verifying OS settings uninstall registration behavior and result histograms for user-uninstallable web apps.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/uninstallation_via_os_settings_sub_manager.h"
 
 #include <memory>

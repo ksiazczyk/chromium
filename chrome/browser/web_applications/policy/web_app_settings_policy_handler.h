@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppSettings policy handler declaration
+// summary: Declares WebAppSettingsPolicyHandler, a schema-validating policy handler with extra checks for the WebAppSettings policy.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_SETTINGS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_SETTINGS_POLICY_HANDLER_H_
 

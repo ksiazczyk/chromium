@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run on OS login sub manager unit tests
+// summary: Unit tests verifying run-on-OS-login registration and unregistration behavior for installed web apps.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <utility>

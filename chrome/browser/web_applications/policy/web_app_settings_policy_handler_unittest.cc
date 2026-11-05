@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppSettings policy handler unit tests
+// summary: Unit tests verifying that WebAppSettingsPolicyHandler accepts valid WebAppSettings values and rejects invalid run_on_os_login and force-unregister settings.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_settings_policy_handler.h"
 
 #include <string_view>

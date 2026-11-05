@@ -1,0 +1,4 @@
+# Docerion header of bundle_info_plist.mm.
+type: source
+title: Bundle Info.plist reader implementation
+summary: Reads app shim Info.plist files and locates bundles by identifier via LaunchServices, falling back to scanning the applications folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationData implementation
+// summary: Implements the IsolationData class holding isolated web app storage location, version, pending update info, integrity block data and debug serialization.
+// ---
+
 #include "chrome/browser/web_applications/model/isolation_data.h"
 
 #include "base/containers/to_value_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon bitmap and size types implementation
+// summary: Implements IconBitmaps and IconSizes helpers, including purpose-based access, equality checks and debug output for web app icons.
+// ---
+
 #include "chrome/browser/web_applications/model/web_app_icon_types.h"
 
 #include <algorithm>

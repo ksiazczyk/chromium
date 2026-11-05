@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RewriteIconResult enum and callback
+// summary: Defines the RewriteIconResult enum logged to histograms for DIY icon rewriting, plus the callback type and stream operator declaration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_REWRITE_DIY_ICONS_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_REWRITE_DIY_ICONS_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchOrReparentResult enum
+// summary: Defines the persisted LaunchOrReparentResult enum describing whether a web app was launched or reparented, tied to UMA histograms.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_LAUNCH_OR_REPARENT_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_LAUNCH_OR_REPARENT_RESULT_H_
 

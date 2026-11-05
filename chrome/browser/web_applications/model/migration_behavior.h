@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationBehavior header
+// summary: Defines MigrationBehavior as an alias for the blink manifest migration behavior mojom and declares proto conversion and validation functions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_MIGRATION_BEHAVIOR_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_MIGRATION_BEHAVIOR_H_
 

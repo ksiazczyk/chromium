@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vids preinstalled web app install configuration
+// summary: Defines the external install options for preinstalling the Google Vids app, including start URL, manifest ID, tabbed home tab patterns, bundled icon, and expected app ID.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/vids.h"
 
 #include <memory>

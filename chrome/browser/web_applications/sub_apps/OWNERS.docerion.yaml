@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Sub Apps API directory
+summary: Defines the primary and secondary owners responsible for reviewing changes to the Sub Apps API directory.

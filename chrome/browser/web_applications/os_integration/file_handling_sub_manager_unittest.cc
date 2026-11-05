@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the file handling sub manager
+// summary: Tests configuring, registering, and unregistering web app file handlers through the OS integration manager across platforms.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/file_handling_sub_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux web app desktop shortcut unit tests
+// summary: Unit tests for Linux desktop shortcut creation, updating, and deletion, verifying xdg utility invocations, shortcut locations, and icon paths.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut_linux.h"
 
 #include <stddef.h>

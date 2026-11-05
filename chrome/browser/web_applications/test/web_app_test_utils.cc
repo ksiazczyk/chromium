@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app test utilities implementation
+// summary: Implements helpers for creating, randomly generating, and installing web apps in tests, including install dialog acceptance and decline callbacks.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_test_utils.h"
 
 #include <stddef.h>

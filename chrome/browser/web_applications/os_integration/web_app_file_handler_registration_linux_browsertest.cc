@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux file handler registration browser test
+// summary: Browser tests verifying that Linux MIME type registration issues the expected xdg commands and registration file contents for apps with file handlers.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for preinstalled web app definition utilities
+// summary: Unit tests for GetTranslatedName locale matching, with the test disabled on Linux, ChromeOS, and Mac due to memory-smashing failures.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/preinstalled_web_app_definition_utils.h"
 
 #include "build/build_config.h"

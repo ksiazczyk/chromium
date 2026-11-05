@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled web apps list for new profiles
+// summary: Assembles the list of web apps preinstalled on new profiles, gated by Chrome branding, platform, feature flags, and user account type.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/preinstalled_web_apps.h"
 
 #include <optional>

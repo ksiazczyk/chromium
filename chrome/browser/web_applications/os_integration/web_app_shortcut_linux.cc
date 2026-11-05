@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux web app desktop shortcut implementation
+// summary: Creates, updates and deletes Linux .desktop shortcuts and icons via xdg utilities, recording UMA metrics.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut_linux.h"
 
 #include <fcntl.h>

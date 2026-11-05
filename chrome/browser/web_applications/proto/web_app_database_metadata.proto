@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_database_metadata.proto: database version metadata'
+// summary: Defines the DatabaseMetadata message that stores the web app database version to support migrations and non-app storage.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

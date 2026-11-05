@@ -1,3 +1,9 @@
+---
+type: readme
+title: Web App Shortcuts on macOS
+summary: Explains how web app shortcuts (app bundles) work on macOS, including how Finder determines app display names and related gotchas.
+---
+
 ## Web App Shortcuts on macOS
 
 Shortcuts on Mac are different from shortcuts on some other platforms, in

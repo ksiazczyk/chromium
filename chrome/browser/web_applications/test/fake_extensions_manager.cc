@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExtensionsManager implementation for web app tests
+// summary: Implements a fake ExtensionsManager that lets web app tests configure extension install, policy, and display-mode states without the real extensions system.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_extensions_manager.h"
 
 #include <memory>

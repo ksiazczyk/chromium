@@ -1,0 +1,4 @@
+# Docerion header of web_app_shortcut_copier_mac.mm.
+type: source
+title: Mac web app shortcut copier helper process
+summary: Implements a Mojo helper process that copies a web app's native app shim bundle to its final location in the Applications folder.

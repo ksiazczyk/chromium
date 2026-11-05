@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handling sub manager implementation
+// summary: Implements registration and unregistration of web app file handlers with the OS, converting file handling proto state into file handler entries.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/file_handling_sub_manager.h"
 
 #include <utility>

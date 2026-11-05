@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app comparison class
+// summary: Declares WebAppComparison and PendingUpdateComparison, describing differences between an existing web app and new install info for update operations.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_WEB_APP_COMPARISON_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_WEB_APP_COMPARISON_H_
 

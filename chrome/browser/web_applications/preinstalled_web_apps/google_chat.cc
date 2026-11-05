@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Chat Preinstalled Web App Config
+// summary: Defines install options for preinstalling Google Chat, supporting migration to a dedicated chat origin and standalone or browser display modes.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/google_chat.h"
 
 #include "ash/constants/web_app_id_constants.h"

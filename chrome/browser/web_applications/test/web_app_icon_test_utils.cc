@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app icon test utilities
+// summary: Provides helpers to create and compare test icons, locate app icon directories, and read or write generated icons through the WebAppIconManager.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_icon_test_utils.h"
 
 #include <algorithm>

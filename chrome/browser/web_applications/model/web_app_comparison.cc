@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app comparison implementation
+// summary: Implements WebAppComparison, which compares an existing WebApp on disk with new WebAppInstallInfo, covering name, icons, shortcut menu items and pending updates.
+// ---
+
 #include "chrome/browser/web_applications/model/web_app_comparison.h"
 
 #include "base/strings/to_string.h"

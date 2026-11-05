@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestSilentUpdateCheckResult enum and completion info
+// summary: Defines the UMA-recorded ManifestSilentUpdateCheckResult enum, the completion info struct and the callback for manifest silent update checks.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_MANIFEST_SILENT_UPDATE_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_MANIFEST_SILENT_UPDATE_RESULT_H_
 

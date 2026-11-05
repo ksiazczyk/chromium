@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app apply update error and result types
+// summary: Defines the error struct and expected-based result type used when applying pending isolated web app updates.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_ISOLATED_WEB_APP_APPLY_UPDATE_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_ISOLATED_WEB_APP_APPLY_UPDATE_RESULT_H_
 

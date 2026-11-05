@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaUpdateInfo implementation
+// summary: Implements constructors and copy/move semantics for the IwaUpdateInfo struct that carries an update manifest URL and optional update channel.
+// ---
+
 #include "chrome/browser/web_applications/model/iwa_update_info.h"
 
 namespace web_app {

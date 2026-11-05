@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub Apps service implementation
+// summary: Implements the browser-side SubAppsService, handling add, list and remove of sub-apps with limits, consent prompts and notifications.
+// ---
+
 #include "chrome/browser/web_applications/sub_apps/sub_apps_service_impl.h"
 
 #include <cstddef>

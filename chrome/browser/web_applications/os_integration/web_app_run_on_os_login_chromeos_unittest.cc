@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeOS run on OS login
+// summary: Unit tests verifying that ChromeOS run-on-OS-login register and unregister succeed as no-ops.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OsIntegrationTestOverrideImpl header
+// summary: Declares OsIntegrationTestOverrideImpl and its blocking registration helper for faking OS integration state and verifying it in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_OS_INTEGRATION_TEST_OVERRIDE_IMPL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_OS_INTEGRATION_TEST_OVERRIDE_IMPL_H_
 

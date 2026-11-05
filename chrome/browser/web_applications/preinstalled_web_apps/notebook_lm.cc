@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotebookLM preinstalled web app config
+// summary: Defines install options for preinstalling NotebookLM, including bundled icons, expected app ID, and an unmanaged-user allowlist.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/notebook_lm.h"
 
 #include <memory>

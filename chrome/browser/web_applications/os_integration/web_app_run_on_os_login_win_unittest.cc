@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows run on OS login
+// summary: Tests creation, deletion and repeated registration of Windows Startup folder shortcuts for web apps.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include <vector>

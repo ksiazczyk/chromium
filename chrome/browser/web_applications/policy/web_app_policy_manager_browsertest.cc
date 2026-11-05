@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Web app policy manager browser tests
+// summary: Browser tests covering policy-driven web app installs and related WebAppPolicyManager behavior across platforms.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_policy_manager.h"
 
 #include <memory>

@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_install_state.proto: web app install states'
+// summary: Defines the InstallState enum with the exclusive installation states a web app can occupy, from suggested to fully installed with OS integration.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

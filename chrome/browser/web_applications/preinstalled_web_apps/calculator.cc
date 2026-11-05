@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator Preinstalled Web App Config
+// summary: Defines the external install options that preinstall the Calculator web app in Chrome branded builds, replacing the legacy calculator extension.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/calculator.h"
 
 #include "ash/constants/ash_extension_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallMigrateToAppResult enum and callback
+// summary: Defines the UMA-recorded InstallMigrateToAppResult enum covering migrate-to-app install outcomes plus its completion callback type.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_INSTALL_MIGRATE_TO_APP_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_INSTALL_MIGRATE_TO_APP_RESULT_H_
 

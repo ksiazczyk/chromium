@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationSource implementation
+// summary: Implements MigrationSource parsing from proto, serialization back to proto and debug value output for web app manifest migration sources.
+// ---
+
 #include "chrome/browser/web_applications/model/migration_source.h"
 
 #include <utility>

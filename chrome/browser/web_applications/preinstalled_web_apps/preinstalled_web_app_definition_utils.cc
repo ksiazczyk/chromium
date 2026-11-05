@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled web app definition utilities
+// summary: Implements helpers for preinstalled web app definitions, such as loading bundled icon bitmaps and matching translated app names to the application locale.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/preinstalled_web_app_definition_utils.h"
 
 #include "base/numerics/safe_conversions.h"

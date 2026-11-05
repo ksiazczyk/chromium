@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigateAndTriggerInstallDialogResult enum and callback
+// summary: Defines the NavigateAndTriggerInstallDialogResult enum and callback describing outcomes of navigating to a site and triggering its install dialog.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_NAVIGATE_AND_TRIGGER_INSTALL_DIALOG_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_NAVIGATE_AND_TRIGGER_INSTALL_DIALOG_RESULT_H_
 

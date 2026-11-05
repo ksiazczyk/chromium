@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated icon fix result enum
+// summary: Defines the metrics-recorded GeneratedIconFixResult enum for generated icon fix outcomes and a callback type for reporting them.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_GENERATED_ICON_FIX_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_GENERATED_ICON_FIX_RESULT_H_
 

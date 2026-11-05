@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut sub manager browser tests
+// summary: Browser test verifying that ephemeral profile cleanup deletes web app shortcuts and run-on-OS-login registrations on Windows, Linux and Mac.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"

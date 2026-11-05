@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handler registration utilities implementation
+// summary: Implements Windows helpers for app launcher commands, ProgId generation, launcher file creation, profile name extensions, and registration metrics.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_handler_registration_utils_win.h"
 
 #include <string_view>

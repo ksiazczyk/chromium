@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service web app policy implementation
+// summary: Maps ChromeOS system web app types to policy IDs and classifies policy IDs as ARC app or system web app identifiers.
+// ---
+
 #include "chrome/browser/web_applications/policy/app_service_web_app_policy.h"
 
 #include <algorithm>

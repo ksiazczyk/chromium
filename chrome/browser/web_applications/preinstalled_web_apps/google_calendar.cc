@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Calendar Preinstalled Web App Config
+// summary: Defines install options for preinstalling Google Calendar, including a table of localized app name translations and replacement of the legacy extension.
+// ---
+
 #include "ash/constants/web_app_id_constants.h"
 #include "base/functional/bind.h"
 #include "base/strings/utf_string_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of app_shim_launch.mm.
+type: source
+title: App shim launch implementation
+summary: Implements launching and updating app shims on macOS, building the launch command line and observing shim termination.

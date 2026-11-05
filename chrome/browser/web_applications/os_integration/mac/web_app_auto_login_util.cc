@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac web app auto login utility implementation
+// summary: Implements WebAppAutoLoginUtil, wrapping macOS login item APIs with a test override hook for adding and removing app bundles at login.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/mac/web_app_auto_login_util.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Docs preinstalled web app config implementation
+// summary: Defines install options for the preinstalled Google Docs web app, including localized app name translations and ChromeOS-specific Drive bulk pinning behavior.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/google_docs.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run on OS login sub manager interface
+// summary: Declares the sub manager that configures and executes run-on-OS-login registration for web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_RUN_ON_OS_LOGIN_SUB_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_RUN_ON_OS_LOGIN_SUB_MANAGER_H_
 

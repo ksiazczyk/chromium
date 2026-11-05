@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app protocol handler registration stubs
+// summary: Provides no-op stub implementations of protocol handler registration and unregistration with the OS for platforms other than Windows and macOS.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_protocol_handler_registration.h"
 
 #include "base/files/file_path.h"

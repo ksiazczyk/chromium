@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalizedText implementation
+// summary: Implements the LocalizedText class with value, language and text direction fields, emptiness checks and debug value serialization.
+// ---
+
 #include "chrome/browser/web_applications/model/localized_text.h"
 
 #include <utility>

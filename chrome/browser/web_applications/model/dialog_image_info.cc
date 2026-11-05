@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogImageInfo implementation
+// summary: Implements DialogImageInfo, including equality comparison of dialog icon bitmaps keyed by size and the maskable flag.
+// ---
+
 #include "chrome/browser/web_applications/model/dialog_image_info.h"
 
 #include <algorithm>

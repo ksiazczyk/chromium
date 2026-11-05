@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaUpdateInfo struct header
+// summary: Declares a struct for explicit update configuration overrides for an Isolated Web App, persisted into IsolationData during installation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_IWA_UPDATE_INFO_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_IWA_UPDATE_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut menu handling sub manager implementation
+// summary: Implements the OS integration sub manager that configures and synchronizes web app shortcut menus with the operating system, including icon data handling and related histograms.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/shortcut_menu_handling_sub_manager.h"
 
 #include <utility>

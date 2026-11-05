@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handler registration utilities header
+// summary: Declares Windows helper functions for ProgId generation, app launcher files, profile-specific name extensions, and registration result metrics.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_HANDLER_REGISTRATION_UTILS_WIN_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_HANDLER_REGISTRATION_UTILS_WIN_H_
 

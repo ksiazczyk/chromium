@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data retriever declarations
+// summary: Declares a fake WebAppDataRetriever that lets tests supply artificial manifest, icon, and installability data without a real web page or network.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_DATA_RETRIEVER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_DATA_RETRIEVER_H_
 

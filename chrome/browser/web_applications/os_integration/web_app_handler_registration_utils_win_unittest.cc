@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app handler registration utils Windows unit tests
+// summary: Unit tests verifying Windows registry registration of web app launchers, Prog IDs, icons and app names using registry overrides and testing profiles.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_handler_registration_utils_win.h"
 
 #include <memory>

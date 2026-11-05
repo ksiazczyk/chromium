@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFileUtils implementation
+// summary: Implements a test FileUtilsWrapper that can simulate disk-full errors, reroute file reads, and stub or record file deletion results.
+// ---
+
 #include "chrome/browser/web_applications/test/test_file_utils.h"
 
 #include <cstdint>

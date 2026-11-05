@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable check result logging implementation
+// summary: Implements the ostream operator that prints InstallableCheckResult enum values as readable strings.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/fetch_installability_for_chrome_management_result.h"
 
 #include <ostream>

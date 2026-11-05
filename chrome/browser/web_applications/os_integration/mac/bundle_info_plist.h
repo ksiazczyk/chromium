@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bundle Info.plist reader interface
+// summary: Declares BundleInfoPlist, which reads app shim Info.plist data and searches for bundles by ID for the current user data dir and profile.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_BUNDLE_INFO_PLIST_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_BUNDLE_INFO_PLIST_H_
 

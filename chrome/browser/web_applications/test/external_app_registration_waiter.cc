@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External app registration waiter implementation
+// summary: Implements a waiter that blocks until externally managed web app registrations occur, asserting expected install URLs and result codes.
+// ---
+
 #include "chrome/browser/web_applications/test/external_app_registration_waiter.h"
 
 #include "base/test/bind.h"

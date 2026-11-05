@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install from migrate_from field result stream operator
+// summary: Implements the ostream operator that prints readable names for WebAppInstallFromMigrateFromFieldResult enum values.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/web_app_install_from_migrate_from_field_result.h"
 
 #include <ostream>

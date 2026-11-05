@@ -1,3 +1,12 @@
+---
+type: readme
+title: Preinstalled Web Apps in Chrome Branded Builds
+summary: Documents how preinstalled web apps are configured via hard coded configs and on-device JSON configs, and where bundled icon bitmaps live and how they are packaged.
+relations:
+  - references /chrome/browser/web_applications/preinstalled_web_apps/preinstalled_web_apps.h
+  - references /chrome/browser/resources/preinstalled_web_apps/resources.grd
+---
+
 This directory contains hard coded preinstalled web app configs to be default
 installed in Chrome branded builds.
 

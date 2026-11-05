@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app policy constants definitions
+// summary: Defines string keys and values for the WebAppInstallForceList preference, such as URL, launch container, custom name, icon and shortcut fields.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_policy_constants.h"
 
 namespace web_app {

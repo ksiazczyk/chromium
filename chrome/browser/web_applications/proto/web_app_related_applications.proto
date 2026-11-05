@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_related_applications.proto: related applications proto'
+// summary: Defines the RelatedApplications protobuf mirroring the related applications manifest field with platform, URL and id entries.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

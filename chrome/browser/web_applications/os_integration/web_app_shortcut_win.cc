@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows web app desktop shortcut implementation
+// summary: Implements creating, updating, and deleting Windows web app shortcuts, including icon saving with MD5 checksums and shell icon cache refreshing.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut_win.h"
 
 #include <shlobj.h>

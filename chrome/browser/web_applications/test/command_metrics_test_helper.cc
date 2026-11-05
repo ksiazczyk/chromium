@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command metrics test helper implementation
+// summary: Implements helpers that build lists of install command result and surface histogram names for verifying web app command metrics in tests.
+// ---
+
 #include "chrome/browser/web_applications/test/command_metrics_test_helper.h"
 
 #include "base/strings/strcat.h"

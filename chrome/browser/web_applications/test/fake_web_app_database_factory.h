@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebAppDatabaseFactory test fake header
+// summary: Declares a fake AbstractWebAppDatabaseFactory providing an in-memory database store so web app unit tests avoid real disk I/O.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_APP_DATABASE_FACTORY_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_APP_DATABASE_FACTORY_H_
 

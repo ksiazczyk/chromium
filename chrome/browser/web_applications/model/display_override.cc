@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayOverride implementation
+// summary: Implements DisplayOverride, parsing and serializing display mode and URL pattern overrides from the web app manifest to proto and debug values.
+// ---
+
 #include "chrome/browser/web_applications/model/display_override.h"
 
 #include <optional>

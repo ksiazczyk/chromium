@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run on OS login sub manager implementation
+// summary: Registers and unregisters web apps to run on OS login as part of OS integration synchronization on desktop platforms.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/run_on_os_login_sub_manager.h"
 
 #include <memory>

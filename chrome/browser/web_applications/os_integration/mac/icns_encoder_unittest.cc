@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ICNS encoder unit tests
+// summary: Tests the RLE image data encoding and verifies a round trip of writing and reloading a multi-size .icns file.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/mac/icns_encoder.h"
 
 #include <ImageIO/ImageIO.h>

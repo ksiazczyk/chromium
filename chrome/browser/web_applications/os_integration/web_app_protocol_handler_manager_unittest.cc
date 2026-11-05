@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app protocol handler manager unit tests
+// summary: Unit tests covering retrieval of app protocol handler infos and allowed or disallowed handlers using a fake web app provider and test web apps.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_protocol_handler_manager.h"
 
 #include "base/strings/escape.h"

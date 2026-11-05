@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sub Apps service browser tests
+// summary: Browser tests exercising SubAppsServiceImpl add, list and remove flows, including consent prompts, limits and uninstall notifications.
+// ---
+
 #include "chrome/browser/web_applications/sub_apps/sub_apps_service_impl.h"
 
 #include <memory>

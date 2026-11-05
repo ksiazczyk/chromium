@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayOverride header
+// summary: Declares DisplayOverride, an item in the web app manifest display override list holding a display mode and optional URL patterns.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_DISPLAY_OVERRIDE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_DISPLAY_OVERRIDE_H_
 

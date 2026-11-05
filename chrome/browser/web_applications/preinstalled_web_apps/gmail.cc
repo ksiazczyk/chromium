@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail Preinstalled Web App Config
+// summary: Defines install options for preinstalling Gmail, using standalone display on Chrome OS, bundled icons, and replacement of the legacy Gmail extension.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/gmail.h"
 
 #include "ash/constants/web_app_id_constants.h"

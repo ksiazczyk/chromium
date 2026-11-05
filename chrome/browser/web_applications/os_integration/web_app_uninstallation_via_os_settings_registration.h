@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstallation via OS settings registration declarations
+// summary: Declares functions to register and unregister web app uninstall entries so they appear in the Windows OS settings for uninstallation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_UNINSTALLATION_VIA_OS_SETTINGS_REGISTRATION_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_UNINSTALLATION_VIA_OS_SETTINGS_REGISTRATION_H_
 

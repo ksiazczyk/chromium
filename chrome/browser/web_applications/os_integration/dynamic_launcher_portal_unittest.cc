@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DynamicLauncher portal
+// summary: Unit tests for DynamicLauncherPortal that use mock D-Bus buses and object proxies to verify portal availability, install, and uninstall behavior.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/dynamic_launcher_portal.h"
 
 #include <map>

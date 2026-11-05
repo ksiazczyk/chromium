@@ -1,0 +1,4 @@
+# Docerion header of apps_folder_support.mm.
+type: source
+title: Apps folder support implementation
+summary: Creates the channel-specific Chrome Apps folder, writes .localized strings and sets the folder icon, with test override support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS run on OS login implementation for web apps
+// summary: Implements run-on-OS-login registration for web apps on ChromeOS as a no-op that always returns success.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include "chrome/browser/web_applications/web_app_constants.h"

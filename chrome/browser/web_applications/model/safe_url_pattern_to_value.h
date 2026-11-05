@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe URL pattern to value declaration
+// summary: Declares the ToValue helper that converts a SafeUrlPattern to a dictionary value for debugging.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_SAFE_URL_PATTERN_TO_VALUE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_SAFE_URL_PATTERN_TO_VALUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstallation via OS settings registration stubs
+// summary: Stub implementations of uninstallation-via-OS-settings registration for all platforms except Windows, indicating the feature is unsupported there.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_uninstallation_via_os_settings_registration.h"
 
 #include "base/check.h"

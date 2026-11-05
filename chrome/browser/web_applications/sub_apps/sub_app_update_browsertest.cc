@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sub Apps update browser tests
+// summary: Browser tests covering sub-app behavior during isolated web app updates, including install prompts, app menus and metrics.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/strings/string_util.h"
 #include "base/test/bind.h"

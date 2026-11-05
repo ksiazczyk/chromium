@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppTest base fixture implementation
+// summary: Implements the WebAppTest fixture that sets up a testing profile with a fake WebAppProvider and logs debug info on failure.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_test.h"
 
 #include "base/check_deref.h"

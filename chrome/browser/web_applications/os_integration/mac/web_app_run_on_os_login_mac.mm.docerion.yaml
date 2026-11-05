@@ -1,0 +1,4 @@
+# Docerion header of web_app_run_on_os_login_mac.mm.
+type: source
+title: Mac web app run on OS login registration
+summary: Registers run-on-login integration for Mac web apps by creating platform shortcuts and removes app shims from login items on unregistration.

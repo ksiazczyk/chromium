@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux run on OS login
+// summary: Tests that Linux run-on-OS-login registration creates and unregistration removes the autostart file.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include <vector>

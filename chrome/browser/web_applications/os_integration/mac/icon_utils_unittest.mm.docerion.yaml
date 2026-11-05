@@ -1,0 +1,4 @@
+# Docerion header of icon_utils_unittest.mm.
+type: test
+title: Icon utilities unit tests
+summary: Verifies that DIY app icon masking produces images matching pre-generated expected icons for square and patterned inputs.

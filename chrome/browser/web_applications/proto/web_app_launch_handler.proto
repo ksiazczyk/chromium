@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_launch_handler.proto: launch handler manifest proto'
+// summary: Defines the LaunchHandler protobuf mirroring the launch_handler manifest field, including client mode values and deprecated routing enums.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

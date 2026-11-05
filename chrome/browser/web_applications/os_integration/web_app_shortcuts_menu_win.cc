@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shortcuts menu registration via jump lists
+// summary: Implements Windows shortcuts menu registration by writing .ico icon files and updating jump lists, recording UMA histograms for each result.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcuts_menu_win.h"
 
 #include <shlobj.h>

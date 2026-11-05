@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows uninstallation via OS settings registration
+// summary: Windows implementation that builds uninstall commands and manages registry entries so web apps can be uninstalled from Windows settings.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_uninstallation_via_os_settings_registration.h"
 
 #include "base/command_line.h"

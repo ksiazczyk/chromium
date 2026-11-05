@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon bitmap and size types
+// summary: Defines icon-related types for web apps, including IconsMap, IconBitmaps, IconSizes and purpose mappings for any, maskable and monochrome icons.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_WEB_APP_ICON_TYPES_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_WEB_APP_ICON_TYPES_H_
 

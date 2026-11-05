@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicLauncher portal D-Bus client implementation
+// summary: Implements the D-Bus client for the org.freedesktop.portal.DynamicLauncher portal, including availability checks and install token handling for web app launchers.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/dynamic_launcher_portal.h"
 
 #include <cstdint>

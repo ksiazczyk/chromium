@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_share_target.proto: share target manifest proto'
+// summary: Defines protobuf messages for the web share target manifest field, covering the share action, method, encoding and parameters.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

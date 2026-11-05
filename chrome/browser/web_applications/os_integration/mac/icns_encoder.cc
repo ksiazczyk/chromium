@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICNS encoder implementation
+// summary: Encodes images into macOS .icns icon files, using legacy RLE blocks or PNG blocks depending on the supported icon sizes.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/mac/icns_encoder.h"
 
 #include <algorithm>

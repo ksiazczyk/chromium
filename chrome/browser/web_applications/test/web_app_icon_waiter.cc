@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppIconWaiter test helper implementation
+// summary: Implements a test helper that blocks until a web app's favicon has been read by the icon manager.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_icon_waiter.h"
 
 #include "base/run_loop.h"

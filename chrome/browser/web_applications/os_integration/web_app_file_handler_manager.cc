@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app file handler manager implementation
+// summary: Implements WebAppFileHandlerManager, which exposes enabled file handlers for installed web apps and matches launch files to handler action URLs.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_manager.h"
 
 #include <set>

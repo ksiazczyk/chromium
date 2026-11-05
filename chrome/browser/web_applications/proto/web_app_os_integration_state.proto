@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_os_integration_state.proto: OS integration state'
+// summary: Defines protobuf messages describing a web app's OS integration state, including shortcuts, protocol handling, run on OS login, menus and file handling.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

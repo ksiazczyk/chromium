@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app user install policy handler declaration
+// summary: Declares WebAppUserInstallPolicyHandler, which maps the WebAppInstallByUserEnabled policy onto user-install preferences.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_USER_INSTALL_POLICY_HANDLER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_USER_INSTALL_POLICY_HANDLER_H_
 

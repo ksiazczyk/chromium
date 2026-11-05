@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux run on OS login implementation for web apps
+// summary: Creates and deletes startup-folder shortcuts on Linux to register or unregister web apps to run on OS login.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_run_on_os_login.h"
 
 #include <memory>

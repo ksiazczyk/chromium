@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-redirection URL observer implementation
+// summary: Observes main-frame navigations and records the first URL of the redirect chain, skipping subframe, same-document and script-initiated navigations.
+// ---
+
 #include "chrome/browser/web_applications/policy/pre_redirection_url_observer.h"
 
 #include "content/public/browser/navigation_handle.h"

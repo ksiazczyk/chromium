@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut sub manager unit tests
+// summary: Unit tests for ShortcutSubManager covering web app shortcut creation, updates and deletion with a fake provider and OS integration test overrides.
+// ---
+
 #include <memory>
 #include <utility>
 
