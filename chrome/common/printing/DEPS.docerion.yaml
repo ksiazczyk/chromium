@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the printing directory
+summary: Specifies the include rules that allow this directory to depend on components/device_event_log and third_party/re2.

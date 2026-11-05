@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Profiler include rules (DEPS)
+summary: Specifies the include dependencies allowed for this directory, covering stack unwinder, call stack profile builder, and sampling profiler headers.

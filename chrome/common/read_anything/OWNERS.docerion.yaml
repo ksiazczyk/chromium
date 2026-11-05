@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Read Anything common directory
+summary: Delegates ownership to the Read Anything UI owners and requires security-owner review for changes to Mojom files.

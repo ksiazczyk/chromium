@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer capabilities implementation for print preview
+// summary: Implements assembly of printer settings for the WebUI, including localization and sorting of paper names plus ChromeOS media type and capability localization.
+// ---
+
 #include "chrome/common/printing/printer_capabilities.h"
 
 #include <memory>

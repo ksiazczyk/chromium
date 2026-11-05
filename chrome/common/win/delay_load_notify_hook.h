@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the delay load notification hook
+// summary: Declares the delay load callback type and SetDelayLoadHookCallback for overriding delay load resolution per module at runtime.
+// ---
+
 #ifndef CHROME_COMMON_WIN_DELAY_LOAD_NOTIFY_HOOK_H_
 #define CHROME_COMMON_WIN_DELAY_LOAD_NOTIFY_HOOK_H_
 

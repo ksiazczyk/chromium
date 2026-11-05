@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac disk image type sniffer unit tests
+// summary: Parameterized unit tests checking DMG detection across supported and unsupported disk image formats and trailers.
+// ---
+
 #include "chrome/common/safe_browsing/disk_image_type_sniffer_mac.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Binary feature extractor unit tests
+// summary: Unit tests covering file digest extraction and image feature extraction behavior of the binary feature extractor.
+// ---
+
 #include "chrome/common/safe_browsing/binary_feature_extractor.h"
 
 #include <stdint.h>

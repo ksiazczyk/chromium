@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread profiler platform configuration unit tests
+// summary: Unit tests verifying platform support detection, enable rates and per-thread enablement behavior across platforms, channels and worker thread feature states.
+// ---
+
 #include "chrome/common/profiler/thread_profiler_platform_configuration.h"
 
 #include <ostream>

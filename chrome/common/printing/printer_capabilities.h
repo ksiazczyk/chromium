@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer capabilities interface for print preview
+// summary: Declares functions that assemble printer capabilities and settings into a JSON-ready value for print preview.
+// ---
+
 #ifndef CHROME_COMMON_PRINTING_PRINTER_CAPABILITIES_H_
 #define CHROME_COMMON_PRINTING_PRINTER_CAPABILITIES_H_
 

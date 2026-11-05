@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wallet directory OWNERS file
+summary: Delegates ownership to components/wallet/OWNERS and requires IPC security owner review for Mojom file changes.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the printing directory
+summary: Delegates ownership review of this directory to the owners listed in printing/OWNERS.

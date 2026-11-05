@@ -26,6 +26,12 @@
 //
 //     IPC_ENUM_TRAITS_VALIDATE(MyEnumType, MyEnumType_IsValid(value))
 
+// ---docerion
+// type: source
+// title: IPC protobuf message traits macros
+// summary: Defines macros for registering protobuf message types with IPC ParamTraits so they can be serialized over Chrome IPC.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_IPC_PROTOBUF_MESSAGE_MACROS_H_
 #define CHROME_COMMON_SAFE_BROWSING_IPC_PROTOBUF_MESSAGE_MACROS_H_
 

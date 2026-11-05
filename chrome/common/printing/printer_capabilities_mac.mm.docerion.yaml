@@ -1,0 +1,4 @@
+# Docerion header of printer_capabilities_mac.mm.
+type: source
+title: macOS custom paper size implementation
+summary: Reads macOS custom paper sizes from com.apple.print.custompapers.plist, validating dimensions, margins, and printable area.

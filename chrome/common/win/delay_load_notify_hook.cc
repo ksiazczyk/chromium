@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delay load notification hook implementation
+// summary: Implements a delay load notification hook that forwards events to a runtime-settable callback via SetDelayLoadHookCallback.
+// ---
+
 #include "chrome/common/win/delay_load_notify_hook.h"
 
 #include <atomic>

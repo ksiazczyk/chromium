@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread profiler configuration class declaration
+// summary: Declares the ThreadProfilerConfiguration singleton that decides per-process and per-thread profiler enablement, variation groups and settings passed to child processes.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_THREAD_PROFILER_CONFIGURATION_H_
 #define CHROME_COMMON_PROFILER_THREAD_PROFILER_CONFIGURATION_H_
 

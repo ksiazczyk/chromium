@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC protobuf message unit tests
+// summary: Parametrized tests that round-trip protobuf messages through IPC pickle write and read, covering optional and repeated fields.
+// ---
+
 #include "base/pickle.h"
 #include "chrome/common/safe_browsing/ipc_protobuf_message_test.pb.h"
 #include "testing/gtest/include/gtest/gtest.h"

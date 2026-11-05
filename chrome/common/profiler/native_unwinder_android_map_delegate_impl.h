@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native unwinder map delegate header
+// summary: Declares the map delegate that manages the lifecycle of libunwindstack resources used by the Android native unwinder.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_NATIVE_UNWINDER_ANDROID_MAP_DELEGATE_IMPL_H_
 #define CHROME_COMMON_PROFILER_NATIVE_UNWINDER_ANDROID_MAP_DELEGATE_IMPL_H_
 

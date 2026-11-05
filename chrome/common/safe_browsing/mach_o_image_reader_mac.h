@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach-O image reader class interface
+// summary: Declares MachOImageReader for validating and inspecting Mach-O images, including fat archives, load commands and code signatures.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_MACH_O_IMAGE_READER_MAC_H_
 #define CHROME_COMMON_SAFE_BROWSING_MACH_O_IMAGE_READER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestHeaderIntegrityURLLoaderThrottle unit tests
+// summary: Unit tests covering throttle behavior on Google and non-Google URLs, header attachment, prefetch handling, and DynamicHeaderPresent histogram recording.
+// ---
+
 #include "chrome/common/request_header_integrity/request_header_integrity_url_loader_throttle.h"
 
 #include <memory>

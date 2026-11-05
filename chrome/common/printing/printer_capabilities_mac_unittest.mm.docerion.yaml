@@ -1,0 +1,4 @@
+# Docerion header of printer_capabilities_mac_unittest.mm.
+type: test
+title: Unit tests for macOS custom paper size parsing
+summary: Unit tests that verify parsing of macOS custom paper plist files, covering valid, empty, and malformed entries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download type util unit tests
+// summary: Unit tests verifying how file extensions like exe, crx, zip, rar, pkg and apk map to ClientDownloadRequest download types.
+// ---
+
 #include "chrome/common/safe_browsing/download_type_util.h"
 
 #include "base/feature_list.h"

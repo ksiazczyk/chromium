@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing policy header
+// summary: Declares IsRemoteActorCredentialSharingAllowedForOrigin, which reports whether an origin may use remote actor credential sharing.
+// ---
+
 #ifndef CHROME_COMMON_PASSWORD_MANAGER_REMOTE_ACTOR_CREDENTIAL_SHARING_POLICY_H_
 #define CHROME_COMMON_PASSWORD_MANAGER_REMOTE_ACTOR_CREDENTIAL_SHARING_POLICY_H_
 

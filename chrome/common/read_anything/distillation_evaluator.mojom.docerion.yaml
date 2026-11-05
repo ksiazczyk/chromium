@@ -1,0 +1,4 @@
+# Docerion header of distillation_evaluator.mojom.
+type: source
+title: Distillation evaluator Mojom interface
+summary: Defines the Mojo interface, status enum and metrics struct for evaluating Reading Mode distillation quality in a sandboxed utility process.

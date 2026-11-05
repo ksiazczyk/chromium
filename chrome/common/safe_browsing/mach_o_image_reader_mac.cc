@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach-O image reader implementation
+// summary: Parses Mach-O thin and fat binaries with bounds-checked reads, extracting headers, load commands and code signature information.
+// ---
+
 #include "chrome/common/safe_browsing/mach_o_image_reader_mac.h"
 
 #include <libkern/OSByteOrder.h>

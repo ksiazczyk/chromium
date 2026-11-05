@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Profiler code owners (OWNERS)
+summary: Delegates code ownership of the profiler directory to the owners listed in base/profiler/OWNERS.

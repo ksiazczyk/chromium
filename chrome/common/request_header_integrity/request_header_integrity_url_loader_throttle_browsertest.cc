@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestHeaderIntegrityURLLoaderThrottle browser tests
+// summary: Browser tests driving the integrity throttle against an embedded HTTPS server, checking headers on navigations, subresources, and speculation-rules prefetches.
+// ---
+
 #include "chrome/common/request_header_integrity/request_header_integrity_url_loader_throttle.h"
 
 #include <map>

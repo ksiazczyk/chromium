@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the search directory
+summary: Lists code owners and requires IPC security team review for Mojo and mojom traits files.

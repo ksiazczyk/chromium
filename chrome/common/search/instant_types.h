@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared instant and NTP theme types
+// summary: Declares NTP theme settings, most visited item structs and related enums shared between browser and renderer.
+// ---
+
 #ifndef CHROME_COMMON_SEARCH_INSTANT_TYPES_H_
 #define CHROME_COMMON_SEARCH_INSTANT_TYPES_H_
 

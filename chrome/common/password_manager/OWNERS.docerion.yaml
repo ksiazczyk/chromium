@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for password_manager common code
+summary: Designates the components/password_manager owners as reviewers and routes Mojom files to the IPC security owners for review.

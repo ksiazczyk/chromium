@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for printer settings assembly
+// summary: Unit tests for printer settings assembly using a test print backend, verifying paper entries, media types, and missing printer handling.
+// ---
+
 #include "chrome/common/printing/printer_capabilities.h"
 
 #include <memory>

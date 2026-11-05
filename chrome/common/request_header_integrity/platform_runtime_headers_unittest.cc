@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformRuntimeHeaders unit tests
+// summary: Unit tests verifying that PlatformRuntimeHeaders overwrites only existing request headers, rejects malformed names and values, and clears held headers when reset.
+// ---
+
 #include "chrome/common/request_header_integrity/platform_runtime_headers.h"
 
 #include <string_view>

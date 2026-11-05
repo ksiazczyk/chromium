@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread profiler client implementation
+// summary: Implements the Chrome thread profiler client, wiring sampling parameters, profile builders, unwinders, and per-process enablement checks for thread profiling.
+// ---
+
 #include "chrome/common/profiler/chrome_thread_profiler_client.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk image type sniffer implementation
+// summary: Detects Apple disk image files by checking for the koly signature in the file trailer.
+// ---
+
 #include "chrome/common/safe_browsing/disk_image_type_sniffer_mac.h"
 
 #include "base/compiler_specific.h"

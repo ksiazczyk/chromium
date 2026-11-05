@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread profiler configuration unit tests
+// summary: Unit test verifying that ChooseVariationGroup selects the correct variation group for given random values and weights.
+// ---
+
 #include "chrome/common/profiler/thread_profiler_configuration.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

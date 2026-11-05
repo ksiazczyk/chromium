@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for safe_browsing
+summary: Allows includes from safe_browsing common code and third-party protobuf, unrar, zlib, lzma, and maldoca.

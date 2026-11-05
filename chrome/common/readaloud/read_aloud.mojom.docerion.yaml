@@ -1,0 +1,4 @@
+# Docerion header of read_aloud.mojom.
+type: source
+title: Read Aloud Mojo IPC interface definitions
+summary: Defines the Mojo interfaces, enums, and structs for Read Aloud playback between the browser and a sandboxed utility process, covering text segments, playback control, and audio streaming.

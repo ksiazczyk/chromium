@@ -1,0 +1,4 @@
+# Docerion header of chrome_companero.mojom.
+type: source
+title: ChromeCompanero Mojo interface
+summary: Defines the Mojo interface that resolves the branded integrity header name and value, returning null when unavailable.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiler process type declaration
+// summary: Declares GetProfilerProcessType, which determines the profiler process type from a command line.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_PROCESS_TYPE_H_
 #define CHROME_COMMON_PROFILER_PROCESS_TYPE_H_
 

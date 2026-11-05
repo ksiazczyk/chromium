@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything utility implementation
+// summary: Implements Read Anything helpers, including per-language supported font lists, font scale adjustment and histogram logging.
+// ---
+
 #include "chrome/common/read_anything/read_anything_util.h"
 
 #include <algorithm>

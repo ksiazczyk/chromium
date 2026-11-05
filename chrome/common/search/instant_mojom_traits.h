@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC serialization traits for instant types
+// summary: Defines IPC param traits for NTP theme, most visited info, and omnibox enums used by the Mojo typemaps.
+// ---
+
 // NOLINT(build/header_guard)
 // no-include-guard-because-multiply-included
 #include "chrome/common/search/instant_types.h"

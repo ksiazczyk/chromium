@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test protobuf messages for IPC traits
+// summary: Proto2 definitions of simple test messages used to exercise the IPC protobuf message traits macros.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

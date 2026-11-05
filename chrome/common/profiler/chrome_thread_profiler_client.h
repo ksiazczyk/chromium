@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread profiler client header
+// summary: Declares ChromeThreadProfilerClient, which implements the sampling_profiler ThreadProfilerClient interface to configure and control thread profiling in Chrome.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_CHROME_THREAD_PROFILER_CLIENT_H_
 #define CHROME_COMMON_PROFILER_CHROME_THREAD_PROFILER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant search type implementations
+// summary: Implements constructors, destructors and equality operators for the NTP theme and most visited structs.
+// ---
+
 #include "chrome/common/search/instant_types.h"
 
 NtpTheme::NtpTheme() = default;

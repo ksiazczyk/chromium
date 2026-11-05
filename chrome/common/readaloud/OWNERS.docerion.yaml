@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Readaloud directory owners
+summary: Ownership rules for the directory, inheriting the browser readaloud owners and requiring IPC security review for Mojom file changes.

@@ -1,0 +1,4 @@
+# Docerion header of read_anything.mojom.
+type: source
+title: Read Anything Mojom definitions
+summary: Defines the Mojo interfaces, enums and structs for the Read Anything untrusted WebUI, covering distillation state, presentation state and voice packs.

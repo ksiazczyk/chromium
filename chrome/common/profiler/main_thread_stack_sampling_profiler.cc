@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main thread stack sampling profiler implementation
+// summary: Creates and starts the main thread stack sampling profiler for the browser process and routes profiles to the metrics provider.
+// ---
+
 #include "chrome/common/profiler/main_thread_stack_sampling_profiler.h"
 
 #include "base/command_line.h"

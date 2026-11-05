@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the delay load notification hook
+// summary: Tests that the notification hook is linked in and that a set callback can override delay load resolution for a test DLL.
+// ---
+
 #include "chrome/common/win/delay_load_notify_hook.h"
 
 #include <string_view>

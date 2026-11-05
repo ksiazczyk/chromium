@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Windows delay load hooks and event log provider
+summary: Defines GN build targets for the Windows event log provider DLL, message compilation, delay load hook source sets, and their unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBinaryFeatureExtractor test mock header
+// summary: Declares a Google Mock implementation of BinaryFeatureExtractor that stubs CheckSignature and ExtractImageFeatures for use in tests.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_MOCK_BINARY_FEATURE_EXTRACTOR_H_
 #define CHROME_COMMON_SAFE_BROWSING_MOCK_BINARY_FEATURE_EXTRACTOR_H_
 

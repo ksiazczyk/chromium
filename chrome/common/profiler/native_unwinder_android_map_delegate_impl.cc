@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native unwinder map delegate implementation
+// summary: Implements reference-counted lifecycle management of the libunwindstack memory regions map for the native Android unwinder.
+// ---
+
 #include "chrome/common/profiler/native_unwinder_android_map_delegate_impl.h"
 
 #include "base/check_op.h"

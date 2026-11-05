@@ -5,6 +5,12 @@
 // This file contains the archive analyzer analysis implementation for download
 // protection, which runs in a sandboxed utility process.
 
+// ---docerion
+// type: source
+// title: Archive analyzer results declarations
+// summary: Declares result structs, encryption info, analysis result enums, and helper functions for archive analysis.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_ARCHIVE_ANALYZER_RESULTS_H_
 #define CHROME_COMMON_SAFE_BROWSING_ARCHIVE_ANALYZER_RESULTS_H_
 

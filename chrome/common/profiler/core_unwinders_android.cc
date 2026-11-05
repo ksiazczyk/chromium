@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android core unwinder setup and prerequisites
+// summary: Implements creation of Android native unwinders for ARM32 and ARM64 and installation of unwind prerequisites for stack sampling.
+// ---
+
 #include "chrome/common/profiler/core_unwinders.h"
 
 #include <memory>

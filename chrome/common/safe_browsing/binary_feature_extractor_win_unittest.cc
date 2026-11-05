@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Binary feature extractor Windows unit tests
+// summary: Windows unit tests verifying signature checking and PE header extraction against signed, untrusted, and unsigned test binaries.
+// ---
+
 #include "chrome/common/safe_browsing/binary_feature_extractor.h"
 
 #include <string>

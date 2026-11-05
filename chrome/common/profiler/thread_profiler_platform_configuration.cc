@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread profiler platform configuration implementation
+// summary: Implements ThreadProfilerPlatformConfiguration with a default platform class providing per-channel enable rates, child process sampling fractions and thread enablement rules.
+// ---
+
 #include "chrome/common/profiler/thread_profiler_platform_configuration.h"
 
 #include "base/command_line.h"

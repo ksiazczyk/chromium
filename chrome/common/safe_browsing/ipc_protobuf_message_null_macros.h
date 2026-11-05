@@ -4,6 +4,12 @@
 
 // No include guard, may be included multiple times.
 
+// ---docerion
+// type: source
+// title: Null macros for IPC protobuf message traits
+// summary: Undefines and empties the IPC protobuf message macros so repeated includes of generator headers produce no duplicate code.
+// ---
+
 // NULL out all the macros that need NULLing, so that multiple includes of
 // *_generator.h files will not generate noise.
 #undef IPC_PROTOBUF_MESSAGE_TRAITS_BEGIN

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for profiler process type
+// summary: Unit tests verifying process type detection for browser, renderer, extension, GPU, network service, utility, and zygote processes.
+// ---
+
 #include "chrome/common/profiler/process_type.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for binary feature extractor
+// summary: libFuzzer harness that exercises ExtractImageFeaturesFromData on arbitrary input data.
+// ---
+
 #include "chrome/common/safe_browsing/binary_feature_extractor.h"
 
 #include <stddef.h>

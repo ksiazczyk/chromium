@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for chrome/common/win
+summary: Maps the chrome/common/win directory to the Internals>PlatformIntegration monorail component and a Buganizer component for issue routing.

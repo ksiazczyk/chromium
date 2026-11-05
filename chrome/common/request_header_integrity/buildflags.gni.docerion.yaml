@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Build flags for request header integrity
+summary: Declares GN arguments that enable request header integrity and override integrity header names.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for request header integrity
+summary: Defines GN source sets, unit and browser test targets, buildflags and mojom bindings for the request header integrity feature.

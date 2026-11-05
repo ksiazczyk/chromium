@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the common delay load failure handler
+// summary: Declares HandleDelayLoadFailureCommon, the shared delay load failure handler used by both the main EXE and DLL hooks.
+// ---
+
 #ifndef CHROME_COMMON_WIN_DELAY_LOAD_FAILURE_SUPPORT_H_
 #define CHROME_COMMON_WIN_DELAY_LOAD_FAILURE_SUPPORT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of boarding_pass_extractor.mojom.
+type: source
+title: BoardingPassExtractor Mojo interface
+summary: Defines the BoardingPassExtractor Mojo interface for extracting BCBP-format boarding pass strings from allowlisted pages in an isolated world.

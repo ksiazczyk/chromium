@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download type utility header
+// summary: Declares GetDownloadType, which returns the download type of a file based on its extension.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_DOWNLOAD_TYPE_UTIL_H_
 #define CHROME_COMMON_SAFE_BROWSING_DOWNLOAD_TYPE_UTIL_H_
 

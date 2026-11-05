@@ -5,6 +5,12 @@
 // Utility functions to extract file features for malicious binary detection.
 // Each platform has its own implementation of this class.
 
+// ---docerion
+// type: source
+// title: Binary feature extractor class declaration
+// summary: Declares the BinaryFeatureExtractor interface for extracting file features used in malicious binary detection.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_BINARY_FEATURE_EXTRACTOR_H_
 #define CHROME_COMMON_SAFE_BROWSING_BINARY_FEATURE_EXTRACTOR_H_
 

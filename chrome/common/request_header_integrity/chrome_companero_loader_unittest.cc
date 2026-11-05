@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeCompaneroLoader
+// summary: Tests Mojo token refresh, caching, TTL expiry and fallback behavior using a mock ChromeCompanero service.
+// ---
+
 #include "chrome/common/request_header_integrity/chrome_companero_loader.h"
 
 #include <memory>
