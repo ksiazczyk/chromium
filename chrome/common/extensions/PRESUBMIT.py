@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: PRESUBMIT.py checks for extension docs heading IDs
+# summary: Presubmit script that verifies HTML headings in extension docs intros and articles each carry an id attribute.
+# ---
+
 """Presubmit script for changes affecting extensions.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

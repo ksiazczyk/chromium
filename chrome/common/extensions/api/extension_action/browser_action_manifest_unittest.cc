@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action manifest unit tests
+// summary: Unit tests verifying parsing of the browser_action manifest key, including default icon handling for string and dictionary icon values.
+// ---
+
 #include <memory>
 #include <utility>
 

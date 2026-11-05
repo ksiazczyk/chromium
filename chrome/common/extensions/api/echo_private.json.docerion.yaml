@@ -1,0 +1,4 @@
+# Docerion header of echo_private.json.
+type: reference
+title: echoPrivate API JSON definition
+summary: Defines the ChromeOS echoPrivate API for offer info, registration codes, OOBE timestamps, and user consent dialogs.

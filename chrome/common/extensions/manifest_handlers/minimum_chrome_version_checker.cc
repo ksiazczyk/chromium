@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimum Chrome version checker implementation
+// summary: Implements the manifest handler that validates the minimum_chrome_version key against the running Chrome version.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/minimum_chrome_version_checker.h"
 
 #include "base/notreached.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Review owners for importer IPC and mojom files
+summary: Assigns IPC security owners as reviewers for message, param traits, mojom traits and mojom files in this directory.

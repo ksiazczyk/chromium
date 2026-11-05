@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners rules for extension API files
+summary: Delegates review of JSON, IDL, and WebIDL API files to the extensions API owners, with special cases for input IME, webview, and file manager files.

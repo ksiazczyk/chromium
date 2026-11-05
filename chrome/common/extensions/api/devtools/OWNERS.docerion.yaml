@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the devtools API directory
+summary: Lists caseq@chromium.org as the code owner responsible for reviewing changes to the devtools extension API directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview accessible resources manifest unit tests
+// summary: Unit tests checking which extension resources are accessible in webview partitions and that invalid webview manifest entries produce errors.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/common/error_utils.h"

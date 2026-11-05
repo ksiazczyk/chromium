@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overrides manifest handler implementation
+// summary: Implements parsing of the chrome_settings_overrides manifest key, validating homepage, startup page, and search provider overrides for extensions.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/settings_overrides_handler.h"
 
 #include <memory>

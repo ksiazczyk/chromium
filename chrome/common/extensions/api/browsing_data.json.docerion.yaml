@@ -1,0 +1,4 @@
+# Docerion header of browsing_data.json.
+type: source
+title: browsingData API schema
+summary: Schema for the chrome.browsingData extension API used to remove browsing data such as cache, cookies, and history from a profile.

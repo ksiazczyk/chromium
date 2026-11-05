@@ -1,0 +1,4 @@
+# Docerion header of enterprise_networking_attributes.webidl.
+type: reference
+title: Enterprise networking attributes API WebIDL definition
+summary: Defines the chrome.enterprise.networkingAttributes API for reading MAC and IP addresses of the device's default network.

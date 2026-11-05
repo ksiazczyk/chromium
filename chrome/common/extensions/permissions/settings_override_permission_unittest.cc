@@ -4,6 +4,12 @@
 
 // These tests make sure SettingsOverridePermission values are set correctly.
 
+// ---docerion
+// type: test
+// title: SettingsOverridePermission unit tests
+// summary: Unit tests verifying that SettingsOverridePermission grants the right permissions and messages for homepage, startup page, and search provider overrides.
+// ---
+
 #include "extensions/common/permissions/settings_override_permission.h"
 
 #include <stdint.h>

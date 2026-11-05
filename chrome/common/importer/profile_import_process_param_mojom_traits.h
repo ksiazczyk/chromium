@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile import Mojo traits declarations
+// summary: Declares Mojo enum and struct traits that map ImportedPasswordForm between chrome.mojom and user_data_importer types.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_PROFILE_IMPORT_PROCESS_PARAM_MOJOM_TRAITS_H_
 #define CHROME_COMMON_IMPORTER_PROFILE_IMPORT_PROCESS_PARAM_MOJOM_TRAITS_H_
 

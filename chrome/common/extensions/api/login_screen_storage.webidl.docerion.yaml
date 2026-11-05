@@ -1,0 +1,4 @@
+# Docerion header of login_screen_storage.webidl.
+type: reference
+title: Login screen storage extension API definition
+summary: Defines the chrome.loginScreenStorage API for storing and retrieving persistent data and credentials shared between login screen and in-session extensions.

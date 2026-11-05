@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission set tests
+// summary: Extensive unit tests for permission sets, permission messages and warning generation across extension types.
+// ---
+
 #include "extensions/common/permissions/permission_set.h"
 
 #include <stddef.h>

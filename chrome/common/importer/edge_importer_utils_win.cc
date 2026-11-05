@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge importer utilities implementation for Windows
+// summary: Implements helpers that locate Edge settings and data paths, detect legacy favorites mode, and check whether Edge can be imported.
+// ---
+
 #include "chrome/common/importer/edge_importer_utils_win.h"
 
 #include <Shlobj.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockImporterBridge gmock class declaration
+// summary: Declares a gmock-based MockImporterBridge that stubs ImporterBridge methods such as AddBookmarks and SetFavicons for use in importer tests.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_MOCK_IMPORTER_BRIDGE_H_
 #define CHROME_COMMON_IMPORTER_MOCK_IMPORTER_BRIDGE_H_
 

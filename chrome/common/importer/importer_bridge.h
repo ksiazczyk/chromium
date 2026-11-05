@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer bridge interface
+// summary: Defines the abstract ImporterBridge interface through which importers deliver bookmarks, history, passwords, favicons, search engines and autofill data.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_IMPORTER_BRIDGE_H_
 #define CHROME_COMMON_IMPORTER_IMPORTER_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome net resource provider header
+// summary: Declares ChromeNetResourceProvider, the callback the network layer uses to access Chrome resources.
+// ---
+
 #ifndef CHROME_COMMON_NET_NET_RESOURCE_PROVIDER_H_
 #define CHROME_COMMON_NET_NET_RESOURCE_PROVIDER_H_
 

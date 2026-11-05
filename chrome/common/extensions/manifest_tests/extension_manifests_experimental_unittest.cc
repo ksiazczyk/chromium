@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the experimental permission in manifests
+// summary: Unit tests verifying when the experimental permission is allowed, including component, webstore and command line switch cases.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer autofill form data entry struct
+// summary: Defines the ImporterAutofillFormDataEntry struct holding element name, value, usage count and first and last use dates for imported form history.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_IMPORTER_AUTOFILL_FORM_DATA_ENTRY_H_
 #define CHROME_COMMON_IMPORTER_IMPORTER_AUTOFILL_FORM_DATA_ENTRY_H_
 

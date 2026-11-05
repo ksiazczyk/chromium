@@ -1,0 +1,4 @@
+# Docerion header of font_settings.json.
+type: source
+title: Font settings API definition
+summary: Defines the chrome.fontSettings API for managing Chrome's font settings per ISO 15924 script code and CSS generic font family.

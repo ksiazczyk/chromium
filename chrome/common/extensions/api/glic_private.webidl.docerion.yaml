@@ -1,0 +1,4 @@
+# Docerion header of glic_private.webidl.
+type: source
+title: Glic private API definition
+summary: Defines the private API for Gemini (Glic) covering profile state retrieval, invocation, and conversation or tab activation.

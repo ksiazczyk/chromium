@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer utility for Mac header
+// summary: Declares the extensions namespace function IsSuitableRemovableStorageDevice, which determines whether a disk object is suitable for writing an image and reports its BSD name, size, and removability.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_IMAGE_WRITER_IMAGE_WRITER_UTIL_MAC_H_
 #define CHROME_COMMON_EXTENSIONS_IMAGE_WRITER_IMAGE_WRITER_UTIL_MAC_H_
 

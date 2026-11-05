@@ -1,0 +1,4 @@
+# Docerion header of resources_private.idl.
+type: reference
+title: resourcesPrivate extension API definition
+summary: Defines the resourcesPrivate API, which fetches localized strings and WebUI loadTimeData values for component extensions such as identity and PDF.

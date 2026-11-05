@@ -1,0 +1,4 @@
+# Docerion header of downloads_internal.webidl.
+type: reference
+title: Downloads internal API WebIDL definition
+summary: Defines the undocumented downloadsInternal interface used to finalize filename determination for downloads.

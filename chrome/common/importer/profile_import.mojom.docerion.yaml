@@ -1,0 +1,4 @@
+# Docerion header of profile_import.mojom.
+type: source
+title: Profile import Mojo interface definitions
+summary: Defines the ProfileImport and ProfileImportObserver Mojo interfaces and the ImportedPasswordForm struct used to communicate between the profile import process and the browser.

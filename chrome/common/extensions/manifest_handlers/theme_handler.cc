@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme manifest handler implementation
+// summary: Implements parsing of the theme manifest key, loading and validating theme images, colors, tints, and display properties with warnings for unsupported image types.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/theme_handler.h"
 
 #include <memory>

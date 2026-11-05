@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox importer utilities interface
+// summary: Declares functions and the FirefoxDetail struct for locating Firefox profiles, versions, homepages and preferences used by the importer.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_FIREFOX_IMPORTER_UTILS_H_
 #define CHROME_COMMON_IMPORTER_FIREFOX_IMPORTER_UTILS_H_
 

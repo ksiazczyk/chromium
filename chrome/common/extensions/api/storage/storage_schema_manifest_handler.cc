@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage schema manifest handler implementation
+// summary: Implements the manifest handler for the storage.managed_schema key, loading and parsing the referenced schema file, validating it, and implicitly granting the storage permission.
+// ---
+
 #include "chrome/common/extensions/api/storage/storage_schema_manifest_handler.h"
 
 #include <memory>

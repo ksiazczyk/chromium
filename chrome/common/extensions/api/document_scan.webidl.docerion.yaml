@@ -1,0 +1,4 @@
+# Docerion header of document_scan.webidl.
+type: reference
+title: documentScan WebIDL API definition
+summary: Defines the documentScan API for discovering scanners and performing scans, covering scanner info, scan options, operation results and device capabilities.

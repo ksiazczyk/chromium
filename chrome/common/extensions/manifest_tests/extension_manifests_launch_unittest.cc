@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest launch unit tests
+// summary: Unit tests for app launch manifest keys, checking launch containers, dimensions, URLs and the errors produced by invalid launch values.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/chrome_switches.h"
 #include "chrome/common/extensions/manifest_handlers/app_launch_info.h"

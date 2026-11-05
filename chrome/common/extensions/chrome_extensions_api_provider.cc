@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions API provider implementation
+// summary: Implements the Chrome extensions API provider, registering API, manifest, and permission features, generated schemas, and manifest handlers.
+// ---
+
 #include "chrome/common/extensions/chrome_extensions_api_provider.h"
 
 #include <string_view>

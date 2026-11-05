@@ -1,0 +1,4 @@
+# Docerion header of app_shim.mojom.
+type: source
+title: App shim Mojo interface definitions
+summary: Defines the Mojo interfaces, enums, and structs used for communication between the browser and Mac app shim processes.

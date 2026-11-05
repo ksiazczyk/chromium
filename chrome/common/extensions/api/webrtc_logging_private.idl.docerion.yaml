@@ -1,0 +1,4 @@
+# Docerion header of webrtc_logging_private.idl.
+type: source
+title: WebRTC Logging Private API
+summary: IDL definition of the chrome.webrtcLoggingPrivate API for controlling diagnostic WebRTC logging, including metadata, start/stop, audio debug recordings, and log upload.

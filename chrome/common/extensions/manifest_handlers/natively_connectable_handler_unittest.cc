@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Natively connectable manifest handler unit tests
+// summary: Unit tests verifying parsing of the natively_connectable manifest key, covering valid host lists, unset values, and invalid types or empty hosts.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/natively_connectable_handler.h"
 
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

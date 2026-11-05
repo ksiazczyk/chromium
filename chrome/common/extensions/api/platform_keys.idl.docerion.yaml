@@ -1,0 +1,4 @@
+# Docerion header of platform_keys.idl.
+type: reference
+title: platformKeys extension API definition
+summary: Defines the chrome.platformKeys API, which lets extensions access platform-managed client certificates for custom authentication such as third-party VPNs.

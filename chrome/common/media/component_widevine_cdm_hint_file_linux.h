@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widevine CDM hint file API for Linux and ChromeOS
+// summary: Declares functions to update and read the Widevine CDM hint file that helps the Linux zygote preload the correct CDM version at Chrome startup.
+// ---
+
 #ifndef CHROME_COMMON_MEDIA_COMPONENT_WIDEVINE_CDM_HINT_FILE_LINUX_H_
 #define CHROME_COMMON_MEDIA_COMPONENT_WIDEVINE_CDM_HINT_FILE_LINUX_H_
 

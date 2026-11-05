@@ -1,0 +1,4 @@
+# Docerion header of enterprise_hardware_platform.webidl.
+type: reference
+title: Enterprise hardware platform API WebIDL definition
+summary: Defines the chrome.enterprise.hardwarePlatform API for retrieving the hardware manufacturer and model of the device.

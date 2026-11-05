@@ -1,0 +1,4 @@
+# Docerion header of appview_tag.webidl.
+type: source
+title: appview tag API schema
+summary: WebIDL definition of the appview tag API that lets a Chrome App embed other Chrome Apps and allow or deny embedding requests.

@@ -1,0 +1,4 @@
+# Docerion header of top_sites.json.
+type: reference
+title: topSites extension API definition
+summary: Defines the chrome.topSites API for accessing the most visited sites displayed on the new tab page.

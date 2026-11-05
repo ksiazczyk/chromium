@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM host file paths header
+// summary: Declares the function that collects CDM host file paths and their signature files for host verification.
+// ---
+
 #ifndef CHROME_COMMON_MEDIA_CDM_HOST_FILE_PATH_H_
 #define CHROME_COMMON_MEDIA_CDM_HOST_FILE_PATH_H_
 

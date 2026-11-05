@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X509 certificate model NSS unit tests
+// summary: Unit tests verifying GetCertNameOrNickname against root CA, punycode, and no-common-name test certificates using a test NSS database.
+// ---
+
 #include "chrome/common/net/x509_certificate_model_nss.h"
 
 #include <stddef.h>

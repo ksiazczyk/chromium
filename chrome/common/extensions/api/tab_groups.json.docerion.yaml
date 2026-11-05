@@ -1,0 +1,4 @@
+# Docerion header of tab_groups.json.
+type: reference
+title: tabGroups extension API definition
+summary: Defines the chrome.tabGroups API for interacting with the browser's tab grouping system, including group colors, querying groups, and updating group properties.

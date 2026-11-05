@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App mode Chrome locator header
+// summary: Declares functions to find the Chrome bundle by ID and read its executable and framework paths.
+// ---
+
 #ifndef CHROME_COMMON_MAC_APP_MODE_CHROME_LOCATOR_H_
 #define CHROME_COMMON_MAC_APP_MODE_CHROME_LOCATOR_H_
 

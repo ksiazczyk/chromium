@@ -1,0 +1,4 @@
+# Docerion header of app_mode_chrome_locator.mm.
+type: source
+title: App mode Chrome locator implementation
+summary: Implements locating the Chrome bundle and resolving framework dylib paths for new and old bundle layouts.

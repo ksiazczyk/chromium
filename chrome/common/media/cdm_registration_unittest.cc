@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM registration unit tests
+// summary: Unit tests for software-secure Widevine CDM registration on desktop Linux, covering bundled and component-updated versions.
+// ---
+
 #include "chrome/common/media/cdm_registration.h"
 
 #include <optional>

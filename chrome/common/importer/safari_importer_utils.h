@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari importer utility declarations
+// summary: Declares SafariImporterCanImport, which checks whether a Safari profile exists and which import services are supported.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_SAFARI_IMPORTER_UTILS_H_
 #define CHROME_COMMON_IMPORTER_SAFARI_IMPORTER_UTILS_H_
 

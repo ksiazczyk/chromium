@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for content security policy manifest warnings
+// summary: Unit tests that verify warnings for insecure content security policy values in extension manifests.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/error_utils.h"

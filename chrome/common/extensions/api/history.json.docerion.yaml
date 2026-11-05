@@ -1,0 +1,4 @@
+# Docerion header of history.json.
+type: reference
+title: History extension API definition
+summary: Defines the chrome.history API for adding, removing and querying the browser's record of visited pages, including transition types and history items.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the importer directory
+summary: Allows includes from components/favicon_base and components/user_data_importer/common for code in this directory.

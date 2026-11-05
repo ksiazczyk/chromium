@@ -1,3 +1,13 @@
+---
+type: reference
+title: Extension features files documentation
+summary: Reference explaining the grammar, properties, inheritance, contexts, and compilation of the extension API, permission, and manifest feature files.
+relations:
+  - documents /chrome/common/extensions/api/_api_features.json
+  - documents /chrome/common/extensions/api/_permission_features.json
+  - documents /chrome/common/extensions/api/_manifest_features.json
+---
+
 # Extension Features Files
 
 [TOC]

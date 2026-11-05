@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Natively connectable manifest handler declarations
+// summary: Declares the NativelyConnectableHandler that parses the natively_connectable manifest key and the structure holding native messaging hosts allowed to connect to an extension.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_NATIVELY_CONNECTABLE_HANDLER_H_
 #define CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_NATIVELY_CONNECTABLE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_action.json.
+type: source
+title: browserAction API schema
+summary: Schema for the chrome.browserAction extension API that manages toolbar icons, titles, badges, and popups.

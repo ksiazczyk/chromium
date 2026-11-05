@@ -1,0 +1,4 @@
+# Docerion header of system_private.json.
+type: source
+title: systemPrivate extension API definition
+summary: Defines the systemPrivate API exposing incognito mode availability, system update status, and Chrome's API key for Google services.

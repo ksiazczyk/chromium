@@ -1,0 +1,4 @@
+# Docerion header of content_settings.json.
+type: reference
+title: contentSettings API schema
+summary: Defines the chrome.contentSettings API for controlling per-site content settings such as cookies, JavaScript and plugins, including scopes and resource identifiers.

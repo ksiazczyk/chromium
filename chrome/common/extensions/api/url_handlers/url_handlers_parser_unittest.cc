@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL handlers parser unit test
+// summary: Verifies that a url_handlers manifest entry with an empty matches list raises a parse error, as a regression test for crbug.com/40925884.
+// ---
+
 #include "chrome/common/extensions/api/url_handlers/url_handlers_parser.h"
 
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

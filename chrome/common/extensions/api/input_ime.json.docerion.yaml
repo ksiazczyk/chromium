@@ -1,0 +1,4 @@
+# Docerion header of input_ime.json.
+type: reference
+title: Input IME extension API definition
+summary: Defines the chrome.input.ime API for implementing custom input method editors on Chrome OS, handling keystrokes, composition and candidate windows.

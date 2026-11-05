@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.json.
+type: config
+title: Chrome extension permission availability features
+summary: Defines the channel, extension type, platform, location, and allowlist requirements for permissions used by Chrome extension APIs.

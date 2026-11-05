@@ -1,0 +1,4 @@
+# Docerion header of enterprise_device_attributes.webidl.
+type: reference
+title: Enterprise device attributes API WebIDL definition
+summary: Defines the chrome.enterprise.deviceAttributes API for reading enterprise-managed device identifiers, serial numbers, and hostnames.

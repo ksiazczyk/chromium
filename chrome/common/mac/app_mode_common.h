@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App mode shared constants and interfaces
+// summary: Defines constants, launch switches, and structs shared between the browser and the Mac app mode shim loader.
+// ---
+
 #ifndef CHROME_COMMON_MAC_APP_MODE_COMMON_H_
 #define CHROME_COMMON_MAC_APP_MODE_COMMON_H_
 

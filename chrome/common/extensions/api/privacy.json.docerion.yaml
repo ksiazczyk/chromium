@@ -1,0 +1,4 @@
+# Docerion header of privacy.json.
+type: reference
+title: privacy extension API definition
+summary: Defines the chrome.privacy API, which controls privacy-related Chrome settings such as network prediction, WebRTC IP handling, and autofill services.

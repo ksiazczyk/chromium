@@ -1,0 +1,4 @@
+# Docerion header of autotest_private.webidl.
+type: source
+title: autotestPrivate API schema
+summary: WebIDL definition of the autotestPrivate API for integration testing of ChromeOS shelf, windows, apps, displays and login state from a test extension.

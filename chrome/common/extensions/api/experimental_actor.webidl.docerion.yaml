@@ -1,0 +1,4 @@
+# Docerion header of experimental_actor.webidl.
+type: source
+title: Experimental actor API definition
+summary: Defines an experimental API for creating and stopping tasks, performing optimization guide actions, and requesting tab observations.

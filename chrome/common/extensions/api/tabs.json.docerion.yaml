@@ -1,0 +1,4 @@
+# Docerion header of tabs.json.
+type: reference
+title: tabs extension API definition
+summary: Defines the chrome.tabs API for interacting with the browser's tab system, covering tab creation, modification, querying, muting, and rearrangement.

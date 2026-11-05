@@ -1,0 +1,4 @@
+# Docerion header of safari_importer_utils.mm.
+type: source
+title: Safari importer utility implementation
+summary: Implements SafariImporterCanImport for macOS, supporting only bookmarks import when the Safari Bookmarks.plist file is readable.

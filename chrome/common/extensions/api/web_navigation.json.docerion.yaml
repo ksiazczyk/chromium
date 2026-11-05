@@ -1,0 +1,4 @@
+# Docerion header of web_navigation.json.
+type: reference
+title: webNavigation extension API definition
+summary: Defines the chrome.webNavigation API for receiving notifications about navigation requests, frames, and transition types in flight across tabs.

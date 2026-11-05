@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media localized string provider implementation
+// summary: Maps media layer message IDs to Chrome localized resource strings for audio device names across supported platforms.
+// ---
+
 #include "chrome/common/media/media_resource_provider.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension manifest icon handling
+// summary: Unit tests verifying icon path normalization and accepted icon sizes in extension manifests.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/constants.h"

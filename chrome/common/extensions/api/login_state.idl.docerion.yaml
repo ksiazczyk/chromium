@@ -1,0 +1,4 @@
+# Docerion header of login_state.idl.
+type: reference
+title: Login state extension API definition
+summary: Defines the chrome.loginState API for reading the profile type and current session state and monitoring session state changes on Chrome OS.

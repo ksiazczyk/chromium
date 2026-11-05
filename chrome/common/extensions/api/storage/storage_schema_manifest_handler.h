@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage schema manifest handler class declaration
+// summary: Declares the StorageSchemaManifestHandler class that handles the storage.managed_schema manifest key and provides GetSchema to load an extension's managed storage schema.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_API_STORAGE_STORAGE_SCHEMA_MANIFEST_HANDLER_H_
 #define CHROME_COMMON_EXTENSIONS_API_STORAGE_STORAGE_SCHEMA_MANIFEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM host file paths implementation
+// summary: Collects paths of Chrome binaries and their signature files used to verify the host when loading content decryption modules.
+// ---
+
 #include "chrome/common/media/cdm_host_file_path.h"
 
 #include "base/check.h"

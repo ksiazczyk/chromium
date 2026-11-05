@@ -1,0 +1,4 @@
+# Docerion header of media_player_private.json.
+type: source
+title: Media player private API schema
+summary: Defines the private media player API events for next and previous track and play state requests, implemented in ChromeOS Ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome permission message rules redundancy test
+// summary: Unit test asserting that no permission message rule is made redundant by an earlier rule in the rule list.
+// ---
+
 #include "chrome/common/extensions/permissions/chrome_permission_message_rules.h"
 
 #include <stddef.h>

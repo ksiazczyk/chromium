@@ -1,0 +1,4 @@
+# Docerion header of api_sources.gni.
+type: config
+title: Extension API schema sources for the GN build
+summary: GN include file listing extension API schema files grouped by platform and build flags so the build system knows which schemas to compile.

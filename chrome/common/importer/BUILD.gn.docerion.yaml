@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Chrome importer common code
+summary: Defines the mojom interfaces, the importer source set with platform-specific Firefox, Edge, IE and Safari helpers, and test support and unit test targets.

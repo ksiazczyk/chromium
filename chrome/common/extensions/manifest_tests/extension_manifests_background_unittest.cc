@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension manifest background handling
+// summary: Unit tests verifying background page, background script and service worker manifest handling for extensions.
+// ---
+
 #include <memory>
 #include <utility>
 

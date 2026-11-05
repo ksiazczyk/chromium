@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Valid app manifest unit tests
+// summary: Unit tests checking a valid app manifest's web extent and launch settings, and that unrecognized permissions are tolerated.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

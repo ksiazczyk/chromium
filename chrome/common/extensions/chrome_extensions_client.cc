@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions client implementation
+// summary: Implements ChromeExtensionsClient, supplying web store URLs, permission messages, the scripting allowlist, blocklist URL, and URL checks for the Chrome extensions system.
+// ---
+
 #include "chrome/common/extensions/chrome_extensions_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer test registry overrider class
+// summary: Declares a helper class that generates a temporary HKCU key for tests and removes it when destroyed, with GetTestRegistryOverride for consumers.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_IMPORTER_TEST_REGISTRY_OVERRIDER_WIN_H_
 #define CHROME_COMMON_IMPORTER_IMPORTER_TEST_REGISTRY_OVERRIDER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits macros for importer data types
+// summary: Defines IPC serialization macros for importer types including SourceProfile, ImportedBookmarkEntry, favicons, search engines, autofill entries and IE7 password info.
+// ---
+
 // Singly or Multiply-included shared traits file depending on circumstances.
 // This allows the use of IPC serialization macros in more than one IPC message
 // file.

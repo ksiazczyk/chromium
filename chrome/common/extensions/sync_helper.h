@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension sync helper header
+// summary: Declares sync_helper functions that determine whether an extension should be synced, noting callers may prefer util::ShouldSync.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_SYNC_HELPER_H_
 #define CHROME_COMMON_EXTENSIONS_SYNC_HELPER_H_
 

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Extension API specifications guide
+summary: Explains how Chrome extension API specifications in IDL and JSON are structured, compiled, and where to add new API files.
+relations:
+  - references /extensions/renderer/bindings.md
+---
+
 # Extension API Specifications
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest platform app unit tests
+// summary: Unit tests validating platform app manifests, including background requirements, incognito, content security policy and expected install warnings.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

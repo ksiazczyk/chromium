@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys_private.json.
+type: source
+title: Enterprise platform keys private API definition
+summary: Defines the chrome.enterprise.platformKeysPrivate API with functions to challenge machine and user keys via signed base64 challenges.

@@ -1,0 +1,4 @@
+# Docerion header of app_mode_chrome_locator_browsertest.mm.
+type: test
+title: Browser tests for the app mode Chrome locator
+summary: Browser tests verifying Chrome bundle info lookup for missing, current, invalid, and previous versions.

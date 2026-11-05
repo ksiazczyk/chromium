@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest legacy permission unit tests
+// summary: Unit test confirming the legacy unlimited_storage permission name still grants the unlimited storage API permission for backwards compatibility.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/extension.h"

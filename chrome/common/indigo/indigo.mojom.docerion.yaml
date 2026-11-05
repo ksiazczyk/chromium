@@ -1,0 +1,4 @@
+# Docerion header of indigo.mojom.
+type: source
+title: Indigo Mojo IPC interface definitions
+summary: Defines renderer-browser Mojo interfaces for the Indigo image replacement feature, covering script injection, invocation, reset, error reporting, and onboarding dialog acknowledgement.

@@ -1,0 +1,4 @@
+# Docerion header of search.idl.
+type: source
+title: search extension API definition
+summary: Defines the chrome.search API for querying the default search provider with results shown in the current tab, a new tab, or a new window.

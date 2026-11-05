@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the storage schema manifest handler
+// summary: Unit tests verifying parsing and validation of the storage.managed_schema key, covering non-string values, absolute and parent-referencing paths, missing files, and invalid JSON schemas.
+// ---
+
 #include "chrome/common/extensions/api/storage/storage_schema_manifest_handler.h"
 
 #include <string>

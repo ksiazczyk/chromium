@@ -1,0 +1,4 @@
+# Docerion header of generated_externs_list.txt.
+type: config
+title: Generated externs list
+summary: Lists the extension API files whose externs are generated, used by build tooling during the migration to TypeScript definitions.

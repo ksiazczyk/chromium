@@ -1,0 +1,4 @@
+# Docerion header of language_settings_private.webidl.
+type: reference
+title: Language settings private extension API definition
+summary: Defines the chrome.languageSettingsPrivate API types for languages, spellcheck dictionaries and input methods with related change events.

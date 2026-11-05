@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings overrides manifest handler declarations
+// summary: Declares the SettingsOverrides manifest data and SettingsOverridesHandler for the chrome_settings_overrides manifest key covering search engine, homepage, and startup pages.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_SETTINGS_OVERRIDES_HANDLER_H_
 #define CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_SETTINGS_OVERRIDES_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox importer utilities implementation
+// summary: Implements parsing of Firefox profiles.ini, profile listing, version and install path detection, homepage checks and preference lookups shared across platforms.
+// ---
+
 #include "chrome/common/importer/firefox_importer_utils.h"
 
 #include <stddef.h>

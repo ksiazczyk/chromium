@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme manifest handler declarations
+// summary: Declares ThemeInfo, which stores parsed theme images, colors, tints, and display properties, and ThemeHandler, which parses the theme manifest key.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_THEME_HANDLER_H_
 #define CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_THEME_HANDLER_H_
 

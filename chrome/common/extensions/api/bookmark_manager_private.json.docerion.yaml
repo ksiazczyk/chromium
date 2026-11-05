@@ -1,0 +1,4 @@
+# Docerion header of bookmark_manager_private.json.
+type: source
+title: bookmarkManagerPrivate API schema
+summary: Schema for the bookmarkManagerPrivate extension API, covering bookmark clipboard operations and drag-and-drop data.

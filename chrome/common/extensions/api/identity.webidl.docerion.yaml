@@ -1,0 +1,4 @@
+# Docerion header of identity.webidl.
+type: reference
+title: Identity extension API definition
+summary: Defines the chrome.identity API types for account information, profile user info, OAuth2 token requests and web authentication flows.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions API provider class declaration
+// summary: Declares ChromeExtensionsAPIProvider, which supplies Chrome-specific API features, schemas, permissions, and manifest handlers to the extensions system.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_CHROME_EXTENSIONS_API_PROVIDER_H_
 #define CHROME_COMMON_EXTENSIONS_CHROME_EXTENSIONS_API_PROVIDER_H_
 

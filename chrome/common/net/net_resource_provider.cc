@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome net resource provider implementation
+// summary: Implements ChromeNetResourceProvider, supplying localized directory listing HTML and net resources from the resource bundle.
+// ---
+
 #include "chrome/common/net/net_resource_provider.h"
 
 #include <string>

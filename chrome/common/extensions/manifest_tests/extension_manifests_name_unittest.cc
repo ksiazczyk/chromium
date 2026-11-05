@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest name unit tests
+// summary: Unit tests checking that extension manifests require a non-empty name key and report an error when the name is empty.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/values_test_util.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

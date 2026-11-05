@@ -1,0 +1,4 @@
+# Docerion header of enterprise_login.webidl.
+type: reference
+title: Enterprise login API WebIDL definition
+summary: Defines the chrome.enterprise.login API for exiting the current ChromeOS Managed Guest session.

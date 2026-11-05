@@ -1,0 +1,4 @@
+# Docerion header of app_mode_common_unittest.mm.
+type: test
+title: Unit tests for ChromeConnectionConfig
+summary: Unit tests for encoding and decoding ChromeConnectionConfig paths, including traversal and malformed input rejection.

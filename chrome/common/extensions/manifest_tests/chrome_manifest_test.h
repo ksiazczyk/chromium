@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeManifestTest base class for manifest unit tests
+// summary: Declares the ChromeManifestTest base class that loads manifest data from Chrome's TEST_DATA_DIR and forces tests to run as on trunk.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_MANIFEST_TESTS_CHROME_MANIFEST_TEST_H_
 #define CHROME_COMMON_EXTENSIONS_MANIFEST_TESTS_CHROME_MANIFEST_TEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of experimental_ai_data.webidl.
+type: source
+title: Experimental AI data API definition
+summary: Defines an experimental API for collecting AI feature data such as annotated page content, screenshots, and text surrounding selections.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel manifest parsing implementation
+// summary: Implements SidePanelInfo and SidePanelManifestHandler, which parse and validate the side_panel manifest key including its default_path.
+// ---
+
 #include "chrome/common/extensions/api/side_panel/side_panel_info.h"
 
 #include "base/files/file_path.h"

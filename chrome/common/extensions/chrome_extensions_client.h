@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions client header
+// summary: Declares ChromeExtensionsClient, the Chrome implementation of ExtensionsClient that encapsulates features, permissions, manifest fields, and web store URLs.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_CHROME_EXTENSIONS_CLIENT_H_
 #define CHROME_COMMON_EXTENSIONS_CHROME_EXTENSIONS_CLIENT_H_
 

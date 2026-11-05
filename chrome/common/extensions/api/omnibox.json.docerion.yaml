@@ -1,0 +1,4 @@
+# Docerion header of omnibox.json.
+type: source
+title: Omnibox API schema
+summary: Defines the chrome.omnibox API for registering address bar keywords, including suggest results, description styles, and tab dispositions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Widevine CDM hint file implementation
+// summary: Reads and writes the Linux hint file that records the location of component-updated Widevine CDM directories and bundled versions.
+// ---
+
 #include "chrome/common/media/component_widevine_cdm_hint_file_linux.h"
 
 #include <memory>

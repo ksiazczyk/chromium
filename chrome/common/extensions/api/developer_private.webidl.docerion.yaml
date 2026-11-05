@@ -1,0 +1,4 @@
+# Docerion header of developer_private.webidl.
+type: reference
+title: developerPrivate WebIDL API definition
+summary: Defines the private developerPrivate API used by the extensions page to manage extensions, views, errors, permissions, commands and safety-check information.

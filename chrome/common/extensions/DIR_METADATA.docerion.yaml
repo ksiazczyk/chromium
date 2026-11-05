@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the extensions directory
+summary: Points to shared extension metadata and sets the Chromium extensions team email for this directory.

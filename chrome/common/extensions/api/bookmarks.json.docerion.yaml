@@ -1,0 +1,4 @@
+# Docerion header of bookmarks.json.
+type: source
+title: bookmarks API schema
+summary: Schema for the chrome.bookmarks extension API used to create, organize, and manipulate bookmarks and bookmark folders.

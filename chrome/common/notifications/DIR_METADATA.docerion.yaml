@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the notifications folder
+summary: Points to the COMMON_METADATA mixin from chrome/browser/notifications so the directory inherits its metadata settings.

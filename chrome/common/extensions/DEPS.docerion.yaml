@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Chrome common extensions
+summary: Specifies allowed include dependencies for the directory, with extra rules for the extensions client and IPC-related files.

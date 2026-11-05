@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.override.json.
+type: config
+title: Downstream override hook for manifest features
+summary: Empty template that downstream forks can use to add or modify entries in _manifest_features.json without changing the upstream file.

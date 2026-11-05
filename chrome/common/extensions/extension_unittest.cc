@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension unit tests
+// summary: Unit tests for the extensions::Extension class, covering manifest location values, location priority ordering, and other extension behaviors.
+// ---
+
 #include "extensions/common/extension.h"
 
 #include <stddef.h>

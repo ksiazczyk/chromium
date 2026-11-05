@@ -1,0 +1,4 @@
+# Docerion header of page_capture.json.
+type: source
+title: Page capture API schema
+summary: Defines the chrome.pageCapture API, whose saveAsMHTML function saves the content of a tab as MHTML data.

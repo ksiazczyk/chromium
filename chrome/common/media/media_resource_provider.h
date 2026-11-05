@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media localized string provider header
+// summary: Declares ChromeMediaLocalizedStringProvider, the callback the media layer uses to obtain Chrome-localized strings.
+// ---
+
 #ifndef CHROME_COMMON_MEDIA_MEDIA_RESOURCE_PROVIDER_H_
 #define CHROME_COMMON_MEDIA_MEDIA_RESOURCE_PROVIDER_H_
 

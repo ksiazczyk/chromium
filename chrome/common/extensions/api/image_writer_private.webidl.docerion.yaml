@@ -1,0 +1,4 @@
+# Docerion header of image_writer_private.webidl.
+type: reference
+title: Image writer private extension API definition
+summary: Defines the chrome.imageWriterPrivate API for writing images to removable storage, with progress, completion, error and device events.

@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys_internal.webidl.
+type: reference
+title: Enterprise platform keys internal API WebIDL definition
+summary: Defines the internal platformKeysInternal API for listing token IDs and generating RSA or ECDSA keys on ChromeOS.

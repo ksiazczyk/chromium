@@ -1,0 +1,4 @@
+# Docerion header of notifications.webidl.
+type: source
+title: Notifications API definition
+summary: Defines the chrome.notifications API, covering notification templates, options, buttons, priorities, and permission levels.

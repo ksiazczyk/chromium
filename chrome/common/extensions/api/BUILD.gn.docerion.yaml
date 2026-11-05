@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome extension API schemas
+summary: Defines GN targets that compile extension API schemas into generated JSON strings and types, and build the API, manifest, and permission feature files.

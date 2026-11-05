@@ -1,0 +1,4 @@
+# Docerion header of firefox_importer_utils_mac.mm.
+type: source
+title: macOS Firefox profiles.ini lookup
+summary: Implements GetProfilesINI for macOS by returning the profiles.ini path under the Application Data Firefox directory.

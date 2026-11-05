@@ -1,0 +1,4 @@
+# Docerion header of indigo_private.webidl.
+type: reference
+title: Indigo private extension API definition
+summary: Defines the chrome.indigoPrivate API used by the Indigo extension to fetch original and replacement image data and track image regeneration.

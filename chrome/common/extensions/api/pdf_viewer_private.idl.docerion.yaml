@@ -1,0 +1,4 @@
+# Docerion header of pdf_viewer_private.idl.
+type: source
+title: PDF viewer private API definition
+summary: Defines the private API used by the PDF Viewer, covering save request types, save-to-Drive progress and errors, and stream information.

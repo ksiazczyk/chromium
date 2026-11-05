@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome permission message rules implementation
+// summary: Defines formatters and the full set of rules that coalesce permission IDs into user-facing permission warning messages.
+// ---
+
 #include "chrome/common/extensions/permissions/chrome_permission_message_rules.h"
 
 #include <initializer_list>

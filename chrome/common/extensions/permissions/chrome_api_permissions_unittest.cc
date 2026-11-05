@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome API permissions feature coverage test
+// summary: Unit test verifying that every non-internal API permission has a corresponding entry in _permission_features.json.
+// ---
+
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/features/feature_provider.h"
 #include "extensions/common/mojom/api_permission_id.mojom.h"

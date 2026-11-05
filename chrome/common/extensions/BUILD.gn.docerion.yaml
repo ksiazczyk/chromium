@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome common extensions
+summary: Defines GN source sets for Chrome extensions common code, listing public headers, sources, dependencies, test support, and unit test targets.

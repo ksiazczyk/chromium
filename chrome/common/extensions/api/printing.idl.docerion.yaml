@@ -1,0 +1,4 @@
+# Docerion header of printing.idl.
+type: reference
+title: printing extension API definition
+summary: Defines the ChromeOS-only chrome.printing API for submitting print jobs to installed printers and querying printer info and status.

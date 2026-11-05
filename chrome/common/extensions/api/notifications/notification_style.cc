@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification bitmap sizes implementation
+// summary: Implements GetNotificationBitmapSizes, which returns the DIP sizes for notification images, icons, button icons and the app icon mask.
+// ---
+
 #include "chrome/common/extensions/api/notifications/notification_style.h"
 
 #include "ui/message_center/public/cpp/message_center_constants.h"

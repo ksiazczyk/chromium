@@ -1,0 +1,4 @@
+# Docerion header of system_log.idl.
+type: source
+title: systemLog extension API definition
+summary: Defines the ChromeOS chrome.systemLog API for recording Chrome system log messages from extensions.

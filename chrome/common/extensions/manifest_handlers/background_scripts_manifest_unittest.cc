@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background scripts manifest unit tests
+// summary: Unit test checking that background scripts with a non-JavaScript MIME type trigger a warning and yield no persistent background page.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/strings/string_number_conversions.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

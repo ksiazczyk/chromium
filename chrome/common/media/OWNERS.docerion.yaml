@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the media directory
+summary: Defines code owners for the directory and requires IPC security owners to review message and mojom files.

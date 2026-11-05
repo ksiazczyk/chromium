@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for activity log policy utilities
+// summary: Unit tests covering telemetry signal classification, high-risk event checks, and argument normalization for activity log policy utilities.
+// ---
+
 #include "chrome/common/extensions/activity_log_policy_util.h"
 
 #include "base/values.h"

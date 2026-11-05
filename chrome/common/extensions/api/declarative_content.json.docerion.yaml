@@ -1,0 +1,4 @@
+# Docerion header of declarative_content.json.
+type: reference
+title: declarativeContent API schema
+summary: Defines the chrome.declarativeContent API for acting on page content without host permissions, using page state matchers and declarative actions.

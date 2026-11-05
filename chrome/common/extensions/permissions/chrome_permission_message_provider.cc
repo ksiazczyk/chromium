@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome permission message provider implementation
+// summary: Implements generation of permission warning messages, management UI permission IDs and privilege-increase checks for Chrome extensions.
+// ---
+
 #include "chrome/common/extensions/permissions/chrome_permission_message_provider.h"
 
 #include <algorithm>

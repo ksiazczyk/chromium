@@ -1,0 +1,4 @@
+# Docerion header of tts_engine.json.
+type: reference
+title: ttsEngine extension API definition
+summary: Defines the chrome.ttsEngine API for extensions to implement text-to-speech engines that receive utterances and report speech status and language install states.

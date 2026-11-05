@@ -1,0 +1,4 @@
+# Docerion header of crash_report_private.webidl.
+type: reference
+title: crashReportPrivate WebIDL API definition
+summary: Defines the private crashReportPrivate API letting ChromeOS component extensions report and upload errors to Crash with detailed error information.

@@ -1,0 +1,4 @@
+# Docerion header of contextual_tasks_private.webidl.
+type: reference
+title: contextualTasksPrivate WebIDL API definition
+summary: Defines the private contextualTasksPrivate API for checking profile eligibility for Contextual Tasks and launching the panel in a new tab with AIM parameters.

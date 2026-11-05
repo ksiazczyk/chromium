@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: source
+title: app API schema
+summary: Defines the chrome.app API exposing install state, running state and details for Chrome Apps.

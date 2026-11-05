@@ -1,0 +1,4 @@
+# Docerion header of mdns.idl.
+type: source
+title: mDNS API definition
+summary: Defines the chrome.mdns extension API for discovering mDNS/DNS-SD services, with a forceDiscovery function and service list events.

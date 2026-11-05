@@ -1,0 +1,4 @@
+# Docerion header of activity_log_private.json.
+type: source
+title: activityLogPrivate API schema
+summary: Defines the activityLogPrivate API for looking up and deleting extension activity records such as API calls, content scripts and DOM access from the activity log database.
