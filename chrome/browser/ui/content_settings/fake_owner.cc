@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOwner implementation
+// summary: Implements a fake ContentSettingBubbleModel owner that records the selected radio option and whether the bubble was closed, for use in tests.
+// ---
+
 #include "chrome/browser/ui/content_settings/fake_owner.h"
 
 int FakeOwner::GetSelectedRadioOption() {

@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_toolbar_mouse_tracker.mm.
+type: source
+title: Fullscreen toolbar mouse tracker implementation
+summary: Implements the tracking area that locks the menubar visible while the mouse is over the toolbar and removes it when the toolbar hides.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for commerce UI dependencies
+summary: DEPS file allowing commerce_ui_tab_helper sources to include headers from chrome/browser/ui/views.

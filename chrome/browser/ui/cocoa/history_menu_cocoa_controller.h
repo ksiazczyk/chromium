@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History menu Cocoa controller header
+// summary: Declares the Cocoa controller that receives history menu item commands and menu delegate events while the bridge maintains the menu contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_HISTORY_MENU_COCOA_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_HISTORY_MENU_COCOA_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of handoff_observer.mm.
+type: source
+title: Handoff observer implementation
+summary: Implements HandoffObserver by watching browser activation, tab selection and page changes to notify its delegate of active web contents updates.

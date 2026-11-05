@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Framebust block browser tests
+// summary: Browser tests for the framebust block bubble, covering blocked URL notifications, allow and disallow radio choices and navigation behavior.
+// ---
+
 #include <algorithm>
 #include <cstddef>
 #include <optional>

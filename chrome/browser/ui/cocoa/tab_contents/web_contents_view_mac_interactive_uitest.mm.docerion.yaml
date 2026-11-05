@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_mac_interactive_uitest.mm.
+type: test
+title: Interactive UI test for Mac select menu lifetime
+summary: Disabled interactive browser test verifying that closing a tab while a native select popup is open cancels menu tracking cleanly.

@@ -1,0 +1,4 @@
+# Docerion header of share_menu_controller.mm.
+type: source
+title: ShareMenuController implementation
+summary: Populates the macOS share menu with sharing services for the active tab, handles share actions and defers expensive service enumeration until the menu opens.

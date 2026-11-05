@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the Customize Chrome side panel controller
+// summary: Creates the Android side panel view by hosting the Customize Chrome WebContents in a tab ThinWebView.
+// ---
+
 #include "chrome/browser/ui/customize_chrome/side_panel_controller_android.h"
 
 #include <memory>

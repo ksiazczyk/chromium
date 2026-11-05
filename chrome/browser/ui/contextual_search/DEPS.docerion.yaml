@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory DEPS include rules
+summary: Allows this directory to include the pdf/mojom/pdf.mojom.h header in its dependency rules.

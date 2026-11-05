@@ -1,0 +1,4 @@
+# Docerion header of browser_window_touch_bar_controller.mm.
+type: source
+title: BrowserWindowTouchBarController implementation
+summary: Implements the browser window touch bar controller, preferring the web textfield touch bar and falling back to the default touch bar.

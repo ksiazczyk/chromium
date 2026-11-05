@@ -1,0 +1,4 @@
+# Docerion header of scripting.sdef.
+type: reference
+title: Chrome AppleScript scripting dictionary
+summary: XML scripting definition describing Chrome's AppleScript suite, including application, window and tab classes, properties and commands.

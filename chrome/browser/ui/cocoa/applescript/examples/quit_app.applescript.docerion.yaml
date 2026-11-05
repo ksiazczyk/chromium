@@ -1,0 +1,4 @@
+# Docerion header of quit_app.applescript.
+type: script
+title: Quit app AppleScript example
+summary: Example AppleScript that quits Chromium, noted as useful for scheduling tasks.

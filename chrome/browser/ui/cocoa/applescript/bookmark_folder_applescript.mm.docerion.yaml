@@ -1,0 +1,4 @@
+# Docerion header of bookmark_folder_applescript.mm.
+type: source
+title: Bookmark folder AppleScript implementation
+summary: Implements the scriptable bookmark folder, translating AppleScript indexes into bookmark manager positions for inserting and removing folders and items.

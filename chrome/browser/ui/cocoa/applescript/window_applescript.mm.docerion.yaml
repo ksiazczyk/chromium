@@ -1,0 +1,4 @@
+# Docerion header of window_applescript.mm.
+type: source
+title: WindowAppleScript implementation
+summary: Implements scriptable window creation with profile and incognito mode handling, tab insertion and removal, and standard window properties.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context highlight overlay view header
+// summary: Declares the overlay view class that stores highlight rectangles and paints them above the web contents area.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_OVERLAY_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bookmark_folder_applescript_browsertest.mm.
+type: test
+title: Bookmark folder AppleScript browser tests
+summary: Browser tests covering listing, inserting, and deleting bookmark folders and items through the AppleScript scripting interface.

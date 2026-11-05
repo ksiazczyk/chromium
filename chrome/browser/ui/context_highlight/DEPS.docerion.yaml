@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Context highlight include rules (DEPS)
+summary: Restricts allowed includes for the directory, permitting tracked element headers and a mock host in the tab feature unit test.

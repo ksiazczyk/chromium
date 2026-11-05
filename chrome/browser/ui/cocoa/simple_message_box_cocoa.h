@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple message box Cocoa interface
+// summary: Declares ShowMessageBoxCocoa, the macOS entry point for showing simple message boxes with an optional checkbox.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_SIMPLE_MESSAGE_BOX_COCOA_H_
 #define CHROME_BROWSER_UI_COCOA_SIMPLE_MESSAGE_BOX_COCOA_H_
 

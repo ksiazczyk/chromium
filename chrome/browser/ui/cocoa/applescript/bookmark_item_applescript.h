@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark item AppleScript object interface
+// summary: Declares the BookmarkItemAppleScript class that exposes a single bookmark's URL to AppleScript.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_APPLESCRIPT_BOOKMARK_ITEM_APPLESCRIPT_H_
 #define CHROME_BROWSER_UI_COCOA_APPLESCRIPT_BOOKMARK_ITEM_APPLESCRIPT_H_
 

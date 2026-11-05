@@ -1,0 +1,4 @@
+# Docerion header of app_info.applescript.
+type: script
+title: App info AppleScript example
+summary: Example AppleScript that retrieves the Chromium application name and version.

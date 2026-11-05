@@ -1,0 +1,4 @@
+# Docerion header of bookmark_applescript_test_utils.mm.
+type: source
+title: Bookmark AppleScript test fixture setup
+summary: Implements BookmarkAppleScriptTest, building a sample bookmark model and exposing the bookmark bar as a BookmarkFolderAppleScript for tests.

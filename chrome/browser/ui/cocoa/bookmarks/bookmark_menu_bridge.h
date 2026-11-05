@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkMenuBridge class header
+// summary: Declares the C++ BookmarkMenuBridge that observes bookmark model changes and keeps the macOS Cocoa bookmark menu in sync.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_BOOKMARKS_BOOKMARK_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_COCOA_BOOKMARKS_BOOKMARK_MENU_BRIDGE_H_
 

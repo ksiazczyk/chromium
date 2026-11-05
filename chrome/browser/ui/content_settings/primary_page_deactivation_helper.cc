@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary page deactivation helper implementation
+// summary: Implements RegisterPrimaryPageDeactivationCallback with a self-destroying PageUserData observer that runs registered callbacks once when the primary page is deactivated or destroyed.
+// ---
+
 #include "chrome/browser/ui/content_settings/primary_page_deactivation_helper.h"
 
 #include "base/check.h"

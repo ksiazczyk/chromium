@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce page action controller interface
+// summary: Declares the base class for commerce page action controllers, including icon interaction states and navigation show and expand hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COMMERCE_COMMERCE_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COMMERCE_COMMERCE_PAGE_ACTION_CONTROLLER_H_
 

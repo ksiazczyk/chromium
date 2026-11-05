@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for content setting bubble models
+// summary: Unit tests covering bubble model behavior for cookies, popups, media, protocol handlers and other content settings types.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_bubble_model.h"
 
 #include <stddef.h>

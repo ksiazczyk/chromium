@@ -1,0 +1,4 @@
+# Docerion header of status_icon_mac_unittest.mm.
+type: test
+title: StatusIconMac unit tests
+summary: Unit tests covering status icon creation, menus, tooltips, secondary-click menus, and the macOS 26 fullscreen hiding workaround.

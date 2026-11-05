@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of content setting image models
+// summary: Implements the models that provide icons, tooltips and animations for content setting indicators shown in the location bar.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_image_model.h"
 
 #include <algorithm>

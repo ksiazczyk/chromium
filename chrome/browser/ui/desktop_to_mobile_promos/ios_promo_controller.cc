@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPromoController implementation
+// summary: Implements the per-window controller that checks promo eligibility and shows iOS promos such as password, address, payment and tab groups.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promo_controller.h"
 
 #include "base/functional/bind.h"

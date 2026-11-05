@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the color directory
+summary: Lists code owners for the color directory with per-file ownership rules for new tab page and product specifications mixers.

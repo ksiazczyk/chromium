@@ -1,0 +1,4 @@
+# Docerion header of history_menu_bridge.mm.
+type: source
+title: History menu bridge implementation
+summary: Implements the history menu bridge, fetching favicons and populating recently visited and recently closed items for the macOS main menu.

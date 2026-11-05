@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox context data unit tests
+// summary: Unit tests verifying setting and taking pending context, including tool mode, file attachment, and tab attachment cases.
+// ---
+
 #include "chrome/browser/ui/contextual_search/searchbox_context_data.h"
 
 #include "base/unguessable_token.h"

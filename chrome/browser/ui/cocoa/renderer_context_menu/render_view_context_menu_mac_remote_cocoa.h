@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewContextMenuMacRemoteCocoa interface
+// summary: Declares the remote Cocoa context menu subclass that delegates menu display to views::MenuRunnerImplRemoteCocoa, possibly in a remote process.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_RENDERER_CONTEXT_MENU_RENDER_VIEW_CONTEXT_MENU_MAC_REMOTE_COCOA_H_
 #define CHROME_BROWSER_UI_COCOA_RENDERER_CONTEXT_MENU_RENDER_VIEW_CONTEXT_MENU_MAC_REMOTE_COCOA_H_
 

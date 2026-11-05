@@ -1,0 +1,4 @@
+# Docerion header of bookmark_menu_bridge.mm.
+type: source
+title: BookmarkMenuBridge implementation
+summary: Implements the bridge that builds and refreshes the macOS bookmark menu from the bookmark merged surface service, including profile teardown handling.

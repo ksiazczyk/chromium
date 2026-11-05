@@ -1,0 +1,4 @@
+# Docerion header of scoped_menu_bar_lock_unittest.mm.
+type: test
+title: Unit tests for ScopedMenuBarLock
+summary: Tests that creating and destroying a ScopedMenuBarLock does not crash and that the private NSMenu lock and unlock APIs still exist.

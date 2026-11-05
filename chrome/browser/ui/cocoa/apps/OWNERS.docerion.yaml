@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file listing the directory code owner
+summary: Lists ccameron@chromium.org as the code owner for review approvals in the macOS apps UI directory.

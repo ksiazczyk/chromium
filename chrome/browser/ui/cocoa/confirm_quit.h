@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm quit constants and metrics
+// summary: Defines hold and fade durations, the UMA metric enum, and declarations for histogram recording and preference registration in the macOS confirm-to-quit feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_CONFIRM_QUIT_H_
 #define CHROME_BROWSER_UI_COCOA_CONFIRM_QUIT_H_
 

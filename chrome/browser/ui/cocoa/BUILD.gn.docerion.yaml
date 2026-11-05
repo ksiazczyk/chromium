@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Cocoa browser UI
+summary: Defines the GN source_set for the Mac Cocoa browser UI, listing public headers and sources for menus, fullscreen, touchbar, and context menu code.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_menu_bridge_browsertest.mm.
+type: test
+title: Tab group menu bridge browser test
+summary: Browser tests verifying that the macOS tab groups menu reflects saved tab group additions, updates, and removals.

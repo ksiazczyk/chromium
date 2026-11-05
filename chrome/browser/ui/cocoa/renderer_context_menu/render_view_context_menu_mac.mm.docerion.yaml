@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac.mm.
+type: source
+title: RenderViewContextMenuMac implementation
+summary: Implements the Mac renderer context menu, including Look Up in Dictionary, Remove from Dictionary, spellcheck integration, and the toolkit delegate bridging.

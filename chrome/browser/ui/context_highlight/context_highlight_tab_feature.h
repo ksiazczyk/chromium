@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context highlight tab feature header
+// summary: Declares the tab-scoped feature that caches latest highlight rects and scale factor and manages observer registration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_TAB_FEATURE_H_
 #define CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_TAB_FEATURE_H_
 

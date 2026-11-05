@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_toolbar_controller.mm.
+type: source
+title: Fullscreen toolbar controller implementation
+summary: Implements fullscreen toolbar behavior, coordinating menubar tracking, mouse tracking and animations to compute the exposed toolbar fraction.

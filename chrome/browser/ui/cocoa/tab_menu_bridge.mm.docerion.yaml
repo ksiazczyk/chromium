@@ -1,0 +1,4 @@
+# Docerion header of tab_menu_bridge.mm.
+type: source
+title: Tab menu bridge implementation
+summary: Keeps the macOS Tab menu items synchronized with the tab strip, including favicons and audio playing or muted indicators.

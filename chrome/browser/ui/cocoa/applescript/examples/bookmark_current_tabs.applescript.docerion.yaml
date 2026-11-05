@@ -1,0 +1,4 @@
+# Docerion header of bookmark_current_tabs.applescript.
+type: script
+title: Bookmark current tabs AppleScript example
+summary: Example AppleScript that saves the URLs and titles of all open tabs in a window into a new bookmarks bar folder.

@@ -1,0 +1,4 @@
+# Docerion header of web_drag_bookmark_handler_mac.mm.
+type: source
+title: WebDragBookmarkHandlerMac implementation
+summary: Implements drag event handling that reads bookmark drag data from the drag clipboard and forwards drag events to the bookmark manager router.

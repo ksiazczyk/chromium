@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context highlight window feature header
+// summary: Declares the window-scoped feature that manages the AI highlight overlay and listens for active tab changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_WINDOW_FEATURE_H_
 #define CHROME_BROWSER_UI_CONTEXT_HIGHLIGHT_CONTEXT_HIGHLIGHT_WINDOW_FEATURE_H_
 

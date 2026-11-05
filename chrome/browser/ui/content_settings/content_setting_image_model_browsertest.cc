@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for content setting image models
+// summary: In-process browser tests verifying that image models create valid bubbles with unique image types and remember animation state.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_image_model.h"
 
 #include <string>

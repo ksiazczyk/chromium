@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab contextualization controller browser tests
+// summary: In-process browser tests for the tab contextualization controller, using a test override to exercise page context retrieval, eligibility, and screenshot capture.
+// ---
+
 #include "chrome/browser/ui/contextual_search/tab_contextualization_controller.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox context data implementation
+// summary: Implements SearchboxContextData, storing and handing off pending search context attached to a browser window's unowned user data host.
+// ---
+
 #include "chrome/browser/ui/contextual_search/searchbox_context_data.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

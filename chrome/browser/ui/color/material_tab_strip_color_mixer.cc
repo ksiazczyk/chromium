@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Tab Strip color mixer implementation
+// summary: Defines Material design color recipes for tab strip colors, including active and inactive tab backgrounds, dividers, control buttons and discard rings across frame states.
+// ---
+
 #include "chrome/browser/ui/color/material_tab_strip_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

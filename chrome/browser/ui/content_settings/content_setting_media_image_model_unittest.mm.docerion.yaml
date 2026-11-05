@@ -1,0 +1,4 @@
+# Docerion header of content_setting_media_image_model_unittest.mm.
+type: test
+title: Media content setting image model unit tests
+summary: macOS unit tests verifying camera and microphone content setting image model states against mocked system-level media permissions.

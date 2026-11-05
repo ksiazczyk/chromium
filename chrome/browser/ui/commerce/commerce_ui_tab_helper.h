@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce UI tab helper interface
+// summary: Declares the tab helper that updates and maintains commerce feature UI state, including icon visibility, price tracking and side panel access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COMMERCE_COMMERCE_UI_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_COMMERCE_COMMERCE_UI_TAB_HELPER_H_
 

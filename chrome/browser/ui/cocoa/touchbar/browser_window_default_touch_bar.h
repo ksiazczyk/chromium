@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowDefaultTouchBar class header
+// summary: Declares the Objective-C class providing the default touch bar for the browser window, with page state properties and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_TOUCHBAR_BROWSER_WINDOW_DEFAULT_TOUCH_BAR_H_
 #define CHROME_BROWSER_UI_COCOA_TOUCHBAR_BROWSER_WINDOW_DEFAULT_TOUCH_BAR_H_
 

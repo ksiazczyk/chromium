@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts page action controller implementation
+// summary: Implements discount icon logic, deciding when to show or auto-expand the discounts bubble based on discount info fetched for each navigation.
+// ---
+
 #include "chrome/browser/ui/commerce/discounts_page_action_controller.h"
 
 #include "components/commerce/core/commerce_feature_list.h"

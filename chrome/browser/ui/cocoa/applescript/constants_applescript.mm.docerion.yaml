@@ -1,0 +1,4 @@
+# Docerion header of constants_applescript.mm.
+type: source
+title: AppleScript property constants implementation
+summary: Defines the string constants used to designate AppleScript scriptable properties and window modes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dock icon interface
+// summary: Declares the shared DockIcon class for updating the macOS dock icon with download progress and indeterminate state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_DOCK_ICON_H_
 #define CHROME_BROWSER_UI_COCOA_DOCK_ICON_H_
 

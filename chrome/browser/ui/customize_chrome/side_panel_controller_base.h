@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome side panel controller base class header
+// summary: Declares SidePanelControllerBase, the platform-independent class that creates and registers the Customize Chrome side panel entry for a tab and observes navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_BASE_H_
 

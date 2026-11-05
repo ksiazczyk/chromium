@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingImageViewDelegate interface
+// summary: Declares the delegate interface for content setting image views, with hooks for hiding the icon, accessing web contents and obtaining the bubble model delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTENT_SETTINGS_CONTENT_SETTING_IMAGE_VIEW_DELEGATE_H_
 #define CHROME_BROWSER_UI_CONTENT_SETTINGS_CONTENT_SETTING_IMAGE_VIEW_DELEGATE_H_
 

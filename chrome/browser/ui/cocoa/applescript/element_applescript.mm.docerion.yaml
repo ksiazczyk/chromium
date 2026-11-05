@@ -1,0 +1,4 @@
+# Docerion header of element_applescript.mm.
+type: source
+title: ElementAppleScript implementation
+summary: Implements object specifier creation and container property handling for scriptable AppleScript elements.

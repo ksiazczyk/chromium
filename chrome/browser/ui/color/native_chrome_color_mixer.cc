@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chrome color mixer implementation
+// summary: Provides an empty AddNativeChromeColorMixer stub for platforms other than ChromeOS, Linux, Mac and Windows.
+// ---
+
 #include "chrome/browser/ui/color/native_chrome_color_mixer.h"
 
 #include "build/build_config.h"

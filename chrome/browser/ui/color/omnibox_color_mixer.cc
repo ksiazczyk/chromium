@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox color mixer implementation
+// summary: Defines omnibox color recipes, including GM3 text and icon colors, high-contrast handling and security chip colors.
+// ---
+
 #include "chrome/browser/ui/color/omnibox_color_mixer.h"
 
 #include "base/feature_list.h"

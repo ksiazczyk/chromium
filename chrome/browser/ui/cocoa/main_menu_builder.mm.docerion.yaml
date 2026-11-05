@@ -1,0 +1,4 @@
+# Docerion header of main_menu_builder.mm.
+type: source
+title: Main menu builder for the macOS menu bar
+summary: Builds Chrome's native macOS main menu, including the app menu and PWA variants, using a fluent menu item builder with localized titles and key equivalents.

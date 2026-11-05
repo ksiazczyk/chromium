@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen toolbar animation controller interface
+// summary: Declares the controller that manages slide animations and hide timers for the fullscreen toolbar, including reactions to tabstrip changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_ANIMATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_COCOA_FULLSCREEN_FULLSCREEN_TOOLBAR_ANIMATION_CONTROLLER_H_
 

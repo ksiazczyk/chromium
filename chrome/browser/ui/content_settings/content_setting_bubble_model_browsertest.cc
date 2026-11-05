@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for content setting bubble models
+// summary: In-process browser tests exercising media stream bubbles, manage button navigation and related bubble model behavior.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_bubble_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop query contextualizer delegate implementation
+// summary: Implements QueryContextualizer::Delegate for desktop, resolving tab URLs, session IDs, page context, viewport encoding options, and relevant tabs for a query.
+// ---
+
 #include "chrome/browser/ui/contextual_search/desktop_query_contextualizer_delegate.h"
 
 #include <algorithm>

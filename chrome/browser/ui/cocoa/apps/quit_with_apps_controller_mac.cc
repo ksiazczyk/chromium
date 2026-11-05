@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quit with apps controller implementation
+// summary: Implements the macOS controller that shows a quit-all-apps notification when the user quits Chrome while app windows are still running.
+// ---
+
 #include "chrome/browser/ui/cocoa/apps/quit_with_apps_controller_mac.h"
 
 #include "base/command_line.h"

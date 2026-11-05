@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementAppleScript base class header
+// summary: Declares the root class for all AppleScript scriptable objects, managing unique IDs, containers and object specifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_APPLESCRIPT_ELEMENT_APPLESCRIPT_H_
 #define CHROME_BROWSER_UI_COCOA_APPLESCRIPT_ELEMENT_APPLESCRIPT_H_
 

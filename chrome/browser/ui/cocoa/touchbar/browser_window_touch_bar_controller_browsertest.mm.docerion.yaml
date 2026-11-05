@@ -1,0 +1,4 @@
+# Docerion header of browser_window_touch_bar_controller_browsertest.mm.
+type: test
+title: Browser window touch bar controller browser tests
+summary: 'Browser tests for the touch bar controller, including a swizzled NSWindow setTouchBar: watcher that detects touch bar invalidation.'

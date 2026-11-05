@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce UI tab helper implementation
+// summary: Implements the per-tab commerce UI helper that manages discounts and price insights page actions, bubbles and the shopping insights side panel.
+// ---
+
 #include "chrome/browser/ui/commerce/commerce_ui_tab_helper.h"
 
 #include <memory>

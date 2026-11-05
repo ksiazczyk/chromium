@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context highlight overlay view unit tests
+// summary: Tests overlay view initialization, event pass-through, and highlight rect updates with different device scale factors.
+// ---
+
 #include "chrome/browser/ui/context_highlight/context_highlight_overlay_view.h"
 
 #include "cc/paint/paint_flags.h"

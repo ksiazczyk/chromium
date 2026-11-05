@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Titlebar background view header
+// summary: Declares TitlebarBackgroundView, an NSView that paints a solid active or inactive color behind app window title bars.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_APPS_TITLEBAR_BACKGROUND_VIEW_H_
 #define CHROME_BROWSER_UI_COCOA_APPS_TITLEBAR_BACKGROUND_VIEW_H_
 

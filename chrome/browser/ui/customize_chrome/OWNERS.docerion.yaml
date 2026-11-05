@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reusing New Tab Page owners
+summary: Delegates code review ownership of this directory to the New Tab Page OWNERS file.

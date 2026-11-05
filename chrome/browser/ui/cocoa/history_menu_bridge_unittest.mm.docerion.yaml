@@ -1,0 +1,4 @@
+# Docerion header of history_menu_bridge_unittest.mm.
+type: test
+title: History menu bridge unit tests
+summary: Unit tests for HistoryMenuBridge using a mocked tab restore service and testing profiles to exercise history menu behavior.

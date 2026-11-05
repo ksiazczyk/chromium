@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainMenuItem interface for profile-driven menu updates
+// summary: Declares the MainMenuItem interface for top-level main menubar items that are reset and rebuilt when the active profile changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_MAIN_MENU_ITEM_H_
 #define CHROME_BROWSER_UI_COCOA_MAIN_MENU_ITEM_H_
 

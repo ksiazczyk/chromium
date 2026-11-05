@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip color mixer implementation
+// summary: Defines AddTabStripColorMixer, mapping theme properties to tab foreground and background color IDs with contrast ratios.
+// ---
+
 #include "chrome/browser/ui/color/tab_strip_color_mixer.h"
 
 #include "base/containers/fixed_flat_map.h"

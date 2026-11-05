@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context highlight tab feature unit tests
+// summary: Tests caching of tracked element rects and their reset when the tab's contents are discarded.
+// ---
+
 #include "chrome/browser/ui/context_highlight/context_highlight_tab_feature.h"
 
 #include "base/token.h"

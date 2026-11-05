@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop query contextualizer delegate header
+// summary: Declares the shared QueryContextualizer::Delegate implementation that interacts with tabs and delegates page context fetching to TabContextualizationController.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_DESKTOP_QUERY_CONTEXTUALIZER_DELEGATE_H_
 #define CHROME_BROWSER_UI_CONTEXTUAL_SEARCH_DESKTOP_QUERY_CONTEXTUALIZER_DELEGATE_H_
 

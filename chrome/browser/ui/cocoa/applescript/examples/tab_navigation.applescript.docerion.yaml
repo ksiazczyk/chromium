@@ -1,0 +1,4 @@
+# Docerion header of tab_navigation.applescript.
+type: script
+title: Tab navigation AppleScript example
+summary: Example AppleScript that creates a new tab with a given URL and duplicates an existing tab.

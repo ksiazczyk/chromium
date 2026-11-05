@@ -1,0 +1,4 @@
+# Docerion header of browser_window_default_touch_bar.mm.
+type: source
+title: BrowserWindowDefaultTouchBar implementation
+summary: Implements the default browser window touch bar with back, forward, reload or stop, home, search, bookmark and new tab items for macOS.

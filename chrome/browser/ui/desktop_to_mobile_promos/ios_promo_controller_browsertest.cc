@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOSPromoController browser tests
+// summary: In-process browser tests that verify IOSPromoController promo triggering and display behavior using fake sync services.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promo_controller.h"
 
 #include "base/memory/raw_ptr.h"

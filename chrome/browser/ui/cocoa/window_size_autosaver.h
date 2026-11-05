@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window size autosaver interface
+// summary: Declares WindowSizeAutosaver, a helper that saves and restores window position and size through a PrefService.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_WINDOW_SIZE_AUTOSAVER_H_
 #define CHROME_BROWSER_UI_COCOA_WINDOW_SIZE_AUTOSAVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of apple_event_util_unittest.mm.
+type: test
+title: Unit tests for Apple Event utilities
+summary: Unit tests verifying conversion of base::Value to Apple Event descriptors, including a custom AEDesc-to-string formatting helper.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cookie controls unit tests build definition
+summary: GN build file defining the unit_tests source set and its dependencies for the cookie controls controller tests.

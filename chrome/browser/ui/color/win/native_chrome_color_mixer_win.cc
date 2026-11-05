@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chrome color mixer for Windows
+// summary: Implements the Windows-native Chrome color mixer, defining color recipes for frame tints, theme colors, and DWM accent color handling.
+// ---
+
 #include "chrome/browser/ui/color/native_chrome_color_mixer.h"
 
 #include <optional>

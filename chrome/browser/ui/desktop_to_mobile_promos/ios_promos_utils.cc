@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promos utilities implementation
+// summary: Implements helpers that check iOS promo eligibility via the segmentation platform and show iOS promo bubbles for passwords, addresses and payments.
+// ---
+
 #include "chrome/browser/ui/desktop_to_mobile_promos/ios_promos_utils.h"
 
 #include "base/json/values_util.h"

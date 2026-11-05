@@ -1,0 +1,4 @@
+# Docerion header of applescript_test_utils.mm.
+type: source
+title: FakeScriptCommand implementation
+summary: Implements FakeScriptCommand, which swizzles NSScriptCommand's currentCommand method so tests can emulate script execution.

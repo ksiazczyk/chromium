@@ -1,0 +1,4 @@
+# Docerion header of browser_window_mac_browsertest.mm.
+type: test
+title: BrowserWindow Mac browser tests
+summary: Browser tests for Mac-specific BrowserWindow behavior such as menu command validation after browser destruction and child window validation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material New Tab Page color mixer header
+// summary: Declares AddMaterialNewTabPageColorMixer, which adds Material recipes for New Tab Page colors to a color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_MATERIAL_NEW_TAB_PAGE_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_MATERIAL_NEW_TAB_PAGE_COLOR_MIXER_H_
 

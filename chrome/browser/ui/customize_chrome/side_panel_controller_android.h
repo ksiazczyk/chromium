@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android Customize Chrome side panel controller
+// summary: Declares SidePanelControllerAndroid, which builds the Android Customize Chrome side panel view and exposes test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_UI_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_ANDROID_H_
 

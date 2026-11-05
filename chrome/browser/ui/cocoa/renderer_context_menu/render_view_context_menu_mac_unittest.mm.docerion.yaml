@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac_unittest.mm.
+type: test
+title: RenderViewContextMenuMac unit tests
+summary: Unit tests verifying that the Mac render view context menu includes speech items only when text is selected and offers remove-from-dictionary for user-added spellcheck words.

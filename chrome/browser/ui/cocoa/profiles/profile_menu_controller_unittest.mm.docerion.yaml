@@ -1,0 +1,4 @@
+# Docerion header of profile_menu_controller_unittest.mm.
+type: test
+title: ProfileMenuController unit tests
+summary: Cocoa unit tests verifying menu initialization, bottom items, item creation, and active-profile state for the macOS profiles menu controller.

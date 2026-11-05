@@ -1,0 +1,4 @@
+# Docerion header of tab_applescript.mm.
+type: source
+title: TabAppleScript implementation
+summary: Implements scriptable tab behavior including navigation, saving, printing, closing, view source and JavaScript execution with error handling.

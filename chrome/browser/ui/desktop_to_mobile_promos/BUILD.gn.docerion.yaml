@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS promos
+summary: Defines GN source sets and dependencies for the iOS promo utils, controller, trigger service and their tests.

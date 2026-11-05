@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorsCocoa class declaration
+// summary: Declares the AcceleratorsCocoa singleton that maps Chrome command IDs to Mac keyboard accelerators used in the app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_ACCELERATORS_COCOA_H_
 #define CHROME_BROWSER_UI_COCOA_ACCELERATORS_COCOA_H_
 

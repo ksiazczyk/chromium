@@ -1,0 +1,4 @@
+# Docerion header of accelerator_utils_cocoa.mm.
+type: source
+title: Accelerator utilities for Mac browser UI
+summary: Implements IsChromeAccelerator and the accelerator provider hookup for Mac browser windows by converting key codes and matching menu commands.

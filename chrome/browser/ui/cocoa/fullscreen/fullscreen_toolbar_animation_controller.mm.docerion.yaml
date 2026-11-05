@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_toolbar_animation_controller.mm.
+type: source
+title: Fullscreen toolbar animation controller implementation
+summary: Implements toolbar slide animations that briefly reveal the toolbar to show tabstrip changes and hide it again after a short delay.

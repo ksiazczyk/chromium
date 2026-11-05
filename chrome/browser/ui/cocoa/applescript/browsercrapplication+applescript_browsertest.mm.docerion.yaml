@@ -1,0 +1,4 @@
+# Docerion header of browsercrapplication+applescript_browsertest.mm.
+type: test
+title: Application AppleScript browser tests
+summary: Browser tests for the application-level AppleScript object covering window creation, insertion, removal and bookmark folder access.

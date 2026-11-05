@@ -1,0 +1,4 @@
+# Docerion header of status_bubble_mac_interactive_uitest.mm.
+type: test
+title: Status bubble Mac interactive UI test
+summary: Interactive browser test verifying that setting the status bubble text does not unhide a hidden macOS app.

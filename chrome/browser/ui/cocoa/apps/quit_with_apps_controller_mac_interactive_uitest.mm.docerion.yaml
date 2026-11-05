@@ -1,0 +1,4 @@
+# Docerion header of quit_with_apps_controller_mac_interactive_uitest.mm.
+type: test
+title: Quit with apps controller interactive UI tests
+summary: Interactive browser tests verifying that quitting Chrome with open app windows shows the quit-with-apps notification instead of exiting.

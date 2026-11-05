@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of content setting bubble models
+// summary: Implements the bubble models that supply data and actions for content setting bubbles such as cookies, popups, media stream, protocol handlers and subresource filtering.
+// ---
+
 #include "chrome/browser/ui/content_settings/content_setting_bubble_model.h"
 
 #include <stddef.h>

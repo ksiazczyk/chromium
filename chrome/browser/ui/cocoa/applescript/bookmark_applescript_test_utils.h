@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark AppleScript test base class
+// summary: Declares BookmarkAppleScriptTest, the InProcessBrowserTest base class shared by the bookmark AppleScript tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_APPLESCRIPT_BOOKMARK_APPLESCRIPT_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_COCOA_APPLESCRIPT_BOOKMARK_APPLESCRIPT_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of execute_javascript.applescript.
+type: script
+title: Execute JavaScript AppleScript example
+summary: Example AppleScript that runs a JavaScript string, showing an alert, in a Chromium tab.

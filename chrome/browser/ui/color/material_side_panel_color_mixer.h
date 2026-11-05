@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Side Panel color mixer header
+// summary: Declares AddMaterialSidePanelColorMixer, which adds Material recipes for side panel colors to a color provider.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COLOR_MATERIAL_SIDE_PANEL_COLOR_MIXER_H_
 #define CHROME_BROWSER_UI_COLOR_MATERIAL_SIDE_PANEL_COLOR_MIXER_H_
 

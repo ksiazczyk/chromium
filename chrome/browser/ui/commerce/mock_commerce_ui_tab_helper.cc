@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Commerce UI tab helper implementation
+// summary: Implements a mock CommerceUiTabHelper that replaces the real factory in tests and provides default price tracking success responses plus valid and empty product images.
+// ---
+
 #include "chrome/browser/ui/commerce/mock_commerce_ui_tab_helper.h"
 
 #include "base/task/sequenced_task_runner.h"

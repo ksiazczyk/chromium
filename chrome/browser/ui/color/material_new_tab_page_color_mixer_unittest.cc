@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Material New Tab Page color mixer unit tests
+// summary: Unit tests verifying Material New Tab Page color mappings, including redesigned module colors and light-mode Isolated Tab Page colors in both color modes.
+// ---
+
 #include "chrome/browser/ui/color/material_new_tab_page_color_mixer.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

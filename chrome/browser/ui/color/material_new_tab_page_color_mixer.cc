@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material New Tab Page color mixer implementation
+// summary: Defines Material design color recipes for New Tab Page colors, including light and dark mode system color constants and module, action chip and Isolated Tab colors.
+// ---
+
 #include "chrome/browser/ui/color/material_new_tab_page_color_mixer.h"
 
 #include "base/logging.h"

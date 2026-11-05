@@ -1,0 +1,4 @@
+# Docerion header of render_view_context_menu_mac_cocoa_browsertest.mm.
+type: test
+title: RenderViewContextMenuMacCocoa browser tests
+summary: Browser tests confirming the private AppKit Services classes exist and that the swizzled filtering removes redundant Services items from contextual menus.

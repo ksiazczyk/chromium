@@ -1,0 +1,4 @@
+# Docerion header of chrome_command_dispatcher_delegate.mm.
+type: source
+title: Chrome command dispatcher delegate implementation
+summary: Implements the delegate that routes key equivalents and extension accelerators through the Views focus manager and executes Chrome commands directly.

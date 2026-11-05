@@ -1,0 +1,4 @@
+# Docerion header of media_authorization_wrapper_test.mm.
+type: test
+title: MediaAuthorizationWrapperTest implementation
+summary: Implements MediaAuthorizationWrapperTest, returning the mocked AVAuthorizationStatus set for testing instead of querying real system permissions.

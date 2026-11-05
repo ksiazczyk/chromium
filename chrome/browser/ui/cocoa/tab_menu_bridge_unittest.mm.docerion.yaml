@@ -1,0 +1,4 @@
+# Docerion header of tab_menu_bridge_unittest.mm.
+type: test
+title: Tab menu bridge unit test
+summary: Unit tests for TabMenuBridge covering menu rebuilding, tab activation from menu items, and stale menu item handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status icons feature declarations
+// summary: Declares the kHideStatusIconMacInFullscreen feature that hides status tray icons while a browser window is fullscreen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_STATUS_ICONS_STATUS_ICONS_FEATURES_H_
 #define CHROME_BROWSER_UI_COCOA_STATUS_ICONS_STATUS_ICONS_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History menu bridge header
+// summary: Declares the C++ bridge that observes the history and tab restore services to build the macOS history menu with recently visited and recently closed sections.
+// ---
+
 #ifndef CHROME_BROWSER_UI_COCOA_HISTORY_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_COCOA_HISTORY_MENU_BRIDGE_H_
 

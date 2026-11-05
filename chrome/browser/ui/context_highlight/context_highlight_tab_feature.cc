@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context highlight tab feature implementation
+// summary: Implements the per-tab feature that observes RenderWidgetHost tracked element rects and forwards updates to the window feature.
+// ---
+
 #include "chrome/browser/ui/context_highlight/context_highlight_tab_feature.h"
 
 #include "base/functional/bind.h"
