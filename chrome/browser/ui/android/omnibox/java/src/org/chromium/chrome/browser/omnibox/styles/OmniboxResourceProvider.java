@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxResourceProvider
+// summary: Provides omnibox-specific resources such as colors, drawables, dimensions, and strings, adapting to layout size and branded color scheme.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

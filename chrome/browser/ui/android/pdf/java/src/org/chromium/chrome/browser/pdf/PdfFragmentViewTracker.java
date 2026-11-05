@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfFragmentViewTracker
+// summary: Interface that tracks PdfFragment views and relocates misplaced views to the correct container after activity restart.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.view.View;

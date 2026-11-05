@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Android overlay source set
+summary: Defines the overlay source_set listing the Android video overlay window sources and their build dependencies.

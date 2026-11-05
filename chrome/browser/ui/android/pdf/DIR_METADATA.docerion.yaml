@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Android PDF UI directory
+summary: Declares the Buganizer component, owning team email, and Android OS mapping for the pdf directory.

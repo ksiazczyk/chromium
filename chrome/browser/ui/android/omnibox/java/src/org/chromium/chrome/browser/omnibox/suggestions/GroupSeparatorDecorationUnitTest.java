@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GroupSeparatorDecorationUnitTest
+// summary: Robolectric unit tests verifying offset and drawing behavior of GroupSeparatorDecoration for line, gap, and no separator types.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

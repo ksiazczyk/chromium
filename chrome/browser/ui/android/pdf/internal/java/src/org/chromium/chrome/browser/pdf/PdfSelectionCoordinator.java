@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfSelectionCoordinator for text selection menus
+// summary: Coordinates the PDF selection MVC stack and adds share, web search, and translate items to the text selection context menu.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.app.Activity;

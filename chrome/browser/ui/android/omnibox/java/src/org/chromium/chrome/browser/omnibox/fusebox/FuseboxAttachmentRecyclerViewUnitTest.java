@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAttachmentRecyclerViewUnitTest
+// summary: Robolectric unit tests verifying the scroll-to-end-on-insertion observer behavior of the Fusebox attachment RecyclerView.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertEquals;

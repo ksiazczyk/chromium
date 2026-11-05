@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetViewImpl JNI implementation
+// summary: Implements the all passwords bottom sheet view on Android, passing credentials to Java via JNI and forwarding selection and dismissal events to the controller.
+// ---
+
 #include "chrome/browser/ui/android/passwords/all_passwords_bottom_sheet_view_impl.h"
 
 #include <vector>

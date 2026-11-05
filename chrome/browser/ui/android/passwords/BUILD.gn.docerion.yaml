@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android passwords UI views
+summary: Defines the GN source_set for the Android passwords UI views and lists its build dependencies.

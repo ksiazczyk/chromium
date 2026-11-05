@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxControls
+// summary: Interface for controlling Fusebox input sessions, defining methods to begin and end a fusebox input.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.chromium.build.annotations.NullMarked;

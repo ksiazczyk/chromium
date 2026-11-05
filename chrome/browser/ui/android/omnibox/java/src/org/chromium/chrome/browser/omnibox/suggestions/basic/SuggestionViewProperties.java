@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionViewProperties
+// summary: Defines the writable property keys describing the default omnibox suggestion view, such as text lines, wrap behavior, and content description.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.basic;
 
 import androidx.annotation.VisibleForTesting;

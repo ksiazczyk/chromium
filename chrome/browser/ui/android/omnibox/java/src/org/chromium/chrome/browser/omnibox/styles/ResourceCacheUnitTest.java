@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceCacheUnitTest
+// summary: Unit tests verifying that ResourceCache returns consistent cached values for strings, dimensions, colors, color state lists, and drawables.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import static org.junit.Assert.assertEquals;

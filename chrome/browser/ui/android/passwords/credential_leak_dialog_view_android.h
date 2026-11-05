@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialLeakDialogViewAndroid class declaration
+// summary: Declares the modal Android dialog that warns when an entered credential was part of a leak and passes responses to CredentialLeakControllerAndroid.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_PASSWORDS_CREDENTIAL_LEAK_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_PASSWORDS_CREDENTIAL_LEAK_DIALOG_VIEW_ANDROID_H_
 

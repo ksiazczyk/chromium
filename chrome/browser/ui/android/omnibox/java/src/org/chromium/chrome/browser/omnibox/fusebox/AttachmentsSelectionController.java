@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttachmentsSelectionController for Fusebox attachments
+// summary: SelectionController subclass that manages selection of Fusebox attachment items, toggling remove-button state and handling activation to remove attachments.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.chromium.build.annotations.NullMarked;

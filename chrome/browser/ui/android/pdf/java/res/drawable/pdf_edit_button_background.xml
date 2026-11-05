@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: PDF edit button background drawable
+summary: Ripple drawable that gives the PDF edit button rounded-corner backgrounds for selected, pressed and hovered states.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item android:id="@android:id/mask">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAttachmentUnitTest
+// summary: Robolectric unit tests covering FuseboxAttachment tab and file attachment behavior, including upload state, caching and metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertEquals;

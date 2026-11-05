@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionListProperties
+// summary: Property keys controlling the state of the omnibox suggestion list, including visibility, color scheme, scroll and height listeners, and fusebox layout mode.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import org.chromium.base.Callback;

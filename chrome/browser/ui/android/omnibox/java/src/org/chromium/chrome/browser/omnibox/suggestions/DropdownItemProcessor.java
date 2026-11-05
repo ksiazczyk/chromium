@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownItemProcessor
+// summary: Interface for processors that create models and handle session lifecycle events for omnibox dropdown suggestion items.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import org.chromium.build.annotations.MockedInTests;

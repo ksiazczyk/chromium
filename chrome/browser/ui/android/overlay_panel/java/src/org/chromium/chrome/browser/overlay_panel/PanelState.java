@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PanelState annotation defining overlay panel states
+// summary: 'Defines a type-use IntDef annotation enumerating the Overlay Panel states: undefined, closed, peeked, expanded and maximized.'
+// ---
+
 package org.chromium.chrome.browser.overlay_panel;
 
 import androidx.annotation.IntDef;

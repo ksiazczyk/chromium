@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the Android video overlay window
+// summary: Implements OverlayWindowAndroid behind the Java video overlay activity, handling playback controls, compositor attachment, and window lifecycle.
+// ---
+
 #include "chrome/browser/ui/android/overlay/overlay_window_android.h"
 
 #include "base/android/jni_android.h"

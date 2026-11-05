@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeboxQueryControllerBridge
+// summary: JNI bridge to the native Composebox query controller, managing Composebox sessions, context upload status, input state, and suggested tabs.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.jni_zero.CalledByNative;

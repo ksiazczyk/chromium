@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusView
+// summary: Android view that displays the location bar status, including status icons, verbose text, and the incognito badge.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.content.Context;

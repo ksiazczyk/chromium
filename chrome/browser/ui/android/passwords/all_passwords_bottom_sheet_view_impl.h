@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetViewImpl class declaration
+// summary: Declares the JNI-backed implementation of AllPasswordsBottomSheetView that communicates with its Java AllPasswordsBottomSheetBridge counterpart.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_PASSWORDS_ALL_PASSWORDS_BOTTOM_SHEET_VIEW_IMPL_H_
 #define CHROME_BROWSER_UI_ANDROID_PASSWORDS_ALL_PASSWORDS_BOTTOM_SHEET_VIEW_IMPL_H_
 

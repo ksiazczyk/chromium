@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF toolbar property model keys
+// summary: Defines the writable property keys (page number, title, zoom, visibility flags, and callbacks) used to build and update the PDF toolbar's property model.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.view.View;

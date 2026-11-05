@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusCoordinator
+// summary: Coordinator for the omnibox status component that wires the status view, mediator, and property model to display status icons and verbose text.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import static org.chromium.build.NullUtil.assertNonNull;

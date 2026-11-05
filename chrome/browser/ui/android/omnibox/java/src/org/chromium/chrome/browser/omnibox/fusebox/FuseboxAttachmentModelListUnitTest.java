@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAttachmentModelList unit tests
+// summary: Unit tests for the attachment model list, covering list changes, upload status updates, and backend coordination behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static com.google.common.truth.Truth.assertThat;

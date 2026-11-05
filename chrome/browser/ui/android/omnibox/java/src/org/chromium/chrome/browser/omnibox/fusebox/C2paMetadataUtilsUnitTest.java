@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C2paMetadataUtils unit tests
+// summary: Unit tests for C2paMetadataUtils covering marker presence and absence, disabled feature flag, markers across chunk boundaries, and markers beyond the search limit.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.junit.Assert.assertFalse;

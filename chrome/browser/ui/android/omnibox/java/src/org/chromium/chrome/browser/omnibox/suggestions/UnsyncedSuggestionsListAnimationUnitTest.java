@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnsyncedSuggestionsListAnimation unit tests
+// summary: Robolectric unit tests verifying the unsynced suggestions list animation, including alpha and translation updates and NTP translation handling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

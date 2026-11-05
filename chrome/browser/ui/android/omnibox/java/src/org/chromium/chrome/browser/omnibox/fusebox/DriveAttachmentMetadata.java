@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveAttachmentMetadata
+// summary: Immutable data class holding metadata for a Drive file attached to a contextual search query, including drive ID, resource key, title, and MIME type.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivatableSuggestionView interface
+// summary: Interface for omnibox suggestion views that can be activated with modifier keys such as Alt, Shift, or Ctrl.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import org.chromium.build.annotations.NullMarked;

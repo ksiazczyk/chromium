@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfCoordinator for the Android PDF viewer page
+// summary: Main coordinator that manages the PDF viewer fragment, document loading, downloads, dialogs, and toolbar lifecycle for Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.annotation.SuppressLint;

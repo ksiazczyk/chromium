@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntitySuggestionProcessor
+// summary: Handles model and view creation for entity suggestions in the Android omnibox, including fallback icon coloring.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.entity;
 
 import android.graphics.Color;

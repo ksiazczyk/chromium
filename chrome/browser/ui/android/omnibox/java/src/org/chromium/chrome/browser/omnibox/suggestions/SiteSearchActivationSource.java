@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSearchActivationSource
+// summary: IntDef annotation enumerating the sources that can trigger site search, covering space activation and a deprecated tab activation value.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import androidx.annotation.IntDef;

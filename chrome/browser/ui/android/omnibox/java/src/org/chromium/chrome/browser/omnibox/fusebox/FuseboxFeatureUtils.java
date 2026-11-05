@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxFeatureUtils
+// summary: Helper class that checks feature, profile and search engine conditions for showing the New Tab Page plus button for Fusebox.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice recognition handler for omnibox voice search
+// summary: Coordinates voice search in the omnibox, including confidence thresholds, observers, and preference monitoring.
+// ---
+
 package org.chromium.chrome.browser.omnibox.voice;
 
 import androidx.annotation.IntDef;

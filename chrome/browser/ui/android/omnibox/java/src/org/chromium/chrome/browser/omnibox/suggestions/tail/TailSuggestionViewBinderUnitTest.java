@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TailSuggestionViewBinder
+// summary: Robolectric tests verifying that the binder updates the tail suggestion view for each property key.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import static org.junit.Assert.assertEquals;

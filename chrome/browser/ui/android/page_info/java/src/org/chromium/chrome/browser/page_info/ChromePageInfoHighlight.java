@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePageInfoHighlight
+// summary: Chrome's customization of PageInfoHighlight for the Android Page Info dialog, providing highlight and opening configuration such as highlighting a permission row, opening a permission subpage, or highlighting store info.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import org.chromium.build.annotations.NullMarked;

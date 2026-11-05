@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxAttachmentViewBinder
+// summary: Binds Fusebox attachment property model changes to views, updating thumbnails, upload progress, color scheme and remove button handling.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

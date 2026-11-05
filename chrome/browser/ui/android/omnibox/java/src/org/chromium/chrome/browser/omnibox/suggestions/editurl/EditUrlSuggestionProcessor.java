@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditUrlSuggestionProcessor
+// summary: Controls the edit URL suggestion in the Android omnibox, deciding when it applies to the active tab and populating its model with actions such as share and copy.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.editurl;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

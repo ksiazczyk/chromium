@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuggestionSpannableUnitTest
+// summary: Unit tests for SuggestionSpannable's equals method across plain and styled strings, span types, ranges, and appearance attributes.
+// ---
+
 package org.chromium.chrome.browser.omnibox.styles;
 
 import static org.junit.Assert.assertFalse;

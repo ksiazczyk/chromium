@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfPage
+// summary: Native page that displays a PDF file and delegates rendering to a coordinator created through the on-demand module.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.app.Activity;

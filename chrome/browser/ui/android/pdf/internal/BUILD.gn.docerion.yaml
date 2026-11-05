@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF internal Android UI build targets
+summary: GN build file defining the android_library target for Chrome's Android PDF UI Java sources and a Robolectric junit target for its unit tests, with their dependencies.

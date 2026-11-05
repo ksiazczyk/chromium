@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedZeroSuggestionsManager
+// summary: Manages caching and restoring of zero-suggest omnibox results in SharedPreferences for later display.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.KEY_ZERO_SUGGEST_ANSWER_TEXT_PREFIX;

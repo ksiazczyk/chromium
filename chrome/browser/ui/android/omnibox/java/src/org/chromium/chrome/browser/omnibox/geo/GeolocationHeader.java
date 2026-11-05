@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationHeader
+// summary: Android class that builds the X-Geo HTTP header, providing device location to servers when making HTTP requests.
+// ---
+
 package org.chromium.chrome.browser.omnibox.geo;
 
 import android.Manifest;

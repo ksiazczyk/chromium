@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fusebox attachment list container
+// summary: Model list container for fusebox attachments that coordinates add, remove, and upload operations with the ComposeboxQueryControllerBridge.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxMediator
+// summary: Mediator coordinating the mobile Fusebox omnibox component, handling attachments, popups, permissions, and state transitions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import static org.chromium.build.NullUtil.assertNonNull;

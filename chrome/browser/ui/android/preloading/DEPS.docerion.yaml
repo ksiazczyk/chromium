@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Preloading Android UI include rules
+summary: DEPS file listing allowed include paths, permitting base Android Java sources and content public Android code.

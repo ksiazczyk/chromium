@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DynamicSpacingRecyclerViewItemDecorationUnitTest
+// summary: Unit tests for DynamicSpacingRecyclerViewItemDecoration verifying computed item spacing across container sizes and layout directions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.junit.Assert.assertEquals;

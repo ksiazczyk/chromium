@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditUrlSuggestionProcessorUnitTest
+// summary: Robolectric unit tests for the edit URL omnibox suggestion, covering suggestion matching, share and copy actions, and URL handling edge cases.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.editurl;
 
 import static org.junit.Assert.assertEquals;

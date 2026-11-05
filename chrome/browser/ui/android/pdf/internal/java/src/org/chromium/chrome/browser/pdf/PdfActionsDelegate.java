@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfActionsDelegate interface for PDF viewer callbacks
+// summary: Interface defining callbacks and actions for the PDF viewer, including link clicks, load events, viewport changes, find-in-page, and edit saving.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.net.Uri;

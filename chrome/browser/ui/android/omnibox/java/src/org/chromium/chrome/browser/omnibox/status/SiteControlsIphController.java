@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteControlsIphController
+// summary: Controller showing an IPH bubble for Site Controls in the app menu and highlighting the menu item while the bubble is visible.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.view.View;

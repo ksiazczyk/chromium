@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnswerSuggestionProcessor
+// summary: Handles model and view creation for calculator answer suggestions shown in the Chrome omnibox.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.answer;
 
 import org.chromium.build.annotations.NullMarked;

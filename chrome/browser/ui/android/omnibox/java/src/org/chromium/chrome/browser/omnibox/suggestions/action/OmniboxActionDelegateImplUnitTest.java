@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxActionDelegateImplUnitTest
+// summary: Robolectric unit tests for OmniboxActionDelegateImpl covering action callbacks, settings navigation, and tab handling behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import static org.junit.Assert.assertEquals;

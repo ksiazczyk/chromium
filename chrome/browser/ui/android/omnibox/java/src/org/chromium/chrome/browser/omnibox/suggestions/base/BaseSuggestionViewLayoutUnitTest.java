@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseSuggestionViewLayoutUnitTest
+// summary: Robolectric layout tests for BaseSuggestionView covering measurement, layout, and spacing of suggestion content and decoration icons.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

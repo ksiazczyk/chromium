@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition intent handler
+// summary: Handles the platform speech recognition intent, including permission checks, result parsing, and metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox.voice;
 
 import android.Manifest;

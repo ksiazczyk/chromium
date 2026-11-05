@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TailSuggestionProcessor
+// summary: Robolectric tests verifying model population for tail suggestions across phone and tablet form factors.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import static org.junit.Assert.assertEquals;

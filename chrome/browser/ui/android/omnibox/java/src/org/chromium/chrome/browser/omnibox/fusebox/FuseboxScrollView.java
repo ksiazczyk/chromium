@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxScrollView
+// summary: Custom ScrollView that intercepts swipe-down gestures at the top to dismiss the Fusebox popup.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetRectProvider
+// summary: RectProvider that dynamically tracks the Activity's window bottom bounds to position the bottom sheet popup, reacting to layout and configuration changes.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.app.Activity;

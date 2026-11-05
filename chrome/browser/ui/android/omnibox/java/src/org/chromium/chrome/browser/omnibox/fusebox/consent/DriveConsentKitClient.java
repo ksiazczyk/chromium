@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveConsentKitClient
+// summary: Java client for the Drive ConsentKit dialog that observes web contents lifecycle and JavaScript bridge events to drive consent validation and report outcomes to its delegate.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox.consent;
 
 import android.text.TextUtils;

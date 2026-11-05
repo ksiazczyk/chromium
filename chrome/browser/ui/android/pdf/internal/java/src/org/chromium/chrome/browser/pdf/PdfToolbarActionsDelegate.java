@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfToolbarActionsDelegate interface for toolbar actions
+// summary: Interface handling PDF toolbar actions such as page navigation, zoom changes, edit mode, download, print, and document properties.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import org.chromium.build.annotations.NullMarked;

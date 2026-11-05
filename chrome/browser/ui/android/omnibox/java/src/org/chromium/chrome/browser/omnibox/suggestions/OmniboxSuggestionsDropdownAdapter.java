@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionsDropdownAdapter
+// summary: RecyclerView adapter for the omnibox suggestions dropdown that creates and binds view holders and records view reuse metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionStatusHandler
+// summary: Handler managing the permission icon in the omnibox status view, including quiet UI clapper icon display and timeouts.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.content.Context;

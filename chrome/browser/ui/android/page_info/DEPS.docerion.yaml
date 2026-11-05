@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page info Android dependency rules
+summary: DEPS file allowing this directory to include the page info Android Java component sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntitySuggestionViewBinderUnitTest
+// summary: Robolectric unit tests verifying that the entity suggestion view binder updates text lines and wrapping correctly.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.entity;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for Android video overlay windows
+// summary: Creates the platform video overlay window, choosing between immersive playback and standard Picture-in-Picture based on the session's immersive state.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/picture_in_picture/video_overlay_window.h"

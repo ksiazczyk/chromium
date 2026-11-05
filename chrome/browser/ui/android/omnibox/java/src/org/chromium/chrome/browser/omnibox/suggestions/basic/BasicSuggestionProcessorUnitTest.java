@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BasicSuggestionProcessorUnitTest
+// summary: Robolectric unit tests verifying BasicSuggestionProcessor behavior such as icons, text lines, and suggestion model creation.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.basic;
 
 import static org.junit.Assert.assertEquals;

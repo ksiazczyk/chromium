@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxViewHolderFactory unit tests
+// summary: Robolectric unit tests verifying that the factory creates a view holder for every non-obsolete omnibox suggestion UI type.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import static org.junit.Assert.assertEquals;

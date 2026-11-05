@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxAttachmentRecyclerView
+// summary: RecyclerView for the Fusebox attachment component that scrolls to newly inserted items and applies horizontal spacing between children.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.content.Context;

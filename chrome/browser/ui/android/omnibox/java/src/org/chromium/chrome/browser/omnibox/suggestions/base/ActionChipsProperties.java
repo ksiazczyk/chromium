@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips property keys
+// summary: Defines the property keys and view types used to render the omnibox ActionChipsView.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import androidx.annotation.IntDef;

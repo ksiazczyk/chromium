@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnswerSuggestionViewBinder
+// summary: Binds AnswerSuggestion property model keys to the answer suggestion view's text lines, padding and accessibility content.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.answer;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseboxAttachmentRecyclerViewAdapter
+// summary: Model list adapter for the Fusebox attachment component that registers view and binder types for file, image, tab, PDF and Drive attachments.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import android.view.LayoutInflater;

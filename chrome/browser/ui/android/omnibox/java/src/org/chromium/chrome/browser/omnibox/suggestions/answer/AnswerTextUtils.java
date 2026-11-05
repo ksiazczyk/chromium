@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnswerTextUtils
+// summary: Shared utility for AnswerText implementations that strips HTML tags from answer text to improve readability.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.answer;
 
 import android.text.Html;

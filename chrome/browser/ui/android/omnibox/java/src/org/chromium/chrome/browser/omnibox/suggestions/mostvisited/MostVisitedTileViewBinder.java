@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Tile View Binder
+// summary: Binds most visited tile property models to TileView instances and updates the tile background when the omnibox color scheme changes.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.mostvisited;
 
 import android.graphics.drawable.Drawable;

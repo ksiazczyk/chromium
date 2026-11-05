@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionLayout
+// summary: Custom ViewGroup that arranges omnibox suggestion elements such as content, decoration icon, action buttons, and footer, optimized around known view types.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSearchAction omnibox action
+// summary: Omnibox action for site search that supplies site search data, including keyword and starter pack ID, to the delegate when executed or focused from the keyboard.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.action;
 
 import org.chromium.build.annotations.NullMarked;

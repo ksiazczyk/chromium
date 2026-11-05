@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveDisclaimerBridge
+// summary: Stateless JNI bridge exposing the user's Google Drive disclaimer consent status and ConsentKit WebView utilities to Java callers.
+// ---
+
 package org.chromium.chrome.browser.omnibox.fusebox;
 
 import org.jni_zero.JniType;

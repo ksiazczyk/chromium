@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseSuggestionViewProcessorUnitTest
+// summary: Unit tests for BaseSuggestionViewProcessor, focusing on applying highlight spans to matched text regions.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.junit.Assert.assertFalse;

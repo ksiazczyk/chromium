@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: PDF toolbar view binder
+// summary: Binds PDF toolbar property model changes to the toolbar view, updating page number, title, zoom field, and button listeners and states.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.text.Editable;

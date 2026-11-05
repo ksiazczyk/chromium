@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlignmentManager for omnibox tail suggestions
+// summary: Coordinates horizontal alignment of omnibox tail suggestions, aligning them to the user query or to the longest suggestion when space is limited.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tail;
 
 import android.util.ArraySet;

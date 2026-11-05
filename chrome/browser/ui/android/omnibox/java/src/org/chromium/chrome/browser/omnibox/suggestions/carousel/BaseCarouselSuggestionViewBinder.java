@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseCarouselSuggestionViewBinder
+// summary: Binds carousel suggestion property models to the carousel view, applying background, padding, color scheme, and adapter updates.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.carousel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

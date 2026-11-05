@@ -1,3 +1,12 @@
+---
+type: readme
+title: Most Visited Tiles Overview
+summary: Explains how most visited tiles appear in omnibox suggestions and outlines the recycled view pool design to avoid repeated view destruction and creation.
+relations:
+  - references /chrome/browser/ui/android/omnibox/java/src/org/chromium/chrome/browser/omnibox/suggestions/mostvisited/doc/most-visited-tiles-recycled-view-flow.png
+  - documents /chrome/browser/ui/android/omnibox/java/src/org/chromium/chrome/browser/omnibox/suggestions/mostvisited/MostVisitedTilesProcessor.java
+---
+
 # Overview
 ## Most Visited Tiles
 The most visited tiles in omnibox suggestions are used to show the recently

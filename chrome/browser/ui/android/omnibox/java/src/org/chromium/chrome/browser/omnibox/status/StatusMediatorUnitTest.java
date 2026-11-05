@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusMediatorUnitTest
+// summary: Robolectric unit tests for the omnibox StatusMediator, covering status icon updates, fusebox state, and cookie controls behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import static org.junit.Assert.assertEquals;

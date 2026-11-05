@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnswerText
+// summary: Interface describing a single line of an omnibox answer suggestion, covering text, accessibility description and line count.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.answer;
 
 import android.text.SpannableStringBuilder;

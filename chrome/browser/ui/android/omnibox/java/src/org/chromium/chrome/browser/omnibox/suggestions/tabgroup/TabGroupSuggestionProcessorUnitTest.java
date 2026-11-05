@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group suggestion processor unit tests
+// summary: Robolectric tests verifying model population and display behavior of the tab group suggestion processor.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.tabgroup;
 
 import static org.junit.Assert.assertEquals;

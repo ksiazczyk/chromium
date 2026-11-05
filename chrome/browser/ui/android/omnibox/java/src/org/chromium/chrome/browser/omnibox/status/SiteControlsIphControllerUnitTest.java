@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteControlsIphControllerUnitTest
+// summary: Unit tests verifying Site Controls IPH display, menu highlight handling, and suppression when the anchor view is null or hidden.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import static org.mockito.Mockito.verify;

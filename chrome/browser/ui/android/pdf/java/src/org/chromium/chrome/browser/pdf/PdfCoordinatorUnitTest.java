@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfCoordinator unit tests
+// summary: Extensive Robolectric unit tests for the PDF coordinator covering reload, download, editing, zoom and observer behavior.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.junit.Assert.assertEquals;

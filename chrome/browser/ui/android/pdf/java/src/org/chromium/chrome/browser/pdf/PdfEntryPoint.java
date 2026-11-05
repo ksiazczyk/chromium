@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfEntryPoint
+// summary: Interface for the PDF viewer module that creates PDF coordinators and locates PDF fragment views in an activity.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusProperties
+// summary: Defines the property model keys and icon resource classes used to describe and render the omnibox status view.
+// ---
+
 package org.chromium.chrome.browser.omnibox.status;
 
 import android.content.Context;

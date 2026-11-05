@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseSuggestionViewBinderUnitTest
+// summary: Robolectric unit tests verifying that BaseSuggestionViewBinder correctly applies suggestion properties such as icons, backgrounds, and positioning.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.base;
 
 import static org.junit.Assert.assertEquals;

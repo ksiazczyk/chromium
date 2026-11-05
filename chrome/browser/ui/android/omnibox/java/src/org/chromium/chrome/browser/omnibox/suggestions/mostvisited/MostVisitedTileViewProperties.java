@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Tile View Properties
+// summary: Defines the property keys recognized by omnibox most visited tiles by combining tile view properties with common suggestion properties.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions.mostvisited;
 
 import org.chromium.build.annotations.NullMarked;

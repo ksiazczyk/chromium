@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxAnimator
+// summary: ValueAnimator subclass for omnibox animations that carries start alpha metadata used for synchronization.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.animation.ValueAnimator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationTracker
+// summary: Tracks the device's location and supports synchronous last-known-location requests for geolocation features.
+// ---
+
 package org.chromium.chrome.browser.omnibox.geo;
 
 import android.Manifest;

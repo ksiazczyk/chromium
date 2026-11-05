@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionHorizontalDivider
+// summary: RecyclerView item decoration that draws horizontal dividers between suggestions by clipping the bottom of views whose property model enables SHOW_DIVIDER.
+// ---
+
 package org.chromium.chrome.browser.omnibox.suggestions;
 
 import android.content.Context;

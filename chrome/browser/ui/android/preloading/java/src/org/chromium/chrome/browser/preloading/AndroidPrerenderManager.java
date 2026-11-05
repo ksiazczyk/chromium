@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidPrerenderManager Java bridge for conditional prerendering
+// summary: Java bridge that lets Chrome UI start, stop, and manage conditional prerendering via the native AndroidPrerenderManager, tracking the active tab.
+// ---
+
 package org.chromium.chrome.browser.preloading;
 
 import org.jni_zero.JniType;
