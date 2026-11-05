@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIBrowserWindow implementation
+// summary: Implements the BrowserWindow for a WebUI-based browser, wiring toolbar, find bar, side panel, dialogs, themes and accelerators into a views widget.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_window.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image data URI helpers header
+// summary: Declares the webui namespace functions for creating image data URIs from raw bytes and encoding ImageSkia images as PNG.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_UTIL_IMAGE_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_UTIL_IMAGE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS version handler implementation
+// summary: Loads ChromeOS platform, firmware and ARC versions asynchronously and returns them to the version page via WebUI listeners.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_handler_chromeos.h"
 
 #include "ash/strings/grit/ash_strings.h"

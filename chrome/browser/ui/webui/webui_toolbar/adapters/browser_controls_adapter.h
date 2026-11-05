@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls adapter interface
+// summary: Declares the abstract BrowserControlsAdapter that translates browser controls service requests into platform navigation, reload, and split tab actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_BROWSER_CONTROLS_ADAPTER_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_BROWSER_CONTROLS_ADAPTER_H_
 

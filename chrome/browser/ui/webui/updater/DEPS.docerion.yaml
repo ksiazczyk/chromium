@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the updater WebUI
+summary: Grants the directory include access to chrome/updater and chrome/enterprise_companion headers.

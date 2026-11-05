@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIContentsPreloadManager implementation
+// summary: Implements the singleton manager that preloads top-chrome WebUI contents, tracks preload results, and reuses them when a WebUI is requested.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_preload_manager.h"
 
 #include <algorithm>

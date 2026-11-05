@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowFeatureController header
+// summary: Declares the WindowFeatureController class, its WindowFeature enum, feature support queries, Mac immersive fullscreen helpers, and unowned user data attachment to browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WINDOW_FEATURE_CONTROLLER_WINDOW_FEATURE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WINDOW_FEATURE_CONTROLLER_WINDOW_FEATURE_CONTROLLER_H_
 

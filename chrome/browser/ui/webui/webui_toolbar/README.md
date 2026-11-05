@@ -1,3 +1,9 @@
+---
+type: readme
+title: Life of a WebUI ReloadButton
+summary: Explains the lifecycle, architecture and behavior of the WebUI-based toolbar reload control from process startup through navigation, resource loading, rendering, interaction and telemetry.
+---
+
 # Life of a WebUI ReloadButton
 
 This document provides a high-level discussion of the lifecycle, architecture,

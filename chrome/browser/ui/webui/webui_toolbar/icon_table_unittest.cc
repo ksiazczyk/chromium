@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon table unit tests
+// summary: Tests icon registration, handle reuse, pending updates and full state reporting of the icon table.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/icon_table.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser WebContents delegate implementation
+// summary: Implements the WebContents delegate for the WebUI browser window, forwarding keyboard events, pointer lock, URL opening, and draggable region updates.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_web_contents_delegate.h"
 
 #include "base/logging.h"

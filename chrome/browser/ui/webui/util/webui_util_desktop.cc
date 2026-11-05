@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebUI utility implementation
+// summary: Implements desktop WebUI helpers for choosing a browser window for opening WebUIs, theme provider access, metrics hostnames, and code cache resource URL mappings.
+// ---
+
 #include "chrome/browser/ui/webui/util/webui_util_desktop.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApksUI controller implementation
+// summary: Implements the WebApksUI controller that attaches the message handler and adds the data source serving resources for the internal WebAPKs page.
+// ---
+
 #include "chrome/browser/ui/webui/webapks/webapks_ui.h"
 
 #include <memory>

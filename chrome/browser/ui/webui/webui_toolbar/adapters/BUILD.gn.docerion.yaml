@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for webui toolbar adapters
+summary: Defines the adapters and impl source_set targets with their source files and dependencies for the WebUI toolbar adapters folder.

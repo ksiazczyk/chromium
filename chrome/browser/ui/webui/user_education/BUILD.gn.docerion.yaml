@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the user education WebUI handler
+summary: Defines source sets for the user education handler plus its unit and browser tests with their build dependencies.

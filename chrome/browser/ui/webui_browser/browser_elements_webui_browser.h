@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserElementsWebUiBrowser interface for WebUI browser element contexts
+// summary: Declares BrowserElementsWebUiBrowser, which extends BrowserElementsViews to provide element contexts and widget tracking for the WebUI browser window.
+// ---
+
 #ifndef CHROMIUM_BROWSER_UI_WEBUI_BROWSER_BROWSER_ELEMENTS_WEBUI_BROWSER_H_
 #define CHROMIUM_BROWSER_UI_WEBUI_BROWSER_BROWSER_ELEMENTS_WEBUI_BROWSER_H_
 

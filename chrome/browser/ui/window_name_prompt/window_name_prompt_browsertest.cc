@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window name prompt browser tests
+// summary: Browser tests verifying the prompt opens with the current title, sets or clears the title on accept, and leaves it unchanged on cancel.
+// ---
+
 #include <memory>
 
 #include "base/strings/utf_string_conversions.h"

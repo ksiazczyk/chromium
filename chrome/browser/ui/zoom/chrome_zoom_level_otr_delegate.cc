@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTR zoom level delegate implementation
+// summary: Implements the delegate that connects an OTR StoragePartition's HostZoomMap to the profile's ZoomEventManager.
+// ---
+
 #include "chrome/browser/ui/zoom/chrome_zoom_level_otr_delegate.h"
 
 #include "base/functional/bind.h"

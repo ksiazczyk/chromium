@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New utility implementation
+// summary: Implements What's New eligibility checks, startup type metrics logging, remote content test disabling, and startup URL construction for the Chrome What's New page.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_util.h"
 
 #include "base/command_line.h"

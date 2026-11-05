@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Updater WebUI build configuration
+summary: Defines GN build targets for the updater WebUI, including Mojo bindings, the updater source set, and its unit tests.

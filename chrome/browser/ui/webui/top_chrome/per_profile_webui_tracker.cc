@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerProfileWebUITracker implementation
+// summary: Implements the tracker that records which WebUI WebContents exist per profile and notifies observers about their destruction and page changes.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/per_profile_webui_tracker.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback-based toolbar state fetcher header
+// summary: Declares ToolbarStateFetcherImpl, which fetches the toolbar state through a repeating callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_TOOLBAR_STATE_FETCHER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_TOOLBAR_STATE_FETCHER_IMPL_H_
 

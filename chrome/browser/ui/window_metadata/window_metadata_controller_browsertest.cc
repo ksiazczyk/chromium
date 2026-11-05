@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window metadata controller browser tests
+// summary: In-process browser tests covering default, set, clear, and title-lookup behavior of the WindowMetadataController user title.
+// ---
+
 #include "chrome/browser/ui/window_metadata/window_metadata_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewInteractionData implementation
+// summary: Implements a WebContentsUserData class that stores What's New page interaction metrics such as scroll depth and shown modules.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_interaction_data.h"
 
 #include "chrome/browser/ui/webui/whats_new/whats_new.mojom-shared.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar owner interface for WebUI browser windows
+// summary: Declares FindBarOwnerWebUIBrowser, the WebUI browser implementation of the find bar owner interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_FIND_BAR_OWNER_WEBUI_BROWSER_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_FIND_BAR_OWNER_WEBUI_BROWSER_H_
 

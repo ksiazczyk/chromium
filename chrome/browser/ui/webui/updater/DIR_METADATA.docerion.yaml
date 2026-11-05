@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Updater WebUI directory metadata
+summary: Points the directory's metadata to the shared chrome/updater COMMON_METADATA mixins.

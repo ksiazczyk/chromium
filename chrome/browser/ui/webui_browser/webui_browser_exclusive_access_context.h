@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access context interface for WebUI browser
+// summary: Declares WebUIBrowserExclusiveAccessContext, which provides the exclusive access and bubble contexts for WebUI browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_EXCLUSIVE_ACCESS_CONTEXT_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_EXCLUSIVE_ACCESS_CONTEXT_H_
 

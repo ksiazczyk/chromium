@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the unexportable keys internals directory
+summary: Lists code owners for the directory and routes Mojom and traits files to IPC security owners.

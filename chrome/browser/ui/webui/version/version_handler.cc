@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version handler for the version WebUI page
+// summary: Implements the WebUI message handler that serves version information, active field trials and variations command line, plus executable and profile paths, to the browser's version page.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_handler.h"
 
 #include <stddef.h>

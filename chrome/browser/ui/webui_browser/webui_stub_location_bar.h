@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI stub location bar header
+// summary: Declares the stub LocationBar used by WebUIBrowserWindow, exposing permission dashboard hooks and placeholder omnibox and layout methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_STUB_LOCATION_BAR_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_STUB_LOCATION_BAR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the WebUI toolbar directory
+summary: Points to the waap OWNERS file for code ownership and assigns IPC security owners for mojom files.

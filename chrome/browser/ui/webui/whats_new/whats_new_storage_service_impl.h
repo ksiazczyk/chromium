@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New storage service header
+// summary: Declares the preferences-backed implementation of the WhatsNewStorageService interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WHATS_NEW_WHATS_NEW_STORAGE_SERVICE_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_WHATS_NEW_WHATS_NEW_STORAGE_SERVICE_IMPL_H_
 

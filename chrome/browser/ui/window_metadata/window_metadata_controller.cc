@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window metadata controller implementation
+// summary: Implements WindowMetadataController, computing window titles and favicons from the active tab and managing the user-defined window title.
+// ---
+
 #include "chrome/browser/ui/window_metadata/window_metadata_controller.h"
 
 #include <string>

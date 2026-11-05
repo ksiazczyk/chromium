@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for WebUI test support
+summary: Defines a testonly source_set bundling the WebUI interactive test mixin with dependencies on base, Chrome UI test support, and interaction test utilities for non-Android builds.

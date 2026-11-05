@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopChromeWebUIConfig base class header
+// summary: Defines TopChromeWebUIConfig and DefaultTopChromeWebUIConfig for top-chrome WebUIs, including preloadability requirements and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_TOP_CHROME_WEBUI_CONFIG_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_TOP_CHROME_WEBUI_CONFIG_H_
 

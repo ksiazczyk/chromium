@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowFeatureController implementation
+// summary: Implements WindowFeatureController, which reports whether window UI features such as tabstrip, toolbar, and bookmark bar are supported per browser type, fullscreen state, and trusted source.
+// ---
+
 #include "chrome/browser/ui/window_feature_controller/window_feature_controller.h"
 
 #include "base/check.h"

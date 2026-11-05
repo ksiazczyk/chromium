@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows version handler implementation
+// summary: Fetches the full Windows OS version asynchronously and reports it to the version page through a WebUI listener.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_handler_win.h"
 
 #include "base/functional/bind.h"

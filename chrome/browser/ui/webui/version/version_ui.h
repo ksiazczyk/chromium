@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionUI header for the version WebUI page
+// summary: Declares the VersionUI WebUI controller and helpers that add version detail strings, favicon resources, and localized version text for the browser's version page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_UI_H_
 

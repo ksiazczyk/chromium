@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIContentsWrapper unit tests
+// summary: Unit tests for WebUIContentsWrapper that use a mock host to verify show, close, resize, context menu and draggable region callbacks.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_wrapper.h"
 
 #include <memory>

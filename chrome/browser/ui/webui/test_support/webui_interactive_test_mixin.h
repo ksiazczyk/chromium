@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI interactive test mixin template class
+// summary: Header defining a template mixin for WebUI interactive browser tests with helpers to wait for element rendering, scroll to and click elements, and await button or iron-collapse state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TEST_SUPPORT_WEBUI_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_WEBUI_TEST_SUPPORT_WEBUI_INTERACTIVE_TEST_MIXIN_H_
 

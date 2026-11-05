@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadContext wrapper for Profile or BrowserWindowInterface
+// summary: Declares the PreloadContext class that wraps a Profile or BrowserWindowInterface so the preload manager can determine the preloading strategy for top chrome WebUIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_PRELOAD_CONTEXT_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_PRELOAD_CONTEXT_H_
 

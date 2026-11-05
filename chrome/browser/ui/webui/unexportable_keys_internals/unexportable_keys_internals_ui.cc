@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeysInternalsUI WebUI controller implementation
+// summary: Implements the WebUI controller that adds the data source, enables the page behind the unexportable key deletion feature flag, and creates the page handler.
+// ---
+
 #include "chrome/browser/ui/webui/unexportable_keys_internals/unexportable_keys_internals_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New page fetcher implementation
+// summary: Implements fetching the What's New server page, building versioned and feature-parameterized URLs, and opening the page in the browser.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_fetcher.h"
 
 #include <optional>

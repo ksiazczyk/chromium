@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy browser controls adapter implementation
+// summary: Implements a BrowserControlsAdapter that records toolbar commands, URLs and navigation texts issued through the toy browser during tests.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/testing/toy_browser.h"
 
 #include "chrome/browser/ui/webui/webui_toolbar/adapters/browser_controls_adapter.h"

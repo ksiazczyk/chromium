@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfilePreloadCandidateSelector implementation
+// summary: Implements selection of the preloadable top chrome WebUI URL with the highest site engagement score that is not already present under a profile.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/profile_preload_candidate_selector.h"
 
 #include <vector>

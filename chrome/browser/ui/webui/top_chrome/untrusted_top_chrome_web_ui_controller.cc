@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UntrustedTopChromeWebUIController implementation
+// summary: Implements the untrusted top-chrome WebUI controller that strips WebUI bindings and reports an untrusted trust policy.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/untrusted_top_chrome_web_ui_controller.h"
 
 #include "content/public/browser/web_ui.h"

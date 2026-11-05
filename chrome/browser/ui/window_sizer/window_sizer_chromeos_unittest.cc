@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS window sizer unit tests
+// summary: Unit tests for ChromeOS window sizing behavior using fake browser windows, test state providers, and Ash test infrastructure.
+// ---
+
 #include "chrome/browser/ui/window_sizer/window_sizer_chromeos.h"
 
 #include <memory>

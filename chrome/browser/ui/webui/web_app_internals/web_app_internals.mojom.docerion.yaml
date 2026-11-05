@@ -1,0 +1,4 @@
+# Docerion header of web_app_internals.mojom.
+type: source
+title: Web App internals Mojo interface definitions
+summary: Defines Mojo interfaces for a factory that creates the Web App internals page handler and for fetching web app debug information as a JSON string.

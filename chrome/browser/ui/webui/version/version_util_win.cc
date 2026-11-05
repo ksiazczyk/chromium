@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows version utilities for the version page
+// summary: Maps Windows OS version numbers to marketing names like 10, 11, Vista or Server editions and formats the update cohort string.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_util_win.h"
 
 #include "base/strings/stringprintf.h"

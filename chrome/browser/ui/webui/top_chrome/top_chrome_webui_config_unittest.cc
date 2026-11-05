@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopChromeWebUIConfig unit tests
+// summary: Unit tests verifying that TopChromeWebUIConfig is only resolvable for top-chrome WebUIs and that the default config creates controllers.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/top_chrome_webui_config.h"
 
 #include "chrome/browser/ui/webui/top_chrome/top_chrome_web_ui_controller.h"

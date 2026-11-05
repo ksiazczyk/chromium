@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ChromeOS window sizer files
+summary: Sets jamescook@chromium.org as the per-file owner for ChromeOS window sizer files.

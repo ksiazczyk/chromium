@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image data URI helpers implementation
+// summary: Implements webui helpers that build base64 data URIs from image bytes and encode an ImageSkia bitmap as a PNG data URI.
+// ---
+
 #include "chrome/browser/ui/webui/util/image_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbInternalsPageHandler implementation
+// summary: Implements the page handler by forwarding USB device manager and test interface binding requests to the browser's DeviceService.
+// ---
+
 #include "chrome/browser/ui/webui/usb_internals/usb_internals_page_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access context implementation for WebUI browser
+// summary: Implements fullscreen entry and exit plus exclusive access bubble management for WebUI browser windows.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_exclusive_access_context.h"
 
 #include "base/notimplemented.h"

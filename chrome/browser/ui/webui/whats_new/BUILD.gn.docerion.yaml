@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: What's New WebUI build configuration
+summary: Defines GN build targets for the What's New WebUI, including Mojo bindings, source sets, and unit and browser test targets.

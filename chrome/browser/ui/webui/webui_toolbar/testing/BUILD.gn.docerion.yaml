@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebUI toolbar testing
+summary: GN build file defining a testonly source set that compiles the toy browser test helper sources with their dependencies.

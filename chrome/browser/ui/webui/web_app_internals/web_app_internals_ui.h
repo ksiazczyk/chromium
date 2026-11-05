@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App internals WebUI controller header
+// summary: Declares the WebUI controller and its configuration for the Web App internals debug page, including Mojo interface binding and test-only handler access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEB_APP_INTERNALS_WEB_APP_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_WEB_APP_INTERNALS_WEB_APP_INTERNALS_UI_H_
 

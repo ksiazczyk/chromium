@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar test utilities implementation
+// summary: Implements mock toolbar observers and service delegates plus a helper that builds a valid ToolbarState Mojo struct for use in WebUI toolbar tests.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_test_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tracked element browser tests
+summary: GN build file defining a test-only browser_tests source set that compiles tracked_element_manager_browsertest.cc with interaction and test support dependencies.

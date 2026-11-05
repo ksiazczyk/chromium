@@ -1,0 +1,4 @@
+# Docerion header of run.sh.
+type: script
+title: Run Chrome with WebUI top-chrome flags
+summary: Launches a given Chrome binary with the enabled features and parameters produced by enabled.sh.

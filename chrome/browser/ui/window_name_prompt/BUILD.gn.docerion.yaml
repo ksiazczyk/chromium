@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for window_name_prompt
+summary: Defines the GN source sets for the window name prompt dialog and its browser tests, along with their build dependencies.

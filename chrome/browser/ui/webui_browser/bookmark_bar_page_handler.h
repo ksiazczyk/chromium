@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the WebUI bookmark bar page handler
+// summary: Declares the Mojo page handler class that exposes bookmark bar state and model updates to the WebUI page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_BOOKMARK_BAR_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_BOOKMARK_BAR_PAGE_HANDLER_H_
 

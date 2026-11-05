@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerProfileWebUITracker interface
+// summary: Declares an API to track WebUIs per profile and query whether a profile has a WebUI of a given URL, including background preloaded ones.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_PER_PROFILE_WEBUI_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_PER_PROFILE_WEBUI_TRACKER_H_
 

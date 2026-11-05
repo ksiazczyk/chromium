@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowFeatureController unit tests
+// summary: Unit tests using a mock browser window interface to verify feature support and can-support behavior for normal, popup, app, and other browser types, including fullscreen cases.
+// ---
+
 #include "chrome/browser/ui/window_feature_controller/window_feature_controller.h"
 
 #include <memory>

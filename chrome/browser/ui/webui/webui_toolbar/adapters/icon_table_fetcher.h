@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon table fetcher interface
+// summary: Declares the IconTableFetcher adapter interface for retrieving the full icon table state and taking pending icon updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_ICON_TABLE_FETCHER_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_ICON_TABLE_FETCHER_H_
 

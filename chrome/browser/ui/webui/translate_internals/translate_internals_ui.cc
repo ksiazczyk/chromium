@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate internals UI controller implementation
+// summary: Implements the WebUI controller for the translate-internals page, adding the message handler and creating the HTML data source with localized language strings and the detection model version.
+// ---
+
 #include "chrome/browser/ui/webui/translate_internals/translate_internals_ui.h"
 
 #include <memory>

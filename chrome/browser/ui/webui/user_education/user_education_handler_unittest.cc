@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the user education handler
+// summary: Unit tests exercising the handler base against mocked registries, controllers, trackers, and user education interfaces.
+// ---
+
 #include "chrome/browser/ui/webui/user_education/user_education_handler.h"
 
 #include <memory>

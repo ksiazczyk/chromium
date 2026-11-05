@@ -1,0 +1,4 @@
+# Docerion header of updater_ui.mojom.
+type: source
+title: Updater UI Mojo interface definitions
+summary: Defines the Mojo interfaces and structs for the updater WebUI, covering updater states, app states, and history file unzipping.

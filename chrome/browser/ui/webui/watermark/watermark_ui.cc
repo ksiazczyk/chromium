@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark WebUI controller implementation
+// summary: Implements the WebUI controller for the watermark page, setting up its data source, resources and Mojo page handler, gated by a feature flag.
+// ---
+
 #include "chrome/browser/ui/webui/watermark/watermark_ui.h"
 
 #include "base/feature_list.h"

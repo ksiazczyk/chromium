@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracked element manager browser test
+// summary: Interactive browser tests that navigate to the user education internals WebUI and verify tracked element identification, bounds, and web contents dumping.
+// ---
+
 #include <set>
 #include <string>
 #include <string_view>

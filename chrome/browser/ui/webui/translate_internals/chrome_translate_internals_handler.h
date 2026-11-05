@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome translate internals handler header
+// summary: Declares the Chrome-specific WebUI message handler for the translate-internals page, including its overrides for message registration, JavaScript calls, and language detection handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TRANSLATE_INTERNALS_CHROME_TRANSLATE_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_TRANSLATE_INTERNALS_CHROME_TRANSLATE_INTERNALS_HANDLER_H_
 

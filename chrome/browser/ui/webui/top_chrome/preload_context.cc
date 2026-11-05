@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadContext implementation
+// summary: Implements PreloadContext, a variant wrapper that stores either a browser window interface or a profile as the context for preloading decisions.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/preload_context.h"
 
 #include <variant>

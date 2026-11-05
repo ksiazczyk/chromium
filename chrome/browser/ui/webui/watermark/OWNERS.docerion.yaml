@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Watermark OWNERS file
+summary: Delegates ownership to the enterprise watermark teams and routes Mojom file changes to security owners.

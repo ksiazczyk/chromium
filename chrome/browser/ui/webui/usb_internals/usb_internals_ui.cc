@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB internals WebUI controller implementation
+// summary: Implements the WebUI controller that creates and configures the data source for the USB internals page and binds its page handler.
+// ---
+
 #include "chrome/browser/ui/webui/usb_internals/usb_internals_ui.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of browser.mojom.
+type: source
+title: Mojo interfaces for the WebUI browser page
+summary: Defines Mojo interfaces for window controls, side panel, guest contents navigation and browser UI requests.

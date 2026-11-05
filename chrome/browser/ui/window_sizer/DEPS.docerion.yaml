@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ChromeOS tests
+summary: Grants ChromeOS window sizer test files permission to include headers from the ash dependency.

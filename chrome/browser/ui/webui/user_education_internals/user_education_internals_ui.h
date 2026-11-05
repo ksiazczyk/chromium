@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education internals WebUI controller header
+// summary: Declares the UserEducationInternalsUI controller and its WebUI config, including help bubble and mixed-trust handler factory bindings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_USER_EDUCATION_INTERNALS_USER_EDUCATION_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_USER_EDUCATION_INTERNALS_USER_EDUCATION_INTERNALS_UI_H_
 

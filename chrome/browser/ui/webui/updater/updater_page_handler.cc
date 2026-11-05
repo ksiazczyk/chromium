@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater page handler implementation
+// summary: Implements the WebUI page handler that queries system and user updater state, policies and app states, and exposes updater commands and unzip services to the front end.
+// ---
+
 #include "chrome/browser/ui/webui/updater/updater_page_handler.h"
 
 #include <algorithm>

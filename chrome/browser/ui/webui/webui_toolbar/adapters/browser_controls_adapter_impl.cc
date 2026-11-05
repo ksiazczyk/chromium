@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop implementation of the browser controls adapter
+// summary: Implements the desktop adapter by executing browser commands, handling navigation and split tabs, and applying drag-origin security checks on dropped URLs.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/adapters/browser_controls_adapter_impl.h"
 
 #include "base/check_deref.h"

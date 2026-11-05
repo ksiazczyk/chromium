@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN internals WebUI controller header
+// summary: Declares the WebNNInternalsUI Mojo WebUI controller and its WebUIConfig, along with the page handler factory interface bindings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBNN_INTERNALS_WEBNN_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBNN_INTERNALS_WEBNN_INTERNALS_UI_H_
 

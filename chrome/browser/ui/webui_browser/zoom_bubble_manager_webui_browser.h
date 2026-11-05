@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser zoom bubble manager header
+// summary: Declares the ZoomBubbleManager implementation that connects the zoom bubble to WebUIBrowserWindow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_ZOOM_BUBBLE_MANAGER_WEBUI_BROWSER_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_ZOOM_BUBBLE_MANAGER_WEBUI_BROWSER_H_
 

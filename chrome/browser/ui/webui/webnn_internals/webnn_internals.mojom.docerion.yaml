@@ -1,0 +1,4 @@
+# Docerion header of webnn_internals.mojom.
+type: source
+title: WebNN internals Mojo interfaces
+summary: Defines the PageHandler, Page and PageHandlerFactory Mojo interfaces used by the WebNN internals WebUI.

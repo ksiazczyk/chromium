@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App internals page handler implementation
+// summary: Implements the Web App internals page handler, assembling debug information about installed web apps, preferences, isolated web apps, logs, and platform-specific state.
+// ---
+
 #include "chrome/browser/ui/webui/web_app_internals/web_app_internals_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIContentsWarmupLevelRecorder implementation
+// summary: Determines the warmup level reached when WebUI contents are created by comparing pre-creation state such as spare processes and preloaded contents.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_warmup_level_recorder.h"
 
 #include <algorithm>

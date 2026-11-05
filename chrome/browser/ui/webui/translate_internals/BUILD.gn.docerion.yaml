@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for translate_internals
+summary: Defines the translate_internals source set with its sources, public headers and GN dependencies.

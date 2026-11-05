@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarUIService unit tests
+// summary: Unit tests for ToolbarUIService that exercise binding, toolbar state and icon updates, observer notifications and metrics marks using faked fetchers and a mock metrics reporter.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/toolbar_ui_service.h"
 
 #include <memory>

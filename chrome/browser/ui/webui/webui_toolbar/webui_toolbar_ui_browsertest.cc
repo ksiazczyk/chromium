@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar browser tests
+// summary: In-process browser tests exercising the WebUI toolbar's Mojo service connections, observer updates, and theme color handling via mock helpers.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_ui.h"
 
 #include <memory>

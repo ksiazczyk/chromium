@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared declarations for window sizer unit tests
+// summary: Declares standard monitor and taskbar bounds constants, the TestStateProvider fake and the WindowSizerTestUtil builder for window sizer tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_COMMON_UNITTEST_H_
 #define CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_COMMON_UNITTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the WebUI bookmark bar page handler
+// summary: Implements the browser-side Mojo handler that serves bookmark data and observes bookmark model changes.
+// ---
+
 #include "chrome/browser/ui/webui_browser/bookmark_bar_page_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New page handler implementation
+// summary: Implements the browser-side Mojo handler for the What's New page, recording user metrics and actions, resolving the server URL, and triggering HaTS surveys.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_handler.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop WebUI utility unit tests
+// summary: Unit tests verifying that AppendWebUIResourceURLToCodeCachePairs builds correct URL and resource ID pairs and handles empty input.
+// ---
+
 #include "chrome/browser/ui/webui/util/webui_util_desktop.h"
 
 #include <algorithm>

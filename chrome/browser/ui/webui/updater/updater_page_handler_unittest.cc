@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater page handler unit tests
+// summary: Unit tests the updater page handler with a mock delegate to verify state reporting, filter metrics, and history file unzipping.
+// ---
+
 #include "chrome/browser/ui/webui/updater/updater_page_handler.h"
 
 #include <memory>

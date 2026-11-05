@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser client view implementation
+// summary: Implements the WebUI browser client view with draggable region hit testing and repositioning of permission dialogs when the location icon moves.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_client_view.h"
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

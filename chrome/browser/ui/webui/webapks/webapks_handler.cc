@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApksHandler implementation
+// summary: Implements the WebUI message handler that returns details about installed WebAPKs to the page's JavaScript and forces update requests for selected WebAPKs.
+// ---
+
 #include "chrome/browser/ui/webui/webapks/webapks_handler.h"
 
 #include <string>

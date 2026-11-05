@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN internals WebUI controller implementation
+// summary: Implements the WebNNInternalsUI controller that registers the WebUI data source for the WebNN internals page and binds its Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/webnn_internals/webnn_internals_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

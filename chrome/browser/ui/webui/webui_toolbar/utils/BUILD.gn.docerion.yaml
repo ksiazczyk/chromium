@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI toolbar utils build definition
+summary: GN build file defining the utils source set with split tabs and toolbar button helpers and their dependencies.

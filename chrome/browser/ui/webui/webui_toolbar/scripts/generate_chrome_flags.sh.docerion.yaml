@@ -1,0 +1,4 @@
+# Docerion header of generate_chrome_flags.sh.
+type: script
+title: Generate C++ flag list for about_flags.cc
+summary: Prints a sorted, quoted multi-line flag list in C++ format to paste into chrome/browser/about_flags.cc.

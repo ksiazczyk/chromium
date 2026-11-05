@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopChromeWebUIController implementation
+// summary: Implements the base WebUI controller for top chrome surfaces, locking zoom to 100% and reporting a UI element display disposition.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/top_chrome_web_ui_controller.h"
 
 #include "components/zoom/zoom_controller.h"

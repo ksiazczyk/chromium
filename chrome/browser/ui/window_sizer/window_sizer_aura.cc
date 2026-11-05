@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura WindowSizer constants
+// summary: Defines Aura-specific window tiling constants and a stub default popup origin for WindowSizer.
+// ---
+
 #include "chrome/browser/ui/window_sizer/window_sizer.h"
 
 // This doesn't matter for aura, which has different tiling.

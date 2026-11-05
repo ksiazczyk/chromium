@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark WebUI controller header
+// summary: Declares the watermark WebUI controller and its configuration class, including Mojo interface binding and a test accessor for the page handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WATERMARK_WATERMARK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_WATERMARK_WATERMARK_UI_H_
 

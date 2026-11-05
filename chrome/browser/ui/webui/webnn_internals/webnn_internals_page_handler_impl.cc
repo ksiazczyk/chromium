@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN internals page handler implementation
+// summary: Implements the Mojo page handler, forwarding WebNN context and execution provider details to the WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/webnn_internals/webnn_internals_page_handler_impl.h"
 
 #include "mojo/public/cpp/bindings/callback_helpers.h"

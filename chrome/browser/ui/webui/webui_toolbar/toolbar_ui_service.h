@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarUIService class declaration
+// summary: Declares the ToolbarUIService Mojo service and its delegate interface covering context menus, page actions, pinned toolbar actions, extension moves and left-hand chip interactions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_TOOLBAR_UI_SERVICE_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_TOOLBAR_UI_SERVICE_H_
 

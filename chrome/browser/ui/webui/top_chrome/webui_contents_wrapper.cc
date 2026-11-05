@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIContentsWrapper implementation
+// summary: Implements the wrapper around a WebContents hosting a top chrome WebUI, handling keyboard events, auto-resize, context menus and preload requests.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_wrapper.h"
 
 #include "base/debug/crash_logging.h"

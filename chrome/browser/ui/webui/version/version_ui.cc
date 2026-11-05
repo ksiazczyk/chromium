@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version WebUI data source setup
+// summary: Creates and configures the version WebUI data source, registering localized strings, resources and platform-specific handlers that back the browser's version page.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_ui.h"
 
 #include <memory>

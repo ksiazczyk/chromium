@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button utilities implementation
+// summary: Defines WebUI toolbar element identifiers and conversions between pinned toolbar and page actions and their mojo enum values.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/utils/toolbar_button_utils.h"
 
 #include <array>

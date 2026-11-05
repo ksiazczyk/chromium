@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewInteractionData header
+// summary: Declares the WebContentsUserData class that tracks scroll depth and shown modules for What's New interaction metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WHATS_NEW_WHATS_NEW_INTERACTION_DATA_H_
 #define CHROME_BROWSER_UI_WEBUI_WHATS_NEW_WHATS_NEW_INTERACTION_DATA_H_
 

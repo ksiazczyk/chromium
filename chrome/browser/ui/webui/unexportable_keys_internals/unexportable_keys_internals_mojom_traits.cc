@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for UnexportableSigningKeyId implementation
+// summary: Implements the Mojo StructTraits that convert UnexportableSigningKeyId between its native and Mojom representations.
+// ---
+
 #include "chrome/browser/ui/webui/unexportable_keys_internals/unexportable_keys_internals_mojom_traits.h"
 
 #include "base/unguessable_token.h"

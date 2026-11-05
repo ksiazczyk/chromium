@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common unit test utilities for the window sizer
+// summary: Implements TestStateProvider, a fake TestScreen and the WindowSizerTestUtil builder used by window sizer unit tests across platforms.
+// ---
+
 #include "chrome/browser/ui/window_sizer/window_sizer_common_unittest.h"
 
 #include <stddef.h>

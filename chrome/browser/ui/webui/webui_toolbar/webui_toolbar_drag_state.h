@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIToolbarDragState class declaration
+// summary: 'Declares WebUIToolbarDragState, a WebContentsUserData holding flags for whether a drag originated from the renderer and whether its URL used a javascript: scheme.'
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_WEBUI_TOOLBAR_DRAG_STATE_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_WEBUI_TOOLBAR_DRAG_STATE_H_
 

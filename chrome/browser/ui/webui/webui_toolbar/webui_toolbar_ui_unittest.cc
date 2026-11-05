@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar config unit tests
+// summary: Unit tests checking that WebUIToolbarUIConfig enables the WebUI depending on feature flags such as kWebUIReloadButton and kWebUISplitTabsButton.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_ui.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI stub location bar implementation
+// summary: Implements a stub LocationBar for the WebUI browser that leaves omnibox behavior unimplemented while supporting the permission dashboard and chip anchoring.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_stub_location_bar.h"
 
 #include "base/notimplemented.h"

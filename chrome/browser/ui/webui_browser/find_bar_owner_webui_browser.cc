@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find bar owner implementation for WebUI browser windows
+// summary: Implements FindBarOwnerWebUIBrowser, supplying find bar bounding and clipping boxes, anchoring, accessible titles and overlapping bubble handling for WebUI browser windows.
+// ---
+
 #include "chrome/browser/ui/webui_browser/find_bar_owner_webui_browser.h"
 
 #include "chrome/browser/profiles/profile.h"

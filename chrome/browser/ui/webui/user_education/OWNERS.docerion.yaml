@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for user education WebUI
+summary: Lists the owners of this folder and delegates reviews of .mojom files to the security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowSizer implementation
+// summary: Implements WindowSizer logic that derives browser window bounds and show state from persisted preferences and the last active window.
+// ---
+
 #include "chrome/browser/ui/window_sizer/window_sizer.h"
 
 #include <algorithm>

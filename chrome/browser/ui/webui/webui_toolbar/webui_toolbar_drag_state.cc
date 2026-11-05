@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIToolbarDragState implementation
+// summary: Implements per-WebContents drag state helpers that read and clear the renderer-tainted drag and JavaScript URL flags so they do not leak into later non-drag navigations.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_drag_state.h"
 
 namespace webui_toolbar {

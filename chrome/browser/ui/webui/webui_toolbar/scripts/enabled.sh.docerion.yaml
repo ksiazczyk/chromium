@@ -1,0 +1,4 @@
+# Docerion header of enabled.sh.
+type: script
+title: WebUI top-chrome enabled features and parameters
+summary: Outputs the enabled features and parameters needed to run Chrome with the WebUI top chrome enabled.

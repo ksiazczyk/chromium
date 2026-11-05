@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowSizerChromeOS class header
+// summary: Declares the WindowSizerChromeOS subclass with ChromeOS default window bounds and placement behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_CHROMEOS_H_
 

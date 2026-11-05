@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApksUI controller declaration
+// summary: Declares the WebApksUI WebUI controller and its configuration class that bind the controller to the internal WebAPKs page host.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBAPKS_WEBAPKS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBAPKS_WEBAPKS_UI_H_
 
