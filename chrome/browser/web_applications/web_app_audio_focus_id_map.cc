@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app audio focus ID map implementation
+// summary: Implements a map that creates or returns a stable unguessable audio focus group ID for each web app.
+// ---
+
 #include "chrome/browser/web_applications/web_app_audio_focus_id_map.h"
 
 #include "base/unguessable_token.h"

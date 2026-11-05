@@ -1,0 +1,4 @@
+# Docerion header of chrome_pwa_launcher.ver.
+type: config
+title: Version resource values for chrome_pwa_launcher
+summary: Supplies the internal name and original filename used when generating the launcher's version resource.

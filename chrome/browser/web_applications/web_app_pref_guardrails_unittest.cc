@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app pref guardrails unit tests
+// summary: Unit tests covering recording of ignored and dismissed prompts and the resulting guardrail blocking behavior for web app preference state.
+// ---
+
 #include "chrome/browser/web_applications/web_app_pref_guardrails.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app scope implementation
+// summary: Implements WebAppScope logic that decides whether a URL is in scope of a web app and scores matching apps, including scope extensions.
+// ---
+
 #include "chrome/browser/web_applications/web_app_scope.h"
 
 #include "base/check.h"

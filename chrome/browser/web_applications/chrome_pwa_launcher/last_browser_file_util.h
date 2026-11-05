@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last Browser file utilities header
+// summary: Declares functions for reading and writing the Last Browser file so PWA launchers can locate the chrome.exe matching their User Data directory.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_LAST_BROWSER_FILE_UTIL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_LAST_BROWSER_FILE_UTIL_H_
 

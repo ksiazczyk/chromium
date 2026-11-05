@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External install options unit tests
+// summary: Unit tests verifying round-trip conversion between ExternalInstallOptions and WebAppInstallParams for default and customized values.
+// ---
+
 #include "chrome/browser/web_applications/external_install_options.h"
 
 #include <string>

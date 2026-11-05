@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Factory Interface
+// summary: Declares abstract and profile-backed factory classes that provide sync data type stores for the web app database, with support for fake implementations in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_FACTORY_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_FACTORY_H_
 

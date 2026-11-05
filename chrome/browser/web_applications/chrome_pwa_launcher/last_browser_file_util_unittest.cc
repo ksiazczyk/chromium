@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Last Browser file utilities unit tests
+// summary: Unit tests verifying that the Last Browser file stores the current executable path and that the web app directory hierarchy matches the code's assumptions.
+// ---
+
 #include "chrome/browser/web_applications/chrome_pwa_launcher/last_browser_file_util.h"
 
 #include "base/base_paths.h"

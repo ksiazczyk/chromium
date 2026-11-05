@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Launch Params Holder Interface
+// summary: Declares a backend interface for tracking active web app launch navigation parameters, decoupling core objects from UI-layer classes.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LAUNCH_PARAMS_HOLDER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LAUNCH_PARAMS_HOLDER_H_
 

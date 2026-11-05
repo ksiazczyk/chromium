@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app screenshot fetcher interface
+// summary: Interface for asynchronously fetching web app screenshots so callers such as the install dialog are not blocked while downloads happen.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_SCREENSHOT_FETCHER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_SCREENSHOT_FETCHER_H_
 

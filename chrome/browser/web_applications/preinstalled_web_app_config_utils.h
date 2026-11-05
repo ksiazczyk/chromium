@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled Web App Config Utils
+// summary: Declares helpers that locate the directories holding preinstalled web app configs from the command line, with test overrides for the config directory.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APP_CONFIG_UTILS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APP_CONFIG_UTILS_H_
 

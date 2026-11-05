@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled Web App Utils Unit Tests
+// summary: Unit tests for parsing preinstalled app configs and offline manifests, and for tablet, ARC, and stylus touchscreen conditions on Chrome OS.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_utils.h"
 
 #include <variant>

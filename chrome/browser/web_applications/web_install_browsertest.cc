@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Install API Browser Tests
+// summary: Browser tests for the Web Install API, checking install results, UMA and UKM metrics, install dialogs, and policy behavior across platforms.
+// ---
+
 #include <string_view>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Constants Implementation
+// summary: Defines string constants and stream output operators for run-on-OS-login modes and API approval states.
+// ---
+
 #include "chrome/browser/web_applications/web_app_constants.h"
 
 #include <ostream>

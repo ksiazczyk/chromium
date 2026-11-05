@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing metrics enums
+// summary: Defines enums recording navigation capturing outcomes before and after redirection, kept in sync with the webapps histograms metadata.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_METRICS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_METRICS_H_
 

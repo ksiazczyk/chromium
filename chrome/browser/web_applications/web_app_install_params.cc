@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Params Implementation
+// summary: Implements WebAppInstallParams constructors and adapts installation acceptance callbacks to launch or reparent on success
+// ---
+
 #include "chrome/browser/web_applications/web_app_install_params.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app profile deletion manager
+// summary: Declares a ProfileManagerObserver that shuts down the web app command system and removes OS integration when its profile is deleted.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_PROFILE_DELETION_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_PROFILE_DELETION_MANAGER_H_
 

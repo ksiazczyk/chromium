@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app utilities implementation
+// summary: Implements shared web app utility functions such as profile enablement checks, install policy lookups and web app storage directory paths.
+// ---
+
 #include "chrome/browser/web_applications/web_app_utils.h"
 
 #include <algorithm>

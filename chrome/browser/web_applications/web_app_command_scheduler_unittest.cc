@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Command Scheduler Unit Tests
+// summary: Unit tests verifying that scheduled commands queue correctly, persist file handler choices, and wait for provider startup.
+// ---
+
 #include "chrome/browser/web_applications/web_app_command_scheduler.h"
 
 #include "base/functional/callback_helpers.h"

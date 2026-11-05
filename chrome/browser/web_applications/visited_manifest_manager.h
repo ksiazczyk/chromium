@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited manifest manager header
+// summary: Declares a manager that tracks recently seen manifest scopes with LRU eviction and supports clearing entries by time range.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_VISITED_MANIFEST_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_VISITED_MANIFEST_MANAGER_H_
 

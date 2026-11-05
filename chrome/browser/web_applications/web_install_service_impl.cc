@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Install Service Implementation
+// summary: Implements the browser side of the Blink Web Install API, installing the current document or a background app fetched from its manifest.
+// ---
+
 #include "chrome/browser/web_applications/web_install_service_impl.h"
 
 #include <algorithm>

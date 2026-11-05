@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled app install features
+// summary: Defines feature flags and helpers gating installation of preinstalled web apps such as the calculator, Messages, and Gemini apps.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_app_install_features.h"
 
 #include <string>

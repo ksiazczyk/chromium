@@ -1,3 +1,13 @@
+---
+type: readme
+title: Desktop Web Applications agent guidance
+summary: Agent-facing guide to the desktop PWA backend covering canonical docs, layering invariants, command scheduling and locking rules, and testing guardrails.
+relations:
+  - references /chrome/browser/web_applications/SECURITY.md
+  - references /chrome/browser/web_applications/commands/README.md
+  - references /chrome/browser/web_applications/docs/testing.md
+---
+
 # Desktop Web Applications (`chrome/browser/web_applications`)
 
 **Parent:** [WebApps Central Hub](/components/webapps/AGENTS.md)

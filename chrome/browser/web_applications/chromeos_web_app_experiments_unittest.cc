@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS web app experiments unit test
+// summary: Unit tests validating the default Microsoft 365 scope extension URLs and wildcard domains returned by ChromeOsWebAppExperiments.
+// ---
+
 #include "chrome/browser/web_applications/chromeos_web_app_experiments.h"
 
 #include <string_view>

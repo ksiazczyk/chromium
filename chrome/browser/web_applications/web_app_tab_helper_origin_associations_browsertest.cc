@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab helper origin association browser tests
+// summary: Browser tests validating navigation capturing and origin association revalidation behavior for tabs controlled by web apps.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

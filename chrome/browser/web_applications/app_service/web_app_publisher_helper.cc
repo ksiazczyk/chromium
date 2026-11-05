@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app publisher helper implementation
+// summary: Implements WebAppPublisherHelper, which publishes web app state, icons, intents and launch and uninstall commands to the App Service.
+// ---
+
 #include "chrome/browser/web_applications/app_service/web_app_publisher_helper.h"
 
 #include <stddef.h>

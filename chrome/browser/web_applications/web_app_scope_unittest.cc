@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app scope unit tests
+// summary: Unit tests verifying web app scope membership checks, including subdirectory scopes, query and fragment handling, and scope extensions.
+// ---
+
 #include "chrome/browser/web_applications/web_app_scope.h"
 
 #include "base/functional/bind.h"

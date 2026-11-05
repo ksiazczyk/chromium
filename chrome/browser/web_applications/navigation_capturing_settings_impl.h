@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop navigation capturing settings declaration
+// summary: Declares the desktop implementation of navigation capturing settings that queries the WebAppRegistrar for the app capturing a URL.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_SETTINGS_IMPL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_SETTINGS_IMPL_H_
 

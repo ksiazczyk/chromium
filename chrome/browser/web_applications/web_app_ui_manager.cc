@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app UI manager implementation
+// summary: Implements WebAppUiManager basics, including building app launch parameters from the command line, protocol handlers and launch files, plus observer notifications.
+// ---
+
 #include "chrome/browser/web_applications/web_app_ui_manager.h"
 
 #include "base/feature_list.h"

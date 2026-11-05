@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL pattern with regex matcher unit tests
+// summary: Unit tests covering URL matching for protocol, hostname, port, pathname, and search fields of the UrlPatternWithRegexMatcher class.
+// ---
+
 #include "chrome/browser/web_applications/url_pattern_with_regex_matcher.h"
 
 #include "base/types/expected.h"

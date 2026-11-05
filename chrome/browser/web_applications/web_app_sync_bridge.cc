@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app sync bridge implementation
+// summary: Implements the unified sync and storage controller that persists web app registry updates and applies incoming sync entity changes.
+// ---
+
 #include "chrome/browser/web_applications/web_app_sync_bridge.h"
 
 #include <functional>

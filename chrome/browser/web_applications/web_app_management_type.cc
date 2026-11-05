@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app management type implementation
+// summary: Implements helpers for WebAppManagement types, including user-uninstallability sets, IWA type checks, and debug output.
+// ---
+
 #include "chrome/browser/web_applications/web_app_management_type.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled Web App Utils Implementation
+// summary: Implements parsing of preinstalled app config keys and offline manifests, plus migration state tracking and stylus touchscreen device checks.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_utils.h"
 
 #include <memory>

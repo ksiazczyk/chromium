@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop navigation capturing settings implementation
+// summary: Implements the default settings lookup, returning the isolated web app or link-capturing app in scope for a URL via the WebAppRegistrar.
+// ---
+
 #include "chrome/browser/web_applications/navigation_capturing_settings_impl.h"
 
 #include "chrome/browser/web_applications/navigation_capturing_settings.h"

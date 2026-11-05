@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app model implementation
+// summary: Implements the WebApp class that represents an installed web app, including manifest-derived settings, sync data conversion, and debug value serialization.
+// ---
+
 #include "chrome/browser/web_applications/web_app.h"
 
 #include <array>

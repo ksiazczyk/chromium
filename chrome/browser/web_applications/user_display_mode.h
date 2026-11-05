@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User display mode header
+// summary: Declares conversion and platform-specific helpers for the web app user display mode stored in sync protobufs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_USER_DISPLAY_MODE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_USER_DISPLAY_MODE_H_
 

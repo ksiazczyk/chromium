@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app provider factory implementation
+// summary: Implements the BrowserContextKeyedServiceFactory that builds WebAppProvider instances per profile, declares service dependencies and registers related profile preferences.
+// ---
+
 #include "chrome/browser/web_applications/web_app_provider_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

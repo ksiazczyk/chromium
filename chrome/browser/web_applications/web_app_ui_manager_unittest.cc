@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app UI manager unit tests
+// summary: Unit tests validating creation of web app launch parameters across display modes, command line switches, launch files and protocol handler URLs.
+// ---
+
 #include "chrome/browser/web_applications/web_app_ui_manager.h"
 
 #include <optional>

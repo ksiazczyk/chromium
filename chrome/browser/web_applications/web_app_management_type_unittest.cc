@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app management type unit tests
+// summary: Unit test verifying that WebAppManagementTypes iterates in the priority order declared by the enum.
+// ---
+
 #include "chrome/browser/web_applications/web_app_management_type.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

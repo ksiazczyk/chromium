@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Implementation
+// summary: Implements persistence of web app registry data to the sync data type store, including corruption checks and logging.
+// ---
+
 #include "chrome/browser/web_applications/web_app_database.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Helpers
+// summary: Provides helpers for generating app IDs and manifest IDs from URLs and manifests, mapping application names, and finding installed apps with a URL in scope.
+// ---
+
 #include "chrome/browser/web_applications/web_app_helpers.h"
 
 #include "base/strings/strcat.h"

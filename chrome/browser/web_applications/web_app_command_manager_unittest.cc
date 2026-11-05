@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Command Manager Unit Tests
+// summary: Unit tests covering command scheduling, lock-based ordering, completion, and shutdown behavior of the web app command manager.
+// ---
+
 #include "chrome/browser/web_applications/web_app_command_manager.h"
 
 #include <iterator>

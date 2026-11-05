@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Externally managed app manager browser tests
+// summary: Browser tests covering externally managed web app installation, updates, uninstalls and related Chrome OS notification behavior.
+// ---
+
 #include "chrome/browser/web_applications/externally_managed_app_manager.h"
 
 #include <memory>

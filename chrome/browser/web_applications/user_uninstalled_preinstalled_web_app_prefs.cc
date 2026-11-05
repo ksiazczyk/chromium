@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User uninstalled preinstalled web app prefs implementation
+// summary: Implements preferences that record which preinstalled web apps the user uninstalled, so they stay uninstalled on startup.
+// ---
+
 #include "chrome/browser/web_applications/user_uninstalled_preinstalled_web_app_prefs.h"
 
 #include <string>

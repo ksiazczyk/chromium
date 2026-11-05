@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing browser test base header
+// summary: Declares the base class providing shared helpers for web app navigation capturing browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_NAVIGATION_CAPTURING_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_NAVIGATION_CAPTURING_BROWSERTEST_BASE_H_
 

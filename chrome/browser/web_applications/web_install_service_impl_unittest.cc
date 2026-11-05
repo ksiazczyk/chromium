@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Install Service Unit Tests
+// summary: Unit tests for the Web Install service, verifying result codes, UKM and UMA metrics, permission handling, and install element flows.
+// ---
+
 #include "chrome/browser/web_applications/web_install_service_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Apps Browser Tests
+// summary: Browser tests checking web app launches with share intents and file-based share targets through the App Service.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"

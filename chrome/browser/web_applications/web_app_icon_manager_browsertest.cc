@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Icon Manager Browser Tests
+// summary: Browser tests exercising web app icon management by installing apps with single and multiple icons and verifying icon behavior in a live browser.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/bind.h"
 #include "build/build_config.h"

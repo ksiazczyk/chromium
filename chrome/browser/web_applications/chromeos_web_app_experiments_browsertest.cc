@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS web app experiments browser test
+// summary: Browser tests covering ChromeOS web app experiments, including scope extensions, navigation capturing, and app window activation behavior.
+// ---
+
 #include "chrome/browser/web_applications/chromeos_web_app_experiments.h"
 
 #include <string>

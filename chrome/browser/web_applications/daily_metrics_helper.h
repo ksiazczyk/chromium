@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daily web app metrics helper interface
+// summary: Declares the DailyInteraction record and functions to flush, store and register profile prefs for daily web app UKM metrics.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_DAILY_METRICS_HELPER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_DAILY_METRICS_HELPER_H_
 

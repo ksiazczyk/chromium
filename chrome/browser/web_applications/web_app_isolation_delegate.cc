@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Isolation Delegate Implementation
+// summary: Implements factory registration and creation of the web app isolation delegate used by the WebAppProvider.
+// ---
+
 #include "chrome/browser/web_applications/web_app_isolation_delegate.h"
 
 #include "base/no_destructor.h"

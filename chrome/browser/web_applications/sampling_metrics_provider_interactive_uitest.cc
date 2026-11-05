@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampling metrics provider interactive UI tests
+// summary: Interactive UI tests verifying UKM daily interaction entries and active web app count histograms emitted by the sampling metrics provider.
+// ---
+
 #include "chrome/browser/web_applications/sampling_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

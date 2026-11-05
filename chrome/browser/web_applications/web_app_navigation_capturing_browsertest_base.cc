@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing browser test base implementation
+// summary: Implements shared helpers for navigation capturing browser tests, such as window.open calls and waiting for launch params.
+// ---
+
 #include "chrome/browser/web_applications/web_app_navigation_capturing_browsertest_base.h"
 
 #include <utility>

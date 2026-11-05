@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA launcher update header
+// summary: Declares UpdatePwaLaunchers, which updates launchers to the latest version and marks old copies with an _old suffix for later deletion.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_LAUNCHER_UPDATE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_LAUNCHER_UPDATE_H_
 

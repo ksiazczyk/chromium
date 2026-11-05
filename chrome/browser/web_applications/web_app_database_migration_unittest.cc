@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Database Migration Unit Tests
+// summary: Unit tests verifying migration of web app database protobuf entries, such as shortcut apps without scope becoming DIY apps, and consistency with registrar state.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/web_applications/model/display_override.h"

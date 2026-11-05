@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Manager Implementation
+// summary: Implements the install manager that notifies observers of web app install, uninstall, update, and migration events
+// ---
+
 #include "chrome/browser/web_applications/web_app_install_manager.h"
 
 #include <iterator>

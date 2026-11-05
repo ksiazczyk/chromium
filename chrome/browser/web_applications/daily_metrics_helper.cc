@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daily web app metrics helper implementation
+// summary: Implements UKM recording of daily web app interactions, including bucketed foreground and background usage durations and per-origin record storage.
+// ---
+
 #include "chrome/browser/web_applications/daily_metrics_helper.h"
 
 #include <stdint.h>

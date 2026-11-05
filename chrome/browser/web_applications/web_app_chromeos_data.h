@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app ChromeOS data declaration
+// summary: Declares the WebAppChromeOsData struct holding ChromeOS display, disablement, and OEM installation flags for web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_CHROMEOS_DATA_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_CHROMEOS_DATA_H_
 

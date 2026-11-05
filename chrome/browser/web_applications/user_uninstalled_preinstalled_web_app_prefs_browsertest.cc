@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User uninstalled preinstalled web app prefs browser tests
+// summary: Browser tests verifying add, lookup, and removal operations of the user uninstalled preinstalled web app preferences.
+// ---
+
 #include "chrome/browser/web_applications/user_uninstalled_preinstalled_web_app_prefs.h"
 
 #include <memory>

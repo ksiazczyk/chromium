@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin association manager
+// summary: Declares WebAppOriginAssociationManager, which fetches, parses and validates web app origin association files to resolve scope extensions for installed web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ORIGIN_ASSOCIATION_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ORIGIN_ASSOCIATION_MANAGER_H_
 

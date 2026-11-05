@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome_pwa_launcher
+summary: Declares that the chrome_pwa_launcher directory targets the Windows OS.

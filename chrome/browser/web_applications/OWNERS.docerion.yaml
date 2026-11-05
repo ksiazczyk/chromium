@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for web_applications
+summary: Lists code owners and per-file ownership rules, routing reviews to the webapps review alias for load balancing.

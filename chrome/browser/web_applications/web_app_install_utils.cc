@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Utilities Implementation
+// summary: Converts manifest and fallback data into WebAppInstallInfo, including icon processing and OS integration options, for installs
+// ---
+
 #include "chrome/browser/web_applications/web_app_install_utils.h"
 
 #include <algorithm>

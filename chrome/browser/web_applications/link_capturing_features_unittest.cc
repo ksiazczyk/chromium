@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing features unit tests
+// summary: Unit tests verifying navigation capturing default state behavior across testing override values and combinations with the main feature flag.
+// ---
+
 #include "chrome/browser/web_applications/link_capturing_features.h"
 
 #include "base/test/scoped_feature_list.h"

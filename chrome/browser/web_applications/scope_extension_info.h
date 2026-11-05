@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scope extension info struct
+// summary: Declares the ScopeExtensionInfo struct holding a web app's scope extension origin, scope URL, and origin wildcard flag from its manifest.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCOPE_EXTENSION_INFO_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCOPE_EXTENSION_INFO_H_
 

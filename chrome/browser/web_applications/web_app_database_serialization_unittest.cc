@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Database Serialization Unit Tests
+// summary: Unit tests checking round-trip consistency of web app proto serialization and deserialization, using randomly generated apps and invalid proto cases.
+// ---
+
 #include "chrome/browser/web_applications/web_app_database_serialization.h"
 
 #include <memory>

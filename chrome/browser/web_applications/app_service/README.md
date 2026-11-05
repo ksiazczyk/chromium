@@ -1,3 +1,13 @@
+---
+type: readme
+title: 'Publisher: App Service publishers for web apps'
+summary: Explains that the directory holds App Service publisher classes for web apps and how WebAppPublisherHelper forwards registry updates to publishers.
+relations:
+  - documents /chrome/browser/web_applications/app_service/web_app_publisher_helper.h
+  - documents /chrome/browser/web_applications/app_service/web_apps.h
+  - references /components/services/app_service/public/cpp/app_update.h
+---
+
 # Publisher
 
 This directory contains the App Service publisher classes for web apps (Desktop PWAs and shortcut apps).

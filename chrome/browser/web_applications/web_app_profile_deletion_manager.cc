@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app profile deletion manager implementation
+// summary: Implements shutdown of the web app command system and removal of OS integration when a profile is marked for permanent deletion.
+// ---
+
 #include "chrome/browser/web_applications/web_app_profile_deletion_manager.h"
 
 #include "base/scoped_observation.h"

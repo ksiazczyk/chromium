@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app registrar implementation
+// summary: Implements the web app registry, providing app lookups, install state, navigation capturing settings, scope handling and observer notifications for installed web apps.
+// ---
+
 #include "chrome/browser/web_applications/web_app_registrar.h"
 
 #include <algorithm>

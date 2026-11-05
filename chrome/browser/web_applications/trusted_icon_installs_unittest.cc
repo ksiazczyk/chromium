@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted icon installs unit tests
+// summary: Unit tests verifying that externally managed web app installs prefer trusted icons over manifest icons and record related histograms.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/test_future.h"

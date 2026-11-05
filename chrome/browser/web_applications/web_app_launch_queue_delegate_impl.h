@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Launch Queue Delegate Header
+// summary: Declares LaunchQueueDelegateImpl, which validates launch parameters and resolves paths for the web app launch queue.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LAUNCH_QUEUE_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LAUNCH_QUEUE_DELEGATE_IMPL_H_
 

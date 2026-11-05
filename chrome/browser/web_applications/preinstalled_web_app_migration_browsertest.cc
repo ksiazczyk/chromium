@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled Web App Migration Browser Tests
+// summary: Browser tests verifying migration of preinstalled hosted extensions to web apps, including extension updates and launcher behavior.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

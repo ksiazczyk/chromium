@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link capturing feature definitions
+// summary: Defines feature flags and helpers that determine the default PWA navigation capturing state and whether the link capturing UX should be shown.
+// ---
+
 #include "chrome/browser/web_applications/link_capturing_features.h"
 
 #include "base/feature_list.h"

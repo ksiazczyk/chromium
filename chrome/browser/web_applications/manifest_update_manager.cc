@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest update manager implementation
+// summary: Implements detection of web app manifest updates, triggering reinstalls, migrations and throttled silent updates when installed manifests are out of date.
+// ---
+
 #include "chrome/browser/web_applications/manifest_update_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions manager interface for web apps
+// summary: Declares a fakeable interface wrapping the extensions system so web app code avoids circular dependencies and tests can fake extension functionality.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_EXTENSIONS_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_EXTENSIONS_MANAGER_H_
 

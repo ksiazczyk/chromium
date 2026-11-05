@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Icon Generator Header
+// summary: Declares icon size constants and functions for generating, resizing, and converting web app icons, including solid-fill monochrome icons per the manifest spec.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_GENERATOR_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_GENERATOR_H_
 

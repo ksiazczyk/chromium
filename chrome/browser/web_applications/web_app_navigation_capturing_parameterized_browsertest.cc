@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing parameterized browser tests
+// summary: Extensive parameterized browser tests covering web app navigation capturing behavior, metrics, and scope extensions.
+// ---
+
 #include <algorithm>
 #include <initializer_list>
 #include <optional>

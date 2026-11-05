@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app origin association manager browser tests
+// summary: Browser tests verifying fetching, parsing and validation of web app origin association files, including scope extension validity and migration handling.
+// ---
+
 #include "chrome/browser/web_applications/web_app_origin_association_manager.h"
 
 #include <memory>

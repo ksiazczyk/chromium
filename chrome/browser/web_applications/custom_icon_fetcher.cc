@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom icon fetcher implementation
+// summary: Downloads custom icons for enterprise force-installed web apps, verifies the SHA256 hash, and decodes the image safely out of process.
+// ---
+
 #include "chrome/browser/web_applications/custom_icon_fetcher.h"
 
 #include <array>

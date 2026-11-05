@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app management type enum and constants
+// summary: Defines the WebAppManagement::Type enum ranking install sources plus constants for user-uninstallable and user-driven install sources.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_MANAGEMENT_TYPE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_MANAGEMENT_TYPE_H_
 

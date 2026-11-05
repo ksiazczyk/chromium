@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app scope extensions browser tests
+// summary: Browser tests verifying scope extension behavior for web apps, such as navigation in scope and link capturing across origins.
+// ---
+
 #include <optional>
 
 #include "base/strings/string_util.h"

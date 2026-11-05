@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin association task implementation
+// summary: Implements the WebAppOriginAssociationManager task that fetches and parses origin association files per origin and returns valid scope extensions via callback.
+// ---
+
 #include "chrome/browser/web_applications/web_app_origin_association_task.h"
 
 #include <optional>

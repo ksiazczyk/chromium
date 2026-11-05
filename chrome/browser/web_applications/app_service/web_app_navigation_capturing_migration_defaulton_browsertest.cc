@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for navigation capturing default-on migration
+// summary: Browser test verifying automatic startup migration of PWA navigation capturing preferences across two successive browser sessions.
+// ---
+
 #include <string_view>
 
 #include "base/functional/bind.h"

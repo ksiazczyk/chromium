@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app provider implementation
+// summary: Implements WebAppProvider, the per-profile KeyedService that constructs and starts all web app subsystems such as install, icon, policy, sync and OS integration managers.
+// ---
+
 #include "chrome/browser/web_applications/web_app_provider.h"
 
 #include <map>

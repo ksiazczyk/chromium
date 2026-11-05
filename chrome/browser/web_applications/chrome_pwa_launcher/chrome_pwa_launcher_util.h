@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the launcher path helper
+// summary: Declares GetChromePwaLauncherPath, which returns the path of chrome_pwa_launcher.exe or an empty path on failure.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_CHROME_PWA_LAUNCHER_UTIL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_CHROME_PWA_LAUNCHER_CHROME_PWA_LAUNCHER_UTIL_H_
 

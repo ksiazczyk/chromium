@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app audio focus ID map declaration
+// summary: Declares WebAppAudioFocusIdMap, which stores per-app audio focus group IDs shared across the app's media sessions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_AUDIO_FOCUS_ID_MAP_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_AUDIO_FOCUS_ID_MAP_H_
 

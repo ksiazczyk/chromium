@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app translation manager implementation
+// summary: Implements reading, writing and deleting web app manifest translations stored as proto data on disk, converting between proto locale overrides and manifest translation items.
+// ---
+
 #include "chrome/browser/web_applications/web_app_translation_manager.h"
 
 #include "base/containers/span.h"

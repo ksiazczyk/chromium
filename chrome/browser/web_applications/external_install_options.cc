@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External install options implementation
+// summary: Implements construction, equality comparison and debug value serialization for the ExternalInstallOptions struct.
+// ---
+
 #include "chrome/browser/web_applications/external_install_options.h"
 
 #include <ostream>

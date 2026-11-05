@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app browser controller browser tests
+// summary: Browser tests for the web app browser controller, covering toolbar updates when an app is reinstalled with a wider scope.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_browser_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File utils wrapper header
+// summary: Declares a wrapper around base file utilities that allows a testing implementation to intercept file system calls.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_FILE_UTILS_WRAPPER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_FILE_UTILS_WRAPPER_H_
 

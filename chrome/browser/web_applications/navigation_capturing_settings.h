@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing settings interface
+// summary: Declares the interface NavigationCapturingProcess uses to find the installed web app that captures a given URL, with platform-specific behavior.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_SETTINGS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_NAVIGATION_CAPTURING_SETTINGS_H_
 

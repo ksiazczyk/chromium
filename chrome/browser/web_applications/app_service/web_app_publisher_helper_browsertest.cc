@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Publisher Helper Browser Tests
+// summary: Browser tests verifying the web app publisher helper's intent filters and share target behavior in Chrome's App Service.
+// ---
+
 #include "chrome/browser/web_applications/app_service/web_app_publisher_helper.h"
 
 #include <memory>
