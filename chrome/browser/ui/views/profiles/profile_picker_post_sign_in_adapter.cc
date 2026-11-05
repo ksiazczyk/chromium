@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker post sign-in adapter
+// summary: Implements the signed-in portion of the profile creation flow, handling sync confirmation, history sync opt-in, and opening the browser.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_post_sign_in_adapter.h"
 
 #include <memory>

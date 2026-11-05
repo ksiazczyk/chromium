@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature Showcase eligibility tracker header
+// summary: Declares the tracker that asynchronously evaluates and prioritizes eligible showcase steps for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_ELIGIBILITY_TRACKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_ELIGIBILITY_TRACKER_H_
 

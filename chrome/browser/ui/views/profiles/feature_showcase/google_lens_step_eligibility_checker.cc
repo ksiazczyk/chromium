@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens step eligibility checker implementation
+// summary: Checks whether the Lens overlay entry point is enabled and whether the user has already granted the needed permissions to decide step eligibility.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/google_lens_step_eligibility_checker.h"
 
 #include <utility>

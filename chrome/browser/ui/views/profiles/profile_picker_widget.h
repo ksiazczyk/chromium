@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker widget class declaration
+// summary: Declares ProfilePickerWidget, a views::Widget for the profile picker that observes theme changes to adjust its color provider key.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_WIDGET_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_WIDGET_H_
 

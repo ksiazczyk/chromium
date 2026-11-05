@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser step eligibility checker unit tests
+// summary: Unit tests covering policy-disabled, default-state, and non-Windows behavior of the default browser eligibility checker.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/default_browser_step_eligibility_checker.h"
 
 #include "base/check_deref.h"

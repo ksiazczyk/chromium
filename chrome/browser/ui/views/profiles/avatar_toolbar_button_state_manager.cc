@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar button state manager implementation
+// summary: Implements the state manager that computes the avatar button's text, icon and appearance from profile, sign-in and sync state changes.
+// ---
+
 #include "chrome/browser/ui/views/profiles/avatar_toolbar_button_state_manager.h"
 
 #include <optional>

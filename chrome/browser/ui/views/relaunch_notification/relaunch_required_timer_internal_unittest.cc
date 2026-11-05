@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch required timer internal unit tests
+// summary: Unit tests verifying the rounding of remaining time and the next title refresh computation for the relaunch required timer.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_required_timer_internal.h"
 
 #include "base/time/time.h"

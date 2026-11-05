@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectAudioOutputDialog class declaration
+// summary: Declares the dialog delegate view that presents audio output devices and invokes a selection callback with the result.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SELECT_AUDIO_OUTPUT_SELECT_AUDIO_OUTPUT_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_SELECT_AUDIO_OUTPUT_SELECT_AUDIO_OUTPUT_DIALOG_H_
 

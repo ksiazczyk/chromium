@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart HaTS survey header
+// summary: Declares HaTS survey field names, the survey launch delay constant, and functions to launch or consume pending scheduled restart surveys.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_HATS_H_
 #define CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_HATS_H_
 

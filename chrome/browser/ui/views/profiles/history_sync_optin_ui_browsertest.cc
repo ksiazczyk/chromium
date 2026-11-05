@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync opt-in UI browser tests
+// summary: Dialog and pixel browser tests for the history sync opt-in WebUI page, covering regular, dark theme, and right-to-left layouts with the desktop refresh feature enabled and disabled.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin/history_sync_optin_ui.h"
 
 #include <array>

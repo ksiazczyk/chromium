@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for relaunch notification code
+summary: Defines source sets for the relaunch notification controller, platform implementations, and views, plus their unit, browser, and interactive UI test targets.

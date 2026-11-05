@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Replay recording bubble view implementation
+// summary: Implements the location bar bubble for replaying a recording, with a record-new-task section and a list of recent tasks with replay buttons.
+// ---
+
 #include "chrome/browser/ui/views/record_replay/replay_recording_bubble_view.h"
 
 #include <memory>

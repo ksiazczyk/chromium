@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive account chooser view unit tests
+// summary: Unit tests verifying the account chooser view header, body, and footer for single and multiple account cases.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_view.h"
 
 #include "base/strings/utf_string_conversions.h"

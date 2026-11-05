@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker utils browser test
+// summary: In-process browser test verifying that OpenLearnMorePopup creates a popup browser of the expected type, profile and web contents.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_utils.h"
 
 #include <memory>

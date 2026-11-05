@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Replay recording bubble view browser tests
+// summary: Dialog browser tests that verify the replay bubble UI and that accepting invokes the replay callback while cancelling does not.
+// ---
+
 #include "chrome/browser/ui/views/record_replay/replay_recording_bubble_view.h"
 
 #include <string>

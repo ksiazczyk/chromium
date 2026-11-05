@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker feature promo controller implementation
+// summary: Implements the profile picker's feature promo controller, adding a precondition that blocks in-product promos unless the profile picker is open.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_feature_promo_controller.h"
 
 #include "chrome/browser/ui/profiles/profile_picker.h"

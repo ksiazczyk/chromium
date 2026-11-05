@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search engine reset notification header
+// summary: Declares MaybeShowSearchEngineResetNotification, which shows a bubble informing the user that default search engine settings were reset.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SEARCH_ENGINES_DSE_RESET_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_SEARCH_ENGINES_DSE_RESET_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch notification controller unit tests
+// summary: Unit tests covering RelaunchNotificationController behavior for relaunch recommended and required notifications on ChromeOS and desktop.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_notification_controller.h"
 
 #include <memory>

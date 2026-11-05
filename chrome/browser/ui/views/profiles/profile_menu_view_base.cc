@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile menu view base implementation
+// summary: Implements the base bubble dialog UI for the profile menu opened from the avatar button, including menu items, identity sections and actionable item metrics.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_menu_view_base.h"
 
 #include <algorithm>

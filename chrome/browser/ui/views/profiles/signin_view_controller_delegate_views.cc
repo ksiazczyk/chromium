@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin view controller delegate implementation
+// summary: Implements the Views delegate that manages sign-in, sync confirmation and related tab-modal WebUI dialogs in the browser.
+// ---
+
 #include "chrome/browser/ui/views/profiles/signin_view_controller_delegate_views.h"
 
 #include "base/feature_list.h"

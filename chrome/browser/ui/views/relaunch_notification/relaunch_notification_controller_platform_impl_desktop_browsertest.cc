@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch notification controller desktop browsertest
+// summary: Browser test that repeatedly opens and closes relaunch recommended and required notifications to verify no crashes occur.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_notification_controller_platform_impl_desktop.h"
 
 #include "base/run_loop.h"

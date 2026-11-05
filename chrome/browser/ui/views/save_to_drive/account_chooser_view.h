@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive account chooser dialog view class
+// summary: Declares the account chooser dialog view class that displays available accounts and Save, Cancel, and add account actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_VIEW_H_
 

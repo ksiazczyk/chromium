@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature Showcase metrics enums and recording declarations
+// summary: Defines persisted enums for Feature Showcase steps and user actions and declares functions to record step actions and map step identifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_METRICS_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_METRICS_H_
 

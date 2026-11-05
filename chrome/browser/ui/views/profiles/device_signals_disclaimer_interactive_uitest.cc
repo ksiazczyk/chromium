@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device signals disclaimer interactive UI test
+// summary: Interactive browser test verifying that Escape does not close the managed user device signals disclaimer dialog and that clicking Proceed accepts it.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/signin/signin_browser_test_base.h"

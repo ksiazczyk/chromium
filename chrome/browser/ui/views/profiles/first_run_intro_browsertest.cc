@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run intro browser tests
+// summary: Parameterized browser and pixel tests for the first-run intro WebUI page, covering dark and light themes, fixed sizes, longer strings, right-to-left languages, and the refresh and revamp variants.
+// ---
+
 #include <array>
 
 #include "base/functional/callback_helpers.h"

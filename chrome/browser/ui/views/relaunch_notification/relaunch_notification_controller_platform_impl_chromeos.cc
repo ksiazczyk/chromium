@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS platform implementation of relaunch notifications
+// summary: Implements relaunch notifications for Chrome OS by updating system tray notification state and scheduling reboots based on display and session state.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_notification_controller_platform_impl_chromeos.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectFileDialogExtensionFactory declaration
+// summary: Declares SelectFileDialogExtensionFactory, a ui::SelectFileDialogFactory that creates extension-based select file dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SELECT_FILE_DIALOG_EXTENSION_SELECT_FILE_DIALOG_EXTENSION_FACTORY_H_
 #define CHROME_BROWSER_UI_VIEWS_SELECT_FILE_DIALOG_EXTENSION_SELECT_FILE_DIALOG_EXTENSION_FACTORY_H_
 

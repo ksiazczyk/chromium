@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfNoTargetDeviceBubbleView header
+// summary: Declares the bubble view shown when the user is signed in but has no other active target devices for tab sharing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_NO_TARGET_DEVICE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_NO_TARGET_DEVICE_BUBBLE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated mode menu view implementation
+// summary: Implements the profile menu bubble for enterprise isolated-mode profiles, showing session details and a button to close isolated windows.
+// ---
+
 #include "chrome/browser/ui/views/profiles/isolated_mode_menu_view.h"
 
 #include <string>

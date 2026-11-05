@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run flow controller implementation
+// summary: Implements the first-run experience flow controller that orchestrates intro, feature showcase, and finish-or-continue steps during profile setup.
+// ---
+
 #include "chrome/browser/ui/views/profiles/first_run_flow_controller.h"
 
 #include <memory>

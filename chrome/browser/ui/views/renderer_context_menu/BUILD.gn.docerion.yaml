@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the renderer_context_menu views target
+summary: GN build file defining the renderer_context_menu, impl, and testonly browser_tests source sets for the Aura render view context menu.

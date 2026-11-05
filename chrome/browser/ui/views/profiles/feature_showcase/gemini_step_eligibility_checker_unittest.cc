@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini step eligibility checker unit tests
+// summary: Unit tests covering Gemini step eligibility across sign-in, country overrides, account capabilities and seed fetch scenarios using test doubles.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/gemini_step_eligibility_checker.h"
 
 #include <memory>

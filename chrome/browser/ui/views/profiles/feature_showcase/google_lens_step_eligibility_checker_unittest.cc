@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Lens step eligibility checker unit tests
+// summary: Unit tests verifying Lens step eligibility when conditions are met, the default search engine is non-Google, or permissions were already granted.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/google_lens_step_eligibility_checker.h"
 
 #include <memory>

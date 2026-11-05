@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the search_engines views source sets
+summary: GN build file defining the search_engines public source set, its implementation target, and the browser test target for the DSE reset dialog.

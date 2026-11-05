@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager showcase eligibility checker implementation
+// summary: Evaluates password manager showcase eligibility from the password saving pref, sync state and whether the passwords action is already pinned to the toolbar.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/password_manager_feature_showcase_eligibility_checker.h"
 
 #include <utility>

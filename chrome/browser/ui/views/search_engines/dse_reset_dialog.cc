@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search engine reset notification implementation
+// summary: Implements the bubble that notifies users when their default search engine was reset, including reset detection, metrics, and a learn-more link.
+// ---
+
 #include "chrome/browser/ui/views/search_engines/dse_reset_dialog.h"
 
 #include "base/functional/bind.h"

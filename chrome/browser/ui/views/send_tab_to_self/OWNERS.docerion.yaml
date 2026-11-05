@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Send tab to self directory owners
+summary: Delegates reviewer ownership to the OWNERS file of the send tab to self component.

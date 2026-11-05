@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart bubble view browser tests
+// summary: Browser tests verifying the bubble's dialog elements, accessibility descriptions, buttons and recorded user choice metrics.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_bubble_view.h"
 
 #include "base/test/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the select audio output UI
+summary: Defines the select_audio_output and impl source sets with their public headers and build dependencies.

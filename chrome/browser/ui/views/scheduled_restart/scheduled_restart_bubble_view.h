@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart bubble view header
+// summary: Declares the scheduled restart reminder bubble view, its dialog choice enum for UMA logging, and APIs to show or replace the bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_BUBBLE_VIEW_H_
 

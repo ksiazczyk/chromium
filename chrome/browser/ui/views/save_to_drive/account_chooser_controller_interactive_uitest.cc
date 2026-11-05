@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account chooser controller interactive UI tests
+// summary: Interactive browser tests covering the Save to Drive account chooser controller flow with test accounts and identity environment.
+// ---
+
 #include "base/callback_list.h"
 #include "chrome/browser/signin/identity_test_environment_profile_adaptor.h"
 #include "chrome/browser/sync/sync_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker view browser tests
+// summary: Extensive browser tests for the profile picker view covering profile creation, sign-in flows, policy and enterprise disclaimers, sync, session restore and picker lifecycle behavior.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_view.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promo constants and config struct
+// summary: Declares QR code URLs for each promo campaign, image size and view IDs, and the IOSPromoTypeConfigs struct used to configure promo bubbles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROMOS_IOS_PROMO_CONSTANTS_H_
 #define CHROME_BROWSER_UI_VIEWS_PROMOS_IOS_PROMO_CONSTANTS_H_
 

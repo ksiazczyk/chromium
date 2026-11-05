@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload dialog browser tests
+// summary: In-process browser tests for the batch upload dialog covering save, cancel, and dismissal flows plus histogram recording of selected data types.
+// ---
+
 #include "chrome/browser/ui/views/profiles/batch_upload_dialog_view.h"
 
 #include "base/strings/to_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in QR bubble implementation
+// summary: Implements the bubble view hosting the cross-device sign-in QR code web UI, with auto-resize, keyboard handling, and primary account change observation.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

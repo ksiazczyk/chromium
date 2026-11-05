@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for search_engine_choice views
+summary: Defines the search_engine_choice source set with its sources and dependencies for the dialog view UI.

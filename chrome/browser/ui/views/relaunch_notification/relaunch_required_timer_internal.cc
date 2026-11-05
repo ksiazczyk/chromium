@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch required timer internal helpers implementation
+// summary: Implements helpers that round the time remaining to the relaunch deadline and compute when the notification title must next be refreshed.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_required_timer_internal.h"
 
 #include <cmath>

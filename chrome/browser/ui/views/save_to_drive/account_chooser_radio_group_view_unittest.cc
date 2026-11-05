@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account chooser radio group view unit tests
+// summary: Unit tests for the multi-account radio group view, covering account ordering, default selection and radio button behavior.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_radio_group_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

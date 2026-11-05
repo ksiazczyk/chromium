@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker view test utilities header
+// summary: Declares test waiters for view attachment, deletion and picker page loads, plus ProfileManagementStepTestView for rendering picker steps in pixel tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_VIEW_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_VIEW_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar toolbar button browser tests
+// summary: Browser tests covering the avatar toolbar button's states, promos, sign-in flows and related profile menu behavior.
+// ---
+
 #include "chrome/browser/ui/views/profiles/avatar_toolbar_button.h"
 
 #include <optional>

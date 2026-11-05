@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser row view utility
+// summary: Builds the account row view displaying an avatar, full name and email for the Save to Drive account chooser.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_util.h"
 
 #include "chrome/browser/profiles/profile_avatar_icon_util.h"

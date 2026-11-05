@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI Mode sign-in promo controller declarations
+// summary: Declares base and concrete controllers managing the lifecycle of the AI Mode sign-in promo bubbles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SEARCH_AI_MODE_SIGNIN_PROMO_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SEARCH_AI_MODE_SIGNIN_PROMO_CONTROLLER_H_
 

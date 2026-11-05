@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelaunchNotificationController implementation
+// summary: Implements the controller that reads the RelaunchNotification policy and shows recommended or required relaunch notifications based on UpgradeDetector state.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_notification_controller.h"
 
 #include <algorithm>

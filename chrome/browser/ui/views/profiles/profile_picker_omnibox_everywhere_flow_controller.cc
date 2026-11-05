@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker Omnibox Everywhere flow controller
+// summary: Implements the flow controller that runs the Omnibox Everywhere version of the profile picker and loads the profile the user picks.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_omnibox_everywhere_flow_controller.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker widget implementation
+// summary: Implements the widget hosting the profile picker view, with theme service observation and Linux window manager class setup.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_widget.h"
 
 #include "build/buildflag.h"

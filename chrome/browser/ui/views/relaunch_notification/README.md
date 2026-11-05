@@ -1,3 +1,9 @@
+---
+type: readme
+title: Relaunch Notifications Overview
+summary: Explains the concepts, terms, and architecture of relaunch notifications, covering the controller, timer, and view classes for desktop Chrome and Chrome OS.
+---
+
 # Relaunch Notifications Overview
 
 This document is an overview of relaunch notifications concepts, terms, and

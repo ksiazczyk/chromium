@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch recommended bubble view implementation
+// summary: Implements the relaunch recommended bubble anchored to the app menu that prompts users to relaunch Chrome after an upgrade.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_recommended_bubble_view.h"
 
 #include <utility>

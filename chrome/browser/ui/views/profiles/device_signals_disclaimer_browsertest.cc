@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device signals disclaimer browser tests
+// summary: Browser and pixel tests for the enterprise device signals disclaimer shown during profile management, covering refreshed and legacy UI variants.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

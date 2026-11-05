@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker Glic flow controller browser tests
+// summary: Browser tests for the Glic flow controller in the profile picker, covering controller initialization and picking a profile that is not yet loaded.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_glic_flow_controller.h"
 
 #include "base/files/file_path.h"

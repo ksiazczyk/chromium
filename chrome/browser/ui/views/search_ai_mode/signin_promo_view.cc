@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI Mode sign-in promo bubble view implementation
+// summary: Implements the sign-in promo bubble views, including a 15-second self-dismissal timer and post-sign-in tab redirection for the Composebox Drive promo.
+// ---
+
 #include "chrome/browser/ui/views/search_ai_mode/signin_promo_view.h"
 
 #include <string>

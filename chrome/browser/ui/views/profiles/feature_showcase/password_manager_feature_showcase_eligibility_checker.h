@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager feature showcase eligibility checker header
+// summary: Declares the eligibility checker that decides when the password manager feature showcase step can run, observing sync service state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_PASSWORD_MANAGER_FEATURE_SHOWCASE_ELIGIBILITY_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_PASSWORD_MANAGER_FEATURE_SHOWCASE_ELIGIBILITY_CHECKER_H_
 

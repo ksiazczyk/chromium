@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens step eligibility checker class declaration
+// summary: Declares the Google Lens eligibility checker that implements the Feature Showcase step eligibility interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_GOOGLE_LENS_STEP_ELIGIBILITY_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_GOOGLE_LENS_STEP_ELIGIBILITY_CHECKER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for select_file_dialog_extension
+summary: GN build file defining the select_file_dialog_extension static library plus its browser test and unit test targets with sources and dependencies.

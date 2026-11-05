@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch required timer implementation
+// summary: Implements RelaunchRequiredTimer, which schedules notification title refreshes at second, minute, hour, or day boundaries until the relaunch deadline.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_required_timer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart HaTS survey implementation
+// summary: Implements launching and persisting the HaTS survey after scheduled restart dialog choices, including pending post-relaunch survey handling.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_hats.h"
 
 #include <algorithm>

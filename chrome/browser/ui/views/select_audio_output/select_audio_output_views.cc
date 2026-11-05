@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectAudioOutputPickerViews implementation
+// summary: Shows the audio output picker dialog widget for a select audio output request on the UI thread.
+// ---
+
 #include "chrome/browser/ui/views/select_audio_output/select_audio_output_views.h"
 
 #include "base/functional/callback.h"

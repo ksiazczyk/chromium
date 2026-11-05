@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch recommended bubble view dialog browsertest
+// summary: Dialog browser test that shows and verifies the relaunch recommended bubble UI in a browser window.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_recommended_bubble_view.h"
 
 #include "base/functional/callback_helpers.h"

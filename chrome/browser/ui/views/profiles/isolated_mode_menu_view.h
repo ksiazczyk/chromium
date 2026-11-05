@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated mode menu view header
+// summary: Declares the bubble view shown when the user clicks the avatar button in Enterprise Isolated Mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_ISOLATED_MODE_MENU_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_ISOLATED_MODE_MENU_VIEW_H_
 

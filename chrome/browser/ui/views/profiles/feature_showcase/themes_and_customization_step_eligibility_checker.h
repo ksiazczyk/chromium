@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Themes and customization step eligibility checker header
+// summary: Declares the themes and customization step eligibility checker used by the feature showcase flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_THEMES_AND_CUSTOMIZATION_STEP_ELIGIBILITY_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_THEMES_AND_CUSTOMIZATION_STEP_ELIGIBILITY_CHECKER_H_
 

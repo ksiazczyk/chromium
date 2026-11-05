@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for record_replay bubble views
+summary: Defines the record_replay source set and a testonly browser_tests target, listing public headers, sources and dependencies for the bubble views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfBubbleView implementation
+// summary: Implements the base send-tab-to-self share bubble, wiring the controller and handling the title and back button behavior.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_bubble_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

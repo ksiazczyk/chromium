@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart bubble view implementation
+// summary: Implements the reminder bubble dialog offering restart now or restart when idle, with UMA logging of the user's dialog choice.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_bubble_view.h"
 
 #include <memory>

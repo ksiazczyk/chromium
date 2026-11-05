@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tests for the Files app select dialog
+// summary: In-process browser tests covering the Files app select file dialog, including multi-user sessions, DLP policies, keyboard handling and selection flows.
+// ---
+
 #include "chrome/browser/ui/views/select_file_dialog_extension/select_file_dialog_extension.h"
 
 #include <memory>

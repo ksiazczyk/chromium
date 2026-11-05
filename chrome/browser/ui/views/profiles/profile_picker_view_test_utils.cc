@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker view test utilities
+// summary: Provides test helpers for profile picker tests, including flow controller mixins that drive picker steps and signal when step loads finish.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_view_test_utils.h"
 
 #include <string>

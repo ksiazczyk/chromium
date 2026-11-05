@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run feature showcase UI browser test
+// summary: Parameterized pixel browser tests for the first run feature showcase steps, covering themes, window sizes, RTL languages, and sound-enabled variants.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/no_destructor.h"
 #include "base/strings/strcat.h"

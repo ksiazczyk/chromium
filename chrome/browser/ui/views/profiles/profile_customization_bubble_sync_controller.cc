@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization bubble sync controller implementation
+// summary: Implements logic that shows or delays the profile customization bubble based on theme sync state and the default theme.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_customization_bubble_sync_controller.h"
 
 #include "base/check_deref.h"

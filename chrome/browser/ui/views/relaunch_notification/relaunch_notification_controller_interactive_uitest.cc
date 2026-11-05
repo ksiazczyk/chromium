@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the relaunch notification controller
+// summary: Interactive UI test that sets relaunch policies and simulates updates to verify the required relaunch notification and dialog behavior.
+// ---
+
 #include <utility>
 
 #include "base/location.h"

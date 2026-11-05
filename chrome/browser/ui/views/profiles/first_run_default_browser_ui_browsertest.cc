@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run default browser UI browser test
+// summary: Parameterized pixel browser tests for the first run default browser step, covering light and dark themes, small windows, RTL languages, and the refreshed first run UI flag.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/no_destructor.h"
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored Security unconsented modal implementation
+// summary: Implements the modal shown to signed-in users without consent, offering to enable enhanced protection and recording outcomes.
+// ---
+
 #include "chrome/browser/ui/views/safe_browsing/tailored_security_unconsented_modal.h"
 
 #include "base/metrics/histogram_functions.h"

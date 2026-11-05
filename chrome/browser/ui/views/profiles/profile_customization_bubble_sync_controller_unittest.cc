@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile customization bubble sync controller unit tests
+// summary: Unit tests verifying the customization bubble controller with synced themes, sync failures and default theme scenarios.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_customization_bubble_sync_controller.h"
 
 #include "base/memory/raw_ptr.h"

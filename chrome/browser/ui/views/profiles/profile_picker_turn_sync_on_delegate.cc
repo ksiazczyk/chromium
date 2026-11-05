@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker turn sync on delegate implementation
+// summary: Implements the delegate that turns sync on during signed-in profile creation, handling confirmations, errors, and outcome metrics.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_turn_sync_on_delegate.h"
 
 #include <optional>

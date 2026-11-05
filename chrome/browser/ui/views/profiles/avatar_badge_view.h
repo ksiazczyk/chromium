@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar badge view header
+// summary: Declares AvatarBadgeView, a custom-painted profile avatar badge with a text label and optional wave background, plus its factory function.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_AVATAR_BADGE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_AVATAR_BADGE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tailored Security desktop dialog manager browser tests
+// summary: Parameterized browser tests verifying the enabled and disabled Tailored Security dialogs in light and dark themes.
+// ---
+
 #include "chrome/browser/ui/views/safe_browsing/tailored_security_desktop_dialog_manager.h"
 
 #include "base/command_line.h"

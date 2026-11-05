@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore infobar delegate unit tests
+// summary: Parameterized unit tests verifying infobar creation and histogram recording for shown, dismissed, link clicked, and ignored actions.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_delegate.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the directory
+summary: Include rules that block //chrome dependencies by default and allowlist the specific headers this directory and its browser test may include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save recording bubble view class declaration
+// summary: Declares SaveRecordingBubbleView, a location bar bubble that lets the user name a recording and forwards decisions to its controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_RECORD_REPLAY_SAVE_RECORDING_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_RECORD_REPLAY_SAVE_RECORDING_BUBBLE_VIEW_H_
 

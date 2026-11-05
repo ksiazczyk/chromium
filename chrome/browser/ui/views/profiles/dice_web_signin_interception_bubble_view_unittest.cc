@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice web signin interception bubble unit tests
+// summary: Unit tests verifying the histograms recorded for signin interception results across interception types such as enterprise, multi-user, and profile switch.
+// ---
+
 #include "chrome/browser/ui/views/profiles/dice_web_signin_interception_bubble_view.h"
 
 #include "base/notreached.h"

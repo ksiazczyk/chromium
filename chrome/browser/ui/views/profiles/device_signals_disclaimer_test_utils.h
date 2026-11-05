@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device signals disclaimer test utilities header
+// summary: Declares DOM selectors and wait-and-click helper functions used by browser tests of the device signals disclaimer WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_DEVICE_SIGNALS_DISCLAIMER_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_DEVICE_SIGNALS_DISCLAIMER_TEST_UTILS_H_
 

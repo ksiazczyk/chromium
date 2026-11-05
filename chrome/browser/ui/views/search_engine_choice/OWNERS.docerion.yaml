@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for search_engine_choice views
+summary: Designates code owners for this directory by referencing the search engine choice COMPLIANCE_OWNERS file.

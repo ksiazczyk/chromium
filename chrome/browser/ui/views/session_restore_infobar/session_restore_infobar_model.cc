@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore infobar model implementation
+// summary: Implements the model that maps the restore-on-startup preference to an infobar message value and decides whether the session restore infobar should appear on startup.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_model.h"
 
 #include "base/check.h"

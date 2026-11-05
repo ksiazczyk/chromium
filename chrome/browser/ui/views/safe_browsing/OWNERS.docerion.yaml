@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing UI directory owners
+summary: Inherits owners from components/safe_browsing and assigns jacastro@chromium.org for tailored security files.

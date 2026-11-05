@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker utilities implementation
+// summary: Implements OpenLearnMorePopup, which opens 'Learn more' pages as popup windows from the profile picker so users stay in the profile creation flow.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_utils.h"
 
 #include <utility>

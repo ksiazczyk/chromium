@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password reuse modal warning dialog browser tests
+// summary: Browser tests verifying that accepting, canceling, and closing the web contents trigger the expected warning actions.
+// ---
+
 #include "chrome/browser/ui/views/safe_browsing/password_reuse_modal_warning_dialog.h"
 
 #include "base/functional/bind.h"

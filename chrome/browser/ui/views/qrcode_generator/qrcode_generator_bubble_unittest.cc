@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the QR code generator bubble
+// summary: Tests suggested download filenames, bubble visibility, QR image rendering, error labels, and accessibility behavior of the QR code generator bubble.
+// ---
+
 #include "chrome/browser/ui/views/qrcode_generator/qrcode_generator_bubble.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device sign-in QR bubble UI tests
+// summary: Pixel browser tests for the cross-device sign-in QR bubble, waiting for web view resizing and using fuzzy gold matching to tolerate QR raster differences.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

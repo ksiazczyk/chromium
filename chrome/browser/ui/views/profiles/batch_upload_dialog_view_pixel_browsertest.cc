@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload dialog pixel tests
+// summary: Parameterized pixel tests capturing the batch upload dialog appearance across regular and dark themes, multiple sections, and long titles.
+// ---
+
 #include <array>
 #include <string>
 

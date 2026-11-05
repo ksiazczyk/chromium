@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser radio group view implementation
+// summary: Implements the radio button rows and radio group view used to select among multiple accounts in the account chooser dialog.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_radio_group_view.h"
 
 #include "base/strings/strcat.h"

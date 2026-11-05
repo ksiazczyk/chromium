@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker sign-in provider browser tests
+// summary: Browser tests for the sign-in provider, covering switching to sign-in and deletion of the temporary profile on exit.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_sign_in_provider.h"
 
 #include "base/functional/callback_helpers.h"

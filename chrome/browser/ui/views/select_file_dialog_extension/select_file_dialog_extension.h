@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectFileDialogExtension class declaration
+// summary: Declares SelectFileDialogExtension, a ui::SelectFileDialog that presents the Files app dialog for file and folder selection on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SELECT_FILE_DIALOG_EXTENSION_SELECT_FILE_DIALOG_EXTENSION_H_
 #define CHROME_BROWSER_UI_VIEWS_SELECT_FILE_DIALOG_EXTENSION_SELECT_FILE_DIALOG_EXTENSION_H_
 

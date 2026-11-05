@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker interactive UI test helpers header
+// summary: Declares a test mixin that adds keyboard command helpers, such as close window and fullscreen, for profile picker interactive UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_INTERACTIVE_UITEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_INTERACTIVE_UITEST_BASE_H_
 

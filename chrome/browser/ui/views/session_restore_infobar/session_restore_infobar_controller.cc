@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore infobar controller implementation
+// summary: Decides when the session restore infobar should be shown based on cookie settings, prefs, and model state, then triggers display.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_controller.h"
 
 #include <memory>

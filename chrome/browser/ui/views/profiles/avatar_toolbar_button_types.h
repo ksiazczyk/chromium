@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar button delay type enum
+// summary: Defines the AvatarDelayType enum used in tests to override delay values for the avatar toolbar button's greeting, sign-in, pending text, and promo states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_AVATAR_TOOLBAR_BUTTON_TYPES_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_AVATAR_TOOLBAR_BUTTON_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Themes and customization step eligibility checker implementation
+// summary: Implements the themes and customization showcase eligibility check, which passes only when no policy-enforced theme is active.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/themes_and_customization_step_eligibility_checker.h"
 
 #include <utility>

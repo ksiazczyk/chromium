@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfDevicePickerBubbleView implementation
+// summary: Implements the bubble dialog that lists target devices in a scroll view and lets the user select one to send a tab to.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_device_picker_bubble_view.h"
 
 #include "base/strings/utf_string_conversions.h"

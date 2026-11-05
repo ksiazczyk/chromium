@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the scheduled restart UI
+summary: Defines GN source sets for the scheduled restart bubble interfaces, implementation, unit tests and browser tests on desktop platforms.

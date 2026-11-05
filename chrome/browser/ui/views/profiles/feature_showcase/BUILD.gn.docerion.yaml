@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature Showcase GN build targets
+summary: Defines source sets for metrics, eligibility checkers, and unit tests of the Feature Showcase, gated on DICE support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectAudioOutputDialog implementation
+// summary: Implements the modal dialog that lists audio output devices in a combobox and reports the chosen device or cancellation through a callback.
+// ---
+
 #include "chrome/browser/ui/views/select_audio_output/select_audio_output_dialog.h"
 
 #include "base/strings/utf_string_conversions.h"

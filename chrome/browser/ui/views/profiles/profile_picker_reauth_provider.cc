@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker reauth provider
+// summary: Implements reauthentication of a profile's primary account in the profile picker, verifying tokens and recording reauth result metrics.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_reauth_provider.h"
 
 #include "base/functional/bind.h"
