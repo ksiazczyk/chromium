@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DedupeInstallUrlsCommand class header
+// summary: Declares the command that dedupes install URL configs across apps sharing install URLs, preferring the most recently installed non-placeholder-like app.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_DEDUPE_INSTALL_URLS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_DEDUPE_INSTALL_URLS_COMMAND_H_
 

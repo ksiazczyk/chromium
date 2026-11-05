@@ -1,3 +1,11 @@
+---
+type: plan
+title: 'Refactor Web App Command Result Types: Implementation Plan & TODO Log'
+summary: Step-by-step plan and TODO log for moving web app command result types into separate lightweight _result.h headers to improve build times and code organization.
+relations:
+  - references /chrome/browser/web_applications/docs/code_health/command_results_separate_file_investigation.md
+---
+
 # Refactor Web App Command Result Types: Implementation Plan & TODO Log
 
 * **Investigation Doc:** `//chrome/browser/web_applications/docs/code_health/command_results_separate_file_investigation.md`

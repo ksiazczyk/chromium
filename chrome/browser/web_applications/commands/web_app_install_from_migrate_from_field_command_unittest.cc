@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app install from migrate_from field command unit test
+// summary: Unit tests for the migrate_from install command, covering cases such as no source app installed and successful migration using a fake web app provider.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_APP_INSTALL_FROM_MIGRATE_FROM_FIELD_COMMAND_UNITTEST_CC_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_APP_INSTALL_FROM_MIGRATE_FROM_FIELD_COMMAND_UNITTEST_CC_
 

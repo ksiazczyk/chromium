@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUserDisplayModeCommand implementation
+// summary: Implements the command that sets a web app's user display mode and triggers OS integration synchronization when the new mode requires it.
+// ---
+
 #include "chrome/browser/web_applications/commands/set_user_display_mode_command.h"
 
 #include <memory>

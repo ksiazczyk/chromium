@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch web app command implementation
+// summary: Implements the command that launches a web app from launch parameters, upgrading install state and OS integration as needed before opening the app window.
+// ---
+
 #include "chrome/browser/web_applications/commands/launch_web_app_command.h"
 
 #include "base/functional/bind.h"

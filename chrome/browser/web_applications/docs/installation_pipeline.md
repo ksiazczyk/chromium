@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web Apps - Installation
+summary: Documents the web app installation pipeline, its flowchart, install commands, and the various user-initiated and externally managed installation sources.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/web_applications/docs/concepts.md
+  - references /chrome/browser/web_applications/docs/webapp_installation_process.png
+---
+
 ## [Web Apps](../README.md) - Installation
 
 Installing a webapp can come from a variety of channels. This section serves to

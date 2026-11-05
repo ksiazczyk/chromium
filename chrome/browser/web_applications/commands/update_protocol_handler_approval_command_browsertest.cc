@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler approval command browser tests
+// summary: Browser tests verifying that protocol handler approval changes update web app registration and OS integration behavior across platforms.
+// ---
+
 #include "base/test/test_future.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/web_applications/web_app_browsertest_base.h"

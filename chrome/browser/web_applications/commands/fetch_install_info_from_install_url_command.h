@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch install info from install URL command header
+// summary: Declares the command that fetches WebAppInstallInfo for a given install URL, used for installing sub-apps with known manifest IDs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_FETCH_INSTALL_INFO_FROM_INSTALL_URL_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_FETCH_INSTALL_INFO_FROM_INSTALL_URL_COMMAND_H_
 

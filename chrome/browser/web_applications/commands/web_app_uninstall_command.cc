@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app uninstall command implementation
+// summary: Implements the web app uninstall command, which acquires the AllAppsLock and runs remove install URL or remove install source jobs while tracking uninstall metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/web_app_uninstall_command.h"
 
 #include <memory>

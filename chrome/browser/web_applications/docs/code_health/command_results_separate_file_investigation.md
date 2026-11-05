@@ -1,3 +1,9 @@
+---
+type: note
+title: 'Investigation: Separating Command Result Types'
+summary: Research notes identifying web app commands that bundle result types in their headers and evaluating separate _result.h files to reduce include dependencies.
+---
+
 # Investigation: Separating Command Result Types
 
 -   **Author(s):** dmurph

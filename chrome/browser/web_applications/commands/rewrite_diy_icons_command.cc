@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RewriteDiyIconsCommand implementation
+// summary: Implements the command that rewrites DIY web app icons on macOS to apply the correct mask as a one-time migration.
+// ---
+
 #include "chrome/browser/web_applications/commands/rewrite_diy_icons_command.h"
 
 #include "base/feature_list.h"

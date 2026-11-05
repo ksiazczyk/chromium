@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command metrics implementation
+// summary: Records install command metrics histograms by command variant, app type, result code and install surface.
+// ---
+
 #include "chrome/browser/web_applications/commands/command_metrics.h"
 
 #include <string_view>

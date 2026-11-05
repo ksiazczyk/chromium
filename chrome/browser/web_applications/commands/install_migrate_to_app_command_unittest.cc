@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install migrate to app command unit tests
+// summary: Unit tests for InstallMigrateToAppCommand, exercising migration of an installed web app to a target app using fake provider, web contents manager, and origin association components.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_migrate_to_app_command.h"
 
 #include <memory>

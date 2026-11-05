@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch installability for Chrome management unit tests
+// summary: Unit tests for the Chrome management installability command, covering URL load errors and manifest-based installability checks.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_installability_for_chrome_management.h"
 
 #include <memory>

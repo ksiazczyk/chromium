@@ -1,3 +1,13 @@
+---
+type: guide
+title: How to Create WebApp Integration Tests
+summary: Step-by-step guide for adding critical user journeys, implementing actions with manual tests, and generating web app integration tests.
+relations:
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+  - references /chrome/test/webapps/data/actions.md
+  - references /chrome/test/webapps/data/critical_user_journeys.md
+---
+
 # How to create WebApp Integration Tests
 
 Please see the the [Integration Testing Framework document](integration-testing-framework.md) for more information about specifics.

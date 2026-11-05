@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted icon filter header
+// summary: Declares GetTrustedIconsFromManifest, which constructs the primary manifest-provided icon with platform-specific maskable icon preferences.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ICONS_TRUSTED_ICON_FILTER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ICONS_TRUSTED_ICON_FILTER_H_
 

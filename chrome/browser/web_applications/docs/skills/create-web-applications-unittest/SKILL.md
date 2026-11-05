@@ -1,6 +1,13 @@
 ---
 name: create-web-applications-unittest
 description: Instructions for creating a unit test in the chrome/browser/web_applications and chrome/browser/ui/web_applications directories.
+type: guide
+title: Creating Web Applications Unittests
+summary: Step-by-step instructions for writing unit tests in chrome/browser/web_applications, covering the WebAppTest base class, faking dependencies, mocking inputs, waiting, and validating state and metrics.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/web_applications/docs/testing.md
+  - references /chrome/browser/web_applications/test/web_app_install_test_utils.h
 ---
 
 # Creating Web Applications Unittests

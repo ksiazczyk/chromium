@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate and trigger install dialog command implementation
+// summary: Implements the command that navigates to an install URL and triggers the web app install dialog when an installable app is found.
+// ---
+
 #include "chrome/browser/web_applications/commands/navigate_and_trigger_install_dialog_command.h"
 
 #include <memory>

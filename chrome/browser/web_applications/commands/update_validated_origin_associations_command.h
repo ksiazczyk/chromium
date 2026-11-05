@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update validated origin associations command header
+// summary: Declares the command that revalidates origin associations against server-side values and removes entries that are no longer authorized.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UPDATE_VALIDATED_ORIGIN_ASSOCIATIONS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UPDATE_VALIDATED_ORIGIN_ASSOCIATIONS_COMMAND_H_
 

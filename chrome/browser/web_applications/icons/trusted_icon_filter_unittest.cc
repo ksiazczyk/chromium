@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted icon filter unit tests
+// summary: Tests GetTrustedIconsFromManifest across cases such as no icons, non-square icons, largest icon selection, maskable preference, and size fallbacks.
+// ---
+
 #include "chrome/browser/web_applications/icons/trusted_icon_filter.h"
 
 #include "build/build_config.h"

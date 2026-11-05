@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBase implementation
+// summary: Implements the non-templated CommandBase, covering command IDs, debug metadata, scheduling info, shutdown handling, and completion for the web app command system.
+// ---
+
 #include "chrome/browser/web_applications/commands/internal/command_internal.h"
 
 #include <string_view>

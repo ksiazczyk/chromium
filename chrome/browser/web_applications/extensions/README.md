@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the web_applications extensions directory
+summary: Explains that this directory hosts Bookmark App and Hosted Apps features pending migration from the extension system into web_applications.
+---
+
 For historic reasons, Chrome uses the Extension system, more specifically
 "Bookmark Apps", to create and install apps based on websites. Hosted Apps are
 getting deprecated, so we will eventually migrate off extensions/ and into

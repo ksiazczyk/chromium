@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon masker ChromeOS implementation
+// summary: Masks web app icons on ChromeOS by resizing the IDR_ICON_MASK resource and compositing it with the input bitmap asynchronously on a thread pool.
+// ---
+
 #include "chrome/browser/web_applications/icons/icon_masker.h"
 
 #include <map>

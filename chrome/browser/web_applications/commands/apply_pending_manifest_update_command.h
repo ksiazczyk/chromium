@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply pending manifest update command header
+// summary: Declares ApplyPendingManifestUpdateCommand, which applies pending manifest updates under an app lock with keep-alive support and debug stage tracking.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APPLY_PENDING_MANIFEST_UPDATE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APPLY_PENDING_MANIFEST_UPDATE_COMMAND_H_
 

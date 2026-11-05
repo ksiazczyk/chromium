@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon masker unit tests
+// summary: Tests MaskIconOnOs against golden masked icons per platform and covers empty and non-N32 bitmap inputs.
+// ---
+
 #include "chrome/browser/web_applications/icons/icon_masker.h"
 
 #include <string>

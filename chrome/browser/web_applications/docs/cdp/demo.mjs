@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WebSocket demo of PWA CDP commands
+// summary: Interactive demo that queues PWA install, launch, and uninstall CDP commands over a WebSocket connection to a locally built Chrome.
+// ---
+
 import {stdin as input, stdout as output} from 'node:process';
 import * as readline from 'node:readline/promises';
 import puppeteer from 'puppeteer';

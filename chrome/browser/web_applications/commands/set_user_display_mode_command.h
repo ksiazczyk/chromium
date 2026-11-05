@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUserDisplayModeCommand header
+// summary: Declares the command that sets a web app's user display mode, including a static helper that updates the mode without triggering OS integration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_SET_USER_DISPLAY_MODE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_SET_USER_DISPLAY_MODE_COMMAND_H_
 

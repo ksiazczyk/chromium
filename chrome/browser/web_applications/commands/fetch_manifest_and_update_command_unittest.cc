@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FetchManifestAndUpdateCommand unit tests
+// summary: Unit tests for the fetch manifest and update command using a fake web contents manager to cover update results and icon handling.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_update_command.h"
 
 #include <vector>

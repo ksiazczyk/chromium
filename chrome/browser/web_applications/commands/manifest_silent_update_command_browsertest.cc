@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest silent update command browser tests
+// summary: Browser tests verifying silent web app manifest updates, including icon changes, update throttling, and toolbar behavior.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

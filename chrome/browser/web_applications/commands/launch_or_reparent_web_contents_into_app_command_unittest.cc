@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch or reparent web contents into app command unit tests
+// summary: Unit tests covering reparenting of in-scope tabs, launching for out-of-scope web contents, and handling destroyed web contents, including histogram metric expectations.
+// ---
+
 #include "chrome/browser/web_applications/commands/launch_or_reparent_web_contents_into_app_command.h"
 
 #include "base/test/metrics/histogram_tester.h"

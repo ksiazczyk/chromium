@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GarbageCollectStoragePartitionsCommand implementation
+// summary: Implements the command that gathers valid storage partition paths from web apps and extensions and garbage-collects inactive ones for a profile.
+// ---
+
 #include "chrome/browser/web_applications/commands/garbage_collect_storage_partitions_command.h"
 
 #include <memory>

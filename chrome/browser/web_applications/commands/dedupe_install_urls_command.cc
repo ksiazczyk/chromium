@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DedupeInstallUrlsCommand implementation
+// summary: Implements the command that finds web apps sharing the same install URLs and merges their install URL configs into the best candidate app, recording metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/dedupe_install_urls_command.h"
 
 #include "base/auto_reset.h"

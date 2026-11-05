@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallMigrateToAppCommand implementation
+// summary: Implements the command that migrates a web app when a manifest declares a migrate_to field, loading the install URL, validating the target manifest, and installing or updating the target app.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_migrate_to_app_command.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch web app command browser tests
+// summary: Browser tests for the launch web app command, including a parametrized fixture exercising app launches with the first run service and window launch settings.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

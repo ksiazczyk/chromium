@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBase declaration
+// summary: Declares the CommandBase class that stores commands in the WebAppCommandManager, defining lock requests, debug values, and completion/self-destruction interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INTERNAL_COMMAND_INTERNAL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INTERNAL_COMMAND_INTERNAL_H_
 

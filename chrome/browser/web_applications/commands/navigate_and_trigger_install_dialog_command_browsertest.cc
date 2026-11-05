@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigate and trigger install dialog command browser tests
+// summary: Browser tests checking tab navigation, install dialog triggering, and failure cases such as closed tabs or non-web-app pages.
+// ---
+
 #include "chrome/browser/web_applications/commands/navigate_and_trigger_install_dialog_command.h"
 
 #include "base/run_loop.h"

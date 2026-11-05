@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the extensions directory
+summary: Grants this directory include access to chrome/browser/extensions and extensions headers.

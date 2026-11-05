@@ -1,3 +1,13 @@
+---
+type: guide
+title: Why are these WebAppIntegration_* tests failing?
+summary: Troubleshooting guide for failing WebAppIntegration tests, covering flakiness, system behavior changes, outdated drivers, and how to disable tests.
+relations:
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+  - references /chrome/browser/web_applications/docs/how-to-create-webapp-integration-tests.md
+  - references /docs/testing/on_disabling_tests.md
+---
+
 # Why are these WebAppIntegration_* tests failing?
 
 The integration tests for the WebAppProvider system test as much of the system as possible from user actions, and it can sometimes be difficult to categorize why the failure is occurring.

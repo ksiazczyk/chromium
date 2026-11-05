@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension or web app launch helper implementation
+// summary: Launches an app by id, opening the matching extension or falling back to the web app scheduler.
+// ---
+
 #include "chrome/browser/web_applications/extensions/launch.h"
 
 #include <utility>

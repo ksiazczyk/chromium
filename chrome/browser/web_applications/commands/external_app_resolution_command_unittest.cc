@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External app resolution command unit tests
+// summary: Unit tests for the external app resolution command, using fake web app provider components to verify externally managed app installation behavior.
+// ---
+
 #include "chrome/browser/web_applications/commands/external_app_resolution_command.h"
 
 #include <memory>

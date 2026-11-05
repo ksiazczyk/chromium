@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest silent update command unit tests
+// summary: Unit tests covering the manifest silent update command, including icon handling, install state, and sync protocol behavior.
+// ---
+
 #include "chrome/browser/web_applications/commands/manifest_silent_update_command.h"
 
 #include <string>

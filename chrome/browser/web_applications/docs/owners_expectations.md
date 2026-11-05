@@ -1,3 +1,13 @@
+---
+type: guide
+title: Expectations for chrome/browser/web_applications/OWNERS
+summary: Sets out the expectations for owners of the web applications directory and the process for becoming an owner.
+relations:
+  - documents /chrome/browser/web_applications/OWNERS
+  - references /docs/code_reviews.md
+  - references /chrome/browser/web_applications/README.md
+---
+
 # Expectations for `chrome/browser/web_applications/OWNERS`
 
 The `chrome/browser/web_applications` directory can have some high-risk areas for changes. We have an OWNERs policy to ensure the code and/or design can safely achieve its goals.

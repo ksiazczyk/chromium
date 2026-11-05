@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetUserDisplayModeCommand unit tests
+// summary: Unit tests verifying that setting the user display mode updates the registrar and OS integration state such as shortcuts.
+// ---
+
 #include "chrome/browser/web_applications/commands/set_user_display_mode_command.h"
 
 #include "base/test/test_future.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalAppResolutionCommand class header
+// summary: Declares the command that resolves external web app installs, handling URL loading, manifest fetching, placeholder installation, and replacement of existing placeholders.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_EXTERNAL_APP_RESOLUTION_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_EXTERNAL_APP_RESOLUTION_COMMAND_H_
 

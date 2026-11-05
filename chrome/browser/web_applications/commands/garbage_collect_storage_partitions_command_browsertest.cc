@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Garbage collect storage partitions command browser tests
+// summary: Browser tests verifying that storage partitions of uninstalled isolated web apps are garbage collected.
+// ---
+
 #include "chrome/browser/web_applications/commands/garbage_collect_storage_partitions_command.h"
 
 #include <optional>

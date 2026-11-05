@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch or reparent web contents into app command browser tests
+// summary: Browser tests verifying that the command reparents in-scope tabs into app windows and launches the app for out-of-scope web contents, checking the resulting browser windows.
+// ---
+
 #include "chrome/browser/web_applications/commands/launch_or_reparent_web_contents_into_app_command.h"
 
 #include "base/test/test_future.h"

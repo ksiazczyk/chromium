@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchManifestAndUpdateCommand implementation
+// summary: Implements the command that loads an install URL, retrieves its manifest, and runs a manifest update job when the manifest id matches the expected id.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_update_command.h"
 
 #include <algorithm>

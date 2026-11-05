@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app uninstall command unit test
+// summary: Unit tests for the uninstall command, exercising simple uninstall and install source removal scenarios with a fake web app provider and test file utilities.
+// ---
+
 #include "chrome/browser/web_applications/commands/web_app_uninstall_command.h"
 
 #include <memory>

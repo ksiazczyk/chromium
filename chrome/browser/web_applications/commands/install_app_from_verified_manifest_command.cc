@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install app from verified manifest command implementation
+// summary: Implements installing a web app from a raw verified manifest JSON string, with icon hosts restricted to an allowlist.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_app_from_verified_manifest_command.h"
 
 #include <memory>

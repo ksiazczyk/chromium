@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComputedAppSizeWithOrigin implementation
+// summary: Implements the value object that stores a web app's size in bytes, stored data size in bytes, and an optional origin with validity checks.
+// ---
+
 #include "chrome/browser/web_applications/commands/computed_app_size.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Update Data Read Command Header
+// summary: Declares the AppUpdateDataReadResult enum and AppUpdateDataReadCommand, which parses pending update metadata and icons into a WebAppIdentityUpdate.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APP_UPDATE_DATA_READ_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APP_UPDATE_DATA_READ_COMMAND_H_
 

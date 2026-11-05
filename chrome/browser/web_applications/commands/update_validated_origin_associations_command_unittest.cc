@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Validated origin associations command unit tests
+// summary: Unit tests covering offline handling, 24-hour throttling, and pending migration destination checks for the origin association revalidation command.
+// ---
+
 #include "chrome/browser/web_applications/commands/update_validated_origin_associations_command.h"
 
 #include <memory>

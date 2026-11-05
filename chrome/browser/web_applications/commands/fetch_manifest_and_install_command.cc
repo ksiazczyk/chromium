@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch manifest and install command implementation
+// summary: Implements the command that installs a web app from the manifest of the current WebContents, including fallback install info and screenshot fetching.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_install_command.h"
 
 #include <memory>

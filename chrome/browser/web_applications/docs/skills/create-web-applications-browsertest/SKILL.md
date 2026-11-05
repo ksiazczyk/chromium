@@ -1,6 +1,13 @@
 ---
 name: create-web-applications-browsertest
 description: Instructions for creating a browser test in the chrome/browser/web_applications and chrome/browser/ui/web_applications directories.
+type: guide
+title: Creating Web Applications Browsertests
+summary: Skill instructions for creating browser tests in chrome/browser/web_applications and chrome/browser/ui/web_applications, covering the WebAppBrowserTestBase fixture, test setup, waiting for stability, and validating user-visible state.
+relations:
+  - references /chrome/browser/ui/web_applications/web_app_browsertest_base.h
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/web_applications/docs/testing.md
 ---
 
 # Creating Web Applications Browsertests

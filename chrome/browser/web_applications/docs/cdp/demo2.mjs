@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Step-by-step demo of PWA CDP commands
+// summary: Interactive walkthrough that uses the shared helpers to send PWA CDP commands for installing, launching, inspecting, and uninstalling a web app.
+// ---
+
 import * as common from './common.mjs';
 Object.assign(global, common);
 

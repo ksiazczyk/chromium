@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchManifestAndUpdateResult stream operator
+// summary: Defines the ostream operator that prints FetchManifestAndUpdateResult enum values as readable strings for logging.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_update_result.h"
 
 #include <ostream>

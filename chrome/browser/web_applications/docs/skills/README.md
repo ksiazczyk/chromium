@@ -1,3 +1,11 @@
+---
+type: readme
+title: Agent Skills
+summary: Describes the web_applications-specific agent skills directory and how to install a skill into a workspace via a symlink with the gemini CLI.
+relations:
+  - references /agents/skills/README.md
+---
+
 # Agent Skills
 
 This directory contains specialized Agent Skills for Chromium development in the

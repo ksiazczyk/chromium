@@ -1,3 +1,13 @@
+---
+type: plan
+title: 'Project: Dynamic Toolbar Updating Implementation Plan'
+summary: Step-by-step implementation plan for updating web app toolbar visibility on scope changes, with phased vertical slices, key files, and a TODO log for tracking progress.
+relations:
+  - references /chrome/browser/web_applications/docs/predictable_app_updating/scope_toolbar_dynamic_updating_design.md
+  - references /chrome/browser/web_applications/docs/predictable_app_updating/scope_toolbar_dynamic_updating_investigation.md
+  - references /chrome/browser/ui/web_applications/web_app_browser_controller.h
+---
+
 # Project: Dynamic Toolbar Updating Implementation Plan
 
 * **Investigation Doc:**

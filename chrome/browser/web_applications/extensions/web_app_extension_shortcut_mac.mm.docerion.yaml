@@ -1,0 +1,4 @@
+# Docerion header of web_app_extension_shortcut_mac.mm.
+type: source
+title: Mac web app shortcut upgrade implementation
+summary: Implements Mac-specific logic for repairing and upgrading Chrome app shortcuts during batch upgrades, coordinating with the extension system and web app command scheduler.

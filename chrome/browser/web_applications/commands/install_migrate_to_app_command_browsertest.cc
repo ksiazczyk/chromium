@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallMigrateToAppCommand browser tests
+// summary: Browser tests verifying that migration target apps are installed only when the source app is installed and that redirecting install URLs do not trigger installation.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/test/test_future.h"

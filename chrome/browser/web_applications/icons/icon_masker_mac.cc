@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon masker macOS implementation
+// summary: Applies Apple-style icon masking on a thread pool for macOS, falling back to the unmasked bitmap when masking fails.
+// ---
+
 #include "chrome/browser/web_applications/icons/icon_masker.h"
 
 #include "base/task/bind_post_task.h"

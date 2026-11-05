@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest silent update command implementation
+// summary: Implements the command that silently updates non-security-sensitive manifest data and icons for an installed web app, deferring sensitive changes to pending update info.
+// ---
+
 #include "chrome/browser/web_applications/commands/manifest_silent_update_command.h"
 
 #include <array>

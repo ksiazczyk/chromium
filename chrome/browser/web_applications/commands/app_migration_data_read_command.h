@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Migration Data Read Command Header
+// summary: Declares AppMigrationDataReadCommand, which parses pending migration metadata and stored icons into a WebAppIdentityUpdate for the update dialog.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APP_MIGRATION_DATA_READ_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APP_MIGRATION_DATA_READ_COMMAND_H_
 

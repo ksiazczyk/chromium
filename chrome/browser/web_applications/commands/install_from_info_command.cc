@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallFromInfoCommand implementation
+// summary: Implements the command that installs a web app from prefilled WebAppInstallInfo, running InstallFromInfoJob under an app lock and reporting install metrics and results.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_from_info_command.h"
 
 #include <memory>

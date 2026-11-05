@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Migration Data Read Command Implementation
+// summary: Implements a command that reads a web app's pending migration metadata and icons from disk to build identity update data for the app update dialog.
+// ---
+
 #include "chrome/browser/web_applications/commands/app_migration_data_read_command.h"
 
 #include <memory>

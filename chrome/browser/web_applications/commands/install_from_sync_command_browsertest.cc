@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallFromSyncCommand browser tests
+// summary: Browser tests for InstallFromSyncCommand covering simple installs and icon handling, comparing installed app icons against expected images loaded from disk.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_from_sync_command.h"
 
 #include <optional>

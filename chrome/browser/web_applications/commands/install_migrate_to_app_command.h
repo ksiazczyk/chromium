@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallMigrateToAppCommand header
+// summary: Declares InstallMigrateToAppCommand, which handles manifests with a migrate_to field by navigating to the install URL, verifying the target manifest, and triggering install or update jobs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_MIGRATE_TO_APP_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_MIGRATE_TO_APP_COMMAND_H_
 

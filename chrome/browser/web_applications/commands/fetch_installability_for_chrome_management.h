@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch installability for Chrome management header
+// summary: Declares the command that determines if a URL is installable, what its AppId is, and whether it is already installed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_FETCH_INSTALLABILITY_FOR_CHROME_MANAGEMENT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_FETCH_INSTALLABILITY_FOR_CHROME_MANAGEMENT_H_
 

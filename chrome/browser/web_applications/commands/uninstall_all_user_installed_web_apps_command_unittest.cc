@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UninstallAllUserInstalledWebAppsCommand unit tests
+// summary: Unit tests covering uninstalling all user-installed web apps, including isolated web apps and the case with no user-installed apps.
+// ---
+
 #include "chrome/browser/web_applications/commands/uninstall_all_user_installed_web_apps_command.h"
 
 #include <memory>

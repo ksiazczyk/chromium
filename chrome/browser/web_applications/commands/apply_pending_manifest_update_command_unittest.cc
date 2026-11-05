@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apply pending manifest update command unit tests
+// summary: Unit tests for applying pending manifest updates, covering icon and name changes, results and UKM metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/apply_pending_manifest_update_command.h"
 
 #include "base/strings/utf_string_conversions.h"

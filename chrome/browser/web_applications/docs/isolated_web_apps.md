@@ -1,3 +1,11 @@
+---
+type: reference
+title: Isolated Web Apps
+summary: 'Overview of Isolated Web Apps, the isolated-app: scheme, how content is served from Signed Web Bundles, and how the code is split between components.'
+relations:
+  - references /docs/security/rule-of-2.md
+---
+
 # Isolated Web Apps
 
 _Isolated Web Apps_ are a proposal for "a way of building applications using web

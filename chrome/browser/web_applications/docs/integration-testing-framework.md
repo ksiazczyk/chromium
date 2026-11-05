@@ -1,3 +1,13 @@
+---
+type: reference
+title: Desktop Web App Integration Testing Framework
+summary: Reference for the integration testing framework covering terminology, test generation scripts, coverage data, and the WebAppIntegrationTestDriver implementation.
+relations:
+  - references /chrome/browser/ui/views/web_apps/web_app_integration_browsertest.cc
+  - references /chrome/browser/ui/views/web_apps/web_app_integration_test_driver.h
+  - references /chrome/browser/web_applications/README.md
+---
+
 # Desktop Web App Integration Testing Framework
 
 [TOC]

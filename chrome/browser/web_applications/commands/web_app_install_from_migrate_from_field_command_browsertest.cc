@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app install from migrate_from field browser test
+// summary: Browser test verifying that installing a web app whose manifest declares a migrate_from field migrates the source app, serving dynamic manifests via an embedded test server.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

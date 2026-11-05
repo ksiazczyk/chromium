@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FetchManifestAndInstallCommand unit tests
+// summary: Unit tests for the fetch manifest and install command, exercising install behavior, metrics, and platform-specific paths with fake providers.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_install_command.h"
 
 #include <memory>

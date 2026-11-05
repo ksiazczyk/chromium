@@ -1,3 +1,12 @@
+---
+type: decision
+title: 'Design Doc: Dynamic Custom Tab Bar Visibility on Web App Scope Change'
+summary: Design document proposing a WebAppScope class and a new registrar observer method so web app windows update custom tab bar visibility when the app's effective scope changes.
+relations:
+  - references /chrome/browser/web_applications/docs/predictable_app_updating/scope_toolbar_dynamic_updating_investigation.md
+  - references /chrome/browser/web_applications/web_app_sync_bridge.cc
+---
+
 # Design Doc: Dynamic Custom Tab Bar Visibility on Web App Scope Change
 
 - **Author(s):** dmurph@chromium.org

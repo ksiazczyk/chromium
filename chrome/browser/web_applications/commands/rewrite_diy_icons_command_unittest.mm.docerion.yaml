@@ -1,0 +1,4 @@
+# Docerion header of rewrite_diy_icons_command_unittest.mm.
+type: test
+title: RewriteDiyIconsCommand unit tests
+summary: Unit tests for the macOS DIY icon rewrite command, verifying masked icon state handling and shortcut update results.

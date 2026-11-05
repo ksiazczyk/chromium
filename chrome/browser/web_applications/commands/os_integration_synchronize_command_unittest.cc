@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS integration synchronize command unit tests
+// summary: Unit tests verifying OS integration synchronization, including shortcut options, protocol handlers, and install state transitions.
+// ---
+
 #include "chrome/browser/web_applications/commands/os_integration_synchronize_command.h"
 
 #include <memory>

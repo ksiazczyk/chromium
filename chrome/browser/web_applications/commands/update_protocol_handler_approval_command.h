@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update protocol handler approval command header
+// summary: Declares a command that updates an app's approved or disallowed protocol handlers and syncs the OS protocol registration when needed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UPDATE_PROTOCOL_HANDLER_APPROVAL_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UPDATE_PROTOCOL_HANDLER_APPROVAL_COMMAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveWebAppPendingMigrationInfoCommand header
+// summary: Declares the command that keeps pending migration info on source apps consistent with installed migration target apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_RESOLVE_WEB_APP_PENDING_MIGRATION_INFO_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_RESOLVE_WEB_APP_PENDING_MIGRATION_INFO_COMMAND_H_
 

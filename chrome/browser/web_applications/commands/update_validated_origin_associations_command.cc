@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update validated origin associations command implementation
+// summary: Implements revalidation of web app origin associations against server-side values, skipping when offline and rate-limiting to once per day per app.
+// ---
+
 #include "chrome/browser/web_applications/commands/update_validated_origin_associations_command.h"
 
 #include <utility>

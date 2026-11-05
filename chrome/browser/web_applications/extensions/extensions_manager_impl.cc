@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsManagerImpl implementation
+// summary: Implements the ExtensionsManager interface for extension-based apps, covering install gating, policy checks, storage paths, and shortcut and layout queries.
+// ---
+
 #include "chrome/browser/web_applications/extensions/extensions_manager_impl.h"
 
 #include <memory>

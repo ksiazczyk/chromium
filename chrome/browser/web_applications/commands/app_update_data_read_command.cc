@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Update Data Read Command Implementation
+// summary: Implements a command that reads a web app's pending update metadata and icons from disk to construct identity update data for the update dialog, recording UMA metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/app_update_data_read_command.h"
 
 #include <memory>

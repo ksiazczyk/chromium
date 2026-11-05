@@ -1,3 +1,9 @@
+---
+type: reference
+title: WebUI Web Apps
+summary: Documents installable Chrome WebUI web apps, such as the password manager, and the navigation restrictions that apply to them.
+---
+
 ## WebUI Web Apps
 
 ### Installable WebUIs
