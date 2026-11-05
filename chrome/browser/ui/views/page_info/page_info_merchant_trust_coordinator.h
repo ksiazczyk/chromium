@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant trust coordinator header
+// summary: Declares PageInfoMerchantTrustCoordinator, which wires the merchant trust content view to its controller and observes view lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_INFO_PAGE_INFO_MERCHANT_TRUST_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_INFO_PAGE_INFO_MERCHANT_TRUST_COORDINATOR_H_
 

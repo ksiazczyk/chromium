@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxViewViews unit tests
+// summary: Unit tests for the views-based omnibox edit view, covering scheme emphasis, clipboard, input methods, and popup update behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_view_views.h"
 
 #include <stddef.h>

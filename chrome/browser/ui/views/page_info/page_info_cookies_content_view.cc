@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info cookies content view implementation
+// summary: Implements the cookies subpage of the page info bubble, showing third-party cookie controls, allowed sites and related website set information.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_cookies_content_view.h"
 
 #include "base/check.h"

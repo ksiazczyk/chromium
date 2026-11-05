@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password bubble interactive UI tests
+// summary: Interactive UI tests covering password bubble behaviors such as focus, clipboard use, page actions, and related views.
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

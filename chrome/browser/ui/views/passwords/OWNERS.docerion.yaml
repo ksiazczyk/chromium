@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the passwords views directory
+summary: Delegates review ownership to the owners list of chrome/browser/ui/passwords/OWNERS.

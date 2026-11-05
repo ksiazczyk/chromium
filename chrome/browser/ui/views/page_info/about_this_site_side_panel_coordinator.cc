@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About This Site side panel coordinator implementation
+// summary: Implements the per-WebContents coordinator that registers and shows the About This Site side panel entry and updates it on navigation.
+// ---
+
 #include "chrome/browser/ui/views/page_info/about_this_site_side_panel_coordinator.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox frame implementation
+// summary: Implements the frame for the full WebUI omnibox popup, managing shadow elevation, shadow margins, and mouse event forwarding.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/full_webui_omnibox_frame.h"
 
 #include <memory>

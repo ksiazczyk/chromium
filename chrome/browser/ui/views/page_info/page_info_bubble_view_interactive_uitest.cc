@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info bubble interactive UI tests
+// summary: Interactive UI tests that open the page info bubble and exercise permission toggles, focus tracking and ChromeOS smart card permissions.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_bubble_view.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change toast unit test
+// summary: Unit tests verifying toast display options and layout updates for the password change toast view.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_change/password_change_toast.h"
 
 #include <memory>

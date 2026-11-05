@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-to-tab overlay button class declaration
+// summary: Declares OverlayWindowBackToTabButton, an overlay window image button that returns the user to the originating tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_BACK_TO_TAB_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_BACK_TO_TAB_BUTTON_H_
 

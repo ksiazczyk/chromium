@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info security content view implementation
+// summary: Implements the security subpage view, setting icons and summary text based on identity info and Safe Browsing status.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_security_content_view.h"
 
 #include <string>

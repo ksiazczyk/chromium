@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxRowView implementation
+// summary: Implements OmniboxRowView, the popup row container that holds an optional header above the result view for each omnibox suggestion line.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_row_view.h"
 
 #include "base/strings/string_number_conversions.h"

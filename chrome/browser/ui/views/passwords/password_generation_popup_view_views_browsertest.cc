@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation popup browser test
+// summary: Pixel browser test with a mocked controller that exercises the password generation popup in offer-generation and editing states.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_generation_popup_view_views.h"
 
 #include <string>

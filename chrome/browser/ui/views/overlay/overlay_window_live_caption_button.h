@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay window live caption button header
+// summary: Declares OverlayWindowLiveCaptionButton, a simple overlay image button that opens and closes the live caption dialog in the Picture-in-Picture overlay window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_LIVE_CAPTION_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_LIVE_CAPTION_BUTTON_H_
 

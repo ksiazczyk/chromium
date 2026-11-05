@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration Messaging Page Action Icon Interactive UI Tests
+// summary: Interactive browser tests verifying that collaboration messaging page action chips appear in tab groups with correct labels and avatar fallbacks.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi Icon Button Implementation
+// summary: Implements a button that renders multiple icons with rounded-rect clipping and cutouts for overlapping icons, plus an icon container view.
+// ---
+
 #include "chrome/browser/ui/views/page_action/multi_icon_button.h"
 
 #include <algorithm>

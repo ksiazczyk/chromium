@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage passwords list view implementation
+// summary: Implements the credential row list and navigate-to-settings entry displayed in the manage passwords bubble.
+// ---
+
 #include "chrome/browser/ui/views/passwords/manage_passwords_list_view.h"
 
 #include "build/build_config.h"

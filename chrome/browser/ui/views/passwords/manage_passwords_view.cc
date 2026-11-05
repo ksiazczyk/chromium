@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage passwords bubble view implementation
+// summary: Implements the bubble dialog for managing a site's stored passwords, showing either a credential list or details of a selected password form.
+// ---
+
 #include "chrome/browser/ui/views/passwords/manage_passwords_view.h"
 
 #include <memory>

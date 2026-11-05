@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox row grouped view implementation
+// summary: Implements a popup child view that animates grouped omnibox rows sliding and fading into place for contextual search suggestions.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_row_grouped_view.h"
 
 #include "base/task/single_thread_task_runner.h"

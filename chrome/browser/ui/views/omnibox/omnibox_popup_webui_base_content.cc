@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup WebUI base content implementation
+// summary: Implements the shared WebView base for WebUI omnibox popup content, handling focus traversal, context menus, media access, and file selection.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_webui_base_content.h"
 
 #include <string_view>

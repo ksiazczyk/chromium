@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle camera button implementation
+// summary: Implements the Picture-in-Picture overlay button that turns the camera on or off, updating its icon and tooltip to match the camera state.
+// ---
+
 #include "chrome/browser/ui/views/overlay/toggle_camera_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

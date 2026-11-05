@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test location bar stub header
+// summary: Declares TestLocationBar, a no-op LocationBar test double with setters for the omnibox view, profile, and bounds used in omnibox unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_TEST_LOCATION_BAR_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_TEST_LOCATION_BAR_H_
 

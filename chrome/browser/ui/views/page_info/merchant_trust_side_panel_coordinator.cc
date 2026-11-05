@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust side panel coordinator implementation
+// summary: Implements the per-WebContents coordinator that registers and shows the merchant trust side panel with merchant reviews content.
+// ---
+
 #include "chrome/browser/ui/views/page_info/merchant_trust_side_panel_coordinator.h"
 
 #include "base/functional/bind.h"

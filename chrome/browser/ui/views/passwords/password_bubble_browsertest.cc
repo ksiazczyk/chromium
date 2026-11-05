@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password bubble browser tests
+// summary: Browser tests for the password save/update bubble across sync configurations, RTL layouts, and UI feature variations.
+// ---
+
 #include <memory>
 #include <optional>
 #include <tuple>

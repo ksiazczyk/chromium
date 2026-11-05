@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIReadOnlyOmnibox unit tests
+// summary: Unit tests for WebUIReadOnlyOmnibox using a test update propagator to verify omnibox state propagation, focus requests, and text styling behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/webui_readonly_omnibox.h"
 
 #include <memory>

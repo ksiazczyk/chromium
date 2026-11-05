@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views-based omnibox popup view implementation
+// summary: Implements OmniboxPopupViewViews, the native Views widget that shows omnibox autocomplete results, handling popup bounds, selection, animations, and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox result view unit tests
+// summary: Unit tests for OmniboxResultView covering selection state, mouse events, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_result_view.h"
 
 #include <memory>

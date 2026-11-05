@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About This Site side panel coordinator browser tests
+// summary: Browser tests verifying showing, persistence across refreshes, and navigation behavior of the About This Site side panel.
+// ---
+
 #include "base/strings/escape.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

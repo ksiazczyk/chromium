@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info permission content view unit tests
+// summary: Unit tests for the permission content view, setting up page info, media device fakes and permission state changes.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_permission_content_view.h"
 
 #if !BUILDFLAG(IS_CHROMEOS)

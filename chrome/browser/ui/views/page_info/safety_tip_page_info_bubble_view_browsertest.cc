@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety tip page info bubble browser tests
+// summary: Browser tests for the safety tip bubble covering lookalike warnings, navigation, and user interactions.
+// ---
+
 #include "chrome/browser/ui/views/page_info/safety_tip_page_info_bubble_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to account store bubble view declaration
+// summary: Declares the bubble view that prompts the user to move a profile credential to their account store.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_MOVE_TO_ACCOUNT_STORE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_MOVE_TO_ACCOUNT_STORE_BUBBLE_VIEW_H_
 

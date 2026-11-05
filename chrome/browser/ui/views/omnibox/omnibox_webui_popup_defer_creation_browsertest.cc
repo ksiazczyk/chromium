@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI omnibox popup deferred creation browser tests
+// summary: Browser tests verifying that the WebUI omnibox suggestion popup creates its content after the browser window paints and when the popup opens.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

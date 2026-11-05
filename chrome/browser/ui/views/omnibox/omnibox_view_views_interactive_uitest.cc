@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxViewViews interactive UI tests
+// summary: Interactive browser tests for the views-based omnibox edit view, covering HTTPS upgrades, AIM eligibility, surveys, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_view_views.h"
 
 #include <stddef.h>

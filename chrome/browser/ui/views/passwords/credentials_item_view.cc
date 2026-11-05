@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credentials item view implementation
+// summary: Implements the button view showing a credential with avatar image and labels in the account chooser bubble.
+// ---
+
 #include "chrome/browser/ui/views/passwords/credentials_item_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant trust content view implementation
+// summary: Implements the merchant trust section of page info, showing store rating, review count and a view reviews button.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_merchant_trust_content_view.h"
 
 #include <string>

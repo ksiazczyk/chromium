@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup WebUI interactive UI tests
+// summary: Interactive UI tests for the WebUI omnibox popup view, covering themes, permissions, and popup behavior on desktop platforms.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_webui.h"
 
 #include "base/run_loop.h"

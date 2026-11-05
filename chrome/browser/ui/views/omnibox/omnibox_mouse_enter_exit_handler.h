@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox mouse enter exit handler header
+// summary: Declares OmniboxMouseEnterExitHandler, which bridges child view mouse-enter and mouse-exit events to a callback to keep suggestion row hover state correct.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_MOUSE_ENTER_EXIT_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_MOUSE_ENTER_EXIT_HANDLER_H_
 

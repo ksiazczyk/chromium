@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication confirmation bubble view implementation
+// summary: Implements the bubble confirming biometric authentication for password access, with platform-specific text and a link to password settings.
+// ---
+
 #include "chrome/browser/ui/views/passwords/biometric_authentication_confirmation_bubble_view.h"
 
 #include "base/functional/bind.h"

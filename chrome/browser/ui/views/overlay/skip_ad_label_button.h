@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skip ad label button class declaration
+// summary: Declares SkipAdLabelButton, a views label button that lets users skip ads in the Picture-in-Picture overlay window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_SKIP_AD_LABEL_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_SKIP_AD_LABEL_BUTTON_H_
 

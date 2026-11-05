@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page Action Views Build Configuration
+summary: GN build file defining the page_action source set, its implementation and test support targets, and their dependencies for desktop platforms.

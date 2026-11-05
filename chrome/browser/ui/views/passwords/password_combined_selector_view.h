@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password combined selector view header
+// summary: Declares PasswordCombinedSelectorView, a dialog delegate that shows a credential list with radio buttons as an account chooser prompt.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_COMBINED_SELECTOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_COMBINED_SELECTOR_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Page Action View Header
+// summary: Declares WebUIPageActionView, a PageActionViewInterface implementation that bridges C++ page action calls to the WebUI front-end without a traditional views::View.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_WEBUI_PAGE_ACTION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_WEBUI_PAGE_ACTION_VIEW_H_
 

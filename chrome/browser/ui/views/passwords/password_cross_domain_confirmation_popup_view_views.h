@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-domain password confirmation popup header
+// summary: Declares the views implementation of the cross-domain password filling confirmation popup, including button IDs and input event protection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_CROSS_DOMAIN_CONFIRMATION_POPUP_VIEW_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_CROSS_DOMAIN_CONFIRMATION_POPUP_VIEW_VIEWS_H_
 

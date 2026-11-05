@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site bubble view implementation
+// summary: Implements the warning bubble for Safe Browsing flagged suspicious sites, with back to safety and mark as safe actions.
+// ---
+
 #include "chrome/browser/ui/views/page_info/suspicious_site_bubble_view.h"
 
 #include <memory>

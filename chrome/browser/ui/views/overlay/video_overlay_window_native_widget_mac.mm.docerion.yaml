@@ -1,0 +1,4 @@
+# Docerion header of video_overlay_window_native_widget_mac.mm.
+type: source
+title: Mac native widget implementation for the video overlay window
+summary: Implements the Mac native widget that creates the Picture-in-Picture overlay window as frameless with full-size content view styling.

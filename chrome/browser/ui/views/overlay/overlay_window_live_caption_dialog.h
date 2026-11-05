@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay window live caption dialog header
+// summary: Declares OverlayWindowLiveCaptionDialog, a views::View holding caption and translate toggle buttons, labels and a target language combobox, with test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_LIVE_CAPTION_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_LIVE_CAPTION_DIALOG_H_
 

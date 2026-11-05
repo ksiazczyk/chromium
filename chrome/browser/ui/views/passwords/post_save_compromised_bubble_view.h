@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post save compromised bubble view header
+// summary: Declares the bubble that notifies the user about remaining compromised credentials in the store.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_POST_SAVE_COMPROMISED_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_POST_SAVE_COMPROMISED_BUBBLE_VIEW_H_
 

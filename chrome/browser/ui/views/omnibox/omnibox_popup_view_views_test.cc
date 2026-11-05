@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup views test fixture implementation
+// summary: Implements the OmniboxPopupViewViewsTest fixture helpers for creating test popups and managing theme changes.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_views_test.h"
 
 #include "build/build_config.h"

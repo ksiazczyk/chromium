@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimize button for the Picture-in-Picture overlay window
+// summary: Implements the overlay window minimize button with fixed sizing, a minimize icon, an accessibility label and positioning relative to the window size.
+// ---
+
 #include "chrome/browser/ui/views/overlay/minimize_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

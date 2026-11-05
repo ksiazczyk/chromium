@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission toggle row view implementation
+// summary: Implements the row view that lets users toggle site permission access and open permission subpages.
+// ---
+
 #include "chrome/browser/ui/views/page_info/permission_toggle_row_view.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication confirmation bubble view header
+// summary: Declares the PasswordBubbleViewBase subclass that shows the biometric authentication confirmation bubble with its controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_BIOMETRIC_AUTHENTICATION_CONFIRMATION_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_BIOMETRIC_AUTHENTICATION_CONFIRMATION_BUBBLE_VIEW_H_
 

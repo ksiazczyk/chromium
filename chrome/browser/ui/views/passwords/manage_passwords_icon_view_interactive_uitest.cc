@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage passwords icon view interactive UI tests
+// summary: Interactive browser tests verifying the manage passwords page action icon states, visibility, tooltips and bubble behavior.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/actions/chrome_action_id.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

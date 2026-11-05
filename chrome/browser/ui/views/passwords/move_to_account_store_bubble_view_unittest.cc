@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Move to account store bubble view unit tests
+// summary: Unit tests for the move-to-account-store bubble verifying the dialog buttons and description text shown to signed-in users.
+// ---
+
 #include "chrome/browser/ui/views/passwords/move_to_account_store_bubble_view.h"
 
 #include <utility>

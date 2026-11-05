@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Page Action Control Implementation
+// summary: Implements the bridge between the page actions backend and the WebUI toolbar, covering icon color resolution, state pushing, and interaction handling.
+// ---
+
 #include "chrome/browser/ui/views/page_action/webui_page_action_control.h"
 
 #include <utility>

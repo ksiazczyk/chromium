@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Successful password change view implementation
+// summary: Implements the bubble shown after a successful password change, with username, obscured password, eye icon and manage passwords button.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_change/successful_password_change_view.h"
 
 #include "base/functional/bind.h"

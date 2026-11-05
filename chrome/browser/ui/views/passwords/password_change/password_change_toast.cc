@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change toast view implementation
+// summary: Implements the toast view showing password change progress with icon, throbber, label, action and close buttons.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_change/password_change_toast.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

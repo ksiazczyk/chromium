@@ -9,6 +9,12 @@
 // --test-launcher-print-test-stdio=always to see the "OmniboxPopupBudget"
 // lines.
 
+// ---docerion
+// type: test
+// title: Omnibox popup resource budget browser test
+// summary: Browser test asserting budgets for popup WebContents, widgets, and renderer processes per browser window to guard against resource regressions in WebUI omnibox popups.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <set>

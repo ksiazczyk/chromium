@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action container view unit tests
+// summary: Unit tests verifying page action view lookup by action ID and dynamic updates of the elevated capsule background on visibility changes.
+// ---
+
 #include "chrome/browser/ui/views/page_action/page_action_container_view.h"
 
 #include "base/test/scoped_feature_list.h"

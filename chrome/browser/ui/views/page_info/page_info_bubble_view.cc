@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info bubble view implementation
+// summary: Implements the views page info bubble, routing internal, extension, and reader-mode pages to a minimal internal bubble variant.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_bubble_view.h"
 
 #include <memory>

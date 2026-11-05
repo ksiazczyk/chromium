@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation popup view implementation
+// summary: Implements the popup that offers and displays a generated password, including the nudge button row, layout and accessible state updates.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_generation_popup_view_views.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayWindowMinimizeButton class header
+// summary: Declares the overlay window minimize button image button and its SetPosition method for placing the control relative to the window size.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_MINIMIZE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_MINIMIZE_BUTTON_H_
 

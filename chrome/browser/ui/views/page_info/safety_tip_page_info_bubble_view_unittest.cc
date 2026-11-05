@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety tip page info bubble view unit tests
+// summary: Unit tests that create the safety tip page info bubble in a test harness and verify it opens and closes.
+// ---
+
 #include "chrome/browser/ui/views/page_info/safety_tip_page_info_bubble_view.h"
 
 #include "base/functional/callback_helpers.h"

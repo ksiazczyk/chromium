@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant trust coordinator implementation
+// summary: Creates the merchant trust content view and controller and notifies the controller when the bubble opens or the view is deleted.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_merchant_trust_coordinator.h"
 
 #include <memory>

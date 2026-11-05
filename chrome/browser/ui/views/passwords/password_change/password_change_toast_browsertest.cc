@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change toast browser test
+// summary: Browser test that shows and pixel-verifies the password change toast in the password successfully changed state.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_change/password_change_toast.h"
 
 #include <memory>

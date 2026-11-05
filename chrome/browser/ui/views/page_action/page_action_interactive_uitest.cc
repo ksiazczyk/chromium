@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action interactive UI tests
+// summary: Interactive browser tests covering page action chip expansion and collapse, visibility, anchored messages, and related toolbar behaviors.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <optional>

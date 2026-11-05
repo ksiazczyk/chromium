@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayControlsFadeAnimation class header
+// summary: Declares the animation class that fades VideoOverlayWindowViews controls to shown or hidden states and documents lifetime requirements for the controls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_CONTROLS_FADE_ANIMATION_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_CONTROLS_FADE_ANIMATION_H_
 

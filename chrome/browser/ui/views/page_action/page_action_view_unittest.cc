@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action view unit tests
+// summary: Unit tests for PageActionView covering chip visibility, animations, controller and model interactions, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/page_action/page_action_view.h"
 
 #include <memory>

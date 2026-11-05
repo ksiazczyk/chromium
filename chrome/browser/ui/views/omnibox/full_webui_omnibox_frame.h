@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox frame class declaration
+// summary: Declares FullWebUIOmniboxFrame, which controls shadow margins, elevation, and forwarding of mouse events to the browser window beneath.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_FULL_WEBUI_OMNIBOX_FRAME_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_FULL_WEBUI_OMNIBOX_FRAME_H_
 

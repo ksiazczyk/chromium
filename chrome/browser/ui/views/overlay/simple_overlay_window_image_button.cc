@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple overlay window image button implementation
+// summary: Implements SimpleOverlayWindowImageButton, drawing a custom vector icon with tooltip and accessibility label and adjusting size on visibility changes for dragging.
+// ---
+
 #include "chrome/browser/ui/views/overlay/simple_overlay_window_image_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

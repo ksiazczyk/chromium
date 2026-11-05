@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-domain confirmation popup browser test
+// summary: Pixel browser test with a mocked controller that verifies the cross-domain password filling confirmation popup renders and triggers its confirm callback.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_cross_domain_confirmation_popup_view_views.h"
 
 #include <string>

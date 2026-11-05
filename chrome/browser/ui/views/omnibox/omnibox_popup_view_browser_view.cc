@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup view for BrowserView implementation
+// summary: Implements OmniboxPopupView as a WebView embedded directly in BrowserView for the next-gen full WebUI omnibox, avoiding separate popup widgets.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_browser_view.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox result view implementation
+// summary: Implements the view that renders a single omnibox suggestion row, including theming, hover states, buttons, and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_result_view.h"
 
 #include <limits.h>

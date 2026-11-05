@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Anchored Message View Unit Tests
+// summary: Unit tests for the anchored message bubble view using interactive views test mixins, mock models, and animation test helpers.
+// ---
+
 #include "chrome/browser/ui/views/page_action/anchored_message_view.h"
 
 #include <memory>

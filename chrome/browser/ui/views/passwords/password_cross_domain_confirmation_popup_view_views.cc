@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-domain password confirmation popup implementation
+// summary: Implements the popup view that asks users to confirm filling a password on a different domain, with headline, body text and confirm and cancel buttons.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_cross_domain_confirmation_popup_view_views.h"
 
 #include <memory>

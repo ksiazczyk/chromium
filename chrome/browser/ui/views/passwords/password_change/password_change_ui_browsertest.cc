@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change UI browser test
+// summary: Dialog browser test exercising password change UI bubbles with mocked affiliation and optimization guide services.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/affiliations/affiliation_service_factory.h"
 #include "chrome/browser/optimization_guide/mock_optimization_guide_keyed_service.h"

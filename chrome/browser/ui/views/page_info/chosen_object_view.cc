@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chosen object view implementation
+// summary: Implements the Page Info bubble row that shows an object the site has access to, such as a Bluetooth or USB device, with a delete control.
+// ---
+
 #include "chrome/browser/ui/views/page_info/chosen_object_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox local answer header view implementation
+// summary: Implements the header row for local answer suggestions, combining a throbber, icon and label with theme-aware colors and matching one-line match row height.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_local_answer_header_view.h"
 
 #include <memory>

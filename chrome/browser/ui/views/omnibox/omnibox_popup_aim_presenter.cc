@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox AIM popup presenter implementation
+// summary: Implements the popup presenter for the AI Mode WebUI omnibox popup, handling deferred content creation, show and hide behavior and feature-driven tweaks.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_aim_presenter.h"
 
 #include <optional>

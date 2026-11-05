@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox mouse enter exit handler implementation
+// summary: Implements a pre-target event handler that runs a callback whenever an observed view receives a mouse-enter or mouse-exit event.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_mouse_enter_exit_handler.h"
 
 #include "ui/events/event.h"

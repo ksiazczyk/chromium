@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIReadOnlyOmnibox class header
+// summary: Declares the WebUI-based OmniboxView implementation that pushes omnibox state, focus requests, and context menu handling to the WebUI toolbar via an UpdatePropagator interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_WEBUI_READONLY_OMNIBOX_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_WEBUI_READONLY_OMNIBOX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchored Message View Implementation
+// summary: Implements the anchored message bubble for page actions, including the clickable chip container, animations, menus, and expandable content.
+// ---
+
 #include "chrome/browser/ui/views/page_action/anchored_message_view.h"
 
 #include <functional>

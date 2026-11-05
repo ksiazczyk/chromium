@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action view utilities
+// summary: Maps page action IDs to side panel open triggers for Read Anything, Lens overlay results, and contextual tasks.
+// ---
+
 #include "chrome/browser/ui/views/page_action/page_action_view_util.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

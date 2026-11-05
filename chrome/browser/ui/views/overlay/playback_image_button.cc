@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback image button implementation
+// summary: Implements the Picture-in-Picture center playback button, switching play, pause and replay icons, backgrounds, tooltips and accessibility names by playback state.
+// ---
+
 #include "chrome/browser/ui/views/overlay/playback_image_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

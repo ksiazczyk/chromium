@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionButtonRowView implementation
+// summary: Implements the suggestion button row view, building chips and pill buttons such as keyword, embeddings, and action buttons within omnibox result rows.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_suggestion_button_row_view.h"
 
 #include <algorithm>

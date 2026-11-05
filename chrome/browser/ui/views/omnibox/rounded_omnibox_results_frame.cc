@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded omnibox results frame implementation
+// summary: Implements the widget content frame for the omnibox popup, handling rounded corners, shadows, immersive fullscreen event routing, and mouse forwarding.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/rounded_omnibox_results_frame.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test location bar stub
+// summary: Stub LocationBar implementation for omnibox tests, returning a configurable omnibox view, profile, and bounds while no-oping most behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/test_location_bar.h"
 
 #include "chrome/browser/ui/views/omnibox/omnibox_view_views.h"

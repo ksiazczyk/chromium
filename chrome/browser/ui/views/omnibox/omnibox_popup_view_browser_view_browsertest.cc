@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup view BrowserView browser test
+// summary: Browser test verifying that the omnibox popup view is created and open when the full WebUI omnibox runs embedded in BrowserView.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_browser_view.h"
 
 #include "base/test/scoped_feature_list.h"

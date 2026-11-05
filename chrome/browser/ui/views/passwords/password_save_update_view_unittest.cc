@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password save and update bubble view unit tests
+// summary: Unit tests covering the save/update bubble in two-button and three-button variants.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_save_update_view.h"
 
 #include <memory>

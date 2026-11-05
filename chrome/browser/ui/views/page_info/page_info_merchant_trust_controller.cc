@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant trust controller implementation
+// summary: Fetches merchant trust data for the visible URL, updates the content view, opens the merchant trust side panel and records interaction metrics and UKM.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_merchant_trust_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

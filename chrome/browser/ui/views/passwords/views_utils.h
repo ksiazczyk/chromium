@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password views shared utility declarations
+// summary: Declares CircularImageView and helper functions for building labels, credential rows, and editable comboboxes used by Chrome's password bubbles and dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_VIEWS_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_VIEWS_UTILS_H_
 

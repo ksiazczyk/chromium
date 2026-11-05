@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hang up button for the Picture-in-Picture overlay window
+// summary: Implements the hang up button on the Picture-in-Picture overlay window, with a call-end icon, error-colored pill background and size-aware icon updates.
+// ---
+
 #include "chrome/browser/ui/views/overlay/hang_up_button.h"
 
 #include "chrome/browser/ui/views/overlay/constants.h"

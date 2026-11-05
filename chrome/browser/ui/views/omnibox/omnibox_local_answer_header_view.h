@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox local answer header view header
+// summary: Declares OmniboxLocalAnswerHeaderView, a views::View that shows a throbber, icon and text for local answer suggestion headers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_LOCAL_ANSWER_HEADER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_LOCAL_ANSWER_HEADER_VIEW_H_
 

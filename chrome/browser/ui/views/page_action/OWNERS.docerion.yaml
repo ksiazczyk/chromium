@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Page Action Views
+summary: Delegates code ownership to the page_action OWNERS file and assigns WebUI-related files to the waap OWNERS.

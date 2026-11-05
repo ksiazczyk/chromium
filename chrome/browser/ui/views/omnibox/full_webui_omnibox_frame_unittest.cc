@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full WebUI omnibox frame unit tests
+// summary: Unit tests verifying window targeter hit-test insets, elevation updates, and collapsed shadow margin behavior of the frame.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/full_webui_omnibox_frame.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Close button implementation for overlay window
+// summary: Implements the picture-in-picture close image button with icon, accessibility label, tooltip and top-right positioning.
+// ---
+
 #include "chrome/browser/ui/views/overlay/close_image_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

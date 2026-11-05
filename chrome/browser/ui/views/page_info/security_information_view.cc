@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security information view implementation
+// summary: Implements the page info bubble header view showing the site's security summary, details and related actions.
+// ---
+
 #include "chrome/browser/ui/views/page_info/security_information_view.h"
 
 #include <utility>

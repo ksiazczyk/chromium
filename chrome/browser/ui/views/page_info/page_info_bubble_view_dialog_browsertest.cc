@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info bubble dialog browser tests
+// summary: Browser tests for the page info bubble dialog, covering certificates, cookies, permissions and isolated web app scenarios.
+// ---
+
 #include "base/feature_list.h"
 #include "base/path_service.h"
 #include "base/time/time_override.h"

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_native_widget_mac.mm.
+type: source
+title: Omnibox popup native widget for macOS implementation
+summary: Implements OmniboxPopupNSWindow and OmniboxPopupNativeWidgetMac, forwarding accessibility geometry attributes to the root parent window so window managers move or resize the browser.
