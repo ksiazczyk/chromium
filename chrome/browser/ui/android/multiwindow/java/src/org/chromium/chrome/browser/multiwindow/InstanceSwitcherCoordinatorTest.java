@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instance switcher coordinator tests
+// summary: Espresso-based instrumented tests for the instance switcher coordinator dialog UI.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static androidx.test.espresso.Espresso.onView;

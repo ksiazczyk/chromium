@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox directory bug tracking metadata
+summary: Maps the directory to the Monorail component UI>Browser>Omnibox and a public Buganizer component for issue routing.

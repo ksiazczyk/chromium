@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarEmbedderUiOverrides
+// summary: Data class holding last-resort UI overrides for the LocationBar, covering main-browser status, phone-style suggestions, and Lens and Voice entrypoint availability.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.base.supplier.NullableObservableSupplier;

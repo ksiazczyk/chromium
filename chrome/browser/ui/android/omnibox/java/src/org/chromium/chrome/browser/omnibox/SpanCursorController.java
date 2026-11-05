@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpanCursorController
+// summary: Applies and removes autocomplete text spans and hides the cursor while inline autocomplete is shown in the omnibox.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

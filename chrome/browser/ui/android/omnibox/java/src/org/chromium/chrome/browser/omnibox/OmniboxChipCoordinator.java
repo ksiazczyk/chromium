@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip coordinator
+// summary: Coordinator that inflates and binds the omnibox chip view, updating its text, icon and click behavior through a mediator.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static android.view.View.MeasureSpec.EXACTLY;

@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Rounded background shape for navigation attachment items
+summary: Shape drawable giving navigation attachment items a rounded, surface-container-colored background.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="?attr/colorSurfaceContainer"/>
     <corners android:radius="@dimen/fusebox_button_corner_radius"/>

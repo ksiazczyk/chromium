@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenNativePage placeholder for inactive pages
+// summary: Empty stand-in that replaces an inactive NativePage to free resources while retaining its URL, title, colors and unsaved-changes state.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import android.view.View;

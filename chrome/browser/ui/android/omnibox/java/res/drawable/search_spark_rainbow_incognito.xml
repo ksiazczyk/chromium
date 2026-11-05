@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Incognito rainbow search spark drawable
+summary: Layer-list that layers the white search spark icon over the rainbow gradient background for incognito mode.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/search_spark_rainbow_background"/>
     <item

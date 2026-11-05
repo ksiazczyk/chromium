@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarBackgroundDrawable
+// summary: Drawable that renders the location bar background gradient with an optional rainbow or solid hairline stroke, including blur and rotation animation support.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

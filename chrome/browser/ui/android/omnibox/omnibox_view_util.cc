@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox view util JNI implementation
+// summary: Implements JNI bindings that expose omnibox paste text sanitization from native code to Java.
+// ---
+
 #include "chrome/browser/ui/android/omnibox/omnibox_view_util.h"
 
 #include "base/android/jni_string.h"

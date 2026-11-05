@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Multiwindow UI dimension resources
+summary: Defines dimension values for the instance switcher, confirmation, and rename window dialogs in Chrome for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="confirmation_dialog_width">328dp</dimen>
     <dimen name="confirmation_dialog_side_margin">16dp</dimen>

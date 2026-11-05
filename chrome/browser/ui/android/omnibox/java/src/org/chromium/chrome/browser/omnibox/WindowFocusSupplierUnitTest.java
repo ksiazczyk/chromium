@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowFocusSupplier unit tests
+// summary: Robolectric unit tests covering WindowFocusSupplier registration, focus value updates, and destroy behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertFalse;

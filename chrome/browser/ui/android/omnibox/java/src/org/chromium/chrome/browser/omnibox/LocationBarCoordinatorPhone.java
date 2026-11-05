@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarCoordinatorPhone
+// summary: Sub-coordinator supplementing LocationBarCoordinator with view accessors and layout methods specific to smaller phone devices.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.view.View;

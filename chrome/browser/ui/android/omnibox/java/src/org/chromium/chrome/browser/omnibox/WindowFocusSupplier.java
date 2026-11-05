@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowFocusSupplier
+// summary: Tracks and supplies the activity's window focus state as an observable via ActivityLifecycleDispatcher.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.app.Activity;

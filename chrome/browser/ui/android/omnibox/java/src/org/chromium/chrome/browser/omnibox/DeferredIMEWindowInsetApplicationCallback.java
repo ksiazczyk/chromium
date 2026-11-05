@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredIMEWindowInsetApplicationCallback
+// summary: Callback that consumes IME window insets and defers applying keyboard height until inset animations complete.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.app.Activity;

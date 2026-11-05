@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for night mode tracking
+summary: Specifies the monorail component, Buganizer component ID and owning team email for the night mode directory.

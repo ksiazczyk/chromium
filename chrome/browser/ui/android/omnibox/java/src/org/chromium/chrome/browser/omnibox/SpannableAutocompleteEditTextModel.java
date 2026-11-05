@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpannableAutocompleteEditTextModel
+// summary: Autocomplete model that appends suggestions as SpannableString at the end of query or URL text, wrapping keyboard operations in batch edits to hide autocomplete text from the IME.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

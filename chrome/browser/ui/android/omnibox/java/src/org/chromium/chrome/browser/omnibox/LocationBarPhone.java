@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone-specific location bar view
+// summary: Location bar layout implementation for phone screens, handling the back button, optional button and URL centering.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

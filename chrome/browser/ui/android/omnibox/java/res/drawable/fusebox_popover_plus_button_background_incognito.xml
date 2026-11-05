@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Fusebox popover plus button background incognito
+summary: Incognito variant of the fusebox popover plus button background using a dark surface container color.
+-->
+
 <ripple
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="@color/fusebox_popover_plus_button_ripple_color_incognito">

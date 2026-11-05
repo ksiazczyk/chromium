@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox stub interface
+// summary: Interface for user interaction with the stubbed omnibox (fakebox) on pages like the NTP, covering input sessions, focus, Lens and voice search.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.base.Callback;

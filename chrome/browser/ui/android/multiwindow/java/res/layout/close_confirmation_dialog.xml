@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Close confirmation dialog layout
+summary: Android layout for the multiwindow close confirmation dialog with title, message, a don't-ask-again checkbox and positive/negative buttons.
+-->
+
 <org.chromium.chrome.browser.multiwindow.CloseConfirmationDialogView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

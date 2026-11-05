@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target selector item properties
+// summary: Defines the property model keys for instance items shown in the target selector dialog, such as favicon, title, description and selection state.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.graphics.drawable.Drawable;

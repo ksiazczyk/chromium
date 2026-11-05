@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeforeUnloadCallback interface for unload interception
+// summary: Callback interface letting native pages intercept and veto or delay tab closure and back navigation, similar to window.onbeforeunload.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import org.chromium.base.UserData;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarFocusScrimHandler
+// summary: Shows and hides a scrim when URL bar focus changes, choosing between default, light, transparent, and opaque visual states.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

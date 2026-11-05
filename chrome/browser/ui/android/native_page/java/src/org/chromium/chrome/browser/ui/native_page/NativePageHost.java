@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePageHost interface for hosting native pages
+// summary: Interface for views that can host a NativePage, providing context, URL loading, tab actions, margin adapters and edge-to-edge support.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import android.content.Context;

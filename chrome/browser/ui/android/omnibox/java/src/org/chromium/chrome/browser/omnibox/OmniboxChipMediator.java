@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip mediator
+// summary: Mediator that writes omnibox chip text, icon, content description, click handler and available width into the chip's MVC property model.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.chrome.browser.omnibox.OmniboxChipProperties.AVAILABLE_WIDTH;

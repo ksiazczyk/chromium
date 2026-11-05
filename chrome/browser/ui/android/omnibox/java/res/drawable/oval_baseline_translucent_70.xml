@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Translucent oval ripple drawable for attachment removal
+summary: Ripple drawable with a translucent white oval, sized for the fusebox attachment remove button.
+-->
+
 <ripple
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="@color/filled_button_ripple_color">

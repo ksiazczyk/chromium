@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineService
+// summary: Profile-keyed service wrapping TemplateUrlService to provide shared search engine features such as logos, icons and AI mode entry points.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

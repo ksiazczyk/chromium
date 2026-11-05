@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiInstanceOrchestratorFactoryUnitTest
+// summary: Robolectric unit tests verifying the orchestrator factory returns registered instances and throws when none is set.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

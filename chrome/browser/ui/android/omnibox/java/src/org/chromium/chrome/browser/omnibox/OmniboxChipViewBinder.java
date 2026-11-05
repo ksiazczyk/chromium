@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip view binder
+// summary: Binds omnibox chip property model changes to a MaterialButton, handling visibility, padding, text, icon scaling, tooltip and click behaviour.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.chrome.browser.omnibox.OmniboxChipProperties.AVAILABLE_WIDTH;

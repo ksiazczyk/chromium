@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAutocompleteSchemeClassifier
+// summary: Chrome-specific JNI wrapper around the native autocomplete scheme classifier, bound to a profile's lifetime.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.jni_zero.JniType;

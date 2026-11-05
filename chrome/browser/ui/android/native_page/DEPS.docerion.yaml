@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for native page
+summary: Lists the directories that code in the native_page folder may include or depend on, with parent rules disabled via noparent.

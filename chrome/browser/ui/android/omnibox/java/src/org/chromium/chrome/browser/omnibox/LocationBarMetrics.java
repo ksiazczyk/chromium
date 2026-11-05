@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: LocationBarMetrics
+// summary: Records user action metrics for omnibox button visibility changes such as delete, install, mic, bookmark, and zoom buttons.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.base.metrics.RecordUserAction;

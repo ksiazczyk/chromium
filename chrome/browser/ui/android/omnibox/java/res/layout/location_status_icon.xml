@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Omnibox status icon layout
+summary: Layout for the omnibox status icon view, containing the search engine or security icon image and an optional holding space.
+-->
+
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">

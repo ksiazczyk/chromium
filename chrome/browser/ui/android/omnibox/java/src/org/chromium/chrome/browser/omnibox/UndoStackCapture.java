@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoStackCapture
+// summary: AutoCloseable utility that temporarily strips input filters from an Editable so programmatic edits bypass undo history recording, restoring the filters on close.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assertNonNull;

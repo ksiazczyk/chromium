@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the multiwindow directory
+summary: Lists the directory owners and per-file owners for the persistent store, proto migration and window occlusion and z-order tracking files.

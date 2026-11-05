@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlBarDataUnitTest – tests for UrlBarData
+// summary: Robolectric unit tests verifying UrlBarData display text and origin span behavior across URL schemes such as about, chrome, http, and file.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android night mode
+summary: Defines GN targets for the night mode Java library, resources, JNI headers and test support in Chromium for Android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move target selector dialog coordinator
+// summary: Coordinator that builds and shows the modal dialog for choosing a target Chrome instance when moving tabs to another window.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

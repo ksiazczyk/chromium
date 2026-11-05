@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiWindowMetricsUtils
+// summary: Utility that records windowing mode duration histograms and related user actions for multi-instance features.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

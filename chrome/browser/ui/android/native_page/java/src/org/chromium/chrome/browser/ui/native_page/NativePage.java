@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePage interface for Android view pages
+// summary: Core interface for pages rendered with Android views instead of web content, covering theming, reuse, insets and native page URL detection.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import android.view.View;

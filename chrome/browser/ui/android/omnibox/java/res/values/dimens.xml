@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox dimension resources
+summary: Defines dimension values for omnibox UI elements such as AI chips, close buttons, the fake search box, and fusebox attachments, carousels, and bottom sheets.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <dimen name="ai_chip_corner_radius">36dp</dimen>

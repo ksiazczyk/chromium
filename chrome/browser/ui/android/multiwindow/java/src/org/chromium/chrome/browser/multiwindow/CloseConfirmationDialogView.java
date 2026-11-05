@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Close confirmation dialog view
+// summary: Content view for the close confirmation dialog that adjusts its width to fit within the screen.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.content.Context;

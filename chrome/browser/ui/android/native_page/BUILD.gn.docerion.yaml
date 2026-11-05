@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Android native page
+summary: Defines the android_library target for native page Java sources and a robolectric_library target for NativePageTest, together with their dependencies.

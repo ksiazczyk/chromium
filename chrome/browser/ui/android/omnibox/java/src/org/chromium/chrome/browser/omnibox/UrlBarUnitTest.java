@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlBarUnitTest – tests for UrlBar
+// summary: Robolectric unit tests for the UrlBar view covering text handling, ellipsis spans, input connections, and delegate interactions.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

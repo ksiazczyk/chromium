@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto dark feedback source unit test
+// summary: Robolectric unit tests verifying AutoDarkFeedbackSource reports the correct auto dark state for incognito, disabled feature, and enabled or disabled settings.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

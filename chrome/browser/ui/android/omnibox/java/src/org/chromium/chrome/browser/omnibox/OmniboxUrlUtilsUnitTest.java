@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxUrlUtilsUnitTest
+// summary: Robolectric unit tests verifying OmniboxUrlUtils.isNtpUrl for null, empty, invalid, NTP, web and other internal URLs.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementPage native page for managed profile status
+// summary: Native Android page that displays whether the current profile or browser is managed, hosted at the management URL with edge-to-edge support.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import org.chromium.build.annotations.NullMarked;

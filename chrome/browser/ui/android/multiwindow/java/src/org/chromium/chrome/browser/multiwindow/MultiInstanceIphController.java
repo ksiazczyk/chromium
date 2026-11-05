@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiInstanceIphController
+// summary: Controller that decides when and how to show multi-instance in-product help bubbles anchored to the toolbar app menu.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

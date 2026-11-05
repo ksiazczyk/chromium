@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Theme preferences screen for night mode settings
+summary: Android preference screen XML that hosts the radio button group preference for choosing the UI theme in Chrome's night mode settings.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <org.chromium.chrome.browser.night_mode.settings.RadioButtonGroupThemePreference
         android:key="ui_theme_pref" />

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS listing native page reviewers
+summary: Names the Chromium developers responsible for reviewing changes to the native_page directory.

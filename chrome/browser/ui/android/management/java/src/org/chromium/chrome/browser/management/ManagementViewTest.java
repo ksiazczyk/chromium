@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementViewTest for managed state UI
+// summary: Robolectric tests verifying the management view shows the correct content and visibility for managed, unmanaged and reporting states.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import static org.mockito.Mockito.doReturn;

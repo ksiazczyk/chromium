@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestions dropdown embedder implementation
+// summary: Implements the suggestions dropdown embedder, positioning the dropdown relative to anchor and alignment views while handling insets, form factor and fusebox state.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverrideUrlLoadingDelegate
+// summary: Delegate interface that lets implementers override the default URL loading behavior of the LocationBar.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Focus ring selector for fusebox pill buttons
+summary: Selector drawable that draws a focus ring around selected pill buttons in the fusebox popover.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:state_selected="true"
       android:width="@dimen/fusebox_popover_pill_button_bg_width"

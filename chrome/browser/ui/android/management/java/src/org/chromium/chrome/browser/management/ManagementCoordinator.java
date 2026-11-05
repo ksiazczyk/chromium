@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementCoordinator for the Android management page
+// summary: Sets up the ManagementPage by creating the mediator, inflating the enterprise management view and binding the property model to the view.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import android.view.LayoutInflater;

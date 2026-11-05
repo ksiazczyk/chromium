@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for night mode
+summary: Grants this directory access to Java code under content/public/android via include rules.

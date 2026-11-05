@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night mode state provider interface
+// summary: Interface that exposes the current night mode state and notifies observers about changes, with optional configuration override behavior.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.app.Activity;

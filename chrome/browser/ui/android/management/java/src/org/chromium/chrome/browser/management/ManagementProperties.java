@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementProperties model keys for the management page
+// summary: Defines the writable and readable property keys of the MVC property model used by the management page, including reporting and URL filtering fields.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import android.text.SpannableString;

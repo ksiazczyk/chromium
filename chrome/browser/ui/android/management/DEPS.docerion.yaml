@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the management directory
+summary: DEPS file restricting which directories this folder's code may include or depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicSmoothTransitionDelegate fade-in transition
+// summary: SmoothTransitionDelegate implementation that runs a short alpha fade-in when navigating back by gesture from a web page to a native page.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import android.animation.Animator;

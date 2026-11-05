@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxUrlUtils
+// summary: Utility methods for evaluating URLs in the Omnibox, including detection of New Tab Page and transient empty-state URLs.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

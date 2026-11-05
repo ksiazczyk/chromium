@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the management UI
+summary: Declares the monorail component, team email, and Android OS associated with this directory.

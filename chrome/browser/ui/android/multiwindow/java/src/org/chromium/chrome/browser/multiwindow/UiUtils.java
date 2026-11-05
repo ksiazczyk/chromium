@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-instance UI utilities
+// summary: Utility methods for multi-instance UI, including the window naming dialog and display titles for instances.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

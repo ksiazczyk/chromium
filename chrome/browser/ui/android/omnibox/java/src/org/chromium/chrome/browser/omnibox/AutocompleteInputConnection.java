@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteInputConnection
+// summary: InputConnection wrapper that manages batch edits, deletions, and autocomplete state changes for the omnibox edit text.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.os.Bundle;

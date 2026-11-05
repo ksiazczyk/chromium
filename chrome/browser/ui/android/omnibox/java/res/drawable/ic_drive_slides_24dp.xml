@@ -6,6 +6,13 @@ found in the LICENSE file.
 
 Ported from components/omnibox/browser/vector_icons/drive_slides_custom.icon.
 -->
+
+<!--docerion
+type: asset
+title: Google Slides icon vector drawable
+summary: Yellow 24dp Google Slides icon for the omnibox, ported from the drive_slides_custom.icon vector icon.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

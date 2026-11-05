@@ -8,6 +8,13 @@ found in the LICENSE file.
 Layout for the control group representing ChromeTabbedActivity's URL bar on
 small devices.
 -->
+
+<!--docerion
+type: source
+title: Location bar control group layout for phone URL bar
+summary: Android layout assembling the omnibox control group for ChromeTabbedActivity's URL bar on small devices, including the back button, status, fusebox, URL bar, and action container.
+-->
+
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

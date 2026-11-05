@@ -6,6 +6,13 @@ found in the LICENSE file.
 
 Ported from components/omnibox/browser/vector_icons/drive_folder_custom.icon
 -->
+
+<!--docerion
+type: asset
+title: Drive folder colored vector icon 24dp
+summary: 24dp vector drawable of a grey Google Drive folder icon, ported from drive_folder_custom.icon for omnibox suggestions.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

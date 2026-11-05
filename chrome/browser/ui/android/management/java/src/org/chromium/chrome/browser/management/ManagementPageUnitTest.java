@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementPage unit test for edge-to-edge behavior
+// summary: Robolectric unit test verifying ManagementPage edge-to-edge support and pad adjuster registration using mocked host, profile and preference dependencies.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import static org.junit.Assert.assertEquals;

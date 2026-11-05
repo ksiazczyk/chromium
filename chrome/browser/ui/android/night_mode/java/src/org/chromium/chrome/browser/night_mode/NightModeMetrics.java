@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night mode metrics
+// summary: Records the Android dark theme enabled-state histogram for the current night mode state.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import org.chromium.base.metrics.RecordHistogram;

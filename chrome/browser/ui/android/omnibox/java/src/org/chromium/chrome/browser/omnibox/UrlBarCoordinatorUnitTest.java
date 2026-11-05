@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlBarCoordinatorUnitTest
+// summary: Robolectric unit tests for UrlBarCoordinator verifying keyboard visibility behavior with and without debouncing, focus callbacks, and text wrapping listeners.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

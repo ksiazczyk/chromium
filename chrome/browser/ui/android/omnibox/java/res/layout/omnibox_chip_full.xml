@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Omnibox full chip button layout
+summary: Layout for a full omnibox chip button with leading icon and single-line text, styled through Material theme and size overlays.
+-->
+
 <!-- TODO(crbug.com/450253146): Update the styling to match the spec including incognito. -->
 <Button
     xmlns:android="http://schemas.android.com/apk/res/android"

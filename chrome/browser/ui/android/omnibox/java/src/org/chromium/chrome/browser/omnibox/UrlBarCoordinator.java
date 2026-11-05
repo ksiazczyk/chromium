@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarCoordinator
+// summary: Coordinator for the UrlBar text component managing keyboard visibility with debouncing, focus changes, text wrapping, and action mode callbacks.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

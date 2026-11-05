@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: RTL-mirrored search icon vector drawable (24dp)
+summary: Mirrored version of the search icon vector drawable for use in right-to-left layouts.
+-->
+
 <!-- This file is a mirrored version of ic_search_24dp.xml -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

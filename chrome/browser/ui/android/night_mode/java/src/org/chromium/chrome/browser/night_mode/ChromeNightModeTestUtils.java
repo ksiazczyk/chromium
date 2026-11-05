@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome night mode test utilities
+// summary: Test helpers that set up, configure, and tear down night mode state around ChromeActivity launches in Chrome tests.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import org.chromium.chrome.browser.preferences.ChromePreferenceKeys;

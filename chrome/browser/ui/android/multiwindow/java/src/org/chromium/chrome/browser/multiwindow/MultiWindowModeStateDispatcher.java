@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiWindowModeStateDispatcher interface
+// summary: Interface that monitors multi-window mode changes in an activity, notifies observers, and exposes helpers for opening or moving tabs to another window.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;
