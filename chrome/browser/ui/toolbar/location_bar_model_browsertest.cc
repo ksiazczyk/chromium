@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar model browser test
+// summary: Browser tests for the location bar model covering URL formatting and elision, new tab page handling, javascript and view-source URLs, and extension scenarios.
+// ---
+
 #include "components/omnibox/browser/location_bar_model.h"
 
 #include <stddef.h>

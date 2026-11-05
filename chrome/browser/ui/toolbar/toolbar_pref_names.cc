@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar preference registration
+// summary: Registers syncable toolbar profile preferences, including the default pinned actions list and several pin-state migration flags.
+// ---
+
 #include "chrome/browser/ui/toolbar/toolbar_pref_names.h"
 
 #include "chrome/browser/ttc/core/features.h"

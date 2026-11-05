@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu icon controller implementation
+// summary: Implements app menu icon badging logic that maps upgrade levels and global errors to icon severity.
+// ---
+
 #include "chrome/browser/ui/toolbar/app_menu_icon_controller.h"
 
 #include "base/check_op.h"

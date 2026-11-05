@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Toolbar OWNERS file
+summary: Delegates ownership of toolbar action files to the extensions UI OWNERS rule.

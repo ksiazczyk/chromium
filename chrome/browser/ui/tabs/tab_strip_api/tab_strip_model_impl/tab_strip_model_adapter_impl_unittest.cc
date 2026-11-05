@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripModelAdapterImpl unit tests
+// summary: Unit tests for TabStripModelAdapterImpl covering absolute index to position lookup, collection paths, and tab group and split tab handling against a real TabStripModel.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tab_strip_model_adapter_impl.h"
 
 #include <memory>

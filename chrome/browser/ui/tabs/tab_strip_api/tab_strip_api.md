@@ -1,3 +1,11 @@
+---
+type: guide
+title: TabStripService API Guide
+summary: Explains how to use the Mojo-based TabStripService API to fetch tab state, traverse the tab collection tree, and observe tab strip events.
+relations:
+  - references /chrome/browser/ui/tabs/tab_strip_api/tab_strip_api_developer_guide.md
+---
+
 # TabStripService API Guide
 This document provides a guide for using the TabStripService API, a Mojo-based
 interface for interacting with the browser's tab strip. This API allows clients

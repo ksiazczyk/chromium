@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelEventBridge implementation
+// summary: Implements the event bridge that translates TabStripModel and tab collection observer callbacks into tabs API events and notifies registered event observers.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tab_strip_model_event_bridge.h"
 
 #include "base/notimplemented.h"

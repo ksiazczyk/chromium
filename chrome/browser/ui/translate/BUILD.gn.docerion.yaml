@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Translate UI build configuration
+summary: Defines GN source sets and dependencies for the Chrome translate bubble UI code, including non-Android and test support targets.

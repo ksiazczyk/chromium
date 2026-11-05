@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripServiceFeature implementation
+// summary: Implements the per-browser-window feature that owns the TabStripServiceImpl and accepts Mojo client connections for the tab strip service.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_service_feature.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup test base implementation
+// summary: Implements shared helpers for popup browser tests, including opening popups via script and waiting for window bounds changes.
+// ---
+
 #include "chrome/browser/ui/test/popup_test_base.h"
 
 #include <string>

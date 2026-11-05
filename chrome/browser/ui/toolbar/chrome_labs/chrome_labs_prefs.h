@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs preferences header
+// summary: Declares Chrome Labs preference name constants and the profile and local state preference registration functions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_PREFS_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action hover card update types
+// summary: Defines the ToolbarActionHoverCardUpdateType enum listing the events that trigger hover card updates, such as hover, focus, and toolbar action changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTION_HOVER_CARD_TYPES_H_
 #define CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTION_HOVER_CARD_TYPES_H_
 

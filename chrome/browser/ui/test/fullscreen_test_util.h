@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTML fullscreen wait utility declarations
+// summary: Declares WaitForHTMLFullscreen and WaitForHTMLFullscreenExit helpers for WebContents fullscreen state in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_FULLSCREEN_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_TEST_FULLSCREEN_TEST_UTIL_H_
 

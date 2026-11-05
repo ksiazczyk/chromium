@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark submenu model class header
+// summary: Declares BookmarkSubMenuModel, a simple menu model for the app menu's bookmark submenu with element identifiers for testing and UI automation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_BOOKMARK_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_BOOKMARK_SUB_MENU_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser dialog test implementation
+// summary: Implements TestBrowserDialog, verifying that a test shows exactly one dialog widget and supporting pixel verification via Skia Gold.
+// ---
+
 #include "chrome/browser/ui/test/test_browser_dialog.h"
 
 #include <set>

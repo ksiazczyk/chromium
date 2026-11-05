@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser UI tests
+summary: Sets include rules for the test directory, permitting Ash and browser view headers only in popup_multiscreen_interactive_uitest.cc.

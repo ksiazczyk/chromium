@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu model interactive UI tests
+// summary: Interactive UI tests exercising app menu interactions such as web app installs, extensions, and menu item behavior.
+// ---
+
 #include "chrome/browser/ui/toolbar/app_menu_model.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripUIControllerImpl class declaration
+// summary: Declares TabStripUIControllerImpl, a per-browser-window Mojo controller stored as unowned user data with a static From accessor.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_IMPL_H_
 

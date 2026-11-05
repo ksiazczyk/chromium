@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background thumbnail video capturer implementation
+// summary: Implements capturing tab frames through a viz frame sink video capturer, delivering SkBitmap frames with tracing for thumbnail previews.
+// ---
+
 #include "chrome/browser/ui/thumbnails/background_thumbnail_video_capturer.h"
 
 #include <stdint.h>

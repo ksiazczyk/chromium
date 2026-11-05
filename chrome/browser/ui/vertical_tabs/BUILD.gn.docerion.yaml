@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Vertical tabs Android build file
+summary: GN build file defining the Android Java library target for vertical tabs utilities, listing its sources and dependencies.

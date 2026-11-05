@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bubble model implementation
+// summary: Implements TranslateBubbleModel by delegating to TranslateUIDelegate and the UI languages manager to drive the translate bubble.
+// ---
+
 #include "chrome/browser/ui/translate/translate_bubble_model_impl.h"
 
 #include <utility>

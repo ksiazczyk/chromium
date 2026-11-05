@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Thumbnails GN build targets
+summary: Defines the GN source sets for the thumbnails module plus its unit test, interactive UI test, and browser test targets and their dependencies.

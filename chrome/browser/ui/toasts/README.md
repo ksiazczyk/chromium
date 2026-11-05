@@ -1,3 +1,12 @@
+---
+type: readme
+title: Toast UI
+summary: Explains how feature teams add a ToastId, register a ToastSpecification, and trigger toasts with buttons, menus, and persistence options.
+relations:
+  - documents /chrome/browser/ui/toasts/api/toast_id.h
+  - documents /chrome/browser/ui/toasts/toast_service.cc
+---
+
 # Toast UI
 The toast system allows features to surface a message and an optional action
 for users to take. These are short notifications that serve as confirmation of a

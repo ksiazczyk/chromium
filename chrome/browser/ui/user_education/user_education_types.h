@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Education Types Header
+// summary: Declares the PageOpenMode enum and the GetWindowOpenDisposition helper that converts page open modes into window open dispositions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_USER_EDUCATION_USER_EDUCATION_TYPES_H_
 #define CHROME_BROWSER_UI_USER_EDUCATION_USER_EDUCATION_TYPES_H_
 

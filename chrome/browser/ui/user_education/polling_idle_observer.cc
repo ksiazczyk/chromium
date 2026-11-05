@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PollingIdleObserver implementation
+// summary: Implements idle state observation using system idle time, window activity, and lock state to track user education sessions.
+// ---
+
 #include "chrome/browser/ui/user_education/polling_idle_observer.h"
 
 #include <memory>

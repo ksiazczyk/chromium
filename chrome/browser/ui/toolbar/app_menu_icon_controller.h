@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu icon controller header
+// summary: Declares AppMenuIconController, which badges the app menu icon for pending updates and global errors and exposes labels and tooltips.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_APP_MENU_ICON_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TOOLBAR_APP_MENU_ICON_CONTROLLER_H_
 

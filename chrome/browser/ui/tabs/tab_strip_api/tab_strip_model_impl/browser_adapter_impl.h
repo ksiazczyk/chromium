@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAdapterImpl class declaration
+// summary: Declares BrowserAdapterImpl, a forwarder proxy around BrowserWindowInterface that should only relay requests without adding logic.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_ADAPTER_IMPL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_ADAPTER_IMPL_H_
 

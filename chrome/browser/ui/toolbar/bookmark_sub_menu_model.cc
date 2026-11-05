@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark submenu model implementation
+// summary: Builds the bookmark submenu of the app menu, adding bookmark tab commands, bookmark bar visibility options, side panel, and reading list entries.
+// ---
+
 #include "chrome/browser/ui/toolbar/bookmark_sub_menu_model.h"
 
 #include "base/feature_list.h"

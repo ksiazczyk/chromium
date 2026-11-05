@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show promo in page interactive UI tests
+// summary: Interactive browser tests verifying help bubble display, page navigation, focus behavior, and timeout handling of ShowPromoInPage.
+// ---
+
 #include "chrome/browser/ui/user_education/show_promo_in_page.h"
 
 #include <optional>

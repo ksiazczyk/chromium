@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast service implementation
+// summary: Implements ToastService, creating the toast registry and controller and registering the toasts for all features in a browser window.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_service.h"
 
 #include <memory>

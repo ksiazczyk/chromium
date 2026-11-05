@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast view implementation
+// summary: Implements the toast bubble view with entry and exit animations, action and close buttons, menus, and a throbber.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_view.h"
 
 #include <algorithm>

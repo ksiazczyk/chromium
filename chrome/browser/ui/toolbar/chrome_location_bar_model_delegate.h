@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome location bar model delegate class header
+// summary: Declares ChromeLocationBarModelDelegate, the Chrome embedder implementation of LocationBarModelDelegate whose subclasses provide the active WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CHROME_LOCATION_BAR_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CHROME_LOCATION_BAR_MODEL_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Task manager include rules
+summary: Restricts includes of platform-specific UI directories such as views, Cocoa and Mac accelerated widgets from this directory.

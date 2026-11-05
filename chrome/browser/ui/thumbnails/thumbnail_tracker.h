@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail tracker class header
+// summary: Declares ThumbnailTracker, which tracks thumbnails for a dynamically managed set of WebContents and notifies a callback whenever a thumbnail changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_TRACKER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_TRACKER_H_
 

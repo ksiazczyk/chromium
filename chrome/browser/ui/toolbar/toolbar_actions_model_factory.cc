@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarActionsModel factory implementation
+// summary: Implements the profile-keyed service factory that creates and provides a ToolbarActionsModel instance per profile, declaring dependencies on extension services.
+// ---
+
 #include "chrome/browser/ui/toolbar/toolbar_actions_model_factory.h"
 
 #include "chrome/browser/extensions/extension_action_dispatcher.h"

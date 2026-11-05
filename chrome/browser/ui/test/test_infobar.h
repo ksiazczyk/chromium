@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInfoBar base class for infobar UI tests
+// summary: Declares TestInfoBar, a UiBrowserTest subclass that lets tests register expected infobar identifiers and verify the infobars shown in the active tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_TEST_INFOBAR_H_
 #define CHROME_BROWSER_UI_TEST_TEST_INFOBAR_H_
 

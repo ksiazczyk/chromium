@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the toast specification builder
+// summary: Implements the ToastSpecification builder methods and validates allowed combinations of icons, throbbers, buttons, menus, and scoping options.
+// ---
+
 #include "chrome/browser/ui/toasts/api/toast_specification.h"
 
 #include <memory>

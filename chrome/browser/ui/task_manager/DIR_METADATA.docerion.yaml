@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Task manager bug tracking metadata
+summary: Maps the directory to the UI>TaskManager Monorail component and Buganizer public component 1457613 for issue routing.

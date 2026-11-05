@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate controller interface
+// summary: Declares a cross-platform interface, registered as UnownedUserData on the browser window, to control Translate UI such as starting partial translation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_CONTROLLER_H_
 

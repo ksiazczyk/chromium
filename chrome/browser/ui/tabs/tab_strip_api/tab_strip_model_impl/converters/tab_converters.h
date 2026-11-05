@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for tab to mojom converters
+// summary: Declares functions that build mojom tab, collection data and field masks from internal tab strip types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_CONVERTERS_TAB_CONVERTERS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_CONVERTERS_TAB_CONVERTERS_H_
 

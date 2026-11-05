@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelAdapterImpl implementation
+// summary: Implements the tab strip model adapter exposing tab operations such as observing, listing, closing, activating and moving tabs and tab groups to the tab strip API.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tab_strip_model_adapter_impl.h"
 
 #include "base/notimplemented.h"

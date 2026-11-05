@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailTabHelper implementation
+// summary: Implements per-tab thumbnail capture and storage, including preserving thumbnail data across tab discards and scheduling captures.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_tab_helper.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail capture info struct
+// summary: Defines a struct describing source size, scrollbar insets, crop rectangle, and target size for generating a thumbnail bitmap.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_CAPTURE_INFO_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_CAPTURE_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserEventBridge implementation
+// summary: Implements a bridge that observes browser window theme changes and forwards them into the tab strip event stream as favicon change notifications.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/browser_event_bridge.h"
 
 #include "base/check.h"

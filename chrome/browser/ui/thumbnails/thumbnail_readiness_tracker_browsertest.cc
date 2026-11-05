@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailReadinessTracker browser tests
+// summary: In-process browser tests verifying readiness callback sequences for navigations after onload, iframe navigation, and pushState regressions.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_readiness_tracker.h"
 
 #include <memory>

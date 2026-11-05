@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event transformation declarations for tab strip API events
+// summary: Declares utilities that convert external tab strip observation events into tab strip API mojom events, including favicon change events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_CONVERTERS_EVENT_TRANSFORMATION_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_CONVERTERS_EVENT_TRANSFORMATION_H_
 

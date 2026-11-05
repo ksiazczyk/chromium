@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tab_strip_api directory
+summary: Lists code owners for the TabStrip API and routes mojom file reviews to the IPC security owners.

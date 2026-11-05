@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward menu model implementation
+// summary: Implements the dropdown menu model for the back and forward buttons, listing history entries, chapter stops, a back-to-opener item, and a show full history link.
+// ---
+
 #include "chrome/browser/ui/toolbar/back_forward_menu_model.h"
 
 #include <stddef.h>

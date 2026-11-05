@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for android_tab_model_impl
+summary: Defines the android_tab_model_impl source set and a testonly browser_tests target with their sources and dependencies for the Android tab strip API implementation.

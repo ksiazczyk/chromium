@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Start tutorial in page browser tests
+// summary: Browser tests verifying that StartTutorialInPage navigates to the target page and runs the registered test tutorial with help bubble steps.
+// ---
+
 #include "chrome/browser/ui/user_education/start_tutorial_in_page.h"
 
 #include <optional>

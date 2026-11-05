@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar actions model implementation
+// summary: Implements the per-profile model that pins, unpins, moves and resets toolbar actions and records user metrics.
+// ---
+
 #include "chrome/browser/ui/toolbar/pinned_toolbar/pinned_toolbar_actions_model.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window icon observer test helper implementation
+// summary: Implements a test helper that observes app windows and waits for icon property updates, hashing icons to detect real changes.
+// ---
+
 #include "chrome/browser/ui/test/test_app_window_icon_observer.h"
 
 #include <algorithm>

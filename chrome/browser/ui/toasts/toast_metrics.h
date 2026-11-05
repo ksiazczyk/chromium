@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast metrics header
+// summary: Declares functions for recording toast show, click, and dismiss metrics and the persisted ToastAlertLevel enum.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_TOAST_METRICS_H_
 #define CHROME_BROWSER_UI_TOASTS_TOAST_METRICS_H_
 

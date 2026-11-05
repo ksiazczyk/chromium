@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowserUi interface for consistent browser UI test invocation
+// summary: Declares TestBrowserUi, ScreenshotOptions and ScreenshotFocusMode so browser tests can show UI consistently, verify it, and capture screenshots for review and regression checks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_TEST_BROWSER_UI_H_
 #define CHROME_BROWSER_UI_TEST_TEST_BROWSER_UI_H_
 

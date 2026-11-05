@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup test base header
+// summary: Declares PopupTestBase, an InProcessBrowserTest fixture supporting browser tests of popup windows created with window.open().
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_POPUP_TEST_BASE_H_
 #define CHROME_BROWSER_UI_TEST_POPUP_TEST_BASE_H_
 

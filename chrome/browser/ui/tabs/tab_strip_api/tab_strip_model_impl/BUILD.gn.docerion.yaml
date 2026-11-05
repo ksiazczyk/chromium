@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for tab_strip_model_impl sources and tests
+summary: Defines GN source sets for the tab strip model implementation together with its unit test and browser test targets and their dependencies.

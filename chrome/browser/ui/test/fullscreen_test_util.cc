@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTML fullscreen wait test utilities
+// summary: Provides helpers that wait via JavaScript until a WebContents enters or exits HTML fullscreen.
+// ---
+
 #include "chrome/browser/ui/test/fullscreen_test_util.h"
 
 #include "content/public/test/browser_test_utils.h"

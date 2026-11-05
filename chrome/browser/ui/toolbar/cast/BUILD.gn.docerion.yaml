@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast toolbar button BUILD.gn build definition
+summary: Defines GN source sets for the Cast toolbar button controller, utilities and their browser tests with their dependencies.

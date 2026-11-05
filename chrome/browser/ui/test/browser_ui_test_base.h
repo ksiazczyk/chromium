@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUiTestBase class header
+// summary: Declares BrowserUiTestBase, a gtest fixture whose Invoke method assists local inspection of dialog and UI browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_BROWSER_UI_TEST_BASE_H_
 #define CHROME_BROWSER_UI_TEST_BROWSER_UI_TEST_BASE_H_
 

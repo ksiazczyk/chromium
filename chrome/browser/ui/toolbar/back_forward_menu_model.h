@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward menu model class header
+// summary: Declares BackForwardMenuModel, the ui::MenuModel interface for the back/forward button dropdown menu with history, chapter stop, and full history sections.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_BACK_FORWARD_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_BACK_FORWARD_MENU_MODEL_H_
 

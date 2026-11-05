@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab strip UI controllers
+summary: GN build file defining the controllers source set plus unit test and browser test targets with their dependencies.

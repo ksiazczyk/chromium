@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalTabUtils
+// summary: Helper utilities for Chrome's Android vertical tabs, covering eligibility checks, preference access, layout width constants, and histogram enums for layout switching and expand-on-hover toggles.
+// ---
+
 package org.chromium.chrome.browser.ui.vertical_tabs;
 
 import android.content.Context;

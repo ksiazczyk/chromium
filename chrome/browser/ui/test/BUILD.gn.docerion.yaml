@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for browser UI tests
+summary: Defines GN source sets for dialog, popup, confirm bubble, and interactive browser UI tests along with their test support code.

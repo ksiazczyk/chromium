@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start tutorial in page utility
+// summary: Declares the StartTutorialInPage utility and its parameters for opening a page and starting a tutorial in the browser window context.
+// ---
+
 #ifndef CHROME_BROWSER_UI_USER_EDUCATION_START_TUTORIAL_IN_PAGE_H_
 #define CHROME_BROWSER_UI_USER_EDUCATION_START_TUTORIAL_IN_PAGE_H_
 

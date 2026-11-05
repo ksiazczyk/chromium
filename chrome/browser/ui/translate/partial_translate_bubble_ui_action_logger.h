@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Translate bubble UI event enum and logger
+// summary: Defines the UI event enum and histogram name used to log user interactions with the partial translate bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_PARTIAL_TRANSLATE_BUBBLE_UI_ACTION_LOGGER_H_
 #define CHROME_BROWSER_UI_TRANSLATE_PARTIAL_TRANSLATE_BUBBLE_UI_ACTION_LOGGER_H_
 

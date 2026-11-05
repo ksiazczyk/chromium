@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android translation adapter browser test
+// summary: Browser test that opens a tab and verifies the Android translation adapter produces a Mojo tab with the expected URL, title, favicon, network state and flags.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_translation_adapter.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_tab_strip_api_injector.h"

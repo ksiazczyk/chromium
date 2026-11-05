@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar toolbar IPH controller unit tests
+// summary: Unit tests for the avatar toolbar IPH controller, using mock browser window, toolbar button provider, and user education interfaces to verify promo behavior.
+// ---
+
 #include "chrome/browser/ui/toolbar/avatar_toolbar_iph_controller.h"
 
 #include <memory>

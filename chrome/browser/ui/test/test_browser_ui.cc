@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowserUi implementation with pixel verification support
+// summary: Implements the TestBrowserUi harness that shows and verifies browser UI in tests, including Skia gold pixel comparison, screenshot options and focus handling for stable captures.
+// ---
+
 #include "chrome/browser/ui/test/test_browser_ui.h"
 
 #include <optional>

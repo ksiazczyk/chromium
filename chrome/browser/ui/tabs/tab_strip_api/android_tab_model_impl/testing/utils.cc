@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing helper to get a TabModel for a profile
+// summary: Implements tabs_api::testing::GetTabModel, which returns the TabModel matching a given profile and crashes when no matching model is found.
+// ---
+
 #include "base/check_deref.h"
 #include "chrome/browser/ui/android/tab_model/tab_model.h"
 #include "chrome/browser/ui/android/tab_model/tab_model_list.h"

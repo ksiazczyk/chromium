@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Chrome user education
+summary: GN build file defining the user education public interface, implementation, and unit, browser, and interactive UI test targets.

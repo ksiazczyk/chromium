@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabStripServiceTracker implementation
+// summary: Implements tracking of TabStripService instances across a profile's browser windows, invoking added and removed callbacks as browsers are created or closed.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/browser_tab_strip_service_tracker.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

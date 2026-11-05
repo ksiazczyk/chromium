@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail capture driver interface
+// summary: Declares the thumbnail capture lifecycle state machine and its client interface for requesting, starting, and stopping capture.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_CAPTURE_DRIVER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_CAPTURE_DRIVER_H_
 

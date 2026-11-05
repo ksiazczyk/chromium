@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the toast registry
+// summary: Implements registering toast specifications, looking them up by ToastId with checks, and reporting whether the registry is empty.
+// ---
+
 #include "chrome/browser/ui/toasts/api/toast_registry.h"
 
 #include <memory>

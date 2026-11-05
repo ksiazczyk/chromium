@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager table model unit tests
+// summary: Unit tests for the task manager table model covering list-to-string formatting and themed icon rasterization with color providers.
+// ---
+
 #include "chrome/browser/ui/task_manager/task_manager_table_model.h"
 
 #include <string>

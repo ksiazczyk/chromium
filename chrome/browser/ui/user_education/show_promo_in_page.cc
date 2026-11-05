@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show promo in page implementation
+// summary: Implements opening a target page and showing a help bubble anchored to a tracked element, with timeout and success callback handling.
+// ---
+
 #include "chrome/browser/ui/user_education/show_promo_in_page.h"
 
 #include <memory>

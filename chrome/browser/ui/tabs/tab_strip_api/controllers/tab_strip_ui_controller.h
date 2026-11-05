@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripUIController and injector interface header
+// summary: Declares the TabStripUIController Mojo direct-return stub and the TabStripUIControllerInjector interface exposing browser, model, and context menu adapters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_H_
 

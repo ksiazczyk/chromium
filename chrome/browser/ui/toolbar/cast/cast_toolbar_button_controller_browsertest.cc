@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast toolbar button controller browser tests
+// summary: Browser tests checking when the Cast toolbar icon appears for local mirroring routes, issues and always-show preferences.
+// ---
+
 #include "chrome/browser/ui/toolbar/cast/cast_toolbar_button_controller.h"
 
 #include <memory>

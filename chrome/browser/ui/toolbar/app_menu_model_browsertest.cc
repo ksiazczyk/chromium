@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu model browser tests
+// summary: Browser tests verifying app menu model contents, metrics, and feature-dependent menu behavior.
+// ---
+
 #include "chrome/browser/ui/toolbar/app_menu_model.h"
 
 #include <algorithm>

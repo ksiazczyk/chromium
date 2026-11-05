@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager table column definitions
+// summary: Defines the TableColumnData struct and the kColumns array describing task manager table columns, their widths, sorting and default visibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TASK_MANAGER_TASK_MANAGER_COLUMNS_H_
 #define CHROME_BROWSER_UI_TASK_MANAGER_TASK_MANAGER_COLUMNS_H_
 

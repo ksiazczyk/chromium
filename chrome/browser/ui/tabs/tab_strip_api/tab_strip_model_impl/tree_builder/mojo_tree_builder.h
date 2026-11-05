@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoTreeBuilder class declaration
+// summary: Declares MojoTreeBuilder, which builds a Mojo container tree from a TabStripModel and a window identifier.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_MOJO_TREE_BUILDER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_MOJO_TREE_BUILDER_H_
 

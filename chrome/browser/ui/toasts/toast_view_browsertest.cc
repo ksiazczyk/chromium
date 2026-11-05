@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toast view dialog browser tests
+// summary: Dialog browser tests that show and verify the toast view with optional action button, close button, menu, and image override.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_view.h"
 
 #include <memory>

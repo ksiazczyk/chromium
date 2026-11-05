@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail tracker unit tests
+// summary: Unit tests for ThumbnailTracker verifying that AddTab fetches the current thumbnail and that thumbnail updates propagate through the registered callback.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_tracker.h"
 
 #include <map>

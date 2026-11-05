@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Education Types Implementation
+// summary: Implements GetWindowOpenDisposition, mapping each PageOpenMode value to the corresponding WindowOpenDisposition for opening pages.
+// ---
+
 #include "chrome/browser/ui/user_education/user_education_types.h"
 
 #include "ui/base/window_open_disposition.h"

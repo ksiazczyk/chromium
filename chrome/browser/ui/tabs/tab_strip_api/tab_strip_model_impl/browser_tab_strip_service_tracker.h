@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabStripServiceTracker class declaration
+// summary: Declares a TabStripServiceTracker implementation that observes a profile's browser collection and bridges window tracking to the TabStrip API aggregation system.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_TAB_STRIP_SERVICE_TRACKER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_TAB_STRIP_SERVICE_TRACKER_H_
 

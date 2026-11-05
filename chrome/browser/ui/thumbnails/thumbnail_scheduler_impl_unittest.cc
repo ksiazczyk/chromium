@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailSchedulerImpl unit tests
+// summary: Unit tests verifying that the scheduler respects capture limits, avoids preemption, and lets high-priority captures preempt low-priority ones.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_scheduler_impl.h"
 
 #include <vector>

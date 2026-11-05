@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for tab strip API converters
+summary: Defines the converters source set and its browser test target with sources and dependencies for the tab strip API.

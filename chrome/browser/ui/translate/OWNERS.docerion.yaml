@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the translate UI directory
+summary: Delegates code ownership for this directory to the components/translate OWNERS file.

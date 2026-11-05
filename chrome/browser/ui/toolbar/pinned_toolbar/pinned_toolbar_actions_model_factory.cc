@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar actions model factory implementation
+// summary: Implements the profile-keyed service factory that builds PinnedToolbarActionsModel instances per profile.
+// ---
+
 #include "chrome/browser/ui/toolbar/pinned_toolbar/pinned_toolbar_actions_model_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

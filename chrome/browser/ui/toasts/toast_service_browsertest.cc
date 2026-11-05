@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toast service browser tests
+// summary: Browser tests verifying that all active toast IDs are registered and that the toast service exists only for supported browser window types.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_service.h"
 
 #include "base/containers/enum_set.h"

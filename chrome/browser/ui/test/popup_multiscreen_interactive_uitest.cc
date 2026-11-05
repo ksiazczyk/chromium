@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-screen popup interactive UI tests
+// summary: Interactive UI tests for popups across multiple displays, run with and without the Window Management permission using virtual displays.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

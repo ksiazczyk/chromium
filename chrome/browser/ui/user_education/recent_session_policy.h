@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session policy interface
+// summary: Defines the recent session policy interface and threshold-based constraints used to classify profiles as high or low usage for promos and metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_USER_EDUCATION_RECENT_SESSION_POLICY_H_
 #define CHROME_BROWSER_UI_USER_EDUCATION_RECENT_SESSION_POLICY_H_
 

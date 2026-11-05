@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Translate bubble model implementation
+// summary: Implements the partial translate bubble model, handling translation requests, view state changes, and UMA metrics for partial translations.
+// ---
+
 #include "chrome/browser/ui/translate/partial_translate_bubble_model_impl.h"
 
 #include <string>
