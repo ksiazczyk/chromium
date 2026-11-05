@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to the shared apps owners file
+summary: Delegates code ownership review for this folder to the owners listed in //apps/OWNERS.

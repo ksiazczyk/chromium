@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the apps UI source sets
+summary: Defines the apps and impl source sets for Chrome app window UI code, with headers, implementation sources, and platform-conditional dependencies.

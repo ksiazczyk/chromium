@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Birch build configuration
+summary: Defines the GN build targets and dependencies for the Birch static library, its unit tests, and test support code.

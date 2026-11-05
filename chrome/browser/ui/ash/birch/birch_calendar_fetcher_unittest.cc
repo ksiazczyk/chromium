@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch calendar fetcher unit tests
+// summary: Unit tests for BirchCalendarFetcher that verify calendar event fetching against an embedded test server with test authentication and profile setup.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_calendar_fetcher.h"
 
 #include <memory>

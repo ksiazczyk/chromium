@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS accessibility library and unit tests
+summary: Defines the accessibility static library and its unit test source set with their source files and build dependencies.

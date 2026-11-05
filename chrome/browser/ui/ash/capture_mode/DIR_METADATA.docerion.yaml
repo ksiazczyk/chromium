@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Capture mode directory metadata
+summary: Declares the owning team email and the Buganizer and Monorail components for the capture_mode directory.

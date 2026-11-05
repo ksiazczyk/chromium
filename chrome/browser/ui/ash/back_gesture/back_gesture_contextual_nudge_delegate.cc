@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge delegate implementation
+// summary: Implements navigation tracking that notifies the contextual nudge controller when a window's navigation status or active web contents changes.
+// ---
+
 #include "chrome/browser/ui/ash/back_gesture/back_gesture_contextual_nudge_delegate.h"
 
 #include "ash/public/cpp/back_gesture_contextual_nudge_controller.h"

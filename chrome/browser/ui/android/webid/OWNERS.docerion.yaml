@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebID Android owners file
+summary: Delegates code ownership for this folder to the owners of the core WebID browser directory.

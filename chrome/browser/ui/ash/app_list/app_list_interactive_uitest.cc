@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble launcher interactive UI smoke test
+// summary: Interactive Ash test that opens and closes the bubble launcher via the home button, mouse clicks, the search key, and the escape key.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "ash/root_window_controller.h"
 #include "ash/shell.h"

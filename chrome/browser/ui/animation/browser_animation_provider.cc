@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser animation provider implementation
+// summary: Implements BrowserAnimationProvider helpers for motion specifications, sequence parameters, histogram prefixes, and keyframe validation.
+// ---
+
 #include "chrome/browser/ui/animation/browser_animation_provider.h"
 
 #include <compare>

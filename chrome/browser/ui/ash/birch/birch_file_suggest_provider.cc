@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch file suggest provider implementation
+// summary: Implements the birch file suggest provider, which fetches Drive file suggestions and passes them to the BirchModel.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_file_suggest_provider.h"
 
 #include <optional>

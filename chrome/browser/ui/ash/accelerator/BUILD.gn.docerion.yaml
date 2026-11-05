@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the accelerator static library
+summary: Defines the accelerator static library build target with its sources and dependencies on ash, policy, profiles, and user manager components.

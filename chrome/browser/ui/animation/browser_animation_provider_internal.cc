@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal browser animation helpers implementation
+// summary: Implements internal animation value, time, and sequence specification types, including comparison and stream output operators.
+// ---
+
 #include "chrome/browser/ui/animation/browser_animation_provider_internal.h"
 
 #include <type_traits>

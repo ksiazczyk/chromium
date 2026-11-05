@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with shared accessibility metadata
+summary: Points to the common accessibility metadata in //ash/accessibility via a mixin entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch calendar provider header
+// summary: Declares BirchCalendarProvider, a BirchDataProvider that manages calendar event fetching and sends the results to the BirchModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_CALENDAR_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_CALENDAR_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch most visited provider unit tests
+// summary: Unit tests verifying that the most visited provider queries history and populates the birch model with the most visited item.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_most_visited_provider.h"
 
 #include "ash/birch/birch_model.h"

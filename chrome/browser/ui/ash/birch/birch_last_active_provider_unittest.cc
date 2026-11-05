@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch last active provider unit tests
+// summary: Unit tests verifying that the last active provider queries history and populates the birch model with the last active item.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_last_active_provider.h"
 
 #include "ash/birch/birch_model.h"

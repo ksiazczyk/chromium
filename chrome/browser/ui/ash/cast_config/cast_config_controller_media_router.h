@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast config controller Media Router header
+// summary: Declares CastConfigControllerMediaRouter, which lets the Ash tray query cast devices and start, stop, freeze, and unfreeze casting sessions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_CAST_CONFIG_CAST_CONFIG_CONTROLLER_MEDIA_ROUTER_H_
 #define CHROME_BROWSER_UI_ASH_CAST_CONFIG_CAST_CONFIG_CONTROLLER_MEDIA_ROUTER_H_
 

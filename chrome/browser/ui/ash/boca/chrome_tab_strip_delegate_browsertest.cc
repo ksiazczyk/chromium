@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome tab strip delegate browser tests
+// summary: Browser tests verifying GetTabsListForWindow returns correct tab titles, URLs, IDs and last access times.
+// ---
+
 #include "chrome/browser/ui/ash/boca/chrome_tab_strip_delegate.h"
 
 #include "ash/constants/ash_features.h"

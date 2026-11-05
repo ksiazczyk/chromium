@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the desks directory
+summary: Sets allowed include dependencies for the desks directory, with extra rules for unit and browser test files.

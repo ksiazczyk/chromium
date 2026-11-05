@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionBridge
+// summary: JNI bridge that creates and initializes the account selection component and forwards native calls to it, including brand icon size calculations.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebID Android UI build targets
+summary: Defines the Java library, JNI header generation, enum srcjar, and native source set targets for the WebID Android UI component.

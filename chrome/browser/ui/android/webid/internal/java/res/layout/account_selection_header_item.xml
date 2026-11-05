@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account selection sheet header layout
+summary: Defines the account selection sheet header with icon, title, subtitle and a close button.
+-->
+
 <!-- Please update R.dimens.account_selection_sheet_height_single_account
      when modifying the margins or text sizes. -->
 <LinearLayout

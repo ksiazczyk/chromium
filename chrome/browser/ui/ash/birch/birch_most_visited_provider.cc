@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch most visited provider implementation
+// summary: Queries the history service for the most frequently visited URL and passes it to the birch model as a suggestion.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_most_visited_provider.h"
 
 #include "ash/birch/birch_item.h"

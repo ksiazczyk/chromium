@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionCoordinator
+// summary: Coordinator that creates the account selection component, presenting a bottom sheet for account selection and handling identity provider intents, links, and metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_DARK;

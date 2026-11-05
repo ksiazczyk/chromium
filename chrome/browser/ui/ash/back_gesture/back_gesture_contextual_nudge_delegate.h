@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge delegate header
+// summary: Declares the delegate class that observes a window's active web contents and reports navigation status changes to the nudge controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_DELEGATE_H_
 

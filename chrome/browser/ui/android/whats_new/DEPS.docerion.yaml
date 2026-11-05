@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: What's New directory dependency include rules
+summary: Sets the DEPS include rules for this directory, allowing dependencies on the browser UI bottomsheet Android component.

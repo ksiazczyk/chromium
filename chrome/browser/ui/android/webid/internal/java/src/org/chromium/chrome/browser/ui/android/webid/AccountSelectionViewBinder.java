@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionViewBinder
+// summary: Maps changes in AccountSelectionProperties to view updates, binding property model changes to the account selection sheet's views.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.chromium.build.NullUtil.assertNonNull;

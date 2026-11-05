@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC UI
+summary: Lists allowed include rules for the ARC UI folder, restricting //chrome dependencies and granting extra access for tests.

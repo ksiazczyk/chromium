@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app dialog view implementation
+// summary: Implements ArcAppDialogView, a Chrome OS dialog that displays an ARC app icon and message text with confirm and cancel callbacks.
+// ---
+
 #include "ash/strings/grit/ash_strings.h"
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"

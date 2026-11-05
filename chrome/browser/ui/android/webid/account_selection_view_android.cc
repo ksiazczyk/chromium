@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionViewAndroid implementation
+// summary: Implements the Android account selection view, converting native WebID account and provider data into Java objects over JNI.
+// ---
+
 #include "chrome/browser/ui/android/webid/account_selection_view_android.h"
 
 #include <memory>

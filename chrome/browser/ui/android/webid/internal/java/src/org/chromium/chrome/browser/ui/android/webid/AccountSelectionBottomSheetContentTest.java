@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionBottomSheetContentTest
+// summary: JUnit tests verifying that the account selection bottom sheet content cannot be suppressed by same or lower priority sheet content.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertFalse;

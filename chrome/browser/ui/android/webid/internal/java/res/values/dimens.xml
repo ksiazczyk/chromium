@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: FedCM account selection sheet dimension resources
+summary: Defines Android dimension values for the FedCM account selection bottom sheets in passive, active, and common modes.
+-->
+
 <resources>
   <!-- FedCM passive mode bottom sheet dimensions. -->
   <!--

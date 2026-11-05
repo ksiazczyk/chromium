@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/browser/ui/ash
+summary: Lists inherited and per-file owners, including refactoring owners that must review DEPS changes.

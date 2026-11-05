@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Browser test for the reboot notification controller dialog
+// summary: Browser test that shows and verifies the pending reboot dialog through the DialogBrowserTest framework with a test controller subclass.
+// ---
+
 #include "chrome/browser/ui/ash/device_scheduled_reboot/reboot_notification_controller.h"
 
 #include "base/functional/callback_helpers.h"

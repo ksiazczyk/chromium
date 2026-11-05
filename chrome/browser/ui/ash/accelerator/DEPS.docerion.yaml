@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the accelerator directory
+summary: Sets include rules that block //chrome dependencies while allowing this directory and specific policy and profile headers.

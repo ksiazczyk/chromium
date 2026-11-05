@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionButtonModeViewTest
+// summary: Robolectric view tests ensuring that model changes in the active mode account selection component are reflected in the sheet UI.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ARC UI
+summary: Defines the static library for the ARC open URL delegate and its browser test source set with their dependencies.

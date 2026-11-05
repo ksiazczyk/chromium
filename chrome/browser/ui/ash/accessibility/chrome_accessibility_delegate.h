@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAccessibilityDelegate interface
+// summary: Declares the Chrome-side delegate for ash accessibility features such as the magnifier, accessibility menu and prefs associator.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCESSIBILITY_CHROME_ACCESSIBILITY_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_ACCESSIBILITY_CHROME_ACCESSIBILITY_DELEGATE_H_
 

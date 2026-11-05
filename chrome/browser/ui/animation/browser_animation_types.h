@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser animation identifier types and macros
+// summary: Defines unique identifier types for animation groups, motions and sequences, plus animation update callbacks and convenience declaration macros.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANIMATION_BROWSER_ANIMATION_TYPES_H_
 #define CHROME_BROWSER_UI_ANIMATION_BROWSER_ANIMATION_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch browser tests
+// summary: Browser tests for the Birch feature that use fake weather, calendar, attachment, and file suggest providers to exercise Birch behavior in overview mode.
+// ---
+
 #include <utility>
 
 #include "ash/birch/birch_data_provider.h"

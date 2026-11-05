@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome capture mode delegate implementation
+// summary: Implements the Chrome-side delegate for the Ash capture mode feature, handling DLP checks, file saving and uploads, and Lens search.
+// ---
+
 #include "chrome/browser/ui/ash/capture_mode/chrome_capture_mode_delegate.h"
 
 #include <memory>

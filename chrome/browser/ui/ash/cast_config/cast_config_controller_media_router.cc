@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast config controller Media Router implementation
+// summary: Implements the controller that connects the Ash system tray to the media router, including a device cache that tracks and sorts available sinks and routes.
+// ---
+
 #include "chrome/browser/ui/ash/cast_config/cast_config_controller_media_router.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksClient class header
+// summary: Declares DesksClient, the class handling in-browser desk functionalities such as capturing, saving, and deleting desk templates through the desk model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_DESKS_DESKS_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_DESKS_DESKS_CLIENT_H_
 

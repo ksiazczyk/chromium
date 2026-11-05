@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app icon color cache
+// summary: Parameterized tests verifying light vibrant color extraction and sortable icon color computation with the feature on and off.
+// ---
+
 #include "chrome/browser/ui/ash/app_icon_color_cache/app_icon_color_cache.h"
 
 #include <memory>

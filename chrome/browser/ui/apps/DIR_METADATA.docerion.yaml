@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the apps UI folder
+summary: Points this directory's metadata to the shared mixins defined in //apps/COMMON_METADATA.

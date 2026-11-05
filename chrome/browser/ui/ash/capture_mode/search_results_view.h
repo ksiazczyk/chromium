@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultsView class declaration for capture mode
+// summary: Declares SearchResultsView, an AshWebViewImpl subclass adding custom URL opening, web contents creation, and focus handling for capture mode search results.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_CAPTURE_MODE_SEARCH_RESULTS_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_CAPTURE_MODE_SEARCH_RESULTS_VIEW_H_
 

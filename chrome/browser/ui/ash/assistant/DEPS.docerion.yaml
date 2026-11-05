@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the assistant UI directory
+summary: Sets include rules limiting //chrome dependencies for the assistant directory, with an extra allowance for the unit test.

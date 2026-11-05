@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reboot notification controller header
+// summary: Declares the RebootNotificationController class that manages reboot notifications and dialogs for in-session users not in kiosk mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_DEVICE_SCHEDULED_REBOOT_REBOOT_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_DEVICE_SCHEDULED_REBOOT_REBOOT_NOTIFICATION_CONTROLLER_H_
 

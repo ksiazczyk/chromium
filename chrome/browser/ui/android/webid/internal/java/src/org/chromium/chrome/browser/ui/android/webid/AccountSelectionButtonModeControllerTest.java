@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionButtonModeControllerTest
+// summary: Robolectric controller tests verifying that the active mode account selection delegate correctly modifies the UI model for verify sheets and loading dialogs.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientIdMetadata data class
+// summary: Holds relying party client metadata for the account chooser dialog, including terms of service and privacy policy URLs plus the brand icon bitmap.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import android.graphics.Bitmap;

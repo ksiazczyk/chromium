@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the app_access notifier
+summary: Defines the app_access static library and its unit_tests target, listing sources and build dependencies for the ChromeOS app access feature.

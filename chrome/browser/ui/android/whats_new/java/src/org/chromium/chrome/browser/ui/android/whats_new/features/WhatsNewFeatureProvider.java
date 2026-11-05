@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewFeatureProvider for the What's New page
+// summary: Supplies the list of WhatsNewFeature entries to display on the What's New page, with support for overriding the list in tests.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new.features;
 
 import org.chromium.base.ResettersForTesting;

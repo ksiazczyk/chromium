@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn defining Ash UI test support library and test groups
+summary: Defines the test_support static library and aggregates unit and browser test targets from subdirectories.

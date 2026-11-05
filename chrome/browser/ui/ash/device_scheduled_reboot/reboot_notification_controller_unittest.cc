@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the reboot notification controller
+// summary: Unit tests verifying pending and post-reboot notification display, click handling, and kiosk suppression using fake user managers and the message center.
+// ---
+
 #include "chrome/browser/ui/ash/device_scheduled_reboot/reboot_notification_controller.h"
 
 #include "ash/public/cpp/notification_utils.h"

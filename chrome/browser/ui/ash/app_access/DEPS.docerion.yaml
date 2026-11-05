@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the app_access directory
+summary: Restricts //chrome includes in the app_access directory, allowing only the app_service and profile_manager dependencies plus test-specific includes.

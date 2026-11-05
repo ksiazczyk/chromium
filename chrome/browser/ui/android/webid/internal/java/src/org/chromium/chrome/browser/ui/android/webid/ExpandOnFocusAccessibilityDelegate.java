@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandOnFocusAccessibilityDelegate
+// summary: Accessibility delegate that expands the account selection bottom sheet to full state when a view gains accessibility focus.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import android.view.View;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the cast_config static library
+summary: Defines the cast_config static library target with its source files and ChromeOS dependencies for the cast config controller.

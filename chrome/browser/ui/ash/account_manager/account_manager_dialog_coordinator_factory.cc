@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager dialog coordinator factory implementation
+// summary: Implements the profile-keyed service factory that builds the coordinator wired to a force-reconcile callback from the account reconcilor.
+// ---
+
 #include "chrome/browser/ui/ash/account_manager/account_manager_dialog_coordinator_factory.h"
 
 #include <memory>

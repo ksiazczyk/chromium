@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon color cache implementation
+// summary: Implements per-profile caching of app icon light vibrant colors and sortable color groups backed by profile preferences.
+// ---
+
 #include "chrome/browser/ui/ash/app_icon_color_cache/app_icon_color_cache.h"
 
 #include <array>

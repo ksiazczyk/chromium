@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Boca test include dependencies
+summary: Grants browsertest and unittest files extra include permissions for browser UI and test headers.

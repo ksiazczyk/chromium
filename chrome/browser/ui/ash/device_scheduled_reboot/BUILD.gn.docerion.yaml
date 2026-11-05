@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for device scheduled reboot UI code
+summary: Defines the static library and unit and browser test targets for the ChromeOS device scheduled reboot notification and dialog code.

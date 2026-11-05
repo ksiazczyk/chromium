@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksTemplatesAppLaunchHandler class header
+// summary: Declares DesksTemplatesAppLaunchHandler, which launches apps and web pages based on a desk template or coral group, with a new handler per launch.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_DESKS_DESKS_TEMPLATES_APP_LAUNCH_HANDLER_H_
 #define CHROME_BROWSER_UI_ASH_DESKS_DESKS_TEMPLATES_APP_LAUNCH_HANDLER_H_
 

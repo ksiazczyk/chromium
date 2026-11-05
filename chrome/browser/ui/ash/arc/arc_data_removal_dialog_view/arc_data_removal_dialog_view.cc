@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC data removal confirmation dialog implementation
+// summary: Implements the modal dialog shown when ARC++ needs a full container data reset, letting the user remove data and restart or keep current data.
+// ---
+
 #include "ash/strings/grit/ash_strings.h"
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/ash/app_list/app_service/app_service_app_icon_loader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch keyed service factory class declaration
+// summary: Declares the BirchKeyedServiceFactory, which creates birch keyed service instances for regular profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_KEYED_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App access notifier unit tests
+// summary: Unit tests verifying privacy indicator visibility, camera and microphone icon display, and related histograms for the AppAccessNotifier class.
+// ---
+
 #include "chrome/browser/ui/ash/app_access/app_access_notifier.h"
 
 #include <memory>

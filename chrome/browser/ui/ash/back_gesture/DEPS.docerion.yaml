@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Test include allowlist for back gesture
+summary: Allows test files in this directory to include browser window, tab strip, and Chrome test headers.

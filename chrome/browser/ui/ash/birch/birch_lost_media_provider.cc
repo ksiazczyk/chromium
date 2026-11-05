@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch lost media provider implementation
+// summary: Observes media session and video conference state to suggest recently played media tabs for the birch feature.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_lost_media_provider.h"
 
 #include "ash/birch/birch_item.h"

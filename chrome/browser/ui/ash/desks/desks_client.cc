@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksClient implementation for desk templates
+// summary: Implements DesksClient, which captures and saves active desks as templates or saved desks, manages desk storage, and tracks template launch performance.
+// ---
+
 #include "chrome/browser/ui/ash/desks/desks_client.h"
 
 #include <cstddef>

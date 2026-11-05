@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch calendar provider implementation
+// summary: Implements the Birch calendar provider, fetching recent and upcoming calendar events and converting them into Birch calendar and attachment items.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_calendar_provider.h"
 
 #include <string>

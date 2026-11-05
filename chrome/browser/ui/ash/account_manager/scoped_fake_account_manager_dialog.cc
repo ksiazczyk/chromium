@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakeAccountManagerDialog implementation
+// summary: Implements the scoped test helper that installs FakeAccountManagerDialog callbacks on a profile's account manager dialog coordinator for the object's lifetime.
+// ---
+
 #include "chrome/browser/ui/ash/account_manager/scoped_fake_account_manager_dialog.h"
 
 #include "base/check.h"

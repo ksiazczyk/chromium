@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch calendar fetcher header
+// summary: Declares BirchCalendarFetcher, which fetches calendar events via the Google Calendar API for a time range and reports results through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_CALENDAR_FETCHER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_CALENDAR_FETCHER_H_
 

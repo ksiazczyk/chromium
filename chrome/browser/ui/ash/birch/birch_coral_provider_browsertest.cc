@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch coral provider browser tests
+// summary: Browser tests verifying that the birch coral provider collects the expected in-session tab and app data.
+// ---
+
 #include "ash/birch/birch_coral_provider.h"
 
 #include <variant>

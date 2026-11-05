@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefreshTokenWaiter implementation
+// summary: Implements a waiter that invokes a callback once refresh tokens for the primary account are loaded in the identity manager.
+// ---
+
 #include "chrome/browser/ui/ash/birch/refresh_token_waiter.h"
 
 #include "base/check.h"

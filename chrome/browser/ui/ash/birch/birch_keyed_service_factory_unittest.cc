@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch keyed service factory unit tests
+// summary: Unit tests verifying that the factory supports regular profiles but not guest, ash internal, or incognito profiles.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_keyed_service_factory.h"
 
 #include <memory>

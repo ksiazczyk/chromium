@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New coordinator tests
+// summary: Robolectric tests for the What's New coordinator covering bottom sheet display, view state changes and the feature item list.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import static org.junit.Assert.assertEquals;

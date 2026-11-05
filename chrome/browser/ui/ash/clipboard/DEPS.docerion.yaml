@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the clipboard directory
+summary: Blocks ChromeOS dependencies on //chrome and grants specific include exceptions to the clipboard history test files.

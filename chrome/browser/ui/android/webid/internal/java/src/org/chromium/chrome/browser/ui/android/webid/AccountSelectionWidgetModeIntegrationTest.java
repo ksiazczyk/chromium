@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionWidgetModeIntegrationTest
+// summary: Integration tests checking that Account Selection passive mode API calls end up rendering the expected views.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static androidx.test.espresso.Espresso.onView;

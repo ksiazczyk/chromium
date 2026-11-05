@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the device scheduled reboot directory
+summary: Sets include rules that restrict //chrome dependencies for this directory and grant specific exceptions, mainly for tests.

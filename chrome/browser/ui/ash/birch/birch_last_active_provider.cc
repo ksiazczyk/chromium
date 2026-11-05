@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch last active provider implementation
+// summary: Queries the history service for the user's most recently visited URL from the past week and supplies it to the birch model.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_last_active_provider.h"
 
 #include "ash/birch/birch_item.h"

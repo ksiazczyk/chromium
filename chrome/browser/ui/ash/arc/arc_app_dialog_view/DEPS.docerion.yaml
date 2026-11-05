@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for arc_app_dialog_view
+summary: DEPS file restricting //chrome includes for ChromeOS code and granting extra include allowances specifically to the browser test file.

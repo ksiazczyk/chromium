@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: What's New page layout
+summary: ViewFlipper layout for the What's New page that switches between the overview page and the item detail views.
+-->
+
 <ViewFlipper
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the assistant UI directory
+summary: Delegates code ownership to the assistant component OWNERS file.

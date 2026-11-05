@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityProviderData data class
+// summary: Holds identity provider data for FedCM dialogs, including display name, IDP and client metadata, RP context, disclosure fields and login status mismatch flag.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import androidx.annotation.VisibleForTesting;

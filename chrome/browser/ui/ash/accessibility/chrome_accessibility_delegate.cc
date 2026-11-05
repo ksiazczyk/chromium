@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAccessibilityDelegate implementation
+// summary: Implements the ash accessibility delegate using Chrome's magnification and accessibility managers, including saved magnifier scale and prefs associator creation.
+// ---
+
 #include "chrome/browser/ui/ash/accessibility/chrome_accessibility_delegate.h"
 
 #include <limits>

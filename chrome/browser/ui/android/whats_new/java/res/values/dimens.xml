@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: What's New dimension values
+summary: Defines Android dimension resources such as margins, icon size, thumbnail radius, and padding for the What's New UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="whats_new_bottom_sheet_margin">24dp</dimen>
     <dimen name="whats_new_list_item_icon_size">72dp</dimen>

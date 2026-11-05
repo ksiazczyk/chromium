@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser animation controller browser tests
+// summary: Contains in-process browser tests exercising the controller with a test provider and view, including animation updates and histogram checks.
+// ---
+
 #include "chrome/browser/ui/animation/browser_animation_controller.h"
 
 #include <memory>

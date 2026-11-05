@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch recent tabs provider implementation
+// summary: Fetches tabs from synced foreign sessions and adds them as recent tab suggestions to the birch model, respecting sync settings.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_recent_tabs_provider.h"
 
 #include "ash/birch/birch_item.h"

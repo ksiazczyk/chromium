@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled reboot dialog implementation
+// summary: Implements the system-modal bubble dialog warning of an imminent scheduled reboot, with a countdown title refreshed by a timer.
+// ---
+
 #include "chrome/browser/ui/ash/device_scheduled_reboot/scheduled_reboot_dialog.h"
 
 #include <memory>

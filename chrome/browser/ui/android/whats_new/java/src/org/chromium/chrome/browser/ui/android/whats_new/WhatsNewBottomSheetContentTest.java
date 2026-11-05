@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New bottom sheet content unit tests
+// summary: Robolectric unit tests verifying the What's New bottom sheet content's priority, height modes, accessibility strings and swipe behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import static org.junit.Assert.assertEquals;

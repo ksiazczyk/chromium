@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the desks directory
+summary: Lists code owners for the desks directory, referencing desks templates and desks storage owners plus xdai@chromium.org.

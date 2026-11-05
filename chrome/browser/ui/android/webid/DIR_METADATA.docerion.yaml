@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebID Android directory metadata
+summary: Points to the shared WebID COMMON_METADATA mixins for directory metadata such as ownership and tracking.

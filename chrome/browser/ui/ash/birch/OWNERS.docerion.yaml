@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Birch code owners
+summary: Lists the code owners for the Birch directory and delegates reviews of coral files to the Coral owners.

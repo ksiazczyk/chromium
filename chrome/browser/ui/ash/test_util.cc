@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOSBrowserUITest implementation for browser UI tests
+// summary: Implements helpers to toggle tablet, overview, snap, pin, and fullscreen modes in ChromeOS browser tests.
+// ---
+
 #include "chrome/browser/ui/ash/test_util.h"
 
 #include "ash/constants/ash_switches.h"

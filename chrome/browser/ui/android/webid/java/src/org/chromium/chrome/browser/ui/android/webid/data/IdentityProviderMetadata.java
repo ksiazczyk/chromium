@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityProviderMetadata data class
+// summary: Holds identity provider branding and URLs, such as brand colors, icon bitmap, config and login URLs, used to render the FedCM account chooser dialog.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import android.graphics.Bitmap;

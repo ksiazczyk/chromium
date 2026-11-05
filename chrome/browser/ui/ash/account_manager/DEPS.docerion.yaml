@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the account manager folder
+summary: Lists the allowed //chrome includes for this directory and warns against adding new ones while ash code is being refactored out of //chrome.

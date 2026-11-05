@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionJUnitTestBase
+// summary: Common test fixtures and base class for AccountSelection Robolectric JUnit tests, providing mocks, activity rules and RP mode parameterization.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertEquals;

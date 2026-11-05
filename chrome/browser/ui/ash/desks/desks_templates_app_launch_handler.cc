@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksTemplatesAppLaunchHandler implementation
+// summary: Implements the handler that launches apps, browser windows, and ARC apps from saved desk templates and coral groups using restore data.
+// ---
+
 #include "chrome/browser/ui/ash/desks/desks_templates_app_launch_handler.h"
 
 #include <string>

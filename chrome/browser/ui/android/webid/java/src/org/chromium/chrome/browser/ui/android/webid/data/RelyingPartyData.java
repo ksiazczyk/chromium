@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelyingPartyData data class
+// summary: Holds relying party display name, iframe origin and icon shown on the FedCM bottom sheet, plus whether display strings may still change.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import android.graphics.Bitmap;

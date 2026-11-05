@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the app icon color cache
+summary: Defines the app_icon_color_cache static library and its unit test target with sources and dependencies.

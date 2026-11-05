@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch recent tabs provider header
+// summary: Declares the BirchRecentTabsProvider class that fetches foreign session tabs via session sync for the birch feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_RECENT_TABS_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_RECENT_TABS_PROVIDER_H_
 

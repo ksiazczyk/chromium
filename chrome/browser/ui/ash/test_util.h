@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOSBrowserUITest header for ChromeOS browser UI tests
+// summary: Declares a mixin-based browser test base with helpers for tablet, overview, snap, pin, and fullscreen modes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_ASH_TEST_UTIL_H_
 

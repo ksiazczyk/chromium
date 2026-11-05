@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch test helper implementations
+// summary: Provides test helpers for Birch, such as initializing the item remover, accessing birch chip buttons, and toggling data type preferences.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_test_util.h"
 
 #include <algorithm>

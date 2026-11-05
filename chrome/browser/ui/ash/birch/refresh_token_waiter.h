@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefreshTokenWaiter class declaration
+// summary: Declares RefreshTokenWaiter, an IdentityManager observer that delays a callback until primary account refresh tokens are available.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_REFRESH_TOKEN_WAITER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_REFRESH_TOKEN_WAITER_H_
 

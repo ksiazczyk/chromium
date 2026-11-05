@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchSelfShareProvider class declaration
+// summary: Declares BirchSelfShareProvider, which fetches tabs shared to the user via ChromeSync and stores them in the BirchModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_SELF_SHARE_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_SELF_SHARE_PROVIDER_H_
 

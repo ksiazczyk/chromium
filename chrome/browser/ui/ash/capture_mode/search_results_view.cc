@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sunfish search results view implementation
+// summary: Implements the web view showing Sunfish search results in capture mode and opening clicked links in new tabs.
+// ---
+
 #include "chrome/browser/ui/ash/capture_mode/search_results_view.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

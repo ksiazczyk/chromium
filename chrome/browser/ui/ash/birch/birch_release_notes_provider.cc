@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchReleaseNotesProvider implementation
+// summary: Implements the Birch provider that shows a release notes suggestion after an update, honoring notification timing and a force-show command line switch.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_release_notes_provider.h"
 
 #include <memory>

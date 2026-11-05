@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager dialog coordinator interface
+// summary: Declares the per-profile KeyedService that opens ChromeOS account dialogs for Ash features and reports results, including test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_DIALOG_COORDINATOR_H_
 #define CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_DIALOG_COORDINATOR_H_
 

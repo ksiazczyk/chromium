@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionMediator
+// summary: Mediator holding the logic for the WebID account selection component, updating the model state and reacting to events such as clicks and sheet dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.chromium.build.NullUtil.assertNonNull;

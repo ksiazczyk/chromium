@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New list item view binder
+// summary: Binds What's New list item property model changes to the list item view, updating title, description, icon and click listener.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import static org.chromium.chrome.browser.ui.android.whats_new.WhatsNewListItemProperties.DESCRIPTION_ID;

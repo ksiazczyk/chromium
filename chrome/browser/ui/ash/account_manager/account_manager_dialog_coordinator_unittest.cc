@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account manager dialog coordinator unit tests
+// summary: Tests the add-account and reauth flows via the fake dialog, checking options, emails, metrics and already-in-progress handling.
+// ---
+
 #include "chrome/browser/ui/ash/account_manager/account_manager_dialog_coordinator.h"
 
 #include "base/functional/bind.h"

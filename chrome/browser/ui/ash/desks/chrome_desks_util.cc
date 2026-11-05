@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome desks utilities implementation
+// summary: Implements helpers that attach tab groups and pin tabs on a browser instance when restoring saved desks.
+// ---
+
 #include "chrome/browser/ui/ash/desks/chrome_desks_util.h"
 
 #include "base/logging.h"
