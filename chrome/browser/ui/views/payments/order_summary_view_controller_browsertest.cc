@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Order summary view controller browser tests
+// summary: Browser tests verifying order summary behavior, such as completing payment with the Enter key and reflecting the selected shipping option.
+// ---
+
 #include <list>
 
 #include "base/test/scoped_feature_list.h"

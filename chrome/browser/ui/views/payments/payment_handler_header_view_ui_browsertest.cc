@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment handler header view UI browser tests
+// summary: Browser tests verifying the payment handler header view, including cancel and back buttons, sheet title, app icon visibility, and theme color handling.
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

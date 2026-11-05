@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission chip theme enum
+// summary: Defines the PermissionChipTheme enum listing icon, text, and background color themes for permission request and activity indicator chips.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_PERMISSION_CHIP_THEME_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_PERMISSION_CHIP_THEME_H_
 

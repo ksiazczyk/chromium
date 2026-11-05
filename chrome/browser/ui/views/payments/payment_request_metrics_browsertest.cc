@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request outcome metrics browser tests
+// summary: Browser tests checking that the PaymentRequest.Outcome histogram records success, user abort, merchant abort and navigation-abort outcomes correctly.
+// ---
+
 #include "components/payments/core/payment_request_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

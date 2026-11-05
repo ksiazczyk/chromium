@@ -1,3 +1,11 @@
+---
+type: readme
+title: Picture-in-Picture Views
+summary: Explains the shared Views code for video and document picture-in-picture and how the standalone Document PiP window, controller, and extension integration work.
+relations:
+  - references /chrome/browser/ui/views/frame/picture_in_picture_browser_frame_view.h
+---
+
 # Picture-in-Picture Views
 
 This directory contains Views code that is used for both

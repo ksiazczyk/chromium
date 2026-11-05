@@ -1,0 +1,4 @@
+# Docerion header of enterprise_startup_dialog_mac_util.mm.
+type: source
+title: Cocoa implementation of enterprise startup modal helpers
+summary: Implements StartModal and StopModal for macOS by running and stopping the NSApp modal loop for the enterprise startup dialog.

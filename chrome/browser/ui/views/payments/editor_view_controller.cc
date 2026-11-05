@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor view controller implementation
+// summary: Implements the shared editor sheet controller that builds, lays out and validates Payment Request editor fields.
+// ---
+
 #include "chrome/browser/ui/views/payments/editor_view_controller.h"
 
 #include <algorithm>

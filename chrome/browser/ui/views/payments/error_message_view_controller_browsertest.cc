@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error message view controller browser tests
+// summary: Browser tests verifying the error message shown when a payment app completes with fail and that the Enter key closes the error dialog.
+// ---
+
 #include <string_view>
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment Request dialog view implementation
+// summary: Implements the desktop WebPayments dialog, handling sheet transitions, dialog sizing within the browser window, loading views, and metrics logging.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_dialog_view.h"
 
 #include <algorithm>

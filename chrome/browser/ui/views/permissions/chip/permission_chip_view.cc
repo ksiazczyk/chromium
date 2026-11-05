@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission chip view implementation
+// summary: Implements PermissionChipView, the omnibox chip button with icon and text, including collapse, expand, and to-fit animations, theming, and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/permission_chip_view.h"
 
 #include <memory>

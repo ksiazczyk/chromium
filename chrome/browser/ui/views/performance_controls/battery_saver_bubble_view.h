@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver bubble view header
+// summary: Declares the BatterySaverBubbleView class that creates and closes the battery saver bubble dialog anchored to a view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_BATTERY_SAVER_BUBBLE_VIEW_H_
 

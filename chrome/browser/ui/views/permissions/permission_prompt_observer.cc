@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt observer implementation
+// summary: Implements a per-WebContents observer that notifies listeners when a permission prompt is shown, hidden or resized.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_observer.h"
 
 PermissionPromptObserver::PermissionPromptObserver(

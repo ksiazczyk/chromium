@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance intervention button implementation
+// summary: Implements the toolbar button that shows and toggles the performance intervention bubble when performance issues are detected.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/performance_intervention_button.h"
 
 #include <memory>

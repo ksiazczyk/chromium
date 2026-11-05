@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI performance intervention interactive UI tests
+// summary: Interactive tests for the WebUI toolbar performance intervention button and bubble, including tab discard scenarios and feature promos.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/time/time.h"

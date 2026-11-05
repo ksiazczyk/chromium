@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient login permission bubble view header
+// summary: Declares the bubble view for ambient sign-in requests where users choose a credential or dismiss the prompt.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_AMBIENT_LOGIN_PERMISSION_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_AMBIENT_LOGIN_PERMISSION_BUBBLE_VIEW_H_
 

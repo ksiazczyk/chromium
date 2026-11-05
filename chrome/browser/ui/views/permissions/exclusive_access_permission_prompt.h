@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access permission prompt header
+// summary: Declares the controller for exclusive access permission prompts, managing the modal prompt view, content scrim, and input-event suppression.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EXCLUSIVE_ACCESS_PERMISSION_PROMPT_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EXCLUSIVE_ACCESS_PERMISSION_PROMPT_H_
 

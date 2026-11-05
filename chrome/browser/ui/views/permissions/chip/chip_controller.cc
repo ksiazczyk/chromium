@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chip controller implementation
+// summary: Implements the controller that manages the permission chip UI, prompts, timers and cleanup on navigation or tab changes.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/chip_controller.h"
 
 #include <memory>

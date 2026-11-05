@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-origin permission prompt bubble browser test
+// summary: Browser tests for the two-origin permission prompt bubble, using a mock delegate that supplies permission requests and origins.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_two_origins_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop permission prompt implementation
+// summary: Implements the desktop permission prompt base class that tracks the browser window for a web contents and provides location bar access.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_desktop.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

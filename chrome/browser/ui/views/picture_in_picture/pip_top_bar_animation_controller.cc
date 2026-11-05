@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP top bar animation controller implementation
+// summary: Implements hover animations for the Document Picture-in-Picture top bar, covering foreground color fades, button show/hide fades, and camera icon slides.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/pip_top_bar_animation_controller.h"
 
 #include <array>

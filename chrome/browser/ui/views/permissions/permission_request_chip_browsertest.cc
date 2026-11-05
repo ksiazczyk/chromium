@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request chip browser test
+// summary: Browser tests covering the permission chip in the location bar, including bubble anchor resolution, WebUI chips and related metrics.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/run_loop.h"
 #include "base/strings/strcat.h"

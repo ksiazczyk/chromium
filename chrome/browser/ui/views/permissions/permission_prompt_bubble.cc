@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPromptBubble implementation
+// summary: Implements the desktop permission prompt bubble controller that shows the bubble via the location bar chip or directly and handles widget activation to trigger clickjacking protection.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble.h"
 
 #include "base/functional/bind.h"

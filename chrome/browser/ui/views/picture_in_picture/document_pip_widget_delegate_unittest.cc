@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Picture-in-Picture Widget Delegate Unit Tests
+// summary: Unit tests verifying the delegate's contents view, child WebContents hosting, window title behavior including line feed removal, and widget capabilities.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_widget_delegate.h"
 
 #include <memory>

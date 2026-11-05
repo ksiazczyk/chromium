@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document PiP frame view implementation
+// summary: Implements the non-client frame view for the standalone Document Picture-in-Picture window, including the origin chip, page info bubble, and window buttons.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_frame_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt previously granted view implementation
+// summary: Implements the embedded permission prompt view shown when a site's permission was previously granted, offering continue-allowing and stop-allowing buttons.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt_previously_granted_view.h"
 
 #include "base/memory/weak_ptr.h"

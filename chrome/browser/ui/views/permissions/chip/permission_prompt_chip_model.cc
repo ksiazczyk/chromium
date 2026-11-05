@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt chip model implementation
+// summary: Computes chip text, icons, and prompt style for permission requests, including combined microphone and camera requests, keyboard and pointer lock, and quiet UI messaging.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/permission_prompt_chip_model.h"
 
 #include <algorithm>

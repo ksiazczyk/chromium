@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver resource view header
+// summary: Declares the MemorySaverResourceView class that displays memory savings and a contextual visualization for inactive tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_MEMORY_SAVER_RESOURCE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERFORMANCE_CONTROLS_MEMORY_SAVER_RESOURCE_VIEW_H_
 

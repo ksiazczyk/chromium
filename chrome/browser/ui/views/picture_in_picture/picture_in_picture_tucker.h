@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture Tucker Header
+// summary: Declares a helper that temporarily moves a picture-in-picture widget mostly offscreen so the user gains screen space for another task.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_TUCKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_TUCKER_H_
 

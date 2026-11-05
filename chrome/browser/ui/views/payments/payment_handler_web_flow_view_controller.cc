@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler web flow view controller implementation
+// summary: Implements the controller that displays a payment handler's web page inside the Payment Request dialog, handling navigation, permissions, and SSL checks.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_handler_web_flow_view_controller.h"
 
 #include <algorithm>

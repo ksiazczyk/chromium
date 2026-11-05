@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac utilities for the enterprise startup modal dialog
+// summary: Header declaring StartModal and StopModal helpers that run and stop the macOS modal loop for the enterprise startup dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_POLICY_ENTERPRISE_STARTUP_DIALOG_MAC_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_POLICY_ENTERPRISE_STARTUP_DIALOG_MAC_UTIL_H_
 

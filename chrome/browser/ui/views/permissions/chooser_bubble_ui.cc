@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser bubble UI implementation
+// summary: Implements the views-based chooser bubble used for device and similar permission selection dialogs.
+// ---
+
 #include <string>
 
 #include "base/functional/callback_helpers.h"

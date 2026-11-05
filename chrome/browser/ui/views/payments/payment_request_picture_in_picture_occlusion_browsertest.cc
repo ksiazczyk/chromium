@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request picture-in-picture occlusion browser test
+// summary: Browser test verifying that the Payment Request dialog closes when the window becomes occluded by a picture-in-picture video.
+// ---
+
 #include <string>
 
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_observer.h"

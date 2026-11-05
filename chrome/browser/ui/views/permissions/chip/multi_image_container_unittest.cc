@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi image container unit tests
+// summary: Unit tests verifying that the container matches its number of image views to the given image models.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/multi_image_container.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

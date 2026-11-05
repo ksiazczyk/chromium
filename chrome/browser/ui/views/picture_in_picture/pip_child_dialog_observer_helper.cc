@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP child dialog observer helper implementation
+// summary: Implements a helper that resizes the Picture-in-Picture window so child dialogs are not clipped and restores the user's desired size after they close.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/pip_child_dialog_observer_helper.h"
 
 #include <cmath>

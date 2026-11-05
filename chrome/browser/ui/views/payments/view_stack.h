@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View stack header
+// summary: Declares ViewStack, a stack of views that slide over one another, managing animation and lifetime of pushed and popped views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_VIEW_STACK_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_VIEW_STACK_H_
 

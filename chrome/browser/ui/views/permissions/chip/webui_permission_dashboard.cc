@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI permission dashboard implementation
+// summary: Implements the WebUI permission dashboard that aggregates request and indicator chip states and anchors bubbles to the indicator chip.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/webui_permission_dashboard.h"
 
 #include "chrome/browser/ui/location_bar/location_bar.h"

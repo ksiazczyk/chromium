@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture Bounds Change Animation Unit Tests
+// summary: Tests that the animation moves a widget's bounds between the initial and target rectangles over the animation duration.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/picture_in_picture_bounds_change_animation.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

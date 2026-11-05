@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request journey logger browser tests
+// summary: Browser tests verifying that Payment Request journey logging metrics, such as selected payment app and completion events, are recorded correctly in histograms and UKM.
+// ---
+
 #include <utility>
 
 #include "base/numerics/safe_conversions.h"

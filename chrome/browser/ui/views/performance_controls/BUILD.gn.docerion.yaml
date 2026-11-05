@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Performance controls views build configuration
+summary: GN build file defining the performance controls views source set plus its unit test, browser test, and interactive UI test targets.

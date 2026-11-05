@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document PiP frame view unit tests
+// summary: Unit tests for DocumentPipFrameView covering the top bar, content setting icons, hit testing, and PiP window behavior across platforms.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_frame_view.h"
 
 #include <memory>

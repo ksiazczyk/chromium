@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request blob URL browser test
+// summary: Browser test asserting that a Payment Request triggered from a blob URL is rejected with a NotSupportedError.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"

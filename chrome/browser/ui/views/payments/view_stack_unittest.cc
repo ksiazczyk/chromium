@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View stack unit tests
+// summary: Unit tests covering push, pop, and multi-pop behavior of ViewStack, including animation completion and view cleanup.
+// ---
+
 #include "chrome/browser/ui/views/payments/view_stack.h"
 
 #include <memory>

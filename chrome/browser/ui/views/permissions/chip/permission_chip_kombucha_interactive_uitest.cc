@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission chip Kombucha interactive UI tests
+// summary: Interactive browser tests using the Kombucha framework to exercise permission chip and dashboard UI flows against an HTTPS test server.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

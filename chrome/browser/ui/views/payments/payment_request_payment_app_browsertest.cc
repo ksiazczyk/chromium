@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request payment app browser tests
+// summary: Browser tests covering installation, discovery and selection of service worker payment apps, including permissions and app availability in the payment dialog.
+// ---
+
 #include "base/notreached.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

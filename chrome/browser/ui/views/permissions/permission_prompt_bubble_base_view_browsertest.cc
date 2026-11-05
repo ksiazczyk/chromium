@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionPromptBubbleBaseView browser tests
+// summary: Dialog browser tests covering the permission prompt bubble base view, including button behavior, quiet UI, protocol handler requests, and interactive pixel tests.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_bubble_base_view.h"
 
 #include <algorithm>

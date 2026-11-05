@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout dialog view class declaration
+// summary: Declares IdleDialogView, which shows a countdown dialog informing users that Chrome will close due to the IdleProfileCloseTimeout policy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_POLICY_IDLE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_POLICY_IDLE_DIALOG_VIEW_H_
 

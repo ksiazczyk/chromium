@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validating combobox implementation
+// summary: Implements ValidatingCombobox, a views::Combobox subclass that validates its contents through a delegate on blur and on content or model changes.
+// ---
+
 #include "chrome/browser/ui/views/payments/validating_combobox.h"
 
 #include <utility>

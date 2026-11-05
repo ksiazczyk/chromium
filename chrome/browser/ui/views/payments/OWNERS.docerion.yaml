@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for payments views
+summary: Delegates code review ownership to the components/payments OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chip controller header
+// summary: Declares ChipController, which controls the chip UI surfacing permission related information and prompts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_CHIP_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_CHIP_CONTROLLER_H_
 

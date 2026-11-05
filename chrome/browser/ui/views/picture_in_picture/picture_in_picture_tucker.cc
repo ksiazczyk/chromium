@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture Tucker Implementation
+// summary: Implements tucking the picture-in-picture window mostly offscreen to the nearest screen edge and untucking it back to its original location.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/picture_in_picture_tucker.h"
 
 #include "chrome/browser/ui/views/picture_in_picture/picture_in_picture_bounds_change_animation.h"

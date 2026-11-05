@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dashboard controller implementation
+// summary: Implements PermissionDashboardController, updating indicator visibility, managing collapse timers, and showing bubbles or page info dialogs for permission indicators.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/permission_dashboard_controller.h"
 
 #include <memory>

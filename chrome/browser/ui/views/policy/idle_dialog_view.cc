@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout dialog view implementation
+// summary: Implements the browser-modal idle dialog warning users that Chrome will close or clear data under the IdleProfileCloseTimeout policy, with a live countdown.
+// ---
+
 #include "chrome/browser/ui/views/policy/idle_dialog_view.h"
 
 #include <algorithm>

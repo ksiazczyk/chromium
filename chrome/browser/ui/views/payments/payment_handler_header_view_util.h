@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler header view utilities header
+// summary: Declares header view classes and factory functions for the payment handler UI, such as the progress bar, origin label, close button, and header population helper.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_PAYMENT_HANDLER_HEADER_VIEW_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_PAYMENT_HANDLER_HEADER_VIEW_UTIL_H_
 

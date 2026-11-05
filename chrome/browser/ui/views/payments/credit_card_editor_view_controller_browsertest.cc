@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card editor browser tests
+// summary: Disabled browser tests for entering and saving credit card data in the Payment Request editor.
+// ---
+
 #include <string>
 #include <vector>
 

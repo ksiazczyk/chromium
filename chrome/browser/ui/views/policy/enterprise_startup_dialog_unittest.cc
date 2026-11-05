@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless enterprise startup dialog unit tests
+// summary: Unit tests verifying that the enterprise startup dialog is dismissed with the expected callback results when headless mode is active.
+// ---
+
 #include "chrome/browser/ui/enterprise_startup_dialog.h"
 
 #include <memory>

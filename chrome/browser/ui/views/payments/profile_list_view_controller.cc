@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile list view controller implementation
+// summary: Implements the profile list screens of the Payment Request flow, including shipping address and contact info lists with selectable, editable autofill profile items.
+// ---
+
 #include "chrome/browser/ui/views/payments/profile_list_view_controller.h"
 
 #include "base/functional/bind.h"

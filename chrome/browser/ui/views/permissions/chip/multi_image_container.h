@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi image container header
+// summary: Declares MultiImageContainer, a label button image container that holds several image views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_MULTI_IMAGE_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_CHIP_MULTI_IMAGE_CONTAINER_H_
 

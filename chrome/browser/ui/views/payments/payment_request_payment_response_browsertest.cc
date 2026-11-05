@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request payment response browser tests
+// summary: Browser tests verifying that PaymentResponse contains all required shipping address, shipping option and contact detail fields sent to the merchant.
+// ---
+
 #include <vector>
 
 #include "base/test/scoped_feature_list.h"

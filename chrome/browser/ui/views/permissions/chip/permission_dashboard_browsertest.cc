@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission dashboard browser tests
+// summary: Browser tests for the permission dashboard, verifying indicator chip animations, visibility, and page info bubble behavior with forced animation rendering.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/run_until.h"
 #include "base/time/time.h"

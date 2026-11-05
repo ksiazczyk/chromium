@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt controller implementation
+// summary: Selects and shows the correct embedded prompt view variant based on the prompt flow model and records UMA.
+// ---
+
 #include "chrome/browser/ui/views/permissions/embedded_permission_prompt.h"
 
 #include <variant>

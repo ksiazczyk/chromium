@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request browser tests
+// summary: Browser tests covering Payment Request UI behavior such as multiple requests, dialog closing on navigation or reload, and cancel interactions.
+// ---
+
 #include "components/payments/content/payment_request.h"
 
 #include <vector>

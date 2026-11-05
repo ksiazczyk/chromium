@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt factory implementation
+// summary: Creates the appropriate permission prompt UI and decides when requests should be auto-ignored, such as during omnibox editing, fullscreen, or an open Lens overlay.
+// ---
+
 #include "chrome/browser/ui/views/permissions/permission_prompt_factory.h"
 
 #include <algorithm>

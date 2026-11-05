@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance intervention interactive UI tests
+// summary: Interactive browser tests covering the performance intervention button, bubble, tab list views and related metrics and IPH behavior.
+// ---
+
 #include <memory>
 #include <vector>
 

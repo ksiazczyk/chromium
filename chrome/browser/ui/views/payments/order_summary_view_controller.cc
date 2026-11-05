@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Order summary view controller implementation
+// summary: Implements the order summary sheet of the Payment Request dialog, building line item rows with labels, currency, and an emphasized total amount.
+// ---
+
 #include "chrome/browser/ui/views/payments/order_summary_view_controller.h"
 
 #include <memory>

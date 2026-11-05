@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message view controller implementation
+// summary: Implements the error message sheet of the Chrome Payment Request dialog, including its close button, title, and styling for the mandatory payment app UI feature.
+// ---
+
 #include "chrome/browser/ui/views/payments/error_message_view_controller.h"
 
 #include <memory>

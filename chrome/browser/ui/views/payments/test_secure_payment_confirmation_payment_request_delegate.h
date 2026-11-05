@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Secure Payment Confirmation delegate header
+// summary: Declares the test delegate for Secure Payment Confirmation, exposing the dialog view used in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_TEST_SECURE_PAYMENT_CONFIRMATION_PAYMENT_REQUEST_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_TEST_SECURE_PAYMENT_CONFIRMATION_PAYMENT_REQUEST_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI permissions flow interactive UI test
+// summary: Interactive UI test verifying the MIDI permission prompt and page indicator behavior when the BlockMidiByDefault feature is enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

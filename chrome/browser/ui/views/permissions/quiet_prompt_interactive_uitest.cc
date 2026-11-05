@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quiet permission prompt interactive UI tests
+// summary: Interactive browser tests covering Chrome's quiet permission prompt UI, including the quiet chip, quiet bubble, and infobar flows with metrics verification.
+// ---
+
 #include <optional>
 
 #include "base/strings/stringprintf.h"

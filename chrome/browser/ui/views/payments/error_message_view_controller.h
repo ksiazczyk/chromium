@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message view controller header
+// summary: Declares ErrorMessageViewController, the sheet controller for the error message screen of the Payment Request flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_ERROR_MESSAGE_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_ERROR_MESSAGE_VIEW_CONTROLLER_H_
 

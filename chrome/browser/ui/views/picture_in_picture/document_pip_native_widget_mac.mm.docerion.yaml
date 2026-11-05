@@ -1,0 +1,4 @@
+# Docerion header of document_pip_native_widget_mac.mm.
+type: source
+title: Document PiP Mac native widget implementation
+summary: Configures NSWindow creation parameters so the standalone Document PiP window gets rounded corners, a drop shadow, and resizing while drawing its own title bar.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture Tucker Unit Tests
+// summary: Tests tucking toward the closer screen edge, remembering the original position across retucks after resize, and multi-screen tucking behavior.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/picture_in_picture_tucker.h"
 
 #include "ui/display/display.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app loading view unit tests
+// summary: Unit tests for the payment app loading view covering the delayed loading message, hide behavior with minimum display duration, and focus in accessibility mode.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_app_loading_view.h"
 
 #include <memory>

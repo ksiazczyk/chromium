@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request dialog view test API implementation
+// summary: Implements the test API for PaymentRequestDialogView, creating dialog views with test observers and exposing the payment handler web contents.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_dialog_view_test_api.h"
 
 #include "base/check.h"

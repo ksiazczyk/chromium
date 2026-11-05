@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile list view controller header
+// summary: Declares ProfileListViewController, a base sheet controller for screens that display a list of autofill profiles and allow exactly one to be selected or edited.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAYMENTS_PROFILE_LIST_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PAYMENTS_PROFILE_LIST_VIEW_CONTROLLER_H_
 

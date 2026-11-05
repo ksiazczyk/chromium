@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient login permission bubble view implementation
+// summary: Implements the bubble that lists passkey, password, and federated credentials for ambient sign-in permission requests.
+// ---
+
 #include "chrome/browser/ui/views/permissions/ambient_login_permission_bubble_view.h"
 
 #include <algorithm>

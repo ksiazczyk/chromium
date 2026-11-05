@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure payment confirmation dialog view browser tests
+// summary: Browser tests for the secure payment confirmation dialog covering dialog display, buttons, icons, opt-out behavior, and related metrics.
+// ---
+
 #include "chrome/browser/ui/views/payments/secure_payment_confirmation_dialog_view.h"
 
 #include <optional>

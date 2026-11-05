@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access permission prompt view header
+// summary: Declares the view class for exclusive access permission prompts, with button types, element identifiers and widget and button setup methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EXCLUSIVE_ACCESS_PERMISSION_PROMPT_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PERMISSIONS_EXCLUSIVE_ACCESS_PERMISSION_PROMPT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded permission prompt UI browser tests
+// summary: Browser tests that show embedded permission prompts for camera, microphone, and combined requests and verify the UI, including a non-tab WebContents regression case.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

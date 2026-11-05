@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory saver interactive UI tests
+// summary: Interactive UI tests for the Memory Saver chip, bubble, and settings navigation using the interactive browser test framework.
+// ---
+
 #include <memory>
 
 #include "base/byte_size.h"

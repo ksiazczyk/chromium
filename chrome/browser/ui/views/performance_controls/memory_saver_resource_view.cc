@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory saver resource view implementation
+// summary: Implements the Memory Saver resource view that visualizes memory savings with a gauge and quartile-based labels.
+// ---
+
 #include "chrome/browser/ui/views/performance_controls/memory_saver_resource_view.h"
 
 #include <algorithm>

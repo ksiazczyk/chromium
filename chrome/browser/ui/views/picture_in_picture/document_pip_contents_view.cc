@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentPipContentsView implementation
+// summary: Implements the WebView that takes ownership of the Document PiP child WebContents and fills the widget's client area.
+// ---
+
 #include "chrome/browser/ui/views/picture_in_picture/document_pip_contents_view.h"
 
 #include <utility>

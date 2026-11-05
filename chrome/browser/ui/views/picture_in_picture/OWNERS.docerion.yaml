@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Picture-in-Picture views
+summary: Points to the OWNERS files of the Blink picture-in-picture and document picture-in-picture modules that also own this directory.

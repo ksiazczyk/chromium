@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment handler web flow view browser tests
+// summary: Browser tests for the payment handler web flow view, covering permissions, media capture indicators, page info bubbles, and dialog behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

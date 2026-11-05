@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler header view utilities implementation
+// summary: Implements header view components for the payment handler UI, including the progress bar, origin label, close button, and app icon view helpers.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_handler_header_view_util.h"
 
 #include <utility>

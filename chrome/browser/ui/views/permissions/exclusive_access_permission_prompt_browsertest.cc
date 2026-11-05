@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access permission prompt browser test
+// summary: Browser tests for the exclusive access (keyboard/pointer lock) permission prompt, exercising accept, allow-once and deny flows through a mock prompt delegate.
+// ---
+
 #include "chrome/browser/ui/views/permissions/exclusive_access_permission_prompt.h"
 
 #include <memory>

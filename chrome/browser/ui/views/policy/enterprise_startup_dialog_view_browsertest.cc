@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise startup dialog view browser tests
+// summary: Dialog browser tests that show and verify the information, error, and combined variants of the enterprise startup dialog view.
+// ---
+
 #include "chrome/browser/ui/views/policy/enterprise_startup_dialog_view.h"
 
 #include "base/functional/bind.h"

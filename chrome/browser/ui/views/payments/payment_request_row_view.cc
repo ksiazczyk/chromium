@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment Request row view implementation
+// summary: Implements the clickable row view of the Payment Request dialog with hover shading, bottom separator handling and accessible name construction from child labels.
+// ---
+
 #include "chrome/browser/ui/views/payments/payment_request_row_view.h"
 
 #include <string>

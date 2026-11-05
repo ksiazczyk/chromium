@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info editor view controller implementation
+// summary: Implements the Payment Request sheet controller for editing contact details such as name, phone and email.
+// ---
+
 #include "chrome/browser/ui/views/payments/contact_info_editor_view_controller.h"
 
 #include <string_view>

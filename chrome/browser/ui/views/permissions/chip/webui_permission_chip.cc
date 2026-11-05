@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI permission chip implementation
+// summary: Implements the WebUI-backed permission chip, converting chip themes, prompt styles, and permission actions into Mojo types and notifying the toolbar UI frontend of state changes.
+// ---
+
 #include "chrome/browser/ui/views/permissions/chip/webui_permission_chip.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for payments views
+summary: Defines the payments source sets, public headers and build dependencies for the Chrome Payment Request views UI.
