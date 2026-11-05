@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako rewrite view header
+// summary: Declares the MakoRewriteView class for the rewrite bubble, with resizing, dragging, and keyboard event handling support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_REWRITE_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_REWRITE_VIEW_H_
 

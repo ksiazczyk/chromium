@@ -1,0 +1,4 @@
+# Docerion header of screens_login.mojom.
+type: source
+title: Mojom interfaces for the encryption migration screen
+summary: Defines the EncryptionMigrationPageHandler and EncryptionMigrationPage interfaces covering migration UI state, progress, battery, and storage information.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord station setup screen view interface and handler
+// summary: Declares the FjordStationSetupScreenView interface and its WebUI handler class for the Fjord station setup OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FJORD_STATION_SETUP_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FJORD_STATION_SETUP_SCREEN_HANDLER_H_
 

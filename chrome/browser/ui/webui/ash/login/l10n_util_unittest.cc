@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the login l10n utility
+// summary: Unit tests for the ChromeOS login WebUI localization utility, verifying UI language list construction and resolution using mock input methods.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/l10n_util.h"
 
 #include <stddef.h>

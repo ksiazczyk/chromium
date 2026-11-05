@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error screen WebUI handler declaration
+// summary: Declares the ErrorScreenView interface and the ErrorScreenHandler WebUI handler for the login and OOBE error message screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ERROR_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ERROR_SCREEN_HANDLER_H_
 

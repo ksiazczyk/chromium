@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for Ash login WebUI
+summary: Defines the static library target and source list for the ChromeOS Ash login OOBE WebUI screen handlers.

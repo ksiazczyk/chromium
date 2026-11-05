@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input method manager for l10n util tests (header)
+// summary: Declares MockInputMethodManagerWithInputMethods, a test double extending the mock input method manager with addable input methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_L10N_UTIL_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_L10N_UTIL_TEST_UTIL_H_
 

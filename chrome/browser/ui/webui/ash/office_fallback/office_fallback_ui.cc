@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback WebUI controller implementation
+// summary: Implements the office fallback WebUI controller, setting up its data source, localized strings, Mojo interface bindings, and dialog closing behavior.
+// ---
+
 #include "chrome/browser/ui/webui/ash/office_fallback/office_fallback_ui.h"
 
 #include <utility>

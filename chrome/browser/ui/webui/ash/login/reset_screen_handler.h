@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset screen handler interface
+// summary: Declares the ResetView interface and ResetScreenHandler that expose reset screen state such as rollback availability and TPM firmware update mode to WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_RESET_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_RESET_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption migration OOBE screen WebUI handler implementation
+// summary: Implements the WebUI handler for the encryption migration OOBE screen, declaring localized strings for migration progress, warnings and errors.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/encryption_migration_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

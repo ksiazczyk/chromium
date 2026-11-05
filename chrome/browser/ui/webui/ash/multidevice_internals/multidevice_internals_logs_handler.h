@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice logs WebUI message handler declaration
+// summary: Declares MultideviceLogsHandler, a WebUIMessageHandler and LogBuffer observer that forwards PA_LOG messages to the multidevice internals logging tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_INTERNALS_MULTIDEVICE_INTERNALS_LOGS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_INTERNALS_MULTIDEVICE_INTERNALS_LOGS_HANDLER_H_
 

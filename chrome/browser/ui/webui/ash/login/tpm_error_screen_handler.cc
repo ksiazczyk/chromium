@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM error screen handler implementation
+// summary: Implements the WebUI handler for the TPM error screen, declaring error strings and switching between TPM-owned and DBus-error steps.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/tpm_error_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

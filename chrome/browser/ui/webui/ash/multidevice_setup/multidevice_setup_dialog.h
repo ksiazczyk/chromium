@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-device setup dialog header
+// summary: Declares the multi-device setup system dialog class, its WebUI configuration, and the Mojo interface binding for the setup flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_DIALOG_H_
 

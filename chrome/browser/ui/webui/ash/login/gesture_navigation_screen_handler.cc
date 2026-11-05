@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation screen handler implementation
+// summary: Implements the WebUI handler for the gesture navigation OOBE screen, declaring localized strings for the intro, home, back, and overview pages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/gesture_navigation_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

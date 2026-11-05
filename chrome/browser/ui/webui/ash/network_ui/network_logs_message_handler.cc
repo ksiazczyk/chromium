@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network logs message handler implementation
+// summary: Implements WebUI messages to store system and debug logs, write policy JSON, and toggle shill debugging from the network page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/network_ui/network_logs_message_handler.h"
 
 #include <iostream>

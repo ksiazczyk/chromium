@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsFeedbackDialog class header
+// summary: Declares the OsFeedbackDialog class, a SystemWebDialogDelegate that shows the Feedback Tool window with a fixed size and feedback context from the login screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_OS_FEEDBACK_DIALOG_OS_FEEDBACK_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_OS_FEEDBACK_DIALOG_OS_FEEDBACK_DIALOG_H_
 

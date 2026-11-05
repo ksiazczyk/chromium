@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Marketing opt-in screen handler implementation
+// summary: Implements the WebUI handler for the marketing opt-in OOBE screen, providing localized strings and controls for opt-in visibility and accessibility settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/marketing_opt_in_screen_handler.h"
 
 #include <utility>

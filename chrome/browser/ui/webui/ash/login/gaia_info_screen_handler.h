@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia info screen handler header
+// summary: Declares the GaiaInfoScreenView interface and its WebUI handler class for the Gaia info OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_GAIA_INFO_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_GAIA_INFO_SCREEN_HANDLER_H_
 

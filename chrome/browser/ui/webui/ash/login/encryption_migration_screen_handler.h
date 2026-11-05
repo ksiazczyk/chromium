@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption migration OOBE screen view interface and handler
+// summary: Declares the EncryptionMigrationScreenView interface and the WebUI handler implementation for the encryption migration OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENCRYPTION_MIGRATION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENCRYPTION_MIGRATION_SCREEN_HANDLER_H_
 

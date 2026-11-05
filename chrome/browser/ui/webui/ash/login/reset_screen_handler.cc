@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset screen handler implementation
+// summary: Implements the WebUI handler for the reset screen, defining localized strings and state updates for powerwash, rollback, and TPM firmware update options.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/reset_screen_handler.h"
 
 #include <string>

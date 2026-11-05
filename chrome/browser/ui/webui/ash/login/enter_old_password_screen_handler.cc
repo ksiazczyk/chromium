@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enter old password screen handler implementation
+// summary: Implements the WebUI handler for the enter-old-password screen used to recover local data after a password change, with localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/enter_old_password_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML confirm password screen handler implementation
+// summary: Implements the WebUI handler for the SAML confirm password screen, showing password confirmation steps and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/saml_confirm_password_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

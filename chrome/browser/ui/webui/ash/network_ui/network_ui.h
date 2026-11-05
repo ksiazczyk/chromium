@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network UI WebUI controller header
+// summary: Declares the NetworkUIConfig and NetworkUI classes for the ChromeOS network debugging WebUI, including the mojo interface binding methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_NETWORK_UI_NETWORK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_NETWORK_UI_NETWORK_UI_H_
 

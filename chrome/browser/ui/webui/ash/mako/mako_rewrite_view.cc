@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako rewrite view implementation
+// summary: Implements the draggable Mako rewrite bubble, including custom computation of initial widget bounds relative to the caret and screen edges.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/mako_rewrite_view.h"
 
 #include "ash/constants/ash_features.h"

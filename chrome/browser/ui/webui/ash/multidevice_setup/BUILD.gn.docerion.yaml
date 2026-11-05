@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: MultiDevice setup WebUI build target
+summary: GN build file defining the static library for the ChromeOS multi-device setup WebUI dialog, its sources and dependencies.

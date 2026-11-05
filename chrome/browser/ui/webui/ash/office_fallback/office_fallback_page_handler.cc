@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback page handler implementation
+// summary: Implements the Mojo page handler that forwards the user's dialog choice to the browser-side close callback.
+// ---
+
 #include "chrome/browser/ui/webui/ash/office_fallback/office_fallback_page_handler.h"
 
 namespace ash::office_fallback {

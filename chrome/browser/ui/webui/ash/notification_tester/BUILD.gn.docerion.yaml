@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification tester BUILD.gn build file
+summary: Defines the notification_tester static library target, listing its source files and build dependencies for ChromeOS.

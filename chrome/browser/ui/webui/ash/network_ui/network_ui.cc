@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network UI WebUI controller implementation
+// summary: Implements the ChromeOS network debugging WebUI controller, registering message handlers and binding network configuration, health, diagnostics, and eSIM mojo interfaces.
+// ---
+
 #include "chrome/browser/ui/webui/ash/network_ui/network_ui.h"
 
 #include <memory>

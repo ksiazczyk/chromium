@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStateInformer class header
+// summary: Declares NetworkStateInformer, which observes ChromeOS network state changes and notifies login WebUI observers about online, offline, captive portal and proxy states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_NETWORK_STATE_INFORMER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_NETWORK_STATE_INFORMER_H_
 

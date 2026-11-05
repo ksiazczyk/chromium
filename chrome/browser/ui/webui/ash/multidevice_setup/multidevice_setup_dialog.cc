@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-device setup dialog implementation
+// summary: Implements the Chrome OS system dialog that hosts the multi-device setup WebUI, managing its singleton instance, dialog sizing, backdrop, and close callbacks.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_setup/multidevice_setup_dialog.h"
 
 #include "ash/constants/ash_features.h"

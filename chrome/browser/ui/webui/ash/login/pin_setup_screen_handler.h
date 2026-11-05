@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN setup screen WebUI handler header
+// summary: Declares the PinSetupScreenView interface and its WebUI handler used to show the PIN setup screen during Chrome OS OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PIN_SETUP_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PIN_SETUP_SCREEN_HANDLER_H_
 

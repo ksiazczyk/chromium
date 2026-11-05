@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terms of Service screen handler implementation
+// summary: Implements the WebUI handler for the OOBE Terms of Service screen, declaring its localized strings and reporting terms load success or errors to the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/terms_of_service_screen_handler.h"
 
 #include <memory>

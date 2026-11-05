@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome screen handler implementation
+// summary: Implements the WebUI handler for the OOBE welcome screen, managing language and input method lists, accessibility state, demo mode dialogs and timezones.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/welcome_screen_handler.h"
 
 #include <stddef.h>

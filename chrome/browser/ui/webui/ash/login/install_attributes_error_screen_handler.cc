@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes error screen handler implementation
+// summary: WebUI handler for the install attributes failure error screen, declaring its strings and deciding whether a restart is required.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/install_attributes_error_screen_handler.h"
 
 #include "ash/constants/ash_switches.h"

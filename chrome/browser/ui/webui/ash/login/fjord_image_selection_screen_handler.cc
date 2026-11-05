@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord image selection screen WebUI handler
+// summary: Implements the WebUI handler for the Fjord image selection screen, declaring localized labels and showing the screen with data.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/fjord_image_selection_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

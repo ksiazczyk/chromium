@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the office fallback directory
+summary: Delegates ownership to the file manager owners and assigns security owners for mojom file changes.

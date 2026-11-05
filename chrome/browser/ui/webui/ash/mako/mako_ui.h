@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako untrusted WebUI controller declarations
+// summary: Declares the WebUI config and controller classes for the Mako untrusted surface, including Mojo interface binding for Orca and Lobster page handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_UI_H_
 

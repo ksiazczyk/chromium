@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako consent view header
+// summary: Declares the MakoConsentView class, a WebUI bubble dialog that contains the Mako consent UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_CONSENT_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_CONSENT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base WebUI handler header
+// summary: Declares BaseWebUIHandler, the base class binding C++ and JavaScript for all OOBE/login WebUI handlers with deferred CallJS and listener support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_BASE_WEBUI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_BASE_WEBUI_HANDLER_H_
 

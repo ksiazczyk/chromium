@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update required screen handler declaration
+// summary: Declares a no-op fake implementation of UpdateRequiredView that tracks UI state in place of the real update-required screen handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FAKE_UPDATE_REQUIRED_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FAKE_UPDATE_REQUIRED_SCREEN_HANDLER_H_
 

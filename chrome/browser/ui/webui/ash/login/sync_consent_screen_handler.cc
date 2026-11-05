@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync consent screen handler implementation
+// summary: Implements the WebUI handler for the sync consent screen, validating and mapping consent strings back to resource IDs before recording consent.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/sync_consent_screen_handler.h"
 
 #include <string>

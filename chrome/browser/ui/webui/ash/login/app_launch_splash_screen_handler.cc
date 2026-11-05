@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch splash screen handler implementation
+// summary: Implements the WebUI handler for the app launch splash screen, mapping app launch states to progress messages and updating the kiosk launch UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/app_launch_splash_screen_handler.h"
 
 #include <string>

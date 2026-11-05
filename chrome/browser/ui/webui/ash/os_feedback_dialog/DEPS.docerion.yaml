@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for os_feedback_dialog
+summary: Sets include rules that block ChromeOS dependencies on //chrome while allowing exceptions for ash feedback, system web dialog, and chrome_pages code.

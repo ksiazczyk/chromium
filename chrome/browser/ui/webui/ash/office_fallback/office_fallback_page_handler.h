@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback page handler header
+// summary: Declares the Mojo page handler class that forwards dialog choices from the office fallback WebUI renderer to the browser process.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_PAGE_HANDLER_H_
 

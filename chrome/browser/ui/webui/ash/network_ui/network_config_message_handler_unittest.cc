@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the network config message handler
+// summary: Unit tests exercising network configuration handling with fake Hermes eSIM clients, network handler test helpers and fake user managers.
+// ---
+
 #include <memory>
 #include <string>
 

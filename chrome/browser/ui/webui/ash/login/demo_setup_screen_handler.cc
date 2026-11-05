@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo setup screen WebUI handler
+// summary: Implements the WebUI handler for the demo mode setup screen, reporting setup steps, success and failure with localized error and recovery messages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/demo_setup_screen_handler.h"
 
 #include <string>

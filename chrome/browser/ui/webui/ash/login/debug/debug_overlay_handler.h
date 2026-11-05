@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug overlay handler header
+// summary: Declares the DebugOverlayHandler WebUI class with JS callbacks for screenshot capture, color mode toggle, and wallpaper switching.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEBUG_DEBUG_OVERLAY_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEBUG_DEBUG_OVERLAY_HANDLER_H_
 

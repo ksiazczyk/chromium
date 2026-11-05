@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS auth error screen handler implementation
+// summary: Implements the OSAuthErrorScreenHandler that shows the OS auth error screen with retry button and error title strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/osauth/osauth_error_screen_handler.h"
 
 #include <string>

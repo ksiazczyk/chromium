@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup WebUI handler implementation
+// summary: Handles WebUI messages for profile info and opening multi-device settings, and switches to PIN authentication when only a PIN factor is configured.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_setup/multidevice_setup_handler.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

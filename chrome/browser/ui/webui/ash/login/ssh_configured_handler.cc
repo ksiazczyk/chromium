@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSH configured handler implementation
+// summary: Implements the getIsSshConfigured WebUI request by querying debugging features from the debug daemon and reporting SSH configuration state.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/ssh_configured_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

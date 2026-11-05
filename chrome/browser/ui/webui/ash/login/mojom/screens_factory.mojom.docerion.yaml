@@ -1,0 +1,4 @@
+# Docerion header of screens_factory.mojom.
+type: source
+title: ScreensFactory Mojom interface for screen pipes
+summary: Declares the ScreensFactory interface used by renderers to establish Mojo pipes for the page handlers of common, OOBE, login, and OS auth screens.

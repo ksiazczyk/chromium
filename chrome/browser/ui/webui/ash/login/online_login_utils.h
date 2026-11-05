@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online login utilities header
+// summary: Declares GaiaContext, GaiaCookiesData and OnlineSigninArtifacts types plus helper functions for loading Gaia and processing online sign-in results.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ONLINE_LOGIN_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ONLINE_LOGIN_UTILS_H_
 

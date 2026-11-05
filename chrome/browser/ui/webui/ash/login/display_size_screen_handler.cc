@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display size OOBE screen WebUI handler implementation
+// summary: Implements the WebUI handler for the display size OOBE screen, declaring its localized strings and showing the screen in the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/display_size_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

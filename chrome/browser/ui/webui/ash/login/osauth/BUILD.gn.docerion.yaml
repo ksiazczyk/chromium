@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the osauth login screen handlers
+summary: Defines the osauth static library target listing the screen handler sources and their build dependencies for the ChromeOS login WebUI.

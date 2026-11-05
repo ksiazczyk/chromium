@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update screen WebUI handler implementation
+// summary: Implements the WebUI handler for the ChromeOS OOBE update screen, pushing update state, progress, low-battery warnings and UI options to the JS front end.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/update_screen_handler.h"
 
 #include <memory>

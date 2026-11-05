@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the multidevice logs WebUI handler
+// summary: Implements the WebUI message handler that converts multidevice log messages from the shared log buffer to JSON and notifies the debug page when logs are added or cleared.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_internals/multidevice_internals_logs_handler.h"
 
 #include "base/functional/bind.h"

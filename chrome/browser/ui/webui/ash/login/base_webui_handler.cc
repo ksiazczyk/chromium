@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base WebUI handler implementation
+// summary: Implements BaseWebUIHandler, running deferred JavaScript calls once allowed, supplying localized strings, and exposing the current OOBE screen.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/base_webui_handler.h"
 
 #include <memory>

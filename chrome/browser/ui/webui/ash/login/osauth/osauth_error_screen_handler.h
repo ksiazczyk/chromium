@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS auth error screen handler view interface and WebUI handler
+// summary: Declares the OSAuthErrorScreenView interface and the handler that shows the OS auth error screen in the login WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_OSAUTH_ERROR_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_OSAUTH_ERROR_SCREEN_HANDLER_H_
 

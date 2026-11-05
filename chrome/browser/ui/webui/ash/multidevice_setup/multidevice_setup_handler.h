@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup WebUI handler declaration
+// summary: Declares the WebUI message handler exposing profile info and settings navigation for the multi-device setup flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_HANDLER_H_
 

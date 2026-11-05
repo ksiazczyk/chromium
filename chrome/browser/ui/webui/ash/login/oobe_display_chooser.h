@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE display chooser header
+// summary: Declares OobeDisplayChooser, which observes input device changes to place the OOBE UI on a connected touch display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_DISPLAY_CHOOSER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_DISPLAY_CHOOSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako URL constants
+// summary: Defines the Mako and Lobster chrome-untrusted URLs and the query parameter keys and values used by the Orca and Lobster UIs.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/url_constants.h"
 
 namespace ash {

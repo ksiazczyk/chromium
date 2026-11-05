@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE screens handler factory implementation
+// summary: Implements the Mojo ScreensFactory that binds pending receivers and establishes handler pipes between WizardController screens and their WebUI handlers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/oobe_screens_handler_factory.h"
 
 #include "base/check_deref.h"

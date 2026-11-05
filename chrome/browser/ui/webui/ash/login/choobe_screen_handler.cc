@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Choobe screen handler implementation
+// summary: Implements the WebUI handler for the Choobe screen, building the list of OOBE screens with titles, icons and status flags for display.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/choobe_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

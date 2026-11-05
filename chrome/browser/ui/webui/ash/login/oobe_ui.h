@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeUI WebUI controller and its config header
+// summary: Header defining the OobeUI WebUI controller and its config for Chromium's out-of-box-experience UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_UI_H_
 

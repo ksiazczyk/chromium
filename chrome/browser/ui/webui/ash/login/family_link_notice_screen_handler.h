@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link notice screen handler declaration
+// summary: Declares the FamilyLinkNoticeView interface and its WebUI handler for the Family Link notice OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FAMILY_LINK_NOTICE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FAMILY_LINK_NOTICE_SCREEN_HANDLER_H_
 

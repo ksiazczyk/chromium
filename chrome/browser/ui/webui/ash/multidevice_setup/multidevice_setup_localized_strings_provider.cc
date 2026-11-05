@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized strings provider implementation
+// summary: Adds the localized strings for the multi-device setup flow pages, including feature descriptions and password or PIN prompts, to the WebUI data source.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_setup/multidevice_setup_localized_strings_provider.h"
 
 #include "ash/constants/ash_features.h"

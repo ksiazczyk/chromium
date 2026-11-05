@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network screen handler header
+// summary: Declares the NetworkScreenView interface and its WebUI handler used to interact with the OOBE network selection screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_NETWORK_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_NETWORK_SCREEN_HANDLER_H_
 

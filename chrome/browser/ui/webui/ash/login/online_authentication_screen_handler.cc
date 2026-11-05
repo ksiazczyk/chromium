@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online authentication screen handler implementation
+// summary: Implements the WebUI handler for the online authentication screen used during Gaia-based sign-in, providing show, hide and weak pointer behavior.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/online_authentication_screen_handler.h"
 
 #include "base/logging.h"

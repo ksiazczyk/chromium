@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file reference
+summary: Delegates code ownership for this directory to the ChromeOS multidevice component OWNERS file.

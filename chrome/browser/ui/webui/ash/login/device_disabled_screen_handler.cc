@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabled screen WebUI handler
+// summary: Implements the WebUI handler for the device disabled screen, passing serial, domain, admin message, location tracking and restriction schedule data.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/device_disabled_screen_handler.h"
 
 #include "ash/strings/grit/ash_strings.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the login debug overlay
+summary: Defines the static library for the login debug overlay, listing its handler sources and dependencies on ash, base, display, and snapshot.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultideviceInternalsUI WebUI controller implementation
+// summary: Implements the MultideviceInternalsUI controller that sets up the WebUI data source and registers the logs and Phone Hub message handlers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_internals/multidevice_internals_ui.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup screen handler header
+// summary: Declares the MultiDeviceSetupScreenView interface and its WebUI handler implementation for the multi-device setup screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MULTIDEVICE_SETUP_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MULTIDEVICE_SETUP_SCREEN_HANDLER_H_
 

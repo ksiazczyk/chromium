@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome screen handler interface
+// summary: Declares the WelcomeView interface and WelcomeScreenHandler WebUI class for the OOBE welcome screen, including accessibility and requisition dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_WELCOME_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_WELCOME_SCREEN_HANDLER_H_
 

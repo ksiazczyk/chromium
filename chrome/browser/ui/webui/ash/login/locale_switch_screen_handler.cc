@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale switch screen WebUI handler implementation
+// summary: Implements the WebUI handler for the locale switch screen, triggering a content reload when the UI locale changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/locale_switch_screen_handler.h"
 
 #include <string>

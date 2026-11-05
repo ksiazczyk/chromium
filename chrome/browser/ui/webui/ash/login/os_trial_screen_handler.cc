@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS trial screen handler implementation
+// summary: Implements the WebUI handler for the OS trial screen, declaring localized strings for the try-or-install choice shown during setup.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/os_trial_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

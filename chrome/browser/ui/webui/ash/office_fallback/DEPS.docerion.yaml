@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the office fallback directory
+summary: Sets DEPS include rules that restrict which Chrome and ash dependencies this directory may include.

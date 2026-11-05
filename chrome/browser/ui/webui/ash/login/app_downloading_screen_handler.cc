@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App downloading screen handler implementation
+// summary: Implements the WebUI handler for the OOBE app-downloading screen, declaring its localized strings and showing the number of apps selected for reinstall.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/app_downloading_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

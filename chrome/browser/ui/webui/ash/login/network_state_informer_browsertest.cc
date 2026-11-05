@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkStateInformer browser tests
+// summary: Browser tests verifying that NetworkStateInformer notifies observers of network state changes and proxy configuration changes under simulated network environments.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/network_state_informer.h"
 
 #include <memory>

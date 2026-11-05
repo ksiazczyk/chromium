@@ -1,0 +1,4 @@
+# Docerion header of screens_osauth.mojom.
+type: source
+title: Mojom interface for the local data loss warning screen
+summary: Defines the LocalDataLossWarningPageHandler interface emitting powerwash, recreate user, cancel, and back button events from the renderer.

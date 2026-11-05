@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM error screen handler header
+// summary: Defines the TpmErrorView interface and the TpmErrorScreenHandler that displays TPM ownership and DBus error messages during OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_TPM_ERROR_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_TPM_ERROR_SCREEN_HANDLER_H_
 

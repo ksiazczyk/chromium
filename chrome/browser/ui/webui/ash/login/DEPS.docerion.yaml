@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the login WebUI directory
+summary: Specifies allowed include dependencies and per-file exceptions for the Ash login OOBE WebUI directory.

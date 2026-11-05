@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading OOBE screen WebUI handler implementation
+// summary: Implements the WebUI handler for the enable ADB sideloading OOBE screen, providing localized strings and screen state updates to the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/enable_adb_sideloading_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

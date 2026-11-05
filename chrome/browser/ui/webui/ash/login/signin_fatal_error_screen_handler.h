@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in fatal error screen handler header
+// summary: Declares the SignInFatalErrorView interface and the WebUI handler that displays the sign-in fatal error OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_SIGNIN_FATAL_ERROR_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_SIGNIN_FATAL_ERROR_SCREEN_HANDLER_H_
 

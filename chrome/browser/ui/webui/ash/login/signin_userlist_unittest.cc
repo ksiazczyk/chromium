@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in user list unit tests
+// summary: Unit tests for UserSelectionScreen::PrepareUserListForSending, verifying the owner is always kept in the sign-in user list.
+// ---
+
 #include <stddef.h>
 
 #include <array>

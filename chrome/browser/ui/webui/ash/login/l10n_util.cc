@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE and login UI language list utilities
+// summary: Implements helpers that build UI language and input method lists, including most-relevant-language ordering, for OOBE and the login screen.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/l10n_util.h"
 
 #include <stddef.h>

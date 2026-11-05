@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako consent view implementation
+// summary: Implements the MakoConsentView bubble dialog that anchors the consent WebUI to the work area of the display containing the caret.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/mako_consent_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

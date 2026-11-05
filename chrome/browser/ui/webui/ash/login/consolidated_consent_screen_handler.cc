@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consolidated consent screen handler implementation
+// summary: Implements the WebUI handler for the consolidated consent screen, declaring localized strings for terms and usage, backup, recovery and location opt-ins.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/consolidated_consent_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

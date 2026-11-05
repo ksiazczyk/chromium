@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online login utilities implementation
+// summary: Implements helpers for Gaia online sign-in, including starting signin sessions, transferring Gaia cookies to the user context and handling SAML sign-in artifacts.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/online_login_utils.h"
 
 #include <memory>

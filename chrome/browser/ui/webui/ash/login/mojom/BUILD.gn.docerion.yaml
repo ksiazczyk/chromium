@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the login screens Mojom target
+summary: Defines the mojom() build target that compiles the five login and OOBE screen .mojom sources with a dependency on Mojo base types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch splash screen handler header
+// summary: Declares the AppLaunchSplashScreenView interface with its AppLaunchState enum and the WebUI handler for the app launch splash screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_APP_LAUNCH_SPLASH_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_APP_LAUNCH_SPLASH_SCREEN_HANDLER_H_
 

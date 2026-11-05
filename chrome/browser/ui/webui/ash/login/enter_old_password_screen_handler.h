@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enter old password screen handler declaration
+// summary: Declares the EnterOldPasswordScreenView interface and its WebUI handler for the enter-old-password OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENTER_OLD_PASSWORD_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENTER_OLD_PASSWORD_SCREEN_HANDLER_H_
 

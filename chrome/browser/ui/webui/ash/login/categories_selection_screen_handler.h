@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categories selection screen handler header
+// summary: Declares the CategoriesSelectionScreenView interface and the handler class that connects the categories selection screen to its WebUI representation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CATEGORIES_SELECTION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CATEGORIES_SELECTION_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes error screen handler header
+// summary: Declares the InstallAttributesErrorView interface and its WebUI handler for the device install attributes error screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_INSTALL_ATTRIBUTES_ERROR_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_INSTALL_ATTRIBUTES_ERROR_SCREEN_HANDLER_H_
 

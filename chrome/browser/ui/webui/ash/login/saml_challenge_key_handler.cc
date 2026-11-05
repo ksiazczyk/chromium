@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML challenge key handler implementation
+// summary: Implements handling of the samlChallengeMachineKey request, verifying allowlisted URLs and computing TPM attestation responses during SAML login.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/saml_challenge_key_handler.h"
 
 #include "base/base64.h"

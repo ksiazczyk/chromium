@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the OOBE test API directory
+summary: Sets Chromium include dependency rules for the testapi directory, blocking //chrome by default and allowing specific ash and login paths.

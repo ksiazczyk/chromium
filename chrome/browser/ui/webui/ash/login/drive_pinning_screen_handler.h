@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive pinning OOBE screen view interface and handler
+// summary: Declares the DrivePinningScreenView interface and the DrivePinningScreenHandler WebUI implementation for the Drive pinning OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DRIVE_PINNING_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DRIVE_PINNING_SCREEN_HANDLER_H_
 

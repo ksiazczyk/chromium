@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local data loss warning screen handler implementation
+// summary: Implements the local data loss warning screen handler, passing owner, email and back flags and declaring data loss warning strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/osauth/local_data_loss_warning_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

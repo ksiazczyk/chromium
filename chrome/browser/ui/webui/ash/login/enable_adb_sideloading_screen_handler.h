@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading OOBE screen view interface and handler
+// summary: Declares the EnableAdbSideloadingScreenView interface with its UI states and the WebUI handler implementation for the ADB sideloading screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENABLE_ADB_SIDELOADING_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ENABLE_ADB_SIDELOADING_SCREEN_HANDLER_H_
 

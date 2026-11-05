@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor setup success screen handler implementation
+// summary: Implements the factor setup success screen handler, including localized title, subtitle and done button strings for password updates.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/osauth/factor_setup_success_screen_handler.h"
 
 #include <string>

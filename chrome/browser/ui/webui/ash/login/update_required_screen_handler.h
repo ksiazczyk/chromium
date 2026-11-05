@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required screen handler header
+// summary: Defines the UpdateRequiredView interface with UI states and progress setters, plus the UpdateRequiredScreenHandler that renders the system update screen in WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_UPDATE_REQUIRED_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_UPDATE_REQUIRED_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update screen WebUI handler interface
+// summary: Declares the UpdateView interface and UpdateScreenHandler class that connect the OOBE update screen logic to its WebUI representation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_UPDATE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_UPDATE_SCREEN_HANDLER_H_
 

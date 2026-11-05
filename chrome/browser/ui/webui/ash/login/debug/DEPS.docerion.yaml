@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the login debug directory
+summary: Sets include rules that forbid //chrome dependencies for ChromeOS code while allowing ash login WebUI includes and ash/shell.h for the handler.

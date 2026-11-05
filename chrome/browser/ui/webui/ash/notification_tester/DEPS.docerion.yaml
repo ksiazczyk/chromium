@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Notification tester DEPS include rules
+summary: Sets include rules that allow message_center and selected chrome dependencies while blocking general //chrome includes for ChromeOS.

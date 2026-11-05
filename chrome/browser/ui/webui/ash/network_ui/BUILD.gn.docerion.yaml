@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the network_ui library
+summary: Defines the network_ui static library and its unit_tests source_set, listing sources and dependency targets.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating Mojom files to security owners
+summary: Sets per-file ownership so that changes to any .mojom file in this directory require approval from ipc/SECURITY_OWNERS.

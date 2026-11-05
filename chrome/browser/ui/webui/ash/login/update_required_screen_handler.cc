@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required screen handler implementation
+// summary: Implements the WebUI handler for the update-required OOBE screen, declaring localized strings for update progress, metered-network prompts and end-of-life messages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/update_required_screen_handler.h"
 
 #include <memory>

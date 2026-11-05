@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Marketing opt-in screen handler header
+// summary: Declares the MarketingOptInScreenView interface and its WebUI handler for showing the marketing opt-in screen and updating accessibility controls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MARKETING_OPT_IN_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MARKETING_OPT_IN_SCREEN_HANDLER_H_
 
