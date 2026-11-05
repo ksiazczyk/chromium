@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncView
+// summary: Custom layout that wraps the history sync consent screen and caches references to its UI elements and buttons.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import android.content.Context;

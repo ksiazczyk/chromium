@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninAndHistorySyncConfig
+// summary: Holds resources and a builder for the fullscreen sign-in view and history sync opt-in view.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.text.TextUtils;

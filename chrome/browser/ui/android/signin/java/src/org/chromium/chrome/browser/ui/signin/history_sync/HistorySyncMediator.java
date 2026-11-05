@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncMediator
+// summary: Mediator that observes sign-in state and profile data, builds the view model and handles accept and decline actions.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

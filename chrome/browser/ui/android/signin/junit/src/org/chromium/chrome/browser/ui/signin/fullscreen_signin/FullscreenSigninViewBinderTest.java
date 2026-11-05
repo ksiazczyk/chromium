@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenSigninViewBinderTest
+// summary: Robolectric unit tests for FullscreenSigninViewBinder and FullscreenSigninProperties, checking animation visibility and profile picture binding on the sign-in view.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import static org.junit.Assert.assertEquals;

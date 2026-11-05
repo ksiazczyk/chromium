@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsPromoCardPreference
+// summary: Android preference that hosts the settings promo card, initializing the provider and toggling its visibility as promo eligibility changes.
+// ---
+
 package org.chromium.chrome.browser.ui.settings_promo_card;
 
 import android.content.Context;

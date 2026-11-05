@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerDelegate sign-in logic interface
+// summary: Interface abstracting the sign-in logic for the account picker bottom sheet, with one implementation per entry point.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.base.Callback;

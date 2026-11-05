@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FreManagementNoticeDialogHelper
+// summary: Helper that shows the account management notice dialog and records FRE sign-in metrics during the first run sign-in flow.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import android.content.Context;

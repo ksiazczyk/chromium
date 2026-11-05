@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncHelper
+// summary: Provides history sync opt-in utilities such as opt-in state, policy and custodian checks, and decline-based prompt suppression.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 

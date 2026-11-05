@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: History sync portrait centered layout
+summary: Android layout for the centered portrait history sync consent screen with illustration, title, subtitle and screen-size-dependent button layouts.
+-->
+
 <org.chromium.chrome.browser.ui.signin.history_sync.HistorySyncView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

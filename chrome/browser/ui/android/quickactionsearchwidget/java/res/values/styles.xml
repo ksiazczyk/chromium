@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick Action Search Widget Style Resources
+summary: Defines Android styles for the quick action search widget's extra small, small, and medium buttons and hint text, referencing widget dimensions and drawables.
+-->
+
 <resources>
     <style name="QuickActionSearchWidgetXSmallButton">
         <item name="android:layout_width">@dimen/quick_action_search_widget_xsmall_button_width</item>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account picker bottom sheet new account row layout
+summary: Defines the tappable row in the bottom sheet account picker that lets users add a new account to the device.
+-->
+
 <TextView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

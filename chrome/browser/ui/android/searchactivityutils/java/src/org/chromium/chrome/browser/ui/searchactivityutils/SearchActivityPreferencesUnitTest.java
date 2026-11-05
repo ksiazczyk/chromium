@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchActivityPreferencesUnitTest
+// summary: Robolectric unit tests covering SearchActivityPreferences builder defaults, copying and equality behaviour.
+// ---
+
 package org.chromium.chrome.browser.ui.searchactivityutils;
 
 import static org.junit.Assert.assertEquals;

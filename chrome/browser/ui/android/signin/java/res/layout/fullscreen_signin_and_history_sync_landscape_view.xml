@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Fullscreen sign-in and history sync landscape layout
+summary: Landscape container that combines the fullscreen sign-in and history sync views via includes.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fullscreen_signin_and_history_sync_landscape"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin and history sync bundle helper
+// summary: Serializes fullscreen and bottom-sheet sign-in and history sync configs into an Android Bundle to bypass Parcelable crashes in activity extras.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.os.Bundle;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme colors for the default browser promo card
+summary: Defines night-mode color values for the default browser promo illustrations, mapping them to baseline secondary palette colors.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Please see ui/android/java/res/values/color_palette.xml for the shared common colors. -->
     <color name="default_browser_promo_illustration_1">@color/baseline_secondary_25</color>

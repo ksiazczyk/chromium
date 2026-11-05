@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the settings promo card Android UI module
+summary: Defines GN targets for the settings promo card Android library, its resources, and Robolectric unit tests, listing sources and dependencies.

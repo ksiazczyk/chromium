@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerPresenter
+// summary: Presenter interface for showing, dismissing and destroying the account picker UI.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.build.annotations.NullMarked;

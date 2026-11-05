@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FreManagementNoticeDialogHelperTest
+// summary: Robolectric unit tests for FreManagementNoticeDialogHelper, covering management notice dialogs and enterprise disclaimer handling during first-run sign-in flows.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import static org.junit.Assert.assertFalse;

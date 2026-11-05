@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for search activity utils
+summary: Points to the omnibox browser Android OWNERS file to define the code owners for this directory.

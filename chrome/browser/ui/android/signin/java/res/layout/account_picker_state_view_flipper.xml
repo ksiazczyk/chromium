@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account picker state view flipper layout
+summary: Android ViewFlipper layout hosting all account picker bottom sheet states, including no account, collapsed, expanded, progress, error and management confirmation screens.
+-->
+
 <ViewFlipper
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/account_picker_state_view_flipper"

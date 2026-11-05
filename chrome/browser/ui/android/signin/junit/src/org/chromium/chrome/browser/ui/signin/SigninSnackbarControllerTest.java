@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninSnackbarControllerTest
+// summary: Unit tests for SigninSnackbarController verifying when the undo snackbar is shown or suppressed based on sign-in and history sync results such as sign-in only, history sync only, or aborted.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Account picker bottom sheet account row layout
+summary: Wraps the shared account row layout for use as a selectable account entry in the bottom sheet account picker.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

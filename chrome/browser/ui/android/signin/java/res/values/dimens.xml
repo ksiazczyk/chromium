@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Signin UI dimension resources
+summary: Defines dimension values for signin promos, dialogs, account pickers and loading spinners, plus dialog width/height defaults and an ID item used by the Android signin UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Default height of the logo in fullscreen signin -->
     <dimen name="fullscreen_signin_logo_default_height">110dp</dimen>

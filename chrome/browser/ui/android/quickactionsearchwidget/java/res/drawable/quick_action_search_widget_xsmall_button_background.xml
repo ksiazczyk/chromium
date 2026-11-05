@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Extra small widget button background ripple drawable
+summary: Minimal ripple drawable that applies the widget button background color as the touch feedback for extra small widget buttons.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="@color/widget_button_bg">
 </ripple>

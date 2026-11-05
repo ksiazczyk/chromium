@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account picker sign-in in progress state layout
+summary: Android layout for the sign-in progress state, displaying a sync logo, title and centered progress spinner, with height handling explained in comments.
+-->
+
 <!--
 The height of the layout is set to `match_parent` to take the height of
 the previous view set to INVISIBLE, if the latter is bigger. See

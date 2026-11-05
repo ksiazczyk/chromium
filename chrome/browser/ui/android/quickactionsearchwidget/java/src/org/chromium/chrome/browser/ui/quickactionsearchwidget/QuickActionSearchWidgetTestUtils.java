@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickActionSearchWidgetTestUtils
+// summary: Utility class for Quick Action Search Widget tests with helpers to assert activity launches, verify the dino game tab, and click views.
+// ---
+
 package org.chromium.chrome.browser.ui.quickactionsearchwidget;
 
 import static org.junit.Assert.assertTrue;

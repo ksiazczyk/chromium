@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for search activity utils
+summary: Defines the Android library and Robolectric test targets, their Java sources, and dependencies for the search activity utils module.

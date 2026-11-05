@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo delegate tests
+// summary: Parameterized Robolectric unit tests for sign-in promo delegates, verifying promo state logic across identity manager migration flags.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.junit.Assert.assertEquals;

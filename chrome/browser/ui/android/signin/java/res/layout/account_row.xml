@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- LINT.IfChange -->
+
+<!--docerion
+type: source
+title: Account row layout
+summary: Reusable merge layout for an account row with an avatar image and primary and secondary text, kept in sync with the compact variant via lint comments.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" >
 

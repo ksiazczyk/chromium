@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP sign-in promo coordinator
+// summary: Coordinator that shows the seamless sign-in promo card on the New Tab Page, managing view inflation, lateral margins and lifecycle.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import android.app.Activity;

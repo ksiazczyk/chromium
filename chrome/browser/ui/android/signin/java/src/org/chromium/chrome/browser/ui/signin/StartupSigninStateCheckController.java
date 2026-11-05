@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup sign-in state check controller
+// summary: Verifies sign-in state on activity startup and recovers a lost enterprise management disclaimer acceptance by re-prompting or signing out.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo coordinator tests
+// summary: Espresso UI tests covering sign-in promo coordinator behavior, including promo visibility, user interactions and histogram recording.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static androidx.test.espresso.Espresso.onView;

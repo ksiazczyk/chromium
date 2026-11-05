@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultBrowserPromoCard tests
+// summary: Robolectric unit tests verifying that the default browser promo card shows, stays hidden, and responds to dismiss and primary button clicks.
+// ---
+
 package org.chromium.chrome.browser.ui.settings_promo_card;
 
 import static org.mockito.Mockito.any;

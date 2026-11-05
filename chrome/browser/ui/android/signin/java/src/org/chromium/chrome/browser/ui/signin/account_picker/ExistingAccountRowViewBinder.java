@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Existing account row view binder
+// summary: View binder that builds and binds the existing account row, displaying profile data such as full name, email address and current selection state.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.text.TextUtils;

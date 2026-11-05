@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo mediator tests
+// summary: Parameterized Robolectric tests verifying the sign-in promo mediator's behavior across identity manager configurations, using mocks for sync, signin and profile data services.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent text tracker
+// summary: Tracks resource IDs for consent texts assigned to TextViews in the consent screen so they can be extracted, validated and recorded by the consent auditor.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import android.content.res.Resources;

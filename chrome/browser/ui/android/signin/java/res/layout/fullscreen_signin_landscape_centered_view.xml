@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Centered fullscreen sign-in landscape layout
+summary: Centered landscape sign-in FRE layout with product logo, Lottie animation and scrollable content beside a split guideline.
+-->
+
 <org.chromium.chrome.browser.ui.signin.fullscreen_signin.FullscreenSigninView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

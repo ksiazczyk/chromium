@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: History sync illustration (night mode)
+summary: Night-mode vector drawable illustration used for the history sync screen in Chromium's Android sign-in UI.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

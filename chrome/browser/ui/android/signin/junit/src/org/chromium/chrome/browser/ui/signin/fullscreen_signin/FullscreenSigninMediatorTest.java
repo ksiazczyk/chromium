@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenSigninMediatorTest
+// summary: Parameterized Robolectric unit tests for FullscreenSigninMediator, verifying sign-in flow behavior with both legacy and identity-manager account sources.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import static org.junit.Assert.assertEquals;

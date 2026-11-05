@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site dialog view Android implementation
+// summary: Native implementation of the Android suspicious site warning dialog that shows it through the Java bridge and forwards user actions to the controller.
+// ---
+
 #include "chrome/browser/ui/android/safe_browsing/suspicious_site_dialog_view_android.h"
 
 #include <string>

@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Chrome sync logo vector drawable
+summary: Vector drawable rendering the Chrome sync logo with Google-colored gradient segments and a blue center circle.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:width="24dp"

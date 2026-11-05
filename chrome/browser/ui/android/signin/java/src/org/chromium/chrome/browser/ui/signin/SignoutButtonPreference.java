@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout button preference
+// summary: Preference that renders the account settings sign-out button and starts the sign-out flow, optionally with a confirmation dialog.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

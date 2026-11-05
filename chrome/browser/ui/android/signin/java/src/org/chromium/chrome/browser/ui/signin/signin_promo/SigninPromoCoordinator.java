@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo coordinator
+// summary: Coordinator for the sign-in promo card that wires the delegate, mediator, impression tracking and the sign-in and history sync flow.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assertNonNull;

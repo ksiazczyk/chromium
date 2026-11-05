@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modal dialog account picker presenter
+// summary: Presenter that displays the account picker inside a modal dialog, logging dismissals and cancelling sign-in when dismissal is not caused by a completed action.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import org.chromium.build.annotations.NullMarked;

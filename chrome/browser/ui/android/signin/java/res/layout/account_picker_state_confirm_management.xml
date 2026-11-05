@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account picker confirm management state layout
+summary: Android layout for the managed account sign-in confirmation state, with a sync logo, headline, description text and a dual-control button bar.
+-->
+
 <LinearLayout
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android"

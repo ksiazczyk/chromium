@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet sign-in and history sync coordinator
+// summary: Coordinator responsible for showing the correct sub-component of the bottom sheet sign-in and history opt-in flow, handling account picking, sync and snackbars.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

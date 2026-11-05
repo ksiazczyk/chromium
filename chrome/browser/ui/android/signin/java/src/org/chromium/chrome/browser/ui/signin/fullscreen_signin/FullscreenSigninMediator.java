@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninMediator
+// summary: Mediator implementing the fullscreen sign-in flow logic, including account selection, progress states, animations and metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import static org.chromium.build.NullUtil.assertNonNull;

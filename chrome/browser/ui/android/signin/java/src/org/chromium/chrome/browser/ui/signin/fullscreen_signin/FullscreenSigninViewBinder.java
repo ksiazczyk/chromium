@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninViewBinder
+// summary: Stateless binder that applies fullscreen sign-in property model changes to the view, handling visibility, transitions and animations.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.fullscreen_signin;
 
 import android.animation.Animator.AnimatorListener;

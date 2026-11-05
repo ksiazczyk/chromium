@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker bottom sheet mediator
+// summary: Mediator for the account picker bottom sheet in the web sign-in flow, handling account selection, sign-in progress, errors, and management confirmation.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account picker bottom sheet test utility
+// summary: Test helper that builds bottom sheet strings for various sign-in access points used in account picker tests.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.content.Context;

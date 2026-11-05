@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPickerDialogCoordinator
+// summary: Coordinator that constructs and shows the modal account picker dialog and dismisses it via the ModalDialogManager.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.content.Context;

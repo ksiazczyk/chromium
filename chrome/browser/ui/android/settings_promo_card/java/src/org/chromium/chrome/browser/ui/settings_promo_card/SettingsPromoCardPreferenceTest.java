@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsPromoCardPreference tests
+// summary: Robolectric tests verifying that the settings promo card preference becomes visible or hidden depending on promo eligibility and updates.
+// ---
+
 package org.chromium.chrome.browser.ui.settings_promo_card;
 
 import static org.mockito.Mockito.any;

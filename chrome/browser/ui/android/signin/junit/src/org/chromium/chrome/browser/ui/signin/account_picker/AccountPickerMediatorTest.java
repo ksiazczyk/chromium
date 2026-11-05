@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountPickerMediatorTest
+// summary: Parameterized Robolectric tests verifying that AccountPickerMediator populates the account picker model with existing accounts and an add-account row under both identity manager settings.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.mockito.Mockito.verify;

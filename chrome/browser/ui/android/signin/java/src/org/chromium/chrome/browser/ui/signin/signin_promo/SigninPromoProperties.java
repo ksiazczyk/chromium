@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo properties
+// summary: Defines the writable property keys and model factory for the sign-in promo, covering profile data, button click handlers, texts and visibility flags.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import android.view.View;

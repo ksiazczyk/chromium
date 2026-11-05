@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse dialog view Android implementation
+// summary: Native implementation of the Android password reuse warning dialog that shows it through the Java bridge and forwards user actions to the controller.
+// ---
+
 #include "chrome/browser/ui/android/safe_browsing/password_reuse_dialog_view_android.h"
 
 #include <string>

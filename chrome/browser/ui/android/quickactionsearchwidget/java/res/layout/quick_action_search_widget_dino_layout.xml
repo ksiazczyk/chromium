@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Dino quick action search widget layout
+summary: Defines the Android layout for the Dino-themed quick action search widget, using a frame that enforces the widget's aspect ratio and holds the dino image and caption.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/dino_quick_action_area"

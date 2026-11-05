@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo view binder
+// summary: Binds sign-in promo property model changes to the personalized promo view, updating profile images, texts, buttons and disabled-state alpha values.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import android.content.Context;

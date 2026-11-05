@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick action search widget dimensions for sw240dp
+summary: Defines the quick action search widget width of 220dp for small-screen (sw240dp) Android configurations.
+-->
+
 <resources>
     <dimen name="quick_action_search_widget_width">220dp</dimen>
 </resources>

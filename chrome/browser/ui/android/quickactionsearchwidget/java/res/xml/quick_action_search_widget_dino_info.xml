@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dino Quick Action Search Widget provider info
+summary: Appwidget-provider metadata for the dino variant of the Quick Action Search Widget, defining its minimum size, initial and preview layouts, preview image, and description.
+-->
+
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:minWidth="@dimen/quick_action_search_widget_dino_min_size"

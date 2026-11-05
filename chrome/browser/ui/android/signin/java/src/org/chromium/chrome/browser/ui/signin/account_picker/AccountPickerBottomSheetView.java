@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker bottom sheet view
+// summary: Bottom sheet view for the web sign-in flow that shows the selected account, an expandable account list, and sign-in options as a BottomSheetContent.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchActivityPreferencesManagerTest
+// summary: Robolectric tests verifying the caching, update and observer behaviour of SearchActivityPreferencesManager.
+// ---
+
 package org.chromium.chrome.browser.ui.searchactivityutils;
 
 import static org.junit.Assert.assertEquals;

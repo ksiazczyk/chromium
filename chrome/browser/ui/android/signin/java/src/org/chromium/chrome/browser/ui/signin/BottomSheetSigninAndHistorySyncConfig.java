@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet sign-in and history sync configuration
+// summary: Configuration class with a builder that defines sign-in modes, history sync opt-in mode, strings and survey options for the bottom sheet sign-in flow.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import androidx.annotation.IntDef;

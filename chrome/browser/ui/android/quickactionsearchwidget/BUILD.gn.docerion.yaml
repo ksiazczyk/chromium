@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build rules for the Android quick action search widget, defining its Java library, test library and Android resources.

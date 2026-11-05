@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninCookieWaiterTest
+// summary: Robolectric tests verifying that SigninCookieWaiter completes after web signin cookie tracking and handles success, auth error, and other error results with metric logging.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import static org.mockito.ArgumentMatchers.any;

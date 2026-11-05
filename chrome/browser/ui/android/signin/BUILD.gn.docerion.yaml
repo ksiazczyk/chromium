@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android sign-in UI build configuration
+summary: GN build file defining the Android sign-in UI java_library targets, their dependencies on Chromium components and AndroidX, and the Java source and resource files to compile.

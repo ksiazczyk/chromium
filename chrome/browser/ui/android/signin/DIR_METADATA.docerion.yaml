@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sign-in UI directory metadata
+summary: Directory metadata that inherits the shared sign-in component metadata via COMMON_METADATA and marks the directory as Android-specific.

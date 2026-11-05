@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs sign-in promo delegate
+// summary: Sign-in promo delegate for the Recent Tabs page that promotes sign-in or enabling history and tabs sync, tracking impressions per access point.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.signin_promo;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

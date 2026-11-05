@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forced sign-in controller
+// summary: Controller that shows a blocking fullscreen sign-in prompt when the forced sign-in policy is enabled and the user has no primary account.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

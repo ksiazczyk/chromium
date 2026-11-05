@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android UI strings
+summary: Defines the java_strings_grd target that packages android_chrome_strings.grd together with its translated .xtb files for Chrome on Android.

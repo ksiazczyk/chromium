@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site dialog view Android header
+// summary: Declares the Android suspicious site warning dialog class that bridges JNI calls between Java and the suspicious site controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_SAFE_BROWSING_SUSPICIOUS_SITE_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_SAFE_BROWSING_SUSPICIOUS_SITE_DIALOG_VIEW_ANDROID_H_
 

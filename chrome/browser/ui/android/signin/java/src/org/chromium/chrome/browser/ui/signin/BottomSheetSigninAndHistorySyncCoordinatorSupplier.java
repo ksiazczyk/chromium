@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet sign-in coordinator supplier
+// summary: Manages the supplier and UnownedUserData for a BottomSheetSigninAndHistorySyncCoordinator across flows such as web sign-in and extensions.
+// ---
+
 package org.chromium.chrome.browser.ui.signin;
 
 import androidx.annotation.IntDef;

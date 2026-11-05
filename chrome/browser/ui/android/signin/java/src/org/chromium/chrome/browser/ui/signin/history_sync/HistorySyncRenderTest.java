@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistorySyncRenderTest
+// summary: Parameterized render tests capturing the history sync consent dialog across night mode, orientation and FRE states.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

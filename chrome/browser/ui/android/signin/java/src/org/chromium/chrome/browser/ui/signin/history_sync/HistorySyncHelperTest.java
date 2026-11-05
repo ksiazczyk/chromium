@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistorySyncHelperTest
+// summary: Robolectric unit tests verifying HistorySyncHelper opt-in, policy, custodian and decline-related behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.history_sync;
 
 import static org.mockito.ArgumentMatchers.any;

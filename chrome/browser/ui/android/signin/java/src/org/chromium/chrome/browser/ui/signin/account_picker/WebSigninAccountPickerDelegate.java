@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web sign-in account picker delegate
+// summary: Implements AccountPickerDelegate for the web sign-in flow, coordinating cookie waiting, sign-in tracking and callbacks for both activity-less and tab-based variants.
+// ---
+
 package org.chromium.chrome.browser.ui.signin.account_picker;
 
 import android.os.Bundle;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Xlarge dialog dimension resources for sign-in UI
+summary: Defines xlarge-screen dialog width and height dimensions copied from AppCompat so the fullscreen sign-in promo dialog can simulate the DialogWhenLarge layout.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Copy of corresponding abc_* values from AppCompat. Used for the
           fullscreen promo dialog mode (FullscreenPromoDialogHelper) to
