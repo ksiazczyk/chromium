@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura web drag bookmark handler implementation
+// summary: Implements WebDragBookmarkHandlerAura, forwarding web content drag events such as drag over, enter, drop, and leave to the bookmark manager drag event router.
+// ---
+
 #include "chrome/browser/ui/aura/tab_contents/web_drag_bookmark_handler_aura.h"
 
 #include "chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.h"

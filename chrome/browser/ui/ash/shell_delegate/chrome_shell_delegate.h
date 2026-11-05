@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shell delegate class declaration
+// summary: Declares ChromeShellDelegate, the Chrome implementation of ash::ShellDelegate with its delegate factory and binding methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELL_DELEGATE_CHROME_SHELL_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_SHELL_DELEGATE_CHROME_SHELL_DELEGATE_H_
 

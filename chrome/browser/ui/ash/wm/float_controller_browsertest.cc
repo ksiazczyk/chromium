@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Float controller browser tests
+// summary: Browser tests for window floating, including a regression test that repeated tucking of a floated window does not freeze it.
+// ---
+
 #include "ash/wm/float/float_controller.h"
 
 #include "ash/public/cpp/test/shell_test_api.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Chrome user education delegate
+// summary: Contains in-process browser tests for ChromeUserEducationDelegate, including verification of asynchronous system web app launches.
+// ---
+
 #include "chrome/browser/ui/ash/user_education/chrome_user_education_delegate.h"
 
 #include <memory>

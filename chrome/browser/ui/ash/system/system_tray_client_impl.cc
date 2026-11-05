@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tray client implementation
+// summary: Implements the Chrome-side client for the ash system tray, handling settings dialogs, update notifications, locale, and enterprise info.
+// ---
+
 #include "chrome/browser/ui/ash/system/system_tray_client_impl.h"
 
 #include <cstdio>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WallpaperAsh
+// summary: Unit tests for WallpaperAsh covering wallpaper setting, decoding, thumbnails, and result handling with fake users and controllers.
+// ---
+
 #include "chrome/browser/ui/ash/wallpaper/wallpaper_ash.h"
 
 #include <memory>

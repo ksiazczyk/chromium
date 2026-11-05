@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallpaperAsh extension API implementation
+// summary: Implements the Ash wallpaper extension API, decoding wallpaper images, generating thumbnails, and reporting results to callers.
+// ---
+
 #include "chrome/browser/ui/ash/wallpaper/wallpaper_ash.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ash system tray client library
+summary: Defines the GN build targets for the ash system tray client static library along with its unit and browser test source sets.

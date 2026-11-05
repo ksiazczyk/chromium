@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Theme source helper for system web apps
+// summary: Implements GetThemeSource in the UI layer so ash system web apps can create a ThemeSource without chrome/browser/ash depending on chrome/browser/ui.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/color_helpers.h"
 #include "chrome/browser/ui/webui/theme_source.h"
 

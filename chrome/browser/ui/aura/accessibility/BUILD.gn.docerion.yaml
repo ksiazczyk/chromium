@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Aura accessibility
+summary: Defines GN source sets for the Aura accessibility automation manager header, its implementation, and the interactive UI test target with their dependencies.

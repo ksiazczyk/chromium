@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app utility functions for Ash UI
+// summary: Header declaring ash namespace functions to show system web apps such as Graduation, Print Management, Diagnostics, Scanning, Firmware Updates and Shortcut Customization.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_UTILS_H_
 #define CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_UTILS_H_
 

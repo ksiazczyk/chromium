@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Aura tab_contents source set
+summary: GN build file that defines the tab_contents source set containing the Aura web drag bookmark handler and lists its public and private dependencies.

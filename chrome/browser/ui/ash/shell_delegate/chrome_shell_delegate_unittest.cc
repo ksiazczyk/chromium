@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for SetTabScrubberEnabled with null TabScrubber
+// summary: Unit test ensuring SetTabScrubberEnabled does not crash when the TabScrubber instance is null during shell teardown.
+// ---
+
 #include "chrome/browser/ui/ash/shell_delegate/chrome_shell_delegate.h"
 
 #include "chrome/browser/ui/chromeos/tab_scrubber/tab_scrubber.h"

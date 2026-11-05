@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app icon checker implementation header
+// summary: Declares SystemWebAppIconCheckerImpl, which checks system web app icon health via web app icon diagnostic commands.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_ICON_CHECKER_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_ICON_CHECKER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the shell_delegate directory
+summary: Restricts which //chrome headers the Ash shell delegate code may include while dependencies are being refactored.

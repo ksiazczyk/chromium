@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash system directory
+summary: Sets include dependency rules for the directory, restricting ChromeOS dependencies on //chrome and whitelisting specific headers per test file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tray client unit tests
+// summary: Unit tests verifying that system tray client settings actions open the correct OS settings URLs and record the expected user actions.
+// ---
+
 #include "chrome/browser/ui/ash/system/system_tray_client_impl.h"
 
 #include <memory>

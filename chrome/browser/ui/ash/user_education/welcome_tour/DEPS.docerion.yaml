@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Welcome Tour include dependency rules
+summary: Restricts includes in the directory, blocking //chrome dependencies except those needed by the interactive UI tests.

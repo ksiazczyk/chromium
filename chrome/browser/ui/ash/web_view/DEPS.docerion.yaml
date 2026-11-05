@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash web view directory
+summary: Sets include dependency rules, blocking //chrome dependencies for ChromeOS while allowing specific exceptions for this directory.

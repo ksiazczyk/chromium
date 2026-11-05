@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab cluster UI client implementation
+// summary: Implements TabClusterUIClient, which tracks browser tabs and updates tab cluster UI items on navigation and loading changes.
+// ---
+
 #include "chrome/browser/ui/ash/wm/tab_cluster_ui_client.h"
 
 #include <utility>

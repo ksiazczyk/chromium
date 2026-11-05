@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for user_education
+summary: Points the directory metadata to the shared Ash user education COMMON_METADATA mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tray client browser tests
+// summary: Browser tests covering system tray enterprise info display, settings page navigation, and related tray behavior for managed devices.
+// ---
+
 #include "chrome/browser/ui/ash/system/system_tray_client_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

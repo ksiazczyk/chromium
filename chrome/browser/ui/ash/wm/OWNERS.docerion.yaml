@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash wm
+summary: Delegates ownership of this directory to the OWNERS file of ash/wm.

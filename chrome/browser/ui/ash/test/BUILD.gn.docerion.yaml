@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Ash UI tests
+summary: Defines the crosier integration test, browser test, and unit test targets with their sources and dependencies for the chrome/browser/ui/ash test directory.

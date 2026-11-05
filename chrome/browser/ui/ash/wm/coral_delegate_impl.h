@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral delegate header
+// summary: Declares CoralDelegateImpl, the Chrome-side implementation of ash::CoralDelegate for launching Coral groups and opening feedback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_WM_CORAL_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_WM_CORAL_DELEGATE_IMPL_H_
 

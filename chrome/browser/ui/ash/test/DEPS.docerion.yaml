@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Ash UI tests
+summary: Blocks //chrome dependencies for ChromeOS code in this directory while granting per-test include exceptions needed by the browser and unit tests.

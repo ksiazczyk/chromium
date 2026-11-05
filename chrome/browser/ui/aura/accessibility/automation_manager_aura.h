@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationManagerAura class header
+// summary: Declares AutomationManagerAura, a ViewsAXManager subclass managing the Aura automation node tree and observing automation extension events, with test friends.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AURA_ACCESSIBILITY_AUTOMATION_MANAGER_AURA_H_
 #define CHROME_BROWSER_UI_AURA_ACCESSIBILITY_AUTOMATION_MANAGER_AURA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers to show system web apps
+// summary: Provides Show functions that launch specific system web apps such as diagnostics, scanning, print management, and shortcut customization.
+// ---
+
 #include "chrome/browser/ui/ash/system_web_apps/system_web_app_utils.h"
 
 #include "ash/constants/webui_url_constants.h"

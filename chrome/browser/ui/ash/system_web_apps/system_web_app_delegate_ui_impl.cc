@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app delegate UI implementation
+// summary: Implements SystemWebAppDelegate window reuse, creation, and navigation behavior when launching system web apps from the Chrome UI layer.
+// ---
+
 #include <vector>
 
 #include "base/check_deref.h"

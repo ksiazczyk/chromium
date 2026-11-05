@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for shell_init
+summary: Sets include dependency rules for the directory, blocking //chrome by default while allowing shell_init's own headers and existing keyboard and shell_delegate dependencies.

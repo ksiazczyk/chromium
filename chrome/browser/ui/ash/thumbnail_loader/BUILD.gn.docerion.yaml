@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for thumbnail_loader
+summary: Defines the thumbnail_loader static library and browser_tests source set with their sources and dependencies for ChromeOS.

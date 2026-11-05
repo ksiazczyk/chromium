@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for system web apps UI
+summary: Delegates ownership review for this directory to the ash webui PLATFORM_OWNERS file.
