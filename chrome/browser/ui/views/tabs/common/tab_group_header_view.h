@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupHeaderView
+// summary: Declares the view that displays a tab group's title, editor icon and collapse/expand control, with a delegate interface for drag, focus and hover card behaviour.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_HEADER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_HEADER_VIEW_H_
 

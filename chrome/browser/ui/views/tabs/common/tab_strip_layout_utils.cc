@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip layout utilities implementation
+// summary: Implements proportional width distribution and layout measurement helpers for child views in tab strip containers, honoring preferred, crossover, and minimum widths.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_layout_utils.h"
 
 #include <algorithm>

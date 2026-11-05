@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip layout unit tests
+// summary: Unit tests verifying tab bounds calculation across scenarios with pinned, split, grouped and collapsed tabs at varying strip widths.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_layout.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab collection animating layout manager interactive UI tests
+// summary: Interactive UI tests exercising the tab collection animating layout manager with overflowing horizontal tab strips under the tab strip unification feature.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_animating_layout_manager.h"
 
 #include "base/test/scoped_feature_list.h"

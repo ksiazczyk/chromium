@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab scroll button container implementation
+// summary: Implements left/right scroll buttons with animated pagination scrolling, a context menu, and in-product help for the horizontal tab strip.
+// ---
+
 #include "chrome/browser/ui/views/tabs/horizontal/tab_scroll_button_container.h"
 
 #include <algorithm>

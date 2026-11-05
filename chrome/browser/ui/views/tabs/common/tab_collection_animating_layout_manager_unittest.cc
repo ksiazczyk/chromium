@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab collection animating layout manager unit tests
+// summary: Unit tests for the animating layout manager using mock delegates and test layout managers to verify animation behavior across vertical, horizontal, and wrapping axes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_animating_layout_manager.h"
 
 #include <memory>

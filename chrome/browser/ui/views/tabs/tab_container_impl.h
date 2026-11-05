@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContainerImpl class header
+// summary: Declares TabContainerImpl, the view that holds and manages the sequence of tab slot views for the tab strip, including tab, group and split updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_IMPL_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_IMPL_H_
 

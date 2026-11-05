@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab hover card test utilities
+// summary: Implements shared test helpers that access, wait for, and simulate hover cards while disabling hover card animations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/tab_hover_card_test_util.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

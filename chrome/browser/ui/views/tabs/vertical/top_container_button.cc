@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top container button implementation
+// summary: Implements TopContainerButton, a styled label button for the vertical tab strip top container with delayed icon updates and an action view interface.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/top_container_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContainerImpl unit tests
+// summary: Unit tests for the tab container view covering tab insertion, movement, pinning, groups, splits, drag interactions and accessibility metadata.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

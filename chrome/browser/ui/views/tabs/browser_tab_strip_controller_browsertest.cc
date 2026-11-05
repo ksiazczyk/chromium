@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tab strip controller browser tests
+// summary: In-process browser tests covering tab creation, grouping and selection behavior of the browser tab strip controller.
+// ---
+
 #include "chrome/browser/ui/views/tabs/browser_tab_strip_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

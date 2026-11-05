@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab collection node interactive UI tests
+// summary: Interactive browser tests verifying focus order and node structure of tab collection nodes in horizontal and vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_node.h"
 
 #include "base/test/bind.h"

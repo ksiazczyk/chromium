@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip collection controller implementation
+// summary: Implements the controller that connects tab strip views to the browser, handling tab selection, movement, context menus, and group actions.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_collection_controller.h"
 
 #include <variant>

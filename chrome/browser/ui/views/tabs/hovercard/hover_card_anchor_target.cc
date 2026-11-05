@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover card anchor target implementation
+// summary: Builds hover card data such as title, domain, alerts and thumbnails from tab or tab group data.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/hover_card_anchor_target.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

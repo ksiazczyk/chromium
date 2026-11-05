@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab view class declaration
+// summary: Declaration of the split tab container view class that manages layout of tabs within a split and synchronizes hover states with child tab views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_SPLIT_TAB_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_SPLIT_TAB_VIEW_H_
 

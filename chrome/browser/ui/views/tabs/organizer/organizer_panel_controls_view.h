@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel controls view header
+// summary: Declares the OrganizerPanelControlsView class that holds the panel close button, tooltip text, and button opacity handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_CONTROLS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_CONTROLS_VIEW_H_
 

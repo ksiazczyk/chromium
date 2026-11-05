@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabButtonMenuModel class declaration
+// summary: Declares the simple menu model and delegate that provides the new tab button context menu items and element identifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_NEW_TAB_BUTTON_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_NEW_TAB_BUTTON_MENU_MODEL_H_
 

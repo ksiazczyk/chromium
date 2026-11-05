@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip top container implementation
+// summary: Implements the vertical tab strip top container that manages collapse, combo, and tab search buttons, their layout, context menus, and organizer panel controls.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_top_container.h"
 
 #include "chrome/browser/profiles/profile.h"

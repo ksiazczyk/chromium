@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip layout utilities header
+// summary: Declares layout info structs and width calculation helpers shared by tab strip container views, including proportional child width distribution and overlap measurement.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_LAYOUT_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_LAYOUT_UTILS_H_
 

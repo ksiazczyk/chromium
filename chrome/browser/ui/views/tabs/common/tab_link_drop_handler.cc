@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab link drop handler implementation
+// summary: Implements drop index calculation for link drags over tabs, groups, splits, and pinned collections in the tab strip.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_link_drop_handler.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip scroll bar implementation
+// summary: Implements the vertical tab strip scrollbar, adjusting its right margin and invalidating layout when the tab strip collapse state changes.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_scroll_bar.h"
 
 #include "base/functional/bind.h"

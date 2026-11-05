@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip layout header
+// summary: Declares the TabSizer class and CalculateTabBounds helper used to determine the size and bounds of each tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_LAYOUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel test base class header
+// summary: Declares fake vertical tab strip, fake browser view and OrganizerPanelTestBase helpers with panel show, hide and exclusion test steps.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_TEST_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_PANEL_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSlotView header
+// summary: Declares TabSlotView, the abstract base view for items laid out in the tabstrip, with group, split, dragging, animating, and detachment state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_SLOT_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_SLOT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropArrow implementation for tab drag-and-drop indicator
+// summary: Implements the floating arrow widget that highlights where a URL drop will land during a drag-and-drop session, including icon selection and Linux bounds adjustment.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/drop_arrow.h"
 
 #include <utility>

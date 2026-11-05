@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic and actor buttons container implementation
+// summary: Implements the container view hosting the Glic button and actor task icon, including background color and ink drop highlight handling.
+// ---
+
 #include "chrome/browser/ui/views/tabs/glic/glic_and_actor_buttons_container.h"
 
 #include "base/feature_list.h"

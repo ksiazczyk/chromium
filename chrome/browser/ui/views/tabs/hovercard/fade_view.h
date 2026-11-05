@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FadeView cross-fade template helpers
+// summary: Defines FadeWrapper and FadeView templates that cross-fade any view from old data to new data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_VIEW_H_
 

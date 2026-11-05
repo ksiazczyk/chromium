@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip view layout implementation
+// summary: Implements the layout manager that positions pinned and unpinned scroll views, separator, and scroll buttons for horizontal and vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_view_layout.h"
 
 #include <algorithm>

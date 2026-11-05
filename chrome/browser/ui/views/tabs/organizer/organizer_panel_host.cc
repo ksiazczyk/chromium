@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel host implementation
+// summary: Implements host lookup and preferred location logic for embedding the organizer panel in the tab strip or tray.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_host.h"
 
 #include "base/check.h"

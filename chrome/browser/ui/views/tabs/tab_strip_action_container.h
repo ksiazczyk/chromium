@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripActionContainer header
+// summary: Declares TabStripActionContainer, a view hosting Glic and actor task buttons with nudge animation sessions and mouse watcher behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_ACTION_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_ACTION_CONTAINER_H_
 

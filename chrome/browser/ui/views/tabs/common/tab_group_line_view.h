@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupLineView header
+// summary: Declares the view class that draws the colored group line for tab groups in horizontal and vertical tab strips.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_LINE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_LINE_VIEW_H_
 

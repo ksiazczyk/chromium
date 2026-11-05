@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group view layout implementation
+// summary: Implements the TabGroupView layout manager that calculates proposed layouts and minimum sizes for vertical and horizontal tab group orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_view_layout.h"
 
 #include <algorithm>

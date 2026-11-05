@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group header view declaration
+// summary: Declares TabGroupHeader, the tab slot view positioned left of the leftmost tab of a group that shows the group title and handles input events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_HEADER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_HEADER_H_
 

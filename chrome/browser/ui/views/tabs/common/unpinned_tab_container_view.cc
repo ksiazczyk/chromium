@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnpinnedTabContainerView implementation
+// summary: Implements the container view hosting unpinned tabs, serving as their drag target and handling drag entry and exit for tab groups.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/unpinned_tab_container_view.h"
 
 #include "chrome/browser/ui/layout_constants.h"

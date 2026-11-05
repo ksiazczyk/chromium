@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab view class declaration
+// summary: Declares the Tab view class that renders a tab in a TabStrip, including layout, mouse, keyboard and gesture handling, animations and hover card support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_H_
 

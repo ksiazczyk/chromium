@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripFlatEdgeButton unit tests
+// summary: Unit tests checking default and custom corner radii across flat edges and the flat edge factor for the tab strip flat edge button.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/tab_strip_flat_edge_button.h"
 
 #include <memory>

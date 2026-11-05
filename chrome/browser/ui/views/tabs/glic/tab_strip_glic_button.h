@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip Glic button
+// summary: Declares the tab strip Glic button with width states, split button corner styling, and context menu handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GLIC_TAB_STRIP_GLIC_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GLIC_TAB_STRIP_GLIC_BUTTON_H_
 

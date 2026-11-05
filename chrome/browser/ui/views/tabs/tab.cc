@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab view implementation
+// summary: Implements the Tab view that renders a single tab in the tab strip, covering painting, input events, animations, alert indicators, hover cards and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab.h"
 
 #include <stddef.h>

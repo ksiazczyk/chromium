@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag controller implementation
+// summary: Implements TabDragController, managing tab drag sessions including attaching, detaching and moving tabs between browser windows.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/tab_drag_controller.h"
 
 #include <algorithm>

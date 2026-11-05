@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip collection controller interactive UI tests
+// summary: Interactive UI tests exercising tab strip collection controller interactions like keyboard shifts, menus, and hover cards in both orientations.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/metrics/histogram_tester.h"

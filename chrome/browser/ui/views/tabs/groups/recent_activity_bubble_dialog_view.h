@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity bubble dialog header
+// summary: Declares RecentActivityBubbleDialogView, a location bar bubble showing up to five recent activity rows for a shared tab group.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_RECENT_ACTIVITY_BUBBLE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_RECENT_ACTIVITY_BUBBLE_DIALOG_VIEW_H_
 

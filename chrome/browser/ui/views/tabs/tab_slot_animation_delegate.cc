@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slot animation delegate implementation
+// summary: Implements TabSlotAnimationDelegate, which notifies the tab container as tab slot view bounds animate and handles deletion of the observed view.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_slot_animation_delegate.h"
 
 TabSlotAnimationDelegate::TabSlotAnimationDelegate(TabContainer* tab_container,

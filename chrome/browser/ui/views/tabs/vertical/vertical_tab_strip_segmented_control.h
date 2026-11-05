@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip segmented control header
+// summary: Declares the segmented control view with Tab Strip and Organizer Panel segments, context menu support, and an expand-on-hover lock.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_VERTICAL_TAB_STRIP_SEGMENTED_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_VERTICAL_VERTICAL_TAB_STRIP_SEGMENTED_CONTROL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group views manager header
+// summary: Declares TabGroupViews, the manager of all views associated with a tab group, handling visual calculations and updates for header, underline and highlight.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_VIEWS_H_
 

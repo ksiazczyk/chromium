@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip view header
+// summary: Declares TabStripView, the view holding pinned and unpinned tab containers, their scroll views, and scrolling logic for the active tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_STRIP_VIEW_H_
 

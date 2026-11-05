@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStrip unit tests
+// summary: Unit tests for the TabStrip view covering observer notifications for tab add, move, and remove, plus touch UI and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip.h"
 
 #include <memory>

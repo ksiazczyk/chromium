@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZOrderableTabContainerElement class header
+// summary: Declares a class that computes z-values for TabContainer child views such as tabs, group headers, underlines and highlights, enabling comparison to determine paint order.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_Z_ORDERABLE_TAB_CONTAINER_ELEMENT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_Z_ORDERABLE_TAB_CONTAINER_ELEMENT_H_
 

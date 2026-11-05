@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split tab view browser tests
+// summary: Browser tests verifying proposed layouts of split tab views, including unbounded and large-bounds cases across horizontal and vertical tab strip orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/split_tab_view.h"
 
 #include "build/build_config.h"

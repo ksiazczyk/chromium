@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection z-order manager header
+// summary: Declares a view base class that caches child z-order levels, propagates changes upward, and defines the kTabZOrderKey property.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_COLLECTION_Z_ORDER_MANAGER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_COLLECTION_Z_ORDER_MANAGER_H_
 

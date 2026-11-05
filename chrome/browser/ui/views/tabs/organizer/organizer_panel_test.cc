@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel test support implementation
+// summary: Implements fake vertical tab strip and fake browser views plus the OrganizerPanelTestBase class used by organizer panel unit and UI tests.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_test.h"
 
 #include <memory>

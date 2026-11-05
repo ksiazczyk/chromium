@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alert indicator button implementation
+// summary: Implements the tab alert indicator button that displays audio, capture and actor-access states with animations and supports click-to-mute.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/alert_indicator_button.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab view implementation
+// summary: Implementation of the split tab container view that lays out two tabs within a split, managing hover glow, borders, and collapse state for vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/split_tab_view.h"
 
 #include <vector>

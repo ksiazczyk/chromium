@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group header view implementation
+// summary: Implements the TabGroupHeader view that marks the start of a tab group, handling its title chip, sync icon, context menu and visual updates.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_header.h"
 
 #include <memory>

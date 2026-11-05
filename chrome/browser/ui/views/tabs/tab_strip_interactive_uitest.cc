@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStrip interactive UI tests
+// summary: Interactive browser tests for the tab strip, covering hover effects and the new tab button context menu.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip.h"
 
 #include "base/scoped_observation.h"

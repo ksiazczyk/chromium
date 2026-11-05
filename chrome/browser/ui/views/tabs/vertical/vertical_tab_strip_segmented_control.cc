@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip segmented control implementation
+// summary: Implements the segmented control with mutually exclusive Tab Strip and Organizer Panel segments, including buttons, context menu, icons, and ink drop styling.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_segmented_control.h"
 
 #include "base/check.h"

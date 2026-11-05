@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer tray view header
+// summary: Declares OrganizerTrayView, a flex layout view hosting the organizer panel with focus traversal, caption exclusions and panel host behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_TRAY_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_ORGANIZER_TRAY_VIEW_H_
 

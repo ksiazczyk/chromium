@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab icon view implementation
+// summary: Implements the tab icon view that renders favicons, the crashed sad tab icon, the loading throbber, and attention indicators with crash and discard animations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/tab_icon.h"
 
 #include "base/check.h"

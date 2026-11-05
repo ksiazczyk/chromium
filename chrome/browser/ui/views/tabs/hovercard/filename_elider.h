@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filename elider declarations
+// summary: Declares FilenameElider, a helper that elides local filenames across two lines using a RenderText object.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FILENAME_ELIDER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FILENAME_ELIDER_H_
 

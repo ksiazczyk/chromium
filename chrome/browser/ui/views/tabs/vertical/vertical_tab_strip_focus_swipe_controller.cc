@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip focus swipe controller implementation
+// summary: Implements a gesture controller that converts horizontal wheel and scroll swipes into focus mode rotations in the vertical tab strip when the tab groups focusing feature is enabled.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_focus_swipe_controller.h"
 
 #include <cmath>

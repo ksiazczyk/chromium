@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab view component build definition
+summary: Defines source sets for the tab UI component, its implementation target, and the unit and browser test targets with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock mock of TabDragContext for tab drag tests
+// summary: Declares MockTabDragContext, a gmock-based mock of the TabDragContext interface used to fake tab drag behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TEST_MOCK_TAB_DRAG_CONTEXT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_TEST_MOCK_TAB_DRAG_CONTEXT_H_
 

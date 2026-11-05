@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the tab dragging directory
+summary: Points Chromium bug tracking for this directory to the UI>Browser>TopChrome>TabStrip component.

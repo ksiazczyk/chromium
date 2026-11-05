@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window finder implementation
+// summary: Implements WindowFinder by delegating to display::Screen to find local process windows at a screen point.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/window_finder.h"
 
 #include "ui/display/screen.h"

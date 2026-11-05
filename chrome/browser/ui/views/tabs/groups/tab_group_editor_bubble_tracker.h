@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group editor bubble tracker header
+// summary: Declares TabGroupEditorBubbleTracker, which keeps at most one editor bubble open and allows registering open and close callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_EDITOR_BUBBLE_TRACKER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_GROUPS_TAB_GROUP_EDITOR_BUBBLE_TRACKER_H_
 

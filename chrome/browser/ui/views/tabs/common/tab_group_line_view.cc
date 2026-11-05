@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupLineView implementation
+// summary: Implements the view that paints the colored tab group underline or side line for both horizontal and vertical tab strip orientations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_line_view.h"
 
 #include <optional>

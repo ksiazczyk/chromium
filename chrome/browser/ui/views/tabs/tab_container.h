@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContainer interface declaration
+// summary: Declares the TabContainer interface that holds and lays out tab views for the TabStrip, handling tab, tab group and drag-and-drop model changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_H_
 

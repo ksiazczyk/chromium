@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glow hover controller implementation
+// summary: Implements animated hover glow opacity for tab views, handling subtle and pronounced show and hide styles.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab/glow_hover_controller.h"
 
 #include "base/numerics/safe_conversions.h"

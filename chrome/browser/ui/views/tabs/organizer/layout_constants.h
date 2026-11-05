@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel layout constants
+// summary: Declares inline constants for organizer panel width, minimum overlap, background color, and control margins.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_LAYOUT_CONSTANTS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_ORGANIZER_LAYOUT_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group header interactive UI tests
+// summary: Interactive browser tests for tab group headers covering collapsing, opening the editor bubble, attention indicators and dragging collapsed groups.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_header.h"
 
 #include "base/test/bind.h"

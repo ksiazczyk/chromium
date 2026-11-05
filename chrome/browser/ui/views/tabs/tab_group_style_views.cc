@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group views styling implementation
+// summary: Implements TabGroupStyleViews, providing view-dependent tab group styling such as underline paths, empty title chip bounds and icon widths.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_style_views.h"
 
 #include <memory>

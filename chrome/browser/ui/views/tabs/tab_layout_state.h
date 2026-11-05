@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab layout state header
+// summary: Declares TabLayoutState, which holds openness, pinnedness, activeness and split state needed to determine tab bounds while animating between states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_LAYOUT_STATE_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_LAYOUT_STATE_H_
 

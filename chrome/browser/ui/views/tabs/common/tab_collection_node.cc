@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection node implementation
+// summary: Implementation of the tab collection node view-model class that creates and manages views for tabstrip, pinned, unpinned, group, split, and tab collection types.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_node.h"
 
 #include <vector>

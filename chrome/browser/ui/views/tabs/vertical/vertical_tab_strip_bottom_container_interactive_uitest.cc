@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip bottom container interactive UI tests
+// summary: Interactive browser tests verifying the new tab button in the vertical tab strip bottom container, including click metrics and middle-click paste navigation.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/metrics/user_action_tester.h"
 #include "build/build_config.h"

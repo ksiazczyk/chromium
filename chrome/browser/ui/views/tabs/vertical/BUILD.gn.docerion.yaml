@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for vertical tab strip views
+summary: Defines GN source sets for the vertical tab strip views, listing headers, implementations, and dependencies for the vertical, impl, and browser_tests targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HorizontalTabStyleViews implementation
+// summary: Implements horizontal tab styling, including tab paths, painting, colors, separators and hover effects.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/horizontal_tab_style_views.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window finder interface
+// summary: Declares WindowFinder, a testable wrapper around display::Screen used to find windows that dragged tabs can attach to.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_WINDOW_FINDER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_DRAGGING_WINDOW_FINDER_H_
 

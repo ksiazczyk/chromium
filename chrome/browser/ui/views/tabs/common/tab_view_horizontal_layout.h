@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabView horizontal layout declaration
+// summary: Declares the horizontal layout manager for TabView, including child visibility calculation and title animation handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_VIEW_HORIZONTAL_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_VIEW_HORIZONTAL_LAYOUT_H_
 

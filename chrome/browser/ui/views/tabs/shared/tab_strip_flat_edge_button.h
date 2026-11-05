@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripFlatEdgeButton class header
+// summary: Declares a label button that can display a flat edge with configurable corner radii, expansion factor, icon size, and optional label.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_SHARED_TAB_STRIP_FLAT_EDGE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_SHARED_TAB_STRIP_FLAT_EDGE_BUTTON_H_
 

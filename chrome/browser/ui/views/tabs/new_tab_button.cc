@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabButton implementation
+// summary: Implements the new tab button, including a context menu for adding tabs or creating tab groups behind the kNewTabButtonContextMenu feature flag.
+// ---
+
 #include "chrome/browser/ui/views/tabs/new_tab_button.h"
 
 #include <memory>

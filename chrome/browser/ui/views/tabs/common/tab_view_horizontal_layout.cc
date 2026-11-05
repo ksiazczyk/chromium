@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabView horizontal layout implementation
+// summary: Implements the horizontal layout manager for TabView, positioning icon, title, alert indicator and close button with title animation and close-button thresholds.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_view_horizontal_layout.h"
 
 #include "chrome/browser/glic/browser_ui/tab_underline_view.h"

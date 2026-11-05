@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection z-order manager implementation
+// summary: Implements cached child z-order sorting and upward propagation of z-order property changes for tab collection container views.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_z_order_manager.h"
 
 #include <algorithm>

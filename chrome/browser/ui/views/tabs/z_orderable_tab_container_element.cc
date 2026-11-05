@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Z-order calculation for tab container elements
+// summary: Implements z-value calculation so tabs, group headers, underlines, and highlights stack correctly in the tab container.
+// ---
+
 #include "chrome/browser/ui/views/tabs/z_orderable_tab_container_element.h"
 
 #include <bit>

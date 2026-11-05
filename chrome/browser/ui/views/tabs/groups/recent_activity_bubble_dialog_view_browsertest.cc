@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent activity bubble dialog browser test
+// summary: Browser tests for the recent activity bubble dialog of shared tab groups, covering collaboration events, serialized avatars and dialog behavior.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/recent_activity_bubble_dialog_view.h"
 
 #include "base/strings/string_view_util.h"

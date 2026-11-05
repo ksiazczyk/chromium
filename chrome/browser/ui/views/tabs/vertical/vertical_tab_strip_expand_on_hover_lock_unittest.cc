@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip expand on hover lock unit tests
+// summary: Unit test verifying that creating a VerticalTabStripExpandOnHoverLock with a null region view does not crash.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_expand_on_hover_lock.h"
 
 #include <memory>

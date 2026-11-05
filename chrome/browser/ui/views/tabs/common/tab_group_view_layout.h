@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group view layout header
+// summary: Declares the TabGroupView layout manager that computes proposed layouts and minimum sizes for tab group views in both orientations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_VIEW_LAYOUT_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_GROUP_VIEW_LAYOUT_H_
 

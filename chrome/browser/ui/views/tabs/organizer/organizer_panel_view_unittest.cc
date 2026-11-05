@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel view unit tests
+// summary: Unit tests for OrganizerPanelView creation and behavior using a mock browser window interface, animation controller and panel controller.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_view.h"
 
 #include <memory>

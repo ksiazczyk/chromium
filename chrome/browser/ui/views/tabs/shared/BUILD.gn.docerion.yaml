@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for shared tab strip views
+summary: Defines GN source sets for the shared tab strip view headers, their implementation, and the unit and interactive UI test targets with their dependencies.

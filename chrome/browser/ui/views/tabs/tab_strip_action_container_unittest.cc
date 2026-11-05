@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripActionContainer unit tests
+// summary: Unit tests for TabStripActionContainer verifying Glic button and nudge animation behavior with mocked browser window interfaces and test profiles.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_action_container.h"
 
 #include <memory>

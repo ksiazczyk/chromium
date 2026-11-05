@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip layout types
+// summary: Defines shared layout types, including the TabSizeInfo struct and the LayoutDomain enum describing inactive versus active tab width behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_LAYOUT_TYPES_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_STRIP_LAYOUT_TYPES_H_
 

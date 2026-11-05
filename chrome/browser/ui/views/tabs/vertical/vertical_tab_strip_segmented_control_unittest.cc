@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip segmented control unit tests
+// summary: Unit tests for the segmented control covering preferred size, default active segment, button behavior, and menu interactions using a mock browser window interface.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_segmented_control.h"
 
 #include <memory>

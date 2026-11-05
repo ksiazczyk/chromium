@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context menu controller class declaration
+// summary: Declares TabContextMenuController and its Delegate interface for managing tab context menu models, running menus, and answering command checked, enabled, alerted, and accelerator queries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_TAB_CONTEXT_MENU_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_TAB_CONTEXT_MENU_CONTROLLER_H_
 

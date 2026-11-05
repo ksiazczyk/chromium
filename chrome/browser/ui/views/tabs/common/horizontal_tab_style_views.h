@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HorizontalTabStyleViews class declaration
+// summary: Declares the TabStyleViews implementation that provides painting and layout helpers for horizontally oriented tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_HORIZONTAL_TAB_STYLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_HORIZONTAL_TAB_STYLE_VIEWS_H_
 

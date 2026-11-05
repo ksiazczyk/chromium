@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripComboButton implementation
+// summary: Implements the combo button container that pairs tab search and saved tab group flat-edge buttons, handling menus, pinning, and animations.
+// ---
+
 #include "chrome/browser/ui/views/tabs/shared/tab_strip_combo_button.h"
 
 #include "base/i18n/rtl.h"

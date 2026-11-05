@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip top container interactive UI tests
+// summary: Interactive browser tests verifying tab search button behavior when switching between vertical and horizontal tab strip layouts.
+// ---
+
 #include "chrome/browser/ui/views/tabs/vertical/vertical_tab_strip_top_container.h"
 
 #include "base/test/metrics/user_action_tester.h"

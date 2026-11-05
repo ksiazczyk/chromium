@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dragging tabs session implementation
+// summary: Implements moving dragged tabs within an attached tab drag context, computing insertion indices and reordering with jitter thresholds.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/dragging_tabs_session.h"
 
 #include <optional>

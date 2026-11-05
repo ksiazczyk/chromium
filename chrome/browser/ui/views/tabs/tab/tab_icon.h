@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab icon view class declaration
+// summary: Declares the TabIcon view that displays the favicon, sad tab, throbber, and attention indicator in a tab, including attention types and loading animation controls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_TAB_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_TAB_ICON_H_
 

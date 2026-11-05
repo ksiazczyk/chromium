@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group editor bubble view
+// summary: Implements the bubble dialog for editing a tab group's name, color and sharing, plus actions like saving, closing, deleting or sharing the group.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/tab_group_editor_bubble_view.h"
 
 #include <memory>

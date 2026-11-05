@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal tab strip view layout browser test
+// summary: Browser tests verifying horizontal tab strip layout behavior, such as container overlap being disabled when tabs overflow.
+// ---
+
 #include <memory>
 
 #include "base/auto_reset.h"

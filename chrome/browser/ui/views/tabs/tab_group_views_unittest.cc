@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group views unit tests
+// summary: Unit tests for TabGroupViews covering view creation, accessibility properties, title layout and visual updates using fake tab strip controllers.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_views.h"
 
 #include <memory>

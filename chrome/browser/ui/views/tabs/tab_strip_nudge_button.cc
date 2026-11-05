@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNudgeButton implementation
+// summary: Implements the TabStripNudgeButton view used for tab strip nudges, with label and close button layout, themed colors, and animated width factor.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_nudge_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group header view implementation
+// summary: Implements the tab group header view, including label, icons, editor bubble buttons, accessibility, and attention indicators.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_header_view.h"
 
 #include "base/i18n/rtl.h"

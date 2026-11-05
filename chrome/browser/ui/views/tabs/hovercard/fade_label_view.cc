@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade label view implementation
+// summary: Implements FadeLabel and FadeLabelView, which fade out old text when hover card titles or domains change.
+// ---
+
 #include "chrome/browser/ui/views/tabs/hovercard/fade_label_view.h"
 
 #include <string_view>

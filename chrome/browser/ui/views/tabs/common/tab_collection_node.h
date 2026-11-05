@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection node class declaration
+// summary: Declaration of the tab collection node class mirroring the tab collection model in the view layer, with child management, extensibility hooks, and view creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_COLLECTION_NODE_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_TAB_COLLECTION_NODE_H_
 

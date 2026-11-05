@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HorizontalTabClosingHelper class declaration
+// summary: Declares the helper that manages tab closing mode, width overrides, and mouse watching for the horizontal tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_HORIZONTAL_TAB_CLOSING_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HORIZONTAL_HORIZONTAL_TAB_CLOSING_HELPER_H_
 

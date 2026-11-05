@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab strip common views
+summary: Defines the header-only and implementation source sets with their sources and dependencies for the tab strip common views.

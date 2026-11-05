@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip layout utils unit tests
+// summary: Unit tests for tab strip layout utilities verifying proportional child width calculations, rounding behavior, and invariants when tabs close.
+// ---
+
 #include <numeric>
 #include <vector>
 

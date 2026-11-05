@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer tray view unit tests
+// summary: Unit tests verifying tray open and close animations, element positioning during animation, close button fading and controls sizing to the exclusion area.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_tray_view.h"
 
 #include <utility>

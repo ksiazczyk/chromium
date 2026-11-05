@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity bubble dialog implementation
+// summary: Implements the bubble dialog showing recent tab and group activity for shared tab groups, including rows, favicons, and an options menu.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/recent_activity_bubble_dialog_view.h"
 
 #include <optional>

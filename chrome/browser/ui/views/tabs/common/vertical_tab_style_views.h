@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab style view class declaration
+// summary: Declares the TabStyleViews implementation that paints and styles tabs in vertical orientation, covering paths, insets, strokes, and background fills.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_COMMON_VERTICAL_TAB_STYLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_COMMON_VERTICAL_TAB_STYLE_VIEWS_H_
 

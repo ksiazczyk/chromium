@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSlotView implementation
+// summary: Implements the TabSlotView base class, storing tab group and split IDs and insetting anchor bounds so bubbles hug tabs more closely.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_slot_view.h"
 
 #include "components/split_tabs/split_tab_id.h"

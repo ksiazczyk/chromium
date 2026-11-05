@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group highlight view implementation
+// summary: Implements the TabGroupHighlight view that paints a tab-shaped highlight across a group's tabs while the group is being dragged.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_group_highlight.h"
 
 #include "chrome/browser/ui/layout_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContainerController interface declaration
+// summary: Declares TabContainerController, the model-side controller interface supplying index validity, active and pinned tabs, group state and animation queries to the tab container.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_TAB_CONTAINER_CONTROLLER_H_
 

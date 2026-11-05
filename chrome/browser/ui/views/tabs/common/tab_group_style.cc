@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupStyle implementation
+// summary: Implements static styling helpers for tab groups, providing chip sizes, corner radii, insets and padding for horizontal and vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_group_style.h"
 
 #include <optional>

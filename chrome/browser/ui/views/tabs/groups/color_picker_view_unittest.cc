@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color picker view unit tests
+// summary: Unit tests covering default color selection, accessible checked states, and mouse interaction for the tab group color picker.
+// ---
+
 #include "chrome/browser/ui/views/tabs/groups/color_picker_view.h"
 
 #include <memory>

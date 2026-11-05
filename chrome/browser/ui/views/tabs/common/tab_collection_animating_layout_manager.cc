@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection animating layout manager implementation
+// summary: Implementation of a layout manager for tab collection node containers that animates child view bound changes, coordinating animations across the tab strip in lockstep.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_collection_animating_layout_manager.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the tabs views directory
+summary: Lists code owners and per-file owners for tab search, tab dragging and glic/actor tab alert indicator changes.

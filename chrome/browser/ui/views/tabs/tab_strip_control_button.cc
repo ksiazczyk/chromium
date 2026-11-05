@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripControlButton implementation
+// summary: Implements TabStripControlButton, a label button for tab strip controls with custom corner radii, icons, and ink drop highlight paths.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_control_button.h"
 
 #include <optional>

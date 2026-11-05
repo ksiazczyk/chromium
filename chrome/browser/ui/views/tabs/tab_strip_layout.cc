@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip layout implementation
+// summary: Implements tab sizing logic that solves layout constraints to compute tab widths and bounds for the available strip width.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip_layout.h"
 
 #include <stddef.h>

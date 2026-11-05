@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabButton class declaration
+// summary: Declares NewTabButton, a TabStripControlButton subclass that provides a specialized context menu for opening new tabs and creating tab groups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_NEW_TAB_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_NEW_TAB_BUTTON_H_
 

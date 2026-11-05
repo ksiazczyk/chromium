@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel controls view implementation
+// summary: Implements the organizer panel controls view, including the close button that invokes the toggle panel action.
+// ---
+
 #include "chrome/browser/ui/views/tabs/organizer/organizer_panel_controls_view.h"
 
 #include <memory>

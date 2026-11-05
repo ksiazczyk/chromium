@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStrip view implementation
+// summary: Implements the TabStrip view that hosts tabs, group headers, and highlights, handling layout, drag and drop, accessibility, and tab strip interactions.
+// ---
+
 #include "chrome/browser/ui/views/tabs/tab_strip.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for tab dragging
+// summary: Large interactive browser test suite exercising tab drag behavior across tab strips, windows, tab groups and split tabs.
+// ---
+
 #include "chrome/browser/ui/views/tabs/dragging/tab_drag_controller_interactive_uitest.h"
 
 #include <stddef.h>

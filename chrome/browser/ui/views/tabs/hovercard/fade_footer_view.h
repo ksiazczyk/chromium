@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade footer view declarations
+// summary: Declares FooterRow templates and data structs for alert, performance and collaboration footer rows in the hover card.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_FOOTER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TABS_HOVERCARD_FADE_FOOTER_VIEW_H_
 

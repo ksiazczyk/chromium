@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip utilities implementation
+// summary: Implements helpers for computing tab strip view target bounds during animations, finding the owning TabStripView, and checking gesture scrollability along an axis.
+// ---
+
 #include "chrome/browser/ui/views/tabs/common/tab_strip_utils.h"
 
 #include <cmath>

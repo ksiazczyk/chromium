@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip Glic button browser tests
+// summary: Browser tests verifying the tab strip Glic button's icon resources, theming, and Glic panel show behavior.
+// ---
+
 #include "base/callback_list.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
