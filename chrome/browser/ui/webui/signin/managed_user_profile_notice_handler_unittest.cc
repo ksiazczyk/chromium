@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed user profile notice handler unit tests
+// summary: Unit tests for the managed user profile notice handler using testing profiles, mock browser windows, and scoped management service overrides.
+// ---
+
 #include "chrome/browser/ui/webui/signin/managed_user_profile_notice_handler.h"
 
 #include <memory>

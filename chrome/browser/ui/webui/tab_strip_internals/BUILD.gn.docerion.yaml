@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip internals GN build configuration
+summary: Defines GN source sets, Mojo bindings, and browser test targets for the tab strip internals WebUI.

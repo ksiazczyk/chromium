@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for the comments side panel
+summary: Maps the directory to the TabStrip>TabGroups monorail component and a Buganizer component for issue routing.

@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_search.mojom.
+type: source
+title: Wallpaper search Mojo interface definitions
+summary: Defines Mojo structs, enums, and interfaces for communication between the customize chrome WebUI page and the browser-side wallpaper search handler.

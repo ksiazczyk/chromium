@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU account login handler header
+// summary: Declares EduAccountLoginHandler, a WebUI message handler and GaiaAuthConsumer for the EDU account login flow, including its internal profile image fetcher class.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_EDU_ACCOUNT_LOGIN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_EDU_ACCOUNT_LOGIN_HANDLER_H_
 

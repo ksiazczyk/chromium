@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for Customize Chrome side panel
+// summary: Interactive UI tests exercising the Customize Chrome side panel, footer toggles, and policy-related behavior through WebUI interactions.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/browser_process.h"

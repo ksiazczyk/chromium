@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync confirmation handler unit tests
+// summary: Unit tests for the sync confirmation message handler covering confirm, undo, settings, dialog sizing and consent recording flows.
+// ---
+
 #include "chrome/browser/ui/webui/signin/sync_confirmation_handler.h"
 
 #include <memory>

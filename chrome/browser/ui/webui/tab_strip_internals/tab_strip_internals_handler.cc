@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip internals page handler implementation
+// summary: Implements the browser-side Mojo handler that builds tab strip snapshots and serves saved session data to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/tab_strip_internals/tab_strip_internals_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills page handler implementation
+// summary: Implements the Mojo page handler for the skills WebUI, translating and managing user and first-party skills.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_page_handler.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills navigation throttle unit tests
+// summary: Unit tests verifying throttle creation and redirection dispositions for Skills settings link navigations.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_navigation_throttle.h"
 
 #include <memory>

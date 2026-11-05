@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin email confirmation dialog
+// summary: Implements the constrained WebUI dialog asking users to confirm signin with a different email, offering cancel, create new user and start sync actions.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_email_confirmation_dialog.h"
 
 #include <optional>

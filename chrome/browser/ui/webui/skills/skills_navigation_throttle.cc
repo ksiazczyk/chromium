@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts link navigations to the skills settings page and reroutes them to the browser's AI skills settings tab when the web view V2 feature is enabled.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_navigation_throttle.h"
 
 #include <memory>

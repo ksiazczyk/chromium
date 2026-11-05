@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Support Tool WebUI build configuration
+summary: GN build configuration defining the support_tool source set together with its browser test and unit test targets and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments page handler header
+// summary: Declares the CommentsPageHandler class implementing the Mojo PageHandler interface for the comments side panel WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_COMMENTS_COMMENTS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_COMMENTS_COMMENTS_PAGE_HANDLER_H_
 

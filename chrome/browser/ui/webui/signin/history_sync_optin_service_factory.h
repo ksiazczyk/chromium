@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in service factory
+// summary: Declares the keyed service factory that provides a per-profile HistorySyncOptinService instance for the sign-in WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_HISTORY_SYNC_OPTIN_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_HISTORY_SYNC_OPTIN_SERVICE_FACTORY_H_
 

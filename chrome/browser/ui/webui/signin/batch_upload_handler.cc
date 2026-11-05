@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload dialog handler implementation
+// summary: Implements the Mojo page handler for the batch upload dialog, building localized subtitles and saving selected local data items to the account.
+// ---
+
 #include "chrome/browser/ui/webui/signin/batch_upload_handler.h"
 
 #include <algorithm>

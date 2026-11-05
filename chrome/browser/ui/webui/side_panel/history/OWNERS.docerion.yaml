@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the history side panel directory
+summary: Lists the Chromium developer email addresses responsible for reviewing changes in the history side panel directory.

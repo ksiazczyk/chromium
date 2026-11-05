@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sync internals message handler implementation
+// summary: Implements the Chrome-specific sync internals message handler, forwarding page events and registering WebUI message callbacks.
+// ---
+
 #include "chrome/browser/ui/webui/sync_internals/chrome_sync_internals_message_handler.h"
 
 #include <algorithm>

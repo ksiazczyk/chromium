@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip internals utility implementation
+// summary: Builds Mojo data structures for the debug page by mapping tab collections, selection state, and tab and session restore data from the tab strip model.
+// ---
+
 #include "chrome/browser/ui/webui/tab_strip_internals/tab_strip_internals_util.h"
 
 #include <ranges>

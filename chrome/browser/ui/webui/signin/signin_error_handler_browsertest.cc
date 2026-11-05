@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in error handler browser tests
+// summary: Browser tests verifying the sign-in error handler's learn more, confirm, and profile switching behavior within a browser window.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_error_handler.h"
 
 #include <memory>

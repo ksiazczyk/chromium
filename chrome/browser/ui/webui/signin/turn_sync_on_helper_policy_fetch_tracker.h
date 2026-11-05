@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TurnSyncOnHelperPolicyFetchTracker interface
+// summary: Declares a helper interface to track policy registration and fetching status for an account while turning sync on.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_TURN_SYNC_ON_HELPER_POLICY_FETCH_TRACKER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_TURN_SYNC_ON_HELPER_POLICY_FETCH_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice web sign-in intercept handler implementation
+// summary: Implements the WebUI message handler for the Dice web sign-in intercept bubble, supplying account data and handling user accept or cancel choices.
+// ---
+
 #include "chrome/browser/ui/webui/signin/dice_web_signin_intercept_handler.h"
 
 #include <string>

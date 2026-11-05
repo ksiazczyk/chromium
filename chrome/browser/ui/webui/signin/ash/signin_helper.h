@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninHelper header
+// summary: Declares SigninHelper, a one-shot helper that exchanges auth codes for OAuth tokens, populates Chrome OS AccountManager, and manages ARC availability via ArcHelper.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_SIGNIN_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_SIGNIN_HELPER_H_
 

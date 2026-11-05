@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip internals WebUI controller implementation
+// summary: Implements the WebUI controller for the tab-strip-internals debug page, setting up its data source, resources, and mojo page handler factory bindings.
+// ---
+
 #include "chrome/browser/ui/webui/tab_strip_internals/tab_strip_internals_ui.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop inline login handler implementation
+// summary: Implements the desktop Chrome inline login handler, validating sign-in emails and GAIA IDs and completing the sign-in flow after authentication.
+// ---
+
 #include "chrome/browser/ui/webui/signin/inline_login_handler_impl.h"
 
 #include <stddef.h>

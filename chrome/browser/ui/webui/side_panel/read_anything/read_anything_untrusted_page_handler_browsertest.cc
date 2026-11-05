@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Read Anything untrusted page handler browser tests
+// summary: Browser tests for the Read Anything side panel untrusted page handler, covering PDFs, translation, user education, and side panel behavior.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_untrusted_page_handler.h"
 
 #include <cstddef>

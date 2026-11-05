@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search page handler implementation
+// summary: Implements the browser-side handler for the tab search WebUI, covering profile tab data, tab actions, recently closed entries and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/tab_search_page_handler.h"
 
 #include <stdint.h>

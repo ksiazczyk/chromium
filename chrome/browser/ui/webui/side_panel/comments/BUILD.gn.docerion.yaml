@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the comments side panel WebUI
+summary: Defines GN build targets for the comments side panel, including Mojo bindings generation and browser-side source sets.

@@ -1,0 +1,4 @@
+# Docerion header of history_sync_optin.mojom.
+type: source
+title: History sync optin Mojo interface definitions
+summary: Defines the Mojo enums, structs and Page/PageHandler interfaces used for browser-renderer communication in the history sync optin screen.

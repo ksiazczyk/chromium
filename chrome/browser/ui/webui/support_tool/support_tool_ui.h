@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support Tool WebUI controller header
+// summary: Declares the Support Tool WebUI controller, its WebUI config class, and the UMA enum of recorded user actions such as opening pages and generating tokens.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SUPPORT_TOOL_SUPPORT_TOOL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SUPPORT_TOOL_SUPPORT_TOOL_UI_H_
 

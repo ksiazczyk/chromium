@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice web sign-in intercept UI controller implementation
+// summary: Implements the WebUI controller for the Dice web sign-in intercept bubble, registering its data source, resources, and test parameters.
+// ---
+
 #include "chrome/browser/ui/webui/signin/dice_web_signin_intercept_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in error message handler implementation
+// summary: Implements the WebUI message handler for the sign-in error dialog, handling confirm, switch to existing profile, learn more, and resize messages.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_error_handler.h"
 
 #include "base/functional/bind.h"

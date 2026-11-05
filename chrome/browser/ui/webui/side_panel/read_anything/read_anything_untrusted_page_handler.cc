@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything untrusted page handler implementation
+// summary: Implements the browser-side handler for the read anything WebUI, covering distillation, TTS, accessibility and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_untrusted_page_handler.h"
 
 #include <string>

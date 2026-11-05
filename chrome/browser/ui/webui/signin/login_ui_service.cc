@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login UI service implementation
+// summary: Implements LoginUIService methods for tracking the active login UI, notifying observers when the sync confirmation UI closes, and displaying sign-in errors.
+// ---
+
 #include "chrome/browser/ui/webui/signin/login_ui_service.h"
 
 #include "base/observer_list.h"

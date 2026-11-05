@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper search interactive UI tests
+// summary: Interactive browser tests that exercise the wallpaper search side panel UI, including feature flag setup, sign-in, and mocked string mappings.
+// ---
+
 #include "base/containers/span.h"
 #include "base/feature_list.h"
 #include "base/functional/bind.h"

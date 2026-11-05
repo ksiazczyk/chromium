@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills dialog handler unit tests
+// summary: Unit tests for SkillsDialogHandler covering skill saving, deletion, refinement, and metrics using mock services and the Optimization Guide.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_dialog_handler.h"
 
 #include <optional>

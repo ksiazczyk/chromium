@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything untrusted WebUI controller implementation
+// summary: Implements the untrusted WebUI controller and data source for the Read Anything side panel, registering localized strings and mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_untrusted_ui.h"
 
 #include <string>

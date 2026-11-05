@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization WebUI message handler
+// summary: Implements the WebUI message handler for the profile customization bubble, handling avatar icons, profile info updates, done, skip and delete profile actions.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_customization_handler.h"
 
 #include <string>

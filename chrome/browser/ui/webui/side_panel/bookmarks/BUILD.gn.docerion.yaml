@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks side panel BUILD.gn build targets
+summary: Defines GN build targets for the bookmarks side panel, including Mojo bindings, the implementation source set, and unit tests.

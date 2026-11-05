@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload WebUI controller header
+// summary: Declares the batch upload WebUI controller and its WebUI config, including Mojo interface binding, handler creation, and state initialization and clearing methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_BATCH_UPLOAD_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_BATCH_UPLOAD_UI_H_
 

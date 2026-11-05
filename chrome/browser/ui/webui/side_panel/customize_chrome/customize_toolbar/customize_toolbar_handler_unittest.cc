@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the customize toolbar handler
+// summary: Unit tests covering handler behavior using a mocked pinned toolbar actions model, mock browser window, and mock WebUI client.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/customize_toolbar/customize_toolbar_handler.h"
 
 #include "base/memory/raw_ptr.h"

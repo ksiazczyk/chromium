@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudSigninRestrictionPolicyFetcher implementation
+// summary: Implements UserCloudSigninRestrictionPolicyFetcher, which queries the SecureConnect API for SecondaryGoogleAccountUsage and SecondaryAccountAllowedInArc policies.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/user_cloud_signin_restriction_policy_fetcher.h"
 
 #include "base/command_line.h"

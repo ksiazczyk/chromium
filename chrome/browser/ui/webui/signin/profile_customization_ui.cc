@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization WebUI controller
+// summary: Implements the WebUI controller for the profile customization dialog, registering its resources, localized strings, and theme color picker handler.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_customization_ui.h"
 
 #include "base/check_deref.h"

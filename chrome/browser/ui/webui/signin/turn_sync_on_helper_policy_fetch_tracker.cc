@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TurnSyncOnHelperPolicyFetchTracker implementation
+// summary: Implements policy registration and fetching for a signed-in account during the turn-sync-on flow, watching for policy update propagation with a timeout.
+// ---
+
 #include "chrome/browser/ui/webui/signin/turn_sync_on_helper_policy_fetch_tracker.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Turn sync on helper browser tests
+// summary: Browser tests exercising the turn-sync-on flow via a fake delegate covering merge data, enterprise management, sync confirmation and sync disabled steps.
+// ---
+
 #include "chrome/browser/ui/webui/signin/turn_sync_on_helper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the support_tool WebUI
+summary: Delegates code review ownership to the OWNERS file of chrome/browser/support_tool.

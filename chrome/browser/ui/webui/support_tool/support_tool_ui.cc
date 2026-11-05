@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support Tool WebUI controller implementation
+// summary: Implements the Support Tool WebUI controller, including data collection handling, support packet export via a file dialog, and usage metric recording.
+// ---
+
 #include "chrome/browser/ui/webui/support_tool/support_tool_ui.h"
 
 #include <algorithm>

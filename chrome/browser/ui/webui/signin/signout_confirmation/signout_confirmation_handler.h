@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignoutConfirmationHandler class declaration
+// summary: Declares the Mojo PageHandler implementation that manages the signout confirmation dialog and its completion callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_SIGNOUT_CONFIRMATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_SIGNOUT_CONFIRMATION_HANDLER_H_
 

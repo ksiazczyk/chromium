@@ -1,0 +1,4 @@
+# Docerion header of cross_device_signin_qr_bubble.mojom.
+type: source
+title: Mojo interfaces for the cross-device sign-in QR bubble
+summary: Defines the Mojo struct and interfaces used by the cross-device sign-in QR bubble WebUI to fetch account data and a QR code from the C++ backend.

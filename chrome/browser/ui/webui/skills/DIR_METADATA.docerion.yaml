@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Skills directory bug tracker metadata
+summary: Maps the skills WebUI directory to Buganizer component 1970385 for issue tracking.

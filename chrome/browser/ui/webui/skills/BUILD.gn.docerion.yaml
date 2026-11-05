@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Skills WebUI build configuration
+summary: Defines GN build targets for the skills WebUI, including Mojo bindings, the skills source set, unit tests, and interactive UI tests.

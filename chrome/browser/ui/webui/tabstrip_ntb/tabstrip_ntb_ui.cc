@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNtbUI WebUI controller implementation
+// summary: Implements the tabstrip new tab button WebUI controller, setting up its data source, localized strings, and the connection between the page and the tab strip service.
+// ---
+
 #include "chrome/browser/ui/webui/tabstrip_ntb/tabstrip_ntb_ui.h"
 
 #include <memory>

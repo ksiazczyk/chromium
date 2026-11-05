@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Read Anything DEPS include rules
+summary: Defines allowed header include paths for the directory, with extra rules for the untrusted page handler.

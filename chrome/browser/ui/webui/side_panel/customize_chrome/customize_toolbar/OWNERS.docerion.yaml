@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the customize toolbar directory
+summary: Lists directory owners and routes Mojom and Mojom traits files to the IPC security owners.

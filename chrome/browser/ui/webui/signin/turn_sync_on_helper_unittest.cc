@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TurnSyncOnHelper unit tests
+// summary: Unit tests covering the TurnSyncOnHelper sign-in and sync-enable flow, including managed accounts, policy restrictions, and profile switching.
+// ---
+
 #include "chrome/browser/ui/webui/signin/turn_sync_on_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync optin handler unit tests
+// summary: Unit tests for the history sync optin handler, verifying screen mode behavior, account info updates, and sync consent handling with mock Mojo pages and test services.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin/history_sync_optin_handler.h"
 
 #include <memory>

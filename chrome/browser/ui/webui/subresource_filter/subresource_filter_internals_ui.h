@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter internals WebUI controller header
+// summary: Declares the WebUI controller class and its internal WebUI configuration for the subresource filter internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_INTERNALS_UI_H_
 

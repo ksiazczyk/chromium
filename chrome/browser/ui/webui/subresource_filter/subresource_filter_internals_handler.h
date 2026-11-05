@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter internals handler header
+// summary: Declares the SubresourceFilterInternalsHandler class that serves WebUI requests and dispatches preference change notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SUBRESOURCE_FILTER_SUBRESOURCE_FILTER_INTERNALS_HANDLER_H_
 

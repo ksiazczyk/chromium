@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in error WebUI implementation
+// summary: Implements the sign-in error WebUI dialog, setting up resources and localized strings based on the last sign-in error recorded by the login UI service.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_error_ui.h"
 
 #include <memory>

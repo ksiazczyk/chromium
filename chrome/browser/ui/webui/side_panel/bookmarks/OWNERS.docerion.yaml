@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the bookmarks side panel directory
+summary: Lists code owners for the bookmarks side panel directory and routes mojom file reviews to the IPC security owners.

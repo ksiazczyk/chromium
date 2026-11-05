@@ -1,0 +1,4 @@
+# Docerion header of reading_list.mojom.
+type: source
+title: Reading list side panel Mojo interface definitions
+summary: Defines the Mojo structs and interfaces for communication between the reading list WebUI page and the browser-side handler, covering entries, actions, and UI state.

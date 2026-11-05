@@ -1,0 +1,4 @@
+# Docerion header of batch_upload.mojom.
+type: source
+title: Batch upload WebUI Mojom interface definitions
+summary: Defines the Mojo interfaces and structs for the batch upload dialog, covering data items and containers, account info, and the browser-to-renderer and renderer-to-browser message handlers.

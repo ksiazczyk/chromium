@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Reading list side panel code owners
+summary: Lists the code owner for the directory and delegates reviews of mojom files to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything translate observer implementation
+// summary: Implements observation of page language and translation state from translate drivers for reading mode.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_translate_observer.h"
 
 #include <utility>

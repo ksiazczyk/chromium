@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills WebUI controller header
+// summary: Declares the SkillsUI Mojo WebUI controller and its WebUI config class, which bind the page handler factory, page handlers, and dialog handler for the browser's skills page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_UI_H_
 

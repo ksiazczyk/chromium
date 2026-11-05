@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserCloudSigninRestrictionPolicyFetcher unit tests
+// summary: Unit tests for the user cloud sign-in restriction policy fetcher, using mock access token fetchers and URL loader factories to cover success, error, and enterprise account scenarios.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/user_cloud_signin_restriction_policy_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks side panel WebUI controller implementation
+// summary: Implements the WebUI controller and config for the bookmarks side panel, wiring Mojo handlers, data sources, and merged node IDs.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/bookmarks/bookmarks_side_panel_ui.h"
 
 #include <string>

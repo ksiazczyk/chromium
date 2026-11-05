@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync opt-in helper browser tests
+// summary: Browser tests for the history sync opt-in helper, covering managed accounts, policy fetching, screen display, and recorded metrics.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin_helper.h"
 
 #include <memory>

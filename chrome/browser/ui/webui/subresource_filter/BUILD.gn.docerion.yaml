@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource filter internals build configuration
+summary: GN build file defining the Mojo bindings target and the static library with the handler and UI sources for the subresource filter internals WebUI.

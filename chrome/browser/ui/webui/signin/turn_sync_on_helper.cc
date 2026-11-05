@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Turn sync on helper implementation
+// summary: Implements the helper that sets the primary account and turns on sync after sign-in, handling policy fetch, enterprise confirmation, errors and abort behavior.
+// ---
+
 #include "chrome/browser/ui/webui/signin/turn_sync_on_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments side panel UI implementation
+// summary: Implements the WebUI config and controller for the comments side panel, gated by the collaboration comments feature flag.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/comments/comments_side_panel_ui.h"
 
 #include "base/feature_list.h"

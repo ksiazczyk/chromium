@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout confirmation WebUI controller header
+// summary: Declares the SignoutConfirmationUI controller class, its WebUI config, observer interface, Mojo page handler factory binding, and testing methods for the signout confirmation dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_SIGNOUT_CONFIRMATION_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_SIGNOUT_CONFIRMATION_UI_H_
 

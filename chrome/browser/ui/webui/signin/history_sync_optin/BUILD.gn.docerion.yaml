@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History sync optin WebUI build configuration
+summary: Defines the Mojo bindings build target for the history sync optin WebUI, restricted to Windows, Mac, and Linux.

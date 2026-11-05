@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Side panel WebUI OWNERS
+summary: OWNERS file that delegates review ownership of the side panel WebUI directory to the owners of the side panel views directory via a file redirect.

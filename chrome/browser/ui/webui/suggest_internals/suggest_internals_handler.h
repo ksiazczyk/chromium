@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest internals handler class header
+// summary: Declares the browser-side handler that observes remote suggestion requests and relays them to the suggest internals WebUI page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SUGGEST_INTERNALS_SUGGEST_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SUGGEST_INTERNALS_SUGGEST_INTERNALS_HANDLER_H_
 

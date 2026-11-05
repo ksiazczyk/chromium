@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineLoginHandlerImpl implementation
+// summary: Implements the ash inline login WebUI handler, covering add-account and EDU flows, account listing, device IDs, and completing sign-in through SigninHelper.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/inline_login_handler_impl.h"
 
 #include <algorithm>

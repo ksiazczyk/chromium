@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync confirmation handler header
+// summary: Declares the SyncConfirmationHandler class and the SyncConfirmationScreenMode enum used by the sync confirmation dialog's WebUI message handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SYNC_CONFIRMATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SYNC_CONFIRMATION_HANDLER_H_
 

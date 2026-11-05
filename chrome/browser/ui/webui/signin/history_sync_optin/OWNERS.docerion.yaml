@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for history sync optin mojom files
+summary: Delegates review ownership of the mojom files to the IPC security owners with no parent approval needed.

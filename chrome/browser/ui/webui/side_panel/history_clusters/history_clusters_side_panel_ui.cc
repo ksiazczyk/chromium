@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters side panel UI implementation
+// summary: Implements the history clusters side panel WebUI controller and config, setting up data sources, favicon handling, and mojo handler bindings.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/history_clusters/history_clusters_side_panel_ui.h"
 
 #include <string>

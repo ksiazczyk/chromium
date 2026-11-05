@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker handler unit tests
+// summary: Unit tests for ProfilePickerHandler that verify profile list data, profile entry values and handler behavior using a test WebUI and testing profile manager.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_picker_handler.h"
 
 #include <memory>

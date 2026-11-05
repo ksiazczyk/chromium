@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills page handler v2 unit tests
+// summary: Unit tests for the v2 skills page handler covering provided skills, toasts, sign-in, and dialog interactions.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_page_handler_v2.h"
 
 #include <memory>

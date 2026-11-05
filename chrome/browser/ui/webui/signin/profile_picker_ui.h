@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker WebUI controller header
+// summary: Declares the ProfilePickerUI controller and its WebUI config, including help bubble handling, signin error dialogs, and minimum picker size.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_PROFILE_PICKER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_PROFILE_PICKER_UI_H_
 

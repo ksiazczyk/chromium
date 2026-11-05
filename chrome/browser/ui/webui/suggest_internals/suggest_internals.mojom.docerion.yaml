@@ -1,0 +1,4 @@
+# Docerion header of suggest_internals.mojom.
+type: source
+title: Suggest internals Mojo interface definitions
+summary: Declares Mojo structs and interfaces describing suggest request metadata and browser-to-page communication for the suggest internals WebUI.

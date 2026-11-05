@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in helper implementation
+// summary: Implements helpers for the history sync opt-in flow, covering policy fetching, sync startup waiting, skip reasons, and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin_helper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reading list side panel issue tracker metadata
+summary: Routes bugs for the reading list side panel to the UI>Browser>TopChrome>BookmarksBar>ReadingList component and Buganizer component 1457166.

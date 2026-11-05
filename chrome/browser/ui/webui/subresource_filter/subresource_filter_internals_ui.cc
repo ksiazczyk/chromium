@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter internals WebUI controller implementation
+// summary: Implements the Mojo WebUI controller that registers the data source for the internals page and binds the handler interface.
+// ---
+
 #include "chrome/browser/ui/webui/subresource_filter/subresource_filter_internals_ui.h"
 
 #include <string>

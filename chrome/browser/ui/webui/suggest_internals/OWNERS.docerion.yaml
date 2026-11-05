@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for suggest_internals
+summary: Lists the owners for the suggest_internals folder and routes .mojom file approvals to the IPC security owners.

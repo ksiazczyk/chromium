@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in email confirmation WebUI implementation
+// summary: Implements the constrained WebUI for the sign-in email confirmation dialog, registering its resources and localized strings for the confirmation page.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_email_confirmation_ui.h"
 
 #include <string>

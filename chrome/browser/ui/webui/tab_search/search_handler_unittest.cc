@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search handler unit tests
+// summary: Unit tests verifying empty-query and accent-insensitive match results returned by the search handler.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/search_handler.h"
 
 #include <memory>

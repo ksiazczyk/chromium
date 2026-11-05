@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for cross-device sign-in QR bubble Mojo bindings
+summary: GN build file defining the mojo_bindings target that generates bindings from cross_device_signin_qr_bubble.mojom for the WebUI.

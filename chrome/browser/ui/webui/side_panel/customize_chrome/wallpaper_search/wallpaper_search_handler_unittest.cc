@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper search handler unit tests
+// summary: Unit tests for the wallpaper search handler using mocked optimization guide, image decoder, and HaTS services to verify search results and logging behavior.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/wallpaper_search/wallpaper_search_handler.h"
 
 #include <memory>

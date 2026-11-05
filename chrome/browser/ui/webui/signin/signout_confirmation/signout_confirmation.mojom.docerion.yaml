@@ -1,0 +1,4 @@
+# Docerion header of signout_confirmation.mojom.
+type: source
+title: Mojo interfaces for the signout confirmation dialog
+summary: Defines the Page, PageHandler and PageHandlerFactory Mojo interfaces plus structs for dialog data and account extensions.

@@ -1,0 +1,4 @@
+# Docerion header of comments.mojom.
+type: source
+title: Mojo interfaces for the comments side panel
+summary: Defines Mojo interfaces for bootstrapping browser-renderer communication and showing the comments side panel UI.

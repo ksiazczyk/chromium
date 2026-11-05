@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync optin WebUI controller implementation
+// summary: Implements the WebUI controller for the history sync optin screen, setting up its data source, resources, theme provider and launch context handling.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin/history_sync_optin_ui.h"
 
 #include "base/check_deref.h"

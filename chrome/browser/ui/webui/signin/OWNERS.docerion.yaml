@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the signin WebUI directory
+summary: Delegates ownership to desktop signin owners and sets per-file owners for inline login and ChromeOS signin changes.

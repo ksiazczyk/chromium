@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice WebUI handler
+// summary: Implements the WebUI message handler for the managed user notice screen shown during enterprise profile creation, including titles and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/signin/managed_user_profile_notice_handler.h"
 
 #include <string>

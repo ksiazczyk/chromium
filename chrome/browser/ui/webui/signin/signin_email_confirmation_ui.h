@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in email confirmation WebUI
+// summary: Declares the SigninEmailConfirmationUI constrained web dialog class and its WebUI config, which is disabled for off-the-record profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_EMAIL_CONFIRMATION_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_EMAIL_CONFIRMATION_UI_H_
 

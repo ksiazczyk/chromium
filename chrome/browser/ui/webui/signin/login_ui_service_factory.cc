@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginUIServiceFactory implementation
+// summary: Implements the per-profile factory that creates and supplies LoginUIService instances, including lazy instantiation behavior behind a feature flag.
+// ---
+
 #include "chrome/browser/ui/webui/signin/login_ui_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

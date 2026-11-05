@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login dialog onboarding implementation
+// summary: Implements a frameless inline login dialog variant shown during child onboarding, with window-modal behavior, bounds updates, and a closed callback.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/inline_login_dialog_onboarding.h"
 
 #include "chrome/browser/profiles/profile.h"

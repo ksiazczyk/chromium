@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in service implementation
+// summary: Implements the per-profile service that starts and manages the history sync opt-in flow together with its default delegate.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin_service.h"
 
 #include "base/notreached.h"

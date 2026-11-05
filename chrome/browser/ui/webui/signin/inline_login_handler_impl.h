@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop inline login handler and sign-in helper
+// summary: Declares InlineLoginHandlerImpl for desktop Chrome and InlineSigninHelper, which finishes sign-in asynchronously after GAIA auth tokens are obtained.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_INLINE_LOGIN_HANDLER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_INLINE_LOGIN_HANDLER_IMPL_H_
 

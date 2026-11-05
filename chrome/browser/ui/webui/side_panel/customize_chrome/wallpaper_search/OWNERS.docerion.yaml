@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for wallpaper search
+summary: Delegates ownership to the new tab page owners and assigns IPC security owners to mojom and mojom traits files.

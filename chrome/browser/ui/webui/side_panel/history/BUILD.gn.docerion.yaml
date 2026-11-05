@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the history side panel WebUI
+summary: Defines GN source sets and dependencies for the Chrome history side panel WebUI, separating the public config target from the implementation target.
