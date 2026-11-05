@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill page action controller implementation
+// summary: Implements showing, collapsing and hiding the omnibox autofill payment chip and triggering its feature promo.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/omnibox_autofill_page_action_controller.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

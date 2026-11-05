@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test autofill client for keyboard accessory controller
+// summary: Test double of TestContentAutofillClient that simulates Android keyboard accessory controller and view lifetimes for suggestion popup tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_TEST_AUTOFILL_KEYBOARD_ACCESSORY_CONTROLLER_AUTOFILL_CLIENT_H_
 #define CHROME_BROWSER_UI_AUTOFILL_TEST_AUTOFILL_KEYBOARD_ACCESSORY_CONTROLLER_AUTOFILL_CLIENT_H_
 

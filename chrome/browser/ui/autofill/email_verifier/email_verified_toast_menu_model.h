@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verified toast menu model header
+// summary: Declares the simple menu model used by the email verified toast, exposing a single Manage command.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFIED_TOAST_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFIED_TOAST_MENU_MODEL_H_
 

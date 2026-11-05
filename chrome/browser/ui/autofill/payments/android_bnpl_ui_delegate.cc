@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BNPL UI delegate implementation
+// summary: Implements the Android BNPL UI delegate, forwarding issuer selection, terms of service, progress and error UI calls to the payments autofill client.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/android_bnpl_ui_delegate.h"
 
 #include <vector>

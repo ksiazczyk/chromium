@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OTP PhishGuard delegate
+// summary: Declares the Chrome delegate that runs Safe Browsing phishing checks before one-time token filling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_CHROME_OTP_PHISH_GUARD_DELEGATE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_CHROME_OTP_PHISH_GUARD_DELEGATE_H_
 

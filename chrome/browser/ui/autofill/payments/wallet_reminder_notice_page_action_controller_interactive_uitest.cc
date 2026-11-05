@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice page action controller interactive UI tests
+// summary: Interactive browser tests verifying the wallet reminder notice page action icon becomes visible and hidden in the location bar.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_page_action_controller.h"
 
 #include "base/test/scoped_feature_list.h"

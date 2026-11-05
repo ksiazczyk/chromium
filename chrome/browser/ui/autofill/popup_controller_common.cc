@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup controller common implementation
+// summary: Implements constructors, assignment operators and destructor for the PopupControllerCommon struct that carries common Autofill popup data.
+// ---
+
 #include "chrome/browser/ui/autofill/popup_controller_common.h"
 
 #include <utility>

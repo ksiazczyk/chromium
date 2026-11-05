@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update address bubble controller declaration
+// summary: Declares the controller used by the address update view to obtain prompt content and report user decisions, edit requests and bubble closure back to the delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_UPDATE_ADDRESS_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_UPDATE_ADDRESS_BUBBLE_CONTROLLER_H_
 

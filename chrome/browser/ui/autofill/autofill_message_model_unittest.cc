@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill message model unit tests
+// summary: Unit tests verifying autofill message callbacks run once and that message attributes match expected UI parameters across feature flag states.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_message_model.h"
 
 #include <string>

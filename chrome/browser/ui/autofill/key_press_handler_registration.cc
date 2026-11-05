@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key press handler registration implementation
+// summary: Implements registering and unregistering a key press event handler on a render frame host's render widget host.
+// ---
+
 #include "chrome/browser/ui/autofill/key_press_handler_registration.h"
 
 #include <utility>

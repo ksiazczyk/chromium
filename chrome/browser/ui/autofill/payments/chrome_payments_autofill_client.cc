@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome payments autofill client implementation
+// summary: Implements the Chrome-specific PaymentsAutofillClient that wires payments autofill UI, managers, and authenticators for desktop and Android.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/chrome_payments_autofill_client.h"
 
 #include <memory>

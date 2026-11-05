@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bubble controller delegate interface
+// summary: Defines the interface address save and update bubbles use to communicate decisions back to AddressBubblesController.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLE_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLE_CONTROLLER_DELEGATE_H_
 

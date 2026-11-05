@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory re-auth bubble controller implementation
+// summary: Implements the per-tab controller that sets up and shows the mandatory re-auth opt-in bubble, handling accept, cancel and close callbacks and logging opt-in metrics on desktop and Android.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/mandatory_reauth_bubble_controller_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

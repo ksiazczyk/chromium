@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI import string utilities header
+// summary: Declares helpers that return localized prompt titles and primary button text IDs for Autofill AI import dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_IMPORT_STRING_UTILS_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_IMPORT_STRING_UTILS_H_
 

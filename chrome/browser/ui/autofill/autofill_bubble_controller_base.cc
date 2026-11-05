@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bubble controller base implementation
+// summary: Implements the shared autofill bubble controller base, handling bubble show and hide, tab visibility changes and desktop page action icon updates.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_bubble_controller_base.h"
 
 #include "chrome/browser/ui/autofill/autofill_bubble_base.h"

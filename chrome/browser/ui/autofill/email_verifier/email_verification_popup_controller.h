@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification popup controller header
+// summary: Declares the controller managing the email verification popup lifecycle, its AutofillPopupViewDelegate interface, and the callback that reports the user's decision.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_CONTROLLER_H_
 

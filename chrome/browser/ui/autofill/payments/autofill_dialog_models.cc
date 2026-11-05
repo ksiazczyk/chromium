@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill dialog month and year combobox models
+// summary: Implements combobox models that supply expiration month and year items, including placeholder entries and additional years, for the autofill payments dialog.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/autofill_dialog_models.h"
 
 #include <string>

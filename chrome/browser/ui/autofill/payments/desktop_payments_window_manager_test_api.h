@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop payments window manager test API
+// summary: Test API header exposing internal DesktopPaymentsWindowManager methods and flow state so tests can drive popups and VCN 3DS authentication responses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_DESKTOP_PAYMENTS_WINDOW_MANAGER_TEST_API_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_DESKTOP_PAYMENTS_WINDOW_MANAGER_TEST_API_H_
 

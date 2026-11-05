@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill field promo view interface
+// summary: Declares an invisible view that anchors in-product help promos directly to autofill DOM elements.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_FIELD_PROMO_VIEW_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_FIELD_PROMO_VIEW_H_
 

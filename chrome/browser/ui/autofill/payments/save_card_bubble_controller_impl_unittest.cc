@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save card bubble controller unit test
+// summary: Extensive unit tests for the save card bubble controller covering bubble types, user interactions, and save prompt metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/save_card_bubble_controller_impl.h"
 
 #include <stddef.h>

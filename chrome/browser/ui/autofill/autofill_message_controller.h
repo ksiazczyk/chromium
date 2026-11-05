@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill message controller interface
+// summary: Defines the AutofillMessageController interface for showing and dismissing autofill Android messages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_MESSAGE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_MESSAGE_CONTROLLER_H_
 

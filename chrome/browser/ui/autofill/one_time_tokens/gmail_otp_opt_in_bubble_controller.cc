@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in bubble controller implementation
+// summary: Implements the per-tab controller that creates and shows the bubble asking users to opt in to fetching one-time verification codes from Gmail, handling callbacks and bubble lifecycle.
+// ---
+
 #include "chrome/browser/ui/autofill/one_time_tokens/gmail_otp_opt_in_bubble_controller.h"
 
 #include <memory>

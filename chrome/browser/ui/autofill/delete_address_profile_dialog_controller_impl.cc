@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete address profile dialog controller implementation
+// summary: Implements the WebContents-scoped controller that shows the delete address confirmation dialog and reports the user's choice.
+// ---
+
 #include "chrome/browser/ui/autofill/delete_address_profile_dialog_controller_impl.h"
 
 #include <string>

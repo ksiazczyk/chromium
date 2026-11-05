@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card enroll bubble controller browser tests
+// summary: Browser tests verifying the virtual card enrollment bubble views, including metrics recorded for bubble acceptance and loading states.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/virtual_card_enroll_bubble_controller_impl.h"
 
 #include "base/functional/callback_helpers.h"

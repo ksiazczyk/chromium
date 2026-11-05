@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card bubble type enum
+// summary: Header defining the PaymentsBubbleType enum for save card bubble variants such as local save, upload, CVC save, and manage cards.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_SAVE_CARD_UI_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_SAVE_CARD_UI_H_
 

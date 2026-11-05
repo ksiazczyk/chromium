@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog controller implementation header
+// summary: Declares WebauthnDialogControllerImpl, a lazily initialized page user data controller managing the WebAuthn dialog, its model and its repeating callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_WEBAUTHN_DIALOG_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_WEBAUTHN_DIALOG_CONTROLLER_IMPL_H_
 

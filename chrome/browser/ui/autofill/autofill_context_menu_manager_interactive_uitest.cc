@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill context menu manager interactive UI test
+// summary: Interactive browser test verifying the Autofill context menu manager's feedback UI, including context menu params setup, pref configuration, and desktop capture approval.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_context_menu_manager.h"
 
 #include "base/json/json_reader.h"

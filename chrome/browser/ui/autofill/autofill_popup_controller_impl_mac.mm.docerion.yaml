@@ -1,0 +1,4 @@
+# Docerion header of autofill_popup_controller_impl_mac.mm.
+type: source
+title: Mac autofill popup controller implementation
+summary: Implements the macOS autofill popup controller, showing and hiding the credit card autofill touch bar alongside the base popup behavior.

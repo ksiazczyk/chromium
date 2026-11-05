@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the email verifier UI
+summary: Defines source sets for the email verifier, splitting shared, Android, desktop, test support, and unit test sources per platform.

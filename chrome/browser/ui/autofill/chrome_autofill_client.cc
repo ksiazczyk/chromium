@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAutofillClient implementation
+// summary: Implements the Chrome browser-side autofill client, wiring profile services, factories, metrics, and UI entry points for autofill and payments flows.
+// ---
+
 #include "chrome/browser/ui/autofill/chrome_autofill_client.h"
 
 #include <utility>

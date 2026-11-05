@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmail OTP opt-in bubble controller unit tests
+// summary: Unit tests for the Gmail OTP opt-in bubble controller using mock bubbles, bubble managers, page action controllers, and a fake tab interface to verify show, hide, and callback behavior.
+// ---
+
 #include "chrome/browser/ui/autofill/one_time_tokens/gmail_otp_opt_in_bubble_controller.h"
 
 #include <memory>

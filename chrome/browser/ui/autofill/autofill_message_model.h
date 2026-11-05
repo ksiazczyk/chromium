@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill message model
+// summary: Declares AutofillMessageModel, its message type enum and factory methods for creating autofill Android messages for the message controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_MESSAGE_MODEL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_MESSAGE_MODEL_H_
 

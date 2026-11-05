@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Autofill AI UI
+summary: Defines GN source sets and dependencies for the Autofill AI import bubble UI code, including Android Java enum generation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address bubbles controller interactive UI tests
+// summary: Interactive tests that drive save, update, and edit address bubbles and check the resulting user decisions.
+// ---
+
 #include "chrome/browser/ui/autofill/address_bubbles_controller.h"
 
 #include "base/functional/bind.h"

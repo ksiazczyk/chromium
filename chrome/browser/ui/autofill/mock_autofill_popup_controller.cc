@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock autofill popup controller implementation
+// summary: Implements the mock autofill popup controller, defaulting GetSuggestionFilterMatches to return stored filter matches.
+// ---
+
 #include "chrome/browser/ui/autofill/mock_autofill_popup_controller.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill risk data utilities
+// summary: Implements loading of Autofill risk fingerprint data, gathering user prefs, locale, install time and window bounds before serializing the fingerprint for a callback.
+// ---
+
 #include "chrome/browser/ui/autofill/risk_util.h"
 
 #include <memory>

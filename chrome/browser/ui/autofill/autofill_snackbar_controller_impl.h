@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSnackbarControllerImpl header
+// summary: Declares AutofillSnackbarControllerImpl, the per-tab controller that shows, customizes and dismisses Autofill snackbars with configurable durations and callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_CONTROLLER_IMPL_H_
 #include <optional>

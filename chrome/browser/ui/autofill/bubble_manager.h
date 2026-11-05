@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleManager interface for autofill bubble coordination
+// summary: Declares the BubbleManager interface that queues and prioritizes autofill and password bubbles so only one is visible, with documented preemption and queue rules.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_BUBBLE_MANAGER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_BUBBLE_MANAGER_H_
 

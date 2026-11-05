@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card scanner view implementation
+// summary: Provides the non-Android stubs of the credit card scanner view, where CanShow returns false and Create returns nullptr.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/credit_card_scanner_view.h"
 
 #include "build/build_config.h"

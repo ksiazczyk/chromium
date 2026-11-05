@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice bubble controller unit tests
+// summary: Unit tests for the Wallet reminder notice bubble controller using mock tab, bubble handler, and page action controllers.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_bubble_controller.h"
 
 #include <memory>

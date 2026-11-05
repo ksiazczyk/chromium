@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android offer notification message controller header
+// summary: Declares the per-tab Android controller that manages the offer notification message shown at the top of the screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_OFFER_NOTIFICATION_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_OFFER_NOTIFICATION_CONTROLLER_ANDROID_H_
 

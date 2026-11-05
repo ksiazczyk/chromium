@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask prompt view test helper
+// summary: Declares a tester interface that helps test the card unmask prompt view, such as closing it or entering a CVC and accepting the dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_CARD_UNMASK_PROMPT_VIEW_TESTER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_CARD_UNMASK_PROMPT_VIEW_TESTER_H_
 

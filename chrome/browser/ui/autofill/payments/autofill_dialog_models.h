@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill dialog combobox model declarations
+// summary: Declares MonthComboboxModel and YearComboboxModel, which provide month and expiration year options with default selection support for autofill dialog comboboxes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_AUTOFILL_DIALOG_MODELS_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_AUTOFILL_DIALOG_MODELS_H_
 

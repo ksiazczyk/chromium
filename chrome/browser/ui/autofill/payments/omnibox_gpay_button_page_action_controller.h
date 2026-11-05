@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox GPay button page action controller
+// summary: Declares the OmniboxGPayButtonPageActionController class for the omnibox GPay button page action in the autofill payments UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_OMNIBOX_GPAY_BUTTON_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_OMNIBOX_GPAY_BUTTON_PAGE_ACTION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card scanner controller implementation
+// summary: Implements the controller that shows the credit card scanner UI, logs scan metrics, and runs the callback with the scanned card before deleting itself.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/credit_card_scanner_controller.h"
 
 #include <memory>

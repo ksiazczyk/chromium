@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete address profile dialog controller interactive UI tests
+// summary: Interactive UI tests that open the delete address profile dialog and verify it closes with the user's decision.
+// ---
+
 #include "chrome/browser/ui/autofill/delete_address_profile_dialog_controller_impl.h"
 
 #include <memory>

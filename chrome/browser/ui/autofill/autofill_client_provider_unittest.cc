@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillClientProvider unit tests
+// summary: Unit tests verifying provider availability in regular and incognito profiles, platform autofill decisions and related Android availability metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_client_provider.h"
 
 #include <memory>

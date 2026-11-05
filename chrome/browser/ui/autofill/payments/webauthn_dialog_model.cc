@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog model implementation
+// summary: Implements the dialog model that maps WebAuthn dialog states to titles, descriptions, button labels and illustrations and notifies observers of state changes.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/webauthn_dialog_model.h"
 
 #include "base/observer_list.h"

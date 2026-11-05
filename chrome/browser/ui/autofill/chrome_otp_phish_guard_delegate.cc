@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP phishing guard delegate with Safe Browsing checks
+// summary: Checks the target, main, and outermost frames against Safe Browsing blocklists before OTP filling to block phishing pages.
+// ---
+
 #include "chrome/browser/ui/autofill/chrome_otp_phish_guard_delegate.h"
 
 #include "base/memory/weak_ptr.h"

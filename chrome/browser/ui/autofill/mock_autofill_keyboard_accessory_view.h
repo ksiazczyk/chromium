@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock autofill keyboard accessory view header
+// summary: Declares a gmock mock of AutofillKeyboardAccessoryView stubbing Initialize, Hide, Show and deletion callbacks for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_MOCK_AUTOFILL_KEYBOARD_ACCESSORY_VIEW_H_
 #define CHROME_BROWSER_UI_AUTOFILL_MOCK_AUTOFILL_KEYBOARD_ACCESSORY_VIEW_H_
 

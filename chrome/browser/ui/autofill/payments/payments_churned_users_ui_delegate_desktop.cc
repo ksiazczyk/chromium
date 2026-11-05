@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop payments churned users UI delegate implementation
+// summary: Implements the desktop UI delegate that shows the payments churned users bubble through the tab's bubble controller.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/payments_churned_users_ui_delegate_desktop.h"
 
 #include <utility>

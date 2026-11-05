@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock email verification popup view header
+// summary: GMock implementation of the popup view interface that lets tests simulate user decisions and verify hide and loading state calls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_MOCK_EMAIL_VERIFICATION_POPUP_VIEW_H_
 #define CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_MOCK_EMAIL_VERIFICATION_POPUP_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address bubbles controller browser tests
+// summary: Browser tests verifying that save and update address prompts invoke their callbacks, including a side panel regression case.
+// ---
+
 #include "chrome/browser/ui/autofill/address_bubbles_controller.h"
 
 #include "base/test/mock_callback.h"

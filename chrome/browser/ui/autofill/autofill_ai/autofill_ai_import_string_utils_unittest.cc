@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI import string utilities unit tests
+// summary: Unit tests verifying that prompt titles resolve to unbranded or branded string variants depending on feature flags and prompt type.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_string_utils.h"
 
 #include "base/test/scoped_feature_list.h"

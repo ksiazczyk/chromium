@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory suggestion controller
+// summary: Declares the controller for the AtMemory autofill suggestion flow on Android, including bottom sheet bridge hooks and suggestion handling methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AT_MEMORY_SUGGESTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AT_MEMORY_SUGGESTION_CONTROLLER_H_
 

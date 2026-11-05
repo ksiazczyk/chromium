@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offer notification bubble controller implementation
+// summary: Implements the per-tab controller that shows the offer notification bubble and omnibox icon for card-linked, promo code and wallet offers.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/offer_notification_bubble_controller_impl.h"
 
 #include <string>

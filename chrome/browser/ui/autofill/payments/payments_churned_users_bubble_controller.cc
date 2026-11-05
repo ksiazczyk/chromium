@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users bubble controller implementation
+// summary: Implements the controller that shows and manages a bubble prompting churned users to turn payments autofill back on, including metrics and treatment arms.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/payments_churned_users_bubble_controller.h"
 
 #include <utility>

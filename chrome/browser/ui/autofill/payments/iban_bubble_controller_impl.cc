@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN bubble controller implementation
+// summary: Implements the per-tab controller offering local and upload IBAN save bubbles, confirmation bubbles and omnibox icon handling.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/iban_bubble_controller_impl.h"
 
 #include <string>

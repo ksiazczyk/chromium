@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android email verification controller implementation
+// summary: Implements the controller on Android using the email verification bottom sheet bridge and Autofill message banners.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_controller_android.h"
 
 #include <memory>

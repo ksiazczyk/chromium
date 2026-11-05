@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock bubble manager header
+// summary: Declares a gmock mock of BubbleManager stubbing bubble show, hide and pending-bubble queries for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_MOCK_BUBBLE_MANAGER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_MOCK_BUBBLE_MANAGER_H_
 

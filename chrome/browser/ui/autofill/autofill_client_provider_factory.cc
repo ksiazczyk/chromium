@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillClientProviderFactory implementation
+// summary: Implements the profile-keyed factory that lazily builds a single AutofillClientProvider per browser context.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_client_provider_factory.h"
 
 #include <utility>

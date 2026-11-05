@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice bubble controller
+// summary: Declares the controller that shows and reshows Wallet reminder notice bubbles with legal message lines, owned by TabFeatures.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_WALLET_REMINDER_NOTICE_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_WALLET_REMINDER_NOTICE_BUBBLE_CONTROLLER_H_
 

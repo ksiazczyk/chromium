@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSnackbarController interface header
+// summary: Declares the AutofillSnackbarController interface that exposes snackbar functionality, such as actions, dismissal and message text, to Autofill views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_CONTROLLER_H_
 #include <string>

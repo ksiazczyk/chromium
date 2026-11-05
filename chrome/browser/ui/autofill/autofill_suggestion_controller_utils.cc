@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill suggestion controller utilities implementation
+// summary: Implements helpers that classify suggestion types into popup sections, clean up separators, handle deactivated styles and notify user education.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_suggestion_controller_utils.h"
 
 #include <algorithm>

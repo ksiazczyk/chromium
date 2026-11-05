@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OTP PhishGuard delegate unit tests
+// summary: Unit tests for the Chrome OTP PhishGuard delegate using a mocked Safe Browsing database manager.
+// ---
+
 #include "chrome/browser/ui/autofill/chrome_otp_phish_guard_delegate.h"
 
 #include <memory>

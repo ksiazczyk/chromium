@@ -1,0 +1,4 @@
+# Docerion header of autofill_popup_controller_impl_mac_unittest.mm.
+type: test
+title: Unit tests for the Mac autofill popup controller
+summary: Unit tests verifying that the macOS autofill popup controller hides the touch bar when recycled without credit card suggestions.

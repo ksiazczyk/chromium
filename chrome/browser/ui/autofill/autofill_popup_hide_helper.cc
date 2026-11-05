@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill popup hide helper implementation
+// summary: Implements a WebContents observer that hides the autofill popup on focus loss, resize, navigation, zoom and picture-in-picture changes.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_popup_hide_helper.h"
 
 #include "base/check_deref.h"

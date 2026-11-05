@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI import data controller implementation
+// summary: Implements the per-tab bubble controller that shows save or update prompts for Autofill AI entities and handles user interactions and metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_data_controller_impl.h"
 
 #include <algorithm>

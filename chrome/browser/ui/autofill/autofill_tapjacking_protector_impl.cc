@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill tapjacking protector implementation
+// summary: Implements the tapjacking protector by showing confirmation dialogs through the autofill dialog controller and mapping results to authorization outcomes.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_tapjacking_protector_impl.h"
 
 #include <string>

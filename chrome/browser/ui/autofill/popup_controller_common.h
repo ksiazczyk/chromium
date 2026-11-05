@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup controller common struct
+// summary: Declares a struct holding common data for Autofill popups, including form and field IDs, element bounds, text direction, anchor type and popup display options.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_POPUP_CONTROLLER_COMMON_H_
 #define CHROME_BROWSER_UI_AUTOFILL_POPUP_CONTROLLER_COMMON_H_
 

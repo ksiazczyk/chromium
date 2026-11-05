@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card bubble controller implementation
+// summary: Implements the per-tab controller for local and server save card bubbles, CVC saves, omnibox icon, and related metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/save_card_bubble_controller_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI import data controller browser tests
+// summary: Browser tests that exercise the save and update Autofill AI entity dialogs, including passport and vehicle update scenarios.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_data_controller_impl.h"
 
 #include <optional>

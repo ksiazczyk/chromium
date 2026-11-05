@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save address bubble controller unit tests
+// summary: Unit tests for SaveAddressBubbleController that verify window titles, header images and user decision handling using a mock delegate and test profiles.
+// ---
+
 #include "chrome/browser/ui/autofill/save_address_bubble_controller.h"
 
 #include <memory>

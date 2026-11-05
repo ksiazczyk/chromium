@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop wallet reminder notice UI delegate unit tests
+// summary: Unit tests verifying the desktop delegate forwards legal message lines to the bubble controller and shows the page action.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_ui_delegate_desktop.h"
 
 #include <memory>

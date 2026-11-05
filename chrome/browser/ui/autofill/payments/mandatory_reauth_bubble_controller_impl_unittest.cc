@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mandatory re-auth bubble controller unit tests
+// summary: Unit tests covering setup, reshow and close paths of the mandatory re-auth bubble controller, including opt-in metric logging with mocked tab and bubble manager.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/mandatory_reauth_bubble_controller_impl.h"
 
 #include "base/functional/bind.h"

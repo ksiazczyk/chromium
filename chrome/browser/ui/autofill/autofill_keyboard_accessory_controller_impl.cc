@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill keyboard accessory controller implementation
+// summary: Implements the Android autofill keyboard accessory controller, handling suggestions, metrics, removal confirmations and Autofill AI suggestion details.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_keyboard_accessory_controller_impl.h"
 
 #include <algorithm>

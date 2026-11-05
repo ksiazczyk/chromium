@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask prompt view browser test
+// summary: Browser test exercising the card unmask prompt dialog in its expired, temporary error, and permanent error forms using test controllers and delegates.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_prompt_view.h"
 
 #include <string_view>

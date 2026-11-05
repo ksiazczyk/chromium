@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android offer notification message controller
+// summary: Shows and dismisses the Android offer notification message for card-linked offers and opens the offer details URL when the user acts on the message.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/offer_notification_controller_android.h"
 
 #include <algorithm>

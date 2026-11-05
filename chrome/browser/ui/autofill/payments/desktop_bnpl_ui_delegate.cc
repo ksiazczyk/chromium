@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BNPL UI delegate implementation
+// summary: Implements the desktop BNPL UI delegate that shows and dismisses issuer selection, terms of service, progress, and error dialogs for the BNPL autofill flow.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/desktop_bnpl_ui_delegate.h"
 
 #include "base/check_deref.h"

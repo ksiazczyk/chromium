@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save card bubble controller interactive UI test
+// summary: Interactive browser tests that display the various save card bubble types, including local, server, CVC, and manage cards variants.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/save_card_bubble_controller_impl.h"
 
 #include <memory>

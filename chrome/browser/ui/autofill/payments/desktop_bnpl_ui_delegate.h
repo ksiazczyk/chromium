@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BNPL UI delegate
+// summary: Declares the desktop implementation of BnplUiDelegate that manages BNPL autofill UI such as issuer selection and terms of service dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_DESKTOP_BNPL_UI_DELEGATE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_DESKTOP_BNPL_UI_DELEGATE_H_
 

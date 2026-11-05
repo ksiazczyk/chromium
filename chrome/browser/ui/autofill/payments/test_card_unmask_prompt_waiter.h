@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCardUnmaskPromptWaiter test helper
+// summary: Declares an RAII helper that injects a test card unmask prompt controller to wait for the CVC prompt and accept it with a given CVC value.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_TEST_CARD_UNMASK_PROMPT_WAITER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_TEST_CARD_UNMASK_PROMPT_WAITER_H_
 

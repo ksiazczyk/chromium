@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask authentication selection dialog controller tests
+// summary: Unit tests for the card unmask authentication selection dialog controller covering challenge option selection and dialog result metrics.
+// ---
+
 #include "components/autofill/core/browser/ui/payments/card_unmask_authentication_selection_dialog_controller_impl.h"
 
 #include "base/functional/callback_helpers.h"

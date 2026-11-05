@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the payments UI directory
+summary: Lists the directory owners and per-file owner rules for the payments autofill client and payments window manager files.

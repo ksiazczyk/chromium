@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key press handler registration header
+// summary: Declares a helper that owns a key press handler registration with a render widget host and cleans it up on destruction or re-registration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_KEY_PRESS_HANDLER_REGISTRATION_H_
 #define CHROME_BROWSER_UI_AUTOFILL_KEY_PRESS_HANDLER_REGISTRATION_H_
 

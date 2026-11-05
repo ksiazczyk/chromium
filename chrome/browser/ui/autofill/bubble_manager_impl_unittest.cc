@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the bubble manager implementation
+// summary: Tests bubble show requests, preemption, queueing, and tab activation behavior using a fake tab interface and mock bubble controllers.
+// ---
+
 #include "chrome/browser/ui/autofill/bubble_manager_impl.h"
 
 #include <memory>
