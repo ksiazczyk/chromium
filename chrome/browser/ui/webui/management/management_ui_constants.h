@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management UI string constant declarations
+// summary: Declares the localized string key constants sent to the management page as load-time data, with platform-specific sections.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MANAGEMENT_MANAGEMENT_UI_CONSTANTS_H_
 #define CHROME_BROWSER_UI_WEBUI_MANAGEMENT_MANAGEMENT_UI_CONSTANTS_H_
 

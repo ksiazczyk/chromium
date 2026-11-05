@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for WebRTC logs reviews
+summary: Sets guidou@chromium.org as the required reviewer for webrtc_* files in this directory.

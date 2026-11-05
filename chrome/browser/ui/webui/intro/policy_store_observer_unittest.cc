@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy store observer unit tests
+// summary: Unit tests for PolicyStoreObserver covering already-loaded, asynchronous load, timeout, and error cases with a fake machine-level cloud policy store.
+// ---
+
 #include "chrome/browser/ui/webui/intro/policy_store_observer.h"
 
 #include <memory>

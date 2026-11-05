@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop platform handlers for the history WebUI
+// summary: Implements desktop-specific platform handlers for the history WebUI, populating the data source with Glic availability, sign-in account data and localized sync strings.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

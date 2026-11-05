@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net internals WebUI controller header
+// summary: Declares the NetInternalsUI WebUI controller, its DefaultWebUIConfig registration, and a testing hook for swapping the NetworkContext.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NET_INTERNALS_NET_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_NET_INTERNALS_NET_INTERNALS_UI_H_
 

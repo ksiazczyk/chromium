@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy store observer header
+// summary: Declares PolicyStoreObserver, which watches the cloud policy store and runs a callback with the enterprise disclaimer once loaded, on timeout, or on error.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_POLICY_STORE_OBSERVER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_POLICY_STORE_OBSERVER_H_
 

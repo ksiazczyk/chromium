@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar internals page handler declaration
+// summary: Declares the Mojo PageHandler implementation that serves infobar listings and dispatches infobar actions requested from the internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INFOBAR_INTERNALS_INFOBAR_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INFOBAR_INTERNALS_INFOBAR_INTERNALS_HANDLER_H_
 

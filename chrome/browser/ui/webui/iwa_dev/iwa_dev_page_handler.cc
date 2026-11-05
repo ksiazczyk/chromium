@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA developer page handler implementation
+// summary: Implements the Mojo page handler, bridging developer tools actions such as installing, updating, launching, and uninstalling dev-mode Isolated Web Apps to the web app backend.
+// ---
+
 #include "chrome/browser/ui/webui/iwa_dev/iwa_dev_page_handler.h"
 
 #include <optional>

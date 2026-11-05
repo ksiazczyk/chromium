@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporter unit tests
+// summary: Unit tests for MetricsReporter covering mark creation, overrides, mark lookups, clearing, and measure callbacks using a mocked PageMetrics Mojo interface.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_reporter/metrics_reporter.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter internals page handler implementation
+// summary: Implements the browser-side handler that serves buffered logs and debug info to the WebUI page and pushes new log entries from the log router.
+// ---
+
 #include "chrome/browser/ui/webui/multistep_filter_internals/multistep_filter_internals_page_handler.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Indigo Internals WebUI build configuration
+summary: Defines the GN build targets for the Indigo Internals WebUI, including the Mojo bindings target and the source set with its dependencies.

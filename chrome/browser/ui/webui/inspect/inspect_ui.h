@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the inspect WebUI controller
+// summary: Declares the InspectUI controller class and its WebUI configuration, including target handlers, preference updates, and port forwarding status serialization.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INSPECT_INSPECT_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INSPECT_INSPECT_UI_H_
 

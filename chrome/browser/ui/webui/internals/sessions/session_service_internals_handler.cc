@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service internals handler implementation
+// summary: Implements the WebUI request handler that formats SessionService event logs and debug state into HTML for the sessions internals diagnostic page.
+// ---
+
 #include "chrome/browser/ui/webui/internals/sessions/session_service_internals_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals logs handler implementation
+// summary: Implements WebUI message handlers that return cross-device log buffer messages as JSON and notify the logging tab about added or cleared logs.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_logs_handler.h"
 
 #include <utility>

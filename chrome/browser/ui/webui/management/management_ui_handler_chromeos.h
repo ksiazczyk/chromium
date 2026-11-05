@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS management UI handler header
+// summary: Declares ManagementUIHandlerChromeOS, the ChromeOS subclass adding device reporting, local trust roots, cloud upload info, and Desk Sync notices to the management page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MANAGEMENT_MANAGEMENT_UI_HANDLER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_WEBUI_MANAGEMENT_MANAGEMENT_UI_HANDLER_CHROMEOS_H_
 

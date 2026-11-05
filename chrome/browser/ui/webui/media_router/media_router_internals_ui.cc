@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router internals WebUI controller implementation
+// summary: Implements the Media Router internals page controller, creating its data source and attaching the message handler that talks to the media router and its debugger.
+// ---
+
 #include "chrome/browser/ui/webui/media_router/media_router_internals_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo StructTraits implementation for ShareTarget serialization
+// summary: Converts the native ShareTarget into its Mojo representation, building payload previews from file, text, and Wi-Fi credentials attachments.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_share/nearby_share_mojom_traits.h"
 
 #include "base/notreached.h"

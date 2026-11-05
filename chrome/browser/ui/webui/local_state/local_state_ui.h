@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state WebUI controller header
+// summary: Declares the WebUI controller class and its internal WebUI config for the local-state debug page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_LOCAL_STATE_LOCAL_STATE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_LOCAL_STATE_LOCAL_STATE_UI_H_
 

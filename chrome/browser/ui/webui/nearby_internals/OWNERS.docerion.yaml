@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Nearby internals directory owners
+summary: Delegates code ownership to the nearby sharing OWNERS file and additionally lists khorimoto@chromium.org as an owner.

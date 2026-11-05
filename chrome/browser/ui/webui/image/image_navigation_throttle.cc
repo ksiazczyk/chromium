@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageNavigationThrottle implementation
+// summary: Implements a navigation throttle that attaches only to the image WebUI host and blocks top-level navigation requests to it.
+// ---
+
 #include "chrome/browser/ui/webui/image/image_navigation_throttle.h"
 
 #include "chrome/common/url_constants.h"

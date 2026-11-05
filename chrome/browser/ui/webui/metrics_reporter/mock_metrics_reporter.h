@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMetricsReporter header
+// summary: Declares MockMetricsReporter, a gmock subclass of MetricsReporter that stubs Mark, Measure, HasMark, HasLocalMark, and ClearMark for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_MOCK_METRICS_REPORTER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_MOCK_METRICS_REPORTER_H_
 

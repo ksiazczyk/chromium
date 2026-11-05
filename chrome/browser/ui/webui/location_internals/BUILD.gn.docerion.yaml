@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for location_internals
+summary: Defines GN build targets for the location internals WebUI, including Mojo bindings, the browser source set, and non-Android browser tests.

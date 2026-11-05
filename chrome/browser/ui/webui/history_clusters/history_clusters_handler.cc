@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters handler implementation
+// summary: Implements the Mojo page handler that connects the history clusters UI with browser history, tabs, sync, search engines, and menu actions.
+// ---
+
 #include "chrome/browser/ui/webui/history_clusters/history_clusters_handler.h"
 
 #include <algorithm>

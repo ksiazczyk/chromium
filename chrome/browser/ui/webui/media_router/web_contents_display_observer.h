@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDisplayObserver header
+// summary: Declares an interface that tracks the display a WebContents is on and invokes a callback when it moves to another display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MEDIA_ROUTER_WEB_CONTENTS_DISPLAY_OBSERVER_H_
 #define CHROME_BROWSER_UI_WEBUI_MEDIA_ROUTER_WEB_CONTENTS_DISPLAY_OBSERVER_H_
 

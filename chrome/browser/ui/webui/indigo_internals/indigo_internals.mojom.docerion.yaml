@@ -1,0 +1,4 @@
+# Docerion header of indigo_internals.mojom.
+type: source
+title: Indigo Internals Mojo Interfaces
+summary: Defines the Mojo enums, structs and interfaces that let the Indigo internals diagnostics page query local and remote eligibility, optimization guide status and Glic prompt info.

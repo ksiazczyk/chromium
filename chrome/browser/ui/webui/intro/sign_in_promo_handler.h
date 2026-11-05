@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo page handler header
+// summary: Declares the Mojo page handler for the sign-in promo, forwarding sign-in choices and serving the managed-device disclaimer fetched from the policy store.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_SIGN_IN_PROMO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_SIGN_IN_PROMO_HANDLER_H_
 

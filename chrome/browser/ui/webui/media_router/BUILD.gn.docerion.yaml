@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router WebUI build definition (BUILD.gn)
+summary: Defines the media_router source set with its sources, public headers and dependencies for non-Android builds, adding branded cast feedback sources conditionally.

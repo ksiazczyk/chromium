@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multistep filter internals
+summary: Lists the directories that code in the multistep filter internals WebUI folder is allowed to include from.

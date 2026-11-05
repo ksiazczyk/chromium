@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router internals message handler implementation
+// summary: Handles JavaScript messages from the internals page for state, provider state, logs, mirroring stats and Perfetto tracing sessions.
+// ---
+
 #include "chrome/browser/ui/webui/media_router/media_router_internals_webui_message_handler.h"
 
 #include "base/base64.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the IWA developer WebUI
+summary: Defines Mojo bindings generation, the iwa_dev source set, and browser test targets for the Isolated Web Apps developer tools page.

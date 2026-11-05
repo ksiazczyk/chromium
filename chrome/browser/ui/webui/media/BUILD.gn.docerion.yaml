@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the media WebUI source set
+summary: Defines the media source_set listing the media engagement and WebRTC logs UI sources with their Chromium build dependencies.

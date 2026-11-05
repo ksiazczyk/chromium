@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab footer handler unit tests
+// summary: Unit tests for the new tab footer handler covering extension NTP handling, management notice rendering and custom background updates.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/new_tab_footer_handler.h"
 
 #include <memory>

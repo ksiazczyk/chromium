@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for multistep filter internals
+summary: Defines GN targets for the multistep filter internals WebUI, including Mojo bindings, the browser-side source set, and unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for history WebUI
+summary: Delegates ownership review to the OWNERS file of the history resources directory.

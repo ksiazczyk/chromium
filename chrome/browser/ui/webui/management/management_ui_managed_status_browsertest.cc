@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management UI managed status browser tests
+// summary: Browser tests verifying the management page's managed status reporting, using fake sign-in, embedded policy test servers, and scoped management overrides.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

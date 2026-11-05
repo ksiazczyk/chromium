@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals WebUI controller implementation
+// summary: Implements the WebUI controller for the Nearby internals debug page, creating its data source and registering the logs, contact, HTTP, prefs, trigger, and Quick Pair message handlers.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_ui.h"
 
 #include <memory>

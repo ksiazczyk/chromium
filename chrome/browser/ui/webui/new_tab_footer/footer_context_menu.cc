@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footer context menu implementation
+// summary: Implements the New Tab Page footer context menu with hide-footer and Customize Chrome commands, policy visibility rules, and usage metrics.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/footer_context_menu.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo Internals UI Controller Header
+// summary: Declares the Indigo internals WebUI controller and its internal WebUI config, including the feature-gated enablement check and Mojo interface bindings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INDIGO_INTERNALS_INDIGO_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INDIGO_INTERNALS_INDIGO_INTERNALS_UI_H_
 

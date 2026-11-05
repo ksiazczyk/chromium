@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternalsUI WebUI controller implementation
+// summary: Implements the WebUI controller for the browser internals page and routes session-service requests to the session service internals handler.
+// ---
+
 #include "chrome/browser/ui/webui/internals/internals_ui.h"
 
 #include <vector>

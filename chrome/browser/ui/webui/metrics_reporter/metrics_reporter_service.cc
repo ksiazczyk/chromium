@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporterService implementation
+// summary: Implements MetricsReporterService, a WebContentsUserData that owns a MetricsReporter per WebContents and binds its PageMetricsHost Mojo receiver.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_reporter/metrics_reporter_service.h"
 
 #include "base/logging.h"

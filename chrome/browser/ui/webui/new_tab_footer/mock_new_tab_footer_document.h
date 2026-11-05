@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock New Tab Footer document class declaration
+// summary: Declares a gmock mock of the NewTabFooterDocument Mojo interface for use in test support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_MOCK_NEW_TAB_FOOTER_DOCUMENT_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_MOCK_NEW_TAB_FOOTER_DOCUMENT_H_
 

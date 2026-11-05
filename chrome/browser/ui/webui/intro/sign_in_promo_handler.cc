@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo handler implementation
+// summary: Implements the sign-in promo page handler that forwards the user's sign-in choice and provides the managed device disclaimer via PolicyStoreObserver.
+// ---
+
 #include "chrome/browser/ui/webui/intro/sign_in_promo_handler.h"
 
 #include <memory>

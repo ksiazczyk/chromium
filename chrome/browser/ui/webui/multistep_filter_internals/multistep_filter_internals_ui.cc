@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter internals WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the data source, enables the page for non-incognito profiles with the feature flag, and creates the page handler per profile.
+// ---
+
 #include "chrome/browser/ui/webui/multistep_filter_internals/multistep_filter_internals_ui.h"
 
 #include <string>

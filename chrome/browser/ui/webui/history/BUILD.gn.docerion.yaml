@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History WebUI GN build configuration
+summary: Defines the history source set with its sources, public headers, and platform-conditional dependencies for the Chrome history WebUI.

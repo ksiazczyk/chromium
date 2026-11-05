@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo StructTraits declaration for ShareTarget serialization
+// summary: Declares StructTraits mapping the native ShareTarget class to the nearby_share.mojom ShareTarget message.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEARBY_SHARE_NEARBY_SHARE_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_NEARBY_SHARE_NEARBY_SHARE_MOJOM_TRAITS_H_
 

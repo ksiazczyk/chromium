@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the quick_pair WebUI directory
+summary: Defines the allowed include dependencies for this directory, permitting ash/quick_pair and ui/message_center headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service internals handler header
+// summary: Declares the static WebUI request filter callbacks that serve the SessionService diagnostic page for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTERNALS_SESSIONS_SESSION_SERVICE_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTERNALS_SESSIONS_SESSION_SERVICE_INTERNALS_HANDLER_H_
 

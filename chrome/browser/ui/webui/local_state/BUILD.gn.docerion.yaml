@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Local state WebUI build definition
+summary: GN build file defining the local_state source set with its sources and dependencies on browser, prefs, and resources targets.

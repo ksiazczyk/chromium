@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the interstitials WebUI
+summary: Points to the shared COMMON_METADATA mixins under chrome/browser/interstitials for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location internals WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the data source, resources and Mojo handler binding for the location-internals page.
+// ---
+
 #include "chrome/browser/ui/webui/location_internals/location_internals_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

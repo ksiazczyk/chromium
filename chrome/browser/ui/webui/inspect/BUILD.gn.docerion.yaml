@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the inspect WebUI
+summary: Defines the inspect source set with its source files and dependencies for building the browser's inspect page UI.

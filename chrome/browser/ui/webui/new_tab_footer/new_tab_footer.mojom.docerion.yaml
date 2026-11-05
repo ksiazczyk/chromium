@@ -1,0 +1,4 @@
+# Docerion header of new_tab_footer.mojom.
+type: source
+title: New Tab Footer Mojo interface definitions
+summary: Defines the Mojo interfaces and structs for browser-WebUI communication in the New Tab Page footer, including management notices and background attribution.

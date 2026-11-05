@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetInternals WebUI implementation
+// summary: Implements the browser-side message handler and data source for the net-internals debugging page, converting host resolver results, proxy and network state into values for the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/net_internals/net_internals_ui.h"
 
 #include <memory>

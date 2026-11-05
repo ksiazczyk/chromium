@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the finish or continue page handler
+// summary: Declares the FinishOrContinueHandler class and choice enum used to report the user's finish-or-continue decision over Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_FINISH_OR_CONTINUE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_FINISH_OR_CONTINUE_HANDLER_H_
 

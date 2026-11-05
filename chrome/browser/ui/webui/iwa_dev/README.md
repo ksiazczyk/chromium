@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web Apps Developer WebUI README
+summary: Documents the developer tools WebUI for Isolated Web Apps, its key components, companion directories, and testing approach.
+relations:
+  - references /chrome/browser/resources/iwa_dev/README.md
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - documents /chrome/browser/ui/webui/iwa_dev/iwa_dev.mojom
+---
+
 # Isolated Web Apps Developer WebUI (`chrome/browser/ui/webui/iwa_dev`)
 
 This directory contains the C++ WebUI controller and Mojo page handler for the

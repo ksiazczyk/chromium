@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InternalsUI WebUI controller header
+// summary: Declares the InternalsUI WebUI controller class and its DefaultWebUIConfig-based configuration for the browser internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTERNALS_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INTERNALS_INTERNALS_UI_H_
 

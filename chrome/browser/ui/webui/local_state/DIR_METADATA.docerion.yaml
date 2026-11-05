@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the local_state WebUI directory
+summary: Specifies the Monorail component, team email and Buganizer component used for issues in this directory.

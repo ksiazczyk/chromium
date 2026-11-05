@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for location_internals
+summary: Sets code owners for the directory and requires IPC security owners to review changes to Mojo files.

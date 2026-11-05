@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageNavigationThrottle unit tests
+// summary: Unit tests checking that the throttle registers only for image WebUI URLs and that requests to it are blocked.
+// ---
+
 #include "chrome/browser/ui/webui/image/image_navigation_throttle.h"
 
 #include "content/public/test/mock_navigation_handle.h"

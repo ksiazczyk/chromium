@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal debug pages disabled WebUI controller implementation
+// summary: Implements the WebUI controller that serves the page shown when internal-only debug pages are disabled, adding localized strings, validating the requested debug host, and reporting whether debug pages are enabled.
+// ---
+
 #include "chrome/browser/ui/webui/internal_debug_pages_disabled/internal_debug_pages_disabled_ui.h"
 
 #include "base/strings/strcat.h"

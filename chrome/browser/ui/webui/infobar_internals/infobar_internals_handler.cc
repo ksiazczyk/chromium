@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar internals page handler implementation
+// summary: Implements the WebUI page handler that enumerates all registered infobar types and performs show or hide actions for each across tabs and browser windows.
+// ---
+
 #include "chrome/browser/ui/webui/infobar_internals/infobar_internals_handler.h"
 
 #include <memory>

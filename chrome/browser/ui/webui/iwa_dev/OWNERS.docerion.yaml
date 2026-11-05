@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the IWA developer WebUI directory
+summary: Lists code owners and requires IPC security owners' review for changes to Mojo files in this directory.

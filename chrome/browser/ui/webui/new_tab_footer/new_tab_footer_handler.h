@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab footer Mojo handler header
+// summary: Declares the browser-side NewTabFooterHandler that updates the new tab footer with extension name, management notice, attached tab state and background attribution.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_NEW_TAB_FOOTER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_NEW_TAB_FOOTER_HANDLER_H_
 

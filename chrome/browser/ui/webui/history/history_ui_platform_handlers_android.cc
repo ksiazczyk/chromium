@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform handlers for the history WebUI
+// summary: Implements Android-specific platform handlers for the history WebUI, stubbing out desktop-only features such as user education, cross-device sign-in promos and Glic.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_ui_platform_handlers.h"
 
 #include <memory>

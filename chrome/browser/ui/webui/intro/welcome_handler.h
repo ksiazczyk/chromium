@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome page handler header
+// summary: Declares the welcome page handler class that processes Continue requests with optional UMA opt-in and default-browser parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_WELCOME_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_WELCOME_HANDLER_H_
 

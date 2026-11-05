@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the intro WebUI message handler
+// summary: Implements the IntroHandler message handler that processes sign-in, default browser and view initialization messages from the first-run intro page.
+// ---
+
 #include "chrome/browser/ui/webui/intro/intro_handler.h"
 
 #include "base/functional/bind.h"

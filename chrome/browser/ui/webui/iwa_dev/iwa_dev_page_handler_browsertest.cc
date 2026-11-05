@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the IWA developer page handler
+// summary: End-to-end browser tests covering dev-mode IWA install, update, channel switching, uninstall, event notifications, and error handling.
+// ---
+
 #include "chrome/browser/ui/webui/iwa_dev/iwa_dev_page_handler.h"
 
 #include <string>

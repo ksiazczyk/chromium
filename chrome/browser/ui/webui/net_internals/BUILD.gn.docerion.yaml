@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Net internals build targets
+summary: GN build file defining the net_internals source set and its non-Android test support target together with their dependencies.

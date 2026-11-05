@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics internals build definition
+summary: Defines the metrics_internals source set with its sources and dependencies, including conditional structured metrics debug support.

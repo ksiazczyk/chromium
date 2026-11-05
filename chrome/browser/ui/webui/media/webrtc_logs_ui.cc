@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC Logs WebUI implementation
+// summary: Implements the WebRTC logs WebUI page that lists text and event logs with upload status, registering localized strings, resources and a message handler for the page.
+// ---
+
 #include "chrome/browser/ui/webui/media/webrtc_logs_ui.h"
 
 #include <memory>

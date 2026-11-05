@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the shared WebUI navigation handler
+// summary: Declares NavigationHandler, a WebUIMessageHandler that adds message handlers shared across all WebUI pages, such as navigateToUrl.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_NAVIGATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_NAVIGATION_HANDLER_H_
 

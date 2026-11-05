@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter internals page handler header
+// summary: Declares the page handler class that serves WebUI requests for buffered logs and debug info and pushes new log entries by observing the Multistep Filter log router.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MULTISTEP_FILTER_INTERNALS_MULTISTEP_FILTER_INTERNALS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_MULTISTEP_FILTER_INTERNALS_MULTISTEP_FILTER_INTERNALS_PAGE_HANDLER_H_
 

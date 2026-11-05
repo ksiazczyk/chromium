@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management UI unit tests
+// summary: Unit tests for the ManagementUI controller verifying construction and that localized disclosure strings meet link requirements on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui.h"
 
 #include "base/containers/fixed_flat_set.h"

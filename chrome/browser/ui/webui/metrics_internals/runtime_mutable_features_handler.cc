@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime mutable features handler implementation
+// summary: Implements the WebUI message handler for the Runtime-Mutable-Features tab, forwarding feature fetching, seed fetching pause, and seed upload requests to the base handler.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_internals/runtime_mutable_features_handler.h"
 
 #include "base/functional/bind.h"

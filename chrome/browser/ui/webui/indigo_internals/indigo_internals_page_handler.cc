@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo Internals page handler implementation
+// summary: Implements the browser-side page handler that answers eligibility, Optimization Guide and Glic prompt queries and pushes status updates to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/indigo_internals/indigo_internals_page_handler.h"
 
 #include "base/feature_list.h"

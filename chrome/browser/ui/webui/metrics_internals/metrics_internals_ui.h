@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsInternalsUI controller header
+// summary: Declares the WebUI controller and its config class that register the browser's metrics-internals diagnostics page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_METRICS_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_METRICS_INTERNALS_UI_H_
 

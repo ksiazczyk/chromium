@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA developer WebUI controller implementation
+// summary: Implements the WebUI controller for the developer tools page, setting up the data source, feature and policy flags, and Mojo interface binding.
+// ---
+
 #include "chrome/browser/ui/webui/iwa_dev/iwa_dev_ui.h"
 
 #include "base/check_is_test.h"

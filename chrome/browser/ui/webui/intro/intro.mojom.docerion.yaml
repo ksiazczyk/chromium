@@ -1,0 +1,4 @@
+# Docerion header of intro.mojom.
+type: source
+title: Mojo interfaces for the intro page
+summary: Defines the factory and IntroPage interfaces used to bootstrap browser communication and toggle animations on the intro WebUI page.

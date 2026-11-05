@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the metrics reporter
+summary: Defines GN source sets for the metrics reporter interface, its implementation, test support mocks, and unit tests together with their dependencies.

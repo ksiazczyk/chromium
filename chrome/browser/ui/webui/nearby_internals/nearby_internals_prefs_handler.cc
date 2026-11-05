@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals prefs handler implementation
+// summary: Implements the WebUI message handler that clears all Nearby Share preferences and disables the feature when the clear prefs action is triggered from the Nearby internals debug page.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_prefs_handler.h"
 
 #include "base/functional/bind.h"

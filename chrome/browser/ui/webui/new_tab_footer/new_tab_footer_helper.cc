@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab footer helper implementation
+// summary: Implements ntp_footer helpers that detect whether a URL is a new tab page or an extension-overridden new tab page.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/new_tab_footer_helper.h"
 
 #include "chrome/browser/enterprise/util/managed_browser_utils.h"

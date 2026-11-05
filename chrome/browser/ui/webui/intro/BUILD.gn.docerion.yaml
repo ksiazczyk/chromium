@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the intro WebUI
+summary: Defines the Mojo bindings targets, the intro source set with its handlers and UI controller, and the unit test source set for the Chrome first-run intro WebUI.

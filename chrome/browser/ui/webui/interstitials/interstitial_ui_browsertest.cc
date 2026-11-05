@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interstitial UI browser tests
+// summary: Browser tests verifying page titles and body content of the interstitial demonstration pages, including DevTools availability and ChromeOS setup.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "chrome/browser/browser_process.h"

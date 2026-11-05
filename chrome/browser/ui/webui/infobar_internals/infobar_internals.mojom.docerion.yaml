@@ -1,0 +1,4 @@
+# Docerion header of infobar_internals.mojom.
+type: source
+title: Infobar internals Mojo interface definitions
+summary: Defines the Mojo enums, structs and Page/PageHandler interfaces used to list registered infobars and trigger show, hide and global actions from the internals page.

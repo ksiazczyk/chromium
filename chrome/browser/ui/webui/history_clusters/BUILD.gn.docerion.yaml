@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters build configuration
+summary: GN build file defining the history_clusters source set and its browser test target, with non-Android sources and dependencies.

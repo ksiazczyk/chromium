@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media Router WebUI OWNERS file
+summary: Delegates ownership review for this directory to the OWNERS file of chrome/browser/media/router.

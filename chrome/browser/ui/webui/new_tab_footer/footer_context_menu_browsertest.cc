@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Footer context menu browser tests
+// summary: Browser tests verifying footer context menu item visibility, the hide footer pref change, and the Customize Chrome action with histogram checks.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/footer_context_menu.h"
 
 #include "base/test/metrics/histogram_tester.h"

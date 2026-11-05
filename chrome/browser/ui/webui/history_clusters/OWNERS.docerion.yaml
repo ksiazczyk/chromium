@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for history clusters WebUI
+summary: Delegates code ownership to the history clusters OWNERS file and routes mojom changes to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management UI PWA browser tests
+// summary: Browser tests checking that PWAs installed with run-on-OS-login policy appear in the management page's reported applications list.
+// ---
+
 #include "base/features.h"
 #include "base/json/json_reader.h"
 #include "base/value_iterators.h"

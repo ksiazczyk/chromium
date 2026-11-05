@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in celebration handler unit tests
+// summary: Unit tests for SignInCelebrationHandler using a mock page and identity test environment to verify user info updates and celebration-finished callbacks.
+// ---
+
 #include "chrome/browser/ui/webui/intro/sign_in_celebration_handler.h"
 
 #include <memory>

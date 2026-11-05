@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign session handler class declaration
+// summary: Declares the ForeignSessionHandler Mojo handler and the synced tabs histogram values for the history page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_FOREIGN_SESSION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_FOREIGN_SESSION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feedback WebUI controller header
+// summary: Declares the Cast feedback page controller and its WebUI configuration class, including the enablement check and close-message handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MEDIA_ROUTER_CAST_FEEDBACK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_MEDIA_ROUTER_CAST_FEEDBACK_UI_H_
 

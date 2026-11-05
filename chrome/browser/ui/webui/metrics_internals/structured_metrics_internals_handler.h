@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StructuredMetricsInternalsHandler header
+// summary: Declares the message handler for the structured metrics tab, delegating event and summary fetches to the shared base handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_STRUCTURED_METRICS_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_STRUCTURED_METRICS_INTERNALS_HANDLER_H_
 

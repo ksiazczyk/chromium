@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in celebration handler implementation
+// summary: Implements the browser-side handler that supplies sign-in celebration user info from IdentityManager and notifies the browser when the animation finishes.
+// ---
+
 #include "chrome/browser/ui/webui/intro/sign_in_celebration_handler.h"
 
 #include "base/check.h"

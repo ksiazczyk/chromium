@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StructuredMetricsInternalsHandler implementation
+// summary: Implements the structured metrics handler, registering callbacks that fetch structured metrics events and summary data for the page.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_internals/structured_metrics_internals_handler.h"
 
 #include "base/functional/bind.h"
