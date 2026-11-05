@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry key helper declarations
+// summary: Declares the RegKey class and helper functions for opening Google Update Clients and ClientState registry keys for a product.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_REGKEY_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_REGKEY_H_
 

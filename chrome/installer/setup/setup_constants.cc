@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer constants and command-line switches
+// summary: Defines install path elements, registry paths, and command-line switches used by the Chrome installer, including downgrade cleanup options.
+// ---
+
 #include "chrome/installer/setup/setup_constants.h"
 
 namespace installer {

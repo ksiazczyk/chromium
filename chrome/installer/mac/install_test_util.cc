@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process test utilities for macOS installer tests
+// summary: Implements helpers that run commands with timeouts and report detailed process exit status, including signal information, for macOS installer script tests.
+// ---
+
 #include "chrome/installer/mac/install_test_util.h"
 
 #include <poll.h>

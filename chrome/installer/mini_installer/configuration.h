@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration class header
+// summary: Declares the Configuration class that holds the mini_installer's command-line and registry-derived settings.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_CONFIGURATION_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_CONFIGURATION_H_
 

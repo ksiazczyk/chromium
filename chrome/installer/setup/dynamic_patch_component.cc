@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic patch component implementation
+// summary: Implements the installer component for Chrome Dynamic Patches, validating user SID and User Data directory switches and reading patch manifests.
+// ---
+
 #include "chrome/installer/setup/dynamic_patch_component.h"
 
 #include <windows.h>

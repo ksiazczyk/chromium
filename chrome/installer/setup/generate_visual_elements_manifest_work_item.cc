@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual elements manifest work item implementation
+// summary: Implements the work item that generates and writes chrome.VisualElementsManifest.xml for a version's VisualElements assets, with rollback support.
+// ---
+
 #include "chrome/installer/setup/generate_visual_elements_manifest_work_item.h"
 
 #include "base/containers/span.h"

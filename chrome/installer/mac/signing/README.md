@@ -1,3 +1,13 @@
+---
+type: readme
+title: Signing Scripts for Chrome on macOS
+summary: Explains how to invoke the macOS signing scripts, the required signing identities, differences between Chromium and Google Chrome, and how to run tests.
+relations:
+  - documents /chrome/installer/mac/sign_chrome.py
+  - references /chrome/app/app-entitlements.plist
+  - references /chrome/app/app-entitlements-chrome.plist
+---
+
 # Signing Scripts for Chrome on macOS
 
 This directory contains Python modules that modify the Chrome application bundle

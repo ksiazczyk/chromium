@@ -5,6 +5,12 @@
 // Boilerplate for an upgrade scenario test.  The mini_installer.exe residing in
 // the same directory as the host executable is re-versioned.
 
+// ---docerion
+// type: test
+// title: Mini installer upgrade test boilerplate
+// summary: Provides a test fixture that generates a newer-version copy of mini_installer.exe as boilerplate for future upgrade scenario tests.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/path_service.h"

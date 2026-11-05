@@ -1,3 +1,9 @@
+---
+type: readme
+title: mini_installer.exe
+summary: Explains how to build and run the Windows mini_installer, covering install locations, logging, and channel switches.
+---
+
 # mini_installer.exe
 
 This folder contains files to build `mini_installer.exe`, the Windows installer

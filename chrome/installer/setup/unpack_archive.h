@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive unpacking declaration
+// summary: Declares UnpackChromeArchive, which decompresses and unpacks the Chrome archive for setup.exe when no uncompressed archive is given on the command line.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_UNPACK_ARCHIVE_H_
 #define CHROME_INSTALLER_SETUP_UNPACK_ARCHIVE_H_
 

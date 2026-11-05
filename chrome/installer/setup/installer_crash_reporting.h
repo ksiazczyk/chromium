@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporting declarations
+// summary: Declares functions to configure installer crash reporting and to set crash keys from installer state, command line, and product version.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALLER_CRASH_REPORTING_H_
 #define CHROME_INSTALLER_SETUP_INSTALLER_CRASH_REPORTING_H_
 

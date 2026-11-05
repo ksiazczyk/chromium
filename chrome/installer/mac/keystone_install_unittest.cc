@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Keystone install script
+// summary: Runs keystone_install.sh against fake app bundles and a stub ksadmin in a gtest harness to verify update installation behavior.
+// ---
+
 #include <fcntl.h>
 #include <poll.h>
 #include <signal.h>

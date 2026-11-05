@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Apple Notarization Submission and Polling
+# summary: Manages uploading artifacts to Apple's notary service via notarytool, polling for results, and fetching notarization logs.
+# ---
+
 """
 The notarization module manages uploading artifacts for notarization, polling
 for results, and stapling Apple Notary notarization tickets.

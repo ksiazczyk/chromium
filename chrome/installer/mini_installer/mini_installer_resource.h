@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer resource identifiers
+// summary: Defines resource IDs used by the mini installer resource script, including the identifier of the previous version resource for differential updates.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_MINI_INSTALLER_RESOURCE_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_MINI_INSTALLER_RESOURCE_H_
 

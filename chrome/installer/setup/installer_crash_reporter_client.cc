@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporter client implementation
+// summary: Implements the installer's crash reporter client, supplying product and version details, crash dump locations, stats consent, and policy enforcement checks.
+// ---
+
 #include "chrome/installer/setup/installer_crash_reporter_client.h"
 
 #include "base/environment.h"

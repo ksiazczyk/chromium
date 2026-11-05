@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Windows setup installer
+summary: Defines the setup executable, static library, and related build targets for Chrome's Windows installer.

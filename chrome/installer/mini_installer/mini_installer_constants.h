@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer constants declarations
+// summary: Declares shared constants for filenames, resource types, registry values and registry key paths used by the mini installer.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_MINI_INSTALLER_CONSTANTS_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_MINI_INSTALLER_CONSTANTS_H_
 

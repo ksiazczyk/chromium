@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe string helper declarations
+// summary: Declares bounded string functions and the fixed-capacity StackString class that manages stack buffers with safe termination for the mini installer.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_MINI_STRING_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_MINI_STRING_H_
 

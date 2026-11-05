@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PE resource loader implementation
+// summary: Implements ResourceLoader, which loads a PE file as a data file and retrieves the address and size of named or typed resources.
+// ---
+
 #include "chrome/installer/test/resource_loader.h"
 
 #include <windows.h>

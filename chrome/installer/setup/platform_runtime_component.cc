@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Platform Runtime component implementation
+// summary: Implements the Chrome Platform Runtime inner component, validating its manifest name and resolving its CRX-ID destination directory.
+// ---
+
 #include "chrome/installer/setup/platform_runtime_component.h"
 
 #include <memory>

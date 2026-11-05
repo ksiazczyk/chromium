@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryRange byte range struct
+// summary: Defines a small struct representing a range of bytes in the process address space with an emptiness check.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_MEMORY_RANGE_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_MEMORY_RANGE_H_
 

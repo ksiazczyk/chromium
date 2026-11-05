@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for taskbar pinning utilities
+// summary: Verifies that the installer's Chrome taskbar pinning state is set and retrieved correctly using an overridden registry.
+// ---
+
 #include "chrome/installer/util/taskbar_util.h"
 
 #include "base/test/test_reg_util_win.h"

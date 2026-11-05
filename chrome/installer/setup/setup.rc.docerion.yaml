@@ -1,0 +1,4 @@
+# Docerion header of setup.rc.
+type: source
+title: Windows resource script for setup.exe
+summary: Resource script bundling the setup icon, EULA assets, and localized OEM EULA HTML pages for the Windows installer.

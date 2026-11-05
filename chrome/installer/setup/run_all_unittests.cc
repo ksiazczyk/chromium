@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for installer setup
+// summary: Main routine that launches the installer setup unit tests, handling thread priority adjustment and Chrome path registration.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"

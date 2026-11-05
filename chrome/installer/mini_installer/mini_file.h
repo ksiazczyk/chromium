@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniFile class declaration
+// summary: Declares MiniFile, an abstraction over a file path and Windows handle with move semantics and delete-on-close support.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_MINI_FILE_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_MINI_FILE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WOF compression implementation
+// summary: Compresses installed locale packs with Windows Overlay Filter LZX compression, resolving wofutil.dll entry points dynamically.
+// ---
+
 #include "chrome/installer/setup/wof_compression.h"
 
 #include <windows.h>

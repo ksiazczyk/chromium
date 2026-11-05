@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WOF compression header
+// summary: Declares helpers to detect WOF-compressed files and queue best-effort work items that LZX-compress locale packs after Windows setup.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_WOF_COMPRESSION_H_
 #define CHROME_INSTALLER_SETUP_WOF_COMPRESSION_H_
 

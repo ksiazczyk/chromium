@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup singleton implementation
+// summary: Implements exclusive access to a Chrome installation using global mutexes and exit events keyed by the target path.
+// ---
+
 #include "chrome/installer/setup/setup_singleton.h"
 
 #include <functional>

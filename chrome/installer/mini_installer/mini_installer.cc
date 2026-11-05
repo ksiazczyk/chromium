@@ -19,6 +19,12 @@
 //   OptimizeForWindows98="1" linker: /OPT:NOWIN98
 //   linker: /SAFESEH:NO
 
+// ---docerion
+// type: source
+// title: Mini installer core logic
+// summary: Core mini_installer.exe logic that unpacks resources, runs setup.exe with appropriate flags and reports install results to the registry.
+// ---
+
 #include "chrome/installer/mini_installer/mini_installer.h"
 
 #include <windows.h>

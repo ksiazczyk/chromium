@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configuration unit tests
+// summary: Unit tests for the Configuration class covering command-line switches, app GUIDs, and registry behavior.
+// ---
+
 #include "chrome/installer/mini_installer/configuration.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome installer main entry point
+// summary: Implements the setup.exe entry point, dispatching install, uninstall, and key rotation operations for Chrome on Windows.
+// ---
+
 #include "chrome/installer/setup/setup_main.h"
 
 // clang-format off

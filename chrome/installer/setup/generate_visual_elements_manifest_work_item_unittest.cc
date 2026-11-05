@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisualElements manifest work item unit tests
+// summary: Parameterized tests verifying generation of VisualElementsManifest.xml across Chrome install modes and brand logo variants.
+// ---
+
 #include "chrome/installer/setup/generate_visual_elements_manifest_work_item.h"
 
 #include <memory>

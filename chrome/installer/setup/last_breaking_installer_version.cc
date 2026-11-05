@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last breaking installer version constant
+// summary: Defines kLastBreakingInstallerVersion and documents installer breaking changes relevant to downgrade support across recent milestones.
+// ---
+
 #include "chrome/installer/setup/last_breaking_installer_version.h"
 
 namespace installer {

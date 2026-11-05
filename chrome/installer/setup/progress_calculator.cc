@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress calculator for installer stages
+// summary: Computes a 0-100 progress value for install operations based on the current installer stage, assuming stages take equal time.
+// ---
+
 #include "chrome/installer/setup/progress_calculator.h"
 
 #include <math.h>

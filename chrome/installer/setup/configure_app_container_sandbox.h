@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContainer sandbox configuration for the installer
+// summary: Declares helpers that return the capability SIDs for Chrome's AppContainer sandboxes and add AppContainer ACEs to installation paths.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_CONFIGURE_APP_CONTAINER_SANDBOX_H_
 #define CHROME_INSTALLER_SETUP_CONFIGURE_APP_CONTAINER_SANDBOX_H_
 

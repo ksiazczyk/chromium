@@ -1,0 +1,4 @@
+# Docerion header of keystone_install_test.sh.
+type: test
+title: Shell test for the Keystone install script
+summary: Exercises keystone_install.sh with a fake ksadmin and a temporary disk image to verify both success and expected-failure paths of the macOS update script.

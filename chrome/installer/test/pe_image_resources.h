@@ -5,6 +5,12 @@
 // This file contains the interface for an iterator over a portable executable
 // file's resources.
 
+// ---docerion
+// type: source
+// title: PE image resource iterator interface
+// summary: Declares EntryId, EntryPath and the EnumResources function for iterating over a PE image's resource directory.
+// ---
+
 #ifndef CHROME_INSTALLER_TEST_PE_IMAGE_RESOURCES_H_
 #define CHROME_INSTALLER_TEST_PE_IMAGE_RESOURCES_H_
 

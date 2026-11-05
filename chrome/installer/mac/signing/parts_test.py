@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for Signable Bundle Parts
+# summary: Unit tests verifying the set of parts returned for various configs, including channel customization, static Angle, and branding variants.
+# ---
+
 import asyncio
 import unittest
 from unittest import mock

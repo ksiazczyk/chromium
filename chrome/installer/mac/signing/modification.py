@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Application Bundle Modification for Signing
+# summary: Modifies Info.plist files, entitlements, and bundle components to support Keystone keys and side-by-side channel installs before signing.
+# ---
+
 """
 The modification module handles making changes to files in the application
 bundle. At minimum, the Info.plists are modified to support Keystone and the

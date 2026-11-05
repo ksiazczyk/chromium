@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Signing Model Objects
+# summary: Contains data classes for the signing process, including code-signed products, distributions, and keychain identity hash lookup.
+# ---
+
 """Signing Model Objects
 
 This module contains classes that encapsulate data about the signing process.

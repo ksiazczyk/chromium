@@ -6,6 +6,12 @@
 // reside in brand-specific files that are only compiled when their respective
 // branding is in use at build time.
 
+// ---docerion
+// type: source
+// title: Brand-specific installer behavior declarations
+// summary: Declares functions implementing brand-specific install and post-uninstall behavior, defined in per-brand compilation units.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_BRAND_BEHAVIORS_H_
 #define CHROME_INSTALLER_SETUP_BRAND_BEHAVIORS_H_
 

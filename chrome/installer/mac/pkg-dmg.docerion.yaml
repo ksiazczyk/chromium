@@ -1,0 +1,4 @@
+# Docerion header of pkg-dmg.
+type: script
+title: pkg-dmg macOS disk image packager
+summary: Perl tool that packages a source folder into a macOS disk image with configurable format, volume name, and extra content.

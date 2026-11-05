@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathString type alias
+// summary: Defines PathString as a stack string sized to hold a Windows file path within the MAX_PATH limit.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_PATH_STRING_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_PATH_STRING_H_
 

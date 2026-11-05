@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Previous version mini installer generator
+# summary: Python helper that runs alternate_version_generator to produce a lower-version mini_installer for upgrade testing.
+# ---
+
 """Generates a mini_installer with a lower version than an existing one."""
 
 import argparse

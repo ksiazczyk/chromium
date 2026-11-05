@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProgressCalculator
+// summary: Verifies that calculated progress values increase monotonically and stay within 0-100 across all installer stages.
+// ---
+
 #include "chrome/installer/setup/progress_calculator.h"
 
 #include "chrome/installer/util/util_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Setup singleton unit tests
+// summary: Multiprocess unit tests verifying exclusive access and interrupt signaling behavior of the setup singleton.
+// ---
+
 #include "chrome/installer/setup/setup_singleton.h"
 
 #include <windows.h>

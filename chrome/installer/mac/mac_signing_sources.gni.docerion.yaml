@@ -1,0 +1,4 @@
+# Docerion header of mac_signing_sources.gni.
+type: config
+title: Mac signing sources list for GN
+summary: GN variable listing the Python modules that make up the Chrome macOS code signing pipeline, adding an internal invoker for branded builds.

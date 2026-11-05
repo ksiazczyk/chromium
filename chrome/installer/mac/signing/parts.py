@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Signable Parts of the Chrome App Bundle
+# summary: Defines the CodeSignedProduct objects for the app, framework, helpers, and libraries that need signing, with their options and entitlements.
+# ---
+
 """
 The parts module defines the various binary pieces of the Chrome application
 bundle that need to be signed, as well as providing utilities to sign them.

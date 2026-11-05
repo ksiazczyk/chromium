@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for unit tests
+summary: Allows unit test files in this directory to additionally include headers from chrome/install_static.

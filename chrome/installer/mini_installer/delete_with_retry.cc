@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File and directory deletion with retries
+// summary: Deletes files or directories, retrying transient Windows errors such as sharing violations and clearing the read-only attribute when needed.
+// ---
+
 #include "chrome/installer/mini_installer/delete_with_retry.h"
 
 #include <windows.h>

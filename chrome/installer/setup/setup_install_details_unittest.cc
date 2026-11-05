@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Setup install details unit tests
+// summary: Unit tests verifying how install mode, system level, and channel are derived from command lines and uninstall arguments.
+// ---
+
 #include "chrome/installer/setup/setup_install_details.h"
 
 #include <windows.h>

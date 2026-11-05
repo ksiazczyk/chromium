@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressCalculator class declaration
+// summary: Declares a helper class that maps installer stage checkpoints to 0-100 progress values.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_PROGRESS_CALCULATOR_H_
 #define CHROME_INSTALLER_SETUP_PROGRESS_CALCULATOR_H_
 

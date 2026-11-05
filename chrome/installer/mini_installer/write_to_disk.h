@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WriteToDisk helper header for the mini installer
+// summary: Declares the mini_installer WriteToDisk function that writes a memory range to a given path and preserves the Windows last-error code on failure.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_WRITE_TO_DISK_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_WRITE_TO_DISK_H_
 

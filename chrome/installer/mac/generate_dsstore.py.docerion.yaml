@@ -1,0 +1,4 @@
+# Docerion header of generate_dsstore.py.
+type: script
+title: Generate .DS_Store files for macOS DMGs
+summary: Generates deterministic .DS_Store files with a background image alias and positioned icons for macOS DMG installers, running on both Linux and macOS.

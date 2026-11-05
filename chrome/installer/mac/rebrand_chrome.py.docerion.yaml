@@ -1,0 +1,4 @@
+# Docerion header of rebrand_chrome.py.
+type: script
+title: Rebrand Chromium DMGs with Omaha tags
+summary: Command-line tool that applies brand codes to a Chromium DMG using hfs and dmg tools, writing branded images to an output directory.

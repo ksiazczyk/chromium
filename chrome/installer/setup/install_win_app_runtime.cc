@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows App Runtime installation
+// summary: Installs the Windows App Runtime package for WebNN via the Microsoft Store during Chrome setup, recording result metrics.
+// ---
+
 #include "chrome/installer/setup/install_win_app_runtime.h"
 
 #include <windows.h>

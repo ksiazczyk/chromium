@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSCF file decompression for the mini installer
+// summary: Implements Expand() to decompress Microsoft MSCF-compressed files via the FDI library, writing the single extracted file to the destination path.
+// ---
+
 #include "chrome/installer/mini_installer/decompress.h"
 
 #include <windows.h>

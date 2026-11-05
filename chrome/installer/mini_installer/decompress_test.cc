@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for mini installer decompression
+// summary: Unit test that expands a compressed SETUP.EX_ test fixture into a temp directory and verifies the result is a valid executable.
+// ---
+
 #include "chrome/installer/mini_installer/decompress.h"
 
 #include <windows.h>

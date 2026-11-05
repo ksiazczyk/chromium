@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContainer sandbox configuration for install files
+// summary: Grants Chrome install files capability SIDs read and execute access so AppContainer sandboxes can use them.
+// ---
+
 #include "chrome/installer/setup/configure_app_container_sandbox.h"
 
 #include <windows.h>

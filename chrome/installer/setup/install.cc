@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome install and update implementation
+// summary: Implements installing or updating Chrome on Windows, including shortcut creation, logging, and post-install tasks.
+// ---
+
 #include "chrome/installer/setup/install.h"
 
 #include <windows.h>

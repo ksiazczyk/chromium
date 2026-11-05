@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Retry deletion interface
+// summary: Declares DeleteWithRetry, which deletes a path with retries for up to ten seconds, plus a test hook for the retry sleep.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_DELETE_WITH_RETRY_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_DELETE_WITH_RETRY_H_
 

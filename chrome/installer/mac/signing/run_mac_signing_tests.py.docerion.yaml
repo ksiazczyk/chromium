@@ -1,0 +1,4 @@
+# Docerion header of run_mac_signing_tests.py.
+type: script
+title: Runner for macOS signing tests
+summary: Launches all *_test.py modules in the signing directory using the typ test runner.

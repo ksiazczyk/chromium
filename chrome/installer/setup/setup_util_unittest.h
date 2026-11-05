@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test harness helpers for thread priority adjustment
+// summary: Declares the command-line switch, exit codes, and helper that let the setup utility tests verify thread priority adjustment behavior instead of running all tests.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_UTIL_UNITTEST_H_
 #define CHROME_INSTALLER_SETUP_SETUP_UTIL_UNITTEST_H_
 

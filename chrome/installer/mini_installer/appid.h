@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App GUID declarations for the mini_installer
+// summary: Declares Google Update app GUID constants used by the mini_installer for each Chrome channel.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_APPID_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_APPID_H_
 

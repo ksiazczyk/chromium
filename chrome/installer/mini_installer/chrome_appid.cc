@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app GUID definitions
+// summary: Defines the Google Update app GUID values for Chrome stable, beta, dev, and canary under Google branding.
+// ---
+
 #include "chrome/installer/mini_installer/appid.h"
 
 #include "build/branding_buildflags.h"

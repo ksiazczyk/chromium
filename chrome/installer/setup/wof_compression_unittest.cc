@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WOF compression unit tests
+// summary: Tests WOF locale pack compression decisions, ImageState gating, and histogram reporting using registry overrides and temp files.
+// ---
+
 #include "chrome/installer/setup/wof_compression.h"
 
 #include <windows.h>

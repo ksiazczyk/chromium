@@ -5,6 +5,12 @@
 // Contains functions for determining the installer's InstallDetails at runtime.
 // See chrome/install_static/install_details.h for more information.
 
+// ---docerion
+// type: source
+// title: Setup install details header
+// summary: Declares functions that create and initialize the installer's global InstallDetails for the process.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_INSTALL_DETAILS_H_
 #define CHROME_INSTALLER_SETUP_SETUP_INSTALL_DETAILS_H_
 

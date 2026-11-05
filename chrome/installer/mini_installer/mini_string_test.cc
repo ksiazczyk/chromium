@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StackString unit tests
+// summary: Tests the StackString class capacity, append behavior at the overflow limit, and clearing semantics.
+// ---
+
 #include "chrome/installer/mini_installer/mini_string.h"
 
 #include <windows.h>

@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: OEM EULA dialog stylesheet
+summary: Styles the layout, header, and accept or cancel controls of the Chrome installer OEM end-user license agreement dialog.
+*/
+
 html {
   overflow:auto;
 }

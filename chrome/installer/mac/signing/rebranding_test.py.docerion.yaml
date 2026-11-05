@@ -1,0 +1,4 @@
+# Docerion header of rebranding_test.py.
+type: test
+title: Tests for the rebranding module
+summary: Integration tests that create example DMGs and verify branded outputs for multiple brand codes.

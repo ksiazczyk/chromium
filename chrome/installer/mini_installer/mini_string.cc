@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe string helper implementations
+// summary: Implements bounded string operations such as hex encoding, copy, concatenate, prefix and suffix checks, and path basename extraction for the mini installer.
+// ---
+
 #include "chrome/installer/mini_installer/mini_string.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformRuntimeComponent unit tests
+// summary: Unit tests for PlatformRuntimeComponent covering manifest validation, destination root determination, and ACL inheritance for the destination directory.
+// ---
+
 #include "chrome/installer/setup/platform_runtime_component.h"
 
 #include <windows.h>

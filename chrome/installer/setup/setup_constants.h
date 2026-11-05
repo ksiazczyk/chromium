@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used by Chrome installer.
 
+// ---docerion
+// type: source
+// title: Installer constants and switches declarations
+// summary: Declares the constants and command-line switches used by the Chrome installer, including archive names and downgrade cleanup options.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_CONSTANTS_H_
 #define CHROME_INSTALLER_SETUP_SETUP_CONSTANTS_H_
 

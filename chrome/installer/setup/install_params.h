@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallParams struct
+// summary: Defines the InstallParams struct bundling source paths, temp directory, versions, and estimated size for install operations.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALL_PARAMS_H_
 #define CHROME_INSTALLER_SETUP_INSTALL_PARAMS_H_
 

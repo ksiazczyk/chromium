@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the setup installer
+summary: Restricts which headers the installer setup code and its unit tests are allowed to include.

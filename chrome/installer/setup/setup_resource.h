@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup resource identifiers
+// summary: Visual C++ generated include file defining resource IDs, such as the setup icon, for the setup.rc resource script.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_RESOURCE_H_
 #define CHROME_INSTALLER_SETUP_SETUP_RESOURCE_H_
 

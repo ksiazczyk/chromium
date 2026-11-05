@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Standard invoker combining signing and notarization
+# summary: Implements the invoker interface by composing the signing and notarization invokers and their arguments.
+# ---
+
 from signing import invoker, notarize, signing
 
 

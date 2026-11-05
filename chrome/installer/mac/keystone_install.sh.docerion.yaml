@@ -1,0 +1,4 @@
+# Docerion header of keystone_install.sh.
+type: script
+title: Keystone update installation script for Chrome on macOS
+summary: Applies Chrome updates from a disk image on behalf of Keystone, performing sanity checks, rsync copying, and ksadmin registration, with documented exit codes and test hooks.

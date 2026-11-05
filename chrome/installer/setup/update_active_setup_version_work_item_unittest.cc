@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateActiveSetupVersionWorkItem unit tests
+// summary: Parametrized tests verifying Active Setup version updates, selective trigger bumps, and rollback using a registry override.
+// ---
+
 #include "chrome/installer/setup/update_active_setup_version_work_item.h"
 
 #include <windows.h>

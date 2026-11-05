@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Driver Tests for the macOS Signing Tool
+# summary: Unit tests for the signing driver covering the main execution flow, output directory creation, and command-line argument validation.
+# ---
+
 import unittest
 from unittest import mock
 

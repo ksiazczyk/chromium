@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the mini_installer directory
+# summary: Extends the repository-wide Ruff linter configuration and sets a four-space indent width.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

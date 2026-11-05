@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User hive visitor implementation
+// summary: Loads and visits each local user profile's registry hive, mounting hive files under HKLM with a random subkey name.
+// ---
+
 #include "chrome/installer/setup/user_hive_visitor.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade cleanup implementation
+// summary: Implements cleanup and revert of stale data after a Chrome downgrade crossing a breaking installer version, launching the older installer with a cleanup command.
+// ---
+
 #include "chrome/installer/setup/downgrade_cleanup.h"
 
 #include <optional>

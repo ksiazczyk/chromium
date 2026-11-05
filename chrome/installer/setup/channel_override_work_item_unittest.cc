@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChannelOverrideWorkItem
+// summary: Verifies the channel override work item's do and rollback behavior across channels and architectures using a registry override.
+// ---
+
 #include "chrome/installer/setup/channel_override_work_item.h"
 
 #include <memory>

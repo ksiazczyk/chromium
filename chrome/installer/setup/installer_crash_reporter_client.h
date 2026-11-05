@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporter client interface
+// summary: Declares the InstallerCrashReporterClient class that overrides CrashReporterClient methods for the Chrome installer.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALLER_CRASH_REPORTER_CLIENT_H_
 #define CHROME_INSTALLER_SETUP_INSTALLER_CRASH_REPORTER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Out-of-memory handling tests for the installer allocator
+// summary: Verifies that the allocator shim lets base::UncheckedMalloc handle out-of-memory conditions as setup.exe expects at startup.
+// ---
+
 #include "base/process/memory.h"
 
 #include <stddef.h>

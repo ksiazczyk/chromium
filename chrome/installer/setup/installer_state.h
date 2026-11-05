@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer state class declaration
+// summary: Declares the InstallerState class that encapsulates the current installation operation's level, target path, MSI status, and version handling.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALLER_STATE_H_
 #define CHROME_INSTALLER_SETUP_INSTALLER_STATE_H_
 

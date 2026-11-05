@@ -4,6 +4,12 @@
 //
 // This file defines the methods useful for uninstalling Chrome.
 
+// ---docerion
+// type: source
+// title: Chrome uninstallation logic
+// summary: Implements Chrome uninstallation, removing registry keys, shortcuts, and directories, processing uninstall work items, and cleaning up the installation directory.
+// ---
+
 #include "chrome/installer/setup/uninstall.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Platform Runtime component header
+// summary: Declares the PlatformRuntimeComponent class that installs the Chrome Platform Runtime inner component into a CRX-ID-named directory.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_PLATFORM_RUNTIME_COMPONENT_H_
 #define CHROME_INSTALLER_SETUP_PLATFORM_RUNTIME_COMPONENT_H_
 

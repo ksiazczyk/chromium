@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Write to disk helper
+// summary: Writes a memory range to a file in bounded chunks to avoid kernel address-space exhaustion on 32-bit Windows, deleting the file on failure.
+// ---
+
 #include "chrome/installer/mini_installer/write_to_disk.h"
 
 #include <windows.h>

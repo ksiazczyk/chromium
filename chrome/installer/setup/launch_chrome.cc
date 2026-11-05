@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome launch after install implementation
+// summary: Implements helpers to launch Chrome after installation, including a de-elevated launch that waits for exit and reports the exit code.
+// ---
+
 #include "chrome/installer/setup/launch_chrome.h"
 
 #include "base/command_line.h"

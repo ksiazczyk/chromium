@@ -5,6 +5,12 @@
 // This file contains the declarations of the installer functions that build
 // the WorkItemList used to install the application.
 
+// ---docerion
+// type: source
+// title: Installer work item list declarations
+// summary: Declares the installer functions that build the installation work item list, covering uninstall entries, brand code updates, post-install tasks, and helper registrations.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALL_WORKER_H_
 #define CHROME_INSTALLER_SETUP_INSTALL_WORKER_H_
 

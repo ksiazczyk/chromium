@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for installer upgrade test targets
+summary: Defines GN build targets for the alternate version generator tool and the upgrade_test binary that tests mini-installer upgrades on Windows.
