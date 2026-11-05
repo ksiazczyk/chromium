@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent permission dialog view implementation
+// summary: Implements the modal Views dialog that asks a parent to approve an extension by reauthenticating with their Google account credentials.
+// ---
+
 #include "chrome/browser/ui/views/supervised_user/parent_permission_dialog_view.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataRowView class header
+// summary: Declares SiteDataRowView, the row view for a site in the site data dialog, exposing menu and delete buttons to change cookie content settings or remove the site's data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SITE_DATA_SITE_DATA_ROW_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SITE_DATA_SITE_DATA_ROW_VIEW_H_
 

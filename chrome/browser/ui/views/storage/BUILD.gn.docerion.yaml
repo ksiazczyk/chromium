@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for storage pressure bubble views
+summary: GN build file defining source sets for the storage pressure bubble view interface, its implementation, and the browser tests.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for supervised user views
+summary: Points this directory to the shared supervised user metadata mixins used for Chromium directory ownership metadata.

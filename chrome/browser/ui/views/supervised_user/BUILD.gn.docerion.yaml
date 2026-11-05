@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for supervised user dialog views
+summary: Defines GN source sets and dependencies for the supervised user parent permission dialog and its desktop browser tests.

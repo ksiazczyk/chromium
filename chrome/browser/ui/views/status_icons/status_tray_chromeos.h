@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTrayChromeOS header
+// summary: Declares the ChromeOS StatusTray subclass responsible for creating platform status icons with unique icon IDs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_CHROMEOS_H_
 

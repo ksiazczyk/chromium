@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel action item utility header
+// summary: Declares helpers that reference-count side panel action items shared by an extension's global and per-tab side panel entries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_EXTENSIONS_EXTENSION_SIDE_PANEL_ACTION_ITEM_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_EXTENSIONS_EXTENSION_SIDE_PANEL_ACTION_ITEM_UTIL_H_
 

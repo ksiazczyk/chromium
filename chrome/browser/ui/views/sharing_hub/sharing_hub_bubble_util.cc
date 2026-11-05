@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub bubble utility implementation
+// summary: Implements TitleWithBackButtonView, a title row with a back button used by first-party sharing hub dialogs.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/sharing_hub_bubble_util.h"
 
 #include "base/functional/bind.h"

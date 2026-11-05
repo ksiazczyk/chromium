@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing test utilities implementation
+// summary: Implements GetTabSharingButtonOrLabelText, a helper that reads the text of Views buttons and labels used in tab sharing tests.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_test_utils.h"
 
 #include "ui/views/controls/button/md_text_button.h"

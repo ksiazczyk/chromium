@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Comments side panel coordinator interactive UI tests
+// summary: Interactive browser tests verifying the comments side panel coordinator behavior, including shared tab group setup, sign-in simulation, and side panel visibility scenarios.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/comments/comments_side_panel_coordinator.h"
 
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"

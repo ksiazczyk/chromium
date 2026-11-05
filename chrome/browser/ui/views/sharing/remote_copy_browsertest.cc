@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote Copy browser tests
+// summary: Browser tests for the Remote Copy feature that simulate incoming sharing messages and verify clipboard updates and notifications.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for customize_chrome views source set
+summary: Defines the customize_chrome source_set with its sources and dependencies, placed separately to avoid a dependency cycle.

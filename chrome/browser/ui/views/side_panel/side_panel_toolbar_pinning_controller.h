@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel toolbar pinning controller
+// summary: Declares the controller that updates and observes the toolbar pin state for side panel entries in a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_TOOLBAR_PINNING_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_TOOLBAR_PINNING_CONTROLLER_H_
 

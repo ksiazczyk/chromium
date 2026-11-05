@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel toolbar pinning controller implementation
+// summary: Implements the controller that tracks pinned toolbar actions and notifies observers of side panel pin state changes.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_toolbar_pinning_controller.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API base class for shortcut integration tests
+// summary: Declares the test API and fixture template that add create-shortcut interaction steps to Kombucha-based browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHORTCUTS_SHORTCUT_INTEGRATION_INTERACTION_TEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_SHORTCUTS_SHORTCUT_INTEGRATION_INTERACTION_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconWin implementation
+// summary: Implements the Windows status tray icon using Shell_NotifyIcon, handling clicks, context menus, balloon notifications and background icon updates.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_icon_win.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTrayLinux implementation
+// summary: Creates Linux status icons through StatusIconLinuxWrapper and provides the StatusTray::Create factory for Linux.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_tray_linux.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent permission dialog view browser tests
+// summary: Browser tests covering the parent permission dialog view, including dialog results, credential handling, and related metrics.
+// ---
+
 #include "chrome/browser/ui/views/supervised_user/parent_permission_dialog_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel coordinator browser tests
+// summary: Browser tests covering side panel coordinator behavior, including entry showing and toggling, extension side panel APIs, animations, and RTL layouts.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_coordinator.h"
 
 #include <memory>

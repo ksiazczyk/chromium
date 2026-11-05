@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTrayLinux header
+// summary: Declares the Linux StatusTray subclass that creates wrapped platform status icons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_LINUX_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_LINUX_H_
 

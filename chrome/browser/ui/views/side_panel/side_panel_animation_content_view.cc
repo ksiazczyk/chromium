@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel animation content view implementation
+// summary: Implements a layered view container that applies horizontal translation and clip rectangles to side panel content during transition animations.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_animation_content_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

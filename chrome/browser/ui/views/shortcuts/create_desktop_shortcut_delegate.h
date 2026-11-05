@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create desktop shortcut dialog delegate class declaration
+// summary: Declares the dialog delegate class with element identifiers and the helper that appends the profile name to dialog titles when multiple profiles exist.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHORTCUTS_CREATE_DESKTOP_SHORTCUT_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_SHORTCUTS_CREATE_DESKTOP_SHORTCUT_DELEGATE_H_
 

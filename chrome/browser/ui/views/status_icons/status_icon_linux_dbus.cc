@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux DBus status icon implementation
+// summary: Implements the org.kde.StatusNotifierItem DBus protocol so Linux status icons, menus, and pixmaps integrate with system trays.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_icon_linux_dbus.h"
 
 #include <dbus/dbus-shared.h>

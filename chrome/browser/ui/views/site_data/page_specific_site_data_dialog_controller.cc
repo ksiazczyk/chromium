@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data dialog controller implementation
+// summary: Implements the WebContents-scoped controller that creates, shows, focuses, and tracks the site data dialog and records user metrics.
+// ---
+
 #include "chrome/browser/ui/views/site_data/page_specific_site_data_dialog_controller.h"
 
 #include "base/logging.h"

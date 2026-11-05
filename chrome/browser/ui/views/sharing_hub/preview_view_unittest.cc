@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preview view unit tests
+// summary: Unit tests verifying that PreviewView displays the expected title, URL and image for a share attempt.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/preview_view.h"
 
 #include "chrome/browser/share/share_attempt.h"

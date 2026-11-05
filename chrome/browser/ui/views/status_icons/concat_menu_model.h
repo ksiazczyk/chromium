@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcatMenuModel class declaration
+// summary: Declares ConcatMenuModel, which combines two ui::MenuModel instances into one without using submenus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_CONCAT_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_CONCAT_MENU_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Side panel DIR_METADATA
+summary: Maps the directory to the UI>Browser>TopChrome>SidePanel monorail component and Buganizer component 1457398 for issue routing.

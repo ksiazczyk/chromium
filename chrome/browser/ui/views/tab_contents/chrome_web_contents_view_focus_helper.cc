@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebContentsViewFocusHelper implementation
+// summary: Implements focus management for web contents, routing focus to sad tabs and modal dialogs and storing or restoring the last focused view.
+// ---
+
 #include "chrome/browser/ui/views/tab_contents/chrome_web_contents_view_focus_helper.h"
 
 #include "base/memory/ptr_util.h"

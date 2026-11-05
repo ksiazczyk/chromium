@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel view implementation
+// summary: Implements the SidePanel view that hosts side panel content, handling width, alignment, resizing, animations, and rounded border painting.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows status tray state changer implementation
+// summary: Implements StatusTrayStateChangerWin, which uses undocumented Windows Explorer COM APIs to move a status tray icon from the overflow area to the taskbar.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_tray_state_changer_win.h"
 
 #include <objbase.h>

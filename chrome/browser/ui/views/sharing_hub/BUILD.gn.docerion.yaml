@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharing hub views build targets
+summary: Defines GN source sets, dependencies and unit tests for the sharing hub views, with ChromeOS-conditional sources.

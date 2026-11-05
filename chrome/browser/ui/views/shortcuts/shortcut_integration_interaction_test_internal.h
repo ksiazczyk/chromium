@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal header for shortcut integration interaction tests
+// summary: Declares the private helper class that backs the shortcut integration interaction test API, including associating newly created shortcuts with element identifiers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHORTCUTS_SHORTCUT_INTEGRATION_INTERACTION_TEST_INTERNAL_H_
 #define CHROME_BROWSER_UI_VIEWS_SHORTCUTS_SHORTCUT_INTEGRATION_INTERACTION_TEST_INTERNAL_H_
 

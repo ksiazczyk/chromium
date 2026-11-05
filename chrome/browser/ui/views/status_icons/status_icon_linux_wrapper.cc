@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconLinuxWrapper implementation
+// summary: Implements the wrapper that adapts Linux status icon implementations, including the D-Bus variant, to the standard browser StatusIcon interface.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_icon_linux_wrapper.h"
 
 #include <memory>

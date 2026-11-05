@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the create desktop shortcut dialog
+// summary: Browser tests verifying the dialog's display, user action metrics, and destruction behavior on navigation and picture-in-picture interactions.
+// ---
+
 #include <array>
 #include <optional>
 #include <string>

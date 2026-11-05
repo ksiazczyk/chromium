@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing dialog view implementation
+// summary: Implements the sharing bubble dialog that lists target devices and apps, with origin warnings, help text and form factor icons.
+// ---
+
 #include "chrome/browser/ui/views/sharing/sharing_dialog_view.h"
 
 #include <optional>

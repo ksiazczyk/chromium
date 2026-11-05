@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel WebUI view implementation
+// summary: Implements the side panel view hosting WebUI content, handling visibility, load priority, context menus, and keyboard events.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_web_ui_view.h"
 
 #include "base/metrics/user_metrics.h"

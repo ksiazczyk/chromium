@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage pressure bubble view browser tests
+// summary: Browser tests verifying the bubble appears, that accepting it opens the content settings page in a new tab, and that cancelling changes nothing.
+// ---
+
 #include "chrome/browser/ui/views/storage/storage_pressure_bubble_view.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

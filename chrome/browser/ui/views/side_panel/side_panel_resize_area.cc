@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel resize area implementation
+// summary: Implements the SidePanelResizeArea and SidePanelResizeHandle views that let users resize the side panel with mouse or keyboard.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_resize_area.h"
 
 #include "base/functional/bind.h"

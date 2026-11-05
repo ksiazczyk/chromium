@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the tab sharing views UI
+summary: Defines the tab_sharing source set plus test_support, unit_tests, browser_tests and interactive_ui_tests targets with their dependencies.

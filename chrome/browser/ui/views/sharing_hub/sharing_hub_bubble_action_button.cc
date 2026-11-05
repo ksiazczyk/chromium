@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub bubble action button implementation
+// summary: Implements the menu-style button that shows an icon and title for a sharing hub action and notifies the bubble when selected.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/sharing_hub_bubble_action_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

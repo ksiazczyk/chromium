@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel header view implementation
+// summary: Implements the SidePanelHeader view that lays out the panel icon, title, pin, open-in-new-tab, more info and close buttons over the side panel border.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_header.h"
 
 #include <memory>

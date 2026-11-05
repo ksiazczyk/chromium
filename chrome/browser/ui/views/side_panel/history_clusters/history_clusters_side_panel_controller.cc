@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters side panel controller implementation
+// summary: Implements the Journeys side panel controller that forwards ShowJourneysSidePanel requests to the browser's history clusters coordinator.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/history_clusters/history_clusters_side_panel_controller.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page specific site data dialog interactive UI tests
+// summary: Interactive UI tests that drive the dialog with interaction sequences, covering page info integration and installed web app scenarios.
+// ---
+
 #include "chrome/browser/ui/views/site_data/page_specific_site_data_dialog.h"
 
 #include <string>

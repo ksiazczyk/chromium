@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for creating and launching shortcuts
+// summary: Interactive browser tests that create desktop shortcuts via the create-shortcut dialog and verify custom titles, multiple shortcuts, and launching them opens the right page.
+// ---
+
 #include "base/test/bind.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/profiles/profile.h"

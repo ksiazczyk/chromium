@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing views UI header
+// summary: Declares TabSharingUIViews, the views-based tab sharing UI coordinating infobars, tab strip observation, and capture state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_UI_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_UI_VIEWS_H_
 

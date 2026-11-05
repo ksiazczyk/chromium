@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Status icons build configuration
+summary: GN build file defining the status_icons source set with platform-specific sources, dependencies, and unit and interactive UI test targets.

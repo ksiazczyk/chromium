@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows status tray state changer header
+// summary: Declares StatusTrayStateChangerWin, the NOTIFYITEM struct and the INotificationCB callback used to read and change Windows notification area icon state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_STATE_CHANGER_WIN_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_TRAY_STATE_CHANGER_WIN_H_
 

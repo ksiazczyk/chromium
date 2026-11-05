@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Related app row view implementation
+// summary: Implements the dialog row that shows an installed related web app with its icon, name, and a link to the app settings.
+// ---
+
 #include "chrome/browser/ui/views/site_data/related_app_row_view.h"
 
 #include <memory>

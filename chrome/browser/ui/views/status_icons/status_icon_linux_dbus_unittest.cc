@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusIconLinuxDbus unit tests
+// summary: Unit tests for the D-Bus status icon that mock the D-Bus bus, watcher and exported object to verify registration and property handling.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_icon_linux_dbus.h"
 
 #include <map>

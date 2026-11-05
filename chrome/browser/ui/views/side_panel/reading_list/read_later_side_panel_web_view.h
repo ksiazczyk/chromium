@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Later side panel web view header
+// summary: Declares ReadLaterSidePanelWebView, a SidePanelWebUIViewT and TabStripModelObserver subclass that hosts the Reading List WebUI and keeps its active tab URL in sync.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_READING_LIST_READ_LATER_SIDE_PANEL_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_READING_LIST_READ_LATER_SIDE_PANEL_WEB_VIEW_H_
 

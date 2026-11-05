@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage pressure bubble view header
+// summary: Declares StoragePressureBubbleView, a bubble dialog delegate that shows storage pressure information for a given origin.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STORAGE_STORAGE_PRESSURE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_STORAGE_STORAGE_PRESSURE_BUBBLE_VIEW_H_
 

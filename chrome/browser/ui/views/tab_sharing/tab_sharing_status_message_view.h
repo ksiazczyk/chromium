@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing status message view header
+// summary: Declares TabSharingStatusMessageView and its EndpointInfo and MessageInfo helpers used to build the tab sharing infobar status message.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_STATUS_MESSAGE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_STATUS_MESSAGE_VIEW_H_
 

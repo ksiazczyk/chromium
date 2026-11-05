@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing test utilities header
+// summary: Declares GetTabSharingButtonOrLabelText, which extracts text from MdTextButton or Label views for tab sharing UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_TEST_UTILS_H_
 

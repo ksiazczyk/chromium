@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel header controller declaration
+// summary: Declares SidePanelHeaderController, which implements the header delegate and observes toolbar pinning state to update the header buttons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_HEADER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_HEADER_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_web_contents_view_delegate_views_mac.mm.
+type: source
+title: ChromeWebContentsViewDelegateViewsMac implementation
+summary: Implements the Mac web contents view delegate with asynchronous context menu building, tab activation on right click, and Mac bookmark drag handling.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync views directory owners
+summary: Lists code owners for the sync views directory and delegates the inline login browser test to credential provider owners.

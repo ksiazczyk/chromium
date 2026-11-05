@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sync views directory metadata
+summary: Declares the Services>SignIn monorail component, sign-in team email, and Buganizer component for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with common metadata mixin
+summary: Points to the shared COMMON_METADATA file for directory metadata of the customize_chrome folder.

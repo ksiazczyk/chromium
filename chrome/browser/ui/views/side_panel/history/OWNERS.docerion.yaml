@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the history side panel views directory
+summary: Redirects ownership to the history resources OWNERS file so the same reviewers apply to this directory.

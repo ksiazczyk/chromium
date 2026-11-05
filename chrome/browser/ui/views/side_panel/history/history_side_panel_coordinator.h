@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History side panel coordinator class declaration
+// summary: Declares the coordinator class that creates, registers, and shows the history side panel entry with a pre-populated query.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_HISTORY_HISTORY_SIDE_PANEL_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_HISTORY_HISTORY_SIDE_PANEL_COORDINATOR_H_
 

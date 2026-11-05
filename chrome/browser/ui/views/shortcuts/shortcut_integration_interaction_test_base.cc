@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive test steps for the create shortcut flow
+// summary: Implements Kombucha test steps to open, fill, and accept the create shortcut dialog and to instrument and launch created shortcuts.
+// ---
+
 #include "chrome/browser/ui/views/shortcuts/shortcut_integration_interaction_test_base.h"
 
 #include "chrome/browser/platform_util_internal.h"

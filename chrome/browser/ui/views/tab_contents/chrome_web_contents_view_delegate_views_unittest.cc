@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web contents view delegate unit test
+// summary: Unit test verifying that ShowContextMenu does not crash when the web contents has no focused frame, disabled on Mac 11.
+// ---
+
 #include "chrome/browser/ui/views/tab_contents/chrome_web_contents_view_delegate_views.h"
 
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_view_delegate.h"

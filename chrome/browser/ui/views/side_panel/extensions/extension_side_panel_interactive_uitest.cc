@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension side panel interactive UI tests
+// summary: Interactive UI tests verifying extension side panel focus behavior, such as web contents focus when the panel is shown.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

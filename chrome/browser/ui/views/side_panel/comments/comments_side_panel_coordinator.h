@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments side panel coordinator class declaration
+// summary: Declares the CommentsSidePanelCoordinator class, which creates and registers the comments side panel entry and manages the comments toolbar action based on the active tab's group state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_COMMENTS_COMMENTS_SIDE_PANEL_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_COMMENTS_COMMENTS_SIDE_PANEL_COORDINATOR_H_
 

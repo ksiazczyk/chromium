@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcatMenuModel implementation
+// summary: Implements a menu model that presents two underlying menu models as one flat, concatenated item list.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/concat_menu_model.h"
 
 ConcatMenuModel::ConcatMenuModel(ui::MenuModel* m1, ui::MenuModel* m2)

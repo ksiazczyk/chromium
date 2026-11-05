@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web contents view delegate browser test
+// summary: In-process browser test checking that showing a context menu on a split view tab moves focus to that tab, disabled on Mac due to flakiness.
+// ---
+
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_view_delegate.h"
 
 #include "chrome/browser/ui/browser_tabstrip.h"

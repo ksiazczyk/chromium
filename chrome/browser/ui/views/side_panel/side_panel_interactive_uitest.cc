@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel interactive UI tests
+// summary: Interactive browser tests exercising side panel behavior such as opening, pinning, resizing and feature promos.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel.h"
 
 #include <memory>

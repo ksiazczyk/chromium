@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview view implementation
+// summary: Implements the sharing hub preview view that shows a share attempt's icon, title and elided URL using nested flex layouts.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/preview_view.h"
 
 #include "base/strings/utf_string_conversions.h"

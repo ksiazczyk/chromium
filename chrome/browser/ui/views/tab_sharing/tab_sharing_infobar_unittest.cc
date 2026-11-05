@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing infobar unit tests
+// summary: Unit tests verifying the labels, buttons and status message content of the tab sharing infobar under different roles and share types.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_infobar.h"
 
 #include <numeric>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List side panel coordinator implementation
+// summary: Implements ReadingListSidePanelCoordinator, which creates and registers the Reading List SidePanelEntry with the browser's side panel registry.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/reading_list/reading_list_side_panel_coordinator.h"
 
 #include <memory>

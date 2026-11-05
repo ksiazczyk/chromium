@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for desktop shortcut UI
+summary: Defines GN source sets for the desktop shortcut dialog, its implementation, test support, and browser and interactive UI test targets.
