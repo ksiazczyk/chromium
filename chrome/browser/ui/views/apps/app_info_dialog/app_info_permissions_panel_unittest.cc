@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App info permissions panel unit tests
+// summary: Unit tests verifying that no, required, optional, and retained file permissions are detected and converted to messages correctly.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.h"
 
 #include <memory>

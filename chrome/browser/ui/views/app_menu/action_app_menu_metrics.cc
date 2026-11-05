@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenuMetrics implementation
+// summary: Logs WrenchMenu histograms and user actions for menu opens, submenu shows, and item selections with time-to-action timing.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

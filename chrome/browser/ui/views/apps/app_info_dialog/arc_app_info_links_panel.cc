@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app info links panel implementation
+// summary: Implements ArcAppInfoLinksPanel, which shows a manage links link that opens ARC package info and updates its state from ARC app list changes.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/arc_app_info_links_panel.h"
 
 #include <memory>

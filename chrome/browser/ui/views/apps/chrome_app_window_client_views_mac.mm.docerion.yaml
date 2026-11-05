@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_window_client_views_mac.mm.
+type: source
+title: Mac native app window factory for ChromeAppWindowClient
+summary: Implements CreateNativeAppWindowImpl to construct ChromeNativeAppWindowViewsMac app windows on macOS.

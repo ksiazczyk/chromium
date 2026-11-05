@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app window desktop window tree host implementation
+// summary: Implements the desktop window tree host that computes client area and DWM glass frame insets for app windows on Windows.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_window_desktop_window_tree_host_win.h"
 
 #include <windows.h>

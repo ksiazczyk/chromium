@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App block dialog view implementation
+// summary: Implements the dialog shown when an app is blocked, with distinct heading text for child profiles.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_block_dialog_view.h"
 
 #include "base/strings/utf_string_conversions.h"

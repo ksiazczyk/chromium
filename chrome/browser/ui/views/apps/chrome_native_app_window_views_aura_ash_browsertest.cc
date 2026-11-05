@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash native app window browser tests
+// summary: Browser tests covering Ash-specific app window behavior such as immersive fullscreen, tablet mode, split view and window bounds changes.
+// ---
+
 #include "chrome/browser/ui/views/apps/chrome_native_app_window_views_aura_ash.h"
 
 #include <memory>

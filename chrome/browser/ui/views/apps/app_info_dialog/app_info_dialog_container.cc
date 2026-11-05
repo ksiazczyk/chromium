@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog container implementation
+// summary: Implements native dialog containers hosting the app info dialog, including a full-size bubble frame view.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_dialog_container.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app window desktop native widget Aura implementation
+// summary: Implements the Aura native widget for Chrome app windows on Windows, showing the window before maximize or minimize and managing the tree host.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_window_desktop_native_widget_aura_win.h"
 
 #include "chrome/browser/ui/views/apps/app_window_desktop_window_tree_host_win.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self dynamic menu class declaration
+// summary: Declares SendTabToSelfDynamicMenu, which creates the Send Tab to Self submenu in the app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_SEND_TAB_TO_SELF_DYNAMIC_MENU_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_SEND_TAB_TO_SELF_DYNAMIC_MENU_H_
 

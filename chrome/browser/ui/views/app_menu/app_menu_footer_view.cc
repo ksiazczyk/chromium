@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuFooterView implementation
+// summary: Implements the app menu footer view that arranges left, right and bottom containers holding Settings, Help, Exit and managed-row buttons.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_footer_view.h"
 
 #include <memory>

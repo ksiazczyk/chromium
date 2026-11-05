@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app window frame view implementation
+// summary: Implements the Windows frame view for app windows, computing frame insets, client area bounds, preferred size and non-client hit tests.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_window_frame_view_win.h"
 
 #include <windows.h>

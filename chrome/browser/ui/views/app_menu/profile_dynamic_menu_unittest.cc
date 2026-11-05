@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile dynamic menu unit tests
+// summary: Unit tests verifying that the profile dynamic menu builds its sync section correctly for guest, incognito, standard, and signed-in profiles.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/profile_dynamic_menu.h"
 
 #include <memory>

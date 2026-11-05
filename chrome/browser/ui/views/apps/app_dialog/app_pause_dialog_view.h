@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App pause dialog view header
+// summary: Declares AppPauseDialogView, a dialog that pauses an app and notifies App Service via callback when the user confirms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_PAUSE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_APP_DIALOG_APP_PAUSE_DIALOG_VIEW_H_
 

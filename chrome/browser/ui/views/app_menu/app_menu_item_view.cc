@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu item view implementation
+// summary: Implements AppMenuItemView, the custom menu item view for the action-based app menu, applying icon, text and shortcut overrides.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_item_view.h"
 
 #include <optional>

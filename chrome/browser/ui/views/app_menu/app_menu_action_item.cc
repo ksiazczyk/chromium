@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuActionItem implementation
+// summary: Defines UI class properties and factory helpers for app menu action items, covering display types, colors, icons, text overrides, and item heights.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_action_item.h"
 
 #include <memory>

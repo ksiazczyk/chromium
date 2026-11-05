@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile dynamic menu implementation
+// summary: Implements the dynamic profile menu sections in the app menu, showing sync sign-in state and entries for switching to other profiles.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/profile_dynamic_menu.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenuMetrics header
+// summary: Declares ActionAppMenuMetrics, which records UMA histograms and user actions for the action app menu, including menu open timing and per-item menu actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_METRICS_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_METRICS_H_
 

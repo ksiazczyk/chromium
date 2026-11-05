@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app window frame view class declaration
+// summary: Declares a views::FrameView subclass providing frame and client area insets, bounds conversion and hit testing for Windows app windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APPS_APP_WINDOW_FRAME_VIEW_WIN_H_
 #define CHROME_BROWSER_UI_VIEWS_APPS_APP_WINDOW_FRAME_VIEW_WIN_H_
 

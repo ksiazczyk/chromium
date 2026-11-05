@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuFooterButton implementation
+// summary: Implements the footer-style menu item button with icon, label, submenu arrow, ink drop and accessibility support for the action app menu.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_footer_button.h"
 
 #include <memory>

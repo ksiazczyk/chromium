@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuFooterView header
+// summary: Declares AppMenuFooterView, the view containing footer elements such as Settings, Help and Exit buttons plus an optional managed row for the action app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_FOOTER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_FOOTER_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info footer panel implementation
+// summary: Implements the dialog footer panel with buttons to create shortcuts, pin to the shelf and uninstall the app.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_footer_panel.h"
 
 #include "base/functional/callback_helpers.h"

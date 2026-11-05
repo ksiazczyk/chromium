@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native app window views implementation
+// summary: Implements Windows-specific app window behavior such as AppUserModelID assignment, relaunch details, caption style fixes and translucent window handling.
+// ---
+
 #include "chrome/browser/ui/views/apps/chrome_native_app_window_views_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog header panel implementation
+// summary: Implements the header panel of the Chrome app info dialog, showing the app icon, name, and a Web Store link.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_header_panel.h"
 
 #include "base/functional/bind.h"

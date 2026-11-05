@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog views implementation
+// summary: Implements the AppInfoDialog view stacking summary, permissions and optional ARC link panels in a scrollable dialog.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_dialog_views.h"
 
 #include <memory>

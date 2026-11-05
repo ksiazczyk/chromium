@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu search controller unit tests
+// summary: Unit tests for AppMenuSearchController covering search index initialization, hierarchy flattening and filtering, and delegate interactions with a mock delegate.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_search_controller.h"
 
 #include <memory>

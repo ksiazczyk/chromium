@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionAppMenu browser tests
+// summary: In-process browser tests for the action app menu, including bookmark drag-and-drop and menu interaction scenarios.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App info dialog unit tests
+// summary: Unit tests for the app info dialog views, covering pin and unpin focus behavior and ChromeOS shelf integration.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_dialog_views.h"
 
 #include <memory>

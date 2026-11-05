@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window easy resize window targeter implementation
+// summary: Implements edge resize hit testing that falls back to normal hit testing for maximized and fullscreen windows so web contents receive events.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_window_easy_resize_window_targeter.h"
 
 #include "ui/aura/window.h"

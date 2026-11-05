@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenuManager class declaration
+// summary: Declares the manager that constructs and tears down the ActionItem hierarchy and dynamic submenus for the app menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_MANAGER_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_ACTION_APP_MENU_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App menu GN build definition
+summary: Defines the app_menu and impl source sets with their public headers and dependencies for the Chrome app menu views.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the app window views directory
+summary: Sets directory-wide include rules and per-file exceptions allowing Ash, app restore and ARC app mojom headers in specific files.

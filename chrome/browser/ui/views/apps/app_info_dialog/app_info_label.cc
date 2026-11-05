@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App info dialog label implementation
+// summary: Implements AppInfoLabel, a views::Label styled for the app info dialog with accessible focus behavior and focus ring.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_info_dialog/app_info_label.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionAppMenu implementation
+// summary: Implements the coordinator that runs the action-based app menu, handling commands, drag-and-drop, and search results.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuFooterButton unit tests
+// summary: Unit tests for the footer button covering pill-style, row-style and submenu-opening variants, their colors and ink drop behavior.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_footer_button.h"
 
 #include <memory>

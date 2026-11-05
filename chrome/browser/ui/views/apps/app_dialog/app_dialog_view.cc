@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App dialog view base implementation
+// summary: Implements the shared app dialog base with title and subtitle labels, layout, and accessibility support.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_dialog_view.h"
 
 #include <memory>

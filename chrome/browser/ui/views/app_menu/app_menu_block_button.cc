@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBlockButton implementation
+// summary: Implements the block-style menu item button with icon, label, ink drop highlighting, and accessibility support for the app menu.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_block_button.h"
 
 #include <memory>

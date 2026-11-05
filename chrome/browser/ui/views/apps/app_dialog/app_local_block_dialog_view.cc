@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App local block dialog view implementation
+// summary: Implements the dialog for apps blocked by local settings, aggregating multiple blocked apps and logging UMA metrics.
+// ---
+
 #include "chrome/browser/ui/views/apps/app_dialog/app_local_block_dialog_view.h"
 
 #include <algorithm>

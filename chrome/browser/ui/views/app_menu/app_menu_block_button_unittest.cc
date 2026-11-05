@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuBlockButton unit tests
+// summary: Unit tests for AppMenuBlockButton verifying label and icon colors when disabled and enabled, ink drop mode, and related styling.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/app_menu_block_button.h"
 
 #include <cstdlib>

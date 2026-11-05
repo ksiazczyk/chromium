@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuDragAndDropDelegate header
+// summary: Declares the delegate interface for handling drag-and-drop of action items within the action app menu, together with its host interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_DRAG_AND_DROP_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_APP_MENU_APP_MENU_DRAG_AND_DROP_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionAppMenuTestBase implementation
+// summary: Implements shared test fixtures for action app menu tests, setting up testing profiles, sync and tab group services, tab strip models, and mock window interfaces.
+// ---
+
 #include "chrome/browser/ui/views/app_menu/action_app_menu_test_base.h"
 
 #include <memory>
