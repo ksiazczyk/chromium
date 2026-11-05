@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator selection dialog view implementation
+// summary: Android implementation of the card unmask authenticator selection dialog, building challenge options and showing them via JNI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/authenticator_selection_dialog_view_android.h"
 
 #include <jni.h>

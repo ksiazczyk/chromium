@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP verification dialog view
+// summary: Custom relative layout showing the OTP input dialog with hint, error message, resend link, and progress overlay animations.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.chromium.chrome.browser.ui.autofill.OtpVerificationDialogProperties.ANIMATION_DURATION_MS;

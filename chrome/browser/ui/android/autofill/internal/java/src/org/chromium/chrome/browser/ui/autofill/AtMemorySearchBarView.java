@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory search bar view
+// summary: Reusable search bar view for AtMemory components handling query text changes, submission, focus events, clear button and loading spinner.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

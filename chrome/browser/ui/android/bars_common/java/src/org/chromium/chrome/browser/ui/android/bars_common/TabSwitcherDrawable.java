@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drawable for the tab switcher icon
+// summary: Tinted drawable that renders the tab switcher icon with a tab count label, notification dot, and observer support across different toolbar locations.
+// ---
+
 package org.chromium.chrome.browser.ui.android.bars_common;
 
 import android.content.Context;

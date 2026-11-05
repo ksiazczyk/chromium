@@ -1,3 +1,11 @@
+---
+type: guide
+title: Adopting Compose per Java View class
+summary: Guide to adopting Compose by wrapping Compose widgets in Java View classes that replicate existing widget APIs, demonstrated with a MaterialSwitchWithText replacement.
+relations:
+  - documents /chrome/browser/ui/android/bricks/internal/java/src/org/chromium/chrome/browser/bricks/switches/ComposeMaterialSwitchWithText.kt
+---
+
 # Adopting Compose per Java View class
 
 A quicker way to adopt Compose that can also benefit us in the short term is to create individual Compose components that replicate the Java APIs of the equivalent widgets. The goal is to limit Kotlin/Compose usage to a single class per widget.

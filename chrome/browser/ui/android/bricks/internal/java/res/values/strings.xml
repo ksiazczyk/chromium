@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Bricks Java page string resources
+summary: Defines non-translatable Android string resources for the Bricks Java native page, covering section headers, switch state labels, and summary texts for Java views and Compose variants.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <!-- go/keep-sorted start -->
     <string name="bricks_compose_switch_summary" translatable="false">Summary description text rendered in Compose View</string>

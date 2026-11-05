@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory home view
+// summary: Home screen view of the AtMemory bottom sheet combining a search bar with a RecyclerView that registers suggestion, illustration card, notice, link and title item types.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingManagerFactory
+// summary: Factory that creates AppRatingManager instances via service loading, falling back to a no-op implementation for non-branded builds and supporting test overrides.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import android.app.Activity;

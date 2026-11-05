@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomBarConfigUtils
+// summary: Robolectric unit tests verifying bottom bar eligibility, user preference defaults and settings toggle behavior across phones, tablets, foldables and automotive devices.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

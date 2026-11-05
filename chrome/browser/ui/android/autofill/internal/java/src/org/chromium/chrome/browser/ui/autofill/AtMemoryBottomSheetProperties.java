@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetProperties
+// summary: Property keys, screen and item type definitions describing the visible state of the AtMemory bottom sheet for MVC list binding.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import androidx.annotation.IntDef;

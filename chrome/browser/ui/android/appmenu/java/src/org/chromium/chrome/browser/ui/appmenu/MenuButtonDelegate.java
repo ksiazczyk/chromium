@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonDelegate interface
+// summary: Interface for a delegate that supplies the view of the button used to trigger and anchor the app menu.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.view.View;

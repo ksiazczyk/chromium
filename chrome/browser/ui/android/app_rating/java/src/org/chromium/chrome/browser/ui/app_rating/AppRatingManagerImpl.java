@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingManagerImpl using the Play In-App Review API
+// summary: Implements AppRatingManager with the Google Play Store In-App Review API, launching the review flow and recording status and interaction duration metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import android.app.Activity;

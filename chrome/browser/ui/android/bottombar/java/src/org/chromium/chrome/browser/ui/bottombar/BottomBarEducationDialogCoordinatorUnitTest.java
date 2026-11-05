@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomBarEducationDialogCoordinator
+// summary: Robolectric unit tests verifying when the opt-in education dialog is shown or suppressed, for example in incognito or when education is disabled.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

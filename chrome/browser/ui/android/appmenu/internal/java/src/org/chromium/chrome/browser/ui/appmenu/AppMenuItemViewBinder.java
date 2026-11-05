@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu item view binder
+// summary: Binds app menu item property models to their views, covering standard items, icon rows and dividers.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.annotation.SuppressLint;

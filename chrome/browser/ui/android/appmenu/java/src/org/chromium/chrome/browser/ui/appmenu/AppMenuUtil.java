@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuUtil helper class
+// summary: Helper class providing an AppMenuKeyProvider that maps hierarchical menu keys to the app menu item property keys.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarButtonContainer
+// summary: FrameLayout container for bottom bar buttons that delegates action properties to a child or inflated ViewStub and applies tint, background, and padding to the target view.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

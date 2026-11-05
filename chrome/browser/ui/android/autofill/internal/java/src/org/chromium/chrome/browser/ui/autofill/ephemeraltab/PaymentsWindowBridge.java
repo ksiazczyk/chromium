@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaymentsWindowBridge: JNI bridge for the ephemeral tab bottom sheet'
+// summary: JNI bridge that forwards ephemeral tab open, close, navigation and WebContents events between native payments code and the Java PaymentsWindowCoordinator.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill.ephemeraltab;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory bottom sheet view binder
+// summary: Static binder that maps property model changes for the bottom sheet, home view and item views onto the corresponding AtMemory view updates.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.chromium.chrome.browser.ui.autofill.AtMemoryBottomSheetProperties.CURRENT_SCREEN;

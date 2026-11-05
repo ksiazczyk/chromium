@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Layout for each item in the menu popup -->
+
+<!--docerion
+type: source
+title: Menu item layout
+summary: Android layout for a standard app menu item with text, optional end icon and keyboard shortcut views.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/OverflowMenuItem"
     android:layout_width="match_parent"

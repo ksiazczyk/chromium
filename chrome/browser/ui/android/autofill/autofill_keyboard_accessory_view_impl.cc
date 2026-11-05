@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill keyboard accessory view implementation for Android
+// summary: Implements the Android autofill keyboard accessory view, filtering eligible suggestion types and bridging suggestions, icons, and actions to the Java accessory UI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_keyboard_accessory_view_impl.h"
 
 #include <string>

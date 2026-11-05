@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarPromoDialogCoordinatorUnitTest
+// summary: Robolectric unit tests for the promo dialog coordinator, covering show eligibility, dismissal, histogram logging, and listener callbacks.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

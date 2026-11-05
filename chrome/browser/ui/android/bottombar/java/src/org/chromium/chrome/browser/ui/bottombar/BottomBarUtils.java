@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarUtils
+// summary: Utility methods for the bottom bar providing background colors, bar height and padding calculations, and icon color state lists.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

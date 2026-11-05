@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressBar composable for the bricks progress UI
+// summary: Jetpack Compose composable that renders a progress bar track, fill and status text from ProgressUiState.
+// ---
+
 package org.chromium.chrome.browser.bricks.progress
 
 import androidx.compose.foundation.background

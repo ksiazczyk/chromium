@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory bottom sheet text with clickable link view
+// summary: Android view that displays text containing a clickable link span, used for items such as the AI disclosure in the AtMemory bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetMediator
+// summary: Business logic for the AtMemory bottom sheet, managing property models, screen state, user prefs, feature flags, metrics and settings navigation.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.chromium.chrome.browser.ui.autofill.AtMemoryBottomSheetProperties.CURRENT_SCREEN;

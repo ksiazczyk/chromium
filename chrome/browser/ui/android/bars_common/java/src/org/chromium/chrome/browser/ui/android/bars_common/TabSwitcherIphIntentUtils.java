@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPH intent factory for the tab switcher button
+// summary: Utility that builds IphIntent instances for tab switcher bubbles such as tab group updates, declutter, versioning, and incognito switching prompts.
+// ---
+
 package org.chromium.chrome.browser.ui.android.bars_common;
 
 import org.chromium.build.annotations.NullMarked;

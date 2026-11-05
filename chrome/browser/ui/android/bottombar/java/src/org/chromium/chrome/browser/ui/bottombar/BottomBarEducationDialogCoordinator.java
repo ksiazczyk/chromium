@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar opt-in education dialog coordinator
+// summary: Shows the opt-in modal education dialog when the user is eligible, handling feature engagement checks, incognito exclusion, configuration changes and dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.ComponentCallbacks;

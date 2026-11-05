@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: App menu resource IDs
+summary: Declares Android resource IDs used as custom tags for app menu item animations and empty menu items.
+-->
+
 <resources>
     <!-- App menu item custom tags -->
     <item type="id" name="menu_item_enter_anim_id" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarHostManager
+// summary: Manages which host (tabbed app bar or Hub toolbar) owns the Android bottom bar view, handling registration, ownership transfer, and promo dialog display.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.view.View;

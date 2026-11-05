@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory bottom sheet view render tests
+// summary: Parameterized render tests capturing the AtMemory bottom sheet view in day and night modes across home, flyout and suggestion states.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.mockito.Mockito.when;

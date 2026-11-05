@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarButtonContainerUnitTest
+// summary: Unit tests verifying target view resolution, ViewStub inflation, background application, and icon tint handling including override protection for the button container.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

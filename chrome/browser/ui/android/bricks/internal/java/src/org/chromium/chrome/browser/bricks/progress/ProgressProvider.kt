@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressProvider interface for progress updates
+// summary: Interface defining an observer-based contract for adding and removing observers and triggering progress updates.
+// ---
+
 package org.chromium.chrome.browser.bricks.progress
 
 /** Interface for providing progress updates. */

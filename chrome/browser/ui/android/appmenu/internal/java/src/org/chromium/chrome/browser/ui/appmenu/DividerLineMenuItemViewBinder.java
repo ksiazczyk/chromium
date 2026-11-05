@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Divider line menu item view binder
+// summary: View binder that binds divider line menu items in the app menu and provides their pixel height for menu sizing.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.content.Context;

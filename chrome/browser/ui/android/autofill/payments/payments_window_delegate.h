@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsWindowDelegate interface
+// summary: Declares the pure virtual delegate interface that handles ephemeral tab UI events such as web contents destruction, BNPL navigation completion, and denied tab opening.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_DELEGATE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_DELEGATE_H_
 

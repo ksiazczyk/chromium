@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarButtonManager
+// summary: Manages the collection of bottom bar action buttons, handling their registration, property binding, visibility updates, and listener notifications across button positions.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.util.SparseArray;

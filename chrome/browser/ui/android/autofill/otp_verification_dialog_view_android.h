@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP verification dialog view Android header
+// summary: Declares the Android OTP verification dialog view that shows OTP input, forwards user actions to its controller, and deletes itself on dismissal.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_OTP_VERIFICATION_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_OTP_VERIFICATION_DIALOG_VIEW_ANDROID_H_
 

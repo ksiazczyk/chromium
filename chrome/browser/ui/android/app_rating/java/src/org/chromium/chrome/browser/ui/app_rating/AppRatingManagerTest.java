@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingManagerTest
+// summary: Robolectric unit tests for AppRatingManager that use a FakeReviewManager to verify the review flow invokes the completion callback on success.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarActionEligibility
+// summary: Resolves and caches which extra action, such as GLIC, is eligible for the bottom bar based on profile and feature flags, and records GLIC ineligibility reasons for metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import org.chromium.base.ResettersForTesting;

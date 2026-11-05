@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetContent
+// summary: BottomSheetContent implementation that supplies the AtMemory sheet view, wrap-content height ratios, back-press handling and background color override.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.view.View;

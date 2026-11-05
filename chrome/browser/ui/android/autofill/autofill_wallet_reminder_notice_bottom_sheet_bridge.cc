@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice bottom sheet JNI bridge implementation
+// summary: C++ side of the JNI bridge that shows the Wallet Reminder Notice bottom sheet with legal message lines on Android.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_wallet_reminder_notice_bottom_sheet_bridge.h"
 
 #include "base/android/jni_android.h"

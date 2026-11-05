@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarHostManagerUnitTest
+// summary: Robolectric unit tests verifying registration, ownership transfer, reset behavior, and assertion guards of BottomBarHostManager.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertNull;

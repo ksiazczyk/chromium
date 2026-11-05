@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BricksPage
+// summary: Native page for displaying Bricks (Compose playground) that creates a coordinator via an on-demand module and manages its view and lifecycle.
+// ---
+
 package org.chromium.chrome.browser.bricks;
 
 import org.chromium.build.annotations.NullMarked;

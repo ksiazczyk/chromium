@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar education IPH coordinator
+// summary: Coordinates the bottom bar education IPH flow, showing tooltips and a scrim-highlighted bubble that introduce the bottom bar buttons to the user.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.annotation.SuppressLint;

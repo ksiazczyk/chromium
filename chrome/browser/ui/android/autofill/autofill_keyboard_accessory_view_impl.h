@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill keyboard accessory view Android implementation header
+// summary: Declares the Android keyboard accessory view that shows autofill suggestions above the keyboard and bridges JNI callbacks such as suggestion acceptance and deletion to its controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_KEYBOARD_ACCESSORY_VIEW_IMPL_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_KEYBOARD_ACCESSORY_VIEW_IMPL_H_
 

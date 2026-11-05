@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBar
+// summary: Interface representing the bottom bar, exposing its view and background color, host changes, promo dialog display, and startup promo flow notifications.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.view.View;

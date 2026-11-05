@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarView custom view for the bottom bar
+// summary: Custom LinearLayout view that hosts the bottom bar buttons and manages touch consumption, ripples, padding and color scheme styling.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

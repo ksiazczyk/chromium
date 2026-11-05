@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling view Android header
+// summary: Declares the Android implementation of ManualFillingViewInterface, the native side of the Java password accessory view owned by its controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_MANUAL_FILLING_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_MANUAL_FILLING_VIEW_ANDROID_H_
 

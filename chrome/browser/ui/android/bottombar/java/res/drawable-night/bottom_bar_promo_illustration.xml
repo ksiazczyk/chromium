@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Bottom bar promo illustration (night mode)
+summary: Night-mode vector drawable for the bottom bar promo illustration, drawn with gradients and theme colors.
+-->
+
 <!--
 VectorRaster is ignored because: The image should be shown rarely enough to prioritize binary
 size over inflation time.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android autofill UI
+summary: Delegates directory ownership review to the autofill OWNERS file in the Java source tree.

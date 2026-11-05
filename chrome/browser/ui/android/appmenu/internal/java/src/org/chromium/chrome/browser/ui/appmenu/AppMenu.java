@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenu popup implementation for the Android app menu
+// summary: Shows a popup of menu items anchored to a host view, handling sizing, animations, key events and visibility notifications.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.animation.Animator;

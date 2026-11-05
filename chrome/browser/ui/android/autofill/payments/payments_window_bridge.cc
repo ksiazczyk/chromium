@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsWindowBridge JNI implementation
+// summary: Implements the C++ side of the PaymentsWindowBridge JNI bridge, opening and closing the ephemeral payments tab and forwarding navigation, web contents, and user-denial events to the delegate.
+// ---
+
 #include "chrome/browser/ui/android/autofill/payments/payments_window_bridge.h"
 
 #include <string>

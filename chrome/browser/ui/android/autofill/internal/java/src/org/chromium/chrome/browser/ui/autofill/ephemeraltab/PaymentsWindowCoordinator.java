@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaymentsWindowCoordinator: coordinator for opening the ephemeral tab'
+// summary: Coordinator that opens the ephemeral tab bottom sheet for BNPL payment windows and reports navigation, destruction and denial events back to native code.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill.ephemeraltab;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

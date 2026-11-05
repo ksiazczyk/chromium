@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Bottom bar dimension resources
+summary: Defines Android dimension values for the bottom bar, including button sizing, new tab background shape, and education bubble layout metrics used by the bottom bar coordinators.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="bottom_bar_new_tab_background_radius">12dp</dimen>
     <dimen name="bottom_bar_new_tab_background_size">40dp</dimen>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bottom bar Android UI build configuration
+summary: Defines Android resource and library build targets for the Chrome bottom bar UI component.

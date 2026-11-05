@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom bar generic button layout template
+summary: Generic ImageView template for bottom bar toolbar buttons, where padding defines the bounds of the IPH highlight rectangle.
+-->
+
  <!-- Padding is used to define the bounds of the IPH highlight rectangle
       shape (using boundsRespectPadding). -->
 <ImageView

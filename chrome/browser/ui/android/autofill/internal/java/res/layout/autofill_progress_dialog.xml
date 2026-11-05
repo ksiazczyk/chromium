@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill progress dialog layout
+summary: Android layout for an autofill progress dialog with an indeterminate progress bar, confirmation icon and centered message.
+-->
+
 <LinearLayout
     android:layout_width="wrap_content"
     android:layout_height="match_parent"

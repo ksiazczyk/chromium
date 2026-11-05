@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillErrorDialogBridge unit tests
+// summary: Unit tests verifying error dialog display, dismissal callbacks on button clicks, and title and icon views.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static com.google.common.truth.Truth.assertThat;

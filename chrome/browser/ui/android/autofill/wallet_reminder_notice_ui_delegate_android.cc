@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android wallet reminder notice UI delegate
+// summary: Android implementation of the wallet reminder notice UI delegate that shows the wallet reminder notice bottom sheet via a JNI bridge.
+// ---
+
 #include "chrome/browser/ui/android/autofill/wallet_reminder_notice_ui_delegate_android.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app menu properties delegate
+// summary: Test double implementing AppMenuPropertiesDelegate that builds sample menu items, icon rows and callbacks for app menu tests.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.content.Context;

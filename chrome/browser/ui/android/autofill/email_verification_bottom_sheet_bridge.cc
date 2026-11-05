@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet bridge implementation
+// summary: Native C++ bridge that shows the email verification bottom sheet on Android and forwards user accept and dismiss decisions to callbacks.
+// ---
+
 #include "chrome/browser/ui/android/autofill/email_verification_bottom_sheet_bridge.h"
 
 #include <cstdint>

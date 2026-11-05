@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI view for the Autofill AI save/update entity prompt
+// summary: Implements the Android view for the Autofill AI save/update entity prompt, creating and showing the Java dialog with entity details, buttons, and legal notices via JNI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_ai_save_update_entity_prompt_view_android.h"
 
 #include <memory>

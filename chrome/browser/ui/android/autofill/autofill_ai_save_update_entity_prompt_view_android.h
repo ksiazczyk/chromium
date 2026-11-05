@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android Autofill AI save/update entity prompt view
+// summary: Declares the JNI wrapper class that shows the Java Autofill AI save/update entity prompt and forwards controller content such as titles, buttons, and notices to it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_VIEW_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App menu test support build target
+summary: GN build file defining the test_support_java Android library with app menu test support sources and dependencies.

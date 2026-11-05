@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: App menu item dimension values
+summary: Defines a dimension resource that pairs with the AppMenuItemText style to control shortcut padding in the Android app menu.
+-->
+
 <resources>
     <!-- Paired with @style/AppMenuItemText (9dp paddingEnd) for a 16dp gap. -->
     <dimen name="menu_item_shortcut_with_text_end_padding_start">7dp</dimen>

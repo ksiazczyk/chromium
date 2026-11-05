@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuSubmenuHeaderItemProperties property keys
+// summary: Defines property keys for app menu submenu header items, extending the base item keys with an icon row visibility flag.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import static org.chromium.chrome.browser.ui.appmenu.AppMenuItemProperties.ENABLED;

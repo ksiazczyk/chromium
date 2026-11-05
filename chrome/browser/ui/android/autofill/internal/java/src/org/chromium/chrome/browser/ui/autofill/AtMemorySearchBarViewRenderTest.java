@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemorySearchBarView render tests
+// summary: Render tests for the AtMemory search bar view, covering normal and loading states in day and night modes.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.app.Activity;

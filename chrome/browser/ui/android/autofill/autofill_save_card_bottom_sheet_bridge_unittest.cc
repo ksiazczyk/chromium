@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save card bottom sheet bridge unit tests
+// summary: Unit tests for the save card bottom sheet bridge verifying prompt-shown metrics for both local and upload card save flows.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_card_bottom_sheet_bridge.h"
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuActionButtonBinder
+// summary: Binds App Menu action button properties, such as update badge visibility and state, to the bottom bar menu button view, delegating icon properties to the inner image button.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.view.View;

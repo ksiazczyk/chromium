@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android save update address profile prompt view
+// summary: Android JNI implementation that shows the save or update address profile prompt dialog and populates it with details from the controller.
+// ---
+
 #include "chrome/browser/ui/android/autofill/save_update_address_profile_prompt_view_android.h"
 
 #include <memory>

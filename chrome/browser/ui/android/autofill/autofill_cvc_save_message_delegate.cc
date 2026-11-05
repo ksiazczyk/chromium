@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CVC save message delegate implementation
+// summary: Shows the CVC save prompt as a message UI when a CVC is entered for an existing server card and forwards user accept, cancel, and dismiss decisions to the save card delegate.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_cvc_save_message_delegate.h"
 
 #include "chrome/browser/android/android_theme_resources.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java implementation of BricksCoordinator for the bricks demo page
+// summary: Java implementation of the Bricks coordinator that inflates an XML layout pairing native View material switches with embedded Compose switch variants sharing identical Java APIs.
+// ---
+
 package org.chromium.chrome.browser.bricks;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeMaterialSwitchWithTitleAndSummary
+// summary: Compose-based switch view showing a title and summary, offering a Java View API with listener support.
+// ---
+
 package org.chromium.chrome.browser.bricks.switches
 
 import android.content.Context

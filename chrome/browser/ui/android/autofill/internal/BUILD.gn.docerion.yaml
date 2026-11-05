@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android autofill UI Java library
+summary: GN build definition for the internal Android autofill UI library, listing Java sources such as bottom sheet, OTP verification, and authenticator selection dialogs along with their dependencies.

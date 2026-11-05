@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: App menu dimension values
+summary: Defines Android dimension resources (dp values) for the app menu UI, covering fade distance, scrolling velocity, chips, icon badges, text padding, dividers, margins and header sizes.
+-->
+
 <resources>
     <!-- The amount to fade the edges of the menu to indicate more content is available
          via scrolling. -->

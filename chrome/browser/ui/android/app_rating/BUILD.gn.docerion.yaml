@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the app_rating Android library
+summary: Defines GN targets for the Chrome Android app rating feature, including the Play review AAR prebuilt, main and implementation libraries, and Robolectric tests.

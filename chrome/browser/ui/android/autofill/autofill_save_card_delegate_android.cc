@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android save card delegate implementation
+// summary: Implements the Android save card delegate that launches the device lock UI to gather additional consent before running the save card callback.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_card_delegate_android.h"
 
 #include <variant>

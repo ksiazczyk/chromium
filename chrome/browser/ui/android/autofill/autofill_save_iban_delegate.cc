@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save IBAN delegate implementation
+// summary: Implements save IBAN UI callbacks, running the device lock setup flow before accepting or declining the save offer.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_iban_delegate.h"
 
 #include <string>

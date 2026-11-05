@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill snackbar view class declaration
+// summary: Declares the Android implementation of AutofillSnackbarView, including Show and Dismiss methods and JNI callbacks for action clicks and dismissal.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_SNACKBAR_AUTOFILL_SNACKBAR_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_SNACKBAR_AUTOFILL_SNACKBAR_VIEW_ANDROID_H_
 

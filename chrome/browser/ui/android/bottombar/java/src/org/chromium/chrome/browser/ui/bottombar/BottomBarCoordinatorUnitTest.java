@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomBarCoordinator
+// summary: Robolectric unit tests covering bottom bar coordinator behavior, including action buttons, visibility, metrics, Glic integration and education interactions.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

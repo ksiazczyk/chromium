@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill progress dialog bridge unit tests
+// summary: Robolectric unit tests verifying that the autofill progress dialog shows, dismisses, and notifies native code on dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeMaterialSwitchWithText
+// summary: Compose-based switch view with a text label that exposes a traditional Java View API for use from Java code.
+// ---
+
 package org.chromium.chrome.browser.bricks.switches
 
 import android.content.Context

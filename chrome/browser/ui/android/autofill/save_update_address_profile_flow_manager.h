@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save update address profile flow manager header
+// summary: Declares the manager that orchestrates the Android save and update address profile flow, owning the confirmation message and prompt controllers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_FLOW_MANAGER_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_FLOW_MANAGER_H_
 

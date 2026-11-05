@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture-safe ripple drawable for bottom bar buttons
+// summary: Custom RippleDrawable that centers fixed-size content and skips drawing on non-hardware-accelerated canvases so pressed states are not baked into screenshots.
+// ---
+
 package org.chromium.chrome.browser.ui.android.bars_common;
 
 import android.content.res.ColorStateList;
