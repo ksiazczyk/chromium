@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Galleries Read Access API Test
+// summary: Runs chrome.test cases verifying read access via chrome.mediaGalleries.getMediaFileSystems, including directory listing, file byte reading, and file system metadata checks.
+// ---
+
 const mediaGalleries = chrome.mediaGalleries;
 let expectedGalleryEntryLength;
 

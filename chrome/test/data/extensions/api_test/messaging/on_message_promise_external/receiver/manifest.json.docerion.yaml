@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Receiver test extension manifest
+summary: Manifest V3 manifest defining the Receiver test extension and its background service worker for the onMessageExternal promise API test.

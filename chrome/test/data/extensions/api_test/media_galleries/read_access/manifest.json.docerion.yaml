@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Media Galleries Read Access Test Manifest
+summary: Chrome app manifest for the media galleries read access API test, declaring the mediaGalleries read permission and the test background scripts.

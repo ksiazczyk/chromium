@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Native messaging test extension manifest
+summary: Manifest for the native messaging test extension, declaring the nativeMessaging permission and a test.js service worker background.

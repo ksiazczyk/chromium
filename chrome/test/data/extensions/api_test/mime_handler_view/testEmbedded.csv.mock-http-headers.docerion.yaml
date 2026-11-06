@@ -1,0 +1,4 @@
+# Docerion header of testEmbedded.csv.mock-http-headers.
+type: test
+title: Embedded MIME handler view test mock HTTP headers
+summary: Mock HTTP response headers that serve the embedded-view CSV as text/csv for the MimeHandlerView API test.

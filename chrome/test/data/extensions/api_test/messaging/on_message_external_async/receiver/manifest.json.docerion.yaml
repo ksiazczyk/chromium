@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Receiver test extension manifest
+summary: Manifest for the 'Receiver Async' test extension, declaring a Manifest V3 background service worker used by the external messaging API test.

@@ -1,0 +1,4 @@
+# Docerion header of text.txt.
+type: test
+title: Native bindings text fixture
+summary: Plain text fixture containing the word Text, used as data for the native bindings extension API tests.

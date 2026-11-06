@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test logic for content script connect and sendMessage
+// summary: Test that verifies onConnect, port messages, disconnect events, and tab sendMessage replies when a content script connects without a background page.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   const succeed1 = chrome.test.callbackAdded();
   const succeed2 = chrome.test.callbackAdded();

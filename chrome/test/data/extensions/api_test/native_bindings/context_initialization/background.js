@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context initialization test background script
+// summary: Background script for the native bindings context initialization API test, verifying that API initialization from a child frame runs in the parent frame's context.
+// ---
+
 const i = document.createElement('iframe');
 i.src = chrome.runtime.getURL('iframe.html');
 document.body.appendChild(i);

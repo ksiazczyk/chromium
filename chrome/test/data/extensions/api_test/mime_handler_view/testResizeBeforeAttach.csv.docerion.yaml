@@ -1,0 +1,4 @@
+# Docerion header of testResizeBeforeAttach.csv.
+type: test
+title: Resize before attach test CSV fixture
+summary: CSV fixture with filler text used by the resize-before-attach MimeHandlerView test.

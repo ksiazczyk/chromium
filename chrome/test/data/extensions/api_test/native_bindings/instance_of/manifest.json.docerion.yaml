@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the instanceof test app
+summary: Chrome app manifest that registers background.js and requests the fileSystem permission for the instanceof API test.

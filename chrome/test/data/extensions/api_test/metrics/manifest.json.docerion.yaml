@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.metrics test extension manifest
+summary: Manifest for the chrome.metrics test extension that grants metricsPrivate permission and runs test.js as a service worker for browser tests.

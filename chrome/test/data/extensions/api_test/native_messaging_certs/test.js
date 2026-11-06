@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging Android certificate pinning tests
+// summary: Runs browser tests checking that native messaging on Android succeeds only when a pinned certificate matches the host app's certificate.
+// ---
+
 chrome.test.getConfig(async function(config) {
   const APP_NAME = 'org.chromium.chrome.tests.support';
   const EXPECTED_ERROR = `Unable to connect to ${APP_NAME}.`;

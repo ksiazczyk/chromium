@@ -5,6 +5,12 @@
 // The expectations in this test for the Chrome OS implementation. See
 // networking_private_chromeos_apitest.cc for more info.
 
+// ---docerion
+// type: test
+// title: chrome.networkingPrivate API tests for Chrome OS
+// summary: JavaScript test suite exercising chrome.networkingPrivate methods and events such as network state changes, list changes, and captive portal detection against Chrome OS stub networks.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 const callbackFail = chrome.test.callbackFail;
 const assertTrue = chrome.test.assertTrue;

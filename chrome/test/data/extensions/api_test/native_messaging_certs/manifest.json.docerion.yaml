@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Native messaging certs test extension manifest
+summary: Manifest for the native messaging certs test extension, declaring a service worker, nativeMessaging permission and a fixed extension key.

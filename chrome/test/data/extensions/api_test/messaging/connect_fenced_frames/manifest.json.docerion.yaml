@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for connect from fenced frames
+summary: Manifest for the test extension that runs the connect-from-content-script tests, with tabs and webNavigation permissions and test.js as background script.

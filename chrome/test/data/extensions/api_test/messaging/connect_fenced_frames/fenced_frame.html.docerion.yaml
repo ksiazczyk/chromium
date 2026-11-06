@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.
+type: test
+title: Fenced frame test page
+summary: Minimal page that is served as a fenced frame via its mock HTTP headers for the messaging connect tests.

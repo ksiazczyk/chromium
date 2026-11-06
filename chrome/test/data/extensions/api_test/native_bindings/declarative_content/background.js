@@ -6,6 +6,12 @@
 // in the host. Send messages after registration of the rule is complete and
 // when the page action is clicked.
 
+// ---docerion
+// type: test
+// title: Declarative content API test background script
+// summary: Background script for the declarative content native bindings test that registers a page action rule and checks type construction validation.
+// ---
+
 const RULE_ID = 'rule1';
 
 const imageData = new ImageData(19, 19);

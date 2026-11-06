@@ -1,0 +1,4 @@
+# Docerion header of testPostMessageUMA.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for testPostMessageUMA.csv
+summary: Mock HTTP response headers that serve testPostMessageUMA.csv as text/csv for the postMessage UMA test.

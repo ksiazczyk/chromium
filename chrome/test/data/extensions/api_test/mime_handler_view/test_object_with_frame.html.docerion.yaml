@@ -1,0 +1,4 @@
+# Docerion header of test_object_with_frame.html.
+type: test
+title: Object element cross-origin navigation race tests
+summary: Drives an object element through cross-origin navigations and text/csv loads to verify MimeHandlerView creation under navigation race conditions.

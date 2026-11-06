@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test extension page loading the test module
+summary: HTML page of the test extension that loads page.js as a module script.

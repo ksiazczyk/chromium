@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test for developer mode debugger API access
+// summary: Service worker asserting chrome.debugger is usable in developer mode and throws an error otherwise.
+// ---
+
 chrome.test.getConfig(function(config) {
   const inDeveloperMode = config.customArg === 'in_developer_mode';
 

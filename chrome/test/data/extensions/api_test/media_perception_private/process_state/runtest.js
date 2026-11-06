@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for setComponentProcessState
+// summary: Runs chrome.test cases verifying setComponentProcessState behavior for STARTED and STOPPED states, service errors when the component is not installed, and invalid status values.
+// ---
+
 function setComponentProcessStateStartedWithNoInstalledComponent() {
   chrome.mediaPerceptionPrivate.setComponentProcessState(
       {

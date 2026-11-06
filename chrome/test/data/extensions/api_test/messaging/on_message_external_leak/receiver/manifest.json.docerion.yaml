@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the receiver message channel leak test extension
+summary: Manifest version 3 manifest for the receiver test extension, registering background.js as its service worker for the onMessageExternal leak test.

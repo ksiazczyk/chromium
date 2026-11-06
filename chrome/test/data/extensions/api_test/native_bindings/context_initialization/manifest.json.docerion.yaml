@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Context initialization test extension manifest
+summary: Manifest for the test extension, granting storage and contextMenus permissions and allowing unsafe-eval so the test can run.

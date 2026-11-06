@@ -1,0 +1,4 @@
+# Docerion header of helper.html.
+type: test
+title: Helper page signaling readiness for MIME handler isolation tests
+summary: Signals test readiness for iframe-process tests by setting document.title to helper-loaded.

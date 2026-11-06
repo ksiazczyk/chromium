@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries access attached test script
+// summary: Runs browser tests that call getMediaFileSystems and assert the expected number of attached galleries and the presence of a gallery with the configured test name.
+// ---
+
 const mediaGalleries = chrome.mediaGalleries;
 
 let galleries;

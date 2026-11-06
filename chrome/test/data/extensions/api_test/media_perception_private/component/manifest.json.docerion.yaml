@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the mediaPerceptionPrivate setAnalyticsComponent test app
+summary: Extension manifest that defines the kiosk-enabled test app used to exercise the mediaPerceptionPrivate setAnalyticsComponent API.

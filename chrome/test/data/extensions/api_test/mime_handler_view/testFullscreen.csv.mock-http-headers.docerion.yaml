@@ -1,0 +1,4 @@
+# Docerion header of testFullscreen.csv.mock-http-headers.
+type: test
+title: Fullscreen MIME handler view test mock HTTP headers
+summary: Mock HTTP response headers that serve the fullscreen CSV as text/csv for the MimeHandlerView API test.

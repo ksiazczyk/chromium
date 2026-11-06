@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Background-only messaging test manifest
+summary: Manifest for the background-only messaging extension API test, defining a manifest version 2 extension that runs test.js as a background script.

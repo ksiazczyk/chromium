@@ -1,0 +1,4 @@
+# Docerion header of testTargetBlankAnchor.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for testTargetBlankAnchor.csv
+summary: Mock HTTP response headers that serve testTargetBlankAnchor.csv as text/csv.

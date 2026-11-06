@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for unauthorized native messaging rejection on Android
+// summary: Browser test that expects sendNativeMessage to reject with an unauthorized-access error when the extension attempts to message the Chromium test support app.
+// ---
+
 chrome.test.runTests([
   async function testUnauthorizedExtension() {
     const APP_NAME = 'org.chromium.chrome.tests.support';

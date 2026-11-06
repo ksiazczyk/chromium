@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the mediaPerceptionPrivate getDiagnostics test extension
+summary: Manifest for a kiosk-enabled test app that exercises the mediaPerceptionPrivate API's getDiagnostics function and runs runtest.js in the background.

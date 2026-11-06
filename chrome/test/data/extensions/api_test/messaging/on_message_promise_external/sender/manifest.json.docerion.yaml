@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sender test extension manifest
+summary: Manifest for the sender test extension used in the onMessage promise external messaging API test, registering test.js as the background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of test.txt.
+type: test
+title: Non-image test fixture
+summary: Plain text fixture containing a non-image file used as test data for media galleries API tests.

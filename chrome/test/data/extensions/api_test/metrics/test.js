@@ -5,6 +5,12 @@
 // metrics api test
 // browser_tests.exe --gtest_filter=ExtensionApiTest.Metrics
 
+// ---docerion
+// type: test
+// title: chrome.metricsPrivate API browser test
+// summary: Browser test that exercises chrome.metricsPrivate recording functions such as user actions, histograms, enumeration, sparse values, times and counts, matching checks in metrics_apitest.cc.
+// ---
+
 // Any changes to the logging done in these functions should be matched
 // with the checks done in IN_PROC_BROWSER_TEST_F(ExtensionApiTest, Metrics).
 // See metrics_apitest.cc.

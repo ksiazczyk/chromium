@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web request API test background script
+// summary: Background script for the webRequest extension API test that checks invalid listener calls and redirects requests from simple.html to simple2.html.
+// ---
+
 // Check invalid call: 'asyncBlocking' is not allowed for onBeforeRequest.
 let caught = false;
 try {

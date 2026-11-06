@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page test script for native bindings
+// summary: Runs end-to-end tests of native extension bindings, covering API availability, events, messaging and script injection.
+// ---
+
 if (!chrome || !chrome.test) {
   throw new Error('chrome.test is undefined');
 }

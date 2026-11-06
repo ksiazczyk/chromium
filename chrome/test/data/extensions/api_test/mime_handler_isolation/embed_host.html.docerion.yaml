@@ -1,0 +1,4 @@
+# Docerion header of embed_host.html.
+type: test
+title: Embed host page for MIME handler isolation test
+summary: Host page that embeds a test PDF in an iframe to exercise MIME handler embedding behavior.

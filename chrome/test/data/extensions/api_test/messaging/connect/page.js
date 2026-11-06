@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script for complex connect tests
+// summary: Content script implementing complex connect scenarios such as postMessage, disconnect, frame messaging, port names, and back/forward cache port salvage.
+// ---
+
 // For complex connect tests.
 chrome.runtime.onConnect.addListener(function onConnect(port) {
   console.info('connected');

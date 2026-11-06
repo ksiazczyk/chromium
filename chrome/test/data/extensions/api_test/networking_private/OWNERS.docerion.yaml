@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for networking_private API tests
+summary: Delegates review ownership to the OWNERS file of the browser-side networking_private extension API implementation.

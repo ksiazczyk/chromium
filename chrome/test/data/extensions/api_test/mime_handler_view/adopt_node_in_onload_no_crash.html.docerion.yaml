@@ -1,0 +1,4 @@
+# Docerion header of adopt_node_in_onload_no_crash.html.
+type: test
+title: Adopt node in onload no crash test page
+summary: Test page that adopts a node inside an object onload handler to verify MIME handler view does not crash.

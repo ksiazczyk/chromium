@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the media galleries no-access test extension
+summary: Chrome extension manifest that sets up the chrome.mediaGalleries.no_access test app with allAutoDetected mediaGalleries permission.

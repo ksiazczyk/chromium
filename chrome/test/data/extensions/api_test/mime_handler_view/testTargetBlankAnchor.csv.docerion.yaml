@@ -1,0 +1,4 @@
+# Docerion header of testTargetBlankAnchor.csv.
+type: test
+title: Target blank anchor test CSV fixture
+summary: CSV fixture opened from a target=_blank anchor in the target blank anchor MimeHandlerView test.

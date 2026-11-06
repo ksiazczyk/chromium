@@ -1,0 +1,4 @@
+# Docerion header of viewer.html.
+type: test
+title: Viewer page for the MIME Handler Isolation Test extension
+summary: Empty handler page registered in the manifest as the PDF viewer for the isolation test extension.

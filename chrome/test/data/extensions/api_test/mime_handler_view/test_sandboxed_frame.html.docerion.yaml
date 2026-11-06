@@ -1,0 +1,4 @@
+# Docerion header of test_sandboxed_frame.html.
+type: test
+title: Sandboxed iframe test page
+summary: Embeds CSV and HTML content in sandboxed and non-sandboxed iframes to test MimeHandlerView behavior inside sandboxed frames.

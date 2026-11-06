@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for networking ONC extension API alias test
+summary: Chrome extension manifest that sets up the networking.onc alias permission test app with test.js as its background script.

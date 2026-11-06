@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: connect_panel extension manifest
+summary: Manifest for the connect_panel test extension, which tests connecting from a panel window and uses test.html as its background page.

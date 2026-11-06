@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for native messaging Windows .EXE test extension
+summary: Extension manifest that configures the test extension with a fixed key, nativeMessaging permission, and test.js service worker for the Windows .EXE host test.

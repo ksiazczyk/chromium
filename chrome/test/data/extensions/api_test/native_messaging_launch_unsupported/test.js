@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging launch unsupported test
+// summary: Browser test that connects to a native messaging host and asserts the port disconnects with an access-forbidden error.
+// ---
+
 const APP_NAME = 'com.google.chrome.test.echo';
 
 chrome.runtime.onConnectNative.addListener(port => {

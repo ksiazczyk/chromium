@@ -1,0 +1,4 @@
+# Docerion header of basic_page.html.
+type: test
+title: Basic HTML page for iframe tests
+summary: Minimal HTML page loaded in an iframe by the MIME handler test pages.

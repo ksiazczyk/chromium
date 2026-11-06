@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries API test shared helpers
+// summary: Shared injected JavaScript for media galleries extension API browser tests, defining image cases and helpers for copyTo and gallery reading tests.
+// ---
+
 // Valid WEBP image.
 const VALID_WEBP_IMAGE_CASE = {
   filename: 'valid.webp',

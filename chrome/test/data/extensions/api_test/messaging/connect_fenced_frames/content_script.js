@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script handling connections in fenced frame tests
+// summary: Content script that listens for runtime connections, replies to postMessage and disconnect test messages, and sends an initial message from the fenced frame.
+// ---
+
 chrome.runtime.onConnect.addListener(function onConnect(port) {
   port.onMessage.addListener(function(msg) {
     if (msg.testPostMessage) {

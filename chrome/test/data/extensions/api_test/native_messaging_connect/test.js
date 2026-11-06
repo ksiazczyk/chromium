@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging connect API test script
+// summary: Browser test script that verifies native messaging connections, message echoing, host exit handling, and isolation of multiple native ports.
+// ---
+
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 const extensionUrl = chrome.runtime.getURL('/');
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the interstitial messaging test extension
+summary: 'Manifest of the test extension, declaring the content script matched against data: certificate interstitials, the background script, and the tabs permission.'

@@ -1,0 +1,4 @@
+# Docerion header of testIframeBasic.csv.
+type: test
+title: Iframe basic test CSV data
+summary: CSV payload with simple text content served to the basic iframe variant of the MimeHandlerView tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the minimal platform app test
+summary: Manifest declaring the minimal platform app with a test.js background script and the webview permission for the API test.

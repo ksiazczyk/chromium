@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sender Message Channel Leak test extension manifest
+summary: Manifest for the sender extension used in the onMessage external leak API test, registering test.js as a Manifest V3 background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of testFullscreenEscape.csv.
+type: test
+title: Fullscreen escape test CSV data
+summary: CSV payload served to the MimeHandlerView extension API test that covers escaping fullscreen mode.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sender Async extension test manifest
+summary: Manifest for the sender extension used in the onMessageExternal async messaging API test, registering test.js as the background service worker.

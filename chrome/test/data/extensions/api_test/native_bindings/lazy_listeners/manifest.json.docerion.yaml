@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Lazy listeners test extension manifest
+summary: Manifest for the lazy listeners test extension, declaring a non-persistent background script and the tabs permission.

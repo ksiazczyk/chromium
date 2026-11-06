@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Context initialization test iframe page
+summary: Minimal HTML page loaded into an iframe by the background script as part of the context initialization test.

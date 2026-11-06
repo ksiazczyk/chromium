@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for interstitial messaging API test
+// summary: Background page of a test extension that runs chrome.test cases verifying message passing and port connect/disconnect behavior with a content script in a security interstitial.
+// ---
+
 // This port is opened by a content script in an interstitial. This is used by
 // the tests to drive the tests.
 let testPort;

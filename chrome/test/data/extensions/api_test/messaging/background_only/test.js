@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background-only messaging extension API test
+// summary: Chrome extension API test verifying that same-frame sendMessage and connect calls do not trigger onMessage or onConnect listeners, including iframe regression tests for crbug.com/41245808.
+// ---
+
 const kPortErrorMessage =
     'Could not establish connection. Receiving end does not exist.';
 

@@ -5,6 +5,12 @@
 // Set the state to STARTED to automatically start listening to
 // MediaPerceptionDetection signals.
 
+// ---docerion
+// type: test
+// title: Browser test for the MediaPerceptionDetection event listener
+// summary: Sets the mediaPerceptionPrivate state to RUNNING and verifies that an onMediaPerception event with frame perceptions fires once the listener is registered.
+// ---
+
 chrome.test.runTests([
   function setStateRunning() {
     // Need to start the mocked media analytics process.

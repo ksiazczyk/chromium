@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native bindings platform app tests
+// summary: Runs chrome.test checks that chrome.app window bindings, the current window API, and webview are available in a platform app.
+// ---
+
 const tests = [
   function testAppBindings() {
     chrome.test.assertTrue(!!chrome.app, 'app');

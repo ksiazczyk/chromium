@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script for messaging tests
+// summary: Content script that exchanges port and runtime messages with the background page during the messaging test.
+// ---
+
 chrome.runtime.onConnect.addListener(function listener(port) {
   port.onMessage.addListener((message) => {
     chrome.test.assertEq('background page', message);

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the mediaPerceptionPrivate process state test app
+summary: Extension manifest that defines the kiosk-enabled test app with the mediaPerceptionPrivate permission and runtest.js as its background script.

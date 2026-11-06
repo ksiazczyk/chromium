@@ -1,0 +1,4 @@
+# Docerion header of testFullscreenEscape.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for testFullscreenEscape.csv
+summary: Mock HTTP response headers served with testFullscreenEscape.csv, declaring a text/csv content type.

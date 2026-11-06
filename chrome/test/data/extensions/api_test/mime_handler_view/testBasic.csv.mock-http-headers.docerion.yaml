@@ -1,0 +1,4 @@
+# Docerion header of testBasic.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for basic test
+summary: Mock HTTP response headers declaring a 200 status and text/csv content type for the basic test.
