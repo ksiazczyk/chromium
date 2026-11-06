@@ -5,6 +5,12 @@
 // Implementation of VideoCaptureDevice class for Blackmagic video capture
 // devices by using the DeckLink SDK.
 
+// ---docerion
+// type: source
+// title: DeckLink capture device header for Mac
+// summary: Declares VideoCaptureDeviceDeckLinkMac, which captures from Blackmagic devices through the DeckLink SDK.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MAC_VIDEO_CAPTURE_DEVICE_DECKLINK_MAC_H_
 #define MEDIA_CAPTURE_VIDEO_MAC_VIDEO_CAPTURE_DEVICE_DECKLINK_MAC_H_
 

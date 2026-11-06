@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera effects observer header
+// summary: Declares CrosCameraEffectsObserver, a cros-camera service observer that invokes a callback on the UI thread whenever camera effects change.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_EFFECTS_OBSERVER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_EFFECTS_OBSERVER_H_
 

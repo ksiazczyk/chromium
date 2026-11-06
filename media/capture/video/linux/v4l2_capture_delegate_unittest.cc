@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 capture delegate unit tests
+// summary: Unit tests for the Linux V4L2 capture delegate, covering V4L2 control handling and frame capture with fake V4L2 implementations and mock device clients.
+// ---
+
 #include "media/capture/video/linux/v4l2_capture_delegate.h"
 
 #include <fcntl.h>

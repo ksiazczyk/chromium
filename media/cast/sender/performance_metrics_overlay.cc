@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance metrics overlay implementation
+// summary: Renders frame-level performance metrics such as encoder utilization, playout delay, and bitrate onto video frames using a small bitmap font.
+// ---
+
 #include "media/cast/sender/performance_metrics_overlay.h"
 
 #include <stddef.h>

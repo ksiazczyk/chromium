@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen conversion helpers declarations
+// summary: Declares conversion functions between Chromium and Open Screen Cast streaming types, including times, codecs, encoded frames, capture configs and remoting sink metadata.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_OPENSCREEN_CONVERSION_HELPERS_H_
 #define MEDIA_CAST_COMMON_OPENSCREEN_CONVERSION_HELPERS_H_
 

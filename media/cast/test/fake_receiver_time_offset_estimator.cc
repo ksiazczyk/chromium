@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeReceiverTimeOffsetEstimator implementation
+// summary: Implements a fake receiver time offset estimator that always reports the fixed offset supplied at construction.
+// ---
+
 #include "media/cast/test/fake_receiver_time_offset_estimator.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open Screen test helpers header
+// summary: Declares mock Open Screen sender and receiver classes plus session configuration helper functions used by Cast streaming tests.
+// ---
+
 #ifndef MEDIA_CAST_TEST_OPENSCREEN_TEST_HELPERS_H_
 #define MEDIA_CAST_TEST_OPENSCREEN_TEST_HELPERS_H_
 

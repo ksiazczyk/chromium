@@ -1,0 +1,4 @@
+# Docerion header of document_scanner_mojo_policy.jsonc.
+type: config
+title: Document scanner Mojo service policy
+summary: Defines mojo service manager policies granting the Chrome OS browser ownership of and access to the CrosDocumentScanner service.

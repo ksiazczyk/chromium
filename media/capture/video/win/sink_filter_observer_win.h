@@ -5,6 +5,12 @@
 // Observer class of Sinkfilter. The implementor of this class receive video
 // frames from the SinkFilter DirectShow filter.
 
+// ---docerion
+// type: source
+// title: Sink filter observer interface
+// summary: Defines the SinkFilterObserver interface through which implementors receive video frames, capture formats, timestamps and frame drop reasons from the DirectShow sink filter.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_SINK_FILTER_OBSERVER_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_SINK_FILTER_OBSERVER_WIN_H_
 

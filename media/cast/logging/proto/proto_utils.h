@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast logging proto utility declarations
+// summary: Declares ToProtoEventType, a utility that converts CastLoggingEvent values to media::cast::proto::EventType for cast logging protos.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_PROTO_PROTO_UTILS_H_
 #define MEDIA_CAST_LOGGING_PROTO_PROTO_UTILS_H_
 

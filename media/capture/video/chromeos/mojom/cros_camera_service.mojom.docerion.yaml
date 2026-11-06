@@ -1,0 +1,4 @@
+# Docerion header of cros_camera_service.mojom.
+type: source
+title: Mojo interfaces for the ChromeOS camera service
+summary: Defines the camera service Mojo interfaces covering client types, privacy switch and auto-framing states, and Kiosk Vision events.

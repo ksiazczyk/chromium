@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming encoding support helpers
+// summary: Declares free functions that determine software and hardware encoding availability, hardware codec deny listing, preferred profiles and codec parameter strings.
+// ---
+
 #ifndef MEDIA_CAST_ENCODING_ENCODING_SUPPORT_H_
 #define MEDIA_CAST_ENCODING_ENCODING_SUPPORT_H_
 

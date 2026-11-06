@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting message factories unit tests
+// summary: Unit tests verifying that remoting message factory functions produce correct RPC messages for errors, media end, statistics updates, buffering state changes, and audio/video config changes.
+// ---
+
 #include "media/cast/openscreen/remoting_message_factories.h"
 
 #include <memory>

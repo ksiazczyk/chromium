@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS GPU memory buffer tracker implementation
+// summary: Implements a video capture buffer tracker that allocates and shares GPU memory buffers via shared images on Chrome OS.
+// ---
+
 #include "media/capture/video/chromeos/gpu_memory_buffer_tracker_cros.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log event dispatcher header
+// summary: Declares LogEventDispatcher, a thread-safe dispatcher that forwards cast logging events to registered RawEventSubscriber instances on the main task runner.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_LOG_EVENT_DISPATCHER_H_
 #define MEDIA_CAST_LOGGING_LOG_EVENT_DISPATCHER_H_
 

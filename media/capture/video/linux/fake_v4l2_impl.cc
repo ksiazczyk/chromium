@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeV4L2Impl implementation
+// summary: Implements a fake V4L2 layer that emulates open, ioctl, mmap, and poll behavior with configurable fake devices for capture tests.
+// ---
+
 #include "media/capture/video/linux/fake_v4l2_impl.h"
 
 #include <string.h>

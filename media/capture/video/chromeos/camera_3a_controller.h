@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera 3A controller header
+// summary: Declares Camera3AController, which manages 3A modes, stabilization for still capture, exposure, focus distance and point of interest.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_3A_CONTROLLER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_3A_CONTROLLER_H_
 

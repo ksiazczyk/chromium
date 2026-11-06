@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request manager unit tests
+// summary: Unit tests for the ChromeOS video capture request manager, mocking stream capture interfaces and buffer factories to verify capture request and result handling.
+// ---
+
 #include "media/capture/video/chromeos/request_manager.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS video capture features header
+// summary: Declares the ChromeOS video capture command-line switches, the frame rotation feature flag, and the ShouldEnableAutoFraming helper used by the capture implementation.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_FEATURES_CHROMEOS_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_FEATURES_CHROMEOS_H_
 

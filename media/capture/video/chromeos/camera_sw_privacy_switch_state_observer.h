@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera software privacy switch state observer header
+// summary: Declares CrosCameraSWPrivacySwitchStateObserver, which watches software privacy switch state changes on the cros-camera service.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_SW_PRIVACY_SWITCH_STATE_OBSERVER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_SW_PRIVACY_SWITCH_STATE_OBSERVER_H_
 

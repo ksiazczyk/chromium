@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryLinux implementation
+// summary: Implements the Linux capture device factory that dispatches device creation and enumeration between the V4L2 factory and the WebRTC PipeWire factory when available.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_factory_linux.h"
 
 #include "base/feature_list.h"

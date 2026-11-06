@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Media Foundation video capture device
+// summary: Unit tests for VideoCaptureDeviceMFWin using mock clients and stub Media Foundation interfaces to verify frame capture, photo, and camera control behavior.
+// ---
+
 #include "media/capture/video/win/video_capture_device_mf_win.h"
 
 #include <d3d11_4.h>

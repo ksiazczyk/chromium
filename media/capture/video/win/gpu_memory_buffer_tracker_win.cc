@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer tracker for Windows capture
+// summary: Implements tracking of DXGI GPU memory buffers for captured frames, including shared NV12 texture creation and mapping.
+// ---
+
 #include "media/capture/video/win/gpu_memory_buffer_tracker_win.h"
 
 #include <dxgi1_2.h>

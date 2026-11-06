@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for ChromeOS video capture
+summary: Defines GN source sets and dependencies for the ChromeOS video capture implementation and its test support.

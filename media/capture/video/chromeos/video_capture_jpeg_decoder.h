@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureJpegDecoder interface
+// summary: Defines the abstract VideoCaptureJpegDecoder interface for asynchronously initializing a decoder, reporting its status, and decoding captured JPEG frames.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_JPEG_DECODER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_JPEG_DECODER_H_
 

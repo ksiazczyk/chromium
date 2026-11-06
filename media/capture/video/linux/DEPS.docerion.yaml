@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Linux capture
+summary: Allows WebRTC libyuv and video_capture includes, with an extra viz test header allowance for one unittest.

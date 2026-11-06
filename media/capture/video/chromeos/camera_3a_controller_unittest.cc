@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera 3A controller unit tests
+// summary: Unit tests for Camera3AController using a mock capture metadata dispatcher and a dedicated controller thread.
+// ---
+
 #include "media/capture/video/chromeos/camera_3a_controller.h"
 
 #include <functional>

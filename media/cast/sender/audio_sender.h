@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSender class header
+// summary: Declares AudioSender, which owns audio encoding, RTP packetization, congestion control, and RTCP handling for Cast streaming on the main cast thread.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_AUDIO_SENDER_H_
 #define MEDIA_CAST_SENDER_AUDIO_SENDER_H_
 

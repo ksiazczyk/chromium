@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeReceiverTimeOffsetEstimator header
+// summary: Declares a test-only receiver time offset estimator that returns a fixed offset as both lower and upper bounds.
+// ---
+
 #ifndef MEDIA_CAST_TEST_FAKE_RECEIVER_TIME_OFFSET_ESTIMATOR_H_
 #define MEDIA_CAST_TEST_FAKE_RECEIVER_TIME_OFFSET_ESTIMATOR_H_
 

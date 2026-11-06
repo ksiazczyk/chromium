@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pixel format utilities implementation
+// summary: Maps camera HAL pixel formats to Chromium video and viz shared image formats and converts video pixel formats to DRM formats for ChromeOS camera capture.
+// ---
+
 #include "media/capture/video/chromeos/pixel_format_utils.h"
 
 #include <drm_fourcc.h>

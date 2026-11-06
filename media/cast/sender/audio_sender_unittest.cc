@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioSender unit tests
+// summary: Unit tests verifying AudioSender encoding of 20 ms audio buses, packet sending, and getter return values using Open Screen test helpers.
+// ---
+
 #include "media/cast/sender/audio_sender.h"
 
 #include <stdint.h>

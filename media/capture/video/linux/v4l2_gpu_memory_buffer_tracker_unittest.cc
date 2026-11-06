@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 GPU memory buffer tracker unit tests
+// summary: Unit tests for the V4L2 GPU memory buffer tracker, verifying creation, memory size, format reuse, and behavior when the GPU context is lost.
+// ---
+
 #include "media/capture/video/linux/v4l2_gpu_memory_buffer_tracker.h"
 
 #include "base/test/bind.h"

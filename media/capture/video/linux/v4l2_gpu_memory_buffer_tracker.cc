@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 GPU memory buffer tracker implementation
+// summary: Implements a video capture buffer tracker that creates mappable shared images for NV12 frames and handles GPU context loss on Linux.
+// ---
+
 #include "media/capture/video/linux/v4l2_gpu_memory_buffer_tracker.h"
 
 #include <optional>

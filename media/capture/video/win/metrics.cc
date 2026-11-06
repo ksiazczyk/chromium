@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation retry metrics logging
+// summary: Logs UMA histograms counting the retries needed to work around invalid Media Foundation requests for stream count, stream category and available device media type calls.
+// ---
+
 #include "media/capture/video/win/metrics.h"
 
 #include "base/metrics/histogram_functions.h"

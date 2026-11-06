@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for ChromeOS camera Mojo bindings
+summary: GN build file defining the mojom targets for the ChromeOS camera capture interfaces and their dependencies.

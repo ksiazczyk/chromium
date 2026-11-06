@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS video capture device delegate header
+// summary: Declares VideoCaptureDeviceChromeOSDelegate, the ChromeOS HALv3 delegate that starts and stops capture, takes photos, and tracks device rotation.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_DEVICE_CHROMEOS_DELEGATE_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_VIDEO_CAPTURE_DEVICE_CHROMEOS_DELEGATE_H_
 

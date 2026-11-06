@@ -6,6 +6,12 @@
 // DirectShow is used for capturing. DirectShow provide its own threads
 // for capturing.
 
+// ---docerion
+// type: source
+// title: CapabilityWin struct and best-match declaration
+// summary: Declares the CapabilityWin struct describing a supported capture format and the function that picks the best matched capability.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_CAPABILITY_LIST_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_CAPABILITY_LIST_WIN_H_
 

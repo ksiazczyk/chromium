@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenscreenFrameSender unit tests
+// summary: Unit tests covering target playout delay clamping, frame dropping, and bitrate suggestion behavior for audio and video OpenscreenFrameSender instances.
+// ---
+
 #include "media/cast/sender/openscreen_frame_sender.h"
 
 #include <limits>

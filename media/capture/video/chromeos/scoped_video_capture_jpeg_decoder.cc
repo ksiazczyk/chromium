@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped video capture JPEG decoder implementation
+// summary: Implements a decorator around VideoCaptureJpegDecoder that deletes the wrapped decoder on a given task runner when the decorator is destroyed.
+// ---
+
 #include "media/capture/video/chromeos/scoped_video_capture_jpeg_decoder.h"
 #include "base/task/sequenced_task_runner.h"
 

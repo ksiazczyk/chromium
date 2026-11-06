@@ -1,0 +1,4 @@
+# Docerion header of jpeg_accelerator_mojo_policy.jsonc.
+type: config
+title: JPEG accelerator Mojo service policy
+summary: Defines a mojo service manager policy granting the Chrome OS browser ownership of the CrosJpegAccelerator service.

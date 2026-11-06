@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PixelBufferRotator header
+// summary: Declares the PixelBufferRotator class that rotates a source pixel buffer into a destination buffer via VTPixelRotationSession.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_IOS_PIXEL_BUFFER_ROTATOR_H_
 #define MEDIA_CAPTURE_VIDEO_IOS_PIXEL_BUFFER_ROTATOR_H_
 

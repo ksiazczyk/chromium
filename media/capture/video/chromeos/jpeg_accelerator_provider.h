@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG accelerator provider header
+// summary: Declares JpegAcceleratorProviderImpl, which exposes JPEG encode and decode accelerators through the Chrome OS mojo service manager.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_JPEG_ACCELERATOR_PROVIDER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_JPEG_ACCELERATOR_PROVIDER_H_
 

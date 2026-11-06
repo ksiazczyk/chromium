@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MediaVideoEncoderWrapper
+// summary: Exercises the Cast video encoder wrapper with mock encoders and GPU factories, checking frame metadata, key frame requests, and encode options.
+// ---
+
 #include "media/cast/encoding/media_video_encoder_wrapper.h"
 
 #include <memory>

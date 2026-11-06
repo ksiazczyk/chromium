@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera metadata utilities implementation
+// summary: Implements helpers to look up, add or update, sort, and merge ChromeOS camera metadata entries used by the video capture code.
+// ---
+
 #include "media/capture/video/chromeos/camera_metadata_utils.h"
 
 #include <algorithm>

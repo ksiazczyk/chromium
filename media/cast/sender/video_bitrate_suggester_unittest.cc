@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoBitrateSuggester unit tests
+// summary: Unit tests verifying that VideoBitrateSuggester stays within configured bounds and behaves correctly under the exponential and linear bitrate algorithms.
+// ---
+
 #include "media/cast/sender/video_bitrate_suggester.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2CaptureDelegate implementation
+// summary: Implements Linux V4L2 video capture, covering buffer management, supported pixel formats, timeouts, and photo control handling.
+// ---
+
 #include "media/capture/video/linux/v4l2_capture_delegate.h"
 
 #include <fcntl.h>

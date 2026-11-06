@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen conversion helpers implementation
+// summary: Implements conversions between Chromium media/cast types and Open Screen cast types, covering time points, RTP ticks, codecs, encoded frames, IP addresses and capture configs.
+// ---
+
 #include "media/cast/common/openscreen_conversion_helpers.h"
 
 #include <iterator>

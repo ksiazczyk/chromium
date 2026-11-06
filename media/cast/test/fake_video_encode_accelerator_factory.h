@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeVideoEncodeAcceleratorFactory header
+// summary: Declares a factory for fake VideoEncodeAccelerator instances in Cast tests, with auto-respond and synchronous creation modes.
+// ---
+
 #ifndef MEDIA_CAST_TEST_FAKE_VIDEO_ENCODE_ACCELERATOR_FACTORY_H_
 #define MEDIA_CAST_TEST_FAKE_VIDEO_ENCODE_ACCELERATOR_FACTORY_H_
 

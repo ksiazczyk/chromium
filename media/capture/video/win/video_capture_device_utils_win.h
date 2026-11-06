@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows video capture device utilities header
+// summary: Declares unit conversion helpers for pan, tilt, zoom and exposure, camera rotation queries, and control range retrieval for Windows capture devices.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_UTILS_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_UTILS_WIN_H_
 

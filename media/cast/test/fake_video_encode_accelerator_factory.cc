@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeVideoEncodeAcceleratorFactory implementation
+// summary: Implements a test factory that creates fake video encode accelerators with controllable initialization and callback responses.
+// ---
+
 #include "media/cast/test/fake_video_encode_accelerator_factory.h"
 
 #include <utility>

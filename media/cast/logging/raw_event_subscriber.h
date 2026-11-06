@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw event subscriber interface
+// summary: Declares the RawEventSubscriber interface that receives frame and packet logging events on the main thread.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_RAW_EVENT_SUBSCRIBER_H_
 #define MEDIA_CAST_LOGGING_RAW_EVENT_SUBSCRIBER_H_
 

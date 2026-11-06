@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTP time type aliases
+// summary: Aliases RtpTimeDelta and RtpTimeTicks to their Open Screen equivalents, with a TODO to remove the aliases in favor of direct use.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_RTP_TIME_H_
 #define MEDIA_CAST_COMMON_RTP_TIME_H_
 

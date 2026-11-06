@@ -1,0 +1,4 @@
+# Docerion header of system_event_monitor.mojom.
+type: source
+title: System event monitor Mojo interface
+summary: Defines the CrosSystemEventMonitor interface and observer interfaces for display rotation, lid state, power suspend/resume, and device change events.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoBitrateSuggester implementation
+// summary: Implements video bitrate suggestion for Cast streaming, using linear and exponential algorithms that adjust bitrate based on frame drops and network bandwidth callbacks.
+// ---
+
 #include "media/cast/sender/video_bitrate_suggester.h"
 
 #include <algorithm>

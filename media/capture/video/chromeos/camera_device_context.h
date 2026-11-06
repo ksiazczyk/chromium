@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraDeviceContext class header
+// summary: Declares CameraDeviceContext, which stores the state of a running camera device delegate and translates events to video capture device clients.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_DEVICE_CONTEXT_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_DEVICE_CONTEXT_H_
 

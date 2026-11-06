@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraDeviceContext implementation
+// summary: Implements the camera device context that tracks capture state, manages preview and video clients, and forwards captured frames, logs, and errors to them.
+// ---
+
 #include "media/capture/video/chromeos/camera_device_context.h"
 
 #include <string>

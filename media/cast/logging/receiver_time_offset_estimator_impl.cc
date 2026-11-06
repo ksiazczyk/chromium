@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver time offset estimator implementation
+// summary: Implements clock offset bound estimation by pairing frame ack and packet send/receive events and tracking sent and received timestamp differences.
+// ---
+
 #include "media/cast/logging/receiver_time_offset_estimator_impl.h"
 
 #include <algorithm>

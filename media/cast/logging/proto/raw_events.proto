@@ -4,6 +4,12 @@
 
 // Protocol for audio messages.
 
+// ---docerion
+// type: source
+// title: Cast raw events protobuf definitions
+// summary: Defines the proto2 schema for cast logging, including the EventType enum, LogMetadata, GeneralDescription, and aggregated frame and packet event messages.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

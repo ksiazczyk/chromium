@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureJpegDecoder implementation
+// summary: Implements VideoCaptureJpegDecoder by copying captured JPEG frames into shared memory and delegating decoding to a MojoMjpegDecodeAccelerator over IPC.
+// ---
+
 #include "media/capture/video/chromeos/video_capture_jpeg_decoder_impl.h"
 
 #include <utility>

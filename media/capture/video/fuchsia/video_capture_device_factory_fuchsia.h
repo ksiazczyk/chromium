@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video capture device factory header
+// summary: Declares VideoCaptureDeviceFactoryFuchsia, which watches fuchsia.camera3 devices and serves device info and device creation requests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_FUCHSIA_VIDEO_CAPTURE_DEVICE_FACTORY_FUCHSIA_H_
 #define MEDIA_CAPTURE_VIDEO_FUCHSIA_VIDEO_CAPTURE_DEVICE_FACTORY_FUCHSIA_H_
 

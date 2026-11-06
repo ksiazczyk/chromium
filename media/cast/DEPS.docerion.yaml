@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //media/cast
+summary: Restricts which directories the Cast streaming code may include headers from, with a special rule for test helpers.

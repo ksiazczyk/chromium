@@ -1,0 +1,4 @@
+# Docerion header of effects_pipeline.mojom.
+type: source
+title: Video effects pipeline Mojo types
+summary: Defines stable enums and the EffectsConfig struct for configuring video conferencing effects such as background blur, replacement, relighting, and retouch.

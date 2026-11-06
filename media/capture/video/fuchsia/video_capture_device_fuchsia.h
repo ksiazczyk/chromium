@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video capture device header
+// summary: Declares VideoCaptureDeviceFuchsia, managing the camera stream, buffer collections, resolution, orientation, and mute state watching.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_FUCHSIA_VIDEO_CAPTURE_DEVICE_FUCHSIA_H_
 #define MEDIA_CAPTURE_VIDEO_FUCHSIA_VIDEO_CAPTURE_DEVICE_FUCHSIA_H_
 

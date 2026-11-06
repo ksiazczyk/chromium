@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia video capture device factory unit tests
+// summary: Unit tests covering device enumeration, watcher reconnection after disconnect, device removal during pending enumeration, and device change events.
+// ---
+
 #include "media/capture/video/fuchsia/video_capture_device_factory_fuchsia.h"
 
 #include "base/fuchsia/test_component_context_for_process.h"

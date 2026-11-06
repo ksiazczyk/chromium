@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver time offset estimator implementation header
+// summary: Declares ReceiverTimeOffsetEstimatorImpl and its BoundCalculator helper that compute receiver clock offset bounds from cast logging events.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_RECEIVER_TIME_OFFSET_ESTIMATOR_IMPL_H_
 #define MEDIA_CAST_LOGGING_RECEIVER_TIME_OFFSET_ESTIMATOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for decoder buffer reader
+// summary: Tests DecoderBufferReader over mojo data pipes, covering scenarios where buffers are provided, the pipe is populated, or reads are requested in different orders.
+// ---
+
 #include "media/cast/openscreen/decoder_buffer_reader.h"
 
 #include "base/test/bind.h"

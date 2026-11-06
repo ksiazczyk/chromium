@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOpenscreenClock implementation
+// summary: Implements a fake openscreen clock that maps a Chromium base::TickClock onto openscreen::Clock::now for Cast testing.
+// ---
+
 #include "media/cast/test/fake_openscreen_clock.h"
 
 #include "base/time/tick_clock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceProvider implementation
+// summary: Implements a fake device provider that stores added capture device descriptors and serves their IDs, model, and display names for tests.
+// ---
+
 #include "media/capture/video/linux/fake_device_provider.h"
 
 #include <algorithm>

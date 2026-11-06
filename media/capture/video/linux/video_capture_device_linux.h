@@ -7,6 +7,12 @@
 // capturing so this implementation uses a Chromium thread for fetching frames
 // from V4L2.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceLinux header
+// summary: Declares the Linux V4L2 implementation of VideoCaptureDevice, which fetches frames from V4L2 on a dedicated Chromium thread and supports photo state and rotation.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_LINUX_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_LINUX_H_
 

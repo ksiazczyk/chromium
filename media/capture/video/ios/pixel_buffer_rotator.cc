@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PixelBufferRotator implementation
+// summary: Implements PixelBufferRotator, which rotates pixel buffers using a VideoToolbox VTPixelRotationSession on iOS 16 and later.
+// ---
+
 #include "media/capture/video/ios/pixel_buffer_rotator.h"
 
 #include "base/check.h"

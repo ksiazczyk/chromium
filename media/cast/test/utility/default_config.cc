@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default audio and video sender configs for Cast tests
+// summary: Provides functions returning default audio and video FrameSenderConfig values used by Cast tests.
+// ---
+
 #include "media/cast/test/utility/default_config.h"
 
 #include <stddef.h>

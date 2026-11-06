@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectShow filter base class implementation
+// summary: Implements the DirectShow IBaseFilter base class with pin enumeration and media filter state handling for Windows capture.
+// ---
+
 
 #include "media/capture/video/win/filter_base_win.h"
 

@@ -5,6 +5,12 @@
 // Implement a simple base class for a DirectShow input pin. It may only be
 // used in a single threaded apartment.
 
+// ---docerion
+// type: source
+// title: DirectShow pin base class header
+// summary: Declares PinBase, a single-threaded-apartment DirectShow input pin base class with virtual hooks for validating and enumerating media types and receiving samples.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_PIN_BASE_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_PIN_BASE_WIN_H_
 

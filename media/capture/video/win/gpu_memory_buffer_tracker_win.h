@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer tracker declaration for Windows
+// summary: Declares the Windows GPU memory buffer tracker that manages DXGI shared textures and buffer reuse for capture.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_GPU_MEMORY_BUFFER_TRACKER_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_GPU_MEMORY_BUFFER_TRACKER_WIN_H_
 

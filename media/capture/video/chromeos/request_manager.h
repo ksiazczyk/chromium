@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture request manager header
+// summary: Declares RequestManager and VideoCaptureBufferObserver, which control the capture request and result flow between Chrome and the camera HAL process.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_REQUEST_MANAGER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_REQUEST_MANAGER_H_
 

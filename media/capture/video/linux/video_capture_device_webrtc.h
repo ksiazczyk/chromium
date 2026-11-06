@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceWebRtc class header for Linux video capture
+// summary: Declares VideoCaptureDeviceWebRtc, a Linux VideoCaptureDevice that wraps a WebRTC VideoCaptureModule and delivers raw frames, photo state, and options to a capture client.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_WEBRTC_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_WEBRTC_H_
 

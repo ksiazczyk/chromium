@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture metrics header for Mac
+// summary: Declares functions that log Mac capture device details and the reaction effects gestures state.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MAC_VIDEO_CAPTURE_METRICS_MAC_H_
 #define MEDIA_CAPTURE_VIDEO_MAC_VIDEO_CAPTURE_METRICS_MAC_H_
 

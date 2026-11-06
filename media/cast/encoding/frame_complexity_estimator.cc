@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame complexity estimator implementation
+// summary: Implements Shannon entropy based estimation of video frame complexity by sampling pixel differences from the Y plane of key and delta frames.
+// ---
+
 #include "media/cast/encoding/frame_complexity_estimator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vendor tag ops delegate header
+// summary: Declares VendorTagOpsDelegate and VendorTagInfo for looking up camera vendor tag metadata by name or tag after asynchronous initialization.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_VENDOR_TAG_OPS_DELEGATE_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_VENDOR_TAG_OPS_DELEGATE_H_
 

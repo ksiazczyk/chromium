@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame complexity estimator interface
+// summary: Declares FrameComplexityEstimator, which estimates visual complexity of planar YUV video frames as a codec-agnostic value in the range 0.0 to 1.0.
+// ---
+
 #ifndef MEDIA_CAST_ENCODING_FRAME_COMPLEXITY_ESTIMATOR_H_
 #define MEDIA_CAST_ENCODING_FRAME_COMPLEXITY_ESTIMATOR_H_
 

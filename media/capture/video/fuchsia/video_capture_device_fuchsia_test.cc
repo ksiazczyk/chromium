@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia video capture device unit tests
+// summary: Unit tests that capture frames through a fake Fuchsia camera and validate frame sizes, pixel format, buffers, and client notifications.
+// ---
+
 #include "media/capture/video/fuchsia/video_capture_device_fuchsia.h"
 
 #include "base/containers/span.h"

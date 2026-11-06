@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming audio encoder implementation
+// summary: Implements the Cast streaming audio encoder with Opus, PCM16 and Apple AAC backends that buffer AudioBus samples and emit SenderEncodedFrame results via callback.
+// ---
+
 #include "media/cast/encoding/audio_encoder.h"
 
 #include <stdint.h>

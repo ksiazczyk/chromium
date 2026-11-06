@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastEnvironment class
+// summary: Declares the thread-aware environment providing task runners, a tick clock and a thread-safe log event dispatcher.
+// ---
+
 #ifndef MEDIA_CAST_CAST_ENVIRONMENT_H_
 #define MEDIA_CAST_CAST_ENVIRONMENT_H_
 

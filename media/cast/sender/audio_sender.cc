@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSender implementation
+// summary: Implements the Cast streaming audio sender, encoding audio buses into frames, sending them via FrameSender, and recording dropped-frame UMA metrics.
+// ---
+
 #include "media/cast/sender/audio_sender.h"
 
 #include <utility>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of //media/cast
+summary: Explains the Cast Streaming components as a layer over libcast and breaks down the directory's subfolders.
+---
+
 # //media/cast
 
 This directory contains a collection of components related to streaming using

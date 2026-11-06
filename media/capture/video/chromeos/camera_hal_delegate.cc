@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera HAL delegate implementation
+// summary: Implements CameraHalDelegate, which performs Mojo IPC with the camera HAL process for camera info lookup, opening devices, and popular peripheral module tracking.
+// ---
+
 #include "media/capture/video/chromeos/camera_hal_delegate.h"
 
 #include <fcntl.h>

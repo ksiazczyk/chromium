@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder buffer reader class declaration
+// summary: Declares DecoderBufferReader, which wraps reading a media DecoderBuffer from a mojo pipe while coordinating pending reads and callback delivery.
+// ---
+
 #ifndef MEDIA_CAST_OPENSCREEN_DECODER_BUFFER_READER_H_
 #define MEDIA_CAST_OPENSCREEN_DECODER_BUFFER_READER_H_
 

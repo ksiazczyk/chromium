@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming constants and status enums
+// summary: Header defining globally used Cast streaming constants, including protocol limits, RTCP report interval, operational status codes, and frame drop reason enums for logging.
+// ---
+
 #ifndef MEDIA_CAST_CONSTANTS_H_
 #define MEDIA_CAST_CONSTANTS_H_
 

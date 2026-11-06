@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2CaptureDelegate class declaration
+// summary: Declares the class performing actual V4L2 capture, with allocation, photo state and options, rotation, and ioctl helpers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DELEGATE_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DELEGATE_H_
 

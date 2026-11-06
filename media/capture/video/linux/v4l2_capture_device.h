@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 capture device interface
+// summary: Interface abstracting the V4L2 API calls such as open, ioctl, mmap, and poll so a mock or fake implementation can be used in testing.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DEVICE_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DEVICE_H_
 

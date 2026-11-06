@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming encoding support implementation
+// summary: Implements helpers that decide whether software or hardware encoding is available per video codec, honoring feature flags, command-line switches and VEA profile limits.
+// ---
+
 #include "media/cast/encoding/encoding_support.h"
 
 #include <algorithm>

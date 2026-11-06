@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting proto enum conversion utilities
+// summary: Implements bidirectional conversions between media/base enums and openscreen cast protobuf enums for codecs, sample formats, channel layouts, buffering states, and demuxer stream statuses.
+// ---
+
 #include "media/cast/openscreen/remoting_proto_enum_utils.h"
 
 namespace media::cast {

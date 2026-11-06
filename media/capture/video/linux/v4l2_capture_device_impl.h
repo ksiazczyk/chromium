@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 capture device implementation header
+// summary: Declares V4L2CaptureDeviceImpl, the implementation of the V4L2CaptureDevice interface that delegates to the actual V4L2 APIs.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DEVICE_IMPL_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DEVICE_IMPL_H_
 

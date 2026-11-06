@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event monitor header
+// summary: Declares SystemEventMonitorImpl, a mojo service provider that distributes lid, display, power and device change events to observers on the UI thread.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_SYSTEM_EVENT_MONITOR_IMPL_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_SYSTEM_EVENT_MONITOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenscreenFrameSender class header
+// summary: Declares the Open Screen implementation of FrameSender that wraps openscreen::cast::Sender and is shared by the audio, video, and remoting senders.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_OPENSCREEN_FRAME_SENDER_H_
 #define MEDIA_CAST_SENDER_OPENSCREEN_FRAME_SENDER_H_
 

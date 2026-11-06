@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast sender configuration implementations
+// summary: Implements constructors and assignment operators for the video, audio and frame sender configuration structs.
+// ---
+
 #include "media/cast/cast_config.h"
 
 namespace media::cast {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS GPU memory buffer tracker header
+// summary: Declares GpuMemoryBufferTrackerCros, a VideoCaptureBufferTracker that manages GPU shared image buffers for Chrome OS video capture.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_GPU_MEMORY_BUFFER_TRACKER_CROS_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_GPU_MEMORY_BUFFER_TRACKER_CROS_H_
 

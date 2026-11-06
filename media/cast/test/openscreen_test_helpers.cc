@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open Screen test helpers implementation
+// summary: Implements shared Cast streaming test helpers, including default Open Screen session configurations and a MockSender with default gmock behaviors for frame enqueueing and packet sending.
+// ---
+
 #include "media/cast/test/openscreen_test_helpers.h"
 
 #include "crypto/random.h"

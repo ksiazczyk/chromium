@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock vendor tag ops implementation
+// summary: Implements a gmock-based mock of the VendorTagOps mojo interface used by Chrome OS video capture unit tests.
+// ---
+
 #include "media/capture/video/chromeos/mock_vendor_tag_ops.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of jpeg_accelerator.mojom.
+type: source
+title: JPEG accelerator provider Mojo interface
+summary: Defines the JpegAcceleratorProvider interface through which Ash-Chrome serves JPEG encode and MJPEG decode accelerators on ChromeOS.

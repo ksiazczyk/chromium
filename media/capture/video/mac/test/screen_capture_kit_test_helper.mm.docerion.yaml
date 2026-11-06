@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_test_helper.mm.
+type: test
+title: ScreenCaptureKit fake class implementations for tests
+summary: Objective-C++ implementation of the fake ScreenCaptureKit application, window, display, and shareable content classes used by macOS capture tests.

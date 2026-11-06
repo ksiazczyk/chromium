@@ -5,6 +5,12 @@
 // Implement a DirectShow input pin used for receiving captured frames from
 // a DirectShow Capture filter.
 
+// ---docerion
+// type: source
+// title: Sink input pin header
+// summary: Declares SinkInputPin, the input pin of the sink filter that checks requested media formats and forwards received media samples to a SinkFilterObserver.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_SINK_INPUT_PIN_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_SINK_INPUT_PIN_WIN_H_
 

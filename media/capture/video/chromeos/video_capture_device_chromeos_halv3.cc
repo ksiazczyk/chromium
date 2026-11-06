@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS HALv3 video capture device implementation
+// summary: Implements VideoCaptureDeviceChromeOSHalv3, forwarding VideoCaptureDevice calls to the ChromeOS delegate with preview or video client types.
+// ---
+
 #include "media/capture/video/chromeos/video_capture_device_chromeos_halv3.h"
 
 #include "base/strings/string_util.h"

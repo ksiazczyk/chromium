@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows video capture device factory
+// summary: Unit tests for VideoCaptureDeviceFactoryWin covering DirectShow and Media Foundation device enumeration and creation using stub COM interfaces and fake device lists.
+// ---
+
 #include "media/capture/video/win/video_capture_device_factory_win.h"
 
 #include <ks.h>

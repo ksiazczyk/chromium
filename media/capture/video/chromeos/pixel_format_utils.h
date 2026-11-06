@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pixel format utilities header
+// summary: Declares helpers that convert between camera HAL pixel formats, Chromium video pixel formats, viz shared image formats, and DRM pixel formats.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_PIXEL_FORMAT_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_PIXEL_FORMAT_UTILS_H_
 

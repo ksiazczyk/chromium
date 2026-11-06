@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video capture device factory implementation
+// summary: Implements the Fuchsia video capture device factory, fetching device identifiers and supported formats via fuchsia.camera3 and creating capture devices.
+// ---
+
 #include "media/capture/video/fuchsia/video_capture_device_factory_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

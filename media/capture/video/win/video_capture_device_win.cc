@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectShow video capture device implementation
+// summary: Implements VideoCaptureDeviceWin, the DirectShow-based Windows capture device, including pin handling, capability lists, and pan, tilt, zoom and photo controls.
+// ---
+
 #include "media/capture/video/win/video_capture_device_win.h"
 
 #include <objbase.h>

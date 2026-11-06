@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance metrics overlay header
+// summary: Declares RenderPerformanceMetricsOverlay, which draws performance metrics in the lower-right corner of a copied VideoFrame.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_PERFORMANCE_METRICS_OVERLAY_H_
 #define MEDIA_CAST_SENDER_PERFORMANCE_METRICS_OVERLAY_H_
 

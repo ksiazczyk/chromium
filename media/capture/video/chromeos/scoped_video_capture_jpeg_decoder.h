@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped video capture JPEG decoder header
+// summary: Declares ScopedVideoCaptureJpegDecoder, a decorator that destroys the wrapped JPEG decoder instance on a specified sequenced task runner.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_SCOPED_VIDEO_CAPTURE_JPEG_DECODER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_SCOPED_VIDEO_CAPTURE_JPEG_DECODER_H_
 

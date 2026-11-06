@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoSender unit tests
+// summary: Unit tests for VideoSender using mock encoders and fake video encode accelerators to verify frame insertion, dropping, and sender behavior.
+// ---
+
 #include "media/cast/sender/video_sender.h"
 
 #include <stddef.h>

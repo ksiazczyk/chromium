@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera HAL dispatcher unit tests
+// summary: Unit tests for CameraHalDispatcherImpl that use mock camera service and HAL clients to verify client registration, privacy switches, and effect notifications.
+// ---
+
 #include "media/capture/video/chromeos/camera_hal_dispatcher_impl.h"
 
 #include <memory>

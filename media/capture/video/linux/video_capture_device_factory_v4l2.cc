@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryV4L2 implementation
+// summary: Implements the V4L2 capture device factory that enumerates /dev/video devices, reads USB model and display names from sysfs, and queries supported formats and controls.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_factory_v4l2.h"
 
 #include <errno.h>

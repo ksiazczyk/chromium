@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastEnvironment implementation
+// summary: Implements task posting, clock access and thread checks for the Cast main, audio and video threads.
+// ---
+
 #include "media/cast/cast_environment.h"
 
 #include <utility>

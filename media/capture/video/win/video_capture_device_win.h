@@ -5,6 +5,12 @@
 // Windows specific implementation of VideoCaptureDevice. DirectShow is used for
 // capturing. DirectShow provide its own threads for capturing.
 
+// ---docerion
+// type: source
+// title: DirectShow video capture device header
+// summary: Declares VideoCaptureDeviceWin, the Windows VideoCaptureDevice implementation using DirectShow, with media type wrappers and pin and capability helpers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_WIN_H_
 

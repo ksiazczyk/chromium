@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media and Open Screen config conversion implementations
+// summary: Implements conversions between Chromium media audio and video decoder configs and Open Screen cast capture configs, including codec and profile mappings.
+// ---
+
 #include "media/cast/openscreen/config_conversions.h"
 
 #include "base/check.h"

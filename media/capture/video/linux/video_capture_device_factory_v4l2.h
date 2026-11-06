@@ -4,6 +4,12 @@
 
 // Implementation of a VideoCaptureDeviceFactoryV4L2 class.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryV4L2 header
+// summary: Declares the V4L2 video capture device factory and its DeviceProvider interface for enumerating and creating Linux V4L2 capture devices.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_V4L2_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_V4L2_H_
 

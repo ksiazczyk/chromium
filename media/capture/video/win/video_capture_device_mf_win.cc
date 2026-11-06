@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video capture device implementation
+// summary: Implements VideoCaptureDeviceMFWin, capturing video on Windows through Media Foundation, including photo capture, camera controls, and D3D11 GPU memory buffer support.
+// ---
+
 #include "media/capture/video/win/video_capture_device_mf_win.h"
 
 #include <d3d11.h>

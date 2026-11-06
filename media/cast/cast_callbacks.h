@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast status change callback types
+// summary: Defines repeating and one-shot callbacks used to report Cast session status changes and runtime errors to clients.
+// ---
+
 #ifndef MEDIA_CAST_CAST_CALLBACKS_H_
 #define MEDIA_CAST_CAST_CALLBACKS_H_
 

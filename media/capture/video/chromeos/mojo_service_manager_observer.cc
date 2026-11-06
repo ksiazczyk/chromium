@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo service manager observer implementation
+// summary: Implements an observer that watches the ChromeOS mojo service manager for registration and unregistration of a named service and runs the corresponding callbacks.
+// ---
+
 #include "media/capture/video/chromeos/mojo_service_manager_observer.h"
 
 #include "base/memory/ptr_util.h"

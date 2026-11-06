@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder buffer reader implementation
+// summary: Implements reading media decoder buffers from a mojo data pipe, synchronizing buffer provision, data pipe reads and new-buffer callbacks.
+// ---
+
 #include "media/cast/openscreen/decoder_buffer_reader.h"
 
 #include "base/functional/bind.h"

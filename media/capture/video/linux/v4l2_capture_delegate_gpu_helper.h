@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 capture delegate GPU helper header
+// summary: Declares the V4L2CaptureDelegateGpuHelper class that converts captured video data into NV12 format and copies it into GPU memory buffers for the capture delegate.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DELEGATE_GPU_HELPER_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_V4L2_CAPTURE_DELEGATE_GPU_HELPER_H_
 

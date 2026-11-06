@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia video capture build targets
+summary: GN build file defining the fuchsia source set for video capture devices and a unit_tests source set with their sources and dependencies.

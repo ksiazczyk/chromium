@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Capture metadata dispatcher interface
+// summary: Defines the interface letting Camera3AController and CameraDeviceDelegate set capture metadata and observe result metadata.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAPTURE_METADATA_DISPATCHER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAPTURE_METADATA_DISPATCHER_H_
 

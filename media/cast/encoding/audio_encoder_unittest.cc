@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio encoder unit tests
+// summary: Unit tests verifying that encoded audio frames from the Cast audio encoder have correct RTP timestamps, key frames and reference times across codecs and scenarios.
+// ---
+
 #include "media/cast/encoding/audio_encoder.h"
 
 #include <stddef.h>
