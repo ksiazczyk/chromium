@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected buffer manager for ARC video decoders
+// summary: Declares ProtectedBufferManager and DecoderProtectedBufferManager, which translate dummy file descriptors into protected shared memory regions and native pixmap handles for ARC video decoders.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_PROTECTED_BUFFER_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_PROTECTED_BUFFER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard utility implementation
+// summary: Implements ReadFileAndCopyToClipboard, which reads a local PNG file, decodes it in a sandboxed process, and copies it to the clipboard as HTML and image formats.
+// ---
+
 #include "chromeos/ash/experiences/clipboard/clipboard_util.h"
 
 #include <optional>

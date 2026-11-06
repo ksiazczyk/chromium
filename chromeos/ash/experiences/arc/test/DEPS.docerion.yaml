@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC test directory
+summary: Defines include rules allowing content test, accessibility mojom, and storage watcher headers in the ARC test directory.

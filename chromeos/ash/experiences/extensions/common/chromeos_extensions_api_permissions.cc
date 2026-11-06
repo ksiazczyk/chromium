@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extensions API permission registrations
+// summary: Registers the API permissions available to ChromeOS system extensions, such as accessibilityPrivate and fileSystemProvider, with their flags.
+// ---
+
 #include "chromeos/ash/experiences/extensions/common/chromeos_extensions_api_permissions.h"
 
 #include "base/containers/span.h"

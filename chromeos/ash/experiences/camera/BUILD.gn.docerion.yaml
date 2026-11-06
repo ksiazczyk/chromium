@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Camera module GN build configuration
+summary: Defines GN source_set targets for the camera notification utility, the save handler with its upload notifications and dialog, and their unit tests.

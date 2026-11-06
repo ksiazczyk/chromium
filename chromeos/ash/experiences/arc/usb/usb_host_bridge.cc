@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUsbHostBridge implementation
+// summary: Implements the ARC USB host bridge keyed service that exposes non-mass-storage USB devices to Android, handling permission requests and device opening via the permission broker and device service.
+// ---
+
 #include "chromeos/ash/experiences/arc/usb/usb_host_bridge.h"
 
 #include <unordered_set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWindowWatcher class declaration
+// summary: Declares the ArcWindowWatcher singleton, which monitors ARC windows via aura EnvObserver and exposes count and display observer interfaces for ARC window events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_WINDOW_ARC_WINDOW_WATCHER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_WINDOW_ARC_WINDOW_WATCHER_H_
 

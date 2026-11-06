@@ -1,0 +1,4 @@
+# Docerion header of accessibility_private.json.
+type: reference
+title: accessibilityPrivate extension API definition
+summary: Schema for the accessibilityPrivate ChromeOS extension API, defining its types, events, and functions implemented in the Ash accessibility extension API.

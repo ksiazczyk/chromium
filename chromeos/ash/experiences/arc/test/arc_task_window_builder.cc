@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC task window builder implementation
+// summary: Implements a builder that creates views widgets recognized as ARC task windows with configurable task ID, package name, and title.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/arc_task_window_builder.h"
 
 #include "ash/public/cpp/window_properties.h"

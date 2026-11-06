@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebApkInstance implementation
+// summary: Implements the FakeWebApkInstance test double for the WebApkInstance Mojo interface, recording installed packages and returning a configurable install result and WebApk info.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_webapk_instance.h"
 
 namespace arc {

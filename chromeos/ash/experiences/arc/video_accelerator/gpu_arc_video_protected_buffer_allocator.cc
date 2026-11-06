@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC protected buffer allocator implementation
+// summary: Implements the mojo VideoProtectedBufferAllocator that handles protected shared memory and native pixmap allocation and release requests coming from ARC.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/gpu_arc_video_protected_buffer_allocator.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake file system instance for tests
+// summary: Declares an in-memory fake FileSystemInstance for setting up fake files, documents and roots in ARC file system tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_FILE_SYSTEM_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_FILE_SYSTEM_INSTANCE_H_
 

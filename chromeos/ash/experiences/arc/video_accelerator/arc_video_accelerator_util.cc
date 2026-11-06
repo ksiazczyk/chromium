@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC video accelerator utility functions
+// summary: Implements helpers that unwrap mojo handles, duplicate file descriptors, build GPU memory buffer handles from video frame planes, and check buffer security.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/arc_video_accelerator_util.h"
 
 #include "base/files/file_util.h"

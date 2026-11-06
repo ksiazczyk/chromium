@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake system UI instance implementation
+// summary: Implements the fake ARC system UI Mojo instance that records dark theme status and overlay color settings for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_system_ui_instance.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Virtual machines build configuration
+summary: Defines the virtual_machines static library build target, listing its sources and dependencies on base and Chrome OS settings.

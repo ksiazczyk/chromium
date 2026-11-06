@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PolicyInstance implementation
+// summary: Implements a fake PolicyInstance Mojo interface that records received commands and forwards GetPolicies calls to the host.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_policy_instance.h"
 
 #include <utility>

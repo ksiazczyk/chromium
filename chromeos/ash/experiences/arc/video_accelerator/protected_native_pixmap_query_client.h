@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected native pixmap query client header
+// summary: Declares ProtectedNativePixmapQueryClient, an exo delegate that queries the GPU process for whether a handle maps to a protected buffer.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_PROTECTED_NATIVE_PIXMAP_QUERY_CLIENT_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_PROTECTED_NATIVE_PIXMAP_QUERY_CLIENT_H_
 

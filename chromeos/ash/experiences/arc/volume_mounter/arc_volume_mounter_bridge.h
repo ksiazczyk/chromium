@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVolumeMounterBridge class declaration
+// summary: Declares the keyed service that handles volume mount and unmount requests from cros-disks, observes suspend events, and forwards them to Android via the VolumeMounter Mojo interface.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VOLUME_MOUNTER_ARC_VOLUME_MOUNTER_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VOLUME_MOUNTER_ARC_VOLUME_MOUNTER_BRIDGE_H_
 

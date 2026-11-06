@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_access_permission_list.json.
+type: test
+title: File browser handler manifest with invalid access permission list
+summary: Invalid manifest fixture whose file_access list contains unrecognized permission names, used to test file browser handler validation.

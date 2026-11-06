@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload done notification header
+// summary: Declares the function that creates the notification displayed after a successful camera upload, with edit and delete callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CAMERA_UPLOAD_DONE_NOTIFICATION_H_
 #define CHROMEOS_ASH_EXPERIENCES_CAMERA_UPLOAD_DONE_NOTIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShapedWindowTargeter implementation
+// summary: Implements a window targeter that supplies a fixed set of rectangles as extra hit-test shape rects for a window.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/shaped_window_targeter.h"
 
 #include <memory>

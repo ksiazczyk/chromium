@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuRunnerChromeOS class header
+// summary: Declares TouchSelectionMenuRunnerChromeOS, a runner that queries ARC++ for Smart Text Selection actions and shows a contextual quick menu button.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TOUCH_SELECTION_MENU_TOUCH_SELECTION_MENU_RUNNER_CHROMEOS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TOUCH_SELECTION_MENU_TOUCH_SELECTION_MENU_RUNNER_CHROMEOS_H_
 

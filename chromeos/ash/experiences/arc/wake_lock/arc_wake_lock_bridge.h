@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWakeLockBridge class declaration
+// summary: Declares the ArcWakeLockBridge keyed service that acquires and releases partial wake locks on behalf of the ARC instance.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_WAKE_LOCK_ARC_WAKE_LOCK_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_WAKE_LOCK_ARC_WAKE_LOCK_BRIDGE_H_
 

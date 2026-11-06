@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video frame pool implementation
+// summary: Implements the ARC video frame pool mojo service that manages video frames supplied by a remote client for use by the associated video decoder.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/gpu_arc_video_frame_pool.h"
 
 #include <utility>

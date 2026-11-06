@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake KeyMint instance implementation
+// summary: Implements a fake KeyMintInstance Mojo interface that binds the KeyMint host remote and counts Init calls for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_keymint_instance.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AppHost implementation for ARC tests
+// summary: Implements FakeAppHost with no-op AppHost callbacks so ARC tests can attach a host to the app connection holder.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_app_host.h"
 
 namespace arc {

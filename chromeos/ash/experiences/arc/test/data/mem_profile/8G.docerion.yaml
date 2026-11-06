@@ -1,0 +1,4 @@
+# Docerion header of 8G.
+type: test
+title: 8G memory profile test data
+summary: Meminfo-style snapshot of an 8 GB device stored as ARC test data, likely used as a fixture for memory profiling tests.

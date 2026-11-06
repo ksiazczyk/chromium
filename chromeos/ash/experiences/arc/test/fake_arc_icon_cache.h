@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ArcIconCacheDelegate for ARC tests
+// summary: Declares FakeArcIconCache, an ArcIconCacheDelegate fake that lets tests wrap the real Mojo connection.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_ICON_CACHE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_ICON_CACHE_H_
 

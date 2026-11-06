@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCertManager test double
+// summary: Declares a header-only fake CertManager whose private key and certificate import is a no-op for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/cert_manager.h"
 
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_CERT_MANAGER_H_

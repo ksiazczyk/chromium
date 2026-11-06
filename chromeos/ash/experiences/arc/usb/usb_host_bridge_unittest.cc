@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcUsbHostBridge unit tests
+// summary: Unit test fixture for ArcUsbHostBridge that verifies the bridge can be constructed and destructed in a test browser context.
+// ---
+
 #include "chromeos/ash/experiences/arc/usb/usb_host_bridge.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake intent helper host implementation
+// summary: Implements FakeIntentHelperHost with no-op IntentHelperHost callbacks and registers itself with the intent helper connection holder for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_intent_helper_host.h"
 
 namespace arc {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake wake lock instance header
+// summary: Declares FakeWakeLockInstance, a fake mojom::WakeLockInstance that holds the WakeLockHost remote for use in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WAKE_LOCK_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WAKE_LOCK_INSTANCE_H_
 

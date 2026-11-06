@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake compatibility mode instance implementation
+// summary: Implements the fake CompatibilityModeInstance that answers IsOptimizedForCrosApp queries from a configured package set.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_compatibility_mode_instance.h"
 
 namespace arc {

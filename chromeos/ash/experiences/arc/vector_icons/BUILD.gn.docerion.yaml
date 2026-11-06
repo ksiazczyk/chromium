@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC vector icons
+summary: Defines GN targets that aggregate the ARC .icon files into generated vector icon sources and a vector_icons source set.

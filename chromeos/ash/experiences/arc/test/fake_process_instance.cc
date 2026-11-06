@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC process instance implementation
+// summary: Implements FakeProcessInstance, a fake Mojo ProcessInstance that records host memory pressure calls and replies with canned responses.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_process_instance.h"
 
 #include <memory>

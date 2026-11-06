@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for virtual_machines
+summary: Restricts allowed includes in this directory to the chromeos/ash/components/settings dependency.

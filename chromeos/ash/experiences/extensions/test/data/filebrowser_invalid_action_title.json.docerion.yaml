@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_action_title.json.
+type: test
+title: File browser handler manifest missing action title
+summary: Invalid manifest fixture with a file browser handler that lacks a default_title, used to test file browser handler validation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetShapeServiceImpl implementation
+// summary: Implements the browser-side SetShape Mojo service, validating unframed mode, bounds and minimum size before applying shapes and event targeters to windows.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/set_shape_service_impl.h"
 
 #include <algorithm>

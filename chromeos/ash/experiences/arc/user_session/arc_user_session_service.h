@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUserSessionService class declaration
+// summary: Declares the ArcUserSessionService keyed service that observes session state and the ARC intent helper connection.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_USER_SESSION_ARC_USER_SESSION_SERVICE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_USER_SESSION_ARC_USER_SESSION_SERVICE_H_
 

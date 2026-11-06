@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.json.
+type: config
+title: ChromeOS extension API permission features
+summary: Declares permissions for ChromeOS extension APIs, including extension types, platforms, locations, and allowlisted extension IDs.

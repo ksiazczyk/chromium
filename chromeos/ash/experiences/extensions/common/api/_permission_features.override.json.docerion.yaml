@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.override.json.
+type: config
+title: Downstream override hook for permission features
+summary: Empty extension point that lets downstream forks add or modify ChromeOS extension API permission entries.

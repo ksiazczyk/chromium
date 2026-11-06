@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebApkInstance header
+// summary: Declares FakeWebApkInstance, a fake of the mojom::WebApkInstance interface for tests, with accessors for handled packages and setters for install result and WebApk info.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WEBAPK_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WEBAPK_INSTANCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of wm_desks_private.idl.
+type: reference
+title: Window manager desks private API definition
+summary: IDL definition of the chrome.wmDesksPrivate API for trusted extensions to launch, save, remove, and switch virtual desks on ChromeOS.

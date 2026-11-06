@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ARC video directory
+summary: Delegates code ownership of the ARC video directory to the video accelerator OWNERS file.

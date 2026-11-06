@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake clipboard instance implementation
+// summary: Implements the fake ClipboardInstance that completes init and counts host clipboard update notifications for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_clipboard_instance.h"
 
 #include "base/functional/callback_helpers.h"

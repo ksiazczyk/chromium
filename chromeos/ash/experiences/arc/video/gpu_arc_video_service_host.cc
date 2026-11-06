@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video service host implementation
+// summary: Implements the browser-side host that bootstraps ARC video accelerator factories, including a keyed service factory and fallback failing accelerators.
+// ---
+
 #include "chromeos/ash/experiences/arc/video/gpu_arc_video_service_host.h"
 
 #include <memory>

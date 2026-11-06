@@ -1,0 +1,4 @@
+# Docerion header of file_system_provider_internal.idl.
+type: source
+title: File system provider internal API definition
+summary: IDL definition of the internal fileSystemProvider API callbacks that custom bindings use to report mount, metadata, read, and error results.

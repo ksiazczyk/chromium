@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetShapeServiceImpl unit tests
+// summary: Unit tests for the SetShape service implementation, exercising setShape Mojo calls on web contents windows in unframed display mode with Ash test infrastructure.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/set_shape_service_impl.h"
 
 #include <memory>

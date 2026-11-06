@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileBrowserHandler manifest unit tests
+// summary: Unit tests that validate parsing of the file_browser_handlers manifest key, including permission-allowed and handler-permission test cases.
+// ---
+
 #include <memory>
 #include <utility>
 

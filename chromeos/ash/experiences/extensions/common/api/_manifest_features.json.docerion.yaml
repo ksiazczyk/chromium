@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.json.
+type: config
+title: Manifest key feature definitions for ChromeOS extensions
+summary: Declares availability of ChromeOS-specific manifest keys such as file_browser_handlers and file_system_provider_capabilities.

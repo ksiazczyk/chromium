@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake wallpaper instance implementation
+// summary: Implements the fake ARC wallpaper Mojo instance that binds the WallpaperHost remote and records wallpaper change IDs.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_wallpaper_instance.h"
 
 #include <utility>

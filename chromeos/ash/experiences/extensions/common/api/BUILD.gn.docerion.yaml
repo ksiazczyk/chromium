@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS extensions API build targets
+summary: Defines GN targets that generate ChromeOS extension API JSON strings, typed API structs, and the API, manifest, and permission feature tables.

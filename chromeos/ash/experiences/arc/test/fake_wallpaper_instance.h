@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake wallpaper instance header
+// summary: Declares FakeWallpaperInstance, a fake mojom::WallpaperInstance that tracks wallpaper change IDs and keeps the host binding alive.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WALLPAPER_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_WALLPAPER_INSTANCE_H_
 

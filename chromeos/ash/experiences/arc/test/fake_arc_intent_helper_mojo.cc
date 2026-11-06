@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC intent helper Mojo for tests
+// summary: Implements FakeArcIntentHelperMojo, returning success and empty URL handler or text selection action lists for intent helper calls in tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_arc_intent_helper_mojo.h"
 
 namespace arc {

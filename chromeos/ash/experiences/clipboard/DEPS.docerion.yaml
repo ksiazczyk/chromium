@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for //chromeos/ash/experiences/clipboard
+summary: Declares the headers and directories that this directory is allowed to include from.

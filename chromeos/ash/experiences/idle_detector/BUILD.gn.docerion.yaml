@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the idle_detector component
+summary: GN build file that defines the idle_detector component target with its sources, public dependencies on base and ui/base, and a component export define.

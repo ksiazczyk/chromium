@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the touch selection menu
+summary: Defines the touch_selection_menu static library target with its source files and ChromeOS Ash dependencies.

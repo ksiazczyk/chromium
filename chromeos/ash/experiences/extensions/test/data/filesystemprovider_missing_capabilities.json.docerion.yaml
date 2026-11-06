@@ -1,0 +1,4 @@
+# Docerion header of filesystemprovider_missing_capabilities.json.
+type: test
+title: File system provider missing capabilities test manifest
+summary: Test manifest fixture with the fileSystemProvider permission but no file_system_provider_capabilities, used to verify manifest validation.

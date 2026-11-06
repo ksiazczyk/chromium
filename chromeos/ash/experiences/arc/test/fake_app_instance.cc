@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AppInstance implementation for ARC tests
+// summary: Implements FakeAppInstance, recording app launch and icon requests and dispatching fake app, package, and installation events to the host.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_app_instance.h"
 
 #include <stdint.h>

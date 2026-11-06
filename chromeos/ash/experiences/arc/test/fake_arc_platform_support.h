@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeArcPlatformSupport test double
+// summary: Declares a fake ArcPlatformSupport for tests with a settable ARCVM DLC enabled state.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_PLATFORM_SUPPORT_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_PLATFORM_SUPPORT_H_
 

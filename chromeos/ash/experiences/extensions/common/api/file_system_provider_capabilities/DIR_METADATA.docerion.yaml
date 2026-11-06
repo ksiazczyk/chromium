@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for file_system_provider_capabilities
+summary: Directory metadata that points to the file manager common metadata via a mixin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC payment app bridge test support implementation
+// summary: Implements scoped setup and teardown of the payment_app mojo instance on the ARC bridge service for payment app bridge tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/arc_payment_app_bridge_test_support.h"
 
 #include "chromeos/ash/experiences/arc/session/arc_bridge_service.h"

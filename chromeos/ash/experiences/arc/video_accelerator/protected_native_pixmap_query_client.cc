@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected native pixmap query client implementation
+// summary: Implements ProtectedNativePixmapQueryClient, which connects to the GPU process over mojo to check whether a handle maps to a Chrome-allocated protected buffer.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/protected_native_pixmap_query_client.h"
 
 #include "content/public/browser/gpu_service_registry.h"

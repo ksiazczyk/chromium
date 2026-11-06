@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NearbyShareInstance implementation
+// summary: Implements a fake NearbyShareInstance Mojo interface that binds the host remote and counts Init calls for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_nearby_share_instance.h"
 
 #include "base/functional/callback_helpers.h"

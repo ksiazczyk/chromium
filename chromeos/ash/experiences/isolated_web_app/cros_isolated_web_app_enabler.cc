@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosIsolatedWebAppEnabler implementation
+// summary: Enables the SetShape runtime feature for isolated web app navigations when the origin is allowlisted or the corresponding blink feature flag is enabled.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/cros_isolated_web_app_enabler.h"
 
 #include "chromeos/ash/experiences/isolated_web_app/isolated_web_app_api_allowlist.h"

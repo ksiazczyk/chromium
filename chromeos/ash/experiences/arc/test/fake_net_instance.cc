@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NetInstance implementation
+// summary: Implements a fake NetInstance Mojo interface that returns configurable DNS resolution, HTTP and ping test results.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_net_instance.h"
 
 namespace arc {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system provider manifest handler unit tests
+// summary: Manifest tests verifying the file_system_provider handler accepts valid manifests and rejects ones missing capabilities or permission.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

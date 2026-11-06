@@ -1,0 +1,4 @@
+# Docerion header of file_manager_private.idl.
+type: source
+title: File manager private API definition
+summary: IDL definition of the privileged fileManagerPrivate API used by the ChromeOS File Manager for volume mounting, events, and other operations not exposed publicly.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the touch selection menu
+summary: Lists allowed include rules for the directory, granting access to ash session, shell, utility and session manager headers.

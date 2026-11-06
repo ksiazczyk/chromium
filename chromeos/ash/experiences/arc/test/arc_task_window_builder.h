@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC task window builder header
+// summary: Declares a builder for fake ARC task windows in tests, with setters for task ID, package name, title, and shell root surface.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_ARC_TASK_WINDOW_BUILDER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_ARC_TASK_WINDOW_BUILDER_H_
 

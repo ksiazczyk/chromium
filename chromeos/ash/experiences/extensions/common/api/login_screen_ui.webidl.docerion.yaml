@@ -1,0 +1,4 @@
+# Docerion header of login_screen_ui.webidl.
+type: source
+title: Login screen UI API definition
+summary: WebIDL definition of the loginScreenUi API that lets extensions show and hide custom windows on top of the ChromeOS login and lock screens.

@@ -1,0 +1,4 @@
+# Docerion header of filesystemprovider_valid.json.
+type: test
+title: Valid file system provider test manifest
+summary: Valid test manifest fixture combining the fileSystemProvider permission with file_system_provider_capabilities.

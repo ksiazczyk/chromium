@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the frozen update notification
+// summary: Unit tests verifying notification behavior across reven branding, feature flag, enterprise managed, and supervised user scenarios.
+// ---
+
 #include "chromeos/ash/experiences/frozen_update/frozen_update_notification.h"
 
 #include "ash/constants/ash_features.h"

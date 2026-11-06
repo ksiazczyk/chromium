@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcVolumeMounterBridge
+// summary: Exercises the volume mounter bridge using fake disk mount manager, upstart, and power manager clients to verify mount event and removable media handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/volume_mounter/arc_volume_mounter_bridge.h"
 
 #include "ash/constants/ash_switches.h"

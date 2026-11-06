@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeArcPlatformSupport implementation
+// summary: Implements the fake ArcPlatformSupport whose ARCVM DLC enabled state is controlled directly by tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_arc_platform_support.h"
 
 #include "base/check.h"

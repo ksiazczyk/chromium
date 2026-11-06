@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_value.json.
+type: test
+title: File browser handlers invalid value test manifest
+summary: Test manifest fixture with file_browser_handlers set to an invalid scalar value, used to verify extension manifest validation rejects it.

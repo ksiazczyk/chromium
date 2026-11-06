@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider capabilities handler implementation
+// summary: Implements the manifest handler that parses the file_system_provider_capabilities manifest key and stores capabilities on the extension.
+// ---
+
 #include "chromeos/ash/experiences/extensions/common/api/file_system_provider_capabilities/file_system_provider_capabilities_handler.h"
 
 #include <memory>

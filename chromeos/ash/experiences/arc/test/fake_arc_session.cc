@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeArcSession implementation
+// summary: Implements a fake ArcSession emulating mini instance start, upgrades, boot failures and VM memory trimming for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_arc_session.h"
 
 #include <memory>

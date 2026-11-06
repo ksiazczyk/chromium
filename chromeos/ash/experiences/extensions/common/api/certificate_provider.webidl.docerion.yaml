@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider.webidl.
+type: reference
+title: certificateProvider extension API definition
+summary: WebIDL definition of the certificateProvider extension API for client certificate and signature handling on ChromeOS.

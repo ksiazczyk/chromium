@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.override.json.
+type: config
+title: Downstream override hook for manifest key features
+summary: Empty extension point that lets downstream forks add or modify ChromeOS manifest key feature entries.

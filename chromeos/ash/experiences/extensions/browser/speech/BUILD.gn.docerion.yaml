@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Speech recognition constants build target
+summary: Defines the speech_recognition_constants source_set with its sources and dependencies, kept as a leaf target so consumers avoid the extensions API provider.

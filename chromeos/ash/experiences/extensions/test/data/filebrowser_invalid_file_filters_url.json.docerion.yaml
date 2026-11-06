@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_file_filters_url.json.
+type: test
+title: File browser handler manifest with invalid file filter URL scheme
+summary: Invalid manifest fixture whose file_filters use a non-filesystem URL scheme, used to test file browser handler validation.

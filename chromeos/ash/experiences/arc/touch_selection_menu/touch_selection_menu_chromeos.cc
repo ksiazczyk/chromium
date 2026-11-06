@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuChromeOS implementation
+// summary: Implements the ChromeOS touch selection bubble menu, adding a Smart Text Selection action button that dispatches an intent to ARC.
+// ---
+
 #include "chromeos/ash/experiences/arc/touch_selection_menu/touch_selection_menu_chromeos.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history controller delegate header
+// summary: Declares ClipboardHistoryControllerDelegateImpl, the browser implementation of the clipboard history controller delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_IMPL_H_
 

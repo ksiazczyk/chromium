@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake system UI instance header
+// summary: Declares FakeSystemUiInstance, a fake mojom::SystemUiInstance that stores dark theme status and overlay color values for use in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_SYSTEM_UI_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_SYSTEM_UI_INSTANCE_H_
 

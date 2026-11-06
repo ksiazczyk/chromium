@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NotificationsInstance implementation
+// summary: Implements a fake NotificationsInstance Mojo interface that records notification events and the latest do-not-disturb status.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_notifications_instance.h"
 
 #include "base/functional/bind.h"

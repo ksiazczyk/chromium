@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancel camera upload dialog header
+// summary: Declares the CancelCameraUploadDialog class that shows a modal cancel-upload dialog and reports cancel and skip-dialog choices via a callback.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CAMERA_CANCEL_CAMERA_UPLOAD_DIALOG_H_
 #define CHROMEOS_ASH_EXPERIENCES_CAMERA_CANCEL_CAMERA_UPLOAD_DIALOG_H_
 

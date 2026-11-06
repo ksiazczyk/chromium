@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC protected buffer allocator class declaration
+// summary: Declares GpuArcVideoProtectedBufferAllocator, which runs in the GPU process and serves protected buffer allocation requests from ARC over IPC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_PROTECTED_BUFFER_ALLOCATOR_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_PROTECTED_BUFFER_ALLOCATOR_H_
 

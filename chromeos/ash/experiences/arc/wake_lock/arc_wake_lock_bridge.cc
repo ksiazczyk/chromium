@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWakeLockBridge implementation
+// summary: Implements the ARC wake lock bridge keyed service, forwarding Android wake lock requests to the Chrome device service with reference counting.
+// ---
+
 #include "chromeos/ash/experiences/arc/wake_lock/arc_wake_lock_bridge.h"
 
 #include <memory>

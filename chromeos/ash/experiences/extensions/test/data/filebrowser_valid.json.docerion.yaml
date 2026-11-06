@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_valid.json.
+type: test
+title: Valid file browser handler test manifest
+summary: Valid test manifest fixture with the fileBrowserHandler permission and a properly formed file browser handler entry.

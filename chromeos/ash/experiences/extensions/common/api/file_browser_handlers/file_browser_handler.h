@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBrowserHandler class declarations
+// summary: Declares the FileBrowserHandler class with file access permission and URL pattern APIs, plus the FileBrowserHandlerParser manifest handler for ChromeOS extensions.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_API_FILE_BROWSER_HANDLERS_FILE_BROWSER_HANDLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_API_FILE_BROWSER_HANDLERS_FILE_BROWSER_HANDLER_H_
 

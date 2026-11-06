@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake volume mounter instance header
+// summary: Declares FakeVolumeMounterInstance, a fake mojom::VolumeMounterInstance that stores mount point info and queues removable media unmount callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_VOLUME_MOUNTER_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_VOLUME_MOUNTER_INSTANCE_H_
 

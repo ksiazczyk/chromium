@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcUserSessionService unit tests
+// summary: Verifies that a broadcast is sent when the session becomes active and that none is sent when the session is locked.
+// ---
+
 #include "chromeos/ash/experiences/arc/user_session/arc_user_session_service.h"
 
 #include "chromeos/ash/experiences/arc/session/arc_bridge_service.h"

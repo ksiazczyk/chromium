@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ARC volume mounter directory
+summary: Lists the directory owners and routes mojom traits files to IPC and ChromeOS security owners for review.

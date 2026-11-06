@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ArcBridgeHost implementation for ARC tests
+// summary: Implements FakeArcBridgeHost with no-op handlers for the full set of ARC instance-ready Mojo callbacks.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_arc_bridge_host.h"
 
 #include "chromeos/ash/experiences/arc/mojom/adbd.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera save handler implementation
+// summary: Implements browser-side handling of camera saves to local, Google Drive, and OneDrive destinations, including upload lifecycle and cleanup.
+// ---
+
 #include "chromeos/ash/experiences/camera/camera_save_handler.h"
 
 #include "ash/system/camera/camera_app_prefs.h"

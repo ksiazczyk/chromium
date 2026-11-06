@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosIsolatedWebAppEnabler class declaration
+// summary: Declares a WebContentsObserver that enables Blink extensions for IWAs on ChromeOS when the kSetShape feature flag is enabled.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_CROS_ISOLATED_WEB_APP_ENABLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_CROS_ISOLATED_WEB_APP_ENABLER_H_
 

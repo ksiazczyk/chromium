@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for volume mounter enums
+// summary: Converts ash device type and mount event enums to and from their arc::mojom counterparts for Mojo serialization.
+// ---
+
 #include "chromeos/ash/experiences/arc/volume_mounter/volume_mounter_mojom_traits.h"
 
 #include "base/notreached.h"

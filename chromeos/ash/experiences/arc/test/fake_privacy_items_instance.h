@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC privacy items instance header
+// summary: Declares FakePrivacyItemsInstance, a fake mojom::PrivacyItemsInstance that stores the last privacy indicator display ID and bounds for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_PRIVACY_ITEMS_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_PRIVACY_ITEMS_INSTANCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVolumeMounterBridge implementation
+// summary: Implements the browser-side ARC service that relays disk mount and unmount events from cros-disks to Android and reports unmount result and duration UMA metrics.
+// ---
+
 #include "chromeos/ash/experiences/arc/volume_mounter/arc_volume_mounter_bridge.h"
 
 #include <string>

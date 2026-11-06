@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBackupSettingsInstance test double
+// summary: Declares a fake mojom BackupSettingsInstance that tracks backup enabled calls and state for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_BACKUP_SETTINGS_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_BACKUP_SETTINGS_INSTANCE_H_
 

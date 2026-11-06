@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera upload progress notification class declaration
+// summary: Declares the CameraUploadNotification class that owns the upload progress notification and handles its cancel action.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CAMERA_CAMERA_UPLOAD_NOTIFICATION_H_
 #define CHROMEOS_ASH_EXPERIENCES_CAMERA_CAMERA_UPLOAD_NOTIFICATION_H_
 

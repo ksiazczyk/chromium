@@ -1,0 +1,4 @@
+# Docerion header of file_browser_handler.json.
+type: source
+title: File browser handler API definition
+summary: JSON API definition for the chrome.fileBrowserHandler API that lets extensions handle file actions executed from the ChromeOS file browser.

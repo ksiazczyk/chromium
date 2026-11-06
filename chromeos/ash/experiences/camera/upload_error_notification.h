@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload error notification header
+// summary: Declares the function that creates the notification displayed when a camera upload fails, with a retake callback.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CAMERA_UPLOAD_ERROR_NOTIFICATION_H_
 #define CHROMEOS_ASH_EXPERIENCES_CAMERA_UPLOAD_ERROR_NOTIFICATION_H_
 

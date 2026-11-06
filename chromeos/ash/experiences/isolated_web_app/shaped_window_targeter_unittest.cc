@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShapedWindowTargeter unit tests
+// summary: Unit tests verifying that mouse events reach the window only within the custom shape rectangles and fall through to the root window otherwise.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/shaped_window_targeter.h"
 
 #include <memory>

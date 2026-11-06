@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the isolated_web_app directory
+summary: Lists the code owners responsible for reviews, inheriting the isolated web apps component owners plus edman@chromium.org.

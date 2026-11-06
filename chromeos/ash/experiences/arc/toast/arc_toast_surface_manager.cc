@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcToastSurfaceManager implementation
+// summary: Implements the manager that tracks exo toast surfaces and shows or hides their widgets based on the session lock state.
+// ---
+
 #include "chromeos/ash/experiences/arc/toast/arc_toast_surface_manager.h"
 
 #include <algorithm>

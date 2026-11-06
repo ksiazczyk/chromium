@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ChromeOS extensions common library
+summary: Defines the common static library sources and dependencies plus a testonly unit_tests source set for ChromeOS extension APIs.

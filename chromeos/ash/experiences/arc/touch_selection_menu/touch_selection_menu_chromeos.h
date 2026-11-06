@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuChromeOS class header
+// summary: Declares TouchSelectionMenuChromeOS, a views::TouchSelectionMenuViews subclass that adds a Smart Text Selection action button to the quick menu.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TOUCH_SELECTION_MENU_TOUCH_SELECTION_MENU_CHROMEOS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TOUCH_SELECTION_MENU_TOUCH_SELECTION_MENU_CHROMEOS_H_
 

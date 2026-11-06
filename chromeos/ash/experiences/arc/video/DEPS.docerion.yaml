@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC video
+summary: Grants the ARC video directory access to content switch headers and media GPU build flags.
