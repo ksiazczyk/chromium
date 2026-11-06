@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg decoding loop implementation
+// summary: Implements FFmpegDecodingLoop::DecodePacket, sending packets to the codec and delivering decoded frames to a callback with error handling.
+// ---
+
 #include "media/ffmpeg/ffmpeg_decoding_loop.h"
 #include "base/functional/callback.h"
 #include "base/logging.h"

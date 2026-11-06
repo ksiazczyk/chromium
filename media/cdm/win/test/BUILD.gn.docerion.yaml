@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the Media Foundation Clear Key CDM test
+summary: GN build file defining the source set and shared library targets that build the Media Foundation Clear Key CDM, with clang flags, dependencies, libraries and a def file.

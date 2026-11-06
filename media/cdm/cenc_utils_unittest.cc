@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CENC pssh utilities
+// summary: Tests pssh box validation and key ID extraction using constructed PSSH boxes of various versions and contents.
+// ---
+
 #include "media/cdm/cenc_utils.h"
 
 #include <stddef.h>

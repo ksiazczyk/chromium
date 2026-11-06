@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AesDecryptor class declaration
+// summary: Declares the AesDecryptor class implementing ContentDecryptionModule, CdmContext, and Decryptor for AES-CTR decryption.
+// ---
+
 #ifndef MEDIA_CDM_AES_DECRYPTOR_H_
 #define MEDIA_CDM_AES_DECRYPTOR_H_
 

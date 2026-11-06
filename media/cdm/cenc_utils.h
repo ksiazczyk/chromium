@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CENC pssh box parsing utilities API
+// summary: Declares helpers to validate 'pssh' box input and retrieve key IDs or data for a given system ID.
+// ---
+
 #ifndef MEDIA_CDM_CENC_UTILS_H_
 #define MEDIA_CDM_CENC_UTILS_H_
 

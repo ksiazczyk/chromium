@@ -1,0 +1,4 @@
+# Docerion header of generate_libs.py.
+type: script
+title: Generate MSVC import libraries from .def files
+summary: Runs lib.exe on each input .def file to produce MSVC import libraries, assuming the MSVC environment is loaded.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia decryptor declaration
+// summary: Declares FuchsiaDecryptor, a media::Decryptor wrapper around FuchsiaCdmContext that supports only stream-based decryption.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_DECRYPTOR_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_DECRYPTOR_H_
 

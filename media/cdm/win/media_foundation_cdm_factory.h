@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFoundationCdmFactory class declaration
+// summary: Declares MediaFoundationCdmFactory, a CdmFactory that creates Media Foundation CDMs and allows customizing IMFContentDecryptionModuleFactory creation for testing.
+// ---
+
 #ifndef MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_FACTORY_H_
 #define MEDIA_CDM_WIN_MEDIA_FOUNDATION_CDM_FACTORY_H_
 

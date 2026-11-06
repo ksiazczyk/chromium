@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cbcs_decryptor_fuzzer.cc
+// summary: LibFuzzer harness that exercises DecryptCbcsBuffer with fuzzed subsample layouts and encryption patterns.
+// ---
+
 #include "media/cdm/cbcs_decryptor.h"
 
 #include <stdint.h>

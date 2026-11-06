@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM factory implementation
+// summary: Creates content decryption modules on Fuchsia, returning an AesDecryptor for supported key systems and a FuchsiaCdm otherwise.
+// ---
+
 #include "media/cdm/fuchsia/fuchsia_cdm_factory.h"
 
 #include "base/functional/bind.h"

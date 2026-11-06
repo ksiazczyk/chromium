@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmWrapper for CDM interface versioning
+// summary: Wraps different Content Decryption Module interface versions behind a common interface, converting calls to the matching CDM version.
+// ---
+
 #ifndef MEDIA_CDM_CDM_WRAPPER_H_
 #define MEDIA_CDM_CDM_WRAPPER_H_
 

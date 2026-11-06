@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media CDM GN build targets
+summary: Defines GN build targets, sources, and dependencies for the media/cdm content decryption module code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key content enabler implementation
+// summary: Implements the IMFContentEnabler interface for the Clear Key CDM, returning not-implemented or not-available for content enabling calls.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_content_enabler.h"
 
 #include <mferror.h>

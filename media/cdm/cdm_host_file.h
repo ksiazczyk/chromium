@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmHostFile declaration
+// summary: Declares CdmHostFile and CdmHostFilePath, representing files participating in hosting the CDM together with their signature files.
+// ---
+
 #ifndef MEDIA_CDM_CDM_HOST_FILE_H_
 #define MEDIA_CDM_CDM_HOST_FILE_H_
 

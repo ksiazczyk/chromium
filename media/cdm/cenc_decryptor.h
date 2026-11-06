@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CENC AES-CTR buffer decryption API
+// summary: Declares DecryptCencBuffer, which decrypts 'cenc' scheme buffers per ISO/IEC 23001-7 using AES-CTR-128 with subsample support.
+// ---
+
 #ifndef MEDIA_CDM_CENC_DECRYPTOR_H_
 #define MEDIA_CDM_CENC_DECRYPTOR_H_
 

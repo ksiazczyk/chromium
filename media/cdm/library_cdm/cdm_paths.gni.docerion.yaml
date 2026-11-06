@@ -1,0 +1,4 @@
+# Docerion header of cdm_paths.gni.
+type: config
+title: Output paths for Clear Key and Widevine CDM builds
+summary: Defines GN variables for component OS and architecture paths of the Clear Key and Widevine CDMs relative to the output directory.

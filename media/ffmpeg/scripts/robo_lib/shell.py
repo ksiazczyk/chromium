@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Console and shell helpers
+# summary: Offers styled logging, rolling console output, file logging, and subprocess streaming for the scripts.
+# ---
+
 '''Contains helper methods for writing to and reading from
 the console.
 '''

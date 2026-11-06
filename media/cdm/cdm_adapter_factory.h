@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cdm_adapter_factory.h
+// summary: Declares CdmAdapterFactory, a CdmFactory that builds CdmAdapter instances with a supplied auxiliary helper creation callback.
+// ---
+
 #ifndef MEDIA_CDM_CDM_ADAPTER_FACTORY_H_
 #define MEDIA_CDM_CDM_ADAPTER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON Web Key generation and parsing for Clear Key
+// summary: Implements creation and parsing of JSON Web Key sets, license requests, and key IDs initialization data used by the Clear Key key system.
+// ---
+
 #include "media/cdm/json_web_key.h"
 
 #include <stddef.h>

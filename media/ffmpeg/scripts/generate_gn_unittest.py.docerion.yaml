@@ -1,0 +1,4 @@
+# Docerion header of generate_gn_unittest.py.
+type: test
+title: Unit tests for generate_gn
+summary: Tests object-to-source mapping, source sets and condition intersection and difference logic used by generate_gn.

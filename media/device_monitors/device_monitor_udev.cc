@@ -4,6 +4,12 @@
 
 // libudev is used for monitoring device changes.
 
+// ---docerion
+// type: source
+// title: Linux udev device monitor implementation
+// summary: Implements DeviceMonitorLinux by wrapping device::UdevWatcher to report audio and video device changes to base::SystemMonitor.
+// ---
+
 #include "media/device_monitors/device_monitor_udev.h"
 
 #include <string>

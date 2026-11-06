@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cdm_adapter.h
+// summary: Declares the CdmAdapter class that hosts a library CDM and implements the ContentDecryptionModule, CdmContext, and Decryptor interfaces.
+// ---
+
 #ifndef MEDIA_CDM_CDM_ADAPTER_H_
 #define MEDIA_CDM_CDM_ADAPTER_H_
 

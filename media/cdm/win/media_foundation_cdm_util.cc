@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM utility implementation
+// summary: Implements helpers for creating a Media Foundation CDM and building EME access configurations with robustness, persistent state, and origin ID properties, plus content type support checks.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm_util.h"
 
 #include <initguid.h>  // Needed for DEFINE_PROPERTYKEY to work properly.

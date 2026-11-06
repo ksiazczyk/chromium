@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg common helpers header
+// summary: Header declaring shared FFmpeg helpers such as span accessors, timestamp constants, and inline scoped pointer deleters used across the media component.
+// ---
+
 #ifndef MEDIA_FFMPEG_FFMPEG_COMMON_H_
 #define MEDIA_FFMPEG_FFMPEG_COMMON_H_
 

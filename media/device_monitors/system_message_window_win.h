@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMessageWindowWin header for Windows device notifications
+// summary: Declares SystemMessageWindowWin, which handles Windows device change messages and forwards them to base::SystemMonitor.
+// ---
+
 #ifndef MEDIA_DEVICE_MONITORS_SYSTEM_MESSAGE_WINDOW_WIN_H_
 #define MEDIA_DEVICE_MONITORS_SYSTEM_MESSAGE_WINDOW_WIN_H_
 

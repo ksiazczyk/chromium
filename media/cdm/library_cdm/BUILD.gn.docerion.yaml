@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Library CDM build targets for host proxy and test support
+summary: Defines GN source sets for the CDM host proxy headers and a test-only mock library CDM used by media CDM unit tests.

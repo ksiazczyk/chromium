@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for JSON Web Key parsing
+// summary: LibFuzzer target that exercises JWK set extraction, license request key ID extraction, and key IDs initialization data parsing with arbitrary input.
+// ---
+
 #include "media/cdm/json_web_key.h"
 
 #include <stdint.h>

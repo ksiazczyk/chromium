@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM type conversion declarations
+// summary: Declares conversion functions between media and CDM API types, including audio and video decoder config converters with documented pointer lifetime caveats.
+// ---
+
 #ifndef MEDIA_CDM_CDM_TYPE_CONVERSION_H_
 #define MEDIA_CDM_CDM_TYPE_CONVERSION_H_
 

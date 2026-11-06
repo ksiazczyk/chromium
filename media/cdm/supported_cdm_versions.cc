@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM version support checks implementation
+// summary: Implements IsSupportedAndEnabledCdmInterfaceVersion, combining static version support checks with an optional command-line override of the enabled CDM interface version.
+// ---
+
 #include "media/cdm/supported_cdm_versions.h"
 
 #include <optional>

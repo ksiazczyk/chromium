@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM session implementation
+// summary: Implements MediaFoundationCdmSession wrapping IMFContentDecryptionModuleSession, mapping Media Foundation session types, messages, and key statuses to Chromium CDM types.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm_session.h"
 
 #include <memory>

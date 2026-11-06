@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM load UMA helper declarations
+// summary: Declares the CdmLoadResult enum and functions for reporting CDM library loading metrics to UMA.
+// ---
+
 #ifndef MEDIA_CDM_LOAD_CDM_UMA_HELPER_H_
 #define MEDIA_CDM_LOAD_CDM_UMA_HELPER_H_
 

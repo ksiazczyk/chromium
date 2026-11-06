@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for CENC buffer decryption
+// summary: libFuzzer harness that exercises DecryptCencBuffer with generated subsample layouts and a fixed key and IV.
+// ---
+
 #include "media/cdm/cenc_decryptor.h"
 
 #include <stdint.h>

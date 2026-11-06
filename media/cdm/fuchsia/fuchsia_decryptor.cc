@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia decryptor implementation
+// summary: Implements FuchsiaDecryptor, a Decryptor that rejects direct decryption and decoder initialization, delegating work to Fuchsia stream decryptors.
+// ---
+
 #include "media/cdm/fuchsia/fuchsia_decryptor.h"
 
 #include "base/check.h"

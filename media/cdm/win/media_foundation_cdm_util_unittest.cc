@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation CDM utility unit tests
+// summary: Unit tests for the Media Foundation CDM utilities, verifying content type support results including retry behavior on MAYBE responses and CDM creation with mocked Media Foundation interfaces.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm_util.h"
 
 #include <Mferror.h>

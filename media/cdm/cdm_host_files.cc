@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM host files implementation
+// summary: Implements CdmHostFiles, which opens common and CDM-specific files and runs CDM host verification by calling the verification function exported by the CDM library.
+// ---
+
 #include "media/cdm/cdm_host_files.h"
 
 #include <memory>

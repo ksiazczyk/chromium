@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cbcs_decryptor.h
+// summary: Declares DecryptCbcsBuffer, which decrypts subsample and pattern-encrypted 'cbcs' buffers with a 128-bit AES-CBC key.
+// ---
+
 #ifndef MEDIA_CDM_CBCS_DECRYPTOR_H_
 #define MEDIA_CDM_CBCS_DECRYPTOR_H_
 

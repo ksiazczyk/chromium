@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media protection PMP server implementation
+// summary: Implements a mock IMediaProtectionPMPServer that creates an in-process PMP media session and serves PMP server and host services.
+// ---
+
 #include "media/cdm/win/test/mock_media_protection_pmp_server.h"
 
 #include <mfapi.h>

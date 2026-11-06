@@ -1,0 +1,4 @@
+# Docerion header of media_foundation_clear_key_cdm_version.rc.
+type: source
+title: Media Foundation Clear Key CDM version resource
+summary: Windows resource script defining file and product version metadata for the Media Foundation Clear Key CDM DLL.

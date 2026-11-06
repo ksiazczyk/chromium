@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleCdmBuffer implementation
+// summary: Implements SimpleCdmBuffer, a cdm::Buffer that stores data in a std::vector and provides capacity, data access and size handling.
+// ---
+
 #include "media/cdm/simple_cdm_buffer.h"
 
 #include <limits>

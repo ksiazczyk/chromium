@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM library load UMA reporting
+// summary: Reports CDM library load results, load error codes on Windows, and load times to UMA histograms.
+// ---
+
 #include "load_cdm_uma_helper.h"
 
 #include <string>

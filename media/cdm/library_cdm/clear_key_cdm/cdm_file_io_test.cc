@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File IO test runner implementation
+// summary: Implements test cases and steps that verify cdm::FileIO behavior such as file name validation and read and write results.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/cdm_file_io_test.h"
 
 #include <algorithm>

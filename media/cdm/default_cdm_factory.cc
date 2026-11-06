@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default CDM factory for Clear Key
+// summary: Implements DefaultCdmFactory, which creates AesDecryptor instances for Clear Key and External Clear Key key systems and reports unsupported key systems otherwise.
+// ---
+
 #include "media/cdm/default_cdm_factory.h"
 
 #include "base/functional/bind.h"

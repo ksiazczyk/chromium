@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia stream decryptor declaration
+// summary: Declares FuchsiaStreamDecryptor, a SysmemBufferStream that decrypts protected streams on Fuchsia and resubmits queued buffers after key updates.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_STREAM_DECRYPTOR_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_STREAM_DECRYPTOR_H_
 

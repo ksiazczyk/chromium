@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmContextRefImpl class declaration
+// summary: Declares CdmContextRefImpl, a CdmContextRef implementation that keeps a scoped reference to a ContentDecryptionModule.
+// ---
+
 #ifndef MEDIA_CDM_CDM_CONTEXT_REF_IMPL_H_
 #define MEDIA_CDM_CDM_CONTEXT_REF_IMPL_H_
 

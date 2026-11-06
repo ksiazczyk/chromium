@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmFileAdapter class declaration
+// summary: Declares CdmFileAdapter, which wraps cdm::FileIO to open, read and write files with completion callbacks.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_FILE_ADAPTER_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CDM_FILE_ADAPTER_H_
 

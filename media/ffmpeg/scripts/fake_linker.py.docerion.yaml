@@ -1,0 +1,4 @@
+# Docerion header of fake_linker.py.
+type: script
+title: Fake linker creating output files
+summary: 'Stub linker that scans arguments for -o or -out: and creates an empty file with that name, ignoring everything else.'

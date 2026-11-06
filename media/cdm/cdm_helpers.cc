@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM block and frame helper implementations
+// summary: Implements DecryptedBlockImpl, VideoFrameImpl, and AudioFramesImpl wrappers around CDM buffers, timestamps, and color space data.
+// ---
+
 
 #include "media/cdm/cdm_helpers.h"
 

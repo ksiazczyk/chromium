@@ -1,0 +1,4 @@
+# Docerion header of dll_export.def.
+type: config
+title: DLL export definitions for the Clear Key CDM
+summary: Linker module definition file marking DllCanUnloadNow, DllGetActivationFactory and DllGetClassObject as private exports of the Clear Key CDM library.

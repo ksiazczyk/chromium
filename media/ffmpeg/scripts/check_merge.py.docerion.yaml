@@ -1,0 +1,4 @@
+# Docerion header of check_merge.py.
+type: script
+title: Check FFmpeg merges for forbidden changes
+summary: Diffs a branch against upstream and fails when tripwire patterns such as UNCHECKED_BITSTREAM_READER appear in the merge.

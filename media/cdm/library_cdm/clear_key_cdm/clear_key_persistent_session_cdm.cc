@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Key persistent session CDM implementation
+// summary: Implements persistent session support for the Clear Key CDM by wrapping AesDecryptor with promise helpers for loading, updating and removing sessions.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/clear_key_persistent_session_cdm.h"
 
 #include <memory>

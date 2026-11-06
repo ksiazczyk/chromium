@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleCdmAllocator implementation
+// summary: Implements SimpleCdmAllocator, which creates SimpleCdmBuffer objects and video frames that transform into media VideoFrames.
+// ---
+
 
 #include "media/cdm/simple_cdm_allocator.h"
 

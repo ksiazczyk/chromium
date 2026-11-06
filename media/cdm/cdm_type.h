@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM type token definition
+// summary: Defines CdmType as a base::Token alias that uniquely identifies a CDM type for per-type process isolation and storage.
+// ---
+
 #ifndef MEDIA_CDM_CDM_TYPE_H_
 #define MEDIA_CDM_CDM_TYPE_H_
 

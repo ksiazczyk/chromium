@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation Clear Key trusted input header
+// summary: Declares MediaFoundationClearKeyTrustedInput, which implements IMFTrustedInput to provide input trust authorities for the Clear Key CDM.
+// ---
+
 #ifndef MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_TRUSTED_INPUT_H_
 #define MEDIA_CDM_WIN_TEST_MEDIA_FOUNDATION_CLEAR_KEY_TRUSTED_INPUT_H_
 

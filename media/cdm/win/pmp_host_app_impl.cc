@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PMP host app implementation
+// summary: Implements PmpHostAppImpl, a wrapper around IMFPMPHost and IMFPMPHostApp supporting process locking and class activation for the PlayReady CDM, including non-UWP activation via the EME store.
+// ---
+
 #include "media/cdm/win/pmp_host_app_impl.h"
 
 namespace {

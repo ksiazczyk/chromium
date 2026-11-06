@@ -1,0 +1,4 @@
+# Docerion header of build_ffmpeg.py.
+type: script
+title: Build FFmpeg for Chromium target platforms
+summary: Builds FFmpeg for a given target OS and architecture with platform-specific build notes, usually driven by robosushi.py.

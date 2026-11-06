@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia stream decryptor implementation
+// summary: Implements FuchsiaStreamDecryptor, decrypting protected media streams through the Fuchsia StreamProcessor with sysmem buffer collections.
+// ---
+
 #include "media/cdm/fuchsia/fuchsia_stream_decryptor.h"
 
 #include <fuchsia/media/cpp/fidl.h>

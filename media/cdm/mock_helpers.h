@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCdmAuxiliaryHelper mock header
+// summary: Declares MockCdmAuxiliaryHelper, a gmock mock of CdmAuxiliaryHelper for CDM tests covering query, protection, platform challenge and storage ID calls.
+// ---
+
 #ifndef MEDIA_CDM_MOCK_HELPERS_H_
 #define MEDIA_CDM_MOCK_HELPERS_H_
 

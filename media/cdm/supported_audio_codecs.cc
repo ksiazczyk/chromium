@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM supported audio codecs implementation
+// summary: Implements GetCdmSupportedAudioCodecs, returning the set of audio codecs a CDM can decode after decrypting the stream, with build flags controlling proprietary codec support.
+// ---
+
 #include "media/cdm/supported_audio_codecs.h"
 
 #include "media/media_buildflags.h"

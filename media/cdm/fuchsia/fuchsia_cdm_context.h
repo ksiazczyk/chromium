@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM context interface
+// summary: Defines the FuchsiaCdmContext interface that adds Fuchsia-specific stream decryptor creation to the CdmContext abstraction.
+// ---
+
 #ifndef MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_CONTEXT_H_
 #define MEDIA_CDM_FUCHSIA_FUCHSIA_CDM_CONTEXT_H_
 

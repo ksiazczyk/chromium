@@ -1,0 +1,4 @@
+# Docerion header of cygwin-wrapper.
+type: script
+title: Cygwin to Win32 path wrapper
+summary: Shell wrapper from Mozilla that converts cygdrive paths to Win32 paths when launching programs under Cygwin.

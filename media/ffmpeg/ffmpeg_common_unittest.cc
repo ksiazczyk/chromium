@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FFmpeg common unit tests
+// summary: Unit tests verifying conversion of FFmpeg stream parameters and extra data into Chromium audio and video decoder configurations.
+// ---
+
 #include "media/ffmpeg/ffmpeg_common.h"
 
 #include <stddef.h>

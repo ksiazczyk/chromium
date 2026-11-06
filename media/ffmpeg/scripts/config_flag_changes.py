@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Report FFmpeg config flag changes
+# summary: 'Parses the git diff of chromium/config files to list added or removed #define configuration flags versus the upstream baseline.'
+# ---
+
 """Extracts and reports changes in FFmpeg configuration flags.
 
 This module parses the git diff of configuration files to identify changes in

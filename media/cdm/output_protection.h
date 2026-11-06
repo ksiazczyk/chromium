@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtection interface header
+// summary: Declares the OutputProtection interface for querying output link status and enabling output protection such as HDCP.
+// ---
+
 #ifndef MEDIA_CDM_OUTPUT_PROTECTION_H_
 #define MEDIA_CDM_OUTPUT_PROTECTION_H_
 

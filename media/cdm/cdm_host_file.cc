@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmHostFile implementation
+// summary: Implements CdmHostFile, which opens a CDM host file and its signature file and hands their platform files to the CDM.
+// ---
+
 #include "media/cdm/cdm_host_file.h"
 
 #include <memory>

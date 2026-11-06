@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device change message window implementation
+// summary: Implements SystemMessageWindowWin, registering device notifications to report audio and video device changes on Windows.
+// ---
+
 #include "media/device_monitors/system_message_window_win.h"
 
 #include <dbt.h>

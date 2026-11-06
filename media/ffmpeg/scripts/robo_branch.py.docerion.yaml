@@ -1,0 +1,4 @@
+# Docerion header of robo_branch.py.
+type: script
+title: Sushi branch helpers for FFmpeg merges
+summary: Provides functions to create, check out, and manage dated sushi branches used to merge upstream FFmpeg into Chromium.

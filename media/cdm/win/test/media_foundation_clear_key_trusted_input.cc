@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation Clear Key trusted input implementation
+// summary: Implements IMFTrustedInput for the Clear Key CDM, creating an input trust authority for each requested media stream.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_trusted_input.h"
 
 #include <mfapi.h>

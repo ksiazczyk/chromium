@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for media device monitors
+summary: Defines the device_monitors source set and unit tests, selecting udev, Mac, or Windows sources per platform.

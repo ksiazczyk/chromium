@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual core window header
+// summary: Declares VirtualCoreWindowImpl, a minimal ICoreWindow and ICoreWindowInterop implementation used to supply an HWND to Media Foundation's IMFExtendedDRMTypeSupport for adapter selection.
+// ---
+
 #ifndef MEDIA_CDM_WIN_VIRTUAL_CORE_WINDOW_IMPL_H_
 #define MEDIA_CDM_WIN_VIRTUAL_CORE_WINDOW_IMPL_H_
 

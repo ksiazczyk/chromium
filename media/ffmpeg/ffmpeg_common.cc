@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg common conversion implementations
+// summary: Implements conversions between FFmpeg structures and Chromium media audio and video decoder configurations, including codec whitelists and codec context security settings.
+// ---
+
 #include "media/ffmpeg/ffmpeg_common.h"
 
 #include "base/containers/span.h"

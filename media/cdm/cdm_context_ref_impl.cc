@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmContextRefImpl implementation
+// summary: Implements CdmContextRefImpl, which holds a ContentDecryptionModule reference and exposes its CdmContext on a validated thread.
+// ---
+
 #include "media/cdm/cdm_context_ref_impl.h"
 
 #include <ostream>

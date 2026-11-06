@@ -1,0 +1,4 @@
+# Docerion header of device_monitor_mac.mm.
+type: source
+title: macOS device monitor implementation using AVFoundation
+summary: Implements DeviceMonitorMac with AVFoundation and NSNotificationCenter observers to detect video device changes on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmHostProxy interface for proxying calls to the CDM host
+// summary: Declares the CdmHostProxy interface, a superset of all supported CDM Host interfaces, used to proxy calls to the CDM host.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CDM_HOST_PROXY_H_
 #define MEDIA_CDM_LIBRARY_CDM_CDM_HOST_PROXY_H_
 

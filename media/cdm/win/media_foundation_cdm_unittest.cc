@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation CDM unit tests
+// summary: Unit tests for the MediaFoundationCdm class, covering initialization, session message and key handling, expiration updates, and UMA metrics using mocked Media Foundation interfaces.
+// ---
+
 #include "media/cdm/win/media_foundation_cdm.h"
 
 #include <wchar.h>

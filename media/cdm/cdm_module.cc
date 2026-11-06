@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM module loading implementation
+// summary: Implements the CdmModule singleton that loads the CDM library, resolves its exported functions, and optionally runs CDM host verification with UMA reporting.
+// ---
+
 #include "media/cdm/cdm_module.h"
 
 #include "base/files/file_util.h"

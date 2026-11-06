@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM supported audio codecs header
+// summary: Declares GetCdmSupportedAudioCodecs, which reports audio codecs the browser can decode after a CDM decrypts the stream, intended for desktop CDMs.
+// ---
+
 #ifndef MEDIA_CDM_SUPPORTED_AUDIO_CODECS_H_
 #define MEDIA_CDM_SUPPORTED_AUDIO_CODECS_H_
 

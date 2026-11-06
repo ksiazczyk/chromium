@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cbcs_decryptor_unittest.cc
+// summary: Unit tests verifying cbcs buffer decryption for single, partial, and patterned blocks using AES-CBC encryption.
+// ---
+
 #include "media/cdm/cbcs_decryptor.h"
 
 #include <algorithm>

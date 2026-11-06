@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg CDM audio decoder implementation
+// summary: Decodes audio for the Clear Key CDM using FFmpeg, converting CDM decoder configs to AVCodecContext and serializing decoded audio frames for output.
+// ---
+
 #include "media/cdm/library_cdm/clear_key_cdm/ffmpeg_cdm_audio_decoder.h"
 
 #include <stddef.h>

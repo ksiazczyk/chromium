@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cbcs_decryptor.cc
+// summary: Implements decryption of 'cbcs' pattern-encrypted media buffers using AES-CBC, applying crypt/skip block patterns per ISO/IEC 23001-7.
+// ---
+
 
 #include "media/cdm/cbcs_decryptor.h"
 

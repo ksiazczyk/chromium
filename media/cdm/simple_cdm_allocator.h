@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleCdmAllocator header
+// summary: Declares SimpleCdmAllocator, a simple CdmAllocator intended for testing that creates CDM buffers and video frames.
+// ---
+
 #ifndef MEDIA_CDM_SIMPLE_CDM_ALLOCATOR_H_
 #define MEDIA_CDM_SIMPLE_CDM_ALLOCATOR_H_
 

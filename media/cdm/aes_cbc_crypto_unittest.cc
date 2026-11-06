@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AesCbcCrypto unit tests
+// summary: Unit tests verifying AES-CBC decryption for single blocks, wrong keys and IVs, and partial block handling.
+// ---
+
 #include "media/cdm/aes_cbc_crypto.h"
 
 #include <memory>

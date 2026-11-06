@@ -1,3 +1,13 @@
+---
+type: readme
+title: //media/ffmpeg README
+summary: Describes the directory's FFmpeg glue code and scripts, with instructions for rolling FFmpeg and upstreaming patches via code.ffmpeg.org or the mailing list.
+relations:
+  - documents /media/ffmpeg/ffmpeg_decoding_loop.h
+  - documents /media/ffmpeg/scoped_av_packet.h
+  - references /media/ffmpeg/scripts/robosushi.md
+---
+
 # //media/ffmpeg
 
 This directory contains all of the [scripts](scripts/) for rolling FFmpeg in

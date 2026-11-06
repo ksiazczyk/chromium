@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Clear Key decryptor implementation
+// summary: Implements the MediaFoundationClearKeyDecryptor IMFTransform that decrypts protected samples or passes through clear content via an AesDecryptor.
+// ---
+
 #include "media/cdm/win/test/media_foundation_clear_key_decryptor.h"
 
 #include <mfapi.h>

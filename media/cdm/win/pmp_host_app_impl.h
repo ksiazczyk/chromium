@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PMP host app header
+// summary: Declares the PmpHostAppImpl template class that adapts IMFPMPHost into IMFPMPHostApp for non-UWP apps, needed by the PlayReady CDM to instantiate objects in the appropriate environment.
+// ---
+
 #ifndef MEDIA_CDM_WIN_PMP_HOST_APP_IMPL_H_
 #define MEDIA_CDM_WIN_PMP_HOST_APP_IMPL_H_
 

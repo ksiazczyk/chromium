@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearKeyCdm class declaration
+// summary: Declares ClearKeyCdm, the clear key implementation of the cdm::ContentDecryptionModule interfaces.
+// ---
+
 #ifndef MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CLEAR_KEY_CDM_H_
 #define MEDIA_CDM_LIBRARY_CDM_CLEAR_KEY_CDM_CLEAR_KEY_CDM_H_
 

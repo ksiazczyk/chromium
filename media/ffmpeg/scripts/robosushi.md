@@ -1,3 +1,13 @@
+---
+type: guide
+title: Robosushi guide to rolling FFmpeg
+summary: Explains how to roll new FFmpeg versions into Chromium with robosushi, covering setup, auto-merge, troubleshooting, and manual fallbacks.
+relations:
+  - documents /media/ffmpeg/scripts/robosushi.py
+  - references /media/ffmpeg/scripts/build_ffmpeg.py
+  - references /.gn
+---
+
 # Robosushi - A (Semi)automatic Tool for Rolling FFmpeg
 
 `Greetings, Adventurer!`
