@@ -1,0 +1,4 @@
+# Docerion header of desktop.template.
+type: config
+title: Desktop entry template
+summary: Desktop entry template with localized names and comments used to generate the application launcher for the installed browser.

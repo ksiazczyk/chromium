@@ -1,0 +1,4 @@
+# Docerion header of lint_package.py.
+type: script
+title: RPM package lint script
+summary: Runs rpmlint with the repository configuration to perform static analysis checks on built Chrome RPM packages.

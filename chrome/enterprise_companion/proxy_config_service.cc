@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy-based proxy configuration service
+// summary: Builds a proxy configuration service that sources proxy settings from cloud and local system policies with a fallback service.
+// ---
+
 #include "chrome/enterprise_companion/proxy_config_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion system lock header
+// summary: Declares CreateScopedLock, which acquires a machine-wide lock or returns null once the timeout expires.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_LOCK_H_
 #define CHROME_ENTERPRISE_COMPANION_LOCK_H_
 

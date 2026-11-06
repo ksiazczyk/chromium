@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome Enterprise Companion build configuration
+summary: Defines build targets, generated version and branding headers, and test targets for the Chrome Enterprise Companion app.

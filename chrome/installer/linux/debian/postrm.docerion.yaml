@@ -1,0 +1,4 @@
+# Docerion header of postrm.
+type: script
+title: Post-removal script for Chrome Debian packages
+summary: Postrm maintainer script that on purge removes the defaults file, repository sources and signing key added by the package.

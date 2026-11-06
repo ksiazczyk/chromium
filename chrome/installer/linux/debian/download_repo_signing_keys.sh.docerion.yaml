@@ -1,0 +1,4 @@
+# Docerion header of download_repo_signing_keys.sh.
+type: script
+title: Download repository signing keys for Debian and Ubuntu
+summary: Fetches Debian and Ubuntu archive signing keys from a keyserver and exports them into repo_signing_keys.gpg for the apt repository.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCAPI public header for macOS
+// summary: Declares the C interface for GoogleChromeCompatibilityCheck, InstallGoogleChrome, and LaunchGoogleChrome, plus error flag constants for the macOS installer API.
+// ---
+
 #ifndef CHROME_INSTALLER_GCAPI_MAC_GCAPI_H_
 #define CHROME_INSTALLER_GCAPI_MAC_GCAPI_H_
 

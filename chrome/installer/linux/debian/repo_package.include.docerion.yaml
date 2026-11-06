@@ -1,0 +1,4 @@
+# Docerion header of repo_package.include.
+type: config
+title: Repo package version include
+summary: Auto-generated include defining the repo package version, timestamp and hash for Debian packaging, not to be edited directly.

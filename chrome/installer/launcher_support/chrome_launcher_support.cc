@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome launcher support implementation
+// summary: Implements helpers that locate an installed Chrome executable and its version through the Windows registry, for both Google Chrome and Chromium builds.
+// ---
+
 #include "chrome/installer/launcher_support/chrome_launcher_support.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for telemetry logger protobuf
+summary: Defines GN group and proto_library targets that build the telemetry logger protobuf with proper protobuf config and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of key.include.
+type: data
+title: Google Linux packages signing key
+summary: Auto-generated shell fragment embedding the Google Linux packages signing key as PGP key data for repository verification.

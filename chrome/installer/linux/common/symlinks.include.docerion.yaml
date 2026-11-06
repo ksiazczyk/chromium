@@ -1,0 +1,4 @@
+# Docerion header of symlinks.include.
+type: script
+title: NSS and udev symlink helpers
+summary: Shell functions that create and remove symlinks to system NSS libraries and the udev library inside the install directory.

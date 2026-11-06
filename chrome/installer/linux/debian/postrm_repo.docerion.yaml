@@ -1,0 +1,4 @@
+# Docerion header of postrm_repo.
+type: script
+title: Post-removal script for repository packages
+summary: Postrm maintainer script for repository packages that cleans apt sources lists and uninstalls the signing key on purge.

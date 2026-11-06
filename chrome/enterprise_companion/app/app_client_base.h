@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC client app base class header
+// summary: Declares AppClientBase, the base class for apps that act as Mojo IPC clients of the companion server.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_APP_APP_CLIENT_BASE_H_
 #define CHROME_ENTERPRISE_COMPANION_APP_APP_CLIENT_BASE_H_
 

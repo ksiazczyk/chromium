@@ -1,0 +1,4 @@
+# Docerion header of launcher.template.
+type: script
+title: Flatpak launcher script template
+summary: Bash template for the Flatpak launcher that execs the Chrome binary under /app, reusing the install directory to keep paths consistent with DEB and RPM packages.

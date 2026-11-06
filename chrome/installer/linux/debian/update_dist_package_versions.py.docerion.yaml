@@ -1,0 +1,4 @@
+# Docerion header of update_dist_package_versions.py.
+type: script
+title: Update dist package versions
+summary: Downloads and verifies Debian and Ubuntu package lists, then records dependency package versions into dist_package_versions.json.

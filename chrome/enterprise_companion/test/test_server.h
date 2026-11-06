@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server with ordered HTTP expectations
+// summary: Declares a test server with ordered request matchers, canned responses, and helpers for event log and PAC URL expectations.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_TEST_TEST_SERVER_H_
 #define CHROME_ENTERPRISE_COMPANION_TEST_TEST_SERVER_H_
 

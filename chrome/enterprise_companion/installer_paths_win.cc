@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows installer paths
+// summary: Defines the Windows install directory under Program Files (x86) and locates an existing enterprise_companion.exe.
+// ---
+
 #include "chrome/enterprise_companion/installer_paths.h"
 
 #include <optional>

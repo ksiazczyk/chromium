@@ -1,0 +1,4 @@
+# Docerion header of mac_utils.mm.
+type: source
+title: Enterprise Companion Mac utilities implementation
+summary: Implements GuessLoggedInUser by querying the System Configuration dynamic store for console session info and returning the UID of the on-console session.

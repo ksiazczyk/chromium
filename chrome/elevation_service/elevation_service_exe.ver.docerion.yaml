@@ -1,0 +1,4 @@
+# Docerion header of elevation_service_exe.ver.
+type: config
+title: Elevation service executable version metadata
+summary: Version resource settings naming the elevation service executable for Windows version information.

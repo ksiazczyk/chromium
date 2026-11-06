@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global constants implementation
+// summary: Implements the global constants singleton holding service URLs, event logger timeout, and Windows named pipe security descriptor, with JSON overrides in test builds.
+// ---
+
 #include "chrome/enterprise_companion/global_constants.h"
 
 #include <memory>

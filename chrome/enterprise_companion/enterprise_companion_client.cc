@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC client implementation for the companion app
+// summary: Implements client utilities that connect to the companion app's Mojo IPC server, launching the installed application when the service is not running.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion status implementation
+// summary: Implements human-readable descriptions for device management statuses, cloud policy validation results, and application errors behind EnterpriseCompanionStatus.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_status.h"
 
 #include <string>

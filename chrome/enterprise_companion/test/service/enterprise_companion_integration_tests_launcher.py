@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Enterprise companion integration tests launcher
+# summary: Python launcher that runs the enterprise companion integration tests at the right privilege level, using passwordless sudo as root on POSIX and direct execution on Windows, then restores output ownership.
+# ---
+
 """Launches the enterprise companion integration tests, possibly as root.
 
 This script ensures that the enterprise companion integration tests are run at

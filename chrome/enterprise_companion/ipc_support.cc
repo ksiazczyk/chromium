@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion IPC support implementation
+// summary: Initializes Mojo IPC support on a dedicated IO thread so the enterprise companion app can use Mojo messaging.
+// ---
+
 #include "chrome/enterprise_companion/ipc_support.h"
 
 #include <memory>

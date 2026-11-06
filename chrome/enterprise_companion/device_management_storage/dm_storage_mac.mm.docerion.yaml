@@ -1,0 +1,4 @@
+# Docerion header of dm_storage_mac.mm.
+type: source
+title: macOS device management token storage
+summary: macOS implementation of the token service that reads and writes enrollment and DM tokens via files and managed browser preferences.

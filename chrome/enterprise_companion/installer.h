@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer interface and Windows registry constants
+// summary: Declares the Install and Uninstall entry points and the Windows registry keys and values used for the app's updater registration.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_INSTALLER_H_
 #define CHROME_ENTERPRISE_COMPANION_INSTALLER_H_
 

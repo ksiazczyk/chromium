@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Elevation service integration tests
+// summary: Tests that install and exercise the elevation service, covering de-elevated callers, isolation expectations, and IElevator2 usage.
+// ---
+
 #include <objbase.h>
 
 #include <windows.h>

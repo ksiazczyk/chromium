@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caller validation implementation
+// summary: Implements generation and validation of caller validation data, including trimming and comparing calling process paths.
+// ---
+
 #include "chrome/elevation_service/caller_validation.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion service implementation
+// summary: Implements the core companion service that registers the device and fetches policies through the DMClient, handling shutdown and event logging.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_service.h"
 
 #include <memory>

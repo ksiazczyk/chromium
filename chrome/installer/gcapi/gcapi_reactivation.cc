@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCAPI reactivation implementation
+// summary: Writes the reactivation brand code to the Google Update client state key and records reactivation history timestamps in the registry.
+// ---
+
 #include "chrome/installer/gcapi/gcapi_reactivation.h"
 
 #include <stdint.h>

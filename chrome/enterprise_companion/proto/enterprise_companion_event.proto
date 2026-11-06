@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion event protobuf definitions
+// summary: Proto3 definitions of statuses, events, and metadata messages used to report enterprise companion enrollment, policy fetch, and freshness events in log requests.
+// ---
+
 syntax = "proto3";
 
 package enterprise_companion.proto;

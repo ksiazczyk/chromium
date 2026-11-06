@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App interface and app factory functions
+// summary: Declares the App interface and factories for server, shutdown, policy fetch, installer, and network worker app variants.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_APP_APP_H_
 #define CHROME_ENTERPRISE_COMPANION_APP_APP_H_
 

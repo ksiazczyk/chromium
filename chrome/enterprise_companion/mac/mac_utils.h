@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion Mac utilities header
+// summary: Declares GuessLoggedInUser, which determines the UID of the logged-in console user on macOS, preferring the System Configuration store over stat of /dev/console.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_MAC_MAC_UTILS_H_
 #define CHROME_ENTERPRISE_COMPANION_MAC_MAC_UTILS_H_
 

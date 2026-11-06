@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion event logger implementation
+// summary: Implements telemetry event logging for the companion app, including the logging cookie handler and network requests to the event logging service.
+// ---
+
 #include "chrome/enterprise_companion/event_logger.h"
 
 #include <stddef.h>

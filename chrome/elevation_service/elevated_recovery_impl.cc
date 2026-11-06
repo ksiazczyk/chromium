@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevated recovery implementation
+// summary: Implements unpacking, signature verification, and elevated execution of the Chrome recovery CRX to repair Google Update.
+// ---
+
 #include "chrome/elevation_service/elevated_recovery_impl.h"
 
 #include <objbase.h>

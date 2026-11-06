@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContentGpuClient class declaration
+// summary: Declares the ChromeContentGpuClient class, which customizes the GPU process with profiler setup and ChromeOS protected buffer manager support.
+// ---
+
 #ifndef CHROME_GPU_CHROME_CONTENT_GPU_CLIENT_H_
 #define CHROME_GPU_CHROME_CONTENT_GPU_CLIENT_H_
 

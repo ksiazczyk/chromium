@@ -1,0 +1,4 @@
+# Docerion header of gcapi_test.rc.
+type: source
+title: gcapi_test resource script
+summary: Visual C++ resource script defining version and product metadata for the gcapi_test application.

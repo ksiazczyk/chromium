@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of Chrome GPU interfaces exposed to the browser
+// summary: Declares the function that populates a Mojo BinderMap with Chrome interfaces exposed from the GPU process to the browser.
+// ---
+
 #ifndef CHROME_GPU_BROWSER_EXPOSED_GPU_INTERFACES_H_
 #define CHROME_GPU_BROWSER_EXPOSED_GPU_INTERFACES_H_
 

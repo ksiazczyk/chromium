@@ -1,0 +1,4 @@
+# Docerion header of config.gni.
+type: config
+title: Build enablement for Chrome Enterprise Companion
+summary: Defines the enable_enterprise_companion flag, enabling the app on Mac, Linux and Windows except CastOS.

@@ -1,0 +1,4 @@
+# Docerion header of postinst.
+type: script
+title: Post-install script for Chrome Debian packages
+summary: Debian postinst maintainer script that registers browser alternatives by channel priority and installs the apt repository key and sources.

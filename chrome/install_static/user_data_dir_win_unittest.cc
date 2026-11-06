@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data dir Windows unit tests
+// summary: Unit tests for user data directory resolution, covering registry policy overrides in HKLM and HKCU and fallback defaults.
+// ---
+
 #include "chrome/install_static/user_data_dir.h"
 
 #include <algorithm>

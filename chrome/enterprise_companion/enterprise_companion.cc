@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion app entry point implementation
+// summary: Implements the application entry point with logging setup, thread pool initialization, and command-line dispatch to shutdown, fetch, install, uninstall, or server apps.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion.h"
 
 #include <stddef.h>

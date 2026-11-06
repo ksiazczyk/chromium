@@ -1,0 +1,4 @@
+# Docerion header of apt.include.
+type: script
+title: APT repository setup functions
+summary: Shell functions that install the package signing key and create, migrate or clean the apt repository sources for deb-based installs.

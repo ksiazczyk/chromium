@@ -1,0 +1,4 @@
+# Docerion header of package_version_interval_test.py.
+type: test
+title: Tests for package version interval logic
+summary: Asserts correct parsing, intersection, containment and implication behavior of package version intervals using deb_version.

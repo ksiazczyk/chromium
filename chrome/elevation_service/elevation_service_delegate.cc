@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation service delegate implementation
+// summary: Implements the service delegate that creates the Elevator COM class factory and cleans the Chrome recovery directory before the service runs.
+// ---
+
 #include "chrome/elevation_service/elevation_service_delegate.h"
 
 #include <wrl/module.h>

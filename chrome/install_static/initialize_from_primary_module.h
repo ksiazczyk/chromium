@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initialize From Primary Module
+// summary: Declares a function that initializes the module's InstallDetails instance from the payload exported by the process's primary module.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_INITIALIZE_FROM_PRIMARY_MODULE_H_
 #define CHROME_INSTALL_STATIC_INITIALIZE_FROM_PRIMARY_MODULE_H_
 

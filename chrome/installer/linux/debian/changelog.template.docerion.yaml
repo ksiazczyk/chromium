@@ -1,0 +1,4 @@
+# Docerion header of changelog.template.
+type: config
+title: Debian changelog template
+summary: Template used to generate the Debian changelog entry for a package build, filling in package name, channel, version and maintainer details.

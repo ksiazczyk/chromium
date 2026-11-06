@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management client interface
+// summary: Declares the DMClient interface for policy registration and fetching, plus failed enrollment token services and factory functions.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_DM_CLIENT_H_
 #define CHROME_ENTERPRISE_COMPANION_DM_CLIENT_H_
 

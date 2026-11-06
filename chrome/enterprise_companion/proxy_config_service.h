@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy-based proxy configuration service header
+// summary: Declares factories for a proxy config service combining cloud and system policies with a fallback service.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_PROXY_CONFIG_SERVICE_H_
 #define CHROME_ENTERPRISE_COMPANION_PROXY_CONFIG_SERVICE_H_
 

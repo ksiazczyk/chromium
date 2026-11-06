@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion status class
+// summary: Defines the canonical status variant used across the app, converting between device management, validation, application, and persisted errors and Mojom statuses.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_STATUS_H_
 #define CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_STATUS_H_
 

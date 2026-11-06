@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion service stub declarations
+// summary: Declares factory functions for the server endpoint options and the service stub that delegates RPC calls to an EnterpriseCompanionService.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_SERVICE_STUB_H_
 #define CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_SERVICE_STUB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gcapi_example_client.mm.
+type: source
+title: Example command-line client for GCAPI
+summary: Command-line example that runs the compatibility check and optionally installs, brands, and launches Google Chrome using the macOS GCAPI functions.

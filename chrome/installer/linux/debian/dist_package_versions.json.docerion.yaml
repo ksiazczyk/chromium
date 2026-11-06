@@ -1,0 +1,4 @@
+# Docerion header of dist_package_versions.json.
+type: data
+title: Distribution package version data
+summary: Records known versions of shared library packages for supported Debian and Ubuntu releases, used for dependency version checks.

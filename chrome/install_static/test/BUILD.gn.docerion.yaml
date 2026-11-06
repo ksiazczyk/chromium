@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for install_static test support
+summary: Defines a testonly source_set bundling the scoped_install_details test support sources with dependencies on base and install_static_util.

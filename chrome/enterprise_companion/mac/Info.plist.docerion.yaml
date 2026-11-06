@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Enterprise Companion Mac app bundle Info.plist
+summary: Property list template for the macOS app bundle, defining bundle identifier, name, version, LSUIElement, minimum system version, and transport security settings.

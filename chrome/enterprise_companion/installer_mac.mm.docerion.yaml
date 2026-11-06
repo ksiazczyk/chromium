@@ -1,0 +1,4 @@
+# Docerion header of installer_mac.mm.
+type: source
+title: macOS installer implementation
+summary: Installs the app bundle on macOS and registers the installation with ksadmin within a timeout.

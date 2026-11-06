@@ -7,6 +7,12 @@
 // information etc. This functionality is provided by using functions in
 // kernel32 and advapi32. No other dependencies are allowed in this file.
 
+// ---docerion
+// type: source
+// title: Install Utility
+// summary: Declares helper functions and constants for Chrome install information such as registry paths, channel data, and system install state.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_INSTALL_UTIL_H_
 #define CHROME_INSTALL_STATIC_INSTALL_UTIL_H_
 

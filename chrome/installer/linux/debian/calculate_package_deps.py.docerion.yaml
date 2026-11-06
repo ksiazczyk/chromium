@@ -1,0 +1,4 @@
+# Docerion header of calculate_package_deps.py.
+type: source
+title: Package dependency calculator
+summary: Uses dpkg-shlibdeps to compute a binary's shared library dependencies and checks they are satisfiable on supported Debian-based distributions.

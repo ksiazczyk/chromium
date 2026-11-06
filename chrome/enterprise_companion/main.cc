@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion entry point
+// summary: Defines the POSIX main and Windows wWinMain entry points that dispatch to EnterpriseCompanionMain, with test-only hooks.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/enterprise_companion/enterprise_companion.h"
 

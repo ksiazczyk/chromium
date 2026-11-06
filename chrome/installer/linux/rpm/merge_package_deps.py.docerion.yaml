@@ -1,0 +1,4 @@
+# Docerion header of merge_package_deps.py.
+type: script
+title: Package dependency merge script
+summary: Merges multiple package dependency files into a single sorted output file, ignoring blank lines and comments.

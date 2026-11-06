@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration test runner entry point
+// summary: Entry point for the integration test binary that configures logging, requires elevated privileges, and runs the tests serially.
+// ---
+
 #include <stdlib.h>
 
 #include <optional>

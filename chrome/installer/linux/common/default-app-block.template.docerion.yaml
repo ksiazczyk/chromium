@@ -1,0 +1,4 @@
+# Docerion header of default-app-block.template.
+type: config
+title: Default app block template
+summary: XML template fragment that registers the packaged browser as a web-browser entry for GNOME default application settings.

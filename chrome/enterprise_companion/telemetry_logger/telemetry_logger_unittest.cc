@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TelemetryLogger
+// summary: Unit tests verifying TelemetryLogger event serialization, buffering, and upload behavior using a mock server and test delegate.
+// ---
+
 #include "chrome/enterprise_companion/telemetry_logger/telemetry_logger.h"
 
 #include <algorithm>

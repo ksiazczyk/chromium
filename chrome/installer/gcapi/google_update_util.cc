@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update brand registry utility
+// summary: Implements gcapi_internals::GetBrand, reading Chrome's brand from Google Update ClientState registry keys in HKCU and HKLM.
+// ---
+
 #include "chrome/installer/gcapi/google_update_util.h"
 
 #include <windows.h>

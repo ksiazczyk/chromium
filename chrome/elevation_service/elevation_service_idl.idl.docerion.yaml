@@ -1,0 +1,4 @@
+# Docerion header of elevation_service_idl.idl.
+type: source
+title: IElevator COM interface definitions
+summary: Defines the IElevator COM interfaces with protection levels and methods for elevated recovery CRX execution and DPAPI data encryption and decryption.

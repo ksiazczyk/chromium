@@ -1,0 +1,4 @@
+# Docerion header of chrome.spec.template.
+type: config
+title: Chrome RPM spec file template
+summary: Template for the Chrome RPM spec file defining package metadata, dependencies, install steps, file lists, and pre/post install scriptlets.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for install_static
+summary: Defines the install_static_util static library, buildflags header, primary and secondary module source sets, and the install_static_unittests test target for Windows.

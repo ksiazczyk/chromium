@@ -1,0 +1,4 @@
+# Docerion header of enterprise_companion_branding.h.in.
+type: config
+title: Branding constants template header
+summary: Template header defining branding and endpoint constants such as company name, app ID, and server URLs, filled in at build time.

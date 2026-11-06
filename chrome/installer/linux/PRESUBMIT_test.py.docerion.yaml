@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the Linux installer presubmit script
+summary: Unit tests covering the repo package hash check, including matching, mismatching, missing, and build-failure scenarios.

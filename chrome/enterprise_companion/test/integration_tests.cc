@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise Companion integration tests
+// summary: Integration tests that install and run the enterprise companion app against an embedded policy test server to verify enrollment, policy delivery, and event reporting.
+// ---
+
 #include <optional>
 #include <string>
 

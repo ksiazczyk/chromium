@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event logger unit tests
+// summary: Unit tests for the event logger cookie handler, verifying cookie persistence and updates via a mock cookie manager.
+// ---
+
 #include "chrome/enterprise_companion/event_logger.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC client app base implementation
+// summary: Implements AppClientBase, connecting to the Enterprise Companion IPC server over Mojo and handling connection failures.
+// ---
+
 #include "chrome/enterprise_companion/app/app_client_base.h"
 
 #include "base/sequence_checker.h"

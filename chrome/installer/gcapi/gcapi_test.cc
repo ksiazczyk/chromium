@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCAPI test executable entry point
+// summary: Main entry point for the gcapi_test binary that runs Google Test suites and optionally exercises static and dynamic compatibility checks plus Chrome launch.
+// ---
+
 #include <stdio.h>
 
 #include "base/at_exit.h"

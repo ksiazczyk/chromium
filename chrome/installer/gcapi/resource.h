@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource IDs for gcapi_test
+// summary: Visual C++ generated header defining resource identifiers used by the gcapi_test resource script.
+// ---
+
 #ifndef CHROME_INSTALLER_GCAPI_RESOURCE_H_
 #define CHROME_INSTALLER_GCAPI_RESOURCE_H_
 

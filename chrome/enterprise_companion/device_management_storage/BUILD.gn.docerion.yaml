@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device management storage build definition
+summary: Defines the device_management_storage static library with platform-specific sources and its unit test target for the Chrome enterprise companion.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Chrome GPU library
+summary: Defines the static library for the Chrome GPU process, listing its sources and dependencies including ChromeOS ARC video acceleration and Widevine build flags.

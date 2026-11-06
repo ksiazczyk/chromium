@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data dir header
+// summary: Declares functions to retrieve the user data directory with command line and registry policy overrides.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_USER_DATA_DIR_H_
 #define CHROME_INSTALL_STATIC_USER_DATA_DIR_H_
 

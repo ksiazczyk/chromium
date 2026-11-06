@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data dir
+// summary: Resolves the user data directory from command line flags, registry policy, and defaults, including headless temporary directories.
+// ---
+
 #include "chrome/install_static/user_data_dir.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for install_static
+summary: Delegates ownership to chrome/installer/OWNERS and assigns the policy path parser files to the browser policy owners.

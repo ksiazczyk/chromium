@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux installer implementation
+// summary: Installs the app on Linux by copying the executable into the install directory with a backup of the previous version and POSIX permissions.
+// ---
+
 #include "chrome/enterprise_companion/installer.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS IPC security
+// summary: Allows IPC connections only from callers whose audit token effective user ID matches the companion process.
+// ---
+
 #include "chrome/enterprise_companion/ipc_security.h"
 
 #include <bsm/libbsm.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux installer paths
+// summary: Defines the Linux install directory under /opt and locates an existing enterprise_companion executable.
+// ---
+
 #include "chrome/enterprise_companion/installer_paths.h"
 
 #include <optional>

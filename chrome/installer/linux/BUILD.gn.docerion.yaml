@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Linux installer
+summary: Defines build targets, architecture mappings, and packaging file lists for Chrome's Linux deb, rpm, and flatpak installer packages.

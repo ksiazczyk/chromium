@@ -1,0 +1,4 @@
+# Docerion header of appdata.xml.template.
+type: data
+title: AppStream appdata XML template
+summary: AppStream metadata template describing the packaged browser with name, licenses, screenshots and URLs for software centers.

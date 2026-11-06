@@ -1,0 +1,4 @@
+# Docerion header of package_version_interval.py.
+type: source
+title: Debian package version interval logic
+summary: Implements Debian package version intervals with parsing, intersection, containment and implication logic for dependency checks.

@@ -1,0 +1,4 @@
+# Docerion header of google-chrome.info.
+type: config
+title: Google Chrome package build information
+summary: Build configuration for google-chrome packages, defining package name, install directory, menu name, descriptions and maintainer details.

@@ -1,0 +1,4 @@
+# Docerion header of calculate_package_deps.py.
+type: script
+title: Package dependency calculator
+summary: Computes a binary's RPM requirements using find-requires and checks that they are satisfiable on all supported rpm-based distributions.

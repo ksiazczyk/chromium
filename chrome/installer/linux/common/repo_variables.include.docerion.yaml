@@ -1,0 +1,4 @@
+# Docerion header of repo_variables.include.
+type: config
+title: Repository configuration variables for package updates
+summary: Defines the REPOCONFIG and REPOCONFIGREGEX template variables used when setting up the package repository.

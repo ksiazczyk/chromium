@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCAPI last-run unit tests
+// summary: Tests GoogleChromeDaysSinceLastRun using an overridden HKCU registry with fake client state values for valid, missing, invalid, and out-of-range last-run times.
+// ---
+
 #include <stdint.h>
 
 #include <limits>

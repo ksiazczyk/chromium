@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise Companion Mac app bundle build targets
+summary: Defines GN targets for the macOS Enterprise Companion app bundle, a test-only bundle copied into EnterpriseCompanionTestApp, and copying of signing scripts.

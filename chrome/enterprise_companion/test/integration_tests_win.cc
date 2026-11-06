@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows installer integration tests
+// summary: Windows-specific integration tests for the installer, covering first install, overinstall, and updater registration scenarios.
+// ---
+
 #include <stdint.h>
 
 #include <optional>

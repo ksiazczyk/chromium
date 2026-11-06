@@ -1,3 +1,13 @@
+---
+type: readme
+title: Install Static Library overview
+summary: Explains that install_static provides minimal Windows installation property detection and utility functions with only kernel32 and version dependencies, making it suitable for chrome_elf.
+relations:
+  - references /chrome/install_static/install_modes.h
+  - references /chrome/install_static/install_constants.h
+  - references /chrome/install_static/install_details.h
+---
+
 # Install Static Library
 
 The install_static library for Windows contains the minimum functionality to

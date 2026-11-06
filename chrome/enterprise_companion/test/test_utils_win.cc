@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows test utilities for Enterprise Companion
+// summary: Windows-specific test helpers that verify updater registry registration, clean registry keys, and set proxy policies for Enterprise Companion tests.
+// ---
+
 #include "chrome/enterprise_companion/test/test_utils.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Elevator string handling unit tests
+// summary: Unit tests for the Elevator length-prefixed string append and pop helpers, covering empty strings and data with embedded nulls.
+// ---
+
 #include "chrome/elevation_service/elevator.h"
 
 #include <algorithm>

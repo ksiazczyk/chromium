@@ -1,0 +1,4 @@
+# Docerion header of installer_paths_mac.mm.
+type: source
+title: macOS installer paths
+summary: Defines the macOS install directory in Application Support, locates existing installs, and returns the ksadmin helper path.

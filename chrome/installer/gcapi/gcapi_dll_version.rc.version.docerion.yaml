@@ -1,0 +1,4 @@
+# Docerion header of gcapi_dll_version.rc.version.
+type: config
+title: GCAPI DLL version resource template
+summary: Version info resource template for gcapi_dll with placeholders for version numbers, company name, copyright, and build metadata.

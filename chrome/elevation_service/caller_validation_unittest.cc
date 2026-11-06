@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caller validation unit tests
+// summary: Unit tests covering validation data generation and checks across protection levels, including deprecated and old-format data.
+// ---
+
 #include "chrome/elevation_service/caller_validation.h"
 
 #include "base/files/file_path.h"

@@ -4,6 +4,12 @@
 
 // Contains functions for determining the product's InstallDetails at runtime.
 
+// ---docerion
+// type: source
+// title: Product install details header
+// summary: Declares functions for initializing and deriving product install details for the current process.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_PRODUCT_INSTALL_DETAILS_H_
 #define CHROME_INSTALL_STATIC_PRODUCT_INSTALL_DETAILS_H_
 

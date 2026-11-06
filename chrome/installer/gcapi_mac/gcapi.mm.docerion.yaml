@@ -1,0 +1,4 @@
+# Docerion header of gcapi.mm.
+type: source
+title: GCAPI implementation for macOS
+summary: Objective-C++ implementation of the macOS GCAPI, handling OS version checks, Chrome installation, brand codes, master preferences, and launching Chrome.

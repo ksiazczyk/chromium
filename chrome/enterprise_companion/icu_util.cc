@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best-effort ICU initialization
+// summary: Initializes ICU after verifying the ICU data file's size and SHA256 checksum, degrading gracefully when the file is missing or corrupt.
+// ---
+
 #include "chrome/enterprise_companion/icu_util.h"
 
 #include <stddef.h>

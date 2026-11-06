@@ -1,3 +1,9 @@
+---
+type: readme
+title: Elevation service overview
+summary: Describes the COM server executable that handles elevation requests, mainly to repair the Chrome updater via the recovery component.
+---
+
 This directory contains the code for a COM server that handles elevation
 requests. This code is compiled into an executable named elevation_service.exe.
 

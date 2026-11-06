@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCAPI public API header
+// summary: Declares the exported C API for compatibility checks, Chrome launching, reactivation, and relaunch, with error condition flags and dormancy constants.
+// ---
+
 #ifndef CHROME_INSTALLER_GCAPI_GCAPI_H_
 #define CHROME_INSTALLER_GCAPI_GCAPI_H_
 

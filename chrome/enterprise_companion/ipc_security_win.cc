@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IPC security
+// summary: Trusts all IPC callers on Windows because access is enforced by the DACL on the named pipe.
+// ---
+
 #include "chrome/enterprise_companion/ipc_security.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device management token storage
+// summary: Windows implementation of the token service that stores enrollment and DM tokens in the registry and derives the device ID from MachineGuid.
+// ---
+
 #include "chrome/enterprise_companion/device_management_storage/dm_storage.h"
 
 #include <memory>

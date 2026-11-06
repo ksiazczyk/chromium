@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Enterprise Companion shutdown app
+// summary: Verifies the shutdown app client over named Mojo IPC using a mock companion service and a spawned multiprocess test child.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

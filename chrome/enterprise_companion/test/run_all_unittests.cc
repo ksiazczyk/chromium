@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test runner entry point
+// summary: Entry point for the enterprise companion unit test binary that initializes logging and launches the unit test suite.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

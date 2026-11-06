@@ -1,0 +1,4 @@
+# Docerion header of prerm.include.
+type: script
+title: Pre-removal include for Linux package scripts
+summary: Shell fragment included in pre-removal scripts to uninstall icons, refresh the desktop database, and remove the package's AppArmor profile.

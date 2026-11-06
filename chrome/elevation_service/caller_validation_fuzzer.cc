@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caller validation fuzzer
+// summary: LibFuzzer harness that feeds arbitrary byte spans to ValidateData to uncover crashes in caller validation.
+// ---
+
 #include "chrome/elevation_service/caller_validation.h"
 
 #include <stddef.h>

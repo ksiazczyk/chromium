@@ -1,0 +1,4 @@
+# Docerion header of update_key_include.py.
+type: source
+title: Updater for the signing key include files
+summary: Python tool that downloads the Google Linux signing key, filters it with gpg, and regenerates key.include and repo package metadata include files.

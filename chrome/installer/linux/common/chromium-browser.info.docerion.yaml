@@ -1,0 +1,4 @@
+# Docerion header of chromium-browser.info.
+type: config
+title: Chromium browser package build information
+summary: Build configuration for chromium-browser packages, defining package name, install directory, menu name, descriptions and maintainer details.

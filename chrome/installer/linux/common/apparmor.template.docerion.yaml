@@ -1,0 +1,4 @@
+# Docerion header of apparmor.template.
+type: config
+title: AppArmor profile template
+summary: AppArmor profile template that permits Chromium user namespaces so the sandbox works on newer Ubuntu releases.

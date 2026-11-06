@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export of install details payload for the primary module
+// summary: Exports GetInstallDetailsPayload from the primary module (chrome_elf) so other modules in the process can access the process-wide install details.
+// ---
+
 #include "chrome/install_static/install_details.h"
 
 // Returns the payload of the module's details. This should be linked into the

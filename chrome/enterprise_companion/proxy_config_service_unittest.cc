@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy configuration service unit tests
+// summary: Tests the policy proxy config service using fake DM storage and a mock proxy config service.
+// ---
+
 #include "chrome/enterprise_companion/proxy_config_service.h"
 
 #include <memory>

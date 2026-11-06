@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry logger log request protobuf definitions
+// summary: Proto3 definitions of enums and messages for telemetry log events, client info, and log requests and responses used by the enterprise companion.
+// ---
+
 syntax = "proto3";
 
 package enterprise_companion.telemetry_logger.proto;

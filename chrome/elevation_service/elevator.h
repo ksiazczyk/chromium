@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevator class header
+// summary: Declares the Elevator COM class, encryption flags, testing switches, and helpers that pack flags together with protection levels.
+// ---
+
 #ifndef CHROME_ELEVATION_SERVICE_ELEVATOR_H_
 #define CHROME_ELEVATION_SERVICE_ELEVATOR_H_
 

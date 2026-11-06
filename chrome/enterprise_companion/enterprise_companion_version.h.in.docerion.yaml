@@ -1,0 +1,4 @@
+# Docerion header of enterprise_companion_version.h.in.
+type: source
+title: Enterprise companion version header template
+summary: Build-time template header defining the enterprise companion version string with placeholders for major, minor, build, and patch numbers.

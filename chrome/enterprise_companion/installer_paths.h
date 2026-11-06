@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer path utilities
+// summary: Declares helpers to determine the install directory, find an existing installation, and locate ksadmin on macOS.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_INSTALLER_PATHS_H_
 #define CHROME_ENTERPRISE_COMPANION_INSTALLER_PATHS_H_
 

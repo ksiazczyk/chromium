@@ -1,0 +1,4 @@
+# Docerion header of build.py.
+type: script
+title: RPM package build script
+summary: Builds the Chrome RPM package by generating the spec file from a template, staging install files, and verifying the resulting package's dependencies.

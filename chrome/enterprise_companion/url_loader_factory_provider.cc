@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory provider implementation
+// summary: Creates in-process and out-of-process URL loader factories with policy-aware proxy configuration for network requests.
+// ---
+
 #include "chrome/enterprise_companion/url_loader_factory_provider.h"
 
 #include <stdint.h>

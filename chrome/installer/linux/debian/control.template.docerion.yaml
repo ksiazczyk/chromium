@@ -1,0 +1,4 @@
+# Docerion header of control.template.
+type: config
+title: Debian control file template
+summary: Template for the Debian control file describing the package's metadata, dependencies, architecture and description.

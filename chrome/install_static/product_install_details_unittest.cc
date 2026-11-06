@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Product install details unit tests
+// summary: Unit tests for install detail helpers such as IsPathParentOf, PathIsInProgramFiles, and GetInstallSuffix.
+// ---
+
 
 #include "chrome/install_static/product_install_details.h"
 
