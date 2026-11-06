@@ -1,3 +1,11 @@
+---
+type: readme
+title: 'crypto/obsolete: obsolete cryptographic primitives'
+summary: Explains that the directory holds legacy crypto primitives kept for compatibility, and that new uses require approval from a //CRYPTO_OWNERS member via a friend-list entry.
+relations:
+  - references /CRYPTO_OWNERS
+---
+
 # crypto/obsolete
 
 This directory contains implementations of obsolete cryptographic primitives

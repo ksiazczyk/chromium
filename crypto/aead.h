@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AEAD interface header
+// summary: Declares the Aead class and one-shot AEAD functions with supported algorithm enums for authenticated encryption in Chromium.
+// ---
+
 #ifndef CRYPTO_AEAD_H_
 #define CRYPTO_AEAD_H_
 

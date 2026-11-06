@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust TPM 2.0 parsing and command building
+// summary: Rust module defining TPM 2.0 constants, object attributes, error types and parsing and writing of TPM commands, responses and signatures.
+// ---
+
 pub use ffi::{
     CreatePrimaryResponse, CreateResponse, ResponseStatus, TpmAlgHash, TpmAlgPublic,
     TpmAlgSigScheme, TpmAlgSymmetric, TpmCc, TpmConstant, TpmEccCurve, TpmRh, TpmSt,

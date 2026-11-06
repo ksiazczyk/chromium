@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for device/base
+summary: Defines the device_base component and the string_util_rs Rust static library, including Windows-only sources and dependencies.

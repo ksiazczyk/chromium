@@ -1,0 +1,4 @@
+# Docerion header of scoped_fake_keychain_v2.mm.
+type: source
+title: ScopedFakeKeychainV2 test override implementation
+summary: Implements ScopedFakeKeychainV2, installing and removing the fake keychain override and forwarding configuration calls to it.

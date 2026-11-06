@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBus gmock class
+// summary: Declares a gmock mock of the Bus class so unit tests can stub connections, proxies, ownership and message sending without real D-Bus calls.
+// ---
+
 #ifndef DBUS_MOCK_BUS_H_
 #define DBUS_MOCK_BUS_H_
 

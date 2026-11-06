@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure utility header for constant-time comparison
+// summary: Declares SecureMemEqual for constant-time string comparison and SecureZeroBuffer for securely zeroing buffers to avoid timing side channels.
+// ---
+
 #ifndef CRYPTO_SECURE_UTIL_H_
 #define CRYPTO_SECURE_UTIL_H_
 

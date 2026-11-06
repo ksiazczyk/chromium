@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM metrics enums and declarations
+// summary: Declares the TPMOperation enum plus helper functions to record UMA metrics of TPM availability, latency and successful usage.
+// ---
+
 #ifndef CRYPTO_UNEXPORTABLE_KEY_METRICS_H_
 #define CRYPTO_UNEXPORTABLE_KEY_METRICS_H_
 

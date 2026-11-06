@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RSA-OAEP encryption
+// summary: Tests RSA-OAEP-SHA1 encrypt and decrypt round trips, a known-answer vector, and oversized message handling.
+// ---
+
 #include "crypto/encrypt.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple keychain utility function declarations
+// summary: Declares helpers for checking keychain-access-groups entitlements, choosing keychain accessibility attributes and migrating iOS keychain item accessibility.
+// ---
+
 #ifndef CRYPTO_APPLE_KEYCHAIN_UTIL_H_
 #define CRYPTO_APPLE_KEYCHAIN_UTIL_H_
 

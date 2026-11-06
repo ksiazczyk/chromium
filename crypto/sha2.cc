@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SHA-256 hashing implementation
+// summary: Implements SHA256Hash and the SHA256HashString convenience wrapper as one-shot SHA-256 operations on top of BoringSSL.
+// ---
+
 #include "crypto/sha2.h"
 
 #include <stddef.h>

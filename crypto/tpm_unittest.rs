@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust tests for TPM parsing
+// summary: Rust gtest tests covering TPM signature parsing and command building, including invalid algorithms, short buffers and trailing bytes.
+// ---
+
 use rust_gtest_interop::prelude::*;
 
 chromium::import! {

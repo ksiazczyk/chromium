@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KEM implementation for ML-KEM-768
+// summary: Implements encapsulation and decapsulation of shared secrets for ML-KEM-768 via BoringSSL EVP_KEM APIs, validating key types per mechanism.
+// ---
+
 #include "crypto/kem.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus statistics implementation
+// summary: Implements per-service, interface, and method counters for sent method calls, received signals, and blocking calls.
+// ---
+
 #include "dbus/dbus_statistics.h"
 
 #include <map>

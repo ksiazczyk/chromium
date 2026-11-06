@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapping of D-Bus error names to DBusResult
+// summary: Converts D-Bus error responses into DBusResult enum values by matching libdbus error names.
+// ---
+
 #include "dbus/dbus_result.h"
 #include "dbus/message.h"
 

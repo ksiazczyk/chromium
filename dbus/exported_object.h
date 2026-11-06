@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExportedObject class header
+// summary: Declares the ref-counted ExportedObject class used to export methods to other D-Bus clients and handle calls.
+// ---
+
 #ifndef DBUS_EXPORTED_OBJECT_H_
 #define DBUS_EXPORTED_OBJECT_H_
 

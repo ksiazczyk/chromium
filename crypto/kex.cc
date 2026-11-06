@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key exchange implementation for ECDH and X25519
+// summary: Implements ECDH shared secret derivation over P-256 and P-384 and X25519 using BoringSSL, checking that keys match the requested curve.
+// ---
+
 #include "crypto/kex.h"
 
 #include "base/check_op.h"

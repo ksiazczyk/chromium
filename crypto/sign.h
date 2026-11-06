@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature and verification API header
+// summary: Declares the crypto::sign API with one-shot Sign/Verify functions and streaming Signer/Verifier classes covering RSA PKCS1, RSA-PSS, ECDSA, Ed25519 and ML-DSA signature kinds.
+// ---
+
 #ifndef CRYPTO_SIGN_H_
 #define CRYPTO_SIGN_H_
 

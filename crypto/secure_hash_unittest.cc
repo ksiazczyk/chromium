@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureHash unit tests
+// summary: Parameterized unit tests verifying SecureHash SHA-256 and SHA-512 update, finish and clone behavior against FIPS 180-2 example vectors.
+// ---
+
 #include "crypto/secure_hash.h"
 
 #include <stddef.h>

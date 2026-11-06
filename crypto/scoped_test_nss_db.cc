@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test NSS database implementation
+// summary: Implements a scoped test NSS database in a temporary directory that removes certificate trust and closes the database on destruction.
+// ---
+
 #include "crypto/scoped_test_nss_db.h"
 
 #include <cert.h>

@@ -4,6 +4,12 @@
 //
 // Utility functions for dealing with RFC 1421 PEM messages.
 
+// ---docerion
+// type: source
+// title: PEM message decoding API
+// summary: Declares functions that decode single or multiple PEM messages of allowed types from a named file.
+// ---
+
 #ifndef CRYPTO_PEM_H_
 #define CRYPTO_PEM_H_
 

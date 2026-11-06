@@ -1,0 +1,4 @@
+# Docerion header of keychain_util_unittest.mm.
+type: test
+title: Keychain utility unit tests
+summary: Unit tests for the keychain utilities, covering entitlement checks and iOS accessibility migration using the fake keychain.

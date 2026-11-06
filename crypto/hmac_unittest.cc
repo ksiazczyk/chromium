@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HMAC
+// summary: Checks HMAC sign and verify against RFC 2202 and RFC 4231 test vectors, streaming use and death tests for wrong buffer sizes.
+// ---
+
 #include "crypto/hmac.h"
 
 #include <stddef.h>

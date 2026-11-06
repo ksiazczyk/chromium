@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key exchange unit tests with RFC vectors
+// summary: Tests ECDH P-256 and P-384 and X25519 against RFC 5903 and RFC 7748 known-answer vectors and verifies both parties derive matching secrets.
+// ---
+
 #include "crypto/kex.h"
 
 #include "crypto/keypair.h"

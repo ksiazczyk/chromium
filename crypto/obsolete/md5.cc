@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MD5 implementation
+// summary: Implements the Md5 hasher class with one-shot Hash and streaming Update/Finish operations backed by BoringSSL EVP digest functions.
+// ---
+
 #include "crypto/obsolete/md5.h"
 
 #include "third_party/boringssl/src/include/openssl/digest.h"

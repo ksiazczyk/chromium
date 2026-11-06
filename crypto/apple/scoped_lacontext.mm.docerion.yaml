@@ -1,0 +1,4 @@
+# Docerion header of scoped_lacontext.mm.
+type: source
+title: ScopedLAContext implementation
+summary: Implements ScopedLAContext ownership, move semantics and release of a LocalAuthentication LAContext in Objective-C++.

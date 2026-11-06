@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSSL utility helpers
+// summary: Declares a scoped safe-size buffer for OpenSSL output, error stack clearing helpers, and a span adapter for BoringSSL CBB objects.
+// ---
+
 #ifndef CRYPTO_OPENSSL_UTIL_H_
 #define CRYPTO_OPENSSL_UTIL_H_
 

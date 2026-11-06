@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AES-CBC unit tests
+// summary: Verifies AES-CBC encrypt and decrypt against SP800-38a known-answer vectors and checks that decryption fails on corrupted padding.
+// ---
+
 #include "crypto/aes_cbc.h"
 
 #include <cstring>

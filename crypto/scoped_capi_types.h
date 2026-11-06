@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Windows CryptoAPI handle types
+// summary: Defines RAII scoped wrappers for CryptoAPI handles such as certificate stores, key and hash handles, and certificate, chain, and CTL contexts.
+// ---
+
 #ifndef CRYPTO_SCOPED_CAPI_TYPES_H_
 #define CRYPTO_SCOPED_CAPI_TYPES_H_
 

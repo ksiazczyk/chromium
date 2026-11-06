@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PEM decoding unit tests
+// summary: Tests decoding single and multiple PEM messages from test data files, including failure cases for invalid or missing files.
+// ---
+
 #include "crypto/pem.h"
 
 #include "base/base_paths.h"

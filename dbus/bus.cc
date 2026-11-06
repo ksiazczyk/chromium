@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Bus class
+// summary: Implements the Bus class that manages the D-Bus connection, including file descriptor watches, timeouts, and signal match rules.
+// ---
+
 #include "dbus/bus.h"
 
 #include <stddef.h>

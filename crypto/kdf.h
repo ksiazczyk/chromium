@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KDF header declaring parameter structs and functions
+// summary: Declares the crypto::kdf interface for PBKDF2-HMAC-SHA1, scrypt, and HKDF, including parameter structs, usage guidance, and SubtlePassKey-gated entry points.
+// ---
+
 #ifndef CRYPTO_KDF_H_
 #define CRYPTO_KDF_H_
 

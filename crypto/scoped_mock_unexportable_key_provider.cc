@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock unexportable key provider implementation
+// summary: Implements a scoped mock unexportable key provider that forwards to a gmock provider and serves queued mock signing and attestation keys.
+// ---
+
 #include "crypto/scoped_mock_unexportable_key_provider.h"
 
 #include <memory>

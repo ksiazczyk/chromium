@@ -5,6 +5,12 @@
 // This matches the RFC 9629 KEM interface, except that instead of using
 // KeyGen(), you generate keys using the regular crypto/keypair interfaces.
 
+// ---docerion
+// type: source
+// title: KEM header for encapsulate and decapsulate
+// summary: Declares the crypto::kem interface for ML-KEM-768 encapsulation and decapsulation, following the RFC 9629 KEM interface with crypto/keypair keys.
+// ---
+
 #ifndef CRYPTO_KEM_H_
 #define CRYPTO_KEM_H_
 

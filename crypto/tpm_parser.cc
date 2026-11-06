@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ bridge for the Rust TPM parser
+// summary: Maps Rust TPM parse results and hash or signature algorithms onto C++ crypto types and verifies TPM signatures using crypto::sign.
+// ---
+
 #include "crypto/tpm_parser.h"
 
 #include <stdint.h>

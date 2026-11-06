@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable key metrics unit tests
+// summary: Tests TPM metrics reporting with a tracking mock key provider and histogram tester, verifying key creation and deletion accounting.
+// ---
+
 #include "crypto/unexportable_key_metrics.h"
 
 #include <algorithm>

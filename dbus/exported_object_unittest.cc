@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExportedObject unit tests
+// summary: Unit tests for ExportedObject covering method export and the CHECK crash triggered when an exported method never sends a response.
+// ---
+
 #include "dbus/exported_object.h"
 
 #include <string>

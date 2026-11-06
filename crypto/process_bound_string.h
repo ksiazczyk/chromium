@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessBound string class and SecureAllocator
+// summary: Declares the ProcessBound template that keeps string contents encrypted against other processes on supported platforms, plus a SecureAllocator that zeroes memory on deallocation.
+// ---
+
 #ifndef CRYPTO_PROCESS_BOUND_STRING_H_
 #define CRYPTO_PROCESS_BOUND_STRING_H_
 

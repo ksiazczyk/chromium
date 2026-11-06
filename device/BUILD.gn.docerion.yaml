@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for device_unittests
+summary: Defines the device_unittests test target, listing unit test sources for Bluetooth, gamepad, and other device subsystems with platform-specific additions.

@@ -1,0 +1,4 @@
+# Docerion header of test_helpers.mm.
+type: test
+title: Keychain test helpers implementation
+summary: Implements SecKeyFromPKCS8, parsing PKCS#8 keys with BoringSSL and building RSA or EC SecKeyRef objects for tests.

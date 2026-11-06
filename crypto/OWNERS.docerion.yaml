@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for //crypto
+summary: Lists the code owners of the crypto directory and points to the shared CRYPTO_OWNERS file.

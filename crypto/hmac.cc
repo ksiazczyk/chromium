@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HMAC signing and verification implementation
+// summary: Implements one-shot and streaming HMAC sign and verify operations for SHA-1, SHA-256, SHA-384 and SHA-512 using BoringSSL.
+// ---
+
 #include "crypto/hmac.h"
 
 #include <stddef.h>

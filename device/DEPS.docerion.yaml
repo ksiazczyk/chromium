@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the device directory
+summary: Restricts which directories files under device/ may include, allowing dependencies such as ash constants, ChromeOS, mojo, and device services.

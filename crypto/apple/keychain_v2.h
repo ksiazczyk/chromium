@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeychainV2 Security framework wrapper header
+// summary: Declares KeychainV2, a mockable singleton wrapper around iOS-style Security framework operations for keys and keychain items.
+// ---
+
 #ifndef CRYPTO_APPLE_KEYCHAIN_V2_H_
 #define CRYPTO_APPLE_KEYCHAIN_V2_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type-safe D-Bus property access classes
+// summary: Header defining PropertySet and Property templates that let clients access D-Bus object properties in a type-safe way and receive change notifications.
+// ---
+
 #ifndef DBUS_PROPERTY_H_
 #define DBUS_PROPERTY_H_
 

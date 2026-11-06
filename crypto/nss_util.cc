@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS and NSPR initialization implementation
+// summary: Implements NSS and NSPR initialization, default NSS database directory selection, and PKCS#11 password callbacks for the crypto library.
+// ---
+
 #include "crypto/nss_util.h"
 
 #include <nss.h>

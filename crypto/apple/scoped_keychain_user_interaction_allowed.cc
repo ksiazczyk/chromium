@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped keychain user interaction allowed helper
+// summary: Implements a scoped helper that temporarily changes macOS keychain user interaction settings and restores the previous value on destruction.
+// ---
+
 #include "crypto/apple/scoped_keychain_user_interaction_allowed.h"
 
 #include <Security/Security.h>

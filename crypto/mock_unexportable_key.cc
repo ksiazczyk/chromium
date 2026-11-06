@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock unexportable key implementation
+// summary: Implements constructors and default gmock behavior for the mock unexportable signing and attestation key classes used in tests.
+// ---
+
 #include "crypto/mock_unexportable_key.h"
 
 namespace crypto {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessBound string unit tests
+// summary: Typed unit tests over string, wstring, and u16string covering default construction, copy, move, and Windows-only encryption behavior of ProcessBound strings.
+// ---
+
 #include "crypto/process_bound_string.h"
 
 #include <algorithm>

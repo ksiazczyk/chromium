@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software unsecure unexportable key provider
+// summary: Implements a software-based unexportable key provider that fabricates TPM 2.0 attestation and public structures without real hardware.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <utility>

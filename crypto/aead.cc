@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AEAD implementation
+// summary: Implements AEAD seal and open operations for algorithms such as AES-GCM and ChaCha20-Poly1305 on top of BoringSSL.
+// ---
+
 #include "crypto/aead.h"
 
 #include <stddef.h>

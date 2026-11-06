@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedKeychainUserInteractionAllowed header
+// summary: Declares a scoped helper that temporarily allows or blocks Keychain Services UI via SecKeychainSetUserInteractionAllowed and restores the prior state on destruction.
+// ---
+
 #ifndef CRYPTO_APPLE_SCOPED_KEYCHAIN_USER_INTERACTION_ALLOWED_H_
 #define CRYPTO_APPLE_SCOPED_KEYCHAIN_USER_INTERACTION_ALLOWED_H_
 

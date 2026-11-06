@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TPM signature parsing
+// summary: Builds serialized TPM signatures and CreatePrimary responses and checks the parser's handling of valid, error and malformed inputs.
+// ---
+
 #include "crypto/tpm_parser.h"
 
 #include <string>

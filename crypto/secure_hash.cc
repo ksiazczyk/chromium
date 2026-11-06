@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureHash implementation for SHA-256 and SHA-512
+// summary: Implements the SecureHash interface with BoringSSL-backed incremental SHA-256 and SHA-512 hashing, including cloning support.
+// ---
+
 #include "crypto/secure_hash.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTestSystemNSSKeySlot test helper header
+// summary: Test helper that overrides the system NSS key slot with a software slot from a temporary directory, bypassing the TPM for unit tests.
+// ---
+
 #ifndef CRYPTO_SCOPED_TEST_SYSTEM_NSS_KEY_SLOT_H_
 #define CRYPTO_SCOPED_TEST_SYSTEM_NSS_KEY_SLOT_H_
 

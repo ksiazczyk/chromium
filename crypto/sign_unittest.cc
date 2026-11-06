@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for crypto::sign
+// summary: Tests sign/verify round trips across RSA, ECDSA, Ed25519 and ML-DSA kinds and checks that Ed25519 and ML-DSA cannot be used in streaming mode.
+// ---
+
 #include "crypto/sign.h"
 
 #include "base/test/gtest_util.h"

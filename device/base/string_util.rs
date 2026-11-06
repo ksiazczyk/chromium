@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust string utilities for device display names
+// summary: Rust cxx-bridge code that sanitizes device strings for display by wrapping them in directional isolates, collapsing whitespace, and truncating with an ellipsis.
+// ---
+
 #![deny(unsafe_code)]
 
 use icu_properties::{

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-256 unit tests
+// summary: Unit tests checking SHA256Hash and SHA256HashString outputs against FIPS 180-2 example vectors for empty, short and long messages.
+// ---
+
 #include "crypto/sha2.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CTR encryption implementation
+// summary: Implements single-shot AES-CTR encrypt and decrypt over BoringSSL for equal-size input and output buffers.
+// ---
+
 #include "crypto/aes_ctr.h"
 
 #include <array>

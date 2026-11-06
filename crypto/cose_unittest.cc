@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COSE key conversion unit tests
+// summary: Verifies PublicKeyToCoseKey output for fixed RSA, EC-P256, Ed25519, and ML-DSA keys and checks unsupported curves crash.
+// ---
+
 #include "crypto/cose.h"
 
 #include "base/test/gtest_util.h"

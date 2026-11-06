@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus value conversion helpers declaration
+// summary: Declares functions for converting between D-Bus message reader and writer data and base::Value, covering basic types, variants, lists, and dictionaries.
+// ---
+
 #ifndef DBUS_VALUES_UTIL_H_
 #define DBUS_VALUES_UTIL_H_
 

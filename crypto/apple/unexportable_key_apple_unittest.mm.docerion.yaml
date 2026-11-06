@@ -1,0 +1,4 @@
+# Docerion header of unexportable_key_apple_unittest.mm.
+type: test
+title: Apple unexportable key unit tests
+summary: Tests the macOS unexportable key provider, including key listing, application tag filtering and Secure Enclave availability, using a fake keychain.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock-based unit tests for D-Bus client classes
+// summary: Unit tests that exercise D-Bus client code against MockBus, MockObjectProxy and MockExportedObject, verifying mock-based method calls and responses.
+// ---
+
 #include <memory>
 #include <utility>
 

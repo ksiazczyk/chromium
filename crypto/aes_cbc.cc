@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CBC implementation
+// summary: Implements AES-CBC encryption and decryption with 128- or 256-bit keys using BoringSSL EVP cipher APIs.
+// ---
+
 #include "crypto/aes_cbc.h"
 
 #include "base/check.h"

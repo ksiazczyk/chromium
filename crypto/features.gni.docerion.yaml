@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Crypto build feature flags for NSS certificates
+summary: GN build arguments that control whether NSS client and server certificates are used on Linux, ChromeOS and Cast builds.

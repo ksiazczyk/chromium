@@ -1,3 +1,9 @@
+---
+type: plan
+title: //crypto plan
+summary: Outlines the maintainers' direction for //crypto, covering span-based APIs, fewer heap allocations, statelessness, and dropping obsolete crypto.
+---
+
 # //crypto plan
 
 This doc outlines what the current maintainers of //crypto are doing with this

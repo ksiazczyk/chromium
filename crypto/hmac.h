@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HMAC API for signing and verification
+// summary: Declares one-shot Sign and Verify functions plus streaming HmacSigner and HmacVerifier classes, noting that SHA-1 is deprecated.
+// ---
+
 #ifndef CRYPTO_HMAC_H_
 #define CRYPTO_HMAC_H_
 

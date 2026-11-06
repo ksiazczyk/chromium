@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock unexportable key declarations
+// summary: Declares gmock mock classes for UnexportableSigningKey and UnexportableAttestationKey so tests can stub hardware-backed keys.
+// ---
+
 #ifndef CRYPTO_MOCK_UNEXPORTABLE_KEY_H_
 #define CRYPTO_MOCK_UNEXPORTABLE_KEY_H_
 

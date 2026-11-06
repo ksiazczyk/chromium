@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test NSS ChromeOS user header
+// summary: Declares a scoped helper that opens a persistent NSS software database in a temporary directory for a ChromeOS user in tests.
+// ---
+
 #ifndef CRYPTO_SCOPED_TEST_NSS_CHROMEOS_USER_H_
 #define CRYPTO_SCOPED_TEST_NSS_CHROMEOS_USER_H_
 

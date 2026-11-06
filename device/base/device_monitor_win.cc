@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device notification monitor implementation
+// summary: Implements DeviceMonitorWin and a singleton message window that registers for device interface notifications and dispatches add and remove events.
+// ---
+
 #include "device/base/device_monitor_win.h"
 
 // windows.h must be included before dbt.h.

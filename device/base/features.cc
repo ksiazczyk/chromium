@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device feature flag definitions
+// summary: Defines base feature flags for Bluetooth GATT handling, Web Bluetooth pairing modes, and GMS Core location leak handling on Windows, Linux, and Android.
+// ---
+
 #include "device/base/features.h"
 
 #include "build/build_config.h"

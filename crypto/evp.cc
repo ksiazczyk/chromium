@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EVP_PKEY byte serialization helpers implementation
+// summary: Implements parsing and marshaling of public and private keys to and from DER bytes via BoringSSL.
+// ---
+
 #include "crypto/evp.h"
 
 #include "base/containers/to_vector.h"

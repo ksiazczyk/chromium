@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keypair PrivateKey and PublicKey class declarations
+// summary: Declares crypto::keypair PrivateKey and PublicKey classes that generate, import and encode keys for RSA, EC, Ed25519, X25519, ML-DSA and ML-KEM algorithms.
+// ---
+
 #ifndef CRYPTO_KEYPAIR_H_
 #define CRYPTO_KEYPAIR_H_
 

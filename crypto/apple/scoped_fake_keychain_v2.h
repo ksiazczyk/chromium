@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakeKeychainV2 test override header
+// summary: Declares ScopedFakeKeychainV2, which installs a FakeKeychainV2 as the KeychainV2 instance override for its lifetime.
+// ---
+
 #ifndef CRYPTO_APPLE_SCOPED_FAKE_KEYCHAIN_V2_H_
 #define CRYPTO_APPLE_SCOPED_FAKE_KEYCHAIN_V2_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'Chaps TPM PKCS #11 support implementation'
+// summary: 'Loads the Chrome OS chaps TPM-backed PKCS #11 module and provides helpers to query its NSS slots.'
+// ---
+
 #include "crypto/chaps_support.h"
 
 #include <dlfcn.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User-verifying signing key interfaces
+// summary: Declares interfaces for hardware-backed signing keys that require platform user verification before signing, plus a provider for creating, retrieving and deleting such keys on Windows and Mac.
+// ---
+
 #ifndef CRYPTO_USER_VERIFYING_KEY_H_
 #define CRYPTO_USER_VERIFYING_KEY_H_
 

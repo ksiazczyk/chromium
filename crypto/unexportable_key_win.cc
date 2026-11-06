@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows unexportable key provider implementation
+// summary: Implements Windows TPM-backed and software key providers via CNG and NCrypt, including storage root key handling and error metrics.
+// ---
+
 #include "crypto/unexportable_key_win.h"
 
 #include <ncrypt.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D-Bus statistics unit tests
+// summary: Unit tests verifying that sent, received, and blocking D-Bus call counts are tracked and reported correctly.
+// ---
+
 #include "dbus/dbus_statistics.h"
 
 #include "base/compiler_specific.h"

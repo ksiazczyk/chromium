@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-1 known-answer unit test
+// summary: Verifies that Sha1::Hash produces the expected SHA-1 digest for a fixed test input string.
+// ---
+
 #include "crypto/obsolete/sha1.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

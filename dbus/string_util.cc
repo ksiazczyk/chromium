@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Object path validation implementation
+// summary: Implements IsValidObjectPath, checking strings against the D-Bus object path syntax rules from the D-Bus specification.
+// ---
+
 #include "dbus/string_util.h"
 
 #include <stddef.h>

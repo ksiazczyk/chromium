@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AEAD unit tests
+// summary: Tests AEAD seal and open round trips, wrong and too-short keys, and one-shot interfaces across all supported algorithms.
+// ---
+
 #include "crypto/aead.h"
 
 #include <string>

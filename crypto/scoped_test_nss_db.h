@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test NSS database header
+// summary: Declares a scoped test NSS database opened in a temporary directory, exposing its slot for unit tests.
+// ---
+
 #ifndef CRYPTO_SCOPED_TEST_NSS_DB_H_
 #define CRYPTO_SCOPED_TEST_NSS_DB_H_
 

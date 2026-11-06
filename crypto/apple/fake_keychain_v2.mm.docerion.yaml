@@ -1,0 +1,4 @@
+# Docerion header of fake_keychain_v2.mm.
+type: source
+title: FakeKeychainV2 test keychain implementation
+summary: Implements the FakeKeychainV2 mock, handling key creation, keychain item queries and generic passwords in memory for tests.

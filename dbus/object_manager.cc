@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectManager implementation
+// summary: Implements ObjectManager, which tracks objects, interfaces and properties exported by a remote D-Bus service and handles PropertiesChanged signals.
+// ---
+
 #include "dbus/object_manager.h"
 
 #include <stddef.h>

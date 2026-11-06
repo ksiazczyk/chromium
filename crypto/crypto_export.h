@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRYPTO_EXPORT macro for crypto module symbol export
+// summary: Defines the CRYPTO_EXPORT macro used to export crypto module symbols to consumers in component builds.
+// ---
+
 #ifndef CRYPTO_CRYPTO_EXPORT_H_
 #define CRYPTO_CRYPTO_EXPORT_H_
 

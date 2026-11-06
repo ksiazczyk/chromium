@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test NSS ChromeOS user implementation
+// summary: Implements a scoped helper that opens a temporary NSS software database for a ChromeOS test user and finishes private slot initialization.
+// ---
+
 #include "crypto/scoped_test_nss_chromeos_user.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake unexportable key provider scopes header
+// summary: Declares ScopedFakeUnexportableKeyProvider and ScopedNullUnexportableKeyProvider, test-only helpers requiring the test_support target.
+// ---
+
 #ifndef CRYPTO_SCOPED_FAKE_UNEXPORTABLE_KEY_PROVIDER_H_
 #define CRYPTO_SCOPED_FAKE_UNEXPORTABLE_KEY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sha1 class header with friend list
+// summary: Declares the Sha1 class restricted to friend functions in components needing SHA-1 for existing specs or on-disk data, barring use in new production code.
+// ---
+
 #ifndef CRYPTO_OBSOLETE_SHA1_H_
 #define CRYPTO_OBSOLETE_SHA1_H_
 

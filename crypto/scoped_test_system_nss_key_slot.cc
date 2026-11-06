@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test system NSS key slot implementation
+// summary: Implements a scoped helper that installs a temporary system NSS key slot for testing and resets it on destruction.
+// ---
+
 #include "crypto/scoped_test_system_nss_key_slot.h"
 
 #include "crypto/nss_util.h"

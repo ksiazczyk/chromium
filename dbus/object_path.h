@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectPath class declaration
+// summary: Declares the ObjectPath type that distinguishes D-Bus object paths from plain strings, with validity checks and comparison operators.
+// ---
+
 #ifndef DBUS_OBJECT_PATH_H_
 #define DBUS_OBJECT_PATH_H_
 

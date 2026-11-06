@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the device synchronization source set
+summary: Defines the synchronization source set listing the seqlock sources and its dependency on //base.

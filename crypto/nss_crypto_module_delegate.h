@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS crypto module password delegate
+// summary: Declares CryptoModuleBlockingPasswordDelegate, a ref-counted delegate for synchronously requesting NSS slot passwords on worker threads.
+// ---
+
 #ifndef CRYPTO_NSS_CRYPTO_MODULE_DELEGATE_H_
 #define CRYPTO_NSS_CRYPTO_MODULE_DELEGATE_H_
 

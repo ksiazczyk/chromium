@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message unit tests
+// summary: Unit tests for MessageWriter and MessageReader covering appending and popping basic D-Bus types, file descriptors, arrays and protobuf payloads.
+// ---
+
 #include "dbus/message.h"
 
 #include <stddef.h>

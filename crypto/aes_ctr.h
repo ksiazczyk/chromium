@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CTR single-shot encryption header
+// summary: Declares AES-CTR encrypt and decrypt functions with span and vector interfaces plus warnings about counter reuse hazards.
+// ---
+
 #ifndef CRYPTO_AES_CTR_H_
 #define CRYPTO_AES_CTR_H_
 

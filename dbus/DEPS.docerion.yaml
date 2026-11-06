@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the dbus directory
+summary: Declares the allowed include dependencies for the directory, permitting headers from third_party/protobuf.

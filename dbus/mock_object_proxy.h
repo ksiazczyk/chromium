@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockObjectProxy gmock class
+// summary: Declares a gmock mock of ObjectProxy for stubbing method calls, signal connections and service availability in unit tests.
+// ---
+
 #ifndef DBUS_MOCK_OBJECT_PROXY_H_
 #define DBUS_MOCK_OBJECT_PROXY_H_
 

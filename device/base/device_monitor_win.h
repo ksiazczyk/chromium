@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceMonitorWin observer interface for Windows
+// summary: Declares the DeviceMonitorWin class and observer interface for watching devices added or removed by device interface GUID.
+// ---
+
 #ifndef DEVICE_BASE_DEVICE_MONITOR_WIN_H_
 #define DEVICE_BASE_DEVICE_MONITOR_WIN_H_
 

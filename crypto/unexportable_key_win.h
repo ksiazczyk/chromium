@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows unexportable key provider declarations
+// summary: Declares Windows factory functions for TPM, Microsoft software and Credential Guard backed unexportable key providers.
+// ---
+
 #ifndef CRYPTO_UNEXPORTABLE_KEY_WIN_H_
 #define CRYPTO_UNEXPORTABLE_KEY_WIN_H_
 

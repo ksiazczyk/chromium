@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS key utility declarations
+// summary: Declares NSS helpers for key pair generation, PKCS#8 key import, and locating private keys from a SubjectPublicKeyInfo.
+// ---
+
 #ifndef CRYPTO_NSS_KEY_UTIL_H_
 #define CRYPTO_NSS_KEY_UTIL_H_
 

@@ -5,6 +5,12 @@
 // This interface is deprecated and being removed: https://crbug.com/374310081.
 // New users should use crypto/hash instead.
 
+// ---docerion
+// type: source
+// title: Deprecated SHA-256 hashing header
+// summary: Declares deprecated SHA-256 hash helpers and the kSHA256Length constant; new code should use the crypto/hash interface instead.
+// ---
+
 #ifndef CRYPTO_SHA2_H_
 #define CRYPTO_SHA2_H_
 

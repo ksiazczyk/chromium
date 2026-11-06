@@ -1,0 +1,4 @@
+# Docerion header of user_verifying_key_mac.mm.
+type: source
+title: macOS implementation of user-verifying keys
+summary: Implements the user-verifying signing key on macOS, delegating signing to the Apple unexportable key provider and running Touch ID prompts on a worker thread.

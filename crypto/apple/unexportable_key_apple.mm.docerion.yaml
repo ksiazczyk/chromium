@@ -1,0 +1,4 @@
+# Docerion header of unexportable_key_apple.mm.
+type: source
+title: Apple unexportable key provider implementation
+summary: Implements Secure Enclave key generation, signing, attestation and key deletion on top of the Apple Keychain, with error histogram logging.

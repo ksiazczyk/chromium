@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //crypto
+summary: Restricts includes in the crypto directory to components/cbor and BoringSSL headers and marks new usages as requiring review.

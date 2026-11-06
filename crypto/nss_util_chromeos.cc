@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS NSS token and slot management
+// summary: Implements ChromeOS-specific NSS user database and TPM token initialization, including public and private slot management.
+// ---
+
 #include "crypto/nss_util.h"
 
 #include <nss.h>

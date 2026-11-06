@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Asynchronous D-Bus end-to-end tests
+// summary: End-to-end tests exercising the asynchronous ObjectProxy and ExportedObject APIs against a live test service.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

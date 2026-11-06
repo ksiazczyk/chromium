@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus Error class header
+// summary: Declares the Error class that holds a D-Bus error name and message retrieved from libdbus.
+// ---
+
 #ifndef DBUS_ERROR_H_
 #define DBUS_ERROR_H_
 

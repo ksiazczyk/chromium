@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedMemorySeqLockBuffer template
+// summary: Provides a template pairing a OneWriterSeqLock with a data buffer for low-latency shared-memory reads between browser and renderer processes.
+// ---
+
 #ifndef DEVICE_BASE_SYNCHRONIZATION_SHARED_MEMORY_SEQLOCK_BUFFER_H_
 #define DEVICE_BASE_SYNCHRONIZATION_SHARED_MEMORY_SEQLOCK_BUFFER_H_
 

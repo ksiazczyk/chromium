@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HPKE
+// summary: Tests HPKE auth-mode round trips and failure cases such as corrupted ciphertext, wrong info and too-short encrypted data.
+// ---
+
 #include "crypto/hpke.h"
 
 #include <array>

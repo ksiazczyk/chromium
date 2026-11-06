@@ -1,0 +1,4 @@
+# Docerion header of not-pem.txt.
+type: test
+title: not-pem.txt test fixture
+summary: Negative test input containing plain text without any PEM tokens, used to exercise crypto parsing paths that must reject non-PEM content.
