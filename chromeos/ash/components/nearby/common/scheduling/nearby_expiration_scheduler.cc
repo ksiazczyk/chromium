@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Expiration Scheduler implementation
+// summary: Implements recurring scheduling based on an owner-provided expiration time, requesting immediately once the expiration time has passed.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_expiration_scheduler.h"
 
 #include <utility>

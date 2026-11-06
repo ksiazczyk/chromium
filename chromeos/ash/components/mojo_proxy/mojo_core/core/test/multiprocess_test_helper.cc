@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess test helper implementation
+// summary: Implements launching and managing Mojo test child processes, including broker setup, invitation handling, and waiting for child shutdown.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/multiprocess_test_helper.h"
 
 #include <functional>

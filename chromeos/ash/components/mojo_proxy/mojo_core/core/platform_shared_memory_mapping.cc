@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory mapping implementation
+// summary: Implements PlatformSharedMemoryMapping, which maps read-only, unsafe or writable shared memory regions at a given offset and exposes validity, base address and length.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/platform_shared_memory_mapping.h"
 
 #include <type_traits>

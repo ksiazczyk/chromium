@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureMessageDelegate interface
+// summary: Defines the asynchronous interface for secure message cryptographic operations such as key generation, key derivation, and message creation and unwrapping.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SECURE_MESSAGE_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SECURE_MESSAGE_DELEGATE_H_
 

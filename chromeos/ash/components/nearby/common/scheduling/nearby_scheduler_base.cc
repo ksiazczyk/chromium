@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbySchedulerBase implementation
+// summary: Implements scheduler persistence in prefs, exponential backoff retries, connectivity waiting, and timer-based rescheduling.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_scheduler_base.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby component DEPS include rules
+summary: Defines include rules for the nearby component, allowing includes from chromeos/ash/services/nearby/public.

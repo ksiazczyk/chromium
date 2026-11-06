@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionsManagerImpl class declaration
+// summary: Declares the concrete NearbyConnectionsManagerImpl, which implements the manager plus mojo endpoint discovery, connection lifecycle, and payload listeners.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_NEARBY_CONNECTIONS_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CONNECTIONS_MANAGER_NEARBY_CONNECTIONS_MANAGER_IMPL_H_
 

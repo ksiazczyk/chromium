@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyApiCallFlowImpl class declaration
+// summary: Declares NearbyApiCallFlowImpl, an OAuth2ApiCallFlow wrapper offering convenience methods for GET, POST, and PATCH requests with serialized protos.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_API_CALL_FLOW_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_API_CALL_FLOW_IMPL_H_
 

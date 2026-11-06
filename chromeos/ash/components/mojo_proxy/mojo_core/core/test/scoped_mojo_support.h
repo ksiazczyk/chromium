@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped Mojo support for test suites
+// summary: RAII helper that brings up and cleanly tears down a Mojo Core instance with a dedicated IO thread and IPC support for use around individual tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_SCOPED_MOJO_SUPPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_TEST_SCOPED_MOJO_SUPPORT_H_
 

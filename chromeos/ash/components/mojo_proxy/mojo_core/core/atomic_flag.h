@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicFlag class declaration
+// summary: Declares AtomicFlag, a boolean flag that can be set and tested atomically to fast-path checks that would otherwise take a mutex.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_ATOMIC_FLAG_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_ATOMIC_FLAG_H_
 

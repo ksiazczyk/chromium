@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ports nodes and message routing
+// summary: Contains gtest-based unit tests exercising Node, Port, event routing, proxying, and message passing through a TestNode delegate.
+// ---
+
 #include <inttypes.h>
 #include <stdio.h>
 #include <stdlib.h>

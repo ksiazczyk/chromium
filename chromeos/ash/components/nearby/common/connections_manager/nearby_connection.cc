@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection base class
+// summary: Implements the NearbyConnection base class, providing weak pointer support for the connection interface.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connection.h"
 
 NearbyConnection::NearbyConnection() = default;

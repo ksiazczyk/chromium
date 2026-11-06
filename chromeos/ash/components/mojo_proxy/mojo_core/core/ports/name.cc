@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port and node name helpers
+// summary: Defines the invalid port and node name constants and stream output formatting for port and node names.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/name.h"
 
 namespace mojo_legacy {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder unit tests
+// summary: Unit tests for Mojo embedder functionality, exercising message pipes, shared memory regions, platform handles, and multiprocess channel behavior.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/embedder/embedder.h"
 
 #include <stddef.h>

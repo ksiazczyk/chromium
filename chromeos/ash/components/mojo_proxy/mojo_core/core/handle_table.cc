@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle table implementation
+// summary: Implements the handle table that maps Mojo handles to dispatchers, including handle allocation, transit bookkeeping, and memory dump reporting.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/handle_table.h"
 
 #include <stdint.h>

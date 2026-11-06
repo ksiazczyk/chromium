@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelLinux implementation
+// summary: Implements ChannelLinux as a thin specialization of ChannelPosix used as the default Mojo channel on Linux, ChromeOS, and Android.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/channel_linux.h"
 
 #include <utility>

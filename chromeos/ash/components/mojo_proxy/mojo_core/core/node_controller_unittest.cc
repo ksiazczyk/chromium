@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NodeController unit tests
+// summary: Regression test that spawns a child process sending an invalid AcceptInvitation message to verify the parent process handles it safely.
+// ---
+
 #include "base/logging.h"
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/core.h"
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/mojo_test_base.h"

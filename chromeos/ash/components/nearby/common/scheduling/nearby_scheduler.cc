@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyScheduler interface implementation
+// summary: Implements the NearbyScheduler start, stop, and request notification behavior shared by all schedulers.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/nearby_scheduler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatcher base class interface
+// summary: Declares the abstract Dispatcher base class that backs MojoHandle references and defines the interface for message pipes, data pipes, shared buffers, and watchers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DISPATCHER_H_
 

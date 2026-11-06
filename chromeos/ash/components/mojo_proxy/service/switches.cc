@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy command-line switch definitions
+// summary: Defines constants for the command-line switches that configure how the mojo_proxy process connects to its host and legacy client, including file descriptors and Mojo invitation attachment naming.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/service/switches.h"
 
 namespace switches {

@@ -6,6 +6,12 @@
 // //third_party/protobuf/src/google/protobuf/field_mask.proto
 // Last copied at crrev/c/2545204.
 
+// ---docerion
+// type: source
+// title: FieldMask protobuf message definition
+// summary: Defines the FieldMask message as a lite-runtime copy of protobuf's field_mask.proto, kept in sync for use across the ChromeOS nearby codebase.
+// ---
+
 syntax = "proto3";
 
 package ash.nearby.proto;

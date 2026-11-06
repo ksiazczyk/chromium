@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote device test utilities declarations
+// summary: Declares RemoteDeviceRefBuilder and factory functions for creating test remote devices, lists, and device comparison helpers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_TEST_UTIL_H_
 

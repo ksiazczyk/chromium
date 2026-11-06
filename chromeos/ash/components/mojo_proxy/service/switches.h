@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy command-line switch declarations
+// summary: Declares the mojo_proxy command-line switch name constants implemented in switches.cc for use within the service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_SWITCHES_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_SWITCHES_H_
 

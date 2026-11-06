@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trap API unit tests
+// summary: Extensive tests for the Mojo trap API covering trigger creation, arming, notification callbacks, cancellation, and concurrency.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/public/c/system/trap.h"
 
 #include <stdint.h>

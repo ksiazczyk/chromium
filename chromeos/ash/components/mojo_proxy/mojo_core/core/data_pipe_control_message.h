@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe control message definitions
+// summary: Defines the DataPipeCommand enum and the DataPipeControlMessage header used to coordinate data pipe producer and consumer state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DATA_PIPE_CONTROL_MESSAGE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_DATA_PIPE_CONTROL_MESSAGE_H_
 

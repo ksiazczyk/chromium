@@ -1,0 +1,4 @@
+# Docerion header of mojo_service_manager.mojom.
+type: source
+title: ChromeOS mojo service manager Mojom API
+summary: Defines the Mojo interfaces, structs and enums for the ChromeOS mojo service manager daemon, kept in sync with the platform2 copy.

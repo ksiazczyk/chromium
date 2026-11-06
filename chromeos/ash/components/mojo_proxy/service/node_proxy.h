@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeProxy class declaration
+// summary: Declares NodeProxy, which hosts a PortalProxy for each endpoint bridged between a legacy Mojo Core node and a MojoIpcz network.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_NODE_PROXY_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_SERVICE_NODE_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringRemoteDeviceCache class declaration
+// summary: Declares a helper around RemoteDeviceCache that marks removed devices as expired while keeping their references valid.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_EXPIRING_REMOTE_DEVICE_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_EXPIRING_REMOTE_DEVICE_CACHE_H_
 

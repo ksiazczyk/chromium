@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionsManagerImpl implementation
+// summary: Implements NearbyConnectionsManagerImpl, handling advertising, discovery, connections, payload transfers, and medium selection logic for Nearby Share.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connections_manager_impl.h"
 
 #include <string>

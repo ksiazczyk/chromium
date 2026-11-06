@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformHandleInTransit implementation
+// summary: Implements cross-process handle transfer, including Windows DuplicateHandle logic and safe cleanup of remote handles.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/platform_handle_in_transit.h"
 
 #include <utility>

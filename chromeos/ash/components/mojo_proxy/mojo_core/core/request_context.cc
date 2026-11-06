@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request context implementation
+// summary: Implements the thread-local RequestContext that records the source of a system API call and runs watch notification and cancellation finalizers on destruction.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/request_context.h"
 
 #include "base/check.h"

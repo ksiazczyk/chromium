@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Options validation unit tests
+// summary: Unit tests for UserOptionsReader covering valid and invalid struct sizes, member presence checks, and unaligned options pointers.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/options_validation.h"
 
 #include <stddef.h>

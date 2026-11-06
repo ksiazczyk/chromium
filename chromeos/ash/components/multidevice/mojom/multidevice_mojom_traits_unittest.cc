@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice mojom traits unit tests
+// summary: Tests round-trip serialization of BeaconSeed, RemoteDevice, and software feature enums through Mojo.
+// ---
+
 #include "chromeos/ash/components/multidevice/mojom/multidevice_mojom_traits.h"
 
 #include "base/time/time.h"

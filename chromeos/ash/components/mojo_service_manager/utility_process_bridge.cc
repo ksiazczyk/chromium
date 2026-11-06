@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process bridge implementation
+// summary: Implements a singleton bridge in Ash that forwards ServiceManager calls from allowed utility processes, such as video capture, to the real Mojo service manager.
+// ---
+
 #include "chromeos/ash/components/mojo_service_manager/utility_process_bridge.h"
 
 #include <string_view>

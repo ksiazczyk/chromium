@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection implementation
+// summary: Implements NearbyConnection by sending byte payloads through the connections manager and queueing incoming messages.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connection_impl.h"
 
 #include "chromeos/ash/components/nearby/common/connections_manager/nearby_connections_manager.h"

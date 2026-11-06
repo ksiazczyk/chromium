@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mojo Proxy service include rules
+summary: Grants the service directory include access to the frozen legacy Mojo Core clone, mojo/core, and the ipcz headers.

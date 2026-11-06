@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake secure message delegate unit tests
+// summary: Unit tests verifying key pair generation, key derivation, and secure message creation and unwrapping in the fake delegate.
+// ---
+
 #include "chromeos/ash/components/multidevice/fake_secure_message_delegate.h"
 
 #include "base/functional/bind.h"

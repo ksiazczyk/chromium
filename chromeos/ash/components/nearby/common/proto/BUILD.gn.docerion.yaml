@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby common proto build definition
+summary: GN build file defining a proto_library target that compiles the field_mask and timestamp protos, restricted to Chrome-OS builds.

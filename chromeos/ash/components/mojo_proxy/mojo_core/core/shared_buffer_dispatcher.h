@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared buffer dispatcher class
+// summary: Declares SharedBufferDispatcher, a Dispatcher for Mojo shared buffers supporting option validation, creation, deserialization, buffer mapping and transit handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_SHARED_BUFFER_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_SHARED_BUFFER_DISPATCHER_H_
 

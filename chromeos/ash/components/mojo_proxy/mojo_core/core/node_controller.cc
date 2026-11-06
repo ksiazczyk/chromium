@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeController implementation
+// summary: Implements the NodeController that owns the ports Node, manages broker invitations and peer connections, and serializes events for channel transmission.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/node_controller.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby scheduling DEPS include rules
+summary: Allows includes from content/public/browser and components/cross_device/logging within the scheduling directory.

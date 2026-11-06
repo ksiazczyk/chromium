@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device reference implementation
+// summary: Implements RemoteDeviceRef, including software feature state lookup, device ID access, and truncated device IDs for concise logging.
+// ---
+
 #include "chromeos/ash/components/multidevice/remote_device_ref.h"
 
 #include <sstream>

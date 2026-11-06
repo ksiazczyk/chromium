@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo core system API implementation
+// summary: Implements the core Mojo system API, including invitations, message and data pipes, shared buffers, watchers, and process error handling.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/core.h"
 
 #include <string.h>

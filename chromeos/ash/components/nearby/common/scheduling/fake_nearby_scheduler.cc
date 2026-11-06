@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Scheduler implementation
+// summary: Implements a fake NearbyScheduler that counts immediate requests and reschedules and lets tests set scheduling state directly.
+// ---
+
 #include "chromeos/ash/components/nearby/common/scheduling/fake_nearby_scheduler.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for mojo service manager Mojom files
+summary: Sets per-file review ownership, delegating Mojom and traits files to the IPC and ChromeOS security owners.

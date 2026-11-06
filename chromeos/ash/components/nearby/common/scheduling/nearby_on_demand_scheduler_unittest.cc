@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyOnDemandScheduler unit tests
+// summary: Unit tests verifying that the on-demand scheduler makes no recurring requests after starting.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback_helpers.h"

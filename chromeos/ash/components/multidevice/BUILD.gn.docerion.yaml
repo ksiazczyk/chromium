@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the multidevice component
+summary: Defines the multidevice static library, stub utility, test support, and unit test targets with their sources and dependencies.

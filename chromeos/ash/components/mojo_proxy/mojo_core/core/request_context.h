@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request context class
+// summary: Declares the thread-local RequestContext spanning a single system API call, with source tracking and inlined lists of watch notify and cancel finalizers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_REQUEST_CONTEXT_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_REQUEST_CONTEXT_H_
 

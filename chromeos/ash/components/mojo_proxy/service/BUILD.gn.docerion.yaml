@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo Proxy service build file
+summary: Defines the mojo_proxy executable, the switches source set, the test Mojom target, and the mojo_proxy_unittests target for the Mojo Proxy service.

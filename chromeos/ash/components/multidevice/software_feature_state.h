@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareFeatureState enum for multi-device features
+// summary: Defines the SoftwareFeatureState enum (kNotSupported, kSupported, kEnabled) for multi-device features, with stable numeric values that are serialized persistently.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SOFTWARE_FEATURE_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SOFTWARE_FEATURE_STATE_H_
 

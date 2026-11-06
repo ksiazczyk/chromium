@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pipe dispatcher header
+// summary: Declares the MessagePipeDispatcher class that ties a dispatcher to a port and supports fusing, messaging, and serialization.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_MESSAGE_PIPE_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_MESSAGE_PIPE_DISPATCHER_H_
 

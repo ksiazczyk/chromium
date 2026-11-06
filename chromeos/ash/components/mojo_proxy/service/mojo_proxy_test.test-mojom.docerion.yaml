@@ -1,0 +1,4 @@
+# Docerion header of mojo_proxy_test.test-mojom.
+type: source
+title: TestService Mojom interface for proxy tests
+summary: Defines the TestService Mojom interface with echo, file, shared memory, and pipe transfer methods used to exercise the proxy in tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device struct declaration
+// summary: Declares the RemoteDevice struct holding metadata for a device associated with a user's account, such as keys, names, software features, and beacon seeds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_H_
 

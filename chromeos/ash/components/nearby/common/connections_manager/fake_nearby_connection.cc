@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connection
+// summary: Test double of NearbyConnection that queues readable data, records written bytes and simulates closing.
+// ---
+
 #include "chromeos/ash/components/nearby/common/connections_manager/fake_nearby_connection.h"
 
 FakeNearbyConnection::FakeNearbyConnection() = default;

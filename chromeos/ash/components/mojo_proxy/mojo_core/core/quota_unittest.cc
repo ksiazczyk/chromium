@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo quota API unit tests
+// summary: Unit tests for MojoSetQuota and MojoQueryQuota, checking invalid arguments and receive queue length and memory size quota behavior on message pipes and data pipes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/public/c/system/quota.h"
 
 #include <string>

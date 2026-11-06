@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for mojo service manager
+summary: Lists chungsheng@google.com and hashimoto@chromium.org as owners of the directory.

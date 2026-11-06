@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proximity Auth logging unit tests
+// summary: Unit tests verifying that PA_LOG messages are saved to the buffer, FIFO eviction when the buffer is full, and standard log message creation.
+// ---
+
 #include "chromeos/ash/components/multidevice/logging/logging.h"
 
 #include <stddef.h>

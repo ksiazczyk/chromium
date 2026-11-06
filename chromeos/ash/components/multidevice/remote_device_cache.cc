@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device cache implementation
+// summary: Implements the remote device cache, updating or adding devices and supporting lookup by Instance ID or legacy device ID.
+// ---
+
 #include "chromeos/ash/components/multidevice/remote_device_cache.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared buffer dispatcher unit tests
+// summary: Unit tests for SharedBufferDispatcher covering validation of shared buffer creation options and dispatcher behavior.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/shared_buffer_dispatcher.h"
 
 #include <stddef.h>

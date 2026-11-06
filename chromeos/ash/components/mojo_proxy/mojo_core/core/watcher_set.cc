@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatcherSet implementation
+// summary: Implements WatcherSet, which tracks watchers attached to a dispatcher and notifies them of handle signal state changes and closure.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/watcher_set.h"
 
 #include <utility>

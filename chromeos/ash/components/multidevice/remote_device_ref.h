@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote device reference declaration
+// summary: Declares RemoteDeviceRef, a cheaply copyable pointer-based reference to remote device metadata that can be shared between clients.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_REF_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_REMOTE_DEVICE_REF_H_
 

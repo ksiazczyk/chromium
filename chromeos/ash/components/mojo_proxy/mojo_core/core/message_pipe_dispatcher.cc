@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pipe dispatcher implementation
+// summary: Implements the message pipe dispatcher, covering message read and write, quotas, watchers, serialization, and port fusion.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/message_pipe_dispatcher.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby connections manager BUILD.gn
+summary: Defines the connections_manager, test_support and unit_tests source sets with their dependencies for the ChromeOS nearby component.

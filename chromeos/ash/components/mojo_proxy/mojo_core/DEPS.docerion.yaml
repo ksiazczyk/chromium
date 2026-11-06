@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the legacy Mojo Core clone
+summary: DEPS rules that keep the frozen, self-contained clone independent of //mojo while allowing the Perfetto track event protos needed for tracing.

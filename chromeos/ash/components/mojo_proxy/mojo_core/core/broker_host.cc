@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerHost implementation
+// summary: Implements the broker-side channel that services synchronous IPCs from client processes, including shared buffer requests and channel handoff.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/broker_host.h"
 
 #include <algorithm>

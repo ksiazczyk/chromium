@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invitation dispatcher implementation
+// summary: Implements the invitation dispatcher that attaches named message pipe ports and extracts them when a process invitation is accepted.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/invitation_dispatcher.h"
 
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/core.h"

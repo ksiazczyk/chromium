@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for multidevice
+summary: Points the directory to the shared COMMON_METADATA mixins for ownership and issue tracking.

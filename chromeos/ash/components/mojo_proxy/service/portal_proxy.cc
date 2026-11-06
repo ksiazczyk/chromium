@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortalProxy implementation
+// summary: Implements message forwarding, handle translation, and trap-based watching between an ipcz portal and a legacy Mojo message pipe.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/service/portal_proxy.h"
 
 #include <cstddef>

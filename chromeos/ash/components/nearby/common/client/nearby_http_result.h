@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby HTTP error and result enums
+// summary: Defines the NearbyHttpError and NearbyHttpResult enums and the NearbyHttpStatus class used to classify and log Nearby API HTTP outcomes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_HTTP_RESULT_H_
 #define CHROMEOS_ASH_COMPONENTS_NEARBY_COMMON_CLIENT_NEARBY_HTTP_RESULT_H_
 

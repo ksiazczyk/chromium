@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserMessage base class for embedder-defined messages
+// summary: Declares the UserMessage base class for embedder-defined user message implementations, providing type info identification and hooks for external routing and serialized size.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_USER_MESSAGE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PORTS_USER_MESSAGE_H_
 

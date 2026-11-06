@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software feature conversion functions
+// summary: Implements conversions between multidevice SoftwareFeature values and cryptauth proto SoftwareFeature values.
+// ---
+
 #include "chromeos/ash/components/multidevice/software_feature.h"
 
 #include "base/notreached.h"

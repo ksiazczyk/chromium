@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port implementation with control event queuing
+// summary: Implements Port methods for ordering, buffering, and dequeuing control events and for collecting pending user messages.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/port.h"
 
 #include <utility>

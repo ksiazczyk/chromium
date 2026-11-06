@@ -1,3 +1,9 @@
+---
+type: readme
+title: Mojo Proxy
+summary: Describes the Mojo Proxy service that bridges Mojo+ipcz host processes with legacy Mojo Core clients and explains how to launch and configure it.
+---
+
 Mojo Proxy
 ====
 The Mojo Proxy is a simple standalone service which can act as a bridge between

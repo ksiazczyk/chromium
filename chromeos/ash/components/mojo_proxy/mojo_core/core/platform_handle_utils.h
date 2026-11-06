@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform handle utilities header
+// summary: Declares functions to convert shared memory region handles to and from PlatformHandles and to clone a MojoPlatformProcessHandle into a strongly owned base::Process.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_HANDLE_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_PLATFORM_HANDLE_UTILS_H_
 

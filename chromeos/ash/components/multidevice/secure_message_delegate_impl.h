@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureMessageDelegateImpl class declaration
+// summary: Declares the concrete SecureMessageDelegate implementation backed by the EasyUnlock D-Bus client, with a testing factory and weak-pointer callback handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SECURE_MESSAGE_DELEGATE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_MULTIDEVICE_SECURE_MESSAGE_DELEGATE_IMPL_H_
 

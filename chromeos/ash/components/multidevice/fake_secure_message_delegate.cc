@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake secure message delegate implementation
+// summary: Implements a fake SecureMessageDelegate for tests, using simple Vigenere-style encryption and hash-based signatures instead of real cryptography.
+// ---
+
 #include "chromeos/ash/components/multidevice/fake_secure_message_delegate.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle signals state wrapper
+// summary: Defines a wrapper around MojoHandleSignalsState with helpers for checking readable, writable, peer-closed, and quota signal states.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_HANDLE_SIGNALS_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_HANDLE_SIGNALS_STATE_H_
 

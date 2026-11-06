@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe producer dispatcher implementation
+// summary: Implements the producer-side dispatcher for Mojo data pipes, writing to a shared memory ring buffer with two-phase writes, serialization, and transit support.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/data_pipe_producer_dispatcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatcher base class implementation
+// summary: Implements the base Dispatcher class with default invalid-argument results for Mojo handle operations and thread-local checks during handle extraction.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/dispatcher.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message unit tests
+// summary: Tests user message creation, unserialized message contexts, and message data APIs in the Mojo system.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

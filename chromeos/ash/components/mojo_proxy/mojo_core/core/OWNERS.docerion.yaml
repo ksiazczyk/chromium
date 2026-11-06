@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the mojo core core directory
+summary: Defines code owners for the directory and requires ipc security owners to review changes to message header files.

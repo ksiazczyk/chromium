@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess message pipe unit tests
+// summary: Tests message pipe communication across multiple processes, including handle transfer and command-driven test clients.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>

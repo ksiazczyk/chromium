@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message queue implementation for ports
+// summary: Implements an ordered incoming message queue for a port, delivering messages in sequence number order and tracking queued message bytes.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/ports/message_queue.h"
 
 #include <algorithm>

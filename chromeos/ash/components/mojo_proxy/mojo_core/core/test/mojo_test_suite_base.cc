@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test suite base implementation
+// summary: Implements the test suite that skips MANUAL_ tests unless run-manual is passed and gives every test a freshly initialized Mojo Core instance and IO thread.
+// ---
+
 #include "chromeos/ash/components/mojo_proxy/mojo_core/core/test/mojo_test_suite_base.h"
 
 #include "base/base_switches.h"

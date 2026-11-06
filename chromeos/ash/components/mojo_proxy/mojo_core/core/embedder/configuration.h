@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo core embedder configuration parameters
+// summary: Defines the Configuration struct of POD parameters, such as broker role and size limits, that can be passed to mojo_legacy::core::Init() to override defaults.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_EMBEDDER_CONFIGURATION_H_
 #define CHROMEOS_ASH_COMPONENTS_MOJO_PROXY_MOJO_CORE_CORE_EMBEDDER_CONFIGURATION_H_
 
