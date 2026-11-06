@@ -4,6 +4,12 @@
 
 # Please see the comments section at the top of the `run_performance_tests.py`.
 
+# ---docerion
+# type: test
+# title: Unit tests for run_performance_tests
+# summary: Unit tests covering argument parsing, story selection and command generation in run_performance_tests.py.
+# ---
+
 import io
 import json
 import os

@@ -1,0 +1,4 @@
+# Docerion header of generic_android27_local.textpb.
+type: config
+title: Generic Android 27 local AVD configuration
+summary: Text protobuf configuration specifying the emulator, system image, and AVD packages for a generic x86 Android 27 (Oreo MR1) virtual device.

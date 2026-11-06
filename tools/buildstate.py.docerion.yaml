@@ -1,0 +1,4 @@
+# Docerion header of buildstate.py.
+type: script
+title: Ninja Build Process Inspector
+summary: Prints the command lines of processes running as children of ninja to show what a serialized build is currently working on.

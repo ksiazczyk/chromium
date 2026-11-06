@@ -1,0 +1,4 @@
+# Docerion header of chromeos_device_trigger.py.
+type: source
+title: Swarming trigger script for ChromeOS device tests
+summary: Reads the current ChromeOS LKGM version at trigger time and adds it as a device_os dimension, falling back to any OS when no matching device is available.

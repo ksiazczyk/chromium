@@ -1,0 +1,4 @@
+# Docerion header of checkperms.py.
+type: script
+title: checkperms file permission checker wrapper
+summary: Runs the tools/checkperms checker against the checkout and reports file permission errors as script test results.

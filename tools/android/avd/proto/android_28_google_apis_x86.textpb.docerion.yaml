@@ -1,0 +1,4 @@
+# Docerion header of android_28_google_apis_x86.textpb.
+type: config
+title: Android 9 API 28 Google APIs x86 AVD configuration
+summary: Defines the emulator, system image, and AVD package versions used to create an Android 9 (API 28) x86 Google APIs emulator for Chromium testing.

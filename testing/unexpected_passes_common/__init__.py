@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Package initializer with sys.path setup
+# summary: Initializes the package and adds the catapult typ and blink tools directories to sys.path.
+# ---
+
 import os
 import sys
 

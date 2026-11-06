@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for trigger scripts
+# summary: Runs the unit tests in this directory as canned presubmit checks on change upload and commit via depot_tools.
+# ---
+
 """Top-level presubmit script for testing/trigger_scripts.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

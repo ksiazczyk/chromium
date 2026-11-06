@@ -1,0 +1,4 @@
+# Docerion header of make_gtest_filter.py.
+type: source
+title: GTest filter generator
+summary: Reads files or stdin to identify C++ tests and outputs a --gtest_filter or filter file, with optional wildcard compression.

@@ -1,0 +1,4 @@
+# Docerion header of test_finder.py.
+type: script
+title: Accessibility Coverage Test Finder
+summary: Command-line script that scans directories and matches monorail components to find which test suites exist, so coverage can be generated for specific components.

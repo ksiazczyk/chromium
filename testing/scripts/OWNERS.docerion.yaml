@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the testing scripts directory
+summary: Lists the owners who review changes to these scripts, including per-file owner rules for specific scripts.

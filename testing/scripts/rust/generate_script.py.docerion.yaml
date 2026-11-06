@@ -1,0 +1,4 @@
+# Docerion header of generate_script.py.
+type: script
+title: Generator of runner scripts for Rust unit tests
+summary: Generates bash or .bat wrapper scripts that invoke rust_main_program.py for the listed Rust test executables, supporting Chromium test filters and sharding.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFocusGrabberActivity
+// summary: Main activity of the AudioFocusGrabber tool that starts the listener service and forwards UI button actions such as gain, transient pause, and duck.
+// ---
+
 package org.chromium.tools.audio_focus_grabber;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of android_30_google_apis_x86_local.textpb.
+type: config
+title: Android 11 API 30 Google APIs x86 local AVD configuration
+summary: Local variant of the Android 11 (API 30) x86 Google APIs AVD configuration, pinning a separate AVD package version for local emulator runs.

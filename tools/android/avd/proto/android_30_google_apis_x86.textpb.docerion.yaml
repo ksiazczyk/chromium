@@ -1,0 +1,4 @@
+# Docerion header of android_30_google_apis_x86.textpb.
+type: config
+title: Android 11 API 30 Google APIs x86 AVD configuration
+summary: Defines emulator, system image, and AVD package versions for an Android 11 (API 30) x86 Google APIs emulator, kept in sync with Chromium CI mixins.

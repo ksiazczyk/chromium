@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeServer class header
+// summary: Declares the AXTreeServer class used to dump accessibility trees, including an error flag and Windows COM initialization.
+// ---
+
 #ifndef AX_TREE_SERVER_H_
 #define AX_TREE_SERVER_H_
 

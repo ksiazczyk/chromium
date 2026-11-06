@@ -1,0 +1,4 @@
+# Docerion header of boilerplate.py.
+type: script
+title: Copyright Boilerplate and Header Guard Generator
+summary: Creates new source files pre-filled with Chromium copyright boilerplate, C++ include guards, and matching implementation includes.

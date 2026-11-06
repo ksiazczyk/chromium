@@ -1,0 +1,4 @@
+# Docerion header of checkxmlstyle_test.py.
+type: test
+title: Unit tests for the Android XML style checker
+summary: Unit tests that verify each Android XML style check using mock presubmit APIs and sample XML resource files.

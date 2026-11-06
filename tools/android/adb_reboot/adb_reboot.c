@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: adb_reboot daemon source
+// summary: C daemon that forks, then reboots the Android device via su when the /sdcard/host_heartbeat file has not been touched for more than 120 seconds.
+// ---
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <stdio.h>

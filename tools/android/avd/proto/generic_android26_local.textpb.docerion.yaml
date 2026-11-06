@@ -1,0 +1,4 @@
+# Docerion header of generic_android26_local.textpb.
+type: config
+title: Generic Android 26 Oreo x86 local AVD configuration
+summary: Local variant of the Android 26 (Oreo) google_apis x86 AVD configuration, pinning the same packages with a separate AVD package version.

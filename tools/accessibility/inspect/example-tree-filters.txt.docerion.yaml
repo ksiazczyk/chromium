@@ -1,0 +1,4 @@
+# Docerion header of example-tree-filters.txt.
+type: config
+title: Example tree filters for ax_dump_tree
+summary: Sample ALLOW and DENY filter rules that restrict which accessibility tree properties ax_dump_tree reports when passed via the --filters option.

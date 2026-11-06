@@ -1,0 +1,4 @@
+# Docerion header of queries_unittest.py.
+type: test
+title: Queries module unit tests
+summary: Unit tests for the BigQuery querier, covering build ID parsing, query routing by builder type, and handling of empty or unmatched results.

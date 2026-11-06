@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Singleton registries for shared string data
+# summary: Singleton registries that deduplicate repeated strings such as test names, tags, results, bugs, and steps to reduce memory usage.
+# ---
+
 """Singleton registries for sharing repeated data.
 
 Since large amount of string-based data is repeated, storing references to

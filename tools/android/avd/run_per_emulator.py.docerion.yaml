@@ -1,0 +1,4 @@
+# Docerion header of run_per_emulator.py.
+type: source
+title: Run a command on all available emulators
+summary: Script that starts each available emulator, waits for it to come online, runs a given command on it, and stops it.

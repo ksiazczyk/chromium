@@ -1,0 +1,4 @@
+# Docerion header of generic_android26.textpb.
+type: config
+title: Generic x86 Android 26 (Oreo) AVD configuration
+summary: Specifies emulator and system image packages, AVD settings, swarming and local disk variants and a GMS Core APK for a generic x86 Android 26 virtual device.

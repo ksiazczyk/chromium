@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Yes/No Terminal Prompt Helper
+# summary: Provides a YesNo function that asks a yes/no question on the terminal and returns True for yes, reading raw single-key input on both Windows and Unix.
+# ---
+
 from __future__ import print_function
 
 import sys

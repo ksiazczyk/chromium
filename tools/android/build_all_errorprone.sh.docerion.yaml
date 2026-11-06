@@ -1,0 +1,4 @@
+# Docerion header of build_all_errorprone.sh.
+type: script
+title: Build all ErrorProne targets
+summary: Shell script that runs autoninja over all __errorprone targets, checking android_static_analysis settings first.

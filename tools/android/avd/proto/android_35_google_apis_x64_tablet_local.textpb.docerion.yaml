@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_x64_tablet_local.textpb.
+type: config
+title: Android 15 (API 35) google_apis x86_64 tablet local AVD configuration
+summary: Tablet variant of the Android 15 x86_64 Google APIs AVD configuration, identical to the standard tablet proto except for the pinned AVD package version.

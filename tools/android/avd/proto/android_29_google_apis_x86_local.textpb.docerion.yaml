@@ -1,0 +1,4 @@
+# Docerion header of android_29_google_apis_x86_local.textpb.
+type: config
+title: Android 10 API 29 Google APIs x86 local AVD configuration
+summary: Local variant of the Android 10 (API 29) x86 Google APIs AVD configuration with its own AVD package version and SwiftShader GPU launch settings.

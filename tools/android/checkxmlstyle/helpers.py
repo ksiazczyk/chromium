@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared paths and patterns for checkxmlstyle
+# summary: Defines source paths, regex patterns, and included-file rules used by the Android XML style checks and their tests.
+# ---
+
 import os
 import re
 

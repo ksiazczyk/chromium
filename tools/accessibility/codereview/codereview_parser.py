@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Code review comments file parser
+# summary: Parses comments files from the review workflow and invokes callbacks for the preamble, overall comment and per-file comments.
+# ---
+
 """Parser for a comments file."""
 
 import re

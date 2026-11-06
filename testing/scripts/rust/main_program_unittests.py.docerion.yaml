@@ -1,0 +1,4 @@
+# Docerion header of main_program_unittests.py.
+type: test
+title: Unit tests for main_program
+summary: End-to-end test using a fake executable wrapper to verify test filtering and the JSON results file produced by main_program.

@@ -1,0 +1,4 @@
+# Docerion header of perf_device_trigger_unittest.py.
+type: test
+title: Unit tests for the perf device trigger
+summary: Tests the perf triggerer's shard allocation and soft device affinity using a fake triggerer with mocked Swarming bot and task query results.

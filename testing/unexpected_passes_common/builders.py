@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Builder discovery from Buildbucket configuration
+# summary: Implements the Builders class that collects CI and try builder entries from testing buildbot and infra config JSON files.
+# ---
+
 """Methods related to querying builder information from Buildbucket."""
 
 import concurrent.futures

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Field Trial Testing Configuration
+summary: Documents the purpose and file format of fieldtrial_testing_config.json, including study configurations and formatting rules.
+relations:
+  - documents /testing/variations/fieldtrial_testing_config.json
+  - references /docs/testing/web_platform_tests.md
+---
+
 # Field Trial Testing Configuration
 
 This directory contains the `fieldtrial_testing_config.json` configuration file,

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeServer implementation
+// summary: Implements AXTreeServer, which builds and formats the accessibility tree for a selector, applying property filters and optional script instructions.
+// ---
+
 #include "tools/accessibility/inspect/ax_tree_server.h"
 
 #include <iostream>

@@ -1,0 +1,4 @@
+# Docerion header of test_buildbucket_api_gpu_use_cases.py.
+type: test
+title: Buildbucket API GPU use case tests
+summary: Runs sanity checks that GPU power measurement results and WebGL2 test times can be gathered from the latest green build via the Buildbucket API.

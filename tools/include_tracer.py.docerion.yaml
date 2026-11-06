@@ -1,0 +1,4 @@
+# Docerion header of include_tracer.py.
+type: source
+title: C++ include dependency tracer
+summary: Prints the include tree of a Chrome C++ source file and estimates the total size of included source.

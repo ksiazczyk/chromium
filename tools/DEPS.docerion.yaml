@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include check exemptions for tools subdirectories
+summary: Tells checkdeps.py to skip include path checks for the clang, traceline, and perf/page_sets child directories.

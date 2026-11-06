@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Android Studio tool files
+summary: Chromium OWNERS file that delegates review ownership of ChromiumStyle.xml to the Java styleguide owners.

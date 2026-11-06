@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: The Chromium Projects homepage fixture
+summary: Saved copy of The Chromium Projects homepage used as test data by the variations smoke test HTTP server.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for build speed tools
+# summary: Extends the repository-wide Ruff linter configuration and sets the indent width for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

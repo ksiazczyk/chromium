@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Chromium Java style Checkstyle configuration
+summary: Defines the Checkstyle rules enforcing Chromium's Java style, covering naming, imports, modifiers, and Javadoc.
+-->
+
 <!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.3//EN" "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
 
 <!--

@@ -1,0 +1,4 @@
+# Docerion header of extract_licenses_from_apk.py.
+type: source
+title: Extract open-source licenses from a Chrome APK
+summary: Extracts the about_credits.html from an APK's resources.pak and converts it into a plain-text license listing.

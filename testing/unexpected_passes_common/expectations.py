@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Test expectation file handling
+# summary: Parses and rewrites expectation files, including finder annotation comments, tag groups and git blame information.
+# ---
+
 """Methods related to test expectations/expectation files."""
 
 import collections

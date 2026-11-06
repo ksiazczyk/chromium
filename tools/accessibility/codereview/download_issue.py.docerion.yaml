@@ -1,0 +1,4 @@
+# Docerion header of download_issue.py.
+type: source
+title: Download a change patch for review
+summary: Fetches the current patchset of a Gerrit issue or change id and checks it out locally so it can be reviewed.

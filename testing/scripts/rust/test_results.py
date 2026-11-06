@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Test results output in JSON Test Results Format
+# summary: Library that writes test results in the JSON Test Results Format and adds command-line arguments for the output directory and results file.
+# ---
+
 """This is a library for printing test result as specified by
 //docs/testing/test_executable_api.md (e.g. --isolated-script-test-output)
 and //docs/testing/json_test_results_format.md

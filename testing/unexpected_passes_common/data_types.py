@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Core data types for the unexpected pass finder
+# summary: Defines expectation, result, build stats and test expectation map classes with pluggable custom implementations.
+# ---
+
 """Various custom data types for use throughout the unexpected pass finder."""
 
 import collections

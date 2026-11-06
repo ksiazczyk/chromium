@@ -1,0 +1,4 @@
+# Docerion header of check_git_config.py.
+type: script
+title: Git Credential Configuration Checker
+summary: Verifies git credentials and gclient configuration by attempting a push to a test repository and reporting the result.

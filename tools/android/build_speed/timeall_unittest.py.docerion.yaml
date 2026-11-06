@@ -1,0 +1,4 @@
+# Docerion header of timeall_unittest.py.
+type: test
+title: Unit tests for timeall.py
+summary: Unit tests verifying command construction, target selection, and repeat-on-failure behavior of the multi-emulator benchmark runner.

@@ -1,0 +1,4 @@
+# Docerion header of checkstyle_test.py.
+type: test
+title: Unit tests for the checkstyle runner
+summary: Verifies the Java style checks of checkstyle.py using sample Java snippets executed in parallel.

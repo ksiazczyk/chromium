@@ -1,0 +1,4 @@
+# Docerion header of android_32_google_apis_x64_foldable_landscape.textpb.
+type: config
+title: Android 12L API 32 foldable landscape Google APIs x86_64 AVD configuration
+summary: Landscape-screen variant of the Android 12L (API 32) foldable x86_64 Google APIs AVD configuration, kept in sync with the portrait foldable proto.

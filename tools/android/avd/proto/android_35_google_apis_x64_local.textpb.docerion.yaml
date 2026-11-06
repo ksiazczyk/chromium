@@ -1,0 +1,4 @@
+# Docerion header of android_35_google_apis_x64_local.textpb.
+type: config
+title: Android 15 (API 35) google_apis x86_64 local AVD configuration
+summary: Pins emulator, system image and AVD package versions for an Android 15 x86_64 Google APIs emulator, differing from the standard proto only in the pinned AVD package version.

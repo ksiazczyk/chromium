@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'AudioFocusGrabber: a Tool for Testing Audio Focus Handling in Apps'
+summary: Explains how to build and install the AudioFocusGrabber app and simulate audio focus actions via the UI, notification bar or adb shell.
+---
+
 ## AudioFocusGrabber: a Tool for Testing Audio Focus Handling in Apps
 
 A simple app used to test audio focus handling in apps, especially

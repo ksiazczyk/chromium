@@ -1,0 +1,4 @@
+# Docerion header of android_37_google_apis_ps16k_x64_local.textpb.
+type: config
+title: Android 17 google_apis_ps16k x86_64 local AVD configuration
+summary: Pins emulator, system image and AVD package versions for an Android 17 x86_64 google_apis_ps16k emulator, differing from the standard proto only in the pinned AVD package version.

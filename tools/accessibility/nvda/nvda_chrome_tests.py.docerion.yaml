@@ -1,0 +1,4 @@
+# Docerion header of nvda_chrome_tests.py.
+type: test
+title: Semi-automated Chrome tests with NVDA screen reader
+summary: Python script that launches Chrome and NVDA in a simulated-speech environment, automates Chrome actions, and asserts that NVDA announces the expected feedback.

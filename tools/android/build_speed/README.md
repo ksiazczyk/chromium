@@ -1,3 +1,11 @@
+---
+type: readme
+title: Android Build Speed Tools
+summary: Documents best practices, benchmark tool usage, command-line options, emulator setup, and future plans for measuring Android build speed.
+relations:
+  - documents /tools/android/build_speed/benchmark.py
+---
+
 # Android Build Speed Tools
 
 [TOC]

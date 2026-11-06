@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the checkstyle tooling
+# summary: Extends the repository-wide Ruff linter configuration for the checkstyle tool directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

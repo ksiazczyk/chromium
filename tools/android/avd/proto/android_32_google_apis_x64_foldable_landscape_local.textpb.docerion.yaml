@@ -1,0 +1,4 @@
+# Docerion header of android_32_google_apis_x64_foldable_landscape_local.textpb.
+type: config
+title: Android 12L foldable landscape local AVD configuration
+summary: Text protobuf config for an Android 12L (API 32) foldable landscape AVD with Google APIs on x86_64, pinning emulator, system image and AVD package versions.

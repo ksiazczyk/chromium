@@ -1,0 +1,4 @@
+# Docerion header of remove_stale_pyc_files.py.
+type: script
+title: Remove Stale PYC Files
+summary: Scans directories and deletes .pyc files that no longer have a corresponding .py source file.

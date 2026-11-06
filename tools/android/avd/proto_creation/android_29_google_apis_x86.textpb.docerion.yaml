@@ -1,0 +1,4 @@
+# Docerion header of android_29_google_apis_x86.textpb.
+type: config
+title: Android 10 (API 29) google_apis x86 AVD configuration
+summary: Text protobuf config defining emulator and system image packages plus AVD settings for an Android 10 (API 29) x86 emulator with Google APIs and 3GB RAM.

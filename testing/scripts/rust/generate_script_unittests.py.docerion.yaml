@@ -1,0 +1,4 @@
+# Docerion header of generate_script_unittests.py.
+type: test
+title: Unit tests for generate_script
+summary: Tests argument parsing and the generated bash and .bat runner script contents.

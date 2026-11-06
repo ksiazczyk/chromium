@@ -1,0 +1,4 @@
+# Docerion header of checkbins.py.
+type: script
+title: Checkbins wrapper for trybots
+summary: Launches tools/checkbins to verify binaries in a build directory and records the results.

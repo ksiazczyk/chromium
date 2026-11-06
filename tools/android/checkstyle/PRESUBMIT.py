@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Java style and unit tests
+# summary: Runs the directory's unit tests and a full-codebase checkstyle pass when Python or XML files change.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

@@ -1,0 +1,4 @@
+# Docerion header of variations_seed_beta_win.json.
+type: data
+title: Variations seed beta Windows test data
+summary: JSON snapshot of Chromium browser preferences and profile state serving as the Windows seed for the variations smoke test.

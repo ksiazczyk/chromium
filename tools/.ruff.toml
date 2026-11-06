@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration for tools
+# summary: Configures Ruff with an 80-character line limit, excludes legacy Python 2 scripts, and relaxes selected lint rules for the tools directory.
+# ---
+
 line-length = 80
 indent-width = 2
 

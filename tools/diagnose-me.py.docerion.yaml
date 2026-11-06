@@ -1,0 +1,4 @@
+# Docerion header of diagnose-me.py.
+type: source
+title: System configuration diagnostic tool for Linux and macOS
+summary: Diagnoses common system configuration problems on Linux and macOS, such as gold linker and ninja path issues, and suggests fixes.

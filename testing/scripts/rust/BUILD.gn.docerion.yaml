@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for Rust test script data dependencies
+summary: Defines a GN group target listing the Python test runner libraries as data dependencies so test isolates include them.

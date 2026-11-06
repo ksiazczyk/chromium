@@ -1,0 +1,4 @@
+# Docerion header of download_optimization_profile.py.
+type: source
+title: Optimization profile download tool
+summary: Updates local AFDO, PGO or orderfile profiles by downloading the newest profile over HTTPS from Google Storage and decompressing it.

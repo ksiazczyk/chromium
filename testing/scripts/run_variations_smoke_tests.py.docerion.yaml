@@ -1,0 +1,4 @@
+# Docerion header of run_variations_smoke_tests.py.
+type: test
+title: Chrome variations seed smoke test
+summary: Smoke test that launches Chrome with a new variations seed and verifies basic rendering, including Skia Gold pixel comparisons.

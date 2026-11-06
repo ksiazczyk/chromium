@@ -1,0 +1,4 @@
+# Docerion header of android_28_google_apis_x86.textpb.
+type: config
+title: Android 9 (API 28) google_apis x86 AVD configuration
+summary: Text protobuf config defining emulator and system image packages, screen, RAM and disk settings for an Android 9 (API 28) x86 AVD with Google APIs.

@@ -1,0 +1,4 @@
+# Docerion header of perf_device_trigger.py.
+type: source
+title: Swarming trigger script for perf device affinity
+summary: Implements soft device affinity for perf bots, preferring the last bot that ran each shard and overriding that behavior when multiple trigger configs are supplied.

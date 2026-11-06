@@ -1,0 +1,4 @@
+# Docerion header of android_33_google_apis_x64.textpb.
+type: config
+title: Android 13 (API 33) google_apis x64 AVD configuration
+summary: Text protobuf config defining emulator and system image packages plus AVD settings for an Android 13 (API 33) x86_64 emulator with Google APIs.

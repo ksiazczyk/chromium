@@ -1,0 +1,4 @@
+# Docerion header of benchmark_unittest.py.
+type: test
+title: Unit tests for benchmark.py
+summary: Unit tests covering benchmark execution, GN argument handling, and output printing using mocked subprocesses, timing, and emulator dependencies.

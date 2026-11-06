@@ -1,0 +1,4 @@
+# Docerion header of roll_webgl_conformance.py.
+type: script
+title: Roll WebGL Conformance Tests
+summary: Automates rolling the WebGL conformance repository into Chromium, creating the CL and including GPU trybots.

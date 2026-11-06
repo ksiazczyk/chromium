@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for testing/trigger_scripts
+# summary: Runs the Python unit tests in the directory as presubmit checks on change upload and commit.
+# ---
+
 """Top-level presubmit script for testing/trigger_scripts.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

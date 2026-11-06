@@ -1,0 +1,4 @@
+# Docerion header of run_isolated_script_test.py.
+type: script
+title: Run isolated script tests
+summary: Runs scripts that can execute as isolates, adapting output, filter, sharding and repeat arguments for known isolated script and typ test runners.

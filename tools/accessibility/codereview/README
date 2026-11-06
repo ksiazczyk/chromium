@@ -1,3 +1,9 @@
+---
+type: readme
+title: Alternative Gerrit code review workflow
+summary: Describes setup, usage and TODOs for the Emacs-based tool that provides an alternative workflow to Gerrit code review.
+---
+
 Summary
 ========================================
 Provide an alternative workflow to Gerrit/Poly Gerrit.

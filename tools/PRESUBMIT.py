@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the tools directory
+# summary: Runs Python unit tests and Ruff lint checks on changed files during Chromium presubmit.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

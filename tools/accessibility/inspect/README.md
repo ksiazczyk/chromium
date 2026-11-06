@@ -1,3 +1,11 @@
+---
+type: readme
+title: Inspect tools for accessibility debugging
+summary: Explains how to build and use ax_dump_tree and ax_dump_events, covering selectors, filters, Windows API options, examples and enabling accessibility per platform.
+relations:
+  - references /tools/accessibility/inspect/example-tree-filters.txt
+---
+
 # Inspect tools
 
 These cli tools are designed to help to debug accessibility problems in

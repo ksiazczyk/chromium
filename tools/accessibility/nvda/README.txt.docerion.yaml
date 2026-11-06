@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: NVDA Chrome Tests README
+summary: Explains the semi-automated Chrome and NVDA screen reader tests and gives step-by-step instructions for installing Python, pywinauto, NVDA, and Chrome Canary to run them.

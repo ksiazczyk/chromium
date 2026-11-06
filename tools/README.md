@@ -1,3 +1,13 @@
+---
+type: readme
+title: Overview of the //tools Directory
+summary: High-level guide that categorizes the scripts and utilities in the tools directory to make them easier to discover.
+relations:
+  - references /tools/cr/README
+  - references /tools/gdb/README.md
+  - references /tools/mb/docs/user_guide.md
+---
+
 # Overview of the //tools Directory
 
 This document provides a high-level guide to the scripts and utilities in the

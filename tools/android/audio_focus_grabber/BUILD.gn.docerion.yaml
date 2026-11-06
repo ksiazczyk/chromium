@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the AudioFocusGrabber APK
+summary: GN build file defining the AudioFocusGrabber test-only APK and its Android resources, sources and dependencies.

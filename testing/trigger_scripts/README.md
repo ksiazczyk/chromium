@@ -1,3 +1,9 @@
+---
+type: readme
+title: Swarming trigger scripts
+summary: Introduces the directory of Swarming trigger scripts, trampoline scripts that give finer-grained control of test sharding and distribution, and links to their documentation.
+---
+
 # Swarming trigger scripts
 
 This directory contains Swarming trigger scripts, which are trampoline

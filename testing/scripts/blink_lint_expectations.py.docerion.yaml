@@ -1,0 +1,4 @@
+# Docerion header of blink_lint_expectations.py.
+type: script
+title: Blink test expectations lint wrapper
+summary: Runs Blink's lint_test_expectations tool and records the resulting failures as local script results.

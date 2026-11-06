@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared helpers for inspect tool options
+// summary: Implements shared helpers for parsing tree selectors, filters and scenarios from the command line and printing help for the inspect tools.
+// ---
+
 #include "tools/accessibility/inspect/ax_utils.h"
 
 #include "base/command_line.h"

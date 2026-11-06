@@ -1,0 +1,4 @@
+# Docerion header of remove_unused_imports.py.
+type: script
+title: Unused Java import removal script
+summary: Finds unused imports in changed Java files via checkstyle and removes them from the source.

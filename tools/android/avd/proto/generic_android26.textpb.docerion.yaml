@@ -1,0 +1,4 @@
+# Docerion header of generic_android26.textpb.
+type: config
+title: Generic Android 26 Oreo x86 AVD configuration
+summary: Specifies emulator, system image and AVD package versions for a generic Android 26 (Oreo) google_apis x86 emulator.

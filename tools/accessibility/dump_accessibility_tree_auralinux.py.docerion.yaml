@@ -1,0 +1,4 @@
+# Docerion header of dump_accessibility_tree_auralinux.py.
+type: script
+title: Dump Chrome ATK accessibility tree on Linux
+summary: Command-line utility that dumps Chrome's ATK accessibility tree via pyatspi to verify what Chrome exposes to assistive technologies.

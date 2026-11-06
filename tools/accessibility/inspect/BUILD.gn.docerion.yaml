@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the accessibility inspect tools
+summary: Defines the test-only ax_dump_events and ax_dump_tree executables with their sources, dependencies and Windows libraries for the Chromium build.

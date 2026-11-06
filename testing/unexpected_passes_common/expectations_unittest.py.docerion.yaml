@@ -1,0 +1,4 @@
+# Docerion header of expectations_unittest.py.
+type: test
+title: Expectations module unit tests
+summary: Unit tests for the expectations module, covering expectation file parsing, duplicate detection, wildcard handling, and stale expectation removal.

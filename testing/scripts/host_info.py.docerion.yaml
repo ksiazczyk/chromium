@@ -1,0 +1,4 @@
+# Docerion header of host_info.py.
+type: script
+title: Host and device info collector
+summary: Collects host details such as OS, CPU count, free disk space, and attached Android device status, emitting them as host info results.

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared argument parsing for unexpected pass finders
+# summary: Defines common command-line arguments such as BigQuery project, sample count, output format and expectation handling options.
+# ---
+
 """Common argument parsing-related code for unexpected pass finders."""
 
 import argparse
