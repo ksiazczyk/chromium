@@ -79,6 +79,12 @@
     toJSON, toString
 */
 
+// ---docerion
+// type: source
+// title: json2.js JSON reference implementation
+// summary: Public-domain json2.js implementation adding JSON.stringify and JSON.parse for environments without native JSON support.
+// ---
+
 if (!this.JSON) {
 
     JSON = function () {

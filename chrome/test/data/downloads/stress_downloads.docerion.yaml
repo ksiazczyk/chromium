@@ -1,0 +1,4 @@
+# Docerion header of stress_downloads.
+type: test
+title: Download stress test file list
+summary: Lists download test files used by chrome/test/functional/stress.py to stress the download source.

@@ -1,0 +1,4 @@
+# Docerion header of webrunner.patch.
+type: test
+title: 'webrunner.patch: automated mode for Dromaeo webrunner'
+summary: Patch that adds an automated mode to webrunner.js, including query flags, a disabled pause control, and automation hooks to report scores and results for Chrome test runs.

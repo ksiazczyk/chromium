@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag-and-drop event reporting helper
+// summary: Script that reports drag-and-drop event details to the browser test harness via domAutomationController.
+// ---
+
 /* Reports an event to DragAndDropBrowserTest and  DOMDragEventWaiter */
 window.reportDragAndDropEvent = function(ev) {
   function safe(f) {

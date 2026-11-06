@@ -1,0 +1,4 @@
+# Docerion header of iso-8859-1.html.
+type: test
+title: ISO-8859-1 encoding test page
+summary: Test page declaring the ISO-8859-1 charset in its Content-Type meta tag for encoding alias mapping tests.

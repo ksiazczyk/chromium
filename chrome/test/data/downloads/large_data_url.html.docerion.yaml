@@ -1,0 +1,4 @@
+# Docerion header of large_data_url.html.
+type: test
+title: Large data URL download test page
+summary: Test page that fetches large_image.png, converts it to a data URL and triggers a download named large.png via an anchor click.

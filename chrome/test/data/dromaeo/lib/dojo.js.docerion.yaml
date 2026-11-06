@@ -1,0 +1,4 @@
+# Docerion header of dojo.js.
+type: test
+title: Dojo Toolkit 1.6.1 vendored library
+summary: Optimized Dojo Toolkit 1.6.1 build vendored as test data for the Dromaeo JavaScript benchmark suite in Chrome browser tests.

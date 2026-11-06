@@ -1,3 +1,9 @@
+/*docerion
+type: asset
+title: Dromaeo web interface stylesheet
+summary: Main stylesheet for the Dromaeo benchmark pages, covering layout, branding and result display.
+*/
+
 ol.results { text-align: left; display: none; font-size: 10px; list-style: none; display: none; }
 .alldone ol.results { display: block; width: 48%; float: left; }
 ol.results li { clear: both; overflow: auto; }

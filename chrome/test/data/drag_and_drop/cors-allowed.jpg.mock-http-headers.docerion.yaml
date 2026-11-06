@@ -1,0 +1,4 @@
+# Docerion header of cors-allowed.jpg.mock-http-headers.
+type: test
+title: Mock HTTP headers for cors-allowed.jpg
+summary: Mock HTTP response headers that serve cors-allowed.jpg with a permissive CORS policy for drag-and-drop tests.

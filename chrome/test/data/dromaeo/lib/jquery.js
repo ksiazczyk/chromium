@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: jQuery 1.2.6 library
+// summary: jQuery 1.2.6 JavaScript library providing selector, DOM and utility features, vendored as Dromaeo benchmark test data.
+// ---
+
 (function(){
 /*
  * jQuery 1.2.6 - New Wave Javascript

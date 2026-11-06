@@ -1,0 +1,4 @@
+# Docerion header of image_source.html.
+type: test
+title: Image drag source test page
+summary: Test frame that starts dragging an image, with placeholders for a host serving the CORS-allowed image.

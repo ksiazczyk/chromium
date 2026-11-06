@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Browser-side Dromaeo benchmark runner
+// summary: JavaScript runner that executes performance tests in the browser, computes statistics such as median and mean, and reports the results.
+// ---
+
 (function(){
 	
 	// Populated from: http://www.medcalc.be/manual/t-distribution.php

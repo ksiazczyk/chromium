@@ -1,0 +1,4 @@
+# Docerion header of large_image.html.
+type: test
+title: Large image display test page
+summary: Test page that embeds large_image.png in an img element for download-related tests.

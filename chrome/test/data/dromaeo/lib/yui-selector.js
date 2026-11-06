@@ -12,6 +12,12 @@ version: 2.6.0
  * @requires yahoo, dom
  */
 
+// ---docerion
+// type: source
+// title: YUI Selector module 2.6.0
+// summary: Vendored YUI 2.6.0 selector library implementing CSS3 selector queries over DOM elements, included as test data for the Dromaeo JavaScript benchmarks.
+// ---
+
 (function() {
 /**
  * Provides helper methods for collecting and filtering DOM elements.

@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-resource-policy-resource.txt.
+type: test
+title: Cross-origin resource policy test resource
+summary: Plain text resource fetched by the cross-origin resource policy download test page.

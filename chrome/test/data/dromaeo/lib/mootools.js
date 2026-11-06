@@ -30,6 +30,12 @@ provides: [Core, MooTools, Type, typeOf, instanceOf, Native]
 ...
 */
 
+// ---docerion
+// type: test
+// title: MooTools 1.4.1 framework
+// summary: MooTools 1.4.1 core build with types, classes, elements, effects and requests, vendored as Dromaeo benchmark test data.
+// ---
+
 (function(){
 
 this.MooTools = {

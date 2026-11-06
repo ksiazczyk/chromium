@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Dromaeo benchmark in Chromium
+summary: Describes the vendored Dromaeo JavaScript and DOM performance benchmark, its Chromium-specific changes, and the update procedure.

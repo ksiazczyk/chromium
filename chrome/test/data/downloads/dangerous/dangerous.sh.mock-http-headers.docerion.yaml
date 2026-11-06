@@ -1,0 +1,4 @@
+# Docerion header of dangerous.sh.mock-http-headers.
+type: test
+title: Mock HTTP headers for dangerous .sh download
+summary: Mock HTTP response headers served when the test downloads the dangerous .sh script as an octet stream.

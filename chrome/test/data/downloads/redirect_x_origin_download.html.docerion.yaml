@@ -1,0 +1,4 @@
+# Docerion header of redirect_x_origin_download.html.
+type: test
+title: Cross-origin redirect download placeholder page
+summary: Placeholder page that is served with a 302 redirect to empty.bin during cross-origin download tests.

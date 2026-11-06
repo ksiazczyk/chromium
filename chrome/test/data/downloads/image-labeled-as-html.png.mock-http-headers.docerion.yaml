@@ -1,0 +1,4 @@
+# Docerion header of image-labeled-as-html.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for image-labeled-as-html.png
+summary: Mock HTTP response headers serving a PNG image as text/html to test content type handling in downloads.

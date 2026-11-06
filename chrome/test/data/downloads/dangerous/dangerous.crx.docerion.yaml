@@ -1,0 +1,4 @@
+# Docerion header of dangerous.crx.
+type: test
+title: Dangerous .crx download test fixture
+summary: One-byte placeholder .crx file used as a dangerous download fixture in Chrome download tests.

@@ -1,0 +1,4 @@
+# Docerion header of ext-base.js.
+type: test
+title: Ext JS 2.2 base library
+summary: Ext JS Library 2.2 base module with core utilities, browser detection and inheritance support, vendored for the Dromaeo benchmark tests.

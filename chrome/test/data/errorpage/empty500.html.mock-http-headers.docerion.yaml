@@ -1,0 +1,4 @@
+# Docerion header of empty500.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the empty 500 page
+summary: Mock HTTP response headers returning HTTP 500 with a text/html content type for the empty500.html test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of multiple_download_from_iframe_srcdoc.html.
+type: test
+title: Multiple downloads from iframe srcdoc test page
+summary: Test page that creates three sandboxed srcdoc iframes that each load tiny_binary.bin to trigger downloads.

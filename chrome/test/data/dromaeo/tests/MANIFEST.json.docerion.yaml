@@ -1,0 +1,4 @@
+# Docerion header of MANIFEST.json.
+type: test
+title: Dromaeo test manifest
+summary: JSON manifest listing the Dromaeo benchmark tests with names, origins, descriptions, categories and tags.

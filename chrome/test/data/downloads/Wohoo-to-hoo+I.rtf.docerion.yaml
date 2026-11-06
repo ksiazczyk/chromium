@@ -1,0 +1,4 @@
+# Docerion header of Wohoo-to-hoo+I.rtf.
+type: test
+title: RTF download test file Wohoo-to-hoo+I
+summary: Small RTF document reading 'Hello Chrome' used as a download target in Chrome download tests.

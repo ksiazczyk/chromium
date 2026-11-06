@@ -11,6 +11,13 @@
  *
  * Date: 2013-07-03T13:30Z
  */
+
+// ---docerion
+// type: test
+// title: jQuery 2.0.3 library
+// summary: jQuery JavaScript Library 2.0.3 including Sizzle, vendored as test data for the Dromaeo benchmark suite.
+// ---
+
 (function( window, undefined ) {
 
 // Can't do this because several apps including ASP.NET trace

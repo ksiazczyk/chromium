@@ -1,0 +1,4 @@
+# Docerion header of test-tail.html.
+type: test
+title: HTML closing fragment for generated test pages
+summary: Tail snippet that closes the script block and HTML document of generated test pages.

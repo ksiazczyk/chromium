@@ -1,0 +1,4 @@
+# Docerion header of download-a_zip_file.html.
+type: test
+title: Multiple downloads infobar test page
+summary: Loads two frames that each download a zip file to trigger the multiple downloads infobar.

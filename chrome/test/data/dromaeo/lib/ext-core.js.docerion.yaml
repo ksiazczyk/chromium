@@ -1,0 +1,4 @@
+# Docerion header of ext-core.js.
+type: test
+title: Ext JS 2.2 core DOM library
+summary: Ext JS Library 2.2 core module providing DomHelper and DOM manipulation utilities, vendored as Dromaeo benchmark test data.

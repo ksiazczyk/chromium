@@ -1,0 +1,4 @@
+# Docerion header of US-ASCII.html.
+type: test
+title: US-ASCII encoding test page
+summary: Test page declaring the US-ASCII charset in its Content-Type meta tag for encoding alias mapping tests.

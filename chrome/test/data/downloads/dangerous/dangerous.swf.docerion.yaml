@@ -1,0 +1,4 @@
+# Docerion header of dangerous.swf.
+type: test
+title: Dangerous .swf download test file
+summary: Small fixture file representing a SWF file that is treated as a dangerous download on all platforms.

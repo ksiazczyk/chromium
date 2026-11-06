@@ -6,6 +6,12 @@
  *
  *--------------------------------------------------------------------------*/
 
+// ---docerion
+// type: test
+// title: Prototype JavaScript framework 1.7
+// summary: Prototype JavaScript framework version 1.7 with class, DOM and browser feature helpers, vendored as Dromaeo benchmark test data.
+// ---
+
 var Prototype = {
 
   Version: '1.7',

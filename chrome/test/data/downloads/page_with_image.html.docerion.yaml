@@ -1,0 +1,4 @@
+# Docerion header of page_with_image.html.
+type: test
+title: Page with image test page
+summary: Test page that loads image.jpg with an allow-get-only query parameter and includes an empty POST form.

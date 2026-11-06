@@ -1,0 +1,4 @@
+# Docerion header of librefs.patch.
+type: test
+title: 'librefs.patch: local library references for Dromaeo tests'
+summary: Patch that rewrites Dromaeo test HTML pages to load JavaScript libraries such as Dojo, jQuery, Ext, MooTools and Prototype from local copies instead of Google-hosted CDN URLs.

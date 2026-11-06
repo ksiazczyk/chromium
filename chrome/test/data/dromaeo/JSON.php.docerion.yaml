@@ -1,0 +1,4 @@
+# Docerion header of JSON.php.
+type: source
+title: Services_JSON PHP library for JSON encoding and decoding
+summary: PEAR Services_JSON class providing PHP conversion to and from JSON format for the Dromaeo suite.

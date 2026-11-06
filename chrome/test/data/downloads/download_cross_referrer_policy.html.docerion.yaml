@@ -1,0 +1,4 @@
+# Docerion header of download_cross_referrer_policy.html.
+type: test
+title: Download referrer policy test page
+summary: Test page that applies a referrer policy from the query parameter and links to an echo referrer endpoint for download referrer tests.

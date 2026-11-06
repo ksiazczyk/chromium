@@ -1,0 +1,4 @@
+# Docerion header of page_with_canvas_image.html.
+type: test
+title: Canvas drawing test page
+summary: Test page that draws a diagonal line on a 300x300 canvas element.

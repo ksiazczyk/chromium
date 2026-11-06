@@ -1,0 +1,4 @@
+# Docerion header of multiple_a_download_x_origin_redirect_to_download.html.
+type: test
+title: Multiple anchor downloads with cross-origin redirect test page
+summary: Test page that triggers a configurable number of anchor downloads from a download_url query parameter.

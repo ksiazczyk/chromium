@@ -10,6 +10,12 @@ version: 2.6.0
  *
  */
 
+// ---docerion
+// type: test
+// title: YUI 2.6.0 dom module
+// summary: YUI 2.6.0 dom module with helpers for element styles, classes and dimensions, vendored as Dromaeo benchmark test data.
+// ---
+
 (function() {
     var Y = YAHOO.util,     // internal shorthand
         lang = YAHOO.lang,

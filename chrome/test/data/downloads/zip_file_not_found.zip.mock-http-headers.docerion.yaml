@@ -1,0 +1,4 @@
+# Docerion header of zip_file_not_found.zip.mock-http-headers.
+type: test
+title: Mock HTTP headers for missing zip file
+summary: Mock HTTP headers serving a 400 Bad Request response for zip_file_not_found.zip in download tests.

@@ -1,0 +1,4 @@
+# Docerion header of download-attribute.html.
+type: test
+title: Download attribute test page
+summary: Test page that sets an anchor's download href from the query string and clicks it when a message event arrives.

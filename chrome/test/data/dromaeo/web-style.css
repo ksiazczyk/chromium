@@ -1,3 +1,8 @@
+/*docerion
+type: source
+title: Styles for the Dromaeo web runner interface
+summary: Stylesheet defining the layout and appearance of the Dromaeo web benchmark UI, including result bars and result tables.
+*/
 
 a { color: orange; }
 div.test { overflow: hidden; margin: 4px; }

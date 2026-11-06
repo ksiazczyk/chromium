@@ -1,0 +1,4 @@
+# Docerion header of image-octet-stream.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for image-octet-stream.png
+summary: Mock HTTP response headers serving a PNG as application/octet-stream with nosniff for download tests.
