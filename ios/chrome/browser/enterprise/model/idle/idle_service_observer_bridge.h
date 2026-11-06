@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleService observer bridge header
+// summary: Declares an Objective-C protocol mirroring IdleService::Observer and a C++ bridge class that forwards idle service events to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_IDLE_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_IDLE_SERVICE_OBSERVER_BRIDGE_H_
 

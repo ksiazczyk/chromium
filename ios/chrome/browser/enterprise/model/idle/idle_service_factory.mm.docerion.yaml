@@ -1,0 +1,4 @@
+# Docerion header of idle_service_factory.mm.
+type: source
+title: IdleServiceFactory implementation
+summary: Implements the IdleService factory singleton and registers the idle timeout related profile preferences.

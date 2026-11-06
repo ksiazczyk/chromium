@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Analysis connectors test app interface header
+// summary: Declares the AnalysisConnectorsAppInterface class used by Earl Grey tests to set and clear analysis connector rules and the browser DM token.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_TEST_ANALYSIS_CONNECTORS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_ANALYSIS_TEST_ANALYSIS_CONNECTORS_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of profile_id_service_factory_ios_unittest.mm.
+type: test
+title: Profile ID service factory iOS unit tests
+summary: Unit tests verifying that profile identifiers are stable across repeated calls and differ between personal and managed profiles.

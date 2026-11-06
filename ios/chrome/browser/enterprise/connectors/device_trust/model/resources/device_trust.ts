@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust attestation JavaScript API for iOS
+// summary: TypeScript script injected into policy-allowlisted pages that installs a frozen chrome.enterprise.deviceTrust API for requesting device attestation through the native DeviceTrustMessageHandler.
+// ---
+
 import {sendWebKitMessageWithReply, trim} from '//ios/web/public/js_messaging/resources/utils.js';
 
 const MESSAGE_HANDLER_NAME = 'DeviceTrustMessageHandler';

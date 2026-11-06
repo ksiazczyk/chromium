@@ -1,0 +1,4 @@
+# Docerion header of ios_signals_aggregator_factory_unittest.mm.
+type: test
+title: IOSSignalsAggregatorFactory unit tests
+summary: Unit tests verifying that the aggregator factory returns a non-null SignalsAggregator for a profile and reuses the same instance across calls.

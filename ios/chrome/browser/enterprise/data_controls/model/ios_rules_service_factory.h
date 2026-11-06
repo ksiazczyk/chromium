@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS rules service factory interface
+// summary: Declares a profile-keyed service factory that provides IOSRulesService instances for browser profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_IOS_RULES_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_IOS_RULES_SERVICE_FACTORY_H_
 

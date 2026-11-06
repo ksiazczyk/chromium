@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS data controls clipboard utils
+summary: Defines the utils and unit_tests source sets with their sources and dependencies for the iOS enterprise data controls clipboard utilities.

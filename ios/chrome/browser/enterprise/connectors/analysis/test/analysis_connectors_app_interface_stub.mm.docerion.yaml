@@ -1,0 +1,4 @@
+# Docerion header of analysis_connectors_app_interface_stub.mm.
+type: test
+title: Analysis connectors test app interface stub
+summary: Stubs the AnalysisConnectorsAppInterface class into the app main queue so Earl Grey tests can call its methods.

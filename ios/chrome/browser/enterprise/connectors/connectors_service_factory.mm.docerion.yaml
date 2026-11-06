@@ -1,0 +1,4 @@
+# Docerion header of connectors_service_factory.mm.
+type: source
+title: Connectors service factory implementation
+summary: Builds ConnectorsService per profile using prefs, identity manager, cloud policy manager, and profile state.

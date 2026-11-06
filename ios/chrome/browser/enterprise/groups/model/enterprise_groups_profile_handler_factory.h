@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseGroupsProfileHandlerFactory header
+// summary: Declares EnterpriseGroupsProfileHandlerFactory, a ProfileKeyedServiceFactoryIOS that provides the per-profile EnterpriseGroupsProfileHandler for iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_GROUPS_MODEL_ENTERPRISE_GROUPS_PROFILE_HANDLER_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_GROUPS_MODEL_ENTERPRISE_GROUPS_PROFILE_HANDLER_FACTORY_H_
 

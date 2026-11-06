@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark request config
+// summary: Declares an overlay request configuration object that carries the watermark text to be displayed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_WATERMARK_REQUEST_CONFIG_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_WATERMARK_REQUEST_CONFIG_H_
 

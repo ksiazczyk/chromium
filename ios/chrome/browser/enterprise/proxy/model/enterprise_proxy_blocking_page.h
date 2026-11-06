@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy blocking page header
+// summary: Declares the Secure Gateway interstitial page shown for disguised enterprise proxy errors, covering authentication, authorization and other categories.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_BLOCKING_PAGE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_BLOCKING_PAGE_H_
 

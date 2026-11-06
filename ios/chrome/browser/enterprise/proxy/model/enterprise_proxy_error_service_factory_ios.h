@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error service factory header
+// summary: Declares the profile-keyed service factory that owns EnterpriseProxyErrorService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_ERROR_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_ERROR_SERVICE_FACTORY_IOS_H_
 

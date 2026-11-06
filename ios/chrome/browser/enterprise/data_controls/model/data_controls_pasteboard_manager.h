@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataControlsPasteboardManager class header
+// summary: Declares the singleton manager that associates system pasteboard content with its in-app origin for Data Controls policy enforcement.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_DATA_CONTROLS_PASTEBOARD_MANAGER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_DATA_CONTROLS_PASTEBOARD_MANAGER_H_
 

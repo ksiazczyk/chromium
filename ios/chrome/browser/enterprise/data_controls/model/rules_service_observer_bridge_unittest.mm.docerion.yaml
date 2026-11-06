@@ -1,0 +1,4 @@
+# Docerion header of rules_service_observer_bridge_unittest.mm.
+type: test
+title: RulesServiceObserverBridge unit tests
+summary: Unit tests verifying that RulesServiceObserverBridge forwards OnRulesUpdated to a fake Objective-C observer.

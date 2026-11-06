@@ -1,0 +1,4 @@
+# Docerion header of client_certificates_service_ios.mm.
+type: source
+title: Client certificates service implementation
+summary: Matches client identities against AutoSelectCertificateForUrls policy filters from content settings to auto-select a certificate for a requesting URL.

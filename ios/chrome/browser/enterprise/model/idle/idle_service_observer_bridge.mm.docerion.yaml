@@ -1,0 +1,4 @@
+# Docerion header of idle_service_observer_bridge.mm.
+type: source
+title: IdleService observer bridge implementation
+summary: Implements forwarding of IdleService observer callbacks to the Objective-C delegate observer.

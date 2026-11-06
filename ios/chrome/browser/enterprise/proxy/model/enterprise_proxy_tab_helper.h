@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy tab helper for navigation tracking
+// summary: Per-WebState helper that tracks the pending cross-document main frame navigation for enterprise proxy authentication challenges.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_PROXY_TAB_HELPER_H_
 

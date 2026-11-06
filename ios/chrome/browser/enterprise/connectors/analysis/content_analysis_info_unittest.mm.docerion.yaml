@@ -1,0 +1,4 @@
+# Docerion header of content_analysis_info_unittest.mm.
+type: test
+title: ContentAnalysisInfo unit tests
+summary: Unit tests verifying that ContentAnalysisInfo initializes binary upload requests with the expected settings, tokens, URLs, and metadata.

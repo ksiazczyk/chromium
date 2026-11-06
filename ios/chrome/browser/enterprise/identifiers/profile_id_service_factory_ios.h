@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID service factory iOS header
+// summary: Declares the keyed service factory that provides a ProfileIdService per iOS profile and returns none for incognito.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_IDENTIFIERS_PROFILE_ID_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_IDENTIFIERS_PROFILE_ID_SERVICE_FACTORY_IOS_H_
 

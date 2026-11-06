@@ -1,0 +1,4 @@
+# Docerion header of data_protection_browser_agent.mm.
+type: source
+title: DataProtectionBrowserAgent implementation
+summary: Implements watermark preference updates when tabs are added, removed, deleted, or change their watermark text.

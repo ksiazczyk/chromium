@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the reporting folder
+summary: Declares the allowed include rules for the reporting directory, permitting headers from the iOS policy and signin model directories.

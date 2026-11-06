@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS enterprise signals model
+summary: Lists the allowed include directories for the iOS enterprise signals model, covering device signals, connectors, identifiers, policy, and reauthentication code.

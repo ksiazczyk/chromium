@@ -1,0 +1,4 @@
+# Docerion header of ios_enterprise_interstitial.mm.
+type: source
+title: iOS enterprise interstitial implementation
+summary: Implements enterprise block and warn interstitial pages, including metrics helpers and enterprise URL filtering event reporting.

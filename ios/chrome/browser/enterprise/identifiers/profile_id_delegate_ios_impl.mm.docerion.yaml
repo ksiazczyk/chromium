@@ -1,0 +1,4 @@
+# Docerion header of profile_id_delegate_ios_impl.mm.
+type: source
+title: Profile ID delegate iOS implementation
+summary: Implements the iOS profile ID delegate, generating profile GUIDs in prefs and returning the device ID from browser DM token storage.

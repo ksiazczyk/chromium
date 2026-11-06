@@ -1,0 +1,4 @@
+# Docerion header of files_request_handler_ios.mm.
+type: source
+title: FilesRequestHandlerIOS implementation
+summary: Implements the iOS file request handler delegate, creating content analysis requests, uploading files, and reporting warning bypasses and dangerous download events with metrics.

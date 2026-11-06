@@ -1,0 +1,4 @@
+# Docerion header of data_protection_tab_helper_observer_bridge_unittest.mm.
+type: test
+title: Data protection tab helper observer bridge unit tests
+summary: Unit tests verifying that the observer bridge forwards screenshot protection change events to the Objective-C observer and safely handles tab helper destruction.

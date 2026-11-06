@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting utility declarations for iOS connectors
+// summary: Declares the UrlFilteringEventType enum and helper functions that map content analysis results and report URL filtering and dangerous download events to the ReportingEventRouter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_REPORTING_UTIL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_REPORTING_UTIL_H_
 

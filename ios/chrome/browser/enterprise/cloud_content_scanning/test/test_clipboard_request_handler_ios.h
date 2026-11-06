@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestClipboardRequestHandlerIOS test support header
+// summary: Declares a test ClipboardRequestHandler subclass, its factory function, and helpers to mock clipboard deep scanning behavior in iOS tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_TEST_TEST_CLIPBOARD_REQUEST_HANDLER_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_TEST_TEST_CLIPBOARD_REQUEST_HANDLER_IOS_H_
 

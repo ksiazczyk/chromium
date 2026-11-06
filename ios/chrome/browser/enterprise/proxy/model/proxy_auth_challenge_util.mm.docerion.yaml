@@ -1,0 +1,4 @@
+# Docerion header of proxy_auth_challenge_util.mm.
+type: source
+title: Proxy auth challenge conversion implementation
+summary: Converts NSURLProtectionSpace and NSURLResponse objects into net auth challenge structures, mapping proxy schemes, ports, auth schemes and realms.

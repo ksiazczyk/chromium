@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for iOS client certificates
+summary: Defines GN source sets for the client certificates service, utility helpers, and unit tests together with their public and private dependencies.

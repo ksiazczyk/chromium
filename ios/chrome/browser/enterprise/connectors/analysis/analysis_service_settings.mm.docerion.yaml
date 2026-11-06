@@ -1,0 +1,4 @@
+# Docerion header of analysis_service_settings.mm.
+type: source
+title: AnalysisServiceSettings class implementation
+summary: Implements the iOS AnalysisServiceSettings wrapper, delegating construction and destruction to AnalysisServiceSettingsBase.

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_challenge_tab_helper_unittest.mm.
+type: test
+title: Device Trust challenge tab helper unit tests
+summary: Unit tests covering origin validation, allowlist matching, request limits, timeouts, and attestation metrics for the challenge tab helper.

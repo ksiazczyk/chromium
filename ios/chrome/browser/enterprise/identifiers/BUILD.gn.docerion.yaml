@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the profile ID service
+summary: Defines the source sets and dependencies for the iOS profile ID service factory, its delegate, and the unit test target.

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_connector_service_factory_ios.mm.
+type: source
+title: Device Trust connector service factory implementation
+summary: Implements the connector service factory, registering Device Trust profile preferences and building per-profile service instances.

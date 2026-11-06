@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate utilities for iOS client certificates
+// summary: Declares helpers for the keychain access group, private key factory creation, client certificate key deletion, and browser provisioning service creation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERT_UTILS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERT_UTILS_H_
 

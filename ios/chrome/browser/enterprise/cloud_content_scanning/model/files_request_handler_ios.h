@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesRequestHandlerIOS class header
+// summary: Declares FilesRequestHandlerIOS, the iOS delegate for FilesRequestHandlerBase that handles a single file analysis request including preparation, uploading, and reporting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_FILES_REQUEST_HANDLER_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_FILES_REQUEST_HANDLER_IOS_H_
 

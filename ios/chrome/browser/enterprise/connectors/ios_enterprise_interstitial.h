@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS enterprise interstitial header
+// summary: Declares the iOS enterprise blocking and warning interstitial pages shown when managed policy flags unsafe URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_IOS_ENTERPRISE_INTERSTITIAL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_IOS_ENTERPRISE_INTERSTITIAL_H_
 

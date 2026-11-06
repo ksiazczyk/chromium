@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSClipboardContext class header
+// summary: Declares IOSClipboardContext, a ClipboardContext implementation exposing source and destination URLs, profiles and clipboard metadata for data controls.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_UTILS_IOS_CLIPBOARD_CONTEXT_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_UTILS_IOS_CLIPBOARD_CONTEXT_H_
 

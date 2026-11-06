@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy auth challenge conversion utilities
+// summary: Declares helpers that convert WebKit proxy protection spaces and 407 responses into net::AuthChallengeInfo and HTTP response headers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_PROXY_AUTH_CHALLENGE_UTIL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_PROXY_AUTH_CHALLENGE_UTIL_H_
 

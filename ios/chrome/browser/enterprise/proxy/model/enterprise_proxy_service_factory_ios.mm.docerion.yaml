@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_service_factory_ios.mm.
+type: source
+title: Enterprise proxy service factory for iOS profiles
+summary: Profile-keyed factory that builds the EnterpriseProxyService when dynamic route fetching is enabled, wiring the network auth service and URL loader factory.

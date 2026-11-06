@@ -1,0 +1,4 @@
+# Docerion header of proxy_service_controller.mm.
+type: source
+title: Proxy service controller implementation
+summary: Implements 407 challenge evaluation through EnterpriseProxyErrorService and forwards dynamic proxy configuration updates to the web layer.

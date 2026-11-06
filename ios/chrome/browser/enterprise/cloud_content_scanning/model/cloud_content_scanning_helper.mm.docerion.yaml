@@ -1,0 +1,4 @@
+# Docerion header of cloud_content_scanning_helper.mm.
+type: source
+title: Cloud content scanning helper implementation
+summary: Implements scan decision handling that shows enterprise warning dialogs or snackbars and prepares resources for download scanning.

@@ -1,0 +1,4 @@
+# Docerion header of idle_service_unittest.mm.
+type: test
+title: IdleService unit tests
+summary: Unit tests verifying that the idle service schedules checks and runs actions correctly on startup, foregrounding and when the IdleTimeout policy changes.

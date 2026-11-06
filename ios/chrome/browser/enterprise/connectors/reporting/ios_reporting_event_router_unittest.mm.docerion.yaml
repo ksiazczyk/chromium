@@ -1,0 +1,4 @@
+# Docerion header of ios_reporting_event_router_unittest.mm.
+type: test
+title: iOS reporting event router unit tests
+summary: Tests the iOS reporting event router's event reporting, covering triggered rules, URL information, and referrer chains with mock policy clients.

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_service_factory_ios_unittest.mm.
+type: test
+title: iOS Device Trust service factory unit tests
+summary: Unit tests for the iOS service factory covering disabled service for unmanaged profiles, instance reuse, and enablement via allowlist policy.

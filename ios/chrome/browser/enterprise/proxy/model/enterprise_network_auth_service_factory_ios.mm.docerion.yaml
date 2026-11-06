@@ -1,0 +1,4 @@
+# Docerion header of enterprise_network_auth_service_factory_ios.mm.
+type: source
+title: Enterprise network auth service factory implementation
+summary: Builds the EnterpriseNetworkAuthService for a profile when dynamic route fetching is enabled, wiring identity, prefs and profile ID dependencies.

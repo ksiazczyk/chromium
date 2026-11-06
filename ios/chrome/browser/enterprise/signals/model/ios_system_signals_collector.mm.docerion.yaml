@@ -1,0 +1,4 @@
+# Docerion header of ios_system_signals_collector.mm.
+type: source
+title: IOSSystemSignalsCollector implementation
+summary: Implements collection of iOS OS signals including browser version, affiliation IDs, enrollment domain, vendor ID, screen lock, disk encryption, and hardware details.

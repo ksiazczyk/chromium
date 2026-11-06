@@ -1,0 +1,4 @@
+# Docerion header of data_controls_pasteboard_manager.mm.
+type: source
+title: DataControlsPasteboardManager implementation
+summary: Implements pasteboard source tracking, DLP scan content preparation with text and base64 image handling, and placeholder or item restoration.

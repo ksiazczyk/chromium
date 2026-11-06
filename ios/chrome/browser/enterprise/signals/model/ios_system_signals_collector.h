@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSSystemSignalsCollector declaration
+// summary: Declares IOSSystemSignalsCollector, a signals collector that gathers OS-level signals such as hardware info, enrollment domain, and screen lock state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_IOS_SYSTEM_SIGNALS_COLLECTOR_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_IOS_SYSTEM_SIGNALS_COLLECTOR_H_
 

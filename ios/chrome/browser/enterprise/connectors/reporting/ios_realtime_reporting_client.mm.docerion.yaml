@@ -1,0 +1,4 @@
+# Docerion header of ios_realtime_reporting_client.mm.
+type: source
+title: iOS realtime reporting client implementation
+summary: Implements the iOS realtime reporting client, including profile and browser cloud policy client setup, DM token handling, and event upload callbacks.

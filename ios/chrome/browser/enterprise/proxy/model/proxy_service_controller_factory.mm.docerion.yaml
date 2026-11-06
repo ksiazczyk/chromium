@@ -1,0 +1,4 @@
+# Docerion header of proxy_service_controller_factory.mm.
+type: source
+title: Proxy service controller factory for iOS profiles
+summary: Implements the profile-keyed factory that builds ProxyServiceController instances, wiring the enterprise proxy and error services to the web proxy configuration provider.

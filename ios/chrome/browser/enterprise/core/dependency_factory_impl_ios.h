@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyFactoryImplIOS class declaration
+// summary: Declares the iOS implementation of enterprise_core::DependencyFactory that provides access to a profile's user cloud policy manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CORE_DEPENDENCY_FACTORY_IMPL_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CORE_DEPENDENCY_FACTORY_IMPL_IOS_H_
 

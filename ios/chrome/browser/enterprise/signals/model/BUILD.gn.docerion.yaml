@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS enterprise signals model
+summary: Defines the GN build targets for the iOS enterprise signals model, including the model source set, a signals group, and the unit test target with their dependencies.

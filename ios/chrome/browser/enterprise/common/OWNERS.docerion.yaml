@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the enterprise common directory
+summary: Lists the directory owners and recommends sending reviews to the cep-review@ alias to distribute review load.

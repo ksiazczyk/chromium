@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning service factory for iOS profiles
+// summary: Declares a profile-keyed service factory that provides a CertificateProvisioningServiceIOS instance per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_PROVISIONING_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_PROVISIONING_SERVICE_FACTORY_IOS_H_
 

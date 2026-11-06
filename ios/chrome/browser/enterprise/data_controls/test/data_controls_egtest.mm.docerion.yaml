@@ -1,0 +1,4 @@
+# Docerion header of data_controls_egtest.mm.
+type: test
+title: Data controls Earl Grey tests
+summary: Earl Grey test suite verifying that data controls policies block, warn on, or report clipboard copy and paste actions in iOS Chrome.

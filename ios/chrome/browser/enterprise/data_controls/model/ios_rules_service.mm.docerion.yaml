@@ -1,0 +1,4 @@
+# Docerion header of ios_rules_service.mm.
+type: source
+title: iOS rules service implementation
+summary: Implements the iOS rules service, building action sources and destinations to evaluate clipboard rules per profile.

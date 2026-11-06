@@ -1,0 +1,4 @@
+# Docerion header of connectors_service_unittest.mm.
+type: test
+title: Connectors service unit tests
+summary: Unit tests for the iOS enterprise connectors service, covering DM token storage, cloud policy setup, and analysis connector behavior.

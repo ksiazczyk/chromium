@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_blocking_page.mm.
+type: source
+title: Enterprise proxy blocking page implementation
+summary: Implements the interstitial HTML contents, template parameters and command handling for enterprise proxy error pages.

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_util_unittest.mm.
+type: test
+title: Device Trust registration helper unit tests
+summary: Unit tests verifying Device Trust registration for regular profiles, disabled features, and off-the-record profiles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data controls app interface header
+// summary: Declares the DataControlsAppInterface class with methods to set block, warn, and report clipboard rules and clear data controls policies for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_TEST_DATA_CONTROLS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_TEST_DATA_CONTROLS_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_util.mm.
+type: source
+title: Device Trust registration helper implementation
+summary: Implements the Device Trust registration check using the iOS connector feature flag and the profile's off-the-record state.

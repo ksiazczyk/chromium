@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the idle directory
+summary: Restricts allowed includes for the idle directory, with a specific extra rule for action.mm.

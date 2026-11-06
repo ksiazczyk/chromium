@@ -1,0 +1,4 @@
+# Docerion header of profile_signals_collector_ios.mm.
+type: source
+title: ProfileSignalsCollectorIOS implementation
+summary: Implements collection of profile signals such as safe browsing level, site isolation, affiliation IDs, enrollment domain, profile ID, and connectors settings.

@@ -1,0 +1,4 @@
+# Docerion header of data_controls_app_interface.mm.
+type: test
+title: Data controls app interface implementation
+summary: Implements DataControlsAppInterface by writing data controls rules into profile prefs for copy and paste restrictions used in tests.

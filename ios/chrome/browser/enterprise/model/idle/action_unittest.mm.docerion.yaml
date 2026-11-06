@@ -1,0 +1,4 @@
+# Docerion header of action_unittest.mm.
+type: test
+title: Idle action unit tests
+summary: Tests the individual idle timeout actions, such as sign out and clearing browsing data, using fake removers and identity managers.

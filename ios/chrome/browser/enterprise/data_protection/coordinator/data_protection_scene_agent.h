@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataProtectionSceneAgent header
+// summary: Declares a scene agent that manages screenshot protection for the scene window when policies are enabled or the active tab requires protection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_DATA_PROTECTION_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_DATA_PROTECTION_SCENE_AGENT_H_
 

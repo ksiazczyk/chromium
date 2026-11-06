@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the client certificates directory
+summary: Delegates ownership review to the OWNERS file of components/enterprise/client_certificates.

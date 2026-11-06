@@ -1,0 +1,4 @@
+# Docerion header of data_protection_tab_helper_observer_bridge.mm.
+type: source
+title: DataProtectionTabHelperObserverBridge implementation
+summary: Implements forwarding of screenshot protection change callbacks from the tab helper to Objective-C observers.

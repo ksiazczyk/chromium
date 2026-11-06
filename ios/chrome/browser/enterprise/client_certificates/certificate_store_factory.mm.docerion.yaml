@@ -1,0 +1,4 @@
+# Docerion header of certificate_store_factory.mm.
+type: source
+title: Certificate store factory implementation
+summary: Creates a per-profile LevelDbCertificateStore backed by the profile's proto database provider and a private key factory.

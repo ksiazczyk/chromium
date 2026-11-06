@@ -1,0 +1,4 @@
+# Docerion header of clipboard_utils.mm.
+type: source
+title: Clipboard data controls policy utilities implementation
+summary: Implements clipboard policy verdict checks by merging source and destination profile verdicts and reports paste and copy events for iOS Chrome.

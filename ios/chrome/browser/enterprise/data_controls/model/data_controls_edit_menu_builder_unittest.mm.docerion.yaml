@@ -1,0 +1,4 @@
+# Docerion header of data_controls_edit_menu_builder_unittest.mm.
+type: test
+title: DataControlsEditMenuBuilder unit tests
+summary: Verifies that the share menu is removed when a copy block rule applies and kept when sharing is allowed.

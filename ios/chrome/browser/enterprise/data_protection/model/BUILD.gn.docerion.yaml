@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data protection model build configuration
+summary: GN build file defining the model source set and its unit test target with their sources and dependencies.

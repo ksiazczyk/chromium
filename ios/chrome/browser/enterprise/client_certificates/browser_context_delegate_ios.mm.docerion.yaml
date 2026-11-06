@@ -1,0 +1,4 @@
+# Docerion header of browser_context_delegate_ios.mm.
+type: source
+title: Browser context delegate implementation for iOS client certificates
+summary: Implements the browser context delegate, returning managed and temporary identity names, the provisioning policy pref, and no-op certificate cleanup.

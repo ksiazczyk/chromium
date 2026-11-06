@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud content scanning helper header
+// summary: Declares helpers that prepare file download scanning requests and handle scan verdicts with warning dialogs or snackbar messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_CLOUD_CONTENT_SCANNING_HELPER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_CLOUD_CONTENT_SCANNING_HELPER_H_
 

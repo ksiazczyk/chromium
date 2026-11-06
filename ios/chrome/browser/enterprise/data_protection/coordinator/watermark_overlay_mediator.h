@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkOverlayMediator header
+// summary: Declares the mediator that supplies watermark text and style updates from an overlay request and pref service to a consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_WATERMARK_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_WATERMARK_OVERLAY_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_content_analysis_request_unittest.mm.
+type: test
+title: iOS content analysis request unit tests
+summary: Unit tests verifying upload data population for valid, empty, missing, and normal files in IOSContentAnalysisRequest.

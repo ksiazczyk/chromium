@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard data controls policy utilities header
+// summary: Declares functions that evaluate paste, copy, share and Search With actions against data controls policies and report clipboard events on iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_UTILS_CLIPBOARD_UTILS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_UTILS_CLIPBOARD_UTILS_H_
 

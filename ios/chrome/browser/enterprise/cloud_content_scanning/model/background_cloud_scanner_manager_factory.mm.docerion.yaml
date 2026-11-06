@@ -1,0 +1,4 @@
+# Docerion header of background_cloud_scanner_manager_factory.mm.
+type: source
+title: Background cloud scanner manager factory implementation
+summary: Implements the factory, wiring the connectors service, reporting event router and cloud binary upload service into the manager.

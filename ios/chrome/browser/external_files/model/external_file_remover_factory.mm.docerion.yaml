@@ -1,0 +1,4 @@
+# Docerion header of external_file_remover_factory.mm.
+type: source
+title: External file remover profile-keyed service factory implementation
+summary: Implements the factory, building an ExternalFileRemoverImpl for each profile with a dependency on the tab restore service.

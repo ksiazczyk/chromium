@@ -1,0 +1,4 @@
+# Docerion header of analysis_connectors_app_interface.mm.
+type: test
+title: Analysis connectors test app interface implementation
+summary: Implements the test app interface, configuring download protection and Bulk Data Entry connector prefs and installing a fake browser DM token storage.

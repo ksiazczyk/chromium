@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise proxy model
+summary: Declares the allowed include directories for code in the enterprise proxy model folder.

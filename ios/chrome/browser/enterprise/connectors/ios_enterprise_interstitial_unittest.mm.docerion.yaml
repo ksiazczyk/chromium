@@ -1,0 +1,4 @@
+# Docerion header of ios_enterprise_interstitial_unittest.mm.
+type: test
+title: iOS enterprise interstitial unit tests
+summary: Unit tests for the iOS enterprise interstitial, verifying block and warn page behavior, user decisions, and metrics histograms.

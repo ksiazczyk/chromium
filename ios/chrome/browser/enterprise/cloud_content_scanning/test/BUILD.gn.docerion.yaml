@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test support targets for cloud content scanning
+summary: GN build file defining the test_support source set with the iOS clipboard request handler test files and their dependencies.

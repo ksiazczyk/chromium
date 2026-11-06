@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device Trust directory include rules (DEPS)
+summary: Grants this directory include access to components/device_signals/core/browser through its include_rules entry.

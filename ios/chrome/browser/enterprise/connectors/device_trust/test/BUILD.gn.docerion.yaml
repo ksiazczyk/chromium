@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Device Trust Earl Grey tests
+summary: Defines the GN eg2_tests source_set that builds the Earl Grey Device Trust tests and lists their Chromium dependencies.

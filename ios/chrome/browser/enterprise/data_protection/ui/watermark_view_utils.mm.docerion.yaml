@@ -1,0 +1,4 @@
+# Docerion header of watermark_view_utils.mm.
+type: source
+title: Watermark view rotation size utility implementation
+summary: Implements the rotation bounding-box math that expands the watermark grid so it fully covers the viewport after being rotated.

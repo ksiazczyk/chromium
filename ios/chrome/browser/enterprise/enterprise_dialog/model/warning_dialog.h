@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise warning dialog model header
+// summary: Declares the enterprise DialogType enum, the WarningDialog struct, and the GetWarningDialog function used to build policy warning dialogs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_ENTERPRISE_DIALOG_MODEL_WARNING_DIALOG_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_ENTERPRISE_DIALOG_MODEL_WARNING_DIALOG_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_observer.mm.
+type: source
+title: PasteboardObserver implementation
+summary: Implements PasteboardObserver by listening for pasteboard change and app activation notifications and comparing the pasteboard change count to detect external updates.

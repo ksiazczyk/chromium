@@ -1,0 +1,4 @@
+# Docerion header of connectors_manager_unittest.mm.
+type: test
+title: Connectors manager unit tests
+summary: Verifies that the iOS ConnectorsManager observes pref changes and resolves reporting and analysis settings correctly.

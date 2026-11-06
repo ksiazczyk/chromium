@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark overlay view controller header
+// summary: Declares WatermarkOverlayViewController, a view controller conforming to WatermarkConsumer that hosts the watermark view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_UI_WATERMARK_OVERLAY_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_UI_WATERMARK_OVERLAY_VIEW_CONTROLLER_H_
 

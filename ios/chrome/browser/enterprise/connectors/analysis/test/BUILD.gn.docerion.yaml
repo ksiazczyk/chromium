@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build config for analysis connectors test support
+summary: Defines Earl Grey test-only source sets providing the analysis connectors app interface and its stub for iOS Chrome tests.

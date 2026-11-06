@@ -1,0 +1,4 @@
+# Docerion header of data_protection_browser_agent_unittest.mm.
+type: test
+title: DataProtectionBrowserAgent unit tests
+summary: Unit tests verifying that watermark preference entries update on protection state changes and are removed on tab close.

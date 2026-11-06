@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasteboardObserver header for pasteboard change detection
+// summary: Declares PasteboardObserver, which invokes a callback when iOS pasteboard changes are detected via UIPasteboardChangedNotification or a changed change count on app activation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_PASTEBOARD_OBSERVER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_PASTEBOARD_OBSERVER_H_
 

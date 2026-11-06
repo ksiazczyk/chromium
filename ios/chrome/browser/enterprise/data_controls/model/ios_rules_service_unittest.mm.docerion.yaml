@@ -1,0 +1,4 @@
+# Docerion header of ios_rules_service_unittest.mm.
+type: test
+title: iOS rules service unit tests
+summary: Unit tests verifying paste and copy verdicts of the iOS rules service across managed, incognito, and OS clipboard scenarios.

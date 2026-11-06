@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the iOS Data Controls model
+summary: Defines the model, ios_rules_service, test_support and unit_tests source sets with their sources and dependencies for the Data Controls directory.

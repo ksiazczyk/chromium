@@ -1,0 +1,4 @@
+# Docerion header of connectors_manager.mm.
+type: source
+title: Connectors manager implementation
+summary: Implements the iOS ConnectorsManager, returning no data region preference for analysis connectors.

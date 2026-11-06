@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS Device Trust model
+summary: Defines the model source set, the TypeScript Device Trust API optimization target, and the unit test target with their dependencies for the iOS Device Trust connectors.

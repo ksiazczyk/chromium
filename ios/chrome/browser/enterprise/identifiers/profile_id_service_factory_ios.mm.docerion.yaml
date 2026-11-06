@@ -1,0 +1,4 @@
+# Docerion header of profile_id_service_factory_ios.mm.
+type: source
+title: Profile ID service factory iOS implementation
+summary: Implements the singleton factory that builds ProfileIdService instances using the iOS profile ID delegate and profile prefs.

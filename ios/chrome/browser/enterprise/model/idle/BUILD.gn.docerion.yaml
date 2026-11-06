@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS idle timeout service
+summary: Defines the idle source set and unit_tests target with their sources and dependencies for the enterprise idle timeout feature.

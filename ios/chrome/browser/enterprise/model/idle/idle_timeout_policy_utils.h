@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout policy utilities header
+// summary: Declares the ActionSet struct and a helper that derives the set of idle timeout actions from policy preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_IDLE_TIMEOUT_POLICY_UTILS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_IDLE_TIMEOUT_POLICY_UTILS_H_
 

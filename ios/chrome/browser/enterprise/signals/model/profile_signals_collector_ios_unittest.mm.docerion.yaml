@@ -1,0 +1,4 @@
+# Docerion header of profile_signals_collector_ios_unittest.mm.
+type: test
+title: ProfileSignalsCollectorIOS Unit Tests
+summary: Unit tests for the iOS profile signals collector, setting up a fake managed profile with cloud policy, identity, and connectors dependencies to verify profile-scoped signal collection.

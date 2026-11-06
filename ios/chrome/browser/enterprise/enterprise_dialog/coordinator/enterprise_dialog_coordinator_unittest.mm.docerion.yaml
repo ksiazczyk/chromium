@@ -1,0 +1,4 @@
+# Docerion header of enterprise_dialog_coordinator_unittest.mm.
+type: test
+title: EnterpriseDialogCoordinator unit tests
+summary: Unit tests verifying coordinator initialization, alert presentation, and dialog contents for the enterprise warning dialog.

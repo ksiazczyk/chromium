@@ -1,0 +1,4 @@
+# Docerion header of watermark_view_unittest.mm.
+type: test
+title: Watermark view unit tests
+summary: Unit tests covering watermark view initialization defaults, property updates and the expanded size calculation for rotated viewports.

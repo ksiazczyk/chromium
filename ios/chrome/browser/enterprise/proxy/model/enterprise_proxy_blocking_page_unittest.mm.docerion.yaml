@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_blocking_page_unittest.mm.
+type: test
+title: Enterprise proxy blocking page unit tests
+summary: Unit tests verifying the blocking page HTML and behavior across authentication, authorization and other error categories.

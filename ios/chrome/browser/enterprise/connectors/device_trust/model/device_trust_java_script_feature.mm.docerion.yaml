@@ -1,0 +1,4 @@
+# Docerion header of device_trust_java_script_feature.mm.
+type: source
+title: Device Trust JavaScript feature implementation
+summary: Implements script message handling for attestation requests, mapping Device Trust errors to JavaScript error codes and resolving promises with signed payloads.

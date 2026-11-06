@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for data_controls
+summary: Defines the allowed include dependencies for the iOS enterprise data_controls directory, listing headers and component directories it may use.

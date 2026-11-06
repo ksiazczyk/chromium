@@ -1,0 +1,4 @@
+# Docerion header of data_controls_tab_helper.mm.
+type: source
+title: Data Controls tab helper implementation
+summary: Implements enforcement of enterprise data control policies for clipboard and search actions, including paste analysis, warning dialogs, and reporting.

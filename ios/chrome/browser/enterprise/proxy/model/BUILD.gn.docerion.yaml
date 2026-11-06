@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for enterprise proxy model
+summary: Defines the model, proxy_auth_challenge_util and unit_tests source sets with their sources and dependencies for the enterprise proxy directory.

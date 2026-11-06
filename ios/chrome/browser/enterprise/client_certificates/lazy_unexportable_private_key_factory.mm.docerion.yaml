@@ -1,0 +1,4 @@
+# Docerion header of lazy_unexportable_private_key_factory.mm.
+type: source
+title: Lazy unexportable private key factory implementation
+summary: Queues key operations until the background-initialized unexportable key factory is ready, configuring the iOS keychain access group.

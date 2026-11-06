@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkOverlayCoordinator header
+// summary: Declares the overlay request coordinator that displays the enterprise watermark UI through OverlayPresenter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_WATERMARK_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_COORDINATOR_WATERMARK_OVERLAY_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_clipboard_context.mm.
+type: source
+title: IOSClipboardContext class implementation
+summary: Implements IOSClipboardContext, resolving active users via identity managers and classifying the copied text source as clipboard, incognito or profile context.
