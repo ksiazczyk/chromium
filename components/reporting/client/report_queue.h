@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueue interface
+// summary: Defines the ReportQueue interface for enqueueing records for delivery to a configured destination, including usage examples and speculative queue notes.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_H_
 

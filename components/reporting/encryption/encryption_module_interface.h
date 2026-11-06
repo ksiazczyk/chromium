@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption module interface declaration
+// summary: Declares the abstract EncryptionModuleInterface with record encryption, asymmetric key updates, and encryption key renewal methods.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_MODULE_INTERFACE_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_MODULE_INTERFACE_H_
 

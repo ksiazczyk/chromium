@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for reporting util
+summary: Defines GN build targets for the reporting util components, including static libraries, source sets, nocompile tests and the aggregated unit_tests target.

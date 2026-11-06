@@ -1,0 +1,4 @@
+# Docerion header of dev_ui_components_resources.grd.
+type: config
+title: DevUI components resources Grit aggregation
+summary: Aggregates Grit resource parts for developer-facing WebUI pages under components, packaging them for the Android Chrome DevUI dynamic feature module.

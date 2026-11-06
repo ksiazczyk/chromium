@@ -1,0 +1,4 @@
+# Docerion header of android_system_error_page_resources.grdp.
+type: config
+title: Android system error page grit resources
+summary: Grit part that packages the Android system error page load-error HTML resource.

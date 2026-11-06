@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualCollector class declaration
+// summary: Declares a collector that reports metric data only when manually triggered and enabled via reporting settings.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_MANUAL_COLLECTOR_H_
 #define COMPONENTS_REPORTING_METRICS_MANUAL_COLLECTOR_H_
 

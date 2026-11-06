@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectorBase class declaration
+// summary: Declares the abstract base class for metric data collectors, which collects metric data from a sampler and handles the collected results.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_COLLECTOR_BASE_H_
 #define COMPONENTS_REPORTING_METRICS_COLLECTOR_BASE_H_
 

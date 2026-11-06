@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskRunnerContext unit tests
+// summary: Unit tests covering single actions, action series, injected delays and completion behavior of TaskRunnerContext.
+// ---
+
 #include "components/reporting/util/task_runner_context.h"
 
 #include <functional>

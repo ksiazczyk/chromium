@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelayedSampler unit tests
+// summary: Verifies that the delayed sampler defers collection until the configured delay has elapsed, using mock time and a fake sampler.
+// ---
+
 #include "components/reporting/metrics/delayed_sampler.h"
 
 #include <memory>

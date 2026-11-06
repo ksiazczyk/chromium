@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reporting client include rules
+summary: DEPS file defining allowed include rules for the reporting client directory, permitting base, net backoff entry, and protobuf headers.

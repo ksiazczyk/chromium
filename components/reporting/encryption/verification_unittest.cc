@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signature verification unit tests
+// summary: Unit tests for the SignatureVerifier class, covering successful sign-and-verify flows, bad signatures, bad public keys, and a fixed dev-server key.
+// ---
+
 #include "components/reporting/encryption/verification.h"
 
 #include <memory>

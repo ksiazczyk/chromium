@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueFactory unit tests
+// summary: Unit tests for ReportQueueFactory covering queue creation, invalid configurations and rate limiting.
+// ---
+
 #include "components/reporting/client/report_queue_factory.h"
 
 #include <memory>

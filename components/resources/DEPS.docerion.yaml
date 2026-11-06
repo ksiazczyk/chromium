@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for components resources
+summary: Restricts includes in this directory to generated components grit headers and ui/base.

@@ -1,0 +1,4 @@
+# Docerion header of notifications_global_cache_list.grdp.
+type: config
+title: Notifications global cache list resources
+summary: Grit part that conditionally includes the notifications global cache origins list used by Safe Browsing notification content detection.

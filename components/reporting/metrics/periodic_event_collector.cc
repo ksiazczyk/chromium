@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeriodicEventCollector implementation
+// summary: Implements a collector that periodically samples data, detects events between collections, and runs the event-observed callback.
+// ---
+
 #include "components/reporting/metrics/periodic_event_collector.h"
 
 #include <memory>

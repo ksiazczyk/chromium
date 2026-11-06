@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModuleDelegate base implementation
+// summary: Implements delegate initialization, sequence checks, and dispatch of health data reads and record posts to virtual methods.
+// ---
+
 #include "components/reporting/health/health_module_delegate.h"
 
 #include <memory>

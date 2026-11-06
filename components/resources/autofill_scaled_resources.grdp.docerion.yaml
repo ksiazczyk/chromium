@@ -1,0 +1,4 @@
+# Docerion header of autofill_scaled_resources.grdp.
+type: config
+title: Autofill scaled image grit resources
+summary: Grit part declaring scaled credit card brand and payment icons, including metadata and legacy variants, for autofill.

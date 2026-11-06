@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusOr type alias for expected value or error status
+// summary: Defines StatusOr as an alias of base::expected with an internal ErrorStatus error type, used to return either a value or an error status.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_STATUSOR_H_
 #define COMPONENTS_REPORTING_UTIL_STATUSOR_H_
 

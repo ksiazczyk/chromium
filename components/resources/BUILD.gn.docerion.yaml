@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Components resources GN build rules
+summary: GN build file that assembles components resource packs via grit, generates the about-credits page, and defines the credits unit test target.

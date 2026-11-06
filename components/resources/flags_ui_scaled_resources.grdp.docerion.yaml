@@ -1,0 +1,4 @@
+# Docerion header of flags_ui_scaled_resources.grdp.
+type: config
+title: Flags UI scaled image resources
+summary: Grit part declaring the scaled favicon image for the flags UI page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage queue implementation
+// summary: Implements StorageQueue, a persistent queue that writes encrypted reporting records to disk, manages files and metadata, and triggers uploads.
+// ---
+
 #include "components/reporting/storage/storage_queue.h"
 
 #include <algorithm>

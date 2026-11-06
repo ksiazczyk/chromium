@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_resources.grdp.
+type: config
+title: Safe Browsing resources
+summary: Grit part that includes the real-time URL checks allowlist and download file types protobufs for Safe Browsing.

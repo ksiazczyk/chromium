@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption module interface implementation
+// summary: Implements EncryptionModuleInterface, including the EncryptedReporting feature flag, key availability checks, and key renewal tracking.
+// ---
+
 #include "components/reporting/encryption/encryption_module_interface.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModuleDelegate interface
+// summary: Declares the delegate interface between the health module and its data storage, with virtual methods overridden for testing.
+// ---
+
 #ifndef COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_DELEGATE_H_
 #define COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_DELEGATE_H_
 

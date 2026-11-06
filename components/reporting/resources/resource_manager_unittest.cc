@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceManager unit tests
+// summary: Parameterized unit tests exercising nested, simultaneous, and scoped reservations, reservation moves, and size reductions of ResourceManager.
+// ---
+
 #include "components/reporting/resources/resource_manager.h"
 
 #include <cstdint>

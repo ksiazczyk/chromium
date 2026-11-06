@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusOr unit tests
+// summary: Unit tests verifying StatusOr construction from base::unexpected and callback handling after the handler is deleted.
+// ---
+
 #include "components/reporting/util/statusor.h"
 
 #include <memory>

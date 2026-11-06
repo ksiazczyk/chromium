@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage options and queue parameter definitions
+// summary: Defines per-priority queue parameters such as subdirectories, file prefixes, and upload periods, plus default memory and disk resource limits for StorageOptions.
+// ---
+
 #include "components/reporting/storage/storage_configuration.h"
 
 #include "base/files/file_path.h"

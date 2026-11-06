@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventDrivenTelemetryCollectorPool interface
+// summary: Declares an interface for fetching the telemetry collectors associated with a given metric event type.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_EVENT_DRIVEN_TELEMETRY_COLLECTOR_POOL_H_
 #define COMPONENTS_REPORTING_METRICS_EVENT_DRIVEN_TELEMETRY_COLLECTOR_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeriodicEventCollector header
+// summary: Declares PeriodicEventCollector, which periodically collects telemetry data, detects events via an EventDetector, and notifies subscribers when reporting is enabled.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_PERIODIC_EVENT_COLLECTOR_H_
 #define COMPONENTS_REPORTING_METRICS_PERIODIC_EVENT_COLLECTOR_H_
 

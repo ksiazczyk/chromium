@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerContext
+// summary: Header defining a context template for running sequenced actions on a task runner with Schedule, ScheduleAfter and Response support.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_TASK_RUNNER_CONTEXT_H_
 #define COMPONENTS_REPORTING_UTIL_TASK_RUNNER_CONTEXT_H_
 

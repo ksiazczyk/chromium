@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leaky bucket rate limiter
+// summary: Declares RateLimiterLeakyBucket, a leaky bucket algorithm that accepts events at no more than a configured leakage rate over time.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_RATE_LIMITER_LEAKY_BUCKET_H_
 #define COMPONENTS_REPORTING_UTIL_RATE_LIMITER_LEAKY_BUCKET_H_
 

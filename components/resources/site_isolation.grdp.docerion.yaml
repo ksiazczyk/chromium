@@ -1,0 +1,4 @@
+# Docerion header of site_isolation.grdp.
+type: config
+title: Site isolation resource definitions
+summary: Grit part that bundles the isolated origins list as IDR_ISOLATED_ORIGINS, choosing an internal file or a placeholder based on build flags.

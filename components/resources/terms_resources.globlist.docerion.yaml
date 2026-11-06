@@ -1,0 +1,4 @@
+# Docerion header of terms_resources.globlist.
+type: config
+title: Terms of service glob list
+summary: Glob patterns used to regenerate the terms filelist, matching localized terms HTML files while excluding the Chromium variant.

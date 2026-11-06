@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the reporting compression module
+summary: Defines GN build targets for the compression module static library, its test support library and the compression unit tests.

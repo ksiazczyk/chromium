@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uploader interface declaration
+// summary: Declares the UploaderInterface that StorageQueue uses to hand encrypted records to an uploader, along with upload reason codes.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_STORAGE_UPLOADER_INTERFACE_H_
 #define COMPONENTS_REPORTING_STORAGE_STORAGE_UPLOADER_INTERFACE_H_
 

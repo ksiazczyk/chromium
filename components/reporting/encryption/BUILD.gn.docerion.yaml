@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for reporting encryption
+summary: Defines GN static_library targets for encryption, decryption, primitives, verification, test support, and the unit_tests source set.

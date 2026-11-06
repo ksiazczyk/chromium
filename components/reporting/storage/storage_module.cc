@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageModule implementation
+// summary: Implements StorageModule by delegating AddRecord, Flush, ReportSuccess, and UpdateEncryptionKey calls to the underlying Storage instance.
+// ---
+
 #include "components/reporting/storage/storage_module.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueProvider header
+// summary: Declares ReportQueueProvider, the single entry point for atomically creating report queues with global settings.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_PROVIDER_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_PROVIDER_H_
 

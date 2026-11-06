@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting health data proto
+// summary: Defines protobuf messages describing ERP health data such as storage queue actions, dBus calls, upload items, and blocked destination updates.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

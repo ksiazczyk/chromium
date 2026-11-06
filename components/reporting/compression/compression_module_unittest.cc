@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the compression module
+// summary: Verifies snappy compression behavior against direct snappy output, including poorly compressible records and memory resource usage.
+// ---
+
 #include "components/reporting/compression/compression_module.h"
 
 #include <memory>

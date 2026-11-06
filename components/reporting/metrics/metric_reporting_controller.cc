@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricReportingController implementation
+// summary: Implements a controller that tracks a reporting setting and runs enable or disable callbacks whenever the setting changes.
+// ---
+
 #include "components/reporting/metrics/metric_reporting_controller.h"
 
 #include <utility>

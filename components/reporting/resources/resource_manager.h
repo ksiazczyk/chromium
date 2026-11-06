@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManager and ScopedReservation declarations
+// summary: Declares the thread-safe ResourceManager for reserving and discarding memory with availability callbacks, plus the moveable RAII ScopedReservation class.
+// ---
+
 #ifndef COMPONENTS_REPORTING_RESOURCES_RESOURCE_MANAGER_H_
 #define COMPONENTS_REPORTING_RESOURCES_RESOURCE_MANAGER_H_
 

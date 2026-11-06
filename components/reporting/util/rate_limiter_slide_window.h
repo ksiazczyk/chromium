@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding window rate limiter
+// summary: Declares RateLimiterSlideWindow, which limits the total event size accepted over a time window using a fixed number of buckets.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_RATE_LIMITER_SLIDE_WINDOW_H_
 #define COMPONENTS_REPORTING_UTIL_RATE_LIMITER_SLIDE_WINDOW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of dom_distiller_resources.grdp.
+type: config
+title: DOM distiller viewer resources
+summary: Grit part bundling the HTML, JavaScript, CSS, images and serialized models used by the DOM distiller viewer.

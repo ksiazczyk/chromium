@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageOptions and QueueOptions declarations
+// summary: Declares StorageOptions and QueueOptions classes for configuring the storage directory, record size limits, resources, and per-queue upload settings.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_STORAGE_CONFIGURATION_H_
 #define COMPONENTS_REPORTING_STORAGE_STORAGE_CONFIGURATION_H_
 

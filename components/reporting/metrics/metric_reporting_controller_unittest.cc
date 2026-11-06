@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricReportingController unit tests
+// summary: Unit tests verifying controller callback behavior for default, trusted, and changing reporting settings using fake reporting settings.
+// ---
+
 #include "components/reporting/metrics/metric_reporting_controller.h"
 
 #include <memory>

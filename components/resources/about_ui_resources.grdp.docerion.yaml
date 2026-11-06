@@ -1,0 +1,4 @@
+# Docerion header of about_ui_resources.grdp.
+type: config
+title: About UI credits grit resources
+summary: Grit part that packages the about-credits CSS, generated HTML, and JavaScript for the about UI.

@@ -1,0 +1,4 @@
+# Docerion header of local_state.grdp.
+type: config
+title: Local state page resources
+summary: Grit part bundling the local state page HTML and its generated JavaScript as resources.

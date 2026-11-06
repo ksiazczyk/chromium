@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload tracker proto
+// summary: Defines protos for log upload settings and progress tracking, including retry counts, session tokens, and upload completion status.
+// ---
+
 syntax = "proto2";
 
 package reporting;

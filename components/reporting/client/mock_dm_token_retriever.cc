@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockDMTokenRetriever implementation
+// summary: Implements MockDMTokenRetriever helpers that set expected DM token retrieval call counts and canned results for tests.
+// ---
+
 #include "components/reporting/client/mock_dm_token_retriever.h"
 
 #include <string>

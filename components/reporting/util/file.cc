@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File operation utilities implementation
+// summary: Implements file helpers that delete files with warnings, read from an offset, append lines, write files and truncate lines with status-based results.
+// ---
+
 #include "components/reporting/util/file.h"
 
 #include <algorithm>

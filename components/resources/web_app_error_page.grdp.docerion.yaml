@@ -1,0 +1,4 @@
+# Docerion header of web_app_error_page.grdp.
+type: config
+title: Web app error page resource definitions
+summary: Grit part that packages the web app error page HTML as a flattened binary resource.

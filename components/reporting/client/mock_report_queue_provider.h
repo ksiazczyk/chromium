@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReportQueueProvider declaration
+// summary: Declares a mock of ReportQueueProvider with helpers to expect queue creation calls that return new mock queues, invoked on the constructing thread.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_MOCK_REPORT_QUEUE_PROVIDER_H_
 #define COMPONENTS_REPORTING_CLIENT_MOCK_REPORT_QUEUE_PROVIDER_H_
 

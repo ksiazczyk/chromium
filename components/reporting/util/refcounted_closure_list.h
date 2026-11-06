@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refcounted closure list class declaration
+// summary: Declares a thread-safe refcounted closure list that notifies registered completion callbacks once its final reference is released.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_REFCOUNTED_CLOSURE_LIST_H_
 #define COMPONENTS_REPORTING_UTIL_REFCOUNTED_CLOSURE_LIST_H_
 

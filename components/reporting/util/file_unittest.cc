@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for reporting file utilities
+// summary: Unit tests for the reporting file helpers, covering DeleteFileWarnIfFailed, DeleteFilesWarnIfFailed and RemoveAndTruncateLine behaviour.
+// ---
+
 #include "components/reporting/util/file.h"
 
 #include <string>

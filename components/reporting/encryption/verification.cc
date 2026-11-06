@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature verifier implementation
+// summary: Implements Ed25519 signature verification of server messages using well-known production and development public keys.
+// ---
+
 #include "components/reporting/encryption/verification.h"
 
 #include "components/reporting/encryption/primitives.h"

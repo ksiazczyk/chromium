@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptographic primitives implementation
+// summary: Implements X25519 shared secret computation, HKDF key derivation, ChaCha20-Poly1305 AEAD encryption and Ed25519 signature verification.
+// ---
+
 #include "components/reporting/encryption/primitives.h"
 
 #include <array>

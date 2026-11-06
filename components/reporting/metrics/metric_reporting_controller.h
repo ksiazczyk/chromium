@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricReportingController class declaration
+// summary: Declares MetricReportingController, which controls reporter initialization and cleanup based on a reporting setting path.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_METRIC_REPORTING_CONTROLLER_H_
 #define COMPONENTS_REPORTING_METRICS_METRIC_REPORTING_CONTROLLER_H_
 

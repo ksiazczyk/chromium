@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test encryption module implementation
+// summary: Implements a test encryption module that passes records through without encryption and ignores asymmetric key updates.
+// ---
+
 #include "components/reporting/encryption/test_encryption_module.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Status class
+// summary: Unit tests covering Status construction, comparison, copying, assignment, proto conversion and error message behaviour.
+// ---
+
 #include "components/reporting/util/status.h"
 
 #include <memory>

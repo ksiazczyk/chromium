@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyDMTokenRetriever header
+// summary: Declares EmptyDMTokenRetriever, a DMTokenRetriever that returns an empty token for event types that do not need DM tokens attached.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_EMPTY_DM_TOKEN_RETRIEVER_H_
 #define COMPONENTS_REPORTING_CLIENT_EMPTY_DM_TOKEN_RETRIEVER_H_
 

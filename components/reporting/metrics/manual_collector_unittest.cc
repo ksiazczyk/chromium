@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManualCollector unit tests
+// summary: Tests manual collection behavior with fakes, covering enabled and disabled reporting settings and event-driven data reporting.
+// ---
+
 #include "components/reporting/metrics/manual_collector.h"
 
 #include <memory>

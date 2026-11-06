@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeriodicCollector implementation
+// summary: Implements a collector that gathers and reports metric data at a configurable rate while the reporting setting is enabled.
+// ---
+
 #include "components/reporting/metrics/periodic_collector.h"
 
 #include <memory>

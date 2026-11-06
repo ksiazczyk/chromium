@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing cryptographic primitives declarations
+// summary: Declares test-only helpers mirroring the encryption primitives, including key pair generation, decryption and message signing.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_TESTING_PRIMITIVES_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_TESTING_PRIMITIVES_H_
 

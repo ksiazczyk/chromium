@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage class API for record writing and upload
+// summary: Declares the Storage class, which collects records, stores them persistently by priority, and exposes Write, Confirm, Flush, and UpdateEncryptionKey operations.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_STORAGE_H_
 #define COMPONENTS_REPORTING_STORAGE_STORAGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of security_interstitials_resources.grdp.
+type: config
+title: Security interstitials resources
+summary: Grit part bundling HTML, CSS, JS, icons and protobuf data for user-facing security interstitial pages.

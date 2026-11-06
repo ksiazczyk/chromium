@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric report queue unit tests
+// summary: Unit tests for MetricReportQueue covering manual upload, timer-based periodic upload, and enqueue behavior using a mock report queue.
+// ---
+
 #include "components/reporting/metrics/metric_report_queue.h"
 
 #include <memory>

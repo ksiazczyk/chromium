@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disconnectable client unit tests
+// summary: Unit tests covering DisconnectableClient behavior for normal connection, no connection, failed calls and job limiting using mock delegates.
+// ---
+
 #include "components/reporting/util/disconnectable_client.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the reporting storage component
+summary: Defines GN static_library targets for storage_configuration, storage_uploader_interface, storage_queue, storage, storage_module, and test_support with their sources and dependencies.

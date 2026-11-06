@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock clock for testing
+// summary: Declares MockClock, a mock time source that can be advanced for browser tests where a TaskEnvironment is unavailable.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_MOCK_CLOCK_H_
 #define COMPONENTS_REPORTING_UTIL_MOCK_CLOCK_H_
 

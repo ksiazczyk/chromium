@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake reporting settings implementation
+// summary: Implements an in-memory fake ReportingSettings with settable values, observer notifications and trusted-value handling.
+// ---
+
 #include "components/reporting/metrics/fakes/fake_reporting_settings.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HealthModuleFiles unit tests
+// summary: Unit tests covering HealthModuleFiles creation, history population, write behavior and storage limits when managing ERP health data files.
+// ---
+
 #include "components/reporting/health/health_module_files.h"
 
 #include <string>

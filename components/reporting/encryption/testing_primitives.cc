@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing cryptographic primitives implementation
+// summary: Implements test-only cryptographic helpers for generating key pairs, restoring shared secrets, decrypting records and signing messages.
+// ---
+
 #include "components/reporting/encryption/testing_primitives.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManagedBuffer implementation
+// summary: Implements ResourceManagedBuffer, which allocates heap buffers after reserving memory from a ResourceManager and releases it on clear or destruction.
+// ---
+
 #include "components/reporting/resources/resource_managed_buffer.h"
 
 #include <cstdint>

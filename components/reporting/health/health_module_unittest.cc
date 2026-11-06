@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HealthModule unit tests
+// summary: Unit tests for the HealthModule covering initialization success and failure, posting health records and reading health data through a mocked delegate.
+// ---
+
 #include "components/reporting/health/health_module.h"
 
 #include <utility>

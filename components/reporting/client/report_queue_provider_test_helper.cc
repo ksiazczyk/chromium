@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueProvider test helper implementation
+// summary: Installs a mock ReportQueueProvider so tests can control queue creation behavior.
+// ---
+
 #include "components/reporting/client/report_queue_provider_test_helper.h"
 
 #include <memory>

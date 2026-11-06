@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotCollector class declaration
+// summary: Declares OneShotCollector, which collects and reports metric data a single time when the reporting setting is enabled.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_ONE_SHOT_COLLECTOR_H_
 #define COMPONENTS_REPORTING_METRICS_ONE_SHOT_COLLECTOR_H_
 

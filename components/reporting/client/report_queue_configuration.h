@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueConfiguration declaration
+// summary: Declares ReportQueueConfiguration and its Builder for configuring a report queue, covering event type, destination, DM token and policy check callback.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_CONFIGURATION_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_CONFIGURATION_H_
 

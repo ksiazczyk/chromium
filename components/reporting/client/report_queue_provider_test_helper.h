@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueProvider test helper header
+// summary: Declares a test helper that provides access to a mock ReportQueueProvider during tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_PROVIDER_TEST_HELPER_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_PROVIDER_TEST_HELPER_H_
 

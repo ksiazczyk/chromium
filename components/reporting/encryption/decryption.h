@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decryptor class declaration for record decryption
+// summary: Declares the Decryptor class and its record handle for decrypting reporting records with Curve25519 and ChaCha20_Poly1305 in tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_DECRYPTION_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_DECRYPTION_H_
 

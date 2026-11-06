@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReportQueueStrict declaration
+// summary: Declares a gmock-based mock of ReportQueue for use in testing, with MockReportQueue as a nice-mock alias that ignores uninteresting calls.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_MOCK_REPORT_QUEUE_H_
 #define COMPONENTS_REPORTING_CLIENT_MOCK_REPORT_QUEUE_H_
 

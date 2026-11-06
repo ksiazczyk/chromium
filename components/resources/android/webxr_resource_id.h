@@ -12,6 +12,12 @@
 // NOLINT(build/header_guard)
 // no-include-guard-because-multiply-included
 
+// ---docerion
+// type: source
+// title: WebXR resource ID to Android drawable mappings
+// summary: Maps the AR Core install icon resource ID to an Android drawable, guarded by the ENABLE_ARCORE build flag.
+// ---
+
 #include "device/vr/buildflags/buildflags.h"
 
 // LINK_RESOURCE_ID is used for IDs that come from a .grd file.

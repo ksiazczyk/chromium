@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneShotCollector unit tests
+// summary: Unit tests covering one-shot collection, delayed start, event-driven collection, and missing metric data histogram reporting with fakes.
+// ---
+
 #include "components/reporting/metrics/one_shot_collector.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of components_resources.grd.
+type: config
+title: Components user-facing resource aggregation
+summary: Grit file aggregating resource parts for user-facing features under /components into a pak package.

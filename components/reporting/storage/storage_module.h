@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageModule class declaration
+// summary: Declares StorageModule, the StorageModuleInterface implementation wrapping Storage with a Create factory and record, flush, and key update methods.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_STORAGE_MODULE_H_
 #define COMPONENTS_REPORTING_STORAGE_STORAGE_MODULE_H_
 

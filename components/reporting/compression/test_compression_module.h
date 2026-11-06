@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test compression module declaration
+// summary: Declares the TestCompressionModuleStrict gmock double and the nice-mock TestCompressionModule alias used in tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_COMPRESSION_TEST_COMPRESSION_MODULE_H_
 #define COMPONENTS_REPORTING_COMPRESSION_TEST_COMPRESSION_MODULE_H_
 

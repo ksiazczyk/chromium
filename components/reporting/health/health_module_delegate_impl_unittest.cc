@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the health delegate implementation
+// summary: Tests initialization, record writing, storage trimming, and oversized record handling of HealthModuleDelegateImpl.
+// ---
+
 #include "components/reporting/health/health_module_delegate_impl.h"
 
 #include "base/containers/span.h"

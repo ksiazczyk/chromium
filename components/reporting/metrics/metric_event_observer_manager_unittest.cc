@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric event observer manager unit tests
+// summary: Unit tests for MetricEventObserverManager covering enablement, delayed initialization, and metric data reporting using fake observers, queues, and settings.
+// ---
+
 #include "components/reporting/metrics/metric_event_observer_manager.h"
 
 #include <cstddef>

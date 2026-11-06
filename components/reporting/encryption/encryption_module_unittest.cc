@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryption module unit tests
+// summary: Unit tests for the encryption module, checking record encryption, key updates and decryption round trips with a test decryptor.
+// ---
+
 #include "components/reporting/encryption/encryption_module.h"
 
 #include <array>

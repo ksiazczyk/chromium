@@ -1,2 +1,8 @@
+---
+type: readme
+title: Synced reporting protos README
+summary: Explains that files in this directory are synced to other locations and points to the instructions for modifying or adding synced files.
+---
+
 Files in this directory are synced to other locations. If modifying or adding files,
 please see instructions for syncing: google3/chrome/cros/reporting/api/proto/synced/README.md

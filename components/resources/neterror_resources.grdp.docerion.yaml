@@ -1,0 +1,4 @@
+# Docerion header of neterror_resources.grdp.
+type: config
+title: Net error page resources
+summary: Grit part bundling the network error page HTML as a resource.

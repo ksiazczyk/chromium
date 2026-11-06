@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for status macros
+// summary: Unit tests covering RETURN_IF_ERROR_STATUS and the CHECK_OK, DCHECK_OK, ASSERT_OK and EXPECT_OK macros for Status and StatusOr values.
+// ---
+
 #include "components/reporting/util/status_macros.h"
 
 #include "base/debug/stack_trace.h"

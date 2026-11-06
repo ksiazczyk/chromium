@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMTokenRetriever interface
+// summary: Declares the DMTokenRetriever interface used by ReportQueueProvider to asynchronously retrieve device management tokens while building a report queue.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_DM_TOKEN_RETRIEVER_H_
 #define COMPONENTS_REPORTING_CLIENT_DM_TOKEN_RETRIEVER_H_
 

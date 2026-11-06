@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingSettings interface header
+// summary: Declares the ReportingSettings base class for settings retrievers, providing settings value access, change observers, and reporting enablement checks.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_REPORTING_SETTINGS_H_
 #define COMPONENTS_REPORTING_METRICS_REPORTING_SETTINGS_H_
 

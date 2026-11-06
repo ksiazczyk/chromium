@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for reset password strings
+summary: Chromium DIR_METADATA file assigning the folder to the Safebrowsing team, the Services>Safebrowsing monorail component, and Buganizer component 1456950.

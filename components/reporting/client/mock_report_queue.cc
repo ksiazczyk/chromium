@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReportQueueStrict implementation
+// summary: Implements MockReportQueueStrict, whose default action forwards produced records to the plain-text AddRecord mock for use in tests.
+// ---
+
 #include "components/reporting/client/mock_report_queue.h"
 
 #include <utility>

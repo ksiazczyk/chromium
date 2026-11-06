@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedSampler class declaration
+// summary: Declares a Sampler subclass that takes ownership of another sampler and delays its collection by a given amount of time.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_DELAYED_SAMPLER_H_
 #define COMPONENTS_REPORTING_METRICS_DELAYED_SAMPLER_H_
 

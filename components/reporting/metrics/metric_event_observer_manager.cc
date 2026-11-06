@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric event observer manager implementation
+// summary: Implements MetricEventObserverManager, wiring event observers to the metric report queue, honoring reporting settings and recording enqueued event metrics.
+// ---
+
 #include "components/reporting/metrics/metric_event_observer_manager.h"
 
 #include <algorithm>

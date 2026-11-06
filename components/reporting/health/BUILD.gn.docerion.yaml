@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the health module
+summary: GN build file defining the health_module static library and the unit_tests source set with their sources and dependencies.

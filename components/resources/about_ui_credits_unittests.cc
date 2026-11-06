@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About UI credits unit tests
+// summary: Unit test that loads the generated about-credits HTML and checks it is non-empty and contains expected third-party license links.
+// ---
+
 #include <string>
 
 #include "components/grit/components_resources.h"

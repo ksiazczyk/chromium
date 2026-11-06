@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for reset_password_strings_grdp
+summary: Delegates ownership of this directory to the owners of components/safe_browsing via a file reference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryptor implementation for record encryption
+// summary: Implements Encryptor, deriving Curve25519 shared secrets and encrypting records with ChaCha20_Poly1305 AEAD into EncryptedRecord messages.
+// ---
+
 #include "components/reporting/encryption/encryption.h"
 
 #include <memory>

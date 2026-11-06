@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric report queue header
+// summary: Declares MetricReportQueue, a ReportQueue wrapper for enqueuing metric data and initiating manual or rate-controlled periodic uploads.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_METRIC_REPORT_QUEUE_H_
 #define COMPONENTS_REPORTING_METRICS_METRIC_REPORT_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmptyDMTokenRetriever unit tests
+// summary: Unit tests verifying that EmptyDMTokenRetriever returns an empty DM token through its completion callback.
+// ---
+
 #include "components/reporting/client/empty_dm_token_retriever.h"
 
 #include <string>

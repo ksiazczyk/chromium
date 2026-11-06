@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Encrypted reporting JSON keys
+// summary: Defines JSON field name constants for encrypted record upload requests and responses, documented with payload examples.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_ENCRYPTED_REPORTING_JSON_KEYS_H_
 #define COMPONENTS_REPORTING_UTIL_ENCRYPTED_REPORTING_JSON_KEYS_H_
 

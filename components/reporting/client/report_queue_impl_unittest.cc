@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueImpl unit tests
+// summary: Unit tests for ReportQueueImpl enqueue, flush and storage behavior using a test storage module.
+// ---
+
 #include "components/reporting/client/report_queue_impl.h"
 
 #include <cstddef>

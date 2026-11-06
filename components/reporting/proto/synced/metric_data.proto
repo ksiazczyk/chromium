@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Telemetry metric data proto
+// summary: Defines protobuf messages and enums for device telemetry and metric data, including network connection state, bandwidth, and diagnostics routine results.
+// ---
+
 syntax = "proto2";
 
 import "components/reporting/proto/synced/session_affiliated_user.proto";

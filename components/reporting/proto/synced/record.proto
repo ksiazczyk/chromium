@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting record proto
+// summary: Defines the Record protos sent by the reporting client, including wrapped records with digests, encryption info, and sequence information.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

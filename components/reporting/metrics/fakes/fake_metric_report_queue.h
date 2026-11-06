@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake metric report queue header
+// summary: Declares a fake MetricReportQueue exposing reported metric data, flush counts and emptiness checks to tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_FAKES_FAKE_METRIC_REPORT_QUEUE_H_
 #define COMPONENTS_REPORTING_METRICS_FAKES_FAKE_METRIC_REPORT_QUEUE_H_
 
