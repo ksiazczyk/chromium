@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialog_egtest.mm.
+type: test
+title: Earl Grey tests for JavaScript dialogs
+summary: End-to-end tests covering JavaScript alert, confirmation and prompt dialogs and their blocking option in Chrome on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of device_sharing_browser_agent_unittest.mm.
+type: test
+title: DeviceSharingBrowserAgent unit tests
+summary: Unit tests verifying active URL and title updates across regular, other and incognito browsers via the handoff manager.

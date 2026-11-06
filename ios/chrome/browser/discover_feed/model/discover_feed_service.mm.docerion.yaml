@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_service.mm.
+type: source
+title: Discover feed service implementation
+summary: Implements observer registration, notification, and history-cleared handling for the Discover feed service base class.

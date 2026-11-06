@@ -1,0 +1,4 @@
+# Docerion header of fake_reauthentication_service_util.mm.
+type: source
+title: Fake reauthentication service util implementation
+summary: Implements CreateFakeReauthService, returning a ReauthenticationService that uses a FakeReauthenticationModule for tests.

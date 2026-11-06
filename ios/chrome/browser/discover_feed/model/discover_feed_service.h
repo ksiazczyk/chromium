@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed service interface
+// summary: Declares a keyed service that keeps Discover feed data up to date and manages feed view controllers, metrics, themes, and observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_SERVICE_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_SERVICE_H_
 

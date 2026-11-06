@@ -1,0 +1,4 @@
+# Docerion header of utils_unittest.mm.
+type: test
+title: Default browser utils unit tests
+summary: Unit tests for default browser promo utilities, covering non-modal promo interaction logging and Chrome default browser detection heuristics.

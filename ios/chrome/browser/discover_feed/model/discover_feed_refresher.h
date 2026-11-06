@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed refresher interface
+// summary: Declares an interface for refreshing the Discover feed, including background refreshes, expiration handling, and scheduling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_REFRESHER_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_REFRESHER_H_
 

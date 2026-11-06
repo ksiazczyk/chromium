@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauthentication service factory header
+// summary: Declares the singleton profile-keyed factory that builds a ReauthenticationService instance per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_REAUTHENTICATION_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_REAUTHENTICATION_SERVICE_FACTORY_H_
 

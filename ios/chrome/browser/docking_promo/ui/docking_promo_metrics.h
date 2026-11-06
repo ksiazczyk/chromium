@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Docking promo metrics header
+// summary: Declares the IOSDockingPromoAction enum and functions to record Docking Promo user actions and impressions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOCKING_PROMO_UI_DOCKING_PROMO_METRICS_H_
 #define IOS_CHROME_BROWSER_DOCKING_PROMO_UI_DOCKING_PROMO_METRICS_H_
 

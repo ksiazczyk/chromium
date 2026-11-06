@@ -1,0 +1,4 @@
+# Docerion header of contextual_default_browser_promo_mediator.mm.
+type: source
+title: Contextual default browser promo mediator implementation
+summary: Populates the consumer with the Gemini promo title, subtitle, RTL-aware animation asset name and light and dark mode color providers.

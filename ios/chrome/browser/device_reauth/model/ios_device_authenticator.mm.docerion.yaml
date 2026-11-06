@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authenticator.mm.
+type: source
+title: iOS device authenticator implementation
+summary: Implements iOS device authentication, including biometric checks, async availability checks, and authentication with completion callbacks.

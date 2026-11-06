@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed visibility observer protocol
+// summary: Declares a protocol that notifies objects when Discover feed eligibility or visibility changes so they can update the UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_OBSERVER_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of device_sharing_manager_factory.mm.
+type: source
+title: DeviceSharingManagerFactory implementation
+summary: Implements the factory that builds DeviceSharingManagerImpl instances and provides the default testing factory.

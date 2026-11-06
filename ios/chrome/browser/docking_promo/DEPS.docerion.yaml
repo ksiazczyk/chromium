@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Docking promo DEPS include rules
+summary: Defines the allowed include dependencies for the docking_promo directory, such as default browser model, promos manager, and animated promo view headers.

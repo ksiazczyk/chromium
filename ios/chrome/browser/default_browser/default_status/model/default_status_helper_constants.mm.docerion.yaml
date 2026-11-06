@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper_constants.mm.
+type: source
+title: Default status helper constants implementation
+summary: Defines kCohortCount as 4 and ties the value to the matching iOS cohort histogram definition via lint rules.

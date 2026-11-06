@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS device authenticator header
+// summary: Declares IOSDeviceAuthenticator, the iOS DeviceAuthenticator implementation that wraps a ReauthenticationModule.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTHENTICATOR_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTHENTICATOR_H_
 

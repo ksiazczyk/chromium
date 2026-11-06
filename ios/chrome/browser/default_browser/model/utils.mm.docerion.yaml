@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Default browser promo utilities implementation
+summary: Implements default browser promo helpers including NSUserDefaults storage, promo display logic, and picture-in-picture instruction videos.

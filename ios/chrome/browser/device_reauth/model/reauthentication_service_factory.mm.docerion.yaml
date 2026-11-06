@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_service_factory.mm.
+type: source
+title: Reauthentication service factory implementation
+summary: Implements the factory, creating a ReauthenticationModule per profile or a fake module when the tests hook provides one.

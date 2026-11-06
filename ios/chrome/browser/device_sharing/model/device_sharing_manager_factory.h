@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSharingManagerFactory header
+// summary: Declares the profile-keyed service factory that returns one DeviceSharingManager instance for regular and incognito profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_MANAGER_FACTORY_H_
 

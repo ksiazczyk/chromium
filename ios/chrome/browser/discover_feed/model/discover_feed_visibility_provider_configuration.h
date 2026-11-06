@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed visibility provider configuration interface
+// summary: Declares the configuration object holding the services, prefs, and safe mode state needed by the Discover feed visibility provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_PROVIDER_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_PROVIDER_CONFIGURATION_H_
 

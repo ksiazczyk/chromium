@@ -1,0 +1,4 @@
+# Docerion header of feed_constants.mm.
+type: source
+title: Discover feed constants implementation
+summary: Defines the kEngagedWithFeedKey user defaults constant used to track whether the user has engaged with a feed.

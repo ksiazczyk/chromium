@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSharingBrowserAgent class header
+// summary: Declares a browser-scoped agent that observes web states and updates the DeviceSharingManager as the active URL changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_BROWSER_AGENT_H_
 

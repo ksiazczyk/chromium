@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for default browser promo handlers
+summary: Defines the promo_handler source_set listing the default browser promo display handler sources and their build dependencies.

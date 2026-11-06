@@ -1,0 +1,4 @@
+# Docerion header of handoff_manager_app_interface_stub.mm.
+type: source
+title: Handoff manager app interface stub
+summary: Registers a stub of the handoff test app interface in the app main queue for Earl Grey testing.

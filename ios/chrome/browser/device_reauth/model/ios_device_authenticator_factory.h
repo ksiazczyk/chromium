@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS device authenticator factory header
+// summary: Declares the DeviceAuthenticatorProxyFactory keyed service factory and creator functions for the iOS authenticator and availability checker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTHENTICATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTHENTICATOR_FACTORY_H_
 

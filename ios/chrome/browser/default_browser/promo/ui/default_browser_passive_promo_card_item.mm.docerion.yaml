@@ -1,0 +1,4 @@
+# Docerion header of default_browser_passive_promo_card_item.mm.
+type: source
+title: Passive promo card table view item and cell implementation
+summary: Implements the passive promo card table view item and cell, embedding the card view and forwarding its close and action button taps to the configured target.

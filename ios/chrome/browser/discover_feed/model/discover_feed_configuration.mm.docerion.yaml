@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_configuration.mm.
+type: source
+title: DiscoverFeedConfiguration implementation
+summary: Provides the Objective-C implementation of the DiscoverFeedConfiguration object.

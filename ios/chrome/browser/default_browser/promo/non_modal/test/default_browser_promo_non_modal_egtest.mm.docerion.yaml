@@ -1,0 +1,4 @@
+# Docerion header of default_browser_promo_non_modal_egtest.mm.
+type: test
+title: Non-modal default browser promo Earl Grey tests
+summary: Earl Grey integration tests verifying the non-modal default browser promo, including matchers for omnibox navigation experiment arms.

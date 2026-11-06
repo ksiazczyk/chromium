@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post Restore Default Browser Promo provider interface
+// summary: Declares the provider that powers the alert and half-sheet variations of the post-restore default browser promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_POST_RESTORE_COORDINATOR_POST_RESTORE_DEFAULT_BROWSER_PROMO_PROVIDER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_POST_RESTORE_COORDINATOR_POST_RESTORE_DEFAULT_BROWSER_PROMO_PROVIDER_H_
 

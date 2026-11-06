@@ -1,0 +1,4 @@
+# Docerion header of nsurl_protection_space_util.mm.
+type: source
+title: NSURLProtectionSpace utility for HTTP auth dialogs
+summary: Implements helpers that validate NSURLProtectionSpace objects and build the message text shown in iOS HTTP authentication dialogs.

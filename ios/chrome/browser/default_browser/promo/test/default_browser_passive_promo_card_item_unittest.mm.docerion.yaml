@@ -1,0 +1,4 @@
+# Docerion header of default_browser_passive_promo_card_item_unittest.mm.
+type: test
+title: Default browser passive promo card item unit tests
+summary: Unit tests verifying that the passive promo card item configures its cell with target and actions and clears them on reuse.

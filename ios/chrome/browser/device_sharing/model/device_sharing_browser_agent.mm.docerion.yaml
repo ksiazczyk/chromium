@@ -1,0 +1,4 @@
+# Docerion header of device_sharing_browser_agent.mm.
+type: source
+title: DeviceSharingBrowserAgent implementation
+summary: Implements the browser agent, updating the shared URL and title and clearing them for incognito browsers or empty web state lists.

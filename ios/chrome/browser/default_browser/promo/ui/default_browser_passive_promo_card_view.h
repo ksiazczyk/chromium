@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passive promo card view interface
+// summary: Declares a reusable card view with an illustration, title, description, action button and close button for the passive default browser promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_PROMO_CARD_VIEW_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_PROMO_CARD_VIEW_H_
 

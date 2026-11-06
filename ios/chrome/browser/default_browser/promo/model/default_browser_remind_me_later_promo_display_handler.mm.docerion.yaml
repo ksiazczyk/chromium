@@ -1,0 +1,4 @@
+# Docerion header of default_browser_remind_me_later_promo_display_handler.mm.
+type: source
+title: Default Browser Remind Me Later promo display handler implementation
+summary: Implements the Remind Me Later promo handler that re-shows the default browser promo and returns its PromoConfig and reminder feature.

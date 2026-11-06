@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authenticator_factory.mm.
+type: source
+title: iOS device authenticator factory implementation
+summary: Implements the profile-keyed factory for DeviceAuthenticatorProxy plus helper functions that create the iOS device auth availability checker and authenticator.

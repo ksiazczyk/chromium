@@ -1,0 +1,4 @@
+# Docerion header of default_browser_promo_display_handler.mm.
+type: source
+title: Default Browser promo display handler implementation
+summary: Implements the default browser promo handler that shows the promo and returns its PromoConfig with the generic default browser feature.

@@ -1,0 +1,4 @@
+# Docerion header of distiller_service_unittest.mm.
+type: test
+title: Unit tests for DistillerService page distillation requests
+summary: Tests that concurrent distillation requests for identical and different URLs complete successfully.

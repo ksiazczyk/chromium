@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper_prefs.mm.
+type: source
+title: Default status helper prefs implementation
+summary: Defines the default status preference key names and registers the integer and time preferences with their default values.

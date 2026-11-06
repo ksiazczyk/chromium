@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passive promo card view delegate protocol
+// summary: Declares the delegate protocol that notifies handlers when the user taps the close or action button on the passive default browser promo card view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_CARD_VIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_CARD_VIEW_DELEGATE_H_
 

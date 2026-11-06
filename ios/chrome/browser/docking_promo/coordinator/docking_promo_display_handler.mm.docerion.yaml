@@ -1,0 +1,4 @@
+# Docerion header of docking_promo_display_handler.mm.
+type: source
+title: DockingPromoDisplayHandler implementation
+summary: Implements the display handler, providing the promo configuration and triggering the show docking promo command.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay JavaScript dialog presenter interface
+// summary: Declares a JavaScriptDialogPresenter implementation that shows JavaScript alert, confirm and prompt dialogs through the iOS overlay system.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_OVERLAY_JAVA_SCRIPT_DIALOG_PRESENTER_H_
 #define IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_OVERLAY_JAVA_SCRIPT_DIALOG_PRESENTER_H_
 

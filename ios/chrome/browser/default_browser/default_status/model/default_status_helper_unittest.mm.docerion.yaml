@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper_unittest.mm.
+type: test
+title: Default status helper unit tests
+summary: Unit tests for the default status helper, covering new-client detection, cohort assignment, and default status API metrics with histogram checks.

@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Reader Mode allowed video sources regex definition
+summary: Defines the regular expression matching video sources such as YouTube and Vimeo allowed in Reader Mode.

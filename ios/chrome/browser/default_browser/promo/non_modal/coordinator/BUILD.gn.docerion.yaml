@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the non-modal default browser promo coordinator
+summary: Defines GN source sets for the non-modal default browser promo coordinator and its unit tests with their dependencies.

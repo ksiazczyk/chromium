@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser feature flag declarations
+// summary: Declares feature flags and accessors for default browser promos, settings promo V2, overflow menu promo, and paste experiments.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_FEATURES_H_
 

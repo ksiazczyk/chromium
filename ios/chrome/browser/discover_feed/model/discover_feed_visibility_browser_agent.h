@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed visibility browser agent interface
+// summary: Declares the browser agent that manages Discover feed visibility, eligibility, and observer registration per Browser instance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_VISIBILITY_BROWSER_AGENT_H_
 

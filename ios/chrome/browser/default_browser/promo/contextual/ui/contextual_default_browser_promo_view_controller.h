@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual default browser promo view controller interface
+// summary: Declares ContextualDefaultBrowserPromoViewController, a confirmation alert half-sheet view controller that implements the promo consumer protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_CONTEXTUAL_UI_CONTEXTUAL_DEFAULT_BROWSER_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_CONTEXTUAL_UI_CONTEXTUAL_DEFAULT_BROWSER_PROMO_VIEW_CONTROLLER_H_
 

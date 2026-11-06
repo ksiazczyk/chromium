@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device reauth model build targets
+summary: Defines GN source sets for the device reauth model, its unit tests, and a fake reauthentication service used in tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallAttributionAcceptanceData header
+// summary: Declares an NSObject data object that stores the placement ID and timestamp of an accepted promo and supports NSSecureCoding.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_INSTALL_ATTRIBUTION_MODEL_INSTALL_ATTRIBUTION_ACCEPTANCE_DATA_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_INSTALL_ATTRIBUTION_MODEL_INSTALL_ATTRIBUTION_ACCEPTANCE_DATA_H_
 

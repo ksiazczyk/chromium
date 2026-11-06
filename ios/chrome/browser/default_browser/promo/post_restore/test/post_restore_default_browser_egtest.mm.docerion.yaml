@@ -1,0 +1,4 @@
+# Docerion header of post_restore_default_browser_egtest.mm.
+type: test
+title: Post Restore Default Browser Promo Earl Grey tests
+summary: Earl Grey UI tests that simulate a post-device-restore launch and verify whether the default browser promo appears, checking its title and action buttons and their dismissal behavior.

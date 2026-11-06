@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-default abandonment promo provider header
+// summary: Declares PostDefaultBrowserAbandonmentPromoProvider, which conforms to StandardPromoAlertProvider for the abandonment alert.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_POST_DEFAULT_ABANDONMENT_UI_POST_DEFAULT_ABANDONMENT_PROMO_PROVIDER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_POST_DEFAULT_ABANDONMENT_UI_POST_DEFAULT_ABANDONMENT_PROMO_PROVIDER_H_
 

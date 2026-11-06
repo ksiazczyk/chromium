@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for dialogs ui_bundled
+summary: Restricts includes in this directory to the allowed overlays model public headers.

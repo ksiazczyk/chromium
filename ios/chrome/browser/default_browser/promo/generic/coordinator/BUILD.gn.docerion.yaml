@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser generic promo coordinator build config
+summary: Defines the coordinator source_set with its sources, dependencies, and the UIKit framework for the generic default browser promo.

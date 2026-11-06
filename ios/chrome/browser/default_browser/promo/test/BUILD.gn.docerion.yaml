@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for default browser promo unit tests
+summary: GN build definition for the default browser promo unit test source set, listing test sources, dependencies and the UIKit framework.

@@ -1,0 +1,4 @@
+# Docerion header of default_browser_off_cycle_promo_display_handler.mm.
+type: source
+title: Default Browser off-cycle promo display handler implementation
+summary: Implements the off-cycle promo handler that shows the default browser promo and returns its PromoConfig and feature flag.

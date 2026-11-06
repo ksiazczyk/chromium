@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_app_interface.mm.
+type: test
+title: Reauthentication app interface implementation
+summary: Implements the mock controls by configuring the fake reauthentication module obtained from the original profile's reauthentication service.

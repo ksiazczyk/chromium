@@ -1,0 +1,4 @@
+# Docerion header of install_attribution_helper.mm.
+type: source
+title: Install attribution helper implementation
+summary: Reads promo acceptance data from shared app group defaults and logs sparse placement ID histograms for short and long attribution windows.

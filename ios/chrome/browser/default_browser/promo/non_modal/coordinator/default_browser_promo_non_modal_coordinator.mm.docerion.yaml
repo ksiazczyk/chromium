@@ -1,0 +1,4 @@
+# Docerion header of default_browser_promo_non_modal_coordinator.mm.
+type: source
+title: Default browser non-modal promo coordinator implementation
+summary: Implements the coordinator that shows a non-modal default browser promo banner with reason-specific title, subtitle, button and icon.

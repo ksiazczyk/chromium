@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo utilities declarations
+// summary: Declares promo type and UMA enums plus utility functions for showing and tracking default browser promos.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_UTILS_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_UTILS_H_
 

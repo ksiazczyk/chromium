@@ -1,0 +1,4 @@
+# Docerion header of docking_promo_coordinator.mm.
+type: source
+title: DockingPromoCoordinator implementation
+summary: Implements promo presentation with eligibility checks, impression and action metrics, and dismissal via button or swipe.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser promo resources build file
+summary: GN build configuration bundling the asset catalog, Lottie animation JSONs, and promo instruction videos for the iOS default browser promo.

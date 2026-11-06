@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoverFeedAppAgentProfileHelper interface
+// summary: Declares a helper object handling the per-profile feed refresh and shutdown operations for the Discover feed app agent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_APP_AGENT_PROFILE_HELPER_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_APP_AGENT_PROFILE_HELPER_H_
 

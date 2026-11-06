@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser generic promo coordinator header
+// summary: Declares the DefaultBrowserGenericPromoCoordinator interface with handler, promo trigger flags, promos UI handler, and mediator properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_GENERIC_COORDINATOR_DEFAULT_BROWSER_GENERIC_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_GENERIC_COORDINATOR_DEFAULT_BROWSER_GENERIC_PROMO_COORDINATOR_H_
 

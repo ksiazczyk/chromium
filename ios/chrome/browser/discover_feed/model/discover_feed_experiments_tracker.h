@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoverFeedExperimentsTracker interface
+// summary: Declares a class that stores feed experiments in preferences and registers them as synthetic field trials.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_EXPERIMENTS_TRACKER_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_EXPERIMENTS_TRACKER_H_
 

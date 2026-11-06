@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the tailored default browser promo UI
+summary: Defines the ui source_set listing the promo view provider sources and their build dependencies.

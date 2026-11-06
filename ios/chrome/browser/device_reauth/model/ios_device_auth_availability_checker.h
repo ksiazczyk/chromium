@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS device auth availability checker header
+// summary: Declares the iOS DeviceAuthAvailabilityChecker that checks biometric and screen lock availability via ReauthenticationProtocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_IOS_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 

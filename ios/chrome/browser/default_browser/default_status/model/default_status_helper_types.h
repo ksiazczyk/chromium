@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default status helper enum types header
+// summary: Defines enums for default status API outcomes, results, heuristic assessments, and retention changes, matched to UMA histogram enums.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_TYPES_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_TYPES_H_
 

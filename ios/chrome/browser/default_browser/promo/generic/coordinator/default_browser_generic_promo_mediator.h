@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser generic promo mediator header
+// summary: Declares the DefaultBrowserGenericPromoMediator interface with a primary action handler that opens iOS settings, optionally the Default Apps page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_GENERIC_COORDINATOR_DEFAULT_BROWSER_GENERIC_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_GENERIC_COORDINATOR_DEFAULT_BROWSER_GENERIC_PROMO_MEDIATOR_H_
 

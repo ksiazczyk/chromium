@@ -1,0 +1,4 @@
+# Docerion header of ios_device_auth_availability_checker_unittest.mm.
+type: test
+title: iOS device auth availability checker unit tests
+summary: Unit tests for IOSDeviceAuthAvailabilityChecker covering biometrics available, screen lock only, and neither available cases.

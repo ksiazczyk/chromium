@@ -1,0 +1,4 @@
+# Docerion header of post_default_abandonment_promo_provider.mm.
+type: source
+title: Post-default abandonment promo provider implementation
+summary: Implements the promo alert with localized strings, a default action opening iOS settings, and metrics user action recording.

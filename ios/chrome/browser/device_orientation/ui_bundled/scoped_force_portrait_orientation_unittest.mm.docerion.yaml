@@ -1,0 +1,4 @@
+# Docerion header of scoped_force_portrait_orientation_unittest.mm.
+type: test
+title: ScopedForcePortraitOrientation unit tests
+summary: Verifies with a test manager that scoped objects increment and decrement the counter on the correct manager across creation and destruction.

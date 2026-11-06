@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the DistillerService profile factory
+// summary: Declares the singleton factory that builds a DistillerService instance for each iOS Chrome profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOM_DISTILLER_MODEL_DISTILLER_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_DOM_DISTILLER_MODEL_DISTILLER_SERVICE_FACTORY_H_
 

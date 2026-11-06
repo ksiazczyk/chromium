@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Docking promo coordinator build targets
+summary: Defines the GN source sets and dependencies for the docking promo coordinator and its display handler.

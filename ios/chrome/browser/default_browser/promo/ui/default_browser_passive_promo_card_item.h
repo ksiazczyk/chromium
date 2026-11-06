@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passive promo card table view item and cell interface
+// summary: Declares the table view item and cell that display the passive default browser promo card, exposing target and selector properties for close and primary actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_PROMO_CARD_ITEM_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_PASSIVE_PROMO_CARD_ITEM_H_
 

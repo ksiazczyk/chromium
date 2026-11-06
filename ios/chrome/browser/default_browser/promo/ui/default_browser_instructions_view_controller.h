@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser instructions view controller interface
+// summary: Declares the animated promo view controller that shows default browser setup instructions, with accessibility identifiers and an initializer for title and step options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_INSTRUCTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_UI_DEFAULT_BROWSER_INSTRUCTIONS_VIEW_CONTROLLER_H_
 

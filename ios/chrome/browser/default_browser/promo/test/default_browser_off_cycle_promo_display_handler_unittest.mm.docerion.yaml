@@ -1,0 +1,4 @@
+# Docerion header of default_browser_off_cycle_promo_display_handler_unittest.mm.
+type: test
+title: Default browser off-cycle promo display handler unit tests
+summary: Unit tests verifying the off-cycle promo display handler returns the correct promo config and delegates display to the promos manager command handler.

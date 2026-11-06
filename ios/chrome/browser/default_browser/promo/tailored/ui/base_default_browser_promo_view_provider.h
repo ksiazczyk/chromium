@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base default browser promo view provider header
+// summary: Declares the abstract base provider interface and handlers that tailored default browser promo providers subclass.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_TAILORED_UI_BASE_DEFAULT_BROWSER_PROMO_VIEW_PROVIDER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_TAILORED_UI_BASE_DEFAULT_BROWSER_PROMO_VIEW_PROVIDER_H_
 

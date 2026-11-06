@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_observer_bridge.mm.
+type: source
+title: Discover feed observer bridge implementation
+summary: Implements the bridge that forwards feed model recreation events to its Objective-C delegate.

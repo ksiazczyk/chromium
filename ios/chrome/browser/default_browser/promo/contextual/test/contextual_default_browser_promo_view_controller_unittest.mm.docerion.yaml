@@ -1,0 +1,4 @@
+# Docerion header of contextual_default_browser_promo_view_controller_unittest.mm.
+type: test
+title: Unit tests for the contextual default browser promo view controller
+summary: Unit tests verifying that consumer properties update the promo view controller and that default button strings and the accessibility identifier are set on presentation.

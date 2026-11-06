@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSharingManagerImpl header
+// summary: Declares the DeviceSharingManager implementation that maintains Handoff state and observes the Handoff preference.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_MANAGER_IMPL_H_
 #define IOS_CHROME_BROWSER_DEVICE_SHARING_MODEL_DEVICE_SHARING_MANAGER_IMPL_H_
 

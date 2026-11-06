@@ -1,0 +1,4 @@
+# Docerion header of nsurl_protection_space_util_unittest.mm.
+type: test
+title: NSURLProtectionSpace utility unit tests
+summary: Unit tests verifying when HTTP auth dialogs can be shown and the expected message text for hosts, invalid ports and proxy servers.

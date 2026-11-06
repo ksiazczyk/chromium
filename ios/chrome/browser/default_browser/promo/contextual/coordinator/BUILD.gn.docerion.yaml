@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for contextual default browser promo coordinator
+summary: Defines the coordinator source_set, listing its sources, dependencies and the UIKit framework.

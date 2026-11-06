@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for default browser promo UI
+summary: Grants this folder permission to include headers from the iOS settings bundled cells directory.

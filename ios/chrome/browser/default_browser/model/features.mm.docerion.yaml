@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Default browser feature flag definitions
+summary: Defines default browser feature flags with field trial parameters and their enabled-state accessor functions.

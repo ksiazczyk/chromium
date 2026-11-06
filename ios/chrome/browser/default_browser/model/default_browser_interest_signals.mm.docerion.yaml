@@ -1,0 +1,4 @@
+# Docerion header of default_browser_interest_signals.mm.
+type: source
+title: Default browser interest signals implementation
+summary: Notifies feature engagement events for actions such as widget starts, bookmark use, and omnibox pastes to drive default browser promos.
