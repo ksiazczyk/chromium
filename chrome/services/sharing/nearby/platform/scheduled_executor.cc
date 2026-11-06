@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledExecutor implementation
+// summary: Implements cancellable delayed task scheduling on a sequenced task runner, with shutdown and pending task execution support.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/scheduled_executor.h"
 
 #include <utility>

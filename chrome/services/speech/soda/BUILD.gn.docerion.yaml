@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SODA speech service build configuration
+summary: GN build file defining the soda_api_proto target, the soda source set, unit tests and test support for the SODA speech service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base system signals service header
+// summary: Declares BaseSystemSignalsService, the base Mojo SystemSignalsService implementation with file system signal support.
+// ---
+
 #ifndef CHROME_SERVICES_SYSTEM_SIGNALS_BASE_SYSTEM_SIGNALS_SERVICE_H_
 #define CHROME_SERVICES_SYSTEM_SIGNALS_BASE_SYSTEM_SIGNALS_SERVICE_H_
 

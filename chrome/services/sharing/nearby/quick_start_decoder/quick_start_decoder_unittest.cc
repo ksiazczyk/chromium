@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Start Decoder unit tests
+// summary: Unit tests covering decoding of Quick Start messages, Wi-Fi credential transfer, and user verification payloads with metrics checks.
+// ---
+
 #include "quick_start_decoder.h"
 
 #include "base/base64.h"

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: SODA client implementation unit tests
+// summary: Unit tests for the SODA client implementation that parse serialized SODA responses and verify recognition result handling and stop events.
+// ---
+
 #include "chrome/services/speech/soda/soda_client_impl.h"
 
 #include <algorithm>

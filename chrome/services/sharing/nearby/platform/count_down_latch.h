@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountDownLatch class declaration
+// summary: Declares the Chromium CountDownLatch class that adapts the Nearby Connections latch API using base::AtomicRefCount and base::WaitableEvent.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_COUNT_DOWN_LATCH_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_COUNT_DOWN_LATCH_H_
 

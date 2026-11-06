@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothClassicMedium class declaration
+// summary: Declares the ChromeOS BluetoothClassicMedium implementing the Nearby Bluetooth Classic API and adapter observer for discovery and device change events.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLUETOOTH_CLASSIC_MEDIUM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLUETOOTH_CLASSIC_MEDIUM_H_
 

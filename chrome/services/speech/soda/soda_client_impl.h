@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SodaClientImpl class declaration
+// summary: Declares SodaClientImpl, which holds the scoped native library, SODA function pointer types and the async instance handle for speech recognition.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_SODA_CLIENT_IMPL_H_
 #define CHROME_SERVICES_SPEECH_SODA_SODA_CLIENT_IMPL_H_
 

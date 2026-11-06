@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for chrome/test
+summary: Maps the chrome/test directory to the Tests component in Monorail and Buganizer for issue routing.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for util_win
+summary: Lists the headers that code in the util_win directory is allowed to include, covering module info, installer utilities and metrics protos.

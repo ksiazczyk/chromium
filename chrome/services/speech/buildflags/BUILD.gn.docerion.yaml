@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Speech service buildflags header target (BUILD.gn)
+summary: GN build file that generates buildflags.h defining ENABLE_SPEECH_SERVICE, ENABLE_BROWSER_SPEECH_SERVICE and ENABLE_SERVER_BASED_RECOGNITION_RECOGNIZER flags.

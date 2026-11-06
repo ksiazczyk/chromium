@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Nearby sharing test support
+summary: Defines the testonly test_support source set that bundles the fake Bluetooth and mock WebRTC helpers together with their test dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CountDownLatch unit tests
+// summary: Unit tests for CountDownLatch covering zero and nonzero initial counts, timed and indefinite awaits, and countdown behavior across threads.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/count_down_latch.h"
 
 #include <memory>

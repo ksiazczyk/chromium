@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections mojo interface implementation
+// summary: Implements the NearbyConnections mojo interface, translating browser process calls into the third-party Nearby Connections library API.
+// ---
+
 #include "chrome/services/sharing/nearby/nearby_connections.h"
 
 #include <algorithm>

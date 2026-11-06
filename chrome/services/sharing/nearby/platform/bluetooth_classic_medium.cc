@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothClassicMedium implementation
+// summary: Implements the Nearby Bluetooth Classic medium for ChromeOS, managing discovery sessions, discovered-device tracking with stale-device cleanup, and service connections via Mojo.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_classic_medium.h"
 
 #include "base/command_line.h"

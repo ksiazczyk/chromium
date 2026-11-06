@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GATT service header
+// summary: Declares FakeGattService, a test fake of the GATT service Mojom interface with configurable results and observer triggering.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_FAKE_GATT_SERVICE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_FAKE_GATT_SERVICE_H_
 

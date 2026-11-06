@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothSocket unit tests
+// summary: Unit tests for BluetoothSocket using fake mojo Socket objects and data pipes to verify stream access, disconnect, and close behavior.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_socket.h"
 
 #include <memory>

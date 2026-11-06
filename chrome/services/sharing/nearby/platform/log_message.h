@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform LogMessage class declaration
+// summary: Declares the concrete LogMessage class that adapts Nearby Connections logging to Chromium's logging::LogMessage.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_LOG_MESSAGE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_LOG_MESSAGE_H_
 

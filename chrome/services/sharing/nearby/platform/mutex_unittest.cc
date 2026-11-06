@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mutex unit tests
+// summary: Unit tests verifying lock and unlock behavior, prevention of relocking from another thread, and DCHECK death when unlocking before locking.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/mutex.h"
 
 #include "base/containers/flat_set.h"

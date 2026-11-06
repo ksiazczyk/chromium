@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA speech recognizer header
+// summary: Declares SodaSpeechRecognizerImpl, the SODA-backed speech recognizer session implementation for the Web Speech API.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_SPEECH_RECOGNIZER_IMPL_H_
 #define CHROME_SERVICES_SPEECH_SODA_SPEECH_RECOGNIZER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the test support directory
+summary: Grants the test support code permission to include headers from device/bluetooth/public.

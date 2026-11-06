@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM identifier unit test
+// summary: Unit test asserting that TPM identifier fields are populated; currently disabled pending a fix for an unchecked optional dereference.
+// ---
+
 #include "chrome/services/util_win/tpm_metrics.h"
 
 #include "base/logging.h"

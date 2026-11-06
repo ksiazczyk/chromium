@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the IAccessible2 client
+summary: Allows ax_client_ia2.cc to include headers from third_party/iaccessible2.

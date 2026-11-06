@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system signals metrics utilities header
+// summary: Declares functions that log UMA metrics for WSC antivirus and WMI hotfix response collection results.
+// ---
+
 #ifndef CHROME_SERVICES_SYSTEM_SIGNALS_WIN_METRICS_UTILS_H_
 #define CHROME_SERVICES_SYSTEM_SIGNALS_WIN_METRICS_UTILS_H_
 

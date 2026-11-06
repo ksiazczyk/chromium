@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform OutputFile class declaration
+// summary: Declares the concrete OutputFile implementation wrapping a base::File for the Nearby platform.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_OUTPUT_FILE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_OUTPUT_FILE_H_
 

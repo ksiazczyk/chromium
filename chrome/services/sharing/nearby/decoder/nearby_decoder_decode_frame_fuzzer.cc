@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer harness for frame decoding
+// summary: Fuzzes NearbySharingDecoder::DecodeFrame with arbitrary byte inputs in a reusable Mojo environment.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

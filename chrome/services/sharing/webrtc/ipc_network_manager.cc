@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC network manager implementation for libjingle
+// summary: Implements a WebRTC network manager that receives network interface lists from the browser process over Mojo and maps them to WebRTC networks.
+// ---
+
 #include "chrome/services/sharing/webrtc/ipc_network_manager.h"
 
 #include <string>

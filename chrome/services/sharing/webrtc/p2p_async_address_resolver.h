@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P async address resolver class declaration
+// summary: Declares P2PAsyncAddressResolver, which performs asynchronous hostname resolution for STUN and relay server addresses.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_P2P_ASYNC_ADDRESS_RESOLVER_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_P2P_ASYNC_ADDRESS_RESOLVER_H_
 

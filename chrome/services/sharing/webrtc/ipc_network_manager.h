@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC network manager class declaration
+// summary: Declares IpcNetworkManager, a WebRTC NetworkManager that obtains network interfaces and mDNS responder access via the browser's P2P socket manager.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_IPC_NETWORK_MANAGER_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_IPC_NETWORK_MANAGER_H_
 

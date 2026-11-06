@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2PSocketClientDelegate interface
+// summary: Defines the delegate interface for P2PSocketClient with callbacks for socket open, send completion, errors, and received data.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_P2P_SOCKET_CLIENT_DELEGATE_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_P2P_SOCKET_CLIENT_DELEGATE_H_
 

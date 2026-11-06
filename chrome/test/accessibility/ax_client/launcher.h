@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ax_client process launcher header
+// summary: Declares Launcher, which launches and manages the lifetime of the ax_client process and exposes a remote AxClient over Mojo.
+// ---
+
 #ifndef CHROME_TEST_ACCESSIBILITY_AX_CLIENT_LAUNCHER_H_
 #define CHROME_TEST_ACCESSIBILITY_AX_CLIENT_LAUNCHER_H_
 

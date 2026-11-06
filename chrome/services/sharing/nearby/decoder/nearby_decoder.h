@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbySharingDecoder class declaration
+// summary: Declares the Mojo-bound NearbySharingDecoder service with DecodeAdvertisement and DecodeFrame methods.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_DECODER_NEARBY_DECODER_H_
 #define CHROME_SERVICES_SHARING_NEARBY_DECODER_NEARBY_DECODER_H_
 

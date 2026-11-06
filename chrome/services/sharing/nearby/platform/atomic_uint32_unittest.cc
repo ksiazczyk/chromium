@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtomicUint32 unit tests
+// summary: Tests getting and setting an AtomicUint32 value on the same thread and across threads.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/atomic_uint32.h"
 
 #include <memory>

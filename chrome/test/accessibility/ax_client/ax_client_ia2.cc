@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAccessible2 client implementation
+// summary: Implements the accessibility client over IAccessible2 and MSAA, including WinEvent hooks and mapping of system and IA2 event IDs to names.
+// ---
+
 #include "chrome/test/accessibility/ax_client/ax_client_ia2.h"
 
 #include <oleacc.h>

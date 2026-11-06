@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA test resource paths
+// summary: Header defining platform-specific constants for SODA test resource paths, the test binary, language pack, and test audio file.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_SODA_TEST_PATHS_H_
 #define CHROME_SERVICES_SPEECH_SODA_SODA_TEST_PATHS_H_
 

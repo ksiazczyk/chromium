@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAccessible2 client class header
+// summary: Declares AxClientIa2, the IAccessible2-based AxClientImpl that hooks WinEvents to observe the target window's accessibility tree.
+// ---
+
 #ifndef CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_IA2_H_
 #define CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_IA2_H_
 

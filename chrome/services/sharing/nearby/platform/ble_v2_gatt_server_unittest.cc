@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE V2 GATT server unit tests
+// summary: Unit tests for BleV2GattServer covering characteristic creation and updates and GATT service registration using fake adapter and GATT service implementations.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_gatt_server.h"
 
 #include <memory>

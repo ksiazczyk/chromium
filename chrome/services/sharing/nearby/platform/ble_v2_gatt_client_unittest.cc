@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleV2GattClient unit tests
+// summary: Unit tests for BleV2GattClient using a fake Bluetooth device and GATT service factory to exercise service discovery, characteristic reads, and writes.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_gatt_client.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapter implementation
+// summary: Implements the Nearby BluetoothAdapter API on ChromeOS by delegating adapter state, scan mode, name, and address queries to the Bluetooth Mojo adapter interface.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_adapter.h"
 
 #include "base/logging.h"

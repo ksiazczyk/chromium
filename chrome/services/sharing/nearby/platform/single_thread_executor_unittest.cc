@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleThreadExecutor unit tests
+// summary: Unit tests for SubmittableExecutor covering task submission, execution, shutdown rejecting new tasks, and completion after destruction.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/submittable_executor.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanMedium class declarations
+// summary: Declares WifiLanMedium, an api::WifiLanMedium implementation that uses mojo interfaces for TCP sockets, mDNS, firewall holes and network configuration to connect and discover services.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_MEDIUM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_MEDIUM_H_
 

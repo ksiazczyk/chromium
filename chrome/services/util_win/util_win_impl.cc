@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilWin service implementation
+// summary: Implements the Windows utility Mojo service covering taskbar pin checks, shortcut management, select-file dialogs, module inspection, antivirus products and TPM identifier lookup.
+// ---
+
 #include "chrome/services/util_win/util_win_impl.h"
 
 #include <objbase.h>

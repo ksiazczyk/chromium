@@ -1,0 +1,4 @@
+# Docerion header of mac_system_signals_service.mm.
+type: source
+title: MacSystemSignalsService implementation
+summary: Implements MacSystemSignalsService, wiring the Mojo receiver with a FileSystemService built from Mac platform delegates for executable metadata and file system signal collection.

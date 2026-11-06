@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 server socket header
+// summary: Declares stub BleV2InputStream, BleV2OutputStream, BleV2Socket, and BleV2ServerSocket classes kept for Nearby Connections compatibility until OpenServerSocket calls are removed.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_SERVER_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_SERVER_SOCKET_H_
 

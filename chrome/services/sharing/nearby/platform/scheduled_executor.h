@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledExecutor class declaration
+// summary: Declares ScheduledExecutor, the Chromium implementation of the Nearby api::ScheduledExecutor interface for delayed, cancelable tasks.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_SCHEDULED_EXECUTOR_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_SCHEDULED_EXECUTOR_H_
 

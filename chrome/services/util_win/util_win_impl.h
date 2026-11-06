@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilWinImpl class declaration
+// summary: Declares UtilWinImpl, which implements the chrome::mojom::UtilWin interface for Windows utility operations.
+// ---
+
 #ifndef CHROME_SERVICES_UTIL_WIN_UTIL_WIN_IMPL_H_
 #define CHROME_SERVICES_UTIL_WIN_UTIL_WIN_IMPL_H_
 

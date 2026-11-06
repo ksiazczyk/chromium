@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognizer unit tests
+// summary: Unit tests for SpeechRecognitionRecognizerImpl that use a mock SODA client to verify recognition events and language handling.
+// ---
+
 #include "chrome/services/speech/speech_recognition_recognizer_impl.h"
 
 #include <vector>

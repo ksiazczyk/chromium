@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SodaClient implementation
+// summary: Implements SodaClient by loading the SODA native library, resolving its function pointers and dispatching audio and control calls while logging load results.
+// ---
+
 #include "chrome/services/speech/soda/soda_client_impl.h"
 
 #include <tuple>

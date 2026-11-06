@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStreamImpl class declaration
+// summary: Declares InputStreamImpl, which bridges the synchronous Nearby InputStream API to an asynchronous Mojo data pipe using a sequenced task runner.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_INPUT_STREAM_IMPL_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_INPUT_STREAM_IMPL_H_
 

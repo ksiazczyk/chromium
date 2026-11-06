@@ -1,0 +1,4 @@
+# Docerion header of include_js_tests.gni.
+type: config
+title: JS test inclusion flags for chrome/test
+summary: Defines GN variables that disable JavaScript and js2gtest tests under sanitizer builds and cross builds.

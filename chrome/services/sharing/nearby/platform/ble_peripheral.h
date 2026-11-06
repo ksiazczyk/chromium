@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlePeripheral header
+// summary: Declares the Chrome BlePeripheral class implementing api::BlePeripheral, holding device info and a service ID to fast advertisement UUID map.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_PERIPHERAL_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_PERIPHERAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system signals service header
+// summary: Declares the LinuxSystemSignalsService class extending BaseSystemSignalsService, including a private test-only constructor for mocking dependencies.
+// ---
+
 #ifndef CHROME_SERVICES_SYSTEM_SIGNALS_LINUX_LINUX_SYSTEM_SIGNALS_SERVICE_H_
 #define CHROME_SERVICES_SYSTEM_SIGNALS_LINUX_LINUX_SYSTEM_SIGNALS_SERVICE_H_
 

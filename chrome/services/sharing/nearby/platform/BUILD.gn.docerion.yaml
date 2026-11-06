@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Nearby platform implementation
+summary: Defines the platform and unit test source sets for the ChromeOS Nearby Share platform code, listing sources and build dependencies.

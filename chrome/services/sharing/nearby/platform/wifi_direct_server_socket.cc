@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectServerSocket implementation
+// summary: Implements the WiFi Direct server socket that accepts TCP connections on a net::TCPServerSocket, manages firewall holes and reports UMA metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_server_socket.h"
 
 #include "base/metrics/histogram_functions.h"

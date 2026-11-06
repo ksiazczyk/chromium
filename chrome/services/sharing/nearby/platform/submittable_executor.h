@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmittableExecutor header
+// summary: Declares the Chrome SubmittableExecutor that adapts Nearby Connections runnables to base task runners with shutdown and completion tracking.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_SUBMITTABLE_EXECUTOR_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_SUBMITTABLE_EXECUTOR_H_
 

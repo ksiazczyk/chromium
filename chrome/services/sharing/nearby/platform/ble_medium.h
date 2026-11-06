@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleMedium header
+// summary: Declares the Chrome BleMedium class implementing api::BleMedium and bluetooth::mojom::AdapterObserver for BLE advertising, scanning, and connections.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_MEDIUM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_MEDIUM_H_
 

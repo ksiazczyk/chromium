@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnections class declaration
+// summary: Declares the NearbyConnections class that bridges mojo calls from the browser to the Nearby Connections library in a sandboxed process.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_H_
 #define CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_H_
 

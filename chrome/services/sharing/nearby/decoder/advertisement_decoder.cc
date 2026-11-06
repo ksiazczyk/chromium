@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advertisement decoder implementation
+// summary: Parses Nearby Share endpoint info bytes into an Advertisement, validating version, visibility, device type and device name.
+// ---
+
 #include "chrome/services/sharing/nearby/decoder/advertisement_decoder.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleMedium unit tests
+// summary: Unit tests for BleMedium that use a fake Bluetooth adapter to exercise advertising, scanning, and discovery session behavior for Nearby Connections services.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_medium.h"
 
 #include <memory>

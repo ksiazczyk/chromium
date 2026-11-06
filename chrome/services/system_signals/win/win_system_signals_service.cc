@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system signals service implementation
+// summary: Implements the Windows SystemSignalsService, retrieving antivirus products via WSC and installed hotfixes via WMI.
+// ---
+
 #include "chrome/services/system_signals/win/win_system_signals_service.h"
 
 #include "base/win/windows_version.h"

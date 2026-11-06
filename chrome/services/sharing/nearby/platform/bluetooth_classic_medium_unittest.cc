@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothClassicMedium unit tests
+// summary: Unit tests exercising BluetoothClassicMedium discovery start and stop, device added, changed, and removed notifications, and stale device cleanup with a fake adapter.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_classic_medium.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicUint32 class declaration
+// summary: Declares the Chrome implementation of the Nearby AtomicUint32 platform API wrapping a std::atomic uint32 value.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_ATOMIC_UINT32_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_ATOMIC_UINT32_H_
 

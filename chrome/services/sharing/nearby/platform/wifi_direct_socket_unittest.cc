@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiDirectSocket unit tests
+// summary: Unit tests for WifiDirectSocket that use a fake net::StreamSocket to verify read and write behavior and the related UMA read and write result metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_socket.h"
 
 #include <algorithm>

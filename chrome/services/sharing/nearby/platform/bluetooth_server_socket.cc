@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServerSocket implementation
+// summary: Implements the Nearby Bluetooth server socket for ChromeOS, accepting incoming connections through a Mojo server socket and closing it safely on shutdown.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_server_socket.h"
 
 #include "base/logging.h"

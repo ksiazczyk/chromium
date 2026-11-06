@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputFile unit tests
+// summary: Unit tests for InputFile covering valid and invalid files, total size, chunked reads of various sizes, close, and extraction of the underlying file.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/input_file.h"
 
 #include <memory>

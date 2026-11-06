@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform metrics declarations
+// summary: Declares failure-reason enums and recording functions for Nearby Connections BLE V2 UMA metrics, kept in sync with the histograms enums.xml.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_NEARBY_PLATFORM_METRICS_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_NEARBY_PLATFORM_METRICS_H_
 

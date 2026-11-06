@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake speech recognition recognizer client
+// summary: Provides a no-op fake implementation of the SpeechRecognitionRecognizerClient mojo interface for use in tests.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_FAKE_SPEECH_RECOGNITION_RECOGNIZER_CLIENT_H_
 #define CHROME_SERVICES_SPEECH_FAKE_SPEECH_RECOGNITION_RECOGNIZER_CLIENT_H_
 

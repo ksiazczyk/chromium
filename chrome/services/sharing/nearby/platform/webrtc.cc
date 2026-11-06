@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcMedium implementation
+// summary: Implements the WebRTC medium for Nearby Share, creating peer connections with battery-saving ICE settings and mojo-based network, mDNS and signaling dependencies.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/webrtc.h"
 
 #include "ash/constants/ash_features.h"

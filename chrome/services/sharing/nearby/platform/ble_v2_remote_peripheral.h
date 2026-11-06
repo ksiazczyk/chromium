@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 remote peripheral header
+// summary: Declares BleV2RemotePeripheral, the Chrome representation of a remote Bluetooth device for the Nearby BLE V2 API, with address, unique ID, and device info updates.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_REMOTE_PERIPHERAL_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_REMOTE_PERIPHERAL_H_
 

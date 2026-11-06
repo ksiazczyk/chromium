@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS of the util_win directory
+summary: Names pmonette@chromium.org and wfh@chromium.org as the code owners for this directory.

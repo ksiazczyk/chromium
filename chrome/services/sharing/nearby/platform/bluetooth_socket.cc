@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocket implementation
+// summary: Implements BluetoothSocket for Nearby Connections, wrapping a mojo Socket and data pipes in a BidirectionalStream for classic Bluetooth communication with a remote device.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_socket.h"
 
 #include "base/task/task_traits.h"

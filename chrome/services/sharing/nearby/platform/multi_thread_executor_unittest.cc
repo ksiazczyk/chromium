@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiThreadExecutor unit tests
+// summary: Unit tests for the multi-thread executor, using tracked runnables to verify that submitted tasks start and execute as expected.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/submittable_executor.h"
 
 #include <map>

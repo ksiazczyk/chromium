@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the Nearby platform directory
+summary: Controls allowed include dependencies for the directory, permitting specific ChromeOS, Bluetooth, network, and Nearby third-party headers.

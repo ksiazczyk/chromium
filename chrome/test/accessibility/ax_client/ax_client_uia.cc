@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ax_client_uia UI Automation client implementation
+// summary: Implements the UI Automation variant of the accessibility test client, discovering browser window elements and handling structure-changed events.
+// ---
+
 #include "chrome/test/accessibility/ax_client/ax_client_uia.h"
 
 #include <wrl/client.h>

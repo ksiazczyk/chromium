@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quick Start Decoder include rules
+summary: Declares the allowed include dependencies for the quick_start_decoder directory, permitting cbor and quick_start components.

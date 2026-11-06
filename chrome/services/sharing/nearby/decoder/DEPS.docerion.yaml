@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for fuzzer sources
+summary: Allows fuzzer sources in this directory to include the Mojo core embedder header.

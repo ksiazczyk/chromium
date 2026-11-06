@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiDirectMedium unit tests
+// summary: Unit tests for WifiDirectMedium using a fake WifiDirectManager and connection, verifying group operations, sockets and histogram metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_medium.h"
 
 #include <netinet/in.h>

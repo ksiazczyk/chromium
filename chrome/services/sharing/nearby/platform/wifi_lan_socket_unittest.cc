@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiLanSocket unit tests
+// summary: Unit tests for WifiLanSocket covering socket close behavior, including closing from multiple threads simultaneously using a fake TCP connected socket.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_lan_socket.h"
 
 #include "base/memory/raw_ptr.h"

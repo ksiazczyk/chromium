@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC packet socket factory class declaration
+// summary: Declares IpcPacketSocketFactory, which creates WebRTC UDP and TCP sockets backed by IPC-based P2P sockets for libjingle.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_IPC_PACKET_SOCKET_FACTORY_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_IPC_PACKET_SOCKET_FACTORY_H_
 

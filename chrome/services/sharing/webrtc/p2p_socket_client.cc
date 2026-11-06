@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2PSocketClient implementation
+// summary: Implements the Mojo-routed P2P socket client, handling socket creation, packet sending with unique packet IDs, options, closing, and delegate callbacks.
+// ---
+
 #include "chrome/services/sharing/webrtc/p2p_socket_client.h"
 
 #include "base/functional/bind.h"

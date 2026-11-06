@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ax_client_uia UI Automation client header
+// summary: Declares AxClientUia, the UI Automation implementation of the test client that tracks discovered elements and their cached properties.
+// ---
+
 #ifndef CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_UIA_H_
 #define CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_UIA_H_
 

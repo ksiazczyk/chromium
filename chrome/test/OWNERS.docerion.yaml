@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/test
+summary: Requires owner review for structural changes, allows anyone to review BUILD.gn, and delegates include_js_tests.gni to WebUI platform owners.

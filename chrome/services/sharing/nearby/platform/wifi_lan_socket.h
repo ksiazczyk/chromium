@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanSocket class declaration
+// summary: Declares WifiLanSocket, the Chrome implementation of Nearby Connections' api::WifiLanSocket that wraps a TCP connected socket until Close() or destruction.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_SOCKET_H_
 

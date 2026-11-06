@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStream implementation
+// summary: Implements a wrapper that creates and destroys input and output streams over Mojo data pipes on a sequenced task runner.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bidirectional_stream.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStream class declaration
+// summary: Declares a wrapper around input and output stream implementations that read and write Mojo data pipes for Nearby connections.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BIDIRECTIONAL_STREAM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BIDIRECTIONAL_STREAM_H_
 

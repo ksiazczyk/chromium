@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech timestamp estimator implementation
+// summary: Implements SpeechTimestampEstimator, which tracks playback chunks and silence to map finalized speech transcription timestamps back to originating media timestamp ranges.
+// ---
+
 #include "chrome/services/speech/speech_timestamp_estimator.h"
 
 #include <algorithm>

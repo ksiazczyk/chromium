@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanServerSocket implementation
+// summary: Implements the WiFi LAN server socket that accepts incoming TCP connections via a mojo TCPServerSocket and firewall hole, blocking in Accept until a connection arrives or the socket closes.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_lan_server_socket.h"
 
 #include "base/functional/bind.h"

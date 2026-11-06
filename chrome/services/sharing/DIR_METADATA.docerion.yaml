@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the sharing service
+summary: Maps the directory to a Buganizer component and the ChromeOS cross-device engineering team email for triage and contact.

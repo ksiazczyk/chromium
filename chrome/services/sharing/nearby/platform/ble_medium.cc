@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleMedium implementation
+// summary: Implements the Nearby Connections BLE medium on top of the Chrome Bluetooth adapter Mojo interface, handling fast advertisement registration, scanning, and connection acceptance with metrics logging.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_medium.h"
 
 #include "base/compiler_specific.h"

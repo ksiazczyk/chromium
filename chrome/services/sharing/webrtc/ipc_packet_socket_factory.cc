@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC packet socket factory implementation
+// summary: Implements WebRTC async packet sockets on top of Chromium P2P socket clients, supporting UDP and several TCP client socket types over IPC.
+// ---
+
 #include "chrome/services/sharing/webrtc/ipc_packet_socket_factory.h"
 
 #include <stddef.h>

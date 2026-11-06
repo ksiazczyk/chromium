@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Speech service bug tracking metadata
+summary: Maps the directory to the Internals>Media Monorail component and a Buganizer component ID for issue routing.

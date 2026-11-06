@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GATT service implementation
+// summary: Implements FakeGattService, a fake local GATT service supporting characteristic creation, registration, and simulated read requests in tests.
+// ---
+
 #include "chrome/services/sharing/nearby/test_support/fake_gatt_service.h"
 
 namespace bluetooth {

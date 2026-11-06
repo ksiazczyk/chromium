@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock WebRTC dependencies header
+// summary: Declares MockWebRtcDependencies, gmock mocks for P2P socket, mDNS responder, ICE config, and WebRTC signaling interfaces used in Nearby tests.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_MOCK_WEBRTC_DEPENDENCIES_H_
 #define CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_MOCK_WEBRTC_DEPENDENCIES_H_
 

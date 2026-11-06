@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 medium implementation
+// summary: Implements BleV2Medium, providing BLE advertising, scanning, GATT client and server connections, and socket handling over Chrome's Bluetooth Mojo adapter.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_medium.h"
 
 #include "base/compiler_specific.h"

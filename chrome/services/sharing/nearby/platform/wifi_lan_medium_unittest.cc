@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiLanMedium unit tests
+// summary: Unit tests for WifiLanMedium using fake socket factory, mDNS manager, firewall hole and network configuration helpers to exercise service discovery and TCP connections.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_lan_medium.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SODA client for tests
+// summary: Declares MockSodaClient, a gmock mock of the SodaClient interface for use in unit tests.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_MOCK_SODA_CLIENT_H_
 #define CHROME_SERVICES_SPEECH_SODA_MOCK_SODA_CLIENT_H_
 

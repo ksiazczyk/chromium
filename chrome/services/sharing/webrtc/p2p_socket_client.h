@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2PSocketClient header
+// summary: Declares the P2PSocketClient class that routes all P2P socket calls over Mojo, with Init, Send, SetOption, and Close methods and state tracking.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_P2P_SOCKET_CLIENT_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_P2P_SOCKET_CLIENT_H_
 

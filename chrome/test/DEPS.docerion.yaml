@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/test
+summary: Sets include rules that let the chrome/test directory depend broadly on chrome, ash, chromeos, and many component headers.

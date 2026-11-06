@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE V2 medium unit tests
+// summary: Unit tests for BleV2Medium covering advertising, scanning, and GATT server and client flows using a fake Bluetooth adapter and remote peripherals.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_medium.h"
 
 #include <memory>

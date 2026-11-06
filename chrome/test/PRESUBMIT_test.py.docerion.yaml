@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the chrome/test presubmit checks
+summary: Unit tests verifying that the CheckNoNewTestSources presubmit check flags new test sources added to chrome/test/BUILD.gn.

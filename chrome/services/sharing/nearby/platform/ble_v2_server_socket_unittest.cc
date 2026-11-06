@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleV2ServerSocket unit tests
+// summary: Unit tests verifying that BleV2ServerSocket's Accept blocks until Close is called and that repeated or pre-closed Close and Accept calls succeed without errors.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_server_socket.h"
 
 #include "base/task/thread_pool.h"

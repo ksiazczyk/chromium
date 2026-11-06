@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for chrome/test
+# summary: Enforces gn formatting of chrome/test/BUILD.gn and warns when new test source files are added there instead of directory-local test targets.
+# ---
+
 """Presubmit script for //chrome/test.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts/

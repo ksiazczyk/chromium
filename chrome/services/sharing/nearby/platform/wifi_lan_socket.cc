@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanSocket implementation
+// summary: Implements the Nearby Connections WifiLanSocket on Chrome by wrapping a Mojo TCP connected socket with a bidirectional stream for input and output.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_lan_socket.h"
 
 #include "base/logging.h"

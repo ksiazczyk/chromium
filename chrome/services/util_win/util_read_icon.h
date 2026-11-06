@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilReadIcon class declaration
+// summary: Declares the UtilReadIcon Mojo service that reads icons from files on behalf of the browser process.
+// ---
+
 #ifndef CHROME_SERVICES_UTIL_WIN_UTIL_READ_ICON_H_
 #define CHROME_SERVICES_UTIL_WIN_UTIL_READ_ICON_H_
 

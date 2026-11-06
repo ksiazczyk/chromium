@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform metrics recording functions
+// summary: Records UMA histograms for Nearby Connections BLE V2 GATT server, advertising, scanning, and GATT client results, failure reasons, and durations.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/nearby_platform_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

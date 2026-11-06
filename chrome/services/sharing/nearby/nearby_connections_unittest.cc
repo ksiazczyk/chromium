@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Connections unit tests
+// summary: Unit tests for the Nearby Connections implementation, covering advertising, connection options, payloads and related sharing service behavior.
+// ---
+
 #include "chrome/services/sharing/nearby/nearby_connections.h"
 
 #include <stdint.h>

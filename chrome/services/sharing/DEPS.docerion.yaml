@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the sharing service
+summary: Lists the directories this folder may include from, with an extra rule allowing network config headers in the unit test file.

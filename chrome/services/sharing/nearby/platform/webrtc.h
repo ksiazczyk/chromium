@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcMedium header
+// summary: Declares the Chrome WebRTC medium managing the peer connection factory plus dedicated network and signaling threads for Nearby Connections.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WEBRTC_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WEBRTC_H_
 

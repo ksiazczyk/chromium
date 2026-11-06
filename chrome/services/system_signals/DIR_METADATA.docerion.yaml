@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for system_signals
+summary: Applies the shared device_signals COMMON_METADATA mixins to this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingImpl header for the sharing utility process
+// summary: Declares the SharingImpl class, its mojo dependency enum used for UMA metrics, and the shutdown and disconnect handling interface.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_SHARING_IMPL_H_
 #define CHROME_SERVICES_SHARING_SHARING_IMPL_H_
 

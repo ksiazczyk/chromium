@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Start Decoder build targets
+summary: Defines the quick_start_decoder source set and its unit_tests target with their sources and build dependencies.

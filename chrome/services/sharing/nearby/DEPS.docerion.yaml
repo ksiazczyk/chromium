@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Nearby Connections directory
+summary: Specifies which headers the directory and its unit tests may include, restricting //chrome dependencies for ChromeOS code.

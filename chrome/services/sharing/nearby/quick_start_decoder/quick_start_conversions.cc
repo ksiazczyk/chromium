@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start conversions implementation
+// summary: Implements WifiSecurityTypeFromString, mapping Wi-Fi security type strings such as PSK, WEP and EAP to the mojom enum.
+// ---
+
 #include "quick_start_conversions.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputStreamImpl unit tests
+// summary: Unit tests for InputStreamImpl that write data through a Mojo data pipe and verify reads, error handling, and close behavior.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/input_stream_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA client implementation
+// summary: Implements CrosSodaClient, which binds to the ChromeOS machine learning service to run on-device speech recognition and deliver transcription results.
+// ---
+
 #include "chrome/services/speech/soda/cros_soda_client.h"
 
 #include "base/compiler_specific.h"

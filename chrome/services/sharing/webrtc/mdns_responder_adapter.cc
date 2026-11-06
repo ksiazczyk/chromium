@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS responder adapter implementation
+// summary: Implements the WebRTC mDNS responder interface using Chromium's MdnsResponder Mojo service to create and remove names concealing local IP addresses.
+// ---
+
 #include "chrome/services/sharing/webrtc/mdns_responder_adapter.h"
 
 #include <string>

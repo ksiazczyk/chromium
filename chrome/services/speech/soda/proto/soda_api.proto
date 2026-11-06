@@ -4,6 +4,12 @@
 // of truth, and any changes should be submitted and approved there before being
 // copied into here.
 
+// ---docerion
+// type: source
+// title: SODA speech recognition API protobuf definitions
+// summary: Protocol buffer definitions for the SODA on-device speech recognition API, copied from Google's internal source of truth, describing configuration messages for recognition modes, language packs, diarization and related options.
+// ---
+
 syntax = "proto2";
 
 package speech.soda.chrome;

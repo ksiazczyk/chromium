@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows system signals service unit tests
+// summary: Unit tests for WinSystemSignalsService using mocked file system, WMI, and WSC clients to verify signal collection and metrics logging.
+// ---
+
 #include "chrome/services/system_signals/win/win_system_signals_service.h"
 
 #include <array>

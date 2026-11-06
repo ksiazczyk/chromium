@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA speech recognizer declaration
+// summary: Declares CrosSpeechRecognitionRecognizerImpl, the ChromeOS SODA-specific subclass of SpeechRecognitionRecognizerImpl that delegates recognition to the ML Service.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_CROS_SPEECH_RECOGNITION_RECOGNIZER_IMPL_H_
 #define CHROME_SERVICES_SPEECH_CROS_SPEECH_RECOGNITION_RECOGNIZER_IMPL_H_
 

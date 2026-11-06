@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advertisement decoder unit tests
+// summary: Tests advertisement decoding across device types, extra length input and contacts-only versus visible advertisements.
+// ---
+
 #include <stdint.h>
 #include <memory>
 #include <string>

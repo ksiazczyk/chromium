@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P async address resolver implementation
+// summary: Resolves STUN and relay server hostnames asynchronously via the browser's P2P socket manager, with mDNS resolution enabled.
+// ---
+
 #include "chrome/services/sharing/webrtc/p2p_async_address_resolver.h"
 
 #include <utility>

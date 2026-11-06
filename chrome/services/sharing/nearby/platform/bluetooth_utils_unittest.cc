@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth UUID conversion unit tests
+// summary: Verifies that BluetoothUuidToNearbyUuid converts a sample UUID so that it round-trips back to the original BluetoothUUID.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

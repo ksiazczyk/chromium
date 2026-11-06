@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the util_win service
+summary: Defines the lib and unit_tests source sets with their sources and dependencies for the Windows utility service.
