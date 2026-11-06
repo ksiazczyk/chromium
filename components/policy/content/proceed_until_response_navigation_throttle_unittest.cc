@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proceed until response navigation throttle unit tests
+// summary: Tests event handling, speculative proceeding and deferred result resolution of the proceed until response throttle.
+// ---
+
 #include "components/policy/content/proceed_until_response_navigation_throttle.h"
 
 #include "base/memory/raw_ptr.h"

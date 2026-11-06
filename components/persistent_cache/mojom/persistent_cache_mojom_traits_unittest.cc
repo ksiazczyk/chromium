@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent cache Mojom traits unit tests
+// summary: Verifies that read-only and read-write PendingBackend objects serialize and deserialize successfully through the Mojom traits.
+// ---
+
 #include "components/persistent_cache/mojom/persistent_cache_mojom_traits.h"
 
 #include <ostream>

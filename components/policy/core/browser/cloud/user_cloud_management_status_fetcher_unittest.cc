@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud management status fetcher unit tests
+// summary: Unit tests covering fetch success, token and DMServer errors, timeouts, policy parsing, and histogram recording using mock device management and identity environments.
+// ---
+
 #include "components/policy/core/browser/cloud/user_cloud_management_status_fetcher.h"
 
 #include <memory>

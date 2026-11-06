@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendStorage implementation
+// summary: Implements backend creation, connection sharing and file deletion in a directory, delegating backend-type-specific work to a Delegate.
+// ---
+
 #include "components/persistent_cache/backend_storage.h"
 
 #include <algorithm>

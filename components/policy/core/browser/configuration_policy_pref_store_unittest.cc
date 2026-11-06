@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configuration policy pref store unit tests
+// summary: Unit tests verifying that the configuration policy pref store applies list, string and boolean policy values to preferences.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_pref_store.h"
 
 #include <memory>

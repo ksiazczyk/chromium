@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyProvider abstract base class
+// summary: Abstract base class for Android policy providers that notifies the CombinedPolicyProvider of available settings and handles refresh, registration and teardown.
+// ---
+
 package org.chromium.components.policy;
 
 import android.os.Bundle;

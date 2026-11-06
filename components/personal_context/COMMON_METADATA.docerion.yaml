@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared component metadata setting the Buganizer component ID 1783327 and the team email chrome-memory-context-eng@google.com for the personal_context component.

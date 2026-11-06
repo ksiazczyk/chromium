@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context memory service protobuf definitions
+// summary: Proto3 definitions for the context memory service, covering fetch context and PII entity requests, responses, and the supported feature enum.
+// ---
+
 syntax = "proto3";
 
 package personal_context.proto;

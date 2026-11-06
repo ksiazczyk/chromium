@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperToolsAvailability policy enum
+// summary: Defines the DeveloperToolsAvailability enum values set by policy, persisted to logs and matched against the policy definition and histograms.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_DEVELOPER_TOOLS_AVAILABILITY_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_DEVELOPER_TOOLS_AVAILABILITY_H_
 

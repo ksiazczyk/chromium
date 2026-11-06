@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Search service implementation
+// summary: Implements a browser context keyed service that checks URLs against the Google Safe Search API and its service factory.
+// ---
+
 #include "components/policy/content/safe_search_service.h"
 
 #include <utility>

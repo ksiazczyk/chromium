@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL blocklist policy handler implementation
+// summary: Implements the policy handler that validates URLBlocklist policy entries, enforces filter limits and applies them to the url_blocklist preference.
+// ---
+
 #include "components/policy/core/browser/url_list/url_blocklist_policy_handler.h"
 
 #include <memory>

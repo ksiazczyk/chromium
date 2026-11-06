@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracker metadata for enterprise policies
+summary: Sets the Monorail and Buganizer components and the team email used for filing enterprise policy issues.

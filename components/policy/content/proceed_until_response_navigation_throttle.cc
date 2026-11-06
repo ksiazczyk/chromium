@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proceed until response navigation throttle implementation
+// summary: Implements a wrapper throttle that lets navigations proceed until response while internal asynchronous checks finish.
+// ---
+
 #include "components/policy/content/proceed_until_response_navigation_throttle.h"
 
 #include "base/notimplemented.h"

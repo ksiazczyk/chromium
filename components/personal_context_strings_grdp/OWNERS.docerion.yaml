@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the autofill component owners
+summary: Points to components/autofill/OWNERS so the autofill team owns and reviews changes in this directory.

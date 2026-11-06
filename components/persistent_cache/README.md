@@ -1,3 +1,9 @@
+---
+type: readme
+title: Persistent Cache
+summary: Describes the persistent cache key-value API, its best-effort success guarantees, security constraints, eviction behavior and SQLite backend.
+---
+
 # Persistent Cache
 
 Persistent cache provides an API to store and retrieve key-value pairs in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigurationPolicyHandlerList implementation
+// summary: Applies registered policy handlers to convert policies into preferences, filtering deprecated, future, cloud-only and blocked policies.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_handler_list.h"
 
 #include "base/check_is_test.h"

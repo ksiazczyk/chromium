@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VFS client conversion helper for persistent cache
+// summary: Defines VfsClientFromClient, a constexpr helper mapping persistent cache Client values to the corresponding sqlite_vfs Client values.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_SQLITE_VFS_UTIL_H_
 #define COMPONENTS_PERSISTENT_CACHE_SQLITE_VFS_UTIL_H_
 

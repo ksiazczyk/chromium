@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentCacheCollection implementation
+// summary: Implements PersistentCacheCollection, managing multiple SQLite-backed caches with LRU eviction, footprint reduction and file deletion.
+// ---
+
 #include "components/persistent_cache/persistent_cache_collection.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proceed until response navigation throttle header
+// summary: Declares a wrapper navigation throttle that hides internal DEFER actions and resolves deferred results via callbacks.
+// ---
+
 #ifndef COMPONENTS_POLICY_CONTENT_PROCEED_UNTIL_RESPONSE_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_POLICY_CONTENT_PROCEED_UNTIL_RESPONSE_NAVIGATION_THROTTLE_H_
 

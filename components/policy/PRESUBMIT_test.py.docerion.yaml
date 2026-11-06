@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the policy presubmit checks
+summary: Tests presubmit checks such as policy test case platform coverage using mock presubmit APIs.

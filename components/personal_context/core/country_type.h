@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeoIpCountryCode strong alias type
+// summary: Defines a strong alias type for uppercase ISO 3166-1 alpha-2 country codes estimated by the variations service, empty when unknown.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_COUNTRY_TYPE_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_COUNTRY_TYPE_H_
 #include <string>

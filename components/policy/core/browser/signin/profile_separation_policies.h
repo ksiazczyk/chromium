@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileSeparationPolicies class declaration
+// summary: Declares ProfileSeparationPolicies with enums for separation and data migration settings, plus Empty and Valid checks for legacy and new policy values.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_SIGNIN_PROFILE_SEPARATION_POLICIES_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_SIGNIN_PROFILE_SEPARATION_POLICIES_H_
 

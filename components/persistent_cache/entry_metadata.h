@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryMetadata struct header
+// summary: Defines the EntryMetadata struct with optional per-entry fields like input signature and write timestamp that aid cache operations such as eviction.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_ENTRY_METADATA_H_
 #define COMPONENTS_PERSISTENT_CACHE_ENTRY_METADATA_H_
 

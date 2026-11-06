@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android policy cache updater implementation
+// summary: Implements PolicyCacheUpdater, which observes policy updates, filters out policies with errors or future policies, and passes the cacheable policy map to Java via JNI.
+// ---
+
 #include "components/policy/core/browser/android/policy_cache_updater_android.h"
 
 #include "base/android/jni_android.h"

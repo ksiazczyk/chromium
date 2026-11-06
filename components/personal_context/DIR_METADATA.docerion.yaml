@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata that mixes in COMMON_METADATA to apply the shared bug component and team email settings to this directory.

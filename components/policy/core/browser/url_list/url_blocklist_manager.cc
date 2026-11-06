@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL blocklist manager implementation
+// summary: Implements URLBlocklist and URLBlocklistManager, which build URL block and allow filters from policy preferences and match URLs against them.
+// ---
+
 #include "components/policy/core/browser/url_list/url_blocklist_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock eligibility service implementation
+// summary: Implements the mock eligibility service, defaulting IsInitialized calls to return true for tests.
+// ---
+
 #include "components/personal_context/core/mock_personal_context_eligibility_service.h"
 
 namespace personal_context {

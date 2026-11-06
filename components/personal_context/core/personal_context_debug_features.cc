@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context debug feature flags
+// summary: Defines debug-only feature flags that override the service URL, force enablement state, mock results and skip eligibility checks.
+// ---
+
 #include "components/personal_context/core/personal_context_debug_features.h"
 
 #include "base/feature_list.h"

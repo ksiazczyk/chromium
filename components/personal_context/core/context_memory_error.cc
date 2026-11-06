@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context memory error implementation
+// summary: Implements mapping of HTTP status codes to context memory execution errors and determines whether an error is transient and retryable.
+// ---
+
 #include "components/personal_context/core/context_memory_error.h"
 
 #include "base/notreached.h"

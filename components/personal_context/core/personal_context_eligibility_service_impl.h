@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context eligibility service implementation header
+// summary: Declares the eligibility service implementation, which observes identity manager, account settings and preference changes.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_IMPL_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme list policy handler implementation
+// summary: Implements a policy handler that validates scheme list policies against the URL filter format and writes filtered entries to a preference.
+// ---
+
 #include "components/policy/core/browser/url_list/url_scheme_list_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache Mojom traits implementation
+// summary: Implements mojo StructTraits Read functions that deserialize pending read-only and read-write backend data into persistent_cache::PendingBackend.
+// ---
+
 #include "components/persistent_cache/mojom/persistent_cache_mojom_traits.h"
 
 #include "components/sqlite_vfs/mojom/sqlite_vfs_mojom_traits.h"

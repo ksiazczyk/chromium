@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeEnterpriseInfo test double for enterprise state
+// summary: Provides a fake EnterpriseInfo implementation that queues enterprise info callbacks until initialized with a chosen OwnedState, for use in tests.
+// ---
+
 package org.chromium.components.policy.test;
 
 import org.chromium.components.policy.EnterpriseInfo;

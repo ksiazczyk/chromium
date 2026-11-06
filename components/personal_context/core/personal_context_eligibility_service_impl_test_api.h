@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for the eligibility service implementation
+// summary: Exposes internal eligibility computation and update methods of the implementation for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_IMPL_TEST_API_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_IMPL_TEST_API_H_
 

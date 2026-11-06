@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterpriseInfoImpl unit tests
+// summary: Robolectric unit tests for EnterpriseInfoImpl, checking callback results and cached values for device enterprise ownership information.
+// ---
+
 package org.chromium.components.policy;
 
 import android.os.Handler;

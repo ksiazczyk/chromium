@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined policy provider
+// summary: Aggregates enterprise policies from registered policy providers with precedence ordering and plumbs them to the native policy subsystem over JNI.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

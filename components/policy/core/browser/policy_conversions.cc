@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy conversions implementation
+// summary: Implements conversion of policy data into JSON or value dictionaries for display, with delegates for default and Chrome-specific policy sets.
+// ---
+
 #include "components/policy/core/browser/policy_conversions.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy error map header
+// summary: Declares PolicyErrorMap for storing and querying per-policy error messages, fatal error checks and error metadata.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_POLICY_ERROR_MAP_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_POLICY_ERROR_MAP_H_
 

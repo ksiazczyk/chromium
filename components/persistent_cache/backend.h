@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend interface for cache persistence
+// summary: Declares the abstract Backend interface with Find, Insert, GetType, IsReadOnly and Abandon operations used by cache backends.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_BACKEND_H_
 #define COMPONENTS_PERSISTENT_CACHE_BACKEND_H_
 

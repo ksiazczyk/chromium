@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy blocklist navigation throttle implementation
+// summary: Blocks or allows navigations based on URL blocklist policies and consults the Safe Sites filter, including view-source handling.
+// ---
+
 #include "components/policy/content/policy_blocklist_navigation_throttle.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context debug feature declarations
+// summary: Declares debug-only features intended for manual debugging and testing of Personal Context behavior, not for rollout.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_DEBUG_FEATURES_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_DEBUG_FEATURES_H_
 

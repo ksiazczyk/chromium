@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy blocklist service class declaration
+// summary: Declares PolicyBlocklistService, a KeyedService giving embedders access to URLBlocklistManager and per-URL blocklist states.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_POLICY_BLOCKLIST_SERVICE_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_POLICY_BLOCKLIST_SERVICE_H_
 

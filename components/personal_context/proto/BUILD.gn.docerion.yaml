@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for personal context protos
+summary: Defines GN targets that compile the personal context protobuf sources and generate proto extras for at_memory and common_data.

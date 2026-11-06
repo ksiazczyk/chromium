@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON generation interface
+// summary: Declares JsonGenerationParams and helpers to build policy JSON with Chrome metadata for the policy WebUI.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_WEBUI_JSON_GENERATION_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_WEBUI_JSON_GENERATION_H_
 

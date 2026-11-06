@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boolean disabling policy handler declaration
+// summary: Declares a policy handler that lets admins disable a feature via policy while leaving true values to user settings.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_BOOLEAN_DISABLING_POLICY_HANDLER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_BOOLEAN_DISABLING_POLICY_HANDLER_H_
 

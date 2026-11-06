@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service base header
+// summary: Declares the base sign-in service that loads cloud policy for signed-in users and manages client registration and policy infrastructure shutdown.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_POLICY_SIGNIN_SERVICE_BASE_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_POLICY_SIGNIN_SERVICE_BASE_H_
 

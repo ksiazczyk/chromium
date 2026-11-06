@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Personal Context eligibility service
+// summary: Unit tests covering eligibility state, encryption eligibility, non-eligibility reasons and observer notifications across sign-in and settings scenarios.
+// ---
+
 #include "components/personal_context/core/personal_context_eligibility_service_impl.h"
 
 #include <utility>

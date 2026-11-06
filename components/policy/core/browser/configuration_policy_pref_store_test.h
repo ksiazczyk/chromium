@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConfigurationPolicyPrefStore test fixture header
+// summary: Declares the shared test fixture with mock provider, handler list and pref store used by policy pref store tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CONFIGURATION_POLICY_PREF_STORE_TEST_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CONFIGURATION_POLICY_PREF_STORE_TEST_H_
 

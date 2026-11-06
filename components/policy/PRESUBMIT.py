@@ -5,6 +5,12 @@
 # If this presubmit check fails or misbehaves, please complain to
 # chromium-policy-owners@google.com.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for enterprise policy changes
+# summary: Runs presubmit validations on policy definitions, templates, test cases and proto mappings before changes are submitted.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 import glob  # noqa: E402

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context preference name constants
+// summary: Defines preference name constants for Personal Context notices, the Autofill settings toggle, and the Base64-encoded ML-KEM-768 private key.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_PREFS_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service base implementation
+// summary: Implements cloud policy registration and fetching for signed-in users, initializing the cloud policy manager and clearing cached policy on sign-out.
+// ---
+
 #include "components/policy/core/browser/cloud/user_policy_signin_service_base.h"
 
 #include <utility>

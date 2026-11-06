@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud management status fetcher header
+// summary: Declares the fetcher that asynchronously retrieves user management status and profile separation policies from DMServer, plus its result and parse-result enums.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_CLOUD_MANAGEMENT_STATUS_FETCHER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_CLOUD_MANAGEMENT_STATUS_FETCHER_H_
 

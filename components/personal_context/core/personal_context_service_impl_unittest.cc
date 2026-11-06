@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersonalContextServiceImpl unit tests
+// summary: Unit tests for PersonalContextServiceImpl covering context fetching, entity decryption, error handling, and decryption metrics with simulated network responses.
+// ---
+
 #include "components/personal_context/core/personal_context_service_impl.h"
 
 #include <string>

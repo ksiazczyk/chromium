@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management status message utilities header
+// summary: Declares functions that format device management, validation, and store statuses as user-facing strings for the policy UI.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CLOUD_MESSAGE_UTIL_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CLOUD_MESSAGE_UTIL_H_
 

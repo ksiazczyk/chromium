@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy conversions client implementation
+// summary: Implements the client that converts policy maps into JSON for the policy WebUI, honoring toggles for types, values, device info, user and device-local-account policies, and pretty printing.
+// ---
+
 #include "components/policy/core/browser/policy_conversions_client.h"
 
 #include <memory>

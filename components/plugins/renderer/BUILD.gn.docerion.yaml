@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the plugins renderer component
+summary: Defines the renderer static library, listing placeholder and webview plugin sources conditionally on enable_plugins and declaring its dependencies.

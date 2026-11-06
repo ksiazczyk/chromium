@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransactionError enum
+// summary: Defines the TransactionError enum classifying backend failures as transient, connection errors or permanent corruption requiring file deletion.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_TRANSACTION_ERROR_H_
 #define COMPONENTS_PERSISTENT_CACHE_TRANSACTION_ERROR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the plugins renderer directory
+summary: Declares the allowed include dependencies for this directory, covering gin, content, blink, skia, re2, ui/base and v8 paths.

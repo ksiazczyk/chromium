@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy conversions class declaration
+// summary: Declares PolicyConversions, a convenience class to retrieve all policy values with configurable formatting and delegate-based output structure.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_POLICY_CONVERSIONS_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_POLICY_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingBackend implementation
+// summary: Implements PendingBackend methods that compute total database file size and detect whether the database was newly created.
+// ---
+
 #include "components/persistent_cache/pending_backend.h"
 
 #include <utility>

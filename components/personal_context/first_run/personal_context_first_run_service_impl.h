@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalContextFirstRunServiceImpl class declaration
+// summary: Declares the service implementation that observes the identity manager and holds eligibility, prefs, and signin dependencies.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_FIRST_RUN_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_IMPL_H_
 #define COMPONENTS_PERSONAL_CONTEXT_FIRST_RUN_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service utilities header
+// summary: Declares helpers for sign-in event detection, policy applicability checks, and last policy check time and registration delay preferences on mobile.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_POLICY_SIGNIN_SERVICE_UTIL_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CLOUD_USER_POLICY_SIGNIN_SERVICE_UTIL_H_
 

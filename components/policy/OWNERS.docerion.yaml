@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the policy directory
+summary: Delegates ownership of the policy directory to the shared enterprise policy owners list.

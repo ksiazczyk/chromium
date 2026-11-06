@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON generation unit tests
+// summary: Unit tests verifying Chrome metadata assembly and policy JSON generation for the policy WebUI.
+// ---
+
 #include "components/policy/core/browser/webui/json_generation.h"
 
 #include <string>

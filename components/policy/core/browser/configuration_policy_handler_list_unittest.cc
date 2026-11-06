@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConfigurationPolicyHandlerList unit tests
+// summary: Unit tests verifying policy application, future and cloud-only policy filtering, and the OnPolicySettingsNotApplied callback behavior.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_handler_list.h"
 
 #include <string>

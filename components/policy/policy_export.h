@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the policy component
+// summary: Header defining the POLICY_EXPORT macro for DLL export and import in component builds.
+// ---
+
 #ifndef COMPONENTS_POLICY_POLICY_EXPORT_H_
 #define COMPONENTS_POLICY_POLICY_EXPORT_H_
 

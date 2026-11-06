@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake for the first run service
+// summary: Implements a controllable fake of the first run service that records notice acknowledgements and per-session impressions.
+// ---
+
 #include "components/personal_context/first_run/test_personal_context_first_run_service.h"
 
 namespace personal_context {

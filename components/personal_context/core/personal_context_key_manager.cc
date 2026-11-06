@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalContextKeyManager implementation
+// summary: Implements the Personal Context key manager that generates, persists, and uses ML-KEM-768 HPKE key pairs for encrypting and decrypting Personal Context payloads.
+// ---
+
 #include "components/personal_context/core/personal_context_key_manager.h"
 
 #include <array>

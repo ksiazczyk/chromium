@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the first run service
+summary: Defines the first_run static library plus test_support and unit_tests source sets with their sources and dependencies.

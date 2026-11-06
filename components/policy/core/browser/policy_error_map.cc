@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy error map implementation
+// summary: Implements PolicyErrorMap, which collects localized policy error messages with severity levels and pending errors before the resource bundle is ready.
+// ---
+
 #include "components/policy/core/browser/policy_error_map.h"
 
 #include <algorithm>

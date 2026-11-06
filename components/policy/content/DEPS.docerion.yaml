@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for policy content
+summary: Declares the allowed include dependencies for the folder plus extra rules for its unit test files.

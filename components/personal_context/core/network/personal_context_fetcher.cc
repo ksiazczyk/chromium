@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context fetcher implementation
+// summary: Implements HTTP requests to the Context Memory Service, including OAuth token fetching, protobuf serialization and network traffic annotations.
+// ---
+
 #include "components/personal_context/core/network/personal_context_fetcher.h"
 
 #include <optional>

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Policy conversions client unit tests
+// summary: Unit tests for PolicyConversionsClient covering policy value conversion, masking of sensitive and machine values, and mojo output.
+// ---
+
 #include "components/policy/core/browser/policy_conversions_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud management status fetcher implementation
+// summary: Implements fetching user cloud management status and profile separation policies from the device management server, recording result and latency histograms.
+// ---
+
 #include "components/policy/core/browser/cloud/user_cloud_management_status_fetcher.h"
 
 #include <utility>

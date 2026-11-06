@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL allowlist policy handler implementation
+// summary: Implements validation and application of the URLAllowlist policy, filtering invalid entries before writing the allowlist preference.
+// ---
+
 #include "components/policy/core/browser/url_list/url_allowlist_policy_handler.h"
 
 #include <memory>

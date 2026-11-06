@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context fetcher header
+// summary: Declares PersonalContextFetcher, a helper class that issues one network request at a time to the Context Memory Service backend.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_NETWORK_PERSONAL_CONTEXT_FETCHER_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_NETWORK_PERSONAL_CONTEXT_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy data utilities header
+// summary: Declares the exported GetManagedBy helper that returns the domain managing the policy for a given CloudPolicyManager.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_POLICY_DATA_UTILS_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_POLICY_DATA_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentCacheCollection class header
+// summary: Declares PersistentCacheCollection for accessing multiple just-in-time PersistentCache instances selected by cache ID, with insert, find and deletion APIs.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_PERSISTENT_CACHE_COLLECTION_H_
 #define COMPONENTS_PERSISTENT_CACHE_PERSISTENT_CACHE_COLLECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Personal Context service
+// summary: Gmock implementation of PersonalContextService stubbing FetchContext, FetchPiiEntities and DecryptEntity for use in tests.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_MOCK_PERSONAL_CONTEXT_SERVICE_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_MOCK_PERSONAL_CONTEXT_SERVICE_H_
 

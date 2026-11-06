@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boolean disabling policy handler unit tests
+// summary: Unit tests verifying that only a false policy value is pushed to the associated preference.
+// ---
+
 #include "components/policy/core/browser/boolean_disabling_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract Android app restrictions provider
+// summary: Abstract policy provider that retrieves Android app restrictions as Bundles, with subclasses supplying how restrictions are fetched and change notifications received.
+// ---
+
 package org.chromium.components.policy;
 
 import android.content.BroadcastReceiver;

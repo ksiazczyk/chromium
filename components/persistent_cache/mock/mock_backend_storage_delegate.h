@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBackendStorageDelegate gmock class
+// summary: Defines a gmock-based MockBackendStorageDelegate that stubs BackendStorage::Delegate methods like backend creation, connection sharing and file deletion for tests.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_MOCK_MOCK_BACKEND_STORAGE_DELEGATE_H_
 #define COMPONENTS_PERSISTENT_CACHE_MOCK_MOCK_BACKEND_STORAGE_DELEGATE_H_
 

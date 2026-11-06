@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyCacheProvider Robolectric tests
+// summary: Robolectric tests verifying that PolicyCacheProvider refreshes cached policy values from SharedPreferences into the CombinedPolicyProvider.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.mockito.ArgumentMatchers.argThat;

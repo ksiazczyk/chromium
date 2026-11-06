@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics histogram name utility header
+// summary: Declares GetHistogramName, which builds PersistentCache histogram names from a client, metric, and optional read-write mode.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_METRICS_UTIL_H_
 #define COMPONENTS_PERSISTENT_CACHE_METRICS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyCache Robolectric tests
+// summary: Robolectric tests for PolicyCache, covering retrieval of int, boolean, string, list, and dictionary policy values from SharedPreferences.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.mockito.ArgumentMatchers.anyString;

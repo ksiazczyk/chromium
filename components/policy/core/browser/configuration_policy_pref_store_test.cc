@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConfigurationPolicyPrefStore test fixture implementation
+// summary: Implements the shared test fixture that wires a mock policy provider, policy service and policy pref store for tests.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_pref_store_test.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyService Java wrapper with policy observers
+// summary: Java wrapper of the native PolicyService for the Chrome policy domain, letting observers track policy updates and initialization completion via JNI.
+// ---
+
 package org.chromium.components.policy;
 
 import org.jni_zero.CalledByNative;

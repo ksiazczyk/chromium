@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyHandlerParameters struct
+// summary: Defines the extensible parameters struct passed to policy handlers, currently holding the user ID hash.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_CONFIGURATION_POLICY_HANDLER_PARAMETERS_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_CONFIGURATION_POLICY_HANDLER_PARAMETERS_H_
 

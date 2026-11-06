@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy to preference mapping test helpers
+// summary: Implements verification that policies make their corresponding preferences managed, driven by JSON test cases and a mock policy provider.
+// ---
+
 #include "components/policy/core/browser/policy_pref_mapping_test.h"
 
 #include <algorithm>

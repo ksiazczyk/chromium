@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferProvider function reference type
+// summary: Defines a BufferProvider function reference that returns a byte span sized for cache content or an empty span.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_BUFFER_PROVIDER_H_
 #define COMPONENTS_PERSISTENT_CACHE_BUFFER_PROVIDER_H_
 

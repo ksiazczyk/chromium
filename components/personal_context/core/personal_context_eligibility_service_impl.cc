@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context eligibility service implementation
+// summary: Implements eligibility checks based on sign-in, account type, country, account settings and preferences, with UMA logging of reasons.
+// ---
+
 #include "components/personal_context/core/personal_context_eligibility_service_impl.h"
 
 #include <string>

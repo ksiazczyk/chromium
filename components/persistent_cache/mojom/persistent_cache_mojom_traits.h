@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache Mojom traits declarations
+// summary: Declares mojo StructTraits specializations mapping PendingReadOnlyBackend and PendingReadWriteBackend Mojom messages to persistent_cache::PendingBackend.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_MOJOM_PERSISTENT_CACHE_MOJOM_TRAITS_H_
 #define COMPONENTS_PERSISTENT_CACHE_MOJOM_PERSISTENT_CACHE_MOJOM_TRAITS_H_
 

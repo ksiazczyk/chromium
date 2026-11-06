@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendType enum header
+// summary: Defines the BackendType enum for persistent cache backends, currently listing SQLite as the only supported implementation.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_BACKEND_TYPE_H_
 #define COMPONENTS_PERSISTENT_CACHE_BACKEND_TYPE_H_
 

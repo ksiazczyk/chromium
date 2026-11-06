@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito mode policy handler implementation
+// summary: Implements validation and application of the incognito mode availability, URL allowlist and blocklist policies into preference values.
+// ---
+
 #include "components/policy/core/browser/url_list/incognito_mode_policy_handler.h"
 
 #include "base/command_line.h"

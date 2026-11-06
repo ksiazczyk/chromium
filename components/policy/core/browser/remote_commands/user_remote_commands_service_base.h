@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserRemoteCommandsServiceBase class declaration
+// summary: Declares a KeyedService base class that owns and initializes a profile-scoped remote command service, with hooks for invalidation providers and command factories shared with iOS.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_SERVICE_BASE_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_SERVICE_BASE_H_
 

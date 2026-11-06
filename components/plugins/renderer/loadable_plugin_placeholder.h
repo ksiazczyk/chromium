@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loadable plugin placeholder class declaration
+// summary: Declares LoadablePluginPlaceholder, a placeholder for missing or blocked plugins that can later be loaded when the user allows it.
+// ---
+
 #ifndef COMPONENTS_PLUGINS_RENDERER_LOADABLE_PLUGIN_PLACEHOLDER_H_
 #define COMPONENTS_PLUGINS_RENDERER_LOADABLE_PLUGIN_PLACEHOLDER_H_
 

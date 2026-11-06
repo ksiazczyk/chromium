@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SQLite backend storage delegate
+// summary: Unit tests covering GetBaseName behavior and error handling of MakePendingBackend and MakeBackend for missing directories or invalid database paths.
+// ---
+
 #include "components/persistent_cache/sqlite/backend_storage_delegate.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android policy component GN build targets
+summary: Defines the Android policy component's build targets, including the policy Java library, generated JNI headers, test support library, and Robolectric JUnit tests.

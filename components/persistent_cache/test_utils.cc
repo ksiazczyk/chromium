@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent cache test utilities implementation
+// summary: Implements the Entry struct and FindEntry helpers that wrap cache lookups for use in persistent cache tests.
+// ---
+
 #include "components/persistent_cache/test_utils.h"
 
 #include <utility>

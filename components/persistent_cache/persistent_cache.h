@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentCache class header
+// summary: Declares the PersistentCache class for storing and retrieving key-value pairs across processes or threads, with usage examples and error recovery guidance.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_PERSISTENT_CACHE_H_
 #define COMPONENTS_PERSISTENT_CACHE_PERSISTENT_CACHE_H_
 

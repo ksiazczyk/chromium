@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache SQLite backend storage delegate implementation
+// summary: Implements BackendStorageDelegate, creating pending and bound SQLite cache backends, sharing read-only or read-write connections, and deleting SQLite files for a base name.
+// ---
+
 #include "components/persistent_cache/sqlite/backend_storage_delegate.h"
 
 #include <memory>

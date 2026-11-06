@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL blocklist policy handler header
+// summary: Declares URLBlocklistPolicyHandler, which validates URLBlocklist policy values against the documented filter format and applies them to preferences.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_URL_BLOCKLIST_POLICY_HANDLER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_URL_BLOCKLIST_POLICY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client enum for cache metrics
+// summary: Defines the Client enum identifying persistent cache users such as code and shader caches for metrics reporting.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_CLIENT_H_
 #define COMPONENTS_PERSISTENT_CACHE_CLIENT_H_
 
