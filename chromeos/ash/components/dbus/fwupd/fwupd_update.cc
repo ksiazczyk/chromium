@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdUpdate implementation
+// summary: Implements constructors for the FwupdUpdate struct holding version, description, priority, file path and checksum of a firmware update.
+// ---
+
 #include "chromeos/ash/components/dbus/fwupd/fwupd_update.h"
 
 #include "base/files/file_path.h"

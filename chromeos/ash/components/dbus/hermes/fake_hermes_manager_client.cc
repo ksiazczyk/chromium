@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Hermes manager client implementation
+// summary: Implements a fake HermesManagerClient that manages fake EUICC entries and can set up stubs via a command-line switch.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/fake_hermes_manager_client.h"
 
 #include "base/command_line.h"

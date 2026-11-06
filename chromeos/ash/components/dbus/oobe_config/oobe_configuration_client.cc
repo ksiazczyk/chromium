@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration DBus client implementation
+// summary: Implements the production OobeConfigurationClient that calls the OobeConfigRestore DBus service and parses restore data responses.
+// ---
+
 #include "chromeos/ash/components/dbus/oobe_config/oobe_configuration_client.h"
 
 #include <memory>

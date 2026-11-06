@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Hermes D-Bus client library
+summary: Defines GN targets for the Hermes component, grouping the D-Bus clients, fakes, and test support sources.

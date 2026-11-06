@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDBusService production and stub implementations
+// summary: Implements CrosDBusServiceImpl, which exports service providers and requests bus name ownership with replacement allowed, plus a no-op stub for Linux desktop builds.
+// ---
+
 #include "chromeos/ash/components/dbus/services/cros_dbus_service.h"
 
 #include <stddef.h>

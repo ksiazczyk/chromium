@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the patchpanel D-Bus client
+summary: GN build configuration defining the patchpanel component and its protobuf library for the ChromeOS PatchPanel D-Bus client.

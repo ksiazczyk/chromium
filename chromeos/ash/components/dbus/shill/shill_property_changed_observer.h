@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillPropertyChangedObserver interface
+// summary: Defines the base observer interface for handling PropertyChanged signals sent from the Shill network manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_PROPERTY_CHANGED_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_PROPERTY_CHANGED_OBSERVER_H_
 

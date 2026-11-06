@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TypecdClient class declaration
+// summary: Declares FakeTypecdClient, a test double that simulates typecd D-Bus signals for observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_TYPECD_FAKE_TYPECD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_TYPECD_FAKE_TYPECD_CLIENT_H_
 

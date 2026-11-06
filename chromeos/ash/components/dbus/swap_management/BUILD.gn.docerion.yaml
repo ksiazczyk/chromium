@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the swap_management component
+summary: Defines the GN build target for the swap_management DBus client component, listing its source files and dependencies.

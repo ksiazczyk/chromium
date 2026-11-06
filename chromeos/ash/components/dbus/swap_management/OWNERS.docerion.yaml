@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the swap_management directory
+summary: Lists bgeffon@chromium.org as the backup owner for code review approvals in the swap_management directory.

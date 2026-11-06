@@ -1,3 +1,13 @@
+---
+type: readme
+title: Shill D-Bus clients overview
+summary: Documents the Shill D-Bus clients, their singleton initialization and shutdown, the manager, device, IPConfig, profile and service clients, and their testing interfaces.
+relations:
+  - references /chrome/browser/ash/dbus/ash_dbus_helper.cc
+  - references /chrome/app/chrome_main_delegate.cc
+  - documents /chromeos/ash/components/dbus/shill/shill_manager_client.h
+---
+
 # Overview
 The Shill D-Bus clients are a critical component of the Chrome OS network stack
 that facilitate communication between applications and system components with

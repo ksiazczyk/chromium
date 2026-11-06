@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceProviderTestHelper implementation
+// summary: Implements mocking of the D-Bus bus, exported object, and object proxy so service provider unit tests can exercise exported methods and return signals.
+// ---
+
 #include "chromeos/ash/components/dbus/services/service_provider_test_helper.h"
 
 #include <utility>

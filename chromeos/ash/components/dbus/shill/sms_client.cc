@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS client implementation
+// summary: Implements the D-Bus client that monitors the ModemManager1 SMS service and fetches fully received SMS messages for observers.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/sms_client.h"
 
 #include <map>

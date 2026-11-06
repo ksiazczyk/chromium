@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Kerberos client implementation
+// summary: Implements an in-memory fake Kerberos D-Bus client with simulated accounts, ticket-granting tickets, config validation, and test recording hooks.
+// ---
+
 
 #include "chromeos/ash/components/dbus/kerberos/fake_kerberos_client.h"
 

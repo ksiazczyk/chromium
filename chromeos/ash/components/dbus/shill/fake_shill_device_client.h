@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill device client header
+// summary: Declares FakeShillDeviceClient, which implements ShillDeviceClient and its test interface for adding, removing and configuring stub devices.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_DEVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_DEVICE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeaturedClient implementation
+// summary: Implements the DBus client for the featured service, including seed fetching and watching for early-boot field trial files.
+// ---
+
 #include "chromeos/ash/components/dbus/featured/featured_client.h"
 
 #include <memory>

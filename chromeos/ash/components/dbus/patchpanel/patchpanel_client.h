@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PatchPanelClient interface header
+// summary: Declares the PatchPanelClient D-Bus wrapper interface with its Observer class, callbacks, and VPN routing policy enum for the patchpanel service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PATCHPANEL_PATCHPANEL_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PATCHPANEL_PATCHPANEL_CLIENT_H_
 

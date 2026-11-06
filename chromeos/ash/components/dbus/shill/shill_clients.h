@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill client initialization API
+// summary: Declares functions to initialize real or fake Shill and modemmanager D-Bus clients and to shut them down.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENTS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENTS_H_
 

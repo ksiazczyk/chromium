@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seneschal DBus client implementation
+// summary: Implements the DBus client for the Seneschal service, sending SharePath and UnsharePath requests and notifying observers when the service starts or stops.
+// ---
+
 #include "chromeos/ash/components/dbus/seneschal/seneschal_client.h"
 
 #include <memory>

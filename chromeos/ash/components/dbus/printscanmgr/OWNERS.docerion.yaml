@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the printscanmgr DBus client directory
+summary: Delegates ownership review of this directory to the ChromeOS printing OWNERS file.

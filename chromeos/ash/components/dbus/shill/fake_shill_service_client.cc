@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill service client implementation
+// summary: Implements a fake Shill service client mimicking shill behavior such as SSID and security class handling plus connect and disconnect flows.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_service_client.h"
 
 #include <algorithm>

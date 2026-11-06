@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes test utilities header
+// summary: Declares a GMock matcher for D-Bus method names and the CopyHermesStatus helper used in Hermes client tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_TEST_UTILS_H_
 

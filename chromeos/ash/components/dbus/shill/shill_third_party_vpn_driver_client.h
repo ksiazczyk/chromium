@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill third-party VPN driver client interface
+// summary: Declares the client used to communicate with the Shill ThirdPartyVpnDriver service, including observer registration and D-Bus method calls.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_THIRD_PARTY_VPN_DRIVER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_THIRD_PARTY_VPN_DRIVER_CLIENT_H_
 

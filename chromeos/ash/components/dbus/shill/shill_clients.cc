@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill and modem D-Bus client initialization
+// summary: Initializes, fake-initializes, and shuts down all Shill and modemmanager D-Bus clients, setting up a default environment when fakes are used.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_clients.h"
 
 #include "chromeos/ash/components/dbus/shill/modem_3gpp_client.h"

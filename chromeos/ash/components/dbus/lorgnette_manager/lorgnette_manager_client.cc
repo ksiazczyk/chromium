@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LorgnetteManagerClient production implementation
+// summary: Implements the D-Bus client that communicates with the lorgnette document scanning daemon, including scanner discovery, timeouts, and scan data reading.
+// ---
+
 #include "chromeos/ash/components/dbus/lorgnette_manager/lorgnette_manager_client.h"
 
 #include <memory>

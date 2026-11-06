@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Seneschal BUILD.gn build configuration
+summary: Defines the GN build targets for the Seneschal DBus client component and its protobuf library, restricted to ChromeOS builds.

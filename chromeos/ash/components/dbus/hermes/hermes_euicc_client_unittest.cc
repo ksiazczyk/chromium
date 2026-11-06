@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes eUICC client unit tests
+// summary: Unit tests for HermesEuiccClient verifying D-Bus calls such as profile installation, pending profile refresh, and memory reset.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_euicc_client.h"
 
 #include <deque>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Hermes profile client implementation
+// summary: Implements a fake HermesProfileClient that simulates carrier profile enable and disable behavior for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/fake_hermes_profile_client.h"
 
 #include <optional>

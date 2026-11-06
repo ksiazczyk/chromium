@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbProviderClient interface header
+// summary: Declares the SmbProviderClient interface used to communicate with the SMB provider D-Bus service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SMBPROVIDER_SMB_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SMBPROVIDER_SMB_PROVIDER_CLIENT_H_
 

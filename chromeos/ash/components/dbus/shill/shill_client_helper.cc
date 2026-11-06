@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillClientHelper implementation
+// summary: Implements shared helpers for Shill D-Bus clients, including callback response handling, reference holding and property change monitoring.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_client_helper.h"
 
 #include <stddef.h>

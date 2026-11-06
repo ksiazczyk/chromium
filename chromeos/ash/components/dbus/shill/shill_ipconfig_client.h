@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill IPConfig client interface
+// summary: Defines the ShillIPConfigClient interface for communicating with the Shill IPConfig service, including initialization, shutdown, and property methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_IPCONFIG_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_IPCONFIG_CLIENT_H_
 

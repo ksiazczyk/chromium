@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for OOBE configuration DBus metrics
+// summary: Declares the DeleteFlexOobeConfigDBusResult enum and functions for recording and converting DBus call outcomes to UMA metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_OOBE_CONFIGURATION_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_OOBE_CONFIGURATION_METRICS_H_
 

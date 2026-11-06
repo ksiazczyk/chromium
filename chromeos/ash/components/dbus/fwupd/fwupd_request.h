@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdRequest struct header
+// summary: Defines the FwupdRequest struct holding request id and kind values that correspond to enums from the upstream fwupd project.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_REQUEST_H_
 

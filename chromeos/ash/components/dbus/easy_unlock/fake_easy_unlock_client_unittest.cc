@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake EasyUnlockClient unit tests
+// summary: Unit tests verifying the fake client's key generation, key pair validation, symmetric ECDH key agreement, and secure message wrapping and unwrapping behavior.
+// ---
+
 #include "chromeos/ash/components/dbus/easy_unlock/fake_easy_unlock_client.h"
 
 #include <string>

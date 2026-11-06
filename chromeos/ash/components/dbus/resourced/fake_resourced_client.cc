@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake resourced D-Bus client implementation
+// summary: In-memory fake of ResourcedClient that records game mode, process and thread state calls and lets tests control responses and delays.
+// ---
+
 #include "chromeos/ash/components/dbus/resourced/fake_resourced_client.h"
 
 #include <utility>

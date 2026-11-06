@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdPropertiesFake header
+// summary: Declares a test-friendly FwupdProperties implementation whose values can be set manually without relying on a DBus object proxy.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_FAKE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_FAKE_H_
 

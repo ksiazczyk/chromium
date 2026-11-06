@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdDbusProperties header
+// summary: Declares a dbus::PropertySet wrapper exposing FWUPD percentage and status properties that update on property-changed signals.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_DBUS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_DBUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the fake SystemProxy D-Bus client
+// summary: Declares the FakeSystemProxyClient class with its SystemProxyClient and TestInterface overrides used to fake the D-Bus service in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_PROXY_FAKE_SYSTEM_PROXY_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_PROXY_FAKE_SYSTEM_PROXY_CLIENT_H_
 

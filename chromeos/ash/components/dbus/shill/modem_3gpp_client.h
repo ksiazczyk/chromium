@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modem3gppClient class declaration
+// summary: Declares Modem3gppClient and the CarrierLockResult enum for communicating with the org.freedesktop.ModemManager1.Modem.Modem3gpp service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_MODEM_3GPP_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_MODEM_3GPP_CLIENT_H_
 

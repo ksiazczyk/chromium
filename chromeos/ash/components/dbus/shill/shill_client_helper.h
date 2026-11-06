@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillClientHelper class declaration
+// summary: Declares ShillClientHelper, a helper class for implementing Shill D-Bus clients with method call wrappers and property change observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENT_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENT_HELPER_H_
 

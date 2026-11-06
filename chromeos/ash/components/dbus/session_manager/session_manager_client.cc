@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session manager D-Bus client implementation
+// summary: Implements the real D-Bus client for the Chrome OS session manager, covering policy retrieval, login screen storage, ARC container control and session lifecycle calls.
+// ---
+
 #include "chromeos/ash/components/dbus/session_manager/session_manager_client.h"
 
 #include <stddef.h>

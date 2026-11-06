@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypecdClient D-Bus client implementation
+// summary: Implements the D-Bus client that connects to the TypeCDaemon service and forwards its signals to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/typecd/typecd_client.h"
 
 #include "base/functional/callback_helpers.h"

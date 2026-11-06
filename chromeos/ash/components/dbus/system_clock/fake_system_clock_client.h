@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SystemClockClient class declaration
+// summary: Declares the fake SystemClockClient used in tests, exposing the test interface for controlling clock state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_FAKE_SYSTEM_CLOCK_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_FAKE_SYSTEM_CLOCK_CLIENT_H_
 

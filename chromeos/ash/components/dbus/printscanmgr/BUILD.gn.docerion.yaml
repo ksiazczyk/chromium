@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: printscanmgr DBus client BUILD.gn
+summary: GN build file defining the printscanmgr client component, its protobuf dependency, and the unit test source set.

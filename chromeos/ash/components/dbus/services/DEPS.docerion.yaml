@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the services directory
+summary: Restricts includes in this directory to base, dbus, testing, and third_party/cros_system_api, with parent rules not applied.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ash smbprovider D-Bus client
+summary: Defines the smbprovider component build target and its protobuf library for the ChromeOS Ash D-Bus client.

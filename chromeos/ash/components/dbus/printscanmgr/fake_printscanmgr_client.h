@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake printscanmgr client header
+// summary: Declares FakePrintscanmgrClient, a test fake that stores printer names and PPD contents in a map for testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PRINTSCANMGR_FAKE_PRINTSCANMGR_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PRINTSCANMGR_FAKE_PRINTSCANMGR_CLIENT_H_
 

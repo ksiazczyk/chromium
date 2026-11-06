@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the human presence DBus client
+summary: Defines the GN build targets for the human_presence component and the hps protobuf library it depends on.

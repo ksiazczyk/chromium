@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageBurnerClient D-Bus client implementation
+// summary: Implements the D-Bus client for the image burner service, sending BurnImage requests and dispatching burn finished and progress update signals.
+// ---
+
 #include "chromeos/ash/components/dbus/image_burner/image_burner_client.h"
 
 #include <stdint.h>

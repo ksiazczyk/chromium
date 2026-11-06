@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ash oobe_config DBus component
+summary: Defines the oobe_config component, its unit test source set, and the proto library target for the OOBE configuration DBus client.

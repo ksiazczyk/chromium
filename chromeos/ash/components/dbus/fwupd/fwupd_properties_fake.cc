@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdPropertiesFake implementation
+// summary: Implements a fake FwupdProperties that stores percentage and status in memory so tests can run without a DBus object proxy.
+// ---
+
 #include "chromeos/ash/components/dbus/fwupd/fwupd_properties_fake.h"
 #include "chromeos/ash/components/dbus/fwupd/fwupd_properties.h"
 

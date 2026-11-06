@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake human presence DBus client implementation
+// summary: Implements a fake HumanPresenceDBusClient that returns configurable results, counts calls, and simulates service restart and shutdown for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/human_presence/fake_human_presence_dbus_client.h"
 
 #include <optional>

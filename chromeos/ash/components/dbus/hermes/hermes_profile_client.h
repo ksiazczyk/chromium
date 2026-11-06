@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes profile client interface
+// summary: Declares the HermesProfileClient interface for talking to Hermes profile objects, with profile properties, observers, and test hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_PROFILE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_PROFILE_CLIENT_H_
 

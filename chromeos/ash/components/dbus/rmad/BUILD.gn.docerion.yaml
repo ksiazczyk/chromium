@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the rmad DBus client
+summary: Defines the rmad component, test_support source set, and rmad_proto proto library targets for building the ChromeOS rmad DBus client.

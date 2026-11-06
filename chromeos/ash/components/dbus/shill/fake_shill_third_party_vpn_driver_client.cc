@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake third-party VPN driver client implementation
+// summary: Implements a fake Shill third-party VPN driver client whose D-Bus methods are no-ops and whose test interface dispatches fake signals to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_third_party_vpn_driver_client.h"
 
 #include <stdint.h>

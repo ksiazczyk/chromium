@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShillProfileClient unit tests
+// summary: Unit tests for the Shill profile client, covering property change notifications, property retrieval, and entry handling on a mock D-Bus bus.
+// ---
+
 #include <memory>
 #include <utility>
 

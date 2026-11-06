@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake PatchPanelClient implementation for tests
+// summary: Implements the FakePatchPanelClient stub that records notification counts, manages observers, and fakes PatchPanel D-Bus calls for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/patchpanel/fake_patchpanel_client.h"
 
 #include <utility>

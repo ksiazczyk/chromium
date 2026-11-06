@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FeaturedClient class declaration
+// summary: Declares the fake FeaturedClient used in tests, exposing queued responses, call counts, and the latest safe seed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FEATURED_FAKE_FEATURED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FEATURED_FAKE_FEATURED_CLIENT_H_
 

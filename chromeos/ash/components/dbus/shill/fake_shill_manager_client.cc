@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill manager client implementation
+// summary: Implements a fake Shill manager client that simulates technologies, services, scanning, and state sorting for tests without a real D-Bus daemon.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_manager_client.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS install D-Bus client interface
+// summary: Defines the OsInstallClient interface, status enum, and observer API used to install the OS from a USB device and monitor installation status changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_OS_INSTALL_OS_INSTALL_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_OS_INSTALL_OS_INSTALL_CLIENT_H_
 

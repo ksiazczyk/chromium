@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes response status mapping
+// summary: Maps D-Bus error names to HermesResponseStatus values and provides stream output for logging the status codes.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_response_status.h"
 #include "dbus/message.h"
 

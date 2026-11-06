@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemClockSyncObservation class declaration
+// summary: Declares a helper that waits for system clock synchronization and reports the outcome via a callback with a timeout.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_SYSTEM_CLOCK_SYNC_OBSERVATION_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_SYSTEM_CLOCK_SYNC_OBSERVATION_H_
 

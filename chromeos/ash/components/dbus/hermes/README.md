@@ -1,3 +1,13 @@
+---
+type: readme
+title: Hermes' D-Bus Client Library
+summary: Documents the Hermes D-Bus clients (Manager, EUICC, Profile), their initialization, shutdown, constants, and testing interfaces.
+relations:
+  - references /chromeos/ash/components/dbus/hermes/hermes_response_status.h
+  - references /chromeos/ash/components/dbus/hermes/constants.h
+  - documents /chromeos/ash/components/dbus/hermes/hermes_manager_client.h
+---
+
 # Hermes' D-Bus Client Library
 
 Hermes' D-Bus client library allows Chrome to make API calls to

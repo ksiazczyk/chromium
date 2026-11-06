@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes profile client implementation
+// summary: Implements the D-Bus client for Hermes eSIM carrier profiles, including dbus::Property specializations and enable, disable, and rename operations.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_profile_client.h"
 
 #include "ash/constants/ash_features.h"

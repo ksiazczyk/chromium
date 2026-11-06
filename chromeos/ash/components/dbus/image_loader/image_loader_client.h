@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoaderClient interface for the ImageLoader service
+// summary: Declares the ImageLoaderClient interface used to register, load, query, remove and unmount Chrome OS component updates via the ImageLoader service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_LOADER_IMAGE_LOADER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_LOADER_IMAGE_LOADER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LorgnetteManagerClient interface declaration
+// summary: Declares the abstract D-Bus client interface for listing scanners, querying capabilities, opening scanners, and running scans via the lorgnette daemon.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_LORGNETTE_MANAGER_LORGNETTE_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_LORGNETTE_MANAGER_LORGNETTE_MANAGER_CLIENT_H_
 

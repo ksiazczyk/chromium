@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Session manager component GN build file
+summary: Defines the session_manager component, its dependencies, the login_manager proto library and the unit test target for the Chrome OS session manager D-Bus client.

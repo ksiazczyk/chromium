@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the resourced D-Bus client
+summary: Defines the resourced component target and the resourced_proto protobuf library for the ChromeOS Ash resource manager D-Bus client.

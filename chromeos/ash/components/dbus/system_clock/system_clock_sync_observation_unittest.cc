@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemClockSyncObservation unit tests
+// summary: Unit tests for SystemClockSyncObservation covering sync success, timeout, cancellation on deletion, and repeated notifications.
+// ---
+
 #include "chromeos/ash/components/dbus/system_clock/system_clock_sync_observation.h"
 
 #include "base/run_loop.h"

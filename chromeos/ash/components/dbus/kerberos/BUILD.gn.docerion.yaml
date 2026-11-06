@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kerberos DBus client build configuration
+summary: GN build file defining the kerberos component with its sources and the kerberos_proto protobuf library for the ChromeOS kerberos D-Bus client.

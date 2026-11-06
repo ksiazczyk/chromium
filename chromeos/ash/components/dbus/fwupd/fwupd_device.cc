@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdDevice implementation
+// summary: Implements constructors, assignment and destructor for the FwupdDevice struct that holds firmware update device data received from fwupd.
+// ---
+
 #include "chromeos/ash/components/dbus/fwupd/fwupd_device.h"
 
 namespace ash {

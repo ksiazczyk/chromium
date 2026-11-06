@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos D-Bus client interface
+// summary: Declares the KerberosClient interface for the org.chromium.Kerberos D-Bus service with callbacks, signal subscriptions, and a testing interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_KERBEROS_KERBEROS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_KERBEROS_KERBEROS_CLIENT_H_
 

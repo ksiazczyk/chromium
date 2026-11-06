@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS install D-Bus client implementation
+// summary: Implements the real OsInstallClient that talks to the org.chromium.OsInstallService over D-Bus, starts installs, parses status signals, and notifies observers.
+// ---
+
 #include "chromeos/ash/components/dbus/os_install/os_install_client.h"
 
 #include <optional>

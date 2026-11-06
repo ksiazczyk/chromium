@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the featured DBus client
+summary: Defines the featured component, its proto library, and the unit test target for the featured DBus client.

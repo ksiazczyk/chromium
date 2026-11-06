@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HermesProfileClient declaration
+// summary: Declares a fake HermesProfileClient implementation with a test interface for simulating carrier profile enable, disable, and rename operations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_FAKE_HERMES_PROFILE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_FAKE_HERMES_PROFILE_CLIENT_H_
 

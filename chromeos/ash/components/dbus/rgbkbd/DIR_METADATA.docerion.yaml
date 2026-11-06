@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: rgbkbd directory metadata
+summary: Maps the rgbkbd directory to the ChromeOS keyboard peripherals team and Buganizer component 1131926.

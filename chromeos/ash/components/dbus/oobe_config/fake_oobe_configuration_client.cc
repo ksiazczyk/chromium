@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake OOBE configuration client implementation
+// summary: Implements a fake OobeConfigurationClient that serves configuration from a command-line flag and removes the Flex enrollment token on delete.
+// ---
+
 #include "chromeos/ash/components/dbus/oobe_config/fake_oobe_configuration_client.h"
 
 #include <optional>

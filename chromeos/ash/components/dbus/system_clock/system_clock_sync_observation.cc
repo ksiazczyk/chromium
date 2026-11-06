@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemClockSyncObservation implementation
+// summary: Implements waiting for the system clock to synchronize, invoking a callback on success, unavailability, or timeout.
+// ---
+
 #include "chromeos/ash/components/dbus/system_clock/system_clock_sync_observation.h"
 
 #include "base/functional/bind.h"

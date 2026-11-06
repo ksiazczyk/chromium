@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill device client implementation
+// summary: Implements the D-Bus client for the Shill Device service, covering property access, PIN handling, and per-device helper management.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_device_client.h"
 
 #include <map>

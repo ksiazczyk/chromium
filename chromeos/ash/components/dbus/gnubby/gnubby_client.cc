@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnubbyClient D-Bus client implementation
+// summary: Implements the GnubbyClient singleton, connecting to the U2F D-Bus service and forwarding its user notification signal to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/gnubby/gnubby_client.h"
 
 #include "base/logging.h"

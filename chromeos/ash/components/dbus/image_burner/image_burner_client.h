@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageBurnerClient interface declaration
+// summary: Declares the ImageBurnerClient interface for communicating with the image burner, including burn callbacks, event handlers, and instance lifecycle methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_BURNER_IMAGE_BURNER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_BURNER_IMAGE_BURNER_CLIENT_H_
 

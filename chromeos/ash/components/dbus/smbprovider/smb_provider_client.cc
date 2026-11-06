@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbProviderClient D-Bus client implementation
+// summary: Implements the client that calls the org.chromium.SmbProvider D-Bus service for shares, Kerberos, and NetBios parsing.
+// ---
+
 #include "chromeos/ash/components/dbus/smbprovider/smb_provider_client.h"
 
 #include <memory>

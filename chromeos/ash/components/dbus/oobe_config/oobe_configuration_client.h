@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration DBus client header
+// summary: Declares the OobeConfigurationClient interface for fetching verified OOBE configuration used to automate the out-of-box experience.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_OOBE_CONFIGURATION_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_OOBE_CONFIGURATION_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill IPConfig client header
+// summary: Declares FakeShillIPConfigClient, an in-memory fake of the Shill IPConfig D-Bus client exposing a test interface for adding IP configs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_IPCONFIG_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_IPCONFIG_CLIENT_H_
 

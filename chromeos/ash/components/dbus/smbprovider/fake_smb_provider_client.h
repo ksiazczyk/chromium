@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SmbProviderClient header
+// summary: Declares the fake SmbProviderClient with helpers to configure shares, errors, and NetBios parse results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SMBPROVIDER_FAKE_SMB_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SMBPROVIDER_FAKE_SMB_PROVIDER_CLIENT_H_
 

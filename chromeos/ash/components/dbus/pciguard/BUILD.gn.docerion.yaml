@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the pciguard component
+summary: GN build file defining the pciguard component with its sources and dependencies on base and dbus for ChromeOS builds.

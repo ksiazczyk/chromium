@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Human presence DBus client implementation
+// summary: Implements the D-Bus client for the Chrome OS human presence daemon, unwraps protobuf responses, and forwards sense, notify, and restart signals to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/human_presence/human_presence_dbus_client.h"
 
 #include <memory>

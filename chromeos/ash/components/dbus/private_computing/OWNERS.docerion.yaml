@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Private computing OWNERS
+summary: Lists the code owners responsible for the private_computing D-Bus client directory.

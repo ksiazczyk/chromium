@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes timeout constants header
+// summary: Declares shared D-Bus timeout constants used consistently by the Hermes D-Bus clients.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_CONSTANTS_H_
 

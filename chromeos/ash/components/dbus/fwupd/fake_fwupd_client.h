@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake fwupd client header
+// summary: Declares FakeFwupdClient with test hooks for deferring install callbacks and simulating update scenarios.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FAKE_FWUPD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FAKE_FWUPD_CLIENT_H_
 

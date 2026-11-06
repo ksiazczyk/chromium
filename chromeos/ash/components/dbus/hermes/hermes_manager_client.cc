@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes manager D-Bus client implementation
+// summary: Implements the D-Bus client for the Hermes Manager object, tracking available eUICCs and notifying observers when the list changes.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_manager_client.h"
 
 #include <memory>

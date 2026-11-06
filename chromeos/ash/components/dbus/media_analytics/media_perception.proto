@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Media perception protobuf definitions
+// summary: Defines the protobuf messages exchanged with the media analytics process, covering perception results, state, diagnostics and configuration.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

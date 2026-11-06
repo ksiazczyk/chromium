@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake resourced D-Bus client header
+// summary: Declares FakeResourcedClient, a test double for ResourcedClient with accessors for call history, counts and configurable results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RESOURCED_FAKE_RESOURCED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RESOURCED_FAKE_RESOURCED_CLIENT_H_
 

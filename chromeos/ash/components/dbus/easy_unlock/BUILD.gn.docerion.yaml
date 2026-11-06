@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Easy Unlock D-Bus client build configuration
+summary: GN build file defining the ash_easy_unlock component with the EasyUnlock client sources and a unit_tests source set for the fake client tests.

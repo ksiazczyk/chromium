@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard DBus client header
+// summary: Declares the RgbkbdClient interface for DBus calls to the RGB keyboard service, including lifecycle management and observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RGBKBD_RGBKBD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RGBKBD_RGBKBD_CLIENT_H_
 

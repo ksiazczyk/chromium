@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TypecdClient implementation
+// summary: Implements a fake TypecdClient that emits simulated D-Bus signals to observers for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/typecd/fake_typecd_client.h"
 #include "third_party/cros_system_api/dbus/typecd/dbus-constants.h"
 

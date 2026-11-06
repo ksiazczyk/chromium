@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill IPConfig client implementation
+// summary: Implements the D-Bus client for the Shill IPConfig service, managing property get, set, clear, and remove calls through per-path helpers.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_ipconfig_client.h"
 
 #include <map>

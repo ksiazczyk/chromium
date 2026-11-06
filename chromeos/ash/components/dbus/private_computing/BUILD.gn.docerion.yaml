@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Private computing BUILD.gn
+summary: GN build file defining the private_computing component and its protobuf library target for the Chrome OS D-Bus client.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the resourced directory
+summary: Delegates review ownership of the resourced directory to the OWNERS file in chromeos/ash/components/memory.

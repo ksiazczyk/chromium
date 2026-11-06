@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake implementation of the SystemProxy D-Bus client
+// summary: Implements FakeSystemProxyClient, which records method call counts, stores the last request, and simulates worker signals for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/system_proxy/fake_system_proxy_client.h"
 
 #include "base/functional/bind.h"

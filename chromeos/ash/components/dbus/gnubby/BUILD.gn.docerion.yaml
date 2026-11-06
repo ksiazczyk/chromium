@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the gnubby D-Bus client
+summary: Defines the ash_gnubby component and a test-only source set that builds the gnubby D-Bus client sources and its unit test.

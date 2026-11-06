@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: hammerd DBus client implementation
+// summary: Implements HammerdClientImpl, which connects to the hammerd service's DBus signals for base firmware updates and pairing and forwards them to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/hammerd/hammerd_client.h"
 
 #include <string>

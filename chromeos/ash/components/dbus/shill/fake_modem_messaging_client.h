@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake modem messaging client header
+// summary: Declares FakeModemMessagingClient with a test interface to simulate SMS reception and complete pending delete requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_MODEM_MESSAGING_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_MODEM_MESSAGING_CLIENT_H_
 

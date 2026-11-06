@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapManagementClient production implementation
+// summary: Implements the production SwapManagementClient that communicates with the swap_management DBus service, including the MGLRUSetEnable method call and lifecycle management.
+// ---
+
 #include "chromeos/ash/components/dbus/swap_management/swap_management_client.h"
 
 #include "base/memory/raw_ptr.h"

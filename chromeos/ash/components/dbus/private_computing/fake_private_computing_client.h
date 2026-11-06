@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake private computing client header
+// summary: Declares FakePrivateComputingClient, a test double of PrivateComputingClient with a test interface for setting canned D-Bus responses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PRIVATE_COMPUTING_FAKE_PRIVATE_COMPUTING_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PRIVATE_COMPUTING_FAKE_PRIVATE_COMPUTING_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime probe D-Bus client implementation
+// summary: Implements RuntimeProbeClient, sending ProbeCategories requests to the runtime probe D-Bus service and parsing protobuf responses.
+// ---
+
 #include "chromeos/ash/components/dbus/runtime_probe/runtime_probe_client.h"
 
 #include <string>

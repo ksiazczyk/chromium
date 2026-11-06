@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seneschal DBus client interface
+// summary: Declares SeneschalClient, the interface for communicating with the Seneschal service that manages 9p file servers, including observers and lifecycle management.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SENESCHAL_SENESCHAL_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SENESCHAL_SENESCHAL_CLIENT_H_
 

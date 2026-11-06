@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resourced D-Bus client implementation
+// summary: Implements ResourcedClient, sending D-Bus requests to the ResourceManager service and forwarding memory pressure signals to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/resourced/resourced_client.h"
 
 #include "base/byte_size.h"

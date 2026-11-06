@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: PatchPanelClient D-Bus implementation
+// summary: Implements the real PatchPanelClient that talks to the ChromeOS PatchPanel daemon over D-Bus using protobuf-encoded requests and signals.
+// ---
+
 #include "chromeos/ash/components/dbus/patchpanel/patchpanel_client.h"
 
 #include <utility>

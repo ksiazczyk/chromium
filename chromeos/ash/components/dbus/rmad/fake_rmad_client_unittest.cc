@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake RmadClient
+// summary: Tests FakeRmadClient behavior, covering fake state transitions, log handling, and observer notifications.
+// ---
+
 #include "chromeos/ash/components/dbus/rmad/fake_rmad_client.h"
 
 #include <memory>

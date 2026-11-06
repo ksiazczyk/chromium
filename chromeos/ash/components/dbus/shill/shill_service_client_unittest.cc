@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShillServiceClient unit tests
+// summary: Unit tests for the Shill service client, verifying property change signals, property retrieval and setting, and other service method calls.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_service_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private computing client implementation
+// summary: Implements the real PrivateComputingClient that sends SaveLastPingDatesStatus and GetLastPingDatesStatus D-Bus calls to the Chrome OS Private Computing daemon.
+// ---
+
 #include "chromeos/ash/components/dbus/private_computing/private_computing_client.h"
 
 #include <utility>

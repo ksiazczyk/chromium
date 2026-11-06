@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake private computing client implementation
+// summary: Fake PrivateComputingClient implementation that returns configurable canned responses for use in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/private_computing/fake_private_computing_client.h"
 
 #include <string>

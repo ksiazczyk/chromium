@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the rgbkbd component
+summary: Defines the rgbkbd GN component target, listing the client and fake client sources together with their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeaturedClient
+// summary: Tests FeaturedClient initialization, shutdown, seed fetching, and trial filename parsing using mock DBus objects.
+// ---
+
 #include "chromeos/ash/components/dbus/featured/featured_client.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the SystemProxy D-Bus client
+// summary: Declares the SystemProxyClient class, its callbacks, test interface, and lifecycle methods for communicating with the org.chromium.SystemProxy service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_PROXY_SYSTEM_PROXY_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_PROXY_SYSTEM_PROXY_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GnubbyClient header
+// summary: Declares FakeGnubbyClient, a fake GnubbyClient implementation for tests that counts calls and manages an observer list.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_GNUBBY_FAKE_GNUBBY_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_GNUBBY_FAKE_GNUBBY_CLIENT_H_
 

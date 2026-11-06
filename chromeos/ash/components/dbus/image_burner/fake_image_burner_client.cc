@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ImageBurnerClient implementation
+// summary: No-op fake implementation of ImageBurnerClient whose methods do nothing, used in place of the real D-Bus client during testing.
+// ---
+
 #include "chromeos/ash/components/dbus/image_burner/fake_image_burner_client.h"
 
 #include <utility>
