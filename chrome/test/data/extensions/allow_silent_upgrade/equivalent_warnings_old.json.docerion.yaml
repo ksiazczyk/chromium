@@ -1,0 +1,4 @@
+# Docerion header of equivalent_warnings_old.json.
+type: test
+title: Silent upgrade fixture equivalent warnings old
+summary: Old-version manifest v3 with only the tabs permission for a silent upgrade test case.

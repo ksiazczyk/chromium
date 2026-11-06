@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test runner for accessibilityFeatures permission checks
+// summary: Runs Chrome extension API tests verifying that the extension cannot get feature states without read permission but can call the set methods for accessibility features.
+// ---
+
 /**
  * Tests that the extension is not able to get feature state.
  * @param {string} feature The feature to query.

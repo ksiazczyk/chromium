@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Alarm incognito split test extension manifest
+summary: Manifest for the test extension granting the alarms permission, registering background.js as a service worker, and setting incognito mode to spanning.

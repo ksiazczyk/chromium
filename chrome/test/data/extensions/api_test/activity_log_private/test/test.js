@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity Log API test cases
+// summary: Defines test cases that trigger extension API calls via a friend extension and specify the expected activity log entries.
+// ---
+
 // The extension ID for the .../activity_log_private/friend extension, which
 // this extension communicates with.  This should correspond to the public key
 // defined in .../activity_log_private/friend/manifest.json.

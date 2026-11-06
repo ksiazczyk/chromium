@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Alarm count test extension manifest
+summary: Manifest for the alarm count test extension, declaring a service worker background script and the alarms permission.

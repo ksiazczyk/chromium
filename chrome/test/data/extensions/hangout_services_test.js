@@ -6,6 +6,12 @@
 // Hangout Services extension, and a JavaScript-based end-to-end test
 // of the extension.
 
+// ---docerion
+// type: test
+// title: Hangout Services extension test script
+// summary: JavaScript that invokes APIs used by Hangouts via the Hangout Services extension and runs an end-to-end test suite for it.
+// ---
+
 // ID of the Hangout Services component extension.
 const EXTENSION_ID = 'nkeimhogjdpnpccoofpliimaahmaaome';
 

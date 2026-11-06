@@ -1,0 +1,4 @@
+# Docerion header of platformapp1_old.json.
+type: test
+title: Old platform app manifest for silent upgrade test
+summary: Old-version manifest of a platform app fixture used to test silent extension upgrades where host permissions increase.

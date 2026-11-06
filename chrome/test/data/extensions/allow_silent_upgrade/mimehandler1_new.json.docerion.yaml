@@ -1,0 +1,4 @@
+# Docerion header of mimehandler1_new.json.
+type: test
+title: MIME handler PDF upgrade manifest (new)
+summary: New-version manifest adding an application/pdf MIME type handler pointing to viewer.html for a silent upgrade test.

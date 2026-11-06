@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_style.html.
+type: test
+title: Test file with style
+summary: HTML test page with four divs, inline styles and a linked stylesheet for style-related extension tests.

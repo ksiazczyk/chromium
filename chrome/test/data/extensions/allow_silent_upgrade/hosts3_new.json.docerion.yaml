@@ -1,0 +1,4 @@
+# Docerion header of hosts3_new.json.
+type: test
+title: hosts3_new.json test manifest
+summary: New-version extension manifest fixture holding a single host permission for silent upgrade permission tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alarm persistence test background script
+// summary: Phased background script for the alarms API persistence test that creates persistent and session alarms and verifies their survival after extension reloads and browser restarts.
+// ---
+
 chrome.test.getConfig((config) => {
   const phase = config.customArg;
 

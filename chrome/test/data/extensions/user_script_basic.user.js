@@ -10,4 +10,10 @@
 // @exclude_match http://www.google.com/foo*
 // ==/UserScript==
 
+// ---docerion
+// type: test
+// title: Basic user script fixture
+// summary: Sample user script with metadata headers for include, match, and exclude patterns that shows an alert when run.
+// ---
+
 alert('Hello! This is my script.');

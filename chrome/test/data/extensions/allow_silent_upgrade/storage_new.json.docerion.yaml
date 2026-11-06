@@ -1,0 +1,4 @@
+# Docerion header of storage_new.json.
+type: test
+title: Storage permission upgrade manifest (new)
+summary: New-version manifest granting the unlimitedStorage permission to test whether the added permission permits a silent extension upgrade.

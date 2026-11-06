@@ -4,6 +4,12 @@
 
 // This test closes the existing background page opened by a.html.
 
+// ---docerion
+// type: test
+// title: Test logic for closing the app background page
+// summary: Drives the test by opening a close.html page from the app, fails if a bg.html popup appears, and notifies pass once the background page closes.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/common';
 

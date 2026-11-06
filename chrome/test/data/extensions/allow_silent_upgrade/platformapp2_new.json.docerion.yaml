@@ -1,0 +1,4 @@
+# Docerion header of platformapp2_new.json.
+type: test
+title: Platform app new manifest with added fileSystem permissions
+summary: New-version manifest fixture adding fileSystem API permissions on top of a host permission for silent upgrade testing.

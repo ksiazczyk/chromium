@@ -1,0 +1,4 @@
+# Docerion header of good.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for good.crx
+summary: Mock HTTP response headers served when good.crx is requested during extension tests.

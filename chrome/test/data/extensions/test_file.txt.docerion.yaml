@@ -1,0 +1,4 @@
+# Docerion header of test_file.txt.
+type: test
+title: Hello text test file
+summary: Plain text fixture containing only the word Hello for extension tests.

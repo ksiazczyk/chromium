@@ -1,0 +1,4 @@
+# Docerion header of hosts6_new.json.
+type: test
+title: Silent upgrade test manifest with HTTPS Australia content-script match
+summary: New-version extension manifest adding an HTTPS example.com.au content-script match to the HTTP example.com and example.co.uk matches.

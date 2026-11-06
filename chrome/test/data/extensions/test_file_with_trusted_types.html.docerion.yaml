@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_trusted_types.html.
+type: test
+title: Test page with a trusted types CSP
+summary: Empty test page whose head defines a restrictive Content-Security-Policy require-trusted-types-for 'script' directive.

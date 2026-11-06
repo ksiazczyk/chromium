@@ -1,0 +1,4 @@
+# Docerion header of bg_open_bg.html.
+type: test
+title: Hosted app background page that opens a popup window
+summary: Background contents of the hosted app that opens popup.html on load so the extension background page can detect it and pass the test.

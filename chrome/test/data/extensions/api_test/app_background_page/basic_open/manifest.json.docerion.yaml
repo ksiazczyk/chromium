@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension manifest for the app_background_page basic_open test
+summary: Manifest for a Chrome extension API test that declares a background page, tab permissions and a content script to verify web-extent background pages can be opened.

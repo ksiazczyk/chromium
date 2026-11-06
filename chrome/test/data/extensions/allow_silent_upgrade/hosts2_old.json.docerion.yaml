@@ -1,0 +1,4 @@
+# Docerion header of hosts2_old.json.
+type: test
+title: hosts2_old.json test manifest
+summary: Old-version extension manifest fixture paired with hosts2_new to exercise permission changes during silent upgrades.

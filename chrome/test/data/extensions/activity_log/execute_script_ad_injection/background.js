@@ -9,6 +9,12 @@
 // If this test grows, it could use the same setup as that test, but there's no
 // need for that at the time.
 
+// ---docerion
+// type: test
+// title: Background script injecting an ad via tabs.executeScript
+// summary: Background script of a test extension that injects an ad iframe via chrome.tabs.executeScript on tab updates, to verify the activity log detects this injection method.
+// ---
+
 let didInject = false;
 const code =
     'document.body.appendChild(document.createElement(\'iframe\')).src = ' +

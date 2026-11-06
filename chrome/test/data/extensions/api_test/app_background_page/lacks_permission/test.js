@@ -5,6 +5,12 @@
 // This test uses the same code path as the has_permission case, but only tests
 // that a visible window was created that contains the bg.html page.
 
+// ---docerion
+// type: test
+// title: Test logic for opening a background page without permission
+// summary: Verifies that opening a web-extent background page without permission creates a visible popup window instead of a background page and reports pass or fail.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/common';
 

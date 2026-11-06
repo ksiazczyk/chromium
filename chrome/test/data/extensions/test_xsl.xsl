@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: XSL stylesheet for the book catalog
+summary: XSL stylesheet that transforms the book catalog into an HTML table and runs an asynchronous script in the page head.
+-->
+
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:template match="/">

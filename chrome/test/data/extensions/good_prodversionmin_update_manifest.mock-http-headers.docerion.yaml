@@ -1,0 +1,4 @@
+# Docerion header of good_prodversionmin_update_manifest.mock-http-headers.
+type: test
+title: Mock HTTP headers for good_prodversionmin_update_manifest
+summary: Serves a 200 OK response with an XML content type for requests to the prodversionmin update manifest during extension tests.

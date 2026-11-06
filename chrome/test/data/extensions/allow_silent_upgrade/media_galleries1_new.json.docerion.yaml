@@ -1,0 +1,4 @@
+# Docerion header of media_galleries1_new.json.
+type: test
+title: media_galleries1_new silent upgrade manifest
+summary: New-version manifest fixture granting read and allAutoDetected mediaGalleries permissions for a Chrome extension silent upgrade test.

@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_csp.html.
+type: test
+title: Test file with restrictive CSP
+summary: HTML test page defining a restrictive Content-Security-Policy that blocks loading a local image.

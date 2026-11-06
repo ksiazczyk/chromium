@@ -1,0 +1,4 @@
+# Docerion header of notifications_new.json.
+type: test
+title: Notifications permission upgrade manifest (new)
+summary: New-version manifest adding the notifications permission for a silent upgrade test case.

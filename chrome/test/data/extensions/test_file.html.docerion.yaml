@@ -1,0 +1,4 @@
+# Docerion header of test_file.html.
+type: test
+title: Unmodified test file page
+summary: Minimal test page titled Unmodified that serves as an unchanged fixture for extension tests.

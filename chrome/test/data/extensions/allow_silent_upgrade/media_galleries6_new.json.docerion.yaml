@@ -1,0 +1,4 @@
+# Docerion header of media_galleries6_new.json.
+type: test
+title: Media galleries silent upgrade test manifest (new)
+summary: New-version extension manifest granting mediaGalleries read and allAutoDetected permissions for a silent upgrade test case.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Test stylesheet setting div2 background to red
+summary: Stylesheet used with test_file_with_style.html that sets the background color of div2 to red.
+*/
+
 #div2 {
   background-color: red;
 }

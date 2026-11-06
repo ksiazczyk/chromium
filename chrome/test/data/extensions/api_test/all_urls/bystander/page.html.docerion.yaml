@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Bystander test page
+summary: Simple HTML page with a hello-world message used as the test page for the bystander extension test.

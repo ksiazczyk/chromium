@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_ctrl-d_keybinding.html.
+type: test
+title: Test file with Ctrl-D keybinding
+summary: HTML test page that detects a Ctrl+D keypress and reports it via domAutomationController.

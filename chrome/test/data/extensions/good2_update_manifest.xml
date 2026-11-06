@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Extension update manifest for good2.crx
+summary: Update manifest XML pointing to good2.crx for testing extension updates via URLRequestMockHTTPJob.
+-->
+
 <!--
   This update manifest points to the good2.crx file. It is meant to be used
   with a URLRequestMockHTTPJob, and the hostname must be kept in sync.

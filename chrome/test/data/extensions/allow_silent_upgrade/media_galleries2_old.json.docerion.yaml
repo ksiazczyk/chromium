@@ -1,0 +1,4 @@
+# Docerion header of media_galleries2_old.json.
+type: test
+title: media_galleries2_old silent upgrade manifest
+summary: Old-version manifest fixture granting read and allAutoDetected mediaGalleries permissions, paired with media_galleries2_new for a silent upgrade test.

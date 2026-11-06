@@ -1,0 +1,4 @@
+# Docerion header of media_galleries6_old.json.
+type: test
+title: Media galleries silent upgrade test manifest (old)
+summary: Old-version extension manifest identical to its new counterpart, used to test silent upgrade without permission changes.

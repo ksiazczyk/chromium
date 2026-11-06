@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alarms incognito split test background script
+// summary: Background service worker running chrome.alarms API tests (create, get, getAll, clear) that verify alarms fire only in the incognito or regular context where they were created.
+// ---
+
 const inIncognito = chrome.extension.inIncognitoContext;
 const alarmName = inIncognito ? 'incognito' : 'normal';
 let alarmTriggered = false;

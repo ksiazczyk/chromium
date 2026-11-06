@@ -12,6 +12,12 @@
 //   which should have a value consistent with the page being newly opened.
 // - The background page closes itself.
 
+// ---docerion
+// type: test
+// title: Test logic for closing a second background page
+// summary: Drives the API test that opens and closes live web pages to verify a second background page closes the first, reporting pass or fail via chrome.test.
+// ---
+
 let pageA;
 let pageC;
 let step = 0;

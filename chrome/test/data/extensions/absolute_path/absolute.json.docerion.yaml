@@ -1,0 +1,4 @@
+# Docerion header of absolute.json.
+type: test
+title: Test extension manifest with absolute paths
+summary: Generic empty extension manifest used to test loading extensions that reference popup and background resources via absolute paths.

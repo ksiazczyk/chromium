@@ -1,0 +1,4 @@
+# Docerion header of good3.crx.INFO.
+type: note
+title: Info note for good3.crx
+summary: Documents that good3.crx shares the ID of the other good*.crx test extensions and was built from good.pem to test the prodversionmin attribute across versions.

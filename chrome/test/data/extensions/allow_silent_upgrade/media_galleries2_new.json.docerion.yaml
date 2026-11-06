@@ -1,0 +1,4 @@
+# Docerion header of media_galleries2_new.json.
+type: test
+title: media_galleries2_new silent upgrade manifest
+summary: New-version manifest fixture adding delete and copyTo to the read and allAutoDetected mediaGalleries permissions for a silent upgrade test.

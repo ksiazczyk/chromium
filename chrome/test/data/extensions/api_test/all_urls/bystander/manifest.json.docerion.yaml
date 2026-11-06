@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bystander extension test manifest
+summary: Minimal manifest for the bystander test extension used in the all_urls extension API tests.

@@ -8,6 +8,12 @@
 // - A live (web-extent) web page is loaded (a.html), which tries to opens a
 //   background page.  This fails because allow_js_access is false.
 
+// ---docerion
+// type: test
+// title: No-JS background page API test script
+// summary: Test script that opens a web page and verifies it cannot open the manifest background page when JavaScript access is disabled, failing if a popup appears.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/common';
 

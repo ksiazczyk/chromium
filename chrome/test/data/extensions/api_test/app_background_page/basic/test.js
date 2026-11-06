@@ -11,6 +11,12 @@
 //   called once from each of the first and second pages.
 // - The background page closes itself.
 
+// ---docerion
+// type: test
+// title: Test driver for web-extent background page lifecycle
+// summary: Drives the browser test that opens live web pages, verifies a shared background page stays alive across pages, and checks its counter before it closes itself.
+// ---
+
 let pageA;
 let pageB;
 let backgroundPageResponded = false;

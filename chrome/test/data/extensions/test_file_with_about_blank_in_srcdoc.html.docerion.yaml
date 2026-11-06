@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_about_blank_in_srcdoc.html.
+type: test
+title: Srcdoc nested iframe test page
+summary: Test page with an iframe whose srcdoc contains a nested about:blank iframe.

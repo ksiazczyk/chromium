@@ -1,0 +1,4 @@
+# Docerion header of bad_private_key.crx.
+type: asset
+title: Bad private key CRX test fixture
+summary: Empty CRX test fixture for extension installation cases with a bad private key.

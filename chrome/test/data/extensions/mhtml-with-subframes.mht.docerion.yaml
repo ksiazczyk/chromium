@@ -1,0 +1,4 @@
+# Docerion header of mhtml-with-subframes.mht.
+type: test
+title: MHTML page with subframes
+summary: Manually authored MHTML archive of a page containing nested frames, used as test data.

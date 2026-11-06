@@ -1,0 +1,4 @@
+# Docerion header of xhr.txt.
+type: test
+title: Text fixture for XHR requests
+summary: Plain text file that extension tests request via XHR.

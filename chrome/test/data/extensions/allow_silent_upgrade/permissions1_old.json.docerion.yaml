@@ -1,0 +1,4 @@
+# Docerion header of permissions1_old.json.
+type: test
+title: Silent upgrade test manifest, tabs permission (old version)
+summary: Test fixture manifest for the extension silent upgrade tests, defining the old version that requests the tabs permission.

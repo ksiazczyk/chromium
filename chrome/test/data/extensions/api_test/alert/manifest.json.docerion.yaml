@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Background page alert crash test manifest
+summary: Manifest for the background page alert crash extension API test, declaring a version 0.1 MV2 extension that loads test.js as its background script.

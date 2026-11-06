@@ -1,0 +1,4 @@
+# Docerion header of get_app_details_for_frame_reversed.html.
+type: test
+title: App details iframe test page for nonapp.com
+summary: Test page that embeds an iframe from nonapp.com as the reversed case of the app details checks.

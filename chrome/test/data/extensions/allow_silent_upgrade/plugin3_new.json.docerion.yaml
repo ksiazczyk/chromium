@@ -1,0 +1,4 @@
+# Docerion header of plugin3_new.json.
+type: test
+title: Manifest version 2 new fixture with foo.dll plugin
+summary: New-version manifest fixture on manifest version 2 declaring a foo.dll plugin, paired with a version 3 old manifest without plugins.

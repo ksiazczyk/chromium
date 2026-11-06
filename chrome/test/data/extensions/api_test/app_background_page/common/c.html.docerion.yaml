@@ -1,0 +1,4 @@
+# Docerion header of c.html.
+type: test
+title: App background page test page C
+summary: Test page that opens a background page under the different window name 'bg2' to verify that distinct names yield separate background page instances.

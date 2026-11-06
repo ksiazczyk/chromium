@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // This space intentionally left blank.
+
+// ---docerion
+// type: test
+// title: Cross-site script test JavaScript
+// summary: Intentionally blank JavaScript file served from a cross-site origin for the cross-site script test page.
+// ---

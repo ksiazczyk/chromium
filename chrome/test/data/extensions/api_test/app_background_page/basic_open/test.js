@@ -4,6 +4,12 @@
 
 // This test opens a single background page opened by a.html.
 
+// ---docerion
+// type: test
+// title: Test logic for opening a web-extent background page
+// summary: Opens a page on the test server, fails if a popup containing bg.html is created, and notifies pass once the background page has loaded.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/common';
 

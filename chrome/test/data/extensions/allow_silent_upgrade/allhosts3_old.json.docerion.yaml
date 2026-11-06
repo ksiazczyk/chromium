@@ -1,0 +1,4 @@
+# Docerion header of allhosts3_old.json.
+type: test
+title: Silent upgrade fixture allhosts3 old
+summary: Old-version manifest v3 without any permissions for a silent upgrade test case.

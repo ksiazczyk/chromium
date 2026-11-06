@@ -1,0 +1,4 @@
+# Docerion header of file_iframe.html.
+type: test
+title: Active tab file URLs iframe test page
+summary: HTML test page for the active tab file URLs extension test that loads the window onload script and embeds a local file iframe.

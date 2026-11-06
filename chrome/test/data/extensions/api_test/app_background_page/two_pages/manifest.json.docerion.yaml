@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for two_pages background page test
+summary: Extension manifest for an API test verifying that opening a second background page closes the first, declaring a background page, tab permissions, and a content script.

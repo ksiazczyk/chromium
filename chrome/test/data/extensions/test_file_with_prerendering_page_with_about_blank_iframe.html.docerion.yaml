@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_prerendering_page_with_about_blank_iframe.html.
+type: test
+title: Test file prerendering a page with about:blank iframe
+summary: HTML test page using speculation rules to prerender a page containing an about:blank iframe.

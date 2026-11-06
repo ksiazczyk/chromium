@@ -1,0 +1,4 @@
+# Docerion header of allhosts2_new.json.
+type: test
+title: Allhosts2 new extension manifest for silent upgrade test
+summary: New-version manifest of the allhosts2 extension used in silent upgrade tests, requesting a single host permission.

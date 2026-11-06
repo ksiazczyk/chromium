@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the activeTab API test
+summary: Minimal HTML page used as a navigation target when testing activeTab permission grants.

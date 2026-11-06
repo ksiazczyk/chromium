@@ -1,0 +1,4 @@
+# Docerion header of sockets3_old.json.
+type: test
+title: Sockets3 extension manifest (old version)
+summary: Old-version manifest for the sockets3 test extension limited to TCP connect access on a.com:80, serving as the upgrade baseline.

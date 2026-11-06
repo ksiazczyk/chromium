@@ -1,0 +1,4 @@
+# Docerion header of permissions4_old.json.
+type: test
+title: Silent upgrade test manifest with plugin only (old version)
+summary: Test fixture manifest for silent upgrade tests, defining the old version that declares a plugin without permissions.

@@ -6,6 +6,12 @@
 // This is the extension background page, which waits for the background
 // contents to open a popup window.
 
+// ---docerion
+// type: test
+// title: Test logic that detects the opened popup tab
+// summary: Queries open tabs and listens for tab updates to detect popup.html and notify the test framework of success.
+// ---
+
 // See if the background contents loaded first and already opened the tabs.
 chrome.tabs.query({}, function(tabs) {
   for (let i = 0; i < tabs.length; ++i) {

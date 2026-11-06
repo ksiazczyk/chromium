@@ -1,0 +1,4 @@
+# Docerion header of final_page.html.
+type: test
+title: Final page for the activeTab test
+summary: Minimal HTML page serving as the final navigation target in the activeTab API test.

@@ -10,6 +10,12 @@
 //   instead, the test fails, otherwise it succeeds as soon as the page is
 //   loaded.
 
+// ---docerion
+// type: test
+// title: Test logic for manifest and live background page coexistence
+// summary: Test script that verifies a second background page replaces the manifest-provided one without opening a visible tab.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/common';
 

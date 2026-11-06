@@ -1,0 +1,4 @@
+# Docerion header of plugin2_old.json.
+type: test
+title: Manifest version 2 old fixture with foo.dll plugin
+summary: Old-version manifest fixture on manifest version 2 declaring a foo.dll plugin, the starting point for the version 3 upgrade test.

@@ -1,0 +1,4 @@
+# Docerion header of hosts6_old.json.
+type: test
+title: hosts6_old.json test manifest
+summary: Old-version extension manifest fixture with tabs and notifications permissions plus a content script for upgrade tests.

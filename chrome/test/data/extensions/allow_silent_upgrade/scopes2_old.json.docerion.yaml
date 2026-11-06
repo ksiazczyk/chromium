@@ -1,0 +1,4 @@
+# Docerion header of scopes2_old.json.
+type: test
+title: Silent upgrade test manifest with two OAuth2 scopes (old version)
+summary: Old-version Chrome app manifest holding two OAuth2 scopes, paired with scopes2_new for silent upgrade testing.

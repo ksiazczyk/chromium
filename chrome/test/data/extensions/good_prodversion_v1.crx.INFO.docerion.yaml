@@ -1,0 +1,4 @@
+# Docerion header of good_prodversion_v1.crx.INFO.
+type: note
+title: Info note for good_prodversion_v1.crx
+summary: Explains that this test extension shares the good*.crx ID and points to good_prodversionmin_update_manifest.xml to test prodversionmin behaviour when updating an installed extension.

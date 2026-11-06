@@ -1,0 +1,4 @@
+# Docerion header of null_document.html.
+type: test
+title: Null document write test page
+summary: 'Test page that loads a javascript: iframe which writes null to the top document and reports navigation via domAutomationController.'

@@ -1,0 +1,4 @@
+# Docerion header of hosts2_new.json.
+type: test
+title: hosts2_new.json test manifest
+summary: New-version extension manifest fixture with altered host permissions, used to test silent upgrade behavior.

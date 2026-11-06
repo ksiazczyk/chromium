@@ -1,0 +1,4 @@
+# Docerion header of hosts4_new.json.
+type: test
+title: Silent upgrade test manifest granting Google and Reddit host permissions
+summary: New-version extension manifest with Google and Reddit host permissions used in a silent upgrade test case.

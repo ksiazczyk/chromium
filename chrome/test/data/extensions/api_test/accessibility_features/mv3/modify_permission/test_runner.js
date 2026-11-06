@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test runner for accessibilityFeatures modify permission tests
+// summary: Service worker that runs getter and setter tests verifying the extension can modify but not read accessibility feature states.
+// ---
+
 /**
  * Tests that the extension is not able to get feature state.
  * @param {string} feature The feature to query.

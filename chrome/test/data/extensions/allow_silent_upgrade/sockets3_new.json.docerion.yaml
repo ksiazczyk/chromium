@@ -1,0 +1,4 @@
+# Docerion header of sockets3_new.json.
+type: test
+title: Sockets3 extension manifest (new version)
+summary: New-version manifest for the sockets3 test extension requesting TCP connect access to all hosts, used to check silent upgrade behavior.

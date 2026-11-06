@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the app background page basic test
+summary: Extension manifest fixture for the basic app background page API test, declaring the background page, permissions, and content script the test uses.

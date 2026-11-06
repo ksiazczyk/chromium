@@ -1,0 +1,4 @@
+# Docerion header of plugin3_old.json.
+type: test
+title: Manifest version 3 old fixture without plugins
+summary: Old-version manifest fixture on manifest version 3 with no plugins, used to test upgrading to a version 2 manifest that declares a plugin.
