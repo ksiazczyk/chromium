@@ -1,0 +1,4 @@
+# Docerion header of auction_only_both_new_and_old_names.html.
+type: test
+title: Web bundle test page for new and old header names
+summary: Test page that loads the web bundle containing the JSON served with both new and old auction-only header names.

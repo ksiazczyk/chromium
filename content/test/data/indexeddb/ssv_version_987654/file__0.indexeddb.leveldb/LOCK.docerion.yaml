@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: data
+title: LevelDB LOCK file
+summary: Empty LevelDB lock file that guards the test database against concurrent access.

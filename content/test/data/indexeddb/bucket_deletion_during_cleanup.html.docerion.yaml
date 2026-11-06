@@ -1,0 +1,4 @@
+# Docerion header of bucket_deletion_during_cleanup.html.
+type: test
+title: Bucket deletion succeeds during database cleanup
+summary: HTML harness that loads common.js and bucket_deletion_during_cleanup.js to run the bucket deletion cleanup test.

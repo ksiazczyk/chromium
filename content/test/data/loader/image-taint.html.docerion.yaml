@@ -1,0 +1,4 @@
+# Docerion header of image-taint.html.
+type: test
+title: Canvas image taint CORS test page
+summary: Test page checking that canvas operations throw SecurityError for tainted images and that CORS and web security settings change this behavior.

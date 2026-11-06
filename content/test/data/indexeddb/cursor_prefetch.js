@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB cursor prefetch test logic
+// summary: JavaScript test that fills an object store with 200 items and iterates cursors forward, in reverse and with key jumps to exercise prefetch behavior.
+// ---
+
 // These constants should match the ones in
 // third_party/blink/renderer/modules/indexeddb/idb_cursor.h to make sure the
 // test hits the right code paths.

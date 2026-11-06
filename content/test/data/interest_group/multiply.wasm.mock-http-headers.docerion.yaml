@@ -1,0 +1,4 @@
+# Docerion header of multiply.wasm.mock-http-headers.
+type: test
+title: Mock HTTP headers for the WebAssembly module
+summary: Provides mock HTTP response headers marking the multiply.wasm resource as WebAssembly and allowed for ad auctions.

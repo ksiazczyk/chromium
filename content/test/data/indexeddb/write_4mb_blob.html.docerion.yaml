@@ -1,0 +1,4 @@
+# Docerion header of write_4mb_blob.html.
+type: test
+title: IDB test that blobs use space when created and free up space when deleted
+summary: HTML test that writes a 4MB blob into an IndexedDB object store to check that blobs consume quota space when created and release it when deleted.

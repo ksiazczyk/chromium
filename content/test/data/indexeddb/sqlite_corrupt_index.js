@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB corrupt index detection and recovery test
+// summary: Creates an indexed object store, triggers a corrupt index read that closes the database, and verifies recovery preserves the data.
+// ---
+
 const dbName = 'corrupt-index';
 
 function test() {

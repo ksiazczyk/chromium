@@ -1,0 +1,4 @@
+# Docerion header of disk_full_on_commit.html.
+type: test
+title: IDB test that a commit failing due to disk full results in a QuotaError
+summary: Browser test verifying that an IndexedDB commit failing due to a full disk aborts the transaction with a QuotaExceededError.

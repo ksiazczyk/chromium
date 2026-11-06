@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bidding script reporting the reporting timeout value
+// summary: Test bidding script that bids 1 on the first ad and reports a win echoing the browser's reporting timeout value.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL` and, if present, the first adComponent's `renderURL`.
 function generateBid(

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic validating no direct-from-seller signals
+// summary: Test generateBid script that bids 2 and throws if directFromSellerSignals per-buyer or auction signals are not null.
+// ---
+
 function generateBid(
     interestGroup, auctionSignals, perBuyerSignals, trustedBiddingSignals,
     browserSignals, directFromSellerSignals) {

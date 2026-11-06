@@ -1,0 +1,4 @@
+# Docerion header of trusted_bidding_signals.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for trusted_bidding_signals.json
+summary: Mock HTTP response headers serving the trusted bidding signals JSON with ad auction permission and bidding signals format version 2.

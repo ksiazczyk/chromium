@@ -1,0 +1,4 @@
+# Docerion header of fill_up_5k.html.
+type: test
+title: IDB test filling IndexedDB usage up to 5 KB
+summary: Browser test repeatedly writing records and querying storage usage until LevelDB usage exceeds 5 KB, then reporting the filled amount.

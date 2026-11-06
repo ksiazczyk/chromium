@@ -1,0 +1,4 @@
+# Docerion header of compressed.js.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzipped JavaScript
+summary: Mock HTTP response headers declaring a 200 status with gzip-encoded JavaScript content for compressed script tests.

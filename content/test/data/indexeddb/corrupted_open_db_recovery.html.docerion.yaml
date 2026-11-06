@@ -1,0 +1,4 @@
+# Docerion header of corrupted_open_db_recovery.html.
+type: test
+title: Corrupted open database recovery test
+summary: HTML test page verifying that a database corrupted while open is handled, expecting a total dataLoss event and an empty object store list after recovery.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB transaction abort behavior test
+// summary: JavaScript test that aborts a readwrite transaction after adding an employee and verifies a later readonly transaction completes without finding the employee.
+// ---
+
 function finalTransactionCompleted()
 {
   debug('The final transaction completed.');

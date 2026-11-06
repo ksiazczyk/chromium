@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete, open and reuse database regression test
+// summary: Test script that deletes a database, synchronously reopens it, and verifies enumeration and reopening behave correctly.
+// ---
+
 'use strict';
 
 function doTest() {

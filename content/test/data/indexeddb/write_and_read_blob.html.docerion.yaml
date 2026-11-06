@@ -1,0 +1,4 @@
+# Docerion header of write_and_read_blob.html.
+type: test
+title: IDB test for blob key corruption
+summary: HTML test that creates a database, writes a blob, and reads it back to verify the blob contents, optionally forcing garbage collection before the check.

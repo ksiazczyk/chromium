@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_additional_bid.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic_additional_bid.js
+summary: Mock HTTP response headers served with the additional bid script, allowing the ad auction and permitting any CORS origin.

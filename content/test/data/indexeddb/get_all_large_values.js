@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB getAll() large values test
+// summary: Browser test script that verifies getAll() returns all 129 records of 64 KB each when values exceed the BigBuffer inlining threshold.
+// ---
+
 'use strict';
 
 const DB_NAME = 'large-values-db';

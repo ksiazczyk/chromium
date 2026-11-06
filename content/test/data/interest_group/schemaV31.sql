@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Interest group storage schema version 31 SQL dump
+-- summary: SQL dump that creates interest group storage tables for schema version 31 and inserts sample groups, histories and k-anonymity data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

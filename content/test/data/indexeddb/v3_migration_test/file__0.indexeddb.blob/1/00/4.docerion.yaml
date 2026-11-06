@@ -1,0 +1,4 @@
+# Docerion header of 4.
+type: test
+title: IndexedDB v3 migration test blob 4
+summary: Empty blob fixture kept as part of the IndexedDB v3 migration test data.

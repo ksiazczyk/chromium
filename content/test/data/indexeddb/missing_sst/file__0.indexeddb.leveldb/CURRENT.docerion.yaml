@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT manifest pointer
+summary: Points to MANIFEST-000007 as the current manifest of the LevelDB database in the IndexedDB missing SST test data.

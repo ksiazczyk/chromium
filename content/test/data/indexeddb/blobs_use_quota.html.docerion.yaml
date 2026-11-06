@@ -1,0 +1,4 @@
+# Docerion header of blobs_use_quota.html.
+type: test
+title: IDB test that blobs use space when created and free up space when deleted
+summary: Browser test verifying that blobs consume storage quota when written and that the space is freed again when the blob is deleted.

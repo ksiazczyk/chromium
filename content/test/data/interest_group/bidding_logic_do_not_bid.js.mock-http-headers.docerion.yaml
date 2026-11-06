@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_do_not_bid.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for do-not-bid bidding logic
+summary: Mock HTTP response headers served with the do-not-bid bidding logic script during ad auction tests.

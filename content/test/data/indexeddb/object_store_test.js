@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB object store test script
+// summary: Chromium layout test script that populates object stores and indexes, verifies constraint errors on duplicate keys, record deletion and retrieval by date key.
+// ---
+
 var testDate = new Date("February 24, 1955 12:00:00");
 
 function getByDateSuccess()

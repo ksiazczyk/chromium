@@ -1,0 +1,4 @@
+# Docerion header of database_outlives_connection.html.
+type: test
+title: Test that a database still exists after the connection is closed
+summary: Browser test page verifying that an IndexedDB database still exists after its connection is closed, including in incognito where it must stay in memory.

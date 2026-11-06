@@ -1,0 +1,4 @@
+# Docerion header of open_connection.html.
+type: test
+title: IndexedDB Open Connection
+summary: Test page that opens IndexedDB connections from the window and from dedicated, shared, and service workers, resolving promises with the connection results.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB bug 90635 keyPath persistence test
+// summary: Two-part test that creates object stores with various keyPath settings and verifies the keyPaths persist across a database reopen.
+// ---
+
 function test()
 {
   if (document.location.hash === '#part1') {

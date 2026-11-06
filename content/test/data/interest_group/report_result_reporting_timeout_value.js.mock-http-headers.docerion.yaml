@@ -1,0 +1,4 @@
+# Docerion header of report_result_reporting_timeout_value.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the reporting timeout seller script
+summary: Mock HTTP headers serving the seller script as JavaScript with Ad-Auction-Allowed set to true.

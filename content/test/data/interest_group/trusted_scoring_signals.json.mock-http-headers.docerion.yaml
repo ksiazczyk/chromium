@@ -1,0 +1,4 @@
+# Docerion header of trusted_scoring_signals.json.mock-http-headers.
+type: test
+title: Trusted scoring signals mock HTTP headers
+summary: Mock HTTP response headers served with the trusted scoring signals fixture, allowing the ad auction and setting data version 1234.

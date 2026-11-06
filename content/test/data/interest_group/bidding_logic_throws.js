@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic that throws
+// summary: Test bidder worklet whose generateBid reports a debug auction loss and then throws an error, with an unreachable loss report after the throw.
+// ---
+
 function generateBid(
     interestGroup, auctionSignals, perBuyerSignals, trustedBiddingSignals,
     browserSignals) {

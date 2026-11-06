@@ -18,6 +18,12 @@
 // 2. The subsequent reopen requests do not hang by attempting to attach to a
 //    closed/aborted connection.
 
+// ---docerion
+// type: test
+// title: IndexedDB connection deduplication test after aborted upgrade
+// summary: Regression test verifying connection deduplication when five concurrent callers abort a versionchange upgrade and reopen the database with an explicit version.
+// ---
+
 'use strict';
 
 const DB_NAME = 'aborted_upgrade_reopen_db';

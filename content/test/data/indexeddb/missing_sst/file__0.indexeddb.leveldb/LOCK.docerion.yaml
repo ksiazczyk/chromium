@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: LevelDB lock file
+summary: Empty lock file of the LevelDB database used as test data for the IndexedDB missing SST file scenario.

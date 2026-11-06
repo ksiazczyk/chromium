@@ -1,0 +1,4 @@
+# Docerion header of write_and_read_large_value.html.
+type: test
+title: IDB test for a large value that gets wrapped in a blob
+summary: HTML test that writes a large incompressible value to IndexedDB and reads it back to verify values stored as wrapped blobs round-trip correctly.

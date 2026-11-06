@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Interest group storage schema version 6 SQL dump
+-- summary: SQL dump that creates interest group storage tables for schema version 6 and inserts sample groups, kanon entries and history rows.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

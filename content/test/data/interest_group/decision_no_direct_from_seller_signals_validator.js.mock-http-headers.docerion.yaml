@@ -1,0 +1,4 @@
+# Docerion header of decision_no_direct_from_seller_signals_validator.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for decision_no_direct_from_seller_signals_validator.js
+summary: Mock HTTP response headers serving decision_no_direct_from_seller_signals_validator.js with a 200 status, JavaScript content type, and Ad-Auction-Allowed true.

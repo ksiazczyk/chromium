@@ -1,0 +1,4 @@
+# Docerion header of decision_argument_validator.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for decision argument validator
+summary: 'Supplies HTTP response headers, including Ad-Auction-Allowed: true, when the decision argument validator script is served in tests.'

@@ -1,0 +1,4 @@
+# Docerion header of report_win_loop_forever.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for report_win_loop_forever.js
+summary: Mock HTTP response headers that serve the report win loop script with a JavaScript content type and Ad-Auction-Allowed permission.

@@ -1,0 +1,4 @@
+# Docerion header of bug_106883.html.
+type: test
+title: IndexedDB regression test page for bug 106883
+summary: HTML harness that loads common.js and the bug 106883 script, runs the test on load, and shows status in the page.

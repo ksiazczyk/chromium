@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decision argument validator
+// summary: Test seller worklet that validates ad metadata, bid, auction config, and signals passed to scoreAd and reportResult in a standard ad auction.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals,
     browserSignals, directFromSellerSignals) {

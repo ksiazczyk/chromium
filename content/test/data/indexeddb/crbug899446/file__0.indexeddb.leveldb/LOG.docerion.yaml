@@ -1,0 +1,4 @@
+# Docerion header of LOG.
+type: test
+title: LevelDB LOG file in IndexedDB test fixture
+summary: LevelDB log recording that manifest MANIFEST-000001 was reused when the IndexedDB test database for crbug 899446 was opened.

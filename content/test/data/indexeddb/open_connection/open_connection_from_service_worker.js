@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB open connection from service worker
+// summary: Service worker script that opens an IndexedDB database, closes it, and reports the result to the caller over a message port.
+// ---
+
 'use strict';
 
 self.onmessage = async function(e) {

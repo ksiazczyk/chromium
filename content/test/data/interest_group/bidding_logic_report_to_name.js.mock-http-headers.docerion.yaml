@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_report_to_name.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for report_to_name bidding logic
+summary: Supplies HTTP response headers marking the report_to_name bidding script as allowed for ad auctions.

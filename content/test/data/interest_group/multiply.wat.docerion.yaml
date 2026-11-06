@@ -1,0 +1,4 @@
+# Docerion header of multiply.wat.
+type: test
+title: WebAssembly text module multiplying input by four
+summary: WAT module exporting a compute function that multiplies its f64 input by four, used as test data.

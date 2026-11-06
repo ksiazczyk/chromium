@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise-based IndexedDB helpers for crbug899446
+// summary: JavaScript helpers that wrap IndexedDB requests, open calls and transactions in promises, plus a Database class used by the crbug899446 test pages.
+// ---
+
 class DatabaseUtils {
   /** Wrap an IndexedDB request into a Promise.
    *

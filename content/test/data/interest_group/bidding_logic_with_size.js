@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic with ad sizes
+// summary: Test generateBid script that returns bid sizes, component ads, component auction permission, a win beacon and private aggregation reports.
+// ---
+
 // Basic generate bid script that offers a bid of 1 using the first ad's
 // `renderURL` and, if present, the first adComponent's `renderURL`.
 function generateBid(interestGroup, auctionSignals, perBuyerSignals,

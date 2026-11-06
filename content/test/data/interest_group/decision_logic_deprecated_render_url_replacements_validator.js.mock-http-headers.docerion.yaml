@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_deprecated_render_url_replacements_validator.js.mock-http-headers.
+type: test
+title: Deprecated render URL replacements validator mock HTTP headers
+summary: 'Mock HTTP response headers that serve the deprecated render URL replacements validator with Ad-Auction-Allowed: true.'

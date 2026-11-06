@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_multibid_feature.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for multibid bidding logic
+summary: Supplies HTTP response headers, including Ad-Auction-Allowed and a JavaScript content type, for the multibid bidding logic script in tests.

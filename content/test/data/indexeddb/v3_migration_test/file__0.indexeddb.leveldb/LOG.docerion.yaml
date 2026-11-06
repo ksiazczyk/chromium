@@ -1,0 +1,4 @@
+# Docerion header of LOG.
+type: test
+title: LevelDB LOG file
+summary: LevelDB diagnostic log recording that the existing manifest was reused when the IndexedDB test database was opened.

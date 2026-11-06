@@ -1,0 +1,4 @@
+# Docerion header of compressed.html.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzipped HTML
+summary: Mock HTTP response headers declaring a 200 status with gzip-encoded UTF-8 HTML content for compressed page tests.

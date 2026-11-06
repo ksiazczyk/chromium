@@ -1,0 +1,4 @@
+# Docerion header of trusted_bidding_signals_v1.json.
+type: test
+title: Trusted bidding signals v1 format test response
+summary: JSON payload of trusted bidding signals in the version 1 format used by interest group auction tests.

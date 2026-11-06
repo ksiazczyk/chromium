@@ -1,0 +1,4 @@
+# Docerion header of auction_only_both_new_and_old_names.har.
+type: test
+title: HAR mock with new and old auction-only header names
+summary: HAR archive defining a mock response that carries both the new Ad-Auction headers and the legacy FLEDGE headers.

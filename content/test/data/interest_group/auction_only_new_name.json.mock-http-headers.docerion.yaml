@@ -1,0 +1,4 @@
+# Docerion header of auction_only_new_name.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for auction_only_new_name.json
+summary: Mock HTTP response headers marking auction_only_new_name.json as JSON while allowing the ad auction with Ad-Auction-Only enabled.

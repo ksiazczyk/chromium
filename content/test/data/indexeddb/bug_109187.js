@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiEntry index regression test for bug 109187
+// summary: Opens a database, creates a normal and a multiEntry index, and asserts their multiEntry flags with shouldBeFalse and shouldBeTrue.
+// ---
+
 function test() {
 
   var DBNAME = 'multiEntry-crash-test';

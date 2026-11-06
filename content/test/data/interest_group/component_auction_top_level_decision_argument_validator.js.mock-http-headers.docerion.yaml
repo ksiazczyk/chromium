@@ -1,0 +1,4 @@
+# Docerion header of component_auction_top_level_decision_argument_validator.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for top-level decision argument validator
+summary: 'Supplies HTTP response headers, including Ad-Auction-Allowed: true, when the component auction top-level decision argument validator script is served in tests.'

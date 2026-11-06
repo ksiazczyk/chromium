@@ -1,0 +1,4 @@
+# Docerion header of trusted_scoring_signals2.json.
+type: test
+title: Trusted scoring signals fixture 2
+summary: Alternate trusted scoring signals fixture with different values for ad auction scoring tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component auction top-level decision argument validator
+// summary: Test top-level seller worklet that validates the arguments passed to scoreAd and reportResult when running a component auction.
+// ---
+
 function scoreAd(adMetadata, bid, auctionConfig, trustedScoringSignals,
                  browserSignals, directFromSellerSignals) {
   validateAdMetadata(adMetadata);

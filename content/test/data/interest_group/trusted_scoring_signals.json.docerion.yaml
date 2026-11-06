@@ -1,0 +1,4 @@
+# Docerion header of trusted_scoring_signals.json.
+type: test
+title: Trusted scoring signals fixture
+summary: Test fixture providing trusted scoring signals keyed by render URL for ad auction scoring tests.

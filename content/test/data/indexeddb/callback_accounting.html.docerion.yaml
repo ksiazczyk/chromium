@@ -1,0 +1,4 @@
+# Docerion header of callback_accounting.html.
+type: test
+title: IndexedDB callback accounting test page for bug 222281
+summary: HTML harness that loads common.js and callback_accounting.js and runs the callback accounting regression test for bug 222281.

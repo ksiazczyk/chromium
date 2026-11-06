@@ -1,0 +1,4 @@
+# Docerion header of get_all_large_values.html.
+type: test
+title: Test getAll() over a store containing many large values
+summary: Browser test page loading common.js and get_all_large_values.js to test getAll() over a store containing many large values.

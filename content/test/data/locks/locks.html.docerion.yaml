@@ -1,0 +1,4 @@
+# Docerion header of locks.html.
+type: test
+title: Web Locks test page
+summary: Test page with helpers to acquire, steal, and release Web Locks and to do so via dedicated, shared, and service workers.

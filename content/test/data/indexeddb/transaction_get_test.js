@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB transaction get test logic
+// summary: Tests store.get() in a transaction, covering missing keys and accessing a committed transaction, which should throw.
+// ---
+
 function afterCommit()
 {
     try {

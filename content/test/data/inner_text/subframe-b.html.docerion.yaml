@@ -1,0 +1,4 @@
+# Docerion header of subframe-b.html.
+type: test
+title: Subframe B test page
+summary: HTML page with a paragraph and an iframe loading subframe-a, used as a nested subframe fixture in inner text tests.

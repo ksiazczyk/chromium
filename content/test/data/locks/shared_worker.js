@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker for Web Locks acquisition
+// summary: Shared worker that acquires a Web Lock on message and posts the request id back to the connecting page.
+// ---
+
 'use strict';
 
 onconnect = function(e) {

@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe_with_ad_auction_headers.html.
+type: test
+title: Page with iframe using ad auction headers
+summary: Test page embedding an iframe whose ad auction headers attribute and source URL are filled in from template placeholders.

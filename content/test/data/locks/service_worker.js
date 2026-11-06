@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for Web Locks acquisition
+// summary: Service worker that acquires a Web Lock on message and replies with the request id over a transferred message port.
+// ---
+
 'use strict';
 
 self.onmessage = function(e) {

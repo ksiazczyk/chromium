@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB key path test script
+// summary: Populates an object store that uses a keyPath, then verifies cursor iteration over the added records.
+// ---
+
 
 function cursorSuccess()
 {

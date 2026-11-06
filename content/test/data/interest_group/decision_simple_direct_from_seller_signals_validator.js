@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seller decision logic validating direct-from-seller sellerSignals
+// summary: Test seller decision logic that validates directFromSellerSignals.sellerSignals against an expected JSON value before returning the bid.
+// ---
+
 function scoreAd(
     adMetadata, bid, auctionConfig, trustedScoringSignals,
     browserSignals, directFromSellerSignals) {

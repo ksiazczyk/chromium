@@ -1,0 +1,4 @@
+# Docerion header of page-with-fledge-permissions-policy-disabled-in-iframe.html.
+type: test
+title: Test page with FLEDGE permissions policy disabled in iframe
+summary: HTML test page whose iframe disallows join-ad-interest-group and run-ad-auction to exercise permissions policy handling.

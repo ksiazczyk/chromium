@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getAll chunking verification test
+// summary: Populates an object store with 2.5 times the chunk size in records and verifies getAll returns every record and value correctly.
+// ---
+
 'use strict';
 
 let connection;

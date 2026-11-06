@@ -1,0 +1,4 @@
+# Docerion header of 3.
+type: test
+title: IndexedDB v3 migration test blob 3
+summary: Blob fixture containing the text 'hello!' for the IndexedDB v3 migration test.

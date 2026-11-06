@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT manifest pointer
+summary: LevelDB CURRENT file naming MANIFEST-000002 as the active manifest within the corrupt IndexedDB test fixture.

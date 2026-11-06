@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB open bad database test script
+// summary: Test script that opens 'database-basics' and asserts total data loss, an upgradeneeded event and that pre-existing object stores were blown away.
+// ---
+
 function test() {
   request = indexedDB.open('database-basics');
   request.onupgradeneeded = upgradeNeeded;
