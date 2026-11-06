@@ -1,0 +1,4 @@
+# Docerion header of google_services_settings_app_interface.mm.
+type: test
+title: Google services settings test app interface implementation
+summary: Implements the Google services settings test app interface, adding a policy decider that cancels navigation and a metrics consent check.

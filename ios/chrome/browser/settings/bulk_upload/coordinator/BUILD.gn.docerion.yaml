@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the bulk upload coordinator
+summary: Defines the coordinator source_set for the bulk upload settings feature, listing its Objective-C sources and GN build dependencies.

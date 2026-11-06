@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_coordinator.mm.
+type: source
+title: Autofill credit card coordinator implementation
+summary: Implements the coordinator that presents the saved credit card settings screen and manages the add-credit-card and CVC storage child coordinators.

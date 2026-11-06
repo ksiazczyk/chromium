@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_country_item.mm.
+type: source
+title: Autofill AI entity country table view item implementation
+summary: Configures the country field cell and shows an error icon next to the trailing text when the value is invalid.

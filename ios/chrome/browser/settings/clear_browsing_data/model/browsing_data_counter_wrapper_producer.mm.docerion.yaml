@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_counter_wrapper_producer.mm.
+type: source
+title: Browsing data counter wrapper producer implementation
+summary: Implements BrowsingDataCounterWrapperProducer by creating counter wrappers from the profile's preference service.

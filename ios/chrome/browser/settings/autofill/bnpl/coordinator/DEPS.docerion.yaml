@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Include rules granting this directory access to ios/chrome/browser/autofill/model.

@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_table_view_controller.mm.
+type: source
+title: Suggestions from Gemini settings view controller
+summary: Implements the main Suggestions from Gemini settings page with the find and fill switch, manage connected apps entry, and Help improve section driven by policy state.

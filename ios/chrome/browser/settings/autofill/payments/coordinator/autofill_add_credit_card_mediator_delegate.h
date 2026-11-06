@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add credit card mediator delegate protocol
+// summary: Defines the protocol that notifies the delegate of invalid card number, expiration date, nickname, or that saving finished.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_ADD_CREDIT_CARD_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_ADD_CREDIT_CARD_MEDIATOR_DELEGATE_H_
 

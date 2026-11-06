@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity Docs settings mutator protocol
+// summary: Declares the mutator protocol for the Identity Docs settings page, notifying when the user toggles the save and fill identity docs switch.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_IDENTITY_DOCS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_IDENTITY_DOCS_MUTATOR_H_
 

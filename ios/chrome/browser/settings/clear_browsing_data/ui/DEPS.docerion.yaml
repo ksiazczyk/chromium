@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the clear browsing data UI
+summary: Restricts the headers this directory may include to a small allowlist such as tabs closure, intents donation, keyboard, and URL utilities.

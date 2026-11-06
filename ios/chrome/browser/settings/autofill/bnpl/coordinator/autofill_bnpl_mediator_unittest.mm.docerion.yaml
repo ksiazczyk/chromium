@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_mediator_unittest.mm.
+type: test
+title: AutofillBnplMediator unit tests
+summary: Unit tests covering consumer initialization, switch changes updating the preference, and preference changes updating the consumer.

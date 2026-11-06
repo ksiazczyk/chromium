@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Autofill AI settings UI
+summary: Grants this directory permission to include headers from the autofill AI public and message model paths.

@@ -1,0 +1,4 @@
+# Docerion header of shopping_coordinator.mm.
+type: source
+title: Shopping coordinator implementation
+summary: Implements the Shopping settings coordinator, presenting the shopping table view controller and wiring the mediator and child coordinators.

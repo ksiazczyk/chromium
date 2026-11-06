@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the clear browsing data UI
+summary: Defines the ui source_set listing the pop-up menu and Quick Delete sources together with their build dependencies.

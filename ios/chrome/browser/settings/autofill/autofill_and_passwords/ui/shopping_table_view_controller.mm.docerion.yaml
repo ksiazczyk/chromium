@@ -1,0 +1,4 @@
+# Docerion header of shopping_table_view_controller.mm.
+type: source
+title: Shopping settings table view controller implementation
+summary: Implements the Shopping settings page with an opt-in toggle, a Suggestions from Gemini entry point, and order and shipment sections.

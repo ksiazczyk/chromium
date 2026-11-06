@@ -1,0 +1,4 @@
+# Docerion header of fake_autofill_ai_entity_edit_consumer.mm.
+type: test
+title: Fake Autofill AI entity edit consumer implementation
+summary: Implements the fake AutofillAIEntityEditConsumer, recording whether loading-state and save-fallback callbacks were invoked during tests.

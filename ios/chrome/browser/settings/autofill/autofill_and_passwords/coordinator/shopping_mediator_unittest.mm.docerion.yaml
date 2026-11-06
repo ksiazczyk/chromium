@@ -1,0 +1,4 @@
+# Docerion header of shopping_mediator_unittest.mm.
+type: test
+title: Shopping mediator unit tests
+summary: Unit tests for the Shopping settings mediator, covering consumer toggle state and splitting items by entity type.

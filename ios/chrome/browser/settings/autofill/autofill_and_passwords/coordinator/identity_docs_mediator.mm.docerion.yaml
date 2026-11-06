@@ -1,0 +1,4 @@
+# Docerion header of identity_docs_mediator.mm.
+type: source
+title: Identity Docs mediator implementation
+summary: Implements the Identity Docs settings mediator, wiring pref-backed toggles and pushing identity document entities to the consumer.

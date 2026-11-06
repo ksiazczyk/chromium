@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillEditTableViewController interface
+// summary: Declares the table view controller for an Autofill edit entry menu in iOS Chrome settings, subclassing the settings root controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_UI_AUTOFILL_EDIT_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_UI_AUTOFILL_EDIT_TABLE_VIEW_CONTROLLER_H_
 

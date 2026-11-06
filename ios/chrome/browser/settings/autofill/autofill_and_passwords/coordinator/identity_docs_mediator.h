@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity Docs mediator interface
+// summary: Declares the mediator for the iOS Chrome Identity Docs settings page, based on AutofillAIBaseMediator and conforming to IdentityDocsMutator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_COORDINATOR_IDENTITY_DOCS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_COORDINATOR_IDENTITY_DOCS_MEDIATOR_H_
 

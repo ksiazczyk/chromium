@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Autofill AI settings tests
+summary: Defines the test_support and eg2_tests GN targets with their sources and dependencies for the Autofill AI settings Earl Grey tests.

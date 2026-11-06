@@ -1,0 +1,4 @@
+# Docerion header of shopping_table_view_controller_unittest.mm.
+type: test
+title: Shopping settings table view controller unit tests
+summary: Unit tests verifying the sections, headers, footers, and items of the Shopping settings table view controller.

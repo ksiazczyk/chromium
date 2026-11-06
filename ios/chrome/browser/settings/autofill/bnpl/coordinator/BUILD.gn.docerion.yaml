@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration defining the coordinator source set and the unit_tests target with their dependencies.

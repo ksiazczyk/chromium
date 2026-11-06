@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill credit card coordinator delegate protocol
+// summary: Declares the delegate protocol notified when the credit card coordinator is removed or dismissed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CREDIT_CARD_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CREDIT_CARD_COORDINATOR_DELEGATE_H_
 

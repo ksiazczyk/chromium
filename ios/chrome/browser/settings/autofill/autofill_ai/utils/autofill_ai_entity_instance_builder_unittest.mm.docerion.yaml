@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_instance_builder_unittest.mm.
+type: test
+title: Entity instance builder unit tests
+summary: Tests building entities such as passports and driver's licenses with primary attributes and verifying save and fetch via the entity data manager.

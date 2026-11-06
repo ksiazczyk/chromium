@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_item_factory.mm.
+type: source
+title: Autofill AI entity edit item factory implementation
+summary: Implements the item factory, creating date, country, or text items for attributes and obfuscating values when the user is not authenticated.

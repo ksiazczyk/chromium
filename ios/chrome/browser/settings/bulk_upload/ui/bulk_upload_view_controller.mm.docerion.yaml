@@ -1,0 +1,4 @@
+# Docerion header of bulk_upload_view_controller.mm.
+type: source
+title: Bulk upload view controller implementation
+summary: Implements the bulk upload screen with an embedded table view, save-in-account button, and cancel handling.

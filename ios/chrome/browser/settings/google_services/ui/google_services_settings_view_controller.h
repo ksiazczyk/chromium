@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings view controller interface
+// summary: Declares the Google services settings view controller, its presentation delegate protocol, and its model and presentation delegate properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_VIEW_CONTROLLER_H_
 

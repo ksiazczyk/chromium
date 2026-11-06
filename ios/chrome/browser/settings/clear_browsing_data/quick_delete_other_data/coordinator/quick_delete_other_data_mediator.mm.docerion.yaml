@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_other_data_mediator.mm.
+type: source
+title: Quick Delete Other Data mediator implementation
+summary: Implements the mediator, observing sign-in and search engine changes to update the consumer's activity and search history cells.

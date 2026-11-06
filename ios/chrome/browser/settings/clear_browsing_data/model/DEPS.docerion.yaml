@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for clear browsing data model
+summary: Restricts includes in this directory to the ios/chrome/browser/browsing_data/model dependency.

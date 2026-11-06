@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_mediator_unittest.mm.
+type: test
+title: QuickDeleteMediator unit tests
+summary: Unit tests for the Quick Delete mediator, verifying construction of summaries based on browsing data counters.

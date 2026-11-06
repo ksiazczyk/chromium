@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Suggestions from Gemini coordinator
+summary: Defines the coordinator source_set and unit_tests target for the Suggestions from Gemini settings with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_other_data_mediator_unittest.mm.
+type: test
+title: Quick Delete Other Data mediator unit tests
+summary: Unit tests for the mediator covering sign-in and default search engine state updates using fake identities and test services.

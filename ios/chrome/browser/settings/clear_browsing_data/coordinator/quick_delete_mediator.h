@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteMediator class header
+// summary: Declares the mediator that connects the Quick Delete UI to prefs, counters, identity, removal and feature engagement services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_COORDINATOR_QUICK_DELETE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_COORDINATOR_QUICK_DELETE_MEDIATOR_H_
 

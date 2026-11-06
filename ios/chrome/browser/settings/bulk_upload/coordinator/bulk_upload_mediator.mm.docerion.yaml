@@ -1,0 +1,4 @@
+# Docerion header of bulk_upload_mediator.mm.
+type: source
+title: Bulk upload mediator implementation (bulk_upload_mediator.mm)
+summary: Implements the mediator that maps local bookmarks, passwords, and reading list data for bulk upload, observing identity changes and requiring reauthentication for passwords.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card settings navigation commands protocol
+// summary: Declares a protocol for navigating the credit card settings page, including dismissing, adding a payment method, CVC storage and card details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_UI_AUTOFILL_CREDIT_CARD_NAVIGATION_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_UI_AUTOFILL_CREDIT_CARD_NAVIGATION_COMMANDS_H_
 

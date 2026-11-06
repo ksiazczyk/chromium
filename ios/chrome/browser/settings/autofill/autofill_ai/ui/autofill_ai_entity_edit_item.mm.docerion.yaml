@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_item.mm.
+type: source
+title: Autofill AI entity edit item implementation
+summary: Implements the Autofill AI entity edit item, syncing the valid value status with the text field display.

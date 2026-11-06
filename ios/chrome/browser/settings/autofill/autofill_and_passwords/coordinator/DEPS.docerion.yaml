@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator directory
+summary: Defines the allowed include paths for this directory, with an extra rule letting unit test files include account_settings.

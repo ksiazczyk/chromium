@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete Other Data view controller interface
+// summary: Declares QuickDeleteOtherDataViewController, a Chrome table view controller for the Quick Delete Other Data page, with quick delete and scene command handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_UI_QUICK_DELETE_OTHER_DATA_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_UI_QUICK_DELETE_OTHER_DATA_VIEW_CONTROLLER_H_
 

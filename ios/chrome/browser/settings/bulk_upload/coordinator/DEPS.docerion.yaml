@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bulk upload coordinator
+summary: Restricts includes in the bulk upload coordinator directory to allowed device reauth, signin, and sync model headers.

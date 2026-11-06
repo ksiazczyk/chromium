@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_help_improve_table_view_controller.mm.
+type: source
+title: Suggestions from Gemini Help Improve settings view controller
+summary: Implements the Help improve enhanced autofill settings page, building sections that vary with the Suggestions from Gemini policy state and logging user actions.

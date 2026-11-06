@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill AI utils GN build definition
+summary: Defines GN source sets for the autofill AI date and entity builder utilities and their unit tests with dependency lists.

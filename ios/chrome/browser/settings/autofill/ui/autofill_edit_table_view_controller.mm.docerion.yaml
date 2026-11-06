@@ -1,0 +1,4 @@
+# Docerion header of autofill_edit_table_view_controller.mm.
+type: source
+title: AutofillEditTableViewController implementation
+summary: Implements the Autofill edit table view controller, handling text field editing, keyboard accessory view, and navigation between fields.

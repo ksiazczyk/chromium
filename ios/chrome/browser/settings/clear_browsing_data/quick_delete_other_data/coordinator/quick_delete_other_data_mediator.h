@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete Other Data mediator interface
+// summary: Declares the mediator that tracks sign-in status and default search engine state for the Quick Delete Other Data page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_COORDINATOR_QUICK_DELETE_OTHER_DATA_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_COORDINATOR_QUICK_DELETE_OTHER_DATA_MEDIATOR_H_
 

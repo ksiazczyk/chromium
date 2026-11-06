@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_date_util.mm.
+type: source
+title: Autofill AI date utility implementation
+summary: Implements NSDate conversion for date attributes using the library date format, plus trait-based logic for choosing a popover date picker.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_table_view_controller.mm.
+type: source
+title: Autofill AI entity edit table view controller implementation
+summary: Implements the entity edit table view controller, managing attribute items, footer legal messages, save and cancel actions, and metrics logging.

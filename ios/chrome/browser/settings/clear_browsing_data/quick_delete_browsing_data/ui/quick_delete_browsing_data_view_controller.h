@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete Browsing Data view controller header
+// summary: Declares the QuickDeleteBrowsingDataViewController table view controller with delegate and mutator properties for the quick delete UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_UI_QUICK_DELETE_BROWSING_DATA_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_UI_QUICK_DELETE_BROWSING_DATA_VIEW_CONTROLLER_H_
 

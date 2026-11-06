@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillBnplMediator header
+// summary: Declares the mediator for the BNPL settings subpage, built from a PersonalDataManager and a PrefService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_MEDIATOR_H_
 

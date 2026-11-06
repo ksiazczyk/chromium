@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_settings_egtest.mm.
+type: test
+title: Autofill AI settings Earl Grey UI tests
+summary: Earl Grey integration tests that verify creating, viewing and editing Autofill AI entities from the Addresses and more settings page.

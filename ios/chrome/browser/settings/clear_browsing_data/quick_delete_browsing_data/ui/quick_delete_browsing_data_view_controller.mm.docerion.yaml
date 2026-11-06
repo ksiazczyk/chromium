@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_browsing_data_view_controller.mm.
+type: source
+title: Quick Delete Browsing Data view controller implementation
+summary: Implements the quick delete browsing data table view, showing browsing data types with symbols, summaries, and actions like managing other data and signing out.

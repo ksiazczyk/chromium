@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopUpMenuControl interface
+// summary: Declares a UIControl that shows a pop-up menu when tapped, with a static title on the left and the selected menu action on the right.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_POP_UP_MENU_CONTROL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_POP_UP_MENU_CONTROL_H_
 

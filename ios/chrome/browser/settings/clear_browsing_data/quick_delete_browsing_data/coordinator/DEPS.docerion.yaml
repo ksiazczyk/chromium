@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the quick delete browsing data coordinator
+summary: Restricts the directories whose headers this coordinator may include, covering authentication, browsing data, discover feed, feature engagement and signin models.

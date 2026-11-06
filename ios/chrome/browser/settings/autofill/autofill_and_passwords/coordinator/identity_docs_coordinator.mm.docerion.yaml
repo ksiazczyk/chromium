@@ -1,0 +1,4 @@
+# Docerion header of identity_docs_coordinator.mm.
+type: source
+title: Identity Docs coordinator implementation
+summary: Implements the Identity Docs coordinator, wiring its mediator, the entity edit coordinator and the Suggestions from Gemini coordinator for the settings page.

@@ -1,0 +1,4 @@
+# Docerion header of google_services_settings_mediator.mm.
+type: source
+title: Google services settings mediator implementation
+summary: Builds the settings table items for sign-in, metrics reporting and related toggles and applies preference changes.

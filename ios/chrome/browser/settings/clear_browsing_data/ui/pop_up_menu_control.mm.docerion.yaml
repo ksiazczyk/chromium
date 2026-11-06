@@ -1,0 +1,4 @@
+# Docerion header of pop_up_menu_control.mm.
+type: source
+title: PopUpMenuControl implementation
+summary: Implements the pop-up menu control, laying out its title label, subtitle button, and chevron icon with accessibility support.

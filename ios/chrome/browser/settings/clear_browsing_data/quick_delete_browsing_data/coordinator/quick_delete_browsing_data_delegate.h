@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteBrowsingDataDelegate protocol
+// summary: Declares the delegate protocol for the coordinator, with a stopBrowsingDataPage method invoked when the browsing data page should be stopped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_COORDINATOR_QUICK_DELETE_BROWSING_DATA_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_COORDINATOR_QUICK_DELETE_BROWSING_DATA_DELEGATE_H_
 

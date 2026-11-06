@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_coordinator_unittest.mm.
+type: test
+title: Suggestions from Gemini coordinator unit tests
+summary: Tests coordinator start and stop, connected apps URL opening via SceneCommands, and help improve user action logging.

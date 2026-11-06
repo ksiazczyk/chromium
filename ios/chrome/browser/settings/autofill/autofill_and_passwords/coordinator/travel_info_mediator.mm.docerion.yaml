@@ -1,0 +1,4 @@
+# Docerion header of travel_info_mediator.mm.
+type: source
+title: Travel Info mediator implementation
+summary: Implements the Travel Info settings mediator, mapping travel-related autofill AI entities and keeping pref-backed toggle state in sync with the consumer.

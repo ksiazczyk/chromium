@@ -1,0 +1,4 @@
+# Docerion header of autofill_add_credit_card_mediator.mm.
+type: source
+title: Autofill add credit card mediator implementation
+summary: Implements credit card validation and saving via the personal data manager, notifying its delegate of invalid input or completion.

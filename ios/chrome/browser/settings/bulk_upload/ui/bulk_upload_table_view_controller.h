@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk upload table view controller header
+// summary: Declares the table view controller that displays bulk upload view items and holds a mutator reference.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_UI_BULK_UPLOAD_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_UI_BULK_UPLOAD_TABLE_VIEW_CONTROLLER_H_
 

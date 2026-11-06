@@ -1,0 +1,4 @@
+# Docerion header of google_services_settings_view_controller.mm.
+type: source
+title: Google services settings view controller implementation
+summary: Implements the Google services settings screen, including managed sign-in info popovers, popover dismissal on trait changes, and user action metrics.

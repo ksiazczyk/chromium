@@ -1,0 +1,4 @@
+# Docerion header of table_view_pop_up_cell.mm.
+type: source
+title: TableViewPopUpCell implementation for clear browsing data UI
+summary: Implements a table view cell that hosts a pop-up menu control with styling and layout for the iOS Chrome clear browsing data interface.

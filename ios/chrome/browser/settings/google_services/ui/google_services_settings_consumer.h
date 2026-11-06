@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings consumer protocol
+// summary: Declares the consumer protocol exposing the table view model, reload behavior, and managed info popover display for Google services settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_CONSUMER_H_
 

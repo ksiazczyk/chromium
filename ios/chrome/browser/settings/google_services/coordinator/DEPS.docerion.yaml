@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator folder
+summary: Lists the directories whose headers this folder is allowed to include.

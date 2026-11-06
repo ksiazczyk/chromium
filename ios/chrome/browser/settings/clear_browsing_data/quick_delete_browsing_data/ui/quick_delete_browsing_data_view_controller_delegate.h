@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete Browsing Data view controller delegate protocol
+// summary: Defines the delegate protocol for the quick delete browsing data page, covering dismissal, opening the other data page, and the sign-out action sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_UI_QUICK_DELETE_BROWSING_DATA_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_BROWSING_DATA_UI_QUICK_DELETE_BROWSING_DATA_VIEW_CONTROLLER_DELEGATE_H_
 

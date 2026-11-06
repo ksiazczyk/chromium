@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_coordinator_unittest.mm.
+type: test
+title: Autofill AI entity edit coordinator unit tests
+summary: Unit tests verifying that the coordinator starts and stops correctly and manages its view controller with test profile and browser setup.

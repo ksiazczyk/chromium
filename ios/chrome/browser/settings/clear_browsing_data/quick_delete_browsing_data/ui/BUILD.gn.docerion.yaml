@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for quick delete browsing data UI
+summary: Defines the GN source_set for the quick delete browsing data UI, listing its Objective-C sources and Chromium dependencies.

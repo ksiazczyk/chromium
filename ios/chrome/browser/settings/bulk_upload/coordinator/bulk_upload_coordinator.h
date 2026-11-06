@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bulk upload coordinator header (bulk_upload_coordinator.h)
+// summary: Declares the BulkUploadCoordinator Chrome coordinator that presents the save-in-account bulk upload UI, with a delegate property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_COORDINATOR_BULK_UPLOAD_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_COORDINATOR_BULK_UPLOAD_COORDINATOR_H_
 

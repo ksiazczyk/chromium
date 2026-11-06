@@ -1,0 +1,4 @@
+# Docerion header of identity_docs_coordinator_unittest.mm.
+type: test
+title: Identity Docs coordinator unit tests
+summary: Unit tests for the Identity Docs coordinator, verifying start and stop behavior and that selecting an entity launches the entity edit coordinator.

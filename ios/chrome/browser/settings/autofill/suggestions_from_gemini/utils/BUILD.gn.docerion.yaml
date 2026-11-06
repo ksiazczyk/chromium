@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the suggestions_from_gemini utils source set
+summary: Defines the utils source set listing the Suggestions from Gemini utility sources and its dependencies on optimization guide features, prefs, and the settings UI.

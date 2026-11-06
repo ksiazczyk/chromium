@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillBnplCoordinatorDelegate protocol
+// summary: Delegate protocol informing its owner when the BNPL coordinator wants to be stopped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_COORDINATOR_DELEGATE_H_
 

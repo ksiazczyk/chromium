@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the quick delete browsing data coordinator
+summary: Defines the coordinator source_set, listing its Objective-C sources and the Chromium dependencies needed by the Quick Delete Browsing Data feature.

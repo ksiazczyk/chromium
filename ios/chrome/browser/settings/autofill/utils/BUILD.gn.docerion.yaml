@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for autofill settings UI utilities
+summary: Defines the source_set for the autofill settings UI utility files and lists its Chromium build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of bulk_upload_table_view_controller.mm.
+type: source
+title: Bulk upload table view controller implementation
+summary: Implements the table view listing bulk upload data types as switches and forwards toggle changes to the mutator.

@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_table_view_controller_unittest.mm.
+type: test
+title: Suggestions from Gemini table view controller unit tests
+summary: Unit tests for the Suggestions from Gemini autofill settings table view controller, checking the switch and Manage Connected Apps rows, labels, and user actions.

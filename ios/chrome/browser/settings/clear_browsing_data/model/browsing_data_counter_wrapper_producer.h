@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter wrapper producer interface
+// summary: Declares BrowsingDataCounterWrapperProducer, an Objective-C class that creates browsing data counter wrappers for a given profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_MODEL_BROWSING_DATA_COUNTER_WRAPPER_PRODUCER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_MODEL_BROWSING_DATA_COUNTER_WRAPPER_PRODUCER_H_
 

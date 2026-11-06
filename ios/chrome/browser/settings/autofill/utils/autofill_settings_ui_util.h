@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings UI utility declarations
+// summary: Declares helpers that build deletion confirmation messages for address profiles and Autofill AI entities and check whether table view items are deletable.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_UTILS_AUTOFILL_SETTINGS_UI_UTIL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_UTILS_AUTOFILL_SETTINGS_UI_UTIL_H_
 

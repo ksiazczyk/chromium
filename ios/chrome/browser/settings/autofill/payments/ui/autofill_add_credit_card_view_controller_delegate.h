@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add credit card view controller delegate protocol
+// summary: Defines the delegate protocol for saving a new credit card and validating card number, expiration, nickname and CVC input.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_UI_AUTOFILL_ADD_CREDIT_CARD_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_UI_AUTOFILL_ADD_CREDIT_CARD_VIEW_CONTROLLER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings view controller model delegate protocol
+// summary: Declares the delegate protocol for loading the settings model and checking whether the view controller is subject to parental controls.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_VIEW_CONTROLLER_MODEL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_UI_GOOGLE_SERVICES_SETTINGS_VIEW_CONTROLLER_MODEL_DELEGATE_H_
 

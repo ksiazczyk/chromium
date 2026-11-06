@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_add_entities_menu_builder_unittest.mm.
+type: test
+title: Unit tests for the Add Entities menu builder
+summary: Verifies that the built menu contains the expected number of actions and places the address action at the end.

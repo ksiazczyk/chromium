@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Autofill AI settings UI
+summary: Defines GN source sets for the Autofill AI settings UI, its edit items, and unit tests, listing sources and dependencies for each.

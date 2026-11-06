@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteMutator protocol
+// summary: Declares the protocol the view controller uses to notify the mediator about time range selection, data type selections, and deletion triggers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_MUTATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines include rules allowing dependencies on ios/chrome/browser/net/model for this directory.

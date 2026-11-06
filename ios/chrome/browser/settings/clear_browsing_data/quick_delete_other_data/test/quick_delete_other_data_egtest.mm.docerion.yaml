@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_other_data_egtest.mm.
+type: test
+title: Earl Grey tests for the Quick Delete Other Data page
+summary: Earl Grey UI tests for the Quick Delete Other Data settings page, covering the passwords and passkeys, search history and My Activity cells.

@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_browsing_data_coordinator.mm.
+type: source
+title: QuickDeleteBrowsingDataCoordinator implementation
+summary: Implements the coordinator by building the QuickDeleteMediator, presenting the view controller, and handling other-data deletion and signout flows.
