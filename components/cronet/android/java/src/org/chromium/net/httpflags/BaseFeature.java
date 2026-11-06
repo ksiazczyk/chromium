@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'BaseFeature: HTTP flags to base::Feature overrides bridge'
+// summary: Utility class that converts resolved HTTP flags prefixed with ChromiumBaseFeature_ into native base::Feature state and param overrides for Cronet.
+// ---
+
 package org.chromium.net.httpflags;
 
 import androidx.annotation.Nullable;

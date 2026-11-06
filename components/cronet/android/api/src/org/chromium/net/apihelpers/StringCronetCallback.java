@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet callback decoding the response body as a string
+// summary: Abstract Cronet callback that decodes the response body as a string using the charset from Content-Type headers.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import org.chromium.net.UrlResponseInfo;

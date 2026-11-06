@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ResolvedFlags: effective HTTP flags for a Cronet instance'
+// summary: Holds the effective HTTP flags for a Cronet library instance, resolving constrained flag values by app ID, minimum version and telemetry settings with type-safe access.
+// ---
+
 package org.chromium.net.httpflags;
 
 import androidx.annotation.IntDef;

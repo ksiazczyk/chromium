@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HttpEngine URL request wrapper as Cronet request
+// summary: Wraps an android.net.http.UrlRequest as a Cronet ExperimentalUrlRequest, tracking request timing and reimplementing request-finished listener support for compatibility.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

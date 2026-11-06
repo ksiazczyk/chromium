@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleActivityViewModel caching fragments by ID
+// summary: ViewModel that maps fragment IDs to MainFragment and OptionsFragment instances, creating and caching them on demand.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import androidx.fragment.app.Fragment;

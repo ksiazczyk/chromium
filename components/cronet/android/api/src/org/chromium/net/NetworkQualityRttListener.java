@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityRttListener
+// summary: Abstract listener that receives round-trip time observations from QUIC, TCP, and request timings on a caller-provided executor.
+// ---
+
 package org.chromium.net;
 
 import java.util.concurrent.Executor;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference-counting delegate
+// summary: Thread-safe counter starting at one that runs a delegate callback exactly when the count is decremented to zero.
+// ---
+
 package org.chromium.net.impl;
 
 import java.util.concurrent.atomic.AtomicInteger;

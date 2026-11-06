@@ -1,0 +1,4 @@
+# Docerion header of ApiVersion.template.
+type: source
+title: Cronet API version template
+summary: Template for the ApiVersion class that reports the Cronet version, API level, and minimum compatible implementation level after build-time placeholder substitution.

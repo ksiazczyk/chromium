@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for Java-based UrlRequest implementations
+// summary: Holds state constants and helpers for Java UrlRequest, including a state-to-string mapping and an executor that detects and rejects inline execution.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.IntDef;

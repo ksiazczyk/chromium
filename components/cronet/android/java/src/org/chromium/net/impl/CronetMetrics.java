@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetMetrics request metrics implementation
+// summary: Implementation of RequestFinishedInfo.Metrics storing request timing, byte counts, and socket reuse data, populated from native code.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.Nullable;

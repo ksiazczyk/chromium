@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkException wrapper for the Android HttpEngine provider
+// summary: Maps android.net.http.NetworkException to Cronet NetworkException, preserving error codes and attaching the backend exception as suppressed for crash reporting.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlRequest
+// summary: Abstract class controlling an HTTP request in Cronet, with a Builder for configuring method, headers, priority, and upload data before execution.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.RequiresOptIn;

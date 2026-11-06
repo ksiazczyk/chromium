@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackException wrapper for the Android HttpEngine provider
+// summary: Converts android.net.http.CallbackException instances into Cronet CallbackException objects, preserving the message and the callback's cause.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

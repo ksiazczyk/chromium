@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetLibraryLoader
+// summary: Loads and initializes the Cronet native library on a dedicated init thread and manages httpflags and UMA allowlist setup.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

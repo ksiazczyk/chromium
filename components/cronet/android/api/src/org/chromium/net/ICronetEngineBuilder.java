@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ICronetEngineBuilder
+// summary: Abstract builder interface that CronetEngine.Builder delegates to, defining the configuration methods each Cronet implementation must provide.
+// ---
+
 package org.chromium.net;
 
 import java.util.Collections;

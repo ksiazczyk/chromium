@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MD5-based 64-bit hash helper for telemetry fields
+// summary: Utility that hashes strings or byte arrays into signed 64-bit integers using the first eight bytes of an MD5 digest for Cronet telemetry fields.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static java.nio.charset.StandardCharsets.UTF_8;

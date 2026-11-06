@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStream to ReadableByteChannel adapter
+// summary: Adapts an InputStream into a ReadableByteChannel more efficiently than Channels.newChannel by reusing backing arrays and FileInputStream channels.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.NonNull;

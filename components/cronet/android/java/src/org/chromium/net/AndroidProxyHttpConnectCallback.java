@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidProxyHttpConnectCallback platform callback wrapper
+// summary: Android platform HttpConnectCallback implementation that delegates to the Cronet callback and maps response actions to platform constants.
+// ---
+
 package org.chromium.net;
 
 import android.util.Pair;

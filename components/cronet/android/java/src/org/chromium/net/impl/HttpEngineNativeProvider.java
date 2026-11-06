@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform HttpEngine Cronet provider
+// summary: Cronet provider that builds engines backed by the Android platform HttpEngine API, with availability checks based on the SDK extension version.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

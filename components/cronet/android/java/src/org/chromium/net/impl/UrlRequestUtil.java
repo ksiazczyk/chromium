@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: UrlRequestUtil
+// summary: Utility that converts internal LoadState values into the corresponding UrlRequest.Status values, throwing an exception when no matching status exists.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.IntDef;

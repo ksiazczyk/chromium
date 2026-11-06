@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cronet API code
+summary: Explains that this directory holds code shipped in the Cronet API library, which is embedded in apps and updated only when developers pull a new version, except when built as part of AOSP.
+---
+
 # Cronet API code
 
 This directory contains code that is shipped in the Cronet API library. The

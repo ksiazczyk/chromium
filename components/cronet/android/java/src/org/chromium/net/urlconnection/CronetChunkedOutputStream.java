@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetChunkedOutputStream
+// summary: OutputStream that sends the request body in chunks to the server when setChunkedStreamingMode is used, without buffering the whole body or supporting rewind.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.base.metrics.ScopedSysTraceEvent;

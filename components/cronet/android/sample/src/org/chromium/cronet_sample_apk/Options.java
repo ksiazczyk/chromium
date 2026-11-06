@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options registry of sample engine options
+// summary: Defines the available Cronet sample options, each with a short name, description, default value, and an action that configures the engine builders, plus guidance for adding new options.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import androidx.annotation.OptIn;

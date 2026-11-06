@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetProvider
+// summary: Factory for creating CronetEngine.Builder instances and for discovering and selecting among available Cronet provider implementations.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

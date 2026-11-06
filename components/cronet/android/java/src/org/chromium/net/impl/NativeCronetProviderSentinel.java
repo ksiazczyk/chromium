@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sentinel class for NativeCronetProvider
+// summary: Marker class whose presence in a build enables NativeCronetProvider, letting packaging schemes disable the provider by omitting it.
+// ---
+
 package org.chromium.net.impl;
 
 /**

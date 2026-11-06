@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java Cronet engine backed by HttpURLConnection
+// summary: CronetEngine implementation built on java.net.HttpURLConnection that serves as a pure-Java fallback without netlog, cache, or bidirectional stream support.
+// ---
+
 package org.chromium.net.impl;
 
 import android.annotation.SuppressLint;

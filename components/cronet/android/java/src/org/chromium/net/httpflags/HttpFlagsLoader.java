@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'HttpFlagsLoader: loads HTTP flags from the host system'
+// summary: Locates and loads the binary proto HTTP flags file exposed by a provider app in the Android system image, enabling remote configuration and A/B experiments.
+// ---
+
 package org.chromium.net.httpflags;
 
 import android.content.Context;

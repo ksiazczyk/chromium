@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetUmaRecorder
+// summary: Helper class that records UMA histograms from native code by forwarding metric hashes to the CronetLogger.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

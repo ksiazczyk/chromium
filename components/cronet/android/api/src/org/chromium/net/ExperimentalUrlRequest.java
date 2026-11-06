@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ExperimentalUrlRequest
+// summary: Deprecated UrlRequest subclass and builder exposing experimental features such as idempotency control and connection migration disabling.
+// ---
+
 package org.chromium.net;
 
 import java.util.concurrent.Executor;

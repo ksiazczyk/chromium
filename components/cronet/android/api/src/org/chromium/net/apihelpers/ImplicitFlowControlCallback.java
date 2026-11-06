@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet callback with automatic flow control
+// summary: Abstract UrlRequest.Callback that manages the request lifecycle and automatically reads the full response.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import androidx.annotation.Nullable;

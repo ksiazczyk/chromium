@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetSampleApplication managing the CronetEngine lifecycle
+// summary: Application class that creates the CronetEngine and rebuilds it with user-selected options applied through ActionData when the engine is restarted.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import android.app.Application;

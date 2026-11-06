@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ByteBuffer precondition checks
+// summary: Utility class with checks that a ByteBuffer is direct and still has remaining capacity, throwing IllegalArgumentException otherwise.
+// ---
+
 package org.chromium.net.impl;
 
 import java.nio.ByteBuffer;

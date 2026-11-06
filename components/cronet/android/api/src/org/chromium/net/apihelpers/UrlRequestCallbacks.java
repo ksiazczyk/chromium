@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlRequestCallbacks
+// summary: Utility class creating convenient UrlRequest.Callback implementations that collect byte array, string or JSON response bodies, with completion listeners or futures.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import androidx.annotation.Nullable;

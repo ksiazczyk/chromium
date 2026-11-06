@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetURLStreamHandlerFactory
+// summary: URLStreamHandlerFactory that installs Cronet as the default handler for HTTP and HTTPS URL connections and documents its unsupported system features.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.net.ExperimentalCronetEngine;

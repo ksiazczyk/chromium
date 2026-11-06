@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet callback parsing the response body as JSON
+// summary: Abstract Cronet callback that interprets the response body as a JSON object.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import org.json.JSONException;

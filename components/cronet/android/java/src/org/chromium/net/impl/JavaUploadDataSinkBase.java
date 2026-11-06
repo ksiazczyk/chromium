@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base upload data sink for Java URL requests
+// summary: Abstract base class for Java UrlRequest upload data sinks, handling asynchronous reads, rewinds, and executor management for upload data.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionsRecyclerViewAdapter for option toggle rows
+// summary: RecyclerView adapter that renders each option with its short name, description, and a switch that toggles the option's value.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import android.view.LayoutInflater;

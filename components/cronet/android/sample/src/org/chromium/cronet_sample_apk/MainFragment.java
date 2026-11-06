@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainFragment for sending URL requests
+// summary: Home fragment that lets users enter a URL, start a Cronet request, reset the engine, and clear results, handling request callbacks including a slow-download simulation.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import android.os.Bundle;

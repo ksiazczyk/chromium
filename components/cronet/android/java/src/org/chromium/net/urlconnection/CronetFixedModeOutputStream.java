@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetFixedModeOutputStream
+// summary: OutputStream that streams a request body of known content length to the server when setFixedLengthStreamingMode is used, without buffering the whole body.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import androidx.annotation.VisibleForTesting;

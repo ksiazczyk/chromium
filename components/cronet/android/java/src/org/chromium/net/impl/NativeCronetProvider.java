@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Cronet provider
+// summary: CronetProvider that creates builders for the native Cronet engine and can delegate to the Android HttpEngine provider when available or forced by flag.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ExperimentalOptionsFlags: HTTP flags to Cronet experimental options'
+// summary: Translates HTTP flags named CronetExperimentalOption_<Section>_KEY_<Option> into overrides applied to the Cronet experimental options JSON configuration.
+// ---
+
 package org.chromium.net.httpflags;
 
 import androidx.annotation.Nullable;

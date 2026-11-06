@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CronetEngineBase
+// summary: Abstract base class shared by CronetUrlRequestContext and JavaCronetEngine that defines shared request creation logic.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.IntDef;

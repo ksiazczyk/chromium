@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Cronet sample options fragment layout
+summary: Android layout for the Cronet sample options fragment, containing a full-size RecyclerView that lists the available options.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"

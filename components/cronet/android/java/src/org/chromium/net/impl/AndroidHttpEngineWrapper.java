@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet engine wrapper around android.net.http.HttpEngine
+// summary: Implements CronetEngineBase on top of the platform HttpEngine, creating wrapped requests and streams and logging unsupported features like NetLog and global metrics.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

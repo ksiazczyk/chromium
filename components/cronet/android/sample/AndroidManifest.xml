@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the Cronet sample APK
+summary: Android manifest declaring the Cronet sample application, its launcher activity, required network permissions, and telemetry service metadata.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="org.chromium.cronet_sample_apk">

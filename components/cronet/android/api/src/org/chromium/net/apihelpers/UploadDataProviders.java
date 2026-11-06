@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadDataProviders
+// summary: Factory class providing UploadDataProvider implementations for uploading files, file descriptors, ByteBuffers and byte arrays in Cronet.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import android.os.ParcelFileDescriptor;

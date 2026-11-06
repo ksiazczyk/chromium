@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback Java Cronet provider
+// summary: CronetProvider that creates builders for the Java-based engine, optionally delegating to the platform HttpEngine provider when a force flag is enabled.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

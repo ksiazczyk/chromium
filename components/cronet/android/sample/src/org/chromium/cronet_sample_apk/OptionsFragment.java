@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionsFragment displaying the options list
+// summary: Fragment that shows the list of available options in a RecyclerView with a linear layout manager and horizontal dividers.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import android.os.Bundle;

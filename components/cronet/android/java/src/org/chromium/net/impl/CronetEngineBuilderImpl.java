@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CronetEngineBuilderImpl
+// summary: Abstract implementation of ICronetEngineBuilder holding QUIC hints, public key pins and HTTP cache mode configuration.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

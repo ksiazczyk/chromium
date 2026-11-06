@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserAgent
+// summary: Constructs User-Agent and QUIC user agent ID strings from the application package, Android build information and the Cronet version.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

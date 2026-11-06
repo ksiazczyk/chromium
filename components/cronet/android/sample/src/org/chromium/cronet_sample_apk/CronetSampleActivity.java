@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetSampleActivity main activity with bottom navigation
+// summary: Main sample activity that switches between the home and options fragments and updates the bottom navigation bar styling for the selected tab.
+// ---
+
 package org.chromium.cronet_sample_apk;
 
 import static org.chromium.cronet_sample_apk.SampleActivityViewModel.FRAGMENT_ID_FLAGS;

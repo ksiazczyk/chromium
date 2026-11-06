@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake UrlRequest serving responses from the controller
+// summary: Fake UrlRequest that retrieves responses from the FakeCronetController and reports them to callbacks, used for testing Cronet usage on Android.
+// ---
+
 package org.chromium.net.test;
 
 import androidx.annotation.GuardedBy;

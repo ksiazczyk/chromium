@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testable wrapper for android.os.SystemProperties.get
+// summary: Reads Android system properties with support for scoped test overrides of individual key values.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.SystemProperties;

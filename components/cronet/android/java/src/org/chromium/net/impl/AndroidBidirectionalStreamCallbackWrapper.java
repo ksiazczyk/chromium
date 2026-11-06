@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStream callback wrapper for the Android HttpEngine provider
+// summary: Implements android.net.http.BidirectionalStream.Callback by delegating stream events to the corresponding Cronet callback with wrapped response info and header blocks.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

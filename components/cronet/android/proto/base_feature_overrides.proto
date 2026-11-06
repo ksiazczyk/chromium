@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Base feature overrides proto schema
+// summary: Protobuf schema defining BaseFeatureOverrides, which maps base::Feature names to enabled/disabled states and string-valued feature params for Cronet.
+// ---
+
 syntax = "proto2";
 
 package org.chromium.net.httpflags;

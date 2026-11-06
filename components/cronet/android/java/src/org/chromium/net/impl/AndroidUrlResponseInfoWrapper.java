@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HttpEngine URL response info wrapper for Cronet
+// summary: Wraps android.net.http.UrlResponseInfo as a Cronet UrlResponseInfo, emulating the undocumented getProxyServer behavior for requests and bidirectional streams.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

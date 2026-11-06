@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory Cronet callback with body transformation
+// summary: Abstract Cronet callback that buffers the body in memory, deserializes it, and notifies completion listeners.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import androidx.annotation.Nullable;

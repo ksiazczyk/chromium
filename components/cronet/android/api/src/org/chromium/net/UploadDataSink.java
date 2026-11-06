@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadDataSink
+// summary: Abstract callback interface through which an UploadDataProvider reports read and rewind success or failure to Cronet.
+// ---
+
 package org.chromium.net;
 
 /**

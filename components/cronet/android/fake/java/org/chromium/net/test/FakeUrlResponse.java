@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake response model for Cronet UrlRequest testing
+// summary: Models a fake HTTP response with status code, headers, body, and caching info, built directly or from a UrlResponseInfo.
+// ---
+
 package org.chromium.net.test;
 
 import org.chromium.net.UrlResponseInfo;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder for the Java-based Cronet engine
+// summary: ICronetEngineBuilder implementation that configures and builds a JavaCronetEngine, applying a default user agent when none is set.
+// ---
+
 package org.chromium.net.impl;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-second sample rate limiter
+// summary: Thread-safe rate limiter that permits a configured number of telemetry samples per second based on elapsed time.
+// ---
+
 package org.chromium.net.telemetry;
 
 import android.os.SystemClock;

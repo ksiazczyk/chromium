@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HttpEngine QuicException wrapper for Cronet
+// summary: Wraps android.net.http.QuicException as a Cronet QuicException, exposing a null cause with the backend attached as a suppressed exception for crash-reporting compatibility.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

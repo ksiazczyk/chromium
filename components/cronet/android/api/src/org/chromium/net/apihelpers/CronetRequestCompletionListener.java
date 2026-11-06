@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet request completion listener interface
+// summary: Interface for asynchronously receiving success, failure, and cancellation results of a Cronet request.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import androidx.annotation.Nullable;

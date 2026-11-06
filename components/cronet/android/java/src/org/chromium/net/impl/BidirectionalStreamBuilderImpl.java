@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bidirectional stream builder implementation
+// summary: Implements ExperimentalBidirectionalStream.Builder, storing URL, callback, executor, headers, priority and TrafficStats settings used to build Cronet bidirectional streams.
+// ---
+
 package org.chromium.net.impl;
 
 import android.annotation.SuppressLint;

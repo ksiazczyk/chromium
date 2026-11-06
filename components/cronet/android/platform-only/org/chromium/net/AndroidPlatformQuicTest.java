@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android platform QUIC request tests
+// summary: JUnit tests for QUIC requests when Cronet is built as part of the Android platform, using hidden Connectivity module APIs and a QUIC test server.
+// ---
+
 package org.chromium.net;
 
 import static android.Manifest.permission.NETWORK_SETTINGS;

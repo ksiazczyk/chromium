@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interface for matching UrlRequests to fake responses
+// summary: Interface that optionally returns a FakeUrlResponse based on a request's URL, HTTP method, headers, and body.
+// ---
+
 package org.chromium.net.test;
 
 import androidx.annotation.Nullable;

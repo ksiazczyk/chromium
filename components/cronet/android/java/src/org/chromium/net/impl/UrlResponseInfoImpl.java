@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlResponseInfoImpl
+// summary: Implements the UrlResponseInfo container with URL chain, status code, headers, cache state, protocol and proxy details used in UrlRequest callbacks.
+// ---
+
 package org.chromium.net.impl;
 
 import org.chromium.net.UrlResponseInfo;

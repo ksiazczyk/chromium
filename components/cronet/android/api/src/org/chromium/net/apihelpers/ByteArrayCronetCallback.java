@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet callback returning the response body as raw bytes
+// summary: Abstract Cronet callback that returns the response body bytes verbatim without any interpretation.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import org.chromium.net.UrlResponseInfo;

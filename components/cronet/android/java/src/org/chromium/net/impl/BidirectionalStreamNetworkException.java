@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network exception for bidirectional streams
+// summary: NetworkExceptionImpl subclass used by CronetBidirectionalStream that treats HTTP/2 ping failed and QUIC handshake failed errors as immediately retryable.
+// ---
+
 package org.chromium.net.impl;
 
 import androidx.annotation.VisibleForTesting;

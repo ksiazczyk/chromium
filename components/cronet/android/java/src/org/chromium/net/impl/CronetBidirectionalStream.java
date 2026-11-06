@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetBidirectionalStream
+// summary: BidirectionalStream implementation backed by the Chromium network stack, coordinating read and write states between Java callbacks and native code.
+// ---
+
 package org.chromium.net.impl;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetHttpURLStreamHandler
+// summary: URLStreamHandler that creates Cronet-backed HttpURLConnection instances for HTTP and HTTPS URLs, optionally through a proxy.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import org.chromium.net.ExperimentalCronetEngine;

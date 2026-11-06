@@ -1,0 +1,4 @@
+# Docerion header of ImplVersion.template.
+type: source
+title: ImplVersion build info template
+summary: Template for the ImplVersion class that exposes Cronet build version, last change, and API level, with placeholders substituted at build time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CronetEngine implementation for Android tests
+// summary: Implements CronetEngine as a fake that creates fake UrlRequests whose responses are supplied by an associated FakeCronetController.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.Context;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cronet HttpURLConnection implementation
+summary: Describes the directory's Cronet-backed java.net.HttpURLConnection implementation and cautions about version-mismatch risks when calling the Cronet API.
+---
+
 # Cronet HttpURLConnection implementation
 
 This directory contains an implementation of [`java.net.HttpURLConnection`](https://developer.android.com/reference/java/net/HttpURLConnection)

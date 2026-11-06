@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet to Android HttpEngine URL request callback adapter
+// summary: Implements android.net.http.UrlRequest.Callback by delegating to a Cronet callback, wrapping response info and translating Cronet exceptions for the HttpEngine provider.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.chromium.net.impl.HttpEngineNativeProvider.EXT_API_LEVEL;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetLoggerImpl telemetry logger implementation
+// summary: Implements the CronetLogger base class to write Cronet telemetry atoms via CronetStatsLog, with rate limiting, random ID generation and Android version checks.
+// ---
+
 package org.chromium.net.telemetry;
 
 import android.os.Build;

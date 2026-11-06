@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidirectionalStream
+// summary: Defines the Cronet API for bidirectional sending and receiving of data over HTTP/2 or QUIC connections, including its builder and stream priority settings.
+// ---
+
 package org.chromium.net;
 
 import android.annotation.SuppressLint;
