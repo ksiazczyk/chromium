@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest monitor implementation
+// summary: Implements the manifest monitor that selects model manifests based on device category, enterprise policy and user settings, and reloads them when inputs change.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_monitor.h"
 
 #include <utility>

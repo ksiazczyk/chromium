@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model broker client declarations
+// summary: Declares ModelClient and ModelSubscriberImpl, which access on-device model solutions through the model broker Mojom interface and create sessions.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MODEL_BROKER_CLIENT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MODEL_BROKER_CLIENT_H_
 

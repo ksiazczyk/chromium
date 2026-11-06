@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model download progress manager implementation
+// summary: Implements the manager that tracks on-device model component download progress from the component updater and reports normalized progress to download observers.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_download_progress_manager.h"
 
 #include "components/update_client/crx_update_item.h"

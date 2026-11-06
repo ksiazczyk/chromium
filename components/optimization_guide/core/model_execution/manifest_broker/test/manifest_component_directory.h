@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for manifest component directory test helpers
+// summary: Declares ManifestComponentDirectory, ManifestOverrideBuilder, and ManifestOverrideFile for constructing test manifest directories and overrides.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_MANIFEST_COMPONENT_DIRECTORY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_MANIFEST_COMPONENT_DIRECTORY_H_
 

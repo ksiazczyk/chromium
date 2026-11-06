@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake manifest broker implementation for tests
+// summary: Implements test helpers that initialize model broker features and prefs and drive a fake manifest broker through startup, session creation, and shutdown.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/test/fake_manifest_broker.h"
 
 #include "base/test/test_future.h"

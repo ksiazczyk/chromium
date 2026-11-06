@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake manifest broker test helper declarations
+// summary: Declares ScopedModelBrokerFeatureList, ModelBrokerPrefService, and FakeManifestBroker for setting up model broker tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_FAKE_MANIFEST_BROKER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_TEST_FAKE_MANIFEST_BROKER_H_
 

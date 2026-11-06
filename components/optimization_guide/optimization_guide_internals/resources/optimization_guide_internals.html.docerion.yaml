@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_internals.html.
+type: source
+title: Optimization Guide Internals page markup
+summary: HTML template for the Optimization Guide Internals WebUI page with tabs for event logs, downloaded models, logged client IDs, and MQLS logs.

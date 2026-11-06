@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution feature flags
+// summary: Defines base::Feature flags and helpers governing settings visibility, graduation, and account capability checks for model execution features.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_features.h"
 
 #include <optional>

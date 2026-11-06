@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the origin gating core
+summary: GN build file that defines the core source set and the unit_tests source set, listing their sources and dependencies for the origin gating component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON response parser interface
+// summary: Declares JsonResponseParser, a ResponseParser that reads complete JSON model output into a proto message and suppresses incomplete responses.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_JSON_RESPONSE_PARSER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_JSON_RESPONSE_PARSER_H_
 

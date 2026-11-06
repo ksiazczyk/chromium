@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Response parser factory unit tests
+// summary: Verifies that the factory selects and runs the simple, JSON, and AQA response parsers correctly for the given output configurations.
+// ---
+
 #include "components/optimization_guide/core/model_execution/response_parser_factory.h"
 
 #include "base/test/gmock_expected_support.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the origin gating core directory
+summary: DEPS file declaring the allowed include paths, such as base, keyed_service, net, gtest, abseil and url, for code in the origin gating core directory.

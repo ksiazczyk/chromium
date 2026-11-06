@@ -1,0 +1,4 @@
+# Docerion header of gen_on_device_proto_descriptors.py.
+type: script
+title: On-device proto descriptor code generator
+summary: Python code generator that produces a C++ source file containing proto descriptors used for on-device model execution, including enum allowlist handling for parser kinds.

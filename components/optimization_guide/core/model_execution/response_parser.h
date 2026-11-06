@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Response parser interface
+// summary: Defines the ResponseParser interface and ResponseParsingError enum for asynchronously parsing redacted on-device model output into structured proto data.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_RESPONSE_PARSER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_RESPONSE_PARSER_H_
 

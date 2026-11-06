@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill field classification model metadata
+// summary: Proto definitions for the autofill field classification model, covering input features, preprocessing, and postprocessing parameters.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

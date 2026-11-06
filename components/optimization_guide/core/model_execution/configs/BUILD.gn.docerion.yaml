@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for model execution config builders
+summary: Defines the substitution_builders, summarize_config, and manifest_builder targets with their sources and dependencies.

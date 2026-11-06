@@ -21,6 +21,12 @@
 //       .Set(NestedProto::kMediaFieldNumber, std::move(skbitmap1));
 //   session->SetInput(std::move(request));
 
+// ---docerion
+// type: source
+// title: Multimodal message declarations
+// summary: Defines MultimodalMessage and its read and edit views, which attach image, audio, and pending-state metadata to registered proto message fields.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MULTIMODAL_MESSAGE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MULTIMODAL_MESSAGE_H_
 

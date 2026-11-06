@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating checker with embedder delegate interface
+// summary: Declares OriginGatingChecker and its Delegate interface for embedder-specific checks, evaluating events against a configured predicate pipeline.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CHECKER_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CHECKER_H_
 

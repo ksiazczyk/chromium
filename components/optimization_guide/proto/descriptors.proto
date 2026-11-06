@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto field descriptors
+// summary: Proto definitions for addressing proto fields by tag number and representing typed values used in model execution.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

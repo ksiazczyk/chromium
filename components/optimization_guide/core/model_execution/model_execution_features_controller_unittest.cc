@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution features controller unit tests
+// summary: Unit tests for the model execution features controller, covering sign-in capability, enterprise policy, dogfood status and preference behavior.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_features_controller.h"
 
 #include "base/command_line.h"

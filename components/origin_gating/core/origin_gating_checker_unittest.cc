@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the origin gating checker
+// summary: GMock-based unit tests covering the checker's predicate pipeline, delegate interactions, task policy rules and custom predicates.
+// ---
+
 #include "components/origin_gating/core/origin_gating_checker.h"
 
 #include <optional>

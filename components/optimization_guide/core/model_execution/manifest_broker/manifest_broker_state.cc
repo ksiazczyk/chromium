@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest broker state implementation
+// summary: Implements the manifest-based on-device model broker state, wiring the asset manager, monitor, validator and service client together.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_broker_state.h"
 
 #include <cstddef>

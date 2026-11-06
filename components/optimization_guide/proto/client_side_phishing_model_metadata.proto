@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-side phishing model metadata
+// summary: Proto definition pairing the client-side phishing model with its matching image embedding model version.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

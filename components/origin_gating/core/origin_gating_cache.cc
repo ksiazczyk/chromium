@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating cache implementation
+// summary: Implements the origin- or site-keyed cache that records allowed navigations and user confirmations for origin gating.
+// ---
+
 #include "components/origin_gating/core/origin_gating_cache.h"
 
 #include <algorithm>

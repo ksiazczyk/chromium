@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Override manifest asset manager delegate header
+// summary: Declares the OverrideManifestAssetManagerDelegate class and a command-line switch for overriding on-device model manifest assets during testing.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_OVERRIDE_MANIFEST_ASSET_MANAGER_DELEGATE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_MANIFEST_BROKER_OVERRIDE_MANIFEST_ASSET_MANAGER_DELEGATE_H_
 

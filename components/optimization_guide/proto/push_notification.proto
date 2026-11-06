@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification hint payload
+// summary: Defines the HintNotificationPayload message attached to Optimization Guide push notifications to invalidate stored hints and carry an optional payload for consumers.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

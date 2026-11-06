@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature config builder implementation
+// summary: Implements helpers that build proto field references, substitutions, redaction rules, and compose feature configs used by on-device model execution tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/feature_config_builder.h"
 
 #include <initializer_list>

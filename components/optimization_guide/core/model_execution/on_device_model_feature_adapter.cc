@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model feature adapter implementation
+// summary: Implements the feature adapter that builds model input strings from requests, parses model responses, and supplies token limits and sampling parameters.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_feature_adapter.h"
 
 #include <optional>

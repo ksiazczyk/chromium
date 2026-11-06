@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media data proto
+// summary: Defines a Media message with a media type enum and raw bytes for image, audio, or video content.
+// ---
+
 syntax = "proto3";
 
 package optimization_guide.proto;

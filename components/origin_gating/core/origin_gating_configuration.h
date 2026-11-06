@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating configuration header
+// summary: Declares CustomPredicate, PredicateConfiguration and OriginGatingConfiguration for pairing decision predicates with the gateable events they apply to.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CONFIGURATION_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_CONFIGURATION_H_
 

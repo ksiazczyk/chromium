@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device capability eligibility helpers
+// summary: Implements string output for on-device model eligibility reasons and maps them to model unavailable reasons.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_capability.h"
 
 #include "components/optimization_guide/public/mojom/model_broker.mojom-shared.h"

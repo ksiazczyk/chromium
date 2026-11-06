@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution manager implementation
+// summary: Implements ModelExecutionManager, dispatching remote model executions, limiting parallel requests per feature and recording result and latency metrics.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_manager.h"
 
 #include <optional>

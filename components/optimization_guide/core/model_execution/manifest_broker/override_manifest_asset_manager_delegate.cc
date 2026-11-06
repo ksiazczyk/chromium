@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Override manifest asset manager delegate implementation
+// summary: Implements a delegate that loads a JSON override config and serves manifest and component asset paths in place of the component updater for testing.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/override_manifest_asset_manager_delegate.h"
 
 #include "base/files/file_util.h"

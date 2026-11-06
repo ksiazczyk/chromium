@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON response parser implementation
+// summary: Parses redacted model output as JSON and converts it into the configured proto type, failing when the output is missing or not valid JSON.
+// ---
+
 #include "components/optimization_guide/core/model_execution/json_response_parser.h"
 
 #include <optional>

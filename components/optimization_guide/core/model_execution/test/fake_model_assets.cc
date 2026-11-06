@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake model assets implementation
+// summary: Implements fake base model and adaptation assets that write weights, caches, and execution configs into temporary directories for on-device model tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/fake_model_assets.h"
 
 #include "base/files/file_path.h"

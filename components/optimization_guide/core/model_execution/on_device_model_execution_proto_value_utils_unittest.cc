@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for proto value utilities
+// summary: Tests string conversion and equality checks for proto values of string, boolean, integer, and float types.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_execution_proto_value_utils.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

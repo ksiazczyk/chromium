@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device performance class header
+// summary: Declares the OnDeviceModelPerformanceClass enum, pref update and load helpers, and the PerformanceClassifier that computes and exposes the device performance class.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_PERFORMANCE_CLASS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_PERFORMANCE_CLASS_H_
 

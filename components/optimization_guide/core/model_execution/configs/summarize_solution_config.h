@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Summarize solution config API
+// summary: Declares functions to build the Summarize SolutionConfig and the Android token limit constants.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_SUMMARIZE_SOLUTION_CONFIG_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_SUMMARIZE_SOLUTION_CONFIG_H_
 

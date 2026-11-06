@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for remote model execution common utilities
+// summary: Tests service base URL resolution, WebSocket URL scheme conversion, execute request creation, and header appending behavior.
+// ---
+
 #include "components/optimization_guide/core/model_execution/remote_model_execution_common.h"
 
 #include <optional>

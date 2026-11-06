@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device feature proto registry
+// summary: Imports feature protos and enumerates the logging data message types supported by on-device code through a registry message.
+// ---
+
 syntax = "proto3";
 
 // This package contains protos that are not actually used in the compiled

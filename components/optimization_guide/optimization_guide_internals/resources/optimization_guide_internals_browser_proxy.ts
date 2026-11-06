@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for Optimization Guide Internals
+// summary: Singleton browser proxy that creates the Mojo page handler and exposes the callback router for the internals page.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory} from './optimization_guide_internals.mojom-webui.js';
 
 export class OptimizationGuideInternalsBrowserProxy {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fieldwise response parser unit tests
+// summary: Unit tests verifying regex extraction, translation maps, missing output fields, non-matching regexes, and invalid configuration handling for FieldwiseResponseParser.
+// ---
+
 #include "components/optimization_guide/core/model_execution/fieldwise_response_parser.h"
 
 #include <string_view>

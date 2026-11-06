@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fieldwise parser config for model output extraction
+// summary: Defines FieldExtractor and FieldwiseParserConfig messages that extract model output into proto fields via regex capture, translation map, and type conversion.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

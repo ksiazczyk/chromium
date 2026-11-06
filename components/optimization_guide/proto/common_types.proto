@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common types for optimization guide protos
+// summary: Shared proto types for the optimization guide, including request contexts, field trials, durations, and timestamps.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

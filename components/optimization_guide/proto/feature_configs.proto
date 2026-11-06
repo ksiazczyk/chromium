@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature configs
+// summary: Proto definitions for summarizer, writing assistance API, and prompt API feature configurations used in the manifest.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

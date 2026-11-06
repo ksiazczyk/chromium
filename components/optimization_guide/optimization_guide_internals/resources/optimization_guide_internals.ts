@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide Internals page controller
+// summary: TypeScript module implementing the internals page UI, including table filtering of log events and rendering of models, client IDs, and MQLS logs.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

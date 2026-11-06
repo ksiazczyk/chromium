@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision enum for predicate check results
+// summary: Defines the Decision enum with kNoDecision, kAllowed and kBlocked values representing the outcome of a single predicate check.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_DECISION_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_DECISION_H_
 

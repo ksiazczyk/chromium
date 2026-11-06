@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the features proto folder
+summary: Explains that the folder is synced from Google's internal repo via Copybara and warns against manually adding proto files here.
+---
+
 **DO NOT MANUALLY ADD NEW FILES IN THIS FOLDER**
 
 This folder is for protos that have been synced from Google's internal repo

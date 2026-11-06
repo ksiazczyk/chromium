@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model quality service request protobuf definitions
+// summary: Defines the LogAiDataRequest protobuf that aggregates per-feature AI data logs for sending to the model quality server.
+// ---
+
 syntax = "proto3";
 
 package optimization_guide.proto;

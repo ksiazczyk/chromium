@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the optimization guide features protos
+summary: Lists the owners of the feature proto directory and assigns accessibility owners to common_quality_data.proto via a per-file rule.

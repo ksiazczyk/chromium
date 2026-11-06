@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session implementation for on-device model execution
+// summary: Implements SessionImpl, which manages on-device or server model sessions, including context handling, execution, token sizing, sampling params and logging.
+// ---
+
 #include "components/optimization_guide/core/model_execution/session_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating registration header
+// summary: Declares OriginGatingRegistration, a non-copyable helper that unregisters an OriginGatingChecker from the service on destruction.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_REGISTRATION_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_ORIGIN_GATING_REGISTRATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the on-device model download progress manager
+// summary: Tests download progress reporting for on-device model components using a fake component update service and a mock download progress observer.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_download_progress_manager.h"
 
 #include <cstdint>

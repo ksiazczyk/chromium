@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model quality logs uploader service unit tests
+// summary: Unit tests for the model quality logs uploader service, covering log construction and upload behavior with a test URL loader factory and enabled compose logging.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_logs_uploader_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON response parser unit tests
+// summary: Unit tests verifying that JsonResponseParser converts JSON output into a ComposeResponse proto via ParseAsync.
+// ---
+
 #include "components/optimization_guide/core/model_execution/json_response_parser.h"
 
 #include <optional>

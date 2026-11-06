@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskPolicyConfigSlot class declaration
+// summary: Declares TaskPolicyConfigSlot, an optional holder for a TaskPolicyConfig that accepts an assignment only once.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_TASK_POLICY_CONFIG_SLOT_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_TASK_POLICY_CONFIG_SLOT_H_
 

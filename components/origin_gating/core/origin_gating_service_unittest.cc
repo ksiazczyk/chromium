@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin gating service unit tests
+// summary: Unit tests for checker creation and registration, ID lookup, invalid IDs and shutdown behavior of the service.
+// ---
+
 #include "components/origin_gating/core/origin_gating_service.h"
 
 #include <memory>

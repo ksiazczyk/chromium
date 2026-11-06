@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest broker state unit tests
+// summary: Unit tests for the manifest broker state, covering session creation on incapable devices, performance class checks and broker shutdown behavior.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_broker_state.h"
 
 #include <memory>

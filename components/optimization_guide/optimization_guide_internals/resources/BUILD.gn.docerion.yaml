@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Optimization Guide Internals WebUI resources
+summary: GN build rules for the Optimization Guide Internals WebUI, listing static, TypeScript, and Mojo-generated files plus their dependencies.

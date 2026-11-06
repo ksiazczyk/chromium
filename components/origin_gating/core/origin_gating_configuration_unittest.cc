@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin gating configuration unit tests
+// summary: Unit tests verifying predicate ordering, forbidden predicate checks, navigation-only restrictions and custom predicate domain validation.
+// ---
+
 #include "components/origin_gating/core/origin_gating_configuration.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_internals.mojom.
+type: source
+title: Mojo interfaces for the optimization guide internals WebUI
+summary: Defines Mojo structs and interfaces for communication between the internals WebUI page and the browser, covering downloaded models, logged client IDs, MQLS logs, and log events.

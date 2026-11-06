@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest builder API for model execution configs
+// summary: Declares ManifestBuilder, well-known use case names, and recipe helper functions for building Manifest protos.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_MANIFEST_BUILDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_MANIFEST_BUILDER_H_
 

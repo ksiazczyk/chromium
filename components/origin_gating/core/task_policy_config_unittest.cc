@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskPolicyConfig unit tests
+// summary: Unit tests for TaskPolicyConfig covering navigation and actuation permissions across wildcard, site, and origin locations and their rules.
+// ---
+
 #include "components/origin_gating/core/task_policy_config.h"
 
 #include <optional>

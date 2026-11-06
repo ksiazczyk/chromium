@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device base model metadata protobuf definitions
+// summary: Defines a protobuf message describing the on-device base model name, version, and supported performance hints for server compatibility.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

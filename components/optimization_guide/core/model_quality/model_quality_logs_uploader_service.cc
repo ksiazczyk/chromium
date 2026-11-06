@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the model quality logs uploader service
+// summary: Implements uploading LogAiDataRequest logs to the Chrome model quality service, with API key handling, consent and policy checks, and status histograms.
+// ---
+
 #include "components/optimization_guide/core/model_quality/model_quality_logs_uploader_service.h"
 
 #include <string>

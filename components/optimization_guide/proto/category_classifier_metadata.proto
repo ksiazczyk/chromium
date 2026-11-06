@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category classifier metadata
+// summary: Proto definitions for category classifier model metadata, including the required embedder version and passage embedding pooling strategy.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

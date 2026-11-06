@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest solution factory implementation
+// summary: Implements the solution factory that loads on-device base models and adaptations from manifest recipes, tracking asset availability and idle timeout unloading.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_solution_factory.h"
 
 #include <memory>

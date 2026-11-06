@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings model metadata
+// summary: Defines metadata for passage embedding models, covering input window size, output embedding length, and the similarity score threshold for matching embeddings.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

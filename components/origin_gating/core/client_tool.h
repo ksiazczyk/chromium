@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type-safe domain-attributed client tool identifier
+// summary: Declares the ClientTool class, a type-safe tool identifier tagged with a ToolDomain so origin gating stays decoupled from embedder-specific tool enumerations.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_CLIENT_TOOL_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_CLIENT_TOOL_H_
 

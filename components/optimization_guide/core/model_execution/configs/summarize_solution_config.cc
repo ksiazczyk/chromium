@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Summarize solution config implementation
+// summary: Builds the Summarize feature SolutionConfig with prompt templates and Android AICore token settings.
+// ---
+
 #include "components/optimization_guide/core/model_execution/configs/summarize_solution_config.h"
 
 #include <string>

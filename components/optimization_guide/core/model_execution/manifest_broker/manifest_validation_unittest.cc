@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest validation unit tests
+// summary: Unit tests for manifest validation, covering successful validation runs, missing prompts and result recording in local state.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_validation.h"
 
 #include <memory>

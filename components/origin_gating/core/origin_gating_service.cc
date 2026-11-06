@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin gating service implementation
+// summary: Implements OriginGatingService, creating, registering, looking up and unregistering origin gating checkers with generated IDs.
+// ---
+
 #include "components/origin_gating/core/origin_gating_service.h"
 
 #include <memory>

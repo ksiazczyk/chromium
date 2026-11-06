@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History query intent model metadata
+// summary: Defines HistoryQueryIntentModelMetadata holding the scoring token and score threshold used by the history query intent model.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

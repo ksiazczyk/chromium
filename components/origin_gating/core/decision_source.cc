@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecisionSource to string conversion
+// summary: Implements DecisionSourceToString, mapping each DecisionSource enum value such as AllowSameOrigin or EnterprisePolicy to its readable name.
+// ---
+
 #include "components/origin_gating/core/decision_source.h"
 
 #include <string>

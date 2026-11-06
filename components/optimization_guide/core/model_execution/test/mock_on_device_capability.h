@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock on-device capability declarations
+// summary: Declares gmock classes MockOnDeviceCapability and MockSession for faking on-device model sessions, eligibility checks and streaming execution in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_MOCK_ON_DEVICE_CAPABILITY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_TEST_MOCK_ON_DEVICE_CAPABILITY_H_
 

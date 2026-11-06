@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceContext implementation
+// summary: Implements OnDeviceContext, which incrementally builds and processes multimodal input context for on-device model sessions, comparing text, bitmap, and audio input pieces.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_context.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto value utilities implementation
+// summary: Implements conversion of proto::Value variants to strings and equality comparison between proto values.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_execution_proto_value_utils.h"
 
 #include "base/notreached.h"

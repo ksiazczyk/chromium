@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AQA response parser implementation
+// summary: Parses redacted on-device model output for history answers into a HistoryAnswerResponse proto, detecting unanswerable questions and passage ID citations with regexes.
+// ---
+
 #include "components/optimization_guide/core/model_execution/aqa_response_parser.h"
 
 #include "base/functional/callback.h"

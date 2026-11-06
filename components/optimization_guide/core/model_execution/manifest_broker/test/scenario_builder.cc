@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scenario builder for manifest broker tests
+// summary: Implements a fluent builder that assembles base models, adaptations, postprocessed models, and solutions into manifest test scenarios.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/test/scenario_builder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC streaming protocol protobuf definitions
+// summary: Protobuf schema for the TTC bidirectional streaming protocol between Chrome and the server, defining session setup, audio chunks, text input, tool calls, playback status, and server content frames.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

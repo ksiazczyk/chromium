@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueConverter template family for string-to-proto value conversion
+// summary: Defines the ValueConverter template family, including enum support, used by generated proto descriptors to convert string-encoded values into typed proto field values.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_VALUE_CONVERTER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_VALUE_CONVERTER_H_
 

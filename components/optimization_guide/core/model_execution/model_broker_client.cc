@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model broker client implementation
+// summary: Implements ModelClient, which wraps a broker-provided model solution and creates on-device sessions with feature adapters and capability handling.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_broker_client.h"
 
 #include <memory>

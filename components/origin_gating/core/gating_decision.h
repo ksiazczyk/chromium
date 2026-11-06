@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gating decision types and callback
+// summary: Declares the GatingDecision verdict struct, the opaque consumer context class and the callback used to resolve gating decisions.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_GATING_CORE_GATING_DECISION_H_
 #define COMPONENTS_ORIGIN_GATING_CORE_GATING_DECISION_H_
 

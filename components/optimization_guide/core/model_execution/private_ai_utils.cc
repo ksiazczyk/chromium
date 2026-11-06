@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI message population utilities
+// summary: Implements PopulatePaicMessage, which builds PrivateAI paic messages with feature names and execute requests, optionally wrapping them with variation IDs.
+// ---
+
 #include "components/optimization_guide/core/model_execution/private_ai_utils.h"
 
 #include <set>

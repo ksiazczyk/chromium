@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest asset manager delegate helpers
+// summary: Implements CRX ID derivation from hex public keys and installation verification for manifest asset components.
+// ---
+
 #include "components/optimization_guide/core/model_execution/manifest_broker/manifest_asset_manager_delegate.h"
 
 #include <stdint.h>

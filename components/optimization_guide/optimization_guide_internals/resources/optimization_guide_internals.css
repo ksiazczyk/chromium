@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the Optimization Guide Internals page
+summary: Stylesheet for the Optimization Guide Internals page, defining layout and column widths for event log, model, and client ID tables.
+*/
+
 body {
   color: #333;
 }

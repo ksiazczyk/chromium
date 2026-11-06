@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Origin gating DIR_METADATA
+summary: Declares the owning team email and Buganizer component ID for the origin_gating component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskPolicyConfigSlot implementation
+// summary: Implements TaskPolicyConfigSlot, whose Assign method stores a TaskPolicyConfig only on the first call and ignores later assignments.
+// ---
+
 #include "components/origin_gating/core/task_policy_config_slot.h"
 
 #include <utility>

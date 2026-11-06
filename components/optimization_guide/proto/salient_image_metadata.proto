@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Salient image metadata
+// summary: Defines metadata for salient page images, listing thumbnail image URLs together with the timestamps after which the images expire.
+// ---
+
 syntax = "proto2";
 
 import "components/optimization_guide/proto/common_types.proto";

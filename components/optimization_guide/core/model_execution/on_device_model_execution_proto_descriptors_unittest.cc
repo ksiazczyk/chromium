@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for on-device model execution proto descriptors
+// summary: Tests setting and accessing proto fields through descriptors, covering string fields, message fields, and repeated message fields.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_execution_proto_descriptors.h"
 
 #include "components/optimization_guide/proto/features/compose.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceModelAccessController implementation
+// summary: Implements the controller that decides when the on-device model may be used, tracking crash counts, backoff, GPU blocking, and validation state in prefs.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_model_access_controller.h"
 
 #include "base/metrics/histogram_functions.h"

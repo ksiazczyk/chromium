@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model execution config protobuf definitions
+// summary: Defines protobuf configuration for on-device model execution, including per-feature input and output configs, sampling, and capabilities.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 option java_package = "org.chromium.components.optimization_guide.proto";

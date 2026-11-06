@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String substitution builder API
+// summary: Declares StringSubstitutionBuilder for composing conditional string substitutions with nesting and fallback support.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_STRING_SUBSTITUTION_BUILDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_MODEL_EXECUTION_CONFIGS_STRING_SUBSTITUTION_BUILDER_H_
 

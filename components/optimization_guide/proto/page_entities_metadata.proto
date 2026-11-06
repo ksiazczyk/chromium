@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page entities metadata protobuf definitions
+// summary: Defines protobuf metadata describing entities and categories expected on a page for the PAGE_ENTITIES optimization type.
+// ---
+
 edition = "2023";
 
 package optimization_guide.proto;

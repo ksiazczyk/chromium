@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fieldwise response parser implementation
+// summary: Parses model output into proto fields using configured regex extractors and translation maps from a FieldwiseParserConfig, reporting parsing or configuration errors.
+// ---
+
 #include "components/optimization_guide/core/model_execution/fieldwise_response_parser.h"
 
 #include <memory>

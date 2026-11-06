@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock on-device capability implementation
+// summary: Implements MockOnDeviceCapability and MockSession test doubles that can delegate calls to a real on-device session and build success or failure streaming results.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/mock_on_device_capability.h"
 
 namespace optimization_guide {

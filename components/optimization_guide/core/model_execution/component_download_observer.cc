@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component download observer implementation
+// summary: Implements download progress tracking for a component updater CRX, converting update events into byte progress that is broadcast to registered download observers.
+// ---
+
 #include "components/optimization_guide/core/model_execution/component_download_observer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test request builders for compose model execution
+// summary: Provides helpers that create black bitmaps, dummy audio buffers, ComposeRequest variants and wrapped ComposeResponse objects for tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/request_builder.h"
 
 #include "components/optimization_guide/core/optimization_guide_proto_util.h"

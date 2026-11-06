@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceExecution implementation
+// summary: Implements OnDeviceExecution, which runs on-device model executions with debug logging, repetition detection, safety checks, and fallback handling.
+// ---
+
 #include "components/optimization_guide/core/model_execution/on_device_execution.h"
 
 #include "base/metrics/histogram_functions.h"

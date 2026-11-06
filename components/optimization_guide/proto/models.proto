@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model protobuf definitions
+// summary: Defines protobuf messages for requesting and receiving prediction models, including model info, versions, and validity settings.
+// ---
+
 syntax = "proto2";
 
 package optimization_guide.proto;

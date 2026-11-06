@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake component update service implementation
+// summary: Implements a fake component updater service and fake component that manage observers, send update events, and build CrxUpdateItems for on-device model tests.
+// ---
+
 #include "components/optimization_guide/core/model_execution/test/fake_component_update_service.h"
 
 namespace optimization_guide {

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for optimization_guide_internals
+summary: Delegates directory ownership to the platform owners file at ui/webui/PLATFORM_OWNERS via a file reference.

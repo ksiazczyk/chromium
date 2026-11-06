@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution utility implementation
+// summary: Implements helpers that read the on-device model execution config file and the GenAI local foundational model enterprise policy setting.
+// ---
+
 #include "components/optimization_guide/core/model_execution/model_execution_util.h"
 
 #include "base/files/file_util.h"

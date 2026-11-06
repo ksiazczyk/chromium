@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter execution request context metadata
+// summary: Defines FilterExecutionRequestContextMetadata carrying multistep filter execution candidates sent with hints requests in the filter execution context.
+// ---
+
 syntax = "proto3";
 
 package optimization_guide.proto;

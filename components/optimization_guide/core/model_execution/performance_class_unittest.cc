@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance class unit tests
+// summary: Unit tests covering performance class compatibility, pref updates, mojom conversion, synthetic trial group uniqueness, and the PerformanceClassifier.
+// ---
+
 #include "components/optimization_guide/core/model_execution/performance_class.h"
 
 #include "base/memory/safe_ref.h"
