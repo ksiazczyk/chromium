@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Command-line option handling for IDL tools
+# summary: Registers, parses, and dumps shared command-line options for the IDL scripts using getopt, including help and test flags.
+# ---
+
 import getopt
 import sys
 

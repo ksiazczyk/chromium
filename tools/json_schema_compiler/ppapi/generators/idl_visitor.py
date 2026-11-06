@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: IDLVisitor AST traversal base class
+# summary: Provides the IDLVisitor base class for traversing an AST, with a VisitFilter to prune nodes and Arrive and Depart hooks that aggregate child results during the visit.
+# ---
+
 """Visitor Object for traversing AST"""
 
 #

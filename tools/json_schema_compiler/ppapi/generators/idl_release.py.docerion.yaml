@@ -1,0 +1,4 @@
+# Docerion header of idl_release.py.
+type: source
+title: IDL Release range handling for PPAPI IDL
+summary: Defines IDLRelease and IDLReleaseList classes that associate IDL symbols with AST nodes across ranges of Releases, including range checks, error and warning reporting, and debug options.

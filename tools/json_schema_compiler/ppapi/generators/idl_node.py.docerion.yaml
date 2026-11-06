@@ -1,0 +1,4 @@
+# Docerion header of idl_node.py.
+type: source
+title: IDL node and attribute classes
+summary: Implements IDLNode and IDLAttribute objects forming the version-aware AST tree produced by the parser and consumed by generators.

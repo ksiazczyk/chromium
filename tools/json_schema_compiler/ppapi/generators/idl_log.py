@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: IDL error and info logging
+# summary: Provides a logging class that routes error, warning, and info messages to console handles with optional capture for the IDL tools.
+# ---
+
 """Error and information logging for IDL"""
 
 import sys

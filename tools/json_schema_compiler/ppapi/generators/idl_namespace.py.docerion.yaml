@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace.py.
+type: source
+title: IDL namespace with release-based symbol resolution
+summary: Maps symbol names to release-versioned AST nodes for lookup by release or range, and includes self-test code for namespace behavior.

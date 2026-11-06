@@ -1,0 +1,4 @@
+# Docerion header of idl_parser.py.
+type: source
+title: PPAPI IDL parser
+summary: Parses PPAPI IDL files into an AST using PLY yacc with WebIDL grammar rules, friendly error remapping, and debug options.

@@ -1,0 +1,4 @@
+# Docerion header of idl_lexer.py.
+type: source
+title: PPAPI IDL lexer
+summary: Tokenizes PPAPI IDL source with the PLY lex library, implementing WebIDL keywords, literals, comments, and inline blocks.
