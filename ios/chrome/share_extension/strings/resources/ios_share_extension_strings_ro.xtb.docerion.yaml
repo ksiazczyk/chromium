@@ -1,0 +1,4 @@
+# Docerion header of ios_share_extension_strings_ro.xtb.
+type: data
+title: Romanian share extension strings (ro)
+summary: XTB translation bundle providing localized iOS Chrome share extension UI strings, such as share, bookmark and incognito actions, in Romanian.

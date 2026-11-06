@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share extension sheet delegate protocol
+// summary: Declares the ShareExtensionDelegate protocol with callbacks for closing the share sheet and opening, searching, or showing more options in Chrome.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_DELEGATE_H_
 #define IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_DELEGATE_H_
 

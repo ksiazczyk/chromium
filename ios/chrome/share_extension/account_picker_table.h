@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker table interface
+// summary: Declares a view controller that displays share extension accounts for selection, with a delegate property and a custom sheet detent.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_ACCOUNT_PICKER_TABLE_H_
 #define IOS_CHROME_SHARE_EXTENSION_ACCOUNT_PICKER_TABLE_H_
 

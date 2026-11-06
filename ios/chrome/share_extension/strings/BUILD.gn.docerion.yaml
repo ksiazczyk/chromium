@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share extension strings build targets
+summary: GN build configuration defining grit targets that generate localized string resources and headers for the iOS share extension.

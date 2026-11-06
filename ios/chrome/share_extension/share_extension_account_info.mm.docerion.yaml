@@ -1,0 +1,4 @@
+# Docerion header of share_extension_account_info.mm.
+type: source
+title: Share extension account info implementation
+summary: Implements the ShareExtensionAccountInfo model class with no additional behavior.

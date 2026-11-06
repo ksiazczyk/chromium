@@ -1,0 +1,4 @@
+# Docerion header of account_picker_table.mm.
+type: source
+title: Account picker table implementation
+summary: Implements the account picker table with a diffable data source, bottom sheet presentation, and Done/Cancel handling for account selection.

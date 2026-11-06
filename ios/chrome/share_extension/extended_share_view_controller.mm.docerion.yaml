@@ -1,0 +1,4 @@
+# Docerion header of extended_share_view_controller.mm.
+type: source
+title: Extended share view controller implementation
+summary: Implements the extended share extension's principal view, loading shared URLs, images and text and queuing items with account info for the main app.

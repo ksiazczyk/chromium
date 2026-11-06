@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share extension appex build definitions
+summary: Defines GN targets for the iOS share extension appex bundle, including Info.plist tweaking, entitlements compilation, and optional privacy manifest bundling.

@@ -1,0 +1,4 @@
+# Docerion header of ios_share_extension_strings_nl.xtb.
+type: data
+title: iOS share extension strings in Dutch
+summary: Dutch translation bundle providing localized UI strings for the iOS Chrome share extension, covering actions like share, add to bookmarks, and open in incognito.

@@ -1,0 +1,4 @@
+# Docerion header of share_extension.appex.entitlements.
+type: config
+title: Share extension appex entitlements
+summary: Entitlements plist for the Chrome iOS share extension, defining its application identifier and granting access to the Chrome and common app groups.

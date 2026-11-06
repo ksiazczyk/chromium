@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Share extension Info.plist
+summary: Bundle configuration for the standard share extension, accepting single non-file URL shares through the ShareViewController principal class.

@@ -1,0 +1,4 @@
+# Docerion header of ui_util.mm.
+type: source
+title: Share extension UI utility implementation
+summary: Implements the share extension animation duration constant and the full-container constraint helper.

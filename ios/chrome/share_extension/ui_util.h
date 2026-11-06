@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share extension UI utility header
+// summary: Declares the standard share extension animation duration and a helper that constrains a view to fill its container.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_UI_UTIL_H_
 #define IOS_CHROME_SHARE_EXTENSION_UI_UTIL_H_
 
