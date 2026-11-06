@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: no_l10n extension manifest
+summary: Manifest for the no_l10n test extension, an unpacker fixture whose extension is intentionally not localized.

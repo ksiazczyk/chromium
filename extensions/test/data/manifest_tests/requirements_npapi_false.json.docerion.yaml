@@ -1,0 +1,4 @@
+# Docerion header of requirements_npapi_false.json.
+type: test
+title: NPAPI false requirements manifest fixture
+summary: Test manifest fixture declaring requirements plugins npapi as false, used to exercise valid requirements handling.

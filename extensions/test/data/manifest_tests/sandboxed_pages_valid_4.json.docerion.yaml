@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_valid_4.json.
+type: test
+title: Valid sandboxed pages manifest fixture with wildcard page
+summary: Manifest v2 fixture that sandboxes all pages via a wildcard pattern, used as a valid case in manifest tests.

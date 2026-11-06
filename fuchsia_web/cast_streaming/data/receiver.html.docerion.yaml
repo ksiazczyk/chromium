@@ -1,0 +1,4 @@
+# Docerion header of receiver.html.
+type: source
+title: Cast streaming receiver HTML page
+summary: HTML page that plays the Cast Streaming receiver video full-screen and closes the window when the stream ends, errors, or the page is no longer visible.

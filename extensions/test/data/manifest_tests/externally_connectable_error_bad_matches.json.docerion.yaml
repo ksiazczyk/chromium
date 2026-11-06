@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_error_bad_matches.json.
+type: test
+title: Externally connectable error bad matches test manifest
+summary: Manifest fixture with invalid externally_connectable match patterns used by the ExternallyConnectableTest.ErrorBadMatches unit test.

@@ -1,0 +1,4 @@
+# Docerion header of csp_dictionary_mv2.json.
+type: test
+title: CSP dictionary MV2 manifest fixture
+summary: Manifest v2 fixture with a content_security_policy dictionary setting extension_pages to default-src 'none'.

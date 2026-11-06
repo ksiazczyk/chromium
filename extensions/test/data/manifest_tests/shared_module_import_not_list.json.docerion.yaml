@@ -1,0 +1,4 @@
+# Docerion header of shared_module_import_not_list.json.
+type: test
+title: Test manifest with shared module import as object instead of list
+summary: Manifest v2 fixture where the import key holds a single object rather than a list, used to test shared module import type checking.

@@ -1,0 +1,4 @@
+# Docerion header of requirements_invalid_3d.json.
+type: test
+title: Invalid 3D requirements manifest test fixture
+summary: Manifest v2 test fixture with a requirements entry setting 3D to false, an invalid requirements value.

@@ -1,0 +1,4 @@
+# Docerion header of cast_starter.html.
+type: source
+title: Cast Starter test page
+summary: HTML page that initializes the Google Cast API, detects a receiver and lets the user launch a Cast app session, with a dev flavor cookie option.

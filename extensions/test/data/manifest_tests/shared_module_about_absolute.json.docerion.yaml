@@ -1,0 +1,4 @@
+# Docerion header of shared_module_about_absolute.json.
+type: test
+title: Shared module manifest fixture with absolute about page URL
+summary: Manifest v2 shared module fixture exporting all resources and declaring an absolute URL as its about page, used in manifest tests.

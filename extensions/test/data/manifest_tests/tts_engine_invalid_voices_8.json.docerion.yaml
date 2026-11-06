@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_voices_8.json.
+type: test
+title: TTS engine manifest with non-array event_types (case 8)
+summary: Manifest v3 test fixture whose voice event_types is a string instead of an array, exercising type validation of the event_types field.

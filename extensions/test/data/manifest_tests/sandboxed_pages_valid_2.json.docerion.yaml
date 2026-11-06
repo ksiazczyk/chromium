@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_valid_2.json.
+type: test
+title: Valid sandboxed pages manifest fixture without sandbox section
+summary: Minimal manifest v2 fixture named test with no sandbox key, used as a valid case in sandboxed pages manifest tests.

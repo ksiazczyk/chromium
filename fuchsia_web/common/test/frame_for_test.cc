@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameForTest implementation
+// summary: Implements creation of test Frames with attached navigation listeners and test failure on protocol disconnect.
+// ---
+
 #include "fuchsia_web/common/test/frame_for_test.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

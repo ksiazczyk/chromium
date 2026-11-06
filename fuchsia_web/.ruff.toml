@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format settings for fuchsia_web
+# summary: Configures Ruff line length, formatting, and lint rules for Python code in fuchsia_web, targeting Python 3.8 until the Fuchsia Py version is upgraded.
+# ---
+
 line-length = 80
 indent-width = 4
 

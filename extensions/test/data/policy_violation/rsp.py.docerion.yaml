@@ -1,0 +1,4 @@
+# Docerion header of rsp.py.
+type: test
+title: Policy Violation Test Response Server
+summary: Python3 script that runs an HTTP server on port 8080 and serves a canned response to POST queries indicating that the ext.crx extension violates policy.

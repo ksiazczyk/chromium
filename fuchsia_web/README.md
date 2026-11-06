@@ -1,3 +1,11 @@
+---
+type: readme
+title: fuchsia.web - Fuchsia WebEngine and Runners
+summary: Describes the Fuchsia WebEngine and Runners code, the smart display focus of Fuchsia support, feature development guidelines, and code organization.
+relations:
+  - references /docs/fuchsia/README.md
+---
+
 # `fuchsia.web` - Fuchsia WebEngine and Runners
 
 This directory contains code related to the

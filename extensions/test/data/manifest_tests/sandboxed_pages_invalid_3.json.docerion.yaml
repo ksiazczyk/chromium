@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_invalid_3.json.
+type: test
+title: Sandboxed pages missing sandbox directive fixture
+summary: Manifest v2 fixture with sandboxed pages whose CSP lacks the required sandbox directive, used to test rejection of invalid sandbox policies.

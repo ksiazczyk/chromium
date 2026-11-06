@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameForTest helper declaration
+// summary: Declares a helper that owns a fuchsia.web Frame and attaches a TestNavigationListener for use in tests.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_FRAME_FOR_TEST_H_
 #define FUCHSIA_WEB_COMMON_TEST_FRAME_FOR_TEST_H_
 

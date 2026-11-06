@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDebugListener class declaration
+// summary: Declares a fuchsia.web DevToolsListener test double that records debug ports and blocks tests until the expected port count is reached.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_TEST_DEBUG_LISTENER_H_
 #define FUCHSIA_WEB_COMMON_TEST_TEST_DEBUG_LISTENER_H_
 

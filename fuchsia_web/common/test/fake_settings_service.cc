@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake settings service implementation
+// summary: Implements fake fuchsia.settings Display and Input services that track theme and microphone mute state for tests.
+// ---
+
 #include "fuchsia_web/common/test/fake_settings_service.h"
 
 #include <lib/sys/component/cpp/testing/realm_builder.h>

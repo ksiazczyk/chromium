@@ -1,0 +1,4 @@
+# Docerion header of shared_module_about.json.
+type: test
+title: Shared module manifest fixture with relative about page
+summary: Manifest v2 shared module fixture exporting all resources and declaring a relative about page, used in manifest tests.

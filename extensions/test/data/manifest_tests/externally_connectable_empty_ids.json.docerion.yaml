@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_empty_ids.json.
+type: test
+title: Manifest fixture with empty externally_connectable ids
+summary: Manifest fixture with an empty externally_connectable ids list, used by ExternallyConnectableTest.WarningNothingSpecified.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for string and byte vector conversion helpers
+// summary: Declares StringToBytes and BytesAsString helpers for converting between strings and byte vectors.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_STRING_UTIL_H_
 #define FUCHSIA_WEB_COMMON_STRING_UTIL_H_
 

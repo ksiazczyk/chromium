@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming context setup implementation
+// summary: Configures WebEngine context parameters and exposes the Cast Streaming receiver app through a content directory.
+// ---
+
 #include "fuchsia_web/cast_streaming/cast_streaming.h"
 
 #include <string>

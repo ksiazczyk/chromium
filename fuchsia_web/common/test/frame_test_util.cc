@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame test utility functions
+// summary: Offers helpers to load URLs, execute JavaScript, and construct WebMessages when testing Fuchsia frames.
+// ---
+
 #include "fuchsia_web/common/test/frame_test_util.h"
 
 #include <optional>

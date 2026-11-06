@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export_allowlist_item_not_id.json.
+type: test
+title: Shared module export allowlist item that is not an ID
+summary: Manifest fixture whose export allowlist contains an entry that is not a valid extension ID, for invalid ID testing.

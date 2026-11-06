@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest with empty default locale
+summary: Test fixture manifest for the extension unpacker that sets default_locale to an empty string, used to verify the error handling for an invalid default locale.

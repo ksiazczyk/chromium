@@ -1,0 +1,4 @@
+# Docerion header of page_action_empty_default_popup.json.
+type: test
+title: Page action with empty default popup manifest test fixture
+summary: Manifest v2 test fixture whose page action sets default_popup to an empty string, likely an invalid case.

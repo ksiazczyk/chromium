@@ -1,0 +1,4 @@
+# Docerion header of bad_zip.sh.
+type: test
+title: Create invalid ZIP crx for unpacker tests
+summary: Shell script that packages an extension directory into a crx file with a truncated, invalid ZIP payload so unpacker error handling can be tested.

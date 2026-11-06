@@ -1,0 +1,4 @@
+# Docerion header of web_request_blocking_v3.json.
+type: test
+title: WebRequest blocking MV3 manifest test fixture
+summary: Manifest version 3 fixture declaring the webRequestBlocking permission, companion to the MV2 variant for manifest unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_pages_invalid_1.json.
+type: test
+title: Sandboxed pages invalid numeric pages fixture
+summary: Manifest v2 fixture with sandbox.pages set to a number instead of a list, used to test invalid sandboxed pages validation.

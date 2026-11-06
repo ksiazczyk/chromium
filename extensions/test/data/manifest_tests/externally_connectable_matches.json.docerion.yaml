@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_matches.json.
+type: test
+title: Externally connectable matches test manifest
+summary: Manifest fixture with externally_connectable URL match patterns for the ExternallyConnectableTest.Matches unit test.

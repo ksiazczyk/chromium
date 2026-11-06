@@ -1,0 +1,4 @@
+# Docerion header of remoting_video.html.
+type: source
+title: Autoplaying video page for remote media tests
+summary: Serves an autoplaying video from the videos directory for harnesses that send media remotely to receivers without internet access.

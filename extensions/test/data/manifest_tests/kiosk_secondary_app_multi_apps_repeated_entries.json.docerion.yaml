@@ -1,0 +1,4 @@
+# Docerion header of kiosk_secondary_app_multi_apps_repeated_entries.json.
+type: test
+title: Kiosk app manifest with repeated secondary app entries
+summary: Test manifest fixture containing duplicate kiosk_secondary_apps entries for repeated-entry testing.

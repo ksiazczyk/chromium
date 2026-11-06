@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_US locale messages test catalog
+summary: Valid en_US message catalog fixture used by the unpacker tests to verify localization handling.

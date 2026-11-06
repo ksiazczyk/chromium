@@ -1,0 +1,4 @@
+# Docerion header of update_url_invalid_3.json.
+type: test
+title: Invalid update URL manifest fixture 3
+summary: Test manifest fixture whose update_url contains a fragment, making it invalid for manifest validation.

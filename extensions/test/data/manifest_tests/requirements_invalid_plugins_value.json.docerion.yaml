@@ -1,0 +1,4 @@
+# Docerion header of requirements_invalid_plugins_value.json.
+type: test
+title: Invalid plugins value requirements manifest fixture
+summary: Test manifest fixture with a requirements plugins npapi value of 0 instead of a boolean, used to exercise invalid requirements validation.

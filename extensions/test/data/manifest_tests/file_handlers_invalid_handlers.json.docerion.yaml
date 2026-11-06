@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_handlers.json.
+type: test
+title: File handlers invalid handlers test manifest
+summary: Manifest test fixture declaring file_handlers as an array instead of a dictionary to verify handler structure validation.

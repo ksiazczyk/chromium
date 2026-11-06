@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for fuchsia_web
+summary: Delegates code ownership of fuchsia_web to the owners list in build/fuchsia/OWNERS with no parent lookup.

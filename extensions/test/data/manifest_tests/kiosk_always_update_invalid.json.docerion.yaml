@@ -1,0 +1,4 @@
+# Docerion header of kiosk_always_update_invalid.json.
+type: test
+title: Kiosk app manifest with invalid always update value
+summary: Test manifest fixture using a non-boolean kiosk.always_update value for invalid-case testing.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for web_view test data
+summary: Delegates ownership of the web_view test data directory to the components/guest_view OWNERS file.

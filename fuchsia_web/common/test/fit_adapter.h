@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adapter from base callbacks to fit functions
+// summary: Provides CallbackToFitFunction, converting base::OnceCallback into fit::function for use as FIDL result callbacks.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_FIT_ADAPTER_H_
 #define FUCHSIA_WEB_COMMON_TEST_FIT_ADAPTER_H_
 

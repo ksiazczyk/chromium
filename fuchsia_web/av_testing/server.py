@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Local HTTP server for video files
+# summary: Starts a threaded local HTTP server on a given port that serves the folder's files plus videos from a fixed videostack directory.
+# ---
+
 """Starts an http server locally and serves the files in the folder of this
 python file. It needs an integer parameter as the port."""
 

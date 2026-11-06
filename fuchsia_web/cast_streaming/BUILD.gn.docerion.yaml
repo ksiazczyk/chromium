@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast streaming build configuration
+summary: Defines the cast_streaming source_set with restricted visibility, its sources, receiver.html data and dependencies.

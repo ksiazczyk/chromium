@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_no_type_or_extension.json.
+type: test
+title: File handlers invalid no type or extension test manifest
+summary: Manifest test fixture with an empty file_handlers entry lacking both types and extensions to verify required field validation.

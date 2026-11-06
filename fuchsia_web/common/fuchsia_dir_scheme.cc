@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia dir URL scheme implementation
+// summary: Registers the fuchsia-dir URL scheme as standard and local, and validates content directory names against separators and dot entries.
+// ---
+
 #include "fuchsia_web/common/fuchsia_dir_scheme.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_extension.json.
+type: test
+title: File handlers invalid extension test manifest
+summary: Manifest fixture with a file_handlers entry whose extensions field is a string instead of a list, used to test invalid manifest handling.

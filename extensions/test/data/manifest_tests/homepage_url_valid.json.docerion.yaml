@@ -1,0 +1,4 @@
+# Docerion header of homepage_url_valid.json.
+type: test
+title: 'Manifest test: valid homepage_url'
+summary: Test manifest fixture with a valid homepage_url and a Google update_url for positive validation testing.

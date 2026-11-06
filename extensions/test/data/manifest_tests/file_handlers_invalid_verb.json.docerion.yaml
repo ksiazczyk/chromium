@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_verb.json.
+type: test
+title: File handlers invalid verb test manifest
+summary: Manifest test fixture with an unrecognized verb value in a file_handlers entry to test verb validation.

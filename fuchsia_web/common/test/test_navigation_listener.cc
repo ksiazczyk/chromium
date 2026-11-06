@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNavigationListener implementation
+// summary: Implements the navigation event listener that compares observed fuchsia.web navigation state against expectations and spins a run loop until they match.
+// ---
+
 #include "fuchsia_web/common/test/test_navigation_listener.h"
 
 #include <string>

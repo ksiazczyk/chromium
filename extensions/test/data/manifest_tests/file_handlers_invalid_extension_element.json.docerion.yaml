@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_extension_element.json.
+type: test
+title: File handlers invalid extension element test manifest
+summary: Manifest test fixture with a file_handlers entry whose extensions value is a nested array instead of a flat string list, to exercise invalid extension element handling.

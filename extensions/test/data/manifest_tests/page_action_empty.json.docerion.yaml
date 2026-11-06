@@ -1,0 +1,4 @@
+# Docerion header of page_action_empty.json.
+type: test
+title: Empty page action manifest test fixture
+summary: Manifest v2 test fixture with an empty page_action object to exercise handling of a page action without properties.

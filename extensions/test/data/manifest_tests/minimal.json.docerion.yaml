@@ -1,0 +1,4 @@
+# Docerion header of minimal.json.
+type: test
+title: minimal
+summary: Minimal manifest version 2 extension fixture used as a baseline in manifest tests.

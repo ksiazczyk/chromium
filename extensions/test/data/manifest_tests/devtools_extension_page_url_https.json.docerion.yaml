@@ -1,0 +1,4 @@
+# Docerion header of devtools_extension_page_url_https.json.
+type: test
+title: DevTools extension manifest with HTTPS page URL fixture
+summary: Manifest fixture setting devtools_page to an HTTPS URL, used to test that devtools pages must not use absolute web URLs.

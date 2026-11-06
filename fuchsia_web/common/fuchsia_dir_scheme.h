@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the fuchsia-dir URL scheme helpers
+// summary: Declares the fuchsia-dir scheme constant plus functions to register the scheme and validate content directory names.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_FUCHSIA_DIR_SCHEME_H_
 #define FUCHSIA_WEB_COMMON_FUCHSIA_DIR_SCHEME_H_
 

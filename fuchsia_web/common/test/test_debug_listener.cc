@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDebugListener implementation
+// summary: Implements the DevTools debug listener that tracks open DevTools ports and lets tests wait until a target number of ports is open.
+// ---
+
 #include "fuchsia_web/common/test/test_debug_listener.h"
 
 #include "base/auto_reset.h"

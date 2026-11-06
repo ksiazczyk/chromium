@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test manifest with locales but missing default_locale
+summary: Manifest fixture for the unpacker test verifying that a manifest containing _locales must also define default_locale.

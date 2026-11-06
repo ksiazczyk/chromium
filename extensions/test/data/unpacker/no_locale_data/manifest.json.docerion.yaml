@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for no_locale_data test extension
+summary: Test fixture manifest for an extension named no_locale_data that sets default_locale to en_US while _locales is empty, used to exercise unpacker validation.

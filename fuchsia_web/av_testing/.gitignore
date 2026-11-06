@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for local video files
+# summary: Keeps local mp4 and webm video files used by the tests out of version control.
+# ---
+
 *.mp4
 *.webm

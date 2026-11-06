@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_too_many.json.
+type: test
+title: File handlers invalid too many types test manifest
+summary: Manifest test fixture listing 100 MIME types in each file_handlers entry to exceed the allowed type count limit.

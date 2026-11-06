@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake feedback service implementation
+// summary: Implements fake fuchsia.feedback ComponentDataRegister and CrashReportingProductRegister protocols for RealmBuilder tests.
+// ---
+
 #include "fuchsia_web/common/test/fake_feedback_service.h"
 
 #include <lib/fidl/cpp/interface_request.h>

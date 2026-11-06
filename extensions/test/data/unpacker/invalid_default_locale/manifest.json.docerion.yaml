@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Invalid default locale manifest test fixture
+summary: Test fixture manifest with a numeric default_locale value, used to verify that the unpacker rejects manifests whose default locale is not a non-empty string.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: AV testing README
+summary: Explains how to run the tests locally, including hosting video files with a local HTTP server and format limitations without src-internal.
+---
+
 ## How to run the tests locally
 
 When running locally, a local http server is needed to host the video files to

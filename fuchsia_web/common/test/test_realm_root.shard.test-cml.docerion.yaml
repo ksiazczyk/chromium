@@ -1,0 +1,4 @@
+# Docerion header of test_realm_root.shard.test-cml.
+type: test
+title: Test realm root CML shard
+summary: Component manifest shard that grants test realms event stream access from the parent and allows the deprecated archivist-for-embedding test package.

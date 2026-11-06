@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake settings service class declaration
+// summary: Declares a fake fuchsia.settings Display and Input implementation for use in RealmBuilder-based tests.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_TEST_FAKE_SETTINGS_SERVICE_H_
 #define FUCHSIA_WEB_COMMON_TEST_FAKE_SETTINGS_SERVICE_H_
 

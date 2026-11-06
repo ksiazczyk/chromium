@@ -1,0 +1,4 @@
+# Docerion header of default_locale_valid.json.
+type: test
+title: Valid default locale manifest fixture
+summary: Test manifest with the valid default_locale de-AT, exercising default locale validation.

@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_ids_and_matches.json.
+type: test
+title: Externally connectable IDs and matches test manifest
+summary: Manifest fixture combining externally_connectable IDs and URL match patterns for the ExternallyConnectableTest.IDsAndMatches unit test.

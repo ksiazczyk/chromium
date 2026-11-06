@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Video analyzer wrapper for AV sync testing
+# summary: Runs the local_video_analyzer binary to compare a recorded test video against the original and returns the quality results as JSON, writing output to the log directory.
+# ---
+
 """Starts a local_video_analyzer process to analyze the recorded video
 quality. Unless otherwise noted, all the functions return immediately if the
 required binaries do not exist and write the output into av_sync_tests.LOG_DIR.

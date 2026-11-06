@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Fuchsia web test support
+summary: Defines the test_support source set and the run_all_integration_tests library for Fuchsia web tests.

@@ -1,0 +1,4 @@
+# Docerion header of kiosk_required_platform_version.json.
+type: test
+title: Kiosk app manifest with required platform version
+summary: Test manifest fixture for a kiosk-enabled app setting kiosk.required_platform_version to 1234.0.0.

@@ -1,0 +1,4 @@
+# Docerion header of sandbox_csp_with_dictionary.json.
+type: test
+title: Sandbox CSP with dictionary manifest fixture
+summary: Manifest v3 fixture combining sandbox pages with a sandbox CSP directive and an extension_pages policy, used to test sandbox content security policy parsing.

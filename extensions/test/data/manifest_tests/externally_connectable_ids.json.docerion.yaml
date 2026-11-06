@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_ids.json.
+type: test
+title: Externally connectable IDs test manifest
+summary: Manifest fixture listing extension IDs in externally_connectable for the ExternallyConnectableTest.IDs unit test.

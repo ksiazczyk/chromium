@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request rewrite test utilities implementation
+// summary: Implements factory functions that build fuchsia.web.UrlRequestRewrite objects for adding or removing headers, substituting query patterns, replacing URLs, and appending to queries.
+// ---
+
 #include "fuchsia_web/common/test/url_request_rewrite_test_util.h"
 
 #include <string_view>

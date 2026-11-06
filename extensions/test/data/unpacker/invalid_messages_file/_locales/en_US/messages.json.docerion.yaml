@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Invalid messages.json test fixture
+summary: Malformed locale messages file under invalid_messages_file test data, used to exercise unpacker error handling for invalid _locales/en_US/messages.json content.

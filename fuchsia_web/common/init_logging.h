@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for command-line logging initialization
+// summary: Declares functions to initialize logging from a command line with a stderr default for tests and to log component startup with its version.
+// ---
+
 #ifndef FUCHSIA_WEB_COMMON_INIT_LOGGING_H_
 #define FUCHSIA_WEB_COMMON_INIT_LOGGING_H_
 

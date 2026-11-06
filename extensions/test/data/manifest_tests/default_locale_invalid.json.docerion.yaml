@@ -1,0 +1,4 @@
+# Docerion header of default_locale_invalid.json.
+type: test
+title: Invalid default locale manifest fixture
+summary: Test manifest with default_locale set to the invalid value German, exercising default locale validation.

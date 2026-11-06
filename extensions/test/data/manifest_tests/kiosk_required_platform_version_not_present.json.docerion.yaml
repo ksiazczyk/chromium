@@ -1,0 +1,4 @@
+# Docerion header of kiosk_required_platform_version_not_present.json.
+type: test
+title: Kiosk app manifest without required platform version
+summary: Test manifest fixture for a kiosk-enabled app that omits the kiosk block entirely.

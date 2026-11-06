@@ -1,0 +1,4 @@
+# Docerion header of csp_dictionary_with_wasm.json.
+type: test
+title: CSP dictionary with WASM manifest fixture
+summary: Manifest v3 fixture with a CSP dictionary including 'wasm-unsafe-eval', content matching the unsafe WASM variant.

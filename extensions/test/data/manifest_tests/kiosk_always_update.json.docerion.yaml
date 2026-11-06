@@ -1,0 +1,4 @@
+# Docerion header of kiosk_always_update.json.
+type: test
+title: Kiosk app manifest with always update enabled
+summary: Test manifest fixture for a kiosk-enabled app that sets kiosk.always_update to true.

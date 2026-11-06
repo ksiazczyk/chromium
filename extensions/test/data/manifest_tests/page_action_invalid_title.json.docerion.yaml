@@ -1,0 +1,4 @@
+# Docerion header of page_action_invalid_title.json.
+type: test
+title: Page action with invalid default title manifest test fixture
+summary: Manifest v2 test fixture whose page action sets default_title to the number 42 instead of a string, an invalid value case.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Good Package extension manifest
+summary: Manifest describing a valid Chrome extension package used as a unit test fixture for the unpacker, including its name, version and icon.

@@ -1,0 +1,4 @@
+# Docerion header of tts_engine_invalid_sample_rate_3.json.
+type: test
+title: TTS engine manifest with invalid sample rate (case 3)
+summary: Manifest v3 test fixture whose tts_engine declares a sample_rate of 1000000, exercising validation of out-of-range TTS engine sample rates.

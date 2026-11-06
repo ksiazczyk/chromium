@@ -1,0 +1,4 @@
+# Docerion header of web_app_shortcut_icons_valid.json.
+type: test
+title: Web app shortcut icons valid manifest fixture
+summary: Manifest fixture with valid web_app_shortcut_icons entries mapping 64 and 640 pixel sizes to PNG icon paths.

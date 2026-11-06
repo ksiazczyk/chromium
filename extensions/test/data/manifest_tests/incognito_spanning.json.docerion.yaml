@@ -1,0 +1,4 @@
+# Docerion header of incognito_spanning.json.
+type: test
+title: 'Manifest test: incognito spanning'
+summary: Test manifest fixture setting the incognito mode to spanning.

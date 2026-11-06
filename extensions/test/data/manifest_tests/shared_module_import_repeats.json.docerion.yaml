@@ -1,0 +1,4 @@
+# Docerion header of shared_module_import_repeats.json.
+type: test
+title: Test manifest with repeated shared module import IDs
+summary: Manifest v3 fixture listing shared module imports with duplicate IDs, used to test handling of repeated import entries.

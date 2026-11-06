@@ -1,0 +1,4 @@
+# Docerion header of requirements_invalid_3d_no_features.json.
+type: test
+title: Invalid 3D no features requirements manifest fixture
+summary: Test manifest fixture whose requirements 3D entry uses an unknown key instead of features, used to exercise invalid requirements validation.

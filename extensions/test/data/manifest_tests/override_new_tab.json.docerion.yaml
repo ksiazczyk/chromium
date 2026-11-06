@@ -1,0 +1,4 @@
+# Docerion header of override_new_tab.json.
+type: test
+title: New tab override manifest test fixture
+summary: Manifest v3 test fixture that overrides the browser new tab page with newtab.html through the chrome_url_overrides key.

@@ -1,0 +1,4 @@
+# Docerion header of update_url_valid_3.json.
+type: test
+title: Valid update URL manifest fixture 3
+summary: Test manifest fixture with an http update_url pointing to an update path, accepted by manifest validation.

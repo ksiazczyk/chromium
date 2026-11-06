@@ -1,0 +1,4 @@
+# Docerion header of shared_module_export.json.
+type: test
+title: Shared module export manifest with allowlist
+summary: Manifest fixture exporting a shared module with an allowlist of two extension IDs and a public key, for valid export testing.

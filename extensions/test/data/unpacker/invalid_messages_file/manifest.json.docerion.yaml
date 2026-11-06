@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Invalid messages file test extension manifest
+summary: Chrome extension manifest for a test fixture that fails unpacking when messages.json is not valid JSON syntax.

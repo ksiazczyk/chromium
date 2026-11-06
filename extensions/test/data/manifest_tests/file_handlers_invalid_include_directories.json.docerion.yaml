@@ -1,0 +1,4 @@
+# Docerion header of file_handlers_invalid_include_directories.json.
+type: test
+title: File handlers invalid include directories test manifest
+summary: Manifest test fixture with a non-boolean include_directories value in a file_handlers entry to test directory flag validation.

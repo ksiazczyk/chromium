@@ -1,0 +1,4 @@
+# Docerion header of csp_omitted_mv2.json.
+type: test
+title: Manifest V2 omitted CSP fixture
+summary: Minimal Manifest V2 test manifest without a content_security_policy key, exercising CSP omission handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script driving the webview test
+// summary: Embedder script that creates the webview, connects to the guest over postMessage, and reports test status through chrome.test.sendMessage.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

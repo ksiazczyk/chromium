@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for fuchsia_web
+summary: Sets include rules that block subdirectory and cast build flag access by default while allowing the shared fuchsia_web/common directory.

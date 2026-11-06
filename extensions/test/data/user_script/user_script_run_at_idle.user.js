@@ -10,4 +10,10 @@
 // @run-at         document-idle
 // ==/UserScript==
 
+// ---docerion
+// type: test
+// title: Document-idle run-at user script test
+// summary: Chromium test user script that runs at document-idle and alerts document.readyState to verify the document-idle injection point.
+// ---
+
 alert(document.readyState);

@@ -1,0 +1,4 @@
+# Docerion header of usb_printers_filters.json.
+type: test
+title: USB printers filters manifest test fixture
+summary: Manifest fixture for the extensions_unittests UsbPrinterManifestTest suite, defining usb_printers filters by product ID and by interface class.

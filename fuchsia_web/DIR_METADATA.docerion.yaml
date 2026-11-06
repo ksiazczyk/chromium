@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for fuchsia_web
+summary: Declares directory metadata for fuchsia_web by inheriting the common Fuchsia metadata mixin from build/fuchsia/COMMON_METADATA.

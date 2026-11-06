@@ -1,0 +1,4 @@
+# Docerion header of update_url_valid_2.json.
+type: test
+title: Valid update URL manifest fixture 2
+summary: Test manifest fixture with an http update_url ending in a slash, accepted by manifest validation.

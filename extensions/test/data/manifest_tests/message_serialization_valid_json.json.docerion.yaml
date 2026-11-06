@@ -1,0 +1,4 @@
+# Docerion header of message_serialization_valid_json.json.
+type: test
+title: message_serialization_valid_json
+summary: Test manifest fixture with a valid json message_serialization setting.

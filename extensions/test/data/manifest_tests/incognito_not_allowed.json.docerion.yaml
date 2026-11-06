@@ -1,0 +1,4 @@
+# Docerion header of incognito_not_allowed.json.
+type: test
+title: 'Manifest test: incognito not_allowed'
+summary: Test manifest fixture setting the incognito mode to not_allowed.

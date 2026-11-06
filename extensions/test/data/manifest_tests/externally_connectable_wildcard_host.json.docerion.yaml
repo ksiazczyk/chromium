@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_wildcard_host.json.
+type: test
+title: Externally connectable wildcard host test manifest
+summary: Manifest fixture with an all-hosts wildcard match pattern for the ExternallyConnectableTest.WildcardHost unit test.

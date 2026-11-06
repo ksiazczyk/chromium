@@ -1,0 +1,4 @@
+# Docerion header of csp_string_valid.json.
+type: test
+title: Manifest V2 valid CSP string fixture
+summary: Manifest V2 test fixture with a valid content_security_policy string, exercising string-form CSP parsing.

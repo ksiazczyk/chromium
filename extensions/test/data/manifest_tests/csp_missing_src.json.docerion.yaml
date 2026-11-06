@@ -1,0 +1,4 @@
+# Docerion header of csp_missing_src.json.
+type: test
+title: Manifest V3 CSP missing src fixture
+summary: Test manifest with an empty content_security_policy.extension_pages string, exercising missing CSP source validation for Manifest V3.

@@ -1,0 +1,4 @@
+# Docerion header of devtools_extension_url_invalid_type.json.
+type: test
+title: DevTools extension manifest with non-string page URL fixture
+summary: Manifest fixture setting devtools_page to the number 42, used to test rejection of a devtools page value with an invalid type.

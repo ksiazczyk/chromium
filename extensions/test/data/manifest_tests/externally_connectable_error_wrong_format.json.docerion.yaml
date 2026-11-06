@@ -1,0 +1,4 @@
+# Docerion header of externally_connectable_error_wrong_format.json.
+type: test
+title: Externally connectable wrong format test manifest
+summary: Manifest fixture with externally_connectable set to a string instead of an object, used by the ExternallyConnectableTest.ErrorWrongFormat unit test.

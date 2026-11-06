@@ -1,0 +1,4 @@
+# Docerion header of csp_invalid_3.json.
+type: test
+title: Manifest V3 invalid CSP whitespace extension pages fixture
+summary: Test manifest whose content_security_policy.extension_pages is only whitespace, exercising invalid CSP validation for Manifest V3 extensions.

@@ -1,0 +1,4 @@
+# Docerion header of requirements_valid_full.json.
+type: test
+title: Valid full requirements manifest fixture
+summary: Test manifest fixture with valid requirements requesting the css3d and webgl 3D features, used to exercise valid requirements handling.
