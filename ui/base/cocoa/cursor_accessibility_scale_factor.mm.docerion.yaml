@@ -1,0 +1,4 @@
+# Docerion header of cursor_accessibility_scale_factor.mm.
+type: source
+title: Cursor accessibility scale factor notifier
+summary: Objective-C++ singleton that observes the macOS mouse cursor size setting in universal access defaults and exposes the resulting accessibility scale factor to cursor code.

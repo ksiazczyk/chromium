@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the cursor directory
+summary: Routes bugs for this directory to the Internals>Input monorail component and Buganizer component 1456650.

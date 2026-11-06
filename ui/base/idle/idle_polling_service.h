@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle polling service header
+// summary: Header for the IdlePollingService singleton that polls user idle and screen lock state, notifies observers, and offers test hooks for provider and interval.
+// ---
+
 #ifndef UI_BASE_IDLE_IDLE_POLLING_SERVICE_H_
 #define UI_BASE_IDLE_IDLE_POLLING_SERVICE_H_
 

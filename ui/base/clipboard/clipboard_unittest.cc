@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform clipboard unit tests
+// summary: Instantiates the shared clipboard test template against the thread's platform clipboard with a UI task environment.
+// ---
+
 #include "ui/base/clipboard/clipboard.h"
 
 #include "base/test/task_environment.h"

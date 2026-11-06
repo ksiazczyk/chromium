@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone clipboard class declaration
+// summary: Declares the ClipboardOzone class, which delegates platform-specific clipboard handling to the Ozone platform's PlatformClipboard instance.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_OZONE_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_OZONE_H_
 

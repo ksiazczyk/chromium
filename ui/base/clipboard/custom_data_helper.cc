@@ -6,6 +6,12 @@
 // as a vector instead. It allows us to append a
 // std::pair<std::u16string, std::u16string> and swap the deserialized values.
 
+// ---docerion
+// type: source
+// title: Custom clipboard data helper implementation
+// summary: Reads and writes custom clipboard data as key-value pairs serialized into a base::Pickle, tolerating malformed input.
+// ---
+
 #include "ui/base/clipboard/custom_data_helper.h"
 
 #include <tuple>

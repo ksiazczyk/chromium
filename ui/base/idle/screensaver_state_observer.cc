@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreensaverStateObserver implementation
+// summary: Implements a Windows singleton that caches the screensaver running state, updates it from WM_SETTINGCHANGE messages, and supports a test override.
+// ---
+
 #include "ui/base/idle/screensaver_state_observer.h"
 
 #include "base/check_is_test.h"

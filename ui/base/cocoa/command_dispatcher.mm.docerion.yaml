@@ -1,0 +1,4 @@
+# Docerion header of command_dispatcher.mm.
+type: source
+title: CommandDispatcher implementation
+summary: Implements key equivalent handling, key event redispatch, and user interface item command dispatch for Cocoa windows.

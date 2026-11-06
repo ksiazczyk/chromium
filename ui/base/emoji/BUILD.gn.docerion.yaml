@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the emoji UI component
+summary: GN build file defining the ui_base_emoji component and selecting the platform-specific emoji panel helper sources.

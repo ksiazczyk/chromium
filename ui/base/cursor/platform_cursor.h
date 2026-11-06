@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformCursor ref-counted base class
+// summary: Declares the ref-counted base class that platform-specific cursor implementations must derive from.
+// ---
+
 #ifndef UI_BASE_CURSOR_PLATFORM_CURSOR_H_
 #define UI_BASE_CURSOR_PLATFORM_CURSOR_H_
 

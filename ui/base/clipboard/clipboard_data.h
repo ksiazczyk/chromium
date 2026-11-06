@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardData class header
+// summary: Declares ClipboardData, which stores data copied to the clipboard in formats such as text, HTML, SVG, RTF, bookmarks, images and custom data.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_DATA_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_DATA_H_
 

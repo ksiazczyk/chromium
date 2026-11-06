@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android clipboard unit tests
+// summary: Unit tests for the Android clipboard covering erasure of custom clipboard data and filtering of available clipboard formats.
+// ---
+
 #include "ui/base/clipboard/clipboard_android.h"
 
 #include <optional>

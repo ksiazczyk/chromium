@@ -1,0 +1,4 @@
+# Docerion header of bubble_closer_unittest.mm.
+type: test
+title: BubbleCloser unit tests
+summary: Unit tests verifying BubbleCloser click handling inside and outside the window, event monitor lifetime, and context menu behavior.

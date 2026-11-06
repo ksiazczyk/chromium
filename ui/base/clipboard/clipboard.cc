@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard core implementation
+// summary: Implements the platform-neutral Clipboard class, including clipboard buffer support checks, custom web format parsing, and middle-click paste handling.
+// ---
+
 #include "ui/base/clipboard/clipboard.h"
 
 #include <algorithm>

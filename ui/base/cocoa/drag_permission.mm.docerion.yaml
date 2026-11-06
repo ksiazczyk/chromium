@@ -1,0 +1,4 @@
+# Docerion header of drag_permission.mm.
+type: source
+title: Drag permission implementation
+summary: Tracks drag session state and blocks new drags while one is in progress or while the main run loop is in event tracking mode.

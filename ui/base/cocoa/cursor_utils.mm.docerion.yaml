@@ -1,0 +1,4 @@
+# Docerion header of cursor_utils.mm.
+type: source
+title: Cursor utils implementation
+summary: Maps Chromium cursor types to macOS NSCursor instances, including a private CoreCursor interface for cursor styles AppKit does not expose directly.

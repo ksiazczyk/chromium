@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checked GLib instance cast helper
+// summary: Provides GlibCast, a template that verifies a GObject's type before reinterpret-casting it.
+// ---
+
 #ifndef UI_BASE_GLIB_GLIB_CAST_H_
 #define UI_BASE_GLIB_GLIB_CAST_H_
 

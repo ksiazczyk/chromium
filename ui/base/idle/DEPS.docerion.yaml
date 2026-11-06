@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for idle dependencies
+summary: Allowlists include paths for ChromeOS session manager, DBus and JNI headers used by the idle code.

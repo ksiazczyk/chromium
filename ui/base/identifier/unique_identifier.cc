@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueIdentifier implementation
+// summary: Implements UniqueIdentifier methods for name lookup, raw value conversion, registration of known identifiers, and test-only cache clearing.
+// ---
+
 #include "ui/base/identifier/unique_identifier.h"
 
 #include "base/check.h"

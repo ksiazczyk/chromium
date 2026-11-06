@@ -1,0 +1,4 @@
+# Docerion header of constrained_window_animation_unittest.mm.
+type: test
+title: Constrained window animation unit tests
+summary: Runs the show, hide, and pulse constrained window animations for two frames each via a test delegate that verifies the animation lifecycle.

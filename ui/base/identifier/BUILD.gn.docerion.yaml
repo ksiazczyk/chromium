@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Identifier component build definition
+summary: GN build file defining the ui_base_identifier component with its public headers and the unit test source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLib integer typedefs for forward declarations
+// summary: Copies GLib's integer typedefs so code can use types like gpointer without including glib/gtypes.h.
+// ---
+
 #ifndef UI_BASE_GLIB_GLIB_INTEGERS_H_
 #define UI_BASE_GLIB_GLIB_INTEGERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux clipboard utility interface
+// summary: Declares Linux clipboard helpers for URI list conversion and XDG file transfer portal registration and retrieval.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_UTIL_LINUX_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_UTIL_LINUX_H_
 

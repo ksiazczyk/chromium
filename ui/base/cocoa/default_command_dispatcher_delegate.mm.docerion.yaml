@@ -1,0 +1,4 @@
+# Docerion header of default_command_dispatcher_delegate.mm.
+type: source
+title: Default command dispatcher delegate implementation
+summary: Implements the default delegate so reserved accelerators such as Cmd+T preempt the window's first responder while post handling remains unhandled for bubble-up.

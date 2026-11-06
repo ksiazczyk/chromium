@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GSettings helper declarations
+// summary: Declares GSettingsNew and a check for whether installed schemas would make GDK abort GTK3 initialization on Wayland.
+// ---
+
 #ifndef UI_BASE_GLIB_GSETTINGS_H_
 #define UI_BASE_GLIB_GSETTINGS_H_
 

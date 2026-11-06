@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android idle detection
+// summary: Implements idle time and screen lock queries on Android through the Java IdleDetector via JNI.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSWindow fullscreen test utilities implementation
+// summary: Implements a waiter that blocks until NSWindow fullscreen enter and exit transitions complete, plus a flag for faking fullscreen in tests.
+// ---
+
 #include "ui/base/cocoa/nswindow_test_util.h"
 
 namespace ui {

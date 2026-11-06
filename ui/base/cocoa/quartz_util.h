@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CATransaction begin and commit wrappers
+// summary: Declares thin wrappers around CATransaction begin and commit for Quartz Core animations.
+// ---
+
 #ifndef UI_BASE_COCOA_QUARTZ_UTIL_H_
 #define UI_BASE_COCOA_QUARTZ_UTIL_H_
 

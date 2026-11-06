@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFocusOverrider header
+// summary: Declares a class that lets out-of-process NSViews, such as PWAs, override the browser's cross-process accessibility focus query.
+// ---
+
 #ifndef UI_BASE_COCOA_ACCESSIBILITY_FOCUS_OVERRIDER_H_
 #define UI_BASE_COCOA_ACCESSIBILITY_FOCUS_OVERRIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default command dispatcher delegate header
+// summary: Declares a default CommandDispatcherDelegate for windows without a more specific delegate, forwarding pre-key-equivalent handling to the command dispatch parent.
+// ---
+
 #ifndef UI_BASE_COCOA_DEFAULT_COMMAND_DISPATCHER_DELEGATE_H_
 #define UI_BASE_COCOA_DEFAULT_COMMAND_DISPATCHER_DELEGATE_H_
 

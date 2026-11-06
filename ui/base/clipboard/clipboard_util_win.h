@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows clipboard utility interface
+// summary: Declares Windows clipboard helpers for checking and extracting URLs, filenames, plain text, HTML, and virtual files from IDataObjects.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_UTIL_WIN_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_UTIL_WIN_H_
 

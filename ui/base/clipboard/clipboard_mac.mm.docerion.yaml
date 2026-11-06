@@ -1,0 +1,4 @@
+# Docerion header of clipboard_mac.mm.
+type: source
+title: macOS clipboard implementation
+summary: Implements the macOS clipboard on top of NSPasteboard, covering PNG image handling, pasteboard expiration, format reads and writes, and change notification.

@@ -1,0 +1,4 @@
+# Docerion header of command_dispatcher_unittest.mm.
+type: test
+title: CommandDispatcher unit tests
+summary: Tests CommandDispatcher key equivalent handling, redispatch, and delegate interactions using test dispatching windows and delegates.

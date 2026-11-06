@@ -1,0 +1,4 @@
+# Docerion header of bubble_closer.mm.
+type: source
+title: BubbleCloser implementation with NSEvent monitor
+summary: Implements BubbleCloser using a local NSEvent monitor that invokes a callback when clicks occur outside the window or its children.

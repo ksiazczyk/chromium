@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGSignal implementation
+// summary: Implements ScopedGSignal's lifecycle, connection state checks, and the SignalBase destructor.
+// ---
+
 #include "ui/base/glib/scoped_gsignal.h"
 
 ScopedGSignal::ScopedGSignal() = default;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTransferEndpoint implementation
+// summary: Implements the DataTransferEndpoint class, including URL access, equality and IsSameURLWith comparison helpers.
+// ---
+
 #include "ui/base/data_transfer_policy/data_transfer_endpoint.h"
 
 #include <optional>

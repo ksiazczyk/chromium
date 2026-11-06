@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa context menu utilities interface
+// summary: Declares helpers to build context menu positioning events, show Cocoa context menus and query the active menu anchor location.
+// ---
+
 #ifndef UI_BASE_COCOA_MENU_UTILS_H_
 #define UI_BASE_COCOA_MENU_UTILS_H_
 

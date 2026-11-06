@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClipboardWriter class header
+// summary: Declares ScopedClipboardWriter, a Clipboard wrapper that packs data into an object map and writes it to the system clipboard when destroyed.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_SCOPED_CLIPBOARD_WRITER_H_
 #define UI_BASE_CLIPBOARD_SCOPED_CLIPBOARD_WRITER_H_
 

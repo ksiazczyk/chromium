@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Clipboard directory owners (OWNERS)
+summary: Lists code owners for the clipboard directory, with per-file owners for Android, Mac, Ozone, and Linux clipboard files.

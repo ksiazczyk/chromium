@@ -1,0 +1,4 @@
+# Docerion header of drag_drop_types_mac.mm.
+type: source
+title: macOS drag operation conversions
+summary: Converts between DragDropTypes drag operation flags and NSDragOperation values for macOS drag and drop support.

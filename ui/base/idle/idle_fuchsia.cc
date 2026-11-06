@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia idle detection stubs
+// summary: Provides unimplemented Fuchsia placeholders for idle time, lock checks and screen lock callbacks.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include "base/notimplemented.h"

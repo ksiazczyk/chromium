@@ -1,0 +1,4 @@
+# Docerion header of drag_drop_types.mojom.
+type: source
+title: DragEventSource and DragOperation mojom enums
+summary: Defines Mojo enums for drag event sources and drag operation verbs that match NSDragOperation constants for drag-and-drop IPC.

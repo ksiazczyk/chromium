@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInterfaceItemCommandHandler protocol
+// summary: Declares the Objective-C protocol used by CommandDispatchingWindow to validate and dispatch menu and toolbar item commands, including a variant that honors key modifier flags.
+// ---
+
 #ifndef UI_BASE_COCOA_USER_INTERFACE_ITEM_COMMAND_HANDLER_H_
 #define UI_BASE_COCOA_USER_INTERFACE_ITEM_COMMAND_HANDLER_H_
 

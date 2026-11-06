@@ -1,0 +1,4 @@
+# Docerion header of menu_utils.mm.
+type: source
+title: Cocoa context menu utilities implementation
+summary: Implements context menu event creation, menu display with nested task handling and tracking of the active menu anchor location.

@@ -1,0 +1,4 @@
+# Docerion header of cocoa_base_utils_unittest.mm.
+type: test
+title: Cocoa base utils unit tests
+summary: Tests WindowOpenDispositionFromNSEvent for left, middle, and modifier-click combinations using an Objective-C class swizzler.

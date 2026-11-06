@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows clipboard utility unit tests
+// summary: Unit tests for Windows clipboard helpers, using mock IDataObject implementations that simulate ZIP shell folders and virtual file transfers.
+// ---
+
 #include "ui/base/clipboard/clipboard_util_win.h"
 
 #include <shlobj.h>

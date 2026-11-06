@@ -1,0 +1,4 @@
+# Docerion header of cursor_type.mojom.
+type: source
+title: Mojo enum of standard cursor types
+summary: Defines the ui.mojom.CursorType enum listing built-in pointer, resize, panning, drag-and-drop, and custom cursor types.

@@ -1,0 +1,4 @@
+# Docerion header of quartz_util.mm.
+type: source
+title: CATransaction wrapper implementation
+summary: Implements BeginCATransaction and CommitCATransaction by calling the corresponding CATransaction class methods.

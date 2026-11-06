@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardData implementation
+// summary: Implements the ClipboardData class, including equality comparison, copying and size calculation for clipboard contents in multiple formats.
+// ---
+
 #include "ui/base/clipboard/clipboard_data.h"
 
 #include <memory>

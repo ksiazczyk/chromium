@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory clipboard implementation
+// summary: Implements ClipboardNonBacked, an in-memory clipboard not backed by a platform, with instance registry locking, format conversion, and sequence number handling.
+// ---
+
 #include "ui/base/clipboard/clipboard_non_backed.h"
 
 #include <stdint.h>

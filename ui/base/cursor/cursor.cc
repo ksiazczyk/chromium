@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor and CursorData implementation
+// summary: Implements the ref-counted Cursor class, custom cursor creation, hotspot clamping and web cursor size validation.
+// ---
+
 #include "ui/base/cursor/cursor.h"
 
 #include <algorithm>

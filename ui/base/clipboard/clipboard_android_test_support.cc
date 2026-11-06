@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android clipboard test support
+// summary: Provides JNI test support functions that write HTML to the clipboard, verify clipboard contents, and count clipboard change notifications for Android tests.
+// ---
+
 
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGObject smart pointer for GObject references
+// summary: RAII wrapper managing GObject reference counts, with TakeGObject and WrapGObject creation helpers.
+// ---
+
 #ifndef UI_BASE_GLIB_SCOPED_GOBJECT_H_
 #define UI_BASE_GLIB_SCOPED_GOBJECT_H_
 

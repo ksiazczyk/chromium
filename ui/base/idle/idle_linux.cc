@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux idle detection implementation
+// summary: Linux implementation of idle time and screen lock detection that connects to D-Bus ScreenSaver services across desktop environments such as GNOME and XFCE.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include "base/memory/raw_ptr.h"

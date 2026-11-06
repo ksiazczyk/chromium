@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropTypes drag operation constants and conversions
+// summary: Declares the DragDropTypes drag operation enum matching NSDragOperation values, plus Windows and Apple conversion helpers and PreferredDragOperation.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_DRAG_DROP_TYPES_H_
 #define UI_BASE_DRAGDROP_DRAG_DROP_TYPES_H_
 

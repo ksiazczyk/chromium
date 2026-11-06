@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard sequence number token
+// summary: Defines a token type that identifies a unique clipboard state so callers can detect when clipboard data has changed.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_SEQUENCE_NUMBER_TOKEN_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_SEQUENCE_NUMBER_TOKEN_H_
 

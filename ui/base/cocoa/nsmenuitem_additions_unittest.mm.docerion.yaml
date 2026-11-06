@@ -1,0 +1,4 @@
+# Docerion header of nsmenuitem_additions_unittest.mm.
+type: test
+title: Unit tests for NSMenuItem additions
+summary: Unit tests verifying that NSMenuItem key equivalents fire correctly across macOS keyboard layouts, comparing behavior against Cocoa's own menu handling.

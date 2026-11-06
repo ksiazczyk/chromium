@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cursor unit tests
+// summary: Tests Cursor type handling, custom cursor creation, bitmap pixel comparison and hotspot clamping.
+// ---
+
 #include "ui/base/cursor/cursor.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

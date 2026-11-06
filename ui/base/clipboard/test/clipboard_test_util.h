@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard test read helpers interface
+// summary: Declares helper functions in the ui::clipboard_test_util namespace that read clipboard data synchronously for use in tests.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_TEST_CLIPBOARD_TEST_UTIL_H_
 #define UI_BASE_CLIPBOARD_TEST_CLIPBOARD_TEST_UTIL_H_
 

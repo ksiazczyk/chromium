@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandDispatcher header for key event handling
+// summary: Declares CommandDispatcher, which orders key event processing and redispatch for NSWindow, along with its delegate and target protocols.
+// ---
+
 #ifndef UI_BASE_COCOA_COMMAND_DISPATCHER_H_
 #define UI_BASE_COCOA_COMMAND_DISPATCHER_H_
 

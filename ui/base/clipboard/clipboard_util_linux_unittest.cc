@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux clipboard utility unit tests
+// summary: Unit tests verifying conversion between file paths and text/uri-list strings in the Linux clipboard utilities.
+// ---
+
 #include "ui/base/clipboard/clipboard_util_linux.h"
 
 #include <string>

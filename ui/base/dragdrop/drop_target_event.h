@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetEvent class declaration
+// summary: Declares a located event wrapping drag session data and the bitmask of operations supported by the drag source.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_DROP_TARGET_EVENT_H_
 #define UI_BASE_DRAGDROP_DROP_TARGET_EVENT_H_
 

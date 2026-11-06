@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cursor Mojo serialization
+// summary: Verifies round-trip serialization of built-in, custom, and empty cursors, device scale factors, and custom cursor size constraints.
+// ---
+
 #include "ui/base/cursor/mojom/cursor_mojom_traits.h"
 
 #include <limits>

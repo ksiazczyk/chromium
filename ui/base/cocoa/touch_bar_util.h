@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch bar identifier utilities header
+// summary: Declares helpers that build touch bar and touch bar item identifiers prefixed with the application bundle ID.
+// ---
+
 #ifndef UI_BASE_COCOA_TOUCH_BAR_UTIL_H_
 #define UI_BASE_COCOA_TOUCH_BAR_UTIL_H_
 

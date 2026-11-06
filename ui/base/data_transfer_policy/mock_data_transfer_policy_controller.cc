@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTransferPolicyController implementation
+// summary: Provides the constructor and destructor for the gmock-based mock of DataTransferPolicyController used in tests.
+// ---
+
 #include "ui/base/data_transfer_policy/mock_data_transfer_policy_controller.h"
 
 namespace ui {

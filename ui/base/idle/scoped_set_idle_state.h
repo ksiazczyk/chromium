@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped idle state override header
+// summary: Header for ScopedSetIdleState, a scoped helper that temporarily overrides the idle state for tests and restores it afterwards.
+// ---
+
 #ifndef UI_BASE_IDLE_SCOPED_SET_IDLE_STATE_H_
 #define UI_BASE_IDLE_SCOPED_SET_IDLE_STATE_H_
 

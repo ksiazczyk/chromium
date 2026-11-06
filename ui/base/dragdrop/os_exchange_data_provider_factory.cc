@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS exchange data provider factory implementation
+// summary: Creates a platform-specific OS exchange data provider for Linux, ChromeOS, Mac, Windows, and Fuchsia with a non-backed fallback.
+// ---
+
 #include "ui/base/dragdrop/os_exchange_data_provider_factory.h"
 
 #include "base/notreached.h"

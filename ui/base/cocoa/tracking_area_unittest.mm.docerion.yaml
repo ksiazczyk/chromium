@@ -1,0 +1,4 @@
+# Docerion header of tracking_area_unittest.mm.
+type: test
+title: CrTrackingArea unit tests
+summary: Unit tests verifying that a CrTrackingArea forwards messages to its owner, stops forwarding after clearOwner, and that ScopedCrTrackingArea init and reset behave correctly.

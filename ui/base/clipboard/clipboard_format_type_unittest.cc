@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardFormatType unit tests
+// summary: Unit tests verifying CustomPlatformType and Deserialize behavior of ClipboardFormatType across platforms.
+// ---
+
 #include "ui/base/clipboard/clipboard_format_type.h"
 
 #include "base/strings/string_number_conversions.h"

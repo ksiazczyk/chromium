@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the dragdrop types component
+summary: Defines the GN build target for the ui_base_dragdrop_types component, listing core sources plus Mac and Windows platform sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_utils.mm.
+type: source
+title: macOS screen capture permission implementation
+summary: Implements screen capture permission checks and prompts, and captures a discarded screenshot to warm macOS permission caches across OS versions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard monitor singleton header
+// summary: Declares the ClipboardMonitor singleton that manages clipboard observers and delegates clipboard change events to a platform notifier.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_MONITOR_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_MONITOR_H_
 

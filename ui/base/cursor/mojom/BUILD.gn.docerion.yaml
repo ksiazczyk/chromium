@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for cursor Mojo bindings
+summary: Defines the mojom, mojom_traits, cursor_type, and unittests targets that build the cursor Mojo bindings and their serialization traits.

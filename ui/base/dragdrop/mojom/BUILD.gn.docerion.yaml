@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the drag-drop mojom component
+summary: Defines the mojom component build target that generates C++, Blink, Java and legacy JS bindings from drag_drop_types.mojom.

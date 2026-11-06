@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTransferPolicyController interface
+// summary: Declares the abstract controller that decides whether clipboard reads, pastes and drops are allowed under data leak prevention rules.
+// ---
+
 #ifndef UI_BASE_DATA_TRANSFER_POLICY_DATA_TRANSFER_POLICY_CONTROLLER_H_
 #define UI_BASE_DATA_TRANSFER_POLICY_DATA_TRANSFER_POLICY_CONTROLLER_H_
 

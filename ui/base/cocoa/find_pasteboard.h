@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find pasteboard manager interface
+// summary: Declares a singleton FindPasteboard class for reading, writing and observing text on the macOS find pasteboard.
+// ---
+
 #ifndef UI_BASE_COCOA_FIND_PASTEBOARD_H_
 #define UI_BASE_COCOA_FIND_PASTEBOARD_H_
 

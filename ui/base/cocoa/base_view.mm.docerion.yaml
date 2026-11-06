@@ -1,0 +1,4 @@
+# Docerion header of base_view.mm.
+type: source
+title: BaseView implementation
+summary: Implements BaseView event routing, tracking area management, left mouse-up handling, and synthesized mouse-exit events when views are hidden.

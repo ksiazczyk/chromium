@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle state calculation
+// summary: Computes the idle state by honoring test overrides, checking lock status and comparing idle time to a threshold.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include "ui/base/idle/idle_internal.h"

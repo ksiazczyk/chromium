@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardData unit tests
+// summary: Unit tests verifying ClipboardData equality behavior for bitmaps, data sources and PNG encoding scenarios.
+// ---
+
 #include "ui/base/clipboard/clipboard_data.h"
 
 #include <memory>

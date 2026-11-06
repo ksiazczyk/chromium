@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring Mojo StructTraits for ui::Cursor
+// summary: Declares the StructTraits specialization exposing type, bitmap, hotspot, and scale factor accessors for cursor serialization.
+// ---
+
 #ifndef UI_BASE_CURSOR_MOJOM_CURSOR_MOJOM_TRAITS_H_
 #define UI_BASE_CURSOR_MOJOM_CURSOR_MOJOM_TRAITS_H_
 

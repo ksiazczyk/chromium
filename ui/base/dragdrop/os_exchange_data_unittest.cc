@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSExchangeData unit tests
+// summary: Cross-platform unit tests for setting and reading strings, URLs, file contents and HTML through OSExchangeData, including platform-specific string-to-URL coercion behavior.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

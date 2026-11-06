@@ -1,0 +1,4 @@
+# Docerion header of clipboard_tvos.mm.
+type: source
+title: tvOS clipboard stub
+summary: Provides a not-yet-implemented Clipboard::Create stub for tvOS that hits NOTREACHED until tvOS needs clipboard functionality.

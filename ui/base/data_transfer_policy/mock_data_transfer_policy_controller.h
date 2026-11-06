@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTransferPolicyController declaration
+// summary: Declares a GoogleMock mock of DataTransferPolicyController that stubs clipboard read, paste and drop checks for testing.
+// ---
+
 #ifndef UI_BASE_DATA_TRANSFER_POLICY_MOCK_DATA_TRANSFER_POLICY_CONTROLLER_H_
 #define UI_BASE_DATA_TRANSFER_POLICY_MOCK_DATA_TRANSFER_POLICY_CONTROLLER_H_
 

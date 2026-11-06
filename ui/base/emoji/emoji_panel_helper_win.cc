@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows emoji panel helper implementation
+// summary: Windows implementation that opens the emoji picker by sending the Win+. keystroke via SendInput on Windows 10 RS4 and later.
+// ---
+
 #include "ui/base/emoji/emoji_panel_helper.h"
 
 #include <windows.h>

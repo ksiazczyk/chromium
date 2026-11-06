@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constrained window animation interfaces
+// summary: Declares NSAnimation subclasses for showing, hiding, and pulsing constrained windows on macOS, with a base class that holds the target window.
+// ---
+
 #ifndef UI_BASE_COCOA_CONSTRAINED_WINDOW_CONSTRAINED_WINDOW_ANIMATION_H_
 #define UI_BASE_COCOA_CONSTRAINED_WINDOW_CONSTRAINED_WINDOW_ANIMATION_H_
 

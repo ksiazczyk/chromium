@@ -1,0 +1,4 @@
+# Docerion header of base_view_unittest.mm.
+type: test
+title: BaseView unit tests
+summary: Tests BaseView superview removal, NSRect and gfx::Rect coordinate flipping, and synthesized mouse-exit events when a view or ancestor is hidden.

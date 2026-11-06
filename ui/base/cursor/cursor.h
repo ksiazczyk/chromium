@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor and CursorData class declarations
+// summary: Declares the CursorData struct and the ref-counted Cursor class supporting default and custom cursors with platform cursor hooks.
+// ---
+
 #ifndef UI_BASE_CURSOR_CURSOR_H_
 #define UI_BASE_CURSOR_CURSOR_H_
 

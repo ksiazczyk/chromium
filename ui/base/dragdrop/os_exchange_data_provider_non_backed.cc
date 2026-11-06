@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-backed OS exchange data provider implementation
+// summary: Implements an in-memory drag data provider for aura-based ports without platform clipboard integration.
+// ---
+
 #include "ui/base/dragdrop/os_exchange_data_provider_non_backed.h"
 
 #include <memory>

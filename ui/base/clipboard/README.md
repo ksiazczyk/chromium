@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browser Clipboard README
+summary: Explains the platform-neutral clipboard abstractions, the clipboard model, the main interfaces, and notable platform-specific behavior across operating systems.
+---
+
 # Browser Clipboard
 
 Platform-neutral clipboard abstractions, to access platform-specific clipboards

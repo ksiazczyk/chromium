@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool tip base view header
+// summary: Declares ToolTipBaseView, an NSView subclass that lets callers set tooltip text at the current mouse location.
+// ---
+
 #ifndef UI_BASE_COCOA_TOOL_TIP_BASE_VIEW_H_
 #define UI_BASE_COCOA_TOOL_TIP_BASE_VIEW_H_
 

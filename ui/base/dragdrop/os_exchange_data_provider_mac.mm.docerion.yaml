@@ -1,0 +1,4 @@
+# Docerion header of os_exchange_data_provider_mac.mm.
+type: source
+title: Mac OS exchange data provider implementation
+summary: Implements the Mac drag data provider backed by NSPasteboard, including pasteboard item wrappers and supported pasteboard types.

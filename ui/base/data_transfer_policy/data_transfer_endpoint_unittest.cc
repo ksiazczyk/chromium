@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTransferEndpoint unit tests
+// summary: GoogleTest unit tests covering cloning, equality and IsSameURLWith behavior of DataTransferEndpoint objects.
+// ---
+
 #include "ui/base/data_transfer_policy/data_transfer_endpoint.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

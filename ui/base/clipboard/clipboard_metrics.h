@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard metrics declarations
+// summary: Declares the ClipboardFormatMetric enum and functions for logging clipboard read and write formats and text size metrics to UMA histograms.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_METRICS_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_METRICS_H_
 

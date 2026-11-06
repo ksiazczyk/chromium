@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OS exchange data provider header
+// summary: Declares ScopedTargetDevice, ScopedFormatEtc and DataObjectImpl, which wrap Windows COM structures and implement the OS exchange data provider for drag-and-drop.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_WIN_H_
 #define UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_WIN_H_
 

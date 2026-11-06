@@ -1,0 +1,4 @@
+# Docerion header of find_pasteboard.mm.
+type: source
+title: Find pasteboard manager implementation
+summary: Implements the FindPasteboard singleton that syncs find text with the macOS find pasteboard and posts change notifications.

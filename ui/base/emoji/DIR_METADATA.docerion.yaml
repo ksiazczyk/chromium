@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Emoji directory issue tracker metadata
+summary: Maps the emoji directory to the Internals>Input monorail component and a Buganizer component ID.

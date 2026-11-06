@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows clipboard utility implementation
+// summary: Implements Windows clipboard helpers that extract URLs, text, HTML, and real or virtual files from IDataObjects.
+// ---
+
 #include "ui/base/clipboard/clipboard_util_win.h"
 
 #include <shellapi.h>

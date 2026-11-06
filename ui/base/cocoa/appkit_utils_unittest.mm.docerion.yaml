@@ -1,0 +1,4 @@
+# Docerion header of appkit_utils_unittest.mm.
+type: test
+title: AppKit utils unit tests
+summary: Unit tests verifying UTType conversion helpers for modern pasteboard types, obsolete Pboard types, nil input, and set deduplication.

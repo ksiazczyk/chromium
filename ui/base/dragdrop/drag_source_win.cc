@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragSourceWin
+// summary: Implements the COM IDropSource callbacks that continue, drop or cancel an active Windows drag operation.
+// ---
+
 #include "ui/base/dragdrop/drag_source_win.h"
 
 #include "ui/base/dragdrop/os_exchange_data_provider_win.h"

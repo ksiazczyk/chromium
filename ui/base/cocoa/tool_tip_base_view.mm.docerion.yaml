@@ -1,0 +1,4 @@
+# Docerion header of tool_tip_base_view.mm.
+type: source
+title: Tool tip base view implementation
+summary: Implements ToolTipBaseView with tracking-rect overrides adapted from WebKit so updated tooltips take effect immediately at the mouse point.

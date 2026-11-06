@@ -1,0 +1,4 @@
+# Docerion header of os_exchange_data_provider_builder_mac.mm.
+type: source
+title: Mac OS exchange data provider builder implementation
+summary: Implements the Mac provider builder by delegating to OSExchangeDataProviderMac::CreateProvider().

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote accessibility API for macOS
+// summary: Declares the private NSAccessibilityRemoteUIElement AppKit interface and RemoteAccessibility helpers for exchanging accessibility tokens between processes.
+// ---
+
 #ifndef UI_BASE_COCOA_REMOTE_ACCESSIBILITY_API_H_
 #define UI_BASE_COCOA_REMOTE_ACCESSIBILITY_API_H_
 

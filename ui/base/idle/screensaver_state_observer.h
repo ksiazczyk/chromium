@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreensaverStateObserver class declaration
+// summary: Declares a singleton observer that tracks Windows screensaver state changes via WM_SETTINGCHANGE and caches the result to avoid slow system queries.
+// ---
+
 #ifndef UI_BASE_IDLE_SCREENSAVER_STATE_OBSERVER_H_
 #define UI_BASE_IDLE_SCREENSAVER_STATE_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of defaults_utils_unittest.mm.
+type: test
+title: Defaults utils unit tests
+summary: Unit tests for the caret blink period logic, covering refresh flag behavior, app activation resets, and on/off period handling in NSUserDefaults.

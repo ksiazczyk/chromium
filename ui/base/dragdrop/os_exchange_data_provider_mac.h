@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac OS exchange data provider declaration
+// summary: Declares the Mac OSExchangeDataProvider implementation that wraps NSPasteboard for drag-and-drop data.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_MAC_H_
 #define UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_MAC_H_
 

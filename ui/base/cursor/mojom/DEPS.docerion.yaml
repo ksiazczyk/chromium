@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules permitting skia public mojom dependencies
+summary: Grants this directory include access to skia/public/mojom for building the cursor Mojo traits.

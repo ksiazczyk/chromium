@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard test template run against TestClipboard
+// summary: Defines TestClipboardTraits and includes the shared clipboard test template to run clipboard tests against the TestClipboard mock.
+// ---
+
 #include "ui/base/clipboard/test/test_clipboard.h"
 
 #include "base/test/task_environment.h"

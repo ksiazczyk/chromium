@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardIOS class declaration
+// summary: Declares ClipboardIOS, the iOS Clipboard implementation backed by UIPasteboard, with read and write overrides for various data types.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_IOS_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_IOS_H_
 

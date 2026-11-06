@@ -1,0 +1,4 @@
+# Docerion header of defaults_utils.mm.
+type: source
+title: Caret blink period defaults implementation
+summary: Reads the NSTextInsertionPointBlinkPeriod on and off values from NSUserDefaults and refreshes them when the application becomes active.

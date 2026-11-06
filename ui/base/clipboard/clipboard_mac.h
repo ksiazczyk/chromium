@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardMac class header for macOS
+// summary: Declares the ClipboardMac class that implements the clipboard abstraction over the macOS NSPasteboard API, including change notification support.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_MAC_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_MAC_H_
 

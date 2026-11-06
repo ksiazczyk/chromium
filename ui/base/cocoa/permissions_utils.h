@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS screen capture permission helpers
+// summary: Declares functions to check, request, and warm up macOS screen capture permission used for screen sharing.
+// ---
+
 #ifndef UI_BASE_COCOA_PERMISSIONS_UTILS_H_
 #define UI_BASE_COCOA_PERMISSIONS_UTILS_H_
 

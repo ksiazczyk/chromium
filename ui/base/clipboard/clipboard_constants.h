@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard MIME type constants
+// summary: Declares platform-neutral and platform-specific MIME type and clipboard format constants used across the clipboard code.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_CONSTANTS_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_CONSTANTS_H_
 

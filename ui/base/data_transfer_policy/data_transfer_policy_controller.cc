@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTransferPolicyController singleton implementation
+// summary: Implements the Get, HasInstance and DeleteInstance singleton management for the data transfer policy controller.
+// ---
+
 #include "ui/base/data_transfer_policy/data_transfer_policy_controller.h"
 
 namespace ui {

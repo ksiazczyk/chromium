@@ -1,0 +1,4 @@
+# Docerion header of Google.url.
+type: test
+title: Google.url Internet Shortcut fuzzer test case
+summary: Windows Internet Shortcut file pointing to google.com, used as a test case input for the URL file parser fuzzer.

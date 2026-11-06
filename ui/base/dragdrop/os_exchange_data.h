@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSExchangeData class declaration
+// summary: Declares the API for building and reading OS interchange data such as strings, URLs, filenames and pickled formats.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_H_
 #define UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_H_
 
