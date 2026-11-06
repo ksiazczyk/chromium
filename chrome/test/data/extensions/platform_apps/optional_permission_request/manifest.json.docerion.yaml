@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the optional permission request test app
+summary: Manifest v2 app definition that registers test.js as the background script and declares serial as an optional permission.

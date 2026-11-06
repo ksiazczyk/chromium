@@ -1,0 +1,4 @@
+# Docerion header of many_frames.html.
+type: test
+title: Many frames extension performance test page
+summary: HTML test page that measures the time to load 100 iframes of title1.html for extension performance testing.

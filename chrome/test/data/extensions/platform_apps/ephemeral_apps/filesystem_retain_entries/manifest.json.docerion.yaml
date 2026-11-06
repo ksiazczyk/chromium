@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the ephemeral apps retain entries test
+summary: Manifest for the test app declaring storage and fileSystem write and retainEntries permissions used to verify entry retention for ephemeral apps.

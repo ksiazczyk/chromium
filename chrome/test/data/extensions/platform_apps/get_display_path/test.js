@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getDisplayPath platform app JavaScript test
+// summary: Runs on app launch and asserts that launch data fields are correct and that chrome.fileSystem.getDisplayPath returns a path containing test.txt.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the items field is
   // populated correctly in the launch data and that the FileEntry in

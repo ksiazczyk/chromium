@@ -1,0 +1,4 @@
+# Docerion header of more-than-3-hosts.json.
+type: test
+title: More than three hosts permission manifest
+summary: Test manifest with five host permissions to check permission warning behavior beyond three hosts.

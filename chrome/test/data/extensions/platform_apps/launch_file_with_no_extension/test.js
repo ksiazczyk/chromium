@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app file launch test script
+// summary: Chrome test script that verifies launch data when a file with no extension is opened, checking the handler id, kiosk flag, retained entry, and file contents.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the id and items fields
   // can be read in the launch data.

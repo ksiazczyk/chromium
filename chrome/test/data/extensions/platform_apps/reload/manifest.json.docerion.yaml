@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for runtime.reload test app
+summary: Manifest v2 app definition that registers test.js as the background script for the runtime.reload test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Ephemeral Apps Power Tests manifest
+summary: Chrome app manifest declaring the background script and the power permission for the ephemeral apps power test.

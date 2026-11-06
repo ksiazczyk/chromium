@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the context menus test extension
+summary: Declares a platform app test extension with the contextMenus permission and test.js as its background script.

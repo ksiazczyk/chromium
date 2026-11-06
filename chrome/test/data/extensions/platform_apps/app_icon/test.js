@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App icon test background script
+// summary: Background script that processes browser test commands to create panel and shelf windows and set their icons.
+// ---
+
 var panelWindow;
 var nonShelfWindow;
 var shelfWindow;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permission Test extension manifest
+summary: Manifest for a version 3 test extension named Permission Test that requests tabs and management permissions and uses an autoupdate URL for permission increase testing.

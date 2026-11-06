@@ -1,0 +1,4 @@
+# Docerion header of access_to_devices_bluetooth.json.
+type: test
+title: Bluetooth device access test manifest
+summary: Test extension manifest declaring a bluetooth UUID permission to exercise device access permission handling.

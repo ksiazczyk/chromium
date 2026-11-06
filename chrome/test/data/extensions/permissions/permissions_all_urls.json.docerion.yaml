@@ -1,0 +1,4 @@
+# Docerion header of permissions_all_urls.json.
+type: test
+title: All-urls permission list manifest
+summary: Test manifest with <all_urls> in the permissions list for permission warning tests.

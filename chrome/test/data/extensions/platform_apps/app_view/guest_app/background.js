@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest app background script for app view tests
+// summary: Background script of the guest test app that handles app launch and embed requests, signals the test via message, and allows embedding window.html.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create("window.html", {}, function() {
   });

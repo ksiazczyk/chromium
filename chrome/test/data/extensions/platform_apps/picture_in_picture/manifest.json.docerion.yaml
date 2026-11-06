@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Picture-in-Picture platform app test manifest
+summary: 'Manifest for the Platform App Test: Picture-in-Picture, declaring a manifest v2 packaged app whose background script is test.js.'

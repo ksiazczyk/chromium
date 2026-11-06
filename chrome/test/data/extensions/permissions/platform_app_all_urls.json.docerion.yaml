@@ -1,0 +1,4 @@
+# Docerion header of platform_app_all_urls.json.
+type: test
+title: Platform app all_urls permissions manifest
+summary: Chrome platform app manifest fixture requesting the <all_urls> permission for extension permission tests.

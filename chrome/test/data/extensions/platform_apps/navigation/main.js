@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation attempt test script
+// summary: Runs a series of navigation attempts via location changes, form submissions and link clicks to verify that platform apps cannot navigate away.
+// ---
+
 chrome.test.getConfig(function(config) {
   var IN_APP_URL = 'nav-target.html';
   var REMOTE_URL = 'http://localhost:' + config.testServer.port

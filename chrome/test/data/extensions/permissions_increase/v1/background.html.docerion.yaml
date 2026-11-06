@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Dummy background page for v1 permission test extension
+summary: Placeholder background HTML page referenced by the v1 test extension manifest in the permissions increase test data.

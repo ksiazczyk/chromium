@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for v1 permission test extension
+summary: Manifest defining a version 1 test extension named Permission Test with a background page and a localhost autoupdate URL for permission increase testing.

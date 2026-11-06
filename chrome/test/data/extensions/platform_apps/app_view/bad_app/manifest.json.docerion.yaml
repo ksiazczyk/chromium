@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad app manifest
+summary: 'Manifest for the Platform API Test: Bad Application fixture, declaring background.js for app view test scenarios.'

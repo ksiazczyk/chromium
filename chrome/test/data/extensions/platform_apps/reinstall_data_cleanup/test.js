@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage cleanup test script for app reinstall
+// summary: Background script that checks chrome.storage.local and chrome.storage.sync contain no leftover values after reinstall, then writes and reads back a value.
+// ---
+
 function testChromeStorage(backend, callback) {
   backend.get('foo', chrome.test.callbackPass(function(result) {
     chrome.test.assertEq(undefined, result.foo,

@@ -1,0 +1,4 @@
+# Docerion header of content_script_file_scheme.json.
+type: test
+title: Content script file scheme match test manifest
+summary: Test manifest declaring a content script whose matches list covers pages loaded over the file scheme.

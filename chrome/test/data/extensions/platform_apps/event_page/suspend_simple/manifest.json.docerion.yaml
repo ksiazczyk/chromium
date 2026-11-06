@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Event page test app manifest
+summary: Manifest for the simple event page test app, running main.js as its background script.

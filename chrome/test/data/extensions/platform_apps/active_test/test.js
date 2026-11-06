@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active state test background script
+// summary: Background script that creates and closes app windows in response to commands from the controlling C++ test to verify that app active state is tracked correctly.
+// ---
+
 // This test gets sent commands to execute, which it is sent by the
 // controlling C++ code. This code then checks that the apps' active state
 // is being tracked correctly.

@@ -1,0 +1,4 @@
+# Docerion header of socket_one_domain_two_hostnames.json.
+type: test
+title: Socket permission manifest with one domain and two hostnames
+summary: Chrome app manifest fixture combining socket permissions for one domain pattern and two specific hostnames.

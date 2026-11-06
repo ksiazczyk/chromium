@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filesystem entry retain and restore test logic
+// summary: Test logic that opens a writable file, retains its entry, stores the ID in local storage, and later attempts to restore it using chrome.test callbacks.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 var callbackFail = chrome.test.callbackFail;
 

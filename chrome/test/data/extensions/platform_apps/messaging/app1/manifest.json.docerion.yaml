@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for messaging test app 1
+summary: Manifest version 2 definition of the Messaging Test App 1, declaring background.js as the app's background script for messaging tests.

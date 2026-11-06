@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Iframe test runner for local, data, filesystem, blob and remote frames
+// summary: Runs chrome.test cases that load local, data, filesystem, blob and remote URLs in iframes, expecting every frame except the remote one to display.
+// ---
+
 chrome.test.getConfig(function(config) {
   var LOCAL_URL = 'local-iframe.html';
   var DATA_URL = 'data:text/plain,This frame should be displayed.';

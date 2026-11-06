@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Launch Test manifest
+summary: Test extension manifest for a platform app with a PNG file handler and a background script, used by the launch_wrong_extension browser test.

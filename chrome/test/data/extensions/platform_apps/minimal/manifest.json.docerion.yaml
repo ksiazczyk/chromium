@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal platform app test manifest
+summary: Manifest for the minimal platform app test extension, registering test.js as the background script.

@@ -1,0 +1,4 @@
+# Docerion header of serial.json.
+type: test
+title: Serial permission test manifest
+summary: Chrome app manifest fixture declaring the serial permission for permission-related tests.

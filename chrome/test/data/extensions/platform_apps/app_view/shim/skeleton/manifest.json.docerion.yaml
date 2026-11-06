@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Skeleton test app manifest
+summary: Chrome app manifest declaring the skeleton test app with the webview permission and main.js as its background script.

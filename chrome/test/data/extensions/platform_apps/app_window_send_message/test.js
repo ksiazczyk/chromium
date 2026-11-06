@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window send message test background script
+// summary: Creates the app window on launch and signals the browser test via chrome.test.sendMessage.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('main.html', {}, function (win) {
     // Send the message PlatformAppBrowserTest.AppWindowIframe is waiting for.

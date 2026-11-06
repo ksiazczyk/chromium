@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView focus test script
+// summary: Script that creates a webview loading a data URL with a focused text input and focuses the webview on loadstop to test focus behavior.
+// ---
+
 var dataUrl = `data:text/html,
 <body>
   <p>Input:</p>

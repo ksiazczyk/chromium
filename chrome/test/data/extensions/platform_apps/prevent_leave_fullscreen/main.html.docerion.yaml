@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Fullscreen test app HTML page
+summary: Minimal HTML page titled 'fullscreen' that the test app opens in its window during the prevent-leave-fullscreen test.

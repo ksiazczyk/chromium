@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Outer bounds platform app test manifest
+summary: Manifest defining the platform app test and registering test.js as its background script.

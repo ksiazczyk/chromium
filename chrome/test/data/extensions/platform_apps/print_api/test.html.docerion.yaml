@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page with numbered lines for the print API test
+summary: HTML page containing 100 numbered lines that provides the content printed by the window.print() API test app.

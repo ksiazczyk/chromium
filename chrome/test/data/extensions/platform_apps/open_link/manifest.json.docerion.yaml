@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the minimal platform app test fixture
+summary: Manifest version 2 definition for the test platform app, registering test.js as the background script.

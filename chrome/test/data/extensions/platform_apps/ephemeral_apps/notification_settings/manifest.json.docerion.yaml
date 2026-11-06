@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the ephemeral apps notification tests
+summary: Manifest version 2 app fixture named 'Ephemeral Apps Notification Tests' with the notifications permission and main.js as background script.

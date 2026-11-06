@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform app test manifest for window creation with non-existing file
+summary: Manifest for a Chrome platform app test that runs test.js as a background script to exercise chrome.app.window.create() with a non-existing file.

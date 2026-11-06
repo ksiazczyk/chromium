@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen leave prevention test app script
+// summary: Launches the test app window, suppresses default ESC key handling to keep fullscreen active, and reports key events to the test harness.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('main.html', {}, function(win) {
     // The following key events handler will prevent the default behavior for

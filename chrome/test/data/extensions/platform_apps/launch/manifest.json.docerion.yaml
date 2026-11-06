@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Test manifest for onLaunched event
+summary: Manifest for a minimal test platform app that runs test.js as its background script so browser tests can exercise the app launch flow.

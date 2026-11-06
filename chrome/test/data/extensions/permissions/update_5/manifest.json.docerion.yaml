@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions Update Test manifest
+summary: Manifest fixture for a Chrome extension permissions update test, declaring history, topSites and storage permissions at version 5.

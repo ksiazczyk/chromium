@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Dummy background page for permission increase test
+summary: Dummy HTML background page serving as a minimal fixture for the v3 permission increase extension test data.

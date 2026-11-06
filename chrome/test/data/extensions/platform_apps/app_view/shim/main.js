@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App view shim test logic
+// summary: JavaScript implementing the appview shim test cases, covering connect success, refused and good params, and multiple connects, with pass and fail messaging via chrome.test.
+// ---
+
 var util = {};
 var embedder = {};
 embedder.baseGuestURL = '';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture enter and exit helpers
+// summary: Creates a video element playing bear.webm and provides enterPictureInPicture and exitPictureInPicture helpers used by browser tests to verify Picture-in-Picture behavior.
+// ---
+
 const video = document.createElement('video');
 video.src = chrome.runtime.getURL('bear.webm');
 video.load();

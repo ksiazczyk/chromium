@@ -1,0 +1,4 @@
+# Docerion header of web_request_no_host.json.
+type: test
+title: Web request extension manifest without host permissions
+summary: Test fixture manifest for an extension with declarativeWebRequest and webRequest permissions but no host permissions.

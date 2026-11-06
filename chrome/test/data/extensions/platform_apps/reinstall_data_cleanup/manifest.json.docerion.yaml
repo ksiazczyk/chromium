@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for reinstall data cleanup platform app test
+summary: Chrome extension manifest defining a test platform app with a background script and storage permission, used to verify data cleanup on reinstall.

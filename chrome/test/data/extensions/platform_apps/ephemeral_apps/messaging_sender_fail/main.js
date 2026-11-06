@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ephemeral app messaging sender failure test script
+// summary: Test app script that verifies sending a runtime message and opening a port to an ephemeral app fail, using chrome.test to report success or failure.
+// ---
+
 var targetAppId = 'idjoelgddomapgkhmbcoejocojmpjnme';
 
 // Send a message to the ephemeral app and expect no response.

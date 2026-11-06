@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Fullscreen old permission name test page
+summary: Minimal HTML page loaded as the app window content for the platform app test covering the old fullscreen permission name.

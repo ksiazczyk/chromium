@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Background page for permission increase test v2
+summary: Dummy background page that loads background.js for the v2 permission increase test extension.

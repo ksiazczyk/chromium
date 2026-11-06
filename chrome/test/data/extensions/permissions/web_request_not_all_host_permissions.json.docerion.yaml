@@ -1,0 +1,4 @@
+# Docerion header of web_request_not_all_host_permissions.json.
+type: test
+title: Web request extension manifest with limited host permissions
+summary: Test fixture manifest for an extension with webRequest permissions and host access restricted to google.com only.

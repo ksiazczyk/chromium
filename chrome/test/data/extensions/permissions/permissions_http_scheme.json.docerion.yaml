@@ -1,0 +1,4 @@
+# Docerion header of permissions_http_scheme.json.
+type: test
+title: HTTP scheme permissions test manifest
+summary: Test extension manifest declaring a wildcard HTTP scheme host permission to exercise permission parsing.

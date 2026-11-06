@@ -1,0 +1,4 @@
+# Docerion header of updates.json.
+type: test
+title: Update check response JSON for permission increase test
+summary: Mock update server response in protocol 4.0 serving extension version 2 as a CRX3 download from localhost for the permissions increase test.

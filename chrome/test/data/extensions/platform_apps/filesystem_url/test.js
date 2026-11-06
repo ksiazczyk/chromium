@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Test for filesystem: URL navigations in platform apps'
+// summary: 'Runs a test that creates a temporary filesystem file, navigates an iframe to its filesystem: URL, and asserts the navigation succeeds.'
+// ---
+
 chrome.test.runTests([
   function testFileSystemURLNavigations() {
     // Construct an initial iframe with basic content to perform the

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for isolated storage platform app test
+summary: Manifest for a platform app test fixture that verifies isolated storage, registering test.js as its background script.

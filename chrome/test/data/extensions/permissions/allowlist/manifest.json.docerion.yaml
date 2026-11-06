@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Allowlist extension test manifest
+summary: Test extension manifest for the permissions allowlist test data, declaring the terminalPrivate permission under manifest version 3.

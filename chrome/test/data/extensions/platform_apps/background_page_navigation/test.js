@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page navigation tests for window.open and link clicks
+// summary: Runs chrome.test cases verifying that opening in-app relative and absolute URLs in new windows fails while web URLs succeed, with tabs verified in C++.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   var IN_APP_RELATIVE_URL = 'nav-target.html';
   var IN_APP_ABSOLUTE_URL = chrome.runtime.getURL(IN_APP_RELATIVE_URL);

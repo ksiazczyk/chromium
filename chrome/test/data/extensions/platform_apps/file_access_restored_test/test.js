@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File access restored test app script
+// summary: Background script that writes to a chosen file, retains its entry via storage, and verifies restored file access after the app restarts.
+// ---
+
 var expectedText = 'def';
 
 function truncateAndWriteToFile(writableEntry, callback) {

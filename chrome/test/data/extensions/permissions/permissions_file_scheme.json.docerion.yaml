@@ -1,0 +1,4 @@
+# Docerion header of permissions_file_scheme.json.
+type: test
+title: File scheme permissions test manifest
+summary: Test manifest granting an extension permission to access pages loaded over the file scheme.

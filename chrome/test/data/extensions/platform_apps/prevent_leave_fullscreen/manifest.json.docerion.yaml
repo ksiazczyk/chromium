@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for fullscreen rules
+summary: Manifest v2 app manifest naming main.js as background script and requesting the fullscreen and ESC-override permissions needed by the test.

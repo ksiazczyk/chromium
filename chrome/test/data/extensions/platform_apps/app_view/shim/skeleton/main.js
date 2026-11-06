@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skeleton app background script for embed requests
+// summary: Background script that listens for onEmbedRequested and allows or denies embedding of main.html or web_view_focus_test.html based on the request data.
+// ---
+
 window.deferredRequest = null;
 window.continueEmbedding = (allowRequest) => {
   if (window.deferredRequest) {

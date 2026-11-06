@@ -1,0 +1,4 @@
+# Docerion header of many-hosts.json.
+type: test
+title: Many host permissions test manifest
+summary: Test manifest with content script matches across many Google country domains to test host permission warning messages.

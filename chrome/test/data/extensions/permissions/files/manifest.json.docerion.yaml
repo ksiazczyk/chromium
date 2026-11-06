@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: File access extension test manifest
+summary: Test fixture manifest for an extension with permission to access local files via the file scheme, used in extension permission tests.

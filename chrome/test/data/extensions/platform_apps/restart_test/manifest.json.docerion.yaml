@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Restart Test manifest
+summary: Manifest for the restart_test platform app fixture, declaring a v2 packaged app whose background page runs test.js.

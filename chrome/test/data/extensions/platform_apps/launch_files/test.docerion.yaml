@@ -1,0 +1,4 @@
+# Docerion header of test.
+type: test
+title: Launch file test fixture without extension
+summary: Test fixture containing sample text used to exercise platform app launch handling of a file with no extension.

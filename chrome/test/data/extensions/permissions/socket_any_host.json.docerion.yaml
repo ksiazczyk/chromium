@@ -1,0 +1,4 @@
+# Docerion header of socket_any_host.json.
+type: test
+title: Socket permission manifest with any host patterns
+summary: Chrome app manifest fixture with socket permissions for tcp-connect and udp-send-to across example hosts.
