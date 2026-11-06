@@ -1,0 +1,4 @@
+# Docerion header of vptr_ignorelist.txt.
+type: config
+title: UBSan vptr ignorelist
+summary: Suppression list for UBSan vptr checks covering identical-layout classes, base-class constructor and destructor issues, and missing typeinfo link errors.

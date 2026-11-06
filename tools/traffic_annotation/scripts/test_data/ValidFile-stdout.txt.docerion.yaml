@@ -1,0 +1,4 @@
+# Docerion header of ValidFile-stdout.txt.
+type: test
+title: ValidFile-stdout.txt
+summary: Expected stdout of the annotation extractor run on ValidFile.java, listing the extracted traffic annotations.

@@ -1,0 +1,4 @@
+# Docerion header of missing_annotation.txt.
+type: test
+title: Missing annotation extractor output
+summary: Expected extractor output for a function called without a traffic annotation in url_request_context.cc.

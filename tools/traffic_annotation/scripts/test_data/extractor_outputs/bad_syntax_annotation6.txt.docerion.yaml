@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation6.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 6'
+summary: Test fixture with a traffic annotation using an invalid user_data type value to test extractor error handling.

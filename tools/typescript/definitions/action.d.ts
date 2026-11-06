@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.action API */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.action API
+// summary: Declares TypeScript types for the chrome.action API, including the setTitle function and its SetTitleDetails parameter.
+// ---
+
 declare namespace chrome {
   export namespace action {
     export interface SetTitleDetails {

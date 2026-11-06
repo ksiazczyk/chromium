@@ -1,0 +1,4 @@
+# Docerion header of objective_cpp.mm.
+type: data
+title: Sample Objective-C++ file with annotation keywords
+summary: Sample Objective-C++ source with relevant extension and traffic annotation keywords, included in auditor tests.

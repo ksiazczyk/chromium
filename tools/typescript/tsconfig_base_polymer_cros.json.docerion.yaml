@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base_polymer_cros.json.
+type: config
+title: TypeScript base config for ChromeOS Polymer
+summary: Extends the base tsconfig with relaxed options used by ChromeOS Ash Polymer TypeScript projects.

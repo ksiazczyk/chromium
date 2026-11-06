@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tracing tools OWNERS
+summary: Lists the code owners for the tools/tracing directory and defers to the base/trace_event owners file.

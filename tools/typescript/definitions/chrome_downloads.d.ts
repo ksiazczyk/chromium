@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.downloads API */
 
+// ---docerion
+// type: source
+// title: chrome.downloads API type definitions
+// summary: Declares TypeScript types for the chrome.downloads API, including the getFileIcon function for retrieving download file icons.
+// ---
+
 declare namespace chrome {
   export namespace downloads {
     function getFileIcon(downloadId: number, resolve: (data: string) => void):

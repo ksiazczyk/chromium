@@ -1,0 +1,4 @@
+# Docerion header of hid_gadget_test.py.
+type: test
+title: Tests for the HID gadget module
+summary: Unit tests for the HID gadget covering interval validation, string and report descriptors, idle requests and report sending via a mock chip.

@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.test API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: chrome.test API type definitions
+// summary: Declares TypeScript types for the chrome.test API, providing assertion helpers, test runners, and messaging functions for browser tests.
+// ---
+
 declare namespace chrome {
   export namespace test {
     export function assertEq<T>(expected: T, actual: T, message?: string): void;

@@ -1,0 +1,4 @@
+# Docerion header of webui_ts_library.gni.
+type: config
+title: WebUI TypeScript library GN template
+summary: GN template that wraps ts_library to build WebUI TypeScript targets, generating path mappings from dependencies and adding default string definitions.

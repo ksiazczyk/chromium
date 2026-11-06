@@ -4,6 +4,12 @@
 
 // File should not be added in safe list.
 
+// ---docerion
+// type: test
+// title: Sample annotations that should not be safelisted
+// summary: Test data with network traffic annotations that are incomplete, lack a contact email, or have an invalid user data type, so the audit script must not safelist them.
+// ---
+
 // Incomplete annotation
 net::NetworkTrafficAnnotationTag traffic_annotation =
     net::DefineNetworkTrafficAnnotation("missing_new_fields_not_safe_listed",

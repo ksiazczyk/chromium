@@ -1,0 +1,4 @@
+# Docerion header of gadget_test.py.
+type: test
+title: Unit tests for the USB gadget base class
+summary: Unit tests for the Gadget class covering descriptor retrieval, connection speeds, string descriptors and control request handling.

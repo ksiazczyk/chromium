@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Perfetto Trace Symbolization Module
+# summary: Implements trace symbolization by extracting or fetching breakpad symbols, running the symbolizer, and writing a symbolized trace file.
+# ---
+
 """Symbolizes a perfetto trace file."""
 
 import logging

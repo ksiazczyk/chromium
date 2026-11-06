@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Stale field trial config cleanup script
+# summary: Removes studies from fieldtrial_testing_config whose names or features no longer appear anywhere in the codebase.
+# ---
+
 """Simple script for cleaning up stale configs from fieldtrial_testing_config.
 
 Methodology:

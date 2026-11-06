@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.windows API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.windows API
+// summary: Declares the chrome.windows API in TypeScript, including window types and states plus functions to create, query, and inspect browser windows.
+// ---
+
 declare namespace chrome {
   export namespace windows {
     export enum WindowType {

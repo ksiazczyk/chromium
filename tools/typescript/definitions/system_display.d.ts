@@ -5,6 +5,12 @@
 /** @fileoverview Type definitions for chrome.system.display API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.system.display API
+// summary: Declares the chrome.system.display API for querying and configuring displays, covering bounds, insets, display modes, layouts, EDID data and display unit info.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Network Traffic Annotations List
+summary: Explains the contents of annotations.xml and how to generate or update the network traffic annotations summary using the auditor script.
+relations:
+  - documents /tools/traffic_annotation/summary/annotations.xml
+  - references /docs/network_traffic_annotations.md
+  - references /tools/traffic_annotation/scripts/auditor/auditor.py
+---
+
 # Network Traffic Annotations List
 This file describes the `tools/traffic_annotation/summary/annotations.xml`.
 Please see `docs/network_traffic_annotations.md` for an introduction to network

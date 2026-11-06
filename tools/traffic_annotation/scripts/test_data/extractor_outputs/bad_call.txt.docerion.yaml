@@ -1,0 +1,4 @@
+# Docerion header of bad_call.txt.
+type: test
+title: 'Traffic annotation extractor test data: bad call'
+summary: Test fixture holding the extractor output for a bad traffic annotation call to net::URLRequestContext::CreateRequest in http_url_fetcher.cc.

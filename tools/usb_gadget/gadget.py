@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Generic USB gadget base class
+# summary: Implements the Gadget base class handling standard USB control requests, descriptors, strings and Microsoft OS descriptors for subclasses.
+# ---
+
 """Generic USB gadget functionality."""
 
 from __future__ import print_function

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB HID gadget module
+# summary: Emulates a USB Human Interface Device, composing logical features with their own Report IDs to answer input, output and feature report requests.
+# ---
+
 """Human Interface Device gadget module.
 
 This gadget emulates a USB Human Interface Device. Multiple logical components

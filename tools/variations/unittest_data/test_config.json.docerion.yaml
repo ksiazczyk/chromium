@@ -1,0 +1,4 @@
+# Docerion header of test_config.json.
+type: test
+title: Field trial test configuration
+summary: Defines test field trials with experiments, parameters, feature flags, and device or form-factor constraints for variations unit tests.

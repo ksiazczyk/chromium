@@ -1,0 +1,4 @@
+# Docerion header of usb_gadget.inf.
+type: config
+title: Windows WinUSB driver INF file
+summary: Windows INF setup file that installs WinUSB drivers for the test and echo gadget devices which do not use a standard USB class.

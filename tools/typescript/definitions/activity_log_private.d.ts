@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.activityLogPrivate API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.activityLogPrivate API
+// summary: Declares TypeScript types for the chrome.activityLogPrivate API, including activity enums, filters, query and deletion functions, and activity events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

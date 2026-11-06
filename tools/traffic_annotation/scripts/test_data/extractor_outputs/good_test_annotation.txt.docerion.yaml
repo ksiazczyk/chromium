@@ -1,0 +1,4 @@
+# Docerion header of good_test_annotation.txt.
+type: test
+title: Good test annotation extractor output
+summary: Expected extractor output with a test traffic annotation in request_sender_unittest.cc.

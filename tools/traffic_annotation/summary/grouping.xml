@@ -13,6 +13,12 @@ These annotations will be changed to hidden="false" eventually
 after discussions on the right group.
 -->
 
+<!--docerion
+type: data
+title: Network Traffic Annotation Grouping
+summary: Groups network traffic annotations by feature and platform for the generated annotations document, with hidden flags to suppress entries.
+-->
+
 <groups>
   <group name="Mobile">
     <sender name="Android Unsorted">

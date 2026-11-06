@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.chromeosInfoPrivate API type definitions
+// summary: Generated TypeScript definitions for the chrome.chromeosInfoPrivate API, covering ChromeOS device properties such as session type, accessibility settings, and device type.
+// ---
+
 
 
 declare namespace chrome {

@@ -1,0 +1,4 @@
+# Docerion header of asan_symbolize.py.
+type: source
+title: AddressSanitizer symbolize script
+summary: Python wrapper that symbolizes AddressSanitizer stack traces, locating llvm-symbolizer in the Chromium tree and adding macOS .dSYM hints for app bundles and frameworks.

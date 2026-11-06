@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRD and GRDP message parsing helpers
+# summary: Parses .grd and .grdp resource files with grit and returns translateable message nodes keyed by message id.
+# ---
+
 import os
 import sys
 import tempfile

@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.pdfViewerPrivate API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.pdfViewerPrivate API
+// summary: Declares types and functions for the chrome.pdfViewerPrivate API covering stream info, Save to Drive progress, and PDF plugin attributes.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

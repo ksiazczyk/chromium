@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.management API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.management API
+// summary: Declares types and functions for the chrome.management API for querying extension info and enabling, disabling, or uninstalling extensions.
+// ---
+
 declare namespace chrome {
   export namespace management {
     export interface ExtensionInfo {

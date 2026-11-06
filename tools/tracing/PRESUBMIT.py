@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Tracing unittests presubmit script
+# summary: Presubmit script that runs the directory's Python unit tests when tracing files change on upload or commit.
+# ---
+
 """Tracing  unittests presubmit script.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts for

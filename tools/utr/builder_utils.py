@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Builder name inference from GN args
+# summary: Infers a matching CI builder from a build directory's GN args, falling back to host OS and CPU dimensions when args are missing.
+# ---
+
 """Utils for inferring builder names from GN args."""
 
 import json

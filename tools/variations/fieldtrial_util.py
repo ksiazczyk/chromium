@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Field trial utilities
+# summary: Generates Chrome command line flags from field trial configs and merges duplicate enable/disable features and field trial arguments.
+# ---
+
 from __future__ import print_function
 
 import json

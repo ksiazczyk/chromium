@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.commandLinePrivate API type definitions
+// summary: Generated TypeScript definitions for the chrome.commandLinePrivate API, providing hasSwitch to check for command line switches.
+// ---
+
 
 
 declare namespace chrome {

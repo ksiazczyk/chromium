@@ -6,6 +6,12 @@
  * @fileoverview Definitions for chrome.histograms API.
  */
 
+// ---docerion
+// type: source
+// title: chrome.histograms API type definitions
+// summary: Declares TypeScript types for the chrome.histograms API, a lightweight WebUI metrics API for recording user actions, counts, times, and histogram values.
+// ---
+
 // This API is a lightweight replacement for chrome.metricsPrivate API. This API
 // has no dependency on extensions and does not require the WebUIController to
 // register additional Mojo interfaces.

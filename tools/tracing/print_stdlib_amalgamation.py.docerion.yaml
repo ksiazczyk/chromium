@@ -1,0 +1,4 @@
+# Docerion header of print_stdlib_amalgamation.py.
+type: script
+title: Chrome Tracing Stdlib Amalgamation Printer
+summary: Prints the Chrome tracing PerfettoSQL stdlib as a single amalgamation, resolving includes and rewriting CREATE PERFETTO statements.

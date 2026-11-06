@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: TypeScript path mappings helper
+# summary: Python module that computes TypeScript path mappings for Chromium WebUI resources, third-party libraries such as Polymer, Lit and d3, and ash-specific targets, for use by tsconfig generation.
+# ---
+
 import argparse
 import collections
 import sys

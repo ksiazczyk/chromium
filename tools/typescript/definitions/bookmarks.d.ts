@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.bookmarks API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.bookmarks API
+// summary: Declares TypeScript types for the chrome.bookmarks API, including bookmark tree nodes, create, move, update and remove functions, and change events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

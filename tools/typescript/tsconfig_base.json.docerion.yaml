@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript compiler configuration
+summary: Base tsconfig with strict compiler options shared by TypeScript builds across the repository.

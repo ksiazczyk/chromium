@@ -1,0 +1,4 @@
+# Docerion header of run.py.
+type: source
+title: UTR command-line interface
+summary: Command-line entry point of the Universal Test Runner that builds and runs tests the same way the bots do.

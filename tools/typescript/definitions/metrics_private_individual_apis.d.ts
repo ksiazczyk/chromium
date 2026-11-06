@@ -10,6 +10,12 @@
  * to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.metricsPrivateIndividualApis
+// summary: Declares generated functions for the chrome.metricsPrivateIndividualApis API for recording user actions, medium time, and enumeration metrics.
+// ---
+
 
 
 declare namespace chrome {

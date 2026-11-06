@@ -1,0 +1,4 @@
+# Docerion header of update_annotations_sheet.py.
+type: script
+title: Update network traffic annotations sheet
+summary: Updates the network traffic annotations Google Sheets spreadsheet from an auditor-generated annotations TSV file.

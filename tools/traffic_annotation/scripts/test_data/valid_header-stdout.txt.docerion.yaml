@@ -1,0 +1,4 @@
+# Docerion header of valid_header-stdout.txt.
+type: test
+title: valid_header-stdout.txt
+summary: Expected extractor output containing the header_id traffic annotation defined in valid_header.h.

@@ -1,0 +1,4 @@
+# Docerion header of ts_definitions.gni.
+type: config
+title: ts_definitions.gni
+summary: GN template that invokes ts_definitions.py to generate TypeScript declaration files with path mappings and dependencies.

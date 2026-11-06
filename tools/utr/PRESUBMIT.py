@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check running UTR unit tests
+# summary: Defines a presubmit check that runs the directory's *_test.py unit tests whenever Python files are modified.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

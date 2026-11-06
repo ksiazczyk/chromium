@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Trace Metadata Extractor
+# summary: Extracts metadata such as Chrome version, OS name, architecture, bitness and module IDs from Perfetto proto traces via SQL queries.
+# ---
+
 """
 Extracts metadata information from proto traces.
 """

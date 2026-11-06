@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.indigoPrivate API. */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.indigoPrivate API
+// summary: Defines TypeScript types for the chrome.indigoPrivate API covering image data retrieval and regeneration events.
+// ---
+
 export {};
 
 declare global {

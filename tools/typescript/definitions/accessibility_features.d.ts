@@ -6,6 +6,12 @@
 // TODO(crbug.com/40179454): Auto-generate this file
 // from chrome/common/extensions/api/accessibility_features.json.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.accessibilityFeatures API
+// summary: Declares TypeScript types for the chrome.accessibilityFeatures API, including ChromeSetting objects for spoken feedback, select-to-speak and switch access.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

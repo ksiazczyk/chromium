@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base_mixed.json.
+type: config
+title: TypeScript base config for mixed projects
+summary: Extends the Polymer base tsconfig with an ES2024 target for projects mixing TypeScript and legacy code.

@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.inputMethodPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.inputMethodPrivate API
+// summary: Defines TypeScript types for the chrome.inputMethodPrivate API for managing input methods and language pack status.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

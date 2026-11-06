@@ -1,0 +1,4 @@
+# Docerion header of safe_list.txt.
+type: data
+title: Traffic annotation auditor safe list
+summary: Comma-separated list of files exempted from or recorded as having missing annotations for the network traffic annotation auditor.

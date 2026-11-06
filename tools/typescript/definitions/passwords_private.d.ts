@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.passwordsPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.passwordsPrivate API
+// summary: Declares types and functions for the chrome.passwordsPrivate API covering password entries, import results, compromise checks, and password store management.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

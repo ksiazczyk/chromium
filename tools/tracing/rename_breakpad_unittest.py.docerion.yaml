@@ -1,0 +1,4 @@
+# Docerion header of rename_breakpad_unittest.py.
+type: test
+title: Breakpad File Renaming Unit Tests
+summary: Unit tests that verify breakpad files are renamed by module ID and moved correctly using temporary directories.

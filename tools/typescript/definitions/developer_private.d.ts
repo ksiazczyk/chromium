@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.developerPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.developerPrivate API
+// summary: Defines TypeScript types for the chrome.developerPrivate API used to inspect and manage extensions, views and errors.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

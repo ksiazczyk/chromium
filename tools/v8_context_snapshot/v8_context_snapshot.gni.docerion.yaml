@@ -1,0 +1,4 @@
+# Docerion header of v8_context_snapshot.gni.
+type: config
+title: Build arguments for the V8 context snapshot
+summary: GN import file declaring build arguments and per-platform snapshot filenames that control when V8 context snapshots are built and used.

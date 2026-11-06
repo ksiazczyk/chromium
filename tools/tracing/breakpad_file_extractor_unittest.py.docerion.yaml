@@ -1,0 +1,4 @@
+# Docerion header of breakpad_file_extractor_unittest.py.
+type: test
+title: Breakpad file extractor unit tests
+summary: Unit tests for breakpad file extraction, mocking dump_syms runs against temporary symbol files.

@@ -1,0 +1,4 @@
+# Docerion header of too_few_args-stderr.txt.
+type: data
+title: Expected stderr for too_few_args test
+summary: Expected error output showing a source code parsing error for an annotation defined with too few arguments.

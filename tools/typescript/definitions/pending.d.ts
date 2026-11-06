@@ -6,6 +6,12 @@
 // but not in TypeScript lib.d.ts since they're not generally available on all
 // browsers.
 
+// ---docerion
+// type: source
+// title: TypeScript declarations for Chrome-specific DOM and web APIs
+// summary: Declares DOM and web platform APIs missing from TypeScript's standard lib, such as HTMLDialogElement, BarcodeDetector, VirtualKeyboard, Set.difference and Uint8Array.fromBase64, for Chrome development.
+// ---
+
 // The following interface are removed from TypeScript 4.4 default
 // lib.dom.d.ts.
 // See https://github.com/microsoft/TypeScript-DOM-lib-generator/issues/1029

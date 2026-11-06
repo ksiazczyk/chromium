@@ -5,3 +5,9 @@
 // Intentionally empty dummy file. This is used as a path_mapping for
 // '/strings.m.js' URLs encountered by the TS compiler, since such files don't
 // exist at build time and are generated on-the-fly at runtime.
+
+// ---docerion
+// type: source
+// title: Empty placeholder declaration for /strings.m.js path mapping
+// summary: Intentionally empty declaration used as a path mapping for /strings.m.js URLs that the TypeScript compiler encounters although the file is only generated at runtime.
+// ---

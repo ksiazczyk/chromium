@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.settingsPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.settingsPrivate API
+// summary: Declares the chrome.settingsPrivate API for reading and writing Chrome preferences, including typed PrefObject, controlled-by and enforcement enums, zoom and change events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

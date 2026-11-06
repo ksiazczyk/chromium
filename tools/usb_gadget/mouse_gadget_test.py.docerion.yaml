@@ -1,0 +1,4 @@
+# Docerion header of mouse_gadget_test.py.
+type: test
+title: Mouse gadget unit tests
+summary: Unit tests for the HID mouse gadget verifying click, move and drag behaviour through mocked controller packets.

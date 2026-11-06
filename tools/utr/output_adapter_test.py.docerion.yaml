@@ -1,0 +1,4 @@
+# Docerion header of output_adapter_test.py.
+type: test
+title: Tests for output_adapter.py
+summary: Unit tests for the output adapters, checking how recipe annotation lines are filtered, routed and logged.

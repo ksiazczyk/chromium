@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation4.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 4'
+summary: Test fixture with a traffic annotation whose policy fields are misplaced inside the semantics block to test extractor error handling.

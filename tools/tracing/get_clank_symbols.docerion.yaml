@@ -1,0 +1,4 @@
+# Docerion header of get_clank_symbols.
+type: script
+title: Official Android build symbol fetcher
+summary: Downloads Chrome symbol files for official Android builds to symbolize crashes, optionally matching a module ID.

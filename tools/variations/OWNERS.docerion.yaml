@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Variations tools owners
+summary: Designates owners for the variations tools directory by pointing to the base/metrics OWNERS file.

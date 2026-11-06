@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for tools/typescript
+# summary: Presubmit script that runs TypeScript unit tests and ESLint style checks when related files are modified.
+# ---
+
 """Presubmit script for files in tools/typescript/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

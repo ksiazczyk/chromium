@@ -1,0 +1,4 @@
+# Docerion header of update_annotations_doc_tests.py.
+type: test
+title: Unit tests for update_annotations_doc.py
+summary: Unit tests for the annotations document updater, verifying Google Docs request construction for groups, senders and annotations.

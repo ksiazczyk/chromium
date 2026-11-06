@@ -1,0 +1,4 @@
+# Docerion header of gn_list_positive.txt.
+type: data
+title: GN target list for positive auditor test
+summary: Sample list of GN build targets used as test data for the traffic annotation auditor's GN list handling.

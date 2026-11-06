@@ -1,0 +1,4 @@
+# Docerion header of wrong_arg_type-stdout.txt.
+type: test
+title: wrong_arg_type-stdout.txt
+summary: Empty expected stdout output for the extractor run on wrong_arg_type.cc, since parsing fails before any annotation is emitted.

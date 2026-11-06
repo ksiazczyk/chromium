@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.runtime API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.runtime API
+// summary: Declares the chrome.runtime API for extension lifecycle, messaging and context inspection, including sendMessage, getManifest, getContexts and related events.
+// ---
+
 import type {ChromeEvent} from './chrome_event.js';
 
 declare global {

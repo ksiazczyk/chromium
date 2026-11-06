@@ -1,0 +1,4 @@
+# Docerion header of relative_only_mappings_expected.json.
+type: test
+title: Relative-only path mappings expected output
+summary: Expected JSON fixture listing TypeScript path mappings that use only relative resource paths, used to verify generated mapping output in tests.

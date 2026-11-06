@@ -1,0 +1,4 @@
+# Docerion header of package.py.
+type: script
+title: USB gadget framework packager
+summary: Command-line utility that packages the USB gadget framework into a deterministic zip file and optionally uploads it to a target system.

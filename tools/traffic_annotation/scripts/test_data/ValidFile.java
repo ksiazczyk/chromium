@@ -4,6 +4,12 @@
 
 // This file provides samples for testing the extractor.py script.
 
+// ---docerion
+// type: test
+// title: ValidFile.java
+// summary: Java sample class with NetworkTrafficAnnotationTag definitions used to test the traffic annotation extractor script.
+// ---
+
 /** Example class that contains a NetworkTrafficAnnotationTag definition. */
 public class ValidFile {
     private static final NetworkTrafficAnnotationTag TRAFFIC_ANNOTATION =

@@ -1,0 +1,4 @@
+# Docerion header of recipe_test.py.
+type: test
+title: Tests for recipe.py
+summary: Unit tests for the recipe module, covering builder properties, run exit codes and JSON result handling.

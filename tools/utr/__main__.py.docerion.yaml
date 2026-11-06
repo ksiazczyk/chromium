@@ -1,0 +1,4 @@
+# Docerion header of __main__.py.
+type: source
+title: Alternative UTR entry point
+summary: Entry point that allows invoking the UTR as python3 ./tools/utr by delegating to run.main().

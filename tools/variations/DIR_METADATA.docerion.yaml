@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Variations tools directory metadata
+summary: Declares the monorail component, team email and Buganizer component for the variations tools directory.

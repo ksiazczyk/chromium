@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Composite echo USB gadget
+# summary: Implements a composite gadget combining echo and HID echo features with Microsoft OS 2.0 descriptors and registers its web configure handler.
+# ---
+
 import uuid
 
 import composite_gadget

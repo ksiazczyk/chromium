@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB gadget server entry point
+# summary: Parses command-line options for interface, port and hardware, then starts the Tornado server with the default gadget and registered handlers.
+# ---
+
 """Package entry-point."""
 
 from __future__ import print_function

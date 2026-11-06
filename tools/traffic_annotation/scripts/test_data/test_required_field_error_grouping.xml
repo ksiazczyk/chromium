@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Grouping XML with required field error
+summary: Grouping XML that uses unique_id instead of id on annotations, serving as a required-field error test case.
+-->
+
 <groups>
   <group name="Group A">
     <sender name="Widget Component">

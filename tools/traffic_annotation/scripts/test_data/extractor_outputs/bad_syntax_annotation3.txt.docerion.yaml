@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation3.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 3'
+summary: Test fixture with a traffic annotation containing an unterminated string literal to test extractor syntax error handling.

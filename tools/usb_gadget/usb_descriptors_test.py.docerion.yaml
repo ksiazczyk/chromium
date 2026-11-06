@@ -1,0 +1,4 @@
+# Docerion header of usb_descriptors_test.py.
+type: test
+title: USB descriptor unit tests
+summary: Unit tests for the USB descriptor classes covering default, fixed and computed fields, encoding, string output and container behaviour.

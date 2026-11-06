@@ -1,0 +1,4 @@
+# Docerion header of good_call.txt.
+type: test
+title: Good call annotation extractor output
+summary: Expected extractor output for a valid traffic annotation at a CreateRequest call in http_url_fetcher.cc.

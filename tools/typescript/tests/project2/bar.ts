@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TypeScript test module bar.ts
+// summary: Test fixture that imports modules from sibling test projects and Chrome resource paths to verify path mappings and tsconfig_base flag handling, including an intentionally unused dependency.
+// ---
+
 import {foo} from '../project1/foo.js';
 import {baz} from '../project3/baz.js';
 

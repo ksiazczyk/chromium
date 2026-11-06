@@ -1,0 +1,4 @@
+# Docerion header of run_test.py.
+type: test
+title: Tests for run.py
+summary: Unit tests for run.py, covering argument parsing, run modes, project validation and survey link printing.

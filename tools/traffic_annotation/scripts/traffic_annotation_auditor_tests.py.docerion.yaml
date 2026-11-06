@@ -1,0 +1,4 @@
+# Docerion header of traffic_annotation_auditor_tests.py.
+type: test
+title: Traffic annotation auditor tests
+summary: Runs the traffic annotation auditor under several configurations and checks its output against expected minimum annotation counts.

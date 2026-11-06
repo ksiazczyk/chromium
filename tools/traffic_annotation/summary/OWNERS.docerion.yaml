@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Traffic Annotations Summary Owners
+summary: Delegates ownership of the traffic annotations summary directory to the reviewers listed in TRAFFIC_ANNOTATION_OWNERS.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Get Symbols Utility for Breakpad Module IDs
+# summary: Converts module IDs to breakpad format and finds matching binaries in a symbol directory for trace symbolization.
+# ---
+
 import logging
 import os
 

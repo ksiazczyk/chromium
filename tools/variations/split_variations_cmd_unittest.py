@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Split variations command unit tests
+# summary: Unit tests verifying that variations command line switches are loaded, split almost evenly and recombined without loss.
+# ---
+
 import unittest
 
 import os

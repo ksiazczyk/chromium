@@ -1,0 +1,4 @@
+# Docerion header of check_grd_for_unused_strings.py.
+type: script
+title: Check grd files for unused strings
+summary: Command-line tool that detects likely unused strings in grd and grdp files by comparing message IDs against C++, Java, and Android manifest usages.

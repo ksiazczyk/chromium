@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HID echo gadget device
+# summary: Implements a HID-class echo device that echoes output reports as input reports and supports feature reports for HID driver testing.
+# ---
+
 """A HID-class echo device.
 
 This module provides a HID feature and HID device that can be used as an

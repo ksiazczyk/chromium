@@ -1,0 +1,4 @@
+# Docerion header of echo_gadget_test.py.
+type: test
+title: Echo gadget unit test
+summary: Unit test verifying that the echo gadget sends a received bulk packet back to the host on the matching IN endpoint.

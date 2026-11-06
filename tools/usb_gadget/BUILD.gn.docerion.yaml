@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: ci
+title: USB gadget package build file
+summary: Defines a GN build action that packages the usb_gadget Python modules into usb_gadget.zip together with an MD5 hash file.

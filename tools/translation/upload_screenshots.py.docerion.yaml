@@ -1,0 +1,4 @@
+# Docerion header of upload_screenshots.py.
+type: script
+title: Translation screenshot upload tool
+summary: Tool that finds translation screenshots for grd files, uploads them to a Cloud Storage bucket, and generates sha1 files to add to CLs.

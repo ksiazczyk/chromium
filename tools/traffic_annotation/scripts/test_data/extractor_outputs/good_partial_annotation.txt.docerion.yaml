@@ -1,0 +1,4 @@
+# Docerion header of good_partial_annotation.txt.
+type: test
+title: Good partial annotation extractor output
+summary: Expected extractor output with a partial traffic annotation for the web history counter.

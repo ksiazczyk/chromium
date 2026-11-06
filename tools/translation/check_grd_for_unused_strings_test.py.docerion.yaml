@@ -1,0 +1,4 @@
+# Docerion header of check_grd_for_unused_strings_test.py.
+type: test
+title: Unit tests for unused string checker
+summary: Unit tests covering ID parsing from C++, Java, and Android manifests and grd filtering for the unused string checker.

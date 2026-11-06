@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for v8_context_snapshot
+summary: Declares the include rules restricting which dependencies code in the v8_context_snapshot directory may use.

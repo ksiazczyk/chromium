@@ -1,3 +1,13 @@
+---
+type: readme
+title: Traffic Annotation Scripts
+summary: Describes the purpose and usage of each script in the traffic annotation scripts directory.
+relations:
+  - documents /tools/traffic_annotation/scripts/auditor/auditor.py
+  - documents /tools/traffic_annotation/scripts/check_annotations.py
+  - documents /tools/traffic_annotation/scripts/traffic_annotation_auditor_tests.py
+---
+
 # Traffic Annotation Scripts
 This file describes the scripts in `tools/traffic_annotation/scripts`.
 

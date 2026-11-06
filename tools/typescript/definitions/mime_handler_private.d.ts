@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.mimeHandlerPrivate API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.mimeHandlerPrivate API
+// summary: Declares types and functions for the chrome.mimeHandlerPrivate API for accessing stream info and configuring PDF plugin attributes.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

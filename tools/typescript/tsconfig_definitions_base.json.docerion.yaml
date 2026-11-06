@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_definitions_base.json.
+type: config
+title: Base tsconfig for declaration generation
+summary: Base compiler options for emitting TypeScript declaration files from legacy JavaScript sources.

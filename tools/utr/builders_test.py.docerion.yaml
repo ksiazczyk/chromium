@@ -1,0 +1,4 @@
+# Docerion header of builders_test.py.
+type: test
+title: Unit tests for builders
+summary: Tests builder property lookup across buckets, projects, and internal checkouts, including missing and duplicate prop cases.

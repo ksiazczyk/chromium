@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/wallpaper.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.wallpaper API
+// summary: Generated TypeScript declarations for the chrome.wallpaper API, including the WallpaperLayout enum and the setWallpaper function.
+// ---
+
 
 
 declare namespace chrome {

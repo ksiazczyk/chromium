@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.fileSystem API. */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.fileSystem API
+// summary: Defines TypeScript types for the chrome.fileSystem API, including chooseEntry options and legacy file writer interfaces.
+// ---
+
 // Declare minimal definitions for deprecated parts of the File API, which are
 // not appearing in TypeScript compiler's default definiions, and are used by
 // the chrome.fileSystem API.

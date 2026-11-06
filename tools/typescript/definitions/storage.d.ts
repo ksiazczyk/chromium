@@ -9,6 +9,12 @@
  * extensions/common/api/storage.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.storage API
+// summary: Declares the chrome.storage API with sync, local, session and managed storage areas, quota constants, access levels and change events, generated from storage.json.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

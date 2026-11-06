@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: USB gadget owners file
+summary: Delegates code ownership for this directory to the chrome/browser/usb OWNERS file.

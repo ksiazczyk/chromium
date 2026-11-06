@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Fieldtrial_to_struct unit tests
+# summary: Unit tests verifying that field trial configs are converted into the expected struct descriptions, including multi-platform and forcing flag cases.
+# ---
+
 import os
 import unittest
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Microsoft OS 2.0 descriptor utilities
+# summary: Provides classes to generate Microsoft OS 2.0 descriptors such as platform capability, subset headers and compatible ID descriptors.
+# ---
+
 """Microsoft OS 2.0 Descriptor generation utilities.
 
 Classes to help generate Microsoft OS 2.0 descriptors.

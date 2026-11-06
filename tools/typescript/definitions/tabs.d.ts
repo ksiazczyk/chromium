@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.tabs API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.tabs API
+// summary: Declares the chrome.tabs API for creating, querying and updating tabs, including zoom settings, muted info and tab activation, update and zoom events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

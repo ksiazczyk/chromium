@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for annotation summary files
+summary: Copies the safe list and annotation summary XML files into the build output for use by src/BUILD.gn and the auditor.

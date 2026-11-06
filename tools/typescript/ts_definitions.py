@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: TypeScript definition file generator
+# summary: Generates per-target tsconfig files, runs the TypeScript compiler to emit .d.ts files, and rejects unexpected compiler output.
+# ---
+
 import argparse
 import collections
 import json
