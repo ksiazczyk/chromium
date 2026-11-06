@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS abandoned page load metrics observer implementation
+// summary: Implements metrics collection for page loads initiated from Google Search that are abandoned before finishing, including UKM, histograms, and redirect timing.
+// ---
+
 #include "components/page_load_metrics/google/browser/from_gws_abandoned_page_load_metrics_observer.h"
 
 #include <string>

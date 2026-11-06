@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayoutShiftNormalization unit tests
+// summary: Unit tests checking normalized session window CLS results for multiple shifts, stale shifts, shifts from two renderers, and shifts at different times.
+// ---
+
 #include "components/page_load_metrics/browser/layout_shift_normalization.h"
 #include "components/page_load_metrics/common/page_load_metrics.mojom.h"
 #include "testing/gtest/include/gtest/gtest.h"

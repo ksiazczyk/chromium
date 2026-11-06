@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Use counter page load metrics observer implementation
+// summary: Implements recording of use counter features such as web features, CSS properties, and permissions policy to UMA and UKM.
+// ---
+
 #include "components/page_load_metrics/browser/observers/use_counter_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

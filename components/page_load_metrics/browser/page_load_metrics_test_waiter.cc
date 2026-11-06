@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics test waiter implementation
+// summary: Implements PageLoadMetricsTestWaiter and its metrics observer so tests can wait for timing updates, resource loads, and other page load events.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_test_waiter.h"
 
 #include "base/byte_size.h"

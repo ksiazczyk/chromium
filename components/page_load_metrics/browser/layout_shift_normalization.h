@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutShiftNormalization class declaration
+// summary: Declares a class that aggregates layout shifts window by window instead of summing them like cumulative layout shift, exposing normalized CLS data.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_LAYOUT_SHIFT_NORMALIZATION_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_LAYOUT_SHIFT_NORMALIZATION_H_
 

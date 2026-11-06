@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource tracker implementation
+// summary: Implements ResourceTracker, which maintains maps of unfinished network resource loads and previous updates for page load metrics observers.
+// ---
+
 #include "components/page_load_metrics/browser/resource_tracker.h"
 
 #include <tuple>

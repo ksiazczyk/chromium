@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abandoned page load metrics observer implementation
+// summary: Implements UMA and UKM logging of navigation milestones, abandonment reasons and timing for navigations that get abandoned.
+// ---
+
 #include "components/page_load_metrics/browser/observers/abandoned_page_load_metrics_observer.h"
 
 #include <string>

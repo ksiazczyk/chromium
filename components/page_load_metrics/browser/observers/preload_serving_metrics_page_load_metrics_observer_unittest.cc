@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload serving metrics page load metrics observer unit tests
+// summary: Unit tests verifying that PreloadServingMetrics FCP and LCP histograms are recorded correctly for navigations with and without prefetch, prerender or disk cache serving.
+// ---
+
 #include "components/page_load_metrics/browser/observers/preload_serving_metrics_page_load_metrics_observer.h"
 
 #include <optional>

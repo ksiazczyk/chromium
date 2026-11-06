@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation initiator page load metrics observer implementation
+// summary: Records navigation initiator type histograms, including search results page and unknown initiator page transition metrics.
+// ---
+
 #include "components/page_load_metrics/browser/observers/navigation_initiator_page_load_metrics_observer.h"
 
 #include "base/check.h"

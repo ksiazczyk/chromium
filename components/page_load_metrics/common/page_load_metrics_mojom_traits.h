@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits declarations for subresource load metrics
+// summary: Declares StructTraits specializations mapping blink subresource load metrics fields to the page load metrics Mojom interface for serialization.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_MOJOM_TRAITS_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_MOJOM_TRAITS_H_
 

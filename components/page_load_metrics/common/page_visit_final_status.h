@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page visit final status enum
+// summary: Defines the PageVisitFinalStatus enum tracking whether a page visit was never foregrounded, aborted, or reached first contentful paint, persisted to logs.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_VISIT_FINAL_STATUS_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_VISIT_FINAL_STATUS_H_
 

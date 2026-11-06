@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager metrics observer header
+// summary: Declares PerformanceManagerMetricsObserver, which logs UMA metrics about PerformanceManager LoadingState transitions such as navigation to LoadedIdle.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PERFORMANCE_MANAGER_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PERFORMANCE_MANAGER_METRICS_OBSERVER_H_
 

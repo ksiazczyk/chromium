@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics test content browser client header
+// summary: Declares a ContentBrowserClient subclass that installs page load metrics navigation throttles for use in component tests.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_TEST_CONTENT_BROWSER_CLIENT_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_TEST_CONTENT_BROWSER_CLIENT_H_
 

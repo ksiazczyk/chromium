@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA file and data page load metrics observer header
+// summary: Declares an observer that records paint timing metrics for file and data schemes, used in some WebView apps.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_UMA_FILE_AND_DATA_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_UMA_FILE_AND_DATA_PAGE_LOAD_METRICS_OBSERVER_H_
 

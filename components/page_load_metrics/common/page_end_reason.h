@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageEndReason enum for how page loads end
+// summary: Defines the persisted PageEndReason enum listing reasons a page load can end, such as reload, navigation away, stop, close or load failure.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_END_REASON_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_END_REASON_H_
 

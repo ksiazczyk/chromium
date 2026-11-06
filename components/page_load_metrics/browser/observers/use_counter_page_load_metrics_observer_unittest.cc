@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Use counter page load metrics observer unit tests
+// summary: Unit tests verifying UMA and UKM recording of web, WebDX, CSS, and permissions policy use counter features.
+// ---
+
 #include "components/page_load_metrics/browser/observers/use_counter_page_load_metrics_observer.h"
 
 #include <memory>

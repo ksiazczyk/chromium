@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS abandoned page load metrics observer class declaration
+// summary: Declares the observer that tracks abandoned navigations from Google Search and records timing, milestone, and error information via UKM.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_FROM_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_FROM_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsObserver base class implementation
+// summary: Implements the PageLoadMetricsObserver base class defaults and the extra request complete and failed provisional load info structs.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_observer.h"
 
 #include <utility>

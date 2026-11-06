@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS session state implementation
+// summary: Implements per-browser-context session state that tracks sign-in and prewarm flags and reports the session page load count as histograms on destruction.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_session_state.h"
 
 #include "base/metrics/histogram_functions.h"

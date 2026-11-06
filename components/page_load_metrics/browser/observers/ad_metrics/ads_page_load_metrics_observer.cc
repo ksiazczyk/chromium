@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads page load metrics observer implementation
+// summary: Implements the observer that classifies frames as ads, tracks ad byte and CPU usage, applies heavy ad thresholds, and records UKM metrics during page loads.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/ads_page_load_metrics_observer.h"
 
 #include <algorithm>

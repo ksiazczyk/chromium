@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMA page load metrics observer unit tests
+// summary: Unit tests verifying histogram recording for paint timings, input metrics, load types and frame scenarios in the UMA observer.
+// ---
+
 #include "components/page_load_metrics/browser/observers/core/uma_page_load_metrics_observer.h"
 
 #include <memory>

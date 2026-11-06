@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS prewarm page load metrics observer declarations
+// summary: Declares the observer class and histogram constants for prerendered Google Search prewarm page loads, covering cache status, activation and subresource metrics.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_PREWARM_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_PREWARM_PAGE_LOAD_METRICS_OBSERVER_H_
 

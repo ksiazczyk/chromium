@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics test utility header
+// summary: Declares test helpers for populating required page load timing fields, setting experimental LCP values, and creating sample resource data updates.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_TEST_PAGE_LOAD_METRICS_TEST_UTIL_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_TEST_PAGE_LOAD_METRICS_TEST_UTIL_H_
 

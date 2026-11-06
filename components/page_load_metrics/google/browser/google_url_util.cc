@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google URL utility function implementations
+// summary: Implements helpers that classify Google and Google Search URLs, such as hostname prefixes, search result, homepage, and redirector URLs.
+// ---
+
 #include "components/page_load_metrics/google/browser/google_url_util.h"
 
 #include <algorithm>

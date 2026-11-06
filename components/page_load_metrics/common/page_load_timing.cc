@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load timing helpers
+// summary: Creates empty PageLoadTiming structures and implements IsEmpty checks for document, paint, parse, interactive, and other timing structs.
+// ---
+
 #include "components/page_load_metrics/common/page_load_timing.h"
 
 #include "components/page_load_metrics/common/page_load_metrics.mojom.h"

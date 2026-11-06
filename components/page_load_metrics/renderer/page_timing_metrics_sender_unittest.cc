@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageTimingMetricsSender unit tests
+// summary: Unit tests using a fake sender and mock timer to verify timing updates, IPC coalescing and suppression of sends when timing has not changed.
+// ---
+
 #include "components/page_load_metrics/renderer/page_timing_metrics_sender.h"
 
 #include "base/time/time.h"

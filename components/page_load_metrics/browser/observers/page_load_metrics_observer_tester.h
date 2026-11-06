@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Page load metrics observer tester header
+// summary: Declares PageLoadMetricsObserverTester, a unit test helper that creates a MetricsWebContentsObserver and provides methods to simulate navigations, timing updates and resource loads.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PAGE_LOAD_METRICS_OBSERVER_TESTER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PAGE_LOAD_METRICS_OBSERVER_TESTER_H_
 

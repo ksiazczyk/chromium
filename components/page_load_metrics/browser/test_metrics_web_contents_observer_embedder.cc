@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics web contents observer embedder implementation
+// summary: Implements a test embedder whose observer records page load timings, CPU timings, resources, and observed URLs into vectors so unit tests can analyze them.
+// ---
+
 #include "components/page_load_metrics/browser/test_metrics_web_contents_observer_embedder.h"
 
 #include <memory>

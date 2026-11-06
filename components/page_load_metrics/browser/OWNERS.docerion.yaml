@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for page load metrics browser
+summary: Assigns per-file ownership, delegating protocol_util.cc reviews to the net QUIC owners for QUIC version changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early Hints page load metrics observer header
+// summary: Declares the observer that records page load timing metrics for pages receiving preload Link headers via Early Hints.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_EARLY_HINTS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_EARLY_HINTS_PAGE_LOAD_METRICS_OBSERVER_H_
 

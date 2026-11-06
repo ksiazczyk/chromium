@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics web contents observer embedder header
+// summary: Declares a test embedder that records observed page load timings, resources, URLs, and use counter features so unit tests can inspect them.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_TEST_METRICS_WEB_CONTENTS_OBSERVER_EMBEDDER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_TEST_METRICS_WEB_CONTENTS_OBSERVER_EMBEDDER_H_
 

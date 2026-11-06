@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics update dispatcher header
+// summary: Declares the timing update dispatcher and the PageLoadTimingStatus enum of validation outcomes recorded in histograms.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_UPDATE_DISPATCHER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_UPDATE_DISPATCHER_H_
 

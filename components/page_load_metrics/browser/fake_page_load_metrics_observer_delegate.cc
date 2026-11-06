@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake page load metrics observer delegate implementation
+// summary: Implements a fake observer delegate whose backing state unit tests can configure for page load metrics scenarios.
+// ---
+
 #include "components/page_load_metrics/browser/fake_page_load_metrics_observer_delegate.h"
 
 #include "base/time/default_tick_clock.h"

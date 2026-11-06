@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadType enum for UKM soft navigation recording
+// summary: Defines the PageLoadType enum identifying which kind of hard navigation (regular, prerendered, or bfcache-restored) preceded a detected soft navigation for UKM logging.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_TYPE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_TYPE_H_
 

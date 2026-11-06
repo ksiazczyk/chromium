@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftNavigationTracker implementation
+// summary: Implements SoftNavigationTracker, attributing soft navigation commits, event timings, layout shifts, and LCP entries from main and sub frames to navigation slices and dispatching events.
+// ---
+
 #include "components/page_load_metrics/browser/soft_navigation_tracker.h"
 
 #include <ranges>

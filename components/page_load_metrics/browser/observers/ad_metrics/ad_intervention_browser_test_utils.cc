@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad intervention browser test utilities implementation
+// summary: Implements browser test helpers that navigate pages, create ad iframes, load large resources, and trigger sticky and overlay popup ad detections.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/ad_intervention_browser_test_utils.h"
 
 #include <memory>

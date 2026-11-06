@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-origin page load metrics observer implementation
+// summary: Records first contentful paint, largest contentful paint, first input delay and layout shift histograms for cross-origin main frame navigations.
+// ---
+
 #include "components/page_load_metrics/browser/observers/cross_origin_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"

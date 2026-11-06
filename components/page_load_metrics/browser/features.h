@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics browser feature flag declarations
+// summary: Declares feature flags and parameters for page load metrics browser behavior, with comments explaining their purpose.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_FEATURES_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_FEATURES_H_
 

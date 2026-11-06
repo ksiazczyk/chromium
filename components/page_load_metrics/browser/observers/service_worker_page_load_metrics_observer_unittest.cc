@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker page load metrics observer unit tests
+// summary: Unit tests verifying service worker page load histogram and UKM logging across timing and navigation scenarios.
+// ---
+
 #include "components/page_load_metrics/browser/observers/service_worker_page_load_metrics_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prewarm prerender coverage status enum
+// summary: Defines the SearchPrewarmPrerenderCoverageStatus enum categorizing process reuse and prewarm or prerender coverage outcomes for Google Search navigations.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_SEARCH_PREWARM_COVERAGE_STATUS_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_SEARCH_PREWARM_COVERAGE_STATUS_H_
 

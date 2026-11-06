@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Click input tracker implementation
+// summary: Implements detection of rapid click bursts at the same screen position and records them as UMA and UKM click input metrics.
+// ---
+
 #include "components/page_load_metrics/browser/observers/click_input_tracker.h"
 
 #include "base/metrics/field_trial_params.h"

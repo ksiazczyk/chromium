@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load timing helper declarations
+// summary: Declares CreatePageLoadTiming, LargestContentfulPaint timing creation, IsEmpty checks for timing structs, and the hard navigation timeline ID constant.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_TIMING_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_TIMING_H_
 

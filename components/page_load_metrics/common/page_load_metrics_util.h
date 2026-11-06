@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics utility declarations
+// summary: Declares OptionalMin for optional time deltas, the TimerType enum, and GetBufferTimerDelayMillis for delaying dispatch of metrics updates.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_UTIL_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_UTIL_H_
 

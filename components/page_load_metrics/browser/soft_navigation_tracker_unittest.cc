@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SoftNavigationTracker unit tests
+// summary: Unit tests for SoftNavigationTracker covering soft navigation counting, first contentful paint dispatch, completed navigation records, and subframe metric attribution.
+// ---
+
 #include "components/page_load_metrics/browser/soft_navigation_tracker.h"
 
 #include <cstddef>

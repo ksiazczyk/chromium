@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationInitiator header
+// summary: Declares the NavigationInitiator open enum class identifying who or what triggered a navigation, with compile-time checked IDs and names for UKM and UMA logging and embedder extensibility.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_INITIATOR_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_INITIATOR_H_
 

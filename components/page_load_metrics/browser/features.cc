@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics browser feature flag definitions
+// summary: Defines feature flags and parameters for page load metrics, including beacon leakage logging and click input tracking.
+// ---
+
 #include "components/page_load_metrics/browser/features.h"
 
 #include "base/feature_list.h"

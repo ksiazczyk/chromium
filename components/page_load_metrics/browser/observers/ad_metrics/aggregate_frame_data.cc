@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregateFrameData implementation
+// summary: Implements aggregation of CPU usage, resource loads, and ad byte adjustments across all frames during a navigation.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/aggregate_frame_data.h"
 
 #include "components/page_load_metrics/browser/observers/ad_metrics/frame_data_utils.h"

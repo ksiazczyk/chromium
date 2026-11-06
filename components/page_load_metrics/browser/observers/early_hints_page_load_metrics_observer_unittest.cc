@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Early Hints page load metrics observer unit tests
+// summary: Tests that Early Hints preload histograms are recorded for navigations with preload resource hints and omitted without them.
+// ---
+
 #include "components/page_load_metrics/browser/observers/early_hints_page_load_metrics_observer.h"
 
 #include <memory>

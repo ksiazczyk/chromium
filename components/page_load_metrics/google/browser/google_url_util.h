@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google URL utility function declarations
+// summary: Declares URL classification helpers for Google hostnames, search result pages, homepages, redirectors, and prewarm URLs.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GOOGLE_URL_UTIL_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GOOGLE_URL_UTIL_H_
 

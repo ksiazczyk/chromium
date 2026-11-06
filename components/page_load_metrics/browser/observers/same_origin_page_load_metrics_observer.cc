@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Same-origin page load metrics observer implementation
+// summary: Implements an observer that records FCP, LCP, first input delay, and CLS histograms for same-origin page loads, stopping observation otherwise.
+// ---
+
 #include "components/page_load_metrics/browser/observers/same_origin_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"

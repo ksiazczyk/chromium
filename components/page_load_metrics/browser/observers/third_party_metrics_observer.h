@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third party metrics observer header
+// summary: Declares an observer that records metrics about third-party storage accesses such as cookies, local storage, and IndexedDB.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_THIRD_PARTY_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_THIRD_PARTY_METRICS_OBSERVER_H_
 

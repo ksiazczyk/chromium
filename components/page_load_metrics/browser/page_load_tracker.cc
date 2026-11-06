@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load tracker implementation
+// summary: Implements PageLoadTracker, which tracks a page load, records internal error events, and dispatches navigation and timing events to observers.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_tracker.h"
 
 #include <algorithm>

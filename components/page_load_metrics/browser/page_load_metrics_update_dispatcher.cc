@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics update dispatcher implementation
+// summary: Implements the dispatcher that receives PageLoadTiming updates from the renderer, validates event ordering and consistency, and forwards them to trackers.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_update_dispatcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageTimingMetadataRecorder implementation
+// summary: Implements recording of page load timing metadata such as first contentful paint and first input delay onto sampling profiler stack samples.
+// ---
+
 #include "components/page_load_metrics/renderer/page_timing_metadata_recorder.h"
 
 #include <cstdint>

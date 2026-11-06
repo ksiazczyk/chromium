@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache page load metrics observer implementation
+// summary: Implements recording of paint, input and layout shift metrics after a page is restored from the back-forward cache.
+// ---
+
 #include "components/page_load_metrics/browser/observers/back_forward_cache_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

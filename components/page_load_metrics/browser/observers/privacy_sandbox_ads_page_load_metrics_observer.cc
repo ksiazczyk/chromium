@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox Ads page load metrics observer implementation
+// summary: Implements a page load metrics observer that records paint, input delay, and layout shift histograms for pages using Privacy Sandbox ads APIs.
+// ---
+
 #include "components/page_load_metrics/browser/observers/privacy_sandbox_ads_page_load_metrics_observer.h"
 
 #include <optional>

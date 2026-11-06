@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Google page load metrics browser sources
+summary: Defines the browser source set and unit test target, listing sources, configs, and dependencies for the Google page load metrics components.

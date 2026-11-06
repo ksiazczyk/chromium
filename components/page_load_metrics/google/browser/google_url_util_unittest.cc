@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Google URL utilities
+// summary: Contains gtest cases verifying Google hostname, search query, search result, homepage, and redirector URL detection.
+// ---
+
 #include "components/page_load_metrics/google/browser/google_url_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

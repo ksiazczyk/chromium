@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS abandoned page load metrics observer class declaration
+// summary: Declares an observer that records metrics for navigations targeting Google Search, exposing histogram prefixes and user timing mark names for tests.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_H_
 

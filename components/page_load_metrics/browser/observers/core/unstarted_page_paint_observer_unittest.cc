@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unstarted page paint observer unit tests
+// summary: Unit tests verifying histogram behavior for unstarted page paint timeouts, first contentful paint and back/forward cache cases.
+// ---
+
 #include "components/page_load_metrics/browser/observers/core/unstarted_page_paint_observer.h"
 
 #include "components/page_load_metrics/browser/observers/page_load_metrics_observer_content_test_harness.h"

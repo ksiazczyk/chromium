@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics test utility implementation
+// summary: Implements test helpers that fill in required page load timing fields, mirror experimental LCP values, and create sample resource data updates for tests.
+// ---
+
 #include "components/page_load_metrics/common/test/page_load_metrics_test_util.h"
 
 #include "base/byte_size.h"

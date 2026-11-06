@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd page load metrics observer implementation
+// summary: Implements a page load metrics observer that records parse start, first contentful paint and largest contentful paint histograms for Zstd-compressed navigations.
+// ---
+
 #include "components/page_load_metrics/browser/observers/zstd_page_load_metrics_observer.h"
 
 #include <string>

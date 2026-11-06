@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload process data declarations
+// summary: Declares the user data class that holds DSE search preload status on a render process host.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_SEARCH_PRELOAD_PROCESS_DATA_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_SEARCH_PRELOAD_PROCESS_DATA_H_
 

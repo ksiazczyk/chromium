@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftNavigationData struct declaration
+// summary: Declares the SoftNavigationData struct holding metrics plus interaction-to-next-paint, layout shift, and largest contentful paint aggregators for one soft navigation.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_SOFT_NAVIGATION_DATA_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_SOFT_NAVIGATION_DATA_H_
 

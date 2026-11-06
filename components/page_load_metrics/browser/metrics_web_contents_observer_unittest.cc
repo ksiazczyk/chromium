@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsWebContentsObserver unit tests
+// summary: Unit tests for MetricsWebContentsObserver covering page load timing, resource loads, feature usage recording, and navigation behavior using navigation simulators and histogram testers.
+// ---
+
 #include "components/page_load_metrics/browser/metrics_web_contents_observer.h"
 
 #include <memory>

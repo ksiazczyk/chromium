@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third party metrics observer implementation
+// summary: Implements an observer that records third-party cookie, storage, and subframe paint metrics for a page load.
+// ---
+
 #include "components/page_load_metrics/browser/observers/third_party_metrics_observer.h"
 
 #include "base/containers/enum_set.h"

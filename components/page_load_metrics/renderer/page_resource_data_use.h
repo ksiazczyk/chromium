@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageResourceDataUse class declaration
+// summary: Declares the PageResourceDataUse class that holds data use information for a single resource and creates ResourceDataUpdate mojo structs for reporting.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_RENDERER_PAGE_RESOURCE_DATA_USE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_RENDERER_PAGE_RESOURCE_DATA_USE_H_
 

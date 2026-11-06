@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsRenderFrameObserver unit tests
+// summary: Tests timing dispatch behavior of MetricsRenderFrameObserver using a fake timing sender and mock timer.
+// ---
+
 #include "components/page_load_metrics/renderer/metrics_render_frame_observer.h"
 
 #include <memory>
