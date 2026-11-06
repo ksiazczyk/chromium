@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderThreadImpl browser tests
+// summary: Browser tests exercising RenderThreadImpl startup, task runners and shared memory behavior, with leak-sanitizer workarounds.
+// ---
+
 #include "content/renderer/render_thread_impl.h"
 
 #include <stddef.h>

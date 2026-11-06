@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia graphics pressure listener declaration
+// summary: Declares the SkiaGraphicsPressureListener memory consumer class for the renderer process.
+// ---
+
 #ifndef CONTENT_RENDERER_SKIA_GRAPHICS_PRESSURE_LISTENER_H_
 #define CONTENT_RENDERER_SKIA_GRAPHICS_PRESSURE_LISTENER_H_
 

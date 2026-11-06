@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlinkInterfaceRegistryImpl class declaration
+// summary: Declares the BlinkInterfaceRegistryImpl class that adapts blink::InterfaceRegistry to weakly held service manager and associated interface registries.
+// ---
+
 #ifndef CONTENT_RENDERER_MOJO_BLINK_INTERFACE_REGISTRY_IMPL_H_
 #define CONTENT_RENDERER_MOJO_BLINK_INTERFACE_REGISTRY_IMPL_H_
 

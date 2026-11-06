@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXImageAnnotator class declaration
+// summary: Declares the annotator that tracks images added, removed or updated on a page, retrieves automatic labels and updates the relevant image annotations.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_IMAGE_ANNOTATOR_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_IMAGE_ANNOTATOR_H_
 

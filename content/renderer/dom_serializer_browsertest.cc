@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM serializer browser tests
+// summary: Content browser tests for Blink's WebFrameSerializer, covering frame serialization and savable resources.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock agent scheduling group declaration
+// summary: Declares MockAgentSchedulingGroup, a test-only AgentSchedulingGroup subclass with overrides for use in unit tests.
+// ---
+
 #ifndef CONTENT_RENDERER_MOCK_AGENT_SCHEDULING_GROUP_H_
 #define CONTENT_RENDERER_MOCK_AGENT_SCHEDULING_GROUP_H_
 

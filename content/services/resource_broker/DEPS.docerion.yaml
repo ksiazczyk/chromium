@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Resource broker include rules
+summary: DEPS rules granting the resource broker directory include access to the Mojo public C++ bindings.

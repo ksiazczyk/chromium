@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for AXImageAnnotator
+// summary: Browser tests exercising image annotation using a mock image annotation service, test annotator overrides and inline base64 PNG image data URLs.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_image_annotator.h"
 
 #include "base/strings/stringprintf.h"

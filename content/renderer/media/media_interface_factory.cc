@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media interface factory implementation
+// summary: Implements MediaInterfaceFactory, dispatching media::mojom::InterfaceFactory calls for decoders, encoders and renderers to the browser over Mojo.
+// ---
+
 #include "content/renderer/media/media_interface_factory.h"
 
 #include <string>

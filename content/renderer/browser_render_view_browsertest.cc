@@ -6,6 +6,12 @@
 // Note that these tests rely on single-process mode, and hence may be
 // disabled in some configurations (check gyp files).
 
+// ---docerion
+// type: test
+// title: Render view browser tests in browser context
+// summary: Browser tests targeting blink::WebView in single-process mode, covering navigation and error page handling with a test renderer client.
+// ---
+
 #include <utility>
 
 #include "base/command_line.h"

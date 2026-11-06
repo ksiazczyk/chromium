@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools media encoding service implementation
+// summary: Implements screencast recording that encodes AV1 video and Opus audio and muxes them into MP4 data sent to the DevTools client.
+// ---
+
 #include "content/services/devtools_media_encoding_service/devtools_media_encoding_service_impl.h"
 
 #include <vector>

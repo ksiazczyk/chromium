@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeObject class declaration
+// summary: Declares the gin wrappable that proxies Java objects to JavaScript, with template cache clearing to break V8 reference cycles and a Mojo remote for method access.
+// ---
+
 #ifndef CONTENT_RENDERER_JAVA_GIN_JAVA_BRIDGE_OBJECT_H_
 #define CONTENT_RENDERER_JAVA_GIN_JAVA_BRIDGE_OBJECT_H_
 

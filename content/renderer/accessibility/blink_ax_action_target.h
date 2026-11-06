@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink accessibility action target header
+// summary: Declares BlinkAXActionTarget, which wraps a WebAXObject so accessibility actions can be dispatched against the Blink tree.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_BLINK_AX_ACTION_TARGET_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_BLINK_AX_ACTION_TARGET_H_
 

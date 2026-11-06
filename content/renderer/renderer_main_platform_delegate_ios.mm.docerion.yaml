@@ -1,0 +1,4 @@
+# Docerion header of renderer_main_platform_delegate_ios.mm.
+type: source
+title: iOS renderer main platform delegate
+summary: iOS implementation of the renderer platform delegate with no platform-specific initialization and sandbox enabled during process launch.

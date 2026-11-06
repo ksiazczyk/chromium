@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics context 3D provider implementation
+// summary: Implements the renderer-side WebGraphicsContext3DProvider wrapping the viz command buffer context, exposing GL, raster and WebGPU interfaces plus WebGL preferences.
+// ---
+
 #include "content/renderer/webgraphicscontext3d_provider_impl.h"
 
 #include "base/command_line.h"

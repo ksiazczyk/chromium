@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 value converter unit tests
+// summary: Unit tests for V8ValueConverterImpl covering conversion of V8 values to base::Value and back, including uniqueness checks and identity hash handling.
+// ---
+
 #include "content/renderer/v8_value_converter_impl.h"
 
 #include <stddef.h>

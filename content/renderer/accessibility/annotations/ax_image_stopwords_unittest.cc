@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX image stopwords unit tests
+// summary: Unit tests verifying that AXImageStopwords correctly identifies image stopwords in English, French, Italian, German, Spanish and Hindi, including case-insensitive and short-word rules.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_image_stopwords.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

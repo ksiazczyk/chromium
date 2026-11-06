@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeDispatcher implementation
+// summary: Implements the renderer-side dispatcher that injects named Java bridge objects into the frame's window object when it is cleared, filtered by an origin allowlist.
+// ---
+
 #include "content/renderer/java/gin_java_bridge_dispatcher.h"
 
 #include <utility>

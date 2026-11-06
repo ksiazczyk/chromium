@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded worker instance client implementation
+// summary: Implements starting and stopping renderer-side service worker instances on behalf of the browser process.
+// ---
+
 #include "content/renderer/service_worker/embedded_worker_instance_client_impl.h"
 
 #include <memory>

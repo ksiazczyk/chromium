@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRendererClient implementation
+// summary: Implements the renderer-process flinging renderer client that wraps a Mojo renderer, binds the client extension receiver on the media task runner, and forwards remote play state changes.
+// ---
+
 #include "content/renderer/media/android/flinging_renderer_client.h"
 
 #include <utility>

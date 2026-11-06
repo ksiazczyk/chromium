@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererBlinkPlatformImpl implementation
+// summary: Implements the Blink platform layer for the renderer, wiring media, GPU, workers, service workers and URL loading to content.
+// ---
+
 #include "content/renderer/renderer_blink_platform_impl.h"
 
 #include <algorithm>

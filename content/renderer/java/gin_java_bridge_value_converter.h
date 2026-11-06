@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeValueConverter class declaration
+// summary: Declares the V8ValueConverter strategy that serializes JavaScript values, objects, array buffers, numbers, and undefined for the Java bridge.
+// ---
+
 #ifndef CONTENT_RENDERER_JAVA_GIN_JAVA_BRIDGE_VALUE_CONVERTER_H_
 #define CONTENT_RENDERER_JAVA_GIN_JAVA_BRIDGE_VALUE_CONVERTER_H_
 

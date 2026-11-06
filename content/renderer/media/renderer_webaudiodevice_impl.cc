@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererWebAudioDeviceImpl implementation
+// summary: Implements the blink::WebAudioDevice that connects the Blink Web Audio API to the media renderer, handling sinks, latency hints, and silent sink suspension.
+// ---
+
 #include "content/renderer/media/renderer_webaudiodevice_impl.h"
 
 #include <algorithm>

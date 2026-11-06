@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client navigation throttler implementation
+// summary: Implements deferral and dispatch of client-side navigation callbacks, running them once all defer handles are released.
+// ---
+
 #include "content/renderer/client_navigation_throttler.h"
 
 namespace content {

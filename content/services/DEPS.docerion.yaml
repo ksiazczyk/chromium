@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content/services
+summary: Defines include rules that allow dependencies on Mojo public and service manager public headers for code under content/services.

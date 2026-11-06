@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture host header
+// summary: Declares DCOMPTextureHost, which handles mojo calls between DCOMPTextureWrapperImpl and the GPU process, with a listener interface for texture updates.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_HOST_H_
 #define CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_HOST_H_
 

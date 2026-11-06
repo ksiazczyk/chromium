@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android seccomp sandbox status storage
+// summary: Stores and exposes the Android seccomp sandbox status through a process-global variable.
+// ---
+
 #include "content/renderer/seccomp_sandbox_status_android.h"
 
 #include "content/public/renderer/seccomp_sandbox_status_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia graphics pressure listener implementation
+// summary: Implements a memory consumer that purges all Skia graphics caches under critical memory pressure.
+// ---
+
 #include "content/renderer/skia_graphics_pressure_listener.h"
 
 #include "base/memory_coordinator/traits.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web clipboard paste browser test
+// summary: Browser test verifying that RTF content on the clipboard is pasted into a page and reflected in the document title.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"

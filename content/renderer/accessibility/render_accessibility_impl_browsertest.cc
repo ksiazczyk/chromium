@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderAccessibilityImpl browser tests
+// summary: Browser tests verifying that RenderAccessibilityImpl serializes and sends the correct accessibility tree updates to the browser on page reloads, events, and object visibility changes.
+// ---
+
 #include "content/renderer/accessibility/render_accessibility_impl.h"
 
 #include <memory>

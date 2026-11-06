@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the isolated XR runtime provider class
+// summary: Declares IsolatedXRRuntimeProvider, which polls for XR devices and manages OpenXR runtime and viz GPU state on desktop platforms.
+// ---
+
 #ifndef CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_RUNTIME_PROVIDER_H_
 #define CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_RUNTIME_PROVIDER_H_
 

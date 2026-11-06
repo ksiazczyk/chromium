@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effective connection type helper implementation
+// summary: Converts net effective connection types to Blink types, with static asserts keeping the enums in sync.
+// ---
+
 #include "content/renderer/effective_connection_type_helper.h"
 
 #include "third_party/blink/public/common/client_hints/client_hints.h"

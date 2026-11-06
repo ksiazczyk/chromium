@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture wrapper implementation
+// summary: Implements DCOMPTextureWrapperImpl and ref-counted mailbox resources so VideoFrames can be created from DCOMP surfaces living in the GPU process.
+// ---
+
 #include "content/renderer/media/win/dcomp_texture_wrapper_impl.h"
 
 #include "base/functional/callback.h"

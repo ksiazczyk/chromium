@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lazy shared URL loader factory unit tests
+// summary: Unit tests for LazySharedURLLoaderFactory checking destruction on the expected task runner and thread-hopping behavior using fake task runners and factories.
+// ---
+
 #include "content/common/lazy_shared_url_loader_factory.h"
 
 #include "base/functional/bind.h"

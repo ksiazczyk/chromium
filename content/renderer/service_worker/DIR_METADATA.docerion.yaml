@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Service worker renderer directory metadata
+summary: Points the directory's metadata to the shared service worker browser mixins.

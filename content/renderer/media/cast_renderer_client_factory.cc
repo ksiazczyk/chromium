@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast renderer client factory implementation
+// summary: Implements CastRendererClientFactory, creating a cast renderer through a MojoRendererFactory and wrapping it in a DecryptingRenderer.
+// ---
+
 #include "content/renderer/media/cast_renderer_client_factory.h"
 #include "base/task/sequenced_task_runner.h"
 #include "media/base/media_log.h"

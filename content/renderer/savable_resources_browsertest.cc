@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Savable resources browser tests
+// summary: Browser test verifying that savable resource links and subframe URLs are collected correctly for a loaded page.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"

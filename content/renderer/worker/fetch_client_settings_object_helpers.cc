@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch client settings object conversion helpers
+// summary: Implements converters between the Web and Mojo representations of the fetch client settings object used for worker script loads.
+// ---
+
 #include "content/renderer/worker/fetch_client_settings_object_helpers.h"
 
 #include "content/renderer/policy_container_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer navigation metrics manager
+// summary: Collects start and end timestamps of renderer navigation events and records trace events and metrics when a navigation commits.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDERER_NAVIGATION_METRICS_MANAGER_H_
 #define CONTENT_RENDERER_RENDERER_NAVIGATION_METRICS_MANAGER_H_
 

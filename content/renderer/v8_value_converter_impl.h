@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 value converter class declaration
+// summary: Declares V8ValueConverterImpl with options for dates, regexps, functions, null stripping, negative zero handling and a conversion strategy.
+// ---
+
 #ifndef CONTENT_RENDERER_V8_VALUE_CONVERTER_IMPL_H_
 #define CONTENT_RENDERER_V8_VALUE_CONVERTER_IMPL_H_
 

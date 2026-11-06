@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the XrDeviceService Mojo service
+// summary: Implements the XRDeviceService Mojo interface, binding the isolated runtime provider and forwarding test hook pipes on Windows and OpenXR builds.
+// ---
+
 #include "content/services/isolated_xr_device/xr_device_service.h"
 
 #include "base/check_is_test.h"

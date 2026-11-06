@@ -12,6 +12,12 @@
 // For more details, see
 // https://chromium.googlesource.com/chromium/src/+/main/testing/libfuzzer/README.md
 
+// ---docerion
+// type: test
+// title: Content security policy util fuzzer
+// summary: LibFuzzer entry point that checks BuildContentSecurityPolicy and ToWebContentSecurityPolicy round-trip on parsed CSP input.
+// ---
+
 #include "content/renderer/content_security_policy_util.h"
 
 #include "base/at_exit.h"

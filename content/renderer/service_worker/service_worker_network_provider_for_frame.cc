@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame service worker network provider implementation
+// summary: Implements the per-frame service worker network provider, wiring container info into provider contexts.
+// ---
+
 #include "content/renderer/service_worker/service_worker_network_provider_for_frame.h"
 
 #include <utility>

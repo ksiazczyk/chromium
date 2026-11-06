@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcessImpl implementation
+// summary: Configures the renderer process thread pool sizing and applies V8 flag overrides based on command-line switches and feature state.
+// ---
+
 #include "content/renderer/render_process_impl.h"
 
 #include "build/build_config.h"

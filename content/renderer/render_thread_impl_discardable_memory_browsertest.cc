@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderThreadImpl discardable memory browser tests
+// summary: Browser tests verifying allocation, locking and discarding of discardable memory in the renderer under memory pressure.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

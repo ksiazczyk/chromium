@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Last resort GC policy unit tests
+// summary: Unit tests verifying that only consumers with the release GC references trait are notified and that the memory limit is restored immediately or after a configured delay.
+// ---
+
 #include "content/renderer/memory_coordinator/last_resort_gc_policy.h"
 
 #include "base/memory_coordinator/mock_memory_consumer.h"

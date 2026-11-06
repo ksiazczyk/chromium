@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation state class declaration
+// summary: Declares NavigationState, which holds navigation parameters, commit callbacks, and initiator state for a navigation committing in a RenderFrame.
+// ---
+
 #ifndef CONTENT_RENDERER_NAVIGATION_STATE_H_
 #define CONTENT_RENDERER_NAVIGATION_STATE_H_
 

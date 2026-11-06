@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcessImpl class header
+// summary: Declares RenderProcessImpl, the RenderProcess implementation for the regular browser, created via a static factory method.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDER_PROCESS_IMPL_H_
 #define CONTENT_RENDERER_RENDER_PROCESS_IMPL_H_
 

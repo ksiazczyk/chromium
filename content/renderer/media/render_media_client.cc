@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderMediaClient implementation
+// summary: Implements the renderer-side media client that exposes embedder customizations to the media layer and updates supported audio and video decoder and encoder profiles.
+// ---
+
 #include "content/renderer/media/render_media_client.h"
 
 #include <utility>

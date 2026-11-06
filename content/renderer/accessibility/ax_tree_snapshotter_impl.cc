@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility tree snapshotter implementation
+// summary: Snapshots a render frame's accessibility tree with node and timeout limits, recording request and error histograms for snapshot failures.
+// ---
+
 #include "content/renderer/accessibility/ax_tree_snapshotter_impl.h"
 
 #include <set>

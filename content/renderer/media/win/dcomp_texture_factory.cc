@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture factory implementation
+// summary: Implements DCOMPTextureFactory, which creates DCOMP textures in the GPU process over the GPU channel and provides shared image access for Windows media rendering.
+// ---
+
 #include "content/renderer/media/win/dcomp_texture_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

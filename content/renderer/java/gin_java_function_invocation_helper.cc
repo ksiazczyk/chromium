@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaFunctionInvocationHelper implementation
+// summary: Implements invocation of Java bridge methods from JavaScript, converting arguments, forwarding calls over Mojo, and throwing errors for invalid invocations.
+// ---
+
 #include "content/renderer/java/gin_java_function_invocation_helper.h"
 
 #include <utility>

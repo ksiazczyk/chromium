@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker provider context implementation
+// summary: Implements the renderer-side shared state for service worker providers, tracking the controller service worker and building subresource loader factories.
+// ---
+
 #include "content/renderer/service_worker/service_worker_provider_context.h"
 
 #include <set>

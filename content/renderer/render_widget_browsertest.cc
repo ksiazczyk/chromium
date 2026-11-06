@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderWidget browser tests
+// summary: Browser tests for RenderWidget covering IME composition, compositor hit testing and initial widget visual properties.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/strings/utf_string_conversions.h"
 #include "components/viz/common/surfaces/local_surface_id.h"

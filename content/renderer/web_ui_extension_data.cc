@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI extension data implementation
+// summary: Implements the mojom::WebUI receiver that stores WebUI properties set by the browser and forwards messages to the WebUIHost remote.
+// ---
+
 #include "content/renderer/web_ui_extension_data.h"
 
 #include <utility>

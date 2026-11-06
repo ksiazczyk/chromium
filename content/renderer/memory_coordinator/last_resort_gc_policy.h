@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last resort GC policy class declaration
+// summary: Declares the LastResortGCPolicy class and its feature flag, which releases memory from consumers holding V8 heap references ahead of a last resort GC to avoid out-of-memory crashes.
+// ---
+
 #ifndef CONTENT_RENDERER_MEMORY_COORDINATOR_LAST_RESORT_GC_POLICY_H_
 #define CONTENT_RENDERER_MEMORY_COORDINATOR_LAST_RESORT_GC_POLICY_H_
 

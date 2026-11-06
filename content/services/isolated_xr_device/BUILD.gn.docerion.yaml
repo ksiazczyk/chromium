@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the isolated XR device service
+summary: Defines the lib source set and the Linux XR sandbox hook target with their sources, configs and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host factory client implementation
+// summary: Implements the renderer-side client that requests dedicated worker host creation from the browser and sets up fetch contexts and the worker global scope context.
+// ---
+
 #include "content/renderer/worker/dedicated_worker_host_factory_client.h"
 
 #include <algorithm>

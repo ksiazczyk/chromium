@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink isolates pressure listener header
+// summary: Declares BlinkIsolatesPressureListener, a memory consumer that responds to memory limit updates and release requests and tracks renderer visibility.
+// ---
+
 #ifndef CONTENT_RENDERER_BLINK_ISOLATES_PRESSURE_LISTENER_H_
 #define CONTENT_RENDERER_BLINK_ISOLATES_PRESSURE_LISTENER_H_
 

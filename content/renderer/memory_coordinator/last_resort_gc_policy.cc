@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last resort GC policy implementation
+// summary: Implements the last resort GC policy that tells memory consumers retaining V8 heap references to release memory before a last resort GC, optionally restoring the limit after a configured delay.
+// ---
+
 #include "content/renderer/memory_coordinator/last_resort_gc_policy.h"
 
 #include <string>

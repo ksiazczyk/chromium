@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the content renderer target
+summary: GN build file that assembles the content renderer sources into the renderer target, selecting link type and feature flags via imported build options.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCanvasAnnotator class declaration
+// summary: Declares the annotator that retrieves OCR text for canvases needing accessibility support and notifies RenderAccessibility to update canvas annotations.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_CANVAS_ANNOTATOR_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_CANVAS_ANNOTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererWebAudioDeviceImpl header
+// summary: Declares RendererWebAudioDeviceImpl, the WebAudioDevice implementation bridging Blink Web Audio to the media renderer's audio sink.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_RENDERER_WEBAUDIODEVICE_IMPL_H_
 #define CONTENT_RENDERER_MEDIA_RENDERER_WEBAUDIODEVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory reclaimer pressure listener implementation
+// summary: Registers a renderer memory consumer that triggers full PartitionAlloc memory reclamation when the memory limit reaches the moderate pressure threshold.
+// ---
+
 #include "content/renderer/memory_reclaimer_pressure_listener.h"
 
 #include "base/memory_coordinator/traits.h"

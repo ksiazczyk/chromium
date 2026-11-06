@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeValueConverter implementation
+// summary: Implements conversion between V8 and base::Value for the Java bridge, including typed array serialization and mapping bridge objects to object ID values.
+// ---
+
 #include "content/renderer/java/gin_java_bridge_value_converter.h"
 
 #include <stddef.h>

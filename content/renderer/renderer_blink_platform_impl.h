@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer Blink platform implementation declaration
+// summary: Declares RendererBlinkPlatformImpl, the renderer-side blink::Platform implementation covering sandbox support, visited links, user agent metadata, URL loader throttles, and WebGPU context creation.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDERER_BLINK_PLATFORM_IMPL_H_
 #define CONTENT_RENDERER_RENDERER_BLINK_PLATFORM_IMPL_H_
 

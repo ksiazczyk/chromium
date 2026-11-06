@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame owner properties Mojo type converters
+// summary: Declares Mojo TypeConverter specializations that convert frame owner properties between the Blink Web API type and the Mojo FrameOwnerProperties type.
+// ---
+
 #ifndef CONTENT_RENDERER_FRAME_OWNER_PROPERTIES_CONVERTER_H_
 #define CONTENT_RENDERER_FRAME_OWNER_PROPERTIES_CONVERTER_H_
 

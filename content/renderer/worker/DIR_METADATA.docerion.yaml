@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Worker renderer directory metadata
+summary: Directory metadata specifying the Blink>Workers issue tracker component, team email, and Buganizer component for the worker renderer code.

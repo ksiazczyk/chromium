@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio file data decoder implementation
+// summary: Implements DecodeAudioFileData, decoding in-memory encoded audio with FFmpeg into a WebAudioBus while validating channel and sample-rate limits and recording metrics.
+// ---
+
 #include "content/renderer/media/audio_decoder.h"
 
 #include <stdint.h>

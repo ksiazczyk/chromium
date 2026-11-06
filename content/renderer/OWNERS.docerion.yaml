@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content/renderer
+summary: Lists the directory owners and per-file reviewer rules for areas such as compositing, WebGL, storage, security review and agent scheduling groups.

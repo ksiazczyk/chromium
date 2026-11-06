@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android renderer main platform delegate
+// summary: Android implementation of the renderer platform delegate that starts the seccomp BPF sandbox and records the resulting sandbox status.
+// ---
+
 #include "content/renderer/renderer_main_platform_delegate.h"
 
 #include "base/android/android_info.h"

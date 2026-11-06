@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media permission dispatcher header
+// summary: Declares MediaPermissionDispatcher, a media::MediaPermission implementation backed by the content PermissionService with per-frame task runner handling.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_MEDIA_PERMISSION_DISPATCHER_H_
 #define CONTENT_RENDERER_MEDIA_MEDIA_PERMISSION_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink isolates memory pressure listener
+// summary: Listens for memory pressure and forwards translated V8 pressure levels to all Blink isolates, softening critical pressure for visible renderers.
+// ---
+
 #include "content/renderer/blink_isolates_pressure_listener.h"
 
 #include "base/feature_list.h"

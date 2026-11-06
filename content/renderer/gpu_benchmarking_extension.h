@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU benchmarking extension class declaration
+// summary: Declares the GpuBenchmarking gin wrappable class and its JavaScript handlers for viewport metrics, synthetic input, benchmarks, profiling and lifecycle freezing.
+// ---
+
 #ifndef CONTENT_RENDERER_GPU_BENCHMARKING_EXTENSION_H_
 #define CONTENT_RENDERER_GPU_BENCHMARKING_EXTENSION_H_
 

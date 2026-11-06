@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document state implementation
+// summary: Implements DocumentState, the extra data attached to each WebDocumentLoader by RenderFrameImpl.
+// ---
+
 #include "content/renderer/document_state.h"
 
 #include "content/renderer/navigation_state.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker factory implementation
+// summary: Implements the renderer's SharedWorkerFactory, creating an EmbeddedSharedWorkerStub for each shared worker requested by the browser.
+// ---
+
 #include "content/renderer/worker/shared_worker_factory_impl.h"
 
 #include "base/memory/ptr_util.h"

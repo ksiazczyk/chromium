@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image stopwords list implementation
+// summary: Defines the multilingual set of image stopwords used to detect unhelpful image labels, stored compactly as a newline-delimited string.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_image_stopwords.h"
 
 #include <string>

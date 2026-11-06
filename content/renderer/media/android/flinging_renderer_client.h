@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRendererClient class declaration
+// summary: Declares the FlingingRendererClient class, a MojoRendererWrapper mirroring the browser-process FlingingRenderer and implementing the FlingingRendererClientExtension Mojo interface.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_ANDROID_FLINGING_RENDERER_CLIENT_H_
 #define CONTENT_RENDERER_MEDIA_ANDROID_FLINGING_RENDERER_CLIENT_H_
 

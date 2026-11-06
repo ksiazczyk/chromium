@@ -1,0 +1,4 @@
+# Docerion header of theme_helper_mac.mm.
+type: source
+title: Theme helper Mac implementation
+summary: Implements IsSubpixelAntialiasingAvailable by querying the CGFontRenderingGetFontSmoothingDisabled setting on macOS.

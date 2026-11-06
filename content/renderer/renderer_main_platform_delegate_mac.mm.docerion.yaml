@@ -1,0 +1,4 @@
+# Docerion header of renderer_main_platform_delegate_mac.mm.
+type: source
+title: macOS renderer main platform delegate
+summary: macOS implementation of the renderer platform delegate that disables WindowServer and system service connections and asserts the seatbelt sandbox is active.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats collection controller class declaration
+// summary: Declares the StatsCollectionController class exposed to JavaScript as window.statsCollectionController for reading statistics when enabled via a command line flag.
+// ---
+
 #ifndef CONTENT_RENDERER_STATS_COLLECTION_CONTROLLER_H_
 #define CONTENT_RENDERER_STATS_COLLECTION_CONTROLLER_H_
 

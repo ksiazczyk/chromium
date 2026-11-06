@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast renderer client factory
+// summary: Declares CastRendererClientFactory, a media::RendererFactory that creates a cast-specific Mojo renderer wrapped in a DecryptingRenderer for Chromecast playback.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_CAST_RENDERER_CLIENT_FACTORY_H_
 #define CONTENT_RENDERER_MEDIA_CAST_RENDERER_CLIENT_FACTORY_H_
 

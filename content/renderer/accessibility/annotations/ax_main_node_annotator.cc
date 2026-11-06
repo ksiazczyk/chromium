@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX main node annotator implementation
+// summary: Implements the accessibility main node annotator that uses the Screen2x main content extractor to identify and mark the main node of the accessibility tree, logging annotation results to histograms.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_main_node_annotator.h"
 
 #include <utility>

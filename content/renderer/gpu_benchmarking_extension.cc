@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU benchmarking extension implementation
+// summary: Implements the GpuBenchmarking gin extension exposing synthetic gestures, micro benchmarks, profiling, printing to SkPicture or XPS and page freezing to JavaScript.
+// ---
+
 #include "content/renderer/gpu_benchmarking_extension.h"
 
 #include <stddef.h>

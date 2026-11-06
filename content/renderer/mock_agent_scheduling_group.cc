@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock agent scheduling group implementation
+// summary: Implements a test-only mock of AgentSchedulingGroup that sets up mock Mojo bindings for unit tests without a real browser-side host.
+// ---
+
 #include "content/renderer/mock_agent_scheduling_group.h"
 
 #include <tuple>

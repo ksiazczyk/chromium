@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceBrokerServiceImpl unit tests
+// summary: Unit tests verifying valid initialization of ResourceBrokerServiceImpl and that double initialization or invalid configs crash via CHECK.
+// ---
+
 #include "content/services/resource_broker/resource_broker_service_impl.h"
 
 #include <utility>

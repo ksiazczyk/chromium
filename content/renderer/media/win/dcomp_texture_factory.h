@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture factory header
+// summary: Declares the DCOMPTextureFactory class for managing DirectComposition based textures, including its threading model and host creation interface.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_FACTORY_H_
 #define CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_FACTORY_H_
 

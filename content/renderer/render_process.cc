@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process implementation
+// summary: Implements the RenderProcess constructor that sets up the renderer child process with presentation thread type.
+// ---
+
 #include "content/renderer/render_process.h"
 
 #include <utility>

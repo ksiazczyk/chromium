@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX action target factory header
+// summary: Declares AXActionTargetFactory, which resolves a node ID or accessibility role into an action target abstraction for dispatching accessibility actions.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_AX_ACTION_TARGET_FACTORY_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_AX_ACTION_TARGET_FACTORY_H_
 

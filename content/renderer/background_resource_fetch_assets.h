@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background resource fetch assets declaration
+// summary: Declares the content implementation of blink::WebBackgroundResourceFetchAssets that supplies loader factory and throttle provider for background fetches.
+// ---
+
 #ifndef CONTENT_RENDERER_BACKGROUND_RESOURCE_FETCH_ASSETS_H_
 #define CONTENT_RENDERER_BACKGROUND_RESOURCE_FETCH_ASSETS_H_
 

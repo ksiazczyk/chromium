@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAnnotatorsManager implementation
+// summary: Implements the manager that owns the annotator list, dispatches annotation calls, reacts to accessibility mode changes and enabling actions, and supports test hooks.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_annotators_manager.h"
 
 #include <utility>

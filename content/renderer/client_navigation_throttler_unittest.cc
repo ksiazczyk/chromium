@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client navigation throttler unit tests
+// summary: Unit tests covering empty construction, immediate dispatch, throttled deferral, and firing order of deferred navigations.
+// ---
+
 #include "content/renderer/client_navigation_throttler.h"
 
 #include "base/test/bind.h"

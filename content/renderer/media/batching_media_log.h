@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batching media log header
+// summary: Declares BatchingMediaLog, a MediaLog implementation that groups media events to reduce IPC pressure and supports pluggable event handlers.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_BATCHING_MEDIA_LOG_H_
 #define CONTENT_RENDERER_MEDIA_BATCHING_MEDIA_LOG_H_
 

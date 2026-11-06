@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inspector media event handler unit tests
+// summary: Unit tests for InspectorMediaEventHandler using a mocked MediaInspectorContext to verify event, property, error and message forwarding.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

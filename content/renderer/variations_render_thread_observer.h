@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations render thread observer class declaration
+// summary: Declares the renderer-side VariationsRenderThreadObserver that applies field trial settings and appends variations header throttles to requests.
+// ---
+
 #ifndef CONTENT_RENDERER_VARIATIONS_RENDER_THREAD_OBSERVER_H_
 #define CONTENT_RENDERER_VARIATIONS_RENDER_THREAD_OBSERVER_H_
 

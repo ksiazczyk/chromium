@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML handle writer class declarations
+// summary: Declares MHTMLHandleWriter and its file and data pipe producer variants used to write MHTML data to handles off the main renderer thread.
+// ---
+
 #ifndef CONTENT_RENDERER_MHTML_HANDLE_WRITER_H_
 #define CONTENT_RENDERER_MHTML_HANDLE_WRITER_H_
 

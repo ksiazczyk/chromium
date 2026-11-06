@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker thread registry unit tests
+// summary: Unit tests covering worker thread IDs, observer notifications, and task runner removal in WorkerThreadRegistry.
+// ---
+
 #include "content/renderer/worker/worker_thread_registry.h"
 
 #include "base/memory/raw_ptr.h"

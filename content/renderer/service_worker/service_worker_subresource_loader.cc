@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker subresource loader implementation
+// summary: Implements the URLLoader that loads subresources through the controlling service worker, including fetch event dispatch, fallback loads, and response timing.
+// ---
+
 #include "content/renderer/service_worker/service_worker_subresource_loader.h"
 
 #include <optional>

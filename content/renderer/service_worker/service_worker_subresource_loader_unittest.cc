@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker subresource loader unit tests
+// summary: Unit tests for the service worker subresource loader covering fetch responses, stream handling, router rules, fallback behavior, and load timing metrics.
+// ---
+
 #include "content/renderer/service_worker/service_worker_subresource_loader.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content/renderer/media
+summary: Defines allowed include dependencies for the media renderer directory, granting access to cast streaming, GPU IPC, libyuv and WebRTC override headers.

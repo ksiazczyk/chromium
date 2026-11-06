@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererWebMediaPlayerDelegate implementation
+// summary: Implements the renderer-side WebMediaPlayerDelegate that tracks media player state, page visibility, and idle cleanup of players.
+// ---
+
 #include "content/renderer/media/renderer_web_media_player_delegate.h"
 
 #include <stdint.h>

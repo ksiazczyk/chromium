@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows renderer main platform delegate
+// summary: Windows implementation of the renderer platform delegate that warms up the sandbox, initializes the DirectWrite font proxy, and lowers the process token.
+// ---
+
 #include "content/renderer/renderer_main_platform_delegate.h"
 
 #include <dwrite.h>

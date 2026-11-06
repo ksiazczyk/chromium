@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local resource URL loader factory declaration
+// summary: Declares an in-process URLLoaderFactory that fetches WebUI resources from the ResourceBundle to reduce IPC overhead, with a fallback factory for unservable requests.
+// ---
+
 #ifndef CONTENT_RENDERER_LOCAL_RESOURCE_URL_LOADER_FACTORY_H_
 #define CONTENT_RENDERER_LOCAL_RESOURCE_URL_LOADER_FACTORY_H_
 

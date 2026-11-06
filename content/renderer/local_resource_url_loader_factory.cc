@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local resource URL loader factory implementation
+// summary: Implements a renderer-side URLLoaderFactory that serves bundled WebUI resources directly from the ResourceBundle and falls back to out-of-process loading when needed.
+// ---
+
 #include "content/renderer/local_resource_url_loader_factory.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web service worker provider header
+// summary: Declares WebServiceWorkerProviderImpl, the renderer implementation of the blink WebServiceWorkerProvider interface for a JS ServiceWorkerContainer.
+// ---
+
 #ifndef CONTENT_RENDERER_SERVICE_WORKER_WEB_SERVICE_WORKER_PROVIDER_IMPL_H_
 #define CONTENT_RENDERER_SERVICE_WORKER_WEB_SERVICE_WORKER_PROVIDER_IMPL_H_
 

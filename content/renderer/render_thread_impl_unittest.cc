@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderThreadImpl unit tests
+// summary: Unit tests for RenderThreadImpl's histogram customizer, covering custom histogram naming per host and Alexa top-10 site detection.
+// ---
+
 #include "content/renderer/render_thread_impl.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

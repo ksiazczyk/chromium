@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content security policy util unit tests
+// summary: Unit tests verifying round-trip conversion between network CSP mojom structs and Blink WebContentSecurityPolicy.
+// ---
+
 #include "content/renderer/content_security_policy_util.h"
 
 #include "services/network/public/cpp/web_sandbox_flags.h"
