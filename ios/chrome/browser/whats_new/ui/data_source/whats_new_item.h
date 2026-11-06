@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewItem model header with type and action enums
+// summary: Defines the WhatsNewItem model class plus enums of What's New entry types and primary button actions, updated by script
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_DATA_SOURCE_WHATS_NEW_ITEM_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_DATA_SOURCE_WHATS_NEW_ITEM_H_
 

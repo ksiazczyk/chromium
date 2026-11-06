@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for YouTube Incognito UI
+summary: Specifies the include allowlist for the directory, permitting headers from the incognito NTP view utilities and the new tab page URL loader delegate.

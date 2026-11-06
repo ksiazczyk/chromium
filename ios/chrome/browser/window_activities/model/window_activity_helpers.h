@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window activity helpers declarations
+// summary: Declares the WindowActivityOrigin enum and functions to create, adapt and decode NSUserActivity instances for URL loads and tab moves.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WINDOW_ACTIVITIES_MODEL_WINDOW_ACTIVITY_HELPERS_H_
 #define IOS_CHROME_BROWSER_WINDOW_ACTIVITIES_MODEL_WINDOW_ACTIVITY_HELPERS_H_
 

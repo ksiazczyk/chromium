@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for What's New data source targets
+summary: Defines GN source sets for the What's New item, data source, and unit tests along with their dependencies and frameworks

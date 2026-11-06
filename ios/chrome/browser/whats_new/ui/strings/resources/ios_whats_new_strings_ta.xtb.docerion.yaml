@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_ta.xtb.
+type: data
+title: Tamil What's New translation strings
+summary: XML translation bundle with Tamil strings for the Chrome iOS What's New screen, covering Google Lens, search on screen, Dock shortcuts, and account switching.

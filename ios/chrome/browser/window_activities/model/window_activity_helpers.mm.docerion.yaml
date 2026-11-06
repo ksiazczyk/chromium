@@ -1,0 +1,4 @@
+# Docerion header of window_activity_helpers.mm.
+type: source
+title: Window activity helpers implementation
+summary: Implements creation and decoding of NSUserActivity instances encoding URL loads and tab moves, including incognito adaptation.

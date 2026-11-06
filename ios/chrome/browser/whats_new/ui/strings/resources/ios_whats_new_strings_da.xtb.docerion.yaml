@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_da.xtb.
+type: data
+title: Danish What's New translation bundle
+summary: XML translation bundle with Danish strings for the Chrome iOS What's New UI, covering Google Lens search, home screen dock tips, and account switching.

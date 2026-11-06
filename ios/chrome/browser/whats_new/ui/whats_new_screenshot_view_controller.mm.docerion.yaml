@@ -1,0 +1,4 @@
+# Docerion header of whats_new_screenshot_view_controller.mm.
+type: source
+title: What's New screenshot view controller implementation
+summary: Implements the screenshot promo view with light and dark mode Lottie animations, an iPhone-only label and a confirmation alert screen.

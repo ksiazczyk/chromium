@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_sr.xtb.
+type: data
+title: Serbian Cyrillic What's New translation strings
+summary: XML translation bundle with Serbian strings in Cyrillic script for the Chrome iOS What's New screen, covering Google Lens, search on screen, and account switching.

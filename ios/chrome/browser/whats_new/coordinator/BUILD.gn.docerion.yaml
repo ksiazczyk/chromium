@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for What's New coordinator
+summary: Defines the coordinator and util source sets with their sources and dependencies for the iOS What's New feature.

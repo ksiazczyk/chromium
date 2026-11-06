@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New table view item and cell header
+// summary: Declares WhatsNewTableViewItem, a model with title, detail text, and icon properties, and WhatsNewTableViewCell, a table cell with labels and an icon view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_CELLS_WHATS_NEW_TABLE_VIEW_ITEM_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_CELLS_WHATS_NEW_TABLE_VIEW_ITEM_H_
 

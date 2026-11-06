@@ -1,0 +1,4 @@
+# Docerion header of whats_new_coordinator.mm.
+type: source
+title: What's New coordinator implementation
+summary: Implements the What's New coordinator, presenting the feature table view, recording usage metrics, and dispatching commands such as Lens, settings, and scene actions.

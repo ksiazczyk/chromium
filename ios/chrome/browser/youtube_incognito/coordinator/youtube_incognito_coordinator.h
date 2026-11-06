@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YoutubeIncognitoCoordinator interface
+// summary: Declares the ChromeCoordinator subclass that presents the YouTube incognito interstitial sheet, with delegate, tab opener, URL load params and incognito-disabled properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_YOUTUBE_INCOGNITO_COORDINATOR_YOUTUBE_INCOGNITO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_YOUTUBE_INCOGNITO_COORDINATOR_YOUTUBE_INCOGNITO_COORDINATOR_H_
 

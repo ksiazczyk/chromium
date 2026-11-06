@@ -1,0 +1,4 @@
+# Docerion header of whats_new_scene_agent.mm.
+type: source
+title: What's New scene agent implementation
+summary: Implements the scene agent that registers the What's New promo for continuous display on foreground activation and dismisses it when the scene backgrounds.

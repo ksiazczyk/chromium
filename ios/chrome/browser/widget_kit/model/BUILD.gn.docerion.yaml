@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for WidgetKit model
+summary: Defines GN build targets, a buildflag header, and unit tests for the WidgetKit model sources.

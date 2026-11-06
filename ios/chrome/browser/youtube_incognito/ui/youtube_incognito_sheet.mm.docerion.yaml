@@ -1,0 +1,4 @@
+# Docerion header of youtube_incognito_sheet.mm.
+type: source
+title: YouTube Incognito sheet implementation
+summary: Implements the YouTube Incognito interstitial view controller, including its scrollable layout, incognito icon, gradient, animations, and formatted list content.

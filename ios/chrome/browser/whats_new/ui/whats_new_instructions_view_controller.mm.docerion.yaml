@@ -1,0 +1,4 @@
+# Docerion header of whats_new_instructions_view_controller.mm.
+type: source
+title: What's New instructions view controller implementation
+summary: Implements the half-screen instructions view, building a confirmation alert with an instruction view and sheet presentation for a What's New item.

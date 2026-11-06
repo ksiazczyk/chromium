@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Incognito Enterprise sheet header
+// summary: Declares YoutubeIncognitoEnterpriseSheet, a confirmation alert view controller for the YouTube Incognito Enterprise interstitial, with a delegate and URL text property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_YOUTUBE_INCOGNITO_UI_YOUTUBE_INCOGNITO_ENTERPRISE_SHEET_H_
 #define IOS_CHROME_BROWSER_YOUTUBE_INCOGNITO_UI_YOUTUBE_INCOGNITO_ENTERPRISE_SHEET_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the What's New cells module
+summary: Defines the cells source set and its testonly unit_tests target, listing sources and dependencies for the What's New table view item code.

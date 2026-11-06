@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for What's New coordinator
+summary: Specifies allowed include dependencies for the What's New coordinator directory, with a special rule for the mediator implementation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget metrics logger for iOS home screen widgets
+// summary: Detects installed, uninstalled, and current widgets via WidgetCenter and reports them through callbacks for metrics logging.
+// ---
+
 import Foundation
 import WidgetKit
 

@@ -1,0 +1,4 @@
+# Docerion header of whats_new_table_view_controller.mm.
+type: source
+title: What's New table view controller implementation
+summary: Implements the What's New table view controller that lists features and Chrome tips, handles cell selection and logs scroll usage metrics.

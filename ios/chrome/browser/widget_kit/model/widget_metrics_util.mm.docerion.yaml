@@ -1,0 +1,4 @@
+# Docerion header of widget_metrics_util.mm.
+type: source
+title: WidgetMetricsUtil implementation logging UMA histograms
+summary: Maps widget kinds to UMA histogram values and logs IOS.WidgetKit install, uninstall, current, and deleted-account UI metrics.

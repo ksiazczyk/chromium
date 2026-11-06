@@ -1,0 +1,4 @@
+# Docerion header of youtube_incognito_coordinator.mm.
+type: source
+title: YoutubeIncognitoCoordinator implementation
+summary: 'Implements the coordinator: presents the incognito or enterprise sheet on first use, otherwise shows a snackbar and opens the learn-more incognito page.'

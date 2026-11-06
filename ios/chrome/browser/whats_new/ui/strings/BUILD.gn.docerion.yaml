@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for What's New strings
+summary: Defines the grit strings build target that compiles the What's New GRD and GRDP files into localized resources and a generated header.

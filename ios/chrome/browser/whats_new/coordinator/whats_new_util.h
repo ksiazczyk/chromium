@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New utility header
+// summary: Declares helpers that report whether What's New was previously used and convert WhatsNewType values to their string names.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_UTIL_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_UTIL_H_
 

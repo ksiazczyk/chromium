@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New data source header
+// summary: Declares functions that load feature and Chrome tip entries from whats_new_entries.plist and construct WhatsNewItem objects
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_DATA_SOURCE_WHATS_NEW_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_DATA_SOURCE_WHATS_NEW_DATA_SOURCE_H_
 

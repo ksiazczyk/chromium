@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_sq.xtb.
+type: data
+title: Albanian What's New translation strings
+summary: XML translation bundle with Albanian strings for the Chrome iOS What's New screen, covering Google Lens, search on screen, Dock shortcuts, and account switching.

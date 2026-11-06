@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New mediator header
+// summary: Declares the mediator between the What's New model and the table view UI, handling detail and table view actions and command handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New instructions view controller header
+// summary: Declares the view controller that presents half-screen instruction steps for a What's New feature or Chrome tip item.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_INSTRUCTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_INSTRUCTIONS_VIEW_CONTROLLER_H_
 

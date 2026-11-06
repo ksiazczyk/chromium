@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for YouTube Incognito UI
+summary: Defines the GN build target for the YouTube Incognito UI source set, listing its Objective-C sources and library dependencies.

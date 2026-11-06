@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetKit timelines updater helper
+// summary: Reloads WidgetKit timelines for all widgets or a specific kind on a background queue.
+// ---
+
 import Foundation
 import WidgetKit
 

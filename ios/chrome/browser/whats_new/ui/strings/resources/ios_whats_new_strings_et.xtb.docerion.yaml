@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_et.xtb.
+type: data
+title: Estonian What's New translation bundle
+summary: XML translation bundle with Estonian strings for the Chrome iOS What's New UI, covering Google Lens search, home screen dock tips, and account switching.
