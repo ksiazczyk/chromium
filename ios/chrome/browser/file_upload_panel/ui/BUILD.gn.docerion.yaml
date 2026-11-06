@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the file upload panel UI
+summary: Defines the GN source_set targets for the context menu presenter and the constants header of the file upload panel UI.

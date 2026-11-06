@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_egtest.mm.
+type: test
+title: File upload panel Earl Grey UI tests
+summary: Earl Grey UI tests verifying the iOS Chrome file upload panel with file input attributes such as capture, accept, and webkitdirectory.

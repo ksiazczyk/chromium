@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for default browser UI
+summary: Defines the ui source_set listing the default browser screen view controller sources and their dependencies for the iOS first run build.

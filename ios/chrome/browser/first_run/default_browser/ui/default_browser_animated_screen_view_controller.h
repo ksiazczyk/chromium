@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultBrowserAnimatedScreenViewController interface
+// summary: Declares the view controller for the animated default browser promo screen, based on PromoStyleViewController and conforming to DefaultBrowserScreenConsumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_ANIMATED_SCREEN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_DEFAULT_BROWSER_UI_DEFAULT_BROWSER_ANIMATED_SCREEN_VIEW_CONTROLLER_H_
 

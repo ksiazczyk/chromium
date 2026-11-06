@@ -1,0 +1,4 @@
+# Docerion header of first_run_app_interface_stub.mm.
+type: test
+title: First Run app interface stub
+summary: Earl Grey stub that dispatches FirstRunAppInterface calls to the app under test from the test process.

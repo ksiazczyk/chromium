@@ -1,0 +1,4 @@
+# Docerion header of animated_lens_promo_coordinator.mm.
+type: source
+title: Animated Lens promo coordinator implementation
+summary: Implements the coordinator by presenting the promo view controller during first run, recording promo stage metrics and notifying the first run delegate when the primary action is tapped.

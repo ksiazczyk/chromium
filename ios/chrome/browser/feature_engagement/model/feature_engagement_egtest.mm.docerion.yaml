@@ -1,0 +1,4 @@
+# Docerion header of feature_engagement_egtest.mm.
+type: test
+title: Feature engagement Earl Grey UI tests
+summary: Checks that In Product Help features such as the badged Reading List appear in the UI when triggered and do not repeat.

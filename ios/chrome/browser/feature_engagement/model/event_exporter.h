@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event exporter class declaration
+// summary: Declares EventExporter, which exports manually tracked events to the Feature Engagement Tracker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_EVENT_EXPORTER_H_
 #define IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_EVENT_EXPORTER_H_
 

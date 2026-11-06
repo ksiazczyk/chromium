@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload panel histogram variant enums
+// summary: Header defining enums for context menu, camera action, entry point, and security scoped resource variants used for iOS file upload panel histograms.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_UI_CONSTANTS_H_
 

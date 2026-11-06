@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive Lens overlay promo view controller header
+// summary: Declares the InteractiveLensOverlayPromoViewController and its delegate protocol for the Interactive Lens screen in the first run experience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_UI_INTERACTIVE_LENS_OVERLAY_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_UI_INTERACTIVE_LENS_OVERLAY_PROMO_VIEW_CONTROLLER_H_
 

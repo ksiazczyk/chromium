@@ -1,0 +1,4 @@
+# Docerion header of favicon_loader_impl.mm.
+type: source
+title: FaviconLoaderImpl implementation
+summary: Implements favicon fetching via LargeIconService with optional Google server fallback and attribute caching.

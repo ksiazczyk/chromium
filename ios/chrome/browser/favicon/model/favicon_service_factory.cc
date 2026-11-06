@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceFactory implementation for iOS profiles
+// summary: Implements the profile-keyed factory that builds a FaviconServiceImpl per ProfileIOS, wiring the favicon client and history service and blocking implicit access in incognito.
+// ---
+
 #include "ios/chrome/browser/favicon/model/favicon_service_factory.h"
 
 #include "components/favicon/core/favicon_service_impl.h"

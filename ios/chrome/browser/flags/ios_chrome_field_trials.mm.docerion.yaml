@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_field_trials.mm.
+type: source
+title: iOS Chrome field trials implementation
+summary: Implements iOS Chrome field trial setup, enabling persistent histograms, notifying seed application, and disabling client-side trials during Earl Grey testing.

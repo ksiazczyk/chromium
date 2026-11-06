@@ -1,0 +1,4 @@
+# Docerion header of interactive_lens_overlay_promo_view_controller.mm.
+type: source
+title: Interactive Lens overlay promo view controller implementation
+summary: Implements the Interactive Lens first run promo screen with the Lens image, fake webpage, tip bubble, HUD view, Lottie animation and continue button.

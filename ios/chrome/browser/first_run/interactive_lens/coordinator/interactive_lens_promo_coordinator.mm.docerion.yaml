@@ -1,0 +1,4 @@
+# Docerion header of interactive_lens_promo_coordinator.mm.
+type: source
+title: InteractiveLensPromoCoordinator implementation
+summary: 'Implements the promo coordinator: starts a Lens overlay search from the promo image, records first run stage metrics, and destroys the Lens UI on stop.'

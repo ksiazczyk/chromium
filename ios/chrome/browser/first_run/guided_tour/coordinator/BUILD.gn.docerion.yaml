@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guided tour coordinator build configuration
+summary: Defines the coordinator source_set with its sources, dependencies, and the UIKit framework for the guided tour first-run feature.

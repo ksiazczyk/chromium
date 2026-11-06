@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated Lens promo coordinator header
+// summary: Declares the AnimatedLensPromoCoordinator class that presents the Animated Lens promo during first run and communicates with the FirstRunCoordinator through a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_ANIMATED_LENS_COORDINATOR_ANIMATED_LENS_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_ANIMATED_LENS_COORDINATOR_ANIMATED_LENS_PROMO_COORDINATOR_H_
 

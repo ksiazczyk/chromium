@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Best Features UI include rules
+summary: Specifies the allowed header include rules for the Best Features UI directory.

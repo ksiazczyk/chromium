@@ -1,0 +1,4 @@
+# Docerion header of event_exporter.mm.
+type: source
+title: Event exporter implementation
+summary: Migrates stored default browser promo and sign-in promo interaction events into the Feature Engagement Tracker.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for first run resources
+summary: Declares the bundle_data_xcassets target that packages the first run asset catalog, including the read more arrow image set, into the iOS build.

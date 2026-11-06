@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconAttributesProvider interface
+// summary: Declares an Objective-C object that fetches favicon attributes for a URL, falling back to a monogram when no sufficiently large favicon image exists.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_UI_BUNDLED_FAVICON_ATTRIBUTES_PROVIDER_H_
 #define IOS_CHROME_BROWSER_FAVICON_UI_BUNDLED_FAVICON_ATTRIBUTES_PROVIDER_H_
 

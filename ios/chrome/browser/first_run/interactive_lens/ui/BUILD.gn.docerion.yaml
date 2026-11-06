@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Interactive Lens first run UI
+summary: Defines the ui source_set listing the Interactive Lens promo view controllers and their dependencies and frameworks for the iOS first run experience.

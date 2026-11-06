@@ -1,0 +1,4 @@
+# Docerion header of best_features_screen_coordinator_unittest.mm.
+type: test
+title: Best Features Screen Coordinator Unit Tests
+summary: Unit tests verifying that the Best Features Screen coordinator stops its detail coordinator and notifies the first run screen delegate on completion.

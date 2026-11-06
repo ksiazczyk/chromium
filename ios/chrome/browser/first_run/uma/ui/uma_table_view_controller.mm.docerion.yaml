@@ -1,0 +1,4 @@
+# Docerion header of uma_table_view_controller.mm.
+type: source
+title: UMA table view controller implementation
+summary: Implements the first-run UMA dialog with a metrics reporting switch, an indented description footer, and a Done button that notifies the presentation delegate.

@@ -1,0 +1,4 @@
+# Docerion header of favicon_attributes_provider.mm.
+type: source
+title: FaviconAttributesProvider implementation
+summary: Implements favicon fetching through LargeIconService, converting results into favicon attributes and caching large icon results.

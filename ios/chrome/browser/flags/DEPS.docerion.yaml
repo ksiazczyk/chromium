@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the flags directory
+summary: Grants about_flags.mm and ios_chrome_field_trials.mm exceptions to include specific feature and switch headers across components.

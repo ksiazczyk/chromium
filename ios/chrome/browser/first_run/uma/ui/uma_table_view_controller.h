@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA table view controller header
+// summary: Declares the UMA dialog view controller with its reporting user choice property and the presentation delegate protocol for dismissal events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_UMA_UI_UMA_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_UMA_UI_UMA_TABLE_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_picker_result_loader_unittest.mm.
+type: test
+title: FileUploadPanelPickerResultLoader unit tests
+summary: Unit tests for the picker result loader covering successful and failed loads of photo picker items and the recorded histograms.

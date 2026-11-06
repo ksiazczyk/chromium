@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guided tour coordinator header
+// summary: Declares the GuidedTourCoordinator interface, initialized with a tour step, base view controller, browser, and completion block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_GUIDED_TOUR_COORDINATOR_GUIDED_TOUR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_GUIDED_TOUR_COORDINATOR_GUIDED_TOUR_COORDINATOR_H_
 

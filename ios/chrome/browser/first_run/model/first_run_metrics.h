@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run metrics declarations and enums
+// summary: Declares first run histogram names, sign-in status and outcome enums, and default browser promo segmentation result types.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_MODEL_FIRST_RUN_METRICS_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_MODEL_FIRST_RUN_METRICS_H_
 

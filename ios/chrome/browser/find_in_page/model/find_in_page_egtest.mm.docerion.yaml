@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_egtest.mm.
+type: test
+title: Find in Page Earl Grey UI tests
+summary: Earl Grey UI tests for the iOS Chrome Find in Page navigator, serving test pages including cross-origin frames and a complex PDF and exercising the find UI components.

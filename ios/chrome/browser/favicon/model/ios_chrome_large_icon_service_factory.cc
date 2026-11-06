@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeLargeIconServiceFactory implementation
+// summary: Builds LargeIconServiceImpl per profile with an iOS image fetcher and Google server request parameters, depending on the favicon service factory.
+// ---
+
 #include "ios/chrome/browser/favicon/model/ios_chrome_large_icon_service_factory.h"
 
 #include "base/functional/bind.h"

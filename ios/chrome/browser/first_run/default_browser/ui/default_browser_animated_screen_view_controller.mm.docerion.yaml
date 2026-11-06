@@ -1,0 +1,4 @@
+# Docerion header of default_browser_animated_screen_view_controller.mm.
+type: source
+title: DefaultBrowserAnimatedScreenViewController implementation
+summary: Implements the animated default browser promo screen, selecting Lottie animations for light and dark mode, RTL, and default apps variants.

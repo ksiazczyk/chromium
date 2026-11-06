@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_coordinator.mm.
+type: source
+title: FileUploadPanelCoordinator implementation
+summary: Implements the coordinator, presenting photo, camera, document, and Drive file picker actions for the file upload panel.

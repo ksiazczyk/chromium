@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features carousel view controller interface
+// summary: Declares a container view controller that manages a page view controller for swiping between feature promo screens.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_CAROUSEL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_BEST_FEATURES_CAROUSEL_VIEW_CONTROLLER_H_
 

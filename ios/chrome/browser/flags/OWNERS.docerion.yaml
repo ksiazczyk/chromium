@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for flag changes
+summary: Specifies per-file owners that must approve changes to the build file and flag list files when adding or removing flags.

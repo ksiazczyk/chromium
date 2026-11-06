@@ -1,0 +1,4 @@
+# Docerion header of first_run_post_action_provider.mm.
+type: source
+title: FirstRunPostActionProvider implementation
+summary: Builds the post-first-run screen list, handling guided tour, Safari import, and promo skips.

@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_app_interface.mm.
+type: source
+title: Find in Page app interface implementation
+summary: Implements the app-side helper that clears the search term held by FindInPageController.

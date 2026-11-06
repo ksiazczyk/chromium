@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First Run test case base header
+// summary: Declares the base Earl Grey test class with helpers for first run sign-in, sync, and default browser screens.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_TEST_FIRST_RUN_TEST_CASE_BASE_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_TEST_FIRST_RUN_TEST_CASE_BASE_H_
 

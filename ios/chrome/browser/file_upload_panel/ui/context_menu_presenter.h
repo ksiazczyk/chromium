@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuPresenter interface header
+// summary: Declares the ContextMenuPresenter class that presents and dismisses a context menu at a specified location within a root view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_UI_CONTEXT_MENU_PRESENTER_H_
 #define IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_UI_CONTEXT_MENU_PRESENTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of first_run_coordinator.mm.
+type: source
+title: FirstRunCoordinator implementation
+summary: Implements the first run flow, sequencing sign-in, promo, and search engine choice screens.

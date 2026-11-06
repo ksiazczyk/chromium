@@ -1,0 +1,4 @@
+# Docerion header of event_exporter_unittest.mm.
+type: test
+title: Event exporter unit tests
+summary: Verifies that the EventExporter migrates default browser and sign-in promo events correctly under various conditions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for omnibox position choice UI
+summary: Defines the GN build target for the omnibox position choice UI, listing its source files and component dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for first run animation resources
+summary: GN build file that bundles the first run best features Lottie animation JSON files into the iOS app bundle as resources.

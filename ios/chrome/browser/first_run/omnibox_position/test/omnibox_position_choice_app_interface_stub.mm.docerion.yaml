@@ -1,0 +1,4 @@
+# Docerion header of omnibox_position_choice_app_interface_stub.mm.
+type: test
+title: Omnibox position choice app interface stub
+summary: Stubs the OmniboxPositionChoiceAppInterface class in the app main queue for Earl Grey test support.

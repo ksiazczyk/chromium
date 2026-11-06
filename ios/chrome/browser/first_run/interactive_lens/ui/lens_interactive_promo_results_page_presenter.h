@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens interactive promo results page presenter header
+// summary: Declares a simplified presenter for the Lens results bottom sheet tailored to the interactive first run promo on iPhone in portrait.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_UI_LENS_INTERACTIVE_PROMO_RESULTS_PAGE_PRESENTER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_UI_LENS_INTERACTIVE_PROMO_RESULTS_PAGE_PRESENTER_H_
 

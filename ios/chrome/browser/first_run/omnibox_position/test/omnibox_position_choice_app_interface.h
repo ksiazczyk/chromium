@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox position choice app interface header
+// summary: Declares the OmniboxPositionChoiceAppInterface test helper used to show the omnibox position choice screen during Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_TEST_OMNIBOX_POSITION_CHOICE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_TEST_OMNIBOX_POSITION_CHOICE_APP_INTERFACE_H_
 

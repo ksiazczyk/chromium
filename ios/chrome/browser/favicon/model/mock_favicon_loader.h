@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock FaviconLoader test double
+// summary: Declares MockFaviconLoader, a gmock-based test double of FaviconLoader with mockable favicon request and cancellation methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_MOCK_FAVICON_LOADER_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_MOCK_FAVICON_LOADER_H_
 

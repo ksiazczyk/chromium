@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for omnibox position UI
+summary: Specifies the include allowlist for this directory, permitting the toolbar type and address bar option view headers.

@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_app_interface_stub.mm.
+type: test
+title: Find in Page app interface Earl Grey stub
+summary: Registers a stub of FindInPageAppInterface in the app main queue for Earl Grey test support builds.

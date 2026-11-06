@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_picker_result_loader.mm.
+type: source
+title: FileUploadPanelPickerResultLoader implementation
+summary: Implements loading of photo picker results, moving each file representation into the tab's choose-file subdirectory and recording metrics.

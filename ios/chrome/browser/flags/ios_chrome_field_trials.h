@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome field trials class declaration
+// summary: Declares the IOSChromeFieldTrials class that sets up iOS-specific field trials, client-side trials, and runtime-mutable features via the variations platform interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FLAGS_IOS_CHROME_FIELD_TRIALS_H_
 #define IOS_CHROME_BROWSER_FLAGS_IOS_CHROME_FIELD_TRIALS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracker utility header
+// summary: Declares NotifyNewTabEvent, which sends a new tab or incognito tab opened event to the feature engagement Tracker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_TRACKER_UTIL_H_
 #define IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_TRACKER_UTIL_H_
 

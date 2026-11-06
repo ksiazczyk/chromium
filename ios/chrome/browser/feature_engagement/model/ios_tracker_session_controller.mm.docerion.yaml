@@ -1,0 +1,4 @@
+# Docerion header of ios_tracker_session_controller.mm.
+type: source
+title: iOS tracker session controller implementation
+summary: Implements session reset logic that restarts tracker sessions after a maximum duration of sixty minutes.

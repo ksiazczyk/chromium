@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunPostActionProvider interface
+// summary: Declares a provider for actions performed sequentially after the first run screens are dismissed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_COORDINATOR_FIRST_RUN_POST_ACTION_PROVIDER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_COORDINATOR_FIRST_RUN_POST_ACTION_PROVIDER_H_
 

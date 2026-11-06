@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Guided tour coordinator DEPS include rules
+summary: Specifies the allowed header includes for the directory, covering the guided tour bubble presenter and the legacy toolbar button.

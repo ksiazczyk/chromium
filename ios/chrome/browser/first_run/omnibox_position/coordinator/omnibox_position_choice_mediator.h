@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox position choice mediator header
+// summary: Declares the mediator that handles omnibox position selection and saves the chosen position.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_COORDINATOR_OMNIBOX_POSITION_CHOICE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_COORDINATOR_OMNIBOX_POSITION_CHOICE_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in Page app interface header
+// summary: Declares the app-side helper interface that Earl Grey tests use to clear the Find in Page search term.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_APP_INTERFACE_H_
 

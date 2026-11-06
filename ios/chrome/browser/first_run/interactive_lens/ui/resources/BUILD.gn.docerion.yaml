@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Interactive Lens UI resources build file
+summary: GN build file that bundles the interactive lens asset catalog images and the cursor+line animation JSON into the iOS app bundle.

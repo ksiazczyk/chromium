@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracker factory utility header
+// summary: Declares CreateFeatureEngagementTracker, a helper for constructing the feature engagement Tracker keyed service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_TRACKER_FACTORY_UTIL_H_
 #define IOS_CHROME_BROWSER_FEATURE_ENGAGEMENT_MODEL_TRACKER_FACTORY_UTIL_H_
 

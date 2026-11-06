@@ -1,0 +1,4 @@
+# Docerion header of guided_tour_promo_view_controller.mm.
+type: source
+title: Guided tour promo view controller implementation
+summary: Implements the Guided Tour opt-in modal, selecting the branded or Chromium banner image and setting the localized title, subtitle, and primary and secondary action buttons.

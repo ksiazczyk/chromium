@@ -1,0 +1,4 @@
+# Docerion header of best_features_screen_egtest.mm.
+type: test
+title: Earl Grey tests for the Best Features first run screen
+summary: Earl Grey UI tests that verify variants of the First Run Best Features screen, including sign-in and credential provider scenarios.

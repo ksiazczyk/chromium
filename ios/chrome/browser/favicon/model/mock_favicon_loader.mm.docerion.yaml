@@ -1,0 +1,4 @@
+# Docerion header of mock_favicon_loader.mm.
+type: test
+title: Mock FaviconLoader implementation
+summary: Implements the MockFaviconLoader constructor and destructor for the gmock-based FaviconLoader test double.

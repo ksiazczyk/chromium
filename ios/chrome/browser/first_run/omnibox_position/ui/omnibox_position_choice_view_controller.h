@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox position choice view controller header
+// summary: Declares the promo-style view controller for the first-run omnibox position choice screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_UI_OMNIBOX_POSITION_CHOICE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_UI_OMNIBOX_POSITION_CHOICE_VIEW_CONTROLLER_H_
 

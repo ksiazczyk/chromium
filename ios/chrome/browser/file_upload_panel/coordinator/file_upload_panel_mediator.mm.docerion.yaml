@@ -1,0 +1,4 @@
+# Docerion header of file_upload_panel_mediator.mm.
+type: source
+title: FileUploadPanelMediator implementation
+summary: Implements the mediator, mapping accepted MIME types to UTTypes, handling camera capture, and submitting file selections.

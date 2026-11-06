@@ -1,0 +1,4 @@
+# Docerion header of best_features_screen_mediator.mm.
+type: source
+title: Best Features Screen Mediator Implementation
+summary: Implements the Best Features screen mediator, retrieving the user's shopping segment and building the item list based on feature variations and eligibility.

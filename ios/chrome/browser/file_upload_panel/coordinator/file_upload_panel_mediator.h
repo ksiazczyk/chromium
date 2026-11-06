@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileUploadPanelMediator header
+// summary: Declares the mediator exposing accepted media and document types, capture settings, and methods to submit or cancel file selections.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_COORDINATOR_FILE_UPLOAD_PANEL_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FILE_UPLOAD_PANEL_COORDINATOR_FILE_UPLOAD_PANEL_MEDIATOR_H_
 

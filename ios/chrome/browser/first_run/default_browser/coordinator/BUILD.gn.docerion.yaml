@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the default browser coordinator
+summary: Defines the coordinator source_set for the default browser first run screen, listing its sources, dependencies and required frameworks.

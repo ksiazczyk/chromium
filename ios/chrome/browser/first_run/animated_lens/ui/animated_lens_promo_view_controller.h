@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated Lens promo view controller header
+// summary: Declares AnimatedLensPromoViewController, a promo-style view controller presenting a fullscreen First Run sheet with an animation showing how to use Google Lens and its New Tab Page entry point.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_ANIMATED_LENS_UI_ANIMATED_LENS_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_ANIMATED_LENS_UI_ANIMATED_LENS_PROMO_VIEW_CONTROLLER_H_
 

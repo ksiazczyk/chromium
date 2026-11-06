@@ -1,0 +1,4 @@
+# Docerion header of uma_coordinator.mm.
+type: source
+title: UMACoordinator implementation
+summary: Implements presentation of the UMA dialog as a sheet with medium and large detents and notifies the delegate of dismissal with the user's reporting choice.

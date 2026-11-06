@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveLensPromoCoordinator interface
+// summary: Declares the coordinator that presents the Interactive Lens promo during first run, including a delegate for communicating with the FirstRunCoordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_COORDINATOR_INTERACTIVE_LENS_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_INTERACTIVE_LENS_COORDINATOR_INTERACTIVE_LENS_PROMO_COORDINATOR_H_
 

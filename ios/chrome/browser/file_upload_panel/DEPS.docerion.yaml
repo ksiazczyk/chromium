@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for file_upload_panel
+summary: Defines the allowed header dependencies for the file_upload_panel directory, listing Drive, signin, and choose_file headers it may include.

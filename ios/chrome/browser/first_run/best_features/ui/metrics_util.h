@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best Features metrics utilities
+// summary: Defines action type enums and histogram name declarations for logging user interactions on the Best Features main and detail screens.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_METRICS_UTIL_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_METRICS_UTIL_H_
 

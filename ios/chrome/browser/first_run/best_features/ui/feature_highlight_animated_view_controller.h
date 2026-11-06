@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature highlight animated view controller interface
+// summary: Declares a promo-style view controller that presents animated feature promos in the First Run Experience for a given Best Features item.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_FEATURE_HIGHLIGHT_ANIMATED_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_BEST_FEATURES_UI_FEATURE_HIGHLIGHT_ANIMATED_VIEW_CONTROLLER_H_
 

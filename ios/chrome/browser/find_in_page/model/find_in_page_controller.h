@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in Page controller interface
+// summary: Declares the controller that manages find sessions, search term saving and restoring, and fullscreen interaction for a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_FIND_IN_PAGE_MODEL_FIND_IN_PAGE_CONTROLLER_H_
 

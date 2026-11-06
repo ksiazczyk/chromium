@@ -1,0 +1,4 @@
+# Docerion header of cursor+line.json.
+type: asset
+title: Cursor and line Lottie animation
+summary: Lottie animation JSON for a cursor and line graphic used in the interactive lens first-run UI, with embedded base64 image assets.

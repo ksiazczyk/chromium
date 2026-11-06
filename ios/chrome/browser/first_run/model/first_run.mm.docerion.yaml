@@ -1,0 +1,4 @@
+# Docerion header of first_run.mm.
+type: source
+title: FirstRun implementation using a sentinel file
+summary: Implements first run detection via a First Run sentinel file, sentinel creation and removal, and preference registration.

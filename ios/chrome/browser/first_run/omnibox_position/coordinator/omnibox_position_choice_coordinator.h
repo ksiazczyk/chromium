@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox position choice coordinator header
+// summary: Declares the OmniboxPositionChoiceCoordinator class that manages the omnibox position choice screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_COORDINATOR_OMNIBOX_POSITION_CHOICE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_FIRST_RUN_OMNIBOX_POSITION_COORDINATOR_OMNIBOX_POSITION_CHOICE_COORDINATOR_H_
 

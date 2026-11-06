@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for favicon ui_bundled
+summary: Defines the ui_bundled source_set with its favicon provider sources and build dependencies for iOS Chrome.

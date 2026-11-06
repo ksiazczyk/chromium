@@ -5,6 +5,12 @@
 // Implementation of about_flags for iOS that sets flags based on experimental
 // settings.
 
+// ---docerion
+// type: source
+// title: Header for iOS about:flags handling
+// summary: Declares functions that convert experimental flags and settings into command-line switches and manage flag feature entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FLAGS_ABOUT_FLAGS_H_
 #define IOS_CHROME_BROWSER_FLAGS_ABOUT_FLAGS_H_
 

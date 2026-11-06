@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconLoaderImpl class declaration
+// summary: Declares the concrete FaviconLoader implementation that uses LargeIconService and an NSCache of attributes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_LOADER_IMPL_H_
 #define IOS_CHROME_BROWSER_FAVICON_MODEL_FAVICON_LOADER_IMPL_H_
 

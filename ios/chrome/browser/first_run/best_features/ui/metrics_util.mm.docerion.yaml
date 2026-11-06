@@ -1,0 +1,4 @@
+# Docerion header of metrics_util.mm.
+type: source
+title: Best Features metrics utilities implementation
+summary: Defines the Best Features histogram name constants and maps each feature item type to its corresponding action histogram.

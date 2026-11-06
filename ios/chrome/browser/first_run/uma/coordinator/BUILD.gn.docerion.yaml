@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: UMA coordinator build file
+summary: Defines the coordinator source_set for the UMA first run dialog, listing its Objective-C sources and build dependencies.

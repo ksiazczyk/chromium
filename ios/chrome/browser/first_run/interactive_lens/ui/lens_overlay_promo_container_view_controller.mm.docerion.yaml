@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_promo_container_view_controller.mm.
+type: source
+title: Lens overlay promo container view controller implementation
+summary: Implements the Lens promo container view with rounded top corners and tap and pan gesture recognizers that report user interaction to its delegate.

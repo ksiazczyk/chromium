@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guided tour UI build target definition
+summary: Defines the GN source_set for the guided tour promo view controller, listing its sources, dependencies on base, strings, and shared Chrome UI libraries, and the UIKit framework.

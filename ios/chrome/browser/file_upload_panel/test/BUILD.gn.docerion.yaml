@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for file upload panel Earl Grey tests
+summary: GN build file defining the eg2 Earl Grey test source set and its dependencies for the iOS file upload panel tests.

@@ -1,0 +1,4 @@
+# Docerion header of first_run_search_engine_choice_egtest.mm.
+type: test
+title: First Run search engine choice Earl Grey tests
+summary: Earl Grey tests covering first run screens when the search engine choice screen is forced and shown.
