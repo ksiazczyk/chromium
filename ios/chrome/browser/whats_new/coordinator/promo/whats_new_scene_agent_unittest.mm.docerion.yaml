@@ -1,0 +1,4 @@
+# Docerion header of whats_new_scene_agent_unittest.mm.
+type: test
+title: What's New scene agent unit tests
+summary: OCMock-based unit tests verifying the What's New promo is registered for continuous display with the promo manager on scene activation.

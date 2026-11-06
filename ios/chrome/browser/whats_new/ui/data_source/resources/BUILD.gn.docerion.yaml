@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: What's New resources build file
+summary: Defines GN targets that substitute string identifiers into What's New plists and bundle screenshots and unit test resources.

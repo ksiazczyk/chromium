@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for window activities model
+summary: GN build file defining the model source set and the buildflag header controlling the move tab activity type.

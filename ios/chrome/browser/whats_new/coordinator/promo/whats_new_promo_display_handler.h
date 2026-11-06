@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New promo display handler header
+// summary: Declares WhatsNewPromoDisplayHandler, the handler the Promos Manager calls to display the What's New promo after the first-run experience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_PROMO_WHATS_NEW_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_PROMO_WHATS_NEW_PROMO_DISPLAY_HANDLER_H_
 

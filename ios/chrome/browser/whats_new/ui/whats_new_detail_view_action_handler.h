@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New detail view action handler protocol
+// summary: Declares a delegate protocol that forwards primary action, learn more and instructions button taps from the detail view to the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_DETAIL_VIEW_ACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_DETAIL_VIEW_ACTION_HANDLER_H_
 

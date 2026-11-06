@@ -1,0 +1,4 @@
+# Docerion header of whats_new_util.mm.
+type: source
+title: What's New utility implementation
+summary: Implements the What's New usage check via NSUserDefaults and maps each WhatsNewType enum value to its string name for script-generated content.

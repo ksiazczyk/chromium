@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the What's New promo
+summary: Defines the promo source set and its unit_tests target, listing sources and dependencies for the What's New promo coordinator.

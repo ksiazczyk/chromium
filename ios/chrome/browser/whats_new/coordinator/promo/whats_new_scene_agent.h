@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New scene agent header
+// summary: Declares WhatsNewSceneAgent, a scene agent that registers the What's New promo in the promo manager when the scene becomes foreground active.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_PROMO_WHATS_NEW_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_PROMO_WHATS_NEW_SCENE_AGENT_H_
 

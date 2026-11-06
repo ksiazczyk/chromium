@@ -1,0 +1,4 @@
+# Docerion header of whats_new_test.plist.
+type: test
+title: What's New screen test fixture data
+summary: Property list fixture supplying feature, Chrome tip, and error-case entries used to test parsing of What's New screen content in the iOS Chrome UI.

@@ -1,0 +1,4 @@
+# Docerion header of whats_new_data_source.mm.
+type: source
+title: What's New data source implementation
+summary: Parses whats_new_entries.plist entries into WhatsNewItem objects, resolving colors, images, strings, and primary actions

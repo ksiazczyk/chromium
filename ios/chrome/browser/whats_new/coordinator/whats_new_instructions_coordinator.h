@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New instructions coordinator header
+// summary: Declares the coordinator that presents the half-screen instructions view for a What's New feature or Chrome tip.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_INSTRUCTIONS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_INSTRUCTIONS_COORDINATOR_H_
 

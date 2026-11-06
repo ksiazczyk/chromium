@@ -1,0 +1,4 @@
+# Docerion header of youtube_incognito_enterprise_sheet.mm.
+type: source
+title: YouTube Incognito Enterprise sheet implementation
+summary: Implements the enterprise interstitial sheet, configuring its title view, enterprise icon, localized strings, and forwarding button actions to the delegate.

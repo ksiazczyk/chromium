@@ -1,0 +1,4 @@
+# Docerion header of whats_new_instructions_coordinator.mm.
+type: source
+title: What's New instructions coordinator implementation
+summary: Implements the instructions coordinator, presenting the half-screen instructions view controller and forwarding primary and learn-more actions.

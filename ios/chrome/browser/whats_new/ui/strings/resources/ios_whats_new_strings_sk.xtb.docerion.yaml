@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings_sk.xtb.
+type: data
+title: Slovak What's New translation strings
+summary: XML translation bundle with Slovak strings for the Chrome iOS What's New screen, covering Google Lens, search on screen, Dock shortcuts, and account switching.

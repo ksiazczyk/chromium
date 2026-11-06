@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator
+summary: Restricts allowed includes in the coordinator directory to the NTP UI bundled and URL loading model paths.

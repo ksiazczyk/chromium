@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New table view controller header
+// summary: Declares the table view controller that lists What's New features and Chrome tips and consumes mediator updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_UI_WHATS_NEW_TABLE_VIEW_CONTROLLER_H_
 

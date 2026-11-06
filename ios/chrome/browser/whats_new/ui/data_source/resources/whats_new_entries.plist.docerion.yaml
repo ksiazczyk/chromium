@@ -1,0 +1,4 @@
+# Docerion header of whats_new_entries.plist.
+type: data
+title: What's New feature and tip entries
+summary: Property list defining What's New features and Chrome tips with localized string IDs, images, instruction steps, actions, and learn-more URLs.

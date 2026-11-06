@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: What's New UI BUILD.gn build definition
+summary: Defines the ui source_set for the iOS What's New interface, listing its Objective-C sources, the UIKit framework and dependency targets.

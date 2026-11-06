@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: What's New UI DEPS include rules
+summary: Restricts includes in the What's New UI directory to the price insights feature header via Chromium DEPS rules.

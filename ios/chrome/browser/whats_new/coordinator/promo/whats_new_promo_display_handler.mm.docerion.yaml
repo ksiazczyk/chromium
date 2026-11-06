@@ -1,0 +1,4 @@
+# Docerion header of whats_new_promo_display_handler.mm.
+type: source
+title: What's New promo display handler implementation
+summary: Implements the display handler that records the WhatsNew.Promo.Displayed user metric and triggers showing the What's New promo.

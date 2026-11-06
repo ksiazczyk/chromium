@@ -1,0 +1,4 @@
+# Docerion header of whats_new_item.mm.
+type: source
+title: WhatsNewItem implementation
+summary: Implements the WhatsNewItem interface, backing the learn-more URL property with a GURL

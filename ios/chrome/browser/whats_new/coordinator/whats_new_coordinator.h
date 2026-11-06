@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New coordinator header
+// summary: Declares the What's New coordinator, a Chrome coordinator that presents the What's New UI and supports promo dismissal handling via the PromosManager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_WHATS_NEW_COORDINATOR_WHATS_NEW_COORDINATOR_H_
 

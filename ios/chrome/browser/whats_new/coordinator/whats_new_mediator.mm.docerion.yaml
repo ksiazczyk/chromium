@@ -1,0 +1,4 @@
+# Docerion header of whats_new_mediator.mm.
+type: source
+title: What's New mediator implementation
+summary: Implements the What's New mediator, handling primary action taps by opening settings, Lens, password manager or a new tab, and recording usage metrics.

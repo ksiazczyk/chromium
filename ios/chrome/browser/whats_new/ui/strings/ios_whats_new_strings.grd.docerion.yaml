@@ -1,0 +1,4 @@
+# Docerion header of ios_whats_new_strings.grd.
+type: data
+title: What's New iOS strings resource definition
+summary: Grit resource definition listing the localized What's New string outputs and data packages for all supported locales.
