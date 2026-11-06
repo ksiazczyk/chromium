@@ -1,0 +1,4 @@
+# Docerion header of DeviceAttributesAllowedForOrigins.json.
+type: test
+title: DeviceAttributesAllowedForOrigins pref mapping test data
+summary: Defines the ChromeOS pref mapping test for DeviceAttributesAllowedForOrigins, mapping it to the managed allowed origins pref with sample origin values.

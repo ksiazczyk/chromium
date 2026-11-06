@@ -1,0 +1,4 @@
+# Docerion header of DefaultWebHidGuardSetting.json.
+type: test
+title: DefaultWebHidGuardSetting pref mapping test data
+summary: Test data verifying that the DefaultWebHidGuardSetting policy maps to the web_hid_guard content setting pref across six platforms.

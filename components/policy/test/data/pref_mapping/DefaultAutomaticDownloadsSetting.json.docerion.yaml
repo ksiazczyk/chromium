@@ -1,0 +1,4 @@
+# Docerion header of DefaultAutomaticDownloadsSetting.json.
+type: test
+title: DefaultAutomaticDownloadsSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultAutomaticDownloadsSetting policy controls the automatic downloads default content setting.

@@ -1,0 +1,4 @@
+# Docerion header of DataLeakPreventionReportingEnabled.json.
+type: test
+title: DataLeakPreventionReportingEnabled pref mapping test data
+summary: Test data verifying that the DataLeakPreventionReportingEnabled policy maps to the policy.dlp_reporting_enabled local state preference on ChromeOS with true and false values.

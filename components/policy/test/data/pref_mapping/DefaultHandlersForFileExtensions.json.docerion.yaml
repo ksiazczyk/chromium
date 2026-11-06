@@ -1,0 +1,4 @@
+# Docerion header of DefaultHandlersForFileExtensions.json.
+type: test
+title: DefaultHandlersForFileExtensions policy pref mapping test data
+summary: ChromeOS test data verifying that the DefaultHandlersForFileExtensions policy populates the filebrowser default handlers pref and filters unknown or invalid IDs.

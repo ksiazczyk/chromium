@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherExternalGreylistUrl.json.
+type: test
+title: BrowserSwitcherExternalGreylistUrl pref mapping test data
+summary: Test data verifying that the BrowserSwitcherExternalGreylistUrl policy maps to the browser_switcher.external_greylist_url pref on desktop platforms.

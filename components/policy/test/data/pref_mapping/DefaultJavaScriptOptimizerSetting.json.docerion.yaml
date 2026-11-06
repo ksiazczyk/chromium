@@ -1,0 +1,4 @@
+# Docerion header of DefaultJavaScriptOptimizerSetting.json.
+type: test
+title: DefaultJavaScriptOptimizerSetting policy pref mapping test data
+summary: Test data mapping the DefaultJavaScriptOptimizerSetting policy to the javascript_optimizer content setting pref across win, linux, mac, chromeos, android and fuchsia.

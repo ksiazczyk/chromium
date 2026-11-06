@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherDelay.json.
+type: test
+title: BrowserSwitcherDelay pref mapping test data
+summary: Test data verifying that the BrowserSwitcherDelay policy maps to the browser_switcher.delay pref on desktop platforms.

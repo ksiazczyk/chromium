@@ -1,0 +1,4 @@
+# Docerion header of DefaultJavaScriptSetting.json.
+type: test
+title: DefaultJavaScriptSetting policy pref mapping test data
+summary: Test data mapping the DefaultJavaScriptSetting policy to the javascript content setting pref across win, linux, mac, chromeos, android and fuchsia.

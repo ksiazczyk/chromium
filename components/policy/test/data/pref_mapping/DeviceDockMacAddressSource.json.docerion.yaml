@@ -1,0 +1,4 @@
+# Docerion header of DeviceDockMacAddressSource.json.
+type: test
+title: DeviceDockMacAddressSource pref mapping test data
+summary: Declares no pref mapping test for the DeviceDockMacAddressSource policy because it maps into CrosSettings.

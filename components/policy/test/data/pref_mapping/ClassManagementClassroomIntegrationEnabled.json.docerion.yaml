@@ -1,0 +1,4 @@
+# Docerion header of ClassManagementClassroomIntegrationEnabled.json.
+type: test
+title: ClassManagementClassroomIntegrationEnabled pref mapping test data
+summary: Test data mapping the ClassManagementClassroomIntegrationEnabled policy to the classroom_eligibility_setting pref.

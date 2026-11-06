@@ -1,0 +1,4 @@
+# Docerion header of CloudProfileReportingEnabled.json.
+type: test
+title: CloudProfileReportingEnabled pref mapping test data
+summary: Test data verifying that CloudProfileReportingEnabled maps to the enterprise_reporting.chrome_profile_cloud_reporting pref and applies only from cloud sources.

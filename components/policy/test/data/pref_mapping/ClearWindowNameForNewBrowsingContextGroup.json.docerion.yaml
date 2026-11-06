@@ -1,0 +1,4 @@
+# Docerion header of ClearWindowNameForNewBrowsingContextGroup.json.
+type: test
+title: ClearWindowNameForNewBrowsingContextGroup pref mapping test
+summary: Simple policy pref mapping test for ClearWindowNameForNewBrowsingContextGroup covering the profile content settings pref default and true/false values.

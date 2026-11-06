@@ -1,0 +1,4 @@
+# Docerion header of DevToolsGoogleDeveloperProgramProfileAvailability.json.
+type: test
+title: DevToolsGoogleDeveloperProgramProfileAvailability pref mapping test data
+summary: Test data checking that the DevToolsGoogleDeveloperProgramProfileAvailability policy maps to the devtools.google_developer_program_profile_availability pref.

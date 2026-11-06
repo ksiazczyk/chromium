@@ -1,0 +1,4 @@
+# Docerion header of ArcEnabled.json.
+type: test
+title: ArcEnabled pref mapping test data
+summary: Test data verifying that the ArcEnabled policy maps to the arc.enabled pref on ChromeOS, including its enterprise default value.

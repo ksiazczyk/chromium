@@ -1,0 +1,4 @@
+# Docerion header of ClassManagementNetworkRestrictionEnabled.json.
+type: test
+title: ClassManagementNetworkRestrictionEnabled pref mapping test data
+summary: Test data mapping the ClassManagementNetworkRestrictionEnabled policy to the network_restriction_setting pref.

@@ -1,0 +1,4 @@
+# Docerion header of CloudPrintProxyEnabled.json.
+type: test
+title: CloudPrintProxyEnabled pref mapping test data
+summary: Test data noting that no pref mapping test exists for CloudPrintProxyEnabled because the policy is being removed.

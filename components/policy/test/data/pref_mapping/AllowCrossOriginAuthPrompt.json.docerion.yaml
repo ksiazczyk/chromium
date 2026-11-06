@@ -1,0 +1,4 @@
+# Docerion header of AllowCrossOriginAuthPrompt.json.
+type: test
+title: AllowCrossOriginAuthPrompt pref mapping test data
+summary: Test data verifying that the AllowCrossOriginAuthPrompt policy maps to the auth.allow_cross_origin_prompt pref stored in local state.

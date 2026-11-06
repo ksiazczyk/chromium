@@ -1,0 +1,4 @@
+# Docerion header of DefaultSerialGuardSetting.json.
+type: test
+title: DefaultSerialGuardSetting pref mapping test data
+summary: Simple policy pref mapping test for the DefaultSerialGuardSetting policy, mapping it to the serial guard content setting with a default value and test values 2 and 3.

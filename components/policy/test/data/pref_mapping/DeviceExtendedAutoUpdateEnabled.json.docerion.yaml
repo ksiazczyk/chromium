@@ -1,0 +1,4 @@
+# Docerion header of DeviceExtendedAutoUpdateEnabled.json.
+type: test
+title: DeviceExtendedAutoUpdateEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceExtendedAutoUpdateEnabled policy because it maps into CrosSettings.

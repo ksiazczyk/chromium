@@ -1,0 +1,4 @@
+# Docerion header of CommandLineFlagSecurityWarningsEnabled.json.
+type: test
+title: CommandLineFlagSecurityWarningsEnabled pref mapping test data
+summary: Test data verifying that the policy maps to the browser.command_line_flag_security_warnings_enabled pref in local state with true and false values.

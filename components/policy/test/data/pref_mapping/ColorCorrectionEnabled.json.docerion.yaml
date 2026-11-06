@@ -1,0 +1,4 @@
+# Docerion header of ColorCorrectionEnabled.json.
+type: test
+title: ColorCorrectionEnabled pref mapping test data
+summary: ChromeOS test data verifying that ColorCorrectionEnabled maps to the settings.a11y.color_filtering.enabled pref with true and false values.

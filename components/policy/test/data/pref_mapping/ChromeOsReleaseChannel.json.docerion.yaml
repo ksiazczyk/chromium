@@ -1,0 +1,4 @@
+# Docerion header of ChromeOsReleaseChannel.json.
+type: test
+title: ChromeOsReleaseChannel pref mapping test data
+summary: Test data recording that the ChromeOS release channel policy maps into CrosSettings and therefore has no pref mapping test.

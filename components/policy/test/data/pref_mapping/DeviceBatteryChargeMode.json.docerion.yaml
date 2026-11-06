@@ -1,0 +1,4 @@
+# Docerion header of DeviceBatteryChargeMode.json.
+type: test
+title: DeviceBatteryChargeMode pref mapping test data
+summary: Test data mapping the DeviceBatteryChargeMode policy to the ash.power.battery_charge_mode pref with values 1 through 5 on ChromeOS.

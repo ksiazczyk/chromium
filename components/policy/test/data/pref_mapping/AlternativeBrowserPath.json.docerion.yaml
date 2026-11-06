@@ -1,0 +1,4 @@
+# Docerion header of AlternativeBrowserPath.json.
+type: test
+title: AlternativeBrowserPath policy pref mapping test data
+summary: Test data checking that the AlternativeBrowserPath policy maps to the browser_switcher.alternative_browser_path preference.

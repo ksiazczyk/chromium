@@ -1,0 +1,4 @@
+# Docerion header of CameraSaveLocation.json.
+type: test
+title: CameraSaveLocation policy pref mapping test data
+summary: Test data verifying the CameraSaveLocation policy maps to the ash.camera.save_location pref on ChromeOS, including the default value case.

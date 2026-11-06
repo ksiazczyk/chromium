@@ -1,0 +1,4 @@
+# Docerion header of DefaultWebPrintingSetting.json.
+type: test
+title: DefaultWebPrintingSetting pref mapping test data
+summary: Test data verifying that the DefaultWebPrintingSetting policy maps to the web_printing content setting pref on ChromeOS.

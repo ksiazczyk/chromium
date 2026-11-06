@@ -1,0 +1,4 @@
+# Docerion header of DeviceCrostiniArcAdbSideloadingAllowed.json.
+type: test
+title: DeviceCrostiniArcAdbSideloadingAllowed pref mapping test data
+summary: Declares no pref mapping test for the DeviceCrostiniArcAdbSideloadingAllowed policy because it maps into CrosSettings.

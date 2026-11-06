@@ -1,0 +1,4 @@
+# Docerion header of BrowserSwitcherChromePath.json.
+type: test
+title: BrowserSwitcherChromePath pref mapping test data
+summary: Windows-only test data verifying that the BrowserSwitcherChromePath policy maps to the browser_switcher.chrome_path pref.

@@ -1,0 +1,4 @@
+# Docerion header of CastReceiverEnabled.json.
+type: test
+title: CastReceiverEnabled policy pref mapping test data
+summary: Test data checking the CastReceiverEnabled policy maps to the cast_receiver.enabled pref on ChromeOS.

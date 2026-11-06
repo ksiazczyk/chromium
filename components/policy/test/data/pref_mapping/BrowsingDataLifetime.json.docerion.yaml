@@ -1,0 +1,4 @@
+# Docerion header of BrowsingDataLifetime.json.
+type: test
+title: BrowsingDataLifetime policy pref mapping test
+summary: Policy pref mapping test data covering BrowsingDataLifetime defaults and its effect on browser.clear_data.browsing_data_lifetime with sync enabled and disabled.

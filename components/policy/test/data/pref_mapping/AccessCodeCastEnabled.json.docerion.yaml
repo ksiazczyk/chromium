@@ -1,0 +1,4 @@
+# Docerion header of AccessCodeCastEnabled.json.
+type: test
+title: AccessCodeCastEnabled policy pref mapping test data
+summary: Test data verifying the AccessCodeCastEnabled policy maps to the media router access code cast enabled preference, defaulting to false.

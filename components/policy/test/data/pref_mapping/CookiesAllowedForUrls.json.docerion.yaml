@@ -1,0 +1,4 @@
+# Docerion header of CookiesAllowedForUrls.json.
+type: test
+title: CookiesAllowedForUrls policy pref mapping test data
+summary: Test data verifying the CookiesAllowedForUrls policy maps to the profile.managed_cookies_allowed_for_urls pref across all supported platforms.

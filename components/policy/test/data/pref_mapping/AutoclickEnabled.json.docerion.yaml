@@ -1,0 +1,4 @@
+# Docerion header of AutoclickEnabled.json.
+type: test
+title: AutoclickEnabled policy pref mapping test data
+summary: Test data verifying that the AutoclickEnabled policy maps to the settings.a11y.autoclick accessibility preference on ChromeOS.

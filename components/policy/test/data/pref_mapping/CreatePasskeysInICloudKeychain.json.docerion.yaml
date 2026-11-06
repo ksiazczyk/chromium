@@ -1,0 +1,4 @@
+# Docerion header of CreatePasskeysInICloudKeychain.json.
+type: test
+title: CreatePasskeysInICloudKeychain pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CreatePasskeysInICloudKeychain policy to the webauthn.create_in_icloud_keychain pref on macOS.

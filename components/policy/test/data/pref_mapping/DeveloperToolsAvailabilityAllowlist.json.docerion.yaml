@@ -1,0 +1,4 @@
+# Docerion header of DeveloperToolsAvailabilityAllowlist.json.
+type: test
+title: DeveloperToolsAvailabilityAllowlist policy pref mapping test data
+summary: Test data checking that the DeveloperToolsAvailabilityAllowlist policy maps to the devtools.availability_allowlist pref with domain values.

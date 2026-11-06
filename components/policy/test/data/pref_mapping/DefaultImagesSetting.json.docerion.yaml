@@ -1,0 +1,4 @@
+# Docerion header of DefaultImagesSetting.json.
+type: test
+title: DefaultImagesSetting policy pref mapping test data
+summary: Test data mapping the DefaultImagesSetting policy to the images content setting pref across win, linux, mac, chromeos, android and fuchsia.

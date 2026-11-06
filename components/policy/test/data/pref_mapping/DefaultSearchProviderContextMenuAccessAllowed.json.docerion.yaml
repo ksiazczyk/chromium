@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderContextMenuAccessAllowed.json.
+type: test
+title: DefaultSearchProviderContextMenuAccessAllowed pref mapping test placeholder
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderContextMenuAccessAllowed policy and pointing to the PolicyTest.DefaultSearchProvider browser test.

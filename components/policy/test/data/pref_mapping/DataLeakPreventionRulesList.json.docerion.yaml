@@ -1,0 +1,4 @@
+# Docerion header of DataLeakPreventionRulesList.json.
+type: test
+title: DataLeakPreventionRulesList pref mapping test data
+summary: Test data verifying that the DataLeakPreventionRulesList policy maps to the policy.dlp_rules_list local state preference on ChromeOS using a sample DLP rules list.

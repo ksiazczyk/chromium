@@ -1,0 +1,4 @@
+# Docerion header of CrostiniAllowed.json.
+type: test
+title: CrostiniAllowed pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CrostiniAllowed policy to the crostini.user_allowed_by_policy pref on ChromeOS.

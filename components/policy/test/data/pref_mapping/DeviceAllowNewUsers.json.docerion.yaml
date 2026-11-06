@@ -1,0 +1,4 @@
+# Docerion header of DeviceAllowNewUsers.json.
+type: test
+title: DeviceAllowNewUsers pref mapping placeholder
+summary: Placeholder test data explaining that no pref mapping test exists for DeviceAllowNewUsers because the policy maps into CrosSettings.

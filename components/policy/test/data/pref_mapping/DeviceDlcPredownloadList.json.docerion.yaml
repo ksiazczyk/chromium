@@ -1,0 +1,4 @@
+# Docerion header of DeviceDlcPredownloadList.json.
+type: test
+title: DeviceDlcPredownloadList pref mapping test data
+summary: Declares no pref mapping test for the DeviceDlcPredownloadList policy because it maps into CrosSettings.

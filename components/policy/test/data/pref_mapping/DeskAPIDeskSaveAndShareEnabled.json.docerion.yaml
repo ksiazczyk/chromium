@@ -1,0 +1,4 @@
+# Docerion header of DeskAPIDeskSaveAndShareEnabled.json.
+type: test
+title: DeskAPIDeskSaveAndShareEnabled policy pref mapping test data
+summary: Test data checking that the DeskAPIDeskSaveAndShareEnabled policy maps to the desk_api.desk_save_and_share_enabled pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of AutoFillEnabled.json.
+type: test
+title: AutoFillEnabled pref mapping test data
+summary: Test data covering how the deprecated AutoFillEnabled policy sets autofill prefs and how the newer AutofillAddressEnabled and AutofillCreditCardEnabled policies override it.

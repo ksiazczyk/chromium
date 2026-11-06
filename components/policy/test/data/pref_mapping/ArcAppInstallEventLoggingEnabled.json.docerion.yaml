@@ -1,0 +1,4 @@
+# Docerion header of ArcAppInstallEventLoggingEnabled.json.
+type: test
+title: ArcAppInstallEventLoggingEnabled pref mapping test data
+summary: Test data verifying that the ArcAppInstallEventLoggingEnabled policy maps to the arc.app_install_event_logging_enabled pref on ChromeOS.

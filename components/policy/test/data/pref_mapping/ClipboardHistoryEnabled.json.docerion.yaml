@@ -1,0 +1,4 @@
+# Docerion header of ClipboardHistoryEnabled.json.
+type: test
+title: ClipboardHistoryEnabled pref mapping test
+summary: Simple policy pref mapping test for ClipboardHistoryEnabled on ChromeOS, checking the ash.clipboard.history_enabled pref with values 0 and 1.

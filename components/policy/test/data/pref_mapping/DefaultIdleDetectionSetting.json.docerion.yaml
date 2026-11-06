@@ -1,0 +1,4 @@
+# Docerion header of DefaultIdleDetectionSetting.json.
+type: test
+title: DefaultIdleDetectionSetting policy pref mapping test data
+summary: Test data mapping the DefaultIdleDetectionSetting policy to the idle_detection content setting pref across win, linux, mac, chromeos and android.

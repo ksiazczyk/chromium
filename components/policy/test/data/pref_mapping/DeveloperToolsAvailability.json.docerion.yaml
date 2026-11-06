@@ -1,0 +1,4 @@
+# Docerion header of DeveloperToolsAvailability.json.
+type: test
+title: DeveloperToolsAvailability policy pref mapping test data
+summary: Test data checking that the DeveloperToolsAvailability policy maps to the devtools.availability pref and overrides DeveloperToolsDisabled when both policies are set.

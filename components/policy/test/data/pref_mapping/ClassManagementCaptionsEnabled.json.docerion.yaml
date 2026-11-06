@@ -1,0 +1,4 @@
+# Docerion header of ClassManagementCaptionsEnabled.json.
+type: test
+title: ClassManagementCaptionsEnabled pref mapping test data
+summary: Test data mapping the ClassManagementCaptionsEnabled policy to the ash.class_management_tools.caption_eligibility_setting pref.

@@ -1,0 +1,4 @@
+# Docerion header of CloudUserPolicyOverridesCloudMachinePolicy.json.
+type: test
+title: CloudUserPolicyOverridesCloudMachinePolicy pref mapping test data
+summary: Test data noting that CloudUserPolicyOverridesCloudMachinePolicy has no pref mapping test because the policy is read directly by the policy system.

@@ -1,0 +1,4 @@
+# Docerion header of DefaultClipboardSetting.json.
+type: test
+title: DefaultClipboardSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultClipboardSetting policy controls the clipboard default content setting across supported platforms.

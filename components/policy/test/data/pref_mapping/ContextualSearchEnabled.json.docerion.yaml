@@ -1,0 +1,4 @@
+# Docerion header of ContextualSearchEnabled.json.
+type: test
+title: ContextualSearchEnabled policy pref mapping test data
+summary: Android test data verifying the ContextualSearchEnabled policy maps to the search.contextual_search_enabled pref for default, true, and false values.

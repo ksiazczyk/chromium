@@ -1,0 +1,4 @@
+# Docerion header of AppStoreRatingEnabled.json.
+type: test
+title: AppStoreRatingEnabled pref mapping test data
+summary: Test data verifying that the AppStoreRatingEnabled policy maps to the app_rating_policy_enabled pref on Android, with a note that the iOS mapping lacks a test.

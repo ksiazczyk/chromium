@@ -1,0 +1,4 @@
+# Docerion header of DataUrlInWebWorkerOpaqueOriginEnabled.json.
+type: test
+title: DataUrlInWebWorkerOpaqueOriginEnabled pref mapping test data
+summary: Policy pref mapping test data checking the DataUrlInWebWorkerOpaqueOriginEnabled policy against the worker data URL opaque origin pref on all supported platforms.

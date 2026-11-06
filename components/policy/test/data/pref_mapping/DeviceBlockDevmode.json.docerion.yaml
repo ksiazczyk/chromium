@@ -1,0 +1,4 @@
+# Docerion header of DeviceBlockDevmode.json.
+type: test
+title: DeviceBlockDevmode pref mapping test data
+summary: Marks the DeviceBlockDevmode policy as lacking a pref mapping test because it is only read by system daemons.

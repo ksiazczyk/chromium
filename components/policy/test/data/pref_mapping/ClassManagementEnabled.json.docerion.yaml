@@ -1,0 +1,4 @@
+# Docerion header of ClassManagementEnabled.json.
+type: test
+title: ClassManagementEnabled pref mapping test data
+summary: Test data mapping the ClassManagementEnabled policy to the availability_setting pref with values disabled, students and teachers.

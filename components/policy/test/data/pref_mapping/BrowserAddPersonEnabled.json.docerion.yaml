@@ -1,0 +1,4 @@
+# Docerion header of BrowserAddPersonEnabled.json.
+type: test
+title: BrowserAddPersonEnabled pref mapping test data
+summary: Test data mapping the BrowserAddPersonEnabled policy to the profile.add_person_enabled local state pref with true and false values.

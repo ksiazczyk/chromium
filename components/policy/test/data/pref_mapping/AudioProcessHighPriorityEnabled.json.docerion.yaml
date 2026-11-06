@@ -1,0 +1,4 @@
+# Docerion header of AudioProcessHighPriorityEnabled.json.
+type: test
+title: AudioProcessHighPriorityEnabled pref mapping test data
+summary: Test data placeholder explaining that the AudioProcessHighPriorityEnabled policy is used directly through the policy service and has no pref mapping test.

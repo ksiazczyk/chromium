@@ -1,0 +1,4 @@
+# Docerion header of AuthSchemes.json.
+type: test
+title: AuthSchemes pref mapping test data
+summary: Test data mapping the AuthSchemes policy to the auth.schemes local state pref with its default and test values.

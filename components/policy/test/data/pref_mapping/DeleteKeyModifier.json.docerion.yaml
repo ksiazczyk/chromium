@@ -1,0 +1,4 @@
+# Docerion header of DeleteKeyModifier.json.
+type: test
+title: DeleteKeyModifier pref mapping test data
+summary: Test data verifying that the DeleteKeyModifier policy maps to the ash delete_key_modifier pref on ChromeOS.

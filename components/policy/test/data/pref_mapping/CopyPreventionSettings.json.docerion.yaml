@@ -1,0 +1,4 @@
+# Docerion header of CopyPreventionSettings.json.
+type: test
+title: CopyPreventionSettings pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CopyPreventionSettings policy to the policy.copy_prevention_settings pref on Windows, Linux, Mac, ChromeOS and Fuchsia.

@@ -1,0 +1,4 @@
+# Docerion header of AllowDeletingBrowserHistory.json.
+type: test
+title: AllowDeletingBrowserHistory pref mapping test data
+summary: Test data verifying that the AllowDeletingBrowserHistory policy maps to the history.deleting_enabled pref across supported platforms.

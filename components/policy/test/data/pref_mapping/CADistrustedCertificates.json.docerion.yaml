@@ -1,0 +1,4 @@
+# Docerion header of CADistrustedCertificates.json.
+type: test
+title: CADistrustedCertificates pref mapping test data
+summary: Test fixture mapping the CADistrustedCertificates policy to the certificates.ca_distrusted_certificates pref with single and multiple certificate lists.

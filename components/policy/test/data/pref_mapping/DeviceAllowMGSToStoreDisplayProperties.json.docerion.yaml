@@ -1,0 +1,4 @@
+# Docerion header of DeviceAllowMGSToStoreDisplayProperties.json.
+type: test
+title: DeviceAllowMGSToStoreDisplayProperties pref mapping test data
+summary: Defines pref mapping tests for DeviceAllowMGSToStoreDisplayProperties, checking the settings.display.allow_mgs_to_store local state pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ApplicationBoundEncryptionEnabled.json.
+type: test
+title: ApplicationBoundEncryptionEnabled pref mapping test data
+summary: Test data verifying that the ApplicationBoundEncryptionEnabled policy maps to the application_bound_encryption_enabled local state pref on Windows.

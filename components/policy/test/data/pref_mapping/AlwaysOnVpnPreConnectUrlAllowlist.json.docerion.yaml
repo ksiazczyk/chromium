@@ -1,0 +1,4 @@
+# Docerion header of AlwaysOnVpnPreConnectUrlAllowlist.json.
+type: test
+title: AlwaysOnVpnPreConnectUrlAllowlist policy pref mapping test data
+summary: ChromeOS test data checking that the AlwaysOnVpnPreConnectUrlAllowlist policy maps to the policy.alwayson_vpn_pre_connect_url_allowlist preference.

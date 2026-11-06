@@ -1,0 +1,4 @@
+# Docerion header of DeskTemplatesEnabled.json.
+type: test
+title: DeskTemplatesEnabled policy pref mapping test data
+summary: Test data checking that the DeskTemplatesEnabled policy maps to the ash.desk_templates_enabled pref on ChromeOS.

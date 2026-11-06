@@ -1,0 +1,4 @@
+# Docerion header of CaretHighlightEnabled.json.
+type: test
+title: CaretHighlightEnabled policy pref mapping test data
+summary: Test data checking the CaretHighlightEnabled policy maps to the settings.a11y.caret_highlight pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of CrostiniExportImportUIAllowed.json.
+type: test
+title: CrostiniExportImportUIAllowed pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CrostiniExportImportUIAllowed policy to the crostini export/import UI pref on ChromeOS.

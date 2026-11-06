@@ -1,0 +1,4 @@
+# Docerion header of ContextMenuPhotoSharingSettings.json.
+type: test
+title: ContextMenuPhotoSharingSettings policy pref mapping test data
+summary: Test data placeholder recording that ContextMenuPhotoSharingSettings has no pref mapping test because it maps into an iOS-specific pref.

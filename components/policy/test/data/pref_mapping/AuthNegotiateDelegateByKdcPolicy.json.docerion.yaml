@@ -1,0 +1,4 @@
+# Docerion header of AuthNegotiateDelegateByKdcPolicy.json.
+type: test
+title: AuthNegotiateDelegateByKdcPolicy pref mapping test data
+summary: Test data mapping the AuthNegotiateDelegateByKdcPolicy policy to the auth.negotiate_delegate_by_kdc_policy pref on Linux, Mac and ChromeOS.

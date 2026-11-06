@@ -1,0 +1,4 @@
+# Docerion header of AuthAndroidNegotiateAccountType.json.
+type: test
+title: AuthAndroidNegotiateAccountType pref mapping test data
+summary: Test data mapping the AuthAndroidNegotiateAccountType policy to the auth.android_negotiate_account_type local state pref on Android.

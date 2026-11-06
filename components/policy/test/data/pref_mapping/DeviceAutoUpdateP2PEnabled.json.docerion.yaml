@@ -1,0 +1,4 @@
+# Docerion header of DeviceAutoUpdateP2PEnabled.json.
+type: test
+title: DeviceAutoUpdateP2PEnabled pref mapping test data
+summary: Test data noting that no pref mapping test exists because this Chrome OS device policy is used only by update_engine, not in Chrome.

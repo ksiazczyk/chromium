@@ -1,0 +1,4 @@
+# Docerion header of DefaultDeviceAttributesSetting.json.
+type: test
+title: DefaultDeviceAttributesSetting pref mapping test data
+summary: Policy pref mapping test data verifying the DefaultDeviceAttributesSetting policy controls the device attributes default content setting on ChromeOS.

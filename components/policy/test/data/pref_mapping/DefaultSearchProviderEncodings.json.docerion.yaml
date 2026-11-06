@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderEncodings.json.
+type: test
+title: DefaultSearchProviderEncodings pref mapping test placeholder
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderEncodings policy and pointing to the PolicyTest.DefaultSearchProvider browser test.

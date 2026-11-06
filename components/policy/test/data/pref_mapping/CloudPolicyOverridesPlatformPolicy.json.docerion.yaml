@@ -1,0 +1,4 @@
+# Docerion header of CloudPolicyOverridesPlatformPolicy.json.
+type: test
+title: CloudPolicyOverridesPlatformPolicy pref mapping test data
+summary: Test data noting that CloudPolicyOverridesPlatformPolicy has no pref mapping test because the policy is read directly by the policy system.

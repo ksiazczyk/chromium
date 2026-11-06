@@ -1,0 +1,4 @@
+# Docerion header of DefaultSmartCardConnectSetting.json.
+type: test
+title: DefaultSmartCardConnectSetting pref mapping test data
+summary: Simple policy pref mapping test for the DefaultSmartCardConnectSetting policy on ChromeOS, mapping it to the smart card connect content setting with a default value and test values 2 and 3.

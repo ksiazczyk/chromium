@@ -1,0 +1,4 @@
+# Docerion header of AutofillAddressEnabled.json.
+type: test
+title: AutofillAddressEnabled policy pref mapping test data
+summary: Test data verifying that the AutofillAddressEnabled policy maps to the autofill.profile_enabled preference, including cases where enabling is ignored by the policy handler.

@@ -1,0 +1,4 @@
+# Docerion header of CertificateTransparencyEnforcementDisabledForCas.json.
+type: test
+title: CertificateTransparencyEnforcementDisabledForCas pref mapping test data
+summary: Test data checking the CertificateTransparencyEnforcementDisabledForCas policy maps to the certificate_transparency.excluded_spkis pref across supported platforms.

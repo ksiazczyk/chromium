@@ -1,0 +1,4 @@
+# Docerion header of BrowserGuestModeEnforced.json.
+type: test
+title: BrowserGuestModeEnforced pref mapping test data
+summary: Test data verifying that the BrowserGuestModeEnforced policy maps to the profile.browser_guest_enforced pref on Windows, Linux, Mac and Fuchsia.

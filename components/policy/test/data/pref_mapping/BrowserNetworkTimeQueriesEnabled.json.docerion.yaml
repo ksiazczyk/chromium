@@ -1,0 +1,4 @@
+# Docerion header of BrowserNetworkTimeQueriesEnabled.json.
+type: test
+title: BrowserNetworkTimeQueriesEnabled pref mapping test data
+summary: Test data verifying that the BrowserNetworkTimeQueriesEnabled policy maps to the network_time.network_time_queries_enabled pref on desktop platforms.

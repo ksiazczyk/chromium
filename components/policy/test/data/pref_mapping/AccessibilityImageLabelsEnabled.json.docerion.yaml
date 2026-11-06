@@ -1,0 +1,4 @@
+# Docerion header of AccessibilityImageLabelsEnabled.json.
+type: test
+title: AccessibilityImageLabelsEnabled policy pref mapping test data
+summary: Test data verifying the AccessibilityImageLabelsEnabled policy maps to the accessibility image labels settings preference.

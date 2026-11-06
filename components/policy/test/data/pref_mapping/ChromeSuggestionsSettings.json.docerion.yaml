@@ -1,0 +1,4 @@
+# Docerion header of ChromeSuggestionsSettings.json.
+type: test
+title: ChromeSuggestionsSettings pref mapping test data
+summary: Test data mapping the ChromeSuggestionsSettings policy to the contextual_cueing.chrome_suggestions_settings pref with values 0 and 1.

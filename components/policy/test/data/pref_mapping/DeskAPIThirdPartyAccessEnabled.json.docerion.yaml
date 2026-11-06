@@ -1,0 +1,4 @@
+# Docerion header of DeskAPIThirdPartyAccessEnabled.json.
+type: test
+title: DeskAPIThirdPartyAccessEnabled policy pref mapping test data
+summary: Test data checking that the DeskAPIThirdPartyAccessEnabled policy maps to the desk_api.third_party_access_enabled pref on ChromeOS.

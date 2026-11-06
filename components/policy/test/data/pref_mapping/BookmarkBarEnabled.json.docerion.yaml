@@ -1,0 +1,4 @@
+# Docerion header of BookmarkBarEnabled.json.
+type: test
+title: BookmarkBarEnabled pref mapping test data
+summary: Test data mapping the BookmarkBarEnabled policy to bookmark bar show and visibility prefs, including recommended policy handling.

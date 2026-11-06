@@ -1,0 +1,4 @@
+# Docerion header of AutoLaunchAndroidApps.json.
+type: test
+title: AutoLaunchAndroidApps pref mapping test data
+summary: Test data mapping the AutoLaunchAndroidApps policy to the arc.auto_launch_apps pref on ChromeOS, including filtering of invalid package names.

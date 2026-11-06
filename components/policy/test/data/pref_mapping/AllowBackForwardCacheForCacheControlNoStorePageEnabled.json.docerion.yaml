@@ -1,0 +1,4 @@
+# Docerion header of AllowBackForwardCacheForCacheControlNoStorePageEnabled.json.
+type: test
+title: AllowBackForwardCacheForCacheControlNoStorePageEnabled pref mapping test data
+summary: Test data verifying that the AllowBackForwardCacheForCacheControlNoStorePageEnabled policy maps to its matching pref across all supported platforms.

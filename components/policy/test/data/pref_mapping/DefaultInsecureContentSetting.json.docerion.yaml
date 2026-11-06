@@ -1,0 +1,4 @@
+# Docerion header of DefaultInsecureContentSetting.json.
+type: test
+title: DefaultInsecureContentSetting policy pref mapping test data
+summary: Test data mapping the DefaultInsecureContentSetting policy to the insecure_content content setting pref across win, linux, mac, chromeos and fuchsia.

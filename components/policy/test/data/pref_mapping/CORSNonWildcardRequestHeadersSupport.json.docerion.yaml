@@ -1,0 +1,4 @@
+# Docerion header of CORSNonWildcardRequestHeadersSupport.json.
+type: test
+title: CORSNonWildcardRequestHeadersSupport pref mapping test data
+summary: Test fixture mapping the CORSNonWildcardRequestHeadersSupport policy to the cors_non_wildcard_request_headers_support pref with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of AlwaysOpenPdfExternally.json.
+type: test
+title: AlwaysOpenPdfExternally policy pref mapping test data
+summary: Test data checking that the AlwaysOpenPdfExternally policy maps to the plugins.always_open_pdf_externally preference.

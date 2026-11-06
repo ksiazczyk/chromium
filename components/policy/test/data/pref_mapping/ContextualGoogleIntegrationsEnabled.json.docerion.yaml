@@ -1,0 +1,4 @@
+# Docerion header of ContextualGoogleIntegrationsEnabled.json.
+type: test
+title: ContextualGoogleIntegrationsEnabled policy pref mapping test data
+summary: ChromeOS test cases verifying the ContextualGoogleIntegrationsEnabled policy maps to the ash.contextual_google_integrations_configuration pref for default, invalid, and boolean values.

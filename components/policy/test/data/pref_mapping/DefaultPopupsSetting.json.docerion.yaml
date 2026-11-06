@@ -1,0 +1,4 @@
+# Docerion header of DefaultPopupsSetting.json.
+type: test
+title: DefaultPopupsSetting pref mapping test data
+summary: Test data mapping the DefaultPopupsSetting policy to the popups content setting preference, with values to test on Windows, Linux, Mac, ChromeOS, Android and Fuchsia.

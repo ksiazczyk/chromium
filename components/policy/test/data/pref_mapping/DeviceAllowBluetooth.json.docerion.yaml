@@ -1,0 +1,4 @@
+# Docerion header of DeviceAllowBluetooth.json.
+type: test
+title: DeviceAllowBluetooth pref mapping placeholder
+summary: Placeholder test data explaining that no pref mapping test exists for DeviceAllowBluetooth because the policy maps into CrosSettings.

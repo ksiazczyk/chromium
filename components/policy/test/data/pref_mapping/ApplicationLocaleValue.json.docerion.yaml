@@ -1,0 +1,4 @@
+# Docerion header of ApplicationLocaleValue.json.
+type: test
+title: ApplicationLocaleValue pref mapping test data
+summary: Test data verifying that the ApplicationLocaleValue policy, which can be recommended, maps to the intl.app_locale local state pref on Windows.

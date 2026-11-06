@@ -1,0 +1,4 @@
+# Docerion header of AccessCodeCastDeviceDuration.json.
+type: test
+title: AccessCodeCastDeviceDuration policy pref mapping test data
+summary: Test data verifying the AccessCodeCastDeviceDuration policy maps to the media router access code cast device duration preference.

@@ -1,0 +1,4 @@
+# Docerion header of DataLeakPreventionClipboardCheckSizeLimit.json.
+type: test
+title: DataLeakPreventionClipboardCheckSizeLimit pref mapping test data
+summary: Test data verifying that the DataLeakPreventionClipboardCheckSizeLimit policy maps to the policy.dlp_clipboard_check_size_limit local state preference on ChromeOS.

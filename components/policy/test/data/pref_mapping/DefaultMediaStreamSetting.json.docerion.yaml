@@ -1,0 +1,4 @@
+# Docerion header of DefaultMediaStreamSetting.json.
+type: test
+title: DefaultMediaStreamSetting pref mapping test data
+summary: Test data mapping the DefaultMediaStreamSetting policy to the media stream content setting preference, with values to test on Windows, Linux, Mac and ChromeOS.

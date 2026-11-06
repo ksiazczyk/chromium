@@ -1,0 +1,4 @@
+# Docerion header of AdsSettingForIntrusiveAdsSites.json.
+type: test
+title: AdsSettingForIntrusiveAdsSites pref mapping test data
+summary: Test data verifying that the AdsSettingForIntrusiveAdsSites policy maps to the profile.managed_default_content_settings.ads pref across all supported platforms.

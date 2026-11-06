@@ -1,0 +1,4 @@
+# Docerion header of CaptivePortalAuthenticationIgnoresProxy.json.
+type: test
+title: CaptivePortalAuthenticationIgnoresProxy policy pref mapping test data
+summary: Test data checking the CaptivePortalAuthenticationIgnoresProxy policy maps to the proxy.captive_portal_ignores_proxy pref on ChromeOS.

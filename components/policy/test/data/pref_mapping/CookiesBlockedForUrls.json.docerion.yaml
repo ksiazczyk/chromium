@@ -1,0 +1,4 @@
+# Docerion header of CookiesBlockedForUrls.json.
+type: test
+title: CookiesBlockedForUrls pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CookiesBlockedForUrls policy to the profile.managed_cookies_blocked_for_urls pref on all supported platforms.

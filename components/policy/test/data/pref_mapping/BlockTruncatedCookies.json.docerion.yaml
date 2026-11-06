@@ -1,0 +1,4 @@
+# Docerion header of BlockTruncatedCookies.json.
+type: test
+title: BlockTruncatedCookies pref mapping placeholder
+summary: Placeholder test data noting that no pref mapping test exists for BlockTruncatedCookies because the policy was removed.

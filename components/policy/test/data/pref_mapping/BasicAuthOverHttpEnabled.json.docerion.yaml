@@ -1,0 +1,4 @@
+# Docerion header of BasicAuthOverHttpEnabled.json.
+type: test
+title: BasicAuthOverHttpEnabled pref mapping test data
+summary: Test data mapping the BasicAuthOverHttpEnabled policy to the auth.basic_over_http_enabled local state pref with true and false values across desktop platforms.

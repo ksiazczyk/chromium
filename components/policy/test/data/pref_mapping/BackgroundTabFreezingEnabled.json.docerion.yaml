@@ -1,0 +1,4 @@
+# Docerion header of BackgroundTabFreezingEnabled.json.
+type: test
+title: BackgroundTabFreezingEnabled pref mapping test data
+summary: Test data verifying that the BackgroundTabFreezingEnabled policy maps to the performance_tuning.tab_freezing.enabled pref in local state on desktop platforms.

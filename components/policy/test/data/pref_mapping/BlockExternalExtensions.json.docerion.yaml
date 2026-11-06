@@ -1,0 +1,4 @@
+# Docerion header of BlockExternalExtensions.json.
+type: test
+title: BlockExternalExtensions pref mapping test data
+summary: Test data mapping the BlockExternalExtensions policy to the extensions.block_external_extensions pref with true and false test values.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceBluetoothJustWorksPairingEnabled.json.
+type: test
+title: DeviceBluetoothJustWorksPairingEnabled pref mapping test data
+summary: Marks the DeviceBluetoothJustWorksPairingEnabled policy as lacking a pref mapping test because it maps into CrosSettings.

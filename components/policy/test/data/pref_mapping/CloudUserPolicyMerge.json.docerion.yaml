@@ -1,0 +1,4 @@
+# Docerion header of CloudUserPolicyMerge.json.
+type: test
+title: CloudUserPolicyMerge pref mapping test data
+summary: Test data noting that CloudUserPolicyMerge has no pref mapping test because the policy is read directly by the policy system.

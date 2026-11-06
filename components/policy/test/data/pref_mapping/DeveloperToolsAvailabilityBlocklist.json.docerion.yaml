@@ -1,0 +1,4 @@
+# Docerion header of DeveloperToolsAvailabilityBlocklist.json.
+type: test
+title: DeveloperToolsAvailabilityBlocklist pref mapping test data
+summary: Defines policy-to-pref mapping test cases for DeveloperToolsAvailabilityBlocklist, checking the devtools.availability_blocklist pref across all supported platforms.

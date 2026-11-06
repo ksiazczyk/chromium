@@ -1,0 +1,4 @@
+# Docerion header of CpuPerformanceTierOverride.json.
+type: test
+title: CpuPerformanceTierOverride pref mapping test data
+summary: Test data for the simple policy pref mapping test, mapping the CpuPerformanceTierOverride policy to the cpu_performance_tier_override pref with tier values 0 through 4.

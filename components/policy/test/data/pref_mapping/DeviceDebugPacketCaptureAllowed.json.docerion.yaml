@@ -1,0 +1,4 @@
+# Docerion header of DeviceDebugPacketCaptureAllowed.json.
+type: test
+title: DeviceDebugPacketCaptureAllowed pref mapping test data
+summary: Declares no pref mapping test for the DeviceDebugPacketCaptureAllowed policy because it is only read by the debugd system daemon.

@@ -1,0 +1,4 @@
+# Docerion header of CrostiniRootAccessAllowed.json.
+type: test
+title: CrostiniRootAccessAllowed pref mapping test data
+summary: Test data verifying that the CrostiniRootAccessAllowed policy maps to the crostini.user_root_access_allowed_by_policy preference on ChromeOS with true and false values.

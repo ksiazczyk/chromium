@@ -1,0 +1,4 @@
+# Docerion header of DeviceDataRoamingEnabled.json.
+type: test
+title: DeviceDataRoamingEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceDataRoamingEnabled policy because it maps into CrosSettings.

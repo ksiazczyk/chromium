@@ -1,0 +1,4 @@
+# Docerion header of AutoOpenAllowedForURLs.json.
+type: test
+title: AutoOpenAllowedForURLs pref mapping test data
+summary: Test data mapping the AutoOpenAllowedForURLs policy to the download.allowed_urls_for_open_by_policy pref.

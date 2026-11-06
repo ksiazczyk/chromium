@@ -1,0 +1,4 @@
+# Docerion header of DeviceAllowedBluetoothServices.json.
+type: test
+title: DeviceAllowedBluetoothServices pref mapping test data
+summary: Test data noting that no pref mapping test exists for this device policy because it maps into CrosSettings.

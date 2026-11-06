@@ -1,0 +1,4 @@
+# Docerion header of AuthServerAllowlist.json.
+type: test
+title: AuthServerAllowlist pref mapping test data
+summary: Test data mapping the AuthServerAllowlist policy to the auth.server_allowlist local state pref.

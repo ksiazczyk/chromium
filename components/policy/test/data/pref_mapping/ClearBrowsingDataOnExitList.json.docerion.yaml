@@ -1,0 +1,4 @@
+# Docerion header of ClearBrowsingDataOnExitList.json.
+type: test
+title: ClearBrowsingDataOnExitList policy pref mapping tests
+summary: Policy pref mapping test data for ClearBrowsingDataOnExitList, checking the browser.clear_data.clear_on_exit pref with and without SyncDisabled across platforms.

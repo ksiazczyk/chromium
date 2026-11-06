@@ -1,0 +1,4 @@
+# Docerion header of DataUrlInSvgUseEnabled.json.
+type: test
+title: DataUrlInSvgUseEnabled pref mapping test data
+summary: Test data verifying that the DataUrlInSvgUseEnabled policy maps to the profile.content_settings.data_url_in_svg_use_enabled preference across several platforms including Fuchsia.

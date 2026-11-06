@@ -1,0 +1,4 @@
+# Docerion header of DefaultJavaScriptJitSetting.json.
+type: test
+title: DefaultJavaScriptJitSetting policy pref mapping test data
+summary: Test data mapping the DefaultJavaScriptJitSetting policy to the javascript_jit content setting pref across win, linux, mac, chromeos, android and fuchsia.

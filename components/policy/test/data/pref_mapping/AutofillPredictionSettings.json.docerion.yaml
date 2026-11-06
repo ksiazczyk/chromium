@@ -1,0 +1,4 @@
+# Docerion header of AutofillPredictionSettings.json.
+type: test
+title: AutofillPredictionSettings policy pref mapping test data
+summary: Test data verifying that the AutofillPredictionSettings policy maps to the autofill prediction improvements enterprise policy preference, with a separate default for enterprise users.

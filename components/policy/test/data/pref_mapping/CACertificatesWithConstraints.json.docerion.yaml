@@ -1,0 +1,4 @@
+# Docerion header of CACertificatesWithConstraints.json.
+type: test
+title: CACertificatesWithConstraints pref mapping test data
+summary: Test fixture mapping the CACertificatesWithConstraints policy to the certificates.ca_certificates_with_constraints pref with one and multiple constrained certificates.

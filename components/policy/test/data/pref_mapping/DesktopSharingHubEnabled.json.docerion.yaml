@@ -1,0 +1,4 @@
+# Docerion header of DesktopSharingHubEnabled.json.
+type: test
+title: DesktopSharingHubEnabled policy pref mapping test data
+summary: Test data checking that the DesktopSharingHubEnabled policy maps to the sharing_hub.desktop_sharing_hub_enabled pref on Windows, Linux, Mac and Fuchsia.

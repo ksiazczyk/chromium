@@ -1,0 +1,4 @@
+# Docerion header of ChromeOsMultiProfileUserBehavior.json.
+type: test
+title: ChromeOsMultiProfileUserBehavior pref mapping test data
+summary: Test data mapping the ChromeOS multi-profile user behavior policy to the settings.multiprofile_user_behavior pref with values unrestricted, primary-only and not-allowed.

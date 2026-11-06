@@ -1,0 +1,4 @@
+# Docerion header of AutoSelectCertificateForUrls.json.
+type: test
+title: AutoSelectCertificateForUrls policy pref mapping test data
+summary: Test data verifying that the AutoSelectCertificateForUrls policy maps to the profile.managed_auto_select_certificate_for_urls preference with a certificate selector pattern.

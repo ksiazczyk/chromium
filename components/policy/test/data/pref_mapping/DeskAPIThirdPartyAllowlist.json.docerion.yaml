@@ -1,0 +1,4 @@
+# Docerion header of DeskAPIThirdPartyAllowlist.json.
+type: test
+title: DeskAPIThirdPartyAllowlist policy pref mapping test data
+summary: Test data checking that the DeskAPIThirdPartyAllowlist policy maps to the desk_api.third_party_allowlist pref with URL pattern values on ChromeOS.
