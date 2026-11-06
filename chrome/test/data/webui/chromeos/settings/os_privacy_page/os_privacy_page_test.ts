@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS privacy page WebUI tests
+// summary: WebUI tests for the ChromeOS settings privacy page, covering deep linking, peripheral data access, secure DNS and sync preferences.
+// ---
+
 import {PrivacyHubBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';
 import type {CrDialogElement, CrRadioGroupElement, OsSettingsPrivacyPageElement, SettingsToggleButtonElement, SyncBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {createRouterForTesting, GeolocationAccessLevel, PageStatus, PeripheralDataAccessBrowserProxyImpl, Router, routes, SecureDnsMode, settingMojom, SyncBrowserProxyImpl} from 'chrome://os-settings/os_settings.js';

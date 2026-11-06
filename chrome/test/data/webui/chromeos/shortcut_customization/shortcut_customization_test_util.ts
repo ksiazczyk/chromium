@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator info test utilities
+// summary: Provides factory functions to create standard, text, user, custom, and aliased accelerator info objects for use in tests.
+// ---
+
 import type {Accelerator, StandardAcceleratorInfo, TextAcceleratorInfo, TextAcceleratorPart} from 'chrome://shortcut-customization/js/shortcut_types.js';
 import {AcceleratorKeyState, AcceleratorState, AcceleratorType} from 'chrome://shortcut-customization/js/shortcut_types.js';
 

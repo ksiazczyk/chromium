@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App composebox basic mode tests
+// summary: WebUI tests for the contextual tasks app in composebox basic mode, covering z-order toggling and onboarding tooltip behavior.
+// ---
+
 import 'chrome://contextual-tasks/app.js';
 import type {ContextualTasksOnboardingTooltipElement} from 'chrome://contextual-tasks/onboarding_tooltip.js';
 

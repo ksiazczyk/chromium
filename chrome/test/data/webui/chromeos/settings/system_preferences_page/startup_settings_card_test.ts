@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup settings card WebUI tests
+// summary: Tests the startup settings card, verifying the on-startup dropdown updates the restore apps and pages pref and that the setting is deep-linkable.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsDropdownMenuElement, StartupSettingsCardElement} from 'chrome://os-settings/os_settings.js';

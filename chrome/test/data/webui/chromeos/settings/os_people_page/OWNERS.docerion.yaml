@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for os_people_page test directory
+summary: Sets per-file code owners, routing the login lock owners for the test API and Mojom files in this directory.

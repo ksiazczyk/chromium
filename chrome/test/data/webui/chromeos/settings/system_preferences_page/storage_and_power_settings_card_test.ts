@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage and power settings card WebUI tests
+// summary: Tests the storage and power settings card, covering row visibility including demo sessions and focus handling when returning from subpages.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsRoutes, StorageAndPowerSettingsCardElement} from 'chrome://os-settings/os_settings.js';

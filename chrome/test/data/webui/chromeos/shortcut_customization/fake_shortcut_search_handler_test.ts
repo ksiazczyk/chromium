@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeShortcutSearchHandler unit tests
+// summary: Verifies the fake shortcut search handler returns empty and configured fake search results for search queries.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {fakeSearchResults} from 'chrome://shortcut-customization/js/fake_data.js';

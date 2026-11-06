@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post message handler WebUI tests
+// summary: WebUI tests for the post message handler, verifying origin validation, the handshake flow, and handling of webview load events and input plate bounds messages.
+// ---
+
 import {BrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';
 import {PostMessageHandler} from 'chrome://contextual-tasks/post_message_handler.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

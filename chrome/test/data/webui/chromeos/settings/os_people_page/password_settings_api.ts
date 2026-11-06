@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password settings test API
+// summary: Test API for the settings-password-settings element that opens the local password dialog, enters passwords and asserts validation and submit behavior.
+// ---
+
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {isVisible} from 'chrome://webui-test/test_util.js';
 

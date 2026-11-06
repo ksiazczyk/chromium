@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Office page WebUI tests
+// summary: WebUI tests verifying that the office files page toggles reflect and update the always-move-to-Drive and always-move-to-OneDrive preferences.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsOfficePageElement} from 'chrome://os-settings/lazy_load.js';

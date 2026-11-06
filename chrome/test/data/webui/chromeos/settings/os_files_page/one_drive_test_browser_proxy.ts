@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneDrive test browser proxy
+// summary: Fake OneDriveBrowserProxy that mocks mojo responses for email lookup, connect, disconnect and open-folder calls in tests.
+// ---
+
 import type {OneDriveBrowserProxy, OneDrivePageRemote} from 'chrome://os-settings/os_settings.js';
 import {OneDrivePageCallbackRouter, OneDrivePageHandlerRemote} from 'chrome://os-settings/os_settings.js';
 import {TestMock} from 'chrome://webui-test/test_mock.js';

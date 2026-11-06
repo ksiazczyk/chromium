@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox zero state tests
+// summary: WebUI tests for the contextual tasks composebox zero state, covering tools, secondary inputs such as voice and drag-and-drop, and suggestion container rendering.
+// ---
+
 // For composebox tests related to tools, secondary inputs (voice, drag/drop).
 import 'chrome://contextual-tasks/app.js';
 

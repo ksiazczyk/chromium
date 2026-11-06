@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar app WebUI tests
+// summary: WebUI tests for the contextual tasks toolbar app, checking element instantiation, thread title propagation, and AI page status updates.
+// ---
+
 import 'chrome://contextual-tasks/toolbar_app.js';
 
 import {BrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

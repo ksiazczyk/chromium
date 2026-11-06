@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut utils unit tests
+// summary: Unit tests for shortcut customization utility functions covering accelerator IDs, modifier sorting, accelerator comparison, and customization permission checks.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

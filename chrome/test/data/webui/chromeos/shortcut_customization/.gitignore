@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: .gitignore
+# summary: Ignores the generated tsconfig.json produced by the personalization app gen_tsconfig tooling.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top toolbar WebUI tests
+// summary: WebUI tests for the top toolbar, covering context updates, expand button visibility, favicon groups, and toolbar layout behaviors.
+// ---
+
 import 'chrome://contextual-tasks/top_toolbar.js';
 import 'chrome://contextual-tasks/sources_menu.js';
 

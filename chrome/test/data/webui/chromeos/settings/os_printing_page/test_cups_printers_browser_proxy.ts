@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: test_cups_printers_browser_proxy.ts
+// summary: Test double for the CupsPrintersBrowserProxy that records method calls and returns configurable printer, manufacturer, model, and status results for printer page tests.
+// ---
+
 import type {CupsPrinterInfo, CupsPrintersBrowserProxy, CupsPrintersList, ManufacturersInfo, ModelsInfo, PrinterMakeModel, PrinterPpdMakeModel, PrinterStatus, PrinterStatusReason, PrinterStatusSeverity} from 'chrome://os-settings/lazy_load.js';
 import {PrinterSetupResult, PrintServerResult} from 'chrome://os-settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

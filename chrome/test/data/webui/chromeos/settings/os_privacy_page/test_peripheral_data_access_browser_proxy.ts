@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test peripheral data access browser proxy
+// summary: Test double implementing the peripheral data access browser proxy, faking Thunderbolt support and data access policy state.
+// ---
+
 import type {DataAccessPolicyState, PeripheralDataAccessBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

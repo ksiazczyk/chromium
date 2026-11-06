@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator view tests
+// summary: WebUI test suite for the accelerator view element, covering view and edit states and pending key input handling.
+// ---
+
 import 'chrome://shortcut-customization/js/accelerator_view.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator row tests
+// summary: WebUI test suite for the accelerator row element, checking rendered accelerator views, descriptions, and key displays across layout styles.
+// ---
+
 import 'chrome://shortcut-customization/js/accelerator_row.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

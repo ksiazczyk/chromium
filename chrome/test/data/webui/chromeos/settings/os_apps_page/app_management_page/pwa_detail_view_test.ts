@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management PWA detail view tests
+// summary: WebUI test suite for the app-management-pwa-detail-view element, covering rendering, permission toggles and sub-app handling for PWAs.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementPinToShelfItemElement, AppManagementPwaDetailViewElement, AppManagementSubAppsItemElement} from 'chrome://os-settings/lazy_load.js';

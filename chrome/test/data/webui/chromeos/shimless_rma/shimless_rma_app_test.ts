@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shimless RMA app tests
+// summary: WebUI tests for the main Shimless RMA app, covering state navigation, next and back buttons, exit confirmation and log saving dialogs.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

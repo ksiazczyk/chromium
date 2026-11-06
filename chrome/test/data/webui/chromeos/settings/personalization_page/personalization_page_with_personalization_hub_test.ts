@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization page WebUI tests with personalization hub enabled
+// summary: WebUI test suite verifying that the settings personalization page shows only a link to the personalization hub and opens the hub when it is clicked.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsPersonalizationPageElement} from 'chrome://os-settings/os_settings.js';

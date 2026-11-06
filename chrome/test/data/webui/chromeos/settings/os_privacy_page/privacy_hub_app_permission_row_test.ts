@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub app permission row tests
+// summary: WebUI tests for the privacy hub app permission row element, checking app name, permission text and toggle behavior for tri-state permissions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {appPermissionHandlerMojom, CrIconButtonElement, CrToggleElement, SettingsPrivacyHubAppPermissionRow} from 'chrome://os-settings/os_settings.js';

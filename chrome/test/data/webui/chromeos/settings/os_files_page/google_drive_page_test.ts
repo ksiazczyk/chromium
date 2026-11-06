@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Drive subpage WebUI tests
+// summary: WebUI tests for the Google Drive settings subpage, using a mocked browser proxy to verify bulk pinning, offline storage and confirmation dialog behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsGoogleDriveSubpageElement} from 'chrome://os-settings/lazy_load.js';

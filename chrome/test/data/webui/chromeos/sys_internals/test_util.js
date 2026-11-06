@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for sys_internals tests
+// summary: Provides assertCloseTo, memory unit constants and sample sysinfo test data for the suites.
+// ---
+
 
 export function assertCloseTo(value, equ, delta, optMessage) {
   chai.assert.closeTo(value, equ, delta, optMessage);

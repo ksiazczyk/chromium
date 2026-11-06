@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app parental controls handler
+// summary: Test fake implementing the app parental controls handler Mojom interface for use in WebUI tests.
+// ---
+
 import {appParentalControlsHandlerMojom} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

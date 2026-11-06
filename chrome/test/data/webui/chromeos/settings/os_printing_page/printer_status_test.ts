@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: printer_status_test.ts
+// summary: Unit tests for printer status helpers, verifying status reason selection by severity and the mapping of status reasons to printer states.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {computePrinterState, getStatusReasonFromPrinterStatus, PrinterState, PrinterStatusReason, PrinterStatusSeverity} from 'chrome://os-settings/lazy_load.js';

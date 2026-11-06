@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management store reducer tests
+// summary: Unit tests for the app management state reducers, checking app addition, change and removal plus selected app id updates and resets.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {AppManagementPageState} from 'chrome://os-settings/os_settings.js';

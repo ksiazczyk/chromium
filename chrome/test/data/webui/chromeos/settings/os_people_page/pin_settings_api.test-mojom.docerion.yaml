@@ -1,0 +1,4 @@
+# Docerion header of pin_settings_api.test-mojom.
+type: test
+title: PIN settings test API Mojom interface
+summary: Mojom interface declaring the test API operations for the PIN settings element, such as setting, removing and validating PINs and autosubmit.

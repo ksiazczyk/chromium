@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account manager settings card tests
+// summary: WebUI tests verifying the account manager settings card shows the managed badge, device account name and email for managed and unmanaged accounts.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {Account} from 'chrome://os-settings/lazy_load.js';

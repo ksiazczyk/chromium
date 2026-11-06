@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose focus interactive UI test
+// summary: C++ interactive UI test that runs the Compose app focus test suite under the chrome-untrusted compose host.
+// ---
+
 #include "chrome/browser/compose/compose_enabling.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

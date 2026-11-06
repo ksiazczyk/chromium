@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context library tests
+// summary: Tests for the context library element, verifying favicon tab rendering, the overflow badge for more than three tabs, and resize requests forwarded to the embedder.
+// ---
+
 import 'chrome://contextual-tasks/contextual_tasks_extension/context_library.js';
 
 import {ExtensionBrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

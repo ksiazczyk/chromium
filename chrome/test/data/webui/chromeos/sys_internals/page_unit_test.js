@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit helper function tests
+// summary: Tests counter diffs, per-second rates, percentage strings and byte-unit formatting helpers.
+// ---
+
 import {getDiffAndUpdateCounter, getDiffPerSecAndUpdateCounter, getValueWithUnit, toPercentageString} from 'chrome://sys-internals/index.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

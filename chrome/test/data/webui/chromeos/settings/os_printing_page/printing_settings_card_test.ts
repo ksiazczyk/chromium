@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: printing_settings_card_test.ts
+// summary: WebUI tests for the printing settings card, verifying focus restoration after navigating to the printers subpage and deep linking to the scanning app setting.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {PrintingSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for managed-footnote. */
 
+// ---docerion
+// type: test
+// title: Managed footnote element tests
+// summary: WebUI test suite verifying that the managed-footnote element in ChromeOS settings shows or hides based on management state and displays browser and device messages from loadTimeData.
+// ---
+
 // clang-format off
 import 'chrome://os-settings/os_settings.js';
 

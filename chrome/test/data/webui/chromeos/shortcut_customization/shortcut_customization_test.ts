@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut customization app tests
+// summary: Tests the shortcut customization app element end to end, covering accelerator editing, dialogs, and user accelerator management with fake providers.
+// ---
+
 import 'chrome://shortcut-customization/js/shortcut_customization_app.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding network page tests
+// summary: WebUI test suite for the Shimless RMA onboarding network page, covering network list population, the network configuration dialog, and connect behavior.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

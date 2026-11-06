@@ -7,6 +7,12 @@
  * Browser tests for the System preferences page.
  */
 
+// ---docerion
+// type: test
+// title: System preferences page WebUI tests
+// summary: Browser tests for the ChromeOS Settings system preferences page, checking visibility of settings cards and subpages such as date and time and files.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsRoutes, Route, SettingsSystemPreferencesPageElement} from 'chrome://os-settings/os_settings.js';

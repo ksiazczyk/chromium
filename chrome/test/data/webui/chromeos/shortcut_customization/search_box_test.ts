@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Search box element tests
+// summary: Tests the shortcut search box element, covering the search field, dropdown, results list, and integration with the fake search handler.
+// ---
+
 import 'chrome://shortcut-customization/js/search/search_box.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrollbar tests for position and range handling
+// summary: Tests the line chart Scrollbar component, covering resizing, setting the range, positioning, and detection of the scrolled-to-right-edge state.
+// ---
+
 import {Scrollbar} from 'chrome://sys-internals/line_chart/scrollbar.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

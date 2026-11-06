@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cups_print_server_test.ts
+// summary: WebUI tests for the add print server dialog in Chrome OS settings, covering opening the dialog, entering a server address, and handling query results and errors.
+// ---
+
 import type {AddPrintServerDialogElement, CupsPrinterInfo, PrinterDialogErrorElement, PrinterListEntry, SettingsCupsAddPrinterDialogElement, SettingsCupsPrintersElement} from 'chrome://os-settings/lazy_load.js';
 import {CupsPrintersBrowserProxyImpl, CupsPrintersEntryManager, PrinterType, PrintServerResult} from 'chrome://os-settings/lazy_load.js';
 import type {CrInputElement, CrToastElement} from 'chrome://os-settings/os_settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization options tests
+// summary: WebUI test suite for the personalization options element, verifying for example that the metrics reporting toggle is not shown.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsPersonalizationOptionsElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device detail subpage tests
+// summary: WebUI tests for the Bluetooth device detail subpage, covering connect, disconnect, forget, navigation, battery info and device settings links.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsSubpageElement, SettingsBluetoothDeviceDetailSubpageElement, SettingsBluetoothTrueWirelessImagesElement} from 'chrome://os-settings/lazy_load.js';

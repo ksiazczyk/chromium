@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual tasks WebUI tests build definition
+summary: GN build file that defines the WebUI test targets, TypeScript path mappings, and dependencies for the contextual tasks test suite.

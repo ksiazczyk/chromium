@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VC Background UI browser test
+// summary: Browser test that enables the video conference feature, sets the variations country, and runs the VC Background UI WebUI Mocha test suite.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

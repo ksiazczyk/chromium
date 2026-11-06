@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox file handling tests
+// summary: Tests file upload, carousel, and removal behavior in the contextual tasks composebox.
+// ---
+
 import 'chrome://contextual-tasks/app.js';
 
 import type {ContextualTasksAppElement} from 'chrome://contextual-tasks/app.js';

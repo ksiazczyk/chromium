@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Result text tests
+// summary: Tests the compose-result-text element's streaming and non-streaming display of partial and final compose results.
+// ---
+
 import 'chrome-untrusted://compose/result_text.js';
 
 import type {ComposeResultTextElement} from 'chrome-untrusted://compose/result_text.js';

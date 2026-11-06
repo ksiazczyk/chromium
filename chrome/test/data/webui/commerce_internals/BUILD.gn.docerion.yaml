@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the commerce internals WebUI tests
+summary: Defines the GN build target that bundles the C++ browser test and the TypeScript test files for the commerce internals WebUI tests.

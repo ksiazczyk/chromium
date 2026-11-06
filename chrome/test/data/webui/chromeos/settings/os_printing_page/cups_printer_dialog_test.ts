@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cups_printer_dialog_test.ts
+// summary: WebUI tests for the add and edit printer dialogs, verifying manual printer setup, manufacturer and model selection, EULA URL handling, and dialog button behavior.
+// ---
+
 import type {AddPrinterManuallyDialogElement, AddPrinterManufacturerModelDialogElement, SettingsCupsAddPrinterDialogElement, SettingsCupsEditPrinterDialogElement, SettingsCupsPrintersElement} from 'chrome://os-settings/lazy_load.js';
 import {CupsPrintersBrowserProxyImpl, PrinterSetupResult} from 'chrome://os-settings/lazy_load.js';
 import type {CrInputElement, CrSearchableDropDownElement} from 'chrome://os-settings/os_settings.js';

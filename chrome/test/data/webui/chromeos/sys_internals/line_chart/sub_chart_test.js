@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubChart tests for layout and max value caching
+// summary: Tests the SubChart component, verifying data series management, render state, layout updates and caching of the maximum value used by the unit label.
+// ---
+
 import {UnitLabelAlign} from 'chrome://sys-internals/line_chart/constants.js';
 import {DataSeries} from 'chrome://sys-internals/line_chart/data_series.js';
 import {SubChart} from 'chrome://sys-internals/line_chart/sub_chart.js';

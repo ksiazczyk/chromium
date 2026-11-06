@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for sys_internals WebUI tests
+summary: Defines the GN build target that bundles the sys_internals WebUI test files and their TypeScript dependencies.

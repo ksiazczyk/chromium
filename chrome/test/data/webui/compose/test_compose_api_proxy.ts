@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test compose API proxy
+// summary: Provides a mock ComposeApiProxy test double that records method calls and simulates responses for the Compose WebUI tests.
+// ---
+
 import type {CloseReason, ComposeState, InputMode, OpenMetadata} from 'chrome-untrusted://compose/compose.mojom-webui.js';
 import {ComposeUntrustedDialogCallbackRouter, StyleModifier, UserFeedback} from 'chrome-untrusted://compose/compose.mojom-webui.js';
 import type {ComposeApiProxy} from 'chrome-untrusted://compose/compose_api_proxy.js';

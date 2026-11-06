@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Contextual tasks iframe test page
+summary: Minimal HTML fixture page used as a test target for the contextual tasks iframe.

@@ -7,6 +7,12 @@
  * Exports common helpers for page availability browser tests.
  */
 
+// ---docerion
+// type: test
+// title: Page availability test helpers
+// summary: Shared helpers exporting section names and guest availability expectations used by the page availability browser tests.
+// ---
+
 import type {routesMojom} from 'chrome://os-settings/os_settings.js';
 
 export type SectionName = keyof typeof routesMojom.Section;

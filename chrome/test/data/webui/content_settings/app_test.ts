@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings app element tests
+// summary: WebUI test suite verifying alphabetical tab sorting and routing behavior of the content settings app element.
+// ---
+
 import 'chrome://content-settings/app.js';
 import 'chrome://content-settings/expandable_json_viewer.js';
 import 'chrome://content-settings/mojo_timestamp.js';

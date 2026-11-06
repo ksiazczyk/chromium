@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding choose destination page tests
+// summary: Tests radio button selection for original owner, new owner, and not sure destinations and the service calls made during onboarding.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrRadioButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

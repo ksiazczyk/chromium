@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App details item tests
+// summary: WebUI tests for the app details item, covering heading roles and the display of app type, install source, and publisher info for various app kinds.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementAppDetailsItem} from 'chrome://os-settings/lazy_load.js';

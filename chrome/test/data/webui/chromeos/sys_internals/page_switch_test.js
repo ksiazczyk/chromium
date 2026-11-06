@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page switching tests
+// summary: Tests navigation between info, CPU, memory and zram pages via the drawer and hash changes.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import {$} from 'chrome://resources/js/util.js';
 import {PAGE_HASH} from 'chrome://sys-internals/constants.js';

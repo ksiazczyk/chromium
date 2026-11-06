@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shimless RMA WebUI tests build configuration
+summary: Defines the build_webui_tests target listing the TypeScript test files, path mappings, and dependencies for the Shimless RMA WebUI tests.

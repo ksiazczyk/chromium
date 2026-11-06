@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation settings card tests
+// summary: WebUI tests verifying the Graduation settings card launches the Graduation app and that search deep links focus its row.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {GraduationSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

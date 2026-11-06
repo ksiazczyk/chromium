@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app detail view tests
+// summary: WebUI tests for the Chrome app detail view, verifying the selected app renders with the pin to shelf item and more settings link.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementChromeAppDetailViewElement} from 'chrome://os-settings/lazy_load.js';

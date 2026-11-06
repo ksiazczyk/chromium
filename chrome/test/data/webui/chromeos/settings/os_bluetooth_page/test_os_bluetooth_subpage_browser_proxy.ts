@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for the Bluetooth devices subpage
+// summary: Mock OsBluetoothDevicesSubpageBrowserProxy that simulates Fast Pair saved devices, opt-in, battery saver and hardware offloading statuses for WebUI tests.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {FastPairSavedDevice, OsBluetoothDevicesSubpageBrowserProxy} from 'chrome://os-settings/os_settings.js';

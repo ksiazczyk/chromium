@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for vc_background_ui WebUI tests
+summary: Defines the GN target that builds and runs the vc_background_ui WebUI tests, wiring the C++ browser test and TypeScript test file with their TypeScript dependencies.

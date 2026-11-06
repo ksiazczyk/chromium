@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Settings UI menu tests
+// summary: WebUI tests for the os-settings-ui navigation menu and drawer, covering drawer open and close behavior, closing on narrow mode exit, and clearing the search URL parameter when navigating via the menu.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

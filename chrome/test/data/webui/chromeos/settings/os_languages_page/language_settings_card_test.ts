@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language settings card tests
+// summary: WebUI test suite for the language settings card, checking row visibility and focus restoration when navigating to and from subpages.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {LanguageSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

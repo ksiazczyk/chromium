@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management permission item tests
+// summary: WebUI test suite for the app-management-permission-item element, covering camera, microphone and location permission toggles, prefs and metrics reporting.
+// ---
+
 /** @fileoverview Test suite for app-manageemnt-permission-item. */
 import 'chrome://os-settings/lazy_load.js';
 

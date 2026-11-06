@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint list subpage tests
+// summary: WebUI tests for the fingerprint list subpage and setup dialog, covering the fingerprint enrollment workflow and list interactions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsFingerprintListSubpageElement, SettingsSetupFingerprintDialogElement} from 'chrome://os-settings/lazy_load.js';

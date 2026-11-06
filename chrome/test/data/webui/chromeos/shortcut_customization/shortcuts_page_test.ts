@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Shortcuts page unit tests
+// summary: WebUI tests for the shortcuts page element verifying accelerator rendering across categories and subcategories and scroll visibility behavior.
+// ---
+
 import 'chrome://shortcut-customization/js/shortcuts_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

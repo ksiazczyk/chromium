@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add user dialog tests
+// summary: WebUI tests for the add user dialog covering valid and invalid usernames, duplicate user handling and adding new users.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsUsersAddUserDialogElement} from 'chrome://os-settings/lazy_load.js';

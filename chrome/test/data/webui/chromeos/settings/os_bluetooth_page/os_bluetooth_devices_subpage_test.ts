@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth devices subpage tests
+// summary: WebUI tests for the Bluetooth devices subpage, covering Bluetooth state handling, Fast Pair preferences and device list behavior with fake proxies.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsBluetoothDevicesSubpageElement, SettingsPairedBluetoothListElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App languages page WebUI tests
+// summary: WebUI test suite for the OS Settings app languages page, verifying app language selection and description text for ARC apps with supported locales.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsAppLanguagesPageElement} from 'chrome://os-settings/lazy_load.js';

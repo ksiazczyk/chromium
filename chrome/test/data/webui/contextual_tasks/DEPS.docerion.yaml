@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual tasks test include rules
+summary: Defines the allowed include rules for dependencies used by the contextual tasks WebUI tests.

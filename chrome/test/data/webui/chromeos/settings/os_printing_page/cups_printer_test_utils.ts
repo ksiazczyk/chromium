@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: cups_printer_test_utils.ts
+// summary: Shared test helpers that create CupsPrinterInfo and PrinterListEntry objects and extract visible printer entries from a printers element for use in printer tests.
+// ---
+
 import type {CupsPrinterInfo, PrinterListEntry, SettingsCupsPrintersEntryElement} from 'chrome://os-settings/lazy_load.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 

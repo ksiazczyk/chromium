@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clip path utility tests
+// summary: WebUI test suite verifying getNonOccludedClipPath, covering null and empty composebox bounds, occluder clipping of top and bottom edges, full coverage, and out-of-bounds occluders.
+// ---
+
 import {getNonOccludedClipPath} from 'chrome://contextual-tasks/utils/clip_path.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

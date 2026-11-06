@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content settings WebUI tests
+summary: Delegates ownership and review of this test directory to the components/content_settings OWNERS file.

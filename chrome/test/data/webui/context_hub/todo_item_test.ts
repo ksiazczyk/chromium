@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Todo item element WebUI tests
+// summary: TypeScript mocha suite testing the todo item element, including opening web source references in a tab group and dropdown menu behavior with mocked proxies.
+// ---
+
 import 'chrome://context-hub/taskbox/todo_item.js';
 
 import {browserProxyFactory, PageHandlerRemote} from 'chrome://context-hub/context_hub.mojom-webui.js';

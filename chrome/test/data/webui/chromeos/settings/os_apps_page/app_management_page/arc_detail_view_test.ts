@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC detail view tests
+// summary: WebUI tests for the ARC app detail view, verifying rendering and toggling of camera, microphone, location, and other permissions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementArcDetailViewElement} from 'chrome://os-settings/lazy_load.js';

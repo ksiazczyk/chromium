@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut search handler tests
+// summary: Tests getting and setting the shortcut search handler, including the default handler and the testing override.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {FakeShortcutSearchHandler} from 'chrome://shortcut-customization/js/search/fake_shortcut_search_handler.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation handler test double
+// summary: Test browser proxy implementing the graduation handler Mojom interface, recording launch calls and exposing the registered observer.
+// ---
+
 import type {graduationHandlerMojom} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

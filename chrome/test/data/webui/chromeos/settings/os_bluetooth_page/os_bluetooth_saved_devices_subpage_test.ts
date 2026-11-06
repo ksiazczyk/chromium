@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth saved devices subpage tests
+// summary: WebUI tests for the Fast Pair saved devices subpage, covering list display, empty and error labels and device removal dialog behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsBluetoothSavedDevicesSubpageElement} from 'chrome://os-settings/lazy_load.js';

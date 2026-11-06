@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Context hub test OWNERS file
+summary: Points to the OWNERS file of chrome/browser/resources/context_hub so changes to these tests are reviewed by the same owners.

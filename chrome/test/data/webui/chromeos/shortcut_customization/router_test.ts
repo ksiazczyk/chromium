@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Router unit tests
+// summary: Tests router navigation with query parameters, route resetting, and route observer notification and removal behavior.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import type {RouteObserver} from 'chrome://shortcut-customization/js/router.js';

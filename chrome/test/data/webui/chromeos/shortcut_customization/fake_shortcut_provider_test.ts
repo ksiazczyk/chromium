@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeShortcutProvider unit tests
+// summary: Tests the FakeShortcutProvider's accelerator config and layout info retrieval plus observer notifications for accelerator and policy updates.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {fakeAcceleratorConfig, fakeLayoutInfo} from 'chrome://shortcut-customization/js/fake_data.js';

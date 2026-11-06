@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks app tests
+// summary: WebUI tests for the contextual tasks app element covering thread URLs, metrics, and composebox integration.
+// ---
+
 import 'chrome://contextual-tasks/app.js';
 
 import {BrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

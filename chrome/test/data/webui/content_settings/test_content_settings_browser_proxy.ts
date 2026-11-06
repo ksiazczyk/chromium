@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test content settings page handler mock
+// summary: Mock page handler implementing PageHandlerInterface to back the content settings WebUI tests with canned responses.
+// ---
+
 import type {ContentSettingsPattern} from 'chrome://content-settings/content_settings.mojom-webui.js';
 import type {PageHandlerInterface} from 'chrome://content-settings/content_settings_internals.mojom-webui.js';
 import type {ContentSettingsType} from 'chrome://content-settings/content_settings_types.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth summary tests
+// summary: WebUI tests for the Bluetooth summary element, covering enabling and disabling Bluetooth via the toggle and HID-preserving state controller behavior.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';
 

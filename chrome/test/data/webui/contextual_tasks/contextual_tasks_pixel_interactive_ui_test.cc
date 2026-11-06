@@ -27,6 +27,12 @@
 // follow the pattern `ContextualTasks*PixelTest*`. If not, the test needs to
 // manually be added to `testing/buildbot/filters/pixel_tests.filter`.
 
+// ---docerion
+// type: test
+// title: Contextual tasks pixel interactive UI tests
+// summary: C++ interactive UI test base for contextual tasks pixel tests that capture screenshots on Windows to verify subtle visual appearance via Skia Gold.
+// ---
+
 #include "base/no_destructor.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/run_until.h"

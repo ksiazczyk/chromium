@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unbounded menu WebUI tests
+// summary: Tests the sources menu and unbounded dialog behavior in the contextual tasks top toolbar, including show/hide callbacks and tab item selection.
+// ---
+
 import 'chrome://contextual-tasks/top_toolbar.js';
 import 'chrome://contextual-tasks/sources_menu.js';
 import 'chrome://contextual-tasks/overflow_menu.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App notification row element tests
+// summary: Verifies the app-notification-row element in ChromeOS settings, covering managed policy display, toggle state, and notification permission updates.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppNotificationRowElement} from 'chrome://os-settings/lazy_load.js';

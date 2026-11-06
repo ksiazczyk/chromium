@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management supported links item tests
+// summary: WebUI test suite for the app-management-supported-links-item element, covering preferred app and browser link handling for PWAs and ARC apps.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementSupportedLinksOverlappingAppsDialogElement} from 'chrome://os-settings/lazy_load.js';

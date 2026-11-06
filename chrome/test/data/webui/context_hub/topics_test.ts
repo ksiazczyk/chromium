@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Topics view WebUI tests
+// summary: TypeScript mocha suite testing the topics view, carousel, and details elements, covering topic feedback, export and sites dialogs, and topic utility helpers with mocked handlers.
+// ---
+
 import 'chrome://context-hub/topics/topic_collection_carousel.js';
 import 'chrome://context-hub/topics/topic_details.js';
 import 'chrome://context-hub/topics/topics_view.js';

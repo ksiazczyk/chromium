@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build target that compiles the shortcut customization WebUI test suites together with their TypeScript dependencies.

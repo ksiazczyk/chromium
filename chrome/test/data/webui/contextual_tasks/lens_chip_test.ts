@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens chip tests
+// summary: Tests for the Lens region chip app element, verifying preview rendering from crop results, close button behavior, and handling of null preview results.
+// ---
+
 import 'chrome://contextual-tasks/contextual_tasks_extension/lens_chip_app.js';
 import 'chrome://contextual-tasks/strings.m.js';
 

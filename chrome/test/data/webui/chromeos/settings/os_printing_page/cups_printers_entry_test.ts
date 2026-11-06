@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cups_printers_entry_test.ts
+// summary: WebUI tests for the settings-cups-printers-entry element, covering printer entry initialization, three-dot menu visibility, and button disabling during saving or policy restrictions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {PrinterListEntry, SettingsCupsPrintersEntryElement} from 'chrome://os-settings/lazy_load.js';

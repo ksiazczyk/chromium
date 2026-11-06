@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings main element tests
+// summary: WebUI test suite for the os-settings-main element, checking that the managed header is shown on the main page and hidden when a subpage is displayed.
+// ---
+
 import type {OsSettingsMainElement, SettingsPrefsElement} from 'chrome://os-settings/os_settings.js';
 import {createPageAvailabilityForTesting, CrSettingsPrefs, Router, routes, setContactManagerForTesting, setNearbyShareSettingsForTesting} from 'chrome://os-settings/os_settings.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

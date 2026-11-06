@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Borealis detail view tests
+// summary: WebUI tests for the Borealis app detail view, checking rendering and permission toggles such as microphone and pin to shelf.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementBorealisDetailViewElement, AppManagementPinToShelfItemElement} from 'chrome://os-settings/lazy_load.js';

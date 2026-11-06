@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Settings UI toolbar tests
+// summary: WebUI tests for the settings toolbar, checking that the menu icon shows only in narrow mode and that the toolbar is hidden in kiosk mode.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitasking settings card WebUI tests
+// summary: Tests the multitasking settings card, covering the snap window suggestions toggle pref updates, pref reflection, and deep-linking in ChromeOS Settings.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {MultitaskingSettingsCardElement, SettingsToggleButtonElement} from 'chrome://os-settings/os_settings.js';

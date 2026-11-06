@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test profile info browser proxy mock
+// summary: Test double implementing ProfileInfoBrowserProxy that returns fake profile name and icon data and records profile info calls for WebUI tests.
+// ---
+
 import type {ProfileInfo, ProfileInfoBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

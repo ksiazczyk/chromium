@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paired Bluetooth list item tests
+// summary: WebUI tests for the paired Bluetooth list item, covering device name, connection state, battery info, device type icons and accessibility labels.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPairedBluetoothListItemElement} from 'chrome://os-settings/lazy_load.js';

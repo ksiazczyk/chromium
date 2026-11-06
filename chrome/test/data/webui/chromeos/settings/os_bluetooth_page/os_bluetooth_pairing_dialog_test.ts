@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing dialog tests
+// summary: WebUI tests for the Bluetooth pairing dialog, verifying that closing the pairing UI fires the finished event.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsBluetoothPairingDialogElement} from 'chrome://os-settings/os_settings.js';

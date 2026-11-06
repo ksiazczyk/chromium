@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App setup PIN dialog tests
+// summary: WebUI tests for the parental controls PIN setup dialog, checking PIN length and digit validation errors.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppSetupPinDialogElement, AppSetupPinKeyboardElement} from 'chrome://os-settings/lazy_load.js';
