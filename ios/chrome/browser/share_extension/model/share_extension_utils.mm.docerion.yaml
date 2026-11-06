@@ -1,0 +1,4 @@
+# Docerion header of share_extension_utils.mm.
+type: source
+title: Share extension utility functions implementation
+summary: Implements blocking file helpers that create the share extension directory, enumerate its files, and securely unarchive entries into ParsedShareExtensionEntry objects.

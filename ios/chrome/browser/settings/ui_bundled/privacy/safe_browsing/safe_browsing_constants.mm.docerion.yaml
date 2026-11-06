@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_constants.mm.
+type: source
+title: Safe Browsing accessibility identifier constants implementation
+summary: Defines the NSString values for the Safe Browsing protection table view and cell accessibility identifiers declared in the header.

@@ -1,0 +1,4 @@
+# Docerion header of share_kit_service_factory_unittest.mm.
+type: test
+title: ShareKitServiceFactory unit tests
+summary: Verifies the factory returns a ShareKitService for regular profiles and none for incognito profiles.

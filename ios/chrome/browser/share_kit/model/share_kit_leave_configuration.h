@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit leave configuration header
+// summary: Declares ShareKitLeaveConfiguration, which carries the collab ID and completion callback for leaving a shared group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_LEAVE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_LEAVE_CONFIGURATION_H_
 

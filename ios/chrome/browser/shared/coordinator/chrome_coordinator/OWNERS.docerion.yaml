@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome_coordinator
+summary: Lists the code owner responsible for the chrome_coordinator directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for inactive tabs settings
+summary: Defines GN source sets for the inactive tabs settings coordinator, mediator, UI components and Earl Grey tests together with their dependencies.

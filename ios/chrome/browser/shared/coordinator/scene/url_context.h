@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLContext for account switching
+// summary: Declares URLContext, which wraps an incoming UIOpenURLContext together with the target Gaia ID and the requested sign-in or sign-out action.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_URL_CONTEXT_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_URL_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_adder.mm.
+type: source
+title: ReadingListAdder implementation
+summary: Implements adding shared URLs to the reading list model once the profile and model are loaded, with completion callback handling.

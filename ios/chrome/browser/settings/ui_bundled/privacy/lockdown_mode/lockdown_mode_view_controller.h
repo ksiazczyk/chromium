@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lockdown mode view controller interface
+// summary: Declares the LockdownModeViewController settings table view controller and its presentation delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_VIEW_CONTROLLER_H_
 

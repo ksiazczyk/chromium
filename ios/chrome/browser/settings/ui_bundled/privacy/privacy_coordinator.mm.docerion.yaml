@@ -1,0 +1,4 @@
+# Docerion header of privacy_coordinator.mm.
+type: source
+title: Privacy coordinator implementation
+summary: Implements the Privacy settings coordinator, wiring child coordinators for Safe Browsing, Incognito lock and Lockdown Mode.

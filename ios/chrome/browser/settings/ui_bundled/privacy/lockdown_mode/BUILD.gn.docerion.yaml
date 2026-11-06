@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lockdown mode build targets (BUILD.gn)
+summary: Defines the GN build targets for the iOS lockdown mode settings, including the main source set, unit tests, and Earl Grey EG2 tests with their dependencies.

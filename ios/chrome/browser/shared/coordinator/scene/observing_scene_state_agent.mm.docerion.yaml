@@ -1,0 +1,4 @@
+# Docerion header of observing_scene_state_agent.mm.
+type: source
+title: ObservingSceneAgent implementation
+summary: Implements agent lookup, single-agent-per-scene checks, and observer registration for the ObservingSceneAgent class.

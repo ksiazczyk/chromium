@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_settings_egtest.mm.
+type: test
+title: Inactive tabs settings Earl Grey UI tests
+summary: Earl Grey tests verifying that the inactive tabs settings screen opens and that threshold options update the preference as expected.

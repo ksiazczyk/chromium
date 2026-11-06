@@ -1,0 +1,4 @@
+# Docerion header of bookmark_adder.mm.
+type: source
+title: BookmarkAdder implementation
+summary: Implements profile loading and bookmark insertion for shared URLs, running a completion callback once the entry is added.

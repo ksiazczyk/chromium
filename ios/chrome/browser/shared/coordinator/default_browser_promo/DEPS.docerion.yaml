@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for default browser promo
+summary: Specifies the allowed header include rules for the default browser promo directory.

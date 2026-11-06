@@ -1,0 +1,4 @@
+# Docerion header of incognito_lock_view_controller.mm.
+type: source
+title: Incognito lock view controller implementation
+summary: Implements the Incognito Lock settings page, mapping table rows to lock states such as none, soft lock, and reauthentication.

@@ -1,0 +1,4 @@
+# Docerion header of share_kit_join_configuration.mm.
+type: source
+title: ShareKit join configuration implementation
+summary: Implements the ShareKitJoinConfiguration interface used by the shared group join flow.

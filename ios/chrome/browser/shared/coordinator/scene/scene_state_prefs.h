@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneStatePrefs interface for scene-scoped preferences
+// summary: Declares the SceneStatePrefs interface for reading and writing boolean and time preferences scoped to a profile and scene session.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_PREFS_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_PREFS_H_
 

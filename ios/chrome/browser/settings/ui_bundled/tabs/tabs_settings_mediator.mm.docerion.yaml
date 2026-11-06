@@ -1,0 +1,4 @@
+# Docerion header of tabs_settings_mediator.mm.
+type: source
+title: Tabs settings mediator implementation
+summary: Implements observation of preferences for inactive tabs threshold, automatic tab group opening and start surface settings.

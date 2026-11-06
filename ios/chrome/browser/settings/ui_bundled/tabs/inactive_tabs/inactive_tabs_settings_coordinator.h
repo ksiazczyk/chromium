@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs settings coordinator interface
+// summary: Declares the coordinator that presents the inactive tabs settings view from a navigation controller and browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_TABS_INACTIVE_TABS_INACTIVE_TABS_SETTINGS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_TABS_INACTIVE_TABS_INACTIVE_TABS_SETTINGS_COORDINATOR_H_
 

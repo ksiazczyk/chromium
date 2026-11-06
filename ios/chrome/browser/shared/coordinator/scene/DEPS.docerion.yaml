@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the scene coordinator
+summary: Lists the allowed include paths that code in the scene coordinator directory may depend on.

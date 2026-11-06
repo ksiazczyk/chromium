@@ -1,0 +1,4 @@
+# Docerion header of share_extension_scene_agent.mm.
+type: source
+title: ShareExtensionSceneAgent implementation
+summary: Implements the scene agent that updates the primary account GaiaID in shared app-group defaults when the scene is foreground active and the profile is initialized.

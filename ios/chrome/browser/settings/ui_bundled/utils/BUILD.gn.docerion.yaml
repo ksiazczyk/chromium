@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for settings utils
+summary: Defines the utils source_set and unit_tests targets, listing the settings utility sources and their dependencies.

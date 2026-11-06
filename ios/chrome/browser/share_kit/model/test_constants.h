@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test accessibility identifiers for Share Kit flows
+// summary: Declares accessibility identifier constants for the fake Share, Manage, and Join flow view controllers used in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_TEST_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_TEST_CONSTANTS_H_
 

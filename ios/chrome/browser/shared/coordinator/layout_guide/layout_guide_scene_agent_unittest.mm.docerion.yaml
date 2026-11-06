@@ -1,0 +1,4 @@
+# Docerion header of layout_guide_scene_agent_unittest.mm.
+type: test
+title: LayoutGuideSceneAgent unit tests
+summary: Checks that the agent initializes non-nil layout guide centers and that regular and incognito centers use the scene center as parent.

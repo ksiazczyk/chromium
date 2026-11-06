@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_passphrase_table_view_controller.mm.
+type: source
+title: Sync encryption passphrase view controller implementation
+summary: Implements the sync encryption passphrase controller, handling passphrase entry, decryption progress, sync and identity observation, and UI blocking.

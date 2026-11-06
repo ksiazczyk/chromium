@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs settings table view controller interface
+// summary: Declares the settings table view controller offering Never, 7, 14 and 21 day inactive tabs options as a settings consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_TABS_INACTIVE_TABS_INACTIVE_TABS_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_TABS_INACTIVE_TABS_INACTIVE_TABS_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 

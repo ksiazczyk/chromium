@@ -1,0 +1,4 @@
+# Docerion header of alert_coordinator.mm.
+type: source
+title: AlertCoordinator implementation
+summary: Implements modal alert presentation, action item management, dismissal, and a no-interaction callback.

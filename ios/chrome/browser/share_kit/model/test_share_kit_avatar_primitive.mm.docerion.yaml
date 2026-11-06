@@ -1,0 +1,4 @@
+# Docerion header of test_share_kit_avatar_primitive.mm.
+type: test
+title: Test ShareKitAvatarPrimitive implementation
+summary: Implements the test avatar primitive, returning a small red view and an empty resolve method.

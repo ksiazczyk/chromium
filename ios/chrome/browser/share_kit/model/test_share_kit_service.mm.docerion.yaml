@@ -1,0 +1,4 @@
+# Docerion header of test_share_kit_service.mm.
+type: test
+title: TestShareKitService implementation
+summary: Implements the fake ShareKitService, creating shared tab groups and members in a fake sync server for tests.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_state_observer_bridge.mm.
+type: source
+title: TabGridStateObserverBridge implementation
+summary: Implements the bridge that forwards tab grid events such as page changes and tab group visibility to the C++ TabGridStateObserver.

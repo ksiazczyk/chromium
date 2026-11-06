@@ -1,0 +1,4 @@
+# Docerion header of browser_layout_state_unittest.mm.
+type: test
+title: BrowserLayoutState unit tests
+summary: Unit tests checking the default toolbar position and that observers are notified when the toolbar position changes.

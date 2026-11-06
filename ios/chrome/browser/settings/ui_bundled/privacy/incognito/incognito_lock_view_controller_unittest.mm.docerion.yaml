@@ -1,0 +1,4 @@
+# Docerion header of incognito_lock_view_controller_unittest.mm.
+type: test
+title: Incognito lock view controller unit tests
+summary: Unit tests verifying lock state transitions and reauthentication handling in the incognito lock settings view controller using OCMock.

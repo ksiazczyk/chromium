@@ -1,0 +1,4 @@
+# Docerion header of universal_opt_out_table_view_controller_unittest.mm.
+type: test
+title: Universal Opt Out settings view controller unit tests
+summary: Unit tests verifying the Universal Opt Out settings title, switch toggling and preference updates, user actions, and error item display.

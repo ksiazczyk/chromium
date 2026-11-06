@@ -1,0 +1,4 @@
+# Docerion header of fake_scene_state.mm.
+type: test
+title: FakeSceneState test double implementation
+summary: Implements FakeSceneState by wiring test browsers and stub browser providers, supporting incognito profile recreation and fake web state insertion.

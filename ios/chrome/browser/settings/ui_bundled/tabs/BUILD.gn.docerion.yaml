@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for tabs settings
+summary: Defines GN source sets and dependencies for the tabs settings coordinator, mediator, UI, constants and Earl Grey tests.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shared folder
+summary: Explains which subfolder (coordinator, model, ui, or public) to use for code shared by several features.
+---
+
 # Shared folder
 
 This folder contains the code shared by several features. Please add code to

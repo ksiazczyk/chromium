@@ -1,0 +1,4 @@
+# Docerion header of scene_layout_state.mm.
+type: source
+title: Scene layout state implementation
+summary: Implements SceneLayoutState passkey setters and observer notifications, including calculation of the target interface orientation from transition coordinator transforms.

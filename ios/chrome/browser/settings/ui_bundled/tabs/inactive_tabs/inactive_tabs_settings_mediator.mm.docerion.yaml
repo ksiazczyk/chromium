@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_settings_mediator.mm.
+type: source
+title: Inactive tabs settings mediator implementation
+summary: Observes the inactive tabs threshold preference, updates the consumer on changes and writes selected thresholds back to prefs.

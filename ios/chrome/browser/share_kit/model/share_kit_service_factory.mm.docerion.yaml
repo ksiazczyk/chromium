@@ -1,0 +1,4 @@
+# Docerion header of share_kit_service_factory.mm.
+type: source
+title: ShareKitServiceFactory implementation
+summary: Builds the ShareKitService per profile, honoring feature flags and test hooks and delegating creation to the iOS provider.

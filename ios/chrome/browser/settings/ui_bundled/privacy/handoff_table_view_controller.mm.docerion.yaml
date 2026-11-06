@@ -1,0 +1,4 @@
+# Docerion header of handoff_table_view_controller.mm.
+type: source
+title: Handoff table view controller implementation
+summary: Implements the Handoff settings screen with a preference-backed switch, footer text and user metrics.

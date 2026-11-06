@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Safety Check settings UI
+summary: Defines the GN source sets and dependencies for the Safety Check UI, Swift bridge, mediator, and coordinator.

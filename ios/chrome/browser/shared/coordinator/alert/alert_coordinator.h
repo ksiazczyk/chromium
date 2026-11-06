@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertCoordinator interface
+// summary: Declares the base coordinator for presenting modal alerts with configurable action items and subclassing hooks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_ALERT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_ALERT_COORDINATOR_H_
 

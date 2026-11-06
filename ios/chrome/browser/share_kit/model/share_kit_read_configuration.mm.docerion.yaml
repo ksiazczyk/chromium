@@ -1,0 +1,4 @@
+# Docerion header of share_kit_read_configuration.mm.
+type: source
+title: ShareKit read group configuration implementation
+summary: Implements the ShareKit configuration classes used to read shared tab groups declared in the matching header.

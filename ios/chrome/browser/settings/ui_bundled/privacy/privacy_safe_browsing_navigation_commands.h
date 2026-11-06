@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Safe Browsing navigation commands protocol
+// summary: Declares the navigation command protocol for the Safe Browsing settings, covering enhanced, standard, and no-protection pop-up navigation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_NAVIGATION_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_NAVIGATION_COMMANDS_H_
 

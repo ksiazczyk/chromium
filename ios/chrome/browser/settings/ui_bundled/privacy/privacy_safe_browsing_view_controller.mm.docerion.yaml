@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_view_controller.mm.
+type: source
+title: Privacy Safe Browsing view controller implementation
+summary: Implements the Safe Browsing settings screen, building the protection option list, recording user actions, and showing enterprise info popovers.

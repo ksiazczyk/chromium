@@ -1,0 +1,4 @@
+# Docerion header of scene_ui_blocker_state.mm.
+type: source
+title: Scene UI blocker state implementation
+summary: Implements SceneUIBlockerState, dispatching willShow, willHide and didHide modal overlay notifications to registered observers.

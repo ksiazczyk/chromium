@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for default browser promo
+summary: Defines the GN source sets and dependencies for the non-modal default browser promo scene agent and its unit tests.

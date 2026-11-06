@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ShareKit flow view controller header
+// summary: Declares a fake view controller used by the test ShareKit service to simulate share, manage and join flows with save and cancel actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_FAKE_SHARE_KIT_FLOW_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_FAKE_SHARE_KIT_FLOW_VIEW_CONTROLLER_H_
 

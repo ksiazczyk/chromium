@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scene test support build definition
+summary: Defines the testonly source_set bundling the fake and stub scene test doubles with their dependencies for iOS Chrome scene coordinator tests.

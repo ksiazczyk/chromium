@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome coordinator BUILD.gn build targets
+summary: Defines the chrome_coordinator and animated_coordinator source sets with their sources, dependencies, and linked frameworks.

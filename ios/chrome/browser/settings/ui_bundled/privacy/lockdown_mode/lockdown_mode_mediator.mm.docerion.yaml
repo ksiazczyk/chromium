@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_mediator.mm.
+type: source
+title: Lockdown mode mediator implementation
+summary: Implements the lockdown mode mediator, binding the browser lockdown mode local state preference to the consumer and handling enable and disable actions.

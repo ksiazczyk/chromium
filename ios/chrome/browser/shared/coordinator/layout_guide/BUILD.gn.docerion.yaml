@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Layout guide BUILD.gn build file
+summary: Defines GN source_sets for the layout guide scene agent, layout guide utilities and their unit tests with their dependencies.

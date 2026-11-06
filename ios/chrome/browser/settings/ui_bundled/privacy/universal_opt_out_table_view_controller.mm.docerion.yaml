@@ -1,0 +1,4 @@
+# Docerion header of universal_opt_out_table_view_controller.mm.
+type: source
+title: Universal Opt Out settings view controller implementation
+summary: Implements the Universal Opt Out settings screen with a preference-backed switch, error message and learn-more items, and extension service observation.

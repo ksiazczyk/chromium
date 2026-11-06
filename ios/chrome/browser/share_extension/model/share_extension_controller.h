@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareExtensionController interface
+// summary: Declares a controller that watches the app group share extension items folder and processes its files when the app becomes active.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_SHARE_EXTENSION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_SHARE_EXTENSION_CONTROLLER_H_
 

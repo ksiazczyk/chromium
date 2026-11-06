@@ -1,0 +1,4 @@
+# Docerion header of share_kit_manage_configuration.mm.
+type: source
+title: ShareKit manage configuration implementation
+summary: Implements the ShareKitManageConfiguration interface for the shared group manage flow.

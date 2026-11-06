@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionSheetCoordinator interface
+// summary: Declares the coordinator that displays action sheets anchored to a view or bar button item, with attributed text support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_ACTION_SHEET_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_ACTION_SHEET_COORDINATOR_H_
 

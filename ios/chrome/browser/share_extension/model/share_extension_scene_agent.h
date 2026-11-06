@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareExtensionSceneAgent class declaration
+// summary: Declares the ShareExtensionSceneAgent, an observing scene agent for the share extension.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_SHARE_EXTENSION_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_SHARE_EXTENSION_SCENE_AGENT_H_
 

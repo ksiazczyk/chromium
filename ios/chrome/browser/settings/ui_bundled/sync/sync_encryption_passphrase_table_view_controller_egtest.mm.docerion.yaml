@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_passphrase_table_view_controller_egtest.mm.
+type: test
+title: Earl Grey tests for sync encryption passphrase view controller
+summary: Earl Grey integration tests that open and dismiss the sync passphrase view, including sign-in flows and multi-window scenarios.

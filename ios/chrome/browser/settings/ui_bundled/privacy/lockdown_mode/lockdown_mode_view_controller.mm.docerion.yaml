@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_view_controller.mm.
+type: source
+title: Lockdown mode view controller implementation
+summary: Implements the lockdown mode settings screen with a toggle switch, footer, and info popover reflecting the browser and OS lockdown mode states.

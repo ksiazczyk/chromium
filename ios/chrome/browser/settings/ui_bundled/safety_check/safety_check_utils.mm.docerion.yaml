@@ -1,0 +1,4 @@
+# Docerion header of safety_check_utils.mm.
+type: source
+title: Safety check utils implementation
+summary: Implements PreviousSafetyCheckIssueFound(), which reads the stored timestamp of the last issue from NSUserDefaults to report whether a previous iOS safety check found issues.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneUIProvider protocol
+// summary: Declares the SceneUIProvider protocol exposing the view controller that is currently active on the scene's UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_UI_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_UI_PROVIDER_H_
 

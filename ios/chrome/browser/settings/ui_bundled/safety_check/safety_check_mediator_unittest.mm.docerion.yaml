@@ -1,0 +1,4 @@
+# Docerion header of safety_check_mediator_unittest.mm.
+type: source
+title: Safety check mediator unit tests
+summary: Unit tests verifying SafetyCheckMediator behavior across update, password, and Safe Browsing check states using mocked services.

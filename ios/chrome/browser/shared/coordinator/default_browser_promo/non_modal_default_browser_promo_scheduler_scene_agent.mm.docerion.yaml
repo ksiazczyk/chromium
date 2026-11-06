@@ -1,0 +1,4 @@
+# Docerion header of non_modal_default_browser_promo_scheduler_scene_agent.mm.
+type: source
+title: Non-modal default browser promo scheduler scene agent implementation
+summary: Implements the scheduling logic for the non-modal default browser promo, triggering and dismissing it based on user activity, timers, and feature engagement.

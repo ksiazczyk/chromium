@@ -1,0 +1,4 @@
+# Docerion header of tabs_settings_coordinator.mm.
+type: source
+title: Tabs settings coordinator implementation
+summary: Implements the tabs settings coordinator, wiring the mediator and view controller and navigating to inactive tabs settings.

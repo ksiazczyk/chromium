@@ -1,0 +1,4 @@
+# Docerion header of incognito_lock_mediator_unittest.mm.
+type: test
+title: Incognito lock mediator unit tests
+summary: Unit tests verifying the mediator notifies its consumer with the correct lock state for all pref combinations.

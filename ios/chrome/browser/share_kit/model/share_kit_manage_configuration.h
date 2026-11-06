@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit manage configuration header
+// summary: Declares ShareKitManageConfiguration, which holds the tab group, scene handler and callbacks for managing or deleting a shared group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_MANAGE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_MANAGE_CONFIGURATION_H_
 

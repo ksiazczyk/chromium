@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_table_view_controller.mm.
+type: source
+title: Sync encryption settings view controller implementation
+summary: Implements the sync encryption settings screen that lists encryption options and observes sync service state changes.

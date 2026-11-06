@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneStateAnimator protocol
+// summary: Declares the SceneStateAnimator protocol for cancelling and restarting animations shown over the scene during profile switching.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_ANIMATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_table_view_controller_unittest.mm.
+type: test
+title: Sync encryption settings view controller unit tests
+summary: Unit tests checking the sync encryption settings controller builds the expected sections and items.

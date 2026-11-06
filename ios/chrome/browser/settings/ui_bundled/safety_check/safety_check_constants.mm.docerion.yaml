@@ -1,0 +1,4 @@
+# Docerion header of safety_check_constants.mm.
+type: source
+title: Safety Check constant definitions
+summary: Defines the Safety Check metric histogram names, settings URL, defaults key, and accessibility identifiers declared in the header.

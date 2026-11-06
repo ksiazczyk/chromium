@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridStateObserverBridge Objective-C header
+// summary: Declares a bridge class conforming to TabGridStateObserving that forwards tab grid state updates to a C++ observer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_TAB_GRID_STATE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_TAB_GRID_STATE_OBSERVER_BRIDGE_H_
 

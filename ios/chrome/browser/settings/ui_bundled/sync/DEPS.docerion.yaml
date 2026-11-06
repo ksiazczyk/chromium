@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync settings folder
+summary: Declares allowed include rules for the sync settings folder, permitting dependencies on the scoped UI blocker directory.

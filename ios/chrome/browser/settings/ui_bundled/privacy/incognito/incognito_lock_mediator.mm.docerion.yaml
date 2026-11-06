@@ -1,0 +1,4 @@
+# Docerion header of incognito_lock_mediator.mm.
+type: source
+title: Incognito lock mediator implementation
+summary: Updates incognito reauth and soft lock prefs, records metrics, and notifies the consumer of lock state changes.

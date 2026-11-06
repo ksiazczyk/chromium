@@ -1,0 +1,4 @@
+# Docerion header of share_kit_avatar_configuration.mm.
+type: source
+title: ShareKit avatar configuration implementation
+summary: Implements the ShareKitAvatarConfiguration object declared in the matching header.

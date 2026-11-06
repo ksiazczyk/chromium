@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_standard_protection_mediator.mm.
+type: source
+title: Safe Browsing standard protection mediator implementation
+summary: Builds the settings list items and binds Safe Browsing, extended reporting, and password leak check preferences to the consumer, honoring enterprise policies.

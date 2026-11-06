@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing settings BUILD.gn build targets
+summary: Defines GN source sets for the Safe Browsing settings UI, its constants and the enhanced Safe Browsing inline promo delegate, with their dependencies.

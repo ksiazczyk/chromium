@@ -1,0 +1,4 @@
+# Docerion header of safety_check_coordinator.mm.
+type: source
+title: Safety Check coordinator implementation
+summary: Implements the Safety Check coordinator, wiring the mediator, view controller, and password and Safe Browsing subpage coordinators.

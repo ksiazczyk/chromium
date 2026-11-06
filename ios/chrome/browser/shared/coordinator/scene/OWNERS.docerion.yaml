@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the scene coordinator
+summary: Names marq@chromium.org as the code owner for review of changes in this directory.

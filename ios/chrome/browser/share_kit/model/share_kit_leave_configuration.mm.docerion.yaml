@@ -1,0 +1,4 @@
+# Docerion header of share_kit_leave_configuration.mm.
+type: source
+title: ShareKit leave configuration implementation
+summary: Implements the ShareKitLeaveConfiguration interface for the group leave flow.

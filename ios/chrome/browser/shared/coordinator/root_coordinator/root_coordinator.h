@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootCoordinator interface declaration
+// summary: Objective-C header declaring the RootCoordinator class, a root coordinator without a browser that holds a base view controller and provides no-op start and stop methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_ROOT_COORDINATOR_ROOT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_ROOT_COORDINATOR_ROOT_COORDINATOR_H_
 

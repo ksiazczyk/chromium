@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ShareKitAvatarPrimitive object
+// summary: Declares a test object conforming to the ShareKitAvatarPrimitive protocol for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_TEST_SHARE_KIT_AVATAR_PRIMITIVE_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_TEST_SHARE_KIT_AVATAR_PRIMITIVE_H_
 

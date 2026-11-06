@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_settings_coordinator.mm.
+type: source
+title: Inactive tabs settings coordinator implementation
+summary: Starts and stops the inactive tabs settings by creating the mediator and table view controller and pushing the view onto the navigation stack.

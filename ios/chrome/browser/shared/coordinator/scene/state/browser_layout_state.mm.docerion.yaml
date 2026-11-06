@@ -1,0 +1,4 @@
+# Docerion header of browser_layout_state.mm.
+type: source
+title: BrowserLayoutState implementation
+summary: Implements BrowserLayoutState, emitting will-change and did-change observer callbacks for toolbar position and tab strip visibility.

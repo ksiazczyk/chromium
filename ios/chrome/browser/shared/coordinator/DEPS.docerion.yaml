@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shared coordinator DEPS dependency rules
+summary: Defines include rules for the shared coordinator folder, allowing feature engagement tracker factory access and blocking deprecated Earl Grey test headers.

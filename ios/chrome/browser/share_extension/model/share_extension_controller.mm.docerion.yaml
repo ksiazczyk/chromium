@@ -1,0 +1,4 @@
+# Docerion header of share_extension_controller.mm.
+type: source
+title: ShareExtensionController implementation
+summary: Implements the share extension controller that routes shared items to the matching profile via bookmark and reading list adders and logs reception metrics.

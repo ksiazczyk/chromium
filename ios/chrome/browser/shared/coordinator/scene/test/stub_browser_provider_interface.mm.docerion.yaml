@@ -1,0 +1,4 @@
+# Docerion header of stub_browser_provider_interface.mm.
+type: test
+title: StubBrowserProviderInterface test double implementation
+summary: Implements StubBrowserProviderInterface, creating main and incognito stub providers on init and enforcing shutdown before deallocation.

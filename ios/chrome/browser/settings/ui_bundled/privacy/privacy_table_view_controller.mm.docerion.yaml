@@ -1,0 +1,4 @@
+# Docerion header of privacy_table_view_controller.mm.
+type: source
+title: Privacy settings table view controller implementation
+summary: Implements the main privacy settings screen, building sections for Safe Browsing, incognito, sync, and related preferences with metrics and popover handling.

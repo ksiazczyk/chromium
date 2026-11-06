@@ -1,0 +1,4 @@
+# Docerion header of url_context.mm.
+type: source
+title: URLContext implementation
+summary: Implements the URLContext class, which pairs a UIOpenURLContext with a Gaia ID and an account switch type for handling opened URLs.

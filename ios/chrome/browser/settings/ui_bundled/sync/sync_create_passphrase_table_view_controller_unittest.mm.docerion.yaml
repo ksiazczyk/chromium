@@ -1,0 +1,4 @@
+# Docerion header of sync_create_passphrase_table_view_controller_unittest.mm.
+type: test
+title: Unit tests for sync create passphrase view controller
+summary: Unit tests for the create passphrase controller, covering model construction, field validation, and passphrase setting behavior.

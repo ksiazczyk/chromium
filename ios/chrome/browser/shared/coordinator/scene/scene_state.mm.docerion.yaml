@@ -1,0 +1,4 @@
+# Docerion header of scene_state.mm.
+type: source
+title: SceneState implementation
+summary: Implements SceneState with observer notifications, agent management, activation level transitions, and sign-in UI blocking.

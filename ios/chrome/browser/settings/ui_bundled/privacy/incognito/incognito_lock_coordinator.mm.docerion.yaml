@@ -1,0 +1,4 @@
+# Docerion header of incognito_lock_coordinator.mm.
+type: source
+title: Incognito lock coordinator implementation
+summary: Builds and wires the incognito lock view controller and mediator, and forwards removal events to its delegate.

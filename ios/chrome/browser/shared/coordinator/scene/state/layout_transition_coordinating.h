@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutTransitionCoordinating protocol
+// summary: Declares a protocol for running animations and completion blocks alongside layout transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LAYOUT_TRANSITION_COORDINATING_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LAYOUT_TRANSITION_COORDINATING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Alert coordinator GN build definition
+summary: Defines source sets for the alert coordinators and their unit tests together with their build dependencies.

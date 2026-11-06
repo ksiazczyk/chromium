@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_coordinator.mm.
+type: source
+title: Lockdown mode coordinator implementation
+summary: Implements the lockdown mode coordinator, creating and pushing the view controller and mediator and notifying its delegate when the page is removed.

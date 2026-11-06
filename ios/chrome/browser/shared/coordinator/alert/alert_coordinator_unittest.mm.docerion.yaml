@@ -1,0 +1,4 @@
+# Docerion header of alert_coordinator_unittest.mm.
+type: test
+title: AlertCoordinator unit tests
+summary: Unit tests covering alert visibility, title and message handling, and action item behavior of the alert coordinator.

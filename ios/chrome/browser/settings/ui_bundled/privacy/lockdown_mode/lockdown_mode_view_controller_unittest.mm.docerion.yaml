@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_view_controller_unittest.mm.
+type: test
+title: Lockdown Mode view controller unit tests
+summary: Unit tests verifying that the Lockdown Mode settings table view shows a single switch item and that the switch state updates correctly when lockdown mode is enabled or disabled.

@@ -1,0 +1,4 @@
+# Docerion header of share_kit_service.mm.
+type: source
+title: ShareKitService constructor implementation
+summary: Implements the default constructor and destructor of the ShareKitService class.

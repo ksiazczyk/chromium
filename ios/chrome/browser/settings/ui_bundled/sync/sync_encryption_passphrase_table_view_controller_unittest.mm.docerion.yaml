@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_passphrase_table_view_controller_unittest.mm.
+type: test
+title: Sync encryption passphrase view controller unit tests
+summary: Unit tests for the sync encryption passphrase settings controller, covering model state and sync passphrase errors.

@@ -1,0 +1,4 @@
+# Docerion header of share_kit_service_configuration.mm.
+type: source
+title: ShareKitServiceConfiguration struct implementation
+summary: Implements the ShareKitServiceConfiguration constructor and destructor.

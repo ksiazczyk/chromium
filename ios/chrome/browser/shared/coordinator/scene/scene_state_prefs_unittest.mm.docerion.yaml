@@ -1,0 +1,4 @@
+# Docerion header of scene_state_prefs_unittest.mm.
+type: test
+title: SceneStatePrefs unit tests
+summary: Unit tests verifying that SceneStatePrefs saves and retrieves boolean and time preference values for a scene session.

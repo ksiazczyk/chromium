@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit preview item header
+// summary: Declares ShareKitPreviewItem, a preview entry with image and title representing a tab from the shared tab group in the join flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_PREVIEW_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_PREVIEW_ITEM_H_
 

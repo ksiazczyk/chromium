@@ -1,0 +1,4 @@
+# Docerion header of repost_form_coordinator_unittest.mm.
+type: test
+title: Repost form coordinator unit tests
+summary: Unit tests for RepostFormCoordinator verifying the dialog's popover location, nil title, warning message, and action button titles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab activity utilities header
+// summary: Declares helpers to validate an NSUserActivity pointing to a tab in a matching browser and to handle tab move activities.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TAB_ACTIVITY_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TAB_ACTIVITY_UTILS_H_
 

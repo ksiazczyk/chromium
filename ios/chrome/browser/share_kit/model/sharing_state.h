@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingState enum for saved tab groups
+// summary: Defines the SharingState enum describing whether a saved tab group is not shared, shared, or shared and owned by the user.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARING_STATE_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARING_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_settings_table_view_controller.mm.
+type: source
+title: Inactive tabs settings table view controller implementation
+summary: Builds the inactive tabs options table with a header and threshold items and reports user selections to its delegate.

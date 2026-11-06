@@ -1,0 +1,4 @@
+# Docerion header of task_updater_scene_agent_unittest.mm.
+type: test
+title: TaskUpdaterSceneAgent unit tests
+summary: Unit tests covering how TaskUpdaterSceneAgent updates the task execution stage across startup, sign-in and UI blocker scenarios.

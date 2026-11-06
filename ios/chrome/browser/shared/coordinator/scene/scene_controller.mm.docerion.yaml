@@ -1,0 +1,4 @@
+# Docerion header of scene_controller.mm.
+type: source
+title: SceneController implementation
+summary: Implements the SceneController that drives Chrome scene startup, profile switching, sign-in flows, and URL or intent handling for each UIWindowScene.

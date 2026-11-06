@@ -1,0 +1,4 @@
+# Docerion header of test_constants.mm.
+type: test
+title: Test accessibility identifier constants
+summary: Defines the accessibility identifier string constants for the fake Share, Manage, and Join flow view controllers.

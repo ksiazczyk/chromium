@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_table_view_controller_egtest.mm.
+type: test
+title: Sync encryption settings Earl Grey UI tests
+summary: Earl Grey UI test verifying the sync passphrase encryption settings screen can be opened and revisited.

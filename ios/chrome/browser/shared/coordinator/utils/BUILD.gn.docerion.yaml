@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the coordinator utils source set
+summary: GN build configuration defining the utils source set with credential provider settings utilities, dependencies on shared features and the password autofill provider API, and AuthenticationServices framework.

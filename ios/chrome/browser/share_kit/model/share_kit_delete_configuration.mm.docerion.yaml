@@ -1,0 +1,4 @@
+# Docerion header of share_kit_delete_configuration.mm.
+type: source
+title: ShareKit delete configuration implementation
+summary: Implements the ShareKitDeleteConfiguration object declared in the matching header.

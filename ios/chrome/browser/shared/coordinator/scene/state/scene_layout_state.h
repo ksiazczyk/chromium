@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scene layout state header
+// summary: Declares SceneLayoutState, a pure state holder for scene layout with passkey-protected setters and an observer protocol for contained layout, windowed mode, app bar and Assistant changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_SCENE_LAYOUT_STATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_SCENE_LAYOUT_STATE_H_
 

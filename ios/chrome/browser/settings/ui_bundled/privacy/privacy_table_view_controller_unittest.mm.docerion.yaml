@@ -1,0 +1,4 @@
+# Docerion header of privacy_table_view_controller_unittest.mm.
+type: test
+title: Privacy settings table view controller unit tests
+summary: Unit tests for the privacy settings view controller covering preference-driven cells, metrics, feature flags, and authentication-dependent behavior.

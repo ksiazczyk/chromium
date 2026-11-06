@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repost form coordinator delegate protocol
+// summary: Objective-C header defining the RepostFormCoordinatorDelegate protocol, which the repost form coordinator uses to request its dismissal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_REPOST_FORM_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_ALERT_REPOST_FORM_COORDINATOR_DELEGATE_H_
 

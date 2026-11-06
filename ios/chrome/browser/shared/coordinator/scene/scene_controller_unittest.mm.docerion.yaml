@@ -1,0 +1,4 @@
+# Docerion header of scene_controller_unittest.mm.
+type: test
+title: SceneController unit tests
+summary: Unit tests for SceneController covering scene state transitions, sign-in, commands, and metrics using test profiles, mocks, and test services.
