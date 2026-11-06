@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_scene_agent_unittest.mm.
+type: test
+title: Idle timeout policy scene agent unit tests
+summary: Unit tests for the idle timeout policy scene agent, using fakes and a mocked action runner to verify dialog presentation and action behavior.

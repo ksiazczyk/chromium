@@ -1,0 +1,4 @@
+# Docerion header of policy_unittest.mm.
+type: test
+title: Policy pref mapping unit tests
+summary: Unit tests verifying that all iOS Chrome policies have pref mapping test cases and that policy-to-pref mappings behave as expected.

@@ -1,0 +1,4 @@
+# Docerion header of policy_url_blocking_util.mm.
+type: source
+title: Blocked URL error utility implementation
+summary: Returns ERR_BLOCKED_BY_ADMINISTRATOR or the incognito variant depending on which policy source blocked the URL.

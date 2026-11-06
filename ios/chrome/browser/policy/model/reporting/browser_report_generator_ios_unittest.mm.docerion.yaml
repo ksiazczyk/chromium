@@ -1,0 +1,4 @@
+# Docerion header of browser_report_generator_ios_unittest.mm.
+type: test
+title: Browser report generator iOS unit tests
+summary: Unit test that generates a basic browser report and verifies version, channel, executable path and profile information.

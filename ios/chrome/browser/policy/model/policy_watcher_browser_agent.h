@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy watcher browser agent header
+// summary: Declares a browser agent that observes policy-controlled preference changes and triggers sign-out, sync prompts, and backup exclusion UI updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_WATCHER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_WATCHER_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reporting_delegate_factory_ios.mm.
+type: source
+title: iOS reporting delegate factory implementation
+summary: Creates iOS delegates for browser, profile and scheduler reporting, returning null where pipelines are unsupported on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of policy_egtest.mm.
+type: test
+title: Policy Earl Grey integration tests
+summary: Earl Grey tests verifying that Chrome policies are applied and reflected in iOS Chrome preferences, settings and UI.

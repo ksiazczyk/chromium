@@ -1,0 +1,4 @@
+# Docerion header of policy_url_blocking_service_factory.mm.
+type: source
+title: PolicyBlocklistService factory implementation
+summary: Creates URLBlocklistManager instances for regular and incognito profiles and builds the PolicyBlocklistService for each profile.

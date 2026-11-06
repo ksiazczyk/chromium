@@ -1,0 +1,4 @@
+# Docerion header of browser_report_generator_ios.mm.
+type: source
+title: Browser report generator iOS implementation
+summary: Implements the iOS browser report delegate, gathering the bundle identifier, channel and profile data based on feature flags.

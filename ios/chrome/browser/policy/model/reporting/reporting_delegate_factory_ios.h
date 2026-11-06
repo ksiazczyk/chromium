@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS reporting delegate factory header
+// summary: Declares the iOS reporting delegate factory that creates iOS-specific delegates for enterprise reporting components.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REPORTING_DELEGATE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_REPORTING_DELEGATE_FACTORY_IOS_H_
 

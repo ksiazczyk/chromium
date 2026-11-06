@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for photos model
+summary: Restricts header includes in this folder to the allowed signin model factory headers.

@@ -1,0 +1,4 @@
+# Docerion header of user_cloud_policy_status_provider.mm.
+type: source
+title: User cloud policy status provider implementation
+summary: Implements the user cloud policy status provider, assembling status data with the domain extracted from the username, affiliation, profile ID and flex org warning for managed or flex org accounts.

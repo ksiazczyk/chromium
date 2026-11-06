@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy status provider header
+// summary: Declares UserCloudPolicyStatusProvider, an iOS Chrome class that reports user cloud policy status by observing the cloud policy core, store and client, with a delegate for affiliation IDs and profile ID.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_STATUS_PROVIDER_USER_CLOUD_POLICY_STATUS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_STATUS_PROVIDER_USER_CLOUD_POLICY_STATUS_PROVIDER_H_
 

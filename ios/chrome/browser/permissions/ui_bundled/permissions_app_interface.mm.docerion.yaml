@@ -1,0 +1,4 @@
+# Docerion header of permissions_app_interface.mm.
+type: source
+title: PermissionsAppInterface implementation
+summary: Returns a dictionary of permission states for the currently active web state to support Earl Grey testing.

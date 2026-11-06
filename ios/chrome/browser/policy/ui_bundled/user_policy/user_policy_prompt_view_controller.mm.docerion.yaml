@@ -1,0 +1,4 @@
+# Docerion header of user_policy_prompt_view_controller.mm.
+type: source
+title: User policy prompt view controller implementation
+summary: Implements the user policy prompt UI with localized title and subtitle strings, an enterprise icon, and custom spacing for the alert layout.

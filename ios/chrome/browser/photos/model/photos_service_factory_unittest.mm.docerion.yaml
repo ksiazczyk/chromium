@@ -1,0 +1,4 @@
+# Docerion header of photos_service_factory_unittest.mm.
+type: test
+title: PhotosServiceFactory unit tests
+summary: Verifies that PhotosServiceFactory does not create a PhotosService for a TestProfileIOS instance.

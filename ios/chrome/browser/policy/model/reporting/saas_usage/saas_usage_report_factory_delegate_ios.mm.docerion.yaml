@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_report_factory_delegate_ios.mm.
+type: source
+title: SaaS usage report factory delegate for iOS implementation
+summary: Implements the iOS factory delegate, returning the profile ID from the profile ID service and checking profile affiliation for SaaS usage reports.

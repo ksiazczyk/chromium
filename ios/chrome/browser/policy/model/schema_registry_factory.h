@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry factory header
+// summary: Declares BuildSchemaRegistryForProfile, which builds a policy schema registry for a profile linked to the global combined schema registry.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_SCHEMA_REGISTRY_FACTORY_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_SCHEMA_REGISTRY_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Photos policy settings enum
+// summary: Defines the SaveToPhotosPolicySettings enum whose values must match the ContextMenuPhotoSharingSettings policy definition.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_POLICY_H_
 #define IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_POLICY_H_
 

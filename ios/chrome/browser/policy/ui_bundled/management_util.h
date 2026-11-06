@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for browser management state helpers
+// summary: Declares functions that return the browser or user management state and a localized management description string.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_MANAGEMENT_UTIL_H_
 #define IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_MANAGEMENT_UTIL_H_
 

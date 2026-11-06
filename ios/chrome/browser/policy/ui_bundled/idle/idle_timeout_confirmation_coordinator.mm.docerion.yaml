@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_confirmation_coordinator.mm.
+type: source
+title: Idle timeout confirmation coordinator implementation
+summary: Presents the idle timeout confirmation dialog as a sheet, wiring the mediator and view controller and handling dismissal.

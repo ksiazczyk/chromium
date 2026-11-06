@@ -1,0 +1,4 @@
+# Docerion header of policy_app_interface.mm.
+type: source
+title: Policy app interface implementation
+summary: Implements the policy app interface used by tests to install platform and cloud policies, inspect URL blocking and clear policy storage.

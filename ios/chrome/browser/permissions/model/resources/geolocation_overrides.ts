@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation API access overrides
+// summary: Wraps navigator.geolocation methods to send a WebKit message to native code whenever geolocation APIs are accessed.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 if (typeof navigator === 'object' && 'geolocation' in navigator) {

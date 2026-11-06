@@ -1,0 +1,4 @@
+# Docerion header of phone_number_actions_view_controller.mm.
+type: source
+title: Phone number actions view controller implementation
+summary: Implements the phone number actions list, building tel, sms and FaceTime URLs and handling the call, message, contacts and FaceTime items.

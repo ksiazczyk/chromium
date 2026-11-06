@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserPolicyConnectorIOS header
+// summary: Declares the iOS-specific browser policy connector that sets up policy providers, cloud management, machine-level cloud policy, and local test policies.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_POLICY_CONNECTOR_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_BROWSER_POLICY_CONNECTOR_IOS_H_
 

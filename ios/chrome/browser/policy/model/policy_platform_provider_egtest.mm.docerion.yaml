@@ -1,0 +1,4 @@
+# Docerion header of policy_platform_provider_egtest.mm.
+type: test
+title: Platform policy provider tests
+summary: Earl Grey tests verifying policies loaded through the production iOS platform policy provider from managed configuration.

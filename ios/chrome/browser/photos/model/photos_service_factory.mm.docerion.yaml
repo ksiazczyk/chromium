@@ -1,0 +1,4 @@
+# Docerion header of photos_service_factory.mm.
+type: source
+title: PhotosServiceFactory implementation
+summary: Builds PhotosService instances per profile by wiring single sign-on, preferences, identity, and account manager dependencies into the iOS photos provider.

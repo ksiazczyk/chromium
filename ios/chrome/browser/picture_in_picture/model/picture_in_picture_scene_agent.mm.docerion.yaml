@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_scene_agent.mm.
+type: source
+title: Picture in picture scene agent implementation
+summary: Implements scene state observation to dismiss picture in picture through the command handler when the scene becomes foreground active.

@@ -1,0 +1,4 @@
+# Docerion header of policy_url_blocking_egtest.mm.
+type: test
+title: Earl Grey tests for URL blocklist enterprise policies
+summary: Earl Grey integration tests verifying that URLBlocklist and URLAllowlist policies block or allow URLs, including incognito-specific policies.

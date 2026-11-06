@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_delegate.mm.
+type: source
+title: Permissions infobar delegate implementation
+summary: Implements the permissions infobar delegate, providing message text, infobar identifier, delegate equality and web state access.

@@ -1,0 +1,4 @@
+# Docerion header of policy_incognito_mode_availability_egtest.mm.
+type: test
+title: Incognito mode availability policy tests
+summary: Earl Grey tests verifying that the IncognitoModeAvailability policy controls private browsing availability in the UI.

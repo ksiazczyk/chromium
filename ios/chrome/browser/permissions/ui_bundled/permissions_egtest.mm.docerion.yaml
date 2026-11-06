@@ -1,0 +1,4 @@
+# Docerion header of permissions_egtest.mm.
+type: test
+title: Permissions Earl Grey UI tests
+summary: Earl Grey tests verifying camera and microphone permission banners, badges and infobar modals in iOS Chrome.

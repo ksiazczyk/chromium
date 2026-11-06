@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the policy URL blocking model
+summary: Defines source sets and dependencies for the policy URL blocking model, utility code and its Earl Grey tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the iOS policy model sources
+summary: Defines the source_set, sources, and dependencies for the iOS browser policy model, including cloud management, reporting, and policy handler code.

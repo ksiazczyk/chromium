@@ -1,0 +1,4 @@
+# Docerion header of ios_personal_context_eligibility_service_factory_unittest.mm.
+type: test
+title: Unit tests for the iOS personal context eligibility service factory
+summary: Verifies the eligibility service factory creates the service only for regular profiles when the kPersonalContext feature is enabled.

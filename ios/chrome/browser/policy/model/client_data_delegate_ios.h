@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientDataDelegateIos header
+// summary: Declares the iOS client data delegate that sets iOS-specific fields in request protos for the DMServer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_CLIENT_DATA_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_CLIENT_DATA_DELEGATE_IOS_H_
 

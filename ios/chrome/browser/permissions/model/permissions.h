@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPermission enum and web permission conversion header
+// summary: Defines the ContentPermission enum for camera, microphone and geolocation prompts and declares a helper converting it to web::Permission.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_MODEL_PERMISSIONS_H_
 

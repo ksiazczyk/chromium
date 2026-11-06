@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the permissions model
+summary: Defines GN source sets for permissions, infobar delegate, tab helper, features, geolocation and media JavaScript features, plus unit and JavaScript test targets.

@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_utils_unittest.mm.
+type: test
+title: Idle Timeout Policy Utils Unit Tests
+summary: Unit tests verifying GetActionSet and related idle timeout helpers across action combinations and sign-in states using test profiles and fake identities.

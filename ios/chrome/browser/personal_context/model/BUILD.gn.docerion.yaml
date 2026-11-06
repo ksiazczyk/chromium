@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS personal context model
+summary: Defines GN source sets for the eligibility service factory, the personal context model factories, and their unit tests together with their dependencies.

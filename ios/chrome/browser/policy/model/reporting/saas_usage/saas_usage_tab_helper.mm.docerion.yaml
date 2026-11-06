@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_tab_helper.mm.
+type: source
+title: SaaS usage tab helper for iOS implementation
+summary: Implements navigation recording for SaaS usage reporting, filtering committed non-same-document navigations and providing URL and encryption protocol data.

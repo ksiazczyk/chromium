@@ -1,0 +1,4 @@
+# Docerion header of user_policy_signin_service.mm.
+type: source
+title: User policy sign-in service implementation
+summary: Implements the iOS user policy sign-in service, reacting to primary account changes, recording policy fetches, and initializing the cloud policy manager.

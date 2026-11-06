@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_confirmation_mediator.mm.
+type: source
+title: Idle timeout confirmation mediator implementation
+summary: Implements countdown and expiry timers that update the dialog and notify the presenter on user action or timeout.

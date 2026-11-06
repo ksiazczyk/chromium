@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture in Picture mutator protocol
+// summary: Declares the PictureInPictureMutator protocol with a method to start picture in picture.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_MUTATOR_H_
 #define IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_MUTATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_reporting_controller_factory_ios.mm.
+type: source
+title: SaaS usage reporting controller factory for iOS implementation
+summary: Implements the iOS factory, constructing the reporting controller with browser-level and profile-level URL list matchers backed by preferences.

@@ -1,0 +1,4 @@
+# Docerion header of permissions.mm.
+type: source
+title: ContentPermission to web permission conversion implementation
+summary: Maps ContentPermission values to web::Permission, returning nullopt for geolocation.

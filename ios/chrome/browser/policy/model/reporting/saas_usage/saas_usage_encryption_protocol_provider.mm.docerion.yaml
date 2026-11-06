@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_encryption_protocol_provider.mm.
+type: source
+title: SaaS usage encryption protocol provider implementation
+summary: Implements the provider with an Objective-C session delegate that probes URLs via HEAD requests and maps negotiated TLS versions for SaaS usage reporting.

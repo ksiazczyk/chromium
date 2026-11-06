@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Country code picker view controller header
+// summary: Declares a table view controller that presents a list of countries and their dialing codes for a detected phone number.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_COUNTRY_CODE_PICKER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PHONE_NUMBER_UI_BUNDLED_COUNTRY_CODE_PICKER_VIEW_CONTROLLER_H_
 

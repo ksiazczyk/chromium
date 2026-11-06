@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Reporting feature flag definitions
+summary: Defines the reporting feature flags with their default enabled or disabled states.

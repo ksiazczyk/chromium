@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage reporting controller factory for iOS header
+// summary: Declares the iOS profile-keyed service factory that builds SaasUsageReportingController instances for each profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORTING_CONTROLLER_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORTING_CONTROLLER_FACTORY_IOS_H_
 

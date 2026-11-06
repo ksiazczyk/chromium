@@ -1,0 +1,4 @@
+# Docerion header of photos_availability.mm.
+type: source
+title: Save to Photos availability implementation
+summary: Implements the availability check by testing policy settings, incognito state, PhotosService availability, and sign-in requirements.

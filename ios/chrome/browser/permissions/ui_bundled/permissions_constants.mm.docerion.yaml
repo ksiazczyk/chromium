@@ -1,0 +1,4 @@
+# Docerion header of permissions_constants.mm.
+type: source
+title: Permissions UI constants
+summary: Defines accessibility identifier constants and histogram names for camera and microphone permission UI in iOS Chrome.

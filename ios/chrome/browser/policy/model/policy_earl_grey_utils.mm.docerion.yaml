@@ -1,0 +1,4 @@
+# Docerion header of policy_earl_grey_utils.mm.
+type: source
+title: Policy Earl Grey test utilities implementation
+summary: Implements policy test helpers that set, merge, read and clear platform policies via PolicyAppInterface.

@@ -1,0 +1,4 @@
+# Docerion header of media_overrides_javascript_test.mm.
+type: test
+title: JavaScript tests for media API overrides
+summary: Verifies that media_overrides.ts reports getUserMedia audio and video usage through the MediaAPIAccessedHandler message handler and behaves correctly on insecure pages.

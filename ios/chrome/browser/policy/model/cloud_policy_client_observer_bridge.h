@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyClientObserverBridge header
+// summary: Defines an Objective-C protocol mirroring CloudPolicyClient::Observer and a C++ bridge that forwards policy client events to the delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_CLOUD_POLICY_CLIENT_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_CLOUD_POLICY_CLIENT_OBSERVER_BRIDGE_H_
 

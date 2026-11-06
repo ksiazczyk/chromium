@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_confirmation_view_controller.mm.
+type: source
+title: Idle timeout confirmation view controller implementation
+summary: Implements the idle timeout confirmation dialog UI with the enterprise icon, action strings and a live countdown of the remaining time.

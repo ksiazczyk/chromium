@@ -1,0 +1,4 @@
+# Docerion header of browser_signin_policy_handler_unittest.mm.
+type: source
+title: BrowserSignin policy handler unit tests
+summary: Unit tests verifying that the BrowserSignin policy handler applies policy settings to preferences and checks policy values correctly.

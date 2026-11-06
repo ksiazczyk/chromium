@@ -1,0 +1,4 @@
+# Docerion header of device_management_service_configuration_ios.mm.
+type: source
+title: DeviceManagementServiceConfigurationIOS implementation
+summary: Returns the configured DM and reporting server URLs and builds agent and platform parameters from product version and OS information.

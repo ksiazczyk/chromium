@@ -1,0 +1,4 @@
+# Docerion header of permissions_unittest.mm.
+type: test
+title: Permissions conversion unit tests
+summary: Unit tests verifying WebPermissionFromContentPermission maps camera and microphone permissions and returns nullopt for geolocation.

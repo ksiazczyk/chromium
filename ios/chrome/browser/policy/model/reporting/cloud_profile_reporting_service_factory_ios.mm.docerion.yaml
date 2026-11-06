@@ -1,0 +1,4 @@
+# Docerion header of cloud_profile_reporting_service_factory_ios.mm.
+type: source
+title: Cloud profile reporting service factory iOS implementation
+summary: Creates the cloud profile reporting service per profile, wiring the profile ID service, signals aggregator and optional SaaS usage scheduler behind feature flags.

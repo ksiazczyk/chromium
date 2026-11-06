@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS management status providers
+// summary: Declares management status providers that report the enterprise management authority for the browser and for profiles on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_MANAGEMENT_STATUS_PROVIDERS_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_MANAGEMENT_STATUS_PROVIDERS_IOS_H_
 

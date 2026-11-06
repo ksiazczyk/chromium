@@ -1,0 +1,4 @@
+# Docerion header of management_status_providers_ios.mm.
+type: source
+title: iOS management status providers implementation
+summary: Implements providers that determine cloud, local or domain management authority for the browser and profiles on iOS.

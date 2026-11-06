@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewTabPageLocation policy handler unit tests
+// summary: Unit tests verifying that the NewTabPageLocation policy handler validates and applies policy values, including URLs missing a scheme.
+// ---
+
 #include "ios/chrome/browser/policy/model/new_tab_page_location_policy_handler.h"
 
 #include "components/policy/core/browser/policy_error_map.h"

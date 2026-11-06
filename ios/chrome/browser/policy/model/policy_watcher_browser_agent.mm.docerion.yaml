@@ -1,0 +1,4 @@
+# Docerion header of policy_watcher_browser_agent.mm.
+type: source
+title: Policy watcher browser agent implementation
+summary: Implements the policy watcher browser agent, handling BrowserSignin policy sign-outs, sync disabled prompts, and iCloud backup exclusion updates.

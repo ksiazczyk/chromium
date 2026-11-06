@@ -1,0 +1,4 @@
+# Docerion header of management_state.mm.
+type: source
+title: ManagementState implementation
+summary: Implements the default constructors, destructors and assignment operators of the ManagementState struct.

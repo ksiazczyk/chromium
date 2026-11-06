@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage reporting delegate factory for iOS header
+// summary: Declares the iOS implementation of the SaaS usage reporting delegate factory that supplies preferences, report factory, uploader, and scheduler delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORTING_DELEGATE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORTING_DELEGATE_FACTORY_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting feature flag declarations
+// summary: Declares feature flags for cloud profile reporting, using email as profile name and including all profiles in browser reports.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_FEATURES_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_FEATURES_H_
 

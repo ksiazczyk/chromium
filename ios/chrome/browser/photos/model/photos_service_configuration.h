@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhotosServiceConfiguration interface
+// summary: Declares the PhotosServiceConfiguration object holding single sign-on, preference, identity, and account manager dependencies for PhotosService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_SERVICE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_SERVICE_CONFIGURATION_H_
 

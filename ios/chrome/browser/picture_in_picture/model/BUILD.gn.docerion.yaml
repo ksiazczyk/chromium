@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for picture in picture scene agent
+summary: GN build configuration defining the scene_agent source_set with the picture in picture scene agent sources and their dependencies.

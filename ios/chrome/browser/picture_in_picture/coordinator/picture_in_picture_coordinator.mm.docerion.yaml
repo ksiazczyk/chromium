@@ -1,0 +1,4 @@
+# Docerion header of picture_in_picture_coordinator.mm.
+type: source
+title: PictureInPictureCoordinator implementation
+summary: Implements presenting the picture-in-picture view controller, handling unsupported devices, dismissal reasons, and opening the feature destination.

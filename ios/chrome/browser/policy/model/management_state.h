@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementState struct
+// summary: Declares a struct aggregating browser and profile management state used to display device management messages such as managed-by notices.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_MANAGEMENT_STATE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_MANAGEMENT_STATE_H_
 

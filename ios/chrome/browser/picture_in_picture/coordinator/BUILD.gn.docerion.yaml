@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Picture-in-picture coordinator BUILD.gn
+summary: Defines the coordinator source_set with its Objective-C sources and GN dependencies for the picture-in-picture feature.

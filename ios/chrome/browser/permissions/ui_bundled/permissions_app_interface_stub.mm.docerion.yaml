@@ -1,0 +1,4 @@
+# Docerion header of permissions_app_interface_stub.mm.
+type: source
+title: PermissionsAppInterface Earl Grey stub
+summary: Stubs out PermissionsAppInterface in the app main queue for Earl Grey test support.

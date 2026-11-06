@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report scheduler delegate for iOS header
+// summary: Declares an iOS delegate that observes profile manager events and signals the SaaS usage report scheduler when reporting-enabled profiles exist.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_DELEGATE_IOS_H_
 

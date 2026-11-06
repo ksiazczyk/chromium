@@ -1,0 +1,4 @@
+# Docerion header of policy_watcher_browser_agent_unittest.mm.
+type: test
+title: Policy watcher browser agent unit tests
+summary: Unit tests covering the policy watcher browser agent's sign-out, sync prompt, and backup exclusion behavior under policy changes.

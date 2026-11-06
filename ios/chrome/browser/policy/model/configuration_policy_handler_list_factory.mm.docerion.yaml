@@ -1,0 +1,4 @@
+# Docerion header of configuration_policy_handler_list_factory.mm.
+type: source
+title: Configuration policy handler list factory implementation
+summary: Builds the iOS Chrome policy handler list, wiring handlers for bookmarks, safe browsing, enterprise connectors, reporting, and other managed preferences.

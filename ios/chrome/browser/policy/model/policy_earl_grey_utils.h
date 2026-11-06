@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy Earl Grey test utilities
+// summary: Declares helpers to set, merge, query and clear platform policies of various types during Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_EARL_GREY_UTILS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_EARL_GREY_UTILS_H_
 

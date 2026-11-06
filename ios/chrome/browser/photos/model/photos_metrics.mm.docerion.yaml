@@ -1,0 +1,4 @@
+# Docerion header of photos_metrics.mm.
+type: source
+title: Save to Photos histogram name constants
+summary: Defines the string constants for the Save to Photos UMA histogram names used across the feature.

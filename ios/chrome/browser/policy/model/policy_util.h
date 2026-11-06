@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy utility header with signin and incognito enums
+// summary: Declares the BrowserSigninMode and IncognitoModePrefs enums plus helpers to check platform policies and incognito restrictions on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_UTIL_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_UTIL_H_
 

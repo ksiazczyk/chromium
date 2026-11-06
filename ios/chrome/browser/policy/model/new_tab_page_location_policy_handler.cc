@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabPageLocation policy handler implementation
+// summary: Implements the NewTabPageLocation policy handler, validating URLs and applying the policy to the new tab page override preference.
+// ---
+
 #include "ios/chrome/browser/policy/model/new_tab_page_location_policy_handler.h"
 
 #include "base/strings/strcat.h"

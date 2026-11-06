@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage encryption protocol provider header
+// summary: Declares a singleton that resolves TLS encryption protocol versions per domain by sending HEAD requests and caching results for SaaS usage reporting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_ENCRYPTION_PROTOCOL_PROVIDER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_REPORTING_SAAS_USAGE_SAAS_USAGE_ENCRYPTION_PROTOCOL_PROVIDER_H_
 

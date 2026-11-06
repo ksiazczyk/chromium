@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionInfo class header
+// summary: Declares the PermissionInfo object storing a permission's type, session state, and domain-level setting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PERMISSIONS_UI_BUNDLED_PERMISSION_INFO_H_
 #define IOS_CHROME_BROWSER_PERMISSIONS_UI_BUNDLED_PERMISSION_INFO_H_
 

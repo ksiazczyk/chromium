@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture in Picture player view interface
+// summary: Declares a UIView subclass whose backing layer is an AVPlayerLayer for video playback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_PLAYER_VIEW_H_
 #define IOS_CHROME_BROWSER_PICTURE_IN_PICTURE_UI_PICTURE_IN_PICTURE_PLAYER_VIEW_H_
 

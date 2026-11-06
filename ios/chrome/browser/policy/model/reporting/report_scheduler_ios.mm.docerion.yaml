@@ -1,0 +1,4 @@
+# Docerion header of report_scheduler_ios.mm.
+type: source
+title: iOS report scheduler implementation
+summary: Implements the iOS report scheduler delegate supplying preferences, DM tokens, client IDs and cookie manager access.

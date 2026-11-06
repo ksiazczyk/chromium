@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhotosService interface for Photos Library uploads
+// summary: Declares the PhotosService keyed service interface for uploading images to a Photos library with progress and completion callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_SERVICE_H_
 #define IOS_CHROME_BROWSER_PHOTOS_MODEL_PHOTOS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy app interface
+// summary: Declares a test app interface offering methods to set, merge, query and clear policies, check URL blocking and manage cloud policy data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_APP_INTERFACE_H_
 

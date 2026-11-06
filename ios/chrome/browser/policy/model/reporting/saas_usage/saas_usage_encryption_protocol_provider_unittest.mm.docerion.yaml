@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_encryption_protocol_provider_unittest.mm.
+type: test
+title: SaaS usage encryption protocol provider unit tests
+summary: Tests the encryption protocol provider with a mock prober, covering unencrypted URLs, HTTPS probing, domain caching and coalescing of concurrent requests.

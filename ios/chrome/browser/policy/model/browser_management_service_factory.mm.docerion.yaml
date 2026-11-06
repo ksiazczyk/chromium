@@ -1,0 +1,4 @@
+# Docerion header of browser_management_service_factory.mm.
+type: source
+title: Browser management service factory for iOS
+summary: Factory that provides the browser management service for iOS profiles, returning the platform management service instance and building profile-scoped services.

@@ -1,0 +1,4 @@
+# Docerion header of policy_util.mm.
+type: source
+title: Policy utility implementation
+summary: Implements policy utility helpers that detect platform policies and whether incognito mode is disabled or forced by enterprise policy.

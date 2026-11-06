@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test platform policy provider implementation
+// summary: Returns a singleton mock configuration policy provider that tests install as the platform provider to update the current policy set.
+// ---
+
 #import "ios/chrome/browser/policy/model/test_platform_policy_provider.h"
 
 #include "base/no_destructor.h"

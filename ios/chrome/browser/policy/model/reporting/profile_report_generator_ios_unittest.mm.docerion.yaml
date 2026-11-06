@@ -1,0 +1,4 @@
+# Docerion header of profile_report_generator_ios_unittest.mm.
+type: test
+title: iOS profile report generator unit tests
+summary: Unit tests for the iOS profile report generator, covering signed-in user info, affiliation state and report generation behaviour.

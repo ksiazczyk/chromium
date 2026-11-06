@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientDataDelegateIos implementation
+// summary: Fills browser registration requests with the iOS platform, OS version, and hardware model and brand for the device management server.
+// ---
+
 #include "ios/chrome/browser/policy/model/client_data_delegate_ios.h"
 
 #include <utility>

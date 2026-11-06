@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy URL blocking tab helper header
+// summary: Declares a WebState policy decider tab helper that decides whether navigation requests are allowed under enterprise policy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_URL_BLOCKING_MODEL_POLICY_URL_BLOCKING_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_POLICY_URL_BLOCKING_MODEL_POLICY_URL_BLOCKING_TAB_HELPER_H_
 

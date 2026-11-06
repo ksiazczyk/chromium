@@ -1,0 +1,4 @@
+# Docerion header of saas_usage_report_scheduler_delegate_ios_unittest.mm.
+type: test
+title: SaaS usage report scheduler delegate for iOS unit tests
+summary: Tests the scheduler delegate's readiness and callbacks across personal and managed profiles with and without a realtime reporting client.

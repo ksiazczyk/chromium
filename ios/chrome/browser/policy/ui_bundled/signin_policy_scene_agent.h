@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the sign-in policy scene agent
+// summary: Declares a scene agent that monitors app state and policy updates to show sign-out and sign-in prompts when the scene UI is available.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_SIGNIN_POLICY_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_SIGNIN_POLICY_SCENE_AGENT_H_
 

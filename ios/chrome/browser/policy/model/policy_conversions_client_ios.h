@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy conversions client for iOS
+// summary: Declares a profile-based iOS implementation of the policy conversions client interface for exposing policy information.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_CONVERSIONS_CLIENT_IOS_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_POLICY_CONVERSIONS_CLIENT_IOS_H_
 

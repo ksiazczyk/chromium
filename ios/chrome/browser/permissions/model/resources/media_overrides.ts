@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media API access overrides
+// summary: Wraps navigator.mediaDevices.getUserMedia to report requested audio and video constraints to native code via a WebKit message when the API is accessed.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 // Ensure that the API is not added if it does not already exist.

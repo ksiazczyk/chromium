@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the iOS policy model directory
+summary: Lists the individuals and inherited owners file responsible for reviewing changes in this directory.

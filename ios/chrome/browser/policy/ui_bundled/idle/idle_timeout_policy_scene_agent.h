@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout policy scene agent header
+// summary: Declares a scene agent observing the idle service to update the UI on timeout, show snackbars after actions run, and display a loading window during data clearing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_IDLE_IDLE_TIMEOUT_POLICY_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_IDLE_IDLE_TIMEOUT_POLICY_SCENE_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of country_code_picker_coordinator.mm.
+type: source
+title: Country code picker coordinator implementation
+summary: Implements the coordinator that creates the country code picker view controller and wires its add-contacts command handler.

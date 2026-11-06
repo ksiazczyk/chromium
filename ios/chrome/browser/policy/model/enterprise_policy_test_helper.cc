@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise policy test helper
+// summary: Sets up a BrowserPolicyConnectorIOS with a mock policy provider, local state, profile prefs, and a test profile for enterprise policy tests.
+// ---
+
 #include "ios/chrome/browser/policy/model/enterprise_policy_test_helper.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestrictAccountsToPatterns policy handler header
+// summary: Declares RestrictAccountsPolicyHandler, the schema-validating handler that checks and applies the RestrictAccountsToPatterns policy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_RESTRICT_ACCOUNTS_POLICY_HANDLER_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_RESTRICT_ACCOUNTS_POLICY_HANDLER_H_
 

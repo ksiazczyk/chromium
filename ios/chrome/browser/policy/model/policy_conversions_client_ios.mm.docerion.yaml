@@ -1,0 +1,4 @@
+# Docerion header of policy_conversions_client_ios.mm.
+type: source
+title: Policy conversions client for iOS implementation
+summary: Implements the profile-based policy conversions client for iOS, returning an empty list since extensions are unsupported.

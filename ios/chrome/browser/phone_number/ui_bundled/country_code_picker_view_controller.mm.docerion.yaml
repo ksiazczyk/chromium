@@ -1,0 +1,4 @@
+# Docerion header of country_code_picker_view_controller.mm.
+type: source
+title: Country code picker view controller implementation
+summary: Implements the country code picker, building the supported regions and codes list via libphonenumber with search filtering and selection handling.

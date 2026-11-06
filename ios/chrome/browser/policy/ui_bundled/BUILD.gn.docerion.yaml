@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for policy UI utilities
+summary: Defines GN source sets for user_policy_util, signin_policy_scene_agent, and management_util with their sources and dependencies.

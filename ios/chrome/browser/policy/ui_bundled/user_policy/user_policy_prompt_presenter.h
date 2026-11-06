@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy prompt presenter protocol
+// summary: Defines the UserPolicyPromptPresenter protocol for stopping presentation, showing the learn more page, and toggling the activity overlay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_USER_POLICY_USER_POLICY_PROMPT_PRESENTER_H_
 #define IOS_CHROME_BROWSER_POLICY_UI_BUNDLED_USER_POLICY_USER_POLICY_PROMPT_PRESENTER_H_
 

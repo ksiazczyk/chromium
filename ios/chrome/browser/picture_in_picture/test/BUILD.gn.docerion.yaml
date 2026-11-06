@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Picture in Picture Earl Grey tests build definition
+summary: GN build file defining the eg2 test source set for the Picture in Picture Earl Grey tests, with its sources, dependencies and frameworks.

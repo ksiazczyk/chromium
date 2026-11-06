@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration policy handler list factory header
+// summary: Declares BuildPolicyHandlerList, which builds the iOS configuration policy handler list with optional support for future policies.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POLICY_MODEL_CONFIGURATION_POLICY_HANDLER_LIST_FACTORY_H_
 #define IOS_CHROME_BROWSER_POLICY_MODEL_CONFIGURATION_POLICY_HANDLER_LIST_FACTORY_H_
 
