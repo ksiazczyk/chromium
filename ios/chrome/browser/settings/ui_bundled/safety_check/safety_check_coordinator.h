@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check coordinator interface
+// summary: Declares the coordinator that presents the Safety Check screen, with referrer-based initialization and notification button updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_COORDINATOR_H_
 

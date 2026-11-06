@@ -1,0 +1,4 @@
+# Docerion header of animated_coordinator.mm.
+type: source
+title: AnimatedCoordinator implementation
+summary: 'Implements stopAnimated: to call the superclass stop and routes stop to a non-animated stopAnimated: call.'

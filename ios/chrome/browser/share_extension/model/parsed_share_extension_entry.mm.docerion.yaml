@@ -1,0 +1,4 @@
+# Docerion header of parsed_share_extension_entry.mm.
+type: source
+title: ParsedShareExtensionEntry implementation
+summary: Implements entry validation, requiring source, date and type, and a valid HTTP or HTTPS URL for bookmark, reading list and open-in-Chrome items.

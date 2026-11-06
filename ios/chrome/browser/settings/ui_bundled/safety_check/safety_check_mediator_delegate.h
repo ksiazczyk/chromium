@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check mediator delegate protocol
+// summary: Defines a delegate protocol for toggling Safety Check push notifications and coordinating the related user interface presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_MEDIATOR_DELEGATE_H_
 

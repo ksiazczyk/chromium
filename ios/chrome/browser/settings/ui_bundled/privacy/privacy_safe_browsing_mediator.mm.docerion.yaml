@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_mediator.mm.
+type: source
+title: Privacy Safe Browsing mediator implementation
+summary: Implements the Safe Browsing mediator, building the standard, enhanced, and no-protection items from preferences and handling selection and enterprise state.

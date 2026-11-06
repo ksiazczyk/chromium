@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit avatar configuration header
+// summary: Declares a configuration object holding the URL, display name and size needed to obtain an avatar image through ShareKit.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_AVATAR_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_AVATAR_CONFIGURATION_H_
 

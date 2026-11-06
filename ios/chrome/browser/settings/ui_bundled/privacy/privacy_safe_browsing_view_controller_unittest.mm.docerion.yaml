@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_view_controller_unittest.mm.
+type: test
+title: Privacy Safe Browsing view controller unit tests
+summary: Unit tests verifying the Safe Browsing settings view controller title, section layout, and protection option cells under different preference and branding states.

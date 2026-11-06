@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing standard protection consumer protocol
+// summary: Declares the consumer protocol for updating standard protection list items, shield and metric section headers and managed UI info bubbles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_SAFE_BROWSING_SAFE_BROWSING_STANDARD_PROTECTION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_SAFE_BROWSING_SAFE_BROWSING_STANDARD_PROTECTION_CONSUMER_H_
 

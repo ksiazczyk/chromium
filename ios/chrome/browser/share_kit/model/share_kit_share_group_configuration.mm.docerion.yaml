@@ -1,0 +1,4 @@
+# Docerion header of share_kit_share_group_configuration.mm.
+type: source
+title: ShareKitShareGroupConfiguration implementation
+summary: Implements the ShareKitShareGroupConfiguration object used to configure sharing a tab group.

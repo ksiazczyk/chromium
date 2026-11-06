@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff table view controller header
+// summary: Header declaring the view controller that manages the Handoff-related settings screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_HANDOFF_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_HANDOFF_TABLE_VIEW_CONTROLLER_H_
 

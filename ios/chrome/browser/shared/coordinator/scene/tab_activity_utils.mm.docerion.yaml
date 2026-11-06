@@ -1,0 +1,4 @@
+# Docerion header of tab_activity_utils.mm.
+type: source
+title: Tab activity utilities implementation
+summary: Implements validation of tab activities against browsers of a profile and moving tabs between browsers on tab move activities.

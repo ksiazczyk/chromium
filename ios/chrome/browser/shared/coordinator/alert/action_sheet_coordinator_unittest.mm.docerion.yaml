@@ -1,0 +1,4 @@
+# Docerion header of action_sheet_coordinator_unittest.mm.
+type: test
+title: ActionSheetCoordinator unit tests
+summary: Unit tests verifying popover anchoring, alert style, and presentation behavior of the action sheet coordinator.

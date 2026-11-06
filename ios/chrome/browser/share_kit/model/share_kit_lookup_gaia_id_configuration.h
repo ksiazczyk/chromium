@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit Gaia ID lookup configuration header
+// summary: Declares ShareKitLookupGaiaIDConfiguration, which looks up a Gaia ID for an email address and reports the result through a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_LOOKUP_GAIA_ID_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_LOOKUP_GAIA_ID_CONFIGURATION_H_
 

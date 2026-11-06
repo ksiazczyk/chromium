@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the root_coordinator target
+summary: GN build file that defines the root_coordinator source set, listing root_coordinator.h and root_coordinator.mm as its sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider settings utils header
+// summary: Declares an enum of places where the iOS credential provider prompt can be triggered, plus functions to open the iOS credential provider settings and record the Turn on AutoFill prompt outcome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_UTILS_CREDENTIAL_PROVIDER_SETTINGS_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_UTILS_CREDENTIAL_PROVIDER_SETTINGS_UTILS_H_
 

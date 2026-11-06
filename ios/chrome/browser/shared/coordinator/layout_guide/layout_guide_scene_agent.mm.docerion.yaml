@@ -1,0 +1,4 @@
+# Docerion header of layout_guide_scene_agent.mm.
+type: source
+title: LayoutGuideSceneAgent implementation
+summary: Creates the scene, regular and incognito layout guide centers and links the profile-scoped centers to the scene center as parent.

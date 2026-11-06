@@ -1,0 +1,4 @@
+# Docerion header of safety_check_mediator.mm.
+type: source
+title: Safety check mediator implementation
+summary: Implements SafetyCheckMediator logic for running update, password, and Safe Browsing checks and managing the notifications opt-in section.

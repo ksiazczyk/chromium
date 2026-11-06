@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservingSceneAgent base class header
+// summary: Declares a scene agent base class that also acts as a scene state observer, with helpers to look up agents per scene.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_OBSERVING_SCENE_STATE_AGENT_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_OBSERVING_SCENE_STATE_AGENT_H_
 

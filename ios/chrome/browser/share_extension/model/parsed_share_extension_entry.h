@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParsedShareExtensionEntry interface
+// summary: Declares an Objective-C class holding a parsed share extension item with properties for URL, title, date, type and Gaia ID, plus validity checking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_PARSED_SHARE_EXTENSION_ENTRY_H_
 #define IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_PARSED_SHARE_EXTENSION_ENTRY_H_
 

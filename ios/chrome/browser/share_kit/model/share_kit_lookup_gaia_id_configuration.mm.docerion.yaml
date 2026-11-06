@@ -1,0 +1,4 @@
+# Docerion header of share_kit_lookup_gaia_id_configuration.mm.
+type: source
+title: ShareKit Gaia ID lookup configuration implementation
+summary: Implements the ShareKitLookupGaiaIDConfiguration interface for email to Gaia ID lookups.

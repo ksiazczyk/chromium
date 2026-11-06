@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the scene coordinator
+summary: Defines GN source sets and dependencies for the scene state, agents, controller, and related iOS Chrome scene components.

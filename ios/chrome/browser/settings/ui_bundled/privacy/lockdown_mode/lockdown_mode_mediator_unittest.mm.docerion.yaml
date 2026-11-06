@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_mediator_unittest.mm.
+type: test
+title: Lockdown mode mediator unit tests
+summary: Unit tests verifying that the mediator updates its consumer correctly and keeps the browser lockdown mode preference in sync.

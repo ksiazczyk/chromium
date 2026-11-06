@@ -1,0 +1,4 @@
+# Docerion header of fake_connection_information.mm.
+type: test
+title: FakeConnectionInformation test double implementation
+summary: Implements FakeConnectionInformation by synthesizing the startupParameters and startupParametersAreBeingHandled properties for scene tests.

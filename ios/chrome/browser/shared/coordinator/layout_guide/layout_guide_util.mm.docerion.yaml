@@ -1,0 +1,4 @@
+# Docerion header of layout_guide_util.mm.
+type: source
+title: Layout guide utility implementation
+summary: Resolves the layout guide center per browser profile (regular or incognito) or scene, falling back to a shared global instance.

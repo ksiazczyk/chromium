@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for sync settings UI
+summary: Defines the GN build targets for the iOS sync settings UI, including the sync source set, constants, and unit tests with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share extension model build targets
+summary: Defines GN source sets for the share extension controller, utils, bookmark and reading list adders, and scene agent with their dependencies.

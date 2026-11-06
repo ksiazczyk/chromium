@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit delete configuration header
+// summary: Declares a configuration object carrying the collaboration group ID and a status callback for deleting a group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_DELETE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_DELETE_CONFIGURATION_H_
 

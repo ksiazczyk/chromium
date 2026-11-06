@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit avatar primitive protocol
+// summary: Defines a protocol that provides an avatar view and resolves the image backing that view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_AVATAR_PRIMITIVE_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_AVATAR_PRIMITIVE_H_
 

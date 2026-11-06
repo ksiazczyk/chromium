@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_standard_protection_view_controller.mm.
+type: source
+title: Safe Browsing standard protection view controller implementation
+summary: Implements the standard protection settings UI with shield and metric headers, a Done button, dismissal handling, and close key commands.

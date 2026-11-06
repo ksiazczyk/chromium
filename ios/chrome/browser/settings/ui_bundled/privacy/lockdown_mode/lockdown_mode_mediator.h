@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lockdown mode mediator interface
+// summary: Declares the LockdownModeMediator class that connects the lockdown mode view controller with the browser lockdown mode preference.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_MEDIATOR_H_
 

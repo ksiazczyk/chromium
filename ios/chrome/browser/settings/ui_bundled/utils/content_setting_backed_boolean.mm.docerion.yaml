@@ -1,0 +1,4 @@
+# Docerion header of content_setting_backed_boolean.mm.
+type: source
+title: ContentSettingBackedBoolean implementation
+summary: Implements ContentSettingBackedBoolean, observing content setting changes through a C++ observer bridge and notifying its boolean observer.

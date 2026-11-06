@@ -1,0 +1,4 @@
+# Docerion header of root_coordinator.mm.
+type: source
+title: RootCoordinator implementation
+summary: Objective-C implementation of RootCoordinator that imports its header and provides empty default start and stop method bodies.

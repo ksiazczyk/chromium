@@ -1,0 +1,4 @@
+# Docerion header of fake_share_kit_flow_view_controller.mm.
+type: test
+title: Fake ShareKit flow view controller implementation
+summary: Implements the fake flow view controller, reporting success or cancellation through test callbacks when save or cancel is tapped.

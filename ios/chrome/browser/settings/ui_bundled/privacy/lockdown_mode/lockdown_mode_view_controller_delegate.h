@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lockdown Mode view controller delegate protocol
+// summary: Declares the LockdownModeViewControllerDelegate protocol used to relay the browser lockdown mode switch toggle from the view controller to the model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_LOCKDOWN_MODE_LOCKDOWN_MODE_VIEW_CONTROLLER_DELEGATE_H_
 

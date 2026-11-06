@@ -1,0 +1,4 @@
+# Docerion header of task_updater_scene_agent.mm.
+type: source
+title: TaskUpdaterSceneAgent implementation
+summary: Implements the scene agent that advances or defers the task execution stage based on profile loading, UI blockers, activation level and sign-in state.

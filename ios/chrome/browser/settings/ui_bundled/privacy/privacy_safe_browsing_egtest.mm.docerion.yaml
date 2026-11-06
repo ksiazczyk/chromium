@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_egtest.mm.
+type: test
+title: Privacy Safe Browsing Earl Grey UI tests
+summary: Earl Grey UI tests that open the Safe Browsing privacy settings and verify protection options, warning alerts, and related UI behavior.

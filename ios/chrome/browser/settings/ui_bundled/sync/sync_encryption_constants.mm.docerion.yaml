@@ -1,0 +1,4 @@
+# Docerion header of sync_encryption_constants.mm.
+type: source
+title: Sync encryption accessibility identifier constant definition
+summary: Defines the accessibility identifier string for the sync full encryption item.

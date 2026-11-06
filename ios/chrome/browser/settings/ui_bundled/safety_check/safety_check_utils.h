@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check utilities header
+// summary: Declares PreviousSafetyCheckIssueFound, which reports whether the previous safety check run found an issue.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_UTILS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SAFETY_CHECK_SAFETY_CHECK_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync encryption settings view controller interface
+// summary: Declares the sync encryption settings controller and its presentation delegate protocol for choosing the sync passphrase.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SYNC_SYNC_ENCRYPTION_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SYNC_SYNC_ENCRYPTION_TABLE_VIEW_CONTROLLER_H_
 

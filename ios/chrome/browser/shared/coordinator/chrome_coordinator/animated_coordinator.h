@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedCoordinator class interface
+// summary: Declares AnimatedCoordinator, a ChromeCoordinator subclass whose stop method can run animated or non-animated via stopAnimated:.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_CHROME_COORDINATOR_ANIMATED_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_CHROME_COORDINATOR_ANIMATED_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLayoutState interface
+// summary: Declares BrowserLayoutState, which tracks a browser's toolbar position and tab strip visibility and notifies observers of changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_BROWSER_LAYOUT_STATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_BROWSER_LAYOUT_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneStateObserver protocol
+// summary: Declares the SceneStateObserver protocol with callbacks for activation changes, UI enablement, pending URLs, user activities, and sign-in events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_OBSERVER_H_
 

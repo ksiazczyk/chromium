@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_standard_protection_coordinator.mm.
+type: source
+title: Safe Browsing standard protection coordinator implementation
+summary: Implements the coordinator that creates and wires the standard protection view controller and mediator and forwards removal events to its delegate.

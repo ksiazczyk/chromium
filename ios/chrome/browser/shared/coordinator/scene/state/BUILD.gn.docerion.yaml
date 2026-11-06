@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for scene state
+summary: Defines the GN build targets for scene state sources, the incognito lock state header and the test support passkey factory.

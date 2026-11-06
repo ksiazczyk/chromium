@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAutoFillStatusManager header
+// summary: Declares PasswordAutoFillStatusManager, a singleton that tracks the password autofill status and notifies registered observers of changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_UTILS_PASSWORD_AUTO_FILL_STATUS_MANAGER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_UTILS_PASSWORD_AUTO_FILL_STATUS_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tabs_settings_egtest.mm.
+type: test
+title: Tabs settings Earl Grey UI tests
+summary: Earl Grey tests verifying the tabs settings screen opens, including when inactive tabs are disabled by the user.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout state test passkey factory
+// summary: Test helper that creates layout state passkeys so unit tests can update layout state values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LAYOUT_STATE_TEST_PASSKEY_FACTORY_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LAYOUT_STATE_TEST_PASSKEY_FACTORY_H_
 

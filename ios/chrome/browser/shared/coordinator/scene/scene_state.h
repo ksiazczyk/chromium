@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneState header
+// summary: Declares SceneState, the per-scene state object holding activation level, window, agents, pending URLs and activities, and UI flags.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_STATE_H_
 

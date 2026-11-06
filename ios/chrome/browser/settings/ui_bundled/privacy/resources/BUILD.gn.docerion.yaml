@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn bundling privacy settings asset catalog resources
+summary: GN build rule that bundles the Assets.xcassets catalog, including checkmark image sets, as resources for the iOS privacy settings UI.

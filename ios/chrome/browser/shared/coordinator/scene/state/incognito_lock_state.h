@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoLockState enum
+// summary: Defines the IncognitoLockState enum for overlays shown over incognito content, including reauthentication and soft lock.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_INCOGNITO_LOCK_STATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_INCOGNITO_LOCK_STATE_H_
 

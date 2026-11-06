@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ShareKit model DEPS include rules
+summary: Declares the allowed include directories for the ShareKit model folder, covering collaboration, data sharing, saved tab groups and signin.

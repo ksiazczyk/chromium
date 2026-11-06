@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for incognito lock settings
+summary: Defines GN source sets and dependencies for the incognito lock coordinator, UI, protocols, and unit and Earl Grey tests.

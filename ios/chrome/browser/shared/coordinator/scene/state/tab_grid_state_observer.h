@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab grid state C++ observer interface
+// summary: Defines TabGridStateObserver, a C++ CheckedObserver interface receiving tab grid entry, exit, page change and tab group visibility callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_TAB_GRID_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_TAB_GRID_STATE_OBSERVER_H_
 

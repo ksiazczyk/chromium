@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareKit flow outcome enum
+// summary: Defines the ShareKitFlowOutcome enum with success, failure and cancel results for share kit flows.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_FLOW_OUTCOME_H_
 #define IOS_CHROME_BROWSER_SHARE_KIT_MODEL_SHARE_KIT_FLOW_OUTCOME_H_
 

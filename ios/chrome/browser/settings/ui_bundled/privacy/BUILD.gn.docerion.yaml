@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration defining the source set and dependencies for the iOS privacy settings UI.

@@ -1,0 +1,4 @@
+# Docerion header of non_modal_default_browser_promo_scheduler_scene_agent_unittest.mm.
+type: test
+title: Non-modal default browser promo scheduler scene agent unit tests
+summary: Unit tests for the promo scheduler scene agent, verifying promo triggers, dismissal, and metrics using mock trackers and fake browser objects.

@@ -1,0 +1,4 @@
+# Docerion header of share_kit_preview_item.mm.
+type: source
+title: ShareKit preview item implementation
+summary: Implements the ShareKitPreviewItem interface used by the join flow preview screen.

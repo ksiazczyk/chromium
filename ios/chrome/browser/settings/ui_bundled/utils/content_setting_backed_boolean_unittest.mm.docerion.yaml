@@ -1,0 +1,4 @@
+# Docerion header of content_setting_backed_boolean_unittest.mm.
+type: test
+title: ContentSettingBackedBoolean unit tests
+summary: Unit tests verifying reading, writing, inverted mapping and observer updates for ContentSettingBackedBoolean against a test profile.

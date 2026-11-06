@@ -1,0 +1,4 @@
+# Docerion header of chrome_coordinator.mm.
+type: source
+title: ChromeCoordinator implementation
+summary: Implements ChromeCoordinator initialization, child coordinator accessors, and checked browser, profile, and scene state getters with default empty start and stop.

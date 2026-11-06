@@ -1,0 +1,4 @@
+# Docerion header of action_sheet_coordinator.mm.
+type: source
+title: ActionSheetCoordinator implementation
+summary: Implements action sheet presentation with popover anchoring, an automatic cancel button, and attributed title and message updates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubBrowserProvider test double header
+// summary: Declares StubBrowserProvider, a writable BrowserProvider test double that wraps a browser and defaults its properties to nil or NO.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TEST_STUB_BROWSER_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TEST_STUB_BROWSER_PROVIDER_H_
 

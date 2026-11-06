@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_state.mm.
+type: source
+title: Tab grid state implementation
+summary: Implements TabGridState setters that notify observers when the tab grid mode, page, visibility or visible tab group changes.

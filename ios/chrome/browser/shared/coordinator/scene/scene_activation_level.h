@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneActivationLevel enum
+// summary: Defines an iOS 12 compatible enum describing scene activation states from disconnected to foreground active.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_ACTIVATION_LEVEL_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_SCENE_ACTIVATION_LEVEL_H_
 

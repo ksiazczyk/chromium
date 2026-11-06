@@ -1,0 +1,4 @@
+# Docerion header of scene_delegate_unittests.mm.
+type: test
+title: SceneDelegate unit tests
+summary: Unit tests verifying that shortcuts, opened URL contexts, and user activities set startupHadExternalIntent on the scene state.

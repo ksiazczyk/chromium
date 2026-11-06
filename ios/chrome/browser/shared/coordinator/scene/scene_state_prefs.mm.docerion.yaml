@@ -1,0 +1,4 @@
+# Docerion header of scene_state_prefs.mm.
+type: source
+title: SceneStatePrefs implementation
+summary: Implements SceneStatePrefs by storing session-scoped boolean and time preferences in the profile attributes storage and observing profile unload events.

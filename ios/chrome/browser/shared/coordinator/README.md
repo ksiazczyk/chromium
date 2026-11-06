@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shared Coordinator folder
+summary: Explains that this folder holds code shared by coordinators, added mainly to simplify DEPS rules, and should only contain widely shared coordinator code.
+---
+
 # Shared Coordinator folder
 
 This folder only contains the code shared by the coordinators. It is here

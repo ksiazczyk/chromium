@@ -1,0 +1,4 @@
+# Docerion header of stub_browser_provider.mm.
+type: test
+title: StubBrowserProvider test double implementation
+summary: Implements StubBrowserProvider with a settable browser pointer, shutdown enforcement before deallocation, and a nil view controller.

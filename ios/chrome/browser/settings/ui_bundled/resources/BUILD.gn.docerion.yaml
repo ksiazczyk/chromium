@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build target for settings UI asset catalog resources
+summary: Declares a bundle_data_xcassets target that packages the settings UI asset catalog images and JSON metadata into the iOS app bundle.

@@ -1,0 +1,4 @@
+# Docerion header of lockdown_mode_egtest.mm.
+type: test
+title: Lockdown mode Earl Grey integration tests
+summary: Earl Grey integration tests verifying the lockdown mode settings screen behavior when OS lockdown mode is enabled or disabled.

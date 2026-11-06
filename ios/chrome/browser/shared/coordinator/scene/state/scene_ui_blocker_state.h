@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scene UI blocker state header
+// summary: Declares SceneUIBlockerState, which tracks whether a modal overlay is presented and notifies observers of show and hide events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_SCENE_UI_BLOCKER_STATE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_SCENE_UI_BLOCKER_STATE_H_
 

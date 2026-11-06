@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkAdder class declaration
+// summary: Declares a class that loads a given profile and adds a URL to its bookmarks, observing profile manager and bookmark model events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_BOOKMARK_ADDER_H_
 #define IOS_CHROME_BROWSER_SHARE_EXTENSION_MODEL_BOOKMARK_ADDER_H_
 

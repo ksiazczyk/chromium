@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay state notifier header
+// summary: Declares the LensOverlayStateNotifier object and its observer protocol for broadcasting Lens overlay lifecycle events such as prepare, appear, disappear and readjust.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LENS_OVERLAY_STATE_NOTIFIER_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_STATE_LENS_OVERLAY_STATE_NOTIFIER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of incognito_state.mm.
+type: source
+title: IncognitoState implementation
+summary: Implements IncognitoState, persisting incognito visibility in scene preferences and notifying observers of lock state changes.

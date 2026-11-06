@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_coordinator.mm.
+type: source
+title: Privacy Safe Browsing coordinator implementation
+summary: Implements the Safe Browsing settings coordinator, wiring the view controller, mediator, alert pop-up, and standard and enhanced protection sub-coordinators.

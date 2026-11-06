@@ -1,0 +1,4 @@
+# Docerion header of tabs_settings_constants.mm.
+type: source
+title: Tabs settings accessibility identifier constants implementation
+summary: Defines the accessibility identifier string constants used by the tabs settings UI.

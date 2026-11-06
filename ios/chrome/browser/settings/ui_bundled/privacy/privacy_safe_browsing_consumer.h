@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Safe Browsing consumer protocol
+// summary: Declares the consumer protocol that the Safe Browsing settings view controller implements to receive items, enterprise state, and cell updates from the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of repost_form_coordinator.mm.
+type: source
+title: RepostFormCoordinator implementation
+summary: Implements the repost form dialog with delayed presentation retries and a completion handler reporting the user's choice.

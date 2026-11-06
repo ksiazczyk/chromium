@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the incognito settings directory
+summary: Restricts header includes in this directory to the allowed first run and welcome back feature headers.

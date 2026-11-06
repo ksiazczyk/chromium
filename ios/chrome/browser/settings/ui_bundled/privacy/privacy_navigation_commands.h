@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy navigation commands header
+// summary: Protocol declaring navigation commands for opening privacy sub-screens such as Handoff, Safe Browsing and Lockdown Mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_NAVIGATION_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_NAVIGATION_COMMANDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of privacy_safe_browsing_mediator_unittest.mm.
+type: test
+title: Privacy Safe Browsing mediator unit tests
+summary: Unit tests for the Safe Browsing mediator verifying that selecting items updates protection preferences and checkmark state.

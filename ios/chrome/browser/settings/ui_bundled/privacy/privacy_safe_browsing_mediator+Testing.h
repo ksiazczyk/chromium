@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Safe Browsing mediator testing category
+// summary: Declares a testing-only category on the Safe Browsing mediator exposing item updates, checkmark logic, and preference properties for unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_PRIVACY_SAFE_BROWSING_MEDIATOR_TESTING_H_
 

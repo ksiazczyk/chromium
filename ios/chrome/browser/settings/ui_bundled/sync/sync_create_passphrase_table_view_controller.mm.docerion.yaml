@@ -1,0 +1,4 @@
+# Docerion header of sync_create_passphrase_table_view_controller.mm.
+type: source
+title: Sync create passphrase view controller implementation
+summary: Implements the controller for setting a new sync encryption passphrase, adding a confirm passphrase field and validating that both entries match.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Share extension model include rules
+summary: Grants this directory access to the bookmarks, reading list and signin model include paths via DEPS rules.

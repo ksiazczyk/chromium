@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_state_notifier.mm.
+type: source
+title: Lens overlay state notifier implementation
+summary: Implements LensOverlayStateNotifier by forwarding overlay lifecycle events to registered observers through a CRBProtocolObservers list.

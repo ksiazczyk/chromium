@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_enhanced_protection_coordinator.mm.
+type: source
+title: Safe Browsing enhanced protection coordinator implementation
+summary: Presents the enhanced protection view controller in a form sheet navigation controller and notifies the delegate when it is removed.

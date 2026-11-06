@@ -1,0 +1,4 @@
+# Docerion header of tabs_settings_table_view_controller.mm.
+type: source
+title: Tabs settings table view controller implementation
+summary: Implements the Tabs settings screen with sections for inactive tabs, start surface, and automatically opening tab groups.

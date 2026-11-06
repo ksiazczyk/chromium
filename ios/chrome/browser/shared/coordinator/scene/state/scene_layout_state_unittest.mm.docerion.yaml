@@ -1,0 +1,4 @@
+# Docerion header of scene_layout_state_unittest.mm.
+type: test
+title: Scene layout state unit tests
+summary: Unit tests verifying that SceneLayoutState notifies observers of contained layout, windowed mode, app bar position and related changes using passkeys from a test factory.

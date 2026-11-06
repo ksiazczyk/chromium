@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check table view controller Swift implementation
+// summary: Swift implementation of the safety check table view controller building sections for check types, check start, and notifications opt-in.
+// ---
+
 import UIKit
 
 // Delegate for presentation events related to SafetyCheckTableViewController.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubBrowserProviderInterface test double header
+// summary: Declares StubBrowserProviderInterface, a writable BrowserProviderInterface test double holding main and incognito stub providers for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TEST_STUB_BROWSER_PROVIDER_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SHARED_COORDINATOR_SCENE_TEST_STUB_BROWSER_PROVIDER_INTERFACE_H_
 

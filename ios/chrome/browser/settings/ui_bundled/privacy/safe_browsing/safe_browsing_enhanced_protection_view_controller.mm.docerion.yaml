@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_enhanced_protection_view_controller.mm.
+type: source
+title: Safe Browsing enhanced protection view controller implementation
+summary: Builds the enhanced protection settings screen as a scrollable stack view of explanatory icon and text items with a done button.

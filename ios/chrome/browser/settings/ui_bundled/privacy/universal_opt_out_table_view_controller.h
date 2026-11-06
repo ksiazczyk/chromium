@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt Out settings view controller header
+// summary: Declares the view controller managing Universal Opt Out settings and the accessibility identifiers for its table view, switch, and error items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_UNIVERSAL_OPT_OUT_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PRIVACY_UNIVERSAL_OPT_OUT_TABLE_VIEW_CONTROLLER_H_
 
