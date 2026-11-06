@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints allowed hints helper implementation
+// summary: Implements GetAllowedClientHints, which reads the stored client hints content setting list and enables the corresponding hints in the blink EnabledClientHints set.
+// ---
+
 #include "components/client_hints/common/client_hints.h"
 
 #include "third_party/blink/public/common/client_hints/enabled_client_hints.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingChangeNotifier interface
+// summary: Declares an observer interface that translates DataSharingService events into simplified group and member delta notifications.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_DATA_SHARING_CHANGE_NOTIFIER_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_DATA_SHARING_CHANGE_NOTIFIER_H_
 

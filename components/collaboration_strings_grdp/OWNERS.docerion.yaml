@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for the collaboration strings directory
+summary: Delegates ownership of the collaboration strings directory to the OWNERS file in components/collaboration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI conversion utilities for collaboration messaging
+// summary: Implements C++ to Java conversions for persistent messages, message attribution, UUIDs, and activity log items in the collaboration messaging component.
+// ---
+
 #include "components/collaboration/internal/android/messaging/conversion_utils.h"
 
 #include <optional>

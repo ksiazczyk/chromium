@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConversionUtils JNI helper for collaboration messaging
+// summary: Helper class called by native code to convert C++ collaboration messaging objects into Java objects such as MessageAttribution, InstantMessage, and PersistentMessage.
+// ---
+
 package org.chromium.components.collaboration.messaging.bridge;
 
 import android.text.TextUtils;

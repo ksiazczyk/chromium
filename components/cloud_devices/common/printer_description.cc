@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer CDD and CJT item implementation
+// summary: Implements printer capabilities and ticket items such as collate, color, copies, dpi, duplex, margins, media size and vendor capabilities for the cloud device description format.
+// ---
+
 #include "components/cloud_devices/common/printer_description.h"
 
 #include <stddef.h>

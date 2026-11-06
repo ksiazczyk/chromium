@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend service implementation
+// summary: Implements the messaging backend service that turns tab group and data sharing changes into persistent messages, activity log entries, and localized notification strings.
+// ---
+
 #include "components/collaboration/internal/messaging/messaging_backend_service_impl.h"
 
 #include <sys/types.h>

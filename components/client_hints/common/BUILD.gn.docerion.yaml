@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the client hints common component
+summary: GN build file defining the common source set with the client hints and switches sources and its dependencies on content settings, blink common headers, and url.

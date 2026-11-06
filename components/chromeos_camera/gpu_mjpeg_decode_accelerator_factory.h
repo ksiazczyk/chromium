@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU MJPEG decode accelerator factory header
+// summary: Declares the GpuMjpegDecodeAcceleratorFactory class that queries accelerated JPEG decode support and lists platform-specific decoder creation callbacks.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_GPU_MJPEG_DECODE_ACCELERATOR_FACTORY_H_
 #define COMPONENTS_CHROMEOS_CAMERA_GPU_MJPEG_DECODE_ACCELERATOR_FACTORY_H_
 

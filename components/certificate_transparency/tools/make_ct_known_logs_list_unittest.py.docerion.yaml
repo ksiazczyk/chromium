@@ -1,0 +1,4 @@
+# Docerion header of make_ct_known_logs_list_unittest.py.
+type: test
+title: Unit tests for make_ct_known_logs_list
+summary: Unittest module verifying the helper functions of the CT known logs list generator, such as binary data hex formatting and log info struct generation.

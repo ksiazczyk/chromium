@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the messaging backend service JNI bridge
+// summary: Implements the bridge that marshals message queries, display and hide events, and activity log access between the C++ messaging backend service and its Java counterpart.
+// ---
+
 #include "components/collaboration/internal/android/messaging/messaging_backend_service_bridge.h"
 
 #include <memory>

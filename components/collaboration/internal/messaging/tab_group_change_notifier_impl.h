@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group change notifier implementation header
+// summary: Declares TabGroupChangeNotifierImpl, which observes TabGroupSyncService, maintains prior state, and publishes tab group change deltas to observers.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_TAB_GROUP_CHANGE_NOTIFIER_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_TAB_GROUP_CHANGE_NOTIFIER_IMPL_H_
 

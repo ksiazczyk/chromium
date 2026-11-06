@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for components color
+# summary: Runs strict cpplint checks on .cc and .h files at upload and commit time.
+# ---
+
 INCLUDE_CPP_FILES_ONLY = (r'.*\.(cc|h)$',)
 
 

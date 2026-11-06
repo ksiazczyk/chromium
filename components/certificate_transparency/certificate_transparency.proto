@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definition of the CT log list format
+// summary: Defines protobuf messages describing CT logs, their operators, states, and the versioned log list format.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_certificate_transparency;

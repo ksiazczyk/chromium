@@ -1,3 +1,11 @@
+---
+type: readme
+title: Certificate Transparency (CT) component overview
+summary: Explains the CT log list and Chrome's CT policy enforcement, including log list formats, update delivery, and how to run tests.
+relations:
+  - references /chrome/browser/component_updater/pki_metadata_component_installer.h
+---
+
 # Certificate Transparency (CT)
 
 This directory contains the implementation of the CT log list and Chrome's CT

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints web contents observer implementation
+// summary: Updates the stored main frame viewport size whenever the web contents becomes visible or the primary main frame is resized.
+// ---
+
 #include "components/client_hints/browser/client_hints_web_contents_observer.h"
 
 #include "content/public/browser/browser_context.h"

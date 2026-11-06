@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite messaging backend database implementation
+// summary: Implements the messaging backend database with SQLite and sqlite_proto, storing collaboration messages in the profile's Collaboration directory.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/messaging_backend_database_impl.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the messaging backend service JNI bridge
+// summary: Declares the bridge class that proxies the C++ messaging backend service to Java and implements its observer and instant message delegate callbacks.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_ANDROID_MESSAGING_MESSAGING_BACKEND_SERVICE_BRIDGE_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_ANDROID_MESSAGING_MESSAGING_BACKEND_SERVICE_BRIDGE_H_
 

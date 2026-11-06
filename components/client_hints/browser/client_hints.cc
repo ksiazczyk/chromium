@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientHints browser service implementation
+// summary: Implements the browser-side client hints controller delegate, persisting per-origin Accept-CH settings and supplying user agent metadata and viewport size.
+// ---
+
 #include "components/client_hints/browser/client_hints.h"
 
 #include <cmath>

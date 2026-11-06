@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU MJPEG decode accelerator factory implementation
+// summary: Implements the MJPEG decode accelerator factory, selecting V4L2, VaAPI, or fake decoders based on build flags and command-line switches.
+// ---
+
 #include "components/chromeos_camera/gpu_mjpeg_decode_accelerator_factory.h"
 
 #include <memory>

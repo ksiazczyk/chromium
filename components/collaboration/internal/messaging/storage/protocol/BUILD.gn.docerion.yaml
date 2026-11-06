@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the collaboration messaging storage protocol
+summary: Defines the protobuf library target that compiles message.proto for the collaboration messaging storage protocol.

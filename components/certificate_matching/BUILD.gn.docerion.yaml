@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for certificate_matching
+summary: Defines the certificate_matching GN component with its sources and dependencies on base and net, plus a testonly source_set for the unit tests.

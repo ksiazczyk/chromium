@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo MJPEG decode accelerator service unit tests
+// summary: Unit tests that create the Mojo MJPEG decode service with a fake decode accelerator and verify initialization and a decode round trip.
+// ---
+
 #include "components/chromeos_camera/mojo_mjpeg_decode_accelerator_service.h"
 
 #include "base/command_line.h"

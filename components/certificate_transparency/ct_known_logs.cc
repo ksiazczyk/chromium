@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known Certificate Transparency logs implementation
+// summary: Provides the list of known Certificate Transparency logs, including qualified and disqualified logs, from the embedded log list data.
+// ---
+
 #include "components/certificate_transparency/ct_known_logs.h"
 
 #include <stddef.h>

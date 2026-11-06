@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging backend service unit tests
+// summary: Unit tests for MessagingBackendServiceImpl covering persistent messages, activity logs, and message clearing with mocked sync and data sharing services.
+// ---
+
 #include "components/collaboration/internal/messaging/messaging_backend_service_impl.h"
 
 #include <ctime>

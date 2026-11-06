@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints command-line switch definitions
+// summary: Defines the initialize-client-hints-storage switch that pre-loads client hint storage from a JSON origin-to-token-list mapping for non-incognito profiles.
+// ---
+
 #include "components/client_hints/common/switches.h"
 
 namespace client_hints {

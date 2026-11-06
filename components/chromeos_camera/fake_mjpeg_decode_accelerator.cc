@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MJPEG decode accelerator implementation
+// summary: Implements a software stub decoder that fills output frames with zeros so the decode pipeline can be exercised without hardware.
+// ---
+
 #include "components/chromeos_camera/fake_mjpeg_decode_accelerator.h"
 
 #include <utility>

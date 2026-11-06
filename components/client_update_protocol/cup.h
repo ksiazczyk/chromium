@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client Update Protocol class declaration
+// summary: Declares the Cup class that adds freshness and authenticity to Google Update server responses over HTTP using ML-DSA-44 signatures.
+// ---
+
 #ifndef COMPONENTS_CLIENT_UPDATE_PROTOCOL_CUP_H_
 #define COMPONENTS_CLIENT_UPDATE_PROTOCOL_CUP_H_
 

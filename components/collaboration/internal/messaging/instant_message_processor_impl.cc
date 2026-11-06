@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message processor implementation
+// summary: Implements the instant message processor that queues, aggregates, and displays one-off collaboration messages such as tab removals and member additions.
+// ---
+
 #include "components/collaboration/internal/messaging/instant_message_processor_impl.h"
 
 #include <optional>

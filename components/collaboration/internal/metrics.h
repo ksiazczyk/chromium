@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration service metrics event enums
+// summary: Defines enums for collaboration service join, share or manage, and flow events used in persisted histogram metrics, with lint cross-references to enums.xml.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_METRICS_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_METRICS_H_
 

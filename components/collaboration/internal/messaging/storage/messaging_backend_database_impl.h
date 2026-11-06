@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite messaging backend database header
+// summary: Declares MessagingBackendDatabaseImpl, the SQLite-backed implementation of the messaging backend database interface with test hooks.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_MESSAGING_BACKEND_DATABASE_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_MESSAGING_BACKEND_DATABASE_IMPL_H_
 

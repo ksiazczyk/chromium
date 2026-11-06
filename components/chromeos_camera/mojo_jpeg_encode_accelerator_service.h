@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo JPEG encode accelerator service header
+// summary: Declares MojoJpegEncodeAcceleratorService, a GPU-process Mojo service that wraps a JpegEncodeAccelerator to serve JPEG encode requests over IPC.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_MOJO_JPEG_ENCODE_ACCELERATOR_SERVICE_H_
 #define COMPONENTS_CHROMEOS_CAMERA_MOJO_JPEG_ENCODE_ACCELERATOR_SERVICE_H_
 

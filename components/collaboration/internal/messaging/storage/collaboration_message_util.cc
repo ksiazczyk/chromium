@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration message category utility implementation
+// summary: Implements GetMessageCategory, mapping collaboration message event types to tab, tab group, collaboration, or unknown message categories.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/collaboration_message_util.h"
 
 namespace collaboration::messaging {

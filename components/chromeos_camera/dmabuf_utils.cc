@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMA-buf validation and video frame construction
+// summary: Implements verification of MJPEG DMA-buf handles and construction of media video frames from DMA-buf plane descriptors.
+// ---
+
 #include "components/chromeos_camera/dmabuf_utils.h"
 
 #include <unistd.h>

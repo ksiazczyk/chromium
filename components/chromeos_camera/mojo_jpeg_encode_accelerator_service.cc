@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo JPEG encode accelerator service implementation
+// summary: Implements the Mojo service that wraps a JpegEncodeAccelerator, handling initialization, shared memory buffers, and encode result notifications over IPC.
+// ---
+
 #include "components/chromeos_camera/mojo_jpeg_encode_accelerator_service.h"
 
 #include <linux/videodev2.h>

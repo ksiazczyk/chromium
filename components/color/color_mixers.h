@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the components color mixers
+// summary: Declares AddComponentsColorMixers, which attaches //components color mixers to a ui::ColorProvider.
+// ---
+
 #ifndef COMPONENTS_COLOR_COLOR_MIXERS_H_
 #define COMPONENTS_COLOR_COLOR_MIXERS_H_
 

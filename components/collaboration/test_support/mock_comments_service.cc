@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCommentsService implementation
+// summary: Implements the constructor and destructor of the mock comments service used as a test double.
+// ---
+
 #include "components/collaboration/test_support/mock_comments_service.h"
 
 namespace collaboration::comments {

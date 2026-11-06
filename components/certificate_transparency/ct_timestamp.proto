@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTTimestamp protobuf definition
+// summary: Defines the CTTimestamp protobuf message storing a timestamp as seconds and nanos for Certificate Transparency data.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_certificate_transparency;

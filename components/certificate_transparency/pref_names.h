@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate Transparency preference names
+// summary: Declares the preference names for CT-excluded hosts and SPKIs, documenting the URLBlocklist filter syntax and SPKI matching conditions.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_TRANSPARENCY_PREF_NAMES_H_
 #define COMPONENTS_CERTIFICATE_TRANSPARENCY_PREF_NAMES_H_
 

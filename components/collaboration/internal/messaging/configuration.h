@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBackendConfiguration struct
+// summary: Defines configuration flags for the messaging backend service, such as when persistent tab chip messages are cleared.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_CONFIGURATION_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_CONFIGURATION_H_
 

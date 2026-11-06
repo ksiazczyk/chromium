@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend store implementation
+// summary: Implements MessagingBackendStore, keeping collaboration, tab, and tab group messages in memory over a database, with daily cleanup of expired messages and dirty-state handling.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/messaging_backend_store_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for certificate_matching
+summary: Declares the directory's include rules, allowing dependencies on headers under net/cert.

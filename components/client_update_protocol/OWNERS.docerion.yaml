@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for client_update_protocol
+summary: Delegates directory ownership to the owners of components/update_client.

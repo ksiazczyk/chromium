@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Comments service bridge unit tests
+// summary: Unit tests for the comments service bridge using a mock comments service to verify initialization, empty-service state, and comment operations across JNI.
+// ---
+
 #include "components/collaboration/internal/android/comments/comments_service_bridge.h"
 
 #include <memory>

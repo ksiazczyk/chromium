@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints allowed hints helper declarations
+// summary: Declares the GetAllowedClientHints function and the client hints content setting key used to populate enabled client hints from stored settings.
+// ---
+
 #ifndef COMPONENTS_CLIENT_HINTS_COMMON_CLIENT_HINTS_H_
 #define COMPONENTS_CLIENT_HINTS_COMMON_CLIENT_HINTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer CDD and CJT item declarations
+// summary: Declares printer option structs, enums and vendor capability classes used to build printer capabilities and print tickets in the CDD/CJT format.
+// ---
+
 #ifndef COMPONENTS_CLOUD_DEVICES_COMMON_PRINTER_DESCRIPTION_H_
 #define COMPONENTS_CLOUD_DEVICES_COMMON_PRINTER_DESCRIPTION_H_
 

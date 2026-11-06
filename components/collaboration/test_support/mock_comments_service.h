@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCommentsService GMock interface
+// summary: GMock mock of CommentsService that stubs comment add, edit, delete, query and observer methods for tests.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_TEST_SUPPORT_MOCK_COMMENTS_SERVICE_H_
 #define COMPONENTS_COLLABORATION_TEST_SUPPORT_MOCK_COMMENTS_SERVICE_H_
 

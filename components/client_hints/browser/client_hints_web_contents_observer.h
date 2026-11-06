@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client hints web contents observer declaration
+// summary: Declares an observer that tracks the visible main frame viewport size for cases like prefetch requests and tab restore.
+// ---
+
 #ifndef COMPONENTS_CLIENT_HINTS_BROWSER_CLIENT_HINTS_WEB_CONTENTS_OBSERVER_H_
 #define COMPONENTS_CLIENT_HINTS_BROWSER_CLIENT_HINTS_WEB_CONTENTS_OBSERVER_H_
 

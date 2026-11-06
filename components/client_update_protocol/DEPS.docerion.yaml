@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for client_update_protocol
+summary: Restricts dependencies for the directory by blocking content and allowing crypto and the fuzztest header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration controller class declaration
+// summary: Declares the CollaborationController class, its flow states and Flow type for managing a single collaboration group flow.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_COLLABORATION_CONTROLLER_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_COLLABORATION_CONTROLLER_H_
 

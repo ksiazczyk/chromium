@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MJPEG decode accelerator unit tests
+// summary: Unit tests for MJPEG decode acceleration that decode JPEG test images, verify similarity against software decoding, and support performance measurement.
+// ---
+
 #include "components/chromeos_camera/mjpeg_decode_accelerator.h"
 
 #include <stddef.h>

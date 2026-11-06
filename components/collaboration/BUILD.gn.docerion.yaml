@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Collaboration component build configuration
+summary: Defines GN build targets for the collaboration component, including unit test groups, an Android junit group, the gtest filter target, and mock test support sources.

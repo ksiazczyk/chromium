@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definition of Chrome's CT configuration
+// summary: Defines the protobuf message for Chrome's CT configuration, including the enforcement switch, log list, and popular SCT hashes.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_certificate_transparency;

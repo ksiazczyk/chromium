@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the certificate_model source set
+summary: GN build file that defines the certificate_model source set and its dependencies on base, crypto, net, BoringSSL, and UI strings.

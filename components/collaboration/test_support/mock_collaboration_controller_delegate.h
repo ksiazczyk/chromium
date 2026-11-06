@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCollaborationControllerDelegate GMock interface
+// summary: GMock mock of CollaborationControllerDelegate that stubs UI flow methods such as join, share, manage, leave and delete dialogs for tests.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_TEST_SUPPORT_MOCK_COLLABORATION_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_COLLABORATION_TEST_SUPPORT_MOCK_COLLABORATION_CONTROLLER_DELEGATE_H_
 

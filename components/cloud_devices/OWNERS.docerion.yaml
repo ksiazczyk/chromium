@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists thestig@chromium.org and vitalybuka@chromium.org as code owners for review routing in this directory.

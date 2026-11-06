@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory client hints controller delegate implementation
+// summary: Implements an in-memory Accept-CH cache that stores enabled client hints per origin without persisting them through content settings.
+// ---
+
 #include "components/client_hints/browser/in_memory_client_hints_controller_delegate.h"
 
 #include <vector>

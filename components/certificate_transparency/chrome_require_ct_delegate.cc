@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Require CT delegate implementation
+// summary: Implements ChromeRequireCTDelegate, deciding when Certificate Transparency is required for a host or certificate, including organization-validated certificate matching.
+// ---
+
 #include "components/certificate_transparency/chrome_require_ct_delegate.h"
 
 #include <algorithm>

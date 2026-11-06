@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty collaboration service class declaration
+// summary: Declares EmptyCollaborationService, an empty CollaborationService implementation intended for use when the data sharing feature is disabled.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_EMPTY_COLLABORATION_SERVICE_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_EMPTY_COLLABORATION_SERVICE_H_
 

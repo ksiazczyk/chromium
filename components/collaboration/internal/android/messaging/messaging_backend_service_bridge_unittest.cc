@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the messaging backend service bridge
+// summary: Tests the JNI bridge's message conversion, query, and callback behavior using a mock messaging backend service and a Java test companion.
+// ---
+
 #include "components/collaboration/internal/android/messaging/messaging_backend_service_bridge.h"
 
 #include <memory>

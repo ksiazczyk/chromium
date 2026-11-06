@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration messaging
+summary: Defines dependency rules for the collaboration messaging Android package, allowing includes from components/data_sharing/public.

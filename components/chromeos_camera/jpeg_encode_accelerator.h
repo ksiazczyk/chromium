@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG encode accelerator interface
+// summary: Defines the JpegEncodeAccelerator client interface with status codes, callbacks, and methods for asynchronous hardware JPEG encoding of YUV video frames.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_JPEG_ENCODE_ACCELERATOR_H_
 #define COMPONENTS_CHROMEOS_CAMERA_JPEG_ENCODE_ACCELERATOR_H_
 

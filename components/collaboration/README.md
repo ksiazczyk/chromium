@@ -1,3 +1,11 @@
+---
+type: readme
+title: Collaboration component overview and testing
+summary: Describes the collaboration component and explains how to run its C++ unit tests using the collaboration filter file with components_unittests.
+relations:
+  - references /components/collaboration/components_unittests.filter
+---
+
 # Collaboration
 
 This component contains functionality for collaboration groups.

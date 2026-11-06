@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty comments service implementation
+// summary: Implements a no-op CommentsService that reports itself as initialized and empty, with comment operations that do nothing.
+// ---
+
 #include "components/collaboration/internal/comments/empty_comments_service.h"
 
 #include "base/functional/callback.h"

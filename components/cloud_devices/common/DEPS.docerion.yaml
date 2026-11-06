@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cloud_devices common
+summary: DEPS file allowing the component to include headers from ui/gfx/geometry.

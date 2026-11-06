@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration service Android bridge implementation
+// summary: Implements CollaborationServiceAndroid, forwarding collaboration service calls such as join, share, leave and delete flows between Java and the native C++ CollaborationService via JNI.
+// ---
+
 #include "components/collaboration/internal/android/collaboration_service_android.h"
 
 #include <memory>

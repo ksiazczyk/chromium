@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the components color mixers
+// summary: Adds eye dropper and fullscreen control color mixers to the color provider depending on build flags.
+// ---
+
 #include "components/color/color_mixers.h"
 
 #include "build/build_config.h"

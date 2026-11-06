@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MJPEG decode accelerator Mojom traits implementation
+// summary: Implements Mojo traits that convert MJPEG decode error codes and media BitstreamBuffer data between the C++ and Mojom representations.
+// ---
+
 #include "components/chromeos_camera/common/mjpeg_decode_accelerator_mojom_traits.h"
 
 #include "base/check.h"

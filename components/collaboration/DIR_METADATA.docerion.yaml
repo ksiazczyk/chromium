@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Collaboration directory metadata
+summary: Applies the shared metadata from COMMON_METADATA to this directory via a mixin.

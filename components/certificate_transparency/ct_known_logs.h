@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known Certificate Transparency logs API
+// summary: Declares CTLogInfo and functions returning the log list timestamp, all known logs, and disqualified logs with their disqualification dates.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_TRANSPARENCY_CT_KNOWN_LOGS_H_
 #define COMPONENTS_CERTIFICATE_TRANSPARENCY_CT_KNOWN_LOGS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ChromeOS camera component
+summary: Grants include access to media, mojo, viz, libyuv, aura and gfx directories for code in this component.

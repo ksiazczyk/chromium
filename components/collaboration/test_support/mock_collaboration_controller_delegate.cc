@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockCollaborationControllerDelegate implementation
+// summary: Implements the constructor and destructor of the mock collaboration controller delegate used as a test double.
+// ---
+
 #include "components/collaboration/test_support/mock_collaboration_controller_delegate.h"
 
 namespace collaboration {

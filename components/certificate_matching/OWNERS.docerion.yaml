@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing ChromeOS networking and policy owners
+summary: Points to the OWNERS files of chromeos/ash network and policy components to define the directory's code owners.

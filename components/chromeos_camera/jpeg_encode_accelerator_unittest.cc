@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JPEG encode accelerator unit tests
+// summary: Unit tests for JPEG encode acceleration that encode YUV test images, compare results against thresholds, and support performance measurement and saving output files.
+// ---
+
 #include "components/chromeos_camera/jpeg_encode_accelerator.h"
 
 #include <stddef.h>

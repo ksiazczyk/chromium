@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU JPEG encode accelerator factory
+// summary: Builds a prioritized list of hardware JPEG encode accelerator creators using V4L2 or VaAPI depending on build flags.
+// ---
+
 #include "components/chromeos_camera/gpu_jpeg_encode_accelerator_factory.h"
 
 #include "base/functional/bind.h"

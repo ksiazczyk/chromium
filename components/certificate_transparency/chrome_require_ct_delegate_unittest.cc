@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRequireCTDelegate unit tests
+// summary: Unit tests for ChromeRequireCTDelegate covering preference registration, excluded hosts, excluded SPKIs, and handling of invalid policy entries.
+// ---
+
 #include "components/certificate_transparency/chrome_require_ct_delegate.h"
 
 #include <iterator>

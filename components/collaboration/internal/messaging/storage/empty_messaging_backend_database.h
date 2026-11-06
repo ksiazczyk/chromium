@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty messaging backend database header
+// summary: Declares EmptyMessagingBackendDatabase, a no-op implementation of the messaging backend database interface.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_EMPTY_MESSAGING_BACKEND_DATABASE_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_EMPTY_MESSAGING_BACKEND_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration service unit tests
+// summary: Unit tests for CollaborationServiceImpl covering flow starts, service status updates and group operations with mock dependencies.
+// ---
+
 #include "components/collaboration/internal/collaboration_service_impl.h"
 
 #include <memory>

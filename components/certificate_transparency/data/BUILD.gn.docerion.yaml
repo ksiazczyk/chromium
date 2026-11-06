@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the CT log list
+summary: Defines a build action that runs make_ct_known_logs_list.py on log_list.json to generate a C++ include file with the known CT logs.

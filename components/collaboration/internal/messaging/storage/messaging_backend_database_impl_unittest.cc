@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging backend database unit tests
+// summary: Unit tests for MessagingBackendDatabaseImpl covering message updates, deletion, and persistence across simulated restarts.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/messaging_backend_database_impl.h"
 
 #include <memory>

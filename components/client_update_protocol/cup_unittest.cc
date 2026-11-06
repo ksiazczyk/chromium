@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit and fuzz tests for the Cup class
+// summary: Tests request preparation and response validation with an ML-DSA-44 test key and includes a fuzz test for parsing robustness.
+// ---
+
 #include "components/client_update_protocol/cup.h"
 
 #include <stddef.h>

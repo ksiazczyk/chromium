@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for client_update_protocol targets
+summary: Defines the client_update_protocol static library and its unit test source set, listing their sources and dependencies.

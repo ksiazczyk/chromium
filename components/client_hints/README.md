@@ -1,3 +1,11 @@
+---
+type: readme
+title: Client Hints
+summary: Reference documentation for the Chromium implementation of HTTP Client Hints, covering how hints work, the implementation, testing, and how to add a new hint.
+relations:
+  - references /services/network/public/mojom/web_client_hints_types.mojom
+---
+
 # Client Hints
 
 This README will serve as a reference for the Chromium implementation of [HTTP Client Hints](https://www.rfc-editor.org/rfc/rfc8942.html), the [HTML and Fetch integrations](https://wicg.github.io/client-hints-infrastructure), and the [Critical-CH response header](https://tools.ietf.org/html/draft-davidben-http-client-hint-reliability) as defined in the Client Hints Reliability draft.

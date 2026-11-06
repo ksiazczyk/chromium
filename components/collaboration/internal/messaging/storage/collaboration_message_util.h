@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration message category utility header
+// summary: Declares the MessageCategory enum and the GetMessageCategory helper for classifying collaboration messages.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_COLLABORATION_MESSAGE_UTIL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_COLLABORATION_MESSAGE_UTIL_H_
 

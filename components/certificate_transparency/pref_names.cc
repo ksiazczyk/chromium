@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate Transparency preference registration
+// summary: Registers the Certificate Transparency preferences for excluded hosts and excluded SPKIs and defines their pref name strings.
+// ---
+
 #include "components/certificate_transparency/pref_names.h"
 #include "components/prefs/pref_change_registrar.h"
 #include "components/prefs/pref_registry_simple.h"

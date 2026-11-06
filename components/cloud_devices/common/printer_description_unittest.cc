@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer description unit tests
+// summary: Unit tests for the printer description (CDD) parsing and serialization in the cloud devices common component, covering color, duplex, margins, DPI, media size and other printer capabilities.
+// ---
+
 #include "components/cloud_devices/common/printer_description.h"
 
 #include <memory>

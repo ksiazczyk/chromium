@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MJPEG decode accelerator Mojom traits header
+// summary: Declares the Mojo enum and struct traits mapping MJPEG decode errors and BitstreamBuffer fields to their Mojom counterparts.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_COMMON_MJPEG_DECODE_ACCELERATOR_MOJOM_TRAITS_H_
 #define COMPONENTS_CHROMEOS_CAMERA_COMMON_MJPEG_DECODE_ACCELERATOR_MOJOM_TRAITS_H_
 

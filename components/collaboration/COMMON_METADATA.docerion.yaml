@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Collaboration common metadata
+summary: Sets the Buganizer component ID and the owning team email for the collaboration directory.

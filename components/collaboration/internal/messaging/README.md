@@ -1,3 +1,12 @@
+---
+type: readme
+title: Collaboration Messaging Component (Internal)
+summary: Describes the internal messaging component that bridges backend services and the UI, and outlines its architecture and main classes.
+relations:
+  - references /components/collaboration/public/messaging/README.md
+  - documents /components/collaboration/internal/messaging/instant_message_processor_impl.cc
+---
+
 # Collaboration Messaging Component (Internal)
 
 This directory contains the internal implementation of the Collaboration

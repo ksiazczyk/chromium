@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeRequireCTDelegate class declaration
+// summary: Declares ChromeRequireCTDelegate, which applies Chrome's policy for when Certificate Transparency compliance is required, with enterprise exclusions via UpdateCTPolicies.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_TRANSPARENCY_CHROME_REQUIRE_CT_DELEGATE_H_
 #define COMPONENTS_CERTIFICATE_TRANSPARENCY_CHROME_REQUIRE_CT_DELEGATE_H_
 

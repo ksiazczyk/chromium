@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertificatePrincipalPattern implementation
+// summary: Implements the pattern class that matches a certificate principal's common name, locality, organization and organization unit, and parses patterns from optional dictionaries.
+// ---
+
 #include "components/certificate_matching/certificate_principal_pattern.h"
 
 #include <algorithm>
