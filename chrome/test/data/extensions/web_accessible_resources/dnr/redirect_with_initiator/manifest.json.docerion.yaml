@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: DNR redirect extension manifest with initiator condition
+summary: Manifest for a test extension that uses declarativeNetRequest rules to redirect page requests to a web accessible resource.

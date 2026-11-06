@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test web app manifest with icon
+summary: Web app manifest fixture declaring a single icon for favicon and manifest tests.

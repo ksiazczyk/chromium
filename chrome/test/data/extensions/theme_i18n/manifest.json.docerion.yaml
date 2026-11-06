@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Theme i18n test extension manifest
+summary: Manifest for a test theme extension whose name and description come from localized messages, with English as default locale and a new tab background alignment theme property.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Trivial platform app test extension README
+summary: Describes a minimal platform app test extension with no extra permissions and a trivial event page, noting the app ID derived from app.pem.
+---
+
 A minimal platform app that requests no additional permissions and has only a
 trivial event page.
 

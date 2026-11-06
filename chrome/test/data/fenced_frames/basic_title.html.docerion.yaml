@@ -1,0 +1,4 @@
+# Docerion header of basic_title.html.
+type: test
+title: Basic fenced frame title test page
+summary: Test page that loads title1.html into a fenced frame via FencedFrameConfig to exercise basic fenced frame title behavior.

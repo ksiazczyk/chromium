@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the public key test extension package
+summary: Manifest for a valid test extension package with a public key, used for zipfile installer unit testing.

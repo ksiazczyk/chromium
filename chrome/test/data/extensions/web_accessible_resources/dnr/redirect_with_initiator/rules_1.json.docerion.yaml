@@ -1,0 +1,4 @@
+# Docerion header of rules_1.json.
+type: test
+title: DNR redirect rule keyed to initiator domain
+summary: DeclarativeNetRequest ruleset redirecting requests for english_page.html initiated by example.com to the extension's war.js resource.

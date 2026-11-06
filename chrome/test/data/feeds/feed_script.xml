@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: RSS feed with script in description
+summary: Test RSS feed whose item description embeds HTML with an onclick handler, used to test script handling in feed content.
+-->
+
 <rss version="2.0">
 <channel>
   <title>MyFeedTitle</title>

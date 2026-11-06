@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: RSS feed with no item links
+summary: Test RSS feed whose item has a title and description but no link element, used to exercise feed parsing when links are missing.
+-->
+
 <rss version="2.0"> 
 <channel> 
   <title>MyFeedTitle</title> 

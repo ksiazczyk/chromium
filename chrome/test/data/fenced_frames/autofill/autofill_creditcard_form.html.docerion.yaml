@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form.html.
+type: test
+title: Autofill Credit Card Test Form
+summary: HTML credit card form fixture with card number and expiry fields used to test Autofill behavior in fenced frames.

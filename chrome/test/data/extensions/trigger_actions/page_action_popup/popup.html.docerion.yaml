@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup page of the page action test extension
+summary: Simple HTML popup opened by the test extension's page action, showing a message on a red background.

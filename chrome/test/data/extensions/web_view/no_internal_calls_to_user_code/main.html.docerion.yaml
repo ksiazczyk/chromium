@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test extension page loading the webview taint script
+summary: Minimal HTML page opened by the test app that loads main.js to run the webview user-code taint checks.

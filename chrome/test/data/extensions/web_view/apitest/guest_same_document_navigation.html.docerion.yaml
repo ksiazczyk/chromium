@@ -1,0 +1,4 @@
+# Docerion header of guest_same_document_navigation.html.
+type: test
+title: Guest page performing same-document navigation
+summary: Guest page fixture that navigates to a hash fragment on itself to exercise same-document navigation in WebView.

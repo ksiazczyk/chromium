@@ -1,0 +1,4 @@
+# Docerion header of guest_noreferrer.html.
+type: test
+title: Guest page opening a window via noreferrer link
+summary: Guest page fixture that clicks a rel=noreferrer link opening about:blank in a new window for WebView API tests.

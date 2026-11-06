@@ -1,0 +1,4 @@
+# Docerion header of context_menu_listener.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for context_menu_listener.html
+summary: Mock HTTP response headers serving the context menu listener page with the fenced-frame loading mode.

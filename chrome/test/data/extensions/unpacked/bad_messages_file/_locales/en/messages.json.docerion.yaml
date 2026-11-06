@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Locale messages for bad messages file test extension
+summary: Locale message fixture providing an application title for the unpacked bad_messages_file extension used in Chrome extension tests.

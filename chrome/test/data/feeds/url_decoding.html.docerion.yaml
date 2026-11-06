@@ -1,0 +1,4 @@
+# Docerion header of url_decoding.html.
+type: test
+title: Feed for URL double-decoding test
+summary: RSS feed stored under an HTML path that should only be reachable when the URL is double-decoded, used to test URL decoding in feed navigation.

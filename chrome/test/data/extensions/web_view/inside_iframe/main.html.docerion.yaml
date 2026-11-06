@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main test page embedding an iframe for the webview test
+summary: HTML page for the webview-inside-iframe test that contains an empty iframe and loads main.js to drive the test.

@@ -1,0 +1,4 @@
+# Docerion header of guest_redirect.html.
+type: test
+title: Guest page for redirect tests
+summary: Minimal empty guest page fixture, presumably used for redirect scenarios in WebView API tests.

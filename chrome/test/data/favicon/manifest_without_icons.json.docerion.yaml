@@ -1,0 +1,4 @@
+# Docerion header of manifest_without_icons.json.
+type: test
+title: Test web app manifest without icons
+summary: Web app manifest fixture with no icons entry, used to test favicon fallback behavior.

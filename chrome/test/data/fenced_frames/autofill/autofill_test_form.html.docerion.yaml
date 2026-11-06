@@ -1,0 +1,4 @@
+# Docerion header of autofill_test_form.html.
+type: test
+title: Autofill Test Form
+summary: Generic HTML test form with name, address, email and phone fields used to exercise Autofill in fenced frame tests.

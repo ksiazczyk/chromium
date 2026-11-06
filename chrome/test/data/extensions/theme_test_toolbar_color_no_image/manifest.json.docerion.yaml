@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Toolbar Color with No Image Test Theme Manifest
+summary: Manifest for a Chrome theme test extension that defines frame, toolbar, toolbar button icon, and tab text colors without any images, used to verify toolbar color rendering.

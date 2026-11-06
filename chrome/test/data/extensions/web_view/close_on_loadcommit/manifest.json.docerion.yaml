@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webview close on loadcommit test app manifest
+summary: Manifest for the test app declaring the webview permission and test.js as its background script.

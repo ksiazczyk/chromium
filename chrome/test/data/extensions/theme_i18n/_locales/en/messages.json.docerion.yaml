@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Theme i18n English locale messages
+summary: English locale message catalog with name and description strings used as test data for the theme_i18n Chrome extension.

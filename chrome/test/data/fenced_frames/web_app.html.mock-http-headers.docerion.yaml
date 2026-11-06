@@ -1,0 +1,4 @@
+# Docerion header of web_app.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for web_app.html
+summary: 'Mock HTTP response headers serving web_app.html with the Supports-Loading-Mode: fenced-frame header in tests.'

@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_key.json.
+type: test
+title: Unpacked extension manifest without key
+summary: Manifest fixture for an unpacked extension without a key, used by Chrome extension tests.

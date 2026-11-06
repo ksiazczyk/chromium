@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal theme extension manifest for NTP logo test
+summary: Minimal theme extension manifest that sets an NTP background color and alternate logo property, used as test data for theme color handling.

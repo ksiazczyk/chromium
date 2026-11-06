@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal theme extension manifest
+summary: Manifest for a minimal Chrome theme extension used as test data, defining a toolbar color and version 2.0.

@@ -4,6 +4,12 @@
 
 // out/Debug/browser_tests --gtest_filter=ExtensionWebUITest.OnMessage
 
+// ---docerion
+// type: test
+// title: WebUI onMessage test page
+// summary: Browser test page that listens once for a chrome.test.onMessage event and verifies the expected message payload.
+// ---
+
 (function() {
 if (!chrome || !chrome.test || !chrome.test.onMessage) {
   console.error(

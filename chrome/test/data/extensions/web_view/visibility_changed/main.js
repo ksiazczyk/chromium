@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview visibility test logic
+// summary: Embeds a webview guest, signals LAUNCHED on load, and handles app commands to hide the guest or embedder, failing the test on unknown commands.
+// ---
+
 const LOG = function(msg) {
   window.console.log(msg);
 };

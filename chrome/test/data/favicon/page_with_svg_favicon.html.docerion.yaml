@@ -1,0 +1,4 @@
+# Docerion header of page_with_svg_favicon.html.
+type: test
+title: Test page with an SVG favicon
+summary: Test fixture page that links icon.svg as its favicon, for testing SVG favicon support.

@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_noupdate_1.json.
+type: test
+title: Update check reply with no update test data (JSON)
+summary: Mock JSON update check reply for extension updater tests indicating that no update is available.

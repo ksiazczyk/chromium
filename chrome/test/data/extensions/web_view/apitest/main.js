@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview API test embedder script
+// summary: Embedder script defining test helpers, assertions, and the list of webview API test cases run against guest pages.
+// ---
+
 const embedder = {};
 
 // TODO(lfg) Move these functions to a common js.

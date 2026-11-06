@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the test certificate provider extension
+// summary: Background script of the test extension that relays certificateProvider certificate and signature events to the C++ test handler via chrome.test messages and reports the responses back.
+// ---
+
 function arrayBufferFromByteList(byteList) {
   return (new Uint8Array(byteList)).buffer;
 }

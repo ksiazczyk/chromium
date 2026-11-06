@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Toolbar button color test extension manifest
+summary: Manifest for a Chrome test extension that sets a red toolbar_button_icon theme color and button tint to exercise toolbar button color handling.

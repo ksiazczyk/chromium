@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab and frame test utilities for extension tests
+// summary: Shared helpers for extension tests that open tabs, query tabs, and inspect injected elements and frames by hostname.
+// ---
+
 /**
  * Opens a new tab and waits for it to finish loading.
  * @param {string} url The url for the new tab to point to.

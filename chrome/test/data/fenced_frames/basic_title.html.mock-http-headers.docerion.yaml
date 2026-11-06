@@ -1,0 +1,4 @@
+# Docerion header of basic_title.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for basic_title.html
+summary: Mock HTTP response headers serving the basic title test page with the fenced-frame loading mode.

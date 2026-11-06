@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Trivial test extension manifest
+summary: Manifest for a minimal Chrome test extension that registers background.js as its background script.

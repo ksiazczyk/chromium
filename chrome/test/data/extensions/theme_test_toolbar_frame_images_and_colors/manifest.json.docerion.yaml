@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Toolbar/Frame Color + Image Test extension manifest
+summary: Test extension manifest that sets magenta frame and green toolbar colors and references theme frame and toolbar images for Chrome theme rendering tests.

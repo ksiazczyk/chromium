@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview media PEPC test app
+summary: Chrome app manifest declaring webview and audioCapture permissions with test.js as the background script.

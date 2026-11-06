@@ -1,0 +1,4 @@
+# Docerion header of autofill_test_form.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the autofill test form
+summary: Mock HTTP response headers serving the generic autofill test form with a Supports-Loading-Mode header for fenced frames.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: window.open test extension manifest
+summary: Manifest for the window.open extension UITest, declaring the tabs permission and making newtab.html web-accessible.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Trivial extension test fixture README
+summary: Describes a minimal Chrome extension test fixture with a trivial event page, its packing into extension.crx, and the extension ID derived from the private key.
+---
+
 A minimal extension that requests no additional permissions and has only a
 trivial event page.
 

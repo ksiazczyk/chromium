@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for good zipfile installer test extension
+summary: Manifest describing the Good Package extension, a valid package used as test data for the zipfile installer unit tests.

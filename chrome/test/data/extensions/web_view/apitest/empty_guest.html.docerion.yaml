@@ -1,0 +1,4 @@
+# Docerion header of empty_guest.html.
+type: test
+title: Empty guest page that does nothing
+summary: Empty guest page fixture for WebView API tests that loads without any content or behavior.

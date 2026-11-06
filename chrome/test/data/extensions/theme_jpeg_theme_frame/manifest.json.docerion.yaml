@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal JPEG theme extension manifest
+summary: Test extension manifest defining a minimal theme that uses frame.jpg as the browser frame image and sets an NTP background color.

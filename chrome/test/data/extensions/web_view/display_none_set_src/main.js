@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview display:none src test logic
+// summary: Creates a hidden webview, listens for loadstop, and handles navigate, show, and hide app commands to signal test pass or failure.
+// ---
+
 const LOG = function(msg) {
   window.console.log(msg);
 };

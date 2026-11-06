@@ -1,0 +1,4 @@
+# Docerion header of guest_with_inline_script.html.
+type: test
+title: Guest page running an inline script
+summary: Guest page fixture that runs an inline script logging a message, used by WebView API tests.

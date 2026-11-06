@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Update check reply with no update test data (XML)
+summary: Mock XML update check reply for extension updater tests indicating that no update is available.
+-->
+
 <response protocol='3.1'>
   <app appid='aohghmighlieiainnegkcijnfilokake'>
     <updatecheck status='noupdate'>

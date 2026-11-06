@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for long-name test extension
+summary: Chrome extension manifest declaring a test extension with an extraordinarily long name, used as test data for extension UI tests.

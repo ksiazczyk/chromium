@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Window open test page
+summary: Minimal test page that loads test.js so the UITest can trigger window.open from an extension page.

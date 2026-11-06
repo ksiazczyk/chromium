@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension options embedding test page
+// summary: Browser test page for ExtensionWebUITest that embeds an extensionoptions element and reports load or create failure back to the test runner.
+// ---
+
 // out/Debug/browser_tests
 //     --gtest_filter=ExtensionWebUITest.CanEmbedExtensionOptions
 //

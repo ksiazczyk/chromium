@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected script reporting resize events to the embedder
+// summary: Injected guest-side script that posts body dimensions to the embedder when a resize event fires.
+// ---
+
 window.addEventListener('resize', function(e) {
   if (!embedder) {
     return;

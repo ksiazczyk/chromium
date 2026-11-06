@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview visibility test host page
+summary: HTML page for the webview visibility test that provides the webview tag container and loads main.js.

@@ -11,6 +11,12 @@
 //
 // NOTE: Of course, update this list if/when more APIs are made available.
 
+// ---docerion
+// type: test
+// title: Confidence check of chrome.* APIs for the Read Anything untrusted WebUI
+// summary: Browser test data verifying that the Read Anything side panel's untrusted WebUI exposes only the expected chrome.* APIs, including metricsPrivate and readingMode.
+// ---
+
 (function() {
 const expected = [
   // Deprecated proprietary Chrome APIs unrelated to Extensions.

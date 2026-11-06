@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for iframe.html
+summary: Mock HTTP response headers serving the iframe test page with the fenced-frame loading mode.

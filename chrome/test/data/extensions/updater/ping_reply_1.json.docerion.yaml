@@ -1,0 +1,4 @@
+# Docerion header of ping_reply_1.json.
+type: test
+title: Extension updater ping reply test data (JSON)
+summary: Mock JSON ping reply for Chrome extension updater tests, returning ok status events for the test app id.

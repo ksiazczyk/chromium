@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Atom-style feed with one entry
+summary: Atom-style test feed with a title and a single entry, used in feed parsing tests.
+-->
+
 <feed>
   <title>MyFeed2</title> 
 

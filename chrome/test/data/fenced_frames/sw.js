@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch service worker for fenced frame tests
+// summary: Service worker fixture that runs background fetches, handles background fetch events, and posts status messages to window clients.
+// ---
+
 // Service Worker initialization listeners.
 self.addEventListener('install', e => e.waitUntil(skipWaiting()));
 self.addEventListener('activate', e => e.waitUntil(clients.claim()));

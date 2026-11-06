@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for webview dialog tests
+// summary: Creates a webview guest, injects the dialog script, and runs alert, confirm, and prompt dialog tests, reporting pass or fail to the test harness.
+// ---
+
 const embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';

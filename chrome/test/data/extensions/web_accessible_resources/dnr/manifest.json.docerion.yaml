@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for DNR web accessible resources test extension
+summary: Manifest for a test extension that exposes redirect.html as a web accessible resource and uses a declarativeNetRequest service worker.

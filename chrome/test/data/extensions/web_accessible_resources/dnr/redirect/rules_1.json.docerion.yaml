@@ -1,0 +1,4 @@
+# Docerion header of rules_1.json.
+type: test
+title: DNR redirect ruleset for test extension
+summary: DeclarativeNetRequest ruleset that redirects script requests matching simple_script.js to the extension path /war.js.

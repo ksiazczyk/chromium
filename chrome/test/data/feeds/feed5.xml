@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: RSS feed with an empty channel
+summary: Minimal RSS 2.0 test feed containing an empty channel element.
+-->
+
 <rss version="2.0"> 
 <channel> 
 </channel> 

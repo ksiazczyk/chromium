@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Minimal theme extension manifest for NTP background color test
+summary: Manifest for a minimal test extension that sets a custom new tab page background color, used as test data for Chrome extension theme handling.

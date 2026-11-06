@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CalculatorFake app CodeResources signature manifest
+summary: Code signature resource manifest listing content hashes for the fake Calculator app bundle, used as test data for Chrome's file selection helper tests.

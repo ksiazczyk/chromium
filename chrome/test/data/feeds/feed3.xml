@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Namespaced Atom feed modeled on a buglist feed
+summary: Atom test feed with namespace, timestamps, author and HTML content, modeled on a Google Code issue updates feed.
+-->
+
 <feed xmlns="http://www.w3.org/2005/Atom">
   <updated>2009-09-29T17:51:01Z</updated>
   <id>http://code.google.com/feeds/p/chromium/issueupdates/basic</id>

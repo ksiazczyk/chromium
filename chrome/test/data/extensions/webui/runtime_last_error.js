@@ -4,6 +4,12 @@
 
 // out/Debug/browser_tests --gtest_filter=ExtensionWebUITest.RuntimeLastError
 
+// ---docerion
+// type: test
+// title: Runtime lastError test page
+// summary: Browser test page that verifies chrome.runtime.lastError is unset initially and holds the expected error after a message round trip.
+// ---
+
 (function() {
 let success = true;
 

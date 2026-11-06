@@ -1,0 +1,4 @@
+# Docerion header of page_with_sizes_any.html.
+type: test
+title: Test page with PNG and any-size SVG icons
+summary: Test fixture page declaring a 16x16 PNG icon and an SVG icon with sizes=any, for testing icon size selection.

@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page that opens a new window
+summary: Guest page fixture that opens a new window to about:blank on load for WebView API tests.

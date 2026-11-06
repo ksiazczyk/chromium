@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the XHR from content script test extension
+summary: Manifest version 2 extension manifest that injects content_script.js into a local test page for the cross-origin XHR browser test.

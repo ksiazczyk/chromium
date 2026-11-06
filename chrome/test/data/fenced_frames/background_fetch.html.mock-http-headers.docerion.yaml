@@ -1,0 +1,4 @@
+# Docerion header of background_fetch.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for background_fetch.html
+summary: Mock HTTP response headers serving the Background Fetch helper page with the fenced-frame loading mode in browser tests.
