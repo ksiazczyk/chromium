@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryExtensionApiTest.TimedSearch
 
+// ---docerion
+// type: test
+// title: Timed search tests for the chrome.history API
+// summary: Browser test that verifies chrome.history.search respects start and end time ranges, including empty ranges and integer timestamps.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/history/regular/common.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

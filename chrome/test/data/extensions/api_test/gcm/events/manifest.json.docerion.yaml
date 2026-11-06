@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: GCM test extension manifest
+summary: Manifest for the test GCM extension, declaring manifest version 3 and requesting the gcm permission for the API event tests.

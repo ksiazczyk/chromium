@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page loading test.js
+summary: Minimal HTML page that loads the test.js module to run the browser test.

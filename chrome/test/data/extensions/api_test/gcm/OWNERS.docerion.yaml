@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: GCM API test OWNERS file
+summary: Delegates ownership of the GCM extension API test directory to the owners listed in chrome/browser/extensions/api/gcm/OWNERS.

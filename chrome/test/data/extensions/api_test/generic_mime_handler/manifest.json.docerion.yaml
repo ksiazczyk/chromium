@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Generic MIME Handler Test manifest
+summary: Manifest for the test extension registering handler.html as the application/pdf MIME handler with embedding allowed.

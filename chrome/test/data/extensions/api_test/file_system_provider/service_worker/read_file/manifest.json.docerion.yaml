@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onReadFileRequested service worker test
+summary: Extension manifest defining permissions and the service worker background for the chrome.fileSystemProvider.onReadFileRequested API test.

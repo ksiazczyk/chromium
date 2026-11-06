@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for deleting entries via the file system provider API
+// summary: JavaScript test that registers an onDeleteEntryRequested handler and verifies deleting files and directories, including recursive and error cases.
+// ---
+
 'use strict';
 
 let testUtil;

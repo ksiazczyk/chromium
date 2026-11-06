@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML page that loads the big file test script
+summary: HTML page that loads test.js as a module to run the big file fileSystemProvider browser test.

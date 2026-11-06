@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onRemoveWatcherRequested
+// summary: Browser test that registers a remove-watcher handler and verifies adding and removing entry watchers, including removal of non-existing watchers and provider error handling.
+// ---
+
 'use strict';
 
 let testUtil;

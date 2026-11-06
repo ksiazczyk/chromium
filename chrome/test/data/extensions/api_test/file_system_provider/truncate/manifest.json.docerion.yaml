@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider truncate API test extension
+summary: Extension manifest declaring the test app for chrome.fileSystemProvider.onTruncateRequested, with fileSystemProvider permissions and test.js as background script.

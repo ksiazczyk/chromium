@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.mount in a service worker
+// summary: Runs chrome.test cases covering successful and failing mounts, opened-files limits, and volume info checks for fileSystemProvider.mount.
+// ---
+
 import {catchError, getFsInfoById, getVolumeInfo, promisifyWithLastError, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

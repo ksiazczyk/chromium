@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the chrome.fileSystemProvider.unmount test extension
+summary: Manifest for the service worker based test extension, declaring fileSystemProvider permissions and sw.js as its service worker.

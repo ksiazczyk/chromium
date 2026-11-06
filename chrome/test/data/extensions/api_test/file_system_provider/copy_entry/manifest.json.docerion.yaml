@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the copyEntry file system provider API test
+summary: Manifest for the Chrome extension used to test chrome.fileSystemProvider.onCopyEntryRequested(), declaring the fileSystemProvider permissions and the test.js background script.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for identity API test data
+summary: Delegates ownership to the OWNERS file of chrome/browser/extensions/api/identity for review routing of the identity API test data.

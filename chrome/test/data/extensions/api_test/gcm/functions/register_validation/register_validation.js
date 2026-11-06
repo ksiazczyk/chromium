@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM register API sender validation tests
+// summary: Runs chrome.test suites that verify chrome.gcm.register succeeds with 1 to 100 sender IDs and fails for empty, blank, or more than 100 senders.
+// ---
+
 function generateSenderIds(size) {
   const senders = [];
   for (let i = 0; i < size; i++) {

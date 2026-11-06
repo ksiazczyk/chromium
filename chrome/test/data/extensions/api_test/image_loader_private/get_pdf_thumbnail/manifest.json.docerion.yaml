@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the imageLoaderPrivate getPdfThumbnail API test extension
+summary: Extension manifest that sets up the test extension with the imageLoaderPrivate permission and a background page running the API tests.

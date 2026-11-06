@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileapi extension API test
+summary: Extension manifest for a sanity test that fileapi is always enabled for extensions, using tabs and unlimitedStorage permissions.

@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness for the deleteEntry test
+summary: Minimal HTML page that loads test.js as a module to run the browser test.

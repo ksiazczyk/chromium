@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for chrome.fileSystemProvider.getAll()
+// summary: JavaScript browser test that mounts a file system provider, opens a file, and verifies that getAll() reports the mounted file system and its opened files correctly.
+// ---
+
 'use strict';
 
 let testUtil;

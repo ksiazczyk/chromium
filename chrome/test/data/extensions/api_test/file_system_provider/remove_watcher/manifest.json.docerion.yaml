@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onRemoveWatcherRequested test extension
+summary: Chrome extension manifest that declares the permissions and file system provider capabilities used by the browser test for chrome.fileSystemProvider.onRemoveWatcherRequested().

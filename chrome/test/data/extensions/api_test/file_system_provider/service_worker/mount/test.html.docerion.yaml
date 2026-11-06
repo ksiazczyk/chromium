@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML harness loading the mount test script
+summary: Minimal HTML page that loads test.js as a module to run the mount browser test.

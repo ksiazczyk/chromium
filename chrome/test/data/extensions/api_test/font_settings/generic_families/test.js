@@ -5,6 +5,12 @@
 // Font settings API test
 // browser_tests --gtest_filter=ExtensionApiTest.FontSettingsGenericFamilies
 
+// ---docerion
+// type: test
+// title: Font Settings generic families browser test
+// summary: Browser test verifying that the chrome.fontSettings API can set, get, and clear fonts for each generic font family.
+// ---
+
 const fs = chrome.fontSettings;
 const CONTROLLED_BY_THIS_EXTENSION = 'controlled_by_this_extension';
 const CONTROLLABLE_BY_THIS_EXTENSION = 'controllable_by_this_extension';

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: HID onDeviceRemoved test extension manifest
+summary: Manifest for the chrome.hid.onDeviceRemoved browser test app, granting hid and emulated USB device permissions and loading the background test script.

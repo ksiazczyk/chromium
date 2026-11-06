@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onTruncateRequested
+// summary: Registers a truncate request handler and runs test cases verifying that truncating a file succeeds and truncating beyond the file size fails.
+// ---
+
 'use strict';
 
 let testUtil;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystemProvider.notify test extension
+summary: Manifest defining the test extension's name, key, permissions and background script used to test chrome.fileSystemProvider.notify().

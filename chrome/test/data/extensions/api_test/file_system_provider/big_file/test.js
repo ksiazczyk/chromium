@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for reading a 6 GB file via fileSystemProvider
+// summary: Browser test that serves reads from a simulated 6 GB file to verify chrome.fileSystemProvider.onReadFileRequested.
+// ---
+
 'use strict';
 
 let testUtil;

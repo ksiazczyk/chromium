@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the unresponsive onConfigureRequested test app
+summary: Manifest for a Chrome app test that exercises chrome.fileSystemProvider.onConfigureRequested() with an unresponsive handler, declaring the needed permissions and background script.

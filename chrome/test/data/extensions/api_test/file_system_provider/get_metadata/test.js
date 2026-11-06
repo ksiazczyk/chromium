@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.fileSystemProvider.onGetMetadataRequested
+// summary: Registers a fake metadata provider and runs chrome.test cases that verify reading metadata for the root and test files, including invalid-time and partial-metadata cases.
+// ---
+
 'use strict';
 
 let testUtil;

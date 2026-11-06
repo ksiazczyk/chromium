@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryApiTest.Incognito
 
+// ---docerion
+// type: test
+// title: History API incognito browser test script
+// summary: Test script for the chrome.history API browser test that adds and counts history entries and reports whether it runs in an incognito context.
+// ---
+
 function addItem() {
   chrome.history.addUrl({url: 'http://www.a.com/'}, function() {
     chrome.test.sendScriptResult('success');

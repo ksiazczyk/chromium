@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onGetActionsRequested service worker test
+summary: Extension manifest configuring the test extension's key, fileSystemProvider permissions, and module service worker sw.js.

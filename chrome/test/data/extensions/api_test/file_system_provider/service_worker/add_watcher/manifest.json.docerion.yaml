@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Add watcher test extension manifest
+summary: Manifest for the chrome.fileSystemProvider.onAddWatcherRequested service worker test extension, declaring permissions, watchable provider capabilities, and the service worker entry point.

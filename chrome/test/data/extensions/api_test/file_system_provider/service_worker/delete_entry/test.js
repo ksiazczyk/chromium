@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for deleting entries via fileSystemProvider in a service worker
+// summary: Browser test that mounts a test file system and verifies deleting a file, failing to delete a non-empty directory non-recursively, and deleting it recursively.
+// ---
+
 import {catchError, mountTestFileSystem, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 async function main() {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the HID device change test extension
+summary: Manifest version 2 app manifest that loads background.js and grants hid and emulated USB device permissions for the HID device change browser test.

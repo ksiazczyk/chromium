@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the chrome.fileapi extension API test
+// summary: Requests a temporary filesystem, creates a directory and file, then opens tab.html to check the same filesystem is visible from a tab.
+// ---
+
 let fileSystem = null;
 
 console.info('Requesting a filesystem...');

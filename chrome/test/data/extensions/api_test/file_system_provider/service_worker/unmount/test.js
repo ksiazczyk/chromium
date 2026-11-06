@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fileSystemProvider.unmount API tests
+// summary: Runs chrome.test cases covering successful unmount, unmount with a wrong file system id, and unmount request events including error handling.
+// ---
+
 import {catchError, getVolumeInfo, promisifyWithLastError, remoteProvider, unmount} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

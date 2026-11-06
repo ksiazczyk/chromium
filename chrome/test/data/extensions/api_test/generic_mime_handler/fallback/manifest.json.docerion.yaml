@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Generic MIME Handler Fallback Test manifest
+summary: Extension manifest for the generic MIME handler fallback test, registering handler.html for application/pdf with embedding allowed.

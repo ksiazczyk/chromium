@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for GCM send message test app
+summary: Chrome extension manifest that registers the background script and grants the gcm permission for the send message API test.

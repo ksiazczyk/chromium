@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: i18nUpdate test extension manifest
+summary: Manifest for the i18nUpdate test extension, declaring an all-URLs content script, default locale en, and manifest version 3.

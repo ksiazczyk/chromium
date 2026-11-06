@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: Generic MIME Handler Fallback Test page
+summary: HTML page of the generic MIME handler fallback test extension that loads handler.js to drive the test.

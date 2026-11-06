@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the GCM incognito API test extension
+summary: Manifest for the test extension, granting the gcm permission, loading test.js in the background, and setting incognito mode to split.

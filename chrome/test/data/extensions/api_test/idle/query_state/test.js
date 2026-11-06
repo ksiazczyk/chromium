@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.idle.queryState API tests
+// summary: Service worker test script that runs queryState tests asserting active, idle, and locked states based on a custom argument.
+// ---
+
 const availableTests = [
 
   function queryStateActive() {

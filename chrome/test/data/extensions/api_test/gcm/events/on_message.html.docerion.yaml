@@ -1,0 +1,4 @@
+# Docerion header of on_message.html.
+type: test
+title: on_message test page
+summary: HTML page that loads on_message.js to run the chrome.gcm.onMessage event test in the extension.

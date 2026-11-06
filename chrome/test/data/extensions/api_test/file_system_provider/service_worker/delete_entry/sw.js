@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker entry point for the deleteEntry test
+// summary: Service worker script that imports the shared provider module and starts its main routine for the deleteEntry test extension.
+// ---
+
 import {serviceWorkerMain} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';
 
 serviceWorkerMain(self);

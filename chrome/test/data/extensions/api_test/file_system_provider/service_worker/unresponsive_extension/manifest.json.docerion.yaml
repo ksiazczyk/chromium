@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for unresponsive onConfigureRequested test extension
+summary: Chrome extension manifest defining the test extension used to exercise chrome.fileSystemProvider.onConfigureRequested when the extension is unresponsive.

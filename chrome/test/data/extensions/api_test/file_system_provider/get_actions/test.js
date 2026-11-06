@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onGetActionsRequested
+// summary: Browser test script that mounts a fake file system, serves actions from a provider handler, and verifies custom actions returned for directories.
+// ---
+
 'use strict';
 
 let testUtil;

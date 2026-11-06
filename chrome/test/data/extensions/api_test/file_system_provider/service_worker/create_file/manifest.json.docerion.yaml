@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onCreateFileRequested service worker test extension
+summary: Extension manifest defining the test extension's key, name, fileSystemProvider permissions and module service worker for the onCreateFileRequested test.

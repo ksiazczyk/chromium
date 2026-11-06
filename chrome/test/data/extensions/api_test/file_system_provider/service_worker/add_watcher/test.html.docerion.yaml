@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Add watcher test page
+summary: HTML page that loads the add watcher browser test script as a module.

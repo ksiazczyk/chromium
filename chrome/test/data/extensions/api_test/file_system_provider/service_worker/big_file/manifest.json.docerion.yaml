@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the big file fileSystemProvider service worker test extension
+summary: Extension manifest for the chrome.fileSystemProvider.onReadFileRequested big file test, declaring permissions and the sw.js service worker.

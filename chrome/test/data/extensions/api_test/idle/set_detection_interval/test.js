@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.idle.setDetectionInterval API tests
+// summary: Runs browser tests asserting that setDetectionInterval rejects values below 15 seconds with the expected error and accepts a valid interval passed via the test config.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
 

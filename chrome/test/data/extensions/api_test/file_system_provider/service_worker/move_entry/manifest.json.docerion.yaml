@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onMoveEntryRequested service worker test extension
+summary: Extension manifest that registers the service worker and permissions for the chrome.fileSystemProvider.onMoveEntryRequested API test.

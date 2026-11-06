@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.extension.getViews API test extension
+summary: Manifest defining the chrome.extension.getViews end-to-end browser test extension, with test.js as background script and the tabs permission.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Font settings test extension manifest
+summary: Manifest for the font settings API test extension, declaring split incognito mode and the fontSettings permission for end-to-end browser testing.

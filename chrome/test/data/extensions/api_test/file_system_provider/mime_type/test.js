@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for fileSystemProvider metadata mime types
+// summary: Browser test that verifies files with and without a mime type appear in file manager task lists and that executing a task fires the OnLaunched event.
+// ---
+
 'use strict';
 
 let testUtil;

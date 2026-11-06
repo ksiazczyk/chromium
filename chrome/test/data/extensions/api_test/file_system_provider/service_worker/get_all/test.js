@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.getAll in service workers
+// summary: Runs tests verifying getAll and get results for successful mounting, unmounting, and mount errors.
+// ---
+
 import {catchError, getAllFsInfos, getFsInfoById, mountTestFileSystem, openFile, remoteProvider, startReadTextFromBlob, unmount} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 // For shared constants.
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';

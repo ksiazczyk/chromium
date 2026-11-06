@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: HID add_event test app manifest
+summary: Manifest for the chrome.hid.onDeviceAdded browser test app, declaring the background script, hid permission, and the emulated test USB device IDs.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: GCM unregister test extension manifest
+summary: Manifest for the GCM API test extension, granting the gcm permission and running unregister.js as a background script.

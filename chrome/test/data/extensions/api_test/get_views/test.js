@@ -5,6 +5,12 @@
 // API test for chrome.extension.getViews.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.GetViews
 
+// ---docerion
+// type: test
+// title: Browser test script for chrome.extension.getViews
+// summary: Runs chrome.test assertions for chrome.extension.getViews, checking view counts filtered by windowId, tabId and type, then notifies pass.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 

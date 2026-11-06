@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider read directory API test
+summary: Chrome extension manifest that defines the test app with fileSystemProvider permissions and loads test.js for the onReadDirectoryRequested test.

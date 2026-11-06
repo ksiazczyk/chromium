@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Fullscreen permission test app manifest
+summary: Manifest for the fullscreen API test app declaring the fullscreen permission and a background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onCopyEntryRequested
+// summary: Browser test that copies an entry within a mounted file system provider, verifying a successful copy and the failure when the destination already exists.
+// ---
+
 'use strict';
 
 let testUtil;

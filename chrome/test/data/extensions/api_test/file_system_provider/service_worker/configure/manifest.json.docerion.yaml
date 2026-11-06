@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onConfigureRequested service worker test
+summary: Extension manifest declaring fileSystemProvider permissions and a configurable device source for the service worker configure test.

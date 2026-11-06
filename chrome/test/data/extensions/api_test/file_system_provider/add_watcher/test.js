@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for adding file system provider entry watchers
+// summary: Registers an onAddWatcherRequested handler and runs chrome.test cases verifying watcher creation on existing files, duplicate watchers, and error paths.
+// ---
+
 'use strict';
 
 let testUtil;

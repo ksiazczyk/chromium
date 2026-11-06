@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with no permissions
+summary: Manifest for a test extension that declares no permissions and a 24-pixel icon used by the icon API test.

@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=HistoryApiTest.Delete
 
+// ---docerion
+// type: test
+// title: History API delete browser test
+// summary: Browser test for the chrome.history API covering deleteAll, deleteUrl, and time-range deletions, run via browser_tests.exe.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/history/regular/common.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

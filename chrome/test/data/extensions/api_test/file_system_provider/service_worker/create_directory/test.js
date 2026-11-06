@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for creating directories via the file system provider service worker
+// summary: Runs chrome.test cases verifying that creating a directory succeeds and that exclusively creating an existing directory fails with InvalidModificationError.
+// ---
+
 import {catchError, mountTestFileSystem} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 async function main() {

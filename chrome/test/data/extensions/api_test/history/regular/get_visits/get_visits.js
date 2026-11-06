@@ -5,6 +5,12 @@
 // History api test for Chrome.
 // browser_tests.exe --gtest_filter=*HistoryApiTest.GetVisits*
 
+// ---docerion
+// type: test
+// title: History getVisits extension API browser test
+// summary: Browser test that populates history, then verifies chrome.history.getVisits returns the expected visit for a URL.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/history/regular/common.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

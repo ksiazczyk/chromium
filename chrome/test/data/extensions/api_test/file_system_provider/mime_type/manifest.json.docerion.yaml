@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider mime type test extension
+summary: Chrome extension manifest that declares permissions, file handlers and the test script for the fileSystemProvider onGetMetadataRequested mime type test.

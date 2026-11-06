@@ -1,0 +1,4 @@
+# Docerion header of on_send_error.html.
+type: test
+title: on_send_error test page
+summary: HTML page that loads on_send_error.js to run the chrome.gcm.onSendError event test in the extension.

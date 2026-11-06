@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fileSystemProvider thumbnail metadata test
+// summary: Simulates the onGetMetadataRequested provider handler and runs chrome.test cases verifying thumbnail behavior for valid, invalid, and unrequested thumbnails.
+// ---
+
 'use strict';
 
 let testUtil;

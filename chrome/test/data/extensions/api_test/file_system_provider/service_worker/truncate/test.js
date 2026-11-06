@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onTruncateRequested
+// summary: Mounts the test file system, truncates a file to a smaller size expecting success, and verifies an InvalidModificationError when truncating beyond the file size.
+// ---
+
 import {catchError, createWriter, getMetadata, mountTestFileSystem, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 /**

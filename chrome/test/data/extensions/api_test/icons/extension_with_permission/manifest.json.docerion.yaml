@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test extension
+summary: Manifest for the test extension, declaring the management permission, split incognito mode, and 24, 32, and 128 pixel icons.

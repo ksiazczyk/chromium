@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the unresponsive fileSystemProvider test extension
+summary: Chrome extension manifest declaring the fileSystemProvider permission, configurable device source capabilities, and a module service worker for the onConfigureRequested unresponsive extension test.

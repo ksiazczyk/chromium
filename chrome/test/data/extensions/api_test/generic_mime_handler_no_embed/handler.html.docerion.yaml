@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: PDF Handler (no embed) test page
+summary: Minimal HTML page titled PDF Handler (no embed) that serves as the handler page for the generic MIME handler test extension.

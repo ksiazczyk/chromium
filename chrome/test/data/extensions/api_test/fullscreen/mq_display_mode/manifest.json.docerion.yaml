@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the display-mode media feature test app
+summary: Declares the Chrome App test extension used to test the display-mode media feature for fullscreened app windows.

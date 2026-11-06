@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the MIME type test Chrome app
+summary: Manifest for the test Chrome app that registers a file handler for the text/secret-testing-mime-type and loads main.js as its background script.

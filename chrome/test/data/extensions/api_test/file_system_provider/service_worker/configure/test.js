@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for onConfigureRequested in service workers
+// summary: Runs tests verifying provider configuration flags and the success and error propagation of configureVolume to onConfigureRequested.
+// ---
+
 import {catchError, mountTestFileSystem, promisifyWithLastError, remoteProvider} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 
 async function main() {

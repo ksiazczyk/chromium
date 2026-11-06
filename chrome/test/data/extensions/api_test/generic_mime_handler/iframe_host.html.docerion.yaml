@@ -1,0 +1,4 @@
+# Docerion header of iframe_host.html.
+type: test
+title: Iframe Host
+summary: Test page embedding test.pdf in an iframe and telling the MIME handler to abort.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystemProvider.onCreateFileRequested
+// summary: Runs test cases that create new and existing files via the fileSystemProvider API, checking success paths and the exclusive-create error case.
+// ---
+
 'use strict';
 
 let testUtil;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for onDeleteEntryRequested service worker test
+summary: Chrome extension manifest that sets up the test extension with fileSystemProvider permissions and a module service worker for the deleteEntry browser test.

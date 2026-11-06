@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Component OAuth2 test extension manifest
+summary: Manifest for the component extension OAuth2 API test, defining an auto-approved OAuth2 extension with a background service worker.

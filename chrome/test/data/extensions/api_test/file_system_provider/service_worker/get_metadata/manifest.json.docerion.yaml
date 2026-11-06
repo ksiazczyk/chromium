@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onGetMetadataRequested service worker test
+summary: Extension manifest configuring the chrome.fileSystemProvider.onGetMetadataRequested test extension with a service worker background and the required permissions.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.history misc_search test extension
+summary: Manifest for the chrome.history misc_search browser test extension, requesting the history permission and registering misc_search.js as its service worker.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add watcher browser tests
+// summary: Browser tests that add entry watchers on a mounted test file system, covering successful watches, duplicate watcher errors, and failures on broken files.
+// ---
+
 import {catchError, getAllFsInfos, mountTestFileSystem, promisifyWithLastError} from '/_test_resources/api_test/file_system_provider/service_worker/helpers.js';
 import {TestFileSystemProvider} from '/_test_resources/api_test/file_system_provider/service_worker/provider.js';
 

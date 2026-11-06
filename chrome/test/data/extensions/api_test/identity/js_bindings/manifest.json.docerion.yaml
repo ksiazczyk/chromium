@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.identity JS bindings API test extension
+summary: Manifest for the chrome.identity JS bindings browser test extension, registering the test service worker and requesting the identity permission.

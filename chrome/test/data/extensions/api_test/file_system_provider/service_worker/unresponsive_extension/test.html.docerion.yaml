@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: HTML page loading the test script
+summary: Minimal HTML entry page that loads the test.js module for the unresponsive extension API test.

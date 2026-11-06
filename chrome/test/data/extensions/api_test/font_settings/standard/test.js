@@ -5,6 +5,12 @@
 // Font settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.FontSettings
 
+// ---docerion
+// type: test
+// title: Font Settings API browser test
+// summary: Browser test suite for the chrome.fontSettings API that sets and reads per-script and global fonts, font sizes, and the font list, verifying change events and control levels.
+// ---
+
 const fs = chrome.fontSettings;
 const CONTROLLED_BY_THIS_EXTENSION = 'controlled_by_this_extension';
 const CONTROLLABLE_BY_THIS_EXTENSION = 'controllable_by_this_extension';

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystemProvider onWriteFileRequested test extension
+summary: Manifest of the test extension declaring fileSystemProvider permissions and the background test script for the onWriteFileRequested API test.

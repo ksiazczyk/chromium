@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fileSystemProvider onMoveEntryRequested API browser test
+// summary: Browser test that handles onMoveEntryRequested by updating metadata and verifies moving files succeeds and fails with EXISTS when the target already exists.
+// ---
+
 'use strict';
 
 let testUtil;

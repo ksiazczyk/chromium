@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.idle.getAutoLockDelay API test
+summary: Extension manifest that registers the service worker test.js and the idle permission for the chrome.idle.getAutoLockDelay API test.

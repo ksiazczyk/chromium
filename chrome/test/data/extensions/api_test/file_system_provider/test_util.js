@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system provider API test utilities
+// summary: Shared helpers for the fileSystemProvider API browser tests, exporting file system constants, default metadata, volume lookup, mount logic, and default event handler implementations.
+// ---
+
 'use strict';
 
 /**
