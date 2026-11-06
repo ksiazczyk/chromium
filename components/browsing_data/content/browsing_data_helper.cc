@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data helper implementation
+// summary: Implements shared browsing data utilities such as web scheme checks, website settings filters, and removal of prerender, site isolation, and embedder cookie data.
+// ---
+
 #include "components/browsing_data/content/browsing_data_helper.h"
 
 #include <algorithm>

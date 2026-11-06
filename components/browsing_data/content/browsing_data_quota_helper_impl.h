@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota helper implementation header
+// summary: Declares BrowsingDataQuotaHelperImpl, which serves UI-thread callers by posting quota manager tasks to the IO thread.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_QUOTA_HELPER_IMPL_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_QUOTA_HELPER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedFeatureFlagsSafeModeUnitTest
+// summary: Robolectric unit tests for CachedFlagsSafeMode, covering Safe Mode behavior for cached flags and feature parameters of all types.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import static org.junit.Assert.assertEquals;

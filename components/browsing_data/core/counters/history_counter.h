@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History counter class declaration (history_counter.h)
+// summary: Declares HistoryCounter and its HistoryResult, combining local unique-domain counts with synced visit and last-visited-domain information.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_HISTORY_COUNTER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_HISTORY_COUNTER_H_
 

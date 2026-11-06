@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cast component owners
+summary: Lists owner files for the cast component, including Fuchsia and Chromecast owners plus platform WebUI owners for trivial JS, CSS, and HTML changes.

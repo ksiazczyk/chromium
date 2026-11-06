@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for browsing data helper
+// summary: Unit tests verifying web scheme classification and the behavior of the website settings filter created by the browsing data helper.
+// ---
+
 #include "components/browsing_data/content/browsing_data_helper.h"
 
 #include "components/browsing_data/content/browsing_data_model.h"

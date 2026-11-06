@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the BrowsingDataModelAndroid wrapper class
+// summary: Declares the ref-counted C++ counterpart of BrowsingDataModel.java, which owns a browsing data model and provides JNI-facing methods for data info and removal.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_ANDROID_BROWSING_DATA_MODEL_ANDROID_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_ANDROID_BROWSING_DATA_MODEL_ANDROID_H_
 

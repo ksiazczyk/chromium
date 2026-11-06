@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode GPU rasterization utility implementation
+// summary: Implements IsGpuRasterizationSupported, which checks the UI GPU rasterization feature and the context factory's GPU feature info to report GPU tile rasterization support.
+// ---
+
 #include "components/capture_mode/capture_mode_util.h"
 
 #include "base/check.h"

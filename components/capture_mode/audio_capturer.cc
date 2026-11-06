@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCapturer implementation
+// summary: Implements audio input capture through the audio service, delivering captured audio buses to a callback while reusing pooled buses on the realtime thread.
+// ---
+
 #include "components/capture_mode/audio_capturer.h"
 
 #include "base/functional/bind.h"

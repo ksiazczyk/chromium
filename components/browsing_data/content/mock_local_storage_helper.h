@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock local storage helper header
+// summary: Declares MockLocalStorageHelper, a test fake for LocalStorageHelper that stores sample StorageUsageInfo entries and notifies callbacks.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_MOCK_LOCAL_STORAGE_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_MOCK_LOCAL_STORAGE_HELPER_H_
 

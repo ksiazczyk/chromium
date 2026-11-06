@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cached flags OWNERS
+summary: Lists the Chromium code owners responsible for reviewing changes in the cached_flags directory.

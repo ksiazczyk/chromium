@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for cast message port targets
+summary: Defines GN source sets, build flags, and test targets for the cast message port component, selecting platform implementations via the use_message_port_core argument.

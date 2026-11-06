@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the API bindings Manager
+// summary: Implements Manager by storing MessagePort connected handlers, dispatching incoming port connections to them, and tracking the current document origin.
+// ---
+
 #include "components/cast/api_bindings/manager.h"
 
 #include <string_view>

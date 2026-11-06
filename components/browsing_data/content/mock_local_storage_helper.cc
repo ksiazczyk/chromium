@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock local storage helper implementation
+// summary: Implements MockLocalStorageHelper, a test fake that adds local storage samples per storage key and notifies the fetch callback.
+// ---
+
 #include "components/browsing_data/content/mock_local_storage_helper.h"
 
 #include "base/functional/callback.h"

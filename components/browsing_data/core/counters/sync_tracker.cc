@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync tracker implementation
+// summary: Implements SyncTracker, which observes SyncService state changes, re-evaluates a sync predicate, and restarts the associated browsing data counter when sync state changes.
+// ---
+
 #include "components/browsing_data/core/counters/sync_tracker.h"
 
 #include "components/browsing_data/core/counters/browsing_data_counter.h"

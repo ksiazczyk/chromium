@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie helper implementation
+// summary: Implements cookie fetching and deletion via the StoragePartition cookie manager plus a canned in-memory cookie variant.
+// ---
+
 #include "components/browsing_data/content/cookie_helper.h"
 
 #include <memory>

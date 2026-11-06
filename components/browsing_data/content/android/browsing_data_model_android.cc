@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for the browsing data model
+// summary: Implements BrowsingDataModelAndroid, aggregating per-origin cookie counts and storage sizes and exposing browsing data queries and removal to Java via JNI.
+// ---
+
 #include "components/browsing_data/content/android/browsing_data_model_android.h"
 
 #include <cstddef>

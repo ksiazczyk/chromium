@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal service implementation
+// summary: Implements the CaptivePortalService that performs rate-limited captive portal checks with exponential backoff and notifies registered consumers of results.
+// ---
+
 #include "components/captive_portal/content/captive_portal_service.h"
 
 #include <memory>

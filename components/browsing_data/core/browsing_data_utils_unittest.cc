@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for browsing data utils
+// summary: Tests counter result strings for autofill, history, passwords, and skills data types using fake web data services and test preference services.
+// ---
+
 #include "components/browsing_data/core/browsing_data_utils.h"
 
 #include <string>

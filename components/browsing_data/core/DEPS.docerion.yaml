@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browsing_data core
+summary: Allowlist of include rules permitting this directory to depend on autofill, bookmarks, history, password manager, prefs, sync, net, and other component directories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock browsing data quota helper implementation
+// summary: Implements MockBrowsingDataQuotaHelper, a test fake that records quota usage samples and delivers them to the fetch callback.
+// ---
+
 #include "components/browsing_data/content/mock_browsing_data_quota_helper.h"
 
 #include "content/public/browser/browser_thread.h"

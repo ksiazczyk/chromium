@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android browsing data directory
+summary: Specifies the allowed include paths for the directory, permitting dependencies on components/permissions and content/public/android.

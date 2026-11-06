@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast component issue tracker metadata
+summary: Maps the cast component directory to the Chromecast monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFeatureParam
+// summary: Abstract base class for feature parameters cached to disk for use before native, defining parameter types, preference keys, and cache-writing contracts.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.SharedPreferences;

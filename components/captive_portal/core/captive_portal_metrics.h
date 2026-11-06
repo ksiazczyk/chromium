@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal metrics declarations
+// summary: Declares the CaptivePortalMetrics class with an enum of blocking page events and a function to log them for UMA tracking.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_METRICS_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_METRICS_H_
 

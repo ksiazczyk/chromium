@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port adapter implementation between Blink and platform ports
+// summary: Implements paired adapters that bridge messages, transferred ports, and error handling between cast_api_bindings MessagePort instances and Blink web message ports.
+// ---
+
 #include "components/cast/message_port/blink_message_port_adapter.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI delegate interface for cached flags on Android
+// summary: Declares the abstract JniDelegate interface for caching and erasing native flag and feature parameter values via JNI, designed so the calls can be mocked in tests.
+// ---
+
 #ifndef COMPONENTS_CACHED_FLAGS_ANDROID_JNI_DELEGATE_H_
 #define COMPONENTS_CACHED_FLAGS_ANDROID_JNI_DELEGATE_H_
 

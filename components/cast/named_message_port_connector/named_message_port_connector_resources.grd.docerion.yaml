@@ -1,0 +1,4 @@
+# Docerion header of named_message_port_connector_resources.grd.
+type: config
+title: GRIT resource list for the connector script
+summary: GRIT XML that bundles the connector JavaScript into a generated resource header and pak data package.

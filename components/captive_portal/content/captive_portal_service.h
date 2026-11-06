@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal service class declaration
+// summary: Declares CaptivePortalService, a keyed service that checks for captive portals on demand, throttles requests, and broadcasts results to registered callbacks.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_SERVICE_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_SERVICE_H_
 

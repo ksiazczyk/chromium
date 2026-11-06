@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill counter implementation (autofill_counter.cc)
+// summary: Implements AutofillCounter, which counts credit cards, addresses, Autofill AI entities and suggestions in the selected time range for the Clear Browsing Data dialog.
+// ---
+
 #include "components/browsing_data/core/counters/autofill_counter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync tracker header
+// summary: Declares SyncTracker, a SyncServiceObserver helper that subscribes to sync changes and notifies a BrowsingDataCounter when the sync state changes.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_SYNC_TRACKER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_SYNC_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data feature flag declarations
+// summary: Declares browsing data feature flags such as kBrowsingDataModel and kPasswordRemovalExtensionErrorKillSwitch that gate platform-specific behavior.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_FEATURES_H_
 #define COMPONENTS_BROWSING_DATA_CORE_FEATURES_H_
 

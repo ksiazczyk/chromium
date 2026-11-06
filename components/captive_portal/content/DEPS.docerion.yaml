@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Captive portal content dependency rules
+summary: Lists the allowed include dependencies for the captive portal content component, covering core, prefs, content, network, net, and blink common.

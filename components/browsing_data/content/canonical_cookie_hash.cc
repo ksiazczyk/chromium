@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canonical cookie hashing and comparison
+// summary: Implements a fast persistent hash and an equality comparer for canonical cookies based on name, domain, path, and partition key.
+// ---
+
 #include "components/browsing_data/content/canonical_cookie_hash.h"
 
 #include "base/hash/hash.h"

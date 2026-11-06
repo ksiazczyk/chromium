@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History notice utilities unit tests
+// summary: Unit tests for the history notice utilities, covering sync state, passphrase settings, and fake web history service responses.
+// ---
+
 #include "components/browsing_data/core/history_notice_utils.h"
 
 #include <memory>

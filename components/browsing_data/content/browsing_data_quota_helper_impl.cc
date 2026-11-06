@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota helper implementation
+// summary: Implements quota fetching and storage key data deletion through the QuotaManager, coordinating between UI and IO threads.
+// ---
+
 #include "components/browsing_data/content/browsing_data_quota_helper_impl.h"
 
 #include <map>

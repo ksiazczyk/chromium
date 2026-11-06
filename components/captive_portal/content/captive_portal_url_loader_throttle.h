@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal URL loader throttle header
+// summary: Declares CaptivePortalURLLoaderThrottle, a blink URL loader throttle that disables secure DNS for captive portal windows.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_URL_LOADER_THROTTLE_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_URL_LOADER_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform message port pair creation declaration
+// summary: Declares CreatePlatformMessagePortPair, which creates client and server message ports whose semantics may be asymmetric per platform.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_PLATFORM_MESSAGE_PORT_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_PLATFORM_MESSAGE_PORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode util header declaring GPU rasterization check
+// summary: Declares the exported IsGpuRasterizationSupported function that reports whether GPU rasterization is supported for a given ui::ContextFactory.
+// ---
+
 #ifndef COMPONENTS_CAPTURE_MODE_CAPTURE_MODE_UTIL_H_
 #define COMPONENTS_CAPTURE_MODE_CAPTURE_MODE_UTIL_H_
 

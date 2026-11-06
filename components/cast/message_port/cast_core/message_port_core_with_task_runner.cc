@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortCoreWithTaskRunner implementation
+// summary: Implements a MessagePortCore that posts accept, start, and error operations to the current SequencedTaskRunner and creates paired connected ports with generated channel IDs.
+// ---
+
 #include "components/cast/message_port/cast_core/message_port_core_with_task_runner.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test message port receiver implementation
+// summary: Implements a test receiver that buffers received messages and ports and blocks via RunLoop until expected message counts or disconnection occur.
+// ---
+
 #include "components/cast/message_port/test_message_port_receiver.h"
 
 #include <string_view>

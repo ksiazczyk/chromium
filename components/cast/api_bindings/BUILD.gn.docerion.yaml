@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cast API bindings manager
+summary: Defines the manager source set for the cast API bindings, listing its sources and dependencies on base, the cast export target, and message_port.

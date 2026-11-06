@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark counter implementation (bookmark_counter.cc)
+// summary: Implements BookmarkCounter, which counts bookmarks added since the period start across the bookmark bar, other and mobile nodes, waiting for the model to load if needed.
+// ---
+
 #include "components/browsing_data/core/counters/bookmark_counter.h"
 
 #include "base/functional/bind.h"

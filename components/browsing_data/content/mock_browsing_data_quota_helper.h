@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock browsing data quota helper header
+// summary: Declares MockBrowsingDataQuotaHelper, a test fake for BrowsingDataQuotaHelper with helpers to add quota samples and notify the callback.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_MOCK_BROWSING_DATA_QUOTA_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_MOCK_BROWSING_DATA_QUOTA_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal login detector implementation
+// summary: Implements the login detector that triggers captive portal checks on navigations from a tab at a captive portal login page until the portal is no longer detected.
+// ---
+
 #include "components/captive_portal/content/captive_portal_login_detector.h"
 
 #include "components/captive_portal/core/captive_portal_types.h"

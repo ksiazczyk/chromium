@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal detector test base declaration
+// summary: Declares CaptivePortalDetectorTestBase, providing a test URL loader factory and helpers to drive captive portal detection in tests.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_TESTING_UTILS_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_TESTING_UTILS_H_
 

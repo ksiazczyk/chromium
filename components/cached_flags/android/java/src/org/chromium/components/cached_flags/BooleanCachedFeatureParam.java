@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BooleanCachedFeatureParam
+// summary: Boolean-typed cached feature parameter that resolves values from test overrides, Safe Mode, the SharedPreferences cache, or a default before native is loaded.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.SharedPreferences;

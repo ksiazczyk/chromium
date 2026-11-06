@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ScopedApiBinding
+// summary: Implements ScopedApiBinding, registering binding JavaScript and a port handler on construction and forwarding messages between the MessagePort and its delegate.
+// ---
+
 #include "components/cast/api_bindings/scoped_api_binding.h"
 
 #include <string>

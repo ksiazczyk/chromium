@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal export macros
+// summary: Defines the CAPTIVE_PORTAL_EXPORT macro controlling symbol visibility for the captive portal component on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_EXPORT_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_EXPORT_H_
 

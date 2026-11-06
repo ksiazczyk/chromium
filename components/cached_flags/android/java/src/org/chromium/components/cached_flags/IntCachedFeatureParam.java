@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntCachedFeatureParam
+// summary: Defines an integer-valued cached feature parameter that resolves values from safe mode or shared preferences, caches them, and supports test overrides in Chromium's cached flags component.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.SharedPreferences;

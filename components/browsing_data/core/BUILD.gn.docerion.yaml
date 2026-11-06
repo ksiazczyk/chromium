@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browsing_data core
+summary: GN build rules defining the core static library, the cookie_or_cache_deletion_choice source set, Android Java enum generation, and unit test targets with their dependencies.

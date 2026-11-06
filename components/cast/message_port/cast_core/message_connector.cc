@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageConnector base class implementation
+// summary: Implements peer attachment, detachment, and start handling for the MessageConnector class that represents one end of a message channel.
+// ---
+
 #include "components/cast/message_port/cast_core/message_connector.h"
 
 #include "base/check_op.h"

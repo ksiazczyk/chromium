@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Named message port connector build definition
+summary: GN build file defining the connector source set and the GRIT target that packages its JavaScript resources.

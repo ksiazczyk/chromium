@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browsing data model
+// summary: Declares an in-memory fake of BrowsingDataModel that reuses its logic but overrides disk operations for tests.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback_forward.h"

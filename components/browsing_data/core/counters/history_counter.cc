@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History counter implementation (history_counter.cc)
+// summary: Implements HistoryCounter, which counts unique locally visited domains and, when history sync is enabled, queries web history for synced visits with a timeout.
+// ---
+
 #include "components/browsing_data/core/counters/history_counter.h"
 
 #include <limits.h>

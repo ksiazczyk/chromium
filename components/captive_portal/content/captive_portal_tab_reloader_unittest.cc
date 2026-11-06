@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal tab reloader unit tests
+// summary: Unit tests for CaptivePortalTabReloader that simulate slow SSL loads, timeouts, and captive portal results using a mocked test subclass.
+// ---
+
 #include "components/captive_portal/content/captive_portal_tab_reloader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateWebMessage implementation for Fuchsia WebMessage
+// summary: Implements the CreateWebMessage utility that builds a fuchsia::web::WebMessage from a string payload with an optional transferred message port.
+// ---
+
 #include "components/cast/message_port/fuchsia/create_web_message.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data policies utils implementation
+// summary: Implements helpers that map BrowsingDataLifetime and ClearBrowsingDataOnExit policy data types to sync types that must be disabled and disables them via preferences.
+// ---
+
 #include "components/browsing_data/core/browsing_data_policies_utils.h"
 
 #include <algorithm>

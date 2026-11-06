@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Captive portal directory metadata
+summary: Chromium DIR_METADATA settings assigning the directory to the Internals>Network monorail component, the net-dev team email, and a Buganizer component.

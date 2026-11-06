@@ -4,6 +4,12 @@
 
 // Contains code shared by all browsing data browsertests.
 
+// ---docerion
+// type: test
+// title: Shared callback template for browsing data browsertests
+// summary: Provides a template callback class shared by browsing data browsertests that captures StartFetching results and exposes them after a RunLoop completes.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_HELPER_BROWSERTEST_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_HELPER_BROWSERTEST_H_
 

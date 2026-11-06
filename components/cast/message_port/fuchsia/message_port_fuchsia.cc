@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortFuchsia client and server implementation
+// summary: Implements client and server variants of MessagePortFuchsia that send and receive fuchsia.web.WebMessage traffic over the FIDL MessagePort channel.
+// ---
+
 #include "components/cast/message_port/fuchsia/message_port_fuchsia.h"
 
 #include <lib/fpromise/result.h>

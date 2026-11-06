@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data model interface
+// summary: Declares the BrowsingDataModel interface that exposes a uniform view of browsing data grouped by data owner for use in UI surfaces.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_MODEL_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_MODEL_H_
 

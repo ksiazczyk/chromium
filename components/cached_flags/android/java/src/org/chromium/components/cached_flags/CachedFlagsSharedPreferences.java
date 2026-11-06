@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFlagsSharedPreferences
+// summary: Defines the SharedPreferences key prefixes, crash streak and Safe Mode keys, and preference key registry used by the cached flags component.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import org.chromium.base.shared_preferences.KeyPrefix;

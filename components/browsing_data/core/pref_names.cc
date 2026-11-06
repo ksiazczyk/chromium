@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Browsing Data preference registration
+// summary: Registers Clear Browsing Data preferences such as the deletion time period, data type checkboxes, and policy-driven lifetime settings.
+// ---
+
 #include "components/browsing_data/core/pref_names.h"
 
 #include "base/values.h"

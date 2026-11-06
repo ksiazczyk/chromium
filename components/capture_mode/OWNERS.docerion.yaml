@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Capture mode owners
+summary: Points to the ash capture_mode OWNERS file to reuse its list of directory owners.

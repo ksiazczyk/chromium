@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data policies utils declarations
+// summary: Declares the PolicyDataType enum and functions for computing and disabling sync types affected by browsing data retention and deletion policies.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_BROWSING_DATA_POLICIES_UTILS_H_
 #define COMPONENTS_BROWSING_DATA_CORE_BROWSING_DATA_POLICIES_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter base implementation (browsing_data_counter.cc)
+// summary: Implements the BrowsingDataCounter base class, including its state machine, calculating delays, preference-driven restarts and result reporting.
+// ---
+
 #include "components/browsing_data/core/counters/browsing_data_counter.h"
 
 #include <memory>

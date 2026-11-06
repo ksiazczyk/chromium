@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraVideoFrameHandler implementation
+// summary: Implements camera frame handling, including platform-specific capture parameter adjustments, GPU memory buffer support, and fatal error detection.
+// ---
+
 #include "components/capture_mode/camera_video_frame_handler.h"
 
 #include "base/check.h"

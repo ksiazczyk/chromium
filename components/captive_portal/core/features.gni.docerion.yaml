@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Build argument for captive portal detection
+summary: GN build configuration declaring the enable_captive_portal_detection argument, disabled on Android, iOS and CastOS.

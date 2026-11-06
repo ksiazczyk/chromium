@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the browsing_data component
+summary: Lists code owners for the browsing_data component, inheriting owners from content/browser/browsing_data and assigning browsing_data_model files to a specific owner.

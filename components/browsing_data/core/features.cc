@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data feature flag definitions
+// summary: Defines browsing data feature flags, including Android-only BrowsingDataModel and password removal features plus a kill switch for the extension password removal error.
+// ---
+
 #include "components/browsing_data/core/features.h"
 
 #include "build/build_config.h"

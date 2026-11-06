@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cache storage helper implementation
+// summary: Implements MockCacheStorageHelper, a test fake that supplies cache storage samples and tracks deletions for verification.
+// ---
+
 #include "components/browsing_data/content/mock_cache_storage_helper.h"
 
 #include "base/functional/callback.h"

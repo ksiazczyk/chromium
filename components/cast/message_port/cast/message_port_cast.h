@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortCast class declaration
+// summary: Declares the MessagePortCast class, a Cast implementation of cast_api_bindings::MessagePort that abstracts HTML message ports away from blink::WebMessagePort and represents one end of a message channel.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_CAST_MESSAGE_PORT_CAST_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_CAST_MESSAGE_PORT_CAST_H_
 

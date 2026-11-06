@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for browsing data policies utils
+// summary: Verifies sync type computation for BrowsingDataLifetime and ClearBrowsingDataOnExit policy values and the conversion of policy data type names.
+// ---
+
 #include "components/browsing_data/core/browsing_data_policies_utils.h"
 #include "components/browsing_data/core/browsing_data_utils.h"
 #include "components/browsing_data/core/pref_names.h"

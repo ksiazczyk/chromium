@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cached flags BUILD.gn build targets
+summary: Defines GN targets for the cached_flags component, including the Android Java library, Robolectric unit tests, JNI header generation, and the Android JNI delegate source set.

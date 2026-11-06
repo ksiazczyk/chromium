@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal detector implementation
+// summary: Implements captive portal detection by fetching a probe URL over HTTP and classifying the response as online, behind a portal, or offline.
+// ---
+
 #include "components/captive_portal/core/captive_portal_detector.h"
 
 #include <optional>

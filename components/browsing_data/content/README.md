@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browsing data content helpers README
+summary: Explains the helper, canned helper, and mock helper classes used to populate a CookiesTreeModel with storage usage info and to delete origin data.
+---
+
 Types in this directory are used to populate a `CookiesTreeModel`;
 see //chrome/browser/browsing_data.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateMessagePortCore factory implementation
+// summary: Implements factory functions that create a MessagePortCore for a channel ID and create a connected client-server pair of task-runner-backed ports.
+// ---
+
 #include "components/cast/message_port/cast_core/create_message_port_core.h"
 
 #include <memory>

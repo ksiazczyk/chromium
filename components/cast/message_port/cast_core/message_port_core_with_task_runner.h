@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortCoreWithTaskRunner class declaration
+// summary: Declares a MessagePortCore subclass that schedules its sequence-based operations on the current default SequencedTaskRunner and can create bound port pairs.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_CAST_CORE_MESSAGE_PORT_CORE_WITH_TASK_RUNNER_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_CAST_CORE_MESSAGE_PORT_CORE_WITH_TASK_RUNNER_H_
 

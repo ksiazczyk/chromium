@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Captive portal directory owners
+summary: OWNERS file that delegates code ownership for the captive portal component to the owners of net/.

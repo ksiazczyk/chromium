@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API bindings Manager class declaration
+// summary: Declares the Manager interface for injecting JavaScript bindings into a container and registering handlers for MessagePort connections from web content.
+// ---
+
 #ifndef COMPONENTS_CAST_API_BINDINGS_MANAGER_H_
 #define COMPONENTS_CAST_API_BINDINGS_MANAGER_H_
 

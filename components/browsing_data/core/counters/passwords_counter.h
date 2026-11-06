@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords counter header
+// summary: Declares the browsing_data PasswordsCounter, which counts profile and account passwords from the password stores and reports example domains whose credentials would be deleted.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_PASSWORDS_COUNTER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_PASSWORDS_COUNTER_H_
 

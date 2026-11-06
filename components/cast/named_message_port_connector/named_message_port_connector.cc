@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMessagePortConnector implementation
+// summary: Implements validation of incoming port connection requests and forwarding of accepted MessagePorts to registered handlers.
+// ---
+
 #include "components/cast/named_message_port_connector/named_message_port_connector.h"
 
 #include <optional>

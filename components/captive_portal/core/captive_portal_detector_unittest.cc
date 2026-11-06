@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal detector unit tests
+// summary: Unit tests for CaptivePortalDetector covering detection results for various responses, Retry-After handling, and cancellation, parameterized by feature state.
+// ---
+
 #include "components/captive_portal/core/captive_portal_detector.h"
 
 #include <memory>

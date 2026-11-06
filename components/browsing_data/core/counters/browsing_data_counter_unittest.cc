@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data counter unit tests (browsing_data_counter_unittest.cc)
+// summary: Unit tests for BrowsingDataCounter that verify state transitions, delays and result reporting using a mock counter and a testing pref service.
+// ---
+
 #include "components/browsing_data/core/counters/browsing_data_counter.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for cast common constants
+summary: Defines the GN source_set 'constants' that compiles constants.cc and constants.h in components/cast/common.

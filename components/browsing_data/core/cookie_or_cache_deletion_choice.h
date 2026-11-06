@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Cookie or cache deletion choice enum
+// summary: Defines a UMA-logged enum reporting whether cookies, cache, both, or neither were deleted, with a generated Java counterpart for Android.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COOKIE_OR_CACHE_DELETION_CHOICE_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COOKIE_OR_CACHE_DELETION_CHOICE_H_
 

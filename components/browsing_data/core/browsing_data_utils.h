@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data utils declarations
+// summary: Declares enums for browsing data types, time periods, and deletion actions used by the clear browsing data UI, plus related utility functions.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_BROWSING_DATA_UTILS_H_
 #define COMPONENTS_BROWSING_DATA_CORE_BROWSING_DATA_UTILS_H_
 

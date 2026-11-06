@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter base class (browsing_data_counter.h)
+// summary: Declares the BrowsingDataCounter base class with its Result, FinishedResult and SyncResult types and the state machine used to count deletable browsing data.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_BROWSING_DATA_COUNTER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_BROWSING_DATA_COUNTER_H_
 

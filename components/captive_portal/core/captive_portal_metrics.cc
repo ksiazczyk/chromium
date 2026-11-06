@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal metrics implementation
+// summary: Logs a UMA histogram event for user interactions with the captive portal blocking page.
+// ---
+
 #include "components/captive_portal/core/captive_portal_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

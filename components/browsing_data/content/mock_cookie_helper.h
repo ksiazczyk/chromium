@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cookie helper header
+// summary: Declares MockCookieHelper, a test fake for CookieHelper with cookie sample creation, reset, and all-deleted checks.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_MOCK_COOKIE_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_MOCK_COOKIE_HELPER_H_
 
