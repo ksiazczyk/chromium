@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub app permission test utilities
+// summary: Shared test helpers that create fake apps with permissions, fake metrics and query system service rows in Privacy Hub subpage tests.
+// ---
+
 import type {SettingsPrivacyHubCameraSubpage, SettingsPrivacyHubGeolocationSubpage, SettingsPrivacyHubMicrophoneSubpage} from 'chrome://os-settings/lazy_load.js';
 import type {appPermissionHandlerMojom, SettingsPrivacyHubSystemServiceRow} from 'chrome://os-settings/os_settings.js';
 import type {PermissionType, TriState} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

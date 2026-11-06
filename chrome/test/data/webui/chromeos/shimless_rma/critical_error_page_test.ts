@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Critical error page tests
+// summary: Tests that the critical error page disables all buttons when the exit to login or reboot button is clicked.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

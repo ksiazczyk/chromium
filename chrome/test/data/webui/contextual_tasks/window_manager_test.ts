@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window manager WebUI tests
+// summary: Tests the WindowManager handling of newwindow events, verifying mock webview creation, partition assignment, and removal on close.
+// ---
+
 import {BrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';
 import type {WebViewType} from 'chrome://contextual-tasks/web_view_type.js';
 import {WindowManager} from 'chrome://contextual-tasks/window_manager.js';

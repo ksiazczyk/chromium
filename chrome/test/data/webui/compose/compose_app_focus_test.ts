@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose app focus tests
+// summary: Verifies focus handling of the Compose app after invalidation, submission, rewrite, and undo or redo actions.
+// ---
+
 import 'chrome-untrusted://compose/app.js';
 
 import type {ComposeAppElement} from 'chrome-untrusted://compose/app.js';

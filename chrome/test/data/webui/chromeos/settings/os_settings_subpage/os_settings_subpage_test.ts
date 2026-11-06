@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: OsSettingsSubpage WebUI tests
+// summary: Browser tests verifying that the os-settings-subpage element includes a settings card when multiCard is false and omits it when multiCard is true.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsSubpageElement, SettingsCardElement} from 'chrome://os-settings/os_settings.js';

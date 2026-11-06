@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Languages page v2 WebUI tests
+// summary: WebUI test suite for the OS Settings languages page v2, covering language lists, input methods, policy indicators, and restart flows via test proxies.
+// ---
+
 import type {LanguageHelper, LanguageState, OsSettingsChangeDeviceLanguageDialogElement, OsSettingsLanguagesPageV2Element, SettingsLanguagesElement} from 'chrome://os-settings/lazy_load.js';
 import {LanguagesBrowserProxyImpl, LanguagesMetricsProxyImpl, LanguagesPageInteraction, LifetimeBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';
 import type {CrActionMenuElement, CrCheckboxElement, CrLinkRowElement, CrPolicyIndicatorElement, SettingsPrefsElement} from 'chrome://os-settings/os_settings.js';

@@ -6,6 +6,12 @@
  * @fileoverview Test suite for the SysInternals WebUI. (CrOS only)
  */
 
+// ---docerion
+// type: test
+// title: SysInternals WebUI browser test suite
+// summary: Browser test harness that loads the sys_internals page and runs each mocha test suite.
+// ---
+
 GEN('#include "chrome/common/chrome_features.h"');
 GEN('#include "content/public/test/browser_test.h"');
 

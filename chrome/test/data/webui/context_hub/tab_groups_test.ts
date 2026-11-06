@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context Hub tab groups WebUI tests
+// summary: TypeScript Mocha tests for the Context Hub tab groups UI, mocking the Mojom handler to verify grouping, confirmation, and chat history flows.
+// ---
+
 import 'chrome://context-hub/tab_groups/tab_groups.js';
 
 import {browserProxyFactory, ChatRole, PageHandlerRemote} from 'chrome://context-hub/context_hub.mojom-webui.js';

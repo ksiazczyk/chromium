@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Shimless RMA tests directory metadata
+summary: Points the directory metadata for the Shimless RMA WebUI tests to the shared Shimless RMA COMMON_METADATA mixins.

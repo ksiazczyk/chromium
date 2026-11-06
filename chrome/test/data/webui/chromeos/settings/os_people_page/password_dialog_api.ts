@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password dialog test API
+// summary: Test API helper wrapping the local password setup dialog to inspect dialog state, access the password input and submit for tests.
+// ---
+
 import {CrButtonElement, CrDialogElement} from 'chrome://os-settings/os_settings.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 

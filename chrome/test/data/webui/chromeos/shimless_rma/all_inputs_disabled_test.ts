@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: All inputs disabled tests
+// summary: Verifies that inputs such as buttons, inputs, sliders, and toggles on every Shimless RMA page are disabled when allButtonsDisabled is set.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {FakeShimlessRmaService} from 'chrome://shimless-rma/fake_shimless_rma_service.js';
 import {populateFakeShimlessRmaService, setShimlessRmaServiceForTesting} from 'chrome://shimless-rma/mojo_interface_provider.js';

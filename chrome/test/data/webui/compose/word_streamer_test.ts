@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Word streamer tests
+// summary: Tests the WordStreamer's timed word-by-word output, text appends, changes, reset, and output rate behavior using a mock timer.
+// ---
+
 import 'chrome-untrusted://compose/word_streamer.js';
 
 import {WordStreamer} from 'chrome-untrusted://compose/word_streamer.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reimaging calibration run page tests
+// summary: WebUI test suite for the Shimless RMA calibration run page, covering next button gating during calibration and UI updates when calibration completes.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

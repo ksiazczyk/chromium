@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App notifications manager subpage tests
+// summary: Tests the app notifications manager subpage, checking the rendered app list and toggling of per-app notification permissions.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsAppNotificationsManagerSubpage} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox submit tests
+// summary: Tests composebox submit flows including voice input, tab context, and autocomplete-driven submissions.
+// ---
+
 // For composebox tests related to tools, secondary inputs (voice, drag/drop).
 import 'chrome://contextual-tasks/app.js';
 

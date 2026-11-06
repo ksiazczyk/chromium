@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings people page tests
+// summary: WebUI tests for the people page checking visibility of the account manager, additional accounts, parental controls and graduation cards.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {AccountManagerBrowserProxy} from 'chrome://os-settings/lazy_load.js';

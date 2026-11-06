@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Shimless RMA service tests
+// summary: Tests the fake Shimless RMA service's state handling, error results, properties, and observer behavior used across the WebUI tests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {FakeShimlessRmaService} from 'chrome://shimless-rma/fake_shimless_rma_service.js';
 import type {CalibrationObserverRemote, ErrorObserverRemote, FinalizationObserverRemote, HardwareVerificationStatusObserverRemote, HardwareWriteProtectionStateObserverRemote, OsUpdateObserverRemote, PowerCableStateObserverRemote, ProvisioningObserverRemote, UpdateRoFirmwareObserverRemote} from 'chrome://shimless-rma/shimless_rma.mojom-webui.js';

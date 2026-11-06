@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding manual write protection disable page tests
+// summary: WebUI test suite for the Shimless RMA page that waits for manual hardware write protection disable, verifying text changes when protection state changes.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {strictQuery} from 'chrome://resources/ash/common/typescript_utils/strict_query.js';

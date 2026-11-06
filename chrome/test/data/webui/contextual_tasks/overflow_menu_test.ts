@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overflow menu WebUI tests
+// summary: WebUI tests for the contextual tasks overflow menu, checking open-in-new-tab, my activity, feedback, and thread history actions across form factors.
+// ---
+
 import 'chrome://contextual-tasks/overflow_menu.js';
 
 import {ToolbarBrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_toolbar_browser_proxy.js';

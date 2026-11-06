@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrap-up repair complete page tests
+// summary: WebUI tests for the wrap-up repair complete page, covering shutdown, reboot, battery cutoff, powerwash and RMA log dialog actions.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

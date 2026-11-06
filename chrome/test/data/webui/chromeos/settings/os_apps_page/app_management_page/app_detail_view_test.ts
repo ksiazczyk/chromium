@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App detail view tests
+// summary: WebUI tests for the app management app detail view, checking that the correct ARC or PWA detail view renders when the selected app changes.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementAppDetailViewElement} from 'chrome://os-settings/lazy_load.js';

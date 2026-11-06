@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Search result bolding tests
+// summary: Tests query-to-description bold matching, including ignored characters, accented text, CJK and RTL languages, and whitespace handling.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {getBoldedDescription} from 'chrome://shortcut-customization/js/search/search_result_bolding.js';

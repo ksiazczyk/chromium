@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management resize lock item tests
+// summary: WebUI test suite for the app-management-resize-lock-item element, verifying when the resize lock setting is shown or hidden for ARC apps.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementResizeLockItemElement} from 'chrome://os-settings/lazy_load.js';

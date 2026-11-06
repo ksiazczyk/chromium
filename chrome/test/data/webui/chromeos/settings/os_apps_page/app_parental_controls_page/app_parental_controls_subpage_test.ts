@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App parental controls subpage tests
+// summary: WebUI tests for the ChromeOS settings app parental controls subpage, covering app list ordering and block toggles.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {SettingsAppParentalControlsSubpageElement} from 'chrome://os-settings/lazy_load.js';

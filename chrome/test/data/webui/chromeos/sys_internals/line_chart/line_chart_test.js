@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LineChart tests for touch, time steps, scrolling and zooming
+// summary: Tests the LineChart component, including touch distance calculation, suitable time step selection and integration behavior for data series, scrolling, zooming and rendering.
+// ---
+
 import {SAMPLE_RATE, UnitLabelAlign} from 'chrome://sys-internals/line_chart/constants.js';
 import {DataSeries} from 'chrome://sys-internals/line_chart/data_series.js';
 import {LineChart} from 'chrome://sys-internals/line_chart/line_chart.js';

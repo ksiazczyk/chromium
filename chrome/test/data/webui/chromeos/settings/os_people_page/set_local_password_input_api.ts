@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set local password input test API
+// summary: Test API for the local password input element that enters first and confirm values and asserts invalid state, hints and error messages.
+// ---
+
 import {CrInputElement} from 'chrome://os-settings/os_settings.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 

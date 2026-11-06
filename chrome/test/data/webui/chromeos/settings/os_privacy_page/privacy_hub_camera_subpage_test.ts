@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub camera subpage tests
+// summary: WebUI tests for the Privacy Hub camera subpage, covering the camera toggle, on/off text and camera list display.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPrivacyHubCameraSubpage} from 'chrome://os-settings/lazy_load.js';

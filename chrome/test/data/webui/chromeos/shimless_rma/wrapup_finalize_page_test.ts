@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrap-up finalize page tests
+// summary: WebUI tests for the wrap-up finalize page, verifying initialization, auto transition on finalization completion and fatal hardware error handling.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';

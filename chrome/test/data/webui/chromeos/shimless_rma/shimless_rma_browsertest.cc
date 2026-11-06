@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shimless RMA WebUI browser test suite
+// summary: Browser test harness that runs the Mocha test suites for the Shimless RMA WebUI, launching each page test individually or all together via gtest filters.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/webui/shimless_rma/url_constants.h"

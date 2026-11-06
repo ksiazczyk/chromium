@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the ChromeOS reset settings card
+// summary: WebUI test suite for the reset-settings-card element, covering the powerwash dialog, sanitize button and eSIM warning behavior with fake browser proxies.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsPowerwashDialogElement, ResetSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

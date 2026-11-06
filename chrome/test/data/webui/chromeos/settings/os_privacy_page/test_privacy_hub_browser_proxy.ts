@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test privacy hub browser proxy
+// summary: Test double implementing the privacy hub browser proxy, stubbing microphone, camera, geolocation, time zone, and sunrise and sunset data.
+// ---
+
 import type {PrivacyHubBrowserProxy} from 'chrome://os-settings/lazy_load.js';
 import {GeolocationAccessLevel} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

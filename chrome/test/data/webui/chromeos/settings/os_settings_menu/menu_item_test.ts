@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Os settings menu item element tests
+// summary: WebUI test suite for the os-settings-menu-item element, verifying label and sublabel display, aria-label and aria-description reflection, and Spacebar or Enter key click behavior.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsMenuItemElement} from 'chrome://os-settings/os_settings.js';

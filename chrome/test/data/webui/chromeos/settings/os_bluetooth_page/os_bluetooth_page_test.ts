@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth settings page tests
+// summary: WebUI tests for the OS settings Bluetooth page, covering pairing dialog display, the pair new device button across Bluetooth states and back navigation.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsSubpageElement} from 'chrome://os-settings/lazy_load.js';

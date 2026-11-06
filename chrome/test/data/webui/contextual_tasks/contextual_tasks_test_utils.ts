@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks test utilities
+// summary: Shared helpers for contextual tasks WebUI tests, providing mock installation, fixture URLs, handshake message fixtures, and DOM and event simulation utilities.
+// ---
+
 
 import type {ContextualTasksAppElement} from 'chrome://contextual-tasks/app.js';
 // <if expr="not is_android or enable_webui_contextual_tasks_composebox">

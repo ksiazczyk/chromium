@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut customization WebUI Mocha browser test harness
+// summary: C++ browser test that runs each shortcut customization JavaScript test suite through WebUIMochaBrowserTest.
+// ---
+
 #include <string>
 
 #include "ash/webui/shortcut_customization_ui/url_constants.h"

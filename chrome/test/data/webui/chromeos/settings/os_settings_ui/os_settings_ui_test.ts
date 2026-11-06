@@ -7,6 +7,12 @@
  * Suite of tests for the overall OS Settings UI.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings UI tests
+// summary: WebUI test suite for the overall OS Settings UI, covering the update-required end-of-life banner visibility and close button and closing the drawer via its icon.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

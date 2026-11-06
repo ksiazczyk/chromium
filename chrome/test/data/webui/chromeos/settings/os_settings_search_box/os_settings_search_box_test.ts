@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings search box WebUI test suite
+// summary: Tests the os-settings-search-box element, covering search results, selection, feedback dialogs and navigation using fake handlers and proxies.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrToolbarSearchFieldElement, IronDropdownElement, IronListElement, OsSearchResultRowElement, OsSettingsSearchBoxElement, ToolbarElement} from 'chrome://os-settings/os_settings.js';

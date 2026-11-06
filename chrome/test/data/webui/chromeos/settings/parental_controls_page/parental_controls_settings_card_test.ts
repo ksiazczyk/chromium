@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parental controls settings card WebUI tests
+// summary: WebUI test suite verifying the parental controls settings card, covering setup button behavior online and offline and deep link navigation.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrButtonElement, CrLinkRowElement, ParentalControlsSettingsCardElement} from 'chrome://os-settings/os_settings.js';

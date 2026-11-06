@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS apps page WebUI test suite
+// summary: WebUI test suite for the ChromeOS settings apps page, covering the Android apps subpage, parental controls, app notifications, and related preferences using fake proxies and handlers.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://os-settings/os_settings.js';
 

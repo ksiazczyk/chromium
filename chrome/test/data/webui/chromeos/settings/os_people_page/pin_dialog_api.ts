@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN dialog test API
+// summary: Test API for the PIN setup and PIN autosubmit dialogs, providing helpers to enter PINs, press buttons and check error messages.
+// ---
+
 import {CrButtonElement} from 'chrome://os-settings/os_settings.js';
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {assertNotReached, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cups_printer_page_test.ts
+// summary: WebUI tests for the settings-cups-printers page element, verifying section strings, collapsible nearby printers section, and behavior tied to the active network connection.
+// ---
+
 import type {SettingsCupsPrintersElement} from 'chrome://os-settings/lazy_load.js';
 import {CupsPrintersBrowserProxyImpl, PrinterSettingsUserAction, PrinterType} from 'chrome://os-settings/lazy_load.js';
 import {Router, routes, settingMojom} from 'chrome://os-settings/os_settings.js';

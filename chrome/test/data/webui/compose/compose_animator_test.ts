@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose animator tests
+// summary: Tests the Compose Animator's animate, fade in and out, scale, and slide animations on shadow DOM elements.
+// ---
+
 import 'chrome-untrusted://compose/animations/animator.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

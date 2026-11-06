@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks browser test harness
+// summary: C++ WebUI mocha browser test harness that enables contextual tasks features, mocks the AIM eligibility service, and runs the JavaScript test suites in a browser.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/test/scoped_feature_list.h"

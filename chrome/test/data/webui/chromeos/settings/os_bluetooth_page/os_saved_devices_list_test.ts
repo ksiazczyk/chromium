@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved devices list WebUI tests for ChromeOS Bluetooth settings
+// summary: Tests the os-settings-saved-devices-list element, covering list rendering and removal of saved Fast Pair devices using a test browser proxy.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsSavedDevicesListElement} from 'chrome://os-settings/lazy_load.js';

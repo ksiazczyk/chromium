@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Info page display tests
+// summary: Checks that the info page shows correct CPU, memory, zram, GPU and NPU values after data updates.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 import {handleUpdateData, lineChart, updateInfoPage} from 'chrome://sys-internals/index.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

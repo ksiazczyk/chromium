@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu tests for data series visibility toggling
+// summary: Tests the line chart Menu component, verifying adding and removing data series, toggling series visibility via buttons and showing or hiding the button panel.
+// ---
+
 import {DataSeries} from 'chrome://sys-internals/line_chart/data_series.js';
 import {Menu} from 'chrome://sys-internals/line_chart/menu.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

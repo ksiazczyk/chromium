@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test that the commerce internals page opens
+// summary: C++ WebUI Mocha browser test that enables internal-only URLs, loads the commerce internals host, and runs the Mocha suite to verify the page opens.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "components/commerce/core/commerce_constants.h"

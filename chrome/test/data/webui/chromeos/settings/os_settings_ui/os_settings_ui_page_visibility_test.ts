@@ -10,6 +10,12 @@
  *   since the element is very large.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings UI page visibility tests
+// summary: WebUI tests asserting that only the routed settings page is active and visible, subpages are hidden, and page focus behaves correctly in the CrOS Settings UI.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

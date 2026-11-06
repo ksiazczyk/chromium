@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input page WebUI tests
+// summary: Extensive WebUI test suite for the OS Settings input page covering languages, input methods, spell check, and shortcut reminder behavior with fake proxies.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {LanguageHelper, OsSettingsAddItemsDialogElement, OsSettingsInputPageElement, SettingsLanguagesElement} from 'chrome://os-settings/lazy_load.js';

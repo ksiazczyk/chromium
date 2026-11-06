@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage users subpage WebUI tests
+// summary: WebUI tests for the ChromeOS settings manage users subpage, covering focus after user removal and deep links to guest browsing.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsManageUsersSubpageElement, SettingsUserListElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app permission handler for Privacy Hub tests
+// summary: Fake AppPermissionsHandler implementation that records method calls and returns canned app permission data for Privacy Hub WebUI tests.
+// ---
+
 import {appPermissionHandlerMojom} from 'chrome://os-settings/os_settings.js';
 import type {Permission} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {PermissionType, TriState} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

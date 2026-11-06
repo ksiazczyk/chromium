@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension post message handler tests
+// summary: Tests for the extension post message handler, covering handshake initialization, ping messages to the parent window, allow-list URL matching, and timeout handling.
+// ---
+
 import {ExtensionBrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';
 import {ExtensionPostMessageHandler, resetExtensionPostMessagingForTesting, urlMatchesAllowList} from 'chrome://contextual-tasks/contextual_tasks_extension/post_message_handler.js';
 import {HANDSHAKE_INTERVAL_MS, HANDSHAKE_TIMEOUT_MS} from 'chrome://contextual-tasks/utils.js';

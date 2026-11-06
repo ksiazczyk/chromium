@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks browser proxy test doubles
+// summary: Test doubles for the contextual tasks browser and toolbar proxies, mocking Mojo page handlers and callback routers for use across the WebUI test suite.
+// ---
+
 import {ExtensionPageCallbackRouter, PageCallbackRouter} from 'chrome://contextual-tasks/contextual_tasks.mojom-webui.js';
 import type {ComposeboxPosition, ContextualTaskId, ContextualWindowId, ExtensionPageHandlerInterface, ExtensionPageRemote, InjectedInput, PageHandlerInterface, PageInterface, PageRemote} from 'chrome://contextual-tasks/contextual_tasks.mojom-webui.js';
 import type {BrowserProxy, ExtensionBrowserProxy} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

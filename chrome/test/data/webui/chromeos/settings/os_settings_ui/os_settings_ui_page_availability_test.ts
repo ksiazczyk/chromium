@@ -11,6 +11,12 @@
  *   since the `os-settings-ui` element is very large.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings UI page availability tests
+// summary: WebUI tests verifying which settings pages are stamped for normal and guest users, split into a dedicated suite with shared section expectations to mitigate timeouts from the large os-settings-ui element.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

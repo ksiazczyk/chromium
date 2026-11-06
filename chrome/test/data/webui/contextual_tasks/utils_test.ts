@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: isGoogleOrigin utility tests
+// summary: Unit tests for the isGoogleOrigin helper, covering valid Google and googlers origins, hijack attempts, and localhost bypasses in dev builds.
+// ---
+
 import {isGoogleOrigin} from 'chrome://contextual-tasks/utils.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

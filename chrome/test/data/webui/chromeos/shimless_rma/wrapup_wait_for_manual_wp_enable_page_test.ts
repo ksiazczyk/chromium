@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrapup wait for manual WP enable page tests
+// summary: WebUI tests for the Shimless RMA wrapup page that waits for manual hardware write-protect enable, checking initialization and auto-transition when WP is detected as enabled.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';

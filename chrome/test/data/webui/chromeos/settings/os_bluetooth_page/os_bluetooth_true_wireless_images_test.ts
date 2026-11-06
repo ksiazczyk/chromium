@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth true wireless images tests
+// summary: WebUI tests for the true wireless earbuds images element, covering bud and case image display and battery percentage rendering.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsBluetoothTrueWirelessImagesElement} from 'chrome://os-settings/lazy_load.js';

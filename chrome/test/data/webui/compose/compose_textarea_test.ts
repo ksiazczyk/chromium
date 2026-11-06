@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose textarea tests
+// summary: Tests the compose-textarea element's readonly mode, value passing, change notifications, and word and character limit validation.
+// ---
+
 import 'chrome-untrusted://compose/textarea.js';
 
 import type {ComposeTextareaElement} from 'chrome-untrusted://compose/textarea.js';

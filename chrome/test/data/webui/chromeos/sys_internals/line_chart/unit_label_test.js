@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnitLabel tests for unit selection and label scaling
+// summary: Tests the UnitLabel component, covering suitable unit selection, top label values, unit string switching, step sizes, label generation and scale calculation.
+// ---
+
 import {UnitLabel} from 'chrome://sys-internals/line_chart/unit_label.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 

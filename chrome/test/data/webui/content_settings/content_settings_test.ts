@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Content setting pattern source element tests
+// summary: WebUI test suite checking field formatting, values, and timestamp display of the content setting pattern source element.
+// ---
+
 import 'chrome://content-settings/content_setting_pattern_source.js';
 
 import type {ContentSettingPatternSourceElement} from 'chrome://content-settings/content_setting_pattern_source.js';

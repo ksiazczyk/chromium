@@ -6,6 +6,12 @@
  * @fileoverview Runs tests for the left menu of CrOS Settings.
  */
 
+// ---docerion
+// type: test
+// title: Os settings menu tests
+// summary: WebUI test suite for the left navigation menu of ChromeOS Settings, covering menu items, page availability, guest mode routing, and browser proxy interactions.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {Account} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reboot page tests
+// summary: WebUI test suite for the Shimless RMA reboot page, verifying rendering and that title and instructions update based on reboot or shutdown error codes.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handling item tests
+// summary: WebUI tests for the app management file handling item, covering the supported types overflow dialog and the learn more link.
+// ---
+
 /** @fileoverview Test suite for AppManagementFileHandlingItem. */
 import 'chrome://os-settings/os_settings.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens button tests
+// summary: Tests for the Lens button app element, verifying rendering, active and disabled states, accessibility labels, and click handling through the page handler.
+// ---
+
 import 'chrome://contextual-tasks/contextual_tasks_extension/lens_button_app.js';
 import 'chrome://contextual-tasks/strings.m.js';
 

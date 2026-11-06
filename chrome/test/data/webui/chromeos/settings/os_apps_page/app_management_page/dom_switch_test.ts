@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM switch tests
+// summary: WebUI tests for the app management DOM switch, verifying children attach and detach on route changes and that property bindings update.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementDomSwitchElement} from 'chrome://os-settings/lazy_load.js';

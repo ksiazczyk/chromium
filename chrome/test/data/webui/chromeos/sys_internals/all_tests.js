@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SysInternals test aggregator
+// summary: Imports all sys_internals WebUI test suites so they run together in one page.
+// ---
+
 import './api_test.js';
 import './line_chart/data_series_test.js';
 import './line_chart/line_chart_test.js';

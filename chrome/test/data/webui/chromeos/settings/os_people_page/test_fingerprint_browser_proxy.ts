@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint browser proxy test double
+// summary: Test browser proxy simulating fingerprint lists, enrollment, scan events and label changes for WebUI tests.
+// ---
+
 import type {FingerprintBrowserProxy, FingerprintInfo, FingerprintResultType} from 'chrome://os-settings/lazy_load.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

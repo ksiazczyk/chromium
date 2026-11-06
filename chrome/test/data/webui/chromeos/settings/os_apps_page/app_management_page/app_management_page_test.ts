@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management page tests
+// summary: WebUI tests for the settings app management page, covering app list rendering, the no apps found label, and search filtering.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsAppManagementPageElement} from 'chrome://os-settings/lazy_load.js';

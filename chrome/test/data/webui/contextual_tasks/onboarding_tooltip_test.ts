@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding tooltip WebUI tests
+// summary: WebUI tests for the contextual tasks onboarding tooltip, covering visibility, positioning relative to a target element, and hiding when the auto tab chip is removed.
+// ---
+
 import 'chrome://contextual-tasks/app.js';
 import 'chrome://contextual-tasks/onboarding_tooltip.js';
 

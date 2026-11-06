@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cups_printer_landing_page_test.ts
+// summary: WebUI tests for the printers landing page, checking saved, nearby, enterprise, and print server printer lists, keyboard navigation, edit dialog behavior, and error toasts.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CupsPrinterInfo, PrinterListEntry, SettingsCupsEditPrinterDialogElement, SettingsCupsEnterprisePrintersElement, SettingsCupsNearbyPrintersElement, SettingsCupsPrintersElement, SettingsCupsPrintersEntryElement, SettingsCupsSavedPrintersElement} from 'chrome://os-settings/lazy_load.js';

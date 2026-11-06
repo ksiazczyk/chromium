@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding write protection disable complete page tests
+// summary: WebUI test suite for the Shimless RMA write protection disable complete page, verifying rendering and the action message shown for each completion action.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

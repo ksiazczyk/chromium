@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management uninstall button tests
+// summary: WebUI test suite for the app-management-uninstall-button element, covering uninstall clicks, policy-disabled and hidden buttons, and command-line apps.
+// ---
+
 /** @fileoverview Test suite for app-management-uninstall-button. */
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';

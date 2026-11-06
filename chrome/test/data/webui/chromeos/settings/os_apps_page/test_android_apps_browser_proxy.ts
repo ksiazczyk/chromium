@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Android apps browser proxy
+// summary: Test double for the Android apps browser proxy that records proxy method calls and simulates Android apps info updates for use in WebUI tests.
+// ---
+
 import type {AndroidAppsBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

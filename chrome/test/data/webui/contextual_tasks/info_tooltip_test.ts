@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Info tooltip tests
+// summary: Tests for the contextual tasks info tooltip element, checking show behavior and left or right alignment positioning relative to its target element.
+// ---
+
 import 'chrome://contextual-tasks/info_tooltip.js';
 import 'chrome://resources/cr_elements/icons.html.js';
 

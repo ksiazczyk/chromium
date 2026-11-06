@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getSysInfo API test
+// summary: Tests the getSysInfo message handler and validates the returned CPU, memory, zram, GPU and NPU data.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 suite('getSysInfo', function() {

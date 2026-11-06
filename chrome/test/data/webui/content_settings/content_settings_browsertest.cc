@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings WebUI Mocha browser test
+// summary: Browser test that runs the Mocha suites for the content settings WebUI app with internal-only UIs enabled in local state.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

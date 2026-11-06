@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrap-up restock page tests
+// summary: WebUI tests for the wrap-up restock page, verifying rendering, continuing finalization, shutdown for restock and button disabling.
+// ---
+
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';
 import {strictQuery} from 'chrome://resources/ash/common/typescript_utils/strict_query.js';

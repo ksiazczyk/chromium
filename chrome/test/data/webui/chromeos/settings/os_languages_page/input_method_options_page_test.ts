@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method options page tests
+// summary: WebUI test suite for the OS Settings input method options page, covering physical and on-screen keyboard sections, autocorrect, and predictive writing.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsInputMethodOptionsPageElement} from 'chrome://os-settings/lazy_load.js';

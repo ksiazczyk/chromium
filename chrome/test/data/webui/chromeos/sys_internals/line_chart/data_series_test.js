@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSeries unit tests for interpolation and sampling
+// summary: Tests the DataSeries class of the sys_internals line chart, covering linear interpolation, lower-bound point lookup, sampled value retrieval and max value calculation.
+// ---
+
 import {DataSeries} from 'chrome://sys-internals/line_chart/data_series.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 

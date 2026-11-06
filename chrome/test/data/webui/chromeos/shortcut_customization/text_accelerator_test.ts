@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text accelerator element unit tests
+// summary: WebUI tests for the text accelerator element checking rendering of modifier, key, and delimiter parts as well as lock icon display.
+// ---
+
 import 'chrome://shortcut-customization/js/text_accelerator.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

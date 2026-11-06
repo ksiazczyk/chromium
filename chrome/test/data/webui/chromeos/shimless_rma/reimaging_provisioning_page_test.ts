@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reimaging provisioning page tests
+// summary: WebUI tests for the reimaging provisioning page, covering state transitions on completion and retry handling for write-protect and provisioning errors.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

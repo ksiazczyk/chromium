@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine settings browser tests
+// summary: Browser tests for the ChromeOS settings search engine element, checking row display, default engine labels and navigation to browser search settings.
+// ---
+
 import type {CategorizedTemplateUrls, CrLinkRowElement, SearchEngine, SearchEnginesInfo} from 'chrome://os-settings/os_settings.js';
 import {Router, SearchEnginesBrowserProxyImpl, SettingsSearchEngineElement} from 'chrome://os-settings/os_settings.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

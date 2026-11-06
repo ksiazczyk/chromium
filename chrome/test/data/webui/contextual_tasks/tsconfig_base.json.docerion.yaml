@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript config for contextual tasks tests
+summary: TypeScript compiler configuration for the contextual tasks WebUI tests, extending Chromium's shared base tsconfig with test type definitions.

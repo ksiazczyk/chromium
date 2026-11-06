@@ -9,6 +9,12 @@
  * suite to avoid timeouts since the <os-settings-ui> element is very large.
  */
 
+// ---docerion
+// type: test
+// title: OS Settings UI pref sync tests
+// summary: WebUI tests asserting that the user-action-setting-pref-change event updates a preference value and commits it through the settings private API.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {OsSettingsUiElement, SettingsPrefsElement} from 'chrome://os-settings/os_settings.js';

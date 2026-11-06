@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear personalization data dialog tests
+// summary: WebUI test suite verifying the Japanese clear IME data dialog renders its dialog body and cancel button.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsClearPersonalizedDataDialogElement} from 'chrome://os-settings/lazy_load.js';

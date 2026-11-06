@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test parental controls browser proxy mock
+// summary: Test double implementing ParentalControlsBrowserProxy that records calls to show the supervision dialog and launch Family Link settings during WebUI tests.
+// ---
+
 import type {ParentalControlsBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

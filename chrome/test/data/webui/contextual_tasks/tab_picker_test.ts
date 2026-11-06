@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab picker WebUI tests
+// summary: WebUI tests for the tab picker, covering recent tab listing, adding and deleting tab context, plural strings, and recorded metrics.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://contextual-tasks/contextual_tasks_extension/tab_picker.js';
 

@@ -7,6 +7,12 @@
  * Suite of browser tests for the Search and Assistant settings card element.
  */
 
+// ---docerion
+// type: test
+// title: Search and assistant settings card browser tests
+// summary: Browser tests for the ChromeOS settings Search and Assistant card, covering Magic Boost and Quick Answers visibility, enterprise policies and toggle behavior.
+// ---
+
 import type {IronCollapseElement, OsSettingsRoutes, SearchAndAssistantSettingsCardElement, SettingsToggleButtonElement} from 'chrome://os-settings/os_settings.js';
 import {Router, routes, settingMojom} from 'chrome://os-settings/os_settings.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

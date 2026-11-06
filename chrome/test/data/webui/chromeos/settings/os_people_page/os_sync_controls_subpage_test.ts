@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS sync controls subpage tests
+// summary: WebUI tests for the sync controls subpage covering sync-all versus customized sync and the individual datatype toggles.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSyncControlsSubpageElement, OsSyncPrefs} from 'chrome://os-settings/lazy_load.js';

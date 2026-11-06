@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the commerce internals test folder
+summary: Metadata file that inherits the common commerce metadata mixins for this test directory.

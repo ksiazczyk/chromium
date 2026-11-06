@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files settings card WebUI tests
+// summary: WebUI test suite for the ChromeOS Settings files settings card, covering Google Drive, OneDrive and SMB preferences and subpage navigation.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {FilesSettingsCardElement} from 'chrome://os-settings/lazy_load.js';

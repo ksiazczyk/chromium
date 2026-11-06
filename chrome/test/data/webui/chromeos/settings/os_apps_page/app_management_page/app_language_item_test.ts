@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App language item tests
+// summary: WebUI tests for the app language item, checking visibility and labels for ARC app locales and the language selection dialog.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementAppLanguageItemElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App notifications subpage tests
+// summary: Tests the app notifications subpage, covering the do-not-disturb toggle, quiet mode calls, and focus handling when navigating to subpages.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppNotificationsSubpage} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN settings test API
+// summary: Test API implementing the PIN settings Mojom interface, driving PIN setup, removal, autosubmit and validation flows in WebUI tests.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 import type {PinSettingsApiInterface, PinSettingsApiRemote} from '../pin_settings_api.test-mojom-webui.js';

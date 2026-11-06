@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks webview tests
+// summary: Tests that the contextual tasks webview adds, preserves, or omits the gsc URL parameter depending on whether it is shown in a tab or the side panel.
+// ---
+
 import 'chrome://contextual-tasks/app.js';
 
 import {BrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

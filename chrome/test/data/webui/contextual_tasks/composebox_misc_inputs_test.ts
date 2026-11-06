@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox misc input tests
+// summary: Tests composebox tool modes and secondary inputs such as drag-and-drop file attachment.
+// ---
+
 // For composebox tests related to tools, secondary inputs (drag/drop).
 import 'chrome://contextual-tasks/app.js';
 

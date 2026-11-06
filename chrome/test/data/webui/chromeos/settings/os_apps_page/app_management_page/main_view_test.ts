@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management main view tests
+// summary: WebUI test suite for the app-management-main-view element, checking that added apps appear in the app list and that clicking an item routes to its detail page.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementMainViewElement} from 'chrome://os-settings/lazy_load.js';

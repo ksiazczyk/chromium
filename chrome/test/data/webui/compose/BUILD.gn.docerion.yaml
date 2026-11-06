@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compose WebUI tests build configuration
+summary: Defines the build_webui_tests target that bundles the C++ browser tests and TypeScript WebUI test suites for the Compose UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reimaging firmware update page tests
+// summary: WebUI tests for the RO firmware update page, verifying update status display and that unplugging the USB triggers completion only after the update finishes.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Context hub test directory metadata
+summary: Maps the context hub WebUI test directory to Buganizer component 2146373 and the chrome-pcontext-exploration-eng team mailing list.

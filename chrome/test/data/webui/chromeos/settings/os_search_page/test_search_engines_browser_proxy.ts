@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test search engines browser proxy mock
+// summary: Test double for the search engines browser proxy that returns canned search engine data and records method calls for WebUI tests.
+// ---
+
 import type {CategorizedTemplateUrls, SearchEnginesBrowserProxy, SearchEnginesInfo} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

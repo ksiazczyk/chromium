@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose app tests
+// summary: Covers Compose app UI behavior including input limits, submission, responses, first-run and MSBB state, feedback, and undo or redo flows.
+// ---
+
 import 'chrome-untrusted://compose/app.js';
 
 import {CrFeedbackOption} from '//resources/cr_elements/cr_feedback_buttons/cr_feedback_buttons.js';

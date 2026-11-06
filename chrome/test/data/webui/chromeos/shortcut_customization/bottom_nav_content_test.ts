@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom nav content tests
+// summary: WebUI test suite for the bottom navigation content element, checking the keyboard settings link and restore-all button visibility.
+// ---
+
 import 'chrome://shortcut-customization/js/bottom_nav_content.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

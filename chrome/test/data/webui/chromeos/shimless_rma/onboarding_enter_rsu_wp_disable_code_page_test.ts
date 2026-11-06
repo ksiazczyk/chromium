@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Onboarding enter RSU WP disable code page tests
+// summary: Tests RSU code entry with uppercasing, QR code challenge dialog rendering, and code submission on the onboarding page.
+// ---
+
 import 'chrome://shimless-rma/shimless_rma.js';
 
 import {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

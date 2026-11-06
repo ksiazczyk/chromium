@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart privacy subpage tests
+// summary: Tests the smart privacy subpage, verifying that quick dim and snooping protection option visibility follows their preference values.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsSmartPrivacySubpage} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings scheduler slider WebUI tests
+// summary: WebUI tests for the ChromeOS settings scheduler slider element, covering Night Light start and end time preferences, default values, and accessibility labels.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsSchedulerSliderElement} from 'chrome://os-settings/os_settings.js';

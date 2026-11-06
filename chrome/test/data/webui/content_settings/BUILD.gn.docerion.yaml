@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content settings WebUI tests build definition
+summary: Defines the GN build target for the content settings WebUI tests, listing TypeScript and C++ test sources plus Mojo and TypeScript dependencies.

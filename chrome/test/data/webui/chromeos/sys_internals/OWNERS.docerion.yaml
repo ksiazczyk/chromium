@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sys_internals tests
+summary: Delegates review ownership for these tests to the sys_internals WebUI implementation owners.
