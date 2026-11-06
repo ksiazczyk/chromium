@@ -1,0 +1,4 @@
+# Docerion header of bookmark_promo_controller.mm.
+type: source
+title: Bookmark promo controller implementation
+summary: Implements BookmarkPromoController, observing authentication and identity changes to update the sign-in promo state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark parent folder item and cell header
+// summary: Declares BookmarkParentFolderItem and BookmarkParentFolderCell, which display a bookmark node's parent folder name with an optional slashed cloud icon.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_PARENT_FOLDER_ITEM_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_PARENT_FOLDER_ITEM_H_
 

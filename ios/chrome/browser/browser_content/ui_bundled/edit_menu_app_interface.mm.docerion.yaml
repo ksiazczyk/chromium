@@ -1,0 +1,4 @@
+# Docerion header of edit_menu_app_interface.mm.
+type: test
+title: Edit menu app interface implementation
+summary: Implements Earl Grey matchers for the edit menu, its paging buttons and visible actions, including accessibility label lookup.

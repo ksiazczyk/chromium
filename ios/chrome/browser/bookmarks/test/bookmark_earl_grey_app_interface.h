@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App-side bookmark test helper interface
+// summary: Declares app-side methods that manipulate and verify the bookmark model directly for use by Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_APP_INTERFACE_H_
 

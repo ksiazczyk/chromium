@@ -1,0 +1,4 @@
+# Docerion header of fake_browser_view_controller.mm.
+type: test
+title: FakeBrowserViewController implementation
+summary: Implements the FakeBrowserViewController test double that provides layout consumer properties for testing.

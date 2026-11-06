@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_factory.mm.
+type: source
+title: Browsing data remover factory implementation
+summary: Implements the factory that creates a BrowsingDataRemoverImpl instance for each profile.

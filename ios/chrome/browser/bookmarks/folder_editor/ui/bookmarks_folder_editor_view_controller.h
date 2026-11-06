@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bookmarks folder editor view controller interface
+// summary: Declares the BookmarksFolderEditorViewController interface and its delegate protocol for creating or editing bookmark folders, including title editing and parent folder selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_EDITOR_UI_BOOKMARKS_FOLDER_EDITOR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_EDITOR_UI_BOOKMARKS_FOLDER_EDITOR_VIEW_CONTROLLER_H_
 

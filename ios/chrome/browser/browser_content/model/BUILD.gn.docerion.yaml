@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the browser content model source set
+summary: Defines the model source_set listing the edit menu sources with dependencies on //base and //ios/web/public.

@@ -1,0 +1,4 @@
+# Docerion header of fake_browsing_data_remover.mm.
+type: test
+title: Fake browsing data remover implementation
+summary: Implements the fake browsing data remover, notifying observers with the recorded mask or with REMOVE_NOTHING when failure is enabled.

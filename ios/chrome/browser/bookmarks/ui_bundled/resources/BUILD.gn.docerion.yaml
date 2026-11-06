@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks UI asset catalog build definition
+summary: Defines the bundle_data_xcassets target that packages bookmark icon imagesets from Assets.xcassets into the iOS bookmarks UI resource bundle.

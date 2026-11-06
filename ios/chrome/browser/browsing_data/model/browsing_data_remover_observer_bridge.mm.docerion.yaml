@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_observer_bridge.mm.
+type: source
+title: BrowsingDataRemoverObserverBridge implementation
+summary: Implements the bridge that forwards OnBrowsingDataRemoved events to the Objective-C observer via browsingDataRemover:didRemoveBrowsingDataWithMask:.

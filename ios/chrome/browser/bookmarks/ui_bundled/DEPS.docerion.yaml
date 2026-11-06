@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for bookmarks UI
+summary: Specifies allowed include dependencies for the bookmarks UI directory, with a special rule for the Earl Grey app interface.

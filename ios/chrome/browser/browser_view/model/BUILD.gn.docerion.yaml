@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browser view model
+summary: Defines the model source_set and unit_tests target for the browser view visibility notifier browser agent and its dependencies.

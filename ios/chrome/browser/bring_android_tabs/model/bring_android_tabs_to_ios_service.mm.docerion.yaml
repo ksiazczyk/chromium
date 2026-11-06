@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_to_ios_service.mm.
+type: source
+title: BringAndroidTabsToIOSService implementation
+summary: Implements eligibility checks for the Android switcher prompt, loads recent tabs from synced sessions, and records prompt attempt metrics.

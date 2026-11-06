@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_app_interface.mm.
+type: source
+title: Test app interface implementation for Bring Android Tabs
+summary: Implements fake distant sessions from Android phones and desktops with recent or expired tabs for use in Earl Grey tests.

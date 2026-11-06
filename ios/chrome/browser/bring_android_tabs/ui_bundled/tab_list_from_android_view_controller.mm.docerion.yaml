@@ -1,0 +1,4 @@
+# Docerion header of tab_list_from_android_view_controller.mm.
+type: source
+title: Tab list from Android view controller implementation
+summary: Implements the tab list table with multi-selection, favicons, cancel and open tabs actions and swipe dismissal.

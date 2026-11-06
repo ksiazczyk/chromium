@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeAreaProvider header
+// summary: Declares the SafeAreaProvider interface that exposes safe area insets and directional edge insets for browser view layout.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_SAFE_AREA_PROVIDER_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_SAFE_AREA_PROVIDER_H_
 

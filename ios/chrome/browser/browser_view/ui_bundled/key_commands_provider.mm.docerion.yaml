@@ -1,0 +1,4 @@
+# Docerion header of key_commands_provider.mm.
+type: source
+title: KeyCommandsProvider implementation
+summary: Implements keyboard command registration and handling for the browser view controller, converting key commands into Chrome commands and recording user metrics.

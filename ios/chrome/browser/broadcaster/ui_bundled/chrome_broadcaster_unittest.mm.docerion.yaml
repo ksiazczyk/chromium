@@ -1,0 +1,4 @@
+# Docerion header of chrome_broadcaster_unittest.mm.
+type: test
+title: Unit tests for ChromeBroadcaster
+summary: Tests broadcasting values before and after observers register, observer addition and removal, and initial value delivery.

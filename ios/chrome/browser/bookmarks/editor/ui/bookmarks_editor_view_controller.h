@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bookmarks editor view controller interface
+// summary: Declares the view controller for editing a bookmark's title, URL and parent folder, including cancel, save and dismissal behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_VIEW_CONTROLLER_H_
 

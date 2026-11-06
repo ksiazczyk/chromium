@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserViewController private category header
+// summary: Private Objective-C category on BrowserViewController exposing activation, visibility state, header height, background tab animation and shutdown for the browser coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_BROWSER_VIEW_CONTROLLER_PRIVATE_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_BROWSER_VIEW_CONTROLLER_PRIVATE_H_
 

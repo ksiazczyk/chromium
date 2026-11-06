@@ -1,0 +1,4 @@
+# Docerion header of browser_view_controller_unittest.mm.
+type: test
+title: BrowserViewController unit tests
+summary: Unit tests for BrowserViewController covering visibility, toolbar, omnibox and related browser UI behaviors using test browsers and profiles.

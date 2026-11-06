@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for bookmarks Earl Grey tests
+summary: Defines GN source sets for the bookmarks Earl Grey test suites and their app-side and test-side support code.

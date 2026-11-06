@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder chooser presentation delegate protocol
+// summary: Declares delegate callbacks for folder selection, cancellation, dismissal, and launching the new folder editor.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 

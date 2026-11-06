@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder chooser consumer and data source protocols
+// summary: Declares protocols for receiving bookmark model updates and fetching folder nodes from account and local bookmark models.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_CONSUMER_H_
 

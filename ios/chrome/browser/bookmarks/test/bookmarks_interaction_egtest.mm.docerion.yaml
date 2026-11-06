@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_interaction_egtest.mm.
+type: test
+title: Bookmarks interaction Earl Grey integration tests
+summary: Earl Grey tests verifying how bookmarks interact with the rest of Chrome, including adding and removing bookmarks through the UI.

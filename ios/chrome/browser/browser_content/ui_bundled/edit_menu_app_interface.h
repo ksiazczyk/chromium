@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit menu app interface header
+// summary: Declares the EditMenuAppInterface with Earl Grey matchers and helpers for interacting with the edit menu in UI tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_EDIT_MENU_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_EDIT_MENU_APP_INTERFACE_H_
 

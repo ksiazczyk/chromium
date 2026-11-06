@@ -1,0 +1,4 @@
+# Docerion header of metrics.mm.
+type: source
+title: Bring Android Tabs metrics definitions
+summary: Defines the histogram name constants used for Bring Android Tabs metrics logging in iOS Chrome.

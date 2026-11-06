@@ -1,0 +1,4 @@
+# Docerion header of browser_content_mediator_unittest.mm.
+type: test
+title: BrowserContentMediator unit tests
+summary: Unit tests verifying that the mediator blocks content for HTTP authentication dialogs whose host differs from the active web state.

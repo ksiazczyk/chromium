@@ -1,0 +1,4 @@
+# Docerion header of browser_coordinator.mm.
+type: source
+title: BrowserCoordinator implementation
+summary: Implements BrowserCoordinator, wiring the browser view controller with child coordinators, command handlers, and browser services.

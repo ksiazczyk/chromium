@@ -1,0 +1,4 @@
+# Docerion header of browser_view_visibility_notifier_browser_agent_unittest.mm.
+type: test
+title: BrowserViewVisibilityNotifierBrowserAgent unit tests
+summary: Verifies that registered observers receive visibility change callbacks with the expected states and that notifications stop when the subscription is destroyed.

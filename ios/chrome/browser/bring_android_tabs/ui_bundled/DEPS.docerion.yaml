@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Bring Android Tabs UI
+summary: Specifies allowed include dependencies for the directory plus extra rules for bring_android_tabs_test_utils.mm.

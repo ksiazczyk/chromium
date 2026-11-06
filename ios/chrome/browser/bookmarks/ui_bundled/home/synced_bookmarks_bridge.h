@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedBookmarksObserverBridge interface
+// summary: Declares a bridge class that notifies the bookmarks panel when remote synced bookmark content changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_SYNCED_BOOKMARKS_BRIDGE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_SYNCED_BOOKMARKS_BRIDGE_H_
 

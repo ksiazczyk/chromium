@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for browser_content ui_bundled
+summary: Lists the headers and directories that files in this folder are allowed to include.

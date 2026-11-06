@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover.mm.
+type: source
+title: Browsing data remover base class implementation
+summary: Implements the BrowsingDataRemover base class, managing observers and notifying them when browsing data is removed.

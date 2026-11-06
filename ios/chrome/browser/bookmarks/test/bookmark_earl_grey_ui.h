@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark UI test helper interface
+// summary: Declares GREY matchers and helper methods for driving the bookmarks UI, such as opening bookmarks and starring tabs, in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_UI_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_UI_H_
 

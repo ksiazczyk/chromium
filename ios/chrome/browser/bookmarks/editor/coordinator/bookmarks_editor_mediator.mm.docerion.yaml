@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_editor_mediator.mm.
+type: source
+title: Bookmarks editor mediator implementation
+summary: Implements the bookmark editor mediator, observing bookmark model and sync changes, handling folder selection and committing title or URL edits.

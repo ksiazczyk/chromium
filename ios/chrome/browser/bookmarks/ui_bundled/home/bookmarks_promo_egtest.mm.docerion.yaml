@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_promo_egtest.mm.
+type: source
+title: Bookmarks promo Earl Grey tests
+summary: Earl Grey integration tests covering the sign-in promo behavior in the bookmarks home UI.

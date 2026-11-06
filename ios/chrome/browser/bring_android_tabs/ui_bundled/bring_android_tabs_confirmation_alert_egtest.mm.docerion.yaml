@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_confirmation_alert_egtest.mm.
+type: test
+title: Earl Grey tests for the Bring Android Tabs confirmation alert
+summary: Verifies user interactions with the confirmation alert, including open, review, close, and prompt behavior across app restarts.

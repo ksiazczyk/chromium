@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browsing data model
+summary: Declares the allowed include dependencies for code in the browsing data model directory.

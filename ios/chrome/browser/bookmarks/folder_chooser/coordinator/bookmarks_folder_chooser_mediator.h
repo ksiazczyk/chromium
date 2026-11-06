@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder chooser mediator header
+// summary: Declares the mediator that encapsulates the bookmark model for the folder chooser UI, exposing the selected folder and moved nodes handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_COORDINATOR_BOOKMARKS_FOLDER_CHOOSER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_COORDINATOR_BOOKMARKS_FOLDER_CHOOSER_MEDIATOR_H_
 

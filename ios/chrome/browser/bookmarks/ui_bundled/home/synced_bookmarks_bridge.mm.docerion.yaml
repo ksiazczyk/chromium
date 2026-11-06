@@ -1,0 +1,4 @@
+# Docerion header of synced_bookmarks_bridge.mm.
+type: source
+title: SyncedBookmarksObserverBridge implementation
+summary: Implements the sync observer bridge and checks whether bookmarks are undergoing their initial sync cycle.

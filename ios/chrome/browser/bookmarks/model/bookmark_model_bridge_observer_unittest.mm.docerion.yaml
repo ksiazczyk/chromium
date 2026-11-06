@@ -1,0 +1,4 @@
+# Docerion header of bookmark_model_bridge_observer_unittest.mm.
+type: test
+title: BookmarkModelBridge observer unit tests
+summary: Verifies that the bridge still notifies observers of node deletion even when the bridge destroys itself during the callback.

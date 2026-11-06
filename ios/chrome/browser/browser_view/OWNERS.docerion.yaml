@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: browser_view OWNERS file
+summary: Lists code owners responsible for reviewing changes to the browser_view directory, with per-file owner rules.

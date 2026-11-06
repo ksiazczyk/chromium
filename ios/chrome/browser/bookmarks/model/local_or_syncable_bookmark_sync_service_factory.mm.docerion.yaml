@@ -1,0 +1,4 @@
+# Docerion header of local_or_syncable_bookmark_sync_service_factory.mm.
+type: source
+title: Local or syncable bookmark sync service factory implementation
+summary: Creates BookmarkSyncService instances for local or syncable bookmarks, configured to never wipe the model when sync is disabled.

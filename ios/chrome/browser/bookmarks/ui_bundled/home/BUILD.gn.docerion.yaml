@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks home build configuration
+summary: Defines the home source_set target with its sources and dependencies for the bookmarks home UI in the GN build system.

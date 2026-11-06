@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_editor_egtest.mm.
+type: test
+title: Earl Grey UI tests for the iOS bookmarks editor
+summary: Earl Grey test suite verifying bookmark editor behavior, including swipe-down dismissal with coordinator teardown and editing after opening an external URL without crashing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContentCoordinator interface
+// summary: Declares a coordinator that creates a container view controller displaying the browser's web contents, plus an edit menu builder accessor.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_COORDINATOR_H_
 

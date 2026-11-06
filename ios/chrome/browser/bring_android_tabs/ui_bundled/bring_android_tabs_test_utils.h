@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bring Android Tabs test utilities interface
+// summary: Declares Earl Grey test helpers for launch configuration, first run sign-in, fake sync session setup, prompt visibility checks, and cleanup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of edit_menu_matchers.mm.
+type: test
+title: Edit menu matchers implementation
+summary: Implements edit menu action lookup, paging through menu pages and handling the iOS 26 context menu format.

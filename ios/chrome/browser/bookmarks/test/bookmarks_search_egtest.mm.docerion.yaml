@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_search_egtest.mm.
+type: test
+title: Bookmarks search Earl Grey integration tests
+summary: Earl Grey tests for the bookmarks search feature, checking search bar visibility and search result behavior.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Folder chooser DEPS
+summary: Defines the allowed include paths for the iOS bookmarks folder chooser module.

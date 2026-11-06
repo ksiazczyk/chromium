@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser edit menu constants
+// summary: Declares identifiers for the Chrome edit menu and the secondary menu used for Explain With Gemini.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_CONSTANTS_H_
 

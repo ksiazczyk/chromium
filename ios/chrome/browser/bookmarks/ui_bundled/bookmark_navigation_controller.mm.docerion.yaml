@@ -1,0 +1,4 @@
+# Docerion header of bookmark_navigation_controller.mm.
+type: source
+title: BookmarkNavigationController implementation
+summary: Implements the bookmarks navigation controller, setting the background color, accessibility identifier, and keyboard dismissal behavior.

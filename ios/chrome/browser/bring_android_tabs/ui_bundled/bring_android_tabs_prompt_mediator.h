@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bring Android Tabs prompt mediator interface
+// summary: Declares the mediator that manages model interactions for the Bring Android Tabs prompt, initialized with the tabs service and URL loader.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_PROMPT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_PROMPT_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_egtest.mm.
+type: test
+title: Bookmarks folder chooser Earl Grey tests
+summary: Earl Grey UI integration tests for the bookmarks folder chooser, covering signed-out, local and account bookmark scenarios.

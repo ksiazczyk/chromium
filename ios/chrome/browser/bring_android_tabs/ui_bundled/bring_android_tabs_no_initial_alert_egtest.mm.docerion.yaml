@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_no_initial_alert_egtest.mm.
+type: test
+title: Earl Grey tests for cases without the initial prompt
+summary: Checks that the prompt is not shown for non-Android switchers, iPad users, or users with tabs sync disabled.

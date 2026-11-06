@@ -1,0 +1,4 @@
+# Docerion header of browser_content_coordinator_unittest.mm.
+type: test
+title: BrowserContentCoordinator unit tests
+summary: Unit tests for the coordinator, including the alert shown when link to text generation fails.

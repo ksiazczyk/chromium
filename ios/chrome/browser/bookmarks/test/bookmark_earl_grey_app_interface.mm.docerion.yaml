@@ -1,0 +1,4 @@
+# Docerion header of bookmark_earl_grey_app_interface.mm.
+type: test
+title: App-side bookmark test helper implementation
+summary: Implements direct bookmark model operations such as clearing, adding, moving and verifying bookmarks in the app process.

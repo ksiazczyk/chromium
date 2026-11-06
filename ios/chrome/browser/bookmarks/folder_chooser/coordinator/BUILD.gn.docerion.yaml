@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the bookmarks folder chooser coordinator
+summary: Defines the coordinator source_set listing the folder chooser coordinator and mediator sources together with their Chromium iOS dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark Earl Grey test helper interface
+// summary: Declares helper methods to set up, modify and verify bookmarks programmatically or via the UI in Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_TEST_BOOKMARK_EARL_GREY_H_
 

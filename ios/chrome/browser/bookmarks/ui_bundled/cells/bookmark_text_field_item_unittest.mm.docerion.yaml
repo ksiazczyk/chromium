@@ -1,0 +1,4 @@
+# Docerion header of bookmark_text_field_item_unittest.mm.
+type: test
+title: Unit tests for bookmark text field item
+summary: Tests that BookmarkTextFieldItem forwards text field events to its delegate and that configured text appears in the cell's text field.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks editor GN build target
+summary: Defines the source_set for the iOS bookmarks editor coordinator and mediator, listing its sources and build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bookmarks editor dependency allowlist
+summary: Declares the include rules that allow the bookmarks editor directory to depend on signin, sync, and keyboard headers.

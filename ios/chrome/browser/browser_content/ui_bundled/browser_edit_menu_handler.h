@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser edit menu handler
+// summary: Declares the handler that customizes the browser edit menu and dispatches menu building to feature delegates such as Search With and Partial Translate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_HANDLER_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser content view controller delegate protocol
+// summary: Declares the delegate protocol notified when an edit menu is triggered in the browser content view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_VIEW_CONTROLLER_DELEGATE_H_
 

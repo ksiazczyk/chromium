@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataRemoverObserverBridge
+// summary: Declares an Objective-C protocol and a C++ adapter that forwards BrowsingDataRemoverObserver callbacks to Objective-C observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_OBSERVER_BRIDGE_H_
 

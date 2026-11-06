@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser edit menu utilities
+// summary: Declares a helper that adds a menu element to the Chrome edit menu within the UIMenuBuilder hierarchy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_UTILS_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_EDIT_MENU_UTILS_H_
 

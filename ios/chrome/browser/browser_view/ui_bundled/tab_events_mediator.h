@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabEventsMediator header
+// summary: Declares TabEventsMediator, which observes tab and web state events and forwards them to a TabConsumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_TAB_EVENTS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_TAB_EVENTS_MEDIATOR_H_
 

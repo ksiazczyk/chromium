@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_to_ios_service_unittest.mm.
+type: test
+title: Unit tests for BringAndroidTabsToIOSService
+summary: Verifies tab loading, prompt eligibility, metrics, and tab opening behavior using fake sync, segmentation, and URL loading dependencies.

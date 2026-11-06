@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserOmniboxStateProvider header
+// summary: Declares a provider that aggregates omnibox state from multiple sources such as the location bar and the composebox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_BROWSER_OMNIBOX_STATE_PROVIDER_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_BROWSER_OMNIBOX_STATE_PROVIDER_H_
 

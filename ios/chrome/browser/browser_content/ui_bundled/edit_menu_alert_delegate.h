@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit menu alert delegate header
+// summary: Declares EditMenuAlertDelegateAction and the EditMenuAlertDelegate protocol that lets edit menu handlers present alerts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_EDIT_MENU_ALERT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_EDIT_MENU_ALERT_DELEGATE_H_
 

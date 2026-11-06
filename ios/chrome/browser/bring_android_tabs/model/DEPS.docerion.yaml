@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Bring Android Tabs model
+summary: Lists the iOS Chrome model directories that files in this folder are allowed to include.

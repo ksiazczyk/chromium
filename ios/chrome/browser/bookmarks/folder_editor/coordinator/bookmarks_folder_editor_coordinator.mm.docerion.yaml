@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_editor_coordinator.mm.
+type: source
+title: Bookmarks folder editor coordinator implementation
+summary: Implements the folder editor coordinator, presenting the editor view controller and folder chooser, recording user metrics and handling folder creation and editing.

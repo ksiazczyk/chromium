@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS bookmark model
+summary: Defines GN source sets and dependencies for the iOS bookmark model, its utilities, test support, and unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_security_egtest.mm.
+type: test
+title: Bookmarks security Earl Grey integration tests
+summary: Earl Grey tests verifying that bookmarklets are blocked when the active tab navigates to a different origin, mitigating TOCTOU issues.

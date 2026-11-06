@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBroadcastObserver protocol for broadcasted UI state
+// summary: Declares the Objective-C protocol of observer methods that broadcast keys trigger, covering scroll view and toolbar UI state values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCAST_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCAST_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_counter_wrapper.mm.
+type: source
+title: Browsing data counter wrapper implementation
+summary: Implements the counter wrapper, mapping deletion preferences to history, cache, password, autofill, and tabs counters.

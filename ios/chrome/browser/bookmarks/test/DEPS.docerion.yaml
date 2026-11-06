@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for bookmarks test dependencies
+summary: Allows the bookmarks test directory to include fake system identity and sync service factory headers.

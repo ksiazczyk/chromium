@@ -1,0 +1,4 @@
+# Docerion header of chrome_broadcast_observer_bridge_unittest.mm.
+type: test
+title: Unit tests for the broadcast observer bridge
+summary: Verifies that broadcast methods such as scroll offset and scrolling state are correctly forwarded from the bridge to the C++ observer.

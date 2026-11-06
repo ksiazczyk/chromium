@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark utility functions for iOS Chrome
+// summary: Declares utility functions for finding, updating, and removing bookmark nodes, including account storage checks and undo snackbar helpers, in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_UTILS_IOS_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_UTILS_IOS_H_
 

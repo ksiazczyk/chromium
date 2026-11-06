@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for bookmarks UI bundled code
+summary: Defines GN source sets for the bookmark mediator, navigation controller, path cache, utilities, and unit tests together with their dependencies.

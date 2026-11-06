@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for browser_content UI targets
+summary: Defines the source sets and dependencies for the browser content UI, edit menu utilities, alert delegate, and their unit tests.

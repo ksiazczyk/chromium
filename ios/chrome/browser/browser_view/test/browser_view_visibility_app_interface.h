@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser view visibility app interface header
+// summary: Declares app-side helpers for observing and querying the browser view visibility state in Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_TEST_BROWSER_VIEW_VISIBILITY_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_TEST_BROWSER_VIEW_VISIBILITY_APP_INTERFACE_H_
 

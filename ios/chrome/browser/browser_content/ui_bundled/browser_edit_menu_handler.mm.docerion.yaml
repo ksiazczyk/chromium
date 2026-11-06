@@ -1,0 +1,4 @@
+# Docerion header of browser_edit_menu_handler.mm.
+type: source
+title: Browser edit menu handler implementation
+summary: Implements edit menu building by forwarding menu construction to all registered feature delegates for the given web state.

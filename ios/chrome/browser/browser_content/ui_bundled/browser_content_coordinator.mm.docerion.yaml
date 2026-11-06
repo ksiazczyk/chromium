@@ -1,0 +1,4 @@
+# Docerion header of browser_content_coordinator.mm.
+type: source
+title: BrowserContentCoordinator implementation
+summary: Implements the coordinator, wiring mediators for search with, partial translate, link to text, Gemini, overlays, and the edit menu.

@@ -1,0 +1,4 @@
+# Docerion header of browser_view_visibility_app_interface.mm.
+type: test
+title: Browser view visibility app interface implementation
+summary: Implements app-side helpers that track browser view visibility state changes through the visibility notifier browser agent.

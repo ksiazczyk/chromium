@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model bridge observer protocol and C++ bridge
+// summary: Defines an Objective-C protocol and C++ bridge that forward bookmark model change callbacks to ObjC observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARK_MODEL_BRIDGE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARK_MODEL_BRIDGE_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bookmark model
+summary: Restricts directory includes to favicon, history, signin, and sync model dependencies.

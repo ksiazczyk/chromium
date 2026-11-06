@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_home_view_controller.mm.
+type: source
+title: BookmarksHomeViewController implementation
+summary: Implements the bookmarks home screen with folder navigation, editing, drag and drop, and dismissal flows.

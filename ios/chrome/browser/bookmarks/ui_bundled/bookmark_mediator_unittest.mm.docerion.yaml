@@ -1,0 +1,4 @@
+# Docerion header of bookmark_mediator_unittest.mm.
+type: test
+title: BookmarkMediator unit tests
+summary: Parameterized unit tests covering BookmarkMediator bookmark adding across sign-in, storage, and snackbar display configurations.

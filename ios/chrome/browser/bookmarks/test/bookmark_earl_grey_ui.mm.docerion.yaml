@@ -1,0 +1,4 @@
+# Docerion header of bookmark_earl_grey_ui.mm.
+type: test
+title: Bookmark UI test helper implementation
+summary: Implements UI actions and matchers for navigating, editing and verifying the bookmarks UI during Earl Grey tests.

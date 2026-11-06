@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkMediator interface
+// summary: Declares the BookmarkMediator class that adds bookmarks, registers profile preferences, and returns snackbar messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_MEDIATOR_H_
 

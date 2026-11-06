@@ -1,0 +1,4 @@
+# Docerion header of bookmark_text_field_item.mm.
+type: source
+title: Bookmark text field item implementation
+summary: Implements the bookmark text field item and cell, wiring text field editing events to the item's delegate and managing layout, colors, and accessibility.

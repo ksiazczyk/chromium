@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browsing data remover observer for tests
+// summary: Test double observer that captures the remover and removal mask passed to the browsing-data-removed callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_FAKE_BROWSING_DATA_REMOVER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_FAKE_BROWSING_DATA_REMOVER_OBSERVER_H_
 

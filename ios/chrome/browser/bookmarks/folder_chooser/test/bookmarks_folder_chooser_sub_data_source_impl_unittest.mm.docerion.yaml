@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_sub_data_source_impl_unittest.mm.
+type: test
+title: Bookmarks folder chooser sub data source unit tests
+summary: Parameterized unit tests for the folder chooser sub data source, covering local or syncable and account bookmark storage.

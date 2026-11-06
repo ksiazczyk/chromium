@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_accessibility_egtest.mm.
+type: test
+title: Bookmarks accessibility Earl Grey tests
+summary: Verifies that elements on bookmarks screens such as the landing page, mobile bookmarks and edit pages are accessible.

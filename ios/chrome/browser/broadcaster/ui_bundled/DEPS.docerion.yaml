@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui_bundled directory
+summary: Declares the DEPS include rules allowing dependencies on ios/chrome/browser/broadcaster/ui_bundled within this directory.

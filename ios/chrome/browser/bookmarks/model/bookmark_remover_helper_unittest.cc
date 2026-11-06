@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkRemoverHelper unit tests
+// summary: Tests removing all user bookmarks before and after model load and when the model is deleted mid-operation.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/bookmark_remover_helper.h"
 
 #include "base/test/test_future.h"

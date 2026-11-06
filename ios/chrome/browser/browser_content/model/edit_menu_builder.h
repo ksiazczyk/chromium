@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditMenuBuilder protocol declaration
+// summary: Declares an Objective-C protocol with a method to customize the edit menu for a given web::WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_MODEL_EDIT_MENU_BUILDER_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_MODEL_EDIT_MENU_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkRemoverHelper implementation
+// summary: Implements asynchronous removal of all user bookmarks, waiting for the model to load and reporting success or failure.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/bookmark_remover_helper.h"
 
 #include "base/check_op.h"

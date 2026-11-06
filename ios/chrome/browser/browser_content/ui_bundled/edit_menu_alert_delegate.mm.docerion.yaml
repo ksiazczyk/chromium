@@ -1,0 +1,4 @@
+# Docerion header of edit_menu_alert_delegate.mm.
+type: source
+title: Edit menu alert delegate implementation
+summary: Implements the EditMenuAlertDelegateAction initializer storing title, action block, button style and preferred flag.

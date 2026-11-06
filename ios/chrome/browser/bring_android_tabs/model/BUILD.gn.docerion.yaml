@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the Bring Android Tabs model
+summary: Defines GN source sets for the service, metrics, test support, and unit tests of the Bring Android Tabs feature, along with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_account_storage_promo_egtest.mm.
+type: test
+title: Bookmarks account storage promo Earl Grey tests
+summary: Earl Grey integration tests verifying sign-in promo behavior in bookmarks, including promo reshow after sign-in and sign-out.

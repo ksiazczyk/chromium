@@ -1,0 +1,4 @@
+# Docerion header of safe_area_provider.mm.
+type: source
+title: SafeAreaProvider implementation
+summary: Implements SafeAreaProvider by reading safe area insets from the window's root view of the associated browser's scene.

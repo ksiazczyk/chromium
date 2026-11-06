@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder editor coordinator header
+// summary: Declares the iOS Chrome coordinator that edits an existing bookmark folder node or creates a new folder under a given parent node.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_EDITOR_COORDINATOR_BOOKMARKS_FOLDER_EDITOR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_EDITOR_COORDINATOR_BOOKMARKS_FOLDER_EDITOR_COORDINATOR_H_
 

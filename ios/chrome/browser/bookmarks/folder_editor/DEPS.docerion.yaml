@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the folder editor
+summary: Specifies the allowed include rules for the folder_editor directory, permitting dependencies on the signin and sync model directories.

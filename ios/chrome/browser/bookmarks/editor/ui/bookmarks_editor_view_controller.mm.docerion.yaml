@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_editor_view_controller.mm.
+type: source
+title: Bookmarks editor view controller implementation
+summary: Implements the table view UI for editing a bookmark's name, URL and folder, with URL validation, save, delete and move actions.

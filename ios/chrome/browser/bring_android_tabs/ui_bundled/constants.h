@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bring Android Tabs UI constants header
+// summary: Declares accessibility identifiers and the favicon size constant for the Bring Android Tabs prompt and tab list UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_CONSTANTS_H_
 

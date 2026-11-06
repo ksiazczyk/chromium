@@ -1,0 +1,4 @@
+# Docerion header of browser_view_visibility_notifier_browser_agent.mm.
+type: source
+title: BrowserViewVisibilityNotifierBrowserAgent implementation
+summary: Implements the visibility notifier agent, including callback registration and notification of registered observers on visibility state changes.

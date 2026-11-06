@@ -1,0 +1,4 @@
+# Docerion header of bookmark_client_impl.mm.
+type: source
+title: BookmarkClientImpl implementation
+summary: Implements bookmark client callbacks for favicons, typed URL counts, sync metadata, and undo support.

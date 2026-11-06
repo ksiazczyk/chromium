@@ -1,0 +1,4 @@
+# Docerion header of bookmark_mediator.mm.
+type: source
+title: BookmarkMediator implementation
+summary: Implements single and bulk bookmark adding with snackbar messaging, using the bookmark model, preferences, authentication, and sync services.

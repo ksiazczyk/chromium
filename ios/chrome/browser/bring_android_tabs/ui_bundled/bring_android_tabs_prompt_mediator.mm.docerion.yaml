@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_prompt_mediator.mm.
+type: source
+title: Bring Android Tabs prompt mediator implementation
+summary: Implements the prompt mediator, logging metrics and notifying the service of user actions such as opening all tabs, reviewing, or dismissing the prompt.

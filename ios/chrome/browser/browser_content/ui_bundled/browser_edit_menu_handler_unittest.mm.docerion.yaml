@@ -1,0 +1,4 @@
+# Docerion header of browser_edit_menu_handler_unittest.mm.
+type: test
+title: Browser edit menu handler unit tests
+summary: Unit tests verifying the composed structure of the browser edit menu across features like Search With, Partial Translate, and enterprise data controls.

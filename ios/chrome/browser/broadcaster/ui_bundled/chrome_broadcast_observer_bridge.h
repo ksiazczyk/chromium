@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ observer interface and Objective-C bridge header
+// summary: Declares the ChromeBroadcastObserverInterface C++ interface and the ChromeBroadcastOberverBridge that forwards broadcasted UI state to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCAST_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCAST_OBSERVER_BRIDGE_H_
 

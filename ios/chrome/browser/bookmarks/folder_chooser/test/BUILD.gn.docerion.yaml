@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bookmarks folder chooser test build targets
+summary: GN build file defining the unit test and Earl Grey test targets for the iOS bookmarks folder chooser.

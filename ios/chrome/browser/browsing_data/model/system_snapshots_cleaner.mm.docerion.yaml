@@ -1,0 +1,4 @@
+# Docerion header of system_snapshots_cleaner.mm.
+type: source
+title: System snapshots cleaner implementation
+summary: Deletes iOS application snapshot files across orientations and retina scales on a background thread, invoking a callback when deletion completes.

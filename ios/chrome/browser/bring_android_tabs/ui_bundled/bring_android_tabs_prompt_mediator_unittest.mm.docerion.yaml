@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_prompt_mediator_unittest.mm.
+type: test
+title: Bring Android Tabs prompt mediator unit tests
+summary: Unit tests verifying that the prompt mediator logs histograms and updates service state when the prompt is shown and interacted with.

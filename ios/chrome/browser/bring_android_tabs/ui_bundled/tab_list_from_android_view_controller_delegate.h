@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab List From Android view controller delegate protocol
+// summary: Declares the delegate protocol that handles model updates on user interaction with the Tab List From Android table view controller, covering dismissal and opening selected tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_VIEW_CONTROLLER_DELEGATE_H_
 

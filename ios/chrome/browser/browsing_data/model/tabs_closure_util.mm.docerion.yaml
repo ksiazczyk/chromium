@@ -1,0 +1,4 @@
+# Docerion header of tabs_closure_util.mm.
+type: source
+title: Tabs closure utility implementation
+summary: Implements time-range tab closure logic, handling realized and unrealized WebStates, pinned tabs, tab groups, and session storage timestamps.
