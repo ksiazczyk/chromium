@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Link to text UI include rules
+summary: Restricts allowed header includes in this directory to the edit menu builder and edit menu alert delegate headers.

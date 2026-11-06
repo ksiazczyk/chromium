@@ -1,0 +1,4 @@
+# Docerion header of level_up_task_collection_view_cell.mm.
+type: source
+title: Level Up task collection view cell implementation
+summary: Implements the tasks checklist card cell, separating active and completed tasks with a header, See All button and task rows.

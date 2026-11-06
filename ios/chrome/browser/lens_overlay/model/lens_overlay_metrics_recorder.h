@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay metrics recorder interface
+// summary: Declares LensOverlayMetricsRecorder, a utility for recording Lens overlay metrics such as consent, permissions, dismissal and search timing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_METRICS_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay pan tracker header
+// summary: Declares a utility class that tracks pan gestures on a view and notifies a delegate of gesture start, end, translation, and velocity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_PAN_TRACKER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_PAN_TRACKER_H_
 

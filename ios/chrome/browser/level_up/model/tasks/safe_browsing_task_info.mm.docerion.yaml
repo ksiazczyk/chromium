@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_task_info.mm.
+type: source
+title: Level Up enhanced Safe Browsing task info
+summary: Defines the SafeBrowsingTaskInfo class describing the enhanced Safe Browsing Level Up task, which shows the enhanced Safe Browsing promo when triggered.

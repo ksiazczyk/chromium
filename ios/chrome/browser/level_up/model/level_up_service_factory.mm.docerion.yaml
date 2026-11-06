@@ -1,0 +1,4 @@
+# Docerion header of level_up_service_factory.mm.
+type: source
+title: LevelUpServiceFactory implementation
+summary: Implements LevelUpServiceFactory, building a per-profile LevelUpService with browser list, session restoration, and password check dependencies.

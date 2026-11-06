@@ -1,0 +1,4 @@
+# Docerion header of level_up_all_tasks_view_controller.mm.
+type: source
+title: All Tasks view controller implementation
+summary: Implements the collection view listing all level-up tasks in category cards with expandable completed-task sections.

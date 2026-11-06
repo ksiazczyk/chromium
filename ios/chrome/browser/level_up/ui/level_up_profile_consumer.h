@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up profile consumer protocol
+// summary: Declares the protocol for supplying the signed-in user's full name and avatar to the welcome header.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_PROFILE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_PROFILE_CONSUMER_H_
 

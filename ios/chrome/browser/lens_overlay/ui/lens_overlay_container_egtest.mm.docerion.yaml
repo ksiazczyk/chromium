@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_container_egtest.mm.
+type: test
+title: Lens Overlay container Earl Grey test
+summary: Earl Grey UI test verifying that pressing the escape key dismisses the Lens overlay container after opening it via the tab share button.

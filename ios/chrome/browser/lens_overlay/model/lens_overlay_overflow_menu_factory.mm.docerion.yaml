@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_overflow_menu_factory.mm.
+type: source
+title: Lens overlay overflow menu factory implementation
+summary: Implements the overflow menu actions, opening My Activity and Learn More URLs in new tabs and handling the search with camera action.

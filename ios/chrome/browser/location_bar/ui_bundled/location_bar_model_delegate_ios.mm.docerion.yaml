@@ -1,0 +1,4 @@
+# Docerion header of location_bar_model_delegate_ios.mm.
+type: source
+title: iOS location bar model delegate implementation
+summary: Implements the iOS location bar model delegate, providing URL formatting, security level and URL display rules from the active navigation item.

@@ -1,0 +1,4 @@
+# Docerion header of task_info.mm.
+type: source
+title: TaskInfo implementation
+summary: Implements the TaskInfo destructor and the default IsMulticolorIcon behavior, which returns false.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebLocationBar test fake implementation
+// summary: Implements a stub WebLocationBar that returns injected WebState and LocationBarModel pointers for use in tests.
+// ---
+
 #include "ios/chrome/browser/location_bar/model/test_web_location_bar.h"
 
 #include "components/omnibox/browser/location_bar_model.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for Level Up tasks
+summary: Defines the tasks source set listing the Level Up task info implementations and their build dependencies.

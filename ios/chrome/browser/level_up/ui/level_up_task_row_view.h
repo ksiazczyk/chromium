@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up task row view header
+// summary: Declares a tap-interactive task row control with chevron expansion, separator state and a tap delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_TASK_ROW_VIEW_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_TASK_ROW_VIEW_H_
 

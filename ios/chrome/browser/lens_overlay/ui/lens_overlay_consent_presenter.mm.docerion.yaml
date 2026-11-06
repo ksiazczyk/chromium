@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_consent_presenter.mm.
+type: source
+title: Lens overlay consent presenter implementation
+summary: Implements presentation of the Lens Overlay consent dialog, managing sheet detents and dismissal when the sheet is hidden.

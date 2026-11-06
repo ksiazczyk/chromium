@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_results_page_presenter.mm.
+type: source
+title: Lens overlay results page presenter implementation
+summary: Implements presentation of the Lens results bottom sheet, managing detents, pan tracking, occlusion offsets and navigation to informational messages.

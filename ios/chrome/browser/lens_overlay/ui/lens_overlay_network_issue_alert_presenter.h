@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay network issue alert presenter interface
+// summary: Declares the presenter that shows a connectivity alert in Lens Overlay, together with its delegate protocol for alert lifecycle events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_NETWORK_ISSUE_ALERT_PRESENTER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_NETWORK_ISSUE_ALERT_PRESENTER_H_
 

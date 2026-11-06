@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Link-to-Text model build targets
+summary: GN build file defining the model, internal, and unit test source sets plus the TypeScript compilation and JS optimization targets for Link-to-Text.

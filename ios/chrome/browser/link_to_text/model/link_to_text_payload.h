@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkToTextPayload interface
+// summary: Declares the Objective-C object holding the URL, title, selected text, source view, and rect needed to share a deep link to text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_PAYLOAD_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_PAYLOAD_H_
 

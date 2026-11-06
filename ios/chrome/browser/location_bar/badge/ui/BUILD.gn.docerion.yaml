@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar badge UI build targets
+summary: Defines GN source sets for the badge UI, constants, unit tests and Earl Grey tests with their dependencies.

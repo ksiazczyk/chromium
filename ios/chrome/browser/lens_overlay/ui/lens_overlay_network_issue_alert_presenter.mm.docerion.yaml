@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_network_issue_alert_presenter.mm.
+type: source
+title: Lens overlay network issue alert presenter implementation
+summary: Presents a localized no-internet alert and notifies the delegate when the user acknowledges the connectivity issue.

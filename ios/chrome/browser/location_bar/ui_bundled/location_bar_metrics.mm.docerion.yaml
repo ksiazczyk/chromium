@@ -1,0 +1,4 @@
+# Docerion header of location_bar_metrics.mm.
+type: source
+title: Location bar metrics implementation
+summary: Implements UMA histogram recording for lens overlay entrypoint availability and location bar badge update and shown events.

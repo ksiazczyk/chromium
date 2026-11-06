@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensTranslateErrorViewController header
+// summary: Declares the LensTranslateErrorViewController, the view controller for the translate error informational message in the Lens overlay UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_INFO_MESSAGE_LENS_TRANSLATE_ERROR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_INFO_MESSAGE_LENS_TRANSLATE_ERROR_VIEW_CONTROLLER_H_
 

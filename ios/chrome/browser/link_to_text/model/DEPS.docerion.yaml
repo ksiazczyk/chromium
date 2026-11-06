@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Link-to-Text model include rules
+summary: Grants this directory access to the tab title utility header under ios/chrome/browser/tabs/model.

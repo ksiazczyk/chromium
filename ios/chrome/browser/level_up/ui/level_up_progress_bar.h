@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up progress bar interface
+// summary: Declares a reusable multi-segment progress bar that shows completed versus total tasks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_PROGRESS_BAR_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_PROGRESS_BAR_H_
 

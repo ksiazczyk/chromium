@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar model BUILD.gn build targets
+summary: Defines the model and test_support source sets with their sources and dependencies for the iOS location bar model directory.

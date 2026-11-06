@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens view finder transition manager interface
+// summary: Declares the LensViewFinderTransitionManager and the slide-from-left or slide-from-right transition types for view finder presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_VIEW_FINDER_TRANSITION_MANAGER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_VIEW_FINDER_TRANSITION_MANAGER_H_
 

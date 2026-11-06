@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar badges container view header
+// summary: Declares a UIView that hosts location bar accessories such as infobar badges, the incognito badge, contextual panel entrypoint and reader mode chip.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_BADGES_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_BADGES_CONTAINER_VIEW_H_
 

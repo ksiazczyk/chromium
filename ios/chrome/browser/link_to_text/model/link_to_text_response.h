@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkToTextResponse header
+// summary: Declares the response object for link-to-text generation calls, holding either a payload or an error plus source ID and latency.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_RESPONSE_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_RESPONSE_H_
 

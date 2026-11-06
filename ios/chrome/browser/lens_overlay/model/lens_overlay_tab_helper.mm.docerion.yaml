@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_tab_helper.mm.
+type: source
+title: Lens overlay tab helper implementation
+summary: Implements the Lens overlay tab helper, reacting to web state navigation events to show, hide or destroy the overlay UI.

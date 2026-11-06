@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_configuration.mm.
+type: source
+title: LocationBarBadgeConfiguration implementation
+summary: Implements the badge configuration initializer with validity checks and helper methods identifying contextual panel and BadgeFactory badge types.

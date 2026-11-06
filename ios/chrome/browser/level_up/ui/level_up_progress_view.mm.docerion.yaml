@@ -1,0 +1,4 @@
+# Docerion header of level_up_progress_view.mm.
+type: source
+title: Level Up progress view implementation
+summary: Implements the card view showing the active level, task progress bar, completion badge, subtitle and notification toggle for the Level Up feature.

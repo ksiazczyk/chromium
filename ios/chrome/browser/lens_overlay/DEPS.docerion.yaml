@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lens overlay DEPS include rules
+summary: Defines the allowed include paths for the ios lens_overlay directory, listing dependencies such as lens components, fullscreen, signin, and menu code.

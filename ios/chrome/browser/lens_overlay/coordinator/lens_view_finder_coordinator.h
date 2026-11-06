@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens view finder coordinator header
+// summary: Declares LensViewFinderCoordinator, a ChromeCoordinator that coordinates the Lens View Finder experience with a browser-based designated initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_VIEW_FINDER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_VIEW_FINDER_COORDINATOR_H_
 

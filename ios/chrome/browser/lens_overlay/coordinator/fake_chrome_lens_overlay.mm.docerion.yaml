@@ -1,0 +1,4 @@
+# Docerion header of fake_chrome_lens_overlay.mm.
+type: source
+title: Fake ChromeLensOverlay implementation
+summary: Implements FakeChromeLensOverlay, producing fake Lens results and delegate callbacks with no-op UI methods for tests.

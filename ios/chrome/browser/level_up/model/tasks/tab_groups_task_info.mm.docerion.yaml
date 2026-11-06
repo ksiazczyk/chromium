@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_task_info.mm.
+type: source
+title: Level Up tab groups task info
+summary: Defines the TabGroupsTaskInfo class describing the tab groups Level Up task, which opens the tab grid and presents the create tab group bubble when triggered.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Location bar badge coordinator include rules
+summary: Specifies the DEPS include rules listing the Chrome iOS directories this coordinator folder may depend on.

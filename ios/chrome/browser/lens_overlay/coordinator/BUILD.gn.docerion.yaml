@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens overlay coordinator build configuration
+summary: BUILD.gn defining the coordinator source_set for the Lens overlay, listing its sources and many Chrome iOS dependencies.

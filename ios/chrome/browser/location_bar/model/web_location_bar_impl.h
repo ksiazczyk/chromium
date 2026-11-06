@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebLocationBarImpl class header
+// summary: Declares WebLocationBarImpl, a minimal WebLocationBar implementation that delegates to a WebLocationBarDelegate and a URL loader.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_IMPL_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_IMPL_H_
 

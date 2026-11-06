@@ -1,0 +1,4 @@
+# Docerion header of location_bar_coordinator.mm.
+type: source
+title: Location bar coordinator implementation
+summary: Implements the location bar coordinator, wiring badges, Lens, fullscreen, composebox, and omnibox behaviors.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fakebox buttons snapshot provider protocol
+// summary: Defines a protocol that supplies a snapshot view of fakebox buttons faded during location bar focus and defocus transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_FAKEBOX_BUTTONS_SNAPSHOT_PROVIDER_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_FAKEBOX_BUTTONS_SNAPSHOT_PROVIDER_H_
 

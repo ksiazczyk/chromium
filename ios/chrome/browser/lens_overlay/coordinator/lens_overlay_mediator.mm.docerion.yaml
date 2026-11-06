@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_mediator.mm.
+type: source
+title: Lens overlay mediator implementation
+summary: Implements LensOverlayMediator, handling Lens results, filter states, search engine changes, navigation in the results sheet and web state list observation.

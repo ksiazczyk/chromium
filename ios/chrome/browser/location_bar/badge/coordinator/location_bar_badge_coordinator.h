@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar badge coordinator header
+// summary: Declares the LocationBarBadgeCoordinator interface that manages leading badges and chips in the omnibox location bar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of level_up_promo_view_controller.mm.
+type: source
+title: Level Up promo view controller implementation
+summary: Builds the Level Up promo onboarding screen with a Lottie animation banner, title, subtitle, privacy disclaimer, action buttons and a feature checklist.

@@ -1,0 +1,4 @@
+# Docerion header of location_bar_model_delegate_ios_unittest.mm.
+type: test
+title: iOS location bar model delegate unit tests
+summary: Unit tests for the iOS location bar model delegate using a fake web state provider, verifying that offline page detection returns false.

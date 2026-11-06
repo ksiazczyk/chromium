@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link to text mediator header
+// summary: Declares the mediator that connects browser container views to link-to-text tab helpers and exposes selection handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_UI_BUNDLED_LINK_TO_TEXT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_UI_BUNDLED_LINK_TO_TEXT_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens toolbar mutator protocol
+// summary: Declares the LensToolbarMutator protocol for focusing or defocusing the omnibox and navigating back to the previous URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_TOOLBAR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_TOOLBAR_MUTATOR_H_
 

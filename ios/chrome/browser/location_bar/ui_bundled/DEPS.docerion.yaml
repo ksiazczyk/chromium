@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Location bar UI include rules
+summary: Declares the allowed include dependencies for code in the location bar UI directory.

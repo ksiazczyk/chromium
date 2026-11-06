@@ -1,0 +1,4 @@
+# Docerion header of level_up_mediator.mm.
+type: source
+title: LevelUpMediator implementation
+summary: Implements LevelUpMediator, observing sign-in identity and Level Up preferences to update task categories and profile info.

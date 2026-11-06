@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay bottom sheet view controller header
+// summary: Declares the view controller for the custom Lens Overlay bottom sheet, with methods to set content and present or dismiss the sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

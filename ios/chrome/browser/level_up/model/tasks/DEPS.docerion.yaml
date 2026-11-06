@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Level Up tasks
+summary: Grants the tasks target include access to tips model, Lens overlay public, and NTP shared metrics headers.

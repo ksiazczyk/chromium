@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link-to-text utility functions header
+// summary: Declares helpers to parse polyfill status values into outcomes, map outcomes to link generation errors and detect timeouts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_UTILS_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_UTILS_H_
 

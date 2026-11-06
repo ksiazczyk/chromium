@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_presentation_type.mm.
+type: source
+title: Lens overlay presentation type implementation
+summary: Chooses between fullscreen or content area cover and side panel or bottom sheet presentation based on the regular size class.

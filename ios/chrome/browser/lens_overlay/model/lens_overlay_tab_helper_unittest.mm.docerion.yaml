@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_tab_helper_unittest.mm.
+type: test
+title: Lens overlay tab helper unit tests
+summary: Unit tests verifying the Lens overlay tab helper behavior for web state destruction and navigation changes.

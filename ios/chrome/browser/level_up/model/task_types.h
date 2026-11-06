@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskType and category enums for Level Up
+// summary: Defines the TaskType enum of Level Up tasks, task categories, completion stat types, and declarations for string conversion helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASK_TYPES_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASK_TYPES_H_
 

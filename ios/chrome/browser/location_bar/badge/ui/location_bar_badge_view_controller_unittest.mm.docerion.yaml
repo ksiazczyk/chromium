@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_view_controller_unittest.mm.
+type: test
+title: Location bar badge view controller unit tests
+summary: Unit tests using OCMock to verify badge show/hide, tap handling and container collapse behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskInfo interface for Level Up tasks
+// summary: Defines the TaskInfo interface exposing a Level Up task's type, title, description, icon, category, trigger action, and navigation callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASK_INFO_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASK_INFO_H_
 

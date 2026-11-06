@@ -1,0 +1,4 @@
+# Docerion header of level_up_service_unittest.mm.
+type: test
+title: LevelUpService unit tests
+summary: Unit tests verifying LevelUpService default state, task completion, and level milestone progression using test profiles and the kIOSLevelUp feature.

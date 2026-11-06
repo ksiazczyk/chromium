@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens overlay model build targets
+summary: GN build file defining source sets and dependencies for the Lens Overlay model code.

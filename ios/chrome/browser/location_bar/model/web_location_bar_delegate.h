@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebLocationBarDelegate protocol
+// summary: Declares the WebLocationBarDelegate Objective-C protocol supplying the web state and location bar model to the location bar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_DELEGATE_H_
 

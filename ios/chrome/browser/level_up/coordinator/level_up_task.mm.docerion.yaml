@@ -1,0 +1,4 @@
+# Docerion header of level_up_task.mm.
+type: source
+title: LevelUpTask implementation wrapping TaskInfo
+summary: Implements the LevelUpTask Objective-C class that wraps a TaskInfo object and exposes task ID, title, description, icon, and category properties.

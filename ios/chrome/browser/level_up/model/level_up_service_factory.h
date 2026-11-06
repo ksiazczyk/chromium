@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpServiceFactory class header
+// summary: Declares LevelUpServiceFactory, a profile-keyed singleton that owns LevelUpService instances for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_SERVICE_FACTORY_H_
 

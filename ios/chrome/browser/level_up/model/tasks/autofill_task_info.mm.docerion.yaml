@@ -1,0 +1,4 @@
+# Docerion header of autofill_task_info.mm.
+type: source
+title: Autofill task info
+summary: Implements the autofill Level Up task that opens the save passwords tip via TipsPasswordsCommands when triggered.

@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_mediator.mm.
+type: source
+title: Link to text mediator implementation
+summary: Implements offering link-to-text, handling generation responses, logging metrics, and presenting the share sheet or error alerts.

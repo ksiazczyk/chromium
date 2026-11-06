@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_coordinator_unittest.mm.
+type: test
+title: Location bar badge coordinator unit tests
+summary: Unit tests for LocationBarBadgeCoordinator verifying delegate callbacks for label centering and the large contextual panel entrypoint.

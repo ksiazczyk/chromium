@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_response.mm.
+type: source
+title: LinkToTextResponse implementation
+summary: Implements parsing of serialized link-to-text responses into payloads or errors, with UKM source ID and latency handling.

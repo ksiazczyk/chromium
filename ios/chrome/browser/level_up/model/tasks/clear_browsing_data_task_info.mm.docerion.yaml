@@ -1,0 +1,4 @@
+# Docerion header of clear_browsing_data_task_info.mm.
+type: source
+title: Clear browsing data task info
+summary: Implements the clear browsing data Level Up task that shows the quick delete walkthrough in-product help.

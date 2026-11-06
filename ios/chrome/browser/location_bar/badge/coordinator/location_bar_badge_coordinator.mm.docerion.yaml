@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_coordinator.mm.
+type: source
+title: Location bar badge coordinator implementation
+summary: Implements the location bar badge coordinator, wiring the mediator, view controller, fullscreen handling, and command dispatching.

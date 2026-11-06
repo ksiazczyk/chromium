@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar UI build targets
+summary: GN build file defining the location bar UI source sets and their many dependencies within iOS Chrome.

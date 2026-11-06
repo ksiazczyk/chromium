@@ -1,0 +1,4 @@
+# Docerion header of location_bar_coordinator_unittest.mm.
+type: test
+title: Location bar coordinator unit tests
+summary: Unit tests for the location bar coordinator using test profiles, mock services, and scoped feature lists.

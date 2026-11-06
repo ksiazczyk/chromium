@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link to Text web API for Chrome on iOS
+// summary: TypeScript web resource that registers a linkToText API generating a text-fragment link, selected text, selection rect and canonical URL from the current page selection.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import * as utils from '//third_party/text-fragments-polyfill/src/src/fragment-generation-utils.js';
 

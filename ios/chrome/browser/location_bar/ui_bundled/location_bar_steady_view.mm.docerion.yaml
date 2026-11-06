@@ -1,0 +1,4 @@
+# Docerion header of location_bar_steady_view.mm.
+type: source
+title: Location bar steady view implementation
+summary: Implements the steady location bar view layout, constraints, animations and presentation of badges, incognito image and contextual panel entrypoint.

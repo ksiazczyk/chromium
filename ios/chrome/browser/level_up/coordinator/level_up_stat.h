@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpStat model header
+// summary: Declares the LevelUpStat model representing a completed task stat card with title, subtitle, Lottie image, and stat type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_STAT_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_STAT_H_
 

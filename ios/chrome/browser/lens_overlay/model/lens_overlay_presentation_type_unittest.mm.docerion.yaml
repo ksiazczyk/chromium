@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_presentation_type_unittest.mm.
+type: test
+title: Lens overlay presentation type unit tests
+summary: Tests that result page presentation resolves to side panel or bottom sheet depending on size class, device form factor, and feature flags.

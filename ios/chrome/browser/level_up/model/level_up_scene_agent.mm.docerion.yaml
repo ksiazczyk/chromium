@@ -1,0 +1,4 @@
+# Docerion header of level_up_scene_agent.mm.
+type: source
+title: Level Up scene agent implementation
+summary: Listens to user actions, maps them to tasks and stats, marks tasks completed, and shows completion snackbars when the UI is enabled.

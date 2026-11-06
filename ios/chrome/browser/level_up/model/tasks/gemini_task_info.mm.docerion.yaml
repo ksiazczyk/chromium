@@ -1,0 +1,4 @@
+# Docerion header of gemini_task_info.mm.
+type: source
+title: Gemini task info
+summary: Implements the Gemini Level Up task, opening a Google Arts and Culture story and presenting page action menu help after load.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up task factory declarations
+// summary: Declares factory functions that create TaskInfo instances for each Level Up task, such as tab groups, autofill, pin tabs, Gemini, and Safe Browsing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASKS_TASK_FACTORIES_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_TASKS_TASK_FACTORIES_H_
 

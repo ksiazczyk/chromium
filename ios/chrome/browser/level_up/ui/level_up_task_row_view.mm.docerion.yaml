@@ -1,0 +1,4 @@
+# Docerion header of level_up_task_row_view.mm.
+type: source
+title: Level Up task row view implementation
+summary: Implements the checklist row view that shows a task's icon, title, description and a chevron indicator in the Level Up UI.

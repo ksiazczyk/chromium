@@ -1,0 +1,4 @@
+# Docerion header of lens_view_finder_metrics_recorder.mm.
+type: source
+title: Lens view finder metrics recorder implementation
+summary: Records user actions and camera open histograms for Lens view finder events across different entry points.

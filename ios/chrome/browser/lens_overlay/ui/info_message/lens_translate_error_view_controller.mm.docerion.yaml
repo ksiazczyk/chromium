@@ -1,0 +1,4 @@
+# Docerion header of lens_translate_error_view_controller.mm.
+type: source
+title: LensTranslateErrorViewController implementation
+summary: Implements the translate error message UI with an image, title and subtitle labels, layout constants, and localized strings for the Lens overlay.

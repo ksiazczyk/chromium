@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarBadgeMetrics class header
+// summary: Declares the LocationBarBadgeMetrics helper class with class methods for logging contextual panel entrypoint display, tap, and dismiss metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_METRICS_LOCATION_BAR_BADGE_METRICS_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_METRICS_LOCATION_BAR_BADGE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkToTextTabHelper header
+// summary: Declares a WebState tab helper that decides when to offer link to text and triggers the JavaScript link generation library.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_TAB_HELPER_H_
 

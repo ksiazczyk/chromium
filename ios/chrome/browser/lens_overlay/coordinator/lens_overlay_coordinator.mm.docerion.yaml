@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_coordinator.mm.
+type: source
+title: Lens overlay coordinator implementation
+summary: Implements the Lens Overlay coordinator, wiring overlay presentation, omnibox, mediators, consent, fullscreen and metrics handling for the Lens feature.

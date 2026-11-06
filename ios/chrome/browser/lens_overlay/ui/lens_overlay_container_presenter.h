@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Overlay container presenter interface
+// summary: Declares the presenter that shows and hides the Lens overlay container over a base view controller, with delegate callbacks for presentation events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_CONTAINER_PRESENTER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_CONTAINER_PRESENTER_H_
 

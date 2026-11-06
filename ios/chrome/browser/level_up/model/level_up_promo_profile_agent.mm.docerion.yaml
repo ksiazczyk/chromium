@@ -1,0 +1,4 @@
+# Docerion header of level_up_promo_profile_agent.mm.
+type: source
+title: Level Up promo profile agent implementation
+summary: Registers the Level Up promo for single display at final profile init unless the user has already opted in.

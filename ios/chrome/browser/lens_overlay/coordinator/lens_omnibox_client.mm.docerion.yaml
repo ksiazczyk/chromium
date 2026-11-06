@@ -1,0 +1,4 @@
+# Docerion header of lens_omnibox_client.mm.
+type: source
+title: LensOmniboxClient implementation
+summary: Implements LensOmniboxClient, supplying omnibox data such as URL, prefs, bookmarks, security state, and Lens suggest inputs.

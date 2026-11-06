@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up task collection view cell header
+// summary: Declares the checklist card cell and its delegate for See All, completed tasks header and individual task row taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_TASK_COLLECTION_VIEW_CELL_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_TASK_COLLECTION_VIEW_CELL_H_
 

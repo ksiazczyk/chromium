@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpCategory model header
+// summary: Declares the LevelUpCategory model that groups Level Up tasks by category and exposes active and completed task lists.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_CATEGORY_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_CATEGORY_H_
 

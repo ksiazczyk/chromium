@@ -1,0 +1,4 @@
+# Docerion header of level_up_scene_agent_unittest.mm.
+type: source
+title: Level Up scene agent unit tests
+summary: Unit tests for the Level Up scene agent covering task completion, stat increments, and snackbar behavior under feature flags.

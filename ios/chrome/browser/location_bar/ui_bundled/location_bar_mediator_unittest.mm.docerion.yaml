@@ -1,0 +1,4 @@
+# Docerion header of location_bar_mediator_unittest.mm.
+type: test
+title: Location bar mediator unit tests
+summary: Unit tests verifying that the mediator updates its consumer with placeholder text and icons when set.

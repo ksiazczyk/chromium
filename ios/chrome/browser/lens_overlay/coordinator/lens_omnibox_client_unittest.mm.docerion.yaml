@@ -1,0 +1,4 @@
+# Docerion header of lens_omnibox_client_unittest.mm.
+type: test
+title: LensOmniboxClient unit tests
+summary: Unit tests for LensOmniboxClient covering autocomplete acceptance and formatted URL behavior using fake web state and OCMock.

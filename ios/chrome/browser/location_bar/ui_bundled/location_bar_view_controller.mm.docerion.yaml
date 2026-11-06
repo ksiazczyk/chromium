@@ -1,0 +1,4 @@
+# Docerion header of location_bar_view_controller.mm.
+type: source
+title: Location bar view controller implementation
+summary: Implements the location bar view controller, handling omnibox editing state, badges, context menus, Lens and AI entrypoints, and user interactions.

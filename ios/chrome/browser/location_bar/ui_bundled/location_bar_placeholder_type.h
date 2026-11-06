@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar placeholder type enum
+// summary: Defines the enum of location bar placeholder view types such as lens overlay, page action menu, default search engine icon and plus button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_PLACEHOLDER_TYPE_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_PLACEHOLDER_TYPE_H_
 

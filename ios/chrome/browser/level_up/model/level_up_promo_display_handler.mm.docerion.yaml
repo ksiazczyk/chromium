@@ -1,0 +1,4 @@
+# Docerion header of level_up_promo_display_handler.mm.
+type: source
+title: Level Up promo display handler implementation
+summary: Shows the Level Up promo through the Level Up commands handler, records a display metric, and provides the promo configuration.

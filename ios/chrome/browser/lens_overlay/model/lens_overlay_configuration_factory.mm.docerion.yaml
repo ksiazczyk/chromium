@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_configuration_factory.mm.
+type: source
+title: Lens Overlay configuration factory implementation
+summary: Implements the configuration factory, mapping overlay entrypoints and building Lens configurations with identity and incognito state.

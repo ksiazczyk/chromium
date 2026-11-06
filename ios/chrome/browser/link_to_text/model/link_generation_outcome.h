@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkGenerationOutcome enum
+// summary: Defines an enum of link generation outcomes from the text-fragments-polyfill library, kept in sync with its GenerateFragmentStatus enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_GENERATION_OUTCOME_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_GENERATION_OUTCOME_H_
 

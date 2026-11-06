@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_detents_manager_unittest.mm.
+type: test
+title: Lens overlay detents manager unit tests
+summary: Unit tests verifying the Lens overlay detents manager reports correct sheet dimension states for unrestricted movement, consent and peaking presentations.

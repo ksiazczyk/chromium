@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarBadgeType enum header
+// summary: Declares the LocationBarBadgeType enum listing features shown as location bar badges, with values persisted to logs and linked to histograms metadata.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_MODEL_BADGE_TYPE_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_MODEL_BADGE_TYPE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of payment_methods_task_info.mm.
+type: source
+title: Level Up payment methods task info
+summary: Defines the PaymentMethodsTaskInfo class describing the payment methods Level Up task, including its title, icon, category, trigger action, and navigation to the payment methods walkthrough.

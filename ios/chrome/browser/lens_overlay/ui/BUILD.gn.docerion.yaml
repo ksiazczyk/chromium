@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens Overlay UI GN build configuration
+summary: Defines GN source sets and dependencies for the Lens Overlay UI, grouping presenters, view controllers, protocols, and accessibility constants.

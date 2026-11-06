@@ -1,0 +1,4 @@
+# Docerion header of badges_container_view.mm.
+type: source
+title: Location bar badges container view implementation
+summary: Implements layout, visibility and placeholder handling for the badge and entrypoint views displayed in the location bar.

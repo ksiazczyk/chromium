@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up stat view header
+// summary: Declares a collection view cell card that displays stat metrics achieved by completed level-up tasks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_STAT_VIEW_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_STAT_VIEW_H_
 

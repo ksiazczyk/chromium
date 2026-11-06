@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_consent_view_controller.mm.
+type: source
+title: Lens Overlay consent view controller implementation
+summary: Implements the Lens Overlay consent dialog with a Lottie animation, pause control, and accept/deny terms actions in a promo-style view controller.

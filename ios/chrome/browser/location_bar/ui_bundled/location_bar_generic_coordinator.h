@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar generic coordinator protocol
+// summary: Protocol defining the common interface for generic location bar coordinators, including start, stop, and omnibox commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_GENERIC_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_GENERIC_COORDINATOR_H_
 

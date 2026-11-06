@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lens overlay coordinator DEPS include rules
+summary: Defines the allowed include paths for code in the Lens overlay coordinator directory.

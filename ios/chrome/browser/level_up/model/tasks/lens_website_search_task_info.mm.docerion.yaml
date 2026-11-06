@@ -1,0 +1,4 @@
+# Docerion header of lens_website_search_task_info.mm.
+type: source
+title: Lens website search task info
+summary: Implements the Lens website search Level Up task, opening a demo page and launching the Lens overlay UI after page load.

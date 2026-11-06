@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lens Overlay UI include rules
+summary: Specifies the allowed header includes for the Lens Overlay UI directory, covering omnibox popup and legacy toolbar dependencies.

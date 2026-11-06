@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Location bar model DEPS include rules
+summary: Lists the headers the location bar model directory may include, covering new tab page tab helper, utility, and home metrics.
