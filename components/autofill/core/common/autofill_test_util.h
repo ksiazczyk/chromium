@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill test environment and helper declarations
+// summary: Declares test environment classes and helper functions for creating deterministic frame tokens and renderer IDs in autofill tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_TEST_UTIL_H_
 

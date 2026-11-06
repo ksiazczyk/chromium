@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signatures unit tests
+// summary: Unit tests verifying form signature calculation, digit stripping, and alternative form signature behavior for small and large forms.
+// ---
+
 #include "components/autofill/core/common/signatures.h"
 
 #include "components/autofill/core/common/form_data.h"

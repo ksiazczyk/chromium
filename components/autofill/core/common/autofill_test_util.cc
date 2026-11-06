@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill test environment and helpers
+// summary: Implements the AutofillTestEnvironment and helpers that generate frame tokens and renderer IDs for autofill unit and browser tests.
+// ---
+
 #include "components/autofill/core/common/autofill_test_util.h"
 
 #include <algorithm>

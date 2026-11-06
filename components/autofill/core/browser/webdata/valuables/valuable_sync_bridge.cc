@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Valuable sync bridge implementation
+// summary: Implements the sync bridge for autofill valuables such as loyalty cards, converting sync specifics into local data models.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuable_sync_bridge.h"
 
 #include <algorithm>

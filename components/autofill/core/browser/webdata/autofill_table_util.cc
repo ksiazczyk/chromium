@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill web database table utilities
+// summary: Implements helpers to create, alter and drop SQLite tables and to select autofill rows by GUID.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_table_util.h"
 
 #include <initializer_list>

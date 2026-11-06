@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Valuable sync bridge unit tests
+// summary: Unit tests for the valuable sync bridge, covering loyalty card and entity synchronization behavior across sync modes.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuable_sync_bridge.h"
 
 #include <memory>

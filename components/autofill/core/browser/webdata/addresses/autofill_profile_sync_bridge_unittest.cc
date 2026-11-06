@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill profile sync bridge
+// summary: Tests the sync bridge's merge, incremental sync, and conflict handling behavior with mock sync processors and profiles.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_bridge.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill payments directory metadata
+summary: DIR_METADATA entry routing bugs for this directory to the UI>Browser>Autofill>Payments monorail component and a Buganizer component.

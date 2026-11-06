@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed FormData producer header
+// summary: Declares GenerateFormData, which builds a FormData object from values supplied by a FuzzedDataProvider.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_FUZZED_PRODUCER_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_FUZZED_PRODUCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync conversion utilities
+// summary: Implements conversions between AutofillProfile objects and sync protocol specifics, including verification status mapping, validity checks, and storage key derivation for local and syncable profiles.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_util.h"
 
 #include <memory>

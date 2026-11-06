@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsRequired compile-time required member marker
+// summary: Defines an auxiliary consteval type that makes uninitialized required struct members fail to compile.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_IS_REQUIRED_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_IS_REQUIRED_H_
 

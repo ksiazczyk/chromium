@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Autofill mojom DEPS include rules
+summary: Grants this directory permission to include code from mojo/public for dependency checking.

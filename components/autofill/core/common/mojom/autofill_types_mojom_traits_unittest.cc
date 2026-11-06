@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill mojom traits unit tests
+// summary: Unit tests verifying that autofill form, field, and password types survive Mojo serialization round-trips unchanged.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

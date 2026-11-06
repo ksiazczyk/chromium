@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strong aliases for autofill suggestion flags
+// summary: Defines strong alias types for autofill flags such as autoselect first suggestion, focus loss handling and async operations.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_ALIASES_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_ALIASES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for autofill common files
+summary: Delegates ownership of password-related and payments feature files to the password manager and autofill payments teams.

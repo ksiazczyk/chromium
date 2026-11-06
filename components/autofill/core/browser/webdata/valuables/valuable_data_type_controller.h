@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill valuable data type controller header
+// summary: Declares the sync data type controller for autofill valuables, which clears valuable data on sync pause in transport mode.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_VALUABLES_VALUABLE_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_VALUABLES_VALUABLE_DATA_TYPE_CONTROLLER_H_
 

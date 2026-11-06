@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments sync bridge utility function declarations
+// summary: Declares helpers that convert between sync protobuf specifics and autofill payments data models such as credit cards, IBANs, bank accounts, benefits and server CVCs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PAYMENTS_PAYMENTS_SYNC_BRIDGE_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PAYMENTS_PAYMENTS_SYNC_BRIDGE_UTIL_H_
 

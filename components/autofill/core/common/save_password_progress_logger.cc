@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save password progress logger implementation
+// summary: Implements the save password progress logger that formats and scrubs password-saving logs so they are safe to display on the internals page.
+// ---
+
 #include "components/autofill/core/common/save_password_progress_logger.h"
 
 #include <algorithm>

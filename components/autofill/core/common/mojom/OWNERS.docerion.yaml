@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill mojom OWNERS file
+summary: Delegates review of mojom and mojom traits files to the IPC security owners.

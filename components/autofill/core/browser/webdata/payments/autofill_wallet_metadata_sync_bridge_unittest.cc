@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillWalletMetadataSyncBridge unit tests
+// summary: Unit tests for the wallet metadata sync bridge covering full merge, incremental sync, storage keys and non-UTF8 server IDs for cards, addresses and IBANs.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_metadata_sync_bridge.h"
 
 #include <stddef.h>

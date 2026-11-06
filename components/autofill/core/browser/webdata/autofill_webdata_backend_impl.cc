@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillWebDataBackendImpl implementation
+// summary: Implements the Autofill web data backend, executing database tasks for form fields, profiles, cards and emitting change and sync notifications.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_webdata_backend_impl.h"
 
 #include <stddef.h>

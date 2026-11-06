@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill regex engine implementation
+// summary: Implements ICU-based regex compilation, matching, replacement and splitting, plus a cache of compiled regex patterns.
+// ---
+
 #include "components/autofill/core/common/autofill_regexes.h"
 
 #include <tuple>

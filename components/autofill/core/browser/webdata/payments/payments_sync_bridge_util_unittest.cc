@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for payments sync bridge utilities
+// summary: Unit tests verifying the conversion helpers between sync specifics and payments data models, using a test payments autofill table and protobuf matchers.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_sync_bridge_util.h"
 
 #include <utility>

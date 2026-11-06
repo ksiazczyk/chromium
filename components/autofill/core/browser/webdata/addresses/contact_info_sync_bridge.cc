@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact info sync bridge
+// summary: Sync bridge that synchronizes account-stored autofill address profiles with the CONTACT_INFO data type, applying sync changes to the autofill web database.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/contact_info_sync_bridge.h"
 
 #include <algorithm>

@@ -6,6 +6,12 @@
 // replace existing autocomplete_table.cc. Label sensitive prefix should
 // be dropped everywhere.
 
+// ---docerion
+// type: source
+// title: Label-sensitive autocomplete table implementation
+// summary: Implements the label-sensitive autocomplete WebDatabase table, including label normalization and entry storage, removal and retrieval operations.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_table_label_sensitive.h"
 
 #include <stddef.h>

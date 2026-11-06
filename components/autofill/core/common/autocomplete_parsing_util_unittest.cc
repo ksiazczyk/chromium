@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autocomplete attribute parsing
+// summary: Tests ParseAutocompleteAttribute against many test cases covering sections, modes, type hints, webauthn and webidentity tokens.
+// ---
+
 #include "components/autofill/core/common/autocomplete_parsing_util.h"
 
 #include <optional>

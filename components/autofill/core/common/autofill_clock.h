@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill clock interface
+// summary: Declares AutofillClock, a static time source for autofill that can be replaced with a test clock for testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_CLOCK_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_CLOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync difference tracker implementation
+// summary: Implements merging of remote sync profiles with local autofill data, tracking pending updates for local and sync directions.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_difference_tracker.h"
 
 #include <algorithm>

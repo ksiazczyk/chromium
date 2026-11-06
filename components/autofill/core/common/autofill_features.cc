@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill feature flag definitions
+// summary: Defines the Autofill component's feature flags and field trial parameters, including country-restricted mobile features for Autofill AI and Wallet.
+// ---
+
 #include "components/autofill/core/common/autofill_features.h"
 
 #include "base/feature_list.h"

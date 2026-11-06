@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payments feature flags implementation
+// summary: Defines base::Feature flags for payments-related Autofill features such as BNPL, card scanning, card benefits and AI-based amount extraction.
+// ---
+
 #include "components/autofill/core/common/autofill_payments_features.h"
 
 namespace autofill::features {

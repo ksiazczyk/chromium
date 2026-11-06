@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data list metrics enums
+// summary: Defines the AutofillDataListEvents enum used for debugging metrics about data list suggestion events.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_METRICS_ENUMS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_METRICS_ENUMS_H_
 

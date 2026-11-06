@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill debug feature definitions
+// summary: Defines disabled-by-default feature flags and parameters intended only for manual debugging and testing, such as forced opt-in and metrics scraping.
+// ---
+
 #include "components/autofill/core/common/autofill_debug_features.h"
 
 #include "base/component_export.h"

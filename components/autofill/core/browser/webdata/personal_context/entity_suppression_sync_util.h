@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity suppression sync utilities header
+// summary: Declares functions to convert entity suppression entries to sync specifics and EntityData, validate specifics, and parse entries back from specifics for the autofill sync bridge.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PERSONAL_CONTEXT_ENTITY_SUPPRESSION_SYNC_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PERSONAL_CONTEXT_ENTITY_SUPPRESSION_SYNC_UTIL_H_
 

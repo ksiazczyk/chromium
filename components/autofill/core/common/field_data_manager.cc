@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field data manager implementation
+// summary: Implements FieldDataManager, which stores user-typed field values and property masks keyed by renderer IDs and matches values case-insensitively.
+// ---
+
 #include "components/autofill/core/common/field_data_manager.h"
 
 #include <utility>

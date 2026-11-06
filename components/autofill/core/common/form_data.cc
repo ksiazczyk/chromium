@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data implementation
+// summary: Implements FormData pickle serialization and deserialization, equality comparison of form elements, and logging support for autofill forms.
+// ---
+
 #include "components/autofill/core/common/form_data.h"
 
 #include <stddef.h>

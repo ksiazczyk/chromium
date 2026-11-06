@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill preferences registration
+// summary: Registers and implements Autofill profile preferences, including synced prefs for address, credit card, Autofill AI and Gmail OTP filling settings.
+// ---
+
 #include "components/autofill/core/common/autofill_prefs.h"
 
 #include "base/feature_list.h"

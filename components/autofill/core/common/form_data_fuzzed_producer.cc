@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed FormData producer
+// summary: Generates arbitrary FormData objects from a FuzzedDataProvider for use in fuzzers and test input generation.
+// ---
+
 #include "components/autofill/core/common/form_data_fuzzed_producer.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

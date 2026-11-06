@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill regex unit tests
+// summary: Parameterized unit tests for Autofill regex matching, capture groups, replacement and splitting using the ICU-based regex helpers.
+// ---
+
 #include "components/autofill/core/common/autofill_regexes.h"
 
 // Keep these tests in sync with

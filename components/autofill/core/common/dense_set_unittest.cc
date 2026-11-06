@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DenseSet unit tests
+// summary: Unit tests covering DenseSet and its internal Bitset helpers, parameterized over word types from uint8_t to uint64_t.
+// ---
+
 #include "components/autofill/core/common/dense_set.h"
 
 #include <algorithm>

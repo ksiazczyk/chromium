@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unique IDs stream operators implementation
+// summary: Implements stream output operators for form and field renderer IDs and global IDs used in logging.
+// ---
+
 #include "components/autofill/core/common/unique_ids.h"
 
 #include "components/autofill/core/common/logging/log_buffer.h"

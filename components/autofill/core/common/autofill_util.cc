@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill utility functions
+// summary: Implements shared autofill helpers for string tokenization, whitespace and credit card field sanitization, select matching, and URL stripping.
+// ---
+
 #include "components/autofill/core/common/autofill_util.h"
 
 #include <algorithm>

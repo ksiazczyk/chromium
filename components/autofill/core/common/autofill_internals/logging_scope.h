@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill logging scope enum and template macros
+// summary: Header defining the LoggingScope enum via the AUTOFILL_LOGGING_SCOPE_TEMPLATES macro, covering scopes such as Context, Parsing, Filling, Submission, Metrics, and AutofillAi.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_INTERNALS_LOGGING_SCOPE_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_INTERNALS_LOGGING_SCOPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill debug feature declarations
+// summary: Declares the debug-only Autofill feature flags and parameters exported from the component for testing and debugging purposes.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_DEBUG_FEATURES_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_DEBUG_FEATURES_H_
 

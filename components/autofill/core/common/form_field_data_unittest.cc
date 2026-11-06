@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormFieldData unit tests
+// summary: Unit tests verifying that FormFieldData pickle serialization and deserialization work across all format versions.
+// ---
+
 #include "components/autofill/core/common/form_field_data.h"
 
 #include "base/i18n/rtl.h"

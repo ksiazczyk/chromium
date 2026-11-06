@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web data service unit tests
+// summary: Unit tests for the autofill web data service covering autocomplete entries, profiles, credit cards, change notifications and histogram metrics.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

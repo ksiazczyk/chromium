@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Valuable metadata sync bridge header
+// summary: Declares the sync bridge for autofill valuable metadata, which observes web data service changes and manages sync metadata.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_VALUABLES_VALUABLE_METADATA_SYNC_BRIDGE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_VALUABLES_VALUABLE_METADATA_SYNC_BRIDGE_H_
 

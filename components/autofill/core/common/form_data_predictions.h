@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataPredictions structure
+// summary: Defines a struct that pairs a form with its signature and per-field prediction data for filling or submission.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_PREDICTIONS_H__
 #define COMPONENTS_AUTOFILL_CORE_COMMON_FORM_DATA_PREDICTIONS_H__
 

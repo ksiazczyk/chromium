@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation utility implementation
+// summary: Implements the PasswordGenerationUIData structure and UMA histogram logging of password generation events.
+// ---
+
 #include "components/autofill/core/common/password_generation_util.h"
 
 #include "base/command_line.h"

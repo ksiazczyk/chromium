@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill localization utilities
+// summary: Provides ICU collator creation with English fallback and a case-insensitive string comparison helper for a given locale.
+// ---
+
 #include "components/autofill/core/common/autofill_l10n_util.h"
 
 #include <utility>

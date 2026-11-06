@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSyncMetadataTable
+// summary: Parameterized tests covering reading, writing and deleting sync entity metadata and data type states for autofill data types.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_sync_metadata_table.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the valuables directory
+summary: Defines code owners for the valuables directory, delegating sync and type controller files to the components/sync owners.

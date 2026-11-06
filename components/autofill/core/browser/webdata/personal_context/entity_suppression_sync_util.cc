@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity suppression sync utilities implementation
+// summary: Implements conversions between EntitySuppressionEntry objects and AutofillEntitySuppressionSpecifics protobuf messages, including validation of specifics and trimming of unsupported fields for caching.
+// ---
+
 #include "components/autofill/core/browser/webdata/personal_context/entity_suppression_sync_util.h"
 
 #include <algorithm>

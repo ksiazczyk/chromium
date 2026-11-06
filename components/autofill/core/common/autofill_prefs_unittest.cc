@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill preferences unit tests
+// summary: Unit tests verifying that Autofill pref setters update values and emit metrics, covering profile enabling, Gmail OTP filling and deduplication.
+// ---
+
 #include "components/autofill/core/common/autofill_prefs.h"
 
 #include "base/json/values_util.h"

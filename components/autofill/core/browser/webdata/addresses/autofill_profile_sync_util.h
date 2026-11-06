@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync utility declarations
+// summary: Declares functions to validate autofill profile specifics, convert between profiles and sync entities, and derive database storage keys.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_AUTOFILL_PROFILE_SYNC_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_AUTOFILL_PROFILE_SYNC_UTIL_H_
 

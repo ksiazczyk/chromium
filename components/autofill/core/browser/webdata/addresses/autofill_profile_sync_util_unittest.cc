@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile sync utility unit tests
+// summary: Unit tests verifying conversion between autofill profiles and sync specifics, including verification statuses, field truncation, and storage key handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_util.h"
 
 #include "base/strings/utf_string_conversions.h"

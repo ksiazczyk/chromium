@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for autocomplete attribute parsing
+// summary: Fuzzes ParseAutocompleteAttribute with random inputs to uncover crashes in autocomplete attribute parsing.
+// ---
+
 #include <stdint.h>
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillWalletMetadataSyncBridge implementation
+// summary: Implements the sync bridge that propagates local wallet metadata changes and applies remote changes for cards, addresses and IBANs to the local database.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_metadata_sync_bridge.h"
 
 #include <stdint.h>

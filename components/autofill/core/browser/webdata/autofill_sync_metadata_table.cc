@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSyncMetadataTable implementation
+// summary: Implements SQLite storage of autofill sync metadata and data type states, including table creation and version migrations.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_sync_metadata_table.h"
 
 #include <memory>

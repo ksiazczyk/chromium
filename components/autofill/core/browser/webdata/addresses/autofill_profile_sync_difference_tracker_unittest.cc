@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill profile sync difference tracker
+// summary: Tests how the difference tracker incorporates remote profiles, deduplicates entries, and flushes changes locally and to sync.
+// ---
+
 #include "components/autofill/core/browser/webdata/addresses/autofill_profile_sync_difference_tracker.h"
 
 #include "base/files/scoped_temp_dir.h"

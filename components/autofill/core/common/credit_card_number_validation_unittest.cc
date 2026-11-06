@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card number validation unit tests
+// summary: Unit tests verifying credit card number validation, including Luhn checksum, length plausibility, and separator handling across many card networks.
+// ---
+
 #include "components/autofill/core/common/credit_card_number_validation.h"
 
 #include <stddef.h>

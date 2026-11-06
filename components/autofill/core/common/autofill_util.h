@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill utility function declarations
+// summary: Declares shared autofill helper functions for string handling, field value sanitization, URL stripping, and form fill checks.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill unique IDs
+// summary: Unit tests verifying that FieldGlobalId and FormGlobalId work correctly as keys in Abseil flat_hash_set containers.
+// ---
+
 #include "components/autofill/core/common/unique_ids.h"
 
 #include "components/autofill/core/common/autofill_test_util.h"

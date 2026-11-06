@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging scope to string and LogBuffer serialization
+// summary: Implements LoggingScopeToString for the LoggingScope enum and streams logging scopes into a LogBuffer as log-entry div elements.
+// ---
+
 #include "components/autofill/core/common/autofill_internals/logging_scope.h"
 
 #include "base/logging.h"

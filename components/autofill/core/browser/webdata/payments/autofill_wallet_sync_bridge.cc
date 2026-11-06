@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillWalletSyncBridge implementation
+// summary: Implements the sync bridge that syncs wallet data such as credit cards, IBANs, bank accounts, cloud token data and customer data with the sync server.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/autofill_wallet_sync_bridge.h"
 
 #include <algorithm>

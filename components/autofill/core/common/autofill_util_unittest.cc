@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill utilities
+// summary: Unit tests covering at-sign prefix matching, attribute tokenization, and other helpers from the autofill utility implementation.
+// ---
+
 #include "components/autofill/core/common/autofill_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity sync utilities implementation
+// summary: Implements conversion between Autofill AI EntityInstance objects and sync protobuf specifics and metadata, including date and attribute field handling.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_ai/entity_sync_util.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of autofill_types.mojom.
+type: source
+title: Autofill types mojom definitions
+summary: Defines Mojo enums and structs for autofill form, field, and password data exchanged between browser and renderer processes.

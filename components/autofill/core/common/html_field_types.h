@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML field type and mode to string conversion helpers
+// summary: Declares helpers that map HTML field types and autocomplete field modes to string constants kept in a legacy style because external tools depend on it.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_HTML_FIELD_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_HTML_FIELD_TYPES_H_
 

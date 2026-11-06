@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LOG_AF conditional logging macro
+// summary: Defines the LOG_AF macro that evaluates and streams log expressions only when the given LogManager or LogBuffer logger is active.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_LOG_MACROS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_LOGGING_LOG_MACROS_H_
 

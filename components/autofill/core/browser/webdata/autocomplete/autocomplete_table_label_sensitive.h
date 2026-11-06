@@ -6,6 +6,12 @@
 // replace existing autocomplete_table.h. Label sensitive prefix should
 // be dropped everywhere.
 
+// ---docerion
+// type: source
+// title: Label-sensitive autocomplete table header
+// summary: Declares the label-sensitive autocomplete table class, matching types, and search result class for the autocomplete WebDatabase table.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_AUTOCOMPLETE_AUTOCOMPLETE_TABLE_LABEL_SENSITIVE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_AUTOCOMPLETE_AUTOCOMPLETE_TABLE_LABEL_SENSITIVE_H_
 

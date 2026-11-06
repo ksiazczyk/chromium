@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for autofill common
+summary: Restricts allowed includes for autofill core common, with special rules for credit card validation, regexes and test files.

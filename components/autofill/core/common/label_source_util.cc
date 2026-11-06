@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label source to string conversion implementation
+// summary: Implements conversion of form field label sources to log strings and a comparison of label quality against placeholders.
+// ---
+
 #include "components/autofill/core/common/label_source_util.h"
 
 #include <string>

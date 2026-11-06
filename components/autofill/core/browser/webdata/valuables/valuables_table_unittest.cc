@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the valuables database table
+// summary: Tests loyalty card retrieval, add, update and removal plus validation of empty or invalid fields in the valuables web database table.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuables_table.h"
 
 #include "base/files/scoped_temp_dir.h"

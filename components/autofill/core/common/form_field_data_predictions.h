@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFieldDataPredictions structure
+// summary: Defines a struct holding heuristic, server and overall field type predictions plus ranking and section metadata.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_FORM_FIELD_DATA_PREDICTIONS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_FORM_FIELD_DATA_PREDICTIONS_H_
 

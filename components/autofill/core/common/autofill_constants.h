@@ -4,6 +4,12 @@
 
 // Contains constants specific to the Autofill component.
 
+// ---docerion
+// type: source
+// title: Autofill constants
+// summary: Declares constants specific to the Autofill component, including size limits for fields, strings, lists, and required field counts for heuristics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_CONSTANTS_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_AUTOFILL_CONSTANTS_H_
 

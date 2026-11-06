@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerCvc struct for server card CVC data
+// summary: Defines a struct grouping server CVC fields, including instrument ID, CVC value and last updated timestamp, for use in the autofill table and sync bridge.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PAYMENTS_SERVER_CVC_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_PAYMENTS_SERVER_CVC_H_
 

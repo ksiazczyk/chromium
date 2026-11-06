@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the autocomplete directory
+summary: Defines code owners for the directory, delegating ownership of sync-related files to the components/sync owners.

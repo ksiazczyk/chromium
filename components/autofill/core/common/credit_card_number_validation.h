@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card number validation declarations
+// summary: Declares functions for validating credit card numbers, detecting the card network from the IIN, and formatting numbers for display.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_COMMON_CREDIT_CARD_NUMBER_VALIDATION_H_
 #define COMPONENTS_AUTOFILL_CORE_COMMON_CREDIT_CARD_NUMBER_VALIDATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillWebDataService implementation
+// summary: Implements the Autofill web data service, scheduling database tasks for form fields, profiles, credit cards and other web data.
+// ---
+
 #include "components/autofill/core/browser/webdata/autofill_webdata_service.h"
 
 #include <stdint.h>

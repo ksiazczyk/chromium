@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteEntry and AutocompleteKey implementation
+// summary: Implements the AutocompleteKey and AutocompleteEntry classes that store autocomplete name/value pairs with creation and last-used dates.
+// ---
+
 #include "components/autofill/core/browser/webdata/autocomplete/autocomplete_entry.h"
 
 #include <string>

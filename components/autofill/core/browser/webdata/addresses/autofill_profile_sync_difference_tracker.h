@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile sync difference tracker declaration
+// summary: Declares a tracker that lazily diffs local autofill profiles against sync data and flushes changes to the local table and sync.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_AUTOFILL_PROFILE_SYNC_DIFFERENCE_TRACKER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_ADDRESSES_AUTOFILL_PROFILE_SYNC_DIFFERENCE_TRACKER_H_
 

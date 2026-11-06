@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments sync bridge utilities
+// summary: Implements conversion helpers between autofill sync protobufs and local payments data models for sync bridges.
+// ---
+
 #include "components/autofill/core/browser/webdata/payments/payments_sync_bridge_util.h"
 
 #include <stdint.h>

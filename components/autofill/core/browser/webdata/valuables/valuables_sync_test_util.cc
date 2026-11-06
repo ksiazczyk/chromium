@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Valuables sync test utilities implementation
+// summary: Provides test helpers that create sample loyalty cards, offers, and valuable metadata specifics for valuables sync tests.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuables_sync_test_util.h"
 
 #include <string>

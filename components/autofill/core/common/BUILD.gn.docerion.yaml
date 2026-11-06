@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for autofill core common
+summary: Defines GN build targets for the autofill common static library, credit card validation, regexes, features, test support and unit tests.

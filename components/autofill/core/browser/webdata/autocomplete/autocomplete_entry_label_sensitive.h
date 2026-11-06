@@ -6,6 +6,12 @@
 // replace existing autocomplete_entry.h. Label sensitive prefix should
 // be dropped everywhere.
 
+// ---docerion
+// type: source
+// title: Label-sensitive autocomplete entry declarations
+// summary: Declares label-sensitive key and entry classes that extend autocomplete entries with a label alongside name and value.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_AUTOCOMPLETE_AUTOCOMPLETE_ENTRY_LABEL_SENSITIVE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_WEBDATA_AUTOCOMPLETE_AUTOCOMPLETE_ENTRY_LABEL_SENSITIVE_H_
 

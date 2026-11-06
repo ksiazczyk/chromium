@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Valuables database table implementation
+// summary: Implements SQLite storage of loyalty cards, their merchant domains and valuable metadata within the Chromium web database.
+// ---
+
 #include "components/autofill/core/browser/webdata/valuables/valuables_table.h"
 
 #include <stdint.h>
