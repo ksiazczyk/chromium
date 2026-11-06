@@ -1,0 +1,4 @@
+# Docerion header of trace_templated_super.txt.
+type: test
+title: Expected diagnostics for trace_templated_super
+summary: Expected blink-gc plugin output warning that Sub<blink::HeapObject> has the untraced field m_obj.

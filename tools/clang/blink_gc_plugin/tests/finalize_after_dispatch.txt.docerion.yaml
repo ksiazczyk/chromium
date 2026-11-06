@@ -1,0 +1,4 @@
+# Docerion header of finalize_after_dispatch.txt.
+type: test
+title: Finalize after dispatch expected warnings
+summary: Expected Blink GC plugin diagnostics for missing trace dispatch and misplaced finalize methods.

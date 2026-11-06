@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_omitted_trace.txt.
+type: test
+title: Omitted trace expected output
+summary: Empty expected diagnostics file for the traceimpl_omitted_trace test case, indicating no plugin warnings.

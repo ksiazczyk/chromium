@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heap object test header for ignored directory
+// summary: Test fixture header defining a GarbageCollected HeapObject in the blink namespace, used to verify that no diagnostics are emitted for directories ignored via ignore-directory=.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_IGNORED_DIR_HEAP_OBJECT_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_IGNORED_DIR_HEAP_OBJECT_H_
 

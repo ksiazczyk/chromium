@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Left-most GC base test fixture
+// summary: Test header with class hierarchies placing GarbageCollected bases left or right to check the plugin's left-most GC base requirement.
+// ---
+
 #ifndef LEFT_MOST_GC_BASE_H_
 #define LEFT_MOST_GC_BASE_H_
 

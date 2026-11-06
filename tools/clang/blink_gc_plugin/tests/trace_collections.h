@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace collections test header
+// summary: Test header declaring a garbage-collected class with many heap vector, deque, set, counted set and map collection fields.
+// ---
+
 #ifndef TRACE_COLLECTIONS_H_
 #define TRACE_COLLECTIONS_H_
 

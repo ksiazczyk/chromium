@@ -1,0 +1,4 @@
+# Docerion header of forbidden_fields.txt.
+type: test
+title: Forbidden fields expected warnings
+summary: Expected blink-gc plugin diagnostic output listing invalid field warnings for the forbidden fields test case.

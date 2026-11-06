@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: member_in_offheap_class test source
+// summary: Test source with Trace implementations exercising Member fields in off-heap classes for the blink-gc plugin.
+// ---
+
 #include "member_in_offheap_class.h"
 
 namespace blink {

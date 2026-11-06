@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckDispatchVisitor header
+// summary: Declares a recursive AST visitor that checks a method contains a call to a method on the provided receiver class for manual dispatching.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CHECK_DISPATCH_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_CHECK_DISPATCH_VISITOR_H_
 

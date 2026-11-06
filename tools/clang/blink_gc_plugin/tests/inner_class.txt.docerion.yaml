@@ -1,0 +1,4 @@
+# Docerion header of inner_class.txt.
+type: test
+title: Expected warnings for inner_class test
+summary: Expected plugin diagnostic output for the inner_class test, warning about the untraced field m_obj in InnerObject.

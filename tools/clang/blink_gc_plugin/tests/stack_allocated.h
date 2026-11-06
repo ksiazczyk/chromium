@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack allocated test header
+// summary: Test header covering stack-allocated classes, redundant trace methods, and invalid mixing of heap- and stack-allocated bases.
+// ---
+
 #ifndef STACK_ALLOCATED_H_
 #define STACK_ALLOCATED_H_
 

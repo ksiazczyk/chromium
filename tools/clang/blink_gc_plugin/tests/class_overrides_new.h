@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: class_overrides_new test header
+// summary: Header defining garbage-collected test classes that override operator new to exercise the plugin's new-operator check.
+// ---
+
 #ifndef CLASS_OVERRIDES_NEW_H_
 #define CLASS_OVERRIDES_NEW_H_
 

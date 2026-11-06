@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base requires tracing test header
+// summary: Header with a class hierarchy where a derived class's Trace must invoke its base class tracing to satisfy the plugin check.
+// ---
+
 #ifndef BASE_REQUIRES_TRACING_H_
 #define BASE_REQUIRES_TRACING_H_
 

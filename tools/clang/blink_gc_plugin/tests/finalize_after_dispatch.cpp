@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Finalize after dispatch test source
+// summary: Test source implementing trace and finalize dispatch, including a deliberately missing destructor dispatch for class D.
+// ---
+
 #include "finalize_after_dispatch.h"
 
 namespace blink {

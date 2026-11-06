@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectVisitor implementation
+// summary: Implements a visitor that collects complete record declarations and trace method declarations from the AST for later plugin analysis.
+// ---
+
 #include "CollectVisitor.h"
 
 #include "Config.h"

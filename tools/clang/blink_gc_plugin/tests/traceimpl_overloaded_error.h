@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overloaded trace error test header
+// summary: Declares classes whose inlined and out-of-line Trace methods omit required field and base-class tracing to trigger plugin warnings.
+// ---
+
 #ifndef TRACEIMPL_OVERLOADED_ERROR_H_
 #define TRACEIMPL_OVERLOADED_ERROR_H_
 

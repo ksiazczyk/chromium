@@ -1,0 +1,4 @@
+# Docerion header of custom_ignored_directory.txt.
+type: test
+title: Custom ignored directory expected output
+summary: Empty expected-output file for the custom_ignored_directory blink-gc plugin test, indicating no diagnostics are expected.

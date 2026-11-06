@@ -8,6 +8,12 @@
 // Errors are described at:
 // http://www.chromium.org/developers/blink-gc-plugin-errors
 
+// ---docerion
+// type: source
+// title: Blink GC plugin entry point
+// summary: Registers the blink-gc-plugin Clang plugin action and parses command-line options that control the Blink GC invariant checks.
+// ---
+
 #include "BlinkGCPluginConsumer.h"
 #include "BlinkGCPluginOptions.h"
 #include "Config.h"

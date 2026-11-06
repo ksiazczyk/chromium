@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordInfo implementation
+// summary: Implements RecordInfo methods that gather GC inheritance, template argument, and tracing information about C++ records.
+// ---
+
 #include "RecordInfo.h"
 
 #include <string>

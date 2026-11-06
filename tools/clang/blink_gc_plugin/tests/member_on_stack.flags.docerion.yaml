@@ -1,0 +1,4 @@
+# Docerion header of member_on_stack.flags.
+type: test
+title: member_on_stack plugin flags
+summary: Compiler flags enabling the blink-gc plugin members-on-stack check for the member_on_stack test.

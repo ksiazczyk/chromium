@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GC_PLUGIN_IGNORE field test fixture
+// summary: Test header with fields marked GC_PLUGIN_IGNORE to verify the plugin skips ignored fields and does not require a Trace method when all GC fields are ignored.
+// ---
+
 #ifndef IGNORE_FIELDS_H_
 #define IGNORE_FIELDS_H_
 

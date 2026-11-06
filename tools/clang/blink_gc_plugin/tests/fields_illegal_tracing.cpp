@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fields illegal tracing test source
+// summary: Test source with Trace methods that illegally trace fields such as scoped_refptr and std::unique_ptr members.
+// ---
+
 #include "fields_illegal_tracing.h"
 
 namespace blink {

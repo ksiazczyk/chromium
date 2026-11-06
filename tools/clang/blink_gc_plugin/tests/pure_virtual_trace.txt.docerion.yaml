@@ -1,0 +1,4 @@
+# Docerion header of pure_virtual_trace.txt.
+type: test
+title: Pure virtual trace expected warnings
+summary: Expected compiler output for the pure virtual trace test, warning that a garbage-collected class may not declare a pure-virtual trace method.

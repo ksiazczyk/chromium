@@ -1,0 +1,4 @@
+# Docerion header of cycle_ptrs.flags.
+type: test
+title: cycle_ptrs.flags
+summary: Clang plugin arguments enabling graph dumping for the cycle_ptrs test case.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge header
+// summary: Defines the edge class hierarchy for pointers, members, persistents, and collections plus visitor interfaces for traversing them.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_EDGE_H_
 #define TOOLS_BLINK_GC_PLUGIN_EDGE_H_
 

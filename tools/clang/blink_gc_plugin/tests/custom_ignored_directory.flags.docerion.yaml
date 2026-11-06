@@ -1,0 +1,4 @@
+# Docerion header of custom_ignored_directory.flags.
+type: test
+title: Flags for custom ignored directory test
+summary: Compiler flags for the custom ignored directory test, passing the blink-gc plugin an ignore-directory argument for ignored_dir.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: traceimpl derived from templated base test header
+// summary: Defines a templated GarbageCollected base with a Trace method and a derived class to check inherited tracing behavior.
+// ---
+
 #ifndef TRACEIMPL_DERIVED_FROM_TEMPLATED_BASE_H_
 #define TRACEIMPL_DERIVED_FROM_TEMPLATED_BASE_H_
 

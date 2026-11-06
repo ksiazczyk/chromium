@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register weak members template test header
+// summary: Test header with a garbage-collected class registering weak members through a template call, leaving a field untraced.
+// ---
+
 #ifndef REGISTER_WEAK_MEMBERS_TEMPLATE_H_
 #define REGISTER_WEAK_MEMBERS_TEMPLATE_H_
 

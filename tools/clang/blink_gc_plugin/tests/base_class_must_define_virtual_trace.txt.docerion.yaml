@@ -1,0 +1,4 @@
+# Docerion header of base_class_must_define_virtual_trace.txt.
+type: test
+title: Base class must define virtual trace expected output
+summary: Expected compiler warning output for the base class virtual trace test case.

@@ -1,0 +1,4 @@
+# Docerion header of custom_namespace.txt.
+type: test
+title: Custom namespace expected output
+summary: Expected blink-gc plugin warning that the custom-namespace HeapObject class requires a trace method.

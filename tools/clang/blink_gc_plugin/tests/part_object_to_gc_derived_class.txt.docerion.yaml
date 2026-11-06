@@ -1,0 +1,4 @@
+# Docerion header of part_object_to_gc_derived_class.txt.
+type: test
+title: Expected diagnostics for the part-object to GC derived class test
+summary: Contains the expected Blink GC plugin warnings about an invalid part-object field to a GC derived class.

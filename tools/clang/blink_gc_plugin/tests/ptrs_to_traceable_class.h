@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointers to traceable class test header
+// summary: Header with off-heap and garbage-collected classes holding raw pointer, reference, and unique_ptr fields to a traceable class.
+// ---
+
 #ifndef PTRS_TO_TRACEABLE_CLASS_H_
 #define PTRS_TO_TRACEABLE_CLASS_H_
 

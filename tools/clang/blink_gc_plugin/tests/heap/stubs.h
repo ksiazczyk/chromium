@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin heap test stubs
+// summary: Stub declarations of base, blink and std classes that serve as fixtures for the Blink GC plugin's heap tests.
+// ---
+
 #ifndef HEAP_STUBS_H_
 #define HEAP_STUBS_H_
 

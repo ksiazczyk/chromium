@@ -1,0 +1,4 @@
+# Docerion header of variant_of_gced_type.txt.
+type: test
+title: Variant of GCed type expected warnings
+summary: Expected Blink GC plugin warnings for the variant test, listing disallowed variants holding garbage-collected types.

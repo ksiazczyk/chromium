@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overloaded trace error test source
+// summary: Out-of-line Trace implementations that deliberately omit field and base tracing for the traceimpl_overloaded_error test.
+// ---
+
 #include "traceimpl_overloaded_error.h"
 
 namespace blink {

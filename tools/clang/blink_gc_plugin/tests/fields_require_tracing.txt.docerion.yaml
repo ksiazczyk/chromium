@@ -1,0 +1,4 @@
+# Docerion header of fields_require_tracing.txt.
+type: test
+title: Fields require tracing expected warnings
+summary: Expected Blink GC plugin diagnostics about untraced fields in the fields require tracing test.

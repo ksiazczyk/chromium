@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad pattern finder header
+// summary: Declares FindBadPatterns, which detects and reports banned patterns like applying std::make_unique to garbage-collected types.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_BAD_PATTERN_FINDER_H_
 #define TOOLS_BLINK_GC_PLUGIN_BAD_PATTERN_FINDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of non_virtual_trace.txt.
+type: test
+title: Non-virtual trace test expected output
+summary: Expected blink-gc plugin warnings about classes overriding a non-virtual trace method.

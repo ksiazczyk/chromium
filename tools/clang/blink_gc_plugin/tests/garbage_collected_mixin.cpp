@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Garbage collected mixin test source
+// summary: Test source with intentionally missing Trace calls to exercise mixin field and base class tracing checks.
+// ---
+
 #include "garbage_collected_mixin.h"
 
 namespace blink {

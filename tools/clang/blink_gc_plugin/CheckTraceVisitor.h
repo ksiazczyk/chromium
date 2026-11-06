@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckTraceVisitor header
+// summary: Declares a visitor that checks a tracing method by traversing its body, treating referenced fields as traced and base-qualified trace calls as base tracing.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CHECK_TRACE_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_CHECK_TRACE_VISITOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of process-graph.py.
+type: script
+title: Blink GC points-to graph processor
+summary: Command-line tool that processes JSON points-to graphs from the Blink GC plugin, detecting GC root cycles and printing statistics.

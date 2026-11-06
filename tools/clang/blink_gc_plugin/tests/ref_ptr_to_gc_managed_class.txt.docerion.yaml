@@ -1,0 +1,4 @@
+# Docerion header of ref_ptr_to_gc_managed_class.txt.
+type: test
+title: Ref ptr to GC managed class expected warnings
+summary: Expected blink-gc plugin warning output for the test on scoped_refptr fields pointing to GC-managed classes.

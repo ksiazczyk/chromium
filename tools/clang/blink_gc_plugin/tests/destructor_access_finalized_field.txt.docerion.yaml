@@ -1,0 +1,4 @@
+# Docerion header of destructor_access_finalized_field.txt.
+type: test
+title: Destructor access finalized field expected output
+summary: Expected plugin warnings about finalizers accessing the potentially finalized fields m_obj and m_objs.

@@ -1,0 +1,4 @@
+# Docerion header of gced_as_field_or_variable.txt.
+type: test
+title: GCed as field or variable expected warnings
+summary: Expected blink-gc plugin warnings for GC-managed classes used as fields and local variables instead of Member or Persistent pointers.

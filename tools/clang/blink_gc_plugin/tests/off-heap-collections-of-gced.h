@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Off-heap collections of GCed types test header
+// summary: Header defining Base, Derived and Mixin garbage-collected classes used by the collections test.
+// ---
+
 #ifndef COLLECTION_OF_GCED_H_
 #define COLLECTION_OF_GCED_H_
 

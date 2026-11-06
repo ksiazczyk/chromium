@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink GC plugin consumer header
+// summary: Declares the main AST consumer class that checks invariants of the Blink garbage collection infrastructure.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_BLINK_GC_PLUGIN_CONSUMER_H_
 #define TOOLS_BLINK_GC_PLUGIN_BLINK_GC_PLUGIN_CONSUMER_H_
 

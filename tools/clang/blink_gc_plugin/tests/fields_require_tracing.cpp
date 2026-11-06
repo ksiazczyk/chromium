@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fields require tracing test source
+// summary: Test source with Trace methods that omit required tracing of Member fields, arrays, and ephemerons.
+// ---
+
 #include "fields_require_tracing.h"
 
 namespace blink {

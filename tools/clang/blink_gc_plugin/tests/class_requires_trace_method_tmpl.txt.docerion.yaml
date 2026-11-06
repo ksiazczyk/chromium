@@ -1,0 +1,4 @@
+# Docerion header of class_requires_trace_method_tmpl.txt.
+type: test
+title: Expected warnings for templated trace method test
+summary: Expected compiler output for the templated trace method test, listing the warning that TemplatedObject requires a trace method and the note about the untraced field.

@@ -1,0 +1,4 @@
+# Docerion header of trace_after_dispatch.txt.
+type: test
+title: Expected warnings for trace after dispatch test
+summary: Expected compiler warnings for the trace_after_dispatch test case, listing missing dispatches and untraced fields.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: cipd.yaml
+# summary: CIPD package definition for the chromium/llvm-build-tools/dsymutil package, describing the recent dsymutil binary used for Mac builds.
+# ---
+
 package: chromium/llvm-build-tools/dsymutil
 description: recent dlsymutil for mac builds
 install_mode: copy

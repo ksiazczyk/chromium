@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonWriter header
+// summary: Declares a helper class that writes points-to graph information as JSON to an LLVM raw output stream.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_JSON_WRITER_H_
 #define TOOLS_BLINK_GC_PLUGIN_JSON_WRITER_H_
 

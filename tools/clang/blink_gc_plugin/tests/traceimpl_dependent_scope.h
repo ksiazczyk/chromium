@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: traceimpl dependent scope test header
+// summary: Defines template classes whose Trace methods call base or mixin Trace through dependent scopes, some intentionally omitting required calls.
+// ---
+
 #ifndef TRACEIMPL_DEPENDENT_SCOPE_H_
 #define TRACEIMPL_DEPENDENT_SCOPE_H_
 

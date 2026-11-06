@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weak fields require tracing test source
+// summary: Test source with weak member fields whose required Trace calls are missing from the visitor and weak-members callback.
+// ---
+
 #include "weak_fields_require_tracing.h"
 
 namespace blink {

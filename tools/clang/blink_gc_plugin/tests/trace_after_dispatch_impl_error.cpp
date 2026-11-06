@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace after dispatch implementation error test input
+// summary: C++ test input with missing dispatch calls and untraced fields to trigger Blink GC plugin warnings.
+// ---
+
 #include "trace_after_dispatch_impl_error.h"
 
 namespace blink {

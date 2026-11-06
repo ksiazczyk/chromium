@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test header for templated class trace method requirement
+// summary: Test header defining part objects and a templated class with an untraced field, used to verify the Blink GC plugin warns when a templated class requires a trace method.
+// ---
+
 #ifndef CLASS_REQUIRES_TRACE_METHOD_TMPL_H_
 #define CLASS_REQUIRES_TRACE_METHOD_TMPL_H_
 

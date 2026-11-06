@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckDispatchVisitor implementation
+// summary: Implements a visitor that verifies a method body dispatches to a method on the receiver class, used for manual trace and finalize dispatch checks.
+// ---
+
 #include "CheckDispatchVisitor.h"
 
 #include "Config.h"

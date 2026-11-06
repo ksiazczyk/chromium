@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test source for TraceWrapper
+// summary: C++ test input where class B delegates to TraceAfterDispatch to exercise wrapper tracing behaviour.
+// ---
+
 #include "trace_wrapper.h"
 
 namespace blink {

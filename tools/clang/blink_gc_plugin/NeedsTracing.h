@@ -5,6 +5,12 @@
 // NeedsTracing is a three-point value ordered by unneeded < unknown < needed.
 // Unneeded means that the point definitively does not need to be traced.
 
+// ---docerion
+// type: source
+// title: NeedsTracing header
+// summary: Defines a three-valued tracing status, ordered unneeded, unknown, needed, with a least-upper-bound operation.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_NEEDS_TRACING_H_
 #define TOOLS_BLINK_GC_PLUGIN_NEEDS_TRACING_H_
 

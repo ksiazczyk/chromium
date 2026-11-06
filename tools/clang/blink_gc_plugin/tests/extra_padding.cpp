@@ -4,6 +4,12 @@
 
 // The test relies on a 64bit target (test.py sets the triple explicitly).
 
+// ---docerion
+// type: test
+// title: Extra padding check test source
+// summary: Test source covering the extra padding check for member ordering in DISALLOW_NEW classes and its various exemptions.
+// ---
+
 #include "heap/stubs.h"
 
 namespace blink {

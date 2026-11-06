@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GC_PLUGIN_IGNORE class test fixture
+// summary: Test header defining classes marked with GC_PLUGIN_IGNORE to check that the Blink GC plugin skips ignored classes, their fields, and ignored base classes.
+// ---
+
 #ifndef IGNORE_CLASS_H_
 #define IGNORE_CLASS_H_
 

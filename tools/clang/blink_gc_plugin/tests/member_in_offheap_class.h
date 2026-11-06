@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: member_in_offheap_class test header
+// summary: Header defining off-heap, stack-allocated, and part objects with valid and invalid Member fields for plugin checks.
+// ---
+
 #ifndef MEMBER_IN_OFFHEAP_CLASS_H_
 #define MEMBER_IN_OFFHEAP_CLASS_H_
 

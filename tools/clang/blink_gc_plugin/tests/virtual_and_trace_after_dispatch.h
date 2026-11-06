@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual and trace after dispatch test header
+// summary: Header declaring garbage-collected classes that combine virtual methods with manual trace dispatch, used as plugin test input.
+// ---
+
 #ifndef VIRTUAL_AND_TRACE_AFTER_DISPATCH_H_
 #define VIRTUAL_AND_TRACE_AFTER_DISPATCH_H_
 

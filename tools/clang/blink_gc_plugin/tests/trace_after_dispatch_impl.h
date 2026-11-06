@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace after dispatch implementation test header
+// summary: Header defining garbage-collected base and derived classes used by the trace_after_dispatch_impl test case.
+// ---
+
 #ifndef TRACE_AFTER_DISPATCH_IMPL_H_
 #define TRACE_AFTER_DISPATCH_IMPL_H_
 

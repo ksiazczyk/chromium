@@ -1,0 +1,4 @@
+# Docerion header of make_unique_gc_object.txt.
+type: test
+title: make_unique_gc_object expected plugin warnings
+summary: Expected blink-gc plugin warnings for disallowed std::unique_ptr usage with garbage-collected types.

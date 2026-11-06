@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw pointer to GC managed class test header
+// summary: Test header declaring classes with raw pointer and reference fields to garbage-collected objects that the Blink GC plugin should flag.
+// ---
+
 #ifndef RAW_PTR_TO_GC_MANAGED_CLASS_H_
 #define RAW_PTR_TO_GC_MANAGED_CLASS_H_
 

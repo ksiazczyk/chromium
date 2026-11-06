@@ -1,0 +1,4 @@
+# Docerion header of weak_fields_require_tracing.txt.
+type: test
+title: Weak fields require tracing expected output
+summary: Expected blink-gc plugin diagnostics for the weak fields require tracing test, listing untraced Member, WeakMember and heap collection fields that require tracing.

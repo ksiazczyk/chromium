@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsReporter implementation
+// summary: Implements the blink-gc diagnostic messages and notes that the plugin emits for garbage collection checking errors.
+// ---
+
 #include "DiagnosticsReporter.h"
 
 #include "llvm/Support/ErrorHandling.h"

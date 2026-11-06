@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variant of GCed type test header
+// summary: Header defining garbage-collected base, derived, mixin and traceable classes used by the variant_of_gced_type test.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_VARIANT_OF_GCED_TYPE_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_VARIANT_OF_GCED_TYPE_H_
 

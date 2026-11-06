@@ -1,0 +1,4 @@
+# Docerion header of custom_multiple_namespaces.txt.
+type: test
+title: Custom multiple namespaces expected output
+summary: Expected blink-gc plugin warnings for missing trace methods on HeapObjectA and HeapObjectB in the checked namespaces.

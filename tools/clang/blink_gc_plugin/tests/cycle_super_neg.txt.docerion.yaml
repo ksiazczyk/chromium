@@ -1,0 +1,4 @@
+# Docerion header of cycle_super_neg.txt.
+type: test
+title: Cycle super negative expected empty output
+summary: Empty expected output file indicating the cycle_super_neg test should produce no plugin diagnostics.

@@ -1,0 +1,4 @@
+# Docerion header of custom_directory.flags.
+type: test
+title: Flags for custom directory check test
+summary: Compiler flags for the custom directory test, passing the blink-gc plugin a check-directory argument for custom_dir.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Off-heap collections of Members test header
+// summary: Header defining a garbage-collected Base class used by the Member collections test.
+// ---
+
 #ifndef COLLECTION_OF_MEMBERS_H_
 #define COLLECTION_OF_MEMBERS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of trace_after_dispatch_impl_error.txt.
+type: test
+title: Trace after dispatch impl error expected output
+summary: Expected blink-gc plugin warnings for the trace_after_dispatch_impl_error test, covering missing trace dispatch and untraced fields.

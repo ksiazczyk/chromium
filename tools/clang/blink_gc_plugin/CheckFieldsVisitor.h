@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckFieldsVisitor header
+// summary: Declares a visitor that flags ill-formed fields such as raw, smart or weak pointers to GC-managed types, heap-to-stack references and GC-derived part objects.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CHECK_FIELDS_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_CHECK_FIELDS_VISITOR_H_
 

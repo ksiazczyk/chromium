@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forbidden fields test header
+// summary: Declares garbage-collected classes with forbidden fields such as TaskRunnerTimer, embedded part objects, optionals, variants and smart pointers to trigger plugin warnings.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_FORBIDDEN_FIELDS_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_FORBIDDEN_FIELDS_H_
 

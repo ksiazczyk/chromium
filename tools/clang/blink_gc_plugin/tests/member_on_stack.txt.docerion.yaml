@@ -1,0 +1,4 @@
+# Docerion header of member_on_stack.txt.
+type: test
+title: Member on stack test expected output
+summary: Expected blink-gc plugin warnings for Member and WeakMember variables declared on the stack.

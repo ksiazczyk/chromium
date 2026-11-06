@@ -1,0 +1,4 @@
+# Docerion header of custom_directory.txt.
+type: test
+title: Expected warnings for custom directory test
+summary: Expected compiler output for the custom directory test, showing the warning that HeapObject in custom_dir requires a trace method and the untraced field note.

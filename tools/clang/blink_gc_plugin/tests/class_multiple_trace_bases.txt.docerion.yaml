@@ -1,0 +1,4 @@
+# Docerion header of class_multiple_trace_bases.txt.
+type: test
+title: class_multiple_trace_bases expected plugin output
+summary: Expected blink-gc plugin diagnostics for the multiple trace bases test, warning about untraced base classes requiring tracing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCed as field or variable test source
+// summary: Test source declaring GC-managed objects as local variables to verify plugin diagnostics for disallowed value semantics.
+// ---
+
 #include "gced_as_field_or_variable.h"
 
 namespace blink {

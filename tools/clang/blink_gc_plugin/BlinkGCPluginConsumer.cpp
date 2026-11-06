@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink GC plugin consumer implementation
+// summary: Implements the AST consumer that runs the Blink garbage collection invariant checks, including collection, tracing, and graph dumping.
+// ---
+
 #include "BlinkGCPluginConsumer.h"
 
 #include <algorithm>

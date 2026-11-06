@@ -4,6 +4,12 @@
 
 // Regression test for http://crbug.com/421958
 
+// ---docerion
+// type: test
+// title: Crash on invalid regression test header
+// summary: Regression test header for crbug 421958 declaring a garbage-collected Gamepad class whose invalid base and type names previously crashed the plugin.
+// ---
+
 #ifndef CRASH_ON_INVALID_H_
 #define CRASH_ON_INVALID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test source for traceable part objects in unmanaged classes
+// summary: C++ test input with valid and invalid off-heap classes holding traceable PartObject members to check plugin diagnostics.
+// ---
+
 #include "heap/stubs.h"
 
 namespace blink {

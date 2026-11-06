@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-virtual trace test header
+// summary: Header declaring garbage-collected classes whose Trace methods are non-virtual for the plugin test.
+// ---
+
 #ifndef NON_VIRTUAL_TRACE_H_
 #define NON_VIRTUAL_TRACE_H_
 

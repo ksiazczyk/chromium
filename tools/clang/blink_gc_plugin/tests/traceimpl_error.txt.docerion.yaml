@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_error.txt.
+type: test
+title: traceimpl error expected output
+summary: Expected blink-gc plugin warnings and notes for untraced fields and base classes in the traceimpl error test.
