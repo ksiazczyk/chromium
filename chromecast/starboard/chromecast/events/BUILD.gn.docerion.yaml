@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for Cast Starboard event sources
+summary: Defines GN source sets for the UI, dummy and Starboard event sources plus the starboard_event_source_test target and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeometryChangeHandler unit tests
+// summary: Verifies that geometry updates from the VideoGeometrySetterService are forwarded to SbPlayer bounds calls.
+// ---
+
 #include "chromecast/starboard/media/renderer/geometry_change_handler.h"
 
 #include "base/run_loop.h"

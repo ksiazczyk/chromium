@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Starboard CDM targets
+summary: GN build file defining source sets for the Starboard decryptor, DRM wrapper, key tracker and mocks, plus the starboard_cdm_unittests target.

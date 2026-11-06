@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Starboard adapter loader unit tests
+// summary: Unit tests for the adapter loader that use a mock library loader to simulate partner and adapter libraries and version detection scenarios.
+// ---
+
 #include "chromecast/starboard/starboard_adapter_loader.h"
 
 #include <dlfcn.h>

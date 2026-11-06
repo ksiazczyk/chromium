@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard audio decoder implementation
+// summary: Implements the Starboard audio decoder that maps Cast audio codecs and configs to Starboard SbPlayer sample info and pushes audio buffers, including volume handling.
+// ---
+
 #include "starboard_audio_decoder.h"
 
 #include <cstdint>

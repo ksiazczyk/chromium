@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tracing backend utilities for Chromecast devices
+# summary: Library providing tracing backends that connect to cast_shell over websockets to start, collect and save trace sessions from Chromecast devices.
+# ---
+
 
 """Utilities for capturing traces for chromecast devices."""
 

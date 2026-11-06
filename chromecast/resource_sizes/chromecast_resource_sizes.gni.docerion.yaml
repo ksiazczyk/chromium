@@ -1,0 +1,4 @@
+# Docerion header of chromecast_resource_sizes.gni.
+type: config
+title: GN template for Cast resource size test wrappers
+summary: Defines a GN template that generates wrapper scripts in the bin directory to run the Cast resource sizes Python tool for a given build configuration.

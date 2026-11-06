@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native bindings helper and CastBinding class declaration
+// summary: Declares V8 binding helpers for the cast.__platform__ object and the CastBinding base class that manages the lifetime of cast_shell bindings per render frame.
+// ---
+
 #ifndef CHROMECAST_RENDERER_NATIVE_BINDINGS_HELPER_H_
 #define CHROMECAST_RENDERER_NATIVE_BINDINGS_HELPER_H_
 

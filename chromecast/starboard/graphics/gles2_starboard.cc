@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard GLES2 entry points
+// summary: Implements Sb_gl* GLES2 functions that forward each call to the Starboard GLES interface, including punch-through handling for clear color alpha.
+// ---
+
 #include "chromecast/starboard/graphics/gles2_starboard.h"
 
 #include <starboard/gles.h>

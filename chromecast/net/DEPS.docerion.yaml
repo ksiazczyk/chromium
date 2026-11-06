@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast/net
+summary: Specifies which dependencies files in chromecast/net may include, such as net, mojo bindings, and network service headers.

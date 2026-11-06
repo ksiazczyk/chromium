@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardVideoPlane header
+// summary: Declares StarboardVideoPlane, a VideoPlane that lets callers register and unregister callbacks run whenever the video plane geometry changes.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_VIDEO_PLANE_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_VIDEO_PLANE_H_
 

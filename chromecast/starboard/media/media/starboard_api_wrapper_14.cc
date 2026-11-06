@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard 14 API wrapper
+// summary: Implements the StarboardApiWrapper for Starboard API version 14, mapping version-agnostic types to SbPlayer and SbDrm calls.
+// ---
+
 // Defines APIs that are specific to Starboard 14. GetStarboardApiWrapper() is
 // the public API; everything else is an implementation detail.
 // Note: We explicitly define the preprocessor macro SB_API_VERSION=14 before

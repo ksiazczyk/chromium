@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DrmInfoWrapper
+// summary: Tests DRM info extraction for unencrypted, CENC, and pattern-encrypted buffers through both Cast and Chromium decoder buffer paths.
+// ---
+
 #include "chromecast/starboard/media/media/drm_util.h"
 
 #include <array>

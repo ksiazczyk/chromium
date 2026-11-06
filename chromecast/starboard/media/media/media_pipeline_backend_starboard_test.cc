@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Starboard media pipeline backend
+// summary: Exercises backend playback, streaming mode, and decoder interactions using a mock Starboard API wrapper and mock delegates.
+// ---
+
 #include "media_pipeline_backend_starboard.h"
 
 #include "base/test/task_environment.h"

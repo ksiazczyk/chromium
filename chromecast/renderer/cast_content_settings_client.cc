@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content settings client implementation
+// summary: Implements the Chromecast renderer content settings client that allows or blocks insecure content and reports related feature use metrics.
+// ---
+
 #include "chromecast/renderer/cast_content_settings_client.h"
 
 #include "base/strings/strcat.h"

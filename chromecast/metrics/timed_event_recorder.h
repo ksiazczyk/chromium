@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timed event recorder header
+// summary: Declares TimedEventRecorder, a helper class that measures and records the time until a named event via the MetricsRecorder.
+// ---
+
 #ifndef CHROMECAST_METRICS_TIMED_EVENT_RECORDER_H_
 #define CHROMECAST_METRICS_TIMED_EVENT_RECORDER_H_
 

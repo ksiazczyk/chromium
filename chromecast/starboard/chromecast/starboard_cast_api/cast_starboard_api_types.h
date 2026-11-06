@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard PCM sample format enum header
+// summary: Defines the StarboardPcmSampleFormat enum listing little-endian interleaved PCM sample formats for resampling output.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_CHROMECAST_STARBOARD_CAST_API_CAST_STARBOARD_API_TYPES_H_
 #define CHROMECAST_STARBOARD_CHROMECAST_STARBOARD_CAST_API_CAST_STARBOARD_API_TYPES_H_
 

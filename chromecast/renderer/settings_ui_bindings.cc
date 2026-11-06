@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI bindings implementation
+// summary: Implements V8 bindings for the platform settings UI, exposing side swipe and platform info handlers and forwarding Mojo events to JavaScript callbacks.
+// ---
+
 #include "chromecast/renderer/settings_ui_bindings.h"
 
 #include <array>

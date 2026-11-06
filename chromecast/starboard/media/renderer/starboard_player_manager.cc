@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardPlayerManager implementation
+// summary: Creates and manages an SbPlayer, converting stream configs, handling DRM, and feeding DemuxerStream buffers to Starboard.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_player_manager.h"
 
 #include "base/check.h"

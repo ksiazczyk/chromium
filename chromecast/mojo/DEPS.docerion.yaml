@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chromecast mojo
+summary: Grants the chromecast mojo directory permission to include headers from mojo/public/cpp/bindings.

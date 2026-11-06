@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Starboard adapter build targets (BUILD.gn)
+summary: GN build file defining the Starboard adapter public and static source sets, a shared or static adapter library, a test-only adapter implementation, and a unit test target.

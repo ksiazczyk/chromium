@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast ignored network interfaces implementation
+// summary: Builds the set of network interfaces to ignore from Cast system info and the netifs-to-ignore command-line switch.
+// ---
+
 #include "chromecast/net/net_util_cast.h"
 
 #include "base/command_line.h"

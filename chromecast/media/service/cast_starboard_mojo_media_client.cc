@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastStarboardMojoMediaClient implementation
+// summary: Implements the Starboard-based MojoMediaClient that creates StarboardRenderer instances and delegates CDM factory creation to a callback.
+// ---
+
 #include "chromecast/media/service/cast_starboard_mojo_media_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockStreamSocket implementation
+// summary: Implements MockStreamSocket default gmock actions, returning pending reads, echoing write lengths, and providing a NetLog by default.
+// ---
+
 #include "chromecast/net/mock_stream_socket.h"
 
 #include "net/base/io_buffer.h"

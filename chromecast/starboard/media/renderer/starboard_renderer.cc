@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardRenderer implementation
+// summary: Implements the media::Renderer interface for Cast by creating a StarboardPlayerManager that drives an SbPlayer for decoding and rendering, handling initialization, volume, CDM, and metrics.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_renderer.h"
 
 #include <utility>

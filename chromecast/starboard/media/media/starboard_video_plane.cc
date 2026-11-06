@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardVideoPlane implementation
+// summary: Implements StarboardVideoPlane, which stores the current video plane geometry and runs registered geometry-changed callbacks on its creation sequence.
+// ---
+
 #include "starboard_video_plane.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast shared DEPS include rules
+summary: Declares the include directories allowed for code in chromecast/shared, covering bindings, public media, and cast_core proto bindings.

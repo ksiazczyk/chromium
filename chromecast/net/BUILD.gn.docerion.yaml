@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for Cast networking
+summary: Defines GN source sets for Cast networking utilities and the cast_net_unittests test target, with platform-conditional sources and dependencies.

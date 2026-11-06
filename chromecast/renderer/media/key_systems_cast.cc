@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast EME key system support
+// summary: Registers Chromecast media key systems, computing supported EME codecs and configuring Widevine with hardware-secure robustness and persistent state support.
+// ---
+
 #include "chromecast/renderer/media/key_systems_cast.h"
 
 #include <optional>

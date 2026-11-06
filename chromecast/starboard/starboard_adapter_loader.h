@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard adapter loader interface
+// summary: Declares the StarboardAdapterLoader interface and LibraryLoader abstraction for loading partner and adapter libraries at runtime.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_STARBOARD_ADAPTER_LOADER_H_
 #define CHROMECAST_STARBOARD_STARBOARD_ADAPTER_LOADER_H_
 

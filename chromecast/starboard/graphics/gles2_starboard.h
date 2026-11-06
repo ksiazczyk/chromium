@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard GLES2 function declarations
+// summary: Declares the exported Sb_gl* GLES2 entry points so they resolve in libGL_starboard.so via Sb_eglGetProcAddress and dlsym.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_GRAPHICS_GLES2_STARBOARD_H_
 #define CHROMECAST_STARBOARD_GRAPHICS_GLES2_STARBOARD_H_
 

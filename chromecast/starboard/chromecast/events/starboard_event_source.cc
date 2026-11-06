@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard event source implementation
+// summary: Translates Starboard SbEvent input and graphics data into ui::Event values, including key code mapping and render root transform handling.
+// ---
+
 #include "chromecast/starboard/chromecast/events/starboard_event_source.h"
 
 #include <cmath>

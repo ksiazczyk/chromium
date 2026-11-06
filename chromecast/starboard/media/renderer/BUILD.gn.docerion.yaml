@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Starboard media renderer
+summary: GN build file defining source sets for the renderer components and the starboard_renderer_unittests test target with their dependencies.

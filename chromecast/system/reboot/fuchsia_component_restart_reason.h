@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia component restart reason header
+// summary: Declares a class that determines the component restart reason from temp flag files, with hooks for teardown registration and testing.
+// ---
+
 #ifndef CHROMECAST_SYSTEM_REBOOT_FUCHSIA_COMPONENT_RESTART_REASON_H_
 #define CHROMECAST_SYSTEM_REBOOT_FUCHSIA_COMPONENT_RESTART_REASON_H_
 

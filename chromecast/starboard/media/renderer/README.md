@@ -1,3 +1,9 @@
+---
+type: readme
+title: Starboard renderer directory overview
+summary: Describes the StarboardRenderer and helper classes that replace CastRenderer and the CMA pipeline in linux cast builds, and the advantages of the new approach.
+---
+
 This directory contains the StarboardRenderer class and other helper classes
 that implement various parts of the renderer's functionality.
 

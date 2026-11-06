@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientStatsTracker class declaration
+// summary: Declares a class that tracks media stats from buffers pushed to Starboard and reports them to a RendererClient at most once every five seconds.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_CLIENT_STATS_TRACKER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_CLIENT_STATS_TRACKER_H_
 

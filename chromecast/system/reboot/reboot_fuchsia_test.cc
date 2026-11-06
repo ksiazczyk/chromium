@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia reboot unit tests
+// summary: Tests the Fuchsia RebootShlib and restart reason logic using fake FIDL services and parameterized reboot and restart reason cases.
+// ---
+
 #include <fuchsia/feedback/cpp/fidl.h>
 #include <fuchsia/feedback/cpp/fidl_test_base.h>
 #include <fuchsia/hardware/power/statecontrol/cpp/fidl.h>

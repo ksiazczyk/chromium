@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteInterfaces client helper header
+// summary: Declares RemoteInterfaces, a client wrapper around a mojo Remote provider that binds and dispenses remotes for interfaces exposed remotely.
+// ---
+
 #ifndef CHROMECAST_MOJO_REMOTE_INTERFACES_H_
 #define CHROMECAST_MOJO_REMOTE_INTERFACES_H_
 

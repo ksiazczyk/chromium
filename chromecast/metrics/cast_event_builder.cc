@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast event builder launch-from proto helper
+// summary: Implements CastEventBuilder::SetLaunchFromProto, mapping the LaunchFrom enum to CastLogs proto values.
+// ---
+
 #include "chromecast/metrics/cast_event_builder.h"
 
 #include "third_party/metrics_proto/cast_logs.pb.h"

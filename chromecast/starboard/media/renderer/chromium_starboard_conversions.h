@@ -5,6 +5,12 @@
 // Contains functions for converting chromium structs to equivalent starboard
 // structs.
 
+// ---docerion
+// type: source
+// title: Chromium to Starboard media struct conversion declarations
+// summary: Declares functions that convert Chromium AudioDecoderConfig and VideoDecoderConfig into Starboard audio and video sample info structures.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_CHROMIUM_STARBOARD_CONVERSIONS_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_CHROMIUM_STARBOARD_CONVERSIONS_H_
 

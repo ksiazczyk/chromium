@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsRecorder interface
+// summary: Declares the MetricsRecorder base class and free functions for recording Cast events, actions, and time, count, and enum histograms.
+// ---
+
 #ifndef CHROMECAST_METRICS_METRICS_RECORDER_H_
 #define CHROMECAST_METRICS_METRICS_RECORDER_H_
 

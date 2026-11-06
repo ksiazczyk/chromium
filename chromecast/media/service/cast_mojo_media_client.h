@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMojoMediaClient class declaration
+// summary: Declares CastMojoMediaClient, a MojoMediaClient that builds cast renderers using the CMA backend factory, video mode switcher, resolution policy, and geometry setter service.
+// ---
+
 #ifndef CHROMECAST_MEDIA_SERVICE_CAST_MOJO_MEDIA_CLIENT_H_
 #define CHROMECAST_MEDIA_SERVICE_CAST_MOJO_MEDIA_CLIENT_H_
 

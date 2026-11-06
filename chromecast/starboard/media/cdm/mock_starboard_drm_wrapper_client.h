@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Starboard DRM wrapper client
+// summary: Declares a gmock mock of StarboardDrmWrapper::Client whose construction simulates a CDM being created, mocking session and key callbacks.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_CDM_MOCK_STARBOARD_DRM_WRAPPER_CLIENT_H_
 #define CHROMECAST_STARBOARD_MEDIA_CDM_MOCK_STARBOARD_DRM_WRAPPER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityCheckerImpl implementation
+// summary: Implements periodic HTTP HEAD connectivity probes with configurable probe periods, error thresholds, network change handling, and metrics reporting for Cast.
+// ---
+
 #include "chromecast/net/connectivity_checker_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Starboard include rules
+summary: Lists the directories that code under chromecast/starboard is allowed to include from.

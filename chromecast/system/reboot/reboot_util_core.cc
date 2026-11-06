@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RebootUtil core implementation
+// summary: Implements the platform-independent part of RebootUtil, including reboot source validation, reboot dispatch, and test reboot callbacks.
+// ---
+
 #include "chromecast/system/reboot/reboot_util.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec to MIME type mapping declarations
+// summary: Declares functions returning MIME strings for Cast and Chromium audio and video codecs, with an empty string when a type cannot be determined.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_MIME_UTILS_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_MIME_UTILS_H_
 

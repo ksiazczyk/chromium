@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content settings client header
+// summary: Declares the Chromecast blink::WebContentSettingsClient implementation that controls insecure content decisions per render frame.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_CONTENT_SETTINGS_CLIENT_H_
 #define CHROMECAST_RENDERER_CAST_CONTENT_SETTINGS_CLIENT_H_
 

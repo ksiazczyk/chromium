@@ -1,0 +1,4 @@
+# Docerion header of test_interfaces.test-mojom.
+type: test
+title: Simple Mojom interfaces for testing
+summary: Defines basic String, Int, and Bool Mojom interfaces in the chromecast.test.mojom module for use in tests.

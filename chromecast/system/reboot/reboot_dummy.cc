@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RebootShlib stub implementation
+// summary: Provides a no-op RebootShlib implementation that reports rebooting and related features as unsupported and aborts on unsupported calls.
+// ---
+
 #include "chromecast/public/reboot_shlib.h"
 
 #include <stdlib.h>  // abort()

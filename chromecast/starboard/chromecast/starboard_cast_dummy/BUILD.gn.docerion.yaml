@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the starboard_cast_dummy shared library
+summary: Defines the cast_starboard_api shared library target that builds the dummy Starboard implementation with its defines, configs, and dependencies.

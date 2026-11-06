@@ -7,6 +7,12 @@
 // If more fine-grained matchers are needed in multiple tests, they can be moved
 // from the .cc file to this header.
 
+// ---docerion
+// type: source
+// title: Starboard test matchers header
+// summary: Declares gmock matchers for Starboard sample info, DRM info, and player creation param structs for use in tests.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_TEST_MATCHERS_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_TEST_MATCHERS_H_
 

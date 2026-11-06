@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardBufferingTracker implementation
+// summary: Detects SbPlayer buffering from player state and buffer pushes, reporting initial and post-underrun buffering to Cast metrics.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_buffering_tracker.h"
 
 #include <optional>

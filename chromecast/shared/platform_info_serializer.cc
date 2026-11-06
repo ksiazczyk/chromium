@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform info serializer implementation
+// summary: Implements PlatformInfoSerializer, serializing Cast receiver media capabilities such as codecs, HDR, and HDMI support into base64 protobuf messages.
+// ---
+
 #include "chromecast/shared/platform_info_serializer.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockStreamSocket Google Mock declaration
+// summary: Declares MockStreamSocket, a Google Mock implementation of net::StreamSocket with mocked read, write, connect, and related socket methods.
+// ---
+
 #ifndef CHROMECAST_NET_MOCK_STREAM_SOCKET_H_
 #define CHROMECAST_NET_MOCK_STREAM_SOCKET_H_
 

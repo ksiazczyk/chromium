@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectivityChecker declaration
+// summary: Declares a simple fake ConnectivityChecker for testing that appears connected by default and can change its reported state.
+// ---
+
 #ifndef CHROMECAST_NET_FAKE_CONNECTIVITY_CHECKER_H_
 #define CHROMECAST_NET_FAKE_CONNECTIVITY_CHECKER_H_
 

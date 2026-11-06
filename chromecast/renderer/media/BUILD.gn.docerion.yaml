@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast renderer media build definition
+summary: Defines the media source set for the Chromecast renderer, listing key system and media capabilities sources together with their build dependencies.

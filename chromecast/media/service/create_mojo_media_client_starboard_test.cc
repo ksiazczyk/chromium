@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cast Mojo media client creation
+// summary: Unit tests verifying that CreateMojoMediaClientForCast returns a Starboard client when the feature flag is enabled and a CMA client otherwise.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

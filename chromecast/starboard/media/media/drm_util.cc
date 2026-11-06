@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmInfoWrapper implementation
+// summary: Converts Chromium decrypt configs into Starboard DRM sample info, copying IVs, key IDs, and subsample mappings with size validation.
+// ---
+
 #include "chromecast/starboard/media/media/drm_util.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Starboard graphics build targets (BUILD.gn)
+summary: Defines the GL_starboard shared library, the graphics source set, and the libcast_graphics_1.0_starboard target, switching between real and dummy sources via remove_starboard_headers.

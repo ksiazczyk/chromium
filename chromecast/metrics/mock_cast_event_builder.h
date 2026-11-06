@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock and fake CastEventBuilder declarations
+// summary: Declares MockCastEventBuilder with gmock methods and FakeCastEventBuilder storing event fields, supporting metrics unit tests.
+// ---
+
 #ifndef CHROMECAST_METRICS_MOCK_CAST_EVENT_BUILDER_H_
 #define CHROMECAST_METRICS_MOCK_CAST_EVENT_BUILDER_H_
 

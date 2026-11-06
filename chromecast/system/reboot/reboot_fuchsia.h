@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia reboot helpers header
+// summary: Declares helpers to inject a service directory, reset restart checks, and change the flag file directory for testing the Fuchsia reboot code.
+// ---
+
 #ifndef CHROMECAST_SYSTEM_REBOOT_REBOOT_FUCHSIA_H_
 #define CHROMECAST_SYSTEM_REBOOT_REBOOT_FUCHSIA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastService abstract base class declaration
+// summary: Declares the CastService base class with public lifecycle methods and pure virtual hooks for implementation-specific initialize, finalize, start, and stop behavior.
+// ---
+
 #ifndef CHROMECAST_SERVICE_CAST_SERVICE_H_
 #define CHROMECAST_SERVICE_CAST_SERVICE_H_
 

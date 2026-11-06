@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ftrace control implementation
+// summary: Implements control of kernel ftrace through tracefs, including category event selection, start, stop, time sync marker, and buffer reading.
+// ---
+
 #include "chromecast/tracing/ftrace.h"
 
 #include <fcntl.h>

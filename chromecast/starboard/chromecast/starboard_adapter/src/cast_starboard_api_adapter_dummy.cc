@@ -7,6 +7,12 @@
 //
 // TODO(b/333131992): remove this
 
+// ---docerion
+// type: source
+// title: Dummy CastStarboardApiAdapter stub for builds without Starboard headers
+// summary: Provides a stub GetInstance() that returns null so the adapter can compile without Starboard headers; it must never be used in production.
+// ---
+
 #include <iostream>
 
 #include "chromecast/starboard/chromecast/starboard_adapter/public/cast_starboard_api_adapter.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform info serializer unit tests
+// summary: GTest suite verifying that platform capability properties round-trip correctly through serialize and deserialize operations.
+// ---
+
 #include "chromecast/shared/platform_info_serializer.h"
 
 #include "chromecast/public/media/decoder_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard video decoder implementation
+// summary: Implements the Starboard video decoder, mapping Cast video codecs and configs, including HDR and color metadata, to Starboard SbPlayer sample info.
+// ---
+
 #include "starboard_video_decoder.h"
 
 #include <algorithm>

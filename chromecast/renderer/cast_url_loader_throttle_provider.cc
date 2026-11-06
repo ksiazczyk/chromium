@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast URL loader throttle provider implementation
+// summary: Creates activity URL filtering throttles for resource requests using the Cast activity URL filter manager.
+// ---
+
 #include "chromecast/renderer/cast_url_loader_throttle_provider.h"
 
 #include <string>

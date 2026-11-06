@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardPlayerManager class declaration
+// summary: Declares the SbPlayer manager responsible for playback start, flush, rate, volume, media time, and client stats updates.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_PLAYER_MANAGER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_PLAYER_MANAGER_H_
 

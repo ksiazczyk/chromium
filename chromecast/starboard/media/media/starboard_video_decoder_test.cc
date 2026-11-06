@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StarboardVideoDecoder unit tests
+// summary: Unit tests for StarboardVideoDecoder covering video config mapping, buffer pushing, encryption schemes, and statistics across SbPlayer recreations.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_video_decoder.h"
 
 #include <optional>

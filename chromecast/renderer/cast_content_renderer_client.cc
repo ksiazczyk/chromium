@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content renderer client implementation
+// summary: Implements the Cast renderer client, wiring media codec support, URL loader and WebSocket throttles, script injection, and runtime features.
+// ---
+
 #include "chromecast/renderer/cast_content_renderer_client.h"
 
 #include <optional>

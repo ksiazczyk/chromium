@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracer client implementation
+// summary: Implements the SystemTracer client that connects to the tracing daemon over a Unix socket to start and stop tracing and collect trace data.
+// ---
+
 #include "chromecast/tracing/system_tracer.h"
 
 #include <sys/socket.h>

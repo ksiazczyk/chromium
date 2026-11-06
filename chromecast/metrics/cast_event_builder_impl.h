@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast event builder implementation header
+// summary: Declares CastEventBuilderImpl, the concrete CastEventBuilder that builds Cast event protos.
+// ---
+
 #ifndef CHROMECAST_METRICS_CAST_EVENT_BUILDER_IMPL_H_
 #define CHROMECAST_METRICS_CAST_EVENT_BUILDER_IMPL_H_
 

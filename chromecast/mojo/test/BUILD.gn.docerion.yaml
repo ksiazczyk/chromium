@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Chromecast Mojo tests
+summary: Defines the test_mojom Mojom target and the run_all_unittests static library used to build the Chromecast Mojo test suite.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast activity URL filter manager header
+// summary: Declares the manager that accepts URL filter criteria via Mojo and builds URL matchers used to filter web requests per render frame.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_ACTIVITY_URL_FILTER_MANAGER_H_
 #define CHROMECAST_RENDERER_CAST_ACTIVITY_URL_FILTER_MANAGER_H_
 

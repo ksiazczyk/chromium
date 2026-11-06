@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardVideoDecoder header
+// summary: Declares StarboardVideoDecoder, a video decoder that pushes buffers to a Starboard SbPlayer while tracking statistics, resolution changes, and player recreation.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_VIDEO_DECODER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_VIDEO_DECODER_H_
 

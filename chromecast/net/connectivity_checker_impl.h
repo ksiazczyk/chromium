@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityCheckerImpl declaration
+// summary: Declares ConnectivityCheckerImpl, its error type enum, and the default HTTP and HTTPS connectivity check URLs that expect HTTP 204 responses.
+// ---
+
 #ifndef CHROMECAST_NET_CONNECTIVITY_CHECKER_IMPL_H_
 #define CHROMECAST_NET_CONNECTIVITY_CHECKER_IMPL_H_
 

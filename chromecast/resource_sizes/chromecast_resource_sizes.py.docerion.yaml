@@ -1,0 +1,4 @@
+# Docerion header of chromecast_resource_sizes.py.
+type: script
+title: Cast binary size metrics reporting script
+summary: Command-line tool that reports binary size metrics for Cast build artifacts, tracking raw, stripped, and gzipped sizes of groups such as cast_shell and locale files.

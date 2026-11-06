@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BinderFactory unit tests
+// summary: Unit tests covering BinderFactory binding, GetBinder, factory lifetime invalidation, and MultiBinderFactory behavior using mock test mojom interfaces.
+// ---
+
 #include "chromecast/mojo/binder_factory.h"
 
 #include <string>

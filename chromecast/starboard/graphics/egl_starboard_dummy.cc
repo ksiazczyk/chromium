@@ -7,6 +7,12 @@
 //
 // TODO(b/333131992): remove this
 
+// ---docerion
+// type: source
+// title: Dummy Starboard EGL implementation
+// summary: Provides stub Sb_egl* implementations so the library can compile without Starboard headers; it should never be used in production.
+// ---
+
 #include "chromecast/starboard/graphics/egl_starboard.h"
 
 extern "C" {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Starboard media sources and tests
+summary: Defines GN source sets and test targets for the Starboard media backend, DRM utilities, MIME utils, and versioned Starboard API wrappers.

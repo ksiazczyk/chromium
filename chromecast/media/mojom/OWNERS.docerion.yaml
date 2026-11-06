@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for chromecast media mojom files
+summary: Delegates review of mojom, typemap and traits files in this directory to the ipc SECURITY_OWNERS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Starboard DRM key tracker unit tests
+// summary: Unit tests covering key addition and removal, per-session cleanup, wait-for-key callbacks and callback unregistration.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_drm_key_tracker.h"
 
 #include "base/test/bind.h"

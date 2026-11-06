@@ -1,0 +1,4 @@
+# Docerion header of chromecast_resource_sizes.pydeps.
+type: config
+title: Python dependency list for chromecast_resource_sizes.py
+summary: Generated list of Python module dependencies for the Cast resource sizes script, used by the build to declare the tool's inputs.

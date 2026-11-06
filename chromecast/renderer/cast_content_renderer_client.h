@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content renderer client header
+// summary: Declares the Cast ContentRendererClient subclass, its media capabilities observer role, and hooks for frames, key systems, and throttles.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_CONTENT_RENDERER_CLIENT_H_
 #define CHROMECAST_RENDERER_CAST_CONTENT_RENDERER_CLIENT_H_
 

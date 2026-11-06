@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard decoder base class implementation
+// summary: Implements StarboardDecoder, the shared base for audio and video decoders, managing buffer lifetime, in-flight writes, DRM key tracking, and player lifecycle.
+// ---
+
 #include "starboard_decoder.h"
 
 #include <utility>

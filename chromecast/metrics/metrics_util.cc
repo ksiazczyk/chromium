@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics utility implementation
+// summary: Implements GetIPAddressFragmentForLogging, packing the last two bytes of a valid IPv4 or IPv6 sender address for privacy-conscious logging.
+// ---
+
 #include "chromecast/metrics/metrics_util.h"
 
 #include "base/logging.h"

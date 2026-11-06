@@ -1,0 +1,4 @@
+# Docerion header of starboard_adapter.gni.
+type: config
+title: Starboard adapter library template
+summary: Defines the starboard_adapter_library GN template that builds versioned Starboard adapter shared libraries with matching SB_API_VERSION.

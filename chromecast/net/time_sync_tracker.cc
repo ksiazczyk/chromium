@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time sync tracker base implementation
+// summary: Implements observer list management and notification for the base TimeSyncTracker class.
+// ---
+
 #include "chromecast/net/time_sync_tracker.h"
 
 namespace chromecast {

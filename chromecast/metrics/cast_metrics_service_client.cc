@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast metrics service client implementation
+// summary: Implements CastMetricsServiceClient, wiring Chromium's MetricsService to Cast-specific channels, prefs, and uploads.
+// ---
+
 #include "chromecast/metrics/cast_metrics_service_client.h"
 
 #include <string>

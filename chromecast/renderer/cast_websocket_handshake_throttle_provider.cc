@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast WebSocket handshake throttle provider implementation
+// summary: Provides WebSocket handshake throttles that delay or block handshakes based on the Cast activity URL filter.
+// ---
+
 #include "chromecast/renderer/cast_websocket_handshake_throttle_provider.h"
 
 #include "base/feature_list.h"

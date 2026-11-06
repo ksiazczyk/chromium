@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock and fake CastEventBuilder implementations
+// summary: Implements gmock-based MockCastEventBuilder and a stateful FakeCastEventBuilder that record event fields for use in metrics tests.
+// ---
+
 #include "chromecast/metrics/mock_cast_event_builder.h"
 
 using ::testing::_;

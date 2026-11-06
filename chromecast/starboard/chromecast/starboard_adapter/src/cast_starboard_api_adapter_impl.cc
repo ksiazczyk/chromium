@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastStarboardApiAdapterImpl implementation
+// summary: Implements the singleton Starboard adapter that starts and stops Starboard, routes SbEvents to subscribers, and manages teardown across SB API versions.
+// ---
+
 #include "chromecast/starboard/chromecast/starboard_adapter/src/cast_starboard_api_adapter_impl.h"
 
 #include <dlfcn.h>

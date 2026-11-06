@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file that defines a cast_test_group bundling the Starboard event source and adapter tests.

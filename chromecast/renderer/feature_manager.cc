@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast renderer feature manager implementation
+// summary: Implements the renderer-side FeatureManager that applies Cast feature configuration from the browser and installs V8 bindings such as settings UI, window manager, and demo bindings.
+// ---
+
 #include "chromecast/renderer/feature_manager.h"
 
 #include <iostream>

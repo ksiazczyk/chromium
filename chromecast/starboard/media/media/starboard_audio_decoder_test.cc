@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Starboard audio decoder unit tests
+// summary: Unit tests for StarboardAudioDecoder verifying codec mapping, audio sample info conversion, and buffer pushing using a mocked Starboard API wrapper.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_audio_decoder.h"
 
 #include <cstdint>

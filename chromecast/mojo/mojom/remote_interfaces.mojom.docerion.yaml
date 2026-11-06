@@ -1,0 +1,4 @@
+# Docerion header of remote_interfaces.mojom.
+type: source
+title: RemoteInterfaces Mojo interface definition
+summary: Defines the Cast-only RemoteInterfaces Mojo interface for binding message pipes to named interfaces in privileged processes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectivityCheckerImpl unit tests
+// summary: Tests ConnectivityCheckerImpl behavior, including probe periods, error handling, and connection tracking, using fake trackers and test URL loader factories.
+// ---
+
 #include "chromecast/net/connectivity_checker_impl.h"
 
 #include <memory>

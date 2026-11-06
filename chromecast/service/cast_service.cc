@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastService lifecycle implementation
+// summary: Implements the CastService Initialize, Finalize, Start, and Stop methods with thread checks and a run loop drain before stopping.
+// ---
+
 #include "chromecast/service/cast_service.h"
 
 #include "base/check.h"

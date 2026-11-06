@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast renderer include rules
+summary: DEPS file listing the directories and headers that code in chromecast/renderer is allowed to include.

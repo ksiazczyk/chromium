@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinderFactory template for binding mojo interfaces
+// summary: Header defining BinderFactory and MultiBinderFactory helpers that bind mojo PendingReceivers to interface implementations for use with BinderRegistry.
+// ---
+
 #ifndef CHROMECAST_MOJO_BINDER_FACTORY_H_
 #define CHROMECAST_MOJO_BINDER_FACTORY_H_
 

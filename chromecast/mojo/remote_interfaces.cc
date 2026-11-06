@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteInterfaces implementation
+// summary: Implements RemoteInterfaces provider wiring, pipe fusing, forwarding, receiver access, and forwarding interface bind requests to the provider.
+// ---
+
 #include "chromecast/mojo/remote_interfaces.h"
 
 #include "base/check.h"

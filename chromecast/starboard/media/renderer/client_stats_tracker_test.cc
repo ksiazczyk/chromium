@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClientStatsTracker
+// summary: Unit tests verifying audio and video statistics updates, rate limiting and metric reporting behavior of the ClientStatsTracker class.
+// ---
+
 #include "chromecast/starboard/media/renderer/client_stats_tracker.h"
 
 #include <array>

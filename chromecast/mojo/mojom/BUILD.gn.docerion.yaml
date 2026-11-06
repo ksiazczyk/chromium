@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Cast Mojo mojom target
+summary: Defines the GN mojom target that builds remote_interfaces.mojom into Mojo bindings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiEventSource interface declaration
+// summary: Declares the abstract UiEventSource with a platform-provided Create factory and a ShouldDispatchEvent filter for events sent to a platform window delegate.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_CHROMECAST_EVENTS_UI_EVENT_SOURCE_H_
 #define CHROMECAST_STARBOARD_CHROMECAST_EVENTS_UI_EVENT_SOURCE_H_
 

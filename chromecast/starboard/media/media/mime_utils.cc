@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec to MIME type mapping implementation
+// summary: Maps Cast audio and video codecs, profiles, and levels to MIME strings, including Dolby Vision and H.264 profile handling, for Starboard support checks.
+// ---
+
 #include "chromecast/starboard/media/media/mime_utils.h"
 
 #include <limits>

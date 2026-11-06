@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform info serializer header
+// summary: Declares the PlatformInfoSerializer class with audio and video codec info structs plus getters and setters for Cast receiver media capability properties.
+// ---
+
 #ifndef CHROMECAST_SHARED_PLATFORM_INFO_SERIALIZER_H_
 #define CHROMECAST_SHARED_PLATFORM_INFO_SERIALIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsRecorder implementation
+// summary: Implements the MetricsRecorder singleton, static event and histogram recording helpers, and a no-op event builder for Cast receiver metrics.
+// ---
+
 #include "chromecast/metrics/metrics_recorder.h"
 
 #include <stdint.h>

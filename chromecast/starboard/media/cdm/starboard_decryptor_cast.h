@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardDecryptorCast class declaration
+// summary: Declares StarboardDecryptorCast, a CastCdm and StarboardDrmWrapper::Client implementation that delegates decryption to Starboard, Widevine only.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DECRYPTOR_CAST_H_
 #define CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DECRYPTOR_CAST_H_
 

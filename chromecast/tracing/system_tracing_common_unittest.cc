@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tracing common unit tests
+// summary: Unit tests verifying the tracing server socket is not world-accessible, restores the umask, replaces stale nodes, and authorizes same-user peers.
+// ---
+
 #include "chromecast/tracing/system_tracing_common.h"
 
 #include <sys/socket.h>

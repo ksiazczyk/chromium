@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queryable data store class declaration
+// summary: Declares QueryableDataStore, a Mojo service that syncs queryable data from the browser process onto the renderer thread.
+// ---
+
 #ifndef CHROMECAST_RENDERER_QUERYABLE_DATA_STORE_H_
 #define CHROMECAST_RENDERER_QUERYABLE_DATA_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastStarboardApiAdapter proxy routing to StarboardAdapterLoader
+// summary: Routes CastStarboardApiAdapter::GetInstance() calls to StarboardAdapterLoader, which probes and loads the correct versioned adapter library at runtime.
+// ---
+
 #include "base/check.h"
 #include "chromecast/starboard/chromecast/starboard_adapter/public/cast_starboard_api_adapter.h"
 #include "chromecast/starboard/starboard_adapter_loader.h"

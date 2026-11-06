@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InterfaceBundle unit tests
+// summary: Unit tests covering example usage, lifetime invalidation of dispensed remotes, and late binding scenarios for InterfaceBundle.
+// ---
+
 #include "chromecast/mojo/interface_bundle.h"
 
 #include <string>

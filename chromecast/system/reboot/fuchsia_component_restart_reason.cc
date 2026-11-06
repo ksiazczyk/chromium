@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia component restart reason implementation
+// summary: Tracks whether the Cast component restarted gracefully or ungracefully by creating and inspecting temp flag files that are cleared on reboot.
+// ---
+
 #include "chromecast/system/reboot/fuchsia_component_restart_reason.h"
 #include "base/files/file.h"
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterfaceBundle header combining registry and remotes
+// summary: Declares InterfaceBundle, which hosts local mojo interface implementations like a BinderRegistry and dispenses RemoteInterfaces remotes to clients.
+// ---
+
 #ifndef CHROMECAST_MOJO_INTERFACE_BUNDLE_H_
 #define CHROMECAST_MOJO_INTERFACE_BUNDLE_H_
 

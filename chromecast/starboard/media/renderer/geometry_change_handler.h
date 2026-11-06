@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeometryChangeHandler class declaration
+// summary: Declares a handler that subscribes to video geometry changes and updates SbPlayer bounds, pending until a player is set.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_GEOMETRY_CHANGE_HANDLER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_GEOMETRY_CHANGE_HANDLER_H_
 

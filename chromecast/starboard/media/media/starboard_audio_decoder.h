@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard audio decoder header
+// summary: Declares StarboardAudioDecoder, an audio decoder that sends buffers to a Starboard SbPlayer with config, volume, rendering delay, and statistics interfaces.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_AUDIO_DECODER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_AUDIO_DECODER_H_
 

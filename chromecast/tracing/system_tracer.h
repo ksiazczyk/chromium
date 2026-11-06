@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tracer interface
+// summary: Declares the SystemTracer abstract class for starting and stopping system tracing with status and trace data callbacks.
+// ---
+
 #ifndef CHROMECAST_TRACING_SYSTEM_TRACER_H_
 #define CHROMECAST_TRACING_SYSTEM_TRACER_H_
 

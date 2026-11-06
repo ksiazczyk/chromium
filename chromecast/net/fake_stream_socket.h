@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeStreamSocket for in-memory socket pairs
+// summary: Declares FakeStreamSocket, a fake net::StreamSocket that communicates with a peer instance in memory, with an optional bad sender mode for tests.
+// ---
+
 #ifndef CHROMECAST_NET_FAKE_STREAM_SOCKET_H_
 #define CHROMECAST_NET_FAKE_STREAM_SOCKET_H_
 

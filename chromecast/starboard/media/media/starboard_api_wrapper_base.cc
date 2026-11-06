@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard API wrapper base implementation
+// summary: Implements the Starboard player and DRM functions shared by all Starboard versions, including callback dispatch and struct conversion.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_api_wrapper_base.h"
 
 #include <starboard/drm.h>

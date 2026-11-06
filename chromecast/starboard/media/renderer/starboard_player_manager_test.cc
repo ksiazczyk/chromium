@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StarboardPlayerManager unit tests
+// summary: Exercises StarboardPlayerManager playback flows with mock demuxer streams, Starboard API, DRM wrapper, and metrics.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_player_manager.h"
 
 #include <array>

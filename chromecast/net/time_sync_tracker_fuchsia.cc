@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia time sync tracker implementation
+// summary: Implements the Fuchsia time sync tracker by watching the Zircon UTC clock handle for signals indicating external time sync.
+// ---
+
 #include "chromecast/net/time_sync_tracker_fuchsia.h"
 
 #include <lib/zx/clock.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics utility interface
+// summary: Declares GetIPAddressFragmentForLogging, which packs partial sender IP fragments for logging in discovery and connection metrics.
+// ---
+
 #ifndef CHROMECAST_METRICS_METRICS_UTIL_H_
 #define CHROMECAST_METRICS_METRICS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeometryChangeHandler implementation
+// summary: Applies video geometry changes from the VideoGeometrySetterService to an SbPlayer's bounds, defaulting to fullscreen.
+// ---
+
 #include "chromecast/starboard/media/renderer/geometry_change_handler.h"
 
 #include "base/check.h"

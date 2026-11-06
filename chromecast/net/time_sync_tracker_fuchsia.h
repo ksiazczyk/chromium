@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia time sync tracker header
+// summary: Declares the Fuchsia implementation of TimeSyncTracker that watches the Zircon UTC clock for time sync signals.
+// ---
+
 #ifndef CHROMECAST_NET_TIME_SYNC_TRACKER_FUCHSIA_H_
 #define CHROMECAST_NET_TIME_SYNC_TRACKER_FUCHSIA_H_
 

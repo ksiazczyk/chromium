@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsRecorderBase implementation
+// summary: Implements timeline measurement and event recording methods of MetricsRecorderBase using an injectable tick clock.
+// ---
+
 #include "chromecast/metrics/metrics_recorder_base.h"
 
 namespace chromecast {
