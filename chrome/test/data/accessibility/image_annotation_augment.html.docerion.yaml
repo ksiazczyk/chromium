@@ -1,0 +1,4 @@
+# Docerion header of image_annotation_augment.html.
+type: test
+title: Image annotation augment test page
+summary: Test page mixing images with meaningful alt text, stopwords-only alt text, and filename-like alt text to test which images receive augmented annotations.

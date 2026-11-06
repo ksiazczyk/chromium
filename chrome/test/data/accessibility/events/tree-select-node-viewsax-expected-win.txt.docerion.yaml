@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-viewsax-expected-win.txt.
+type: test
+title: Tree select node expected events on Windows
+summary: Expected Windows accessibility event for tree node selection, recording EVENT_OBJECT_SELECTION on the Child 2 outline item.

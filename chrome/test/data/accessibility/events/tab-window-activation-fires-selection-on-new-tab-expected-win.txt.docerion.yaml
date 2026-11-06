@@ -1,0 +1,4 @@
+# Docerion header of tab-window-activation-fires-selection-on-new-tab-expected-win.txt.
+type: test
+title: Tab activation selection events on new tab expected (Windows)
+summary: Expected Windows selection events fired when tab window activation selects a new tab.

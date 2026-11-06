@@ -1,0 +1,4 @@
+# Docerion header of in_page_links.html.
+type: test
+title: In-page links test page
+summary: Test page with a button, an in-page anchor link and several headings used to verify accessibility of in-page link navigation.

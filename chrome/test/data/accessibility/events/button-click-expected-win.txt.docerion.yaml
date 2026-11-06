@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-win.txt.
+type: test
+title: Button Click Windows IA2 Expectation
+summary: Expected Windows IA2 EVENT_OBJECT_STATECHANGE events on the test push button for the button click test.

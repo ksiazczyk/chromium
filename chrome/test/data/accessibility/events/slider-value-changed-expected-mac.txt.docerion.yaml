@@ -1,0 +1,4 @@
+# Docerion header of slider-value-changed-expected-mac.txt.
+type: test
+title: Slider value changed expected events (macOS)
+summary: Expected macOS accessibility events emitted when a slider's value changes in the event test.

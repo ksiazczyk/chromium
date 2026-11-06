@@ -1,0 +1,4 @@
+# Docerion header of button-focus-expected-auralinux.txt.
+type: test
+title: Button Focus Linux ATK Expectation
+summary: Expected Linux ATK focus event and focused state change when the test button receives focus.

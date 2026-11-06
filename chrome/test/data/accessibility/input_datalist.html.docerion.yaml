@@ -1,0 +1,4 @@
+# Docerion header of input_datalist.html.
+type: test
+title: Input datalist test page
+summary: Test page with an input bound to a datalist via the list attribute and a checkbox role element, for accessibility testing.

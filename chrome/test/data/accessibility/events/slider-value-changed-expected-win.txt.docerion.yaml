@@ -1,0 +1,4 @@
+# Docerion header of slider-value-changed-expected-win.txt.
+type: test
+title: Slider value changed expected events (Windows)
+summary: Expected Windows accessibility events emitted when a slider's value changes in the event test.

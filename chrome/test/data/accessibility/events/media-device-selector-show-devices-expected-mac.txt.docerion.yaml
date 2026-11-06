@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-show-devices-expected-mac.txt.
+type: test
+title: Expected device selector show-devices events on Mac
+summary: Empty expected accessibility event output for showing media device selector devices on macOS.

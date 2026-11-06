@@ -1,0 +1,4 @@
+# Docerion header of textfield-text-selection-changed-expected-uia-win.txt.
+type: test
+title: Textfield text selection changed expected UIA events
+summary: Expected UIA accessibility events when the text selection changes in a text field on Windows.

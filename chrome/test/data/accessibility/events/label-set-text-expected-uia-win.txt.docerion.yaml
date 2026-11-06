@@ -1,0 +1,4 @@
+# Docerion header of label-set-text-expected-uia-win.txt.
+type: test
+title: Label text change expected events for UIA on Windows
+summary: Expected UI Automation output after a label's text is set on Windows, recording the Text_TextChanged event with the updated text.

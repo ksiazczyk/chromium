@@ -1,0 +1,4 @@
+# Docerion header of slider-value-changed-expected-uia-win.txt.
+type: test
+title: Slider value changed expected UIA events (Windows)
+summary: Expected UIA accessibility events emitted when a slider's value changes on Windows.

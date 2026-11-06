@@ -1,0 +1,4 @@
+# Docerion header of image_srcset.html.
+type: test
+title: Image srcset test page
+summary: Test page with an img using srcset to check which candidate image Blink selects for accessibility annotation.

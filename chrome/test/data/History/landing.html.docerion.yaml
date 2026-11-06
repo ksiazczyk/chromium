@@ -1,0 +1,4 @@
+# Docerion header of landing.html.
+type: test
+title: Landing Page for History Tests
+summary: Minimal HTML landing page titled A Small Hello that serves as the destination for redirects in the Chrome history tests.

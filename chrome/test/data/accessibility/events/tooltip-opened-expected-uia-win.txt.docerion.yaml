@@ -1,0 +1,4 @@
+# Docerion header of tooltip-opened-expected-uia-win.txt.
+type: test
+title: Tooltip opened expected UIA events
+summary: Expected UIA accessibility events when a tooltip opens on Windows.

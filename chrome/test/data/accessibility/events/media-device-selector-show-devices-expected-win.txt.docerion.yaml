@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-show-devices-expected-win.txt.
+type: test
+title: Expected device selector show-devices events on Windows
+summary: Expected Windows accessibility events when the media device selector shows devices, recording a state change on the Device Selector view.

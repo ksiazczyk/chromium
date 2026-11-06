@@ -1,0 +1,4 @@
+# Docerion header of menu-show-hide-expected-mac.txt.
+type: test
+title: Menu show and hide expected events for macOS
+summary: Expected macOS accessibility events for the menu show and hide test, listing AXMenuOpened and AXMenuClosed notifications.

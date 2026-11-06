@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: History test helper script
+// summary: Provides cookie handling and status reporting functions that the history test pages use to report pass or fail through the document title.
+// ---
+
 //
 // This script provides some mechanics for testing History
 //

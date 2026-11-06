@@ -1,0 +1,4 @@
+# Docerion header of slider-value-changed-expected-auralinux.txt.
+type: test
+title: Slider value changed expected events (Linux)
+summary: Expected Linux accessibility events emitted when a slider's value changes in the event test.

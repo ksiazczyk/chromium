@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-viewsax-expected-uia-win.txt.
+type: test
+title: Tree select node expected UIA events on Windows
+summary: Expected UI Automation event for tree node selection on Windows, recording ElementSelected on the Child 2 tree item.

@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-viewsax-expected-mac.txt.
+type: test
+title: Tree select node expected events on macOS
+summary: Empty expected-events file for tree node selection on macOS, indicating no accessibility events are expected.

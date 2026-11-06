@@ -1,0 +1,4 @@
+# Docerion header of textfield-value-changed-expected-uia-win.txt.
+type: test
+title: Textfield value changed expected UIA events
+summary: Expected UIA accessibility events when a text field's value changes on Windows.

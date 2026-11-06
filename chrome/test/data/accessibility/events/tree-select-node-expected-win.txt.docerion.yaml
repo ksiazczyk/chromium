@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-expected-win.txt.
+type: test
+title: Tree node selection expected events on Windows
+summary: Expected Windows EVENT_OBJECT_SELECTION event on an outline item when a tree node is selected in an accessibility event test.

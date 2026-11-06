@@ -1,0 +1,4 @@
+# Docerion header of meta-test-filter-allow-works-expected-mac.txt.
+type: test
+title: Meta test filter allow expected events for macOS
+summary: Expected macOS accessibility events verifying that the allow filter works, listing a focused UI element change on the Test Button.

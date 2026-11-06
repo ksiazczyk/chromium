@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-show-devices-expected-auralinux.txt.
+type: test
+title: Expected device selector show-devices events on Linux
+summary: Expected Linux accessibility events when the media device selector shows devices, showing the expanded state change to true on the Device Selector panel.

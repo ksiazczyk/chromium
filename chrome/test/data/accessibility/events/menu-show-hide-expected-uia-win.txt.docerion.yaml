@@ -1,0 +1,4 @@
+# Docerion header of menu-show-hide-expected-uia-win.txt.
+type: test
+title: Menu show and hide expected events for Windows UIA
+summary: Expected UIA accessibility events for the menu show and hide test on Windows, covering menu mode transitions and menu open and close notifications.

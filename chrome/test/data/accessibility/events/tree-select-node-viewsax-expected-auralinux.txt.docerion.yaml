@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-viewsax-expected-auralinux.txt.
+type: test
+title: Tree select node expected events on Linux
+summary: Expected Linux accessibility events for selecting a tree node, listing selection-changed and selected-state changes for the test tree.

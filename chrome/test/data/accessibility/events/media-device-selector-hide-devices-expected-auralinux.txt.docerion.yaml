@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-hide-devices-expected-auralinux.txt.
+type: test
+title: Expected device selector hide-devices events on Linux
+summary: Expected Linux accessibility events when the media device selector hides devices, showing the expanded state change to false on the Device Selector panel.

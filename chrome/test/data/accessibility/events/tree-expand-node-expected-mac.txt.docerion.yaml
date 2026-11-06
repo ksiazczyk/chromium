@@ -1,0 +1,4 @@
+# Docerion header of tree-expand-node-expected-mac.txt.
+type: test
+title: Tree expand expected events on macOS
+summary: Expected macOS AXRowExpanded notification emitted when a tree node is expanded in an accessibility event test.

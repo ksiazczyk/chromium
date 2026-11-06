@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-show-devices-expected-uia-win.txt.
+type: test
+title: Expected UIA device selector show-devices events on Windows
+summary: Expected UIA accessibility events when the media device selector shows devices on Windows, recording an expand-collapse state change on a region.

@@ -1,0 +1,4 @@
+# Docerion header of image_annotation_doc.html.
+type: test
+title: Image annotation document test page
+summary: Test page containing exactly one image so that the whole document should also receive the image's annotation.

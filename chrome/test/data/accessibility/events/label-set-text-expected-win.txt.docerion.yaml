@@ -1,0 +1,4 @@
+# Docerion header of label-set-text-expected-win.txt.
+type: test
+title: Expected label set-text events on Windows
+summary: Expected accessibility events for a label text change on Windows, listing IA2 text inserted and removed events on the View pane.

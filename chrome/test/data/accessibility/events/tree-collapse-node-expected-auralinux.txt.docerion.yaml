@@ -1,0 +1,4 @@
+# Docerion header of tree-collapse-node-expected-auralinux.txt.
+type: test
+title: Tree collapse expected events on Linux
+summary: Expected Linux accessibility events, a collapsed state change on a tree item, recorded when a tree node is collapsed in an event test.

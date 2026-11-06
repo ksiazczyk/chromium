@@ -1,0 +1,4 @@
+# Docerion header of button-enabled-state-changed-expected-auralinux.txt.
+type: test
+title: Button Enabled State Changed Linux ATK Expectation
+summary: Expected Linux ATK enabled, read-only, and sensitive state change events when the test button is enabled and disabled.

@@ -1,0 +1,4 @@
+# Docerion header of textfield-value-changed-expected-mac.txt.
+type: test
+title: Textfield value changed expected macOS accessibility events
+summary: Expected macOS accessibility events when a text field's value changes.

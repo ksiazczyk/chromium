@@ -1,0 +1,4 @@
+# Docerion header of checkbox-checked-state-changed-expected-auralinux.txt.
+type: test
+title: Checkbox checked state change expected events for Linux
+summary: Expected Linux accessibility output when a checkbox becomes checked, listing the CHECKED state-change event for the Test Checkbox.

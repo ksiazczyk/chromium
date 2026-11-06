@@ -1,0 +1,4 @@
+# Docerion header of tree-expand-node-expected-auralinux.txt.
+type: test
+title: Tree expand expected events on Linux
+summary: Expected Linux accessibility events, an expanded state change on a tree item, recorded when a tree node is expanded in a test.

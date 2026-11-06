@@ -1,0 +1,4 @@
+# Docerion header of tab-window-activation-no-selection-without-jaws-expected-win.txt.
+type: test
+title: Tab activation no selection without JAWS expected (Windows)
+summary: Empty expectation confirming that no selection events fire on tab window activation without JAWS.

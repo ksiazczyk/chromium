@@ -1,0 +1,4 @@
+# Docerion header of image_annotation_iframe.html.
+type: test
+title: Image annotation iframe test page
+summary: Test page with an image in the main document and another inside an anonymous iframe, used to verify accessibility image annotation.

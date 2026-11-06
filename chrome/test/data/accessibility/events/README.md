@@ -1,3 +1,9 @@
+---
+type: readme
+title: Accessibility Events Test Data
+summary: Explains the file naming convention, test creation workflow, platform filter directives, and skip marker for the Views accessibility event expectation files in this directory.
+---
+
 # Accessibility Events Test Data
 
 This directory contains expectation files for Views accessibility event tests.

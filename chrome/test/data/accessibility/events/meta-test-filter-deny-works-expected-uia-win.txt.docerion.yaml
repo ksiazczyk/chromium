@@ -1,0 +1,4 @@
+# Docerion header of meta-test-filter-deny-works-expected-uia-win.txt.
+type: test
+title: Meta test filter deny expected events for Windows UIA
+summary: Expected Windows UIA output confirming no accessibility events are emitted when the meta test filter denies focus events.

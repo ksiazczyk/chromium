@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-uia-win.txt.
+type: test
+title: Button Click Windows UIA Expectation
+summary: Expected Windows UIA toggle state change event on the test button for the button click test.

@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-expected-mac.txt.
+type: test
+title: Tree node selection expected events on macOS
+summary: Empty expected-events fixture for tree node selection on macOS, currently containing no recorded events.

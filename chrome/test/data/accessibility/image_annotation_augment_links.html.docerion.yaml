@@ -1,0 +1,4 @@
+# Docerion header of image_annotation_augment_links.html.
+type: test
+title: Image annotation augment links test page
+summary: Test page with images inside links to verify annotation behavior when the link name is only stopwords versus a meaningful label.

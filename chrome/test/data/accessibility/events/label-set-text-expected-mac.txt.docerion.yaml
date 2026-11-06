@@ -1,0 +1,4 @@
+# Docerion header of label-set-text-expected-mac.txt.
+type: test
+title: Label text change expected events for Mac
+summary: Expected macOS accessibility output after a label's text is set, listing the AXTitleChanged notification with the updated text.

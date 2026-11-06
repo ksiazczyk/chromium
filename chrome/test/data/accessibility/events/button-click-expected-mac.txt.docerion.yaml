@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-mac.txt.
+type: test
+title: Button Click macOS Expectation
+summary: Expected macOS NSAccessibility AXValueChanged event on the test button for the button click test.
