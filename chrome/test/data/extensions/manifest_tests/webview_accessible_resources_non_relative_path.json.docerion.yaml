@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_non_relative_path.json.
+type: test
+title: Webview accessible resources non-relative path manifest fixture
+summary: Manifest fixture for a webview app whose partition declares a non-relative accessible resource, used as test input for extension manifest validation.

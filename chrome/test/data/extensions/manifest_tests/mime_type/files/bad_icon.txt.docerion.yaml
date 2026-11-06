@@ -1,0 +1,4 @@
+# Docerion header of bad_icon.txt.
+type: test
+title: Invalid icon MIME type test fixture
+summary: Test fixture containing a text file that is not a valid icon file type for extension manifest MIME type tests.

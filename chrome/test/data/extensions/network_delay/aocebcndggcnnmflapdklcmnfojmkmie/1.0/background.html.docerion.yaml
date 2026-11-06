@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Test extension background page
+summary: Minimal background page fixture for the no-startup-delay test extension, containing only an empty script block.

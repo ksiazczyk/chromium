@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_short_name_empty.json.
+type: test
+title: Invalid manifest test fixture with empty short_name
+summary: Manifest fixture with an empty short_name value, used to verify invalid manifest rejection.

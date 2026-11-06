@@ -1,0 +1,4 @@
+# Docerion header of kiosk_only_extension.json.
+type: test
+title: Kiosk only extension manifest
+summary: Manifest fixture for an extension with both kiosk_enabled and kiosk_only set to true.

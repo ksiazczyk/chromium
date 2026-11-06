@@ -1,0 +1,4 @@
+# Docerion header of exclude_matches.json.
+type: test
+title: Exclude matches content script manifest
+summary: Test manifest with a content script that uses exclude_matches to skip docs.google.com pages.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the Startup delay extension with Analytics
+summary: Manifest version 2 definition of the Startup delay extension with Analytics, declaring the background page and tabs, webRequest, and webRequestBlocking permissions.

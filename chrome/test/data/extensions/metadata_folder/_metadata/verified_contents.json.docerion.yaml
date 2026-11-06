@@ -1,0 +1,4 @@
+# Docerion header of verified_contents.json.
+type: test
+title: verified_contents.json
+summary: Placeholder verified contents JSON file that exists only for testing purposes in the extension metadata test data.

@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_invalid8.json.
+type: test
+title: Invalid webview partition with non-string accessible resource
+summary: Test manifest with a webview partition whose accessible resources list contains a number instead of a string.

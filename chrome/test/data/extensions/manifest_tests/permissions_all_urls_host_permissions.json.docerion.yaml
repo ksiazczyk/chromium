@@ -1,0 +1,4 @@
+# Docerion header of permissions_all_urls_host_permissions.json.
+type: test
+title: All-urls permissions manifest test fixture
+summary: Test manifest fixture declaring a required all-urls permission plus an optional host permission pattern for permission handling tests.

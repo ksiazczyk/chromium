@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_locale_empty.json.
+type: test
+title: 'Invalid manifest fixture: empty default_locale'
+summary: Invalid extension manifest fixture with an empty default_locale value, used to test manifest validation failures.

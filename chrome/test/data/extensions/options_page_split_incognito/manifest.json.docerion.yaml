@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for split incognito options page
+summary: Manifest for a test extension that declares an options page and split incognito mode, used as test data in Chrome extension tests.

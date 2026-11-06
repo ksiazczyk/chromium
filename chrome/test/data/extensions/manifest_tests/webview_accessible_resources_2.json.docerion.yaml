@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_2.json.
+type: test
+title: Webview accessible resources test manifest 2
+summary: Second valid webview test manifest with the same partition setup, differing only in extension name and key.

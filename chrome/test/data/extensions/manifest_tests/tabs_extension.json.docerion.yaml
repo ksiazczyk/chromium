@@ -1,0 +1,4 @@
+# Docerion header of tabs_extension.json.
+type: test
+title: Manifest with tabs permission
+summary: Test manifest requesting the tabs permission for a Manifest V3 extension.

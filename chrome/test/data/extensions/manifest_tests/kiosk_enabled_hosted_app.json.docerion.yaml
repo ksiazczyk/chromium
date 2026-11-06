@@ -1,0 +1,4 @@
+# Docerion header of kiosk_enabled_hosted_app.json.
+type: test
+title: Hosted app manifest with kiosk enabled
+summary: Test manifest for a hosted app that sets kiosk_enabled to true, used to validate kiosk support in hosted apps.

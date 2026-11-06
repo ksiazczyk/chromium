@@ -1,0 +1,4 @@
+# Docerion header of web_urls_invalid_2.json.
+type: test
+title: App manifest with invalid web URL string
+summary: Test manifest fixture with the non-URL string 'monkey' in app.urls to verify that invalid web URL values are rejected.

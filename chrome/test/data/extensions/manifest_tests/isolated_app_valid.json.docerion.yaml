@@ -1,0 +1,4 @@
+# Docerion header of isolated_app_valid.json.
+type: test
+title: Valid isolated app manifest
+summary: Test manifest for a hosted app using storage isolation and the experimental permission, used to validate app isolation handling.

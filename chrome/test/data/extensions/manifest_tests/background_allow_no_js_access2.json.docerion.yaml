@@ -1,0 +1,4 @@
+# Docerion header of background_allow_no_js_access2.json.
+type: test
+title: Background allow no JS access variant fixture
+summary: App manifest declaring background allow_js_access false without a page, used in background manifest tests.

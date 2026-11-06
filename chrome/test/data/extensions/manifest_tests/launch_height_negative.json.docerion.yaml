@@ -1,0 +1,4 @@
+# Docerion header of launch_height_negative.json.
+type: test
+title: Launch height negative test manifest
+summary: Test manifest fixture with a negative launch height to exercise validation of invalid launch dimensions.

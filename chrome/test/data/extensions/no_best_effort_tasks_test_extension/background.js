@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No best effort tasks test extension background script
+// summary: Service worker for the test extension that answers ping messages with pong and is padded past 64 KB to exercise multi-task loading through a mojo data pipe.
+// ---
+
 chrome.runtime.onMessageExternal.addListener((request, from, sendResponse) => {
   if (request.ping) {
     console.info('Got ping, sending pong...');

@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_matches_empty.json.
+type: test
+title: Invalid manifest test fixture with empty matches array
+summary: Manifest fixture with an empty matches array in its content script, used to verify invalid manifest rejection.

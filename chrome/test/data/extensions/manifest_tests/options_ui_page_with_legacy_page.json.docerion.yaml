@@ -1,0 +1,4 @@
+# Docerion header of options_ui_page_with_legacy_page.json.
+type: test
+title: Options UI page versus legacy options page fixture
+summary: Manifest fixture testing that options_ui.page takes precedence over the legacy options_page field.

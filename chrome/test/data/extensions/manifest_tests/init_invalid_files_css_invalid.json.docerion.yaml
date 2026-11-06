@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_files_css_invalid.json.
+type: test
+title: Manifest with invalid content script CSS list
+summary: Test manifest fixture where the content_scripts css value is not an array, expected to fail validation.

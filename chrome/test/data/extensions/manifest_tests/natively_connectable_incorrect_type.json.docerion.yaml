@@ -1,0 +1,4 @@
+# Docerion header of natively_connectable_incorrect_type.json.
+type: test
+title: Natively connectable manifest with incorrect value types
+summary: Test manifest fixture with natively_connectable entries holding numbers and strings instead of host lists, for the NativelyConnectableManifestTest.IncorrectType case.

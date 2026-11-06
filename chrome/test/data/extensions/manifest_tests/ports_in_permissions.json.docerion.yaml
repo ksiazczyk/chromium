@@ -1,0 +1,4 @@
+# Docerion header of ports_in_permissions.json.
+type: test
+title: Manifest with ports in permissions
+summary: Test manifest checking host permission patterns with and without port numbers.

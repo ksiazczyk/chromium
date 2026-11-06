@@ -1,0 +1,4 @@
+# Docerion header of hosted_app_relative_options.json.
+type: test
+title: Hosted app manifest with relative options page
+summary: Test manifest fixture of a hosted app that sets a relative options_page, used to verify options page handling.

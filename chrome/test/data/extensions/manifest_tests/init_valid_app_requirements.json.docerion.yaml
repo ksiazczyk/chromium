@@ -1,0 +1,4 @@
+# Docerion header of init_valid_app_requirements.json.
+type: test
+title: Hosted app with requirements fixture
+summary: Valid hosted app manifest declaring 3D WebGL requirements, used in manifest init tests.

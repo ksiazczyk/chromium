@@ -1,0 +1,4 @@
+# Docerion header of kiosk_only_packaged_app.json.
+type: test
+title: Kiosk only packaged app manifest
+summary: Manifest fixture for a packaged app with kiosk_enabled and kiosk_only both set to true.

@@ -1,0 +1,4 @@
+# Docerion header of init_valid_platform_app.json.
+type: test
+title: Valid platform app manifest with background scripts
+summary: Test fixture manifest for a platform app with background scripts, used to verify platform app initialization.

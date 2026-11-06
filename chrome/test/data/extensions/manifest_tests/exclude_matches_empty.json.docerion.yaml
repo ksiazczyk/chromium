@@ -1,0 +1,4 @@
+# Docerion header of exclude_matches_empty.json.
+type: test
+title: Empty exclude_matches manifest
+summary: Test manifest with a content script whose exclude_matches list is empty.

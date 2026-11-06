@@ -1,0 +1,4 @@
+# Docerion header of kiosk_enabled_platform_app.json.
+type: test
+title: Kiosk enabled platform app manifest
+summary: Manifest fixture for a platform app with background scripts and kiosk_enabled set to true.

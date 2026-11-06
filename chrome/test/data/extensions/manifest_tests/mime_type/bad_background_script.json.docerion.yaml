@@ -1,0 +1,4 @@
+# Docerion header of bad_background_script.json.
+type: test
+title: 'Manifest fixture: background script with bad MIME type'
+summary: Extension manifest test fixture declaring a background script served with a bad MIME type, used to verify manifest-time MIME type checks.

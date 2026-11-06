@@ -1,0 +1,4 @@
+# Docerion header of natively_connectable.json.
+type: test
+title: Natively connectable manifest test fixture
+summary: Manifest fixture listing natively_connectable hosts, including a duplicate and a missing host binary, for native messaging manifest tests.

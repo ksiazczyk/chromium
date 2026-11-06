@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_version_missing.json.
+type: test
+title: Manifest missing version fixture
+summary: Test manifest without a version field, used to verify extension init fails when the version is missing.

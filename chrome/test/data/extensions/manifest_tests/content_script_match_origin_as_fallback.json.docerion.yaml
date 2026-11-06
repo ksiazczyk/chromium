@@ -1,0 +1,4 @@
+# Docerion header of content_script_match_origin_as_fallback.json.
+type: test
+title: Content script match_origin_as_fallback test manifest
+summary: MV3 test manifest covering match_origin_as_fallback and match_about_blank combinations for content script matching.

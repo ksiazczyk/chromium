@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest 1.0.0.0
+summary: Manifest for version 1.0.0.0 of a test extension used in Chromium's pending updates with imports extension tests.

@@ -1,0 +1,4 @@
+# Docerion header of content_script_match_origin_as_fallback_invalid_with_paths.json.
+type: test
+title: Content script match_origin_as_fallback invalid path test manifest
+summary: MV3 test manifest with match_origin_as_fallback set on patterns containing paths, used for invalid-case checks.

@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_match_item_invalid_2.json.
+type: test
+title: Invalid content script match pattern test manifest
+summary: Manifest test fixture for an extension whose content script uses an invalid match pattern, used to verify that manifest validation rejects it.

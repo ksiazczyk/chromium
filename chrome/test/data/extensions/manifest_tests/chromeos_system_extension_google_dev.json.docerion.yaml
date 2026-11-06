@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_google_dev.json.
+type: test
+title: ChromeOS system extension dev key manifest test fixture for Google
+summary: Test manifest using a development-only key for the Google ChromeOS system extension, including an isolated app match.

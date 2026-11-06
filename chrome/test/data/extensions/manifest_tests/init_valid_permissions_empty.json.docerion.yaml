@@ -1,0 +1,4 @@
+# Docerion header of init_valid_permissions_empty.json.
+type: test
+title: Valid manifest with empty permissions list
+summary: Test fixture manifest with an empty permissions array, used to verify that empty permissions are accepted.

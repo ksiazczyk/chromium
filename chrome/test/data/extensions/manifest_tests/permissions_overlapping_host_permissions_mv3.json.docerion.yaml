@@ -1,0 +1,4 @@
+# Docerion header of permissions_overlapping_host_permissions_mv3.json.
+type: test
+title: MV3 manifest with overlapping host permissions
+summary: Test manifest declaring required and optional host permissions that overlap, for extension manifest unit tests.

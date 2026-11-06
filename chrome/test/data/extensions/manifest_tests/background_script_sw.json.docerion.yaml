@@ -1,0 +1,4 @@
+# Docerion header of background_script_sw.json.
+type: test
+title: Background service worker manifest test fixture
+summary: Test manifest declaring a manifest version 2 background service worker to exercise extension manifest parsing.

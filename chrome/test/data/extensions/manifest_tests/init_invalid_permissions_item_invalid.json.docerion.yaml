@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_permissions_item_invalid.json.
+type: test
+title: Invalid manifest test fixture with invalid permissions item
+summary: Manifest fixture for extension init tests that expects validation to fail because the permissions list contains a non-string item.

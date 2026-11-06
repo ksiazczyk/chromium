@@ -1,0 +1,4 @@
+# Docerion header of web_urls_wrong_type.json.
+type: test
+title: App manifest with web URLs of wrong type
+summary: Test manifest fixture where app.urls is a number instead of a list to verify that wrong-typed web URL values are rejected.

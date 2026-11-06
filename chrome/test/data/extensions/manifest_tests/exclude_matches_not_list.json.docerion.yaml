@@ -1,0 +1,4 @@
+# Docerion header of exclude_matches_not_list.json.
+type: test
+title: Exclude matches as non-list value
+summary: Test manifest where exclude_matches is a string instead of a list, for error handling.

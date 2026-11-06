@@ -1,0 +1,4 @@
+# Docerion header of automation_boolean_false.json.
+type: test
+title: Automation boolean false manifest test fixture
+summary: Extension manifest fixture setting automation to false for the AutomationManifestTest.AsBooleanFalse unit test.

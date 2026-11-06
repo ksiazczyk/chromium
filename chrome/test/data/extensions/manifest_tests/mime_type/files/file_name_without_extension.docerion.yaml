@@ -1,0 +1,4 @@
+# Docerion header of file_name_without_extension.
+type: test
+title: File name without extension test fixture
+summary: Empty test fixture without a file extension used in extension manifest MIME type tests.

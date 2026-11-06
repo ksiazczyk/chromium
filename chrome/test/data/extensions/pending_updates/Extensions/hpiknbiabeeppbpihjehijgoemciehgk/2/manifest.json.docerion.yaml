@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test extension My extension 2
+summary: Manifest version 2 for the test extension My extension 2, defining a background page and extension key for pending update tests.

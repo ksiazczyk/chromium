@@ -1,0 +1,4 @@
+# Docerion header of offline_enabled_invalid.json.
+type: test
+title: Invalid offline_enabled manifest test fixture
+summary: Test manifest with a non-boolean offline_enabled value expected to fail validation.

@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Background page of the startup delay test extension
+summary: Minimal extension background page that includes analytics.js so the test extension performs an Analytics page view at startup.

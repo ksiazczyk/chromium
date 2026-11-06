@@ -1,0 +1,4 @@
+# Docerion header of bad_content_script.json.
+type: test
+title: 'Manifest fixture: content script with bad MIME type'
+summary: Extension manifest test fixture declaring a content script served with a bad MIME type, used to verify MIME type validation for JS content scripts.

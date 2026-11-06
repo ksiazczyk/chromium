@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_files_js_empty_css_missing.json.
+type: test
+title: 'Invalid manifest fixture: empty content scripts js list'
+summary: Invalid extension manifest fixture with an empty content script js list, used to test that manifest validation rejects it.

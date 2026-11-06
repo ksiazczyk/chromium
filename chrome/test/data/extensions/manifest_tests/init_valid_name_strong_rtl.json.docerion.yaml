@@ -1,0 +1,4 @@
+# Docerion header of init_valid_name_strong_rtl.json.
+type: test
+title: Valid manifest with strong RTL characters in name
+summary: Test fixture manifest whose extension name includes strong RTL (Hebrew) characters, used to verify name validation.

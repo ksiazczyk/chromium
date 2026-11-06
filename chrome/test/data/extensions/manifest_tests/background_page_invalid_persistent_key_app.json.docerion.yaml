@@ -1,0 +1,4 @@
+# Docerion header of background_page_invalid_persistent_key_app.json.
+type: test
+title: Invalid persistent background key app fixture
+summary: App manifest combining a top-level background persistent key with an app background page to exercise invalid manifest handling.

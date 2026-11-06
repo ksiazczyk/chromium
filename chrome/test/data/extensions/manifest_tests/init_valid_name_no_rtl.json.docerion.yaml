@@ -1,0 +1,4 @@
+# Docerion header of init_valid_name_no_rtl.json.
+type: test
+title: Valid manifest with non-RTL extension name
+summary: Test fixture manifest whose extension name contains no RTL characters, used to verify name validation.

@@ -1,0 +1,4 @@
+# Docerion header of host_permissions_key.json.
+type: test
+title: Host permissions manifest key fixture
+summary: MV3 manifest using permissions, optional_permissions, host_permissions and optional_host_permissions for host patterns.

@@ -1,0 +1,4 @@
+# Docerion header of content_script_yahoo.json.
+type: test
+title: Content script Yahoo match test manifest
+summary: Manifest test fixture declaring a content script that matches pages on the Yahoo site and injects a JavaScript file.

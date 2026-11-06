@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test extension My extension 2
+summary: Manifest for a version 2 test extension that exports all resources and uses a background page, fixture for pending updates with imports tests.

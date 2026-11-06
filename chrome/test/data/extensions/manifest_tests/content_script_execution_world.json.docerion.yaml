@@ -1,0 +1,4 @@
+# Docerion header of content_script_execution_world.json.
+type: test
+title: MV3 content script manifest with execution world settings
+summary: Manifest fixture with MV3 content scripts declaring MAIN and ISOLATED execution worlds for manifest validation tests.

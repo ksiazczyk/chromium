@@ -1,0 +1,4 @@
+# Docerion header of none.json.
+type: test
+title: Manifest fixture without web_accessible_resources
+summary: Extension manifest test fixture using manifest version 3 with no web_accessible_resources key, for testing the v2 resource rules.

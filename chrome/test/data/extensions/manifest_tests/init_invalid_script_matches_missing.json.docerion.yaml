@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_matches_missing.json.
+type: test
+title: Invalid manifest test fixture with matches key missing
+summary: Manifest fixture whose content script omits the matches key, used to verify invalid manifest rejection.

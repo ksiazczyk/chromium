@@ -1,0 +1,4 @@
+# Docerion header of permission_chrome_resources_url.json.
+type: test
+title: Chrome resources permission manifest test fixture
+summary: Test manifest fixture requesting a Chrome resources scheme permission to exercise extension permission validation.

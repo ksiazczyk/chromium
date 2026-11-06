@@ -1,0 +1,4 @@
+# Docerion header of init_platform_app_csp.json.
+type: test
+title: Platform app CSP fixture
+summary: Platform app manifest with a content security policy allowing HTTPS remote sources, used in manifest init tests.

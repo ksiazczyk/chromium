@@ -1,0 +1,4 @@
+# Docerion header of init_valid_minimum_chrome.json.
+type: test
+title: Valid manifest with minimum Chrome version
+summary: Test fixture manifest with a minimum_chrome_version field used to verify extension initialization accepts it.

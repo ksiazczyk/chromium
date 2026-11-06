@@ -1,0 +1,4 @@
+# Docerion header of launch_path_invalid_value.json.
+type: test
+title: Invalid launch path value manifest test fixture
+summary: Manifest fixture whose app launch local path is a web URL, testing rejection of invalid local path values.

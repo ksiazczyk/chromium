@@ -1,0 +1,4 @@
+# Docerion header of optional_permissions_invalid_scheme.json.
+type: test
+title: Optional permissions invalid scheme manifest test fixture
+summary: Test manifest fixture for an extension whose optional_permissions entry uses an unsupported scheme, used to verify that manifest validation rejects such patterns.

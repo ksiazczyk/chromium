@@ -1,0 +1,4 @@
+# Docerion header of natively_connectable_empty_host.json.
+type: test
+title: Natively connectable empty host manifest test fixture
+summary: Manifest fixture with an empty string in natively_connectable for the EmptyHost native messaging manifest test.

@@ -1,0 +1,4 @@
+# Docerion header of launch_width_negative.json.
+type: test
+title: Negative launch width manifest test fixture
+summary: Manifest fixture declaring a panel launch with a negative width of -1 for manifest validation tests.

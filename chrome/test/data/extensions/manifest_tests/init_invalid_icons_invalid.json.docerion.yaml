@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_icons_invalid.json.
+type: test
+title: 'Invalid manifest fixture: icons not a dictionary'
+summary: Invalid extension manifest fixture with an icons value that is not a dictionary, used to test manifest validation failures.

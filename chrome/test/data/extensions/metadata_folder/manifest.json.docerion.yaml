@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Metadata folder test extension manifest
+summary: Minimal manifest for a test extension named "_metadata folder test" used in Chrome extension tests.

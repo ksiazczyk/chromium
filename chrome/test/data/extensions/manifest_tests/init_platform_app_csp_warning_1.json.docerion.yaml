@@ -1,0 +1,4 @@
+# Docerion header of init_platform_app_csp_warning_1.json.
+type: test
+title: Platform app CSP warning fixture 1
+summary: Platform app manifest with a top-level content security policy outside the app block, used to test CSP warning behavior.

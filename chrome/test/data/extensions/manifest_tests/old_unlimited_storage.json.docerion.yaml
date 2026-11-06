@@ -1,0 +1,4 @@
+# Docerion header of old_unlimited_storage.json.
+type: test
+title: Manifest with unlimited_storage permission test fixture
+summary: Test manifest declaring the unlimited_storage permission for storage behavior checks.

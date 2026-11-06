@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Preferences fixture for extension pending update tests
+summary: Sample Chromium Preferences file seeding two installed extensions, one with idle install info describing a pending 2.0 update, used as test data for extension pending update scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_files_empty.json.
+type: test
+title: Manifest with empty content script file lists
+summary: Test manifest fixture with empty css and js arrays in content_scripts, expected to fail validation.

@@ -1,0 +1,4 @@
+# Docerion header of ports_in_content_scripts.json.
+type: test
+title: Manifest with ports in content scripts
+summary: Test manifest checking content script match patterns with and without port numbers.

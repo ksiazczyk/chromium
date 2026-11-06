@@ -1,0 +1,4 @@
+# Docerion header of bad_script.json.
+type: test
+title: Invalid script MIME type test fixture
+summary: Test fixture with a JSON file containing JavaScript code to represent an invalid script file type in manifest MIME type tests.

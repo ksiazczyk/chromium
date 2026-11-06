@@ -1,0 +1,4 @@
+# Docerion header of automation_desktop_true.json.
+type: test
+title: Automation desktop true manifest test fixture
+summary: Extension manifest fixture with automation desktop set to true for the AutomationManifestTest.DesktopTrue unit test.

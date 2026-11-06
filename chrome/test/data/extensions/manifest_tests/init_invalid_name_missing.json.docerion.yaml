@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_name_missing.json.
+type: test
+title: Invalid manifest test fixture with missing name
+summary: Manifest fixture for extension init tests that expects validation to fail because the name field is missing.

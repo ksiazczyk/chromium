@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_lenovo.json.
+type: test
+title: Valid ChromeOS system extension manifest for Lenovo diagnostics
+summary: Manifest fixture for a ChromeOS system extension with Lenovo telemetry permissions, optional permissions, and externally_connectable matches.

@@ -1,0 +1,4 @@
+# Docerion header of deprecated_plugins_key.json.
+type: test
+title: Deprecated plugins key test manifest
+summary: Test manifest declaring the deprecated plugins key with a public plugin path.

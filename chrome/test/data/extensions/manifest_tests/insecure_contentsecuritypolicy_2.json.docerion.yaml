@@ -1,0 +1,4 @@
+# Docerion header of insecure_contentsecuritypolicy_2.json.
+type: test
+title: Manifest with insecure content security policy 2
+summary: Test manifest whose content security policy allows unsafe-inline scripts, used to check insecure CSP detection.

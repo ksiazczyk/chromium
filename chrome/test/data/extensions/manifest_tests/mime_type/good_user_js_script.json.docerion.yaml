@@ -1,0 +1,4 @@
+# Docerion header of good_user_js_script.json.
+type: test
+title: 'Manifest fixture: valid user.js content script'
+summary: Extension manifest test fixture declaring a user.js content script, used to verify that user script MIME types are accepted.

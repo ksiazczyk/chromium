@@ -1,0 +1,4 @@
+# Docerion header of launch_height_invalid.json.
+type: test
+title: Launch height invalid test manifest
+summary: Test manifest fixture combining a tab launch container with a height value to trigger a validation error.

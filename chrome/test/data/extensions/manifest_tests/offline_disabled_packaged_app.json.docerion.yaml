@@ -1,0 +1,4 @@
+# Docerion header of offline_disabled_packaged_app.json.
+type: test
+title: Packaged app manifest with offline disabled
+summary: Manifest version 2 packaged app fixture that explicitly sets offline_enabled to false, used to test offline disabling for packaged apps.

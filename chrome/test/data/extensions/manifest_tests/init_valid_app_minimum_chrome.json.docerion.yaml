@@ -1,0 +1,4 @@
+# Docerion header of init_valid_app_minimum_chrome.json.
+type: test
+title: Hosted app with minimum Chrome version fixture
+summary: Valid hosted app manifest specifying minimum_chrome_version, used in manifest init tests.

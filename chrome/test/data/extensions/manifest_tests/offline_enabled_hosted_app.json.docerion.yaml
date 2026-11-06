@@ -1,0 +1,4 @@
+# Docerion header of offline_enabled_hosted_app.json.
+type: test
+title: Offline enabled hosted app manifest test fixture
+summary: Test manifest for a hosted app that declares offline_enabled true.

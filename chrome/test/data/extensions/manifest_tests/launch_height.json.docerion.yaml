@@ -1,0 +1,4 @@
+# Docerion header of launch_height.json.
+type: test
+title: Launch height test manifest
+summary: Test manifest fixture setting a panel launch container with a height of 480 pixels.

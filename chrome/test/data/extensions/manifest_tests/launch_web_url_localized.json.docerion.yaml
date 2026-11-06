@@ -1,0 +1,4 @@
+# Docerion header of launch_web_url_localized.json.
+type: test
+title: Localized launch web URL manifest test fixture
+summary: Manifest fixture for an app whose launch web_url uses the localized __MSG_launch_url__ placeholder with default_locale en.

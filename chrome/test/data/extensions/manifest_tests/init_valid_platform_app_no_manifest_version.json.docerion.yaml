@@ -1,0 +1,4 @@
+# Docerion header of init_valid_platform_app_no_manifest_version.json.
+type: test
+title: Platform app manifest without manifest version
+summary: Test fixture platform app manifest lacking a manifest_version field, used to verify default version handling.

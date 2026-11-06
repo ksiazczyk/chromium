@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_files_missing.json.
+type: test
+title: Invalid manifest test fixture with content script js files missing
+summary: Manifest fixture for an MV2 extension whose content script omits the js key, used to verify invalid manifest rejection.

@@ -1,0 +1,4 @@
+# Docerion header of exclude_matches_invalid_host.json.
+type: test
+title: Exclude matches with invalid host pattern
+summary: Test manifest with an exclude_matches pattern containing an invalid host wildcard.

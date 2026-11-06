@@ -1,0 +1,4 @@
+# Docerion header of launch_local_path_localized.json.
+type: test
+title: Launch local path localized test manifest
+summary: Test manifest fixture using a localized message placeholder for the app launch local path.

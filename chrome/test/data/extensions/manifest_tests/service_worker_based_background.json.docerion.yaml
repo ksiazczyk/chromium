@@ -1,0 +1,4 @@
+# Docerion header of service_worker_based_background.json.
+type: test
+title: Manifest with service worker background
+summary: Test manifest declaring a service worker based background script for an extension.

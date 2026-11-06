@@ -28,6 +28,12 @@
 // Otherwise, it will cause a deadlock: see http://crbug.com/40126792.
 // It should therefore not slow down testing.
 
+// ---docerion
+// type: test
+// title: Google Analytics snippet for startup delay test extension
+// summary: Modified Google Analytics asynchronous tracking snippet that the test extension loads to verify a delayed external resource does not need to finish loading before the test ends.
+// ---
+
 const _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-12026369-1']);
 _gaq.push(['_trackPageview']);

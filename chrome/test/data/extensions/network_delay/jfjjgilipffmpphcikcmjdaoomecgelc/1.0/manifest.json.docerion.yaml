@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for startup delay test extension
+summary: Manifest for the 'My startup delay extension 1' test extension, declaring a background page and tabs and webRequest permissions.

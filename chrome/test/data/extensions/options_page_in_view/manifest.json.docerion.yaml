@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the options page test extension
+summary: Chrome extension manifest declaring an embedded options page (options.html with open_in_tab false) for the options_page_in_view test.

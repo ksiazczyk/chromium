@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Options page test fixture
+summary: Minimal HTML fixture that serves as the options page for the test extension.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for spanning incognito options page test extension
+summary: Test extension manifest declaring an options page and incognito spanning mode for Chrome extension tests.

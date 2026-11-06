@@ -1,0 +1,4 @@
+# Docerion header of background_allow_no_js_access.json.
+type: test
+title: Background allow no JS access manifest fixture
+summary: Packaged app manifest with a remote background page and allow_js_access false, used in background manifest tests.

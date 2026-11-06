@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_files_js_invalid.json.
+type: test
+title: 'Invalid manifest fixture: non-list content scripts js'
+summary: Invalid extension manifest fixture whose content script js value is a number instead of a list, used to test manifest validation failures.

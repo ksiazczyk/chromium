@@ -1,0 +1,4 @@
+# Docerion header of host_permissions_key_invalid_scheme.json.
+type: test
+title: Host permissions invalid scheme manifest test fixture
+summary: Manifest fixture declaring host and optional host permissions with an invalid scheme, used to exercise extension manifest validation.
