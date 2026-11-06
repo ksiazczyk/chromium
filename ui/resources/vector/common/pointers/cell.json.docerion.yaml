@@ -1,0 +1,4 @@
+# Docerion header of cell.json.
+type: asset
+title: Cell pointer vector animation
+summary: Lottie vector animation defining the cell cursor graphic, a cross-shaped pointer, as part of the common UI pointer set.

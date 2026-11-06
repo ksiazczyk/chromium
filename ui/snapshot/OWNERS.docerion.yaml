@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for Android snapshot files
+summary: Assigns tedchoc@chromium.org as per-file owner for files matching *android* in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal select file dialog header
+// summary: Declares SelectFileDialogLinuxPortal, which shows modal file selection dialogs through the XDG desktop portal and defines its filter types.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_LINUX_PORTAL_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_LINUX_PORTAL_H_
 

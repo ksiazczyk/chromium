@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_CALL.png.sha1.
+type: data
+title: SHA-1 checksum for call annotation icon
+summary: Stores the SHA-1 hash verifying the call icon PNG in the auto image annotation string resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window and view snapshot API
+// summary: Declares utility functions to grab window or view snapshots, with optional scaling and PNG or JPEG encoding, returning results via callbacks.
+// ---
+
 #ifndef UI_SNAPSHOT_SNAPSHOT_H_
 #define UI_SNAPSHOT_SNAPSHOT_H_
 

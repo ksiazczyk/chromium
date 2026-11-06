@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for shell_dialogs
+summary: DEPS file listing the directories that shell_dialogs code may include from, with a special rule for the Linux portal dialog implementation.

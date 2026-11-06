@@ -1,0 +1,4 @@
+# Docerion header of snapshot_ios.mm.
+type: source
+title: iOS snapshot implementation
+summary: Grabs view and window snapshots on iOS using UIKit's UIGraphicsImageRenderer and returns them as gfx::Image via callback.

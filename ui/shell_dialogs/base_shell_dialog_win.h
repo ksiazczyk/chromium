@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows base shell dialog class declaration
+// summary: Declares BaseShellDialogImpl, which manages modal dialog runs, owner window sets, and per-run dialog task runners on Windows.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_BASE_SHELL_DIALOG_WIN_H_
 #define UI_SHELL_DIALOGS_BASE_SHELL_DIALOG_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings.grd.
+type: data
+title: Auto image annotation string resources
+summary: Grit resource definitions of translatable accessibility strings for automatic image annotation, packaged per locale.

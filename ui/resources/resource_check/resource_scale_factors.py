@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit checker for resource image scale factors
+# summary: Defines a presubmit verifier that reads PNG headers and checks that scaled resource images have dimensions matching the base image's scale factor.
+# ---
+
 """Presubmit script for Chromium browser resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

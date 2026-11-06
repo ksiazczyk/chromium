@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_WEATHER.png.sha1.
+type: data
+title: SHA-1 checksum for weather annotation icon
+summary: Stores the SHA-1 hash of the PNG used for the weather icon in the auto image annotation string resources.

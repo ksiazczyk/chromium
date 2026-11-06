@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog_mac_unittest.mm.
+type: test
+title: Mac select file dialog unit tests
+summary: Unit tests for the macOS select file dialog, verifying NSSavePanel behavior, file type popups, and dialog arguments.

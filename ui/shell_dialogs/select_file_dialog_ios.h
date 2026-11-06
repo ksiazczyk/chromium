@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS select file dialog header
+// summary: Declares the iOS SelectFileDialog implementation that shows native dialogs for choosing a file or folder.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_IOS_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_IOS_H_
 

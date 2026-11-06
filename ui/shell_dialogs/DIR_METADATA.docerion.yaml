@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking
+summary: Maps the shell_dialogs directory to the Internals>PlatformIntegration component in Monorail and to a Buganizer component ID.

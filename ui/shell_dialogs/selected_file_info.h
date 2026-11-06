@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectedFileInfo struct declaration
+// summary: Declares the SelectedFileInfo struct holding display, local, URL, and virtual paths for chosen files, plus list conversion helpers.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECTED_FILE_INFO_H_
 #define UI_SHELL_DIALOGS_SELECTED_FILE_INFO_H_
 

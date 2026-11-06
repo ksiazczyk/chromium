@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura snapshot API declarations
+// summary: Declares Aura-specific snapshot functions that read frames through an Aura CopyOutputRequest rather than the native windowing system, including layer snapshots.
+// ---
+
 #ifndef UI_SNAPSHOT_SNAPSHOT_AURA_H_
 #define UI_SNAPSHOT_SNAPSHOT_AURA_H_
 

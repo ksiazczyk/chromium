@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the strings directory
+summary: Sets every developer as an owner of the directory, allowing any reviewer to approve changes.

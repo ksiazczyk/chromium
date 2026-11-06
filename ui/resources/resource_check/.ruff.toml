@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for resource_check
+# summary: Extends the repository-level Ruff lint configuration and sets the indentation width to 4 for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

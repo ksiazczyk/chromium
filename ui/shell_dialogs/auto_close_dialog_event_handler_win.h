@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the Windows auto-close dialog event handler
+// summary: Declares AutoCloseDialogEventHandler, an IFileDialogEvents implementation that watches for owner window destruction and closes the attached file dialog.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_AUTO_CLOSE_DIALOG_EVENT_HANDLER_WIN_H_
 #define UI_SHELL_DIALOGS_AUTO_CLOSE_DIALOG_EVENT_HANDLER_WIN_H_
 

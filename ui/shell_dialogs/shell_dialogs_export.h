@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell dialogs export macro
+// summary: Defines the SHELL_DIALOGS_EXPORT macro controlling symbol import and export for the shell dialogs module in component builds.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SHELL_DIALOGS_EXPORT_H_
 #define UI_SHELL_DIALOGS_SHELL_DIALOGS_EXPORT_H_
 

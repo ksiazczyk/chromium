@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake select file dialog interface
+// summary: Declares FakeSelectFileDialog and its factory for intercepting SelectFileDialog creation and simulating dialog outcomes in tests.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_FAKE_SELECT_FILE_DIALOG_H_
 #define UI_SHELL_DIALOGS_FAKE_SELECT_FILE_DIALOG_H_
 

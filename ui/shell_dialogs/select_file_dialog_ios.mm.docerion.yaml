@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog_ios.mm.
+type: source
+title: iOS select file dialog implementation
+summary: Implements the iOS select file dialog with UIDocumentPickerViewController and reports picked or cancelled results to the listener.

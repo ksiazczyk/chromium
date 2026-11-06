@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac select file dialog class declaration
+// summary: Declares SelectFileDialogImpl, the macOS implementation of SelectFileDialog that shows Cocoa file and folder dialogs through a Mojo bridge.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_MAC_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_MAC_H_
 

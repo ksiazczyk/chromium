@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android select file dialog implementation header
+// summary: Declares the Android SelectFileDialog implementation that reports file picker results from Java back to Chromium via JNI callbacks.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_ANDROID_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_ANDROID_H_
 

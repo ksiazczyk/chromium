@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_LAUNCH_APPS.png.sha1.
+type: data
+title: SHA-1 checksum for the launch apps icon annotation string
+summary: Stores the SHA-1 hash used to track the accessibility label string for the launch apps icon in the auto image annotation resources.

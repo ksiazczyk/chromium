@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS snapshot API selection header
+// summary: Declares the SnapshotAPI enum and a testing hook to force the legacy CGWindowList or ScreenCaptureKit snapshot API on macOS.
+// ---
+
 #ifndef UI_SNAPSHOT_SNAPSHOT_MAC_H_
 #define UI_SNAPSHOT_SNAPSHOT_MAC_H_
 

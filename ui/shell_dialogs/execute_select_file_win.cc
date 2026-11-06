@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file selection dialog execution
+// summary: Implements ExecuteSelectFile on Windows using the COM IFileDialog API, applying default paths, extension filters and dialog event handlers.
+// ---
+
 #include "ui/shell_dialogs/execute_select_file_win.h"
 
 #include <shlobj.h>

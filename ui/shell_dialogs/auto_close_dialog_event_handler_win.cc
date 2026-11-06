@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event handler that auto-closes file dialogs
+// summary: Implements IFileDialogEvents with a WinEvent hook so a Windows file dialog is closed via WM_CLOSE when its owner window is destroyed.
+// ---
+
 #include "ui/shell_dialogs/auto_close_dialog_event_handler_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot grabber implementation
+// summary: Implements ScreenshotGrabber, taking window screenshots with a minimum interval between captures and hiding the cursor on Aura platforms.
+// ---
+
 #include "ui/snapshot/screenshot_grabber.h"
 
 #include <stddef.h>

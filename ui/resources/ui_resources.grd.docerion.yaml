@@ -1,0 +1,4 @@
+# Docerion header of ui_resources.grd.
+type: config
+title: UI image resource list
+summary: Grit resource list of scaled UI images that produces header, map, and pak outputs at 100, 200, and 300 percent scale factors.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia select file dialog stub
+// summary: Provides a Fuchsia placeholder for CreateSelectFileDialog that hits NOTREACHED because no file dialog backend exists there.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog.h"
 
 #include "base/notreached.h"

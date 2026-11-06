@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: UI resources owners
+summary: Lists the owners for the ui/resources directory and delegates review of WebUI-related GN targets to the ui/webui owners.

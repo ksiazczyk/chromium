@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot grabber interface
+// summary: Declares the ScreenshotGrabber class and ScreenshotResult enum for capturing window screenshots and reporting success or failure results.
+// ---
+
 #ifndef UI_SNAPSHOT_SCREENSHOT_GRABBER_H_
 #define UI_SNAPSHOT_SCREENSHOT_GRABBER_H_
 

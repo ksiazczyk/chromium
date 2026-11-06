@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows select file dialog implementation
+// summary: Implements the Windows select file dialog, building file type filters from registry descriptions and running open and save dialogs.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog_win.h"
 
 #include <algorithm>

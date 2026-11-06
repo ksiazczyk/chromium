@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog_mac.mm.
+type: source
+title: Mac select file dialog implementation
+summary: Implements the macOS select file dialog, creating NSSavePanel-based dialogs via remote_cocoa Mojo interfaces and reporting results to the listener.

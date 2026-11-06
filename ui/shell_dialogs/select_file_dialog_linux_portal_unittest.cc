@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select file dialog Linux portal unit tests
+// summary: Unit tests for the Linux portal select file dialog, covering background-thread callbacks and weak pointer validity on the UI thread.
+// ---
+
 #include "ui/shell_dialogs/select_file_dialog_linux_portal.h"
 
 #include "base/command_line.h"

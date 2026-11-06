@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows select file dialog factory declaration
+// summary: Declares CreateWinSelectFileDialog and the ExecuteSelectFileCallback used to construct Windows select file dialogs with an injectable executor.
+// ---
+
 #ifndef UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_WIN_H_
 #define UI_SHELL_DIALOGS_SELECT_FILE_DIALOG_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_CHAT.png.sha1.
+type: data
+title: SHA-1 checksum for chat annotation icon
+summary: Stores the SHA-1 hash verifying the chat icon PNG in the auto image annotation string resources.

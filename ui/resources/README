@@ -1,1 +1,7 @@
+---
+type: readme
+title: Icon advice pointer
+summary: Points to the chrome app theme README for advice on adding new icons.
+---
+
 See src/chrome/app/theme/README for advice on adding new icons.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_AX_IMAGE_ANNOTATION_ICON_LIST.png.sha1.
+type: data
+title: SHA-1 checksum for the list icon annotation string
+summary: Stores the SHA-1 hash used to track the accessibility label string for the list icon in the auto image annotation resources.

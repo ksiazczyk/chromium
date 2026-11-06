@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android select file dialog implementation
+// summary: Implements SelectFileDialog on Android by launching GET_CONTENT, OPEN_DOCUMENT and related intents and reporting results through JNI.
+// ---
+
 #include "select_file_dialog_android.h"
 
 #include "base/android/jni_android.h"
