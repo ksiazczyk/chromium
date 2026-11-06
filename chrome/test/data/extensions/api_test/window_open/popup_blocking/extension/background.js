@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup blocking test background script
+// summary: Background script of the test extension that opens a popup, a tab page, and a web page to exercise popup opening from different extension contexts.
+// ---
+
 function buildUrl(host, port) {
   return ('http://HOST:PORT/extensions/api_test/window_open/' +
           'popup_blocking/extension/foo.html')

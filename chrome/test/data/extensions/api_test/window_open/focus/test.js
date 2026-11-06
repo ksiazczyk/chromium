@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window create focus API tests
+// summary: Runs chrome.windows.create test cases verifying that the focused parameter behaves correctly for normal windows and popups.
+// ---
+
 let expectFocusChange;
 let createdWinId;
 let focusedWinId;

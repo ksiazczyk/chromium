@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script storage back/forward cache test extension
+summary: Defines the test extension that injects a storage listener on a.com and a storage changer on b.com to check eviction from back/forward cache.

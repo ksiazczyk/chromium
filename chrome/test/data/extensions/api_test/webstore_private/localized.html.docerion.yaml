@@ -1,0 +1,4 @@
+# Docerion header of localized.html.
+type: test
+title: Localized install test page
+summary: HTML test page that loads common.js and localized.js for the localized name install test.

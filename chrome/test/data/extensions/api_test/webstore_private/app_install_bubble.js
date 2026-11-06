@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install bubble test
+// summary: Installs an app with the appInstallBubble option via webstorePrivate and completes the installation successfully.
+// ---
+
 const tests = [
   function appInstallBubble() {
     // See things through all the way to a successful install.

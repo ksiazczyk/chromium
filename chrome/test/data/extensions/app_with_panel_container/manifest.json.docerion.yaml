@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: manifest.json
+summary: Manifest for a test Chrome app that launches empty.html in a panel container and requests the notifications permission.

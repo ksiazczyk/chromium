@@ -1,3 +1,9 @@
+/*docerion
+type: test
+title: Cyan body background CSS for the test extension
+summary: Sets the body background color to cyan and is injected by the test extension to check that injected CSS prevents back/forward cache.
+*/
+
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.

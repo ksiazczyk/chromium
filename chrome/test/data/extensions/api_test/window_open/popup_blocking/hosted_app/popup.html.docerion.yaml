@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup target page
+summary: Minimal HTML page displayed as the popup window opened by the test.

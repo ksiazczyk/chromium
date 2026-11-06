@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window opener test script
+// summary: Runs the chrome.test suite asserting window.opener is set when a named window created with chrome.windows.create is targeted via window.open.
+// ---
+
 chrome.test.runTests([
   // Tests that even though window.opener is not set when using
   // chrome.windows.create directly, the same effect can be achieved by creating

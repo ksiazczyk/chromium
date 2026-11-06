@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty CRX install failure test
+// summary: Begins an install with a manifest and asserts that completing the install of an empty CRX fails with CRX_HEADER_INVALID.
+// ---
+
 const manifest = getManifest();
 // Begin installing.
 chrome.webstorePrivate.beginInstallWithManifest3(

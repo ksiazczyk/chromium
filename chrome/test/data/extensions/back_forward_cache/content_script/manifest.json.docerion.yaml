@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-caching back-forward cache test extension
+summary: Manifest version 3 extension manifest named 'no caching' that registers the content script and background service worker to check that content scripts prevent back/forward cache.

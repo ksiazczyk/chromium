@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App 1 manifest
+summary: Manifest for a hosted Chrome extension test app that covers example.com URLs, launches a web page, and requests unlimited storage.

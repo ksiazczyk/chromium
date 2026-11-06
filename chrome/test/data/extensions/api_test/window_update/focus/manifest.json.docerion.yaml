@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window update focus test extension
+summary: Extension manifest that registers test.html as the background page and requests the tabs permission for the window.update focus test.

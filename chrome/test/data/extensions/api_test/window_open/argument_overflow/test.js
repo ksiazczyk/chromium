@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for window.create arguments overflowing int32
+// summary: Runs chrome.test cases that call chrome.windows.create with left values beyond the int32 range and asserts the expected invalid-integer type errors.
+// ---
+
 function check_overflow_check(value) {
   try {
     chrome.windows.create({'left': value}, function() {});

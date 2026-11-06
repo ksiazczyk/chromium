@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Auto-Update Test Extension Manifest
+summary: Manifest for a version 3.0 test extension used in Chrome's extension auto-update tests, pointing to a localhost update URL.

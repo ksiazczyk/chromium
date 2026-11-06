@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script creating iframe for popup test
+// summary: Test extension background script that embeds an iframe loading content.html from the test server to exercise window.open from an extension page.
+// ---
+
 chrome.test.getConfig(function(config) {
   const iframe = document.createElement('iframe');
   iframe.src = 'http://127.0.0.1:' + config.testServer.port +

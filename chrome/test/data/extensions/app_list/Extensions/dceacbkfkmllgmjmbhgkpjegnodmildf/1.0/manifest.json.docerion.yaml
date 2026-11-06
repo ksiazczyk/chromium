@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Hosted App test extension manifest
+summary: Manifest for a version 1.0 hosted app test extension used in Chromium app list tests, declaring the extension key and a web launch target.

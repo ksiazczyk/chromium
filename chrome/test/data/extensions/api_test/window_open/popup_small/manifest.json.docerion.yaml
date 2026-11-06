@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for ChromeOS window.open small popup test
+summary: Manifest version 2 extension manifest defining the ChromeOS window.open small popup test with tabs permission and a background script.

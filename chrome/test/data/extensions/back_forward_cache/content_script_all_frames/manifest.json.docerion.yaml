@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: BFCache test extension manifest
+summary: Manifest for a test extension that injects its content script into all frames on http and https pages, used in back/forward cache tests.

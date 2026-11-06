@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for webstore_private API tests
+summary: Manifest for a test app fixture used by the webstore_private extension API tests, defining app URLs, launch behavior, and an icon.

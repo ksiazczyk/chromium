@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test app page loading main.js
+summary: Page opened by the background script that loads main.js to run the test.

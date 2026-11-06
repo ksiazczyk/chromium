@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: App list extension test preferences
+summary: Preferences fixture with extension settings and manifests for a hosted app, packaged apps and a dummy extension, used as test data for app list tests.

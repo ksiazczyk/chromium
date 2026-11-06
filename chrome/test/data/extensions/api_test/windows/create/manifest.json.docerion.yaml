@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.windows.create test extension
+summary: Extension manifest that registers test.js as the background script and requests the tabs permission for the API test.

@@ -1,0 +1,4 @@
+# Docerion header of foo.html.
+type: test
+title: Minimal target page opened by the test popup
+summary: Serves as the target of window.open in the test so the created tab can be verified as non-incognito in a normal window.

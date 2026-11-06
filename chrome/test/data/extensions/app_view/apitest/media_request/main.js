@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview setup allowing media permission requests
+// summary: Creates a webview in the media partition, automatically allows incoming media permission requests, and navigates it to guest.html.
+// ---
+
 window.onload = function() {
   const webview = document.createElement('webview');
   webview.partition = 'media';

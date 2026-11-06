@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App 2 extension manifest
+summary: Manifest for the Test App 2 extension fixture, declaring unlimited storage permission and example.com app URLs with a launch web URL.

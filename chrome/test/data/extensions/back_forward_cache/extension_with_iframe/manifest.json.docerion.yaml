@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the extension with iframe test extension
+summary: Manifest version 2 manifest registering the content script, background script, host permissions and web-accessible iframe.html.

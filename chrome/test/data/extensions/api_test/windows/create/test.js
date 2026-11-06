@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.windows.create API
+// summary: Runs chrome.test cases covering normal and popup window types, oversized bounds errors, and creating windows from URLs or tab IDs.
+// ---
+
 async function isAndroid() {
   const info = await chrome.runtime.getPlatformInfo();
   return info.os === 'android';

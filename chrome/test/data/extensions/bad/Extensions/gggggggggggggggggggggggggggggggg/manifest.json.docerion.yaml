@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension with zero-length browser action icon
+summary: Test fixture manifest declaring a browser action whose default icon points to a zero-length icon.png, used in bad-extension tests.

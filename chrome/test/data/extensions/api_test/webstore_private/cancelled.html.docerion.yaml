@@ -1,0 +1,4 @@
+# Docerion header of cancelled.html.
+type: test
+title: User cancelled install test
+summary: Checks that a user cancelling the install dialog started by beginInstallWithManifest3 yields a user_cancelled result.

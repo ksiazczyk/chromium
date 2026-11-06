@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XHR persistent filesystem test logic
+// summary: Creates a file in the persistent filesystem, writes a blob to it, and fetches its URL via XHR to verify the request succeeds.
+// ---
+
 function createFile() {
   webkitRequestFileSystem(window.PERSISTENT, 1024, gotFS, fail);
 }

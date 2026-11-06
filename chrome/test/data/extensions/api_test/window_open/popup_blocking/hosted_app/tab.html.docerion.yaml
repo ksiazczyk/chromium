@@ -1,0 +1,4 @@
+# Docerion header of tab.html.
+type: test
+title: Tab target page
+summary: Minimal HTML page displayed as the tab opened by the test.

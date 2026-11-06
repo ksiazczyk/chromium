@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoplay test extension background script
+// summary: Background script of a test extension that verifies audio autoplay is allowed without a user gesture, succeeding only when playback is not blocked by NotAllowedError.
+// ---
+
 chrome.test.runTests([
   function autoplay_allowed_without_gesture() {
     const audio = new Audio();

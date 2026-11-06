@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebstorePrivate referrer chain test
+// summary: Browser test checking that getReferrerChain returns base64 referrer data containing example.com and two redirect domains.
+// ---
+
 const tests = [
   function getReferrerChain() {
     chrome.webstorePrivate.getReferrerChain((result) => {

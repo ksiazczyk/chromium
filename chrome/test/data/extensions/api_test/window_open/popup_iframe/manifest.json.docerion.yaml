@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for window.open from iframe
+summary: Manifest version 2 extension manifest named 'window.open from iframe Test' that registers background.js for the API test.

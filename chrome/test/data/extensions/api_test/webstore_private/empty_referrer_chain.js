@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty referrer chain test
+// summary: Verifies that webstorePrivate.getReferrerChain returns an empty string in this test scenario.
+// ---
+
 const tests = [
   function getReferrerChain() {
     chrome.webstorePrivate.getReferrerChain((result) => {

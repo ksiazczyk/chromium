@@ -1,0 +1,4 @@
+# Docerion header of incorrect_manifest2.html.
+type: test
+title: Incorrect manifest permissions test page
+summary: HTML test page that loads common.js and incorrect_manifest2.js for the webstore_private manifest mismatch test.

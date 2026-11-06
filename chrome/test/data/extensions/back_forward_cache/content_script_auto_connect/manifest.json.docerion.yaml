@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: BFCache test extension manifest
+summary: Manifest for the BFCache and prerendering test extension, injecting the content script on title2.html pages with a non-persistent background script.

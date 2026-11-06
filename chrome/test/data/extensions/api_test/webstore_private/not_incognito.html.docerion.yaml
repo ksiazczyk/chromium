@@ -1,0 +1,4 @@
+# Docerion header of not_incognito.html.
+type: test
+title: WebstorePrivate not incognito test page
+summary: HTML harness that loads common.js and the not_incognito test script for the webstorePrivate API browser test.

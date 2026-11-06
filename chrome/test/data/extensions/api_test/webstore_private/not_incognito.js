@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebstorePrivate not incognito mode test
+// summary: Browser test asserting that webstorePrivate.isInIncognitoMode reports false when the test runs outside incognito mode.
+// ---
+
 const tests = [
   function isNotInIncognitoMode() {
     chrome.webstorePrivate.isInIncognitoMode(callbackPass(function(incognito) {

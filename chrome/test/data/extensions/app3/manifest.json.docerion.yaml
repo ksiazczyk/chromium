@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App 3 manifest
+summary: Manifest for the Test App 3 extension test fixture, declaring hosted app URLs and a launch web URL for Chrome extension tests.

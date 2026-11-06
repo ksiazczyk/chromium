@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App manifest for app update tests
+summary: Manifest for a version 1 test app with an example.com URL and launch web_url, used as test data for extension app update scenarios.

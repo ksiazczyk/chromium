@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the pagehide message test extension
+summary: Manifest version 2 extension manifest declaring a content script for all http and https pages plus a non-persistent background script for the BFCache test.

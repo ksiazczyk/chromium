@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the close panels on uninstall test extension
+summary: Manifest version 2 manifest for the test extension, declaring the background script and the tabs permission.

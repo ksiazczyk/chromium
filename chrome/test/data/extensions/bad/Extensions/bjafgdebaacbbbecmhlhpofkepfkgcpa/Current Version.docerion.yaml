@@ -1,0 +1,4 @@
+# Docerion header of Current Version.
+type: test
+title: Current Version
+summary: Test fixture containing the version string 1.0 for a deliberately bad extension used in Chromium's extension system tests.

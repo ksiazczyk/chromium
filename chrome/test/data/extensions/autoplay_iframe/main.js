@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoplay test main script
+// summary: Points the iframe at the test server frame page, asserts the reported autoplay result, and notifies Chrome's test framework of pass or fail.
+// ---
+
 chrome.test.getConfig(function(config) {
   const guestUrl = 'http://localhost:' + config.testServer.port +
       '/extensions/autoplay_iframe/frame.html';

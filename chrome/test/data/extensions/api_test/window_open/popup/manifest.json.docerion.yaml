@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for ChromeOS window.open test extension
+summary: Manifest version 2 extension manifest naming the test, registering background.js, and requesting the tabs permission.

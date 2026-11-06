@@ -1,0 +1,4 @@
+# Docerion header of incorrect_manifest1.html.
+type: test
+title: Incorrect manifest test page 1
+summary: HTML harness that loads common.js and incorrect_manifest1.js to run the first incorrect manifest install test.

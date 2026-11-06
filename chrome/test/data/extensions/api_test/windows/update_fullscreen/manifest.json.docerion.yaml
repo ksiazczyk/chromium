@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the windows.update fullscreen test extension
+summary: Manifest v3 fixture for an extension named windows/update_fullscreen that tests updating a window to the fullscreen show state, with a tabs permission and sw.js as service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Autoplay test extension manifest
+summary: Manifest for the autoplay policy test extension, declaring version 2, a background script, and no permissions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.windows.update sizing parameters
+// summary: Chained browser test that updates a window's left, width, height and top values and asserts each result via chrome.windows.update.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 const finalTop = 400;

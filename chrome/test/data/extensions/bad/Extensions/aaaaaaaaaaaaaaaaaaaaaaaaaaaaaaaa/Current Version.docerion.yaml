@@ -1,0 +1,4 @@
+# Docerion header of Current Version.
+type: test
+title: Current Version
+summary: Test fixture containing the version marker '1' for a bad extension used in Chromium's extension loading tests.

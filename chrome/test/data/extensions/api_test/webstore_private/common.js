@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for webstorePrivate install tests
+// summary: Defines test extension and app IDs, assertion wrappers, manifest loading and install or uninstall helpers used by the API tests.
+// ---
+
 // The id of an extension we're using for install tests.
 const extensionId = 'enfkhcelefdadlmkffamgdlgplcionje';
 

@@ -1,0 +1,4 @@
+# Docerion header of Current Version.
+type: test
+title: Current Version
+summary: Test fixture file containing the version marker '1' for a deliberately invalid extension in Chromium's bad-extension test data.

@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank page for window resize tests
+summary: Empty HTML page loaded as the URL of windows created by the window.update resize API tests.

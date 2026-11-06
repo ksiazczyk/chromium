@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for webstorePrivate API tests
+summary: Delegates ownership of these tests to the OWNERS file of the webstorePrivate browser API implementation.

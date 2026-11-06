@@ -1,0 +1,4 @@
+# Docerion header of content.html.
+type: test
+title: Iframe content page that opens a popup on load
+summary: HTML page loaded inside the test iframe which runs content.js to attempt opening a popup when the page loads.

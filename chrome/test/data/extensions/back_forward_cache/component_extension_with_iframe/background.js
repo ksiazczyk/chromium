@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // Empty background script
+
+// ---docerion
+// type: test
+// title: Empty background script for the component extension test
+// summary: Empty background service worker script that satisfies the manifest's background requirement for the test extension.
+// ---

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window argument overflow test extension
+summary: Manifest for a test extension that exercises window.create with arguments that do not fit in an int32, using test.html as its background page and requesting the tabs permission.

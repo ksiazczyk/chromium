@@ -1,0 +1,4 @@
+# Docerion header of app_install_bubble.html.
+type: test
+title: App install bubble test page
+summary: HTML harness that loads common.js and the app install bubble test script.

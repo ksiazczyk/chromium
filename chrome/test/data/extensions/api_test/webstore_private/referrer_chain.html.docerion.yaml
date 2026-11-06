@@ -1,0 +1,4 @@
+# Docerion header of referrer_chain.html.
+type: test
+title: WebstorePrivate referrer chain test page
+summary: HTML harness that loads the referrer chain test script for the webstorePrivate API browser test.

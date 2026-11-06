@@ -5,6 +5,12 @@
 // Tests where the beginInstallWithManifest3 dialog would be auto-accepted
 // (including a few cases where this does not matter).
 
+// ---docerion
+// type: test
+// title: Auto-accepted webstorePrivate install tests
+// summary: Tests beginInstallWithManifest3 cases where the dialog is auto-accepted, covering errors, successful installs and duplicate installs.
+// ---
+
 const tests = [
 
   function completeBeforeBegin() {

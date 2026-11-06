@@ -1,0 +1,4 @@
+# Docerion header of not_a_manifest.
+type: test
+title: Not a manifest test fixture
+summary: Test fixture file containing text that is not a valid extension manifest, used to exercise bad-extension handling in Chrome tests.

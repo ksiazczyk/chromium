@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incorrect manifest permissions install test
+// summary: Test script that removes the permissions key from the manifest and expects the install to fail with a manifest invalid error.
+// ---
+
 // Parse the manifest, and delete the permissions key.
 const manifestObj = JSON.parse(getManifest());
 delete manifestObj['permissions'];

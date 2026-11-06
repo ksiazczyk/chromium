@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for activeTab back/forward cache test extension
+summary: Manifest for a test extension verifying that the activeTab permission plays nice with the back/forward cache, declaring a background service worker.

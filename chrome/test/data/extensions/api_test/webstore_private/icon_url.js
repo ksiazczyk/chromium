@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon URL install tests
+// summary: Tests beginInstallWithManifest3 with relative and absolute icon URLs and asserts failure when the icon image cannot be decoded.
+// ---
+
 function makeAbsoluteUrl(path) {
   const parts = location.href.split('/');
   parts.pop();

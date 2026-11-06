@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.template.
+type: test
+title: Auto-update test extension manifest template
+summary: Template of the v2 auto-update test manifest that uses a $1 placeholder for the update URL.

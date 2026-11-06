@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TLS client auth webRequest test for background XHRs
+// summary: Expects a background XHR to fail with net::ERR_SSL_CLIENT_AUTH_CERT_NEEDED and reports success when that error occurs.
+// ---
+
 const url = new URL(location.href).searchParams.get('url');
 const filter = {
   urls: [url],

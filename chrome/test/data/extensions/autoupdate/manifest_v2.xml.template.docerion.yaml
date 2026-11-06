@@ -1,0 +1,4 @@
+# Docerion header of manifest_v2.xml.template.
+type: test
+title: Extension autoupdate manifest template for version 2.0
+summary: Template of a gupdate update-check manifest advertising extension version 2.0, with the codebase URL supplied as a placeholder for autoupdate tests.

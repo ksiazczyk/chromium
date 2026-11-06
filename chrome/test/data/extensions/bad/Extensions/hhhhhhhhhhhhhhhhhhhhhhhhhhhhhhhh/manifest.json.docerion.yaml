@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with zero-length page action icon
+summary: Manifest fixture for a bad-extension test declaring a page action whose default icon is a zero-length file.

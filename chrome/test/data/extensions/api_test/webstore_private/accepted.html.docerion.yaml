@@ -1,0 +1,4 @@
+# Docerion header of accepted.html.
+type: test
+title: Accepted install test page
+summary: HTML harness that loads common.js and the auto-accepted webstorePrivate install test script.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Dummy Extension 1 test manifest
+summary: Manifest for a dummy Chrome extension version 1.0 used as test data in app list extension tests.

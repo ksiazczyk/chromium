@@ -1,0 +1,4 @@
+# Docerion header of empty_referrer_chain.html.
+type: test
+title: Empty referrer chain test page
+summary: HTML harness that loads empty_referrer_chain.js to run the referrer chain API test.

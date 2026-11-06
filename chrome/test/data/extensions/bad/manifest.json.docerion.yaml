@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for non-UTF8 content script test extension
+summary: Extension manifest for a test extension whose background script exercises executeScript with non-UTF8 content script encoding.

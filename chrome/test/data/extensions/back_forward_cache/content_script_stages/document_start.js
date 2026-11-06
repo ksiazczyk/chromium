@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document_start content script test helper
+// summary: Content script that creates the stage input if needed, appends 'document_start/', and records pagehide and pageshow events.
+// ---
+
 // Multiple scripts injected in the same world declare "input", so we use
 // var instead of const.
 var input = document.getElementById('stage');  //eslint-disable-line no-var

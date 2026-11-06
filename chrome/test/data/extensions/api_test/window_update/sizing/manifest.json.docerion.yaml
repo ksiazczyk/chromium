@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window.update sizing test extension
+summary: Declares the test extension with a background page and the tabs permission needed to test window.update size and position parameters.

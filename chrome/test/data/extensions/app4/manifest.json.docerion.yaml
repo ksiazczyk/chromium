@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App 4 extension manifest
+summary: Manifest for a Chrome test extension app that declares a hosted web app launch, used as test data for extension loading tests.

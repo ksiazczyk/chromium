@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows.update focus parameter test
+// summary: Service worker test that creates an unfocused window, verifies focus transitions via chrome.windows.update and onFocusChanged events, and cleans up.
+// ---
+
 chrome.test.runTests([
   async function windowSetFocused() {
     const oldWin = await chrome.windows.getCurrent();

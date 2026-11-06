@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Packaged App 1 test extension
+summary: Manifest defining the Packaged App 1 test extension with version 1.0, a 128px icon, and main.html as its local launch path.

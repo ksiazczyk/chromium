@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: App view embed test skeleton main page
+summary: Minimal HTML page that the skeleton test app embeds when an app_view embed request is allowed.
