@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptDeferredTask implementation
+// summary: Implements the task that marks a save page request attempt as deferred, stamping the current offline clock time.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_deferred_task.h"
 
 #include <utility>

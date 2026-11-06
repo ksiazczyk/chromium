@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRequestQueueStore implementation
+// summary: Implements a test RequestQueueStore wrapper that can force initialization failures and resume after a reset.
+// ---
+
 #include "components/offline_pages/core/background/test_request_queue_store.h"
 
 #include "base/functional/bind.h"

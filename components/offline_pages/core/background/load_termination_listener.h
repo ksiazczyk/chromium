@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadTerminationListener class declaration
+// summary: Declares the LoadTerminationListener base class that OS-specific subclasses use to signal the offliner to terminate an in-progress page load.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_LOAD_TERMINATION_LISTENER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_LOAD_TERMINATION_LISTENER_H_
 

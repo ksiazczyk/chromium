@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerStub implementation
+// summary: Implements the SchedulerStub test double that records scheduler calls and returns fixed device conditions for tests.
+// ---
+
 #include "components/offline_pages/core/background/scheduler_stub.h"
 
 namespace {

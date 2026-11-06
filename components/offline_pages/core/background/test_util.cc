@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for SavePageRequest and Offliner
+// summary: Provides JSON serialization of SavePageRequest fields and stream output operators for request and offliner statuses used in test diagnostics.
+// ---
+
 #include <ostream>
 
 #include "base/json/json_writer.h"

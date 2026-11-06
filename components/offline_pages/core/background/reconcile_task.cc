@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconcileTask implementation
+// summary: Implements the task that resets requests stuck in the offlining state back to available in the queue.
+// ---
+
 #include "components/offline_pages/core/background/reconcile_task.h"
 
 #include "base/functional/bind.h"

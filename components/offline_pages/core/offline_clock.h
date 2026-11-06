@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline clock interface for offline pages
+// summary: Declares the OfflineClock accessor, a test-only clock override, and the OfflineTimeNow shortcut for obtaining the current time in the offline pages component.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_CLOCK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_CLOCK_H_
 

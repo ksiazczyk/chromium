@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageHeader implementation for X-Chrome-offline parsing
+// summary: Implements parsing of the X-Chrome-offline request header, mapping name-value pairs to persist flags, reasons, offline IDs and intent URLs.
+// ---
+
 #include "components/offline_pages/core/request_header/offline_page_header.h"
 
 #include <string_view>

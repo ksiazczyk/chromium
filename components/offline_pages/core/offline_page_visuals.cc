@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page visuals implementation
+// summary: Implements the OfflinePageVisuals struct with equality, ordering and string output for thumbnail and favicon data.
+// ---
+
 #include "components/offline_pages/core/offline_page_visuals.h"
 
 #include <iostream>

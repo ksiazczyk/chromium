@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visuals availability task header
+// summary: Declares VisualsAvailabilityTask, which checks whether a thumbnail or favicon exists for a specified offline page ID and returns the result via callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_VISUALS_AVAILABILITY_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_VISUALS_AVAILABILITY_TASK_H_
 

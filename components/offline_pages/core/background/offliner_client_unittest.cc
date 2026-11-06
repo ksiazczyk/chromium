@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offliner client unit tests
+// summary: Unit tests for OfflinerClient covering load and save, watchdog timeout, stopping in-flight requests, and failure paths.
+// ---
+
 #include "components/offline_pages/core/background/offliner_client.h"
 
 #include "base/memory/raw_ptr.h"

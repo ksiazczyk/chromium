@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the offline pages downloads UI adapter
+summary: GN build file defining the offline_pages_ui_adapter static library and its unit test target, with Android-only sources for the download UI adapter.

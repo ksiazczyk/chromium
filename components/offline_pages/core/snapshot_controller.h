@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot controller interface
+// summary: Declares SnapshotController, which turns page load signals into StartSnapshot calls while preventing overlapping snapshots across sessions.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_SNAPSHOT_CONTROLLER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_SNAPSHOT_CONTROLLER_H_
 

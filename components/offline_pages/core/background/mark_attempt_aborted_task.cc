@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptAbortedTask implementation
+// summary: Implements the task that marks a save page request's download attempt as aborted in the offline pages request queue store.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_aborted_task.h"
 
 #include "base/functional/bind.h"

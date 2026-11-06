@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test scoped offline clock implementation
+// summary: Implements scoped helpers that override OfflineClock with a given test clock and restore it on destruction.
+// ---
+
 #include "components/offline_pages/core/test_scoped_offline_clock.h"
 
 #include "components/offline_pages/core/offline_clock.h"

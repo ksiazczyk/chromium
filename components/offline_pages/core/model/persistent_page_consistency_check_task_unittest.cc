@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent page consistency check task unit tests
+// summary: Unit tests for the persistent page consistency check task, covering missing, reappeared and expired persistent pages.
+// ---
+
 #include "components/offline_pages/core/model/persistent_page_consistency_check_task.h"
 
 #include <memory>

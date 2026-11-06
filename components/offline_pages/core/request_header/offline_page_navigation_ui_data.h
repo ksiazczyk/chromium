@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageNavigationUIData class declaration
+// summary: Declares the OfflinePageNavigationUIData class that records whether a navigation is an offline page and supports deep copying.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_REQUEST_HEADER_OFFLINE_PAGE_NAVIGATION_UI_DATA_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_REQUEST_HEADER_OFFLINE_PAGE_NAVIGATION_UI_DATA_H_
 

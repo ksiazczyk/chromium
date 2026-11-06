@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page metadata store unit tests
+// summary: Unit tests for the SQLite-backed offline page metadata store, including simulated schema upgrades from older versions and page insert, get and delete behaviour.
+// ---
+
 #include "components/offline_pages/core/offline_page_metadata_store.h"
 
 #include <stdint.h>

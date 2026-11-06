@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for offline pages core
+summary: Restricts directory includes to allowed dependencies such as filename_generation, keyed_service, offline_items_collection, crypto, sql, and ui/gfx/image.

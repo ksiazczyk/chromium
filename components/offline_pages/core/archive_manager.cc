@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveManager implementation
+// summary: Implements creation of archive directories and collection of storage statistics for temporary, private, and public offline page archives.
+// ---
+
 #include "components/offline_pages/core/archive_manager.h"
 
 #include "base/files/file_enumerator.h"

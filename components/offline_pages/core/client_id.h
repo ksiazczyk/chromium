@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client ID header
+// summary: Declares the ClientId struct, a namespace and id pair that lets offline page clients uniquely identify their items.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_CLIENT_ID_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_CLIENT_ID_H_
 

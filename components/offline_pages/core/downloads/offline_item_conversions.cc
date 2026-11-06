@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemConversions implementation
+// summary: Converts OfflinePageItem and SavePageRequest objects into OfflineItem representations for the downloads UI, mapping titles, states, sizes and progress metadata.
+// ---
+
 #include "components/offline_pages/core/downloads/offline_item_conversions.h"
 
 #include "base/notreached.h"

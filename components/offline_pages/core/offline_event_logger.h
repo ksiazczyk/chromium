@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineEventLogger class header
+// summary: Declares the OfflineEventLogger class, a circular log of up to 50 offline page activity events that can be toggled, read, cleared, and piped to a custom client from the offline internals debug page.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_EVENT_LOGGER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_EVENT_LOGGER_H_
 

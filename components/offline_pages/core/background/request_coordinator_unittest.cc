@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestCoordinator unit tests
+// summary: Extensive unit tests for the request coordinator covering request queueing, processing, cancellation, conditions, and observer notifications.
+// ---
+
 #include "components/offline_pages/core/background/request_coordinator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BackgroundLoaderContents
+// summary: gtest unit tests verifying dialog suppression, no focus after crash, download handling with and without a delegate, and media access permission behavior of BackgroundLoaderContents.
+// ---
+
 #include "components/offline_pages/content/background_loader/background_loader_contents.h"
 
 #include <utility>

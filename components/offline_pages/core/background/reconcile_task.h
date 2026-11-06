@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconcileTask class declaration
+// summary: Declares the ReconcileTask run at coordinator startup to return interrupted offlining requests to the queue.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_RECONCILE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_RECONCILE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupTask implementation
+// summary: Implements a task that finds expired save page requests, removes them, and notifies listeners with the reason.
+// ---
+
 #include "components/offline_pages/core/background/cleanup_task.h"
 
 #include "base/functional/bind.h"

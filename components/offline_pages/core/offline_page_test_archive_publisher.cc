@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test archive publisher for offline pages
+// summary: Fake OfflinePageArchivePublisher used in tests to simulate publishing and unpublishing offline page archives with configurable failure and archive paths.
+// ---
+
 #include "components/offline_pages/core/offline_page_test_archive_publisher.h"
 
 #include <string>

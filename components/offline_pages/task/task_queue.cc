@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueue implementation
+// summary: Implements the FIFO TaskQueue that runs one task at a time, handling task completion, suspension, resume and idle notifications.
+// ---
+
 #include "components/offline_pages/task/task_queue.h"
 
 #include <utility>

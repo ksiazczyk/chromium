@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task-based implementation of OfflinePageModel
+// summary: Declares OfflinePageModelTaskified, the OfflinePageModel implementation that owns the metadata store and executes model operations via TaskQueue.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_MODEL_TASKIFIED_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_MODEL_TASKIFIED_H_
 

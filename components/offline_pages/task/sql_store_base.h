@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlStoreBase class declaration
+// summary: Declares SqlStoreBase, a base class that maintains an SQLite database with lazy opening, automatic closing, and safe Execute() access for subclasses.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_SQL_STORE_BASE_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_SQL_STORE_BASE_H_
 

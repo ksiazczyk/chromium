@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoveRequestsTask unit tests
+// summary: Unit tests verifying removal of single and multiple save page requests, including status reporting when the store is empty.
+// ---
+
 #include "components/offline_pages/core/background/remove_requests_task.h"
 
 #include <memory>

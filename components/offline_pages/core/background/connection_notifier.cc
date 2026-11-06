@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionNotifier implementation
+// summary: Implements ConnectionNotifier as a network change observer that runs a stored callback when the device regains a network connection.
+// ---
+
 #include "components/offline_pages/core/background/connection_notifier.h"
 
 namespace offline_pages {

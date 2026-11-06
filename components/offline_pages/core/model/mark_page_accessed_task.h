@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkPageAccessedTask class header
+// summary: Declares MarkPageAccessedTask, a task that marks an offline page as accessed at a given time in the metadata store, with no callback needed.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_MARK_PAGE_ACCESSED_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_MARK_PAGE_ACCESSED_TASK_H_
 

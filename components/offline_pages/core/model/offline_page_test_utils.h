@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page test utilities header
+// summary: Declares the test_utils namespace with helpers shared by offline pages tests, such as counting files in a directory.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_TEST_UTILS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_TEST_UTILS_H_
 

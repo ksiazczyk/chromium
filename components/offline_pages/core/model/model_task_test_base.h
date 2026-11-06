@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base class for offline page model task tests
+// summary: Declares ModelTaskTestBase, a fixture providing store test utilities, an item generator and archive directories for offline page model task tests.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_MODEL_TASK_TEST_BASE_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_MODEL_TASK_TEST_BASE_H_
 

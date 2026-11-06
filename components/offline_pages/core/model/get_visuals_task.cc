@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetVisualsTask implementation
+// summary: Implements GetVisualsTask, which reads a page's thumbnail and favicon from the page_thumbnails table in the metadata store.
+// ---
+
 #include "components/offline_pages/core/model/get_visuals_task.h"
 
 #include "base/functional/bind.h"

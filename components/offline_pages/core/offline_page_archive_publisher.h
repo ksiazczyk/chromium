@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page archive publisher interface
+// summary: Defines the interface and result types for publishing offline page archives to Android Downloads, identified by download ID or content URI depending on Android version.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ARCHIVE_PUBLISHER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ARCHIVE_PUBLISHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupTaskFactory implementation
+// summary: Implements a factory that creates CleanupTask objects from shared policy, notifier, and logger pointers.
+// ---
+
 #include "components/offline_pages/core/background/cleanup_task_factory.h"
 
 #include "components/offline_pages/core/background/offliner_policy.h"

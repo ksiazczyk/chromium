@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent page consistency check task
+// summary: Task that verifies archive files of persistent offline pages, marks missing files, restores reappeared entries and deletes pages expired past a threshold.
+// ---
+
 #include "components/offline_pages/core/model/persistent_page_consistency_check_task.h"
 
 #include <string>

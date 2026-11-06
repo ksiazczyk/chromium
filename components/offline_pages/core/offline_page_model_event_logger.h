@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model event logger interface
+// summary: Declares OfflinePageModelEventLogger, which records page saved and page deleted events through the OfflineEventLogger base class.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_MODEL_EVENT_LOGGER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_MODEL_EVENT_LOGGER_H_
 

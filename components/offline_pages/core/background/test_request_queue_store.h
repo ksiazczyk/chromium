@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRequestQueueStore declaration
+// summary: Declares TestRequestQueueStore, an in-memory RequestQueueStore wrapper with test hooks for simulating database failures.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_TEST_REQUEST_QUEUE_STORE_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_TEST_REQUEST_QUEUE_STORE_H_
 

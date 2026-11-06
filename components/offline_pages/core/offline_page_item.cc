@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageItem implementation
+// summary: Implements constructors, equality, and ordering operators for the OfflinePageItem offline page metadata struct.
+// ---
+
 #include "components/offline_pages/core/offline_page_item.h"
 
 namespace offline_pages {

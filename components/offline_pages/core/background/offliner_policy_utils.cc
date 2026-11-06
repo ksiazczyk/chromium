@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner policy utilities implementation
+// summary: Implements CheckRequestExpirationStatus, which decides whether a save page request is valid, expired, or exceeded its started or completed try limits.
+// ---
+
 #include "components/offline_pages/core/background/offliner_policy_utils.h"
 
 #include "base/time/time.h"

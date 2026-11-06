@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visuals decoder interface
+// summary: Interface for decoding and square-cropping thumbnail and favicon images so the component avoids depending on platform-specific image code.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_VISUALS_DECODER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_VISUALS_DECODER_H_
 

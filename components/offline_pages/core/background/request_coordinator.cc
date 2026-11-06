@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinator implementation
+// summary: Implements coordination of queued background save page requests, covering picking, offlining attempts, scheduling, cancellation and observer notifications.
+// ---
+
 #include "components/offline_pages/core/background/request_coordinator.h"
 
 #include <algorithm>

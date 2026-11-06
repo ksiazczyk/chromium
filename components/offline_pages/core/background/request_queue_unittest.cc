@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestQueue unit tests
+// summary: Unit tests for the RequestQueue covering adding, getting, updating, and removing save page requests, including quota and duplicate URL handling.
+// ---
+
 #include "components/offline_pages/core/background/request_queue.h"
 
 #include <memory>

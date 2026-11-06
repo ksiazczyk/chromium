@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline store types and callbacks
+// summary: Defines store state, item action statuses, sync operation results and update result types shared by offline page storage components.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_STORE_TYPES_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_STORE_TYPES_H_
 

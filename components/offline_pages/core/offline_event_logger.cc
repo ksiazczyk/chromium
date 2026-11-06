@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline event logger implementation
+// summary: Implements OfflineEventLogger activity recording with timestamps, a bounded log size, and optional client-based custom logging.
+// ---
+
 #include "components/offline_pages/core/offline_event_logger.h"
 
 #include "base/logging.h"

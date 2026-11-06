@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemConversions class declaration
+// summary: Declares the conversion helpers between internal offline pages types and the offline item collection representation, plus the offline page namespace constant.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_DOWNLOADS_OFFLINE_ITEM_CONVERSIONS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_DOWNLOADS_OFFLINE_ITEM_CONVERSIONS_H_
 

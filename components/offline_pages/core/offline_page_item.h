@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageItem struct definition
+// summary: Defines the OfflinePageItem struct holding offline page metadata such as URL, file path, timestamps, access counts, flags, and digest.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ITEM_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ITEM_H_
 

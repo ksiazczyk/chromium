@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update publish ID task header
+// summary: Declares UpdatePublishIdTask, which updates the file path and download ID for an offline page in the metadata store and reports success via a callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_UPDATE_PUBLISH_ID_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_UPDATE_PUBLISH_ID_TASK_H_
 

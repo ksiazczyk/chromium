@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner client interface
+// summary: Declares OfflinerClient, a wrapper around an Offliner that starts offlining, tracks the active request, and enforces timeouts.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_CLIENT_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_CLIENT_H_
 

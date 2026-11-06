@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptCompletedTask class header
+// summary: Declares MarkAttemptCompletedTask, an UpdateRequestTask that marks a request attempt completed with an optional FailState reason.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_COMPLETED_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_COMPLETED_TASK_H_
 

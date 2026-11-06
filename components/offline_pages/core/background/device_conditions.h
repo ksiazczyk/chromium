@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceConditions class declaration
+// summary: Declares the DeviceConditions class, which holds power connection state, battery percentage, and the current network connection type.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_DEVICE_CONDITIONS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_DEVICE_CONDITIONS_H_
 

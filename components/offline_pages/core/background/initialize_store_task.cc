@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializeStoreTask implementation
+// summary: Implements the InitializeStoreTask, which initializes the request queue store and retries with resets up to three times when initialization fails.
+// ---
+
 #include "components/offline_pages/core/background/initialize_store_task.h"
 
 #include "base/functional/bind.h"

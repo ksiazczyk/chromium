@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto fetch unit tests
+// summary: Unit tests verifying client ID creation and metadata extraction for the auto fetch feature.
+// ---
+
 #include "components/offline_pages/core/auto_fetch.h"
 
 #include "components/offline_pages/core/client_namespace_constants.h"

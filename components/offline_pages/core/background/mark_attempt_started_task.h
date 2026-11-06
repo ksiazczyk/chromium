@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptStartedTask class header
+// summary: Declares MarkAttemptStartedTask, an UpdateRequestTask that marks a save page request attempt as started in the request queue store.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_STARTED_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_STARTED_TASK_H_
 

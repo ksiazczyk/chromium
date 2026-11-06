@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request queue task test base implementation
+// summary: Implements the shared test fixture for request queue task tests, providing mock time task runner setup, loop pumping, and store initialization.
+// ---
+
 #include "components/offline_pages/core/background/request_queue_task_test_base.h"
 #include "base/functional/bind.h"
 

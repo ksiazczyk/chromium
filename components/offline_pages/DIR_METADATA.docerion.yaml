@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Offline pages directory metadata
+summary: Mixes in the shared COMMON_METADATA file so the offline_pages directory inherits its tracking metadata.

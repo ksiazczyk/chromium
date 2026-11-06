@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task base class implementation
+// summary: Implements the Task base class, managing state transitions for executing, completing, suspending, and resuming tasks owned by a task queue.
+// ---
+
 #include "components/offline_pages/task/task.h"
 
 #include <utility>

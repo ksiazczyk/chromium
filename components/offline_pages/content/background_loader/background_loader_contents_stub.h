@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderContentsStub class declaration
+// summary: Declares a BackgroundLoaderContents subclass for testing that overrides LoadPage and exposes an is_loading() accessor for verifying load requests.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CONTENT_BACKGROUND_LOADER_BACKGROUND_LOADER_CONTENTS_STUB_H_
 #define COMPONENTS_OFFLINE_PAGES_CONTENT_BACKGROUND_LOADER_BACKGROUND_LOADER_CONTENTS_STUB_H_
 

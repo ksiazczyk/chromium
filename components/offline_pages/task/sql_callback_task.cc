@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SqlCallbackTask implementation
+// summary: Implements SqlCallbackTask by executing a callback against a SqlStoreBase and invoking the optional done callback with the result.
+// ---
+
 #include "components/offline_pages/task/sql_callback_task.h"
 
 #include "components/offline_pages/task/sql_store_base.h"

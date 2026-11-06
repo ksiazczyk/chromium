@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangeRequestsStateTask class declaration
+// summary: Declares the task that changes the state of given requests and reports missing IDs in the final result.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CHANGE_REQUESTS_STATE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CHANGE_REQUESTS_STATE_TASK_H_
 

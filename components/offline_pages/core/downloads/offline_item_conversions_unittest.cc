@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OfflineItemConversions
+// summary: Tests that OfflinePageItem and SavePageRequest inputs convert to OfflineItem objects with the expected ids, titles, states, sizes and progress values.
+// ---
+
 #include "components/offline_pages/core/downloads/offline_item_conversions.h"
 
 #include "base/strings/utf_string_conversions.h"

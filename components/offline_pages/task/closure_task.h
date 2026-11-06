@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClosureTask class declaration
+// summary: Declares ClosureTask, a Task subclass that executes a provided base::OnceClosure on Run() and then calls TaskComplete().
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_CLOSURE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_CLOSURE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup maintenance task unit tests
+// summary: Unit tests for the startup maintenance task, verifying cleanup of temporary and orphaned offline page archives in the legacy archives directory along with histogram reporting.
+// ---
+
 #include "components/offline_pages/core/model/startup_maintenance_task.h"
 
 #include <memory>

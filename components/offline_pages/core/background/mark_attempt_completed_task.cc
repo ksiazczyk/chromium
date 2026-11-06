@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptCompletedTask implementation
+// summary: Implements the task that marks a save page request attempt as completed, recording the failure state if the attempt failed.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_completed_task.h"
 
 #include <utility>

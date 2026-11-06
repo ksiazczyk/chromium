@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTask and ConsumedResource declarations
+// summary: Declares TestTask, a sample multi-step task, and ConsumedResource, a test helper for stepping through task execution.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_TEST_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_TEST_TASK_H_
 

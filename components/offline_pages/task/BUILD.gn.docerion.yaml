@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the Task Queue subcomponent
+summary: Defines the task and test_support static libraries and the unit_tests source set, listing sources and dependencies for the Task Queue code.

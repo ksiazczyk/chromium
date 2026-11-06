@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializeStoreTask class declaration
+// summary: Declares the InitializeStoreTask, which initializes the request queue store and attempts limited resets when initialization fails.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_INITIALIZE_STORE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_INITIALIZE_STORE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model event logger implementation
+// summary: Implements recording of offline page model activity, formatting messages when a page is saved with namespace, URL and offline ID or deleted by ID.
+// ---
+
 #include "components/offline_pages/core/offline_page_model_event_logger.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snapshot controller unit tests
+// summary: Tests snapshot scheduling of SnapshotController for document available and OnLoad events using a mock time task runner.
+// ---
+
 #include "components/offline_pages/core/snapshot_controller.h"
 
 #include "base/functional/bind.h"

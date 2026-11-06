@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup maintenance task
+// summary: Task running maintenance during Chrome startup, including temporary page consistency checks, legacy directory cleanup and storage usage UMA reporting.
+// ---
+
 #include "components/offline_pages/core/model/startup_maintenance_task.h"
 
 #include <map>

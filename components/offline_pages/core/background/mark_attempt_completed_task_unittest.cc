@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MarkAttemptCompletedTask
+// summary: Unit tests verifying MarkAttemptCompletedTask updates attempt counts and request state, and reports NOT_FOUND for missing requests.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_completed_task.h"
 
 #include <memory>

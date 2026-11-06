@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskTestBase test fixture implementation
+// summary: Implements the TaskTestBase fixture, setting up a task environment and providing RunTask, RunUntilIdle and FastForwardBy helpers.
+// ---
+
 #include "components/offline_pages/task/task_test_base.h"
 
 #include "base/test/mock_callback.h"

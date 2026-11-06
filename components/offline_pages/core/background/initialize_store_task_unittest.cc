@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InitializeStoreTask unit tests
+// summary: Unit tests for InitializeStoreTask covering successful initialization, successful reset after failure, and failed reset.
+// ---
+
 #include "components/offline_pages/core/background/initialize_store_task.h"
 
 #include <memory>

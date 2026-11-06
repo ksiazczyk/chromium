@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store visuals task implementation
+// summary: Implements a task that stores a page thumbnail or favicon in the page_thumbnails table of the offline page metadata store, defaulting to a two-day expiration.
+// ---
+
 #include "components/offline_pages/core/model/store_visuals_task.h"
 
 #include "base/functional/bind.h"

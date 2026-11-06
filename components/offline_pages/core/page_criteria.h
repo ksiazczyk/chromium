@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page criteria for offline pages
+// summary: Declares the PageCriteria struct used to filter offline pages by URL, namespace, tab binding, lifetime type, size and more.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_PAGE_CRITERIA_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_PAGE_CRITERIA_H_
 

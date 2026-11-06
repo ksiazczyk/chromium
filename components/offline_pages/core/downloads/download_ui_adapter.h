@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUIAdapter class declaration
+// summary: Declares the OfflineContentProvider that caches OfflineItems for the OfflineContentAggregator, with a Delegate interface controlling UI visibility and item opening.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_DOWNLOADS_DOWNLOAD_UI_ADAPTER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_DOWNLOADS_DOWNLOAD_UI_ADAPTER_H_
 

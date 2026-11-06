@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mark page accessed task
+// summary: Unit tests verifying that MarkPageAccessedTask updates access count and last access time and records the OfflinePages.AccessPageCount histogram.
+// ---
+
 #include "components/offline_pages/core/model/mark_page_accessed_task.h"
 
 #include <memory>

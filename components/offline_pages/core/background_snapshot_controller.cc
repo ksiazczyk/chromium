@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background snapshot controller implementation
+// summary: Implements scheduling of offline page snapshots after document load, with configurable delays, stop, and session reset handling.
+// ---
+
 #include "components/offline_pages/core/background_snapshot_controller.h"
 
 #include "base/functional/bind.h"

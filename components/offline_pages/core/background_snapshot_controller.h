@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background snapshot controller header
+// summary: Declares the BackgroundSnapshotController class that turns page load signals into snapshot start calls following a defined policy.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SNAPSHOT_CONTROLLER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SNAPSHOT_CONTROLLER_H_
 

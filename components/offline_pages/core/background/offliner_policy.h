@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner policy class
+// summary: Defines OfflinerPolicy with retry limits, request expiration time, and processing time budgets governing background offlining decisions.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_POLICY_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_POLICY_H_
 

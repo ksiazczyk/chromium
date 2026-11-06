@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request queue result types
+// summary: Defines result enums for request queue operations, including GetRequestsResult, AddRequestResult, and UpdateRequestResult, plus the UpdateRequestsResult alias.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_QUEUE_RESULTS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_QUEUE_RESULTS_H_
 

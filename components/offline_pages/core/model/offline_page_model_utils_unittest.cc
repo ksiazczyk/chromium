@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page model utils unit tests
+// summary: Unit tests for offline page model utilities, covering namespace enum conversion and unique archive filename generation.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_model_utils.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupVisualsTask class declaration
+// summary: Declares the CleanupVisualsTask task class that removes unneeded page thumbnail rows and reports success and the removed row count.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_CLEANUP_VISUALS_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_CLEANUP_VISUALS_TASK_H_
 

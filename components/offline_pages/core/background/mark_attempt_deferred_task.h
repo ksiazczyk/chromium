@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptDeferredTask class header
+// summary: Declares MarkAttemptDeferredTask, an UpdateRequestTask that marks a save page request attempt as deferred in the request queue store.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_DEFERRED_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_MARK_ATTEMPT_DEFERRED_TASK_H_
 

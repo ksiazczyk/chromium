@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model interface
+// summary: Declares the OfflinePageModel keyed service that saves pages offline, stores offline copies and metadata, and notifies observers about added, deleted or updated pages.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_MODEL_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_MODEL_H_
 

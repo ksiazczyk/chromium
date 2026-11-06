@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page upgrade types implementation
+// summary: Defines constructors for StartUpgradeResult, which reports the outcome of starting an offline page upgrade.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_upgrade_types.h"
 
 namespace offline_pages {

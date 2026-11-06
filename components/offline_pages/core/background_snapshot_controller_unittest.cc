@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background snapshot controller unit tests
+// summary: Unit tests covering snapshot triggering after page load, stopping, and session reset behavior using a mock time task runner.
+// ---
+
 #include "components/offline_pages/core/background_snapshot_controller.h"
 
 #include "base/functional/bind.h"

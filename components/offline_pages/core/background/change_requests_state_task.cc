@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangeRequestsStateTask implementation
+// summary: Implements a task that reads selected save page requests and updates their state in the request queue store.
+// ---
+
 #include "components/offline_pages/core/background/change_requests_state_task.h"
 
 #include "base/functional/bind.h"

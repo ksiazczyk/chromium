@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner client implementation
+// summary: Implements OfflinerClient, which drives an Offliner's load and save work with watchdog timeout and cancellation handling.
+// ---
+
 #include "components/offline_pages/core/background/offliner_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUIAdapter implementation
+// summary: Implements the adapter that exposes offline pages as OfflineItems to the download UI, observing the offline page model and request coordinator and handling visuals decoding.
+// ---
+
 #include "components/offline_pages/core/downloads/download_ui_adapter.h"
 
 #include <utility>

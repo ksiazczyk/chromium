@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store visuals task header
+// summary: Declares StoreVisualsTask, which stores non-empty thumbnails and favicons for an offline page in the metadata store via thumbnail and favicon factory methods.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_STORE_VISUALS_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_STORE_VISUALS_TASK_H_
 

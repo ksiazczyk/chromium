@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner stub implementation
+// summary: Implements OfflinerStub, a controllable fake Offliner used in tests to simulate load, save, cancel, and timeout behavior.
+// ---
+
 #include "components/offline_pages/core/background/offliner_stub.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page visuals unit tests
+// summary: Unit tests covering construction, equality, comparison and string output of the OfflinePageVisuals struct.
+// ---
+
 #include "components/offline_pages/core/offline_page_visuals.h"
 
 #include "components/offline_pages/core/offline_store_utils.h"

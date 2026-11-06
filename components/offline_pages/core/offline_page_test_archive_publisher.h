@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test archive publisher header
+// summary: Declares the test double archive publisher that fakes archive publishing for offline page tests, with controllable failure, download ID and expected calls.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_TEST_ARCHIVE_PUBLISHER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_TEST_ARCHIVE_PUBLISHER_H_
 

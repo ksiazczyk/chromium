@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlCallbackTask class declaration
+// summary: Declares SqlCallbackTask, a task that calls store Execute() with an execute callback and reports completion through an optional done callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_SQL_CALLBACK_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_SQL_CALLBACK_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskQueue unit tests
+// summary: Unit tests for TaskQueue covering single and multiple task runs, suspension and resume, and idle notification via a test task runner.
+// ---
+
 #include "components/offline_pages/task/task_queue.h"
 
 #include <memory>

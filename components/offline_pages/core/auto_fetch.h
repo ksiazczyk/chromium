@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-fetch client ID metadata declarations
+// summary: Declares ClientIdMetadata and helpers to build and extract client IDs carrying the initiating Android tab ID.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_AUTO_FETCH_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_AUTO_FETCH_H_
 

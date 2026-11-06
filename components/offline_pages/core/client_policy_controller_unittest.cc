@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client policy controller unit tests
+// summary: Unit tests verifying lifetime type, download support, and tab restriction policies for offline page client namespaces.
+// ---
+
 #include "components/offline_pages/core/offline_page_client_policy.h"
 
 #include <algorithm>

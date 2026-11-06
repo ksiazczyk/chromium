@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CleanupVisualsTask unit tests
+// summary: Unit tests covering thumbnail cleanup for all combinations of existing or missing pages and expired or valid visuals, plus database failure handling.
+// ---
+
 #include "components/offline_pages/core/model/cleanup_visuals_task.h"
 
 #include <memory>

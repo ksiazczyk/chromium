@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupVisualsTask implementation
+// summary: Implements the task that deletes expired or orphaned page thumbnail rows from the page_thumbnails table in the metadata store.
+// ---
+
 #include "components/offline_pages/core/model/cleanup_visuals_task.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for background_loader
+summary: Lists allowed include rules for the folder, permitting content public browser, test and common headers plus selected blink mojom headers for media streams and window features.

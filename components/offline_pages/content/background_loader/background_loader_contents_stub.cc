@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderContentsStub implementation
+// summary: Implements a test stub that creates a test WebContents via WebContentsTester and records loading state instead of actually loading pages.
+// ---
+
 #include "components/offline_pages/content/background_loader/background_loader_contents_stub.h"
 
 #include "content/public/browser/web_contents.h"

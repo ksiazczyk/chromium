@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTaskRunner implementation
+// summary: Implements TestTaskRunner::RunTask, which executes a task on a RunLoop until its completion callback fires.
+// ---
+
 #include "components/offline_pages/task/test_task_runner.h"
 
 #include "base/functional/bind.h"

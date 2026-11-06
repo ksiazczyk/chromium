@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page client policy struct
+// summary: Declares OfflinePageClientPolicy and lifetime types describing how each client's offline pages expire, are limited, and appear in the Downloads UI.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_CLIENT_POLICY_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_CLIENT_POLICY_H_
 

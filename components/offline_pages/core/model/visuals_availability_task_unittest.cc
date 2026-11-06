@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visuals availability task unit tests
+// summary: Unit tests for VisualsAvailabilityTask covering thumbnail-only, favicon-only, both visuals, missing rows, and database failure cases.
+// ---
+
 #include "components/offline_pages/core/model/visuals_availability_task.h"
 
 #include <memory>

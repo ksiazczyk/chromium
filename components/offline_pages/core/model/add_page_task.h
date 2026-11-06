@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddPageTask class declaration
+// summary: Declares the AddPageTask task class that adds a new offline page to the metadata store and invokes a callback with the AddPageResult.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_ADD_PAGE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_ADD_PAGE_TASK_H_
 
