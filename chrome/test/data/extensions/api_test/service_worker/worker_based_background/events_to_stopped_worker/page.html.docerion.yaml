@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the service worker background events test
+summary: Minimal HTML page titled Unmodified that serves as the tab whose loading events the service worker observes.

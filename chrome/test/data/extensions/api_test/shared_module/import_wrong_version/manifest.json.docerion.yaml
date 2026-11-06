@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module Import Test manifest
+summary: Manifest for a Chrome extension API test that imports a shared module with a minimum version requirement, used to test wrong-version import handling.

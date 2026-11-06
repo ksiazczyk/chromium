@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker with filtered webNavigation listeners
+// summary: Service worker that registers URL-filtered webNavigation.onCommitted listeners and verifies a.html and b.html commits after a browser restart.
+// ---
+
 const TEST_DIR =
     '/extensions/api_test/service_worker/worker_based_background/' +
     'filtered_events_after_restart/';

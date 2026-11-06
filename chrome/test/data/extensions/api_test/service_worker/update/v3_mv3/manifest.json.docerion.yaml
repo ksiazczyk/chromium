@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV3 service worker update test extension manifest
+summary: Manifest for the updated version 3.0 extension that registers sw.js as its manifest_version 3 background service worker in the service worker update API test.

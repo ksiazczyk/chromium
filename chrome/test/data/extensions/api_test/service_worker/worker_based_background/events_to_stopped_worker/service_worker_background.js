@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script for tabs events test
+// summary: Service worker that listens to chrome.tabs.onUpdated, ensures the loading status is seen only once, and reports ready and finished via chrome.test messages.
+// ---
+
 let seenLoading = false;
 
 chrome.tabs.onUpdated.addListener(

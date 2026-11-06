@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty test page for executeScript
+summary: Minimal HTML page titled 'Execute Script Title' that serves as the target page loaded by the tabs.executeScript tests.

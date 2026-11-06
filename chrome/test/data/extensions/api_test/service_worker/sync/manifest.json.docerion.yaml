@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker sync test extension manifest
+summary: Manifest for the extension API test that verifies ServiceWorkerRegistration.sync.register() from an extension.

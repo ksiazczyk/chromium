@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: MIME handler secure-context test page
+summary: HTML page for the MIME handler secure-context extension test that loads handler.js and hosts the inner HTTPS iframe.

@@ -1,0 +1,4 @@
+# Docerion header of webpage.html.
+type: test
+title: Test webpage loading the page script
+summary: Minimal HTML page that loads page.js to drive the service worker registration and fetch steps of the test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the service worker ref count test extension
+summary: Extension manifest that registers service_worker_background.js as the background worker for the ref count API test.

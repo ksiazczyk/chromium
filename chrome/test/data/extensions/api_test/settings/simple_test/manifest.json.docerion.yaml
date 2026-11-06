@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Storage API test extension manifest
+summary: Manifest for the simple test extension, requesting the storage permission and registering background.js as its service worker.

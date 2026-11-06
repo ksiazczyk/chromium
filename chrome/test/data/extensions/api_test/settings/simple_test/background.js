@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage API simple test background script
+// summary: Runs browser tests that verify get, set, remove and key listing behavior across the chrome.storage sync, local and session areas.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 const succeed = chrome.test.succeed;

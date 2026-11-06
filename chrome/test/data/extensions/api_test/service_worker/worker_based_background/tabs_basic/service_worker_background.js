@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script for tabs API tests
+// summary: Runs chrome.tabs API tests such as create, get, query, and duplicate from a service worker-based background script.
+// ---
+
 const tabProps = [];
 
 const createTabUtil = function(urlToLoad, createdCallback) {

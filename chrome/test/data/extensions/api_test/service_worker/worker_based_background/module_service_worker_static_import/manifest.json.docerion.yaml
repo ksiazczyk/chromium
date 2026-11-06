@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for module service worker static import test
+summary: Chrome extension test manifest declaring a module-type service worker background script for testing static imports.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background for webRequest after restart test
+// summary: Service worker script that adds a webRequest onBeforeRequest listener, removes it after the first matching request, and signals the C++ test harness.
+// ---
+
 chrome.webRequest.onBeforeRequest.addListener(
     function listener({tabId, url}) {
       chrome.test.getConfig(function(config) {

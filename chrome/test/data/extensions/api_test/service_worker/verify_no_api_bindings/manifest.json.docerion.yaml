@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the verify_no_api_bindings test extension
+summary: Extension manifest declaring the test that checks extension API bindings are restricted to registered service worker scripts.

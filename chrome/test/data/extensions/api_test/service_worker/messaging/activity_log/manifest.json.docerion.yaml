@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Activity log service worker messaging test extension manifest
+summary: Manifest for a test extension that checks activity log entries for messaging between a tab and a service worker.

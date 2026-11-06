@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for root scope service worker
+summary: Manifest for the test extension that registers service_worker_background.js as its service worker background.

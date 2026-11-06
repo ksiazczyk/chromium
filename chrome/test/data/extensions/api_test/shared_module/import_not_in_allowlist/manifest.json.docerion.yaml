@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module Import Test manifest
+summary: Manifest for the Shared Module Import Test app that imports a shared module by its extension ID.

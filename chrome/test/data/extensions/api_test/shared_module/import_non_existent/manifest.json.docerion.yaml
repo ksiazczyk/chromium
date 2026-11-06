@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module Import Non Existent test manifest
+summary: Manifest for a Chrome extension API test fixture whose extension imports a shared module with a non-existent ID.

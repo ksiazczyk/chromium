@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background test for tabs events
+// summary: Runs chrome.test cases that query, create, update, move, activate, and remove tabs while verifying the corresponding chrome.tabs event listeners fire.
+// ---
+
 const tabProps = [];
 const NEW_TAB_URL = 'chrome://newtab/';
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for MIME handler view service worker test
+summary: Manifest for the test extension that maps text/calendar MIME types to the handler page and loads the background script.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the worker-to-tab messaging test extension
+summary: Manifest for the test extension that registers the content script and service worker background used to test chrome.tabs.sendMessage from a service worker.

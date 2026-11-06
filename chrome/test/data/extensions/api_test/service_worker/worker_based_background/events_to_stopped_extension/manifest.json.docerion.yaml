@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for events-to-stopped extension test
+summary: Manifest for the Chrome extension API test that verifies events are delivered to a service worker-based extension that has been stopped.

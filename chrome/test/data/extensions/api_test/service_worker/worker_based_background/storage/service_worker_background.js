@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background storage API tests
+// summary: Runs chrome.test cases that set, get, measure bytes in use, remove, clear, and observe changes across the local, sync, and session storage areas from a service worker background.
+// ---
+
 const testSetStorage = function(storageArea, key, value) {
   const options = {};
   options[key] = value;

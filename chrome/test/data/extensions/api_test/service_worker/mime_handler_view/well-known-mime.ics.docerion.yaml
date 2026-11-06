@@ -1,0 +1,4 @@
+# Docerion header of well-known-mime.ics.
+type: test
+title: Well-known MIME test calendar resource
+summary: Small fixture resource served as text/calendar so the test extension handles it.

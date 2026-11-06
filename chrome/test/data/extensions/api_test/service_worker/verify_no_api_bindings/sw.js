@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker checking restricted extension API bindings
+// summary: Service worker that verifies only the expected chrome API keys are exposed and reports success or failure back to the page.
+// ---
+
 const expectedKeys = ['csi', 'loadTimes', 'runtime'];
 
 self.onmessage = function(e) {

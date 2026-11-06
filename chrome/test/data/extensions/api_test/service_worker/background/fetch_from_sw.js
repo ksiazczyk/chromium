@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch from service worker handler
+// summary: Service worker message handler that fetches hello.txt and posts the retrieved text back over a port.
+// ---
+
 'use strict';
 
 self.onmessage = function(e) {

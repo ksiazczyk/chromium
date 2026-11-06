@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the worker ref count test
+summary: Minimal HTML page that loads the page.js test logic into the extension page.

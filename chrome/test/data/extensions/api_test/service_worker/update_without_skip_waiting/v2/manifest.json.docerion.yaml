@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for updated extension without skipWaiting (v2)
+summary: Manifest declaring the version 2.0 updated extension used in the service worker update browser test.

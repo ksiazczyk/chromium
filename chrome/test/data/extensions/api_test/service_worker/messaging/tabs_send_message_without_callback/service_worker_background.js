@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background running the tabs.sendMessage test
+// summary: Extension service worker that creates a test tab and calls chrome.tabs.sendMessage without a callback, asserting the round-trip reply succeeds.
+// ---
+
 const TEST_FILE_URL = 'http://127.0.0.1:PORT/extensions/test_file.html';
 
 chrome.test.getConfig((config) => {

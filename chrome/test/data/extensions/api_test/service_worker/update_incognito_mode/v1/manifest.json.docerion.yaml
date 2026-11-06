@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for update incognito mode test extension v1
+summary: Manifest for the v1 test extension, a Manifest V3 extension with a service worker background script.

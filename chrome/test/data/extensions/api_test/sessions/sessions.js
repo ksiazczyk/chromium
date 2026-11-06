@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.sessions API browser test
+// summary: Test script for the chrome.sessions API that creates windows and tabs, checks recently closed entries and verifies onChanged events.
+// ---
+
 const pages = [pageUrl('a'), pageUrl('b'), pageUrl('c')];
 const firstWindowTabIds = [];
 const recentlyClosedSecondWindowTabIds = [];

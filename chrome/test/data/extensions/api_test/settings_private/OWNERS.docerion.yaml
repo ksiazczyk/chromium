@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for settings_private API tests
+summary: Delegates ownership of this test directory to the owners of the settings_private API implementation in chrome/browser.

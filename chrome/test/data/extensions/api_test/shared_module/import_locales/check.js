@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared module locale import check test
+// summary: Test service worker asserting that shared module i18n messages are substituted correctly and can be overridden by the importing extension.
+// ---
+
 chrome.test.assertEq(
     'Shared Module message successfully substituted.',
     chrome.i18n.getMessage('shared_module_message'));

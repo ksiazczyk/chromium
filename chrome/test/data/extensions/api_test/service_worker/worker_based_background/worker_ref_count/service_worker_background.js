@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script for the ref count test
+// summary: Service worker that replies to page messages, counts received test messages, and signals success to the browser once both expected messages arrive.
+// ---
+
 let numMessagesReceived = 0;
 self.onmessage = function(e) {
   const fail = function() {

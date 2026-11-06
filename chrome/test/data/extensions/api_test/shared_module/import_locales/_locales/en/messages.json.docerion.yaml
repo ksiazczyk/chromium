@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Shared module locale import test messages.json
+summary: Chrome extension messages fixture defining an overridden message used by the shared module locale import API test.

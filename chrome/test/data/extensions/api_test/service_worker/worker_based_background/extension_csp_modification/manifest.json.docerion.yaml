@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension CSP modification test manifest
+summary: Manifest for the test extension, declaring a manifest version 2 extension with a service worker as its background.

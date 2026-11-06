@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the service worker notifications test extension
+summary: Extension manifest declaring the notifications permission for the has_permission service worker notification API test.

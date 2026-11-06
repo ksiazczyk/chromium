@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Service worker registration failure test manifest
+summary: Manifest for the extension API test that registers a service worker background script to exercise registration failure.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onStartup service worker extension test
+summary: Manifest for a test extension that registers service_worker_background.js as its service worker to exercise the onStartup event in browser tests.

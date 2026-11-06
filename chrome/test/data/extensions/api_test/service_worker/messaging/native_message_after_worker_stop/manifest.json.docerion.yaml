@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for native messaging after worker stop
+summary: Manifest for a Chrome extension API test that verifies service worker shutdown is handled gracefully while a native messaging port remains open.

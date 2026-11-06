@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for port connect test extension
+summary: Manifest version 3 extension manifest that registers the content script for localhost pages and the service worker background for the messaging test.

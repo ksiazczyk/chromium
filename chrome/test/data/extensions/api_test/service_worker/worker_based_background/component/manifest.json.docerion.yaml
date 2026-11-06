@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Component MV3 extension test manifest
+summary: Manifest for the component MV3 test extension, registering background.js as its service worker and requesting the tabs permission for the API test.

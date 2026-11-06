@@ -10,6 +10,12 @@
 // order to succeed. Changes to any prefs listed below or their behavior may
 // result in these tests failing.
 
+// ---docerion
+// type: test
+// title: settingsPrivate API interface tests
+// summary: Tests the chrome.settingsPrivate interface, checking that pref get and set callbacks are invoked correctly and failures are detected.
+// ---
+
 const kTestPrefName = 'autofill.profile_enabled';
 const kTestPrefValue = true;
 

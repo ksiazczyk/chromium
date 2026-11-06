@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page script registering the service worker and relaying results
+// summary: Registers the service worker and forwards its binding check results to the browser test harness via chrome.test messages.
+// ---
+
 let worker = null;
 const FAILURE_MESSAGE = 'FAILURE';
 

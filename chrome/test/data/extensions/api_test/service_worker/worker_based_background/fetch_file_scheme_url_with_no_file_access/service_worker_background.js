@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test asserting file scheme fetch fails
+// summary: Service worker background script that runs a test expecting fetch of a file scheme URL to fail with 'Failed to fetch' when the extension has no file access.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     async function fetchFileSchemeResource() {

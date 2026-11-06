@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page script registering the version 1 service worker
+// summary: Registers sw.js, pings it over a message channel, and reports the pong result via chrome.test.
+// ---
+
 const serviceWorkerPromise = new Promise(function(resolve, reject) {
   navigator.serviceWorker.register('sw.js')
       .then(function() {

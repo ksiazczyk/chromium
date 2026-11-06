@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service worker for content script fetch test
+// summary: Service worker fixture that responds to fetch requests with test strings and claims clients when messaged.
+// ---
+
 self.addEventListener('fetch', function(event) {
   if (event.request.url.indexOf('sw_controlled_check') !== -1) {
     event.respondWith(new Response('SW controlled'));

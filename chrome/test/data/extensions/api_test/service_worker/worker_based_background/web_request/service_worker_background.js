@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background script testing webRequest events
+// summary: Runs chrome.test cases that add webRequest listeners and assert each lifecycle event fires when a tab loads the test page.
+// ---
+
 let tabUrl;
 
 chrome.test.runTests([

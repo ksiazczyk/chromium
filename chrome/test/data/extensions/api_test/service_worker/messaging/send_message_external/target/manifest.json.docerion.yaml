@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for target extension of Messaging_ExternalMessageToWorker test
+summary: Manifest for the target extension used to test runtime.sendMessage and runtime.onMessageExternal between two service worker based extensions.

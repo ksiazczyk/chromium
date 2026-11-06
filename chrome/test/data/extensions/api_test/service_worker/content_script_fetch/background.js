@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for content script fetch API test
+// summary: Test extension background script that opens the controlled page and passes the test when the content script reports a Success message over the runtime port.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   chrome.test.log('got connect');
   port.onMessage.addListener(function(msg) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.runtime misc extension test
+summary: Manifest for the chrome.runtime.* misc extension test, registering a service worker background page.

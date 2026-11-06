@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed storage events test background script
+// summary: Browser test extension background script that verifies chrome.storage.onChanged events for the managed namespace across policy changes and browser restarts.
+// ---
+
 chrome.test.runTests([
   function managedChangeEvents() {
     // This test enters twice to test storage.onChanged() notifications across

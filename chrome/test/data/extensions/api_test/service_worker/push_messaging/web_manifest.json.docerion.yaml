@@ -1,0 +1,4 @@
+# Docerion header of web_manifest.json.
+type: test
+title: Web manifest with GCM sender ID
+summary: Web manifest providing the gcm_sender_id needed for push messaging subscription in the test.

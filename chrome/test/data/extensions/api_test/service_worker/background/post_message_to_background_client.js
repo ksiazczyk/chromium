@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post message to background client test helper
+// summary: Test helper that finds the extension background page among window clients and posts a 'success' message to it.
+// ---
+
 'use strict';
 
 (async () => {

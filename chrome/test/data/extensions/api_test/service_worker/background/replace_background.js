@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch interception replacing background.js
+// summary: Service worker test script that intercepts fetches for /background.js and serves replacement code with an onMessage listener.
+// ---
+
 'use strict';
 
 const backgroundJS =

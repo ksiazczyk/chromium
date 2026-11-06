@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Split-mode incognito storage test manifest
+summary: Manifest for the split-mode incognito test extension that grants the storage permission and registers background.js as its service worker.

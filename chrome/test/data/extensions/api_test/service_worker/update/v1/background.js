@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker update test background script
+// summary: Background script of the version 1 test extension that registers sw.js, pings the active service worker, and reports the pong reply or a failure via chrome.test.sendMessage.
+// ---
+
 const serviceWorkerPromise = new Promise(function(resolve, reject) {
   navigator.serviceWorker.register('sw.js')
       .then(function() {

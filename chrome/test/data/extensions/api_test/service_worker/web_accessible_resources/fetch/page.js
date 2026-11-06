@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch test logic
+// summary: Registers a service worker, fetches the web accessible resource, and verifies responses before and after the worker controls the page.
+// ---
+
 const getTestURL = function() {
   return chrome.runtime.getURL('./data_for_extension');
 };

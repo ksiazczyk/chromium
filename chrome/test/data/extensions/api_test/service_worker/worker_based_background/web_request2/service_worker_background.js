@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background test for webRequest blocking
+// summary: Background service worker script that runs chrome.test cases verifying webRequest.onBeforeRequest can cancel a request and trigger onErrorOccurred.
+// ---
+
 let tabUrl;
 
 chrome.test.runTests([

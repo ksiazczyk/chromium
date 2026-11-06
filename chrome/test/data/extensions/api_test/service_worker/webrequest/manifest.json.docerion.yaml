@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest for the webRequest service worker test
+summary: Manifest for the test extension declaring the background script and the webRequest permissions needed to verify onBeforeRequest triggering.

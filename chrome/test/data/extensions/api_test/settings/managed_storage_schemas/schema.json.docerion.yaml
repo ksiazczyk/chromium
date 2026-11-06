@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: test
+title: Managed storage schema fixture
+summary: JSON schema defining policy properties of various types, used as the managed schema for testing the managed namespace of the Storage API.

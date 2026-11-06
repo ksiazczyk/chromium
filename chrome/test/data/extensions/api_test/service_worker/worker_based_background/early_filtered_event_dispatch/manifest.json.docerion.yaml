@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for early filtered event dispatch test extension
+summary: Manifest for the test extension that verifies a filtered event is dispatched right after a non-lazy listener is added in the browser process.

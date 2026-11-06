@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script registering the test service worker
+// summary: Registers sw.js as the extension service worker and reports readiness or failure through chrome.test messages.
+// ---
+
 window.registerServiceWorker = function() {
   navigator.serviceWorker.register('sw.js')
       .then(function(registration) {

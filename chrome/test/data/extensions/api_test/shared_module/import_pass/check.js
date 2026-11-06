@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared module import pass check script
+// summary: Verifies the shared module was exported correctly, listens for the shared_module_update event, and signals test readiness and success via chrome.test.
+// ---
+
 if (typeof passExported === 'undefined') {
   chrome.test.notifyFail('pass.js was not exported correctly.');
 }

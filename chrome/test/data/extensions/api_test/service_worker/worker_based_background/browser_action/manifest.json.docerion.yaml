@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension manifest for action user gesture test
+summary: Manifest version 3 extension fixture declaring a service worker background and browser action for the user gesture API test.

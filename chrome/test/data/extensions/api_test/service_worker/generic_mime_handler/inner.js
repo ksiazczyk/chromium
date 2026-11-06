@@ -20,6 +20,12 @@
 //   - `error`               -- stringified error if the SW dance threw
 //                              or timed out.
 
+// ---docerion
+// type: test
+// title: Inner iframe secure-context probe script
+// summary: Script in the cross-origin HTTPS iframe that checks isSecureContext, registers inner-sw.js, fetches the probe URL, and reports the results to the parent frame via postMessage.
+// ---
+
 const kSwDanceTimeoutMs = 5000;
 
 function withTimeout(p, label) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for service worker storage no-permissions test
+summary: Test extension manifest declaring a service worker background script with no permissions for storage API tests.

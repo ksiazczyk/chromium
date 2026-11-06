@@ -1,0 +1,4 @@
+# Docerion header of webpage.html.
+type: test
+title: Web accessible resources test webpage
+summary: Test fixture page providing a testIframe helper that loads an extension resource in an iframe and resolves a promise with the iframe's postMessage reply to verify web accessible resources.

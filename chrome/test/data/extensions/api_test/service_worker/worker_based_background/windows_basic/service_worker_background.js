@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker background tests for the windows API
+// summary: Runs chrome.test cases that create, list, and get windows via the chrome.windows API from a service worker background, including Android-specific bounds tolerance handling.
+// ---
+
 const createWindowUtil = function(urlToLoad, createdCallback) {
   try {
     chrome.windows.create(

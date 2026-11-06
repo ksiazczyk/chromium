@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed storage API test background script
+// summary: Runs chrome.test cases verifying that the managed storage namespace exposes policies correctly, filters keys by schema, and rejects writes as read-only.
+// ---
+
 const stringPolicyName = 'string-policy';
 const expectedStringPolicy = {
   'string-policy': 'value',

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for port connect test extension
+summary: Manifest version 3 extension definition that registers the content script and service worker background used by the long-lived connection test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared module import test app manifest
+summary: Manifest for the test app that imports the shared module by ID and uses the background page to run the test.

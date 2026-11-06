@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Settings overrides API test OWNERS
+summary: OWNERS file for the settings_overrides extension API test data that delegates ownership to the settings_overrides API directory.

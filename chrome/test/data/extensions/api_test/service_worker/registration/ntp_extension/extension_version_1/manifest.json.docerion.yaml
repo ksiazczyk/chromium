@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the version 1 NTP test extension
+summary: Manifest version 3 extension manifest that registers background.js as a service worker and overrides the new tab page with ntp.html for the registration test.

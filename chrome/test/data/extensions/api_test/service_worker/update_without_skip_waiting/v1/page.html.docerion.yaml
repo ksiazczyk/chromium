@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test extension page HTML for service worker update test
+summary: HTML page that loads page.js to run the version 1 service worker update test.

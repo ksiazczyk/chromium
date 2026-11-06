@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker script of the MIME handler view test
+// summary: Service worker that intercepts fetch events and reports each request URL to the background page before the response is served.
+// ---
+
 self.addEventListener('fetch', function(event) {
   event.waitUntil((async () => {
     // Find the associated background page from the active clients.

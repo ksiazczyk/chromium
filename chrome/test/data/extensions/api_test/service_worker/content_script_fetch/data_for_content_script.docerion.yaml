@@ -1,0 +1,4 @@
+# Docerion header of data_for_content_script.
+type: data
+title: Test data file for content script fetch
+summary: Fixture resource served to the content script, expected to contain the text 'original data' during the fetch and XMLHttpRequest checks.

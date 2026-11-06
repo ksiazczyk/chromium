@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Home Page Overrider test extension manifest
+summary: Manifest for a test extension that overrides the browser homepage through chrome_settings_overrides in the settings_overrides API test.

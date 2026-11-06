@@ -10,6 +10,12 @@
  * sequentially.
  */
 
+// ---docerion
+// type: test
+// title: Background script for storage.local corruption test extension
+// summary: Implements a command loop that performs chrome.storage.local get, set, and clear operations and reports results back to the C++ ExtensionCorruptLocalSettingsApiTest.
+// ---
+
 // Audit changes (needed for
 // `ExtensionCorruptLocalSettingsApiTest.InvalidJsonClear` verification).
 chrome.storage.onChanged.addListener((changes, namespace) => {

@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: Hello text fixture for the webRequest test
+summary: Small text fixture served during the test so the extension's webRequest listener can observe requests matching hello.txt.

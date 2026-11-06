@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page script for the service worker sync test
+// summary: Registers the service worker and a send-chats sync event, then relays worker messages to chrome.test to verify the sync event fired.
+// ---
+
 const getOnSyncWorkerPromise = function() {
   return new Promise(function(resolve, reject) {
     let serviceWorker;

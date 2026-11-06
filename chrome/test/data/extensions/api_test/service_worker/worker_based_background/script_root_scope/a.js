@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration test script
+// summary: Registers sw.js as a service worker at the root scope and reports success or failure via chrome.test messages.
+// ---
+
 navigator.serviceWorker.register('sw.js')
     .then(function() {
       return navigator.serviceWorker.ready;

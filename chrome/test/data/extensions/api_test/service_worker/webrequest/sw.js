@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch handler for the webRequest test
+// summary: Service worker that handles fetch events, letting fallthrough requests pass through and responding with fetch for respondWithFetch requests.
+// ---
+
 self.addEventListener('fetch', event => {
   if (event.request.url.indexOf('fallthrough') !== -1) {
     return;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page script messaging the service worker
+// summary: Page script that posts messages to the active service worker over message channels and reports success or failure via chrome.test.
+// ---
+
 const FAILURE_MESSAGE = 'FAILURE';
 
 function getServiceWorker() {

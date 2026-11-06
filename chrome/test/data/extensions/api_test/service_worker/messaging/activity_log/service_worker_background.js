@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker activity log messaging API test
+// summary: Runs browser tests asserting that runtime.onConnect events and runtime.connect calls are recorded in the extension activity log.
+// ---
+
 const FRIEND_EXTENSION_ID = 'knldjmfmopnpolahpmmgbagdohdnhkik';
 
 const assertCorrectLog = function(activityType, apiCall, result) {

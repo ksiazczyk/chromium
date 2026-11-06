@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page loading the service worker registration script
+summary: Minimal HTML page that loads the page script driving the service worker API bindings test.
