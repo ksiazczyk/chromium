@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility data for dl test
+summary: Expected Android external accessibility snapshot for the description list test, including collection item info and role descriptions.

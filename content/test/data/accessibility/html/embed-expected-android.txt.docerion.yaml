@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for embed element test
+summary: Expected Android accessibility tree snapshot for a page with an embed element, showing a disabled view with an object role description.

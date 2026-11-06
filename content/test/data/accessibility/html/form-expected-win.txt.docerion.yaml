@@ -1,0 +1,4 @@
+# Docerion header of form-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for form test
+summary: Expected MSAA/IA2 accessibility tree snapshot for the HTML form test on Windows with document, section and pushbutton roles.

@@ -1,0 +1,4 @@
+# Docerion header of header-inside-other-section.html.
+type: test
+title: Header inside other section test page
+summary: HTML test page placing header elements inside article, section and main to verify their accessibility roles across platforms.

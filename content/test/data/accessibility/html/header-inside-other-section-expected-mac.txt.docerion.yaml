@@ -1,0 +1,4 @@
+# Docerion header of header-inside-other-section-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for header inside other section test
+summary: Expected macOS accessibility tree snapshot for headers nested in article, section and main.

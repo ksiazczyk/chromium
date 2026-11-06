@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-android-external.txt.
+type: test
+title: Android external expectation for dfn
+summary: Expected external Android accessibility view dump for the dfn element test with term role description, actions and bundle info.

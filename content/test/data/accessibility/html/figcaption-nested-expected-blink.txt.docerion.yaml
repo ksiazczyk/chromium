@@ -1,0 +1,4 @@
+# Docerion header of figcaption-nested-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for nested figcaption test
+summary: Expected Blink accessibility tree for the nested figcaption test page, covering external and internal captions in nested figure elements.

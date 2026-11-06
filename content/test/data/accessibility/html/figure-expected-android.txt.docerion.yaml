@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for figure test
+summary: Expected Android accessibility tree snapshot for the figure test, listing a WebView containing a graphic view and an image with content description Sunspots.

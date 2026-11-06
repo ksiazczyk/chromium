@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for figcaption test
+summary: Expected macOS accessibility tree for the figcaption test page, describing AXImage and AXStaticText nodes for the two captioned figures.

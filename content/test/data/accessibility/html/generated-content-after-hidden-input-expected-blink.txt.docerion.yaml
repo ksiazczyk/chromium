@@ -1,0 +1,4 @@
+# Docerion header of generated-content-after-hidden-input-expected-blink.txt.
+type: test
+title: Generated content after hidden input expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the generated content after hidden input test page.

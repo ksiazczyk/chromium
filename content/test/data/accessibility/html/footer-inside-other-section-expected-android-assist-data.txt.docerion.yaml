@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-other-section-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for footers inside other sections
+summary: Expected Android assist structure for footers nested inside article, section and main elements.

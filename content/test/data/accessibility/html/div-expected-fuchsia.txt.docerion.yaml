@@ -1,0 +1,4 @@
+# Docerion header of div-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for div test
+summary: Expected Fuchsia accessibility tree snapshot for a page with focusable and unfocusable divs.

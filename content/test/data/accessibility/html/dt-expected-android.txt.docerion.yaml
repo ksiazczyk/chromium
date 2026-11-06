@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for dt test
+summary: Expected Android accessibility tree for the dt test page, describing a ListView with term and definition views named Coffee and Black hot drink.

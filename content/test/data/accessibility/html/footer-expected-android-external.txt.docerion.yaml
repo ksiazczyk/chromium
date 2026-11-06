@@ -1,0 +1,4 @@
+# Docerion header of footer-expected-android-external.txt.
+type: test
+title: Footer expected Android external accessibility tree
+summary: Expected Android external accessibility tree output for the footer element test, showing the footer role and its text.

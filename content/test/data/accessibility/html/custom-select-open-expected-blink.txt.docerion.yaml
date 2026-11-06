@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-blink.txt.
+type: test
+title: Custom select open expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the opened custom select currency picker with five currency menu items.

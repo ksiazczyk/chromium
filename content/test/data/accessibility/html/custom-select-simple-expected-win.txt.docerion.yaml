@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for simple custom select
+summary: Expected Windows accessibility tree snapshot for the closed simple custom select test page.

@@ -1,0 +1,4 @@
+# Docerion header of div-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for div test
+summary: Expected Android accessibility tree snapshot for a page with focusable and unfocusable divs.

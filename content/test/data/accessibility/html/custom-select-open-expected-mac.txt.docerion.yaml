@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-mac.txt.
+type: test
+title: Custom select open expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the opened custom select currency picker with five currency menu items.

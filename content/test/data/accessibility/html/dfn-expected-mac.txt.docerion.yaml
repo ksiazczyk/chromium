@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-mac.txt.
+type: test
+title: dfn expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the dfn test page, with an AXGroup term and static text for the Web Browser definition.

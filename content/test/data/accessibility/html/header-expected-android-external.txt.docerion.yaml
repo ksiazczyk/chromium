@@ -1,0 +1,4 @@
+# Docerion header of header-expected-android-external.txt.
+type: test
+title: Header element Android external expectation
+summary: Expected Android external accessibility output for the header element test page, describing the banner landmark and its focus actions.

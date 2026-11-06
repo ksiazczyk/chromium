@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-android-external.txt.
+type: test
+title: Frameset expected Android external accessibility tree snapshot
+summary: Expected Android accessibility tree with actions and bundle details for the frameset test covering iframes, deletion, insertion and mark elements.

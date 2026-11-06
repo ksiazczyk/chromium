@@ -1,0 +1,4 @@
+# Docerion header of details-expected-auralinux.txt.
+type: test
+title: Details element expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the HTML details element test page, listing toggle buttons and static text roles.

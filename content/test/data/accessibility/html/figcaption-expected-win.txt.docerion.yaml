@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for figcaption test
+summary: Expected Windows MSAA/IA2 accessibility tree for the figcaption test page, showing document, grouping, graphic and caption roles.

@@ -1,0 +1,4 @@
+# Docerion header of focused-button-with-aria-owns-expected-blink.txt.
+type: test
+title: Focused button with aria-owns expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for a focused button that uses aria-owns to pull in popup content.

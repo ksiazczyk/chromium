@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for figure test
+summary: Expected Fuchsia accessibility tree snapshot for the figure test, showing an image labeled Sunspots inside a focused root node.

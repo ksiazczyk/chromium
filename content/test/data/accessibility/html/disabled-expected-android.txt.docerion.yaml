@@ -1,0 +1,4 @@
+# Docerion header of disabled-expected-android.txt.
+type: test
+title: Disabled expected accessibility tree for Android
+summary: Expected Android accessibility tree snapshot for the disabled controls HTML test page with checkboxes, buttons and forms.

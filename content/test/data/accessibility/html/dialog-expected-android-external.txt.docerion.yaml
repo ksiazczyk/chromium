@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-android-external.txt.
+type: test
+title: dialog expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the dialog test page, describing a focusable alert dialog with focus actions.

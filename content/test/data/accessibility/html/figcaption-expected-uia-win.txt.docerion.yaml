@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for figcaption test
+summary: Expected UIA accessibility tree for the figcaption test page on Windows, with image and text elements for the two captioned figures.

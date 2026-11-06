@@ -1,0 +1,4 @@
+# Docerion header of em-expected-fuchsia.txt.
+type: test
+title: Em element expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the em test, showing static text labels for the sentence containing the emphasized word.

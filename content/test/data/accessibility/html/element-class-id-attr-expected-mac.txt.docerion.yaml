@@ -1,0 +1,4 @@
+# Docerion header of element-class-id-attr-expected-mac.txt.
+type: test
+title: Element class and id attribute expected Mac accessibility tree
+summary: Expected Mac accessibility tree snapshot for the element-class-id-attr test, showing AXDOMClassList values before and after the heading class changes.

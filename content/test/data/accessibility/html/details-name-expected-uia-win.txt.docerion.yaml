@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-uia-win.txt.
+type: test
+title: UIA Windows expected tree for details-name
+summary: Expected Windows UIA accessibility tree snapshot for the details-name test with expand-collapse states and set positions.

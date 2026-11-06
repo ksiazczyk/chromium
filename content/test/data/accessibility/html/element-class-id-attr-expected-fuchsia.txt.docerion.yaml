@@ -1,0 +1,4 @@
+# Docerion header of element-class-id-attr-expected-fuchsia.txt.
+type: test
+title: element-class-id-attr expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the element-class-id-attr.html test page.

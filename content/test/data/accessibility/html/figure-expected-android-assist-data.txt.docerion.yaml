@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for figure test
+summary: Expected Android assist data snapshot for the figure test page, describing a WebView containing a figure with a sunspots image.

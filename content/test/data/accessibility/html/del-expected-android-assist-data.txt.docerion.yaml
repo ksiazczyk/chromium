@@ -1,0 +1,4 @@
+# Docerion header of del-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for del.html
+summary: Expected Android assist data snapshot showing a paragraph with deleted text for the del test.

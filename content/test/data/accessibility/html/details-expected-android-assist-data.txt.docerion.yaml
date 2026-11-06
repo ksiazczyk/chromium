@@ -1,0 +1,4 @@
+# Docerion header of details-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the details element test
+summary: Expected Android assist data snapshot for the details element test page, describing views for details, summary and paragraph nodes.

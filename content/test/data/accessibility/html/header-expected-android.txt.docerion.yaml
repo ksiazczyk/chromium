@@ -1,0 +1,4 @@
+# Docerion header of header-expected-android.txt.
+type: test
+title: Header element Android accessibility expectation
+summary: Expected Android accessibility tree for the header element test page, showing a banner view named Chromium Browser.

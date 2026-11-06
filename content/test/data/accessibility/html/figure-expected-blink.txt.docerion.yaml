@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for figure test
+summary: Expected Blink internal accessibility tree snapshot for the figure test, showing a figure node containing an image named Sunspots.

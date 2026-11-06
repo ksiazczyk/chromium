@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-android-external.txt.
+type: test
+title: Figcaption expected Android external tree
+summary: Expected Android external accessibility tree for the figcaption test page with image and figcaption actions.

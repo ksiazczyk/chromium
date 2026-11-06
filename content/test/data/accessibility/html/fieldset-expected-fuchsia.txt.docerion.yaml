@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-fuchsia.txt.
+type: test
+title: Fieldset expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the fieldset test page, with labels for the two fieldset groups.

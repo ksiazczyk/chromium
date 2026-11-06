@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-other-section-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for footers in sections
+summary: Expected Blink internal accessibility tree for footers inside article, section and main elements.

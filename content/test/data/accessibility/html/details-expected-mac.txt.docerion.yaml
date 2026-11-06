@@ -1,0 +1,4 @@
+# Docerion header of details-expected-mac.txt.
+type: test
+title: Details element expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the HTML details element test page, with disclosure triangle buttons and static text.

@@ -1,0 +1,4 @@
+# Docerion header of details-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for details element test
+summary: Expected Android external accessibility snapshot for the details element test page, listing actions and roles for disclosure triangles and paragraphs.

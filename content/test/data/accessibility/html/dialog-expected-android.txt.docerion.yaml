@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-android.txt.
+type: test
+title: dialog expected Android accessibility tree
+summary: Expected Android accessibility tree for the dialog test page, showing a WebView containing an alert dialog named Text in dialog.

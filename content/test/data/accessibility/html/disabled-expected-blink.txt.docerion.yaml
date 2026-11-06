@@ -1,0 +1,4 @@
+# Docerion header of disabled-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disabled controls test
+summary: Expected Blink accessibility tree snapshot showing how enabled and disabled checkboxes, buttons and forms are exposed.

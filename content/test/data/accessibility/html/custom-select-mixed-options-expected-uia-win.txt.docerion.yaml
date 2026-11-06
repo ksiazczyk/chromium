@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for custom select with mixed options
+summary: Expected Windows UI Automation accessibility tree snapshot for the custom select with mixed options test.

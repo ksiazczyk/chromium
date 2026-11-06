@@ -1,0 +1,4 @@
+# Docerion header of frameset.html.
+type: test
+title: Frameset accessibility test page
+summary: HTML test page that loads ins.html and mark.html in a two-column frameset for accessibility testing.

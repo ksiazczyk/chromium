@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for form validation message test
+summary: Expected UIA accessibility tree snapshot for the form validation message test on Windows, with text, group and required edit controls.

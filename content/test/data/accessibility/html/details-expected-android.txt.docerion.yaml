@@ -1,0 +1,4 @@
+# Docerion header of details-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the details element test
+summary: Expected Android accessibility tree snapshot for the details element test page, showing collapsed and expanded disclosure triangles.

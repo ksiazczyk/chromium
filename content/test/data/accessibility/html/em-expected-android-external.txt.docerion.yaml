@@ -1,0 +1,4 @@
+# Docerion header of em-expected-android-external.txt.
+type: test
+title: Em element expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the em test, showing the emphasis role for the emphasized word.

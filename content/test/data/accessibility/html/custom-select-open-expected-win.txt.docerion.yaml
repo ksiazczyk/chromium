@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-win.txt.
+type: test
+title: Custom select open expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the custom-select-open test, listing the currency combobox and its option roles.

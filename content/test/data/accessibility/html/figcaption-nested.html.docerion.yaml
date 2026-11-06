@@ -1,0 +1,4 @@
+# Docerion header of figcaption-nested.html.
+type: test
+title: Nested figcaption accessibility test page
+summary: HTML test page with nested figure and figcaption elements used to verify accessibility tree serialization of nested captions.

@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-android.txt.
+type: test
+title: Details name expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the details name test page with role descriptions and expanded states for summary elements.

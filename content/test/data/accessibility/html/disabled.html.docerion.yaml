@@ -1,0 +1,4 @@
+# Docerion header of disabled.html.
+type: test
+title: HTML page with enabled and disabled form controls
+summary: Test page containing enabled and disabled checkboxes, buttons and forms to verify disabled state exposure.

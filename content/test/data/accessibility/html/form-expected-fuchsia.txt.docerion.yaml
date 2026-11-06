@@ -1,0 +1,4 @@
+# Docerion header of form-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia tree for form test
+summary: Expected Fuchsia accessibility tree snapshot for the form test page.

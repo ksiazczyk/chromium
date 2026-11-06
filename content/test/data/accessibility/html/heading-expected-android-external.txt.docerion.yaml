@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-android-external.txt.
+type: test
+title: Heading expected Android external output
+summary: Expected Android external accessibility output for a page containing headings h1 through h6.

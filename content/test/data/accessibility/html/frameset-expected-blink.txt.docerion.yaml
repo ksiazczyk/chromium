@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-blink.txt.
+type: test
+title: Frameset expected Blink accessibility tree snapshot
+summary: Expected Blink accessibility tree for the frameset test covering iframes, deletion, insertion and mark elements.

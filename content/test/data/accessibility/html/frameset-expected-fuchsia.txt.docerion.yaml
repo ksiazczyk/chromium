@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-fuchsia.txt.
+type: test
+title: Frameset expected Fuchsia accessibility tree snapshot
+summary: Expected Fuchsia accessibility tree for the frameset test covering iframes, deletion, insertion and mark elements.

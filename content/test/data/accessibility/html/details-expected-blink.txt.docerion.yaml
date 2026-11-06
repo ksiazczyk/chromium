@@ -1,0 +1,4 @@
+# Docerion header of details-expected-blink.txt.
+type: test
+title: Details element expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the HTML details element test page, including disclosure triangles and hidden content nodes.

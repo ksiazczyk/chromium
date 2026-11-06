@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for form validation message test
+summary: Expected Blink internal accessibility tree snapshot for the form validation message test, including alert, form, label and required text field nodes.

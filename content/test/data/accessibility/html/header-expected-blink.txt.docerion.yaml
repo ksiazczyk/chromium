@@ -1,0 +1,4 @@
+# Docerion header of header-expected-blink.txt.
+type: test
+title: Header element Blink accessibility expectation
+summary: Expected Blink internal accessibility tree for the header element test page, including header and static text nodes.

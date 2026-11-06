@@ -1,0 +1,4 @@
+# Docerion header of generated-content-in-empty-page-expected-blink.txt.
+type: test
+title: Generated content in empty page expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the generated content in empty page test.

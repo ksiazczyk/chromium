@@ -1,0 +1,4 @@
+# Docerion header of del-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the del element test
+summary: Expected Windows accessibility tree snapshot for the del element test page, showing paragraph, static text and content deletion roles.

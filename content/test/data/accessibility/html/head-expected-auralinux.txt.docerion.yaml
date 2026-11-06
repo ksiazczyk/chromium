@@ -1,0 +1,4 @@
+# Docerion header of head-expected-auralinux.txt.
+type: test
+title: Head expected accessibility tree for Linux
+summary: Expected Linux accessibility tree snapshot for the head element test page.

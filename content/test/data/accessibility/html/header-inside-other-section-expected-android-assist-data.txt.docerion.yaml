@@ -1,0 +1,4 @@
+# Docerion header of header-inside-other-section-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for header inside other section test
+summary: Expected Android assist data snapshot showing header elements inside article, section and main for the header-inside-other-section test.

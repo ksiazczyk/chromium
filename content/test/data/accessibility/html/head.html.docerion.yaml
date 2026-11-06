@@ -1,0 +1,4 @@
+# Docerion header of head.html.
+type: test
+title: Head element accessibility test page
+summary: Minimal HTML page with an empty head and body used as input for accessibility tests of the head element.

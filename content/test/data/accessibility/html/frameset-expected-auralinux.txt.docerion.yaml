@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-auralinux.txt.
+type: test
+title: Frameset expected Aura Linux accessibility tree snapshot
+summary: Expected Linux screen reader accessibility tree for the frameset test covering iframes, deletion, insertion and mark elements.

@@ -1,0 +1,4 @@
+# Docerion header of head-expected-mac.txt.
+type: test
+title: Head expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the head element test page.

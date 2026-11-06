@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-android.txt.
+type: test
+title: Heading expected Android output
+summary: Expected Android accessibility tree for a page containing headings h1 through h6.

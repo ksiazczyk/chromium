@@ -1,0 +1,4 @@
+# Docerion header of header-expected-mac.txt.
+type: test
+title: Header element Mac accessibility expectation
+summary: Expected macOS accessibility tree for the header element test page, showing an AXLandmarkBanner group with static text.

@@ -1,0 +1,4 @@
+# Docerion header of em-expected-blink.txt.
+type: test
+title: Em element expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the em test, including an emphasis node with static text and inline text boxes.

@@ -1,0 +1,4 @@
+# Docerion header of footer-expected-blink.txt.
+type: test
+title: Footer expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the footer element test, showing the footer node and its static text.

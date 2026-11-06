@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for form validation message test
+summary: Expected macOS accessibility tree snapshot for the form validation message test, showing an alert group and a text field with error message elements.

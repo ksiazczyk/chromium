@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for the heading test page
+summary: Expected UIA accessibility tree snapshot for the heading test page on Windows, listing text nodes for headings 1 through 6.

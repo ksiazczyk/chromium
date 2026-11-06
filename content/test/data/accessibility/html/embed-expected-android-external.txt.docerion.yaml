@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for embed element test
+summary: Expected Android external format snapshot for a page with an embed element, showing the embedded object as disabled with an object role description.

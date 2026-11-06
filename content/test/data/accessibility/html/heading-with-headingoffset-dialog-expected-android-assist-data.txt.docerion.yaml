@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-dialog-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the headingoffset dialog test
+summary: Empty expected Android assist data file for the headingoffset dialog test, indicating no assist data output is expected.

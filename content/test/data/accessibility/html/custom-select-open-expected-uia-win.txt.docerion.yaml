@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-uia-win.txt.
+type: test
+title: Custom select open expected UIA Windows accessibility tree
+summary: Expected UIA Windows accessibility tree snapshot for the opened custom select currency picker with five currency menu items.

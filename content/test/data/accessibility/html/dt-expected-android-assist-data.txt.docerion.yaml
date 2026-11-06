@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for dt test
+summary: Expected Android assist data accessibility tree for the dt test page, showing WebView, ListView, and TextView nodes for the Coffee term and its definition.

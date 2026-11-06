@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-open-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for open simple custom select
+summary: Expected Android accessibility tree snapshot for the open simple custom select test page.

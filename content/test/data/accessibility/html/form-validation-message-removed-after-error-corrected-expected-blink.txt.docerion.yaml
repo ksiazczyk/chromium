@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-removed-after-error-corrected-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for validation message removal test
+summary: Expected Blink accessibility tree snapshot for the test where the form validation message is removed after the error is corrected, showing the corrected field value.

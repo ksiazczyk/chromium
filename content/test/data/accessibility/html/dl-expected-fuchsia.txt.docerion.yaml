@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for dl test
+summary: Expected Fuchsia accessibility tree snapshot for the description list test page with static text labels for term and definitions.

@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-android-external.txt.
+type: test
+title: Details name expected Android external tree
+summary: Expected Android external accessibility tree for the details name test page, including actions and chromeRole bundles for disclosure triangles.

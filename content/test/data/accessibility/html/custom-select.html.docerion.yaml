@@ -1,0 +1,4 @@
+# Docerion header of custom-select.html.
+type: test
+title: Customizable select currency picker accessibility test page
+summary: HTML test page with a styled customizable currency select using base-select appearance, for accessibility tree verification.

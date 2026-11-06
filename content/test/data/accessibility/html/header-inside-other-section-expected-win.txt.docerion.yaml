@@ -1,0 +1,4 @@
+# Docerion header of header-inside-other-section-expected-win.txt.
+type: test
+title: Header inside other section expected Windows output
+summary: Expected Windows accessibility tree for a page with header elements inside article, section and main landmarks.

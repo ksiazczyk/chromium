@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-uia-win.txt.
+type: test
+title: dfn expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree for the dfn test page on Windows, with a list item and text elements for the Web Browser definition.

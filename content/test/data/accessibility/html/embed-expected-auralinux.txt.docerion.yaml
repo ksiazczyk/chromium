@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for embed element test
+summary: Expected Linux accessibility tree snapshot for a page with an embed element, showing an embedded component under a section.

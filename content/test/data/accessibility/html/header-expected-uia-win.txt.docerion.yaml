@@ -1,0 +1,4 @@
+# Docerion header of header-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for header test
+summary: Expected UIA accessibility tree snapshot for the header HTML accessibility test on Windows.

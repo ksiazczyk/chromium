@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-mac.txt.
+type: test
+title: Fieldset expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the fieldset test page, using AXFieldset subroles and static text.

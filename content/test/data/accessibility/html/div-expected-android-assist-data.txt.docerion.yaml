@@ -1,0 +1,4 @@
+# Docerion header of div-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for div test
+summary: Expected Android assist data snapshot showing focusable and unfocusable divs with their text views.

@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-android-assist-data.txt.
+type: test
+title: Figcaption expected Android assist data
+summary: Expected Android assist data dump for the figcaption test page, showing figure, image and figcaption views.

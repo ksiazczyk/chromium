@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-mac.txt.
+type: test
+title: Custom select simple expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the custom-select-simple test with a pop up button named Fruit and an Apple menu item.

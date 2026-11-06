@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-auralinux.txt.
+type: test
+title: dfn expected accessibility tree for Aura Linux
+summary: Expected accessibility tree snapshot for the dfn test page on Aura Linux, describing the description term and its definition text.

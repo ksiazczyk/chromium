@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-other-section.html.
+type: test
+title: Footer inside other sections accessibility test page
+summary: HTML test page with footer elements inside article, section and main to verify landmark and role mapping.

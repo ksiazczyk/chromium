@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-android.txt.
+type: test
+title: Custom select open expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the opened custom select currency picker test.

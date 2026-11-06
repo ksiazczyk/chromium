@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-uia-win.txt.
+type: test
+title: Frameset expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree snapshot for the frameset test page on Windows.

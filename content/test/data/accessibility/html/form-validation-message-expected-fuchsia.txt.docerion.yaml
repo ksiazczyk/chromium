@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for form validation message test
+summary: Expected Fuchsia accessibility tree snapshot for the form validation message test with label and text field nodes.

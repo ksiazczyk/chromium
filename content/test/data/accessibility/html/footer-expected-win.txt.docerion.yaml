@@ -1,0 +1,4 @@
+# Docerion header of footer-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for footer element
+summary: Expected MSAA/IA2 accessibility tree snapshot for the HTML footer element test on Windows.

@@ -1,0 +1,4 @@
+# Docerion header of div-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility tree for div test
+summary: Expected external Android accessibility snapshot showing focusable and unfocusable divs.

@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-android.txt.
+type: test
+title: Android expected accessibility tree for dfn
+summary: Expected Android accessibility tree snapshot for the dfn element test showing the term role and definition text.

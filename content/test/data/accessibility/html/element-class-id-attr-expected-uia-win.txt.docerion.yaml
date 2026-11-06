@@ -1,0 +1,4 @@
+# Docerion header of element-class-id-attr-expected-uia-win.txt.
+type: test
+title: Element class and id attribute expected UIA Windows accessibility tree
+summary: Expected UIA Windows accessibility tree snapshot for the element-class-id-attr test, listing ClassName values before and after the class change.

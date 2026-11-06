@@ -1,0 +1,4 @@
+# Docerion header of dd-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for dd.html
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the dd.html definition list test.

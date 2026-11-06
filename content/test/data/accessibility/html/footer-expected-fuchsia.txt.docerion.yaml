@@ -1,0 +1,4 @@
+# Docerion header of footer-expected-fuchsia.txt.
+type: test
+title: Footer expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree output for the footer element test, showing static text labels for the footer.

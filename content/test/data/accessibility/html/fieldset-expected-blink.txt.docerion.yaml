@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-blink.txt.
+type: test
+title: Fieldset expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the fieldset test page, showing group, legend and static text nodes.

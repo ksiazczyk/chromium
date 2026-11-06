@@ -1,0 +1,4 @@
+# Docerion header of div-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for div test
+summary: Expected Aura Linux accessibility tree snapshot for a page with focusable and unfocusable divs.

@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for dl test
+summary: Expected Android accessibility tree snapshot for the description list test page with term and definition nodes.

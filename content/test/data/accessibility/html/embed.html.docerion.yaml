@@ -1,0 +1,4 @@
+# Docerion header of embed.html.
+type: test
+title: HTML test page with embed element
+summary: HTML test page containing an embed element that loads a SWF media file, serving as input for accessibility tree tests.

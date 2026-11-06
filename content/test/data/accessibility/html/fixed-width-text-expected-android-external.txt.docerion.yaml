@@ -1,0 +1,4 @@
+# Docerion header of fixed-width-text-expected-android-external.txt.
+type: test
+title: Fixed-width text expected Android external accessibility tree
+summary: Expected Android external accessibility tree output for the fixed-width text test page, showing a paragraph with the text Hello, World.

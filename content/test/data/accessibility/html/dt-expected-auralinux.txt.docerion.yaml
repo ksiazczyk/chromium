@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for dt test
+summary: Expected Aura Linux accessibility tree for the dt test page, showing description list, term, and value nodes with static text.
