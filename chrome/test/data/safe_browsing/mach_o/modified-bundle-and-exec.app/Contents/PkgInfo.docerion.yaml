@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo of modified-bundle-and-exec test app bundle
+summary: Standard macOS bundle PkgInfo file holding the APPL package type, part of the modified-bundle-and-exec Safe Browsing test fixture.

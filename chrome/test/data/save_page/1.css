@@ -3,6 +3,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Save page test stylesheet 1.css
+summary: Small stylesheet referenced by save-page test pages to exercise saving of linked CSS resources.
+*/
+
 body {
   font-size: 20px;
 }

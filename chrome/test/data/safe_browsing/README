@@ -1,2 +1,8 @@
+---
+type: readme
+title: Safe Browsing test data README
+summary: Explains that signed_binary.dll is a signed copy of chrome_elf.dll used by binary_integrity_service_win_unittest.cc.
+---
+
 signed_binary.dll is a signed version of chrome_elf.dll used by
 binary_integrity_service_win_unittest.cc.

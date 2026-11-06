@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist for modified-main-exec32 test app bundle
+summary: Bundle metadata property list for the modified-main-exec32 test app used in Safe Browsing Mach-O tests, declaring the test-bundle executable, identifier, and build details.

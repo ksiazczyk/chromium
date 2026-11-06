@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup logic for sending telemetry trigger actions
+// summary: Popup script that forwards button clicks as action messages to the content script and invokes executeScript to trigger the telemetry signals.
+// ---
+
 function sendAction(actionName) {
   chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
     if (tabs.length === 0)

@@ -1,0 +1,4 @@
+# Docerion header of utf8.html.
+type: test
+title: UTF-8 encoded HTML test page
+summary: Simple HTML page titled foo that declares UTF-8 via a meta charset tag, used to test encoding handling.

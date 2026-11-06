@@ -1,0 +1,4 @@
+# Docerion header of frames-nested2.htm.
+type: test
+title: frames-nested2.htm
+summary: Inner test page embedded by frames-nested.htm, carrying a content verification marker plus its own iframe and image.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Download protection test binaries and archives README
+summary: Documents the executable and zip test fixtures for SignatureUtil and lists the commands used to sign and regenerate them.
+---
+
 This directory contains some executable files for testing the SignatureUtil
 implementations.  Instructions for regenerating these executables:
 

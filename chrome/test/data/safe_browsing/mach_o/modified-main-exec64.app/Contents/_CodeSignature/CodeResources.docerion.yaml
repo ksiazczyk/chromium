@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources test fixture for modified-main-exec64.app
+summary: macOS code-signing resource plist with file hashes and signing rules, used as test data for Safe Browsing Mach-O app bundle tests.

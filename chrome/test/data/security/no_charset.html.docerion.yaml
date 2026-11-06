@@ -1,0 +1,4 @@
+# Docerion header of no_charset.html.
+type: test
+title: HTML page without charset declaration
+summary: Simple HTML page titled foo that lacks any charset declaration, used to test encoding detection behavior.

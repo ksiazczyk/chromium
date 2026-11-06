@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git attributes for save page test data
+# summary: Git attributes that normalize line endings and mark the encoding test HTML files as binary so their content is preserved.
+# ---
+
 # Set the default behavior, in case people don't have core.autocrlf set.
 * text=auto
 

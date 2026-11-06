@@ -1,0 +1,4 @@
+# Docerion header of respond_with_fetch_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for respond-with-fetch worker
+summary: Mock HTTP response headers served when the respond-with-fetch service worker script is requested during tests.

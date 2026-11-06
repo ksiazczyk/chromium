@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup UI for triggering DOM activity telemetry signals
+summary: Extension popup page with grouped buttons for confidentiality DOM access and integrity script and DOM injection test actions.

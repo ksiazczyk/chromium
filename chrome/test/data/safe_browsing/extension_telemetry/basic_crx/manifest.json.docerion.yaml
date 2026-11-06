@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the simple test extension
+summary: Manifest for the basic test extension used in safe browsing extension telemetry tests, declaring a background script and broad host permissions.

@@ -1,0 +1,4 @@
+# Docerion header of import_scripts_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for import_scripts_worker.js
+summary: Mock HTTP response headers that serve import_scripts_worker.js as JavaScript with Service-Worker-Allowed set in tests.

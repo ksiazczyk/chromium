@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist for the modified-bundle test app
+summary: Bundle metadata property list describing the test-bundle executable and identifiers for the modified-bundle.app fixture used in Safe Browsing Mach-O tests.

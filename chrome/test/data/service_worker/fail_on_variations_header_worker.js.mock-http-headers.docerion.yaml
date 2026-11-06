@@ -1,0 +1,4 @@
+# Docerion header of fail_on_variations_header_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for fail_on_variations_header_worker.js
+summary: Mock HTTP response headers serving the variations-header worker as JavaScript with root scope allowed.

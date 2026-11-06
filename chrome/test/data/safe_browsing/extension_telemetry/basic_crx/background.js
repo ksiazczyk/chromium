@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic CRX background script for extension telemetry tests
+// summary: Background script of a test extension that fetches a test file over HTTP and opens a WebSocket against the test server for safe browsing telemetry tests.
+// ---
+
 chrome.test.getConfig(function(config) {
   var baseUrl = 'http://example.com:' + config.testServer.port;
   chrome.test.runTests([async function makeRequest() {

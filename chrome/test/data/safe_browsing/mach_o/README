@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for safe browsing Mach-O test data
+summary: Explains that the directory holds checked-in Mach-O binaries for Mac safe browsing unit tests and how to regenerate and re-sign them with the Makefile.
+---
+
 This directory contains test data for //chrome/common/safe_browsing unit tests
 on Mac OS X. The compiled binaries are checked in because the tests check
 specific values in the load commands, which will change on being recompiled.

@@ -1,0 +1,4 @@
+# Docerion header of text.txt.
+type: test
+title: Text resource with verification marker
+summary: Plain text resource carrying a content verification marker for save page tests.

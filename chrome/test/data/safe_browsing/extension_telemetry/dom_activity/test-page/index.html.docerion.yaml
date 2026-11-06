@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Telemetry Signal Test Page
+summary: HTML test page with inputs, scripts, iframes, forms and links that a test extension interacts with to trigger DOM activity confidentiality and integrity telemetry signals.

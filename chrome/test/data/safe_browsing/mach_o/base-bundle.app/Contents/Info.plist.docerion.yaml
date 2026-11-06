@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Test bundle Info.plist
+summary: Property list describing the test-bundle macOS app bundle, used as Safe Browsing Mach-O test data.

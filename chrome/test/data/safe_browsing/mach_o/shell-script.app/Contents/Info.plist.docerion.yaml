@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist for shell-script.app test bundle
+summary: Property list with bundle metadata (identifier google-test.test-bundle, executable test-bundle) for the shell-script.app fixture used in Safe Browsing Mach-O tests.

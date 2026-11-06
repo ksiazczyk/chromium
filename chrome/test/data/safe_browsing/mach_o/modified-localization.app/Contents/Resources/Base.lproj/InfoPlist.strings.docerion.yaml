@@ -1,0 +1,4 @@
+# Docerion header of InfoPlist.strings.
+type: test
+title: InfoPlist.strings
+summary: Deliberately corrupted localization strings fixture in the modified-localization.app bundle, used as Safe Browsing Mach-O test data.

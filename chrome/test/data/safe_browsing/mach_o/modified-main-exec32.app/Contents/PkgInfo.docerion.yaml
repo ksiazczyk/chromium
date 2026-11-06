@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo for modified-main-exec32 test app bundle
+summary: Standard macOS PkgInfo marker file containing APPL???? that belongs to the modified-main-exec32 test app bundle used as Safe Browsing test data.

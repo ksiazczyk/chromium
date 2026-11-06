@@ -1,0 +1,4 @@
+# Docerion header of dubious-subresources.html.
+type: test
+title: Dubious subresources save page test page
+summary: Test page that references a .crx file as an image subresource to test handling of dubious subresource links when saving.

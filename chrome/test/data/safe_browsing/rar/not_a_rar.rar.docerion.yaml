@@ -1,0 +1,4 @@
+# Docerion header of not_a_rar.rar.
+type: test
+title: not_a_rar.rar test fixture
+summary: Plain text file with a .rar name that serves as a negative test case for Safe Browsing archive inspection.

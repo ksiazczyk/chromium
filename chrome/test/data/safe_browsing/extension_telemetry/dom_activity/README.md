@@ -1,3 +1,11 @@
+---
+type: readme
+title: DOM Activity Telemetry Tester
+summary: Instructions for loading the test extension and test page to trigger DOM access and script injection telemetry signals for testing Chromium instrumentation.
+relations:
+  - documents /chrome/test/data/safe_browsing/extension_telemetry/dom_activity/test-page/index.html
+---
+
 # DOM Activity Telemetry Tester
 
 This project contains a Chrome extension and a test page designed to trigger specific DOM Access and Script Injection telemetry signals for testing the underlying Chromium C++ instrumentation.

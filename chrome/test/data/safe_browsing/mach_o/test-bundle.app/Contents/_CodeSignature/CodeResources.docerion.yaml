@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources plist for Mach-O test bundle
+summary: Code signature resource manifest for the test-bundle.app fixture, listing hashed bundle files and signing rules used by Mach-O safe browsing tests.

@@ -4,6 +4,12 @@
 
 // This script contains functions to trigger various TelemetrySignalTypes
 
+// ---docerion
+// type: test
+// title: Content script triggering DOM activity telemetry signals
+// summary: Content script that performs cookie and input reads plus script, iframe, and form injection actions on message, to generate confidentiality and integrity telemetry signals.
+// ---
+
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   let status = 'Unknown action';
   try {

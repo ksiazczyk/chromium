@@ -1,0 +1,4 @@
+# Docerion header of frames-objects.htm.
+type: test
+title: frames-objects.htm
+summary: Test page exercising object elements referencing HTML, PNG, PDF, SVG and text resources alongside a regular iframe for save-page tests.

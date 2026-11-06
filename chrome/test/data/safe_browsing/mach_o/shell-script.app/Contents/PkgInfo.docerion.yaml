@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo for shell-script.app test bundle
+summary: Standard macOS package signature file containing APPL???? that completes the shell-script.app test bundle fixture for Safe Browsing tests.

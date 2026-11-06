@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources manifest for modified bundle test fixture
+summary: Code signing resource manifest listing hashed bundle files and sealing rules, used as test data for the modified-bundle-and-exec Safe Browsing Mach-O test case.

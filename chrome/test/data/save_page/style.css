@@ -7,4 +7,10 @@
  * We can't do it yet due to lack of link rewriting for this direcive
  * in case of Complete-HTML. */
 
+/*docerion
+type: test
+title: Test stylesheet for the style.htm save page test
+summary: Test stylesheet defining hidden iframe styling used by style.htm to exercise CSS handling when saving pages.
+*/
+
 .iframeB { visibility: hidden; }

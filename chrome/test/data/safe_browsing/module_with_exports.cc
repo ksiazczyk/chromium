@@ -31,6 +31,12 @@
 // /DEBUG /MACHINE:X64 /SUBSYSTEM:CONSOLE /INCREMENTAL:NO /FIXED:NO /OPT:REF
 // /OPT:ICF /LTCG /PROFILE /DYNAMICBASE /NXCOMPAT /MANIFEST /MANIFESTUAC:NO
 
+// ---docerion
+// type: test
+// title: Dummy module source for test DLL builds
+// summary: Dummy C++ source exporting a single symbol, built with official-like compiler and linker flags to produce the module_with_exports test DLLs.
+// ---
+
 #include <windows.h>
 
 extern "C" __declspec(dllexport) void AnExport(void) {

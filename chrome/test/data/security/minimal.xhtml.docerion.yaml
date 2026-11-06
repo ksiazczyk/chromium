@@ -1,0 +1,4 @@
+# Docerion header of minimal.xhtml.
+type: test
+title: Minimal XHTML test page
+summary: Minimal XHTML document with an empty body, serving as simple test data for security tests.

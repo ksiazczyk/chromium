@@ -1,0 +1,4 @@
+# Docerion header of frames-runtime-changes.htm.
+type: test
+title: frames-runtime-changes.htm
+summary: Test page whose JavaScript rewrites iframe contents at runtime, verifying that saved pages preserve differing subframe content.

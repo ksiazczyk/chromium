@@ -1,0 +1,4 @@
+# Docerion header of cookies.html.
+type: test
+title: Persistent cookie test page
+summary: Test page that sets a two-day persistent cookie and reports whether it persists via the document title.

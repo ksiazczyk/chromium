@@ -1,0 +1,4 @@
+# Docerion header of simple_exe.txt.
+type: source
+title: Minimal C++ test executable source
+summary: Trivial C++ program serving as the source for the unsigned.exe fixture used in download protection signature tests.

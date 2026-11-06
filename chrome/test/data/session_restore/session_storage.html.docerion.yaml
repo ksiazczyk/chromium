@@ -1,0 +1,4 @@
+# Docerion header of session_storage.html.
+type: test
+title: Session storage test page
+summary: Test page that stores a query-parameter value or a default in sessionStorage and reports the result via the document title.

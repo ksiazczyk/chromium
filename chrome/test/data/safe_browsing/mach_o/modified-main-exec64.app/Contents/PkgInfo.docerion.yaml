@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo of the modified-main-exec64 test app bundle
+summary: Standard macOS package type and signature marker (APPL????) completing the Contents directory of the modified-main-exec64.app Safe Browsing test fixture.

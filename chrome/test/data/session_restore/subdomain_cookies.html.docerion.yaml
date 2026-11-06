@@ -1,0 +1,4 @@
+# Docerion header of subdomain_cookies.html.
+type: test
+title: Subdomain cookie test page
+summary: Test page that sets a persistent cookie scoped to the .test.com domain and reports the result via the document title.

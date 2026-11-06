@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist of modified-localization test app bundle
+summary: Property list describing the test-bundle application used as Safe Browsing test data for Mach-O analysis.

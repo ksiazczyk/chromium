@@ -1,0 +1,4 @@
+# Docerion header of network_fallback_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for network fallback worker
+summary: Mock HTTP response headers served when the network fallback service worker script is requested during tests.

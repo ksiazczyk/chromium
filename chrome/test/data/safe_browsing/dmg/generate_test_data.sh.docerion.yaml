@@ -1,0 +1,4 @@
+# Docerion header of generate_test_data.sh.
+type: script
+title: Generate Safe Browsing DMG test data
+summary: Shell script that creates HFS images and DMG files in various formats and layouts, then packages them for CIPD upload.

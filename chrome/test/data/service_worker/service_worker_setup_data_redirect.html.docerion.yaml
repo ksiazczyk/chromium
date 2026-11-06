@@ -1,0 +1,4 @@
+# Docerion header of service_worker_setup_data_redirect.html.
+type: test
+title: Setup page for data redirect service worker
+summary: Test page that registers the data redirect service worker and reports when it is ready.

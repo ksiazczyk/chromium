@@ -1,0 +1,4 @@
+# Docerion header of codesign.crt.
+type: test
+title: Untrusted code signing certificate
+summary: PEM-encoded self-signed certificate for the untrusted@goat.local identity used to code-sign the Mach-O test binaries.

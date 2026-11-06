@@ -1,0 +1,4 @@
+# Docerion header of c.htm.
+type: test
+title: Save page naming test page c.htm
+summary: Test page titled test.exe that checks a saved page is named test.exe.htm instead of being treated as an executable.
