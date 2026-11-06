@@ -1,0 +1,4 @@
+# Docerion header of custom-select-forbidden-interactive-content.html.
+type: test
+title: Custom select forbidden interactive content test page
+summary: HTML test page that checks select popup mapping when forbidden interactive elements are removed and re-added inside the picker.

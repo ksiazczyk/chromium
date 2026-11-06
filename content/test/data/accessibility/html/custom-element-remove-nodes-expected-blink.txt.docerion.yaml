@@ -1,0 +1,4 @@
+# Docerion header of custom-element-remove-nodes-expected-blink.txt.
+type: test
+title: Custom element remove nodes expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the custom element remove nodes test, showing summary elements after summary children are removed from x-details instances.

@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-android.txt.
+type: test
+title: Expected Android tree for canvas test
+summary: Expected Android accessibility tree for the canvas test, listing two canvas images named Static fallback.

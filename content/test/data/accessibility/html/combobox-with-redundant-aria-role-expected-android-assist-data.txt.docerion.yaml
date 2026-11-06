@@ -1,0 +1,4 @@
+# Docerion header of combobox-with-redundant-aria-role-expected-android-assist-data.txt.
+type: test
+title: Combobox with redundant ARIA role expected Android assist data
+summary: Empty expected assist data snapshot for the combobox with redundant ARIA role test on Android.

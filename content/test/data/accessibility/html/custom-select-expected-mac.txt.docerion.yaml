@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-mac.txt.
+type: test
+title: Custom select expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the custom select currency picker test, showing the pop up button and selected item.

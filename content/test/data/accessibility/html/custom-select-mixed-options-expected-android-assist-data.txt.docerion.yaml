@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for custom select with mixed options
+summary: Empty expected output file for Android assist data of the custom select with mixed options test.

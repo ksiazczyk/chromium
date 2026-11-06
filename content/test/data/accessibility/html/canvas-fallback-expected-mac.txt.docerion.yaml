@@ -1,0 +1,4 @@
+# Docerion header of canvas-fallback-expected-mac.txt.
+type: test
+title: Canvas fallback expected Mac tree
+summary: Expected macOS accessibility tree snapshot for the canvas fallback test, showing AXStaticText values and custom content descriptions.

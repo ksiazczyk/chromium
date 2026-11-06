@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-inside-slot-expected-blink.txt.
+type: test
+title: Custom element with aria-owns inside slot expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the aria-owns inside slot test, showing endnotes plus buttons owned via aria-owns within a slot-assigned group.

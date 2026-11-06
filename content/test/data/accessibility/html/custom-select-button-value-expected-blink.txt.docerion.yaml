@@ -1,0 +1,4 @@
+# Docerion header of custom-select-button-value-expected-blink.txt.
+type: test
+title: Expected Blink tree for custom select button value
+summary: Expected accessibility tree for the custom select button value test on Blink.

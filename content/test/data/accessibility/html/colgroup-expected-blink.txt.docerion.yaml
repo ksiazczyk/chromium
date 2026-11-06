@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-blink.txt.
+type: test
+title: colgroup expected Blink accessibility snapshot
+summary: Expected Blink internal accessibility tree output for the colgroup table test page.

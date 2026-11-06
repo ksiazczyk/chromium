@@ -1,0 +1,4 @@
+# Docerion header of character-locations-expected-android-assist-data.txt.
+type: test
+title: Character locations expected Android assist data
+summary: Expected Android assist-data snapshot for the character-locations HTML test page, listing the accessibility tree with text sizes, styles and HTML info per node.

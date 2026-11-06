@@ -1,0 +1,4 @@
+# Docerion header of code-expected-blink.txt.
+type: test
+title: Code element expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the code element test, including the code node and its inline text box.

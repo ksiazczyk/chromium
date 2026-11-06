@@ -1,0 +1,4 @@
+# Docerion header of combobox-with-redundant-aria-role-expected-android-external.txt.
+type: test
+title: Combobox with redundant ARIA role expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the combobox with redundant ARIA role test page, showing the menu pop up button role description.

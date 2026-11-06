@@ -1,0 +1,4 @@
+# Docerion header of custom-select-button-value.html.
+type: test
+title: Custom select button value test page
+summary: HTML test page exercising a customizable select element with a button value and an option.

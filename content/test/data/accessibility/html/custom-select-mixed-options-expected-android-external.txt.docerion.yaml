@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-android-external.txt.
+type: test
+title: Expected Android external tree for custom select with mixed options
+summary: Expected Android external-format accessibility output for the custom select with mixed options test.

@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for custom select label element
+summary: Empty expected Android assist data output for the custom select label element accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-auralinux.txt.
+type: test
+title: Canvas complex fallback expected Auralinux
+summary: Expected Linux accessibility tree for the canvas-complex-fallback test, showing canvas fallback paragraphs, list items and a block quote.

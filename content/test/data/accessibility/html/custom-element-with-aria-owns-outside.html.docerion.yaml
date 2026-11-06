@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-outside.html.
+type: test
+title: Custom element with aria-owns outside test page
+summary: HTML test page checking how aria-owns resolves for custom element targets outside the owning group.

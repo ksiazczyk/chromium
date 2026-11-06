@@ -1,0 +1,4 @@
+# Docerion header of col-expected-mac.txt.
+type: test
+title: col element expected Mac accessibility output, skipped
+summary: Expected Mac accessibility output for the col test page, containing a skip marker because the role is not mapped.

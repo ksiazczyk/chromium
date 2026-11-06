@@ -1,0 +1,4 @@
+# Docerion header of code-expected-android-assist-data.txt.
+type: test
+title: Code element expected Android assist data
+summary: Expected Android assist-data accessibility tree for the code element test, showing a text view containing 'A piece of computer code'.

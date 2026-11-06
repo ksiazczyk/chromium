@@ -1,0 +1,4 @@
+# Docerion header of col-expected-fuchsia.txt.
+type: test
+title: col element expected Fuchsia accessibility output
+summary: Expected Fuchsia accessibility output for the col test page, describing the table structure with column headers and cells.

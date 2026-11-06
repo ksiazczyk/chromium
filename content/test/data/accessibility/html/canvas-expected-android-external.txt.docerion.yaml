@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-android-external.txt.
+type: test
+title: Expected Android external tree for canvas test
+summary: Expected Android external accessibility snapshot for the canvas test with two canvas images labeled Static fallback.

@@ -1,0 +1,4 @@
+# Docerion header of clickable-ancestor.html.
+type: test
+title: HTML test page for clickable ancestor accessibility
+summary: HTML test page checking which nodes are marked as clickable when an ancestor has a click handler.

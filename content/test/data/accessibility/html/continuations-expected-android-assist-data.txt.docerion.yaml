@@ -1,0 +1,4 @@
+# Docerion header of continuations-expected-android-assist-data.txt.
+type: test
+title: Continuations expected output for Android assist data
+summary: Expected Android assist data accessibility tree for the continuations test, detailing views, buttons and text with HTML info across grouped content.

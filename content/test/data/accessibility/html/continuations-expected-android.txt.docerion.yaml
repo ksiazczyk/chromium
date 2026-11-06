@@ -1,0 +1,4 @@
+# Docerion header of continuations-expected-android.txt.
+type: test
+title: Continuations expected output for Android
+summary: Expected Android accessibility tree for the continuations test, showing grouped views, buttons, text views and a link across five groups.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for contenteditable-descendants
+summary: Expected Android external accessibility tree snapshot with roles, actions and bundles for the contenteditable-descendants test page.

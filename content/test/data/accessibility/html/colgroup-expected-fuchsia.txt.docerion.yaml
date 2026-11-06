@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-fuchsia.txt.
+type: test
+title: colgroup expected Fuchsia accessibility snapshot
+summary: Expected Fuchsia accessibility tree output for the colgroup table test page.

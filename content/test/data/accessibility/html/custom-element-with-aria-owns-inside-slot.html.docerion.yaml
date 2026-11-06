@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-inside-slot.html.
+type: test
+title: Custom element with aria-owns inside slot test page
+summary: HTML test page verifying that aria-owns works with rendered slot-assigned targets inside a custom element shadow root.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-android-assist-data.txt.
+type: test
+title: Combobox optgroup expected Android assist data
+summary: Expected Android accessibility assist data for the combobox optgroup test page, listing option labels, values and selection state.

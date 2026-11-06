@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-menus-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for commandfor-api-popover-menus
+summary: Expected Android accessibility tree snapshot in external format for the commandfor-api-popover-menus test, with actions, bundle roles and menu item details.

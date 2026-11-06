@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-li-contains-presentation-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for contenteditable li with presentation
+summary: Expected Blink accessibility tree snapshot for a contenteditable list item containing a presentational paragraph, verifying line-breaking and ignored node behavior.

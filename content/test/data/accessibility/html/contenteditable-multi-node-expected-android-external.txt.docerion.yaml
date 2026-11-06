@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-multi-node-expected-android-external.txt.
+type: test
+title: Expected Android accessibility tree for contenteditable multi node test
+summary: Expected Android accessibility output for the contenteditable multi node test, describing an editable text view with wrapped text and a link.

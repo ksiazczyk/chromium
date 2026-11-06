@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-win.txt.
+type: test
+title: Caption test expected Windows tree
+summary: Expected Windows accessibility tree snapshot for the HTML table caption test page.

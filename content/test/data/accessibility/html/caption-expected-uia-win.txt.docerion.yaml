@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-uia-win.txt.
+type: test
+title: Caption test expected Windows UIA tree
+summary: Expected Windows UIA accessibility tree snapshot for the caption test page, marked as skipped per crbug 1199033.

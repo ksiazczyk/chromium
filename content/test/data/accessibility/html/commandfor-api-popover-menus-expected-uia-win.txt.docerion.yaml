@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-menus-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for commandfor-api-popover-menus test
+summary: Expected Windows UI Automation accessibility tree snapshot for the commandfor-api-popover-menus test, showing menu bars, menu items and menus with expand states.

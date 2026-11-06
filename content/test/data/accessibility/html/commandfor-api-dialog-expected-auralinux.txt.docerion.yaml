@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for commandfor API dialog test
+summary: Expected Linux accessibility tree snapshot for a page exercising the commandfor API with dialogs and buttons.

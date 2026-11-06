@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-android.txt.
+type: test
+title: combobox item visibility expected Android accessibility snapshot
+summary: Expected Android accessibility tree for the combobox item visibility test showing a collapsed menu pop up button.

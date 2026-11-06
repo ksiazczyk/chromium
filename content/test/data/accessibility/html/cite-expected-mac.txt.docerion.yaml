@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for cite test page
+summary: Expected macOS accessibility tree snapshot for the cite HTML test page with an image and static text nodes.

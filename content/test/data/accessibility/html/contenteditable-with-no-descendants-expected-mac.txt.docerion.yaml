@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-mac.txt.
+type: test
+title: Contenteditable with no descendants expected output for macOS
+summary: Expected macOS accessibility tree for the contenteditable-with-no-descendants test, showing AXTextArea nodes and custom content descriptions.

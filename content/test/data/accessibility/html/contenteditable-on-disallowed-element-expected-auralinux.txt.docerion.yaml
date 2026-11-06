@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-on-disallowed-element-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for contenteditable on disallowed element test
+summary: Expected Linux accessibility output for the contenteditable on disallowed element test, covering entries, media controls and progress indicators.

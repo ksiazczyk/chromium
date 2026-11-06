@@ -1,0 +1,4 @@
+# Docerion header of clickable-score-expected-android-external.txt.
+type: test
+title: Clickable score expected Android external output
+summary: Expected Android external accessibility tree for the clickable-score test, showing clickable elements and their clickableScore bundle values.

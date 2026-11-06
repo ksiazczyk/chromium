@@ -1,0 +1,4 @@
+# Docerion header of continuations-parser-splits-markup-expected-blink.txt.
+type: test
+title: Parser splits markup continuations expected tree for Blink
+summary: Expected Blink accessibility tree snapshot for the parser-splits-markup continuations test.

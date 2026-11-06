@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-auralinux.txt.
+type: test
+title: Custom select expected accessibility tree for Linux
+summary: Expected Linux accessibility tree snapshot for the custom select currency picker test, listing combo box and menu item roles.

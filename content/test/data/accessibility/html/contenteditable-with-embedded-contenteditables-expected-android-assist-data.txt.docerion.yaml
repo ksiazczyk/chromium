@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-embedded-contenteditables-expected-android-assist-data.txt.
+type: test
+title: Contenteditable with embedded contenteditables expected Android assist data
+summary: Expected Android assist data snapshot for a page mixing editable and non-editable content with nested contenteditable paragraphs.

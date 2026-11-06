@@ -1,0 +1,4 @@
+# Docerion header of canvas-fallback-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for canvas fallback test
+summary: Expected Android assist-data snapshot for the canvas fallback test, including aria-hidden and visibility-hidden paragraphs in fallback content.

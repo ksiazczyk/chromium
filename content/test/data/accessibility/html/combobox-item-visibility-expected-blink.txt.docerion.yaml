@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-blink.txt.
+type: test
+title: Combobox item visibility expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the combobox item visibility test page, showing visible and hidden select options.

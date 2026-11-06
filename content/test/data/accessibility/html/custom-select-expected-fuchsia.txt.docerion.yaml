@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-fuchsia.txt.
+type: test
+title: Custom select expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the custom select currency picker test with hidden and selected node states.

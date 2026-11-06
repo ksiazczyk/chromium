@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-android-external.txt.
+type: test
+title: Caption test expected Android external tree
+summary: Expected Android external accessibility tree snapshot covering table caption roles for the caption test page.

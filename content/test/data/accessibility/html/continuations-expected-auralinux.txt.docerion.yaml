@@ -1,0 +1,4 @@
+# Docerion header of continuations-expected-auralinux.txt.
+type: test
+title: Continuations expected accessibility tree for Linux
+summary: Expected accessibility tree snapshot for the HTML continuations test on the auralinux platform.

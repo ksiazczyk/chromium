@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expose-non-atomic-text-field-children-feature-expected-android-external.txt.
+type: test
+title: Expected Android external tree with non-atomic text field children exposed
+summary: Expected Android external accessibility tree snapshot for the contenteditable-descendants page with the expose-non-atomic-text-field-children feature enabled.

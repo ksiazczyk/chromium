@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-blink.txt.
+type: test
+title: Contenteditable descendants with selection expected Blink tree
+summary: Expected Blink accessibility tree for the contenteditable descendants with selection test, describing editable rich text nodes including paragraphs, links, images, buttons, a table and a list.

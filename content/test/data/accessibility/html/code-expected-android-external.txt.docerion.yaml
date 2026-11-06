@@ -1,0 +1,4 @@
+# Docerion header of code-expected-android-external.txt.
+type: test
+title: Code element expected Android external output
+summary: Expected Android external accessibility tree for the code element test, mapping the HTML code element to the code chrome role.

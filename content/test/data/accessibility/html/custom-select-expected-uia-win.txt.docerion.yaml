@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-uia-win.txt.
+type: test
+title: Custom select expected accessibility tree for Windows UIA
+summary: Expected Windows UIA accessibility tree snapshot for the custom select currency picker test, showing the collapsed combo box.

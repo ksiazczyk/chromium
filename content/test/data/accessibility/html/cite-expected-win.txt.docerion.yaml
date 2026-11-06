@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for cite test page
+summary: Expected MSAA and IA2 accessibility tree snapshot on Windows for the cite HTML test page.

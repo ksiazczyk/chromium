@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-modal-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for commandfor modal dialog test
+summary: Expected Linux AT-SPI accessibility tree snapshot for the commandfor API modal dialog test page, showing the modal dialog and its buttons.

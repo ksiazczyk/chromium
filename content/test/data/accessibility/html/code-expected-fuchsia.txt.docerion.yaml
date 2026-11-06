@@ -1,0 +1,4 @@
+# Docerion header of code-expected-fuchsia.txt.
+type: test
+title: Code element expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the code element test, showing a static text node labeled 'A piece of computer code'.

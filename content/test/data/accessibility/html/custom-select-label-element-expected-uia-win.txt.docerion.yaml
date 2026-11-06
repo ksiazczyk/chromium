@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for custom select label element
+summary: Expected Windows UIA accessibility tree for the custom select label element test, showing text named by the label and a collapsed combobox.

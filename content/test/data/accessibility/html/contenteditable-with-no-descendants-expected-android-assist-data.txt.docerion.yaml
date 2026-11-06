@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for contenteditable with no descendants
+summary: Expected Android assist data for the contenteditable-with-no-descendants test, showing views with contenteditable attributes and descriptions.

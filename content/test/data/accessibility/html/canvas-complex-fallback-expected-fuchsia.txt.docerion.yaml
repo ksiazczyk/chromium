@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-fuchsia.txt.
+type: test
+title: Canvas complex fallback expected Fuchsia
+summary: Expected Fuchsia accessibility tree for the canvas-complex-fallback test, with static text labels, list elements and list element markers.

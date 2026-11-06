@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-uia-win.txt.
+type: test
+title: Contenteditable descendants with selection expected UIA Windows tree
+summary: Expected UIA Windows accessibility tree for the contenteditable descendants with selection test, describing text, hyperlink, image, button, table and list elements.

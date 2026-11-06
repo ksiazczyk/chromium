@@ -1,0 +1,4 @@
+# Docerion header of content-left-of-view-port-for-on-screen-mode-expected-blink.txt.
+type: test
+title: Content left of viewport for on-screen mode expected Blink snapshot
+summary: Expected Blink accessibility tree snapshot showing that text positioned left of the viewport is kept when the on-screen accessibility mode is enabled.

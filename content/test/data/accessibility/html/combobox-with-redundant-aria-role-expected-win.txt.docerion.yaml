@@ -1,0 +1,4 @@
+# Docerion header of combobox-with-redundant-aria-role-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for combobox with redundant ARIA role
+summary: Expected Windows IA2/MSAA accessibility tree snapshot for a select element carrying a redundant role='combobox' attribute.

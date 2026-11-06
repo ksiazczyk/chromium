@@ -1,0 +1,4 @@
+# Docerion header of continuations-expected-android-external.txt.
+type: test
+title: Continuations expected output for Android external
+summary: Expected Android external accessibility tree for the continuations test, listing actions and chrome roles for grouped views, buttons and links.

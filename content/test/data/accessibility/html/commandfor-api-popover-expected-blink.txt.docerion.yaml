@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for commandfor popover test
+summary: Expected Blink accessibility tree snapshot for the commandfor API popover test page, showing buttons with details relationships to popover groups.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-on-disallowed-element-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for contenteditable on disallowed element test
+summary: Expected macOS accessibility output for the contenteditable on disallowed element test, listing AX roles for text areas, buttons and sliders.

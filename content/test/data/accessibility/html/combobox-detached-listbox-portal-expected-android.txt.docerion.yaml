@@ -1,0 +1,4 @@
+# Docerion header of combobox-detached-listbox-portal-expected-android.txt.
+type: test
+title: combobox detached listbox portal expected Android accessibility snapshot
+summary: Expected Android accessibility tree for a combobox whose listbox is rendered through a detached portal element.

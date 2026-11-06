@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-android-assist-data.txt.
+type: test
+title: combobox item visibility expected Android assist data snapshot
+summary: Empty expected Android assist data snapshot for the combobox item visibility accessibility test.

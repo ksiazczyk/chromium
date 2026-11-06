@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-android-assist-data.txt.
+type: test
+title: Cite element expected Android assist data accessibility tree
+summary: Expected Android assist data tree for the cite element test, showing an image and paragraph text nodes.

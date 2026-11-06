@@ -1,0 +1,4 @@
+# Docerion header of combobox-detached-listbox-portal-expected-blink.txt.
+type: test
+title: combobox detached listbox portal expected Blink accessibility snapshot
+summary: Expected Blink accessibility tree for a combobox whose listbox is rendered through a detached portal element.

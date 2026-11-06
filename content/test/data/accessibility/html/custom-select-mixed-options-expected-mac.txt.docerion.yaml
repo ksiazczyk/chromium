@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for custom select with mixed options
+summary: Expected macOS accessibility tree snapshot for the custom select with mixed options test page.

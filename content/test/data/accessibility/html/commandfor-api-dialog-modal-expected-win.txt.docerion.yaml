@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-modal-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for commandfor modal dialog test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the commandfor API modal dialog test page, showing the modal dialog and its buttons.

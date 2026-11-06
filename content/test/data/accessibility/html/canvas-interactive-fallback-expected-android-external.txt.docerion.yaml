@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for canvas-interactive-fallback
+summary: Expected Android external accessibility output for the canvas interactive fallback test, describing the WebView node tree with canvas, link and static text roles.

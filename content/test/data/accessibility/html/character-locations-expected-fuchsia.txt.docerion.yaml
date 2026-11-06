@@ -1,0 +1,4 @@
+# Docerion header of character-locations-expected-fuchsia.txt.
+type: test
+title: Character locations expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the character-locations test page, listing roles and labels of each node.

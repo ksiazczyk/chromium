@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-plaintext-with-role-expected-blink.txt.
+type: test
+title: Contenteditable plaintext-only with role expected Blink tree
+summary: Expected Blink accessibility tree for a plaintext-only contenteditable element carrying a menuitemradio role.

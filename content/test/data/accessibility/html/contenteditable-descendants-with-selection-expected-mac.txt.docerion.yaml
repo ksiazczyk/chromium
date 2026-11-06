@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-mac.txt.
+type: test
+title: Contenteditable descendants with selection expected Mac tree
+summary: Expected macOS accessibility tree for the contenteditable descendants with selection test, listing AXTextArea, AXLink, AXImage, AXButton, AXTable and AXList nodes.

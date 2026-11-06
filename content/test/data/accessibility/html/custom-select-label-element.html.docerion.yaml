@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element.html.
+type: test
+title: Custom select with label element test page
+summary: HTML test page rendering a styled custom select with a label to exercise accessibility tree behavior.

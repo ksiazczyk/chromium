@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-uia-win.txt.
+type: test
+title: Canvas complex fallback expected UIA Win
+summary: Expected Windows UIA accessibility tree for the canvas-complex-fallback test, describing images, lists and list items for canvas fallback content.

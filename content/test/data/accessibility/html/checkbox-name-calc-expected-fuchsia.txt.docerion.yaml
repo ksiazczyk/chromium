@@ -1,0 +1,4 @@
+# Docerion header of checkbox-name-calc-expected-fuchsia.txt.
+type: test
+title: Checkbox name calculation expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the checkbox name calculation test, listing checkbox roles, labels and checked states.

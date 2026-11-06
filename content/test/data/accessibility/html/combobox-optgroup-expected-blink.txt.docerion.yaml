@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-blink.txt.
+type: test
+title: Combobox optgroup expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the combobox with optgroups test page, listing roles, names, set sizes and positions of the select options.

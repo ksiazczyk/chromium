@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-android.txt.
+type: test
+title: Contenteditable descendants with selection expected Android tree
+summary: Expected Android accessibility tree for the contenteditable descendants with selection test, showing the WebView hierarchy with editable text, link, image, button, table and list nodes.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-on-disallowed-element-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for contenteditable on disallowed element test
+summary: Expected Blink accessibility tree output for the contenteditable on disallowed element test, including text fields, video controls and sliders.

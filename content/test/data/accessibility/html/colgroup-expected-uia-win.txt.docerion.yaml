@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-uia-win.txt.
+type: test
+title: colgroup expected UIA Windows accessibility snapshot
+summary: Expected UIA Windows accessibility tree output for the colgroup test, marked as skipped because the table columns are not mapped.

@@ -1,0 +1,4 @@
+# Docerion header of custom-element-expected-blink.txt.
+type: test
+title: Custom element expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the custom element roles test.

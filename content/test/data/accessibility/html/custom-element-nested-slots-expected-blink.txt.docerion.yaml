@@ -1,0 +1,4 @@
+# Docerion header of custom-element-nested-slots-expected-blink.txt.
+type: test
+title: Custom element nested slots expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the custom element nested slots test, showing a paragraph with static text from the assigned slot contents.

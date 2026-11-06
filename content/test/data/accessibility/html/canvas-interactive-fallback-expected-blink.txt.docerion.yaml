@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for canvas-interactive-fallback
+summary: Expected Blink accessibility output for the canvas interactive fallback test, showing the rootWebArea tree with canvas, link and staticText nodes.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-docs-li-expected-blink.txt.
+type: test
+title: Contenteditable docs list items expected Blink tree
+summary: Expected Blink accessibility tree for a contenteditable with docs-style list markup, covering list items with line breaks, presentation roles and inner spans.

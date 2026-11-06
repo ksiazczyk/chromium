@@ -1,0 +1,4 @@
+# Docerion header of custom-element-nested-slots-aria-expected-blink.txt.
+type: test
+title: Custom element nested slots ARIA expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the custom element nested slots ARIA test, showing listbox options rendered through nested custom element slots.

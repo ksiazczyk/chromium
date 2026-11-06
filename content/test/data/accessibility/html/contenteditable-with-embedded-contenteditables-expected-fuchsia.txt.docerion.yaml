@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-embedded-contenteditables-expected-fuchsia.txt.
+type: test
+title: Expected AX tree for contenteditable with embedded contenteditables (Fuchsia)
+summary: Expected Fuchsia accessibility tree for the contenteditable-with-embedded-contenteditables test, with paragraphs and static text labels.

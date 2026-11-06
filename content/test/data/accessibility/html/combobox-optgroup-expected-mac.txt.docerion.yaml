@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-mac.txt.
+type: test
+title: Combobox optgroup expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the combobox with optgroups test page, describing the pop up button and menu item roles.

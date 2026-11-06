@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-fuchsia.txt.
+type: test
+title: Contenteditable descendants with selection expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree for the contenteditable descendants with selection test, describing labels and actions for the editable text, link, image, button, table and list nodes.

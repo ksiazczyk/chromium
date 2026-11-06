@@ -1,0 +1,4 @@
+# Docerion header of code-expected-win.txt.
+type: test
+title: code element expected Windows accessibility output
+summary: Expected Windows accessibility output for the code element test page, containing a skip marker because the element has no accessible.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-uia-win.txt.
+type: test
+title: Combobox item visibility expected UIA tree for Windows
+summary: Expected UI Automation (UIA) tree snapshot for the combobox item visibility test page on Windows.

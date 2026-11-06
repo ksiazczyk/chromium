@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for commandfor dialog test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the commandfor API dialog test page, listing the buttons and dialogs exposed to assistive technology.

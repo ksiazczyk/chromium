@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for custom select
+summary: Expected Android assist data output for the custom select accessibility test.

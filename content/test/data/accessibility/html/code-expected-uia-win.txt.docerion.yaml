@@ -1,0 +1,4 @@
+# Docerion header of code-expected-uia-win.txt.
+type: test
+title: code element expected UIA Windows accessibility output
+summary: Expected UIA Windows accessibility output for the code element test page, containing a skip marker because the element has no accessible.

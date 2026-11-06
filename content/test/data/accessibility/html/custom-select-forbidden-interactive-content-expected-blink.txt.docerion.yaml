@@ -1,0 +1,4 @@
+# Docerion header of custom-select-forbidden-interactive-content-expected-blink.txt.
+type: test
+title: Custom select forbidden interactive content expected tree for Blink
+summary: Expected Blink accessibility tree snapshots across test continuations for a select popup containing forbidden interactive elements.

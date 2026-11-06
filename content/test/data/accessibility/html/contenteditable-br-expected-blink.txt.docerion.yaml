@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-br-expected-blink.txt.
+type: test
+title: Contenteditable br expected Blink snapshot
+summary: Expected Blink accessibility tree snapshot for a contenteditable paragraph containing a br line break.

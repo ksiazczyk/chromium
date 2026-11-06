@@ -1,0 +1,4 @@
+# Docerion header of col-expected-android.txt.
+type: test
+title: col element expected Android accessibility output, skipped
+summary: Expected Android accessibility output for the col test page, containing a skip marker because the role is not mapped.

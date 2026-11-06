@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for commandfor API dialog test
+summary: Expected UIA accessibility tree snapshot on Windows for a page exercising the commandfor API with dialogs and buttons.

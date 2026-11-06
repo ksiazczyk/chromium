@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-inside-expected-blink.txt.
+type: test
+title: Custom element with aria-owns inside expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the aria-owns inside custom element test, showing doc-endnote nodes for Endnote 1 and Endnote 2.

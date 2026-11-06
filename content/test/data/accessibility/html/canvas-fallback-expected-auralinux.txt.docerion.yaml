@@ -1,0 +1,4 @@
+# Docerion header of canvas-fallback-expected-auralinux.txt.
+type: test
+title: Canvas fallback expected Auralinux tree
+summary: Expected Auralinux accessibility tree snapshot for the canvas fallback test, with canvas, paragraph and static text nodes.

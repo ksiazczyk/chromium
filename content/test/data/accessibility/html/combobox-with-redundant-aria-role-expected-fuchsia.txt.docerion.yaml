@@ -1,0 +1,4 @@
+# Docerion header of combobox-with-redundant-aria-role-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for combobox with redundant ARIA role
+summary: Expected Fuchsia accessibility tree snapshot for a select element carrying a redundant role='combobox' attribute.
