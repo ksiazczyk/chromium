@@ -1,0 +1,4 @@
+# Docerion header of navigation_to_cct_via_intent_uri_spoofing.html.
+type: test
+title: Custom Tab intent URI spoofing test page
+summary: Test page with a target=_blank link to a Custom Tab intent URI carrying session and UI type extras for spoofing tests.

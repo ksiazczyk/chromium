@@ -1,0 +1,4 @@
+# Docerion header of popup_launcher.html.
+type: test
+title: Popup window control launcher page
+summary: Test page offering links to open, close, focus, move and resize popup windows with various launch bounds.

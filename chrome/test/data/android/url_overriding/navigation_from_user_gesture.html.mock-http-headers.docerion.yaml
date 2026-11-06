@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_user_gesture.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for user gesture navigation page
+summary: Mock HTTP headers that serve the user gesture page with a Supports-Loading-Mode fenced-frame header for tests.

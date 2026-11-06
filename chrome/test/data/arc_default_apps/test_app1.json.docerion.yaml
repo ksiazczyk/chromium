@@ -1,0 +1,4 @@
+# Docerion header of test_app1.json.
+type: test
+title: Test app 1 JSON fixture
+summary: JSON fixture describing a test ARC default app, with its package name, activity, OEM flag and app path, used by Chrome tests.

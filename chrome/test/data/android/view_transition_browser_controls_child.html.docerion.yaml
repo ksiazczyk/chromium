@@ -1,0 +1,4 @@
+# Docerion header of view_transition_browser_controls_child.html.
+type: test
+title: View transition test page for browser controls with fixed elements
+summary: Test page for cross-document view transitions with fixed and absolutely positioned elements placed near the browser controls edge.

@@ -1,0 +1,4 @@
+# Docerion header of open_window_from_svg_user_gesture.html.
+type: test
+title: SVG link new window open test page
+summary: Test page that opens an external app intent in a new window from an SVG anchor link on user click.

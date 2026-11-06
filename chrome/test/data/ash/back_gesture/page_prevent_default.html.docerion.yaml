@@ -1,0 +1,4 @@
+# Docerion header of page_prevent_default.html.
+type: test
+title: Back gesture test page preventing touchmove default
+summary: HTML test fixture whose full-size element uses touch-action none and calls preventDefault on touchmove, for exercising Ash back gesture handling.

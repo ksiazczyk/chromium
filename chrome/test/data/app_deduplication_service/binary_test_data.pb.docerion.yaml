@@ -1,0 +1,4 @@
+# Docerion header of binary_test_data.pb.
+type: test
+title: App deduplication service binary test data
+summary: Serialized protobuf test data mapping Android app packages such as Skype, WhatsApp and Keep to their web, ARC and phonehub counterparts for app deduplication service tests.

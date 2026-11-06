@@ -1,0 +1,4 @@
+# Docerion header of Valid_entries.html.
+type: test
+title: Valid entries bookmark test data
+summary: Netscape bookmark file with Google, Outlook and Speed Test entries used as valid test data for Android bookmark handling.

@@ -1,0 +1,4 @@
+# Docerion header of theme_color_test2.html.
+type: test
+title: Theme color test page 2
+summary: Second theme color test page with a blue theme-color meta tag and a frame counter to trigger theme color change notifications.

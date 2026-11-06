@@ -1,0 +1,4 @@
+# Docerion header of viewport-fit-cover-header.html.
+type: test
+title: E2E Cover with fixed header viewport-fit test page
+summary: Test page using viewport-fit=cover with a fixed header padded by safe-area-inset-top and a safe area visualizer for top edge-to-edge testing.

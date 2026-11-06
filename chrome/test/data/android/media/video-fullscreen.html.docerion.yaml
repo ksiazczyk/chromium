@@ -1,0 +1,4 @@
+# Docerion header of video-fullscreen.html.
+type: test
+title: Video fullscreen test page
+summary: HTML test page that requests fullscreen for a test.webm video element when the document is clicked.

@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_target_blank_rel_opener.html.
+type: test
+title: Target blank link with rel opener navigation test page
+summary: Test page whose target=_blank rel=opener link navigates to a parameter URL on click, for Android URL overriding tests.

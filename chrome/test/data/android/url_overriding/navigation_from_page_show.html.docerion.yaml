@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_page_show.html.
+type: test
+title: Navigation on page show test page
+summary: Test page that redirects to an external app intent when the page becomes visible again.

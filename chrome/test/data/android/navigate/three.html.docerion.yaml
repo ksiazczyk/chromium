@@ -1,0 +1,4 @@
+# Docerion header of three.html.
+type: test
+title: Three
+summary: Test page titled 'Three' with colored div blocks and filler text, used as navigation test data for Android Chrome tests.

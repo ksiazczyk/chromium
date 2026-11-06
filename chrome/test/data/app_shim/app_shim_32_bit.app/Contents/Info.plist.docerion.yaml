@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist for the 32-bit app shim test app bundle
+summary: Property list template for the 32-bit app shim test bundle, defining a minimal Chrome app mode shortcut with placeholder values filled in by the test.

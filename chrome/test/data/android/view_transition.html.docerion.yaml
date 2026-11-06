@@ -1,0 +1,4 @@
+# Docerion header of view_transition.html.
+type: test
+title: View transition test page with viewport interactive-widget modes
+summary: Test page exercising view transitions on fixed and inflow elements, with URL parameters selecting the interactive-widget viewport resize behavior.

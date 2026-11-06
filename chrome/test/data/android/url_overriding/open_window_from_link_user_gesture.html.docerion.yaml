@@ -1,0 +1,4 @@
+# Docerion header of open_window_from_link_user_gesture.html.
+type: test
+title: Link-based new window open test page
+summary: Test page that opens PARAM_URL in a new window through a target=_blank anchor activated by a user click.

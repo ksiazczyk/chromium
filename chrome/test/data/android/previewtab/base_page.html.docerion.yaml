@@ -1,0 +1,4 @@
+# Docerion header of base_page.html.
+type: test
+title: Preview Tab base page test fixture
+summary: Base page a user is reading in Chrome, containing a text link and an image link that open the Preview Tab, plus filler content and a node near the bottom.

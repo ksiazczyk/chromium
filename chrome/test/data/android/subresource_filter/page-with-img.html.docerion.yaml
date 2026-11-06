@@ -1,0 +1,4 @@
+# Docerion header of page-with-img.html.
+type: test
+title: Test page with an image for subresource filter tests
+summary: HTML test fixture page containing an image element and a script that sets a flag when the image has finished loading.

@@ -1,0 +1,4 @@
+# Docerion header of another_page.html.
+type: test
+title: Another Page test fixture for Preview Tab navigation
+summary: Simple filler HTML page used as a navigation target to test opening and moving between pages inside a Preview Tab.

@@ -1,0 +1,4 @@
+# Docerion header of green.html.
+type: test
+title: Green background test page
+summary: Test page that renders a plain limegreen background for visual verification tests.

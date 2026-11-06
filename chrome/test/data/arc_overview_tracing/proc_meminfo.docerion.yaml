@@ -1,0 +1,4 @@
+# Docerion header of proc_meminfo.
+type: test
+title: Mock /proc/meminfo test data
+summary: Sample /proc/meminfo content providing fake system memory statistics for ARC overview tracing tests.

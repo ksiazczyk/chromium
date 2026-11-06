@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_long_timeout.html.
+type: test
+title: Navigation after long timeout test page
+summary: Test page that opens an external app intent after polling until user activation is no longer active.

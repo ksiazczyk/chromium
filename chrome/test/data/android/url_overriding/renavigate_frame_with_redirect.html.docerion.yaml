@@ -1,0 +1,4 @@
+# Docerion header of renavigate_frame_with_redirect.html.
+type: test
+title: Renavigate frame with server redirect test page
+summary: Test page that opens hello.html in a new window and renavigates it through a server redirect to an external app intent.

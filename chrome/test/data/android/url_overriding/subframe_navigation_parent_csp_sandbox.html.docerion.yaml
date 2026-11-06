@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_parent_csp_sandbox.html.
+type: test
+title: Subframe navigation parent CSP sandbox test page
+summary: Parent page for subframe navigation tests that is served with CSP sandbox headers via its mock-http-headers file.

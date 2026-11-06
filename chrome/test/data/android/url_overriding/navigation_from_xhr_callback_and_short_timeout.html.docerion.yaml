@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback_and_short_timeout.html.
+type: test
+title: XHR callback with short timeout navigation test page
+summary: Test page that navigates to an external app intent after an XHR completes and a short setTimeout fires, triggered by a page click.

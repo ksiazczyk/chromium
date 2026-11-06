@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_window_redirect.html.
+type: test
+title: Server redirect link navigation test page
+summary: Test page with a target=_blank link to a server redirect that resolves to an externalappscheme intent URL.

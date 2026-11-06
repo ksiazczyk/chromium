@@ -1,0 +1,4 @@
+# Docerion header of test_window_open.html.
+type: test
+title: Window open test page
+summary: HTML test fixture with a button that opens a new browser window via window.open, used to test window opening behavior.

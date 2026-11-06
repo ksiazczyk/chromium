@@ -1,0 +1,4 @@
+# Docerion header of page_touch_action_default.html.
+type: test
+title: Back gesture test page with default touch action
+summary: HTML test fixture with body touch-action auto, providing a default touch-action page for Ash back gesture tests.

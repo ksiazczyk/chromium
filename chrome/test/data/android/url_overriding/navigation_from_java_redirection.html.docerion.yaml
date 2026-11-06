@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_java_redirection.html.
+type: test
+title: Navigation from JavaScript redirection test page
+summary: Test page that redirects to an external app intent URL via a script on load.

@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello test page
+summary: Minimal HTML page displaying Hello that serves as a simple target page in URL overriding tests.

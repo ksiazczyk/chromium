@@ -1,0 +1,4 @@
+# Docerion header of InfoPlist.strings.
+type: test
+title: InfoPlist.strings for the minimal platform app test bundle
+summary: Strings resource that sets the bundle name and display name of the minimal platform app used in app shim test data.

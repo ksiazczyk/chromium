@@ -1,0 +1,4 @@
+# Docerion header of storage_persistance.html.
+type: test
+title: Storage persistence test page
+summary: Test page that sets and checks localStorage and cookies to verify storage persistence across loads on Android.

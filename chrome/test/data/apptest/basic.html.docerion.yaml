@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: AppTest example page using the Automation Event Queue
+summary: Example web app used by chrome/functional/apptest.py that simulates an asynchronous login flow and raises explicit events on the Automation Event Queue for testing.

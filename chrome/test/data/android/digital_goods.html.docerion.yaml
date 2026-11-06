@@ -1,0 +1,4 @@
+# Docerion header of digital_goods.html.
+type: test
+title: Digital Goods test page
+summary: Test page that exercises the Digital Goods API with the Google Play billing payment method, exposing helpers to get item details and consume purchases.

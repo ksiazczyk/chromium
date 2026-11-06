@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback_parent_frame.html.
+type: test
+title: Parent frame host for XHR callback navigation test
+summary: Test page that embeds navigation_from_xhr_callback.html in an iframe to exercise navigation from a parent frame.

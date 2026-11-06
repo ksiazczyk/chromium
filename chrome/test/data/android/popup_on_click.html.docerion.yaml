@@ -1,0 +1,4 @@
+# Docerion header of popup_on_click.html.
+type: test
+title: Popup on click test page
+summary: Test page that opens either a new tab or a popup window with fixed bounds depending on which link is clicked.

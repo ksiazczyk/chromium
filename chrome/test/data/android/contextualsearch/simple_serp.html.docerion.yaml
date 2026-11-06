@@ -1,0 +1,4 @@
+# Docerion header of simple_serp.html.
+type: test
+title: Simple SERP test page
+summary: Minimal HTML page styled as a simple search results page, marked as not live, used as a fixture for Android Contextual Search tests.

@@ -1,0 +1,4 @@
+# Docerion header of gm_bad_wrong_timestamp.json.
+type: test
+title: Invalid graphics memory fixture with wrong timestamps
+summary: Graphics memory JSON fixture with mismatched buffer timestamps, used to test validation in ARC overview tracing.

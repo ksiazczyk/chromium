@@ -1,0 +1,4 @@
+# Docerion header of navigation_with_fallback_url.html.
+type: test
+title: Intent navigation with fallback URL test page
+summary: Test page that navigates to an intent with an invalid scheme and a browser fallback URL parameter on click.

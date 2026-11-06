@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_timer_with_fallback.html.
+type: test
+title: Timer navigation with browser fallback URL test page
+summary: Test page that navigates to an intent URL with a browser fallback URL parameter two seconds after load.

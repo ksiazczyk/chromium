@@ -1,0 +1,4 @@
+# Docerion header of test.gzip.
+type: test
+title: Gzip test download file
+summary: Small gzip file used as a download test target from get.html.

@@ -1,0 +1,4 @@
+# Docerion header of test_data.textproto.
+type: test
+title: App discovery service test data
+summary: Text-format protobuf fixture with sample app entries, localized display names, store details, and locale availability used by Chrome app discovery service tests.

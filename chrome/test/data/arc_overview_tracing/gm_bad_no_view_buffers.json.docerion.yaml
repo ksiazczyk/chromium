@@ -1,0 +1,4 @@
+# Docerion header of gm_bad_no_view_buffers.json.
+type: test
+title: Invalid graphics memory fixture without view buffers
+summary: Malformed graphics memory JSON missing view buffers, used to exercise error handling in ARC overview tracing tests.

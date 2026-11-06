@@ -1,0 +1,4 @@
+# Docerion header of navigation_with_fallback_url_valid_scheme.html.
+type: test
+title: Intent navigation with valid scheme and fallback URL test page
+summary: Test page that navigates to an intent with a valid external app scheme and a browser fallback URL parameter on click.

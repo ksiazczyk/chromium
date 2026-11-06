@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Display cutout test data OWNERS
+summary: OWNERS file that delegates review ownership for these display cutout test pages to the owners of the Chrome display cutout Java code.

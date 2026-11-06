@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_parent_csp_sandbox.html.mock-http-headers.
+type: test
+title: CSP sandbox mock HTTP headers
+summary: Mock HTTP response headers serving the CSP sandbox parent page with a Content-Security-Policy sandbox allowing scripts and popups.

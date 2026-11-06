@@ -1,0 +1,4 @@
+# Docerion header of trace_async_events.json.
+type: test
+title: Async trace events test fixture
+summary: Trace JSON fixture with system trace async begin and end markers used in ARC overview tracing tests.

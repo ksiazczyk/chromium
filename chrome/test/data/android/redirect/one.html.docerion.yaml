@@ -1,0 +1,4 @@
+# Docerion header of one.html.
+type: test
+title: One test page with filler content
+summary: Test HTML page titled One with a colored block and filler paragraphs, serving as a redirect target in Android Chrome tests.

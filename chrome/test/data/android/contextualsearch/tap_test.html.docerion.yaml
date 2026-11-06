@@ -1,0 +1,4 @@
+# Docerion header of tap_test.html.
+type: test
+title: Tap handled test page
+summary: HTML fixture with static, editable, click-consuming, retap-near, translation, and form elements used to test tap handling in Android Contextual Search.

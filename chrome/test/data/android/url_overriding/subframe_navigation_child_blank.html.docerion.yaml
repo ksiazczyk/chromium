@@ -1,0 +1,4 @@
+# Docerion header of subframe_navigation_child_blank.html.
+type: test
+title: Subframe navigation child blank target test page
+summary: Child frame page with a link targeting _blank that opens a parameterized URL when clicked.

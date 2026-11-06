@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo for the 32-bit app shim test app bundle
+summary: Standard macOS bundle PkgInfo entry with the APPL package type, included as test data for the app shim tests.

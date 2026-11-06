@@ -1,0 +1,4 @@
+# Docerion header of superbo.txt.
+type: test
+title: POST response text file
+summary: Plain text body served as the response for the POST download test.

@@ -1,0 +1,4 @@
+# Docerion header of image-and-text.html.
+type: test
+title: Image and text selection test page
+summary: HTML test page with two selectable divs containing images and text, used to exercise clipboard history copying of mixed image-and-text content.

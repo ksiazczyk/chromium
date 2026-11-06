@@ -1,0 +1,4 @@
+# Docerion header of temp1_input.
+type: test
+title: Mock temperature sensor input
+summary: Fake hwmon temperature reading of 52000 used as test input for ARC overview tracing.

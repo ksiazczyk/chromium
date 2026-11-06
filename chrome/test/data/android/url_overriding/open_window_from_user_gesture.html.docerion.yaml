@@ -1,0 +1,4 @@
+# Docerion header of open_window_from_user_gesture.html.
+type: test
+title: window.open intent navigation test page
+summary: Test page that opens an external app intent via window.open with noopener when the user clicks the page.

@@ -1,0 +1,4 @@
+# Docerion header of renavigate_frame_blank.html.
+type: test
+title: Renavigate blank frame test page
+summary: Test page that opens about:blank in a new window on click and renavigates it to a parameterized URL.

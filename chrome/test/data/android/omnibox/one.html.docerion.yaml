@@ -1,0 +1,4 @@
+# Docerion header of one.html.
+type: test
+title: Omnibox test page One
+summary: HTML page titled One with placeholder Latin text, serving as test fixture data for Android omnibox tests.
