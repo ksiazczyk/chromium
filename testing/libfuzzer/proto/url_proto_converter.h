@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL protobuf to string converter header
+// summary: Declares the url_proto::Convert() function that turns a Url protobuf message into a URL string for fuzzing targets that do not accept protobuf input.
+// ---
+
 #ifndef TESTING_LIBFUZZER_PROTO_URL_PROTO_CONVERTER_H_
 #define TESTING_LIBFUZZER_PROTO_URL_PROTO_CONVERTER_H_
 

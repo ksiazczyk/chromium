@@ -1,3 +1,11 @@
+---
+type: guide
+title: Local code coverage for blackbox fuzzers
+summary: Explains how to build and run a blackbox fuzzer with coverage instrumentation and view the resulting HTML report.
+relations:
+  - documents /tools/code_coverage/view_fuzzer_coverage.py
+---
+
 # Generating Local Code Coverage for Blackbox Fuzzers
 
 This document explains how to generate a local code coverage report for a

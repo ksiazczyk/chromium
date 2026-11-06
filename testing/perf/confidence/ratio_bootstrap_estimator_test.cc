@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ratio bootstrap estimator unit tests
+// summary: GoogleTest unit tests verifying the estimator on trivial cases, geometric means, and data from a real Pinpoint Speedometer run checked against GNU R.
+// ---
+
 #include "testing/perf/confidence/ratio_bootstrap_estimator.h"
 
 #include <vector>

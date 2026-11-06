@@ -1,0 +1,4 @@
+# Docerion header of noop_merge_test.py.
+type: test
+title: Tests for the no-op merge script
+summary: Unit tests covering copying the first JSON, empty input, and the error case with multiple JSONs.

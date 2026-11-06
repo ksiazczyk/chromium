@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libpng_read_fuzzer.cc
+// summary: LibFuzzer entry point that feeds fuzz data to libpng's progressive PNG reader with a memory-limited allocator and MSan-safe image size limits.
+// ---
+
 #include <assert.h>
 #include <stddef.h>
 #include <stdint.h>

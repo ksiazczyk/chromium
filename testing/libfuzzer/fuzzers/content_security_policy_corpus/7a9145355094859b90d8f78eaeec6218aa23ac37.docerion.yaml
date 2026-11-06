@@ -1,0 +1,4 @@
+# Docerion header of 7a9145355094859b90d8f78eaeec6218aa23ac37.
+type: test
+title: 'CSP corpus: script-src and object-src directives'
+summary: Fuzzer corpus entry combining a script-src allowlist for a CDN path with object-src set to none.

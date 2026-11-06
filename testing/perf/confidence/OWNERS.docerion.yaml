@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners delegation
+summary: OWNERS file that delegates review approval to the Blink CSS OWNERS file.

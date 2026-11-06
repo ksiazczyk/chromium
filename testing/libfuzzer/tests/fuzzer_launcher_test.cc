@@ -4,6 +4,12 @@
 
 // Fuzzer launcher script tests.
 
+// ---docerion
+// type: test
+// title: Fuzzer launcher script tests
+// summary: GoogleTest suite verifying that generated .options, .dict and seed corpus files for fuzz targets contain the expected values.
+// ---
+
 #include <string>
 #include <vector>
 

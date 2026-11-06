@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snappy compression fuzzer
+// summary: LibFuzzer fuzzer that compresses input with Snappy and asserts the compressed buffer is valid and round-trips to the original data.
+// ---
+
 #include "third_party/snappy/src/snappy.h"
 
 #include <cstdlib>

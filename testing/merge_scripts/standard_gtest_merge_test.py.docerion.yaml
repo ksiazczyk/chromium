@@ -1,0 +1,4 @@
+# Docerion header of standard_gtest_merge_test.py.
+type: test
+title: Standard gtest merge script tests
+summary: Unit tests for the standard gtest merge script, covering shard merging, timed-out shards, and missing shard handling.

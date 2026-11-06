@@ -4,6 +4,12 @@
 
 // Empty fuzzer that doesn't do anything. Used as test and documentation.
 
+// ---docerion
+// type: test
+// title: LLVM stub fuzzer
+// summary: Empty libFuzzer target that does nothing, used as a test and as documentation of the fuzzer entry point.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

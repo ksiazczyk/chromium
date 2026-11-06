@@ -8,6 +8,12 @@
 //
 // _ci refers to confidence intervals, not continuous integration.
 
+// ---docerion
+// type: source
+// title: Pinpoint CSV confidence interval tool
+// summary: Command-line tool that reads MotionMark and Speedometer CSV files from Pinpoint, computes confidence intervals, and can format output for the Speedometer tracking spreadsheet.
+// ---
+
 #include <stdio.h>
 #include <stdlib.h>
 

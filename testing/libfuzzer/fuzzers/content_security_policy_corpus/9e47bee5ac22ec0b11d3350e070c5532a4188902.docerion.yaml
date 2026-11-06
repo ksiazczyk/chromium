@@ -1,0 +1,4 @@
+# Docerion header of 9e47bee5ac22ec0b11d3350e070c5532a4188902.
+type: test
+title: 'CSP corpus: script-src with report-to'
+summary: Fuzzer corpus entry pairing a self-restricted script-src with a report-to reporting endpoint.

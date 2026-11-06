@@ -9,6 +9,12 @@
 /// See `MojoCommonProfile.swift` for the naming conventions these definitions
 /// follow and for how the lists below are registered.
 
+// ---docerion
+// type: source
+// title: Fuzzilli definitions for the Mojo JavaScript API core types
+// summary: Defines Fuzzilli IL types, object groups, and options bags for the Mojo builtin, its shared buffer and data pipe handles, and the results and options of its methods.
+// ---
+
 extension CommonMojoStrings {
     static let mojo = "Mojo"
     static let mojoSharedBufferHandle = "MojoSharedBufferHandle"

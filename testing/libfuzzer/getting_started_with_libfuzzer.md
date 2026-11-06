@@ -1,3 +1,13 @@
+---
+type: guide
+title: Getting started with libFuzzer in Chromium
+summary: Walkthrough for creating, building, running and improving libFuzzer fuzz targets in Chromium, including examples and common tricks.
+relations:
+  - references /testing/libfuzzer/README.md
+  - references /testing/libfuzzer/getting_started.md
+  - references /chrome/browser/ash/extensions/file_manager/search_by_pattern.h
+---
+
 # Getting started with libfuzzer in Chromium
 
 Our current best advice on how to start fuzzing is by using FuzzTest, which

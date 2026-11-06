@@ -1,0 +1,4 @@
+# Docerion header of confirm_fuzztests.py.
+type: script
+title: Verify fuzztests in a binary match GN
+summary: GN-invoked script that lists the fuzz tests in a built binary and checks they match the fuzztests declared in GN.

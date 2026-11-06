@@ -1,0 +1,4 @@
+# Docerion header of check_fuzzer_config.py.
+type: test
+title: Fuzzer config option printer
+summary: Python helper that prints option=value pairs from a fuzzer .options config file so tests can verify generated fuzzer configurations.

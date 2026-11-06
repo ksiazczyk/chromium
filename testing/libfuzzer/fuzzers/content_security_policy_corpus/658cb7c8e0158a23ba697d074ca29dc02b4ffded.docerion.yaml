@@ -1,0 +1,4 @@
+# Docerion header of 658cb7c8e0158a23ba697d074ca29dc02b4ffded.
+type: test
+title: 'CSP corpus: plugin-types directive for Flash'
+summary: Fuzzer corpus entry containing a Content Security Policy with a plugin-types directive allowing the Flash MIME type.

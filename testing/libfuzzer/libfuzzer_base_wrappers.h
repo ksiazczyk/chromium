@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libFuzzer Base Wrappers Header
+// summary: Header defining a macro that implements LLVMFuzzerTestOneInput with a base::span parameter, so fuzz targets avoid manual pointer-and-size span construction.
+// ---
+
 #ifndef TESTING_LIBFUZZER_LIBFUZZER_BASE_WRAPPERS_H_
 #define TESTING_LIBFUZZER_LIBFUZZER_BASE_WRAPPERS_H_
 

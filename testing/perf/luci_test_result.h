@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LuciTestResult header
+// summary: Declares the LuciTestResult class that generates test result entries in the LUCI Test Results format for gtest-based tests.
+// ---
+
 #ifndef TESTING_PERF_LUCI_TEST_RESULT_H_
 #define TESTING_PERF_LUCI_TEST_RESULT_H_
 

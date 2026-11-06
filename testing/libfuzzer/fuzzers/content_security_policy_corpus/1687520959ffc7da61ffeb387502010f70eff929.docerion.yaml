@@ -1,0 +1,4 @@
+# Docerion header of 1687520959ffc7da61ffeb387502010f70eff929.
+type: data
+title: 'CSP corpus: report-uri and report-to directives'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer covering default-src together with report-uri and report-to reporting directives.

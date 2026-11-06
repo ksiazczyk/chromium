@@ -1,0 +1,4 @@
+# Docerion header of windows.json.
+type: data
+title: Edge stable Windows browser metadata
+summary: JSON record identifying the Edge stable browser version 155.0.4283.45 on Windows for use as performance testing reference info.

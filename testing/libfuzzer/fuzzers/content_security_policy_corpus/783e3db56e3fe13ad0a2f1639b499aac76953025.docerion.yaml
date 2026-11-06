@@ -1,0 +1,4 @@
+# Docerion header of 783e3db56e3fe13ad0a2f1639b499aac76953025.
+type: test
+title: 'CSP corpus: frame-src directive'
+summary: Fuzzer corpus entry with a Content Security Policy restricting frame sources to example.com.

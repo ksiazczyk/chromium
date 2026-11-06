@@ -1,0 +1,4 @@
+# Docerion header of c0d80054a4244bd0536fdcd123447e4ae95360ff.
+type: test
+title: 'CSP corpus: plugin-types directive for PDF'
+summary: Fuzzer corpus entry containing a Content Security Policy with a plugin-types directive allowing PDF.

@@ -5,6 +5,12 @@
 // Header file that includes libfuzzer_macro.h from libprotobuf-mutator. Useful
 // for inclusion in fuzz targets that can't include headers from third_party/.
 
+// ---docerion
+// type: source
+// title: Libprotobuf-mutator libFuzzer macro include header
+// summary: Wrapper header that exposes libprotobuf-mutator's libfuzzer_macro.h for fuzz targets that cannot include third_party headers directly.
+// ---
+
 #ifndef TESTING_LIBFUZZER_PROTO_LPM_INTERFACE_H_
 #define TESTING_LIBFUZZER_PROTO_LPM_INTERFACE_H_
 

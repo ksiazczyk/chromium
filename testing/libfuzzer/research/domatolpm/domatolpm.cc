@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomatoLPM context and sample builder implementation
+// summary: Implements the runtime Context and TextSampleBuilder used by generated DomatoLPM fuzzing code to build samples and manage variables.
+// ---
+
 #include "domatolpm.h"
 
 #include "base/strings/string_number_conversions.h"

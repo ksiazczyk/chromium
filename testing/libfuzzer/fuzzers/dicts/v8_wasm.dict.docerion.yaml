@@ -1,0 +1,4 @@
+# Docerion header of v8_wasm.dict.
+type: data
+title: V8 WebAssembly fuzzing dictionary
+summary: Minimal fuzzing dictionary for V8 WebAssembly targets, currently containing only the token "name".

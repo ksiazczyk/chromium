@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for iOS fuzzer app launch support
+// summary: Declares RunFuzzerFromIOSApp, which launches an iOS app that runs libFuzzer with the given arguments.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZER_SUPPORT_IOS_FUZZER_SUPPORT_H_
 #define TESTING_LIBFUZZER_FUZZER_SUPPORT_IOS_FUZZER_SUPPORT_H_
 

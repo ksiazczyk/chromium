@@ -1,0 +1,4 @@
+# Docerion header of mac.json.
+type: data
+title: Chrome Dev Mac version reference
+summary: JSON record pinning the Chrome Dev channel version 158.0.8106.0 used as reference info for Mac performance testing.

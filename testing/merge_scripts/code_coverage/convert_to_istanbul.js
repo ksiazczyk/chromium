@@ -7,6 +7,12 @@
  * compliant coverage files.
  */
 
+// ---docerion
+// type: script
+// title: V8 to IstanbulJS coverage converter
+// summary: Command-line tool that spawns worker threads to convert raw V8 coverage files into IstanbulJS-compliant coverage reports.
+// ---
+
 import {mkdir, readFile} from 'node:fs/promises';
 import {join} from 'node:path';
 import {Worker} from 'node:worker_threads';

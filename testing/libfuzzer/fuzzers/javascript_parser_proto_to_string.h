@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript parser token to string header
+// summary: Declares token_to_string, which converts fuzzer protobuf tokens into JavaScript source text for the parser fuzzer.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_JAVASCRIPT_PARSER_PROTO_TO_STRING_H_
 #define TESTING_LIBFUZZER_FUZZERS_JAVASCRIPT_PARSER_PROTO_TO_STRING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test_subdir.dict.
+type: test
+title: Test dictionary from subdirectory
+summary: Fuzzing dictionary fixture with one word per line, used by libFuzzer tests to exercise dictionary loading from a subdirectory.

@@ -1,0 +1,4 @@
+# Docerion header of math_transform.dict.
+type: data
+title: Math transform fuzzing dictionary
+summary: Dictionary of ASCII, Greek, Arabic and mathematical Unicode characters for fuzzing math text transformation code.

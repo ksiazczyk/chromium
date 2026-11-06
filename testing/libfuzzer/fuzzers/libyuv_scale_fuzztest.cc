@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libyuv_scale_fuzztest.cc
+// summary: Defines a FuzzTest fuzzer that runs the shared libyuv Scale routine with bounded input domains for sizes and filter mode.
+// ---
+
 #include "third_party/fuzztest/src/fuzztest/domain.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"
 #include "third_party/libyuv/include/libyuv.h"

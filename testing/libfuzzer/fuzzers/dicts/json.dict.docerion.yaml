@@ -1,0 +1,4 @@
+# Docerion header of json.dict.
+type: data
+title: JSON fuzzing dictionary
+summary: Dictionary of JSON syntax tokens such as brackets, literals and escape sequences for fuzzing JSON parsing.

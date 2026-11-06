@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzilli driver implementation
+// summary: Implements the Fuzzilli REPRL driver entry point with weak sanitizer coverage hooks and validation of the control and data file descriptors.
+// ---
+
 #include <sys/stat.h>
 
 #include <algorithm>

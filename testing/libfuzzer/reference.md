@@ -1,3 +1,11 @@
+---
+type: reference
+title: libFuzzer Integration Reference
+summary: Reference for libFuzzer integration covering sanitizer configuration, supported platforms and builder configs, the fuzzer_test GN template, and runtime options.
+relations:
+  - references /tools/mb/mb.py
+---
+
 # libFuzzer Integration Reference
 
 ## Additional Sanitizer Configuration

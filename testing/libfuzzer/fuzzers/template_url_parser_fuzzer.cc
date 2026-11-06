@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL parser libFuzzer target
+// summary: Fuzzes TemplateURLParser::Parse with a pseudo-random parameter filter, ICU and Mojo setup, and an in-process data decoder.
+// ---
+
 #include "components/search_engines/template_url_parser.h"
 
 #include <stddef.h>

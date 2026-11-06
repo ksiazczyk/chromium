@@ -7,6 +7,12 @@
  * compliant coverage files.
  */
 
+// ---docerion
+// type: source
+// title: V8 coverage conversion worker
+// summary: Worker thread script that validates source maps and converts raw V8 coverage data into IstanbulJS-compliant reports.
+// ---
+
 import {createHash} from 'node:crypto';
 import {join, dirname, normalize} from 'node:path';
 import {readdir, readFile, writeFile} from 'node:fs/promises';

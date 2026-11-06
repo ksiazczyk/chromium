@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 JavaScript engine fuzzer
+// summary: libFuzzer target that runs V8 with a mock ArrayBuffer allocator capping allocations and a thread terminating long executions.
+// ---
+
 #include "v8/include/v8.h"
 
 #include <chrono>

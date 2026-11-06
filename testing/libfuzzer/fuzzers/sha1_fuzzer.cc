@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sha1_fuzzer.cc
+// summary: LibFuzzer entry point that hashes arbitrary input with base::SHA1Hash to detect crashes in the SHA-1 implementation.
+// ---
+
 #include "base/hash/sha1.h"
 
 #include <stdint.h>

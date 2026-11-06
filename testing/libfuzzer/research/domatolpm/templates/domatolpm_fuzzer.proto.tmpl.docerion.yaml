@@ -1,0 +1,4 @@
+# Docerion header of domatolpm_fuzzer.proto.tmpl.
+type: source
+title: domatolpm_fuzzer.proto.tmpl fuzzcase proto template
+summary: Code template that generates a proto3 fuzzcase message combining the grammar protos referenced by a domatolpm template.

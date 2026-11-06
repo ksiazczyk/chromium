@@ -1,0 +1,4 @@
+# Docerion header of domatolpm.h.tmpl.
+type: source
+title: domatolpm.h.tmpl C++ handler header template
+summary: Code template that generates a C++ header declaring the generated handler functions and an optional root entry point for a domatolpm grammar.

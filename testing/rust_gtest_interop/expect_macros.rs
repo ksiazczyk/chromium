@@ -4,6 +4,12 @@
 
 // TODO(danakj): Reuse code for comparison macros with an expect_op!() macro?
 
+// ---docerion
+// type: source
+// title: Rust expect macros for Gtest expectations
+// summary: Defines Rust macros such as expect_true! and expect_eq! that report expectation failures to Gtest, mirroring the C++ EXPECT_* macros.
+// ---
+
 /// Internal helper to log an expectation failure. Other expect_* macros invoke
 /// it with their standard expectation message, plus optionally a user-provided
 /// custom string.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules
+summary: DEPS file allowing the directory to include code from base and third_party/blink.

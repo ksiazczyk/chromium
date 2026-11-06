@@ -1,3 +1,9 @@
+---
+type: readme
+title: Experimental Fuzzers and Utilities
+summary: Explains that this directory incubates experimental Chromium fuzzing tools and techniques, and warns not to depend on its code as it may change or be removed.
+---
+
 # Experimental Fuzzers and Utilities
 
 This directory contains experimental features pertaining to fuzzers and their

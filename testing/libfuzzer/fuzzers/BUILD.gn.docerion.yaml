@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for libFuzzer fuzzer targets
+summary: GN build file defining the fuzzer and test targets in testing/libfuzzer/fuzzers, with their sources, dependencies, dictionaries and seed corpora.

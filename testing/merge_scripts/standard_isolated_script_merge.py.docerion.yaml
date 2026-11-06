@@ -1,0 +1,4 @@
+# Docerion header of standard_isolated_script_merge.py.
+type: script
+title: Standard isolated script merge script
+summary: Command-line script that combines isolated script shard output.json files into a single results JSON, tagging results as unreliable when shards are missing.

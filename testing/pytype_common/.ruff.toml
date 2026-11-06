@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for pytype_common
+# summary: Sets Ruff linting and formatting options for this directory, including a line length of 80 and preserved quote style.
+# ---
+
 line-length = 80
 indent-width = 4
 

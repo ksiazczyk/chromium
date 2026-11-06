@@ -1,0 +1,4 @@
+# Docerion header of generator.pydeps.
+type: config
+title: Python dependencies of the Fuzzilli profile generator
+summary: Generated list of Python modules imported by generator.py, used by the build to track the script's dependencies.

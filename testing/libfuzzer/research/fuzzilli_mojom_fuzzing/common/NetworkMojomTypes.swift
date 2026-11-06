@@ -7,6 +7,12 @@
 /// See `MojoCommonProfile.swift` for the naming conventions these definitions
 /// follow and for how the lists below are registered.
 
+// ---docerion
+// type: source
+// title: Fuzzilli definitions for network.mojom types
+// summary: Defines Fuzzilli integer enumeration types for the network.mojom ConnectionInfo and EffectiveConnectionType values.
+// ---
+
 extension CommonMojoStrings {
     static let networkMojomConnectionInfo = "network.mojom.ConnectionInfo"
     static let networkMojomEffectiveConnectionType = "network.mojom.EffectiveConnectionType"

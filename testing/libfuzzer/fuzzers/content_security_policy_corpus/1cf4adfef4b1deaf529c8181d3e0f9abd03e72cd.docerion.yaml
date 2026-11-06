@@ -1,0 +1,4 @@
+# Docerion header of 1cf4adfef4b1deaf529c8181d3e0f9abd03e72cd.
+type: data
+title: 'CSP corpus: default-src with script-src override'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer combining default-src 'self' with a script-src HTTPS source.

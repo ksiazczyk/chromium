@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LuciTestResult unit tests
+// summary: Unit tests verifying that LuciTestResult writes JSON result files matching the expected LUCI Test Results format.
+// ---
+
 #include "testing/perf/luci_test_result.h"
 
 #include <optional>

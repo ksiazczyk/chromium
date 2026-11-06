@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for CBB reference info directory
+summary: Lists the code owners of the cbb_ref_info directory and the service account used by the CBB production workflow.

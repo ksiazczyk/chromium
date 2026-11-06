@@ -1,0 +1,4 @@
+# Docerion header of icc.dict.
+type: data
+title: ICC color profile fuzzing dictionary
+summary: Dictionary of ICC color profile tags, color spaces, profile classes, platforms and CMM signatures for fuzzing ICC profile parsing.

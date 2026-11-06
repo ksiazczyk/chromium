@@ -1,0 +1,4 @@
+# Docerion header of gen_fuzzer_config.py.
+type: script
+title: Generate fuzzer .options config files
+summary: Generates or updates ClusterFuzz .options config files for fuzzer tests with dictionary, libFuzzer, centipede and sanitizer options, invoked by GN.

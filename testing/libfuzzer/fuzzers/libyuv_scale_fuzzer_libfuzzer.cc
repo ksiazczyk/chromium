@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libyuv_scale_fuzzer_libfuzzer.cc
+// summary: LibFuzzer entry point that derives dimensions and filter mode from fuzz input and calls the shared libyuv Scale routine.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include "testing/libfuzzer/fuzzers/libyuv_scale_fuzzer.h"

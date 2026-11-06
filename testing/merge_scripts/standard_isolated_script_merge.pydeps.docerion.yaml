@@ -1,0 +1,4 @@
+# Docerion header of standard_isolated_script_merge.pydeps.
+type: config
+title: Standard isolated script merge dependency list
+summary: Generated list of Python module dependencies for standard_isolated_script_merge.py, used by build tooling for packaging.

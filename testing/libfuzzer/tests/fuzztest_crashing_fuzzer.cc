@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crashing FuzzTest fuzzer
+// summary: Defines a FUZZ_TEST that deliberately dereferences a null pointer to trigger a crash for testing fuzzing infrastructure.
+// ---
+
 #include <stdint.h>
 
 #include "base/compiler_specific.h"

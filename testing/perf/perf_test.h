@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perf test printing header
+// summary: Declares functions for printing numerical performance results, mean and error pairs, and result lists in a parseable stdout format.
+// ---
+
 #ifndef TESTING_PERF_PERF_TEST_H_
 #define TESTING_PERF_PERF_TEST_H_
 

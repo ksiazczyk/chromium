@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for libFuzzer proto fuzzing libraries
+summary: Defines GN build targets for the JSON, URL, Skia image filter, and string compare proto libraries and their libprotobuf-mutator converters used by fuzzers.

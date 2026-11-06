@@ -1,0 +1,4 @@
+# Docerion header of mac.json.
+type: data
+title: Safari stable Mac reference info
+summary: JSON record storing the Safari stable browser version 27.0.1 for the Mac platform, used as performance testing reference information.

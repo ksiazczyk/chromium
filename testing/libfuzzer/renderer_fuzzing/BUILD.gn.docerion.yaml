@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for renderer_fuzzing
+summary: Defines the testonly renderer_fuzzing source set, listing its C++ sources and dependencies on base and Blink.

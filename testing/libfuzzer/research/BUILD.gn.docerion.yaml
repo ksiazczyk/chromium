@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build group for experimental fuzzer research targets
+summary: GN build group that aggregates the domatolpm and fuzzilli_idl_fuzzing research targets so the root build can discover them.

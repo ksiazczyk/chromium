@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base hash fuzzer
+// summary: LibFuzzer entry point that computes persistent and fast hashes over arbitrary input bytes using base hash functions.
+// ---
+
 #include "base/hash/hash.h"
 
 #include <stdint.h>

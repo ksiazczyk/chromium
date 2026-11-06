@@ -1,0 +1,4 @@
+# Docerion header of gen_fuzzer_owners.py.
+type: script
+title: Generate owners files for fuzzer targets
+summary: Generates .owners files for fuzzer_test GN targets by locating the closest OWNERS file or falling back to git blame, invoked by GN.

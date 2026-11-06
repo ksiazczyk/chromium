@@ -1,3 +1,11 @@
+---
+type: readme
+title: Running pytype on Chromium Python code
+summary: Explains that this directory holds code for running the pytype type analyzer on Chromium Python code and how to invoke it via pytype_runner.py.
+relations:
+  - documents /testing/pytype_common/pytype_runner.py
+---
+
 This directory contains Python code for running pytype (a Python 3 type hinting
 analyzer) on Chromium Python code. pytype can infer types from un-annotated
 code, so it is not necessary to have type hinting added for all analyzed code

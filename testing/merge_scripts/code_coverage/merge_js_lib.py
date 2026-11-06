@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: JavaScript coverage merging library
+# summary: Library that extracts parsed scripts from inline sourcemaps and merges raw V8 JavaScript coverage into Istanbul reports.
+# ---
+
 """Functions to merge multiple JavaScript coverage files into one"""
 
 import base64

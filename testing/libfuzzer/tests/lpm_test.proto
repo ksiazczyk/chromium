@@ -5,6 +5,12 @@
 // Test proto for lpm_stub_fuzzer that covers a wide range of field types to
 // catch issues like https://crbug.com/558759075.
 
+// ---docerion
+// type: test
+// title: LPM test proto schema
+// summary: Proto definition covering a wide range of field types for the lpm_stub_fuzzer to catch libprotobuf-mutator issues.
+// ---
+
 syntax = "proto2";
 
 package lpm_test;

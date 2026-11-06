@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomatoLPM runtime context and sample builder declarations
+// summary: Declares the SampleBuilder, TextSampleBuilder and Context interfaces that generated DomatoLPM code uses to assemble fuzz samples.
+// ---
+
 #ifndef TESTING_LIBFUZZER_RESEARCH_DOMATOLPM_DOMATOLPM_H_
 #define TESTING_LIBFUZZER_RESEARCH_DOMATOLPM_DOMATOLPM_H_
 

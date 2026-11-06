@@ -1,0 +1,4 @@
+# Docerion header of pinlist_noop_merge.py.
+type: source
+title: No-op merge with pinlist collection
+summary: Merge script that performs a no-op merge and copies the single found pinlist.meta into a given directory.

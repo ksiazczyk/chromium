@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libsrtp_fuzzer.cc
+// summary: Fuzzes libsrtp packet unprotecting across several SRTP crypto policies, including WebRTC-like and GCM configurations chosen from the fuzz input.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of content_security_policy.dict.
+type: data
+title: Content Security Policy fuzzing dictionary
+summary: Dictionary of Content Security Policy directives, keywords and URI schemes used by libFuzzer to fuzz CSP parsing.

@@ -1,0 +1,4 @@
+# Docerion header of generator.py.
+type: source
+title: WebIDL to Fuzzilli profile generator
+summary: Generates a Swift Fuzzilli profile for Chrome by converting WebIDL interfaces, dictionaries, enums and typedefs into Fuzzilli IL types and object groups.

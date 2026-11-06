@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: paint_vector_icon_fuzztest.cc
+// summary: FuzzTest that paints valid random vector icon command sequences through gfx::PaintVectorIcon using domains matched to command argument counts.
+// ---
+
 #include <vector>
 
 #include "base/command_line.h"

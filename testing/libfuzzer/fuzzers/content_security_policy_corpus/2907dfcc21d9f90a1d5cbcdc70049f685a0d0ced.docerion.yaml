@@ -1,0 +1,4 @@
+# Docerion header of 2907dfcc21d9f90a1d5cbcdc70049f685a0d0ced.
+type: data
+title: 'CSP corpus: child-src directive'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer exercising the child-src directive with an HTTPS source.

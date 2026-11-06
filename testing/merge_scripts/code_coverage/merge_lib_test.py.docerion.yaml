@@ -1,0 +1,4 @@
+# Docerion header of merge_lib_test.py.
+type: test
+title: Tests for llvm-profdata merging library
+summary: Unit tests for merge_lib's profraw validation and conversion logic using mocked subprocess output.

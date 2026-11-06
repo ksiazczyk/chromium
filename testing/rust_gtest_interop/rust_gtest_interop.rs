@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust crate root for gtest interop
+// summary: Crate root exposing the prelude macros, the TestSuite trait, and FFI types that connect Rust tests to C++ Gtest.
+// ---
+
 chromium::import! {
     "//testing/rust_gtest_interop:gtest_attribute";
 }

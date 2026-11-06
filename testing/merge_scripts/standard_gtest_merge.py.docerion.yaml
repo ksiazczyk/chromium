@@ -1,0 +1,4 @@
+# Docerion header of standard_gtest_merge.py.
+type: script
+title: Standard gtest merge script
+summary: Command-line script that merges sharded gtest JSON results from Swarming into one summary, emitting warnings for missing or failed shards.

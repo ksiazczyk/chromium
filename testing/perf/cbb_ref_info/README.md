@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'CBB: Information on Browsers Being Tested'
+summary: Explains that the directory's JSON files hold browser version data used by CBB for browser selection and performance test metadata, and that they are auto-updated by the CBB new release detector workflow.
+---
+
 <!-- Copyright 2025 The Chromium Authors
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.

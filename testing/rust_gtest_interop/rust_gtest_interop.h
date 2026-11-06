@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ header for the Rust Gtest interop
+// summary: Declares the RustTest fixture template, the test suite factory macro, and the extern "C" entry points used by Rust tests.
+// ---
+
 #ifndef TESTING_RUST_GTEST_INTEROP_RUST_GTEST_INTEROP_H_
 #define TESTING_RUST_GTEST_INTEROP_RUST_GTEST_INTEROP_H_
 

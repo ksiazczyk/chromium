@@ -7,6 +7,12 @@
 //      /path/to/wgsl.g4 --output_header_file_path \
 //      /path/to/tint_wgsl_fuzzer_grammar.h --insert_whitespace
 
+// ---docerion
+// type: source
+// title: Generated WGSL grammar domain header
+// summary: FuzzTest grammar domain header generated from the WGSL ANTLR grammar for use by the tint WGSL fuzzers.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_TINT_WGSL_FUZZER_GRAMMAR_H_
 #define TESTING_LIBFUZZER_FUZZERS_TINT_WGSL_FUZZER_GRAMMAR_H_
 

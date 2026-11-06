@@ -1,3 +1,9 @@
+---
+type: readme
+title: Fuzzilli x Chrome
+summary: Explains how to use the experimental Fuzzilli driver with Chrome, including prerequisites, mandatory build flags, and how to run fuzzing with Fuzzilli.
+---
+
 # Fuzzilli x Chrome
 
 This experimental driver integrates Fuzzilli with Chrome for fuzz testing. It

@@ -1,0 +1,4 @@
+# Docerion header of mathml_operator_dictionary.dict.
+type: data
+title: MathML operator dictionary fuzzing dictionary
+summary: Dictionary of MathML operator dictionary entries and Unicode operator characters for fuzzing MathML handling.

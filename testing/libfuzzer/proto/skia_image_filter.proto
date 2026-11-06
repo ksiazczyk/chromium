@@ -32,6 +32,12 @@
 // implemented by defining a message containing required fields representing
 // each element in the array (eg OverdrawColorFilter).
 
+// ---docerion
+// type: source
+// title: Skia image filter protobuf definition for fuzzing
+// summary: Defines protobuf messages describing skia image filter flattenables, with autovisit and parent-child conventions, so fuzzers can generate serialized image filter input.
+// ---
+
 syntax = "proto2";
 
 package skia_image_filter_proto_converter;

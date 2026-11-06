@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: llvm-profdata merging library
+# summary: Library for merging LLVM profile data with llvm-profdata, including validation and conversion of profraw files.
+# ---
+
 """Functions for interacting with llvm-profdata"""
 
 import logging

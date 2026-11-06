@@ -5,6 +5,12 @@
 // A simple unit-test style driver for libfuzzer tests.
 // Usage: <fuzzer_test> <file>...
 
+// ---docerion
+// type: source
+// title: Unit-Test Style Driver for libFuzzer Tests
+// summary: Standalone driver that runs the libFuzzer test entry point on files passed as arguments when a target is built without the libFuzzer engine.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

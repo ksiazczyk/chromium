@@ -1,0 +1,4 @@
+# Docerion header of f1.
+type: test
+title: libFuzzer test corpus file f1
+summary: Empty corpus input in the test_corpus_subdir fixture used by the libFuzzer test suite.

@@ -1,0 +1,4 @@
+# Docerion header of web_icon_sizes.dict.
+type: data
+title: Web icon sizes fuzzing dictionary
+summary: Fuzzing dictionary with digits, the word "any" and control characters used to exercise web icon size parsing.

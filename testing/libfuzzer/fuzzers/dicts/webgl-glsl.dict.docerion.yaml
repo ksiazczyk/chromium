@@ -1,0 +1,4 @@
+# Docerion header of webgl-glsl.dict.
+type: data
+title: WebGL 2.0 GLSL fuzzing dictionary
+summary: Fuzzing dictionary of WebGL 2.0 shader language tokens, including preprocessor directives, keywords, types, built-in variables and functions.

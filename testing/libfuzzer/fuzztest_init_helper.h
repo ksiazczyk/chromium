@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzTest initialization helper header
+// summary: Declares the FuzzTest initialization function pointer and MaybeInitFuzztest helper that initializes FuzzTests only when a test suite contains them.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZTEST_INIT_HELPER_H_
 #define TESTING_LIBFUZZER_FUZZTEST_INIT_HELPER_H_
 

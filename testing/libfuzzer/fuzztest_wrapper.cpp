@@ -6,6 +6,12 @@
 // executable that contains multiple fuzzers.
 // The fuzzer binary is assumed to be in the same directory as this binary.
 
+// ---docerion
+// type: source
+// title: FuzzTest wrapper for running individual fuzzers
+// summary: Wrapper binary that launches a specific fuzzer inside a fuzztest executable, propagating signals and handling centipede replay mode.
+// ---
+
 #include <cerrno>
 #include <iostream>
 

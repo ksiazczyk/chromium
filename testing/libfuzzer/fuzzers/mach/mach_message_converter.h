@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach message converter header
+// summary: Declares SendablePort, SendableMessage, and functions to convert protobufs into Mach messages and send them via a port.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_MACH_MACH_MESSAGE_CONVERTER_H_
 #define TESTING_LIBFUZZER_FUZZERS_MACH_MACH_MESSAGE_CONVERTER_H_
 

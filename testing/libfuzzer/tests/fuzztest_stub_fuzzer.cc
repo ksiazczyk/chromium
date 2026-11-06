@@ -5,6 +5,12 @@
 // A minimal stub fuzztest used to verify that the fuzztest wrapper
 // behaves correctly and does not leak child processes.
 
+// ---docerion
+// type: test
+// title: FuzzTest stub fuzzer
+// summary: Minimal stub fuzztest verifying that the fuzztest wrapper behaves correctly and does not leak child processes.
+// ---
+
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"
 
 static void Stub(int input) {}

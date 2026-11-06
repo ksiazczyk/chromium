@@ -1,3 +1,9 @@
+---
+type: guide
+title: Efficient Fuzzing Guide
+summary: Describes metrics and techniques such as seed corpora and dictionaries to make libFuzzer fuzz targets faster and more effective.
+---
+
 # Efficient Fuzzing Guide
 
 This relates to fuzzers created using [libfuzzer] not [FuzzTests] - none of this

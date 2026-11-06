@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust unit tests for gtest interop
+// summary: 'Rust unit tests exercising the #[gtest] macro, expectation macros, Result return types, and canonical file path handling.'
+// ---
+
 use rust_gtest_interop::prelude::*;
 use std::path::PathBuf;
 

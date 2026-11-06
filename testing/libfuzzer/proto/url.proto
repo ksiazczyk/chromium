@@ -16,6 +16,12 @@
 // followed RFC 3986 (https://tools.ietf.org/html/rfc3986) which defines the
 // syntax of URIs (which URLs are a subset of).
 
+// ---docerion
+// type: source
+// title: URL protobuf definition for the URL parse fuzzer
+// summary: Defines the Url protobuf used by the url_parse_proto_fuzzer as an example for future Chromium fuzzers built on libprotobuf-mutator.
+// ---
+
 syntax = "proto2";
 
 package url_proto;

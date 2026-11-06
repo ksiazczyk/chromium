@@ -1,0 +1,4 @@
+# Docerion header of merge_js_lib_test.py.
+type: test
+title: Tests for JavaScript coverage merging library
+summary: Unit tests for merge_js_lib covering parsed script extraction, invalid inputs, and trailing curly brace handling.

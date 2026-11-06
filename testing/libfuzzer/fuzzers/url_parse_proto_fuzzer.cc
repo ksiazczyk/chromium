@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf-based URL parsing fuzzer
+// summary: libprotobuf-mutator fuzzer that converts a protobuf Url message into a URL string for parsing exercises.
+// ---
+
 #include <assert.h>
 #include <stdlib.h>
 

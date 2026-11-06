@@ -1,0 +1,4 @@
+# Docerion header of 8ba24866fbd53a3ac2eb2074d1dba842d782d14b.
+type: test
+title: 'CSP corpus: img-src directive'
+summary: Fuzzer corpus entry with a Content Security Policy restricting image sources to example.com.

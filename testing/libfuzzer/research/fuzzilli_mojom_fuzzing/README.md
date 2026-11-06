@@ -1,3 +1,12 @@
+---
+type: readme
+title: Fuzzilli Profile Generation
+summary: Documents the workflow, support matrix, and design decisions for generated Fuzzilli profiles that fuzz renderer-exposed Mojo interfaces via MojoJS lite bindings.
+relations:
+  - references /mojo/public/tools/bindings/generators/mojom_fuzzilli_generator.py
+  - references /testing/libfuzzer/research/fuzzilli_mojom_fuzzing/common/MojoCommonProfile.swift
+---
+
 # Fuzzilli Profile Generation
 
 This directory holds Fuzzilli profiles that fuzz renderer-exposed Mojo

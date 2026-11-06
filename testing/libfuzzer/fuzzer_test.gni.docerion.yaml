@@ -1,0 +1,4 @@
+# Docerion header of fuzzer_test.gni.
+type: config
+title: fuzzer_test GN template for libFuzzer test targets
+summary: GN template that defines fuzzer_test targets for libFuzzer, centipede and other fuzzing engines, with options for dictionaries, sanitizers and seed corpora.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DLL preloader for fuzzer support
+// summary: Preloads dbghelp and msdia DLLs and initializes DbgHelp before fuzzing starts on Windows to avoid AddressSanitizer symbolization deadlocks.
+// ---
+
 #include <windows.h>
 
 #include <dbghelp.h>

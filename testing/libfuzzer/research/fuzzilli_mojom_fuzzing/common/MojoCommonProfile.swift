@@ -35,6 +35,12 @@
 ///    - Namespace concatenated with the registry kind, in camelCase (e.g.
 ///      `urlMojomObjectGroups`, `mojoBaseMojomCodeGenerators`).
 
+// ---docerion
+// type: source
+// title: Common Mojo Fuzzilli profile definitions and naming conventions
+// summary: Aggregates the shared non-interface Mojo types, builtins, code generators, and object groups for Fuzzilli profiles and documents the naming conventions used across the common directory.
+// ---
+
 public enum CommonMojoStrings {}
 
 public let commonMojoBuiltins: [String: ILType] = [:]

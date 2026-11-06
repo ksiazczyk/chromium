@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn target for the Fuzzilli IDL profile generator
+summary: Defines the GN action that runs generator.py over the WebIDL database to produce ChromiumProfile.swift, skipping iOS builds.

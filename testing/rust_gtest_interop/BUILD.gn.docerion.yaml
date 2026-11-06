@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Rust Gtest interop
+summary: Defines the GN targets building the C++ and Rust sides of the gtest interop, the gtest_attribute proc macro, and the C++ and Rust unit tests.

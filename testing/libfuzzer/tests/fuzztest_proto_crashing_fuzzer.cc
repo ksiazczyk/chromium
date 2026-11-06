@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crashing FuzzTest proto fuzzer
+// summary: Defines a FUZZ_TEST taking a protobuf input that deliberately dereferences a null pointer to crash for testing purposes.
+// ---
+
 #include "base/compiler_specific.h"
 #include "testing/libfuzzer/proto/string_compare_fuzzable.pb.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"

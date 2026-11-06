@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for pytype_common
+summary: Lists bsheedy@chromium.org as the code owner for the pytype_common directory.

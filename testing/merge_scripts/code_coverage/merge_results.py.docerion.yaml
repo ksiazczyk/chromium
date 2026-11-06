@@ -1,0 +1,4 @@
+# Docerion header of merge_results.py.
+type: script
+title: Merge results from code-coverage and PGO swarming runs
+summary: Swarming merge script that combines code-coverage and PGO profiles, including Java and JavaScript coverage, from multiple shards into a single profdata output.

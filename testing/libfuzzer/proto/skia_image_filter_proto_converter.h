@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia image filter proto converter class header
+// summary: Declares the Converter class that converts Input protobufs into strings representing serialized skia image filters, including skia constants and lookup tables.
+// ---
+
 #ifndef TESTING_LIBFUZZER_PROTO_SKIA_IMAGE_FILTER_PROTO_CONVERTER_H_
 #define TESTING_LIBFUZZER_PROTO_SKIA_IMAGE_FILTER_PROTO_CONVERTER_H_
 

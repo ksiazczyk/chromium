@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: prtime_fuzzer.cc
+// summary: Fuzzes base's PR_ParseTimeString with fuzz-provided time strings and a case-insensitive flag from FuzzedDataProvider.
+// ---
+
 #include "base/third_party/nspr/prtime.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

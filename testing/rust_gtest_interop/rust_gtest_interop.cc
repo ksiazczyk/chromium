@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ side of the Rust Gtest interop
+// summary: Implements the extern "C" functions that register Rust tests with Gtest and report failures at a given file and line.
+// ---
+
 #include "testing/rust_gtest_interop/rust_gtest_interop.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

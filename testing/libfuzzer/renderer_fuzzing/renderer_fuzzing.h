@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFuzzing registry header
+// summary: Declares the RendererFuzzerBase interface, the RendererFuzzing fuzzer registry singleton, and the REGISTER_RENDERER_FUZZER registration macro.
+// ---
+
 #ifndef TESTING_LIBFUZZER_RENDERER_FUZZING_RENDERER_FUZZING_H_
 #define TESTING_LIBFUZZER_RENDERER_FUZZING_RENDERER_FUZZING_H_
 
