@@ -1,0 +1,4 @@
+# Docerion header of IDS_NETWORK_TYPE_ETHERNET.png.sha1.
+type: asset
+title: SHA-1 hash for IDS_NETWORK_TYPE_ETHERNET.png
+summary: Stores the SHA-1 checksum of the PNG image for the Ethernet network type string in the ChromeOS strings resources.
