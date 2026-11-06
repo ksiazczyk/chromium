@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes-expected-auralinux.txt.
+type: test
+title: Select listbox modes expected accessibility tree for Linux
+summary: Expected Linux accessibility tree snapshot for the select-listbox-modes test, showing combo boxes and list boxes for various select configurations.

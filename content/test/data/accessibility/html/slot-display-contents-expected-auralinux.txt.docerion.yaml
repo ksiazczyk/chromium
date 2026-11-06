@@ -1,0 +1,4 @@
+# Docerion header of slot-display-contents-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux output for slot display contents test
+summary: Expected Linux accessibility tree snapshot showing a document, div and button for the slot display contents test page.

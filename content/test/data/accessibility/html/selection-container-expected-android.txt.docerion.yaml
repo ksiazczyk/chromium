@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-android.txt.
+type: test
+title: Selection container expected Android snapshot
+summary: Expected Android accessibility tree for the selection container test showing a ListView container with four clickable collection items.

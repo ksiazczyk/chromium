@@ -1,0 +1,4 @@
+# Docerion header of scrollable-textarea-expected-blink.txt.
+type: test
+title: Scrollable textarea Blink expectation
+summary: Expected Blink accessibility tree snapshot for the scrollable textarea test, including inline text boxes and scrollXMin values.

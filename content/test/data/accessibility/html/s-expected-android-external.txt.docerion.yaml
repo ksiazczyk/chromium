@@ -1,0 +1,4 @@
+# Docerion header of s-expected-android-external.txt.
+type: test
+title: Strikethrough expected Android external tree
+summary: Expected external Android accessibility snapshot for the strikethrough element, exposing it as a content deletion node.

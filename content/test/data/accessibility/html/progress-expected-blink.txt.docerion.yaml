@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-blink.txt.
+type: test
+title: Expected accessibility tree for progress test on Blink
+summary: Expected Blink internal accessibility tree for the progress HTML test with progress indicator range values for determinate and indeterminate elements.

@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-mac.txt.
+type: test
+title: Expected accessibility tree for progress test on macOS
+summary: Expected macOS accessibility tree for the progress HTML test with progress indicator minimum, maximum, value, and role description attributes.

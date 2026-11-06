@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus-expected-fuchsia.txt.
+type: test
+title: Selection over editable without focus expected Fuchsia output
+summary: Expected Fuchsia accessibility tree snapshot for the selection-over-editable-without-focus test, listing paragraphs and text fields.

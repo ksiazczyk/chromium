@@ -1,0 +1,4 @@
+# Docerion header of p-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for paragraph test
+summary: Expected Android external accessibility tree snapshot describing how a paragraph element between text nodes is exposed.

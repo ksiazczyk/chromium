@@ -1,0 +1,4 @@
+# Docerion header of q-expected-android.txt.
+type: test
+title: q element expected Android output
+summary: Expected Android accessibility tree for the q element test showing a TextView with percent-encoded quotation marks.

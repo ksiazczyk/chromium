@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for select-open test
+summary: Expected Blink internal accessibility tree snapshot for the select-open test, covering combo boxes, menu list popups and selected options.

@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-uia-win.txt.
+type: test
+title: Ruby expected UIA Windows output
+summary: Expected Windows UIA accessibility tree dump for the ruby HTML test page.

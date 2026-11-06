@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-expected-mac.txt.
+type: test
+title: Select follows focus expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the select-follows-focus HTML test, showing tab selection states before and after the Done action.

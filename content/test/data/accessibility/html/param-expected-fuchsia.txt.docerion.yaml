@@ -1,0 +1,4 @@
+# Docerion header of param-expected-fuchsia.txt.
+type: test
+title: Param expected accessibility tree for Fuchsia
+summary: Expected accessibility tree snapshot for the param HTML test on Fuchsia, containing unknown nodes for unmapped elements.

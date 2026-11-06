@@ -1,0 +1,4 @@
+# Docerion header of span-expected-fuchsia.txt.
+type: test
+title: span expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the span.html test with paragraph, static text, and link nodes and their actions.

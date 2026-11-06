@@ -1,0 +1,4 @@
+# Docerion header of popover-api-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for popover API test
+summary: Expected Blink internal accessibility tree dump for the popover API test, including expanded states and popover details relationships.

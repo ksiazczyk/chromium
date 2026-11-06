@@ -1,0 +1,4 @@
+# Docerion header of s-expected-fuchsia.txt.
+type: test
+title: Strikethrough expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree snapshot for the strikethrough element test page.

@@ -1,0 +1,4 @@
+# Docerion header of param-expected-android-external.txt.
+type: test
+title: param-expected-android-external.txt
+summary: Expected Android accessibility tree snapshot in external form for the param object test page, showing a disabled plugin object node.

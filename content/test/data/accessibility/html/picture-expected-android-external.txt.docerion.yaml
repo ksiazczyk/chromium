@@ -1,0 +1,4 @@
+# Docerion header of picture-expected-android-external.txt.
+type: test
+title: Picture expected external Android accessibility snapshot
+summary: Expected external Android accessibility snapshot for the picture test page, listing image nodes that reference webp sources.

@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-blink.txt.
+type: test
+title: Ruby expected Blink output
+summary: Expected Blink internal accessibility tree dump for the ruby HTML test page.

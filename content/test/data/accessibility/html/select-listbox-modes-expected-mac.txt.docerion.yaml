@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes-expected-mac.txt.
+type: test
+title: Select listbox modes expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the select-listbox-modes test, showing headings, popup buttons, and lists.

@@ -1,0 +1,4 @@
+# Docerion header of pre-expected-mac.txt.
+type: test
+title: Pre expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the pre formatting test with AXGroup and AXStaticText nodes.

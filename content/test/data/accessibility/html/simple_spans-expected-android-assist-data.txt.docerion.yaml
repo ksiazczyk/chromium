@@ -1,0 +1,4 @@
+# Docerion header of simple_spans-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for simple spans test
+summary: Expected Android assist data snapshot describing the view hierarchy and text sizes for the simple spans test page.

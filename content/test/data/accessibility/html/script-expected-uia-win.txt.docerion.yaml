@@ -1,0 +1,4 @@
+# Docerion header of script-expected-uia-win.txt.
+type: test
+title: script expected accessibility output for UIA on Windows
+summary: Expected UIA accessibility output for the script element test page, marked as skipped because the element is not mapped.

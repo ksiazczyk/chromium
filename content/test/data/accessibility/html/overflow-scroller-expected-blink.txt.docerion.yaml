@@ -1,0 +1,4 @@
+# Docerion header of overflow-scroller-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for overflow-scroller test
+summary: Expected Blink accessibility tree snapshot covering multiple overflow-scroller states such as overflow auto, hidden, and font size changes.

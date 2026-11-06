@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-win.txt.
+type: test
+title: Selection container expected Windows snapshot
+summary: Expected Windows MSAA/IA2 accessibility tree for the selection container test with document, list, grouping and list item roles.

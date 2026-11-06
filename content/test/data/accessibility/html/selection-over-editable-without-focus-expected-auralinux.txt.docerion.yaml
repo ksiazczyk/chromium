@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus-expected-auralinux.txt.
+type: test
+title: Selection over editable without focus expected Linux AT-SPI output
+summary: Expected Linux accessibility snapshot for the selection-over-editable-without-focus test with selection offsets on paragraphs and entries.

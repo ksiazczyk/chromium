@@ -1,0 +1,4 @@
+# Docerion header of p-expected-fuchsia.txt.
+type: test
+title: p-expected-fuchsia.txt
+summary: Expected Fuchsia accessibility tree snapshot for the paragraph test page p.html, listing static text and paragraph nodes.

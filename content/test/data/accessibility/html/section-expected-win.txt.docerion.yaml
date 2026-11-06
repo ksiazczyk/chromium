@@ -1,0 +1,4 @@
+# Docerion header of section-expected-win.txt.
+type: test
+title: Section test expectations for Windows IA2
+summary: Expected Windows IA2 accessibility tree for the HTML section element test, covering section and landmark roles.

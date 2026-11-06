@@ -1,0 +1,4 @@
+# Docerion header of section-expected-uia-win.txt.
+type: test
+title: Section test expectations for Windows UIA
+summary: Expected Windows UIA accessibility tree for the HTML section element test, covering group and text elements.

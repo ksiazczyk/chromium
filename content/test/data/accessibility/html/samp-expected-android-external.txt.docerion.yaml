@@ -1,0 +1,4 @@
+# Docerion header of samp-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for the samp element test
+summary: Expected Android external accessibility snapshot for the HTML page testing the samp element.

@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for select-in-canvas
+summary: Expected Auralinux AT-SPI tree snapshot for a select element inside a canvas, listing combo box, menu and menu item nodes.

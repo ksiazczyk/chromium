@@ -1,0 +1,4 @@
+# Docerion header of param-expected-mac.txt.
+type: test
+title: Param expected accessibility tree for Mac
+summary: Expected accessibility tree snapshot for the param HTML test on Mac, containing a skip marker because it is not mapped.

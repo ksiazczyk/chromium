@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-android.txt.
+type: test
+title: Ruby expected Android output
+summary: Expected Android accessibility tree dump for the ruby HTML test page.

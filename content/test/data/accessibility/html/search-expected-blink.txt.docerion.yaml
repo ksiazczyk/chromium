@@ -1,0 +1,4 @@
+# Docerion header of search-expected-blink.txt.
+type: test
+title: Search element expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the HTML search element test page.

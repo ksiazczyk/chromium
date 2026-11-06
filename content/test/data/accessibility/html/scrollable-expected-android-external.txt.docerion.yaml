@@ -1,0 +1,4 @@
+# Docerion header of scrollable-expected-android-external.txt.
+type: test
+title: Scrollable test expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree snapshot for the scrollable HTML accessibility test, listing focusable nodes, actions and chrome roles.

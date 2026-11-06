@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-expected-blink.txt.
+type: test
+title: Select follows focus expected accessibility tree for Blink
+summary: Expected Blink internal accessibility tree for the select-follows-focus HTML test, showing tab selection states before and after the Done action.

@@ -1,0 +1,4 @@
+# Docerion header of prohibited-name-expected-win.txt.
+type: test
+title: Prohibited name expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the prohibited-name test, covering aria-label repair and aria-description handling.

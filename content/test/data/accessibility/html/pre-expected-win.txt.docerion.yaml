@@ -1,0 +1,4 @@
+# Docerion header of pre-expected-win.txt.
+type: test
+title: Pre expected accessibility tree for Windows
+summary: Expected Windows MSAA and IA2 accessibility tree for the pre formatting test with section and static text roles.

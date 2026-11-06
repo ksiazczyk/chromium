@@ -1,0 +1,4 @@
+# Docerion header of simple_spans-expected-android-external.txt.
+type: test
+title: Expected Android external output for simple spans test
+summary: Expected Android accessibility tree snapshot listing focusable views and text nodes for the simple spans test page.

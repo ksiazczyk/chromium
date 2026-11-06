@@ -1,0 +1,4 @@
+# Docerion header of reparent-crash-expected-blink.txt.
+type: test
+title: reparent-crash expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the reparent crash regression test.

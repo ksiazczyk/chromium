@@ -1,0 +1,4 @@
+# Docerion header of select-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for select test
+summary: Expected Blink accessibility tree snapshot covering combo boxes, menu list popups and list boxes for the select elements in the test page.

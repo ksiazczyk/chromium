@@ -1,0 +1,4 @@
+# Docerion header of slot-display-contents-expected-blink.txt.
+type: test
+title: Expected Blink output for slot display contents test
+summary: Expected Blink accessibility tree snapshot with generic containers and a button for the slot display contents test page.

@@ -1,0 +1,4 @@
+# Docerion header of simple_spans.html.
+type: test
+title: Simple spans accessibility test page
+summary: HTML test page containing two spans with plain text and a number, used as input for accessibility tree comparisons.

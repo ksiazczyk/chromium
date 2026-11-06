@@ -1,0 +1,4 @@
+# Docerion header of popover-rich-hint-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the rich hint popover test
+summary: Expected Blink accessibility tree snapshot showing a rich hint popover associated through the details relation.

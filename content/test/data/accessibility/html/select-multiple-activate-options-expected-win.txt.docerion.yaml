@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for select multiple activate options
+summary: Expected Windows MSAA and IA2 accessibility snapshot for the select multiple activate options test with both list items selected.

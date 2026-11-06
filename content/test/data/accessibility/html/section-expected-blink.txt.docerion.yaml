@@ -1,0 +1,4 @@
+# Docerion header of section-expected-blink.txt.
+type: test
+title: Section test expectations for Blink
+summary: Expected Blink accessibility tree for the HTML section element test, covering unnamed sections and named regions.

@@ -1,0 +1,4 @@
+# Docerion header of select-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for select test
+summary: Expected Aura Linux accessibility tree snapshot with combo boxes, menus and list boxes for the select elements in the test page.

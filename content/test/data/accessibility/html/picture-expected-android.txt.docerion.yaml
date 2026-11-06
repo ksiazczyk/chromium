@@ -1,0 +1,4 @@
+# Docerion header of picture-expected-android.txt.
+type: test
+title: Picture expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the picture test page, listing image views for the rendered images.

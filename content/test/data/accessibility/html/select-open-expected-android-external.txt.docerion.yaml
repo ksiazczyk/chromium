@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for select-open test
+summary: Expected Android external accessibility tree snapshot for the select-open test, describing combo boxes with collapsed and expanded states and their actions.

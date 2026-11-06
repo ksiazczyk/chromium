@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for select-open test
+summary: Expected Linux accessibility tree snapshot for the select-open test, showing combo boxes, menus and selectable menu items.

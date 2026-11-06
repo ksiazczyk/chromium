@@ -1,0 +1,4 @@
+# Docerion header of overflow-scroller.html.
+type: test
+title: Overflow scroller accessibility test page
+summary: HTML test page with scripted steps that toggle overflow rules, content, and font sizes to test scroller accessibility updates in Blink.

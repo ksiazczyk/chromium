@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-fuchsia.txt.
+type: test
+title: Expected accessibility tree for progress test on Fuchsia
+summary: Expected Fuchsia accessibility tree for the progress HTML test, with node roles shown as unmapped placeholders.

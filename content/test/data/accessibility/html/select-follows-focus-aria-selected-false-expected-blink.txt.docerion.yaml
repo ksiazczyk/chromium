@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-blink.txt.
+type: test
+title: Blink expectations for select-follows-focus-aria-selected-false
+summary: Expected Blink accessibility tree for the select-follows-focus-aria-selected-false test showing tabs with selected=false and selectedFromFocus=false.

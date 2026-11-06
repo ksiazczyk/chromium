@@ -1,0 +1,4 @@
+# Docerion header of prohibited-name-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for prohibited-name test on Linux (auralinux)
+summary: Expected Linux accessibility tree for the prohibited-name HTML test, showing prohibited aria-labels moved to descriptions and redundant labels ignored.

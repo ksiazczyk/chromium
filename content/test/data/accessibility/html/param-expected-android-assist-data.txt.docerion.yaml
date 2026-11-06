@@ -1,0 +1,4 @@
+# Docerion header of param-expected-android-assist-data.txt.
+type: test
+title: param-expected-android-assist-data.txt
+summary: Expected Android assist data tree snapshot for the param object test page, showing the object element referencing a SWF file.

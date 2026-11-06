@@ -1,0 +1,4 @@
+# Docerion header of samp-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows snapshot for the samp element test
+summary: Expected UIA Windows snapshot marking the samp element test as skipped because it has no accessible.

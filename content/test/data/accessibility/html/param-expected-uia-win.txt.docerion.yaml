@@ -1,0 +1,4 @@
+# Docerion header of param-expected-uia-win.txt.
+type: test
+title: Param expected accessibility tree for UIA on Windows
+summary: Expected accessibility tree snapshot for the param HTML test for UIA on Windows, containing a skip marker because it is not mapped.

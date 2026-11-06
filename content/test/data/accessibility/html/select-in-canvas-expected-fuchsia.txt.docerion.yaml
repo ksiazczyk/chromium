@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-fuchsia.txt.
+type: test
+title: Select in canvas expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the select-in-canvas test, listing UNKNOWN roles for select elements inside and outside a canvas.

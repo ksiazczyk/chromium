@@ -1,0 +1,4 @@
+# Docerion header of s-expected-android.txt.
+type: test
+title: Strikethrough expected Android tree
+summary: Expected Android accessibility tree snapshot for the strikethrough element test page.

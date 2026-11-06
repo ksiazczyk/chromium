@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-mac.txt.
+type: test
+title: Ruby expected macOS output
+summary: Expected macOS accessibility tree dump for the ruby HTML test page.

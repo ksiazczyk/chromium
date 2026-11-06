@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-android-external.txt.
+type: test
+title: Selection container expected Android external snapshot
+summary: Expected Android external accessibility snapshot with roles, actions and collection info for the selection container listbox, optgroup and options.

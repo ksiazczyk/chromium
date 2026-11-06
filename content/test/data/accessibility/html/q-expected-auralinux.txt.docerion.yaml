@@ -1,0 +1,4 @@
+# Docerion header of q-expected-auralinux.txt.
+type: test
+title: q element expected Aura Linux output
+summary: Expected Aura Linux accessibility tree for the q element test with static text nodes for the quoted content.

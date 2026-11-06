@@ -1,0 +1,4 @@
+# Docerion header of shadow-dom-first-child-expected-blink.txt.
+type: test
+title: Shadow DOM first child expected Blink output
+summary: Expected Blink accessibility tree snapshot for the shadow DOM first child test, showing an ignored invisible generic container.

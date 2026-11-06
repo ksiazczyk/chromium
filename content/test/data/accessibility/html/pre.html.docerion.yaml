@@ -1,0 +1,4 @@
+# Docerion header of pre.html.
+type: test
+title: Pre formatting accessibility test page
+summary: HTML test page with a pre element and divs using white-space pre, pre-wrap and normal for accessibility tree testing.

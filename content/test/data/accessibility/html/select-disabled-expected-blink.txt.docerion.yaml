@@ -1,0 +1,4 @@
+# Docerion header of select-disabled-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disabled select
+summary: Expected Blink accessibility tree snapshot for the disabled select test page, listing roles, states, set sizes and option positions.

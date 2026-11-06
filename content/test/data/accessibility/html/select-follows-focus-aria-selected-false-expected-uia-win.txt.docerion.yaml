@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-uia-win.txt.
+type: test
+title: UIA Win expectations for select-follows-focus-aria-selected-false
+summary: Expected UIA Windows accessibility tree for the select-follows-focus-aria-selected-false test with two unselected tab items and a Done text element.

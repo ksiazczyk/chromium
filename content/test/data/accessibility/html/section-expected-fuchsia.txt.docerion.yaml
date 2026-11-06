@@ -1,0 +1,4 @@
+# Docerion header of section-expected-fuchsia.txt.
+type: test
+title: Section test expectations for Fuchsia
+summary: Expected Fuchsia accessibility tree for the HTML section element test, covering unnamed sections and named regions.

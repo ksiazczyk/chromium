@@ -1,0 +1,4 @@
+# Docerion header of pre-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the pre formatting test
+summary: Expected Android assist data snapshot describing how pre and white-space styled elements are exposed to accessibility.

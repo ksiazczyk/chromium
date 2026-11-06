@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-uia-win.txt.
+type: test
+title: Select in canvas expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree snapshot for the select-in-canvas test, describing combo boxes and text elements within the canvas.

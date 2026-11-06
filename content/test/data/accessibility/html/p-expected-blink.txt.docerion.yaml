@@ -1,0 +1,4 @@
+# Docerion header of p-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for paragraph test
+summary: Expected Blink accessibility tree snapshot describing word boundaries for a paragraph element between text nodes.

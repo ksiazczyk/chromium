@@ -1,0 +1,4 @@
+# Docerion header of overflow-actions-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for overflow-actions test
+summary: Expected Fuchsia accessibility tree snapshot verifying how scrollable and hidden overflow containers are exposed in the overflow-actions test.

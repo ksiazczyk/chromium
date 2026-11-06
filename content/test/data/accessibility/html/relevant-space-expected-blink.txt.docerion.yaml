@@ -1,0 +1,4 @@
+# Docerion header of relevant-space-expected-blink.txt.
+type: test
+title: relevant-space expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the whitespace handling test page.

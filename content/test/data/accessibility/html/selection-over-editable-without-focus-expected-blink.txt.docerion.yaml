@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus-expected-blink.txt.
+type: test
+title: Selection over editable without focus expected Blink output
+summary: Expected Blink internal accessibility tree snapshot for the selection-over-editable-without-focus test, showing text selection start and end offsets.

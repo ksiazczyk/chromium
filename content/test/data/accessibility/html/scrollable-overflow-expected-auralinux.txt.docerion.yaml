@@ -1,0 +1,4 @@
+# Docerion header of scrollable-overflow-expected-auralinux.txt.
+type: test
+title: Scrollable overflow test expected AuraLinux accessibility tree
+summary: Expected AuraLinux accessibility tree snapshot for the scrollable overflow HTML test, marking sections as scrollable or not scrollable per overflow setting.

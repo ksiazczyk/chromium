@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for select-in-canvas
+summary: Expected Android external tree snapshot for a select element inside a canvas, including the combo box role description and static text nodes.

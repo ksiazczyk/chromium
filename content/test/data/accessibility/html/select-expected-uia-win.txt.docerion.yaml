@@ -1,0 +1,4 @@
+# Docerion header of select-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for select test
+summary: Expected Windows UIA accessibility snapshot with ComboBox, List and ListItem patterns for the select elements in the test page.

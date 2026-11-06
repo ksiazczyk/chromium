@@ -1,0 +1,4 @@
+# Docerion header of section-expected-android-external.txt.
+type: test
+title: Section test expectations for Android external format
+summary: Expected Android accessibility tree with external annotations for the HTML section element test, covering generic and region roles.

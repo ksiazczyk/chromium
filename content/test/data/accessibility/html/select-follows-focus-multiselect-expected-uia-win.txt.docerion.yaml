@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-multiselect-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for select-follows-focus multiselect on Windows
+summary: Expected Windows UI Automation tree snapshot for the multiselectable tablist test, listing tab selection states and the Done text.

@@ -1,0 +1,4 @@
+# Docerion header of select-disabled-expected-android.txt.
+type: test
+title: Disabled select test expectations for Android
+summary: Expected Android accessibility tree for a disabled select element test, showing a collapsed, disabled menu pop up button.

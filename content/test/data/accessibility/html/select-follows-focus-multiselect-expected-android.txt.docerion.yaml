@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-multiselect-expected-android.txt.
+type: test
+title: Select follows focus multiselect expected accessibility tree for Android
+summary: Expected Android accessibility tree for the multiselect variant of the select-follows-focus HTML test, showing a multiselectable tab list.

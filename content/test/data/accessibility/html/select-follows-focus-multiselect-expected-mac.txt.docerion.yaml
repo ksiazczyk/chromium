@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-multiselect-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for select-follows-focus multiselect
+summary: Expected macOS AX tree snapshot for the multiselectable tablist test, showing that focusing tab1 does not select it while tab2 stays selected.

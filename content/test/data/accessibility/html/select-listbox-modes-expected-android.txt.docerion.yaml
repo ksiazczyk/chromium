@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes-expected-android.txt.
+type: test
+title: Select listbox modes expected accessibility tree for Android
+summary: Expected Android accessibility tree snapshot for the select-listbox-modes test, covering select elements with multiple, size, and single-selection attributes.

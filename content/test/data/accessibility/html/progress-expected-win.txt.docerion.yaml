@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-win.txt.
+type: test
+title: Expected accessibility tree for progress test on Windows
+summary: Expected Windows IA2 accessibility tree for the progress HTML test with progress bar values, value text, and the mixed state of the indeterminate bar.

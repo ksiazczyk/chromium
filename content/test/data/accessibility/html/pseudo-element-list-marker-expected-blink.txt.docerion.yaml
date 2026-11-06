@@ -1,0 +1,4 @@
+# Docerion header of pseudo-element-list-marker-expected-blink.txt.
+type: test
+title: Pseudo-element list marker expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the pseudo-element list marker test, listing the Mercury Seven astronauts with '- ' markers.

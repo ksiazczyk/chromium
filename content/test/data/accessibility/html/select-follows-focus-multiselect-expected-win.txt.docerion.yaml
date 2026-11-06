@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-multiselect-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for select-follows-focus multiselect
+summary: Expected Windows MSAA/IA2 tree snapshot for the multiselectable tablist test, marking tab2 as selected in the page tab list.

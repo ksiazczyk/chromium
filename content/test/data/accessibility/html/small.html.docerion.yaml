@@ -1,0 +1,4 @@
+# Docerion header of small.html.
+type: test
+title: HTML test page with a small element
+summary: HTML test page containing a paragraph with Chromium text and a small element, used as input for accessibility tree tests.

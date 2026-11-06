@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-android.txt.
+type: test
+title: Expected accessibility tree for progress test on Android
+summary: Expected Android accessibility tree snapshot for the progress HTML test, covering range values and the indeterminate progress state description.

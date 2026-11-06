@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-expected-android.txt.
+type: test
+title: Android expectations for select-follows-focus
+summary: Expected Android accessibility tree for the select-follows-focus test, showing tab selection moving between tabs across two snapshots.

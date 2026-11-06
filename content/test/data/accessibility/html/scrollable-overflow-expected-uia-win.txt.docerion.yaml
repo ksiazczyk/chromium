@@ -1,0 +1,4 @@
+# Docerion header of scrollable-overflow-expected-uia-win.txt.
+type: test
+title: Scrollable overflow expected accessibility tree for UIA on Windows
+summary: Expected UIA-Win accessibility tree snapshot for the scrollable overflow test, listing scroll pattern properties for elements with various overflow-x and overflow-y settings.

@@ -1,0 +1,4 @@
+# Docerion header of q-expected-android-assist-data.txt.
+type: test
+title: q element expected Android assist data
+summary: Expected Android assist data output for the q element test, showing the quoted 'Chromium Blink' text as a sequence of TextViews.
