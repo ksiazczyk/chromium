@@ -1,0 +1,4 @@
+# Docerion header of permissions4_new.json.
+type: test
+title: Silent upgrade test manifest adding tabs to plugin entry (new version)
+summary: Test fixture manifest for silent upgrade tests, defining the new version that adds the tabs permission alongside a plugin.

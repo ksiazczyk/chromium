@@ -1,0 +1,4 @@
+# Docerion header of legacy_crx_package.README.
+type: readme
+title: Legacy CRX package README
+summary: Explains that the legacy CRX package is packed in an older format and kept to verify Chrome still supports legacy CRX files.

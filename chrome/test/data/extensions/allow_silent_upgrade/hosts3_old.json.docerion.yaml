@@ -1,0 +1,4 @@
+# Docerion header of hosts3_old.json.
+type: test
+title: Silent upgrade test manifest with Google and Reddit host permissions
+summary: Old-version extension manifest with Google and Reddit host permissions used in a silent upgrade test case.

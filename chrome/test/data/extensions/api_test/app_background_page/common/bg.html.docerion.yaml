@@ -1,0 +1,4 @@
+# Docerion header of bg.html.
+type: test
+title: App background page test background page
+summary: Background page fixture that exercises session storage, tracks a call counter and exchanges messages with the test pages through the script tunnel.

@@ -1,0 +1,4 @@
+# Docerion header of plugin1_new.json.
+type: test
+title: Plugin new manifest with foo.dll plugin
+summary: New-version manifest fixture declaring a foo.dll plugin, identical to its old counterpart to test upgrades with unchanged plugin permissions.

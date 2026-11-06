@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for chrome.test assertEq API tests
+// summary: Runs browser tests verifying that chrome.test.assertEq handles null arguments without crashing and reports the expected failure messages.
+// ---
+
 chrome.test.runTests([
   // TODO(battre, mkwst): add more tests.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script message relay for background page test
+// summary: Content script that relays messages between the test web page and the extension using chrome.runtime messaging and DOM events.
+// ---
+
 const scriptMessageEvent = document.createEvent('Event');
 scriptMessageEvent.initEvent('scriptMessage', true, true);
 

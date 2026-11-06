@@ -1,0 +1,4 @@
+# Docerion header of page_with_csp.html.
+type: test
+title: Page with connect-src none CSP
+summary: Test page that disallows all connect-src network requests through a Content-Security-Policy meta tag.

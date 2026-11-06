@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for activity log test JavaScript
+# summary: Runs Chrome WebUI presubmit style checks on the JavaScript files in this test directory during upload and commit.
+# ---
+
 """Run the Chrome WebUI presubmit scripts on our test javascript.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of get_app_details_for_frame.html.
+type: test
+title: App details iframe test page for app.com
+summary: Test page that embeds an iframe from app.com to exercise extension app details checks.

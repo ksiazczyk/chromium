@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_javascript_url_iframe.html.
+type: test
+title: Test file with JavaScript URL iframe
+summary: 'HTML test page containing an iframe whose src is a javascript: URL.'

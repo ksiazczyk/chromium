@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: accessibilityPrivate API test background script
+// summary: Background script with browser tests for the accessibilityPrivate extension API, covering synthetic key events, locale display names, settings subpages, feature checks, confirmation dialogs, and the dictation bubble.
+// ---
+
 const availableTests = [
 
   function testSendSyntheticKeyEvent() {

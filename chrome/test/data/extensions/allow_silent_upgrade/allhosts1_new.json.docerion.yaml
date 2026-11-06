@@ -1,0 +1,4 @@
+# Docerion header of allhosts1_new.json.
+type: test
+title: Silent upgrade fixture allhosts1 new
+summary: New-version extension manifest granting all-hosts HTTP permission for a silent upgrade test case.

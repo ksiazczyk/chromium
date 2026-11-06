@@ -1,0 +1,4 @@
+# Docerion header of mimehandler2_new.json.
+type: test
+title: MIME handler with host permissions upgrade manifest (new)
+summary: New-version manifest adding an application/pdf MIME type handler on top of existing all-urls host permissions.

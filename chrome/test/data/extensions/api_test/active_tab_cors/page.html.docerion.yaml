@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Active Tab CORS test page
+summary: Minimal HTML page that serves as the target document fetched by the injected script in the activeTab CORS extension API test.

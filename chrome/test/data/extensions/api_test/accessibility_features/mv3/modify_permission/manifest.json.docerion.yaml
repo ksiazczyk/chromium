@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for accessibilityFeatures modify permission test extension
+summary: Manifest for a Manifest V3 test extension declaring the accessibilityFeatures.modify permission and a service worker test runner.

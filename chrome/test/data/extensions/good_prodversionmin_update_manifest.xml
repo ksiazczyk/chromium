@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Prodversionmin update manifest for the good test extension
+summary: Update manifest with multiple version entries and prodversionmin thresholds, referenced by good_prodversion_v1.crx and served via a mock HTTP job.
+-->
+
 <!--
   This update manifest points to multiple versions of the extension.
   It is also pointed to by good_prodversion_v1.crx in its manifest.json file.

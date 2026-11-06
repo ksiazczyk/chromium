@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the bg_open background page test extension
+summary: Manifest v2 extension manifest declaring test.html as the background page with tabs and host permissions for the popup test.

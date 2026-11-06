@@ -1,0 +1,4 @@
+# Docerion header of permissions2_new.json.
+type: test
+title: Silent upgrade test manifest adding bookmarks to tabs (new version)
+summary: Test fixture manifest for silent upgrade tests, defining the new version that adds the bookmarks permission to tabs.

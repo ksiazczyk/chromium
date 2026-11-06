@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Activity log test helper options page
+summary: Options page of the activity log test helper extension with buttons that trigger Chrome API, webRequest, messaging and DOM calls to exercise activity logging.

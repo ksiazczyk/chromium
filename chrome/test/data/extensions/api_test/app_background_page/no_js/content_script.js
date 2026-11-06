@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script relaying messages through DOM tunnels
+// summary: Content script that forwards page tunnel events to chrome.runtime and writes runtime messages back into the script-to-page tunnel element.
+// ---
+
 const scriptMessageEvent = document.createEvent('Event');
 scriptMessageEvent.initEvent('scriptMessage', true, true);
 

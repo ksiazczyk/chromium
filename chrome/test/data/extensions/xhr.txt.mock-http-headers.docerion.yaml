@@ -1,0 +1,4 @@
+# Docerion header of xhr.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for xhr.txt
+summary: Mock HTTP response headers for xhr.txt, setting a plain text content type and a permissive CORS allow-origin policy.

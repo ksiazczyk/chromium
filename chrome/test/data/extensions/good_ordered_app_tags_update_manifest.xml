@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Ordered app tags update manifest for the good test extension
+summary: Update manifest listing multiple versions of the test extension, meant for use with a URLRequestMockHTTPJob to exercise ordered app tags handling.
+-->
+
 <!--
   This update manifest points to multiple versions of the extension. It is meant to be used
   with a URLRequestMockHTTPJob, and the hostname must be kept in sync.

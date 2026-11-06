@@ -1,0 +1,4 @@
+# Docerion header of dice.html.mock-http-headers.
+type: data
+title: Mock HTTP headers for dice.html
+summary: Mock HTTP 200 response headers, including ID consistency headers, served for dice.html in tests.

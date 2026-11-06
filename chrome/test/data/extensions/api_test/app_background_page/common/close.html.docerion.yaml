@@ -1,0 +1,4 @@
+# Docerion header of close.html.
+type: test
+title: App background page close test page
+summary: Test page that opens the existing 'bg' background window and closes it to exercise background page closing behavior.

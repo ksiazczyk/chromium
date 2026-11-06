@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the AllUrls execute permissions test extension
+summary: Extension manifest declaring tabs and <all_urls> permissions for a test of whether whitelisted extensions can run scripts everywhere using executeScript.

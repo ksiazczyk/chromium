@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Book catalog XML test data
+summary: Sample XML catalog listing five Douglas Adams books with authors and publish dates, used as test data.
+-->
+
 <catalog>
   <book id="bk1/3">
     <author>Adams, Douglas</author>

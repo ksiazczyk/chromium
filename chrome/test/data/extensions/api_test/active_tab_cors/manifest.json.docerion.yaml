@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Active Tab CORS test extension manifest
+summary: Manifest for the test extension declaring activeTab and scripting permissions so an injected script can access the page origin.

@@ -1,0 +1,4 @@
+# Docerion header of equivalent_warnings_new.json.
+type: test
+title: Silent upgrade fixture equivalent warnings new
+summary: New-version manifest v3 adding webNavigation alongside the tabs permission for a silent upgrade test.

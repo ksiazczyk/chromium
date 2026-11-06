@@ -1,0 +1,4 @@
+# Docerion header of detach_during_evaluation.html.
+type: test
+title: Detach during evaluation test page
+summary: HTML test page embedding an iframe to test_file.html, named for detachment during evaluation scenarios.

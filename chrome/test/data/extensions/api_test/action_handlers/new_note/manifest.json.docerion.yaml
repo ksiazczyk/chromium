@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: New note action handler test extension manifest
+summary: Manifest for the new_note action handler test extension, declaring the action handler and the main.js background script.

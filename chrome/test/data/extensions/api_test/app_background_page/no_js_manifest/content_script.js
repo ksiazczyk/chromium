@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script message tunnel for the no-JS background page test
+// summary: Content script that relays messages between the test web page and the extension using DOM events and chrome.runtime messaging.
+// ---
+
 const scriptMessageEvent = document.createEvent('Event');
 scriptMessageEvent.initEvent('scriptMessage', true, true);
 

@@ -1,0 +1,4 @@
+# Docerion header of platformapp2_old.json.
+type: test
+title: Platform app old manifest without fileSystem permissions
+summary: Old-version manifest fixture for a platform app with only a host permission, the baseline for the fileSystem permission upgrade test.

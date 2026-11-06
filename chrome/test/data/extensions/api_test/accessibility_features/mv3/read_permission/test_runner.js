@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test runner for accessibilityFeatures read-only access checks
+// summary: Runs chrome.test suites that query accessibilityFeatures status and verify the extension cannot modify features without write permission.
+// ---
+
 /**
  * Tests that the extension is able to query feature status and that the feature
  * status is as expected.

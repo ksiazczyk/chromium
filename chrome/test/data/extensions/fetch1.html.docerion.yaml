@@ -1,0 +1,4 @@
+# Docerion header of fetch1.html.
+type: test
+title: Fetch test page with cat content
+summary: Minimal test page serving the text 'fetch1 - cat' for extension fetch tests.

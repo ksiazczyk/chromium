@@ -1,0 +1,4 @@
+# Docerion header of good_v1_update_manifest.xml.mock-http-headers.
+type: test
+title: Good v1 update manifest mock HTTP headers
+summary: Mock HTTP response headers served alongside the good_v1 update manifest during extension update tests.

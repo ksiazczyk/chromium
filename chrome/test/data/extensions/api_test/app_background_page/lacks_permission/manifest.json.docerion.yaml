@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the lacks_permission background page test extension
+summary: Extension manifest declaring a background page, tabs and host permissions, and a content script for the permission-denied test case.

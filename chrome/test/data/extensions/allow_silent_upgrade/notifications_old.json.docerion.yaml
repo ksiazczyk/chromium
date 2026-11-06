@@ -1,0 +1,4 @@
+# Docerion header of notifications_old.json.
+type: test
+title: Notifications permission upgrade manifest (old)
+summary: Old-version manifest with empty permissions, paired with a new version that requests notifications.

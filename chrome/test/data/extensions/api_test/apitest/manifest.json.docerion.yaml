@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the extension API test
+summary: Manifest V3 extension manifest that registers background.js as a service worker for the extension API test suite.

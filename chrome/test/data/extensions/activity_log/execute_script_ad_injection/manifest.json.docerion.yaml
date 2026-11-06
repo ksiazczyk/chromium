@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the ad-injecting test extension
+summary: Manifest for the Ad-Injecting Extension test fixture, declaring tabs and host permissions and loading background.js as the background script.

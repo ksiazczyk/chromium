@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Activity Log API Tester extension manifest
+summary: Manifest for the Activity Log API Tester extension that tests chrome.activityLogPrivate with a background test script.

@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Good v1 wrong version update manifest
+summary: Update manifest pointing to good_v1.crx with version 2.0.0.0 to exercise wrong-version update scenarios.
+-->
+
 <!--
   This update manifest points to the good_v1.crx file. It is meant to be used
   with a URLRequestMockHTTPJob, and the hostname must be kept in sync.

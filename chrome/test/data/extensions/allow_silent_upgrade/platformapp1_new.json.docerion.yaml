@@ -1,0 +1,4 @@
+# Docerion header of platformapp1_new.json.
+type: test
+title: Platform app new manifest with increased host permissions
+summary: New-version manifest fixture for a platform app whose host permissions grow from one host to two, used in silent upgrade tests.

@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: App background page test shared helpers
+// summary: Shared JavaScript helpers that update status text and relay notify/on messages between test pages and background pages via hidden DOM tunnel elements.
+// ---
+
 let scriptMessageEvent;
 let pageToScriptTunnel;
 let scriptToPageTunnel;

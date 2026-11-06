@@ -1,0 +1,4 @@
+# Docerion header of test_file_with_prerendering.html.
+type: test
+title: Test file with prerendering
+summary: HTML test page using speculation rules to prerender test_file_with_iframe.html.

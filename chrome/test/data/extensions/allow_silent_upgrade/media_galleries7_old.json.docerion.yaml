@@ -1,0 +1,4 @@
+# Docerion header of media_galleries7_old.json.
+type: test
+title: Media galleries copyTo permission upgrade manifest (old)
+summary: Old-version manifest with mediaGalleries read, delete, and allAutoDetected permissions, paired with a new version that adds copyTo.

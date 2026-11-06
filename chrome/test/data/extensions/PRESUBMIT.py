@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for extension test data
+# summary: Runs clang-format and ESLint checks on changes while excluding platform app, profile, and good directories from formatting.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

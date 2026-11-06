@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the two background pages test extension
+summary: Extension manifest declaring the manifest-provided background page and content script used by the two-pages background page test.

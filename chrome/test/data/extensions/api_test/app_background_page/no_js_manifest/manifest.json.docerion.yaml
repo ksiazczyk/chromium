@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-JS background page test extension
+summary: Manifest v2 fixture declaring a background script, tabs permission, and a content script used to test window.open returning null without JS access.

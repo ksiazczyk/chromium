@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // This space intentionally left blank.
+
+// ---docerion
+// type: test
+// title: Intentionally empty JavaScript test file
+// summary: Deliberately blank script kept as test data for extension tests.
+// ---

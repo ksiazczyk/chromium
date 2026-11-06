@@ -1,0 +1,4 @@
+# Docerion header of plugin1_old.json.
+type: test
+title: Plugin old manifest with foo.dll plugin
+summary: Old-version manifest fixture declaring a foo.dll plugin, matching the new manifest to verify silent upgrades when plugins stay the same.

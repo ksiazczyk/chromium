@@ -1,0 +1,4 @@
+# Docerion header of good_ordered_app_tags_update_manifest.mock-http-headers.
+type: test
+title: Mock HTTP headers for good_ordered_app_tags_update_manifest
+summary: Serves a 200 OK response with an XML content type for requests to the ordered app tags update manifest in extension tests.

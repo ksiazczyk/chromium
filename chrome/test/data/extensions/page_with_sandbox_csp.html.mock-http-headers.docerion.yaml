@@ -1,0 +1,4 @@
+# Docerion header of page_with_sandbox_csp.html.mock-http-headers.
+type: test
+title: Sandbox CSP mock HTTP headers
+summary: Mock HTTP response headers that serve the sandbox test page with a sandbox Content-Security-Policy header.

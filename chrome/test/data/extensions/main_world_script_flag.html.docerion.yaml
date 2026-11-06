@@ -1,0 +1,4 @@
+# Docerion header of main_world_script_flag.html.
+type: test
+title: Main world script flag page
+summary: Page that sets window.mainWorldFlag so tests can verify script execution in the main world.

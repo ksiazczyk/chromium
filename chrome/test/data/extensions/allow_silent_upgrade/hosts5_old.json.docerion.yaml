@@ -1,0 +1,4 @@
+# Docerion header of hosts5_old.json.
+type: test
+title: Silent upgrade test manifest with HTTP example.com and content scripts
+summary: Old-version extension manifest with tabs and notifications permissions, HTTP example.com host access, and HTTP-only content-script matches.

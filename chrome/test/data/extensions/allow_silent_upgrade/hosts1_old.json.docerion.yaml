@@ -1,0 +1,4 @@
+# Docerion header of hosts1_old.json.
+type: test
+title: Silent upgrade fixture hosts1 old
+summary: Old-version manifest with identical Google and Reddit host permissions for a silent upgrade test.

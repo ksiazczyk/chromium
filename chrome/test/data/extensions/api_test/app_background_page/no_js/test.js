@@ -10,6 +10,12 @@
 // - Attempts to call window.open(...., "background") again will not result in
 //   existing background page being closed and a new one being re-opened.
 
+// ---docerion
+// type: test
+// title: Test script for window.open without JS access
+// summary: Browser test script verifying that window.open returns null without JS access to the background page and that reopening the launch page does not reload it.
+// ---
+
 const pagePrefix =
     'http://a.com:PORT/extensions/api_test/app_background_page/no_js';
 let launchUrl;

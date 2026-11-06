@@ -1,0 +1,4 @@
+# Docerion header of storage_old.json.
+type: test
+title: Storage permission upgrade manifest (old)
+summary: Old-version manifest without permissions, serving as the baseline for the unlimitedStorage silent upgrade test.

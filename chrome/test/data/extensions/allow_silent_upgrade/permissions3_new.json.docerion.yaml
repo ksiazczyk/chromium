@@ -1,0 +1,4 @@
+# Docerion header of permissions3_new.json.
+type: test
+title: Silent upgrade test manifest adding tabs to host permissions (new version)
+summary: Test fixture manifest for silent upgrade tests, defining the new version that adds the tabs permission to host permissions.

@@ -1,0 +1,4 @@
+# Docerion header of fetch2.html.
+type: test
+title: Fetch test page with dog content
+summary: Minimal test page serving the text 'fetch2 - dog' for extension fetch tests.

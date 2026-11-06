@@ -1,0 +1,4 @@
+# Docerion header of permissions5_new.json.
+type: test
+title: Silent upgrade test manifest adding history to bookmarks (new version)
+summary: Test fixture manifest for silent upgrade tests, defining the new version that adds the history permission to bookmarks.

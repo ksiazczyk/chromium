@@ -1,0 +1,4 @@
+# Docerion header of hosts5_new.json.
+type: test
+title: Silent upgrade test manifest with example.com permissions and content scripts
+summary: New-version extension manifest adding HTTPS example.com host permission and HTTPS content-script matches alongside tabs and notifications.

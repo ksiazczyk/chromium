@@ -1,0 +1,4 @@
+# Docerion header of allhosts2_old.json.
+type: test
+title: Silent upgrade fixture allhosts2 old
+summary: Old-version manifest granting all-hosts HTTP permission for a silent upgrade test case.

@@ -1,0 +1,4 @@
+# Docerion header of good2_update_manifest.xml.mock-http-headers.
+type: test
+title: Mock HTTP headers for good2_update_manifest.xml
+summary: Supplies a 200 OK response with an XML content type when the good2 update manifest is requested during extension update tests.

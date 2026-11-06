@@ -1,3 +1,9 @@
+---
+type: readme
+title: Activity log extension API test documentation
+summary: Explains the test and friend extensions used for activity logging tests and how to add, configure, and run them.
+---
+
 This directory contains tests for chrome extension activity logging.
 
 The tests use two chrome extensions:

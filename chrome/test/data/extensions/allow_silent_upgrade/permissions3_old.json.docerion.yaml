@@ -1,0 +1,4 @@
+# Docerion header of permissions3_old.json.
+type: test
+title: Old manifest fixture for silent upgrade permission test
+summary: Old-version extension manifest fixture used to test silent upgrades where the requested permissions change to broad host access.

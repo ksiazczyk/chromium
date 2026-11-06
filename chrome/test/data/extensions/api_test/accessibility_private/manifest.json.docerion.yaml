@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the accessibilityPrivate API test extension
+summary: Extension manifest granting accessibilityPrivate and tabs permissions for the accessibilityPrivate API browser tests, kept at manifest version 2 for service worker test compatibility.

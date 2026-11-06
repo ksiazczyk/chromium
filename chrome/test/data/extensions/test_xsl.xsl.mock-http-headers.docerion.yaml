@@ -1,0 +1,4 @@
+# Docerion header of test_xsl.xsl.mock-http-headers.
+type: test
+title: Mock HTTP headers for the XSL stylesheet
+summary: Mock HTTP response headers served for the XSL stylesheet, declaring a text/xml content type and short caching.

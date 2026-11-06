@@ -1,0 +1,4 @@
+# Docerion header of not_an_extension.crx.
+type: test
+title: Empty CRX test file
+summary: Zero-byte file named as a CRX, apparently used as test data for handling invalid extension packages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log test helper background script
+// summary: Background script of the activity log test helper extension that makes a variety of Chrome API and DOM calls, supporting both automated and manual test modes.
+// ---
+
 const DEFAULT_URL = 'http://www.google.com';
 
 // Utility function to open a URL in a new tab.  If the useIncognito global is

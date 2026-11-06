@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Book catalog XML with XSL stylesheet reference
+summary: Copy of the book catalog XML that references test_xsl.xsl through an xml-stylesheet processing instruction.
+-->
+
 <?xml-stylesheet type="text/xsl" href="test_xsl.xsl"?>
 <catalog>
   <book id="bk1/3">

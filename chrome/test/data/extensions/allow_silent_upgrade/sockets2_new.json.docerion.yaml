@@ -1,0 +1,4 @@
+# Docerion header of sockets2_new.json.
+type: test
+title: Silent upgrade test manifest with unchanged socket permissions (new version)
+summary: New-version Chrome app manifest keeping the same sockets tcp connect permission as the old version.

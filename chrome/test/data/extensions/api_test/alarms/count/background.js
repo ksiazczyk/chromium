@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alarms count API test background script
+// summary: Background script for a test extension that fills the maximum of 500 active alarms and verifies creating one more fails with the alarms limit error.
+// ---
+
 // Create alarms that won't have time to run.
 const createParams = {
   delayInMinutes: 60.0,

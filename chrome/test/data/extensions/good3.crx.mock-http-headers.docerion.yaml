@@ -1,0 +1,4 @@
+# Docerion header of good3.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for good3.crx
+summary: Returns a 200 OK response with application/octet-stream content type when good3.crx is fetched in extension update tests.

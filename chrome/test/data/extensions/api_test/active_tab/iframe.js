@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Iframe script for activeTab access checks
+// summary: Script running inside the test iframe that performs an XHR to the tab URL and reports whether it succeeded back to the background page.
+// ---
+
 function canXhr(url) {
   const xhr = new XMLHttpRequest();
   xhr.open('GET', url, false);

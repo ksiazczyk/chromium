@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: App background page test page A
+summary: Test page that opens a background page under the window name 'bg', verifies its load counter and reports status for the app background page extension API test.

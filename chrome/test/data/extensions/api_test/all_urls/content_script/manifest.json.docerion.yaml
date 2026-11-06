@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the AllUrls content script test extension
+summary: Manifest version 2 for a test extension that injects content_script.js on all URLs to verify whitelisted extensions can run scripts everywhere.

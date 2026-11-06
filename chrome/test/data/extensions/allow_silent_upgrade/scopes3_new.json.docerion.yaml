@@ -1,0 +1,4 @@
+# Docerion header of scopes3_new.json.
+type: test
+title: Silent upgrade test manifest adding an OAuth2 section (new version)
+summary: New-version Chrome app manifest introducing an oauth2 section with scope1, used in silent upgrade testing.

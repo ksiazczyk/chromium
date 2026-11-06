@@ -1,0 +1,4 @@
+# Docerion header of mimehandler1_old.json.
+type: test
+title: MIME handler PDF upgrade manifest (old)
+summary: Old-version manifest without a MIME type handler, paired with a new version that adds one for application/pdf.

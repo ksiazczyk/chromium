@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the activeTab test extension
+summary: Manifest of the activeTab API test extension, declaring activeTab and webNavigation permissions, a browser action and the background script.

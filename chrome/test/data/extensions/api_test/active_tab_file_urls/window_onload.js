@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window onload file URL access check
+// summary: On window load, checks whether the file URL iframe is readable and reports 'allowed' or 'denied' to the test harness.
+// ---
+
 window.onload = function() {
   const iframe = document.getElementById('file_iframe');
   try {

@@ -1,0 +1,4 @@
+# Docerion header of scopes2_new.json.
+type: test
+title: Silent upgrade test manifest with one OAuth2 scope (new version)
+summary: New-version Chrome app manifest that drops one OAuth2 scope, used to test silent upgrade scope removal.

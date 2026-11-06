@@ -1,0 +1,4 @@
+# Docerion header of get_app_details_for_fenced_frame.html.
+type: test
+title: Fenced frame app details test page
+summary: Test page that loads title1.html inside a fenced frame for extension app details tests.

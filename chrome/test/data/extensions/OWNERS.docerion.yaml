@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extension test data OWNERS
+summary: Requires review by the extensions team because tests here can reflect changes to the public extension API surface.

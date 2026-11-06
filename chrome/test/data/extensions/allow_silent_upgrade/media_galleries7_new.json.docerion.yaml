@@ -1,0 +1,4 @@
+# Docerion header of media_galleries7_new.json.
+type: test
+title: Media galleries copyTo permission upgrade manifest (new)
+summary: New-version manifest adding the copyTo media gallery permission alongside read, delete, and allAutoDetected for a silent upgrade test.

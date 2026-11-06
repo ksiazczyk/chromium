@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for accessibilityFeatures read permission test extension
+summary: Manifest for an MV3 test extension that requests only accessibilityFeatures.read and runs test_runner.js as its service worker.

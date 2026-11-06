@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension manifest for the basic_close background page test
+summary: Manifest defining the extension under test, which loads a background page and injects a content script at document end to verify that web-extent background pages can be closed.

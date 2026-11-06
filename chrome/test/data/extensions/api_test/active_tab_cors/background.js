@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active Tab CORS test extension background service worker
+// summary: Service worker for the activeTab CORS API test that injects a fetch into the clicked tab and asserts the page origin is reachable.
+// ---
+
 function pageScript() {
   fetch(location.href)
       .then(
