@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD line reader implementation
+// summary: Implements line-oriented reading of PPD contents, streaming gzip decompression when needed and skipping lines beyond the maximum length.
+// ---
+
 #include "chromeos/printing/ppd_line_reader.h"
 
 #include <memory>

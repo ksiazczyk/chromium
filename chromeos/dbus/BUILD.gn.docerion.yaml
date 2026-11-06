@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for chromeos/dbus unit tests
+summary: GN build file defining a testonly source_set that aggregates D-Bus unit tests and their dependencies for Chrome OS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PpdMetadataManager interface
+// summary: Declares PpdMetadataManager, which fetches and parses PPD metadata over a PrinterConfigCache to answer high-level printer queries.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_METADATA_MANAGER_H_
 #define CHROMEOS_PRINTING_PPD_METADATA_MANAGER_H_
 

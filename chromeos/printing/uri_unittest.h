@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared declarations for Uri unit tests
+// summary: Declares the UriComponents struct and a printable ASCII constant used only by the Uri unit test files.
+// ---
+
 #ifndef CHROMEOS_PRINTING_URI_UNITTEST_H_
 #define CHROMEOS_PRINTING_URI_UNITTEST_H_
 

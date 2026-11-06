@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission broker DBus client implementation
+// summary: Implements PermissionBrokerClientImpl, which sends DBus method calls to the permission broker service for device path and port access requests.
+// ---
+
 #include "chromeos/dbus/permission_broker/permission_broker_client.h"
 
 #include <stdint.h>

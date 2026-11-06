@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Uri class
+// summary: Unit tests covering parsing, building and normalization of URIs through the Uri class setters and getters.
+// ---
+
 #include "chromeos/printing/uri_unittest.h"
 
 #include <algorithm>

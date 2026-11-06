@@ -1,0 +1,4 @@
+# Docerion header of uri13.txt.
+type: test
+title: 'URI fuzzer seed: Gerrit code review URL'
+summary: Seed corpus entry with a Chromium Gerrit code review URL pointing to a ChromeOS printer handler source file.

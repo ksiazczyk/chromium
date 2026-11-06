@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus command-line switch constants
+// summary: Defines command-line switch names for DBus stubs, fake clients, attestation, and test behaviors in Chrome OS.
+// ---
+
 #include "chromeos/dbus/constants/dbus_switches.h"
 
 namespace chromeos {

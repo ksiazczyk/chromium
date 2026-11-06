@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Missive include dependency rules
+summary: Declares the allowed include directories (base, components/reporting, google_apis) for code in the missive directory.

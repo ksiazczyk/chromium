@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PpdCache unit tests
+// summary: Tests PpdCache behavior with a temporary directory, covering cache misses, store-then-hit sequences, and plausible entry ages.
+// ---
+
 #include "chromeos/printing/ppd_cache.h"
 
 #include <utility>

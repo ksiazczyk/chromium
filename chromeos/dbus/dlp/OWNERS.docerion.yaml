@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the DLP D-Bus client directory
+summary: Delegates code ownership of the dlp D-Bus client directory to the DLP policy OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer translator unit tests
+// summary: Unit tests for converting printer policy values and generating CupsPrinterInfo dictionaries from Printer objects.
+// ---
+
 #include "chromeos/printing/printer_translator.h"
 
 #include <optional>

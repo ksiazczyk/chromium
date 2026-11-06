@@ -1,0 +1,4 @@
+# Docerion header of arm.afdo.newest.txt.
+type: data
+title: Newest ARM AFDO profile pointer
+summary: Names the newest Chrome OS Chrome ARM AFDO profile archive used by the toolchain.

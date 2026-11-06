@@ -1,0 +1,4 @@
+# Docerion header of uri10.txt.
+type: test
+title: 'URI fuzzer seed: Chromium issue tracker URL'
+summary: Seed corpus entry with a Chromium bug tracker issue URL that includes percent-encoded query parameters for URI fuzzer testing.

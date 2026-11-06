@@ -1,0 +1,4 @@
+# Docerion header of uri29.txt.
+type: test
+title: URI fuzzer seed 29
+summary: Seed input for the URI fuzzer containing whitespace and control characters around a URI.

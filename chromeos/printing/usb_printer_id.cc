@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer IEEE 1284 device ID parsing
+// summary: Parses IEEE 1284 device ID strings from USB-connected printers into make, model and command set key-value mappings.
+// ---
+
 #include "chromeos/printing/usb_printer_id.h"
 
 #include <algorithm>

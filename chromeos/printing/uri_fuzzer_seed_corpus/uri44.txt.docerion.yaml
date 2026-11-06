@@ -1,0 +1,4 @@
+# Docerion header of uri44.txt.
+type: data
+title: URI fuzzer seed corpus entry 44
+summary: Seed input for the URI fuzzer holding a secure IPPS print service URI for a local network host.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Regmon client header
+// summary: Declares FakeRegmonClient, a test double of RegmonClient that implements the test interface and stores reported hash codes.
+// ---
+
 #ifndef CHROMEOS_DBUS_REGMON_FAKE_REGMON_CLIENT_H_
 #define CHROMEOS_DBUS_REGMON_FAKE_REGMON_CLIENT_H_
 

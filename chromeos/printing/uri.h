@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uri class for parsing and building http-like URIs
+// summary: Declares the Uri class, a parser and builder for http-like URIs such as ipp and ipps, with normalized components and default port handling.
+// ---
+
 #ifndef CHROMEOS_PRINTING_URI_H_
 #define CHROMEOS_PRINTING_URI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus path provider implementation
+// summary: Implements the PathService provider mapping Chrome OS DBus path keys to system file paths and registers stub overrides for non-Chrome OS testing.
+// ---
+
 #include "chromeos/dbus/constants/dbus_paths.h"
 
 #include "base/files/file_path.h"

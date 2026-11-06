@@ -1,0 +1,4 @@
+# Docerion header of input_methods.txt.
+type: config
+title: Deprecated input method and XKB layout list
+summary: Deprecated input method table that still supplies the XKB layout allowlist for ChromeOS login and lock screens.

@@ -1,0 +1,4 @@
+# Docerion header of uri42.txt.
+type: data
+title: URI fuzzer seed corpus entry 42
+summary: Seed input for the URI fuzzer holding a serial port printer URI with a baud rate query parameter.

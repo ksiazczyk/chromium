@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IP peripheral service client header
+// summary: Declares the fake IpPeripheralServiceClient with call counters and setters for pan, tilt, zoom and control responses used in tests.
+// ---
+
 #ifndef CHROMEOS_DBUS_IP_PERIPHERAL_FAKE_IP_PERIPHERAL_SERVICE_CLIENT_H_
 #define CHROMEOS_DBUS_IP_PERIPHERAL_FAKE_IP_PERIPHERAL_SERVICE_CLIENT_H_
 

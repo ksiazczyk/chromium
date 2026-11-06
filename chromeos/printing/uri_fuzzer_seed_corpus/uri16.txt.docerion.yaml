@@ -1,0 +1,4 @@
+# Docerion header of uri16.txt.
+type: test
+title: 'URI fuzzer seed: Brother manual download URL'
+summary: Seed corpus entry containing a Brother website URL for a printer manual PDF, used as input for the URI fuzzer.

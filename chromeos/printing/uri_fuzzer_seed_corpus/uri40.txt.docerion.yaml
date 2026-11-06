@@ -1,0 +1,4 @@
+# Docerion header of uri40.txt.
+type: data
+title: URI fuzzer seed corpus entry 40
+summary: Seed input for the URI fuzzer holding an FTP directory URI on a public file server.

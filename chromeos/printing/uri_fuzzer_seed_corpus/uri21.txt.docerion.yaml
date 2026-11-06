@@ -1,0 +1,4 @@
+# Docerion header of uri21.txt.
+type: test
+title: 'URI fuzzer seed 21: Dell product page URL'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a Dell laptop product page URL.

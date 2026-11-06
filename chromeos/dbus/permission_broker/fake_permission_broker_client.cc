@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake permission broker client implementation
+// summary: Implements a fake permission broker client that opens real device paths and simulates broker methods for tests and Chromium OS on Linux.
+// ---
+
 #include "chromeos/dbus/permission_broker/fake_permission_broker_client.h"
 
 #include <fcntl.h>

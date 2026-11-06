@@ -1,0 +1,4 @@
+# Docerion header of uri14.txt.
+type: test
+title: 'URI fuzzer seed: Google Translate URL'
+summary: Seed corpus entry containing a Google Translate URL with query parameters and a fragment used as fuzzer input.

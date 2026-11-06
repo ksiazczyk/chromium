@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Missive D-Bus client interface declaration
+// summary: Declares the MissiveClient D-Bus client interface for the Missive service, which locally encrypts and stores enterprise reporting records.
+// ---
+
 #ifndef CHROMEOS_DBUS_MISSIVE_MISSIVE_CLIENT_H_
 #define CHROMEOS_DBUS_MISSIVE_MISSIVE_CLIENT_H_
 

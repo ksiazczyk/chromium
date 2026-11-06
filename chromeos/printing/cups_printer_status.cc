@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrinterStatus implementation
+// summary: Implements CupsPrinterStatus, holding printer ID, status reasons, authentication info, and conversion to a base dictionary value.
+// ---
+
 #include "chromeos/printing/cups_printer_status.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD cache implementation
+// summary: Implements a persistent on-disk cache for PPD files keyed by PpdReference, storing contents with SHA-256 checksums and age tracking.
+// ---
+
 #include "chromeos/printing/ppd_cache.h"
 
 #include <string_view>

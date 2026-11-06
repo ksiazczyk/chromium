@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote PPD fetcher unit tests
+// summary: Unit tests verifying successful PPD fetches and network error handling of the RemotePpdFetcher.
+// ---
+
 #include "chromeos/printing/remote_ppd_fetcher.h"
 
 #include <string>

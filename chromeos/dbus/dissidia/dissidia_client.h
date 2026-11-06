@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DissidiaClient interface header
+// summary: Declares the DissidiaClient abstract interface for image switching on Fjord devices, including the Observer interface, PerformUpdate callback, and lifecycle methods.
+// ---
+
 #ifndef CHROMEOS_DBUS_DISSIDIA_DISSIDIA_CLIENT_H_
 #define CHROMEOS_DBUS_DISSIDIA_DISSIDIA_CLIENT_H_
 

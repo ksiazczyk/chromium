@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer translator header
+// summary: Declares functions to map recommended printer prefs to Printer objects and to serialize printers for the WebUI.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PRINTER_TRANSLATOR_H_
 #define CHROMEOS_PRINTING_PRINTER_TRANSLATOR_H_
 

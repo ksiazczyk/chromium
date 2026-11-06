@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DissidiaClient unit tests
+// summary: Tests DissidiaClient against a mock D-Bus bus and object proxy, simulating Progress and Completed signals and verifying observer notifications and method responses.
+// ---
+
 #include "chromeos/dbus/dissidia/dissidia_client.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake machine learning client header
+// summary: Declares FakeMachineLearningClient, a no-op fake of MachineLearningClient used in place of the real D-Bus client.
+// ---
+
 #ifndef CHROMEOS_DBUS_MACHINE_LEARNING_FAKE_MACHINE_LEARNING_CLIENT_H_
 #define CHROMEOS_DBUS_MACHINE_LEARNING_FAKE_MACHINE_LEARNING_CLIENT_H_
 

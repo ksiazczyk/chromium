@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power manager client header
+// summary: Declares FakePowerManagerClient, a fake PowerManagerClient that lets tests inspect the last set policy, call counts, and brightness values.
+// ---
+
 #ifndef CHROMEOS_DBUS_POWER_FAKE_POWER_MANAGER_CLIENT_H_
 #define CHROMEOS_DBUS_POWER_FAKE_POWER_MANAGER_CLIENT_H_
 

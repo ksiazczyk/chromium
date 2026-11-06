@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeReader header
+// summary: Declares PipeReader, a helper class that collects data written to a pipe into a string and invokes a callback when reading completes.
+// ---
+
 #ifndef CHROMEOS_DBUS_COMMON_PIPE_READER_H_
 #define CHROMEOS_DBUS_COMMON_PIPE_READER_H_
 

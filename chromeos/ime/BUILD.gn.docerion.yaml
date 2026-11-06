@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rule for input methods header generation
+summary: GN build action that runs gen_input_methods.py to generate input_methods.h from input_methods.txt.

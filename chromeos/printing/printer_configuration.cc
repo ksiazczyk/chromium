@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer configuration implementation
+// summary: Implements printer URI validation, printer class name conversion, and IPP printer info structures for ChromeOS printing.
+// ---
+
 #include "chromeos/printing/printer_configuration.h"
 
 #include <optional>

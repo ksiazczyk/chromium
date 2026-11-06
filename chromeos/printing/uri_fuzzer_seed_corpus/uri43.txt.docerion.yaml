@@ -1,0 +1,4 @@
+# Docerion header of uri43.txt.
+type: data
+title: URI fuzzer seed corpus entry 43
+summary: Seed input for the URI fuzzer holding an IPP print service URI addressed to a local network host.

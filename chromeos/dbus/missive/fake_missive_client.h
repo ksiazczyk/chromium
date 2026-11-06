@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Missive D-Bus client class declaration
+// summary: Declares FakeMissiveClient, a no-op fake implementation of MissiveClient with a test interface for inspecting enqueued records and observing enqueues.
+// ---
+
 #ifndef CHROMEOS_DBUS_MISSIVE_FAKE_MISSIVE_CLIENT_H_
 #define CHROMEOS_DBUS_MISSIVE_FAKE_MISSIVE_CLIENT_H_
 

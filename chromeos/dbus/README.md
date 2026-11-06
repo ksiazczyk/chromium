@@ -1,3 +1,11 @@
+---
+type: readme
+title: src/chromeos/dbus
+summary: Describes the D-Bus client libraries for Chrome OS system daemons and gives best practices for adding new clients.
+relations:
+  - references /chrome/browser/ash/dbus/ash_dbus_helper.cc
+---
+
 # src/chromeos/dbus
 
 This directory contains client libraries for communication with Chrome OS

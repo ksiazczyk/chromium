@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power manager D-Bus client implementation
+// summary: Implements the D-Bus client for the ChromeOS power manager, covering suspend delays, power supply properties, lid and tablet mode, and thermal events.
+// ---
+
 #include "chromeos/dbus/power/power_manager_client.h"
 
 #include <stdint.h>

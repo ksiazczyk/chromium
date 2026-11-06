@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native timer implementation
+// summary: Implements NativeTimer, which creates and starts timers that can wake the device from suspend via D-Bus calls to the ChromeOS power daemon.
+// ---
+
 #include "chromeos/dbus/power/native_timer.h"
 
 #include <memory>

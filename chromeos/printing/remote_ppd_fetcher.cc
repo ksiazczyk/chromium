@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote PPD fetcher implementation
+// summary: Downloads PPD files from admin-specified HTTP or HTTPS URLs to configure enterprise printers in CUPS.
+// ---
+
 #include "chromeos/printing/remote_ppd_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus method callback type definitions
+// summary: Defines common callback type aliases for D-Bus method responses, including DBusMethodCallback, VoidDBusMethodCallback, ObjectPathCallback, and WaitForServiceToBeAvailableCallback.
+// ---
+
 #ifndef CHROMEOS_DBUS_COMMON_DBUS_CALLBACK_H_
 #define CHROMEOS_DBUS_COMMON_DBUS_CALLBACK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake U2F client implementation
+// summary: Implements FakeU2FClient with stubbed D-Bus responses, such as reporting Uvpaa unavailable, for use when the real u2fd service is absent.
+// ---
+
 #include "chromeos/dbus/u2f/fake_u2f_client.h"
 
 #include "base/functional/bind.h"

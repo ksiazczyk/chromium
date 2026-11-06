@@ -1,0 +1,4 @@
+# Docerion header of uri20.txt.
+type: test
+title: 'URI fuzzer seed 20: cppreference page URL'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a cppreference initializer list page URL.

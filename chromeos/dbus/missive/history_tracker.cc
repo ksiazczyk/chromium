@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History tracker implementation
+// summary: Implements the HistoryTracker singleton that stores ERP health data and debug state and notifies observers on a sequenced task runner.
+// ---
+
 #include "chromeos/dbus/missive/history_tracker.h"
 
 #include <atomic>

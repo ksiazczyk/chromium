@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Regmon client implementation
+// summary: Implements a fake RegmonClient that records reported annotation hash codes so tests can inspect policy violation reports.
+// ---
+
 #include "chromeos/dbus/regmon/fake_regmon_client.h"
 
 #include "chromeos/dbus/regmon/regmon_service.pb.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the DLP D-Bus client
+summary: Defines the dlp component build target and the dlp_proto proto library for the ChromeOS DLP D-Bus client sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F D-Bus client interface
+// summary: Declares the U2FClient API the browser uses to reach the u2fd daemon for the ChromeOS WebAuthn platform authenticator, including service availability checks.
+// ---
+
 #ifndef CHROMEOS_DBUS_U2F_U2F_CLIENT_H_
 #define CHROMEOS_DBUS_U2F_U2F_CLIENT_H_
 

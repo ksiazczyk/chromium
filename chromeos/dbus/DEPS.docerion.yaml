@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromeos/dbus
+summary: Defines allowed include dependencies for the directory and bans most Abseil features with a few exceptions.

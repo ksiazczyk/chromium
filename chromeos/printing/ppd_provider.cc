@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD provider implementation
+// summary: Implements the v3 PpdProvider that maps printer descriptions to PPD files using the metadata manager, config cache, and remote PPD fetcher.
+// ---
+
 #include "chromeos/printing/ppd_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer config cache implementation
+// summary: Implements an in-memory PrinterConfigCache that fetches PPDs and PPD metadata from the ChromeOS Printing serving root with expiration handling.
+// ---
+
 #include "chromeos/printing/printer_config_cache.h"
 
 #include <memory>

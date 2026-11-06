@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerManagerClient interface for the Chrome OS power manager D-Bus service
+// summary: Declares PowerManagerClient, used to communicate with the Chrome OS power manager, including its observer interface, lid and tablet mode enums, and suspend-related APIs.
+// ---
+
 #ifndef CHROMEOS_DBUS_POWER_POWER_MANAGER_CLIENT_H_
 #define CHROMEOS_DBUS_POWER_POWER_MANAGER_CLIENT_H_
 

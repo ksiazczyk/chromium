@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the regmon D-Bus client
+summary: Defines the regmon component, its protobuf library target, and the unit test source set for the ChromeOS regmon D-Bus client.

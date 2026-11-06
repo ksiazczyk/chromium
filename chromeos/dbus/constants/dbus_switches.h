@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus switch constant declarations
+// summary: Declares exported command-line switch name constants used to configure Chrome OS DBus client behavior.
+// ---
+
 #ifndef CHROMEOS_DBUS_CONSTANTS_DBUS_SWITCHES_H_
 #define CHROMEOS_DBUS_CONSTANTS_DBUS_SWITCHES_H_
 

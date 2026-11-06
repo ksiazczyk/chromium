@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History tracker unit tests
+// summary: Unit tests covering debug state handling, health data collection and retrieval, and observer notification behavior of HistoryTracker.
+// ---
+
 #include "chromeos/dbus/missive/history_tracker.h"
 
 #include "base/test/task_environment.h"

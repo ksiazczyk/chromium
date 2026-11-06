@@ -1,0 +1,4 @@
+# Docerion header of uri45.txt.
+type: data
+title: URI fuzzer seed corpus entry 45
+summary: Seed input for the URI fuzzer holding an LPD print queue URI for a network printer.

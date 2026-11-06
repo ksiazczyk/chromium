@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessProxyRegistry implementation
+// summary: Implements the singleton registry that opens, tracks, and closes process proxies and dispatches their output to callbacks.
+// ---
+
 #include "chromeos/process_proxy/process_proxy_registry.h"
 
 #include <memory>

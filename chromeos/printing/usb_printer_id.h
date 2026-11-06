@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbPrinterId class for IEEE 1284 device IDs
+// summary: Declares UsbPrinterId, which holds parsed IEEE 1284 device ID data such as make, model and supported command sets.
+// ---
+
 #ifndef CHROMEOS_PRINTING_USB_PRINTER_ID_H_
 #define CHROMEOS_PRINTING_USB_PRINTER_ID_H_
 

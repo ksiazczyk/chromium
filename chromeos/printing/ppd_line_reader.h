@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PpdLineReader interface
+// summary: Declares PpdLineReader for reading lines from unencoded or gzip-encoded PPD files with a configurable maximum line length.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_LINE_READER_H_
 #define CHROMEOS_PRINTING_PPD_LINE_READER_H_
 

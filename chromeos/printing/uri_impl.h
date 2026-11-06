@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Uri::Pim declaration for URI parsing
+// summary: Declares Uri::Pim, the internal state, component parsers and save methods used by the Uri class implementation.
+// ---
+
 #ifndef CHROMEOS_PRINTING_URI_IMPL_H_
 #define CHROMEOS_PRINTING_URI_IMPL_H_
 

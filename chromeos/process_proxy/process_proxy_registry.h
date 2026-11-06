@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessProxyRegistry class declaration
+// summary: Declares the registry of all created process proxies, with methods to open processes, send input, close them, and handle resize.
+// ---
+
 #ifndef CHROMEOS_PROCESS_PROXY_PROCESS_PROXY_REGISTRY_H_
 #define CHROMEOS_PROCESS_PROXY_PROCESS_PROXY_REGISTRY_H_
 

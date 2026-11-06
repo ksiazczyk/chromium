@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PPD metadata parser unit tests
+// summary: Unit tests verifying that the PPD metadata parser handles locales, manufacturers, printers, and index metadata, including partial and failed parses.
+// ---
+
 #include "chromeos/printing/ppd_metadata_parser.h"
 
 #include <string_view>

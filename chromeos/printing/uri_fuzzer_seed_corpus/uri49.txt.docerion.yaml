@@ -1,0 +1,4 @@
+# Docerion header of uri49.txt.
+type: test
+title: URI fuzzer seed corpus uri49
+summary: Seed input for the ChromeOS printing URI fuzzer containing an ipps URI pointing to a Google Docs document.

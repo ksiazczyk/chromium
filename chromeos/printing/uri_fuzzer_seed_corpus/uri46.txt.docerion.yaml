@@ -1,0 +1,4 @@
+# Docerion header of uri46.txt.
+type: test
+title: URI fuzzer seed corpus uri46
+summary: Seed input for the ChromeOS printing URI fuzzer containing a USB printer URI example.

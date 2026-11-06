@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TpmManagerClient unit tests
+// summary: Unit tests for TpmManagerClient using mock D-Bus bus and object proxy to verify method calls, replies, and ownership-taken signal handling.
+// ---
+
 #include "chromeos/dbus/tpm_manager/tpm_manager_client.h"
 
 #include <string>

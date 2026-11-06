@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the chromeos printing directory
+summary: Directory metadata assigning the Internals>Printing>CUPS monorail component and the cros-printing-dev team email.

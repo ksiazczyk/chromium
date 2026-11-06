@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP peripheral service client implementation
+// summary: Implements the D-Bus client for org.chromium.IpPeripheralService, issuing pan, tilt, zoom and UVC control method calls and parsing the responses.
+// ---
+
 #include "chromeos/dbus/ip_peripheral/ip_peripheral_service_client.h"
 
 #include <utility>

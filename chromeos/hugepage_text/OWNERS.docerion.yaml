@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Hugepage text directory owners
+summary: Lists the email addresses of the owners responsible for reviewing changes in the hugepage_text directory.

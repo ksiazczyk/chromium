@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native timer header
+// summary: Declares NativeTimer, which sets wake-from-suspend timers through the power daemon D-Bus API and runs callbacks on expiration.
+// ---
+
 #ifndef CHROMEOS_DBUS_POWER_NATIVE_TIMER_H_
 #define CHROMEOS_DBUS_POWER_NATIVE_TIMER_H_
 

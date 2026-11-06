@@ -1,0 +1,4 @@
+# Docerion header of uri35.txt.
+type: test
+title: URI fuzzer seed 35
+summary: Seed input for the URI fuzzer with an SMB URI combining credentials and a server printer share.

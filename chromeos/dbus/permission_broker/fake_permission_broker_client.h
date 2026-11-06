@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake permission broker client header
+// summary: Declares FakePermissionBrokerClient, a test double for PermissionBrokerClient with a delegate for TCP and UDP port release notifications.
+// ---
+
 #ifndef CHROMEOS_DBUS_PERMISSION_BROKER_FAKE_PERMISSION_BROKER_CLIENT_H_
 #define CHROMEOS_DBUS_PERMISSION_BROKER_FAKE_PERMISSION_BROKER_CLIENT_H_
 

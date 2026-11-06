@@ -5,6 +5,12 @@
 // This file contains matchers useful for testing with parsed PPD
 // metadata.
 
+// ---docerion
+// type: source
+// title: GMock matchers for parsed PPD metadata
+// summary: Declares gmock matchers for verifying parsed PPD metadata structures such as Restrictions, ReverseIndexLeaf, and ParsedIndex entries in tests.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_METADATA_MATCHERS_H_
 #define CHROMEOS_PRINTING_PPD_METADATA_MATCHERS_H_
 

@@ -7,6 +7,12 @@
 //
 // In practice, the present class fetches either PPDs or PPD metadata.
 
+// ---docerion
+// type: source
+// title: Printer config cache interface
+// summary: Declares the PrinterConfigCache class for fetching and caching PPDs and PPD metadata from the ChromeOS Printing serving root.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PRINTER_CONFIG_CACHE_H_
 #define CHROMEOS_PRINTING_PRINTER_CONFIG_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PpdCache interface
+// summary: Declares the PpdCache class, a persistent hash from PpdReference to cached PPD file contents with asynchronous Find and Store operations.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_CACHE_H_
 #define CHROMEOS_PRINTING_PPD_CACHE_H_
 

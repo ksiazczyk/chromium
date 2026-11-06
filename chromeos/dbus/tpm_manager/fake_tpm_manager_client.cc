@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTpmManagerClient implementation
+// summary: Implements the fake TPM manager client that returns configurable proto replies, counts method calls, and supports observers for tests.
+// ---
+
 #include "chromeos/dbus/tpm_manager/fake_tpm_manager_client.h"
 
 #include <utility>

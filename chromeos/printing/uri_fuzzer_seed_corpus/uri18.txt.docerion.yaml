@@ -1,0 +1,4 @@
+# Docerion header of uri18.txt.
+type: test
+title: 'URI fuzzer seed: Chromium styleguide URL'
+summary: Seed corpus entry containing a Chromium source styleguide URL with a plus-sign path segment used as fuzzer input.

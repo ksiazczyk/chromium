@@ -1,0 +1,4 @@
+# Docerion header of uri24.txt.
+type: test
+title: 'URI fuzzer seed 24: YouTube video URL'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a YouTube video watch URL.

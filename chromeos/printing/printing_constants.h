@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing constants
+// summary: Defines printing constants such as protocol schemes, default IPP ports, maximum PPD size, and print attempt outcomes.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PRINTING_CONSTANTS_H_
 #define CHROMEOS_PRINTING_PRINTING_CONSTANTS_H_
 

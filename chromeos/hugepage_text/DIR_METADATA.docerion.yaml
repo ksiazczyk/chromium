@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hugepage text directory metadata
+summary: Sets the Monorail component Tools>ChromeOS-Toolchain for issues in the hugepage_text directory.

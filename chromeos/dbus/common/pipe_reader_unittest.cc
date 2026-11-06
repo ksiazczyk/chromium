@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PipeReader
+// summary: Unit tests for PipeReader covering empty, small, and large data transfers through a pipe, plus cancellation by deleting the reader.
+// ---
+
 #include "chromeos/dbus/common/pipe_reader.h"
 
 #include <memory>

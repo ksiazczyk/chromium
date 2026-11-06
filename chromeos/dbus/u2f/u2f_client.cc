@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F D-Bus client implementation
+// summary: Implements U2FClientImpl, which sends protobuf requests to the org.chromium.U2F D-Bus service with method timeouts and WebAuthn UMA histograms.
+// ---
+
 #include "chromeos/dbus/u2f/u2f_client.h"
 
 #include <utility>

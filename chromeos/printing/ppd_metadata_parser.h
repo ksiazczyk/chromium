@@ -15,6 +15,12 @@
 // Googlers: you may consult the primary documentation for PPD metadata
 // at go/cros-printing:ppd-metadata
 
+// ---docerion
+// type: source
+// title: PPD metadata parser declarations
+// summary: Declares structs and Parse* functions that turn PPD metadata JSON into typed values like ParsedPrinter, ParsedIndex, and USB mappings.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_METADATA_PARSER_H_
 #define CHROMEOS_PRINTING_PPD_METADATA_PARSER_H_
 

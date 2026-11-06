@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MissiveClientTestObserver implementation
+// summary: Implements a test observer that captures records enqueued through the MissiveClient test interface, optionally filtered by destination or a custom callback.
+// ---
+
 #include "chromeos/dbus/missive/missive_client_test_observer.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerPolicyController implementation
+// summary: Implements translation of Chrome's power management preferences and wake locks into policy protobufs sent to the Chrome OS power manager.
+// ---
+
 #include "chromeos/dbus/power/power_policy_controller.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of uri47.txt.
+type: test
+title: URI fuzzer seed corpus uri47
+summary: Seed input for the ChromeOS printing URI fuzzer containing an SMB printer URI with unencoded spaces.

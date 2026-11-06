@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmManagerClient D-Bus implementation
+// summary: Implements the real TpmManagerClient that talks to the tpm_managerd daemon over D-Bus, including proto parsing, timeouts, and signal connection.
+// ---
+
 #include "chromeos/dbus/tpm_manager/tpm_manager_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusClient base interface header
+// summary: Declares the DBusClient interface that all D-Bus clients managed by DBusThreadManager must implement, restricting Init access to DBusThreadManager.
+// ---
+
 #ifndef CHROMEOS_DBUS_COMMON_DBUS_CLIENT_H_
 #define CHROMEOS_DBUS_COMMON_DBUS_CLIENT_H_
 
