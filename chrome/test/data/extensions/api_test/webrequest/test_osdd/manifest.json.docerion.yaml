@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_osdd webRequest extension test
+summary: Extension manifest for the test_osdd browser test, granting webRequest permissions and loading the test background script.

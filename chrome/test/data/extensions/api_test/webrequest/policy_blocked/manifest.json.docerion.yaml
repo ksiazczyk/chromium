@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest policy blocked test extension
+summary: Declares the Web Request Policy Tests extension with webRequest permissions over all URLs and a persistent background script for the API test.

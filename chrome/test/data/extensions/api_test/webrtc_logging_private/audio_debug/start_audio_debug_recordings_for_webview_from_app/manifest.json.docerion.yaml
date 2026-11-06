@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webrtcLoggingPrivate webview test app
+summary: Chrome app manifest declaring the whitelisted key and the webrtcLoggingPrivate, audio debug, and webview permissions needed for the test.

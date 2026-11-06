@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: test_simple extension manifest
+summary: Manifest for the test_simple extension, requesting webRequest permissions and registering test_simple.js as a persistent background script.

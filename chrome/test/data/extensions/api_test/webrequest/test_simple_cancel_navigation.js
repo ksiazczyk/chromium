@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple navigation cancel webRequest test
+// summary: Verifies that a blocking webRequest handler can cancel a main frame navigation, yielding onErrorOccurred with ERR_BLOCKED_BY_CLIENT.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 // Constants as functions, not to be called until after runTests.

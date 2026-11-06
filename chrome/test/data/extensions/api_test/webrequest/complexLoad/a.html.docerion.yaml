@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: WebRequest complex load test page with iframe
+summary: HTML fixture for the webRequest extension API complexLoad test that embeds b.html in an iframe to generate nested network requests.

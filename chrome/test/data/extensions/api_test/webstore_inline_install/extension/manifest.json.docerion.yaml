@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Inline Install Test Extension manifest
+summary: Manifest for the test extension fixture used by the webstore inline install API test, declaring the icon and tabs permission.

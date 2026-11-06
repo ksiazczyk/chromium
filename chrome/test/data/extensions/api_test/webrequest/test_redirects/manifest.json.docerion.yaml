@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for webRequest redirect tests
+summary: Manifest for the test_redirects extension used by the webRequest API browser tests, declaring permissions, the background test script, and web-accessible resources.

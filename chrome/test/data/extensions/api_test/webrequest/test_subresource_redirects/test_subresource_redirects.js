@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest subresource redirect browser tests
+// summary: Runs chrome.webRequest tests that redirect subresources via onHeadersReceived and onBeforeRequest listeners, checking allowed and blocked redirect cases.
+// ---
+
 const isServiceWorker = ('ServiceWorkerGlobalScope' in self);
 
 const pass = chrome.test.callbackPass;

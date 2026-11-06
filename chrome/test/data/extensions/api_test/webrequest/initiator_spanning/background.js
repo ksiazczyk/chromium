@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for webRequest initiator spanning test
+// summary: Background script of the webRequest test extension that records the initiators of sub-frame requests to pages containing title1.html for the spanning incognito regression test.
+// ---
+
 self.initiators = [];
 
 function onBeforeRequest(details) {

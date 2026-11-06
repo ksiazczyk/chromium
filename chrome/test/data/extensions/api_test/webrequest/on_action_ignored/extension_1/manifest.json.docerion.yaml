@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for onActionIgnored test extension 1
+summary: Manifest for the first test extension, granting webRequest permissions and registering a persistent background script for the onActionIgnored redirect test.

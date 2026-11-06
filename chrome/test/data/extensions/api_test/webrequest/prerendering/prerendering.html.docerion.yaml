@@ -1,0 +1,4 @@
+# Docerion header of prerendering.html.
+type: test
+title: Prerendered page activation probe
+summary: Prerendered test page that fetches initiator.html on prerenderingchange so the test can detect activation and check that navigation events are not wrongly delivered.

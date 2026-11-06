@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest test for blocking and modifying Set-Cookie headers
+// summary: Extension API test that verifies webRequest event ordering and removal of Set-Cookie response headers, including non-UTF8 cookie values, using blocking listeners.
+// ---
+
 // Constants as functions, not to be called until after runTests.
 function getURLSetCookie() {
   return getServerURL('set-cookie?Foo=Bar');

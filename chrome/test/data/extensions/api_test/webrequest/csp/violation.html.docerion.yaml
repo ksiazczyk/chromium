@@ -1,0 +1,4 @@
+# Docerion header of violation.html.
+type: test
+title: Test page with CSP-violating script and report-uri
+summary: Test page whose content violates its Content-Security-Policy so the violation is reported to the report-uri endpoint during the webRequest test.

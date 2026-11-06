@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: test_complex webRequest test extension manifest
+summary: Manifest for the test_complex extension, declaring webRequest permissions and the background script that runs the API tests.

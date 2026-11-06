@@ -1,0 +1,4 @@
+# Docerion header of data.json.
+type: test
+title: XHR test response data
+summary: Empty JSON object served as the response body for the XHR request in the webRequest extension API test.

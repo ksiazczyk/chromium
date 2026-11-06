@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: test_complex.js webRequest API test script
+// summary: Browser test script that runs webRequest API test cases, expecting event sequences for complex loads with subframes, images, and XHRs.
+// ---
+
 function getURLHttpXHR() {
   return getServerURL('extensions/api_test/webrequest/xhr/a.html');
 }

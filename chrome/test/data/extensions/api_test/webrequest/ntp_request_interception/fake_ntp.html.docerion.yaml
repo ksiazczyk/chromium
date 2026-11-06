@@ -1,0 +1,4 @@
+# Docerion header of fake_ntp.html.
+type: test
+title: Fake NTP test page
+summary: HTML test page titled Fake NTP that loads fake_ntp_script.js as a stand-in New Tab Page for the webrequest NTP request interception test.

@@ -1,0 +1,4 @@
+# Docerion header of data.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for data.json
+summary: Mock HTTP response headers used when serving data.json, returning 200 OK with JSON content type and permissive CORS origin.

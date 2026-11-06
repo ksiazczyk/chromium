@@ -1,0 +1,4 @@
+# Docerion header of not-cached.html.mock-http-headers.
+type: test
+title: not-cached.html.mock-http-headers
+summary: Mock HTTP response headers returning 200 with no-store cache control for not-cached.html in the webrequest simpleLoad test.

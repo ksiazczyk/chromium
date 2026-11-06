@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: CORS preflight WebRequest test extension manifest
+summary: Manifest for the test extension, granting webRequest permissions and registering the background script used in CORS preflight tests.

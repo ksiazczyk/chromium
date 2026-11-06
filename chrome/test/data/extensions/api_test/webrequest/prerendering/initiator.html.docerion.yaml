@@ -1,0 +1,4 @@
+# Docerion header of initiator.html.
+type: test
+title: Prerender initiator page
+summary: Test page that uses speculation rules to prerender prerendering.html for the webRequest extension API test.

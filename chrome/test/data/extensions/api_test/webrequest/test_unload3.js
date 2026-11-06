@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Same-origin frame unload webRequest test
+// summary: Tests webRequest events when a slow same-origin frame is removed from its page or the whole tab is closed.
+// ---
+
 runTests([
   // Open a page that loads a slow same-origin frame in it and remove the frame.
   function loadTabWithSlowFrameAndRemoveFrame() {

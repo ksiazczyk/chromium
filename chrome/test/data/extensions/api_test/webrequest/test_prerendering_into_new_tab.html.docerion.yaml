@@ -1,0 +1,4 @@
+# Docerion header of test_prerendering_into_new_tab.html.
+type: test
+title: Prerendering into new tab webRequest test page
+summary: HTML host page that loads the framework and test script for the webRequest prerendering-into-new-tab extension API test.

@@ -1,0 +1,4 @@
+# Docerion header of headers.html.
+type: test
+title: Placeholder page for mock HTTP headers test
+summary: Minimal HTML page that acts as the request target paired with headers.html.mock-http-headers in declarative webRequest header tests.

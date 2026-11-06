@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for webRequest policy blocked test extension
+// summary: Listens to webRequest events, counts requests to protected origins, and signals when a protected URL is observed during the policy blocked test.
+// ---
+
 self.protectedOriginCount = 0;
 
 // Return messages to tell which URL requests are visible to the extension.

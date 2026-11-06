@@ -1,0 +1,4 @@
+# Docerion header of redirect_target.gif.mock-http-headers.
+type: test
+title: Mock HTTP headers for the CORS redirect target
+summary: Mock HTTP response headers for the redirect target GIF, setting CORS headers for a cross-origin redirect as described in the CORS specification.

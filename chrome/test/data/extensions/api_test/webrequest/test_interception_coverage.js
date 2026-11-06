@@ -8,6 +8,12 @@
  * It loads request_interception_coverage.js and calls run_tests().
  */
 
+// ---docerion
+// type: test
+// title: Iframe webRequest interception coverage test
+// summary: Verifies that requests from an iframe are intercepted by the chrome.webRequest API, expecting WebSocket gaps in shared and service workers.
+// ---
+
 runTests([async function testRequestInterceptionCoverage() {
   const baseUrl = getServerURL('', '127.0.0.1');
 

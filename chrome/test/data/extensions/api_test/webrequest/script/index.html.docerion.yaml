@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: webRequest API test page
+summary: Minimal HTML fixture for the webRequest extension API test that loads the test.js script.

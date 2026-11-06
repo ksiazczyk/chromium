@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake DevTools notification script for webRequest tests
+// summary: Script that on page load notifies the test extension via an image request to the completion URL from the location hash, since top-level navigation to non-devtools URLs is disallowed.
+// ---
+
 window.onload = function() {
   if (location.hash) {
     const completionUrl = new URL(location.hash.slice(1)).href;

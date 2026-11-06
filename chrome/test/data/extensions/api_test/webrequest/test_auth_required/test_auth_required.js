@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest onAuthRequired API test
+// summary: Browser test cases verifying webRequest event sequences and onAuthRequired behavior for HTTP basic authentication in blocking and non-blocking variants.
+// ---
+
 // Generates a unique authentication URL so each test can run
 // without hitting the HTTP authentication cache. Each test
 // must use a unique realm, however.

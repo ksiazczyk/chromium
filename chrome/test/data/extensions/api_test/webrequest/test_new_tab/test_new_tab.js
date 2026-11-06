@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest API test for new tab navigation
+// summary: Test script that verifies webRequest events fire in the expected order with correct tab IDs when clicking a target=_blank link that opens a new tab.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webrequest/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

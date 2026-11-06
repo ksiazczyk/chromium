@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest subresource redirect test extension
+summary: Manifest declaring the test extension's name, webRequest permissions, background script and web-accessible resources used by the subresource redirect tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image unload webRequest test
+// summary: Tests webRequest events for slow image loads that are aborted by removing the containing frame or closing the tab.
+// ---
+
 runTests([
   // Loads a slow image in an iframe and removes it.
   function loadImageAndRemoveFrame() {

@@ -1,0 +1,4 @@
+# Docerion header of violation.html.mock-http-headers.
+type: test
+title: Mock HTTP headers serving violation.html with report-uri CSP
+summary: Mock HTTP response headers that serve violation.html with a script-src 'none' policy and a report-uri for the webRequest test.

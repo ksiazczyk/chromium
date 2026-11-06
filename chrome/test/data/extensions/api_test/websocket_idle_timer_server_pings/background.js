@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for WebSocket idle timer server pings test extension
+// summary: Test extension service worker that holds a WebSocket open through two seconds of server pings, then closes it and reports the result to the C++ test.
+// ---
+
 let socket;
 
 // Opens a web socket, replying to the C++ caller when we receive the `open`

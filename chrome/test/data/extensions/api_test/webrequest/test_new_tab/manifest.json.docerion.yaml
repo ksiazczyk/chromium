@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_new_tab webRequest test extension
+summary: Manifest for the test_new_tab extension used to test the webRequest API, requesting webRequest, tabs and all-URLs permissions with a persistent background script.

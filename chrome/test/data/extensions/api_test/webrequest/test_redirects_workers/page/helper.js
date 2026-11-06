@@ -6,6 +6,12 @@
 // `wpt/service-workers/service-worker/resources/test-helpers.sub.js`
 // and thus remains in the ServiceWorker WPT coding style.
 
+// ---docerion
+// type: test
+// title: Service worker state helpers for webrequest redirect tests
+// summary: Provides isStateAdvanced and waitForState helpers, derived from WPT service-worker test helpers, to await service worker states during webrequest redirect tests.
+// ---
+
 // Return true if |stateA| is more advanced than |stateB|.
 function isStateAdvanced(stateA, stateB) {
   // Note: "No default" is used for eslint'ing. These don't have defaults

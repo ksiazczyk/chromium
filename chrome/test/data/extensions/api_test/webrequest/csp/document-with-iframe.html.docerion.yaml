@@ -1,0 +1,4 @@
+# Docerion header of document-with-iframe.html.
+type: test
+title: Test page embedding an iframe with CSP frame-ancestors header
+summary: Test fixture for the webRequest extension API test that embeds an iframe served with a Content-Security-Policy frame-ancestors header.

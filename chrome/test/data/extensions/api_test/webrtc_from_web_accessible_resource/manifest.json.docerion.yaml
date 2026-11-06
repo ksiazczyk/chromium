@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getUserMedia web accessible resource test extension
+summary: Manifest for the test extension, declaring its key, a content script and a web accessible resource used to test getUserMedia in an insecure nested context.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest event tests for DevTools requests
+// summary: Defines expected webRequest events for tab and DevTools frontend navigation and logs all observed requests to help debug failing tests.
+// ---
+
 // To debug failing tests, we need to see all observed requests in order to
 // determine whether an unexpected request was received (which suggests that the
 // implementation is broken) or whether an expected event was observed too early

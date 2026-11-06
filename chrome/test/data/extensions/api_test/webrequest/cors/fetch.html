@@ -3,6 +3,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: CORS fetch test page
+summary: Test page that performs a fetch to a CORS test URL, optionally adding preflight headers, for webRequest extension API tests.
+-->
+
 <script>
 const params = (new URL(location.href)).searchParams;
 const hostname = 'cors.example.com';

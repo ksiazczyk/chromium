@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest API test script
+// summary: Test script that runs webRequest API scenarios, defining expected event sequences for simple page loads, HTTP redirects, and related cases.
+// ---
+
 // Constants as functions, not to be called until after runTests.
 function getURLHttpSimpleLoad() {
   return getServerURL('extensions/api_test/webrequest/simpleLoad/a.html');

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the declarative webRequest test extension
+summary: Manifest for the test_declarative extension that grants webRequest and declarativeWebRequest permissions so browser tests can exercise the webRequest API.

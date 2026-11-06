@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the WebSocket service worker test extension
+summary: Manifest version 3 extension manifest that registers background.js as the service worker for the WebSocket idle timer API test.

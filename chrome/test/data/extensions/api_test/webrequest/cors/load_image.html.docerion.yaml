@@ -1,0 +1,4 @@
+# Docerion header of load_image.html.
+type: test
+title: CORS image loading test page
+summary: Test page that loads an image with a configurable crossOrigin attribute and signals load success or failure to the running test.

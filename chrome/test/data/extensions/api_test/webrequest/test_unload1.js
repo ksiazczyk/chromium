@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin frame unload webRequest test
+// summary: Tests the webRequest event sequence when a slow cross-origin iframe is inserted into the extension tab and then removed.
+// ---
+
 runTests([
   // Opens a cross-origin iframe (a http-URL in this chrome-extension tab) and
   // removes it.

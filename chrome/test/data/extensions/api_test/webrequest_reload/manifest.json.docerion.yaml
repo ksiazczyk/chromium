@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for webRequest incognito reload test extension
+summary: Manifest for the webRequest reload test extension, declaring split incognito mode, a persistent background script, and webRequest permissions for all URLs.

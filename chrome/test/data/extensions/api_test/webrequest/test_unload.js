@@ -8,6 +8,12 @@
 // a single tab (opposed to testing multiple tabs in a file to avoid unnecessary
 // dependencies in the value of "tabId" between unrelated tests).
 
+// ---docerion
+// type: test
+// title: Web request unload test helper
+// summary: Extends the test framework to test webRequest API behavior when a frame or tab is unloaded, loading numbered test files by query parameter.
+// ---
+
 // Returns a URL of a page that generates a response after waiting for a long
 // while. Callers are expected to abort the request as soon as possible.
 // |hostname| can be set to make sure that the frame is created in a new process

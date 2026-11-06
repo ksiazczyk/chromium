@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiple origin frame removal webRequest test
+// summary: Tests that onErrorOccurred details are valid when frames from different origins are inserted and immediately removed.
+// ---
+
 const hostname1 = 'hostname-of-main-frame';
 const hostname2 = 'origin-different-from-main-frame';
 const hostname3 = 'origin-different-from-other-frames';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket dedicated worker test helper
+// summary: Creates a dedicated worker that makes a WebSocket request and verifies whether the connection succeeds as expected.
+// ---
+
 function getWSTestURL(port) {
   return `ws://localhost:${port}/echo-with-no-extension`;
 }

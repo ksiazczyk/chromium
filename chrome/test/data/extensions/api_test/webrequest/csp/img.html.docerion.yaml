@@ -1,0 +1,4 @@
+# Docerion header of img.html.
+type: test
+title: Test page loading an image to check CSP img-src behavior
+summary: Test page for the webRequest extension API test that loads blank.jpg and reports whether the image load was allowed or blocked by CSP.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest event tests for fenced frames
+// summary: Verifies webRequest events for pages embedding iframes and fenced frames, including redirects and opaque initiator handling.
+// ---
+
 const kExtensionPath = 'extensions/api_test/webrequest/fencedFrames';
 
 // Constants as functions, not to be called until after runTests.

@@ -4,6 +4,12 @@
 
 // Common definitions for test_post?.js.
 
+// ---docerion
+// type: test
+// title: Shared definitions for POST request webRequest tests
+// summary: Defines shared form data and expected webRequest events used by the POST request test variants for form submissions.
+// ---
+
 const DIR_NAME = 'requestBody/';
 
 function sendPost(formFile, parseableForm) {

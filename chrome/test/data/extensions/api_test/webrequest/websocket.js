@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket connection test helper
+// summary: Test helper that opens a WebSocket, sends a message and verifies that the expected connection events fire or the connection fails as intended.
+// ---
+
 function getWSTestURL(port) {
   return `ws://localhost:${port}/echo-with-no-extension`;
 }

@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: WebRequest complex load test page with image
+summary: HTML fixture for the webRequest extension API complexLoad test that loads b.jpg to produce an additional image request.

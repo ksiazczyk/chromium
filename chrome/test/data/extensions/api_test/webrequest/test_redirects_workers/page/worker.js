@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker script fetching subresources for redirect tests
+// summary: Worker script that fetches a posted subresource URL and reports its own location or the fetch error, handling dedicated, shared, and service worker scopes.
+// ---
+
 function test(subresourceUrl) {
   if (!subresourceUrl) {
     return Promise.resolve(self.location.href);

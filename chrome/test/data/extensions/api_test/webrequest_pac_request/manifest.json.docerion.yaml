@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest PAC request test extension
+summary: Manifest version 2 for the test extension, granting webRequest permission on all URLs and loading the persistent background script.

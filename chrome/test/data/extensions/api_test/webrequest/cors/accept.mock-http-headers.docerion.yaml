@@ -1,0 +1,4 @@
+# Docerion header of accept.mock-http-headers.
+type: test
+title: Mock HTTP headers for the CORS accept response
+summary: Mock HTTP response headers that return 200 OK with a wildcard Access-Control-Allow-Origin for the accept endpoint.

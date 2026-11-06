@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest CORS test extension
+summary: Manifest for the test_cors extension, granting webRequest and related permissions and loading test_cors.js as a persistent background page.

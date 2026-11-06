@@ -1,0 +1,4 @@
+# Docerion header of sandbox_frame.html.
+type: test
+title: sandbox_frame.html
+summary: Test page that embeds a.html in an iframe as part of the sandboxed frame chain in the webrequest simpleLoad test.

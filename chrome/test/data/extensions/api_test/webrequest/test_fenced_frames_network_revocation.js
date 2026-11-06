@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame network revocation webRequest test
+// summary: Tests webRequest event dispatch for a fenced frame that revokes its own network and fails a self-navigation, checking event details, frame types and initiators.
+// ---
+
 const kExtensionPath = 'extensions/api_test/webrequest/fencedFrames';
 
 // Constants as functions, not to be called until after runTests.

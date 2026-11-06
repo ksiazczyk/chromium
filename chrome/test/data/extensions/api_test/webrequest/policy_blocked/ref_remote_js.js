@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script injecting a cross-origin script tag for policy blocked tests
+// summary: Injects a script tag pointing at example2.com so a request is made with an example.com initiator and an example2.com URL.
+// ---
+
 // Injects a script tag with a source based on the current URL. The script
 // however will be served from a different domain (example2.com) and target a
 // different file which is blank. This lets us make a request with an initiator

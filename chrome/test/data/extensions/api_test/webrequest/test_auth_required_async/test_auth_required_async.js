@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async onAuthRequired webRequest API tests
+// summary: JavaScript test suite verifying webRequest event sequences and behavior when onAuthRequired is handled asynchronously, including no-action and cancel-auth variants.
+// ---
+
 // Generates a unique authentication URL so each test can run
 // without hitting the HTTP authentication cache. Each test
 // must use a unique realm, however.

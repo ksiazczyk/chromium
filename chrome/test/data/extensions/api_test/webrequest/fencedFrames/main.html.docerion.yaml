@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main webRequest fenced frame test page
+summary: Entry page for the test that embeds iframe.html to trigger the fenced frame loading flow under observation.

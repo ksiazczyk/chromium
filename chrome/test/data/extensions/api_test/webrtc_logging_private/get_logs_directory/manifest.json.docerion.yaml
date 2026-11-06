@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: WebRTC logging getLogsDirectory test extension manifest
+summary: Manifest for the test extension that exercises chrome.webrtcLoggingPrivate.getLogsDirectory, fixing the extension ID and granting the webrtcLoggingPrivate permission.

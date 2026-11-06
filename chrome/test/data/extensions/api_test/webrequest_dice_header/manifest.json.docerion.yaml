@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Dice response header test extension
+summary: Manifest declaring the name, webRequest permissions, and persistent background script of the test extension used by the webrequest_dice_header API test.

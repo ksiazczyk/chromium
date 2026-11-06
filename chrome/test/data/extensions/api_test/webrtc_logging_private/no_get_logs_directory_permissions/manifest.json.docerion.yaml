@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getLogsDirectory no-permission test extension
+summary: Extension manifest for a browser test checking that the Hangouts component extension cannot access chrome.webrtcLoggingPrivate.getLogsDirectory.

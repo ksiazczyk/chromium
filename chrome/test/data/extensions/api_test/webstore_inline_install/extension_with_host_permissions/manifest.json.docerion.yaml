@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Inline Install Test Extension manifest
+summary: Manifest for the webstore inline install test extension, declaring version 0.1 with host permissions for all URLs.

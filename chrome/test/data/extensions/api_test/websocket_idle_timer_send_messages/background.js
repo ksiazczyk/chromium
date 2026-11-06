@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket idle timer test background script
+// summary: Background service worker script that opens a WebSocket and exchanges messages for two seconds to exercise the service worker idle timer in an extension API test.
+// ---
+
 let socket;
 
 // Opens a web socket, replying to the C++ caller when we receive the `open`

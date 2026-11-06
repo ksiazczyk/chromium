@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parallel onAuthRequired webRequest test
+// summary: Extension API test verifying that two parallel onAuthRequired signals do not interfere with each other, serving as a regression test for crbug.com/41441014.
+// ---
+
 // Generates a unique authentication URL so each test can run
 // without hitting the HTTP authentication cache. Each test
 // must use a unique realm, however.

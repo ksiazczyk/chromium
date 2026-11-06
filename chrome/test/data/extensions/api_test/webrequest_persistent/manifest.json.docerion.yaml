@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web Request Persistence test extension manifest
+summary: Manifest for the Web Request Persistence test extension, declaring a persistent background page with webRequest and storage permissions used by the API test.

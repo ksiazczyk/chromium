@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_blocking_cookie webRequest test extension
+summary: Manifest for a test extension that grants webRequest and blocking permissions and loads test_blocking_cookie.js as a persistent background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Start-stop-start WebRTC logging test
+// summary: Browser test that creates an app window with a webview and verifies WebRTC logging can be started again after being stopped.
+// ---
+
 function assertNoLastError(message) {
   if (chrome.runtime.lastError) {
     message += ': ' + chrome.runtime.lastError.message;

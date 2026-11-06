@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest securityInfo tests for insecure requests
+// summary: Background script that makes fetch or WebSocket requests and asserts the webRequest securityInfo state is insecure for the securityInfo and securityInfoRawDer opt flags.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 (async () => {

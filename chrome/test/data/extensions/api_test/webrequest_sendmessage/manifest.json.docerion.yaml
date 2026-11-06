@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the webRequest sendMessage test extension
+summary: Extension manifest granting declarativeWebRequest permissions and registering the persistent background script used by the test.

@@ -1,0 +1,4 @@
+# Docerion header of frame.html.
+type: test
+title: Fenced frame target placeholder page
+summary: Placeholder HTML page served as the fenced frame target, with its real behavior defined by the accompanying mock HTTP headers file.

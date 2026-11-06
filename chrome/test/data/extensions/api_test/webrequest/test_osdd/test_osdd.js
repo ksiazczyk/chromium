@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest API test for OpenSearch description document requests
+// summary: Browser test asserting that the full sequence of webRequest events fires when a page loads a linked OpenSearch description document.
+// ---
+
 function getPageWithOSDDURL() {
   // A URL with path "/" (this points to webrequest/osdd/index.html).
   // The path is "/" because OSDD are only loaded from "/".

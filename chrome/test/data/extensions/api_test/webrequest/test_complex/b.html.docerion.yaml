@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: b.html test page loading image b.jpg
+summary: Test fixture page that loads the image b.jpg so the webRequest test can observe image subresource requests.

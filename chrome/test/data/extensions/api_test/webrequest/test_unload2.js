@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slow tab close webRequest test
+// summary: Tests the webRequest event sequence when a tab loading a slow main frame is closed, triggering onErrorOccurred.
+// ---
+
 runTests([
   // Load a slow page in a tab and close it.
   function loadSlowTabAndClose() {

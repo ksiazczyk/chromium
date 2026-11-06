@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest securityInfo test extension
+summary: Manifest for a test extension that exercises the webRequest API, granting webRequest, tabs, and all-URLs permissions with a persistent background script.

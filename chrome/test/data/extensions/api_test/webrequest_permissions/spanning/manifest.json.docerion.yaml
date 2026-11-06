@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the webRequest permissions test extension
+summary: Manifest for the webRequest test extension declaring declarativeWebRequest and all-URL permissions, a persistent background script, and spanning incognito mode.

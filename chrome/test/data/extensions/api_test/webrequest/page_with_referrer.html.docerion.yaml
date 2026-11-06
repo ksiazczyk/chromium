@@ -1,0 +1,4 @@
+# Docerion header of page_with_referrer.html.
+type: test
+title: Target page for referrer-carrying navigation
+summary: Minimal page titled Unmodified that is navigated to after a simulated link click so tests can observe the Referrer header.
