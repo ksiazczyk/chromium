@@ -1,0 +1,4 @@
+# Docerion header of channel.mojom.
+type: source
+title: Channel Mojo enum
+summary: Defines the Mojo enum of possible installation channels (unknown, canary, dev, beta, stable) mirroring version_info::Channel.

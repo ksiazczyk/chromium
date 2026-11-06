@@ -1,0 +1,4 @@
+# Docerion header of feature_session_type.mojom.
+type: source
+title: FeatureSessionType mojom enum
+summary: Defines the FeatureSessionType enum used to restrict features to session types such as initial, unknown, regular, Kiosk, and auto-launched Kiosk sessions.

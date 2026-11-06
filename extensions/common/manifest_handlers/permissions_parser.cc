@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions parser implementation
+// summary: Parses permissions and host permissions from the manifest into API and host permission sets, checking allowed schemes and host permission rules.
+// ---
+
 #include "extensions/common/manifest_handlers/permissions_parser.h"
 
 #include <memory>

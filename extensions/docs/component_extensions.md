@@ -1,3 +1,11 @@
+---
+type: reference
+title: Component Extensions
+summary: Explains what component extensions are, when they should be used in Chromium, how their permissions work, and how they differ from default-installed extensions.
+relations:
+  - references /chrome/browser/ash/system_web_apps/README.md
+---
+
 # Component Extensions
 
 ## What are component extensions?

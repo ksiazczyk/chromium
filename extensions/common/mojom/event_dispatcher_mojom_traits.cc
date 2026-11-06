@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits for deserializing EventArgs
+// summary: Implements the mojo StructTraits Read method that converts wire-format EventArgs data into scoped_refptr extensions::EventArgs objects.
+// ---
+
 #include "extensions/common/mojom/event_dispatcher_mojom_traits.h"
 
 #include <utility>

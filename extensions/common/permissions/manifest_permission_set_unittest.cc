@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest permission set unit tests
+// summary: Unit tests covering ManifestPermissionSet insertion, lookup, erasure, union and intersection operations using mock permissions.
+// ---
+
 #include "extensions/common/permissions/manifest_permission_set.h"
 
 #include "base/pickle.h"

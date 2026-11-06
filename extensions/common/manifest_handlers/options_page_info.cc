@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options page manifest info implementation
+// summary: Implements parsing of the options_page and options_ui manifest keys, validating options page URLs and handling Chrome styling and open-in-tab behavior.
+// ---
+
 #include "extensions/common/manifest_handlers/options_page_info.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission set Mojo traits header
+// summary: Declares Mojo struct traits for serializing API permission, manifest permission, and permission set classes to their mojom representations.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_PERMISSION_SET_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_PERMISSION_SET_MOJOM_TRAITS_H_
 

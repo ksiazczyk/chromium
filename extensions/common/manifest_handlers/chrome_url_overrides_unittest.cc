@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome URL overrides manifest handler
+// summary: Tests chrome_url_overrides parsing, including multiple-override errors, ChromeOS keyboard overrides and missing override files.
+// ---
+
 #include <algorithm>
 
 #include "base/files/scoped_temp_dir.h"

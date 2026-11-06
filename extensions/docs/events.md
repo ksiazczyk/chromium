@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extension events
+summary: Describes how the extensions event system registers listeners and dispatches events, including lazy contexts, filtered events, and service worker events.
+---
+
 # Extension events
 
 The Chrome extensions system has its own implementation of events (typically

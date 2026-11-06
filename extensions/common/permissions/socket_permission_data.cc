@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketPermissionData implementation
+// summary: Implements parsing, matching and string conversion of socket permission patterns such as tcp-connect and udp-bind.
+// ---
+
 #include "extensions/common/permissions/socket_permission_data.h"
 
 #include <cstdlib>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundInfo manifest handler for extension background pages
+// summary: Declares BackgroundInfo, which parses background page, background script and service worker settings from extension manifests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_BACKGROUND_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_BACKGROUND_INFO_H_
 

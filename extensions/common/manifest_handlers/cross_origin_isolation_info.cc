@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-origin isolation manifest handler implementation
+// summary: Implements parsing of the cross_origin_embedder_policy and cross_origin_opener_policy manifest keys for extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/cross_origin_isolation_info.h"
 
 #include <memory>

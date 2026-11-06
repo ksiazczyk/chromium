@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content script parsing and validation helpers header
+// summary: Declares helpers for parsing and validating content script fields such as match patterns, file sources, globs and mime types, with size-limit overrides for testing.
+// ---
+
 #ifndef EXTENSIONS_COMMON_UTILS_CONTENT_SCRIPT_UTILS_H_
 #define EXTENSIONS_COMMON_UTILS_CONTENT_SCRIPT_UTILS_H_
 

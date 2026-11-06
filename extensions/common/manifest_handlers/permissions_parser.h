@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions parser for extension manifests
+// summary: Declares PermissionsParser, which parses the permissions and optional_permissions manifest keys and stores the extension's required and optional permission sets.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_PERMISSIONS_PARSER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_PERMISSIONS_PARSER_H_
 

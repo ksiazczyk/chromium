@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared module info handler declarations
+// summary: Declares the SharedModuleInfo manifest data struct with import and export allowlist helpers, plus the SharedModuleHandler for shared module manifest keys.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_SHARED_MODULE_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_SHARED_MODULE_INFO_H_
 

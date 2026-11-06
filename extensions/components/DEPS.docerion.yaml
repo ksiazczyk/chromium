@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for extensions components
+summary: Defines include rules that forbid extensions/components from depending on other extensions/components, requiring components to declare their own dependencies to avoid cycles.

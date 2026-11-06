@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketPermission class declaration
+// summary: Declares the socket permission class derived from SetDisjunctionPermission with a check parameter for socket requests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_H_
 

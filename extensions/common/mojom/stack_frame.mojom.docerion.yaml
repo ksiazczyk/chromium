@@ -1,0 +1,4 @@
+# Docerion header of stack_frame.mojom.
+type: source
+title: StackFrame Mojo struct
+summary: Defines the StackFrame Mojo struct carrying line, column, source, and function details that mirrors extensions::StackFrame.

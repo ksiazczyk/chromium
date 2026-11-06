@@ -1,0 +1,4 @@
+# Docerion header of guest_view.mojom.
+type: source
+title: GuestView and MimeHandlerView mojom interfaces
+summary: Defines the GuestView and MimeHandlerViewContainerManager interfaces used by the browser and renderer to coordinate MimeHandlerView guest creation, attachment, and teardown.

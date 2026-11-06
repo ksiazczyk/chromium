@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission message host utility interface
+// summary: Declares GetDistinctHosts, a helper that extracts distinct hosts from URL pattern sets for permission messages.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_UTIL_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_UTIL_H_
 

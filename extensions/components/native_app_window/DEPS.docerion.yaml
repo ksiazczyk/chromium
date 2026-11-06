@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the native_app_window component
+summary: Lists the include rules that allow the component to use content browser APIs, blink draggable region mojom, Skia, aura, and views.

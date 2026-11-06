@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackFrame Mojo type traits
+// summary: Implements the Mojo StructTraits deserializer that reads StackFrame messages from IPC into extensions::StackFrame objects.
+// ---
+
 #include "extensions/common/mojom/stack_frame_mojom_traits.h"
 #include "mojo/public/cpp/base/string16_mojom_traits.h"
 

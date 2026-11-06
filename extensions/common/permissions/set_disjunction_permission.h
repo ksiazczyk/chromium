@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetDisjunctionPermission template base class
+// summary: Defines a template base class for permissions granted when any condition in a set matches, including set operations such as union, intersection and diff.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_SET_DISJUNCTION_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_SET_DISJUNCTION_PERMISSION_H_
 

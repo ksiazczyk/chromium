@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension ID mojom traits unit tests
+// summary: Unit tests that serialize and deserialize extension IDs through Mojo, covering a valid 32-character ID and parameterized invalid cases such as empty, short, long, or malformed IDs.
+// ---
+
 #include "extensions/common/mojom/extension_id_mojom_traits.h"
 
 #include <utility>

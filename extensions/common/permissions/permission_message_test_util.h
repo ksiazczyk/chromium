@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission message test assertion helpers interface
+// summary: Declares gtest assertion helpers for checking permission warning messages, submessages, and message counts in extension tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_TEST_UTIL_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito manifest unit tests
+// summary: Unit tests verifying incognito manifest parsing for not allowed, spanning, split, and unspecified modes using manifest test fixtures.
+// ---
+
 #include "extensions/browser/extension_util.h"
 #include "extensions/common/extension.h"
 #include "extensions/common/manifest_handlers/incognito_info.h"

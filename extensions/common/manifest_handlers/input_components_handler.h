@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input components manifest handler header
+// summary: Declares InputComponentInfo, the InputComponents manifest data with a component accessor, and InputComponentsHandler that parses input_components and requires the options page key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_INPUT_COMPONENTS_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_INPUT_COMPONENTS_HANDLER_H_
 

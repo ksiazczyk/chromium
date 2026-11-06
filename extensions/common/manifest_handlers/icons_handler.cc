@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icons manifest handler implementation
+// summary: Implements parsing of the icons manifest key and provides icon resources and URLs, preferring icon variants when available.
+// ---
+
 #include "extensions/common/manifest_handlers/icons_handler.h"
 
 #include <memory>

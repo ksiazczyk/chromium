@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring InstallClient for the dialog extensions client
+// summary: Declares InstallClient, the entry point that registers the JavaScript dialog extensions client implementation.
+// ---
+
 #ifndef EXTENSIONS_COMPONENTS_JAVASCRIPT_DIALOG_EXTENSIONS_CLIENT_JAVASCRIPT_DIALOG_EXTENSION_CLIENT_IMPL_H_
 #define EXTENSIONS_COMPONENTS_JAVASCRIPT_DIALOG_EXTENSIONS_CLIENT_JAVASCRIPT_DIALOG_EXTENSION_CLIENT_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action manifest tests
+// summary: Manifest tests for page_action parsing, covering titles, icons, default popup handling, and manifest version restrictions.
+// ---
+
 #include <memory>
 
 #include "base/path_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EventArgs mojo serialization
+// summary: Tests round-trip serialization and deserialization of EventArgs via mojo test utilities, covering populated and empty lists.
+// ---
+
 #include "extensions/common/mojom/event_dispatcher_mojom_traits.h"
 
 #include <utility>

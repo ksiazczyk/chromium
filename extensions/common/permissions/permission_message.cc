@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission message implementation
+// summary: Implements PermissionMessage constructors and lifecycle for the permission warnings shown for apps and extensions.
+// ---
+
 #include "extensions/common/permissions/permission_message.h"
 
 namespace extensions {

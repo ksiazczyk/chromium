@@ -1,3 +1,9 @@
+---
+type: guide
+title: New Extension and Platform App APIs
+summary: Describes the review and approval process for proposing new extension and platform app APIs, including public versus private APIs, ownership, and platform support.
+---
+
 # New Extension and Platform App APIs
 
 [TOC]

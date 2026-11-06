@@ -1,0 +1,4 @@
+# Docerion header of service_worker_host.mojom.
+type: source
+title: ServiceWorkerHost Mojo interface for extension service worker contexts
+summary: Defines the ServiceWorkerHost Mojo interface the browser implements to track extension service worker lifecycle, handle API requests, and open message channels.

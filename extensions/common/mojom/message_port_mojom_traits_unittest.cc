@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message port Mojo traits unit tests
+// summary: Unit tests verifying serialize and deserialize round-trips for message port Mojo types including PortId, MessagingEndpoint, Message, and MessageData.
+// ---
+
 #include "extensions/common/mojom/message_port_mojom_traits.h"
 
 #include "base/containers/span.h"

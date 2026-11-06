@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsInfo implementation
+// summary: Implements the PermissionsInfo singleton that registers extension API permissions and aliases and looks them up by permission ID or name.
+// ---
+
 #include "extensions/common/permissions/permissions_info.h"
 
 #include "base/check.h"

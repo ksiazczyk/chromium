@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About page manifest URL unit tests
+// summary: Unit tests verifying the about page manifest URL for shared module extensions and rejecting invalid types and absolute URLs.
+// ---
+
 #include "extensions/common/manifest_constants.h"
 #include "extensions/common/manifest_handlers/manifest_url_handlers.h"
 #include "extensions/common/manifest_test.h"

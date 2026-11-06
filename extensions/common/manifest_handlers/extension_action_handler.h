@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action manifest handler header
+// summary: Declares ExtensionActionHandler, which parses the page_action, browser_action, and action manifest keys.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_EXTENSION_ACTION_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_EXTENSION_ACTION_HANDLER_H_
 

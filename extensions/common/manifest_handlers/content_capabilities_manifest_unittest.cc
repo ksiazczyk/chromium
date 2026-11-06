@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the content capabilities manifest handler
+// summary: Tests content_capabilities parsing, including subdomain wildcards and rejection of all-hosts or eTLD wildcard patterns.
+// ---
+
 #include "base/command_line.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/extension_builder.h"

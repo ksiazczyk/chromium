@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URL overrides manifest handler declarations
+// summary: Declares the URLOverrides manifest data struct and the handler that parses the chrome_url_overrides manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_CHROME_URL_OVERRIDES_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_CHROME_URL_OVERRIDES_HANDLER_H_
 

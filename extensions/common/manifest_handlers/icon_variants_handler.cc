@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon variants manifest handler implementation
+// summary: Implements parsing and validation of the icon_variants manifest key, building per-color-scheme icon sets for extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/icon_variants_handler.h"
 
 #include <memory>

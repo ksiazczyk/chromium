@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME types handler permission implementation
+// summary: Implements manifest permission handling for claimed MIME types, mapping each supported type to an API permission ID and install warning.
+// ---
+
 #include "extensions/common/manifest_handlers/mime_types_handler_permission.h"
 
 #include <utility>

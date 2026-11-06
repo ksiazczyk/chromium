@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Homepage URL manifest unit tests
+// summary: Unit tests for parsing the homepage_url manifest key and resolving the extension homepage, including web store hosted extensions.
+// ---
+
 #include "base/strings/string_util.h"
 #include "extensions/common/extension.h"
 #include "extensions/common/extension_urls.h"

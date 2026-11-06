@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 manifest handler header
+// summary: Declares OAuth2ManifestHandler, which parses the oauth2 manifest key and exposes GetOAuth2Info for retrieving OAuth2 client and scope data.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_OAUTH2_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_OAUTH2_MANIFEST_HANDLER_H_
 

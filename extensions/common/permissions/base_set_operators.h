@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared set operation template for permission sets
+// summary: Defines a templated BaseSetOperators class providing clone, equality, containment, union, intersection and difference operations shared by permission set types.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_BASE_SET_OPERATORS_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_BASE_SET_OPERATORS_H_
 

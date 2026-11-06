@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the JavaScript dialog extensions client
+// summary: Implements the extensions client that increments and decrements extension lazy keepalive counts while a JavaScript modal dialog is open, and installs it into the app modal dialog manager.
+// ---
+
 #include "extensions/components/javascript_dialog_extensions_client/javascript_dialog_extension_client_impl.h"
 
 #include <memory>

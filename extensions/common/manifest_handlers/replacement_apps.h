@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Replacement apps manifest handler declarations
+// summary: Declares ReplacementAppsInfo and ReplacementAppsHandler for reading the replacement_web_app manifest key and querying the replacement web app URL.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_REPLACEMENT_APPS_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_REPLACEMENT_APPS_H_
 

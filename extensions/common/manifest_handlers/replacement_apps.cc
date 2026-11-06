@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Replacement apps manifest handler implementation
+// summary: Implements parsing of the replacement_web_app manifest key, storing a validated HTTPS web app URL that replaces an extension or app.
+// ---
+
 #include "extensions/common/manifest_handlers/replacement_apps.h"
 
 #include <memory>

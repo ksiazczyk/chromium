@@ -1,0 +1,4 @@
+# Docerion header of url_pattern_set.mojom.
+type: source
+title: URLPattern and URLPatternSet mojom structs
+summary: Defines mojom structs URLPattern and URLPatternSet that mirror the C++ extensions types for matching URL patterns used for web content.

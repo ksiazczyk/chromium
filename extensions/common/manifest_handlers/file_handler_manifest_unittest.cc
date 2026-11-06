@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handlers manifest unit tests
+// summary: Unit tests covering valid and invalid file_handlers manifest entries for platform apps and manifest version 3 web file handlers.
+// ---
+
 #include "components/services/app_service/public/cpp/file_handler_info.h"
 
 #include "base/memory/scoped_refptr.h"

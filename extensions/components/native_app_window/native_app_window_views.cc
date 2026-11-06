@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeAppWindowViews implementation
+// summary: Implements NativeAppWindowViews, a views::Widget-backed native app window for Chrome apps, handling window state, sizing, and draggable regions.
+// ---
+
 #include "extensions/components/native_app_window/native_app_window_views.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon variants manifest tests
+// summary: Tests the icon_variants manifest key, checking success cases, warnings, and errors across channels and feature flags.
+// ---
+
 #include <optional>
 #include <vector>
 

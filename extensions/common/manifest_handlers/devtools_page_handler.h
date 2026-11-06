@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools page manifest handler header
+// summary: Declares DevToolsPageHandler, the manifest handler that parses the devtools_page extension manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_DEVTOOLS_PAGE_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_DEVTOOLS_PAGE_HANDLER_H_
 

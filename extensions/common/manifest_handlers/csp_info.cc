@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content security policy manifest handler implementation
+// summary: Implements CSP parsing for extension pages, sandboxed pages and isolated worlds, defining default and minimum MV3 content security policies.
+// ---
+
 #include "extensions/common/manifest_handlers/csp_info.h"
 
 #include <memory>

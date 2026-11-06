@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito info manifest handler implementation
+// summary: Implements IncognitoInfo and IncognitoHandler, parsing the incognito manifest key and providing helpers for spanning, split, and allowed incognito modes with defaults per extension type.
+// ---
+
 #include "extensions/common/manifest_handlers/incognito_info.h"
 
 #include <memory>

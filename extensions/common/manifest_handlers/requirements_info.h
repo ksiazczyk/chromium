@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Requirements manifest handler declarations
+// summary: Declares RequirementsInfo, which stores declared extension requirements such as WebGL, and the RequirementsHandler for the requirements manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_REQUIREMENTS_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_REQUIREMENTS_INFO_H_
 

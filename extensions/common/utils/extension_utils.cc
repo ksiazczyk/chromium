@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension ID and allowlist helpers implementation
+// summary: Implements helpers returning an extension ID for possibly-null extensions and checking command-line extension allowlisting.
+// ---
+
 #include "extensions/common/utils/extension_utils.h"
 
 #include <algorithm>

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using the chrome.test API
+summary: Explains how to use the chrome.test extension API to write extension API tests, covering test running, assertions, events, checks, and messaging helpers.
+relations:
+  - references /extensions/docs/extension_tests.md
+---
+
 # Using the chrome.test API
 
 [TOC]

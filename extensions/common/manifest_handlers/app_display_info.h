@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App display info manifest handler header
+// summary: Declares the AppDisplayInfo manifest data struct and AppDisplayManifestHandler that parse app display preferences from the extension manifest.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_APP_DISPLAY_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_APP_DISPLAY_INFO_H_
 

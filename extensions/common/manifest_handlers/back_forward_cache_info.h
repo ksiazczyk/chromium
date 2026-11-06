@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache info manifest handler header
+// summary: Declares BackForwardCacheInfo manifest data and the BackForwardCacheHandler that parses the back_forward_cache manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_BACK_FORWARD_CACHE_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_BACK_FORWARD_CACHE_INFO_H_
 

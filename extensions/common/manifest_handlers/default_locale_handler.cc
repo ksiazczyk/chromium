@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default locale manifest handler implementation
+// summary: Implements parsing and validation of the default_locale manifest key, checking that the _locales folder and message files are consistent.
+// ---
+
 #include "extensions/common/manifest_handlers/default_locale_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of injection_type.mojom.
+type: source
+title: InjectionType mojom enum
+summary: Defines the InjectionType enum distinguishing manifest content scripts, programmatic scripts injected via APIs like tabs.executeScript, and declarative API scripts.

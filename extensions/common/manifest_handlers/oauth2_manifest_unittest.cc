@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OAuth2 manifest handler
+// summary: Tests parsing of the oauth2 manifest section across auto_approve and client_id combinations, including allowlisted extension IDs and error cases.
+// ---
+
 #include <utility>
 
 #include "base/strings/strcat.h"

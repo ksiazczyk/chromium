@@ -1,0 +1,4 @@
+# Docerion header of view_type.mojom.
+type: source
+title: ViewType mojom enum for extension view types
+summary: Defines the ViewType enum distinguishing host types of a WebContents, with values mirrored in the ExtensionViewType histogram enum.

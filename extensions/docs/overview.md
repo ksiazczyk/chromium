@@ -1,3 +1,12 @@
+---
+type: reference
+title: Extensions Overview
+summary: Gives engineers an overview of extensions concepts, key classes, and architecture in the browser, aimed at extension support developers rather than extension authors.
+relations:
+  - references /extensions/docs/extension_and_app_types.md
+  - references /extensions/docs/permissions.md
+---
+
 # Extensions Overview
 
 This document is an overview of extensions concepts, terms, and architecture.

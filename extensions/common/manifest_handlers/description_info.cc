@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Description manifest handler implementation
+// summary: Implements parsing of the description manifest key, storing non-empty extension descriptions as manifest data.
+// ---
+
 #include "extensions/common/manifest_handlers/description_info.h"
 
 #include "base/strings/string_util.h"

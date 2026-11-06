@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the javascript_dialog_extensions_client library
+summary: Defines the static_library target javascript_dialog_extensions_client with its sources and dependencies on components, content, extensions, and skia.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk mode info manifest handler implementation
+// summary: Implements KioskModeInfo and KioskModeHandler, parsing the kiosk_enabled and kiosk_only manifest keys along with secondary kiosk apps and required platform version settings.
+// ---
+
 #include "extensions/common/manifest_handlers/kiosk_mode_info.h"
 
 #include <memory>

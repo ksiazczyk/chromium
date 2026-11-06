@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App display info manifest handler implementation
+// summary: Implements the manifest handler that parses the display_in_launcher and display_in_new_tab_page keys controlling whether apps appear in the app launcher and new tab page.
+// ---
+
 #include "extensions/common/manifest_handlers/app_display_info.h"
 
 #include "base/values.h"

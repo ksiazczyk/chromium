@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the protocol_handlers manifest key
+// summary: Manifest unit tests covering successful parsing, manifest version warnings and invalid protocol handler declarations for the protocol_handlers key.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/values_test_util.h"

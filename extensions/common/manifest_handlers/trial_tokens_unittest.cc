@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trial tokens manifest unit tests
+// summary: Manifest tests checking trial_tokens parsing outcomes, expected token sets, and install warnings for invalid, oversized, duplicate, or excessive token lists.
+// ---
+
 #include <memory>
 #include <utility>
 

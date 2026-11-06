@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions data class declaration
+// summary: Declares PermissionsData, a thread-safe container for an extension's permission state, page access decisions, and capture requirements.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSIONS_DATA_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSIONS_DATA_H_
 

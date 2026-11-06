@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handlers manifest handler implementation
+// summary: Implements parsing and validation of the protocol_handlers manifest key, checking handler names, schemes, URL syntax and origins against the HTML spec normalization rules.
+// ---
+
 #include "extensions/common/manifest_handlers/protocol_handler_info.h"
 
 #include "base/strings/utf_string_conversions.h"

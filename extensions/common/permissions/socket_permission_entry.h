@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SocketPermissionEntry class declaration
+// summary: Declares the internal representation of a socket permission for a specific operation, including host pattern parsing, request checking and IPC serialization support.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_ENTRY_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_ENTRY_H_
 

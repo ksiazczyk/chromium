@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Externally connectable manifest unit tests
+// summary: Unit tests verifying parsing of the externally_connectable manifest key, covering extension IDs and URL match pattern behaviour.
+// ---
+
 #include "extensions/common/manifest_handlers/externally_connectable.h"
 
 #include <stddef.h>

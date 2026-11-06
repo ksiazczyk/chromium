@@ -1,0 +1,4 @@
+# Docerion header of permission_set.mojom.
+type: source
+title: Extension permission set Mojo definitions
+summary: Defines Mojo structs representing API permissions, manifest permissions, and the extension PermissionSet with its host URL pattern sets.

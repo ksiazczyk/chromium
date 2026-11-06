@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission message host utility implementation
+// summary: Implements GetDistinctHosts, which reduces a set of URL host patterns to distinct hosts for use in permission warning messages.
+// ---
+
 #include "extensions/common/permissions/permission_message_util.h"
 
 #include <stddef.h>

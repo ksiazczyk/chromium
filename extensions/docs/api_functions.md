@@ -1,3 +1,12 @@
+---
+type: guide
+title: Extension API Functions
+summary: Explains how extension API functions flow between renderer and browser processes and how to implement, register, and structure new API functions with best practices.
+relations:
+  - references /chrome/common/extensions/api/schemas.md
+  - references /extensions/renderer/bindings.md
+---
+
 # Extension API Functions
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message serialization info declarations
+// summary: Declares the MessageSerializationInfo manifest data structure and the MessageSerializationHandler that parses the message_serialization manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_MESSAGE_SERIALIZATION_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_MESSAGE_SERIALIZATION_INFO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for javascript_dialog_extensions_client
+summary: Lists avi@chromium.org and oshima@chromium.org as the owners of this directory.

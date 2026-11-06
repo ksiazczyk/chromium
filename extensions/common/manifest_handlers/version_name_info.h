@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version name manifest handler header
+// summary: Declares VersionNameInfo manifest data and the VersionNameHandler that parses the extension manifest's version_name key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_VERSION_NAME_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_VERSION_NAME_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BaseSetOperators
+// summary: Tests basic set operations, copy correctness and deep cloning of the templated set operators using a simple test permission type.
+// ---
+
 #include "extensions/common/permissions/base_set_operators.h"
 
 #include <memory>

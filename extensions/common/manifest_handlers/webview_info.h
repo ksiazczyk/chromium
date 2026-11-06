@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview accessible resources handler header
+// summary: Declares WebviewInfo manifest data with partition items and the WebviewHandler that parses the webview manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEBVIEW_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEBVIEW_INFO_H_
 

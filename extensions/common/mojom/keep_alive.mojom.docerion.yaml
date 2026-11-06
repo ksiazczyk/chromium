@@ -1,0 +1,4 @@
+# Docerion header of keep_alive.mojom.
+type: source
+title: KeepAlive mojom interface
+summary: Defines the KeepAlive interface, an RAII service whose outstanding instances keep an extension's background page alive.

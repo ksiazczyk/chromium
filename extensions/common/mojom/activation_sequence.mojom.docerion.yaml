@@ -1,0 +1,4 @@
+# Docerion header of activation_sequence.mojom.
+type: source
+title: ActivationSequence Mojo struct definition
+summary: Defines the Mojo struct wrapping an int32 that uniquely identifies an extension's activation-to-deactivation span as an optional field in ExtensionLoadedParams.

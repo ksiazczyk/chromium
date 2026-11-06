@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content security policy manifest handler header
+// summary: Declares CSPInfo and CSPHandler, which parse the content_security_policy manifest keys and provide CSP lookups for extension resources and contexts.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_CSP_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_CSP_INFO_H_
 

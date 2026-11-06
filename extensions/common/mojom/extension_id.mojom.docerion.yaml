@@ -1,0 +1,4 @@
+# Docerion header of extension_id.mojom.
+type: source
+title: Mojom struct for extension IDs
+summary: Defines a mojom-serializable ExtensionId struct wrapping the extension ID string.

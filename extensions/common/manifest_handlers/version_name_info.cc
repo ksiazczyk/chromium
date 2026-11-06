@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version name info handler implementation
+// summary: Implements VersionNameInfo and VersionNameHandler, parsing the version_name manifest key and storing the extension's display version name.
+// ---
+
 #include "extensions/common/manifest_handlers/version_name_info.h"
 
 #include "base/values.h"

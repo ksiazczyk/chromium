@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web file handlers parser header
+// summary: Declares WebFileHandler, WebFileHandlers manifest data, and the WebFileHandlersParser for the file_handlers manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEB_FILE_HANDLERS_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEB_FILE_HANDLERS_INFO_H_
 

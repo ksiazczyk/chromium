@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIPermission base class and APIPermissionInfo implementation
+// summary: Implements the APIPermission base class, a simple permission fallback, and APIPermissionInfo that describes and creates individual extension API permissions.
+// ---
+
 #include "extensions/common/permissions/api_permission.h"
 
 #include "extensions/common/permissions/api_permission_set.h"

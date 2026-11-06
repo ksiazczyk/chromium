@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission message class
+// summary: Defines PermissionMessage, an immutable single permission warning carrying the permission IDs it represents and optional nested submessages.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_MESSAGE_H_
 

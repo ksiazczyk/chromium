@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared module info handler implementation
+// summary: Implements SharedModuleInfo and SharedModuleHandler, parsing shared module import and export manifest keys and providing helpers for imported paths and export allowlists.
+// ---
+
 #include "extensions/common/manifest_handlers/shared_module_info.h"
 
 #include <stddef.h>

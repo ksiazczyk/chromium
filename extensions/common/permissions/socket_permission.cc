@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketPermission implementation
+// summary: Implements the socket permission, parsing permission values and building permission IDs for socket host entries.
+// ---
+
 #include "extensions/common/permissions/socket_permission.h"
 
 #include <algorithm>

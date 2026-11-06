@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content security policy manifest unit tests
+// summary: Unit tests verifying CSP parsing, default policies and sandboxed page CSP handling for extension manifests.
+// ---
+
 #include "extensions/common/manifest_handlers/csp_info.h"
 
 #include <optional>

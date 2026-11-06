@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hosted app web URLs manifest unit tests
+// summary: Manifest tests for hosted app app and app.urls keys, covering empty extents and invalid URL patterns such as all_urls and wildcard hosts.
+// ---
+
 #include "extensions/browser/extension_util.h"
 #include "extensions/common/error_utils.h"
 #include "extensions/common/extension.h"

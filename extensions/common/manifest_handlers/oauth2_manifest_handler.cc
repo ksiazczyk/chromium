@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 manifest handler implementation
+// summary: Parses the oauth2 manifest key into OAuth2Info, enforcing client ID requirements and restricting auto_approve to component or allowlisted extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/oauth2_manifest_handler.h"
 
 #include <memory>

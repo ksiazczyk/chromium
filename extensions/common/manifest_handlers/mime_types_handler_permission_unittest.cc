@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MIME types handler manifest permission
+// summary: Tests MimeTypesHandlerPermission serialization, rejection of malformed values, set operations such as union, diff and intersection, and permission ID mapping for supported MIME types.
+// ---
+
 #include "extensions/common/manifest_handlers/mime_types_handler_permission.h"
 
 #include <initializer_list>

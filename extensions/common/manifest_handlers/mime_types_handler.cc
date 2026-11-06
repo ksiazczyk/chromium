@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME types handler implementation
+// summary: Implements parsing of the mime_types_handler manifest key, including the allowlist of legacy handler extensions and per-type configuration.
+// ---
+
 #include "extensions/common/manifest_handlers/mime_types_handler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsOverrideAPIPermission implementation
+// summary: Implements the API permission for extensions that override settings, producing custom permission messages that include the setting value.
+// ---
+
 #include "extensions/common/permissions/settings_override_permission.h"
 
 #include <memory>

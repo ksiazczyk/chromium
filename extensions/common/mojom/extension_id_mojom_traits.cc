@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits for ExtensionId deserialization
+// summary: Implements mojo StructTraits that convert wire ExtensionId data into extensions::ExtensionId, failing validation for invalid extension IDs.
+// ---
+
 #include "extensions/common/mojom/extension_id_mojom_traits.h"
 
 #include "components/crx_file/id_util.h"

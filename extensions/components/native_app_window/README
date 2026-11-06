@@ -1,2 +1,8 @@
+---
+type: readme
+title: native_app_window component README
+summary: Explains that the component provides UI-specific implementations of extensions::NativeAppWindow.
+---
+
 The native_app_window extensions component contains UI-specific implementations
 of extensions::NativeAppWindow.

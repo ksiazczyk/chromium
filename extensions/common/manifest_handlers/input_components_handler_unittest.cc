@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input components manifest unit tests
+// summary: Unit tests for input_components parsing covering valid layouts, component ids containing commas, and invalid layout names such as path traversal attempts.
+// ---
+
 #include "extensions/common/manifest_handlers/input_components_handler.h"
 
 #include <memory>

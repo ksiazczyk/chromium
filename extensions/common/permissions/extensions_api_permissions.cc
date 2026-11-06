@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration table for extensions API permissions
+// summary: Registers the known extensions API permissions with their names and flags, such as activeTab, alarms, clipboard and declarativeNetRequest permissions.
+// ---
+
 #include "extensions/common/permissions/extensions_api_permissions.h"
 
 #include <stddef.h>

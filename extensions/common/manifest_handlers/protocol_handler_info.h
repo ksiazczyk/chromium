@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handlers manifest handler declarations
+// summary: Declares the ProtocolHandlers manifest data structure and the ProtocolHandlersParser ManifestHandler for the protocol_handlers manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_PROTOCOL_HANDLER_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_PROTOCOL_HANDLER_INFO_H_
 

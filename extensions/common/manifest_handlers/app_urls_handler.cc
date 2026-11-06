@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App URLs manifest handler implementation
+// summary: Implements parsing of the app.urls manifest key for hosted apps, validating web extent URL patterns and rejecting all-URL claims, wildcard hosts, and wildcard paths.
+// ---
+
 #include "extensions/common/manifest_handlers/app_urls_handler.h"
 
 #include "base/strings/string_number_conversions.h"

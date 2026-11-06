@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-forward cache manifest unit tests
+// summary: Unit tests verifying parsing of the back_forward_cache manifest key, covering feature flag behavior, component-extension restriction, and invalid value handling.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "extensions/common/extension_features.h"

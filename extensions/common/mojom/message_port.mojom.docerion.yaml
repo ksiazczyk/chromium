@@ -1,0 +1,4 @@
+# Docerion header of message_port.mojom.
+type: source
+title: Extension message port Mojo definitions
+summary: Defines Mojo types for extension messaging, including serialization formats, channel types, endpoints, message data, and the MessagePort renderer interface.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed page info handler implementation
+// summary: Implements SandboxedPageInfo and SandboxedPageHandler, parsing the sandbox.pages manifest key into a URL pattern set of sandboxed extension pages.
+// ---
+
 #include "extensions/common/manifest_handlers/sandboxed_page_info.h"
 
 #include <stddef.h>

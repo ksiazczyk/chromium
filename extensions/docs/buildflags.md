@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extensions build flags
+summary: Describes the build flags and GN arguments used to gradually port extensions code to the experimental desktop Android build configuration.
+---
+
 As of August 2025, the extensions team is working to add support for an
 experimental desktop Android build configuration. Because there's too much
 extensions code to convert at once, the team is doing it gradually, via build

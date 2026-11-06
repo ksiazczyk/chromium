@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extension Permissions
+summary: Explains the internal implementation of extension permissions, including API and manifest permissions, match patterns, storage, warnings, and runtime host permissions.
+---
+
 # Extension Permissions
 
 [TOC]

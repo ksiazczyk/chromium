@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content capabilities manifest handler declarations
+// summary: Declares ContentCapabilitiesInfo and the handler that parses the content_capabilities manifest key for extensions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_CONTENT_CAPABILITIES_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_CONTENT_CAPABILITIES_HANDLER_H_
 

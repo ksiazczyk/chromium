@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDevicePermissionData implementation
+// summary: Implements USB device permission data checks and conversion between permission patterns and base::Value dictionaries.
+// ---
+
 #include "extensions/common/permissions/usb_device_permission_data.h"
 
 #include <stdint.h>

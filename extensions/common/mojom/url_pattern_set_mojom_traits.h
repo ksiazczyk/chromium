@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPattern and URLPatternSet Mojo traits declarations
+// summary: Declares Mojo StructTraits converting between the mojom URLPattern and URLPatternSet structs and the C++ extensions types.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_URL_PATTERN_SET_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_URL_PATTERN_SET_MOJOM_TRAITS_H_
 

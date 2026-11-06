@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icons manifest handler declarations
+// summary: Declares IconsInfo and IconsHandler for the icons manifest key, with helpers to obtain icon sets, resources and URLs.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_ICONS_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_ICONS_HANDLER_H_
 

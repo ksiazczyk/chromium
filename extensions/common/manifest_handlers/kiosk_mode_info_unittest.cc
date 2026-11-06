@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk mode info manifest unit tests
+// summary: Unit tests for kiosk manifest parsing covering secondary apps, duplicate entries, channel-gated availability, required platform version, and always update behavior.
+// ---
+
 #include "extensions/common/manifest_handlers/kiosk_mode_info.h"
 
 #include <algorithm>

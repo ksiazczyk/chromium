@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackFrame Mojo struct traits header
+// summary: Declares Mojo StructTraits mapping extensions::StackFrame to its mojom representation, exposing line, column, source and function fields.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_STACK_FRAME_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_STACK_FRAME_MOJOM_TRAITS_H_
 

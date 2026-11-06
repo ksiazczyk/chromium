@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web file handlers parser implementation
+// summary: Implements validation and parsing of the file_handlers manifest key, including name, action, and accept MIME type checks.
+// ---
+
 #include "extensions/common/manifest_handlers/web_file_handlers_info.h"
 
 #include <string_view>

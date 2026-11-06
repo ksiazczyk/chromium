@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port Mojo traits implementation
+// summary: Implements Mojo serialization traits that map extension messaging types such as Message, MessageData, PortId, and MessagingEndpoint to their mojom definitions.
+// ---
+
 #include "extensions/common/mojom/message_port_mojom_traits.h"
 
 #include "extensions/common/api/messaging/message.h"

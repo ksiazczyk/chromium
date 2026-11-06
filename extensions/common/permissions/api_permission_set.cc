@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIPermissionSet parsing and set operations implementation
+// summary: Implements parsing of API permissions from JSON manifest values, including error handling and treatment of internal permissions.
+// ---
+
 #include "extensions/common/permissions/api_permission_set.h"
 
 #include <algorithm>
