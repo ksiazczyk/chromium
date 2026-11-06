@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortId struct defining unique extension messaging port identifiers
+// summary: Defines the PortId struct and ChannelId alias that uniquely identify extension messaging ports and channels via context id, port number, opener flag and serialization format.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_MESSAGING_PORT_ID_H_
 #define EXTENSIONS_COMMON_API_MESSAGING_PORT_ID_H_
 

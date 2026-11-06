@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature channel override implementation
+// summary: Implements getting and overriding the current release channel used by feature availability checks, including the ScopedCurrentChannel helper.
+// ---
+
 #include "extensions/common/features/feature_channel.h"
 
 #include <ostream>

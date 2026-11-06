@@ -1,0 +1,4 @@
+# Docerion header of i18n.json.
+type: source
+title: i18n extension API schema
+summary: Defines the i18n extension API for accept languages, localized messages, UI language, and CLD-based language detection.

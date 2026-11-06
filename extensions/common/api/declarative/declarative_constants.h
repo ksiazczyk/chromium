@@ -4,6 +4,12 @@
 
 // Constants used for the declarativeContent API.
 
+// ---docerion
+// type: source
+// title: Declarative content API constants declarations
+// summary: Declares the constants for the declarativeContent extension API and the ContentActionType enum used to identify injected action types for logging.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_DECLARATIVE_DECLARATIVE_CONSTANTS_H_
 #define EXTENSIONS_COMMON_API_DECLARATIVE_DECLARATIVE_CONSTANTS_H_
 

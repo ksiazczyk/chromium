@@ -1,0 +1,4 @@
+# Docerion header of schema.gni.
+type: config
+title: Extension API schema GN build lists
+summary: GN build file listing extension API schema files for desktop, ChromeOS, and Android builds, split between compiled schemas and types-only definitions.

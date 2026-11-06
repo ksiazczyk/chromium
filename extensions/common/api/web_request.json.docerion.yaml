@@ -1,0 +1,4 @@
+# Docerion header of web_request.json.
+type: reference
+title: Web request API schema
+summary: JSON schema for the chrome.webRequest extension API to observe, analyze, intercept, block or modify in-flight network requests.

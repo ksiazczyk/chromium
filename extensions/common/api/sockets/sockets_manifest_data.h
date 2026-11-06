@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest data class declaration
+// summary: Declares SocketsManifestData, which stores the parsed sockets manifest permission and provides access and socket request checks for an extension.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_DATA_H_
 #define EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_DATA_H_
 

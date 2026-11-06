@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer manifest handler implementation
+// summary: Implements the manifest handler that reads the usb_printers manifest key, parses it via UsbPrinterManifestData, and stores the result on the extension.
+// ---
+
 #include "extensions/common/api/printer_provider/usb_printer_manifest_handler.h"
 
 #include "extensions/common/api/printer_provider/usb_printer_manifest_data.h"

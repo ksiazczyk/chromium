@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon variants diagnostics declarations
+// summary: Declares the Id, Severity, Surface, and Feature enums plus the Diagnostic struct used to report icon_variants warnings during manifest parsing.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANTS_DIAGNOSTICS_H_
 #define EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANTS_DIAGNOSTICS_H_
 

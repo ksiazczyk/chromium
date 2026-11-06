@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandsHandler header declaring CommandsInfo and manifest parsing
+// summary: Declares CommandsInfo, which stores parsed extension keyboard commands, and CommandsHandler, the manifest handler that parses the "commands" manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_COMMANDS_COMMANDS_HANDLER_H_
 #define EXTENSIONS_COMMON_API_COMMANDS_COMMANDS_HANDLER_H_
 

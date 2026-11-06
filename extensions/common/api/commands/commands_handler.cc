@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandsHandler implementation for the commands manifest key
+// summary: Implements the manifest handler that parses the "commands" manifest key, storing browser action, page action, action and named keyboard shortcut commands for extensions.
+// ---
+
 #include "extensions/common/api/commands/commands_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of sockets_tcp_server.webidl.
+type: source
+title: sockets.tcpServer API WebIDL definition
+summary: WebIDL definition of the chrome.sockets.tcpServer extension API for creating and managing TCP server sockets, including accept events and socket info.

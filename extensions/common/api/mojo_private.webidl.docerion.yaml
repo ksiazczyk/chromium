@@ -1,0 +1,4 @@
+# Docerion header of mojo_private.webidl.
+type: reference
+title: mojoPrivate API definitions
+summary: WebIDL definition of the chrome.mojoPrivate API, which gives access to asynchronously loaded Mojo modules.

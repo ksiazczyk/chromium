@@ -1,0 +1,4 @@
+# Docerion header of printer_provider_internal.webidl.
+type: source
+title: Printer Provider Internal API definition
+summary: Defines the internal printerProviderInternal API used to deliver results from printerProvider event callbacks back to the browser.

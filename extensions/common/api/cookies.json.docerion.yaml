@@ -1,0 +1,4 @@
+# Docerion header of cookies.json.
+type: reference
+title: Cookies extension API definitions
+summary: JSON schema for the chrome.cookies API, defining cookie and store types, SameSite and partition keys, and change causes for querying and modifying cookies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest handler class declaration
+// summary: Declares SocketsManifestHandler, the ManifestHandler subclass responsible for parsing the sockets manifest key of extensions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script serialization and parsing declarations
+// summary: Declares functions to serialize UserScript objects and parse serialized scripts back into UserScripts, with options for error reporting and permission behavior.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_SCRIPTS_INTERNAL_SCRIPT_SERIALIZATION_H_
 #define EXTENSIONS_COMMON_API_SCRIPTS_INTERNAL_SCRIPT_SERIALIZATION_H_
 

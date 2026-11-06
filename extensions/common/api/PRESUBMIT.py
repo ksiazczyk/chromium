@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit externs check for extension API changes
+# summary: Chromium presubmit script that runs externs checks when changes in this directory are uploaded for review.
+# ---
+
 """Chromium presubmit script for src/extensions/common.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

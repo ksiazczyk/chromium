@@ -1,0 +1,4 @@
+# Docerion header of system_cpu.webidl.
+type: source
+title: system.cpu API WebIDL definition
+summary: WebIDL definition of the chrome.system.cpu extension API for querying processor count, architecture, features, and per-core usage times.

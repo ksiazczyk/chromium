@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard_private.json.
+type: reference
+title: Virtual keyboard private API schema
+summary: JSON schema for the ChromeOS-only virtualKeyboardPrivate extension API, defining keyboard events, modes, states, bounds, configuration and clipboard items.

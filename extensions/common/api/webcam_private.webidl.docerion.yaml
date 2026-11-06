@@ -1,0 +1,4 @@
+# Docerion header of webcam_private.webidl.
+type: source
+title: Webcam Private API WebIDL definition
+summary: Defines the webcamPrivate extension API for controlling webcams over a serial port, covering pan, tilt, zoom, focus, presets and the VISCA protocol.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Behavior feature name constants header
+// summary: Declares constants corresponding to keys in _behavior_features.json used to identify extension behavior features.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_BEHAVIOR_FEATURE_H_
 #define EXTENSIONS_COMMON_FEATURES_BEHAVIOR_FEATURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message class for extension messaging payloads
+// summary: Declares the move-only Message class that holds JSON or Blink structured-clone payloads plus user gesture and privileged context metadata for extension messaging.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_MESSAGING_MESSAGE_H_
 #define EXTENSIONS_COMMON_API_MESSAGING_MESSAGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of offscreen.webidl.
+type: source
+title: Offscreen API definition
+summary: Defines the chrome.offscreen API for creating, closing and querying extension offscreen documents with reasons and justification parameters.

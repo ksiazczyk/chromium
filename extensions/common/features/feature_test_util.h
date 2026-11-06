@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTestPeer test utility header
+// summary: Declares FeatureTestPeer with a scoped class to swap delegated availability check handlers and a getter for a feature's handler in tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_FEATURE_TEST_UTIL_H_
 #define EXTENSIONS_COMMON_FEATURES_FEATURE_TEST_UTIL_H_
 

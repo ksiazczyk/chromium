@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sockets manifest permission unit tests
+// summary: Unit tests verifying parsing of sockets permission JSON patterns and the resulting permission entries, IDs, and messages.
+// ---
+
 #include "extensions/common/api/sockets/sockets_manifest_permission.h"
 
 #include <algorithm>

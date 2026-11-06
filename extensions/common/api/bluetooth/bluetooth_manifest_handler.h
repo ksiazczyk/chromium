@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest handler class declaration
+// summary: Declares BluetoothManifestHandler, a ManifestHandler that parses the bluetooth manifest key and creates Bluetooth manifest permissions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_HANDLER_H_
 

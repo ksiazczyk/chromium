@@ -1,0 +1,4 @@
+# Docerion header of proxy.json.
+type: source
+title: Proxy API schema
+summary: Defines the chrome.proxy API for managing Chrome's proxy settings, including proxy rules, PAC scripts and configuration modes.

@@ -1,0 +1,4 @@
+# Docerion header of file_system.webidl.
+type: source
+title: fileSystem extension API definition
+summary: Defines the fileSystem extension API for choosing file or directory entries, requesting writable volumes, and volume list change events.

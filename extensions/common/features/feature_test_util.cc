@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature test utility implementation
+// summary: Implements scoped helpers that temporarily install delegated availability check handlers for extension feature tests and restore the previous handlers on destruction.
+// ---
+
 #include "extensions/common/features/feature_test_util.h"
 
 #include <string>

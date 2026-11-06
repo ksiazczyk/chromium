@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard.webidl.
+type: reference
+title: Virtual keyboard API WebIDL definitions
+summary: WebIDL definitions for the kiosk-only chrome.virtualKeyboard API used to restrict virtual keyboard features such as autocomplete and spell check on ChromeOS.

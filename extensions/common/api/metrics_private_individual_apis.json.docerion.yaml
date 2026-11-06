@@ -1,0 +1,4 @@
+# Docerion header of metrics_private_individual_apis.json.
+type: reference
+title: metricsPrivateIndividualApis API schema
+summary: JSON API schema for metricsPrivateIndividualApis, an alias of metricsPrivate that grants separate permissions for individual recording functions.

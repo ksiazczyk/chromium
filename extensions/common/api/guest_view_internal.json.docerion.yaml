@@ -1,0 +1,4 @@
+# Docerion header of guest_view_internal.json.
+type: source
+title: guestViewInternal API schema
+summary: Defines the internal guestViewInternal API schema used to create guests and manage guest view sizing.

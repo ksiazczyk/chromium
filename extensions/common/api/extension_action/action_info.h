@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionInfo struct defining extension action types and manifest data
+// summary: Declares the ActionInfo struct that stores extension action type, default icon, title, popup URL, default state, and optional icon variants.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_EXTENSION_ACTION_ACTION_INFO_H_
 #define EXTENSIONS_COMMON_API_EXTENSION_ACTION_ACTION_INFO_H_
 

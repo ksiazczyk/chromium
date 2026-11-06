@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortContext struct identifying message port contexts
+// summary: Declares the PortContext struct that identifies whether a message port belongs to a render frame, service worker, or native messaging host.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_MESSAGING_PORT_CONTEXT_H_
 #define EXTENSIONS_COMMON_API_MESSAGING_PORT_CONTEXT_H_
 

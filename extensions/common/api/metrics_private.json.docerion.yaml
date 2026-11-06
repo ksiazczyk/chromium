@@ -1,0 +1,4 @@
+# Docerion header of metrics_private.json.
+type: reference
+title: metricsPrivate API schema
+summary: JSON API schema for metricsPrivate, which records histograms, user actions, and field trial data for extensions.

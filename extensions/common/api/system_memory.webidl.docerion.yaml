@@ -1,0 +1,4 @@
+# Docerion header of system_memory.webidl.
+type: source
+title: system.memory API WebIDL definition
+summary: WebIDL definition of the chrome.system.memory extension API that reports total and available physical memory capacity.

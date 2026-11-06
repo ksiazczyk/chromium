@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest filter parsing implementation
+// summary: Implements WebRequestParsedFilter::InitFromValue, which parses URL patterns, resource types, tab and window IDs, and ignores renderer-injected options.
+// ---
+
 #include "extensions/common/api/web_request/web_request_filter.h"
 
 #include <string>

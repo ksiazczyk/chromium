@@ -1,0 +1,4 @@
+# Docerion header of system_storage.webidl.
+type: source
+title: system.storage API WebIDL definition
+summary: WebIDL definition of the chrome.system.storage extension API for listing storage devices, reporting available capacity, and ejecting removable media.

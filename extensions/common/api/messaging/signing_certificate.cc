@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ParseCertificatesFromMojom for signing certificates
+// summary: Implements ParseCertificatesFromMojom, converting Mojo-deserialized certificate byte vectors into fixed-size SigningCertificate arrays for extension messaging.
+// ---
+
 #include "extensions/common/api/messaging/signing_certificate.h"
 
 #include <algorithm>

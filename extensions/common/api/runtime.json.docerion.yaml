@@ -1,0 +1,4 @@
+# Docerion header of runtime.json.
+type: source
+title: chrome.runtime API schema
+summary: JSON schema for the chrome.runtime API covering extension lifecycle events, messaging ports, manifest details, and URL conversion.

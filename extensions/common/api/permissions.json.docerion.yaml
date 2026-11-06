@@ -1,0 +1,4 @@
+# Docerion header of permissions.json.
+type: source
+title: Permissions API schema
+summary: Defines the chrome.permissions API for requesting, checking and revoking optional permissions at runtime instead of install time.

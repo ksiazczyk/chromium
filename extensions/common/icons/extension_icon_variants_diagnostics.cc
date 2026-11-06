@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon variants diagnostics definitions
+// summary: Defines the table of icon_variants diagnostic messages and the GetDiagnostic lookup that returns the matching diagnostic for a feature and id.
+// ---
+
 #include "extensions/common/icons/extension_icon_variants_diagnostics.h"
 
 #include <optional>

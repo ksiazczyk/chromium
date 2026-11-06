@@ -1,0 +1,4 @@
+# Docerion header of mime_handler.webidl.
+type: reference
+title: mimeHandler API definitions
+summary: WebIDL definitions for the chrome.mimeHandler API, which lets extensions handle MIME type streams and configure per-type handler options.

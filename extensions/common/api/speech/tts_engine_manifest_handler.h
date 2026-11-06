@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS engine manifest handler declarations
+// summary: Declares the TtsVoice and TtsEngine structures and the manifest handler class that parses the tts_engine manifest key for extensions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_SPEECH_TTS_ENGINE_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_API_SPEECH_TTS_ENGINE_MANIFEST_HANDLER_H_
 

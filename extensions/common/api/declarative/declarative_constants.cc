@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative content API constants definitions
+// summary: Defines string constants for the declarativeContent extension API, including the onPageChanged event name, dictionary keys, and rule instance type names.
+// ---
+
 #include "extensions/common/api/declarative/declarative_constants.h"
 
 namespace extensions {

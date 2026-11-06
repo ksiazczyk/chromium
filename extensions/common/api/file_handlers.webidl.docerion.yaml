@@ -1,0 +1,4 @@
+# Docerion header of file_handlers.webidl.
+type: source
+title: file_handlers manifest key definition
+summary: Defines the file_handlers manifest key and FileHandler types that let extensions register to open files of given MIME types or extensions.

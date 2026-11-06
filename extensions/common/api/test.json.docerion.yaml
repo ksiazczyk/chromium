@@ -1,0 +1,4 @@
+# Docerion header of test.json.
+type: source
+title: test API JSON definition
+summary: JSON schema for the internal chrome.test API that extension tests use to read test configuration and report pass or fail to the browser.

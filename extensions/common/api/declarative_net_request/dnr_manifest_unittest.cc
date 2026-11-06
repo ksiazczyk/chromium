@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the declarative Net Request manifest key
+// summary: Tests parsing of the declarativeNetRequest manifest key, covering error, success and warning cases for ruleset declarations.
+// ---
+
 #include <string_view>
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of scripting.webidl.
+type: source
+title: chrome.scripting API WebIDL definitions
+summary: WebIDL definitions for the chrome.scripting API describing script and CSS injection targets, execution worlds, and injection results.

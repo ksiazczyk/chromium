@@ -1,0 +1,4 @@
+# Docerion header of events.json.
+type: source
+title: events API schema
+summary: JSON schema for the chrome.events namespace, defining the Rule and Event types used by APIs that dispatch events and declarative rules to extensions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Net Request rule key constants implementation
+// summary: Defines permission name strings and the JSON keys and paths used in declarative Net Request rules.
+// ---
+
 #include "extensions/common/api/declarative_net_request/constants.h"
 
 namespace extensions {

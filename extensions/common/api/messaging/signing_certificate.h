@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android signing certificate digest types and Mojo conversion helper
+// summary: Defines SigningCertificate and SigningCertificates types for 32-byte Android application signing certificate digests and declares the ParseCertificatesFromMojom helper.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_MESSAGING_SIGNING_CERTIFICATE_H_
 #define EXTENSIONS_COMMON_API_MESSAGING_SIGNING_CERTIFICATE_H_
 

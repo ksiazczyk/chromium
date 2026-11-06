@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message class implementation with deep copy and equality helpers
+// summary: Implements the extensions Message class, including deep cloning of structured-clone payloads, blob-metadata-based equality checks, and accessors for JSON or structured message data.
+// ---
+
 #include "extensions/common/api/messaging/message.h"
 
 #include "base/check.h"

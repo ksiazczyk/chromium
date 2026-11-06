@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest permission class declaration
+// summary: Declares SocketsManifestPermission, a ManifestPermission holding socket permission entries with union, intersection, and diff operations.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_PERMISSION_H_
 #define EXTENSIONS_COMMON_API_SOCKETS_SOCKETS_MANIFEST_PERMISSION_H_
 

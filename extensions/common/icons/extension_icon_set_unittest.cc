@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionIconSet unit tests
+// summary: Unit tests for ExtensionIconSet covering icon retrieval by size matching, path containment checks, and icon size lookup by path.
+// ---
+
 #include "extensions/common/icons/extension_icon_set.h"
 
 #include <set>

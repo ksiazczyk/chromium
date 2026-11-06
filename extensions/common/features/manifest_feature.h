@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestFeature class header
+// summary: Declares ManifestFeature, a SimpleFeature subclass that checks whether a manifest feature is available to a given extension context.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_MANIFEST_FEATURE_H_
 #define EXTENSIONS_COMMON_FEATURES_MANIFEST_FEATURE_H_
 

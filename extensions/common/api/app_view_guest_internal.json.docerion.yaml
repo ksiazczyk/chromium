@@ -1,0 +1,4 @@
+# Docerion header of app_view_guest_internal.json.
+type: reference
+title: appViewGuestInternal API definition
+summary: JSON API schema for the internal appViewGuestInternal namespace, which attaches URLs to AppView guests and denies embedding requests by instance ID.

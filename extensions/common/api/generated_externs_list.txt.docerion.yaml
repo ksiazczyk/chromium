@@ -1,0 +1,4 @@
+# Docerion header of generated_externs_list.txt.
+type: data
+title: Generated externs API list
+summary: Lists API definition files whose JavaScript externs are generated, pending a planned migration to TypeScript definitions.

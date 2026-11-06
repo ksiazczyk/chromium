@@ -5,6 +5,12 @@
 // Constants used when describing request modifications via the WebRequest API
 // in the activity log.
 
+// ---docerion
+// type: source
+// title: WebRequest activity log constants implementation
+// summary: Defines string constants for keys and values used to describe WebRequest API request modifications and cookie changes in the extension activity log.
+// ---
+
 #include "extensions/common/api/web_request/web_request_activity_log_constants.h"
 
 namespace web_request_activity_log_constants {

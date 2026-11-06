@@ -1,0 +1,4 @@
+# Docerion header of idle.json.
+type: source
+title: idle extension API schema
+summary: Defines the idle extension API for querying idle state, setting detection intervals, auto-lock delay, and state change events.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIconSet class header
+// summary: Declares the ExtensionIconSet class that represents the set of icons for an extension, mapping pixel sizes to paths with lookup and path query helpers.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_SET_H_
 #define EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_SET_H_
 

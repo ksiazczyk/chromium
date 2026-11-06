@@ -1,0 +1,4 @@
+# Docerion header of mime_handler_private.webidl.
+type: reference
+title: mimeHandlerPrivate API definitions
+summary: WebIDL definitions for the internal mimeHandlerPrivate API, covering stream info, PDF plugin attributes, and beforeunload dialog control.

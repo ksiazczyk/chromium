@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rules manifest data declarations
+// summary: Declares DeclarativeManifestData, the parsed form of the event_rules manifest entry, with accessors for the rules registered per event.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_DECLARATIVE_DECLARATIVE_MANIFEST_DATA_H_
 #define EXTENSIONS_COMMON_API_DECLARATIVE_DECLARATIVE_MANIFEST_DATA_H_
 

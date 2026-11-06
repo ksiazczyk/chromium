@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature session type state implementation
+// summary: Implements getting and setting the current feature session type, enforcing constancy after initialization and offering a scoped setter for tests.
+// ---
+
 #include "extensions/common/features/feature_session_type.h"
 
 #include "base/auto_reset.h"

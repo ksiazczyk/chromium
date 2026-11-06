@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest handler implementation
+// summary: Implements the manifest handler that parses the sockets manifest key into SocketsManifestData and creates its associated manifest permissions.
+// ---
+
 #include "extensions/common/api/sockets/sockets_manifest_handler.h"
 
 #include "extensions/common/api/sockets/sockets_manifest_data.h"

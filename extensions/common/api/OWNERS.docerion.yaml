@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owner rules for API files
+summary: Per-file reviewer rules that delegate API schema, feature and mojom files to the API_OWNERS and security owners lists.

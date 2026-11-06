@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest filter header
+// summary: Declares the WebRequestParsedFilter struct with URL, type, tab, and window matching constraints, plus the valid URL schemes and RequestFilter dictionary keys.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_FILTER_H_
 #define EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_FILTER_H_
 

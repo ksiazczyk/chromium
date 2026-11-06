@@ -1,0 +1,4 @@
+# Docerion header of types.json.
+type: source
+title: types API JSON definition
+summary: JSON schema for the chrome.types API providing shared type declarations such as ChromeSetting, its scope enum, and LevelOfControl.

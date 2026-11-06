@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy.webidl.
+type: reference
+title: Bluetooth Low Energy GATT API definitions
+summary: WebIDL definitions for the chrome.bluetoothLowEnergy API, describing GATT services, characteristics, descriptors, permissions and advertisement types.

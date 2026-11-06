@@ -1,0 +1,4 @@
+# Docerion header of extension_types.json.
+type: source
+title: extensionTypes API schema
+summary: JSON schema of shared type declarations for Chrome extensions, including image capture details and content script injection timing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest resource type enum header
+// summary: Declares the WebRequestResourceType enum covering all request types the WebRequest API handles, with functions to parse and stringify the values.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_RESOURCE_TYPE_H_
 #define EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_RESOURCE_TYPE_H_
 

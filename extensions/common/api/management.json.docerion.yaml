@@ -1,0 +1,4 @@
+# Docerion header of management.json.
+type: reference
+title: Management extension API schema
+summary: JSON API schema for chrome.management, which provides ways to manage installed apps and extensions, with types, functions, and events.

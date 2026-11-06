@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for messaging serialization format helper
+// summary: Declares GetSerializationFormat, which statically determines whether a message channel uses JSON or structured clone serialization.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_MESSAGING_MESSAGING_UTIL_H_
 #define EXTENSIONS_COMMON_API_MESSAGING_MESSAGING_UTIL_H_
 

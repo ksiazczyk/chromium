@@ -1,0 +1,4 @@
+# Docerion header of chrome_url_overrides.webidl.
+type: reference
+title: chrome_url_overrides manifest key definitions
+summary: WebIDL stub namespace for the chrome_url_overrides manifest key, letting extensions override the new tab, bookmarks or history page.

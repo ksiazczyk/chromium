@@ -1,0 +1,4 @@
+# Docerion header of networking_onc.webidl.
+type: source
+title: Networking ONC API type definitions
+summary: Defines enums and managed property dictionaries for the networking.onc network configuration API, covering connection states, device states and policy-controlled settings.

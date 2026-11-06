@@ -1,0 +1,4 @@
+# Docerion header of web_view_request.json.
+type: reference
+title: Web view request API schema
+summary: JSON schema for the webViewRequest API that intercepts, blocks or modifies webview requests using declarative rules evaluated in the browser.

@@ -1,0 +1,4 @@
+# Docerion header of system_network.webidl.
+type: source
+title: system.network API WebIDL definition
+summary: WebIDL definition of the chrome.system.network extension API that lists local network adapters with names, addresses, and prefix lengths.

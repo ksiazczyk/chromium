@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer mode state implementation for the feature system
+// summary: Implements per-context developer mode tracking with a lock-protected map, providing get and set functions used by the feature system.
+// ---
+
 #include "extensions/common/features/feature_developer_mode_only.h"
 
 #include <map>

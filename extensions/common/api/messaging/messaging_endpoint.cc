@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingEndpoint implementation with crash keys and relationship logic
+// summary: Implements MessagingEndpoint factory methods for extension, content script, user script, web page, and native app endpoints, plus relationship checks and crash key logging.
+// ---
+
 #include "extensions/common/api/messaging/messaging_endpoint.h"
 
 #include <utility>

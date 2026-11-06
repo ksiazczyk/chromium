@@ -1,0 +1,4 @@
+# Docerion header of protocol_handlers.webidl.
+type: source
+title: Protocol Handlers manifest key definition
+summary: Defines the protocol_handlers manifest key that lets extensions register custom handlers for URL schemes unknown to the browser.

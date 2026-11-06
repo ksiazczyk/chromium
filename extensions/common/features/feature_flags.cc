@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension feature flag checks implementation
+// summary: Implements lookup of extension base::Feature flags used as remote kill switches, with a scoped test override for the flag list.
+// ---
+
 #include "extensions/common/features/feature_flags.h"
 
 #include <algorithm>

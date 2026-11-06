@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for user script deserialization
+// summary: Fuzzer that feeds random JSON and parse options into ParseSerializedUserScript to check deserialization either succeeds or reports an error consistently.
+// ---
+
 #include "extensions/common/api/scripts_internal/script_serialization.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

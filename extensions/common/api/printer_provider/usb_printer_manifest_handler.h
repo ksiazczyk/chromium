@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer manifest handler header
+// summary: Declares UsbPrinterManifestHandler, a ManifestHandler subclass responsible for parsing the usb_printers manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_PRINTER_PROVIDER_USB_PRINTER_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_API_PRINTER_PROVIDER_USB_PRINTER_MANIFEST_HANDLER_H_
 

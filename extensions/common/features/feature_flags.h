@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension feature flag interface
+// summary: Declares IsFeatureFlagEnabled for checking extension feature flags and a scoped override helper for tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_FEATURE_FLAGS_H_
 #define EXTENSIONS_COMMON_FEATURES_FEATURE_FLAGS_H_
 

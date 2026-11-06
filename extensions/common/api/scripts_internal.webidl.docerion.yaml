@@ -1,0 +1,4 @@
+# Docerion header of scripts_internal.webidl.
+type: source
+title: Scripts internal API WebIDL definitions
+summary: WebIDL definitions for the internal scripts namespace that serializes content scripts, user scripts, and manifest scripts for persistence.

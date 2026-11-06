@@ -1,0 +1,4 @@
+# Docerion header of content_scripts.webidl.
+type: reference
+title: Content scripts manifest key definitions
+summary: WebIDL definitions for the content_scripts manifest key, describing match patterns, injected CSS and JS files, run timing and execution world.

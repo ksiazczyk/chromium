@@ -1,0 +1,4 @@
+# Docerion header of cec_private.webidl.
+type: reference
+title: HDMI CEC private API definitions
+summary: WebIDL definitions for the ChromeOS-only CecPrivate interface that sends standby and wakeup commands and queries display power states over HDMI CEC.

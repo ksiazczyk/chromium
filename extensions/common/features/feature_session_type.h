@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature session type interface
+// summary: Declares functions to get and set the current session type seen by the feature system, plus a scoped setter for tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_FEATURE_SESSION_TYPE_H_
 #define EXTENSIONS_COMMON_FEATURES_FEATURE_SESSION_TYPE_H_
 

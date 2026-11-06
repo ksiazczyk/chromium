@@ -1,0 +1,4 @@
+# Docerion header of sockets_udp.webidl.
+type: source
+title: sockets.udp API WebIDL definition
+summary: WebIDL definition of the chrome.sockets.udp extension API covering socket properties, DNS query types, send and receive results, and UDP events.

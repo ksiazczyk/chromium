@@ -1,0 +1,4 @@
+# Docerion header of webstore_private.json.
+type: source
+title: webstorePrivate API definition
+summary: Defines the webstorePrivate extension API for installing and launching Chrome Web Store items, with enums for install results, statuses and WebGL support.

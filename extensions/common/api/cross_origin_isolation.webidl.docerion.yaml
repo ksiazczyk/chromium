@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_isolation.webidl.
+type: reference
+title: Cross-origin isolation manifest key definitions
+summary: WebIDL stub namespace for the cross_origin_embedder_policy and cross_origin_opener_policy manifest keys used to declare cross-origin isolation headers.

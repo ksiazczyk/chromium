@@ -1,0 +1,4 @@
+# Docerion header of automation.webidl.
+type: reference
+title: chrome.automation API WebIDL definition
+summary: WebIDL definition of the chrome.automation API exposing the accessibility tree, with event and role types kept in sync with the ui/accessibility enums.

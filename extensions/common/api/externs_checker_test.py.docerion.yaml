@@ -1,0 +1,4 @@
+# Docerion header of externs_checker_test.py.
+type: test
+title: Externs checker unit tests
+summary: Unit tests for the externs checker presubmit that flags modified API sources whose generated externs were not updated.

@@ -1,0 +1,4 @@
+# Docerion header of feedback_private.webidl.
+type: source
+title: feedbackPrivate extension API definition
+summary: Defines the feedbackPrivate extension API, covering feedback flows, report fields, log sources, and send-feedback results.

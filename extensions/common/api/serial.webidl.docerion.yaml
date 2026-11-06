@@ -1,0 +1,4 @@
+# Docerion header of serial.webidl.
+type: source
+title: chrome.serial API WebIDL definitions
+summary: WebIDL definitions for the chrome.serial API covering serial device information, connection options, and connection state reporting.

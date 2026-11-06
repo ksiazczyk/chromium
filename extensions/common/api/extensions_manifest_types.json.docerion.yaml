@@ -1,0 +1,4 @@
+# Docerion header of extensions_manifest_types.json.
+type: source
+title: extensions manifest type schemas
+summary: JSON schemas for structured extension manifest entries such as automation, content_capabilities, and externally_connectable; not a callable API.

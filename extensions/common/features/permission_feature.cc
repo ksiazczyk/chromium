@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionFeature availability implementation
+// summary: Implements PermissionFeature's context availability check, reporting the feature unavailable when the extension lacks the named API permission.
+// ---
+
 #include "extensions/common/features/permission_feature.h"
 
 #include "extensions/common/mojom/context_type.mojom.h"

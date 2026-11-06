@@ -1,0 +1,4 @@
+# Docerion header of automation_internal.webidl.
+type: reference
+title: Internal automation API WebIDL definition
+summary: WebIDL definition of the internal automation API carrying accessibility tree events and parameters for node actions like selection, scrolling, and hit tests.
