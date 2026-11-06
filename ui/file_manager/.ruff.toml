@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the file manager directory
+# summary: Ruff linter settings that extend the repository-wide configuration and set the indent width for Python code.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

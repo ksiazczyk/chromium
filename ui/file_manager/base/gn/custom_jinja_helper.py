@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Custom Jinja helpers for file types template processing
+# summary: Supplies custom Jinja globals such as extension-to-type and MIME-to-type maps used when rendering the file types templates.
+# ---
+
 """
 This file provides some additional globals/filters for processing the
 file_types_data.js templates.

@@ -1,0 +1,4 @@
+# Docerion header of file_types_data.cc.jinja.
+type: source
+title: Jinja template for generated C++ file types data source
+summary: Template that renders the C++ implementation with sorted binary-search lookup from file extensions to MIME types and document MIME checks.

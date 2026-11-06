@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ui/events/x
+summary: Lists thomasanderson@chromium.org as the owner of the ui/events/x directory.

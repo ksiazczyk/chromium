@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type detection
+// summary: Determines file type, media type and icon for entries from extensions and MIME types, with checks for audio, image, video and documents.
+// ---
+
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 import type {FileData} from '../../state/state.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformEventSource implementation
+// summary: Implements PlatformEventSource, managing dispatcher and observer lists, dispatcher overrides, and routing events to dispatchers via a thread-local singleton.
+// ---
+
 #include "ui/events/platform/platform_event_source.h"
 
 #include <algorithm>

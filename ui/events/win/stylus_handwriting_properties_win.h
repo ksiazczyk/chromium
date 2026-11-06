@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting properties declarations
+// summary: Declares the StylusHandwritingPropertiesWin struct and helpers to set, get and create handwriting pointer, stroke id and pixels-per-inch event properties.
+// ---
+
 #ifndef UI_EVENTS_WIN_STYLUS_HANDWRITING_PROPERTIES_WIN_H_
 #define UI_EVENTS_WIN_STYLUS_HANDWRITING_PROPERTIES_WIN_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for File Manager Lit imports and TS tags
+# summary: Defines presubmit checks that warn on direct Lit imports outside xf_base.ts and selector.ts and ban @ts-ignore comments in non-test TypeScript files.
+# ---
+
 from pathlib import Path
 
 

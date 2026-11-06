@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Table element styles
+summary: Styles for the table component, covering table rows and cells, header labels, column resize splitters, and RTL positioning.
+*/
+
 html.col-resize * {
   cursor: col-resize !important;
 }

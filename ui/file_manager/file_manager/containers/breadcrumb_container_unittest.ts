@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb container unit tests
+// summary: Unit tests for the breadcrumb container, verifying that slashes in path component labels are escaped before the path is passed to the underlying breadcrumb element.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertNotEquals} from 'chrome://webui-test/chai_assert.js';
 

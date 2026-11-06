@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory tree container
+// summary: Controller for the navigation directory tree, building tree items from store state and handling context menus, expansion, selection, renaming, focusing, and directory changes.
+// ---
+
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import {isRTL} from 'chrome://resources/ash/common/util.js';
 

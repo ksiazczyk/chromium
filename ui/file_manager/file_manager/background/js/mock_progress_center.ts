@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock progress center for tests
+// summary: Mock implementation of the ProgressCenter that stores items in memory and offers helpers to inspect them in tests.
+// ---
+
 import type {ProgressCenterItem, ProgressItemState} from '../../common/js/progress_center_common.js';
 
 import {ProgressCenter} from './progress_center.js';

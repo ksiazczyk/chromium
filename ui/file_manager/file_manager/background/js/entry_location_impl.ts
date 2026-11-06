@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryLocation implementation
+// summary: Provides location information for entries, exposing root type, Drive-based and fixed-label flags used by the Files app.
+// ---
+
 import {isRecentRootType} from '../../common/js/entry_utils.js';
 import {RootType} from '../../common/js/volume_manager_types.js';
 

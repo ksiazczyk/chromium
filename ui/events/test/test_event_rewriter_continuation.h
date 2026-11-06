@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventRewriterContinuation class
+// summary: Exposes the EventRewriterContinuation interface to test code outside of ui/events.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_REWRITER_CONTINUATION_H_
 #define UI_EVENTS_TEST_TEST_EVENT_REWRITER_CONTINUATION_H_
 

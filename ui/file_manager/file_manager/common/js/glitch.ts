@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glitch type enum and reporting
+// summary: Defines glitch types for unhandled errors and rejections and reports them as Files app glitch metrics.
+// ---
+
 import {recordEnum} from './metrics.js';
 
 /**

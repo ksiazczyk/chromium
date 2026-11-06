@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows modifier keyboard hook implementation
+// summary: Implements the low-level Windows keyboard hook that intercepts modifier keys to block system key combinations, tracking repeat state and updating per-thread key state.
+// ---
+
 #include <optional>
 #include <utility>
 

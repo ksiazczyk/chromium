@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb container
+// summary: Controller that builds the current directory path and passes it to the xf-breadcrumb widget, handling search result labels, Drive roots, and breadcrumb click navigation via store actions.
+// ---
+
 import '../widgets/xf_breadcrumb.js';
 
 import {recordUserAction} from '../common/js/metrics.js';

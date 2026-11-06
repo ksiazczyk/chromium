@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background progress center
+// summary: Implements the background-page progress center that tracks file operation items, handles cancellation, and updates panel UIs.
+// ---
+
 import {ProgressCenterItem, ProgressItemState, ProgressItemType} from '../../common/js/progress_center_common.js';
 import type {ProgressCenterPanel} from '../../foreground/js/ui/progress_center_panel.js';
 

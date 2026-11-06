@@ -7,6 +7,12 @@
  is no real need for the root/volume icon distinction for the directory tree
  noting that file-type-icon is also used in lists and menus ;) */
 
+/*docerion
+type: source
+title: File type icon styles for the Files app
+summary: Maps file-type-icon attribute values to SVG mask images for file, Google Docs, and volume type icons used in lists, menus, and the directory tree.
+*/
+
 /* Small icons for file types, used in lists and menus. */
 [file-type-icon] {
   -webkit-mask-image: url(../images/filetype/filetype_generic.svg);

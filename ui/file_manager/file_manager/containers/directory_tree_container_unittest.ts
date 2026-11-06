@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Directory tree container unit tests
+// summary: Unit tests for the directory tree container, using mock volumes, file systems, and Chrome APIs to verify tree item labels and navigation behavior.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

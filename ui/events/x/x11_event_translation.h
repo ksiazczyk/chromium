@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 event translation declarations
+// summary: Declares functions that build ui::KeyEvent, MouseEvent, MouseWheelEvent and TouchEvent objects from X11 events.
+// ---
+
 #ifndef UI_EVENTS_X_X11_EVENT_TRANSLATION_H_
 #define UI_EVENTS_X_X11_EVENT_TRANSLATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Files app UI
+summary: GN build file defining grit resource generation, the file_manager component and TypeScript WebUI build targets.

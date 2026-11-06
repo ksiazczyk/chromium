@@ -6,6 +6,12 @@
  * @fileoverview Recent date bucket definition and util functions.
  */
 
+// ---docerion
+// type: source
+// title: Recent date bucket utilities
+// summary: Classifies dates into buckets such as today or earlier this year and computes earliest timestamps for search recency options.
+// ---
+
 import {SearchRecency} from '../../state/state.js';
 
 import {getLocaleBasedWeekStart} from './translations.js';

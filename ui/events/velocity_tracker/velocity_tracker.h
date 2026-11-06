@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VelocityTracker class header
+// summary: Declares the VelocityTracker class and its strategy enum, a port of Android's VelocityTracker for computing pointer velocities.
+// ---
+
 #ifndef UI_EVENTS_VELOCITY_TRACKER_VELOCITY_TRACKER_H_
 #define UI_EVENTS_VELOCITY_TRACKER_VELOCITY_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VelocityTrackerState class header
+// summary: Declares VelocityTrackerState, a Chromium port of Android's VelocityTrackerState that wraps VelocityTracker to add movement events and compute per-pointer X and Y velocities.
+// ---
+
 #ifndef UI_EVENTS_VELOCITY_TRACKER_VELOCITY_TRACKER_STATE_H_
 #define UI_EVENTS_VELOCITY_TRACKER_VELOCITY_TRACKER_STATE_H_
 

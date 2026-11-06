@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge container
+// summary: Controller managing the lifetime of educational nudge overlays in the Files app, including anchoring, repositioning on layout changes, expiry, and dismissal.
+// ---
+
 import '../widgets/xf_nudge.js';
 
 import {storage} from '../common/js/storage.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events X component export macros
+// summary: Defines the EVENTS_X_EXPORT macro controlling symbol visibility for the events_x component in component and non-component builds.
+// ---
+
 #ifndef UI_EVENTS_X_EVENTS_X_EXPORT_H_
 #define UI_EVENTS_X_EVENTS_X_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async task queue utilities
+// summary: Classes for executing asynchronous closures in FIFO queues, including a concurrency-limited queue, a sequential queue, and a rate limiter.
+// ---
+
 export type Task = (callback: VoidCallback) => void;
 
 /**

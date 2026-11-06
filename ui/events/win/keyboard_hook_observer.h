@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook observer interface
+// summary: Observer interface receiving notifications when a low-level keyboard hook is registered or unregistered.
+// ---
+
 #ifndef UI_EVENTS_WIN_KEYBOARD_HOOK_OBSERVER_H_
 #define UI_EVENTS_WIN_KEYBOARD_HOOK_OBSERVER_H_
 

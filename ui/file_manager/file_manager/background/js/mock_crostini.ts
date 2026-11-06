@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Crostini for tests
+// summary: Provides a no-op mock of the Crostini shared path state handler via a factory for use in foreground tests.
+// ---
+
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 
 import {Crostini} from './crostini.js';

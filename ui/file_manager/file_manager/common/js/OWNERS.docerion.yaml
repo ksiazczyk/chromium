@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for common/js
+summary: Assigns per-file code ownership in the common/js directory, listing the owner for importer_common files.

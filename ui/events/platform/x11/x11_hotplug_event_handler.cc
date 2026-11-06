@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 device hotplug event handler implementation
+// summary: Handles X11 input device hotplug events, parsing keyboard, mouse, touchpad, and touchscreen device information on worker threads and updating the device manager on the UI thread.
+// ---
+
 #include "ui/events/platform/x11/x11_hotplug_event_handler.h"
 
 #include <stdint.h>

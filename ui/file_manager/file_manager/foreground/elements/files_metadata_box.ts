@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files metadata box element
+// summary: Polymer element that holds and displays file metadata such as size, modification time, location, EXIF and media information.
+// ---
+
 import './files_metadata_entry.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

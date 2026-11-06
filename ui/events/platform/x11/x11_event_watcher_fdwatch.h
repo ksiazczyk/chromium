@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11EventWatcherFdWatch class declaration
+// summary: Declares an X11EventWatcher that uses the MessagePumpForUI FdWatcher API to be notified about incoming X11 events.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_X11_X11_EVENT_WATCHER_FDWATCH_H_
 #define UI_EVENTS_PLATFORM_X11_X11_EVENT_WATCHER_FDWATCH_H_
 

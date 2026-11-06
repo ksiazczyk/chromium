@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformEventObserver interface header
+// summary: Declares the PlatformEventObserver interface with WillProcessEvent and DidProcessEvent callbacks for observing events dispatched by a PlatformEventSource.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_PLATFORM_EVENT_OBSERVER_H_
 #define UI_EVENTS_PLATFORM_PLATFORM_EVENT_OBSERVER_H_
 

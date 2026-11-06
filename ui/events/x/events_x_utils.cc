@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 event utility implementations
+// summary: Implements helpers that extract event type, flags, timestamps, locations, buttons, wheel offsets, and touch or stylus details from X11 events.
+// ---
+
 #include "ui/events/x/events_x_utils.h"
 
 #include <stddef.h>

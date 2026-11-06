@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEvent class
+// summary: Defines a minimal Event subclass in ui::test for creating events of a given type in tests.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_H_
 #define UI_EVENTS_TEST_TEST_EVENT_H_
 

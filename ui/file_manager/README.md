@@ -1,3 +1,13 @@
+---
+type: readme
+title: File Manager aka Files app
+summary: Overview of the ChromeOS Files app UI, the Image Loader extension and pointers to related code and sub-directory READMEs.
+relations:
+  - references /chromeos/ash/experiences/extensions/common/api/file_manager_private.idl
+  - references /ui/file_manager/file_manager/containers/README.md
+  - references /ui/file_manager/file_manager/lib/README.md
+---
+
 # File Manager aka Files app
 
 This directory contains the UI (HTML/JS/TS/CSS) for ChromeOS File Manager.

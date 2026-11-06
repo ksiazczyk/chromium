@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 test event utilities
+// summary: Declares ScopedXI2Event and helpers to construct synthetic X11/XInput2 events and set up test touchpad, touchscreen and pointer devices.
+// ---
+
 #ifndef UI_EVENTS_TEST_EVENTS_TEST_UTILS_X11_H_
 #define UI_EVENTS_TEST_EVENTS_TEST_UTILS_X11_H_
 

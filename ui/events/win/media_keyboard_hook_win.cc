@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows media keyboard hook implementation
+// summary: Implements the Windows media keyboard hook that intercepts media keys such as play/pause and track controls and forwards them as key events.
+// ---
+
 #include "ui/events/win/keyboard_hook_win_base.h"
 
 #include "ui/events/event.h"

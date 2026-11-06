@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for file_manager
+# summary: Excludes test.html and the test/gen directory from version control in the file manager folder.
+# ---
+
 test.html
 test/gen

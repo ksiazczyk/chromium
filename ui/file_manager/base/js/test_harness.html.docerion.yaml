@@ -1,0 +1,4 @@
+# Docerion header of test_harness.html.
+type: test
+title: Test harness HTML page
+summary: Minimal HTML page that loads test_harness.js as a module to run the WebUI browser test harness.

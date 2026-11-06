@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock chrome APIs for unit tests
+// summary: Installs mock chrome objects, including fileManagerPrivate directory change and size stats stubs, for use in unit tests.
+// ---
+
 import type {DeepPartial} from './util.js';
 
 /**

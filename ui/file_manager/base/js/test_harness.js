@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test harness
+// summary: Browser test harness that imports a JS module given via the test_module query parameter, exposes its exports globally, and signals load completion to the browser test.
+// ---
+
 // Mark the test as fully loaded. The Browser Test reads this.
 window.__TEST_LOADED__ = false;
 window.IN_TEST = true;

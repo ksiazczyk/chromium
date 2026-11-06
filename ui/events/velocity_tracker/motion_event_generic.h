@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventGeneric class header
+// summary: Declares PointerProperties and MotionEventGeneric, a generic MotionEvent implementation with pointer and historical event management.
+// ---
+
 #ifndef UI_EVENTS_VELOCITY_TRACKER_MOTION_EVENT_GENERIC_H_
 #define UI_EVENTS_VELOCITY_TRACKER_MOTION_EVENT_GENERIC_H_
 

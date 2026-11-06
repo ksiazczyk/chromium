@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event utility declarations
+// summary: Declares functions that convert Windows native messages into Chromium event properties like timestamps, locations and key codes.
+// ---
+
 #ifndef UI_EVENTS_WIN_EVENTS_WIN_UTILS_H_
 #define UI_EVENTS_WIN_EVENTS_WIN_UTILS_H_
 

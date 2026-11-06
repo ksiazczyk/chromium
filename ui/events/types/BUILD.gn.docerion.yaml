@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for event type headers
+summary: Defines a source_set named headers that bundles the event type header files in ui/events/types for the build.

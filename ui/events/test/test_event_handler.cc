@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventHandler implementation
+// summary: Implements TestEventHandler, counting received key, mouse, scroll, touch and gesture events and optionally recording handler names.
+// ---
+
 #include "ui/events/test/test_event_handler.h"
 
 #include "ui/events/event.h"

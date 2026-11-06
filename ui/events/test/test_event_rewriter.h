@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventRewriter class
+// summary: Declares an EventRewriter subclass for tests that counts seen events and keeps the last observed event.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_REWRITER_H_
 #define UI_EVENTS_TEST_TEST_EVENT_REWRITER_H_
 

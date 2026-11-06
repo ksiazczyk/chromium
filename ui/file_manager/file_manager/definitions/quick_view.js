@@ -45,3 +45,9 @@
  *   sourceContent: FilePreviewContent
  * }} UntrustedPreviewData
  */
+
+// ---docerion
+// type: source
+// title: Quick View shared interface typedefs
+// summary: JSDoc typedefs describing the preview data and parameters shared between the Files app UI and the sandboxed Quick View page in untrusted_resources.
+// ---

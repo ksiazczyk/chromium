@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FdWatch-based Wayland event watcher implementation
+// summary: Implements WaylandEventWatcherFdWatch, which watches the Wayland connection fd through the UI thread message pump and dispatches pending events.
+// ---
+
 #include "ui/events/platform/wayland/wayland_event_watcher_fdwatch.h"
 
 #include "base/notreached.h"

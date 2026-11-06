@@ -7,6 +7,12 @@
  * information is passed to it appropriately.
  */
 
+// ---docerion
+// type: source
+// title: Cloud panel container
+// summary: Controller that translates bulk pinning state from the store into attributes for the xf-cloud-panel widget, handling metered networks, offline pauses, and Drive settings clicks.
+// ---
+
 import {canBulkPinningCloudPanelShow} from '../common/js/util.js';
 import type {State} from '../state/state.js';
 import {getStore, type Store} from '../state/store.js';

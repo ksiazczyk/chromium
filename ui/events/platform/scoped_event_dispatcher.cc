@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEventDispatcher implementation
+// summary: Implements ScopedEventDispatcher, which installs an overriding dispatcher and notifies the source when the previous dispatcher is restored on destruction.
+// ---
+
 #include "ui/events/platform/scoped_event_dispatcher.h"
 
 #include "ui/events/platform/platform_event_source.h"

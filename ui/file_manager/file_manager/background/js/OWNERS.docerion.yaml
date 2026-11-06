@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for background JS
+summary: Sets per-file code ownership for import history and media files in the background JS directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped event waiter implementation
+// summary: Implements ScopedEventWaiter, which registers as a pre-target handler and quits a run loop when the target receives the awaited event type.
+// ---
+
 #include "ui/events/test/scoped_event_waiter.h"
 
 #include "ui/events/event.h"

@@ -1,0 +1,4 @@
+# Docerion header of uma_enums.cc.jinja.
+type: source
+title: Jinja template for generated UMA enums C++ source
+summary: Template that renders the C++ implementation mapping file path extensions to ViewFileType values for UMA reporting.

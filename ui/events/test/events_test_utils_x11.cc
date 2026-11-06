@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 test event utilities implementation
+// summary: Builds synthetic X11 and XInput2 key, button, motion, scroll and touch events for testing the event pipeline on X11.
+// ---
+
 
 #include "ui/events/test/events_test_utils_x11.h"
 

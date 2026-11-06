@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event test APIs
+// summary: Declares test API classes to modify Event, LocatedEvent, KeyEvent, EventTarget and EventSource internals during tests.
+// ---
+
 #ifndef UI_EVENTS_TEST_EVENTS_TEST_UTILS_H_
 #define UI_EVENTS_TEST_EVENTS_TEST_UTILS_H_
 

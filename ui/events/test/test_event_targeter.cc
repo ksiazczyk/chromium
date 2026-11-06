@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventTargeter implementation
+// summary: Implements a test EventTargeter that dispatches events to a fixed target and optionally bubbles them to parent targets.
+// ---
+
 #include "ui/events/test/test_event_targeter.h"
 
 #include "ui/events/test/test_event_target.h"

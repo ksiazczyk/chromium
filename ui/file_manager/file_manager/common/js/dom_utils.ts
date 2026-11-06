@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM utility functions
+// summary: DOM helpers for showing tooltips on clipped text, escaping HTML, building key modifier strings, creating children, and querying decorated elements.
+// ---
+
 import {assert, assertInstanceof} from 'chrome://resources/js/assert.js';
 
 // Only import types from the XfTree/XfTreeItem to

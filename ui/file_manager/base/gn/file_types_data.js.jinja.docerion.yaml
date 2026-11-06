@@ -1,0 +1,4 @@
+# Docerion header of file_types_data.js.jinja.
+type: source
+title: Jinja template for generated JavaScript file types data
+summary: Template that renders a JavaScript module exporting the FileExtensionType typedef plus EXTENSION_TO_TYPE and MIME_TO_TYPE lookup maps.

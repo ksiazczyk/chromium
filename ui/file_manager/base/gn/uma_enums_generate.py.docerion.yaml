@@ -1,0 +1,4 @@
+# Docerion header of uma_enums_generate.py.
+type: script
+title: UMA enums generator for ViewFileType
+summary: Generates TypeScript and C++ UMA enum files for the ViewFileType histogram by rendering Jinja2 templates from enums.xml.

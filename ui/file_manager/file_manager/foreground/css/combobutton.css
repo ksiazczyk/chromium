@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Combo button styles for the Files app dialog header
+summary: Styles the combobutton in the dialog header, including its action label, trigger area, RTL layout, and hidden or non-multiple states.
+*/
+
 .dialog-header button.combobutton {
   align-items: stretch;
   background: transparent;

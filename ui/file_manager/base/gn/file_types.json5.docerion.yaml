@@ -1,0 +1,4 @@
+# Docerion header of file_types.json5.
+type: config
+title: Known file extension and MIME type mappings
+summary: Declarative list of known file extensions, MIME types, subtypes and translation keys that drives generation of file type mappings.

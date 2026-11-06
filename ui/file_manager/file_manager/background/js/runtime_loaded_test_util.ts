@@ -7,6 +7,12 @@
  * extension under test at runtime to populate testing functionality.
  */
 
+// ---docerion
+// type: test
+// title: Runtime test utilities for the background page
+// summary: Loaded into the background page of the extension under test to provide remote testing helpers such as element inspection and window resizing.
+// ---
+
 import './test_util.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

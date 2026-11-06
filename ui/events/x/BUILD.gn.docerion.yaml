@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the events_x component
+summary: Defines the events_x component build, listing X11 utility sources and dependencies, kept separate from //ui/events:events to avoid circular dependencies.

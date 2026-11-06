@@ -6,6 +6,12 @@
  * @fileoverview Handles shares for Crostini VMs.
  */
 
+// ---docerion
+// type: source
+// title: Crostini shared path state handler
+// summary: Manages Crostini VM sharing state, tracking enabled VMs and registering or unregistering shared paths.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';

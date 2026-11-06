@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage wrapper with change events
+// summary: Wraps window.localStorage with get and set operations plus onChanged listeners that broadcast value changes across windows.
+// ---
+
 import {debug} from './util.js';
 
 export interface ChangedValue {

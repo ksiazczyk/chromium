@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventRewriter implementation
+// summary: Implements TestEventRewriter, counting observed events, storing a clone of the last event and forwarding it via the continuation.
+// ---
+
 #include "ui/events/test/test_event_rewriter.h"
 
 #include "ui/events/event.h"

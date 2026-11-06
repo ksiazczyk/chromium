@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type base helpers
+// summary: Resolves the final file extension, handling double extensions like .tar.gz, and maps file names to file type descriptors.
+// ---
+
 import {EXTENSION_TO_TYPE, type FileExtensionType} from './file_types_data.js';
 
 /**

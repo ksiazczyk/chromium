@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook monitor implementation
+// summary: Implements the keyboard hook monitor singleton, notifying observers when hooks are registered or unregistered.
+// ---
+
 #include "ui/events/win/keyboard_hook_monitor_impl.h"
 
 #include "base/no_destructor.h"

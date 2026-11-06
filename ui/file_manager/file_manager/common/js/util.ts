@@ -8,6 +8,12 @@
  * which allows finer-grained control over introducing dependencies.
  */
 
+// ---docerion
+// type: source
+// title: General utility functions for the Files app
+// summary: Offers shared helpers such as promisify, filesystem URL path extraction, extension splitting and URL visiting.
+// ---
+
 import type {ActionFactory} from '../../lib/base_store.js';
 
 /**

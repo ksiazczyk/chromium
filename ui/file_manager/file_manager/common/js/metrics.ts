@@ -8,6 +8,12 @@
  * To be included as a first script in main.html
  */
 
+// ---docerion
+// type: source
+// title: Metrics recording utilities
+// summary: Wraps the chrome.metricsPrivate API to record counts, times, user actions, booleans, enums, and directory load intervals.
+// ---
+
 /**
  * A map from interval name to interval start timestamp.
  */

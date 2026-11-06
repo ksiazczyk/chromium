@@ -1,0 +1,4 @@
+# Docerion header of file_names.gni.
+type: config
+title: GN file lists for Files app TypeScript and JavaScript sources
+summary: GN import that enumerates the image loader, common, state, container and widget TypeScript and JavaScript files used to build and test the Files app.

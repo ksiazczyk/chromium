@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FdWatcher-based X11 event watcher implementation
+// summary: Implements X11EventWatcherFdWatch, watching the X connection file descriptor and a wake-up pipe so pending X11 events are dispatched on the UI message loop.
+// ---
+
 
 #include "ui/events/platform/x11/x11_event_watcher_fdwatch.h"
 

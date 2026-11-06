@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the X11 platform event source
+// summary: Implements X11EventSource, initializing XKB detectable auto-repeat, extracting event timestamps, updating device lists, and dispatching X11 events to registered dispatchers.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <type_traits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FdWatch-based Wayland event watcher header
+// summary: Declares WaylandEventWatcherFdWatch, a WaylandEventWatcher variant that uses base's MessagePumpForUI fd watcher for event polling.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_FDWATCH_H_
 #define UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_FDWATCH_H_
 

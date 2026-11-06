@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventTarget implementation
+// summary: Implements a test EventTarget that manages child targets, records received event types, and can mark events as handled.
+// ---
+
 #include "ui/events/test/test_event_target.h"
 
 #include <algorithm>

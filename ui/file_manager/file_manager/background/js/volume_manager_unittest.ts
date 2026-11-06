@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Volume manager unit tests
+// summary: Unit tests for VolumeManager and VolumeInfo that mock the chrome.fileManagerPrivate APIs, mount events, and Drive connection state.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 

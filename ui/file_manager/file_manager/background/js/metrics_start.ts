@@ -7,6 +7,12 @@
  * this as the first script in main_background.js.
  */
 
+// ---docerion
+// type: source
+// title: Metrics start for background script loading
+// summary: Starts a metrics interval to measure background script loading time and should be included first in main_background.js.
+// ---
+
 import {startInterval} from '../../common/js/metrics.js';
 
 startInterval('Load.BackgroundScript');

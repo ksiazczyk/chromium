@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventSource header for test event dispatch
+// summary: Declares TestEventSource, a trivial EventSource for tests that sends events to a sink and counts how many events were sent and received.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_SOURCE_H_
 #define UI_EVENTS_TEST_TEST_EVENT_SOURCE_H_
 

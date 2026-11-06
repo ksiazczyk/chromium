@@ -7,6 +7,12 @@
  *  is used to identify if a Chromebook is currently using an LTE connection.
  */
 
+// ---docerion
+// type: source
+// title: Navigator connection type definitions
+// summary: TypeScript definitions for the navigator.connection.type API used to detect whether a Chromebook is on an LTE or other network connection.
+// ---
+
 type ConnectionType =|'bluetooth'|'cellular'|'ethernet'|'mixed'|'none'|'other'|
     'unknown'|'wifi'|'wimax';
 

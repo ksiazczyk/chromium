@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped keyboard layout Windows implementation
+// summary: Implements Windows keyboard layout loading and activation with LoadKeyboardLayout and ActivateKeyboardLayout for the ScopedKeyboardLayout test helper.
+// ---
+
 #include "ui/events/test/keyboard_layout.h"
 
 #include "base/check.h"

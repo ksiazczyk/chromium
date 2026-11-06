@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMotionEvent test utility implementation
+// summary: Implements MockMotionEvent, a configurable mock touch event with helpers to press, move and release pointers for gesture and velocity tracker tests.
+// ---
+
 #include "ui/events/test/motion_event_test_utils.h"
 
 #include <sstream>

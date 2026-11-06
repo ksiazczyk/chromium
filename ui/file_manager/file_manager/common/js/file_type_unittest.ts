@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File type unit tests
+// summary: Unit tests for file type helpers, verifying icons, document detection, encrypted Google Suite files and type detection by name or MIME.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {getIcon, getType, isDocument, isEncrypted} from './file_type.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook monitor implementation header
+// summary: Declares KeyboardHookMonitorImpl, a thread-bound singleton that tracks hook state and manages observers.
+// ---
+
 #ifndef UI_EVENTS_WIN_KEYBOARD_HOOK_MONITOR_IMPL_H_
 #define UI_EVENTS_WIN_KEYBOARD_HOOK_MONITOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filtered volume manager for the Files app foreground
+// summary: Implements a VolumeManager wrapper that filters disallowed volumes, such as disabled Drive or read-only volumes in save-as dialogs.
+// ---
+
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 import type {EntryLocation} from '../../background/js/entry_location_impl.js';

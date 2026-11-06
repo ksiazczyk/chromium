@@ -6,6 +6,12 @@
  * @fileoverview This is a data model representin
  */
 
+// ---docerion
+// type: source
+// title: Array data model with sorting support
+// summary: Data model wrapping an array with sorting, permutation tracking, and splice, change, and permuted events for Files app lists.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {type CustomEventMap, FilesEventTarget} from './files_event_target.js';

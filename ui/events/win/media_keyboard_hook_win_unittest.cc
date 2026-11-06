@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows media keyboard hook
+// summary: Unit tests that feed media key down and up messages to the hook and verify event types, key codes, DOM codes and repeat detection.
+// ---
+
 #include <memory>
 #include <vector>
 

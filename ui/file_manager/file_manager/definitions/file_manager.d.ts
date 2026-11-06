@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileManager interface type definitions
+// summary: TypeScript definitions for the FileManager interface and Window globals used across the Files app foreground and background code.
+// ---
+
 import type {FileManagerBase} from '../background/js/file_manager_base.js';
 import type {VolumeManager} from '../background/js/volume_manager.js';
 import type {FilesAppEntry} from '../common/js/files_app_entry_types.js';

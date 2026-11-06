@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system key state lookup declarations
+// summary: Declares functions that report whether Shift, Ctrl, Alt, AltRight or Windows keys are pressed and whether the lock keys are on.
+// ---
+
 #ifndef UI_EVENTS_WIN_SYSTEM_EVENT_STATE_LOOKUP_H_
 #define UI_EVENTS_WIN_SYSTEM_EVENT_STATE_LOOKUP_H_
 

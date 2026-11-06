@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformEventSource class header
+// summary: Declares the PlatformEventSource class, a thread-local singleton that dispatches platform events to registered dispatchers and notifies observers.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_PLATFORM_EVENT_SOURCE_H_
 #define UI_EVENTS_PLATFORM_PLATFORM_EVENT_SOURCE_H_
 

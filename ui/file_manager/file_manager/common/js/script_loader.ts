@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime script loader
+// summary: Promise-based ScriptLoader class that injects scripts into the document at runtime with optional type and defer parameters.
+// ---
+
 import {getSanitizedScriptUrl} from './trusted_script_url_policy_util.js';
 
 /**

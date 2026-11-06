@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test utilities for the Files app
+// summary: Provides helpers for unit tests, such as waiting for LitElement updates and mocking the plural string proxy.
+// ---
+
 import {PluralStringProxyImpl} from 'chrome://resources/js/plural_string_proxy.js';
 import {TestPluralStringProxy} from 'chrome://webui-test/test_plural_string_proxy.js';
 

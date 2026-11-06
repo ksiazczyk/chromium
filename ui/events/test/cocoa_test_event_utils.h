@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cocoa test event utilities header
+// summary: Declares helpers that create synthetic Cocoa mouse, key, scroll and enter/exit NSEvents for use in macOS UI event tests.
+// ---
+
 #ifndef UI_EVENTS_TEST_COCOA_TEST_EVENT_UTILS_H_
 #define UI_EVENTS_TEST_COCOA_TEST_EVENT_UTILS_H_
 

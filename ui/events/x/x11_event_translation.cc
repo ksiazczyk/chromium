@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 to ui::Event translation
+// summary: Implements translation of X11 events into ui::Event objects, including keyboard state properties and touch slot release handling.
+// ---
+
 #include "ui/events/x/x11_event_translation.h"
 
 #include <vector>

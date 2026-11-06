@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress center item types and states
+// summary: Defines enums for progress item states and types plus the ProgressCenterItem class representing file operation progress in the Files app.
+// ---
+
 /** State of progress items. */
 export enum ProgressItemState {
   SCANNING = 'scanning',

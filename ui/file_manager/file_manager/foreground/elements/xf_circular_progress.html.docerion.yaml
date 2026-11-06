@@ -1,0 +1,4 @@
+# Docerion header of xf_circular_progress.html.
+type: source
+title: xf-circular-progress element template and styles
+summary: HTML template and CSS for the xf-circular-progress element, drawing an SVG progress ring with a label and an error mark.
