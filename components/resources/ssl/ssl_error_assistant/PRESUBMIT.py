@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for SSL error assistant proto version updates
+# summary: Presubmit automation that requires incrementing version_id in ssl_error_assistant.asciipb whenever the proto is changed.
+# ---
+
 """Presubmit checks for ssl_error_assistant.asciipb.
 
 This is taken from chrome/browser/resources/safe_browsing/PRESUBMIT.py.

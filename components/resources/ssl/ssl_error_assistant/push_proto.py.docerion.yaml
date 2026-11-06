@@ -1,0 +1,4 @@
+# Docerion header of push_proto.py.
+type: script
+title: SSL error assistant proto pusher to Google Cloud Storage
+summary: Python script that builds the versioned proto with ninja and pushes it to the chrome-components-ssl-error-assistant GCS bucket for component updates.
