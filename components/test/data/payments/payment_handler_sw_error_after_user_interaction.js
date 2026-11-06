@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler service worker rejecting after user interaction
+// summary: Service worker test app that opens a payment window and rejects the payment promise when the page signals a user-driven rejection.
+// ---
+
 let rejectPromise = null;
 let paymentRequestEvent;
 let methodName;

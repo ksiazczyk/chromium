@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test web app manifest
+summary: Minimal web app manifest named Test that references icon.png for the payment test pages.

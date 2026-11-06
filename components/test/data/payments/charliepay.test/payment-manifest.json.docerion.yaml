@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: CharliePay payment method manifest
+summary: Payment method manifest listing the dev and prod web-app manifests as the default applications for the test payment method.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest long identifier test
+// summary: Invokes PaymentRequest with an extremely long request identifier to test handling of oversized IDs.
+// ---
+
 /** Invokes PaymentRequest with a very long request identifier. */
 function buy() {
   const foo = Object.freeze({supportedMethods: 'basic-card'});

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_retry.html.
+type: test
+title: Retry test
+summary: HTML test page for PaymentResponse.retry(), including a URL-based payment method variant, loading retry.js and retry_helper.js.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Just-in-time payment test helpers
+// summary: JavaScript helpers that register the payment service worker and request a dummy $0.01 payment to trigger just-in-time installation of the payment handler.
+// ---
+
 const supportedMethods = window.location.origin + '/just-in-time/pay.json';
 const serviceWorkerFileName = 'sw.js';
 

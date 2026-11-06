@@ -1,0 +1,4 @@
+# Docerion header of method_manifest.json.
+type: test
+title: Payment method manifest for the test
+summary: Payment method manifest listing app.js as the default payment application with an empty supported origins list.

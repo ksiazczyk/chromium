@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment manifest for bobpay.test
+summary: Test fixture manifest declaring the default payment application for the bobpay.test payment method.

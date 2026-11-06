@@ -1,0 +1,4 @@
+# Docerion header of abort_responder_app.json.mock-http-headers.
+type: test
+title: Abort responder app manifest mock HTTP headers
+summary: Mock HTTP response headers served with the abort responder app payment method manifest by the test server.

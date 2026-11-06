@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: AlicePay test payment app service worker
+// summary: Service worker for the AlicePay test payment app that always approves canmakepayment and responds to paymentrequest events with a fixed transaction ID.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

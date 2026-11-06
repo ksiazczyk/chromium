@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Service worker for the Harry.Example test payment handler
+// summary: Service worker that answers canmakepayment and paymentrequest events to simulate a working payment handler in tests.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

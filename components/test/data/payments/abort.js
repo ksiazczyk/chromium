@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest abort test page
+// summary: Test page script that launches a basic-card PaymentRequest and aborts it, printing the result or error.
+// ---
+
 let request;
 
 /**

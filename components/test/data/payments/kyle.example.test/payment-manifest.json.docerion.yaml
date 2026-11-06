@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: data
+title: Kyle.Example payment method manifest
+summary: Payment method manifest listing the Kyle.Example app manifest as the default payment application.

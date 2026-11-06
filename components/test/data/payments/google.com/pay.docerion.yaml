@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Blank pay page for the fake payment app
+summary: Intentionally blank page served at the pay scope of the fake Google Pay test app.

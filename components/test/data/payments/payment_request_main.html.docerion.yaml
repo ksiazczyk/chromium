@@ -1,0 +1,4 @@
+# Docerion header of payment_request_main.html.
+type: test
+title: Payment Request main iframe host page
+summary: Minimal test page hosting an iframe with allowpaymentrequest to run payment request tests inside the frame.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay UI skip preload test script
+// summary: Test helper that builds a Bob Pay PaymentRequest, shows its UI, and preloads a second PaymentRequest instance while the first is showing.
+// ---
+
 /**
  * Builds PaymentRequest for Bob Pay, but does not show any UI yet.
  *

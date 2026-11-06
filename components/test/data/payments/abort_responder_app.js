@@ -7,6 +7,12 @@
 // An app that notifies the merchant that it was invoked, so it can be aborted.
 // Should be used in conjunction with payment_handler_aborter.js.
 
+// ---docerion
+// type: test
+// title: Abort responder payment app service worker
+// summary: Payment handler service worker that responds to canmakepayment and abortpayment events to support payment abort tests.
+// ---
+
 let abortResponse = true;
 
 self.addEventListener('canmakepayment', (event) => {

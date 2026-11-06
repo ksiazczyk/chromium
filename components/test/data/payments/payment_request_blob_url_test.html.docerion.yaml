@@ -1,0 +1,4 @@
+# Docerion header of payment_request_blob_url_test.html.
+type: test
+title: Blob URL Test
+summary: Manual test page that starts a PaymentRequest purchase from a blob URL and displays the outcome.

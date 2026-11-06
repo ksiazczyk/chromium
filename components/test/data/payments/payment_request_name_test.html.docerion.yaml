@@ -1,0 +1,4 @@
+# Docerion header of payment_request_name_test.html.
+type: test
+title: Payment Request Name Test page
+summary: HTML test page that loads name.js to test requesting the payer's name through the Payment Request API.

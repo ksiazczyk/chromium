@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: IkePay payment method manifest test data
+summary: Test fixture declaring the default payment app manifest URL and the supported origin alicepay.test for the ikepay.test payment method.

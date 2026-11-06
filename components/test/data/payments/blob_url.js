@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Blob URL PaymentRequest test page
+// summary: Test page script that navigates to a blob URL embedding a PaymentRequest to exercise payment from blob URLs.
+// ---
+
 /** Requests payment via a blob URL. */
 function buy() {
   const spoof = function() {

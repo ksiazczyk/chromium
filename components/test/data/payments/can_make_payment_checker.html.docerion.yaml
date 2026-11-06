@@ -1,0 +1,4 @@
+# Docerion header of can_make_payment_checker.html.
+type: test
+title: Can Make Payment Checker test page
+summary: HTML test page that loads the script checking whether payment methods can make payments.

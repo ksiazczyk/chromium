@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: AlicePay test payment manifest
+summary: Payment method manifest test fixture that declares the default payment application for the AlicePay test setup.

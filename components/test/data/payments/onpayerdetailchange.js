@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payerdetailchange and retry test helper
+// summary: Test helper that launches PaymentRequest with payer details, handles payerdetailchange events, and retries with validation errors.
+// ---
+
 let gPaymentResponse = null;
 let gRetryPromise = null;
 

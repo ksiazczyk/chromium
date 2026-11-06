@@ -1,0 +1,4 @@
+# Docerion header of payment_request_can_make_payment_metrics_test.html.
+type: test
+title: Can Make Payment Metrics Test
+summary: Manual test page exercising canMakePayment and show combinations with and without URL methods to check metrics logging.

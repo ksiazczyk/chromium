@@ -1,0 +1,4 @@
+# Docerion header of payment_request_long_id_test.html.
+type: test
+title: Long ID Test page
+summary: HTML test page with a buy button that loads long_id.js to test the Payment Request API with a long request identifier.

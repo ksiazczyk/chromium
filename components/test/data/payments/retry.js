@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest retry test helper
+// summary: Test helper that shows the payment sheet with basic-card or URL-based methods and retries it with validation error messages after payer detail changes.
+// ---
+
 let gPaymentResponse = null;
 let gRetryPromise = null;
 

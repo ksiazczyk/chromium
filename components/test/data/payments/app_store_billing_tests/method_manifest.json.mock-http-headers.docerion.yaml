@@ -1,0 +1,4 @@
+# Docerion header of method_manifest.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for the payment method manifest
+summary: Mock HTTP response headers that serve the payment method manifest with CORS and payment-method-manifest link headers.

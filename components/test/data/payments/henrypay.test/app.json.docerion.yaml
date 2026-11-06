@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: HenryPay app manifest
+summary: Web app manifest for the HenryPay test payment app declaring its identity, a SHA256 certificate fingerprint, and the /webpay service worker scope.

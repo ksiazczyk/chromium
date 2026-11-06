@@ -1,0 +1,4 @@
+# Docerion header of payment_request_iframe.html.
+type: test
+title: Payment Request iframe test page
+summary: Test page that triggers a basic-card PaymentRequest, intended to be embedded in an iframe for payment request tests.

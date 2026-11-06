@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Retry test helper with payer validation errors
+// summary: Test helper that requests payer email, name and phone, then retries the payment response with validation error messages for test consumption.
+// ---
+
 let gShowPromise = null;
 let gPaymentResponse = null;
 let gRetryPromise = null;

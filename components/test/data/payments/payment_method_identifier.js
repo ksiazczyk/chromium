@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment method identifier buy helper
+// summary: Script that calls PaymentRequest.show() with the given method data and prints the resulting response or error.
+// ---
+
 const defaultDetails = {
   total: {
     label: 'Total',

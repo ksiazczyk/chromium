@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request CSP canMakePayment Check Script
+// summary: Script that checks canMakePayment for a given payment method identifier and returns true, false, or an error message.
+// ---
+
 /**
  * Checks canMakePayment() for the given payment method identifier.
  * @param {string} method - Payment method identifier to check.

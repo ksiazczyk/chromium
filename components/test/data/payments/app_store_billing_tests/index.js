@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest test logic
+// summary: Script that adds supported payment methods, creates a PaymentRequest, and reports canMakePayment and show results.
+// ---
+
 const methodName = window.location.origin + '/method_manifest.json';
 let request;
 const supportedInstruments = [];

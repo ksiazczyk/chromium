@@ -1,0 +1,4 @@
+# Docerion header of payment_request_phone_test.html.
+type: test
+title: Phone Test
+summary: HTML test page for phone number collection in the Payment Request API, loading phone.js.

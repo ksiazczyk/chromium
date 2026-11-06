@@ -1,0 +1,4 @@
+# Docerion header of payment_request_no_update_with_test.html.
+type: test
+title: No updateWith() Test
+summary: HTML test page for a Payment Request API scenario lacking updateWith(), loading no_update_with.js.

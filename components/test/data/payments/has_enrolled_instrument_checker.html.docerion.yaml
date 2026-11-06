@@ -1,0 +1,4 @@
+# Docerion header of has_enrolled_instrument_checker.html.
+type: test
+title: Has Enrolled Instrument Checker page
+summary: HTML test page that loads the has enrolled instrument checker script for browser-based payment instrument checks.

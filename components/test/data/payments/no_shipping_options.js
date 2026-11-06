@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Invalid PaymentRequest test without shipping options
+// summary: Test helper that creates a PaymentRequest requesting shipping while providing no shipping options, producing an invalid request.
+// ---
+
 /**
  * Launches the PaymentRequest UI that is invalid because requestShipping is
  * true but no shipping options are provided.

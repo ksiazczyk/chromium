@@ -1,0 +1,4 @@
+# Docerion header of payment_request_with_modifiers_test.html.
+type: test
+title: PaymentRequest with modifiers test page
+summary: HTML test page that loads the modifiers script to test PaymentRequest with payment method modifiers.

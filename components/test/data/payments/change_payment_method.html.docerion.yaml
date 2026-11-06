@@ -1,0 +1,4 @@
+# Docerion header of change_payment_method.html.
+type: test
+title: Test page for PaymentRequestEvent.changePaymentMethod()
+summary: HTML test page with buttons that trigger changePaymentMethod() scenarios such as no handler, rejection, thrown errors, and details updates.

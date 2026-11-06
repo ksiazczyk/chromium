@@ -1,0 +1,4 @@
+# Docerion header of webpay.mock-http-headers.
+type: test
+title: Mock HTTP headers for webpay redirect test
+summary: Mock HTTP response headers for the webpay test case, returning a 301 Moved Permanently response whose Location header points to the frank.example.test host.

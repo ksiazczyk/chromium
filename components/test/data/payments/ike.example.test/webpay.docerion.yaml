@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay test data file
+summary: Intentionally blank placeholder file used as test data for the webpay payment example.

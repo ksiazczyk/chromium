@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: hasEnrolledInstrument in two PaymentRequest objects test script
+// summary: Test script that creates two PaymentRequest objects for a payment method and reports whether both hasEnrolledInstrument() calls return true.
+// ---
+
 /**
  * Creates two PaymentRequest objects for the given payment method and queries
  * their hasEnrolledInstrument() methods.

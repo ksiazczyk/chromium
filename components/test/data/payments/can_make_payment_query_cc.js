@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can make payment query for credit card networks
+// summary: Test script that creates PaymentRequest objects for a given card network and checks canMakePayment() and hasEnrolledInstrument() results for Visa and MasterCard.
+// ---
+
 /**
  * Creates a PaymentRequest for the specified card network.
  *

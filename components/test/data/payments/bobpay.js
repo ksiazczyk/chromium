@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay PaymentRequest test page
+// summary: Test page script that shows a Bob Pay payment request or runs canMakePayment, returning results for browser tests.
+// ---
+
 /**
  * Builds a payment request with URL based payment methods.
  * @return {!PaymentRequest} A payment request with URL based payment methods.

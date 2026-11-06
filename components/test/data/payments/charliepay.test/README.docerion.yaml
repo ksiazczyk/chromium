@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: CharliePay test payment app README
+summary: Explains that charliepay.test/webpay tests a payment app with separate development and production builds, each having its own web-app manifest.

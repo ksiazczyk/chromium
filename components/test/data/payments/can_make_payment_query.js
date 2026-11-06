@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can Make Payment query test script
+// summary: Test helper that checks canMakePayment, hasEnrolledInstrument, and show() for Bob Pay or other given payment methods.
+// ---
+
 const bobPayMethod = {supportedMethods: 'https://bobpay.test'};
 
 const defaultDetails = {

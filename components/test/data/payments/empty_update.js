@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest empty updateWith test
+// summary: Invokes PaymentRequest with shipping and rejects all shipping addresses by calling updateWith with an empty object.
+// ---
+
 /**
  * Invokes PaymentRequest with shipping and immediately rejects all shipping
  * addresses by calling updateWith({}), which is an "empty update."

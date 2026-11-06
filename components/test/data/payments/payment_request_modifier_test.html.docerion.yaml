@@ -1,0 +1,4 @@
+# Docerion header of payment_request_modifier_test.html.
+type: test
+title: Payment Request Modifier Test page
+summary: HTML test page with a buy button that loads modifier.js to test payment method modifiers in the Payment Request API.

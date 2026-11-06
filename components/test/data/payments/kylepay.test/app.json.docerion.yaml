@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: KylePay web app manifest
+summary: Web app manifest declaring the KylePay payment app, its icon, service worker scope and supported payment delegations.

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_id_test.html.
+type: test
+title: Payment Request Id Test page
+summary: HTML test page that loads payment_request_id.js to exercise the Payment Request API with a request identifier.

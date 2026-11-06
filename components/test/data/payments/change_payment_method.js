@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequestEvent.changePaymentMethod() test logic
+// summary: Script that shows payment sheets and verifies changePaymentMethod() behavior for missing handlers, rejected promises, thrown errors, and details updates.
+// ---
+
 const methodName = window.location.origin;
 let request = undefined;
 

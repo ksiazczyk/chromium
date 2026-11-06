@@ -1,3 +1,9 @@
+---
+type: readme
+title: george.example.test payment test data README
+summary: Explains that the george.example.test/webpay payment method test data redirects to harry.example.test/webpay, mirroring real-world domain redirects.
+---
+
 The payment method https://george.example.test/webpay redirects to
 https://harry.example.test/webpay, similar to how https://google.com/pay
 redirects to https://pay.google.com/about.

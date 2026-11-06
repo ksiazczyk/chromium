@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest fail completion test
+// summary: Launches the PaymentRequest UI and always fails to complete the transaction, returning a failure message.
+// ---
+
 /**
  * Launches the PaymentRequest UI and always fails to complete the transaction.
  *

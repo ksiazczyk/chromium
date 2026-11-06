@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment delegations enabler
+// summary: Enables shipping address and payer delegations via the PaymentManager API on the registered KylePay service worker.
+// ---
+
 /**
  * Enables the delegations for this payment method.
  * @return {Promise<string>} - Either "success" or an error message.

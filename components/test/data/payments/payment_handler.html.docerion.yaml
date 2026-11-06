@@ -1,0 +1,4 @@
+# Docerion header of payment_handler.html.
+type: test
+title: Payment handler test page
+summary: Test page that loads payment_handler.js to exercise payment handler installation and launching.

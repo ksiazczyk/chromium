@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Iframe poster message helper
+// summary: Opens a URL in an iframe, posts a message to it, and resolves a promise with the iframe's response for payment tests.
+// ---
+
 /**
  * Opens the given `url` in an iframe, posts the `msg` to it, and waits for the
  * iframe to return a response.

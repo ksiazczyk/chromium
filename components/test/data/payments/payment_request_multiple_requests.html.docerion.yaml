@@ -1,0 +1,4 @@
+# Docerion header of payment_request_multiple_requests.html.
+type: test
+title: Multiple Payment Requests test page
+summary: Test page that creates five basic-card PaymentRequest objects for Visa to test handling of multiple concurrent requests.

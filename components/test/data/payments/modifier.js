@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest modifier test
+// summary: Invokes PaymentRequest with a modifier containing only the bare minimum required fields.
+// ---
+
 /**
  * Invokes the PaymentRequest with a modifier that contains the bare mininum of
  * required fields.

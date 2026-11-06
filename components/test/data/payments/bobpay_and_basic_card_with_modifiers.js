@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay and basic-card modifiers test page
+// summary: Test page script exercising PaymentRequest modifiers for Bob Pay and basic-card, including discounts and supported networks.
+// ---
+
 /**
  * Launches the PaymentRequest UI with Bob Pay and basic-card as payment
  * methods and a modifier for basic-card.

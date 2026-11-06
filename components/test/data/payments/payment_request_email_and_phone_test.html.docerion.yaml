@@ -1,0 +1,4 @@
+# Docerion header of payment_request_email_and_phone_test.html.
+type: test
+title: Payment Request Email and Phone Test
+summary: Test page for the Payment Request API covering requests for both email and phone contact details.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler service worker for full delegation tests
+// summary: Service worker that responds to canmakepayment and paymentrequest events, returning a success status and payer name when requested.
+// ---
+
 let methodName;
 
 self.addEventListener('canmakepayment', (evt) => {

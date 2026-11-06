@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay page
+summary: Intentionally blank page served at the webpay URL of the test payment app.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Has enrolled instrument test helper
+// summary: Builds PaymentRequest objects and checks hasEnrolledInstrument() and show() behaviour, including a delayed-show regression case, for payment tests.
+// ---
+
 /**
  * Builds a PaymentRequest for the given method with the given options.
  * @param {PaymentOptions} options - The payment options to use.

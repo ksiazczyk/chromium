@@ -1,0 +1,4 @@
+# Docerion header of prod.json.
+type: test
+title: CharliePay production web app manifest
+summary: Web-app manifest for the production build of the CharliePay test payment app, declaring its Play store application and an unused certificate fingerprint.

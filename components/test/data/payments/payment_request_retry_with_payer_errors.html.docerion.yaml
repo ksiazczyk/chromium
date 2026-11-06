@@ -1,0 +1,4 @@
+# Docerion header of payment_request_retry_with_payer_errors.html.
+type: test
+title: Retry with payer errors test
+summary: HTML test page for retrying a payment request with payer error details, loading retry_with_payer_errors.js.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler app responding via changeShippingOption()
+// summary: Service worker payment handler that answers payment requests by calling changeShippingOption() and returning its result for skip-UI testing.
+// ---
+
 self.addEventListener('canmakepayment', (event) => {
   event.respondWith(true);
 });

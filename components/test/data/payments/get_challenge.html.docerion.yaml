@@ -1,0 +1,4 @@
+# Docerion header of get_challenge.html.
+type: test
+title: Get Challenge test page
+summary: HTML page that loads get_challenge.js for secure payment confirmation challenge tests.

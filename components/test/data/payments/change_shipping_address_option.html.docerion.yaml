@@ -1,0 +1,4 @@
+# Docerion header of change_shipping_address_option.html.
+type: test
+title: Test page for changeShippingAddress() and changeShippingOption()
+summary: HTML test page that loads the script exercising PaymentRequestEvent.changeShippingAddress() and changeShippingOption() delegation scenarios.

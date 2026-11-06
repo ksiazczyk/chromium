@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest with extra shipping options test
+// summary: Launches the PaymentRequest UI with shipping options included but without requesting a shipping address.
+// ---
+
 /**
  * Launches the PaymentRequest UI with shipping options, but does not request a
  * shipping address.

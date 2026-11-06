@@ -1,0 +1,4 @@
+# Docerion header of payment_request_show_promise.html.
+type: test
+title: Show promise test page
+summary: HTML test page with buttons to test PaymentRequest.show() with no promise, a resolving promise, and a rejecting promise.

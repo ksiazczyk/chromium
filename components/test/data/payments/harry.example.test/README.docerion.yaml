@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: Payment handler test data README
+summary: Describes the test payment handler for the webpay payment method as a JIT installable payment handler.

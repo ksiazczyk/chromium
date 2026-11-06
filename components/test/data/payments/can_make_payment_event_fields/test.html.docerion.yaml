@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test for "canmakepayment" event fields
+summary: HTML test page that loads test.js to exercise the fields of the "canmakepayment" payment event.

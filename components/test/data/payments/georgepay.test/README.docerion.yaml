@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: georgepay.test payment method test data
+summary: Explains that georgepay.test/webpay has no payment app of its own but allows payment apps from alicepay.test to use this payment method identifier.

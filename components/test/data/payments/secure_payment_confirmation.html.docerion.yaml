@@ -1,0 +1,4 @@
+# Docerion header of secure_payment_confirmation.html.
+type: test
+title: Secure Payment Confirmation test page
+summary: Test page that loads payment handler status, can-make-payment, has-enrolled-instrument and secure payment confirmation scripts, plus a payment-allowed iframe.

@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: EvePay payment method manifest
+summary: Payment method manifest listing app1.json and app2.json as the default payment applications for the test.

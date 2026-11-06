@@ -1,0 +1,4 @@
+# Docerion header of payment_request_contact_details_and_free_shipping_test.html.
+type: test
+title: Payment Request Contact Details and Free Shipping Test Page
+summary: Test page that loads the contact details and free shipping script to exercise requesting contact information with free shipping.

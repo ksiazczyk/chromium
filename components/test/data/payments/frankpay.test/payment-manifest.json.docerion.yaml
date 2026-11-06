@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment method manifest fixture
+summary: Test payment method manifest that allows all origins to use the frankpay.test payment method identifier.

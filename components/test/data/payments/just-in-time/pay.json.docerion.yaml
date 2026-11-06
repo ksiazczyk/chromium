@@ -1,0 +1,4 @@
+# Docerion header of pay.json.
+type: test
+title: Test payment app manifest
+summary: Payment method manifest describing a test payment app with an icon and a service worker scoped to /just-in-time/ for just-in-time installation tests.

@@ -1,0 +1,4 @@
+# Docerion header of payment_request.html.
+type: test
+title: Payment request worldwide multi-option shipping page
+summary: Test page whose buy button launches a PaymentRequest with worldwide shipping options and no real payment processing.

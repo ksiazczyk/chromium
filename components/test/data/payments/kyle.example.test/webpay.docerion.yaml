@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: data
+title: Blank webpay page
+summary: Intentionally blank placeholder page for the webpay payment scope used by payment tests.

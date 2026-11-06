@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest modifiers test script
+// summary: JavaScript helpers that launch PaymentRequest UI with modifiers, including a modifier without a total, for testing.
+// ---
+
 /**
  * Launches the PaymentRequest UI with the given payment method(s) and a
  * modifier for the second one.

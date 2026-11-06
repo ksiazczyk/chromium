@@ -1,0 +1,4 @@
+# Docerion header of initiated_test.html.
+type: test
+title: Initiated Test page
+summary: HTML test page that loads the initiated script for checking canMakePayment in browser tests.

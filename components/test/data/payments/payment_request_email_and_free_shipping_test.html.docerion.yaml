@@ -1,0 +1,4 @@
+# Docerion header of payment_request_email_and_free_shipping_test.html.
+type: test
+title: Payment Request Email and Free Shipping Test
+summary: Test page for the Payment Request API covering a request that combines the payer's email with free shipping.

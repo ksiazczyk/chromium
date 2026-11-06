@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay UI skip test page
+// summary: Test page script verifying the skip-UI optimization with a single Bob Pay method, including failure and email-request variants.
+// ---
+
 /**
  * Launches the PaymentRequest UI with Bob Pay as the only payment method.
  *

@@ -1,0 +1,4 @@
+# Docerion header of empty_parameters_test.html.
+type: test
+title: Empty Parameters Test page
+summary: HTML test page that loads empty_parameters.js and offers a button to run the empty parameters PaymentRequest regression test.

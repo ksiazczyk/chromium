@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest shipping change test without updateWith
+// summary: Test helper showing PaymentRequest variants whose shipping change listeners omit, skip, or bypass updateWith promises.
+// ---
+
 /**
  * Builds a PaymentRequest that requests a shipping address.
  * @param {sequence<PaymentMethodData>} methodData An array of payment method

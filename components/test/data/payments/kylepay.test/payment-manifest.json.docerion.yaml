@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: KylePay payment method manifest
+summary: Payment method manifest that lists the KylePay app manifest as the default payment application.

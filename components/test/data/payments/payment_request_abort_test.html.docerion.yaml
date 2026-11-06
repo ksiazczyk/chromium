@@ -1,0 +1,4 @@
+# Docerion header of payment_request_abort_test.html.
+type: test
+title: Payment request abort test page
+summary: Test page with Buy and Abort buttons that exercises PaymentRequest.show() and abort() through util.js and abort.js.

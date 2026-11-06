@@ -1,3 +1,9 @@
+---
+type: readme
+title: Payment redirect test data README
+summary: Explains that the webpay payment method on the david.example.test host redirects to the frank.example.test host, mirroring how real-world payment domains redirect between their own subdomains.
+---
+
 The payment method https://david.example.test/webpay redirects to
 https://frank.example.test/webpay, similar to how https://google.com/pay
 redirects to https://pay.google.com/about.

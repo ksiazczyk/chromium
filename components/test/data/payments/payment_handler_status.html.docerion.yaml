@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_status.html.
+type: test
+title: Payment handler status test page
+summary: Test page that loads payment_handler_status.js to report payment handler response statuses.

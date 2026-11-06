@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay 1 payment app service worker
+// summary: Service worker that answers canmakepayment and paymentrequest events to simulate the Bob Pay 1 payment app in tests.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

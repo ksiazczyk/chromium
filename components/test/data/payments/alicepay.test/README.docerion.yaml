@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: alicepay.test README
+summary: States that the webpay endpoint hosted in this test folder is used for testing Android payment apps.

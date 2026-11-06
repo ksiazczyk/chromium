@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Hybrid request skip UI test helper
+// summary: Creates basic-card and Google Pay PaymentRequests with configurable options and returns stringified payment responses or errors for skip-UI hybrid request tests.
+// ---
+
 /**
  * Creates a new PaymentRequest.
  *

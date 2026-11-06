@@ -1,0 +1,4 @@
+# Docerion header of secure_payment_confirmation_debug.html.
+type: test
+title: Secure Payment Confirmation debug tool
+summary: Debug page that computes SHA-256 hashes of JSON payloads to generate test expectations for the secure payment confirmation unit tests.

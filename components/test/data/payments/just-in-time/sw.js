@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler service worker
+// summary: Service worker that responds to canmakepayment and paymentrequest events to emulate a payment handler in just-in-time installation tests.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

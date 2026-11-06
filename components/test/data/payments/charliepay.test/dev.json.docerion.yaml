@@ -1,0 +1,4 @@
+# Docerion header of dev.json.
+type: test
+title: CharliePay Dev web app manifest
+summary: Web-app manifest for the development build of the CharliePay test payment app, declaring its Play store application and certificate fingerprint.

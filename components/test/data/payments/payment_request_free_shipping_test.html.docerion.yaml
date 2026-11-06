@@ -1,0 +1,4 @@
+# Docerion header of payment_request_free_shipping_test.html.
+type: test
+title: Payment Request Free Shipping Test
+summary: Test page for the Payment Request API covering free shipping, loading free_shipping.js.

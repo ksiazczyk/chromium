@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation test helper
+// summary: Test helper that builds secure-payment-confirmation method data with configurable credentials, icon, opt-out and locale, and reports the request status.
+// ---
+
 // Most test callers immediately wait on the response from
 // |getStatusForMethodData|. However some tests trigger the UI and then interact
 // with it, and to support those we save the promise for later retrieval.

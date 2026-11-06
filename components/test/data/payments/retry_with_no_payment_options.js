@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Retry test helper without payment options
+// summary: Test helper that shows a PaymentRequest with empty options and supports retrying the response with validation error messages.
+// ---
+
 let gShowPromise = null;
 let gPaymentResponse = null;
 

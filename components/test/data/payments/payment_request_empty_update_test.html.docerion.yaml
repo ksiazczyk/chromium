@@ -1,0 +1,4 @@
+# Docerion header of payment_request_empty_update_test.html.
+type: test
+title: Payment Request Empty Update Test
+summary: Test page for the Payment Request API covering empty payment details updates, loading empty_update.js.

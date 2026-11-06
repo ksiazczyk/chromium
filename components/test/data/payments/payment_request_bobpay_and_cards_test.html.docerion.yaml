@@ -1,0 +1,4 @@
+# Docerion header of payment_request_bobpay_and_cards_test.html.
+type: test
+title: Bob Pay and Cards Test
+summary: Manual test page for a PaymentRequest combining Bob Pay with cards, including an installable payment app scenario.

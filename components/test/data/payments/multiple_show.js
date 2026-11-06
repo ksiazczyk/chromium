@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Multiple PaymentRequest show test
+// summary: Shows, re-shows, and opens a second PaymentRequest to test repeated and concurrent show() behavior.
+// ---
+
 let request;
 let request2;
 

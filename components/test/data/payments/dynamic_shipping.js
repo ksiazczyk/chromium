@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Dynamic shipping price PaymentRequest test
+// summary: Launches a PaymentRequest that recalculates shipping prices and errors dynamically based on the entered shipping address.
+// ---
+
 /**
  * Launches the PaymentRequest UI that offers free shipping in California and
  * $5.00 shipping in US. Does not allow shipping outside of US.

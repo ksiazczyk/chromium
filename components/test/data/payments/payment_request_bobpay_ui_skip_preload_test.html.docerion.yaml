@@ -1,0 +1,4 @@
+# Docerion header of payment_request_bobpay_ui_skip_preload_test.html.
+type: test
+title: UI skip, preload test
+summary: Manual test page that verifies UI skip and preload behaviour when paying with Bob Pay.

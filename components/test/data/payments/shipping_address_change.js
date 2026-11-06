@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Shipping address change test page script
+// summary: Test page script that launches PaymentRequest with shipping requested and prints the shipping address received on shippingaddresschange events.
+// ---
+
 /**
  * Launches the PaymentRequest UI that prints the shipping address received
  * on shippingAddressChange events at the end of the transaction.

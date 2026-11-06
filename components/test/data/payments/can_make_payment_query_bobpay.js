@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can Make Payment query for Bob Pay and Alice Pay script
+// summary: Test helper running two canMakePayment or hasEnrolledInstrument checks with Bob Pay and Alice Pay method data and printing both results.
+// ---
+
 const defaultDetails = {
   total: {
     label: 'Total',

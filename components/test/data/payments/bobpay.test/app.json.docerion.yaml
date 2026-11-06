@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: BobPay test payment app manifest
+summary: Payment app manifest describing the BobPay test app with its icon and a related Play application identified by a SHA256 certificate fingerprint.
