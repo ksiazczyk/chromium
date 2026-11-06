@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock key upload client
+// summary: GMock stand-in for KeyUploadClient that fakes certificate creation and key synchronization calls in unit tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_KEY_UPLOAD_CLIENT_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_KEY_UPLOAD_CLIENT_H_
 

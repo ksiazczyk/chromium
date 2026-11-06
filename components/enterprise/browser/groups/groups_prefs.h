@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups preference names
+// summary: Defines the preference name constants for browser and profile enterprise group IDs and the registration function.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_GROUPS_GROUPS_PREFS_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_GROUPS_GROUPS_PREFS_H_
 

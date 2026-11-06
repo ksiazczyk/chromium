@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client identity iOS error metrics helper
+// summary: Logs client identity iOS errors to an Enterprise.ClientCertificate histogram keyed by the logging context using UmaHistogramEnumeration.
+// ---
+
 #include "components/enterprise/client_certificates/ios/metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

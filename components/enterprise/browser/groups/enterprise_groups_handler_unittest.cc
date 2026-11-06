@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise groups handler unit tests
+// summary: Unit tests for the browser and profile groups handlers using mock cloud policy stores and testing pref services.
+// ---
+
 #include "components/enterprise/browser/groups/enterprise_groups_handler.h"
 
 #include <memory>

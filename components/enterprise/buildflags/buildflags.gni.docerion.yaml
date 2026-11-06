@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Enterprise buildflags.gni arguments
+summary: Declares GN arguments that enable enterprise features per platform, including cloud and local content analysis, data controls, watermark, screenshot protection, cache encryption, and enterprise proxy.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMServerClient interface header
+// summary: Declares a simple interface for sending browser public key upload requests to the DM server while abstracting the networking implementation details.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_DM_SERVER_CLIENT_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_DM_SERVER_CLIENT_H_
 

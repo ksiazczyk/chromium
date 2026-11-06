@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy info conversion for profile reports
+// summary: Implements conversion of Chrome and extension policy settings into enterprise management protobufs for cloud profile reports, including level, scope, source and conflicts.
+// ---
+
 #include "components/enterprise/browser/reporting/policy_info.h"
 
 #include <string>

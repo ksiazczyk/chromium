@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report scheduler implementation
+// summary: Implements ReportScheduler, which triggers report generation and upload on timers, browser updates and other triggers while cloud reporting policy is enabled.
+// ---
+
 #include "components/enterprise/browser/reporting/report_scheduler.h"
 
 #include <string>

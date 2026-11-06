@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage aggregation utilities implementation
+// summary: Implements recording of per-domain navigation counts and encryption protocols into prefs for SaaS usage reporting.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_aggregation_utils.h"
 
 #include <string_view>

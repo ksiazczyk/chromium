@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud reporting policy handler unit tests
+// summary: Unit tests checking enrollment-dependent error handling and preference application for the CloudReportingEnabled policy.
+// ---
+
 #include "components/enterprise/browser/reporting/cloud_reporting_policy_handler.h"
 
 #include "build/build_config.h"

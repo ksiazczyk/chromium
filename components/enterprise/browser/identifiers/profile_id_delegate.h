@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID delegate interface
+// summary: Defines the abstract ProfileIdDelegate interface used by the profile ID service to obtain the device ID.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_PROFILE_ID_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_PROFILE_ID_DELEGATE_H_
 

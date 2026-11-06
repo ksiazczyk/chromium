@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextDelegate interface header
+// summary: Declares an abstract delegate that runs client certificate logic within a browser or profile scope, covering certificate deletion, identity names, policy prefs and logging context.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CONTEXT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CONTEXT_DELEGATE_H_
 

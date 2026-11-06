@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome profile request generator implementation
+// summary: Builds ChromeProfileReportRequest protos by combining browser and profile reports with security signals and device attestation.
+// ---
+
 #include "components/enterprise/browser/reporting/chrome_profile_request_generator.h"
 
 #include <utility>

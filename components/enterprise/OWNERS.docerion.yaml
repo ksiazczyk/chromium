@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for the enterprise component
+summary: Lists the code owners responsible for reviewing changes in the enterprise component directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User security signals service class declaration
+// summary: Declares the service in charge of scheduling, triggering, generation and upload of user security signals reports, including its delegate interface.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_USER_SECURITY_SIGNALS_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_USER_SECURITY_SIGNALS_SERVICE_H_
 

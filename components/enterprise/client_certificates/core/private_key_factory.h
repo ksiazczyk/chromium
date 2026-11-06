@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private key factory interface
+// summary: Declares the PrivateKeyFactory interface for creating private keys and loading them from proto or dictionary representations.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PRIVATE_KEY_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PRIVATE_KEY_FACTORY_H_
 

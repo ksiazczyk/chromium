@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report generator implementation
+// summary: Implements the real-time report generator that delegates report creation to a platform-specific delegate for upload via the encrypted reporting pipeline.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_report_generator.h"
 #include "components/enterprise/browser/reporting/reporting_delegate_factory.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals reporting scheduler bridge implementation
+// summary: Implements the native side of the JNI bridge that schedules, cancels, and triggers signals reporting background tasks through the Java scheduler on Android.
+// ---
+
 #include "components/enterprise/browser/reporting/android/signals_reporting_scheduler_bridge.h"
 
 #include <memory>

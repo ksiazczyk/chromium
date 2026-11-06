@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local copies of google3 well-known protos
+// summary: Provides Chromium-local copies of Timestamp, Any, and rpc Code definitions not available in the Chromium repository.
+// ---
+
 syntax = "proto3";
 
 package google3_protos;

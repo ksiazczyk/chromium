@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android signals reporting
+summary: Defines GN targets for the Android enterprise reporting Java library, generated JNI headers, the native scheduler bridge source set, and Robolectric unit tests.

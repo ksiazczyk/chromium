@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Endpoint fetcher unit tests
+// summary: Tests EndpointFetcher behavior for authentication, responses, errors and timeouts using a mock URL loader factory.
+// ---
+
 #include "components/endpoint_fetcher/endpoint_fetcher.h"
 
 #include <string>

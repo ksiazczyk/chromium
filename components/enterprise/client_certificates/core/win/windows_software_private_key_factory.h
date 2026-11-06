@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows software private key factory class declaration
+// summary: Declares WindowsSoftwarePrivateKeyFactory, a PrivateKeyFactory that creates and loads OS software-backed private keys when the device supports them.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_WIN_WINDOWS_SOFTWARE_PRIVATE_KEY_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_WIN_WINDOWS_SOFTWARE_PRIVATE_KEY_FACTORY_H_
 

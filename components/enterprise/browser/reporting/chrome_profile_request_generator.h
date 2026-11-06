@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome profile request generator class declaration
+// summary: Declares the top-level generator that creates ChromeProfileReportRequest protos for a given profile path.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CHROME_PROFILE_REQUEST_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CHROME_PROFILE_REQUEST_GENERATOR_H_
 

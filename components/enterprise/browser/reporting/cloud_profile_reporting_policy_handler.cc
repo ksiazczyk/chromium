@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud profile reporting policy handler implementation
+// summary: Applies the CloudProfileReportingEnabled policy to its preference, enforcing that the policy has user scope.
+// ---
+
 #include "components/enterprise/browser/reporting/cloud_profile_reporting_policy_handler.h"
 
 #include "base/command_line.h"

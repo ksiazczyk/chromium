@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-backed certificate store interface
+// summary: Declares PrefsCertificateStore, a CertificateStore implementation backed by the prefs service for storing and retrieving client identities.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PREFS_CERTIFICATE_STORE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PREFS_CERTIFICATE_STORE_H_
 

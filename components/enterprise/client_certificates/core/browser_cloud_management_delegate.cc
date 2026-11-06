@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser cloud management delegate implementation
+// summary: Uploads browser public keys to the device management server using the browser client ID and DM token from browser DM token storage.
+// ---
+
 #include "components/enterprise/client_certificates/core/browser_cloud_management_delegate.h"
 
 #include <memory>

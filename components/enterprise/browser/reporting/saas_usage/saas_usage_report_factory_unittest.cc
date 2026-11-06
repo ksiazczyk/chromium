@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SaaS usage report factory
+// summary: Unit tests covering report creation for affiliated, unaffiliated, and unknown profiles as well as domain metrics.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_report_factory.h"
 
 #include <memory>

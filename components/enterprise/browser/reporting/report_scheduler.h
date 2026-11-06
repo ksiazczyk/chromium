@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report scheduler declaration
+// summary: Declares ReportScheduler, which schedules enterprise report generation and upload every 24 hours and on browser updates when policy enables cloud reporting.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_SCHEDULER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_SCHEDULER_H_
 

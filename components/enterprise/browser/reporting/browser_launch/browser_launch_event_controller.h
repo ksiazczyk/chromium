@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser launch event controller class declaration
+// summary: Declares the controller that orchestrates capture and reporting of browser launch data through a collector and uploader, including in-memory retry with backoff.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_CONTROLLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_CONTROLLER_H_
 

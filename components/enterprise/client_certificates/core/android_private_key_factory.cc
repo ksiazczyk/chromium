@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android private key factory implementation
+// summary: Creates and loads Android KeyStore-backed private keys for client certificates, generating random identities and recording key security level metrics.
+// ---
+
 #include "components/enterprise/client_certificates/core/android_private_key_factory.h"
 
 #include <array>

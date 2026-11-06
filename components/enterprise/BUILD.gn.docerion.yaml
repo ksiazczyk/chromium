@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the enterprise component
+summary: Defines the GN build targets and source lists for the enterprise component's static library, including browser reporting and controller sources.

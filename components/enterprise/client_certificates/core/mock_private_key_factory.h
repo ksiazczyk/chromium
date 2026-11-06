@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock private key factory
+// summary: GMock stand-in for PrivateKeyFactory that fakes private key creation and loading from proto or dictionary values in unit tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_PRIVATE_KEY_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_PRIVATE_KEY_FACTORY_H_
 

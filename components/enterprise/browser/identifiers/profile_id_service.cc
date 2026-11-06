@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID service implementation
+// summary: Generates a profile identifier by hashing and URL-encoding the profile GUID and device ID, recording UMA status and error metrics along the way.
+// ---
+
 #include "components/enterprise/browser/identifiers/profile_id_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report utilities unit tests
+// summary: Tests the GetSecuritySignalsInReport JSON output for certificates and, on iOS, for the presence or absence of a vendor ID in profile report requests.
+// ---
+
 #include "components/enterprise/browser/reporting/report_util.h"
 
 #include <optional>

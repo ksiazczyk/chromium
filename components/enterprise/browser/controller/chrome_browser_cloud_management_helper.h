@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Browser Cloud Management helper declarations
+// summary: Declares ChromeBrowserCloudManagementRegistrar and MachineLevelUserCloudPolicyFetcher, helpers for CBCM device registration and machine-level policy fetching.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_CHROME_BROWSER_CLOUD_MANAGEMENT_HELPER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_CHROME_BROWSER_CLOUD_MANAGEMENT_HELPER_H_
 

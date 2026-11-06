@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS report generator implementation
+// summary: Builds an OS report containing the OS name, architecture, version, and Windows version type.
+// ---
+
 #include "components/enterprise/browser/reporting/os_report_generator.h"
 
 #include "build/build_config.h"

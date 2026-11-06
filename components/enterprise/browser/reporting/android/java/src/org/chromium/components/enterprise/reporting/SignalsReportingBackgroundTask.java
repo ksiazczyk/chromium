@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsReportingBackgroundTask
+// summary: Android background task that starts the Chrome signals reporting process via native code and reschedules itself when interrupted before completion.
+// ---
+
 package org.chromium.components.enterprise.reporting;
 
 import android.content.Context;

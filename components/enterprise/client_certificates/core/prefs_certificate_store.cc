@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-backed certificate store implementation
+// summary: Implements the certificate store that persists client identities, private keys and certificates in the prefs service, including key creation and certificate commits.
+// ---
+
 #include "components/enterprise/client_certificates/core/prefs_certificate_store.h"
 
 #include "base/containers/span.h"

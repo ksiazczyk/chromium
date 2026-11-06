@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromotionEligibilityChecker class declaration
+// summary: Declares the enterprise_promotion PromotionEligibilityChecker class, its eligibility callback type, and methods for token fetching and eligibility checks.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_PROMOTION_PROMOTION_ELIGIBILITY_CHECKER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_PROMOTION_PROMOTION_ELIGIBILITY_CHECKER_H_
 

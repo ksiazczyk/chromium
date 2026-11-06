@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate preferences declarations
+// summary: Declares preference name constants mapping managed client certificate policies and functions to register profile and local state prefs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PREFS_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PREFS_H_
 

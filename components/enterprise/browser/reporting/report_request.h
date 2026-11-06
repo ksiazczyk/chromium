@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportRequest class declaration
+// summary: Declares ReportRequest, a variant wrapper around device and profile report protos that lets multiple report types share one upload queue.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_REQUEST_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_REQUEST_H_
 

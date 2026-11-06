@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesScanData implementation for content analysis scans
+// summary: Implements background-thread directory expansion and computation of indexes to block from content analysis verdicts for scanned files.
+// ---
+
 #include "components/enterprise/common/files_scan_data.h"
 
 #include <utility>

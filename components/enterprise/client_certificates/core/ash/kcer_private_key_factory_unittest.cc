@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KcerPrivateKeyFactory unit tests
+// summary: Integration-style tests for the factory using a real Kcer over a software-only NSS test database, covering generation, tagging and loading.
+// ---
+
 #include "components/enterprise/client_certificates/core/ash/kcer_private_key_factory.h"
 
 #include <memory>

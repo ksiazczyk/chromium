@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate store interface
+// summary: Declares the CertificateStore interface for creating, storing, retrieving, and deleting private keys and certificates for managed identities.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CERTIFICATE_STORE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CERTIFICATE_STORE_H_
 

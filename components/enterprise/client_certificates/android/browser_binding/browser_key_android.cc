@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserKey Android JNI implementation
+// summary: Implements BrowserKey on Android by delegating to a Java BrowserKey object over JNI, including building an SSL private key from the SPKI and signing via Java.
+// ---
+
 #include "components/enterprise/client_certificates/android/browser_binding/browser_key_android.h"
 
 #include <strings.h>

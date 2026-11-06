@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS client identity wrapper interface
+// summary: Declares the ClientIdentityIOS struct, which pairs a core client identity with a SecIdentityRef and reports failures through ClientIdentityIOSError.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_CLIENT_IDENTITY_IOS_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_CLIENT_IDENTITY_IOS_H_
 

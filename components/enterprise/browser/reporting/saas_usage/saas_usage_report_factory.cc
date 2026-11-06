@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report factory implementation
+// summary: Builds a SaasUsageReportEvent from aggregated pref data and profile information supplied by the delegate.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_report_factory.h"
 
 #include <memory>

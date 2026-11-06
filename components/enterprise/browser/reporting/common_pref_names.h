@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting common preference names header
+// summary: Declares shared preference name constants used by the enterprise reporting components.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_COMMON_PREF_NAMES_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_COMMON_PREF_NAMES_H_
 

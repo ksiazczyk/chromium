@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private key source conversions
+// summary: Defines conversions between PrivateKeySource values and their proto or integer representations.
+// ---
+
 #include "components/enterprise/client_certificates/core/private_key_types.h"
 
 namespace client_certificates {

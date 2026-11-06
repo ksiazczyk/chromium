@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the enterprise component
+summary: Points the directory's metadata to the common policy metadata mixins shared across components.

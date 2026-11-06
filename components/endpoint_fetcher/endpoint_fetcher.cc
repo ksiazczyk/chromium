@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Endpoint fetcher implementation
+// summary: Implements EndpointFetcher, which performs HTTP requests with OAuth, Chrome API key or no authentication and reports responses.
+// ---
+
 #include "components/endpoint_fetcher/endpoint_fetcher.h"
 
 #include <optional>

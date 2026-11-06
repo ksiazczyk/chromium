@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud profile reporting policy handler declaration
+// summary: Declares the policy handler that maps the CloudProfileReportingEnabled policy to the corresponding preference.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_PROFILE_REPORTING_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_PROFILE_REPORTING_POLICY_HANDLER_H_
 

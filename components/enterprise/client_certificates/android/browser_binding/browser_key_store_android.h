@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserKeyStoreAndroid class declaration
+// summary: Declares BrowserKeyStoreAndroid, the Android implementation of BrowserKeyStore backed by a Java implementation object.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_ANDROID_BROWSER_BINDING_BROWSER_KEY_STORE_ANDROID_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_ANDROID_BROWSER_BINDING_BROWSER_KEY_STORE_ANDROID_H_
 

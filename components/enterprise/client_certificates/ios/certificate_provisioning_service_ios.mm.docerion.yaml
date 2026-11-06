@@ -1,0 +1,4 @@
+# Docerion header of certificate_provisioning_service_ios.mm.
+type: source
+title: iOS certificate provisioning service implementation
+summary: Implements the iOS provisioning service by wrapping the core service, delegating identity operations and caching identities as ClientIdentityIOS objects.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser launch event uploader interface
+// summary: Declares the interface for uploading browser launch events, exposing the pref service, policy preference name, metric suffix, and upload callback.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_UPLOADER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_UPLOADER_H_
 

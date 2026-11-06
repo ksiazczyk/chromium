@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise promotion type enums
+// summary: Defines enums for which enterprise promotion should be shown and for CWS promotion banner events used in histogram recording.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PROMOTION_TYPES_H_
 #define COMPONENTS_ENTERPRISE_PROMOTION_TYPES_H_
 

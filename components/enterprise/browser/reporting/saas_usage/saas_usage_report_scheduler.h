@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report scheduler header
+// summary: Declares the scheduler that generates and uploads SaaS usage reports every four hours when its delegate signals readiness.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_H_
 

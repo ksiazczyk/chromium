@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB certificate store implementation
+// summary: Implements CertificateStore backed by a LevelDB proto database to persist client identities, private keys, and certificates.
+// ---
+
 #include "components/enterprise/client_certificates/core/leveldb_certificate_store.h"
 
 #include <memory>

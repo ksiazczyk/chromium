@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning metrics utilities implementation
+// summary: Implements histogram logging for client certificate provisioning errors, certificate creation responses, provisioning outcomes, and latency.
+// ---
+
 #include "components/enterprise/client_certificates/core/metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

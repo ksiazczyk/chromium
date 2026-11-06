@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device trust OWNERS file
+summary: Redirects code ownership of the device_trust component to the owners defined in components/device_signals/OWNERS.

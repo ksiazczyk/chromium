@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable private key unit tests
+// summary: Unit tests verifying signing, subject public key info, algorithm, and proto and dict serialization of unexportable private keys from unexportable and software sources.
+// ---
+
 #include "components/enterprise/client_certificates/core/unexportable_private_key.h"
 
 #include <array>

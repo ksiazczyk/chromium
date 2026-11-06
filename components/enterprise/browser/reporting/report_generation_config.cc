@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report generation config implementation
+// summary: Implements the report generation configuration struct with readable string conversions of triggers and security signal modes for logging and debugging.
+// ---
+
 #include "components/enterprise/browser/reporting/report_generation_config.h"
 
 #include "base/check_op.h"

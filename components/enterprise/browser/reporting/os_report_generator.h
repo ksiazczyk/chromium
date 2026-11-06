@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS report generator header
+// summary: Declares GetOSReport, which creates a protobuf report with basic OS information.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_OS_REPORT_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_OS_REPORT_GENERATOR_H_
 

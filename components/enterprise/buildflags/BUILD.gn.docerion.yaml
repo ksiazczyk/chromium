@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise buildflags BUILD.gn target
+summary: Defines a GN buildflag_header target that generates buildflags.h exposing enterprise feature flags such as content analysis, data controls, watermark, screenshot protection, cache encryption, and proxy.

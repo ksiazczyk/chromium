@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoreError to string conversion
+// summary: Implements StoreErrorToString, mapping certificate store error codes such as invalid identity name or key creation failure to their string names.
+// ---
+
 #include "components/enterprise/client_certificates/core/store_error.h"
 
 namespace client_certificates {

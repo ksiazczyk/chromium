@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SaaS usage report scheduler
+// summary: Unit tests for the report scheduler using fake delegates and uploaders to verify scheduling and upload result handling.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_report_scheduler.h"
 
 #include <memory>

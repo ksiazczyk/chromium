@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser binding GN build targets
+summary: Defines GN source_set targets for the browser_binding component and its Android unit tests, with dependencies on base, device/fido, net, BoringSSL and jni_zero.

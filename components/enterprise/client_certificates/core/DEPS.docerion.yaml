@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the client certificates core directory
+summary: Restricts which headers files in this directory may include, with a ChromeOS-specific exception for metrics_util.

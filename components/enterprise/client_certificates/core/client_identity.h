@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client identity declaration
+// summary: Declares the ClientIdentity struct holding an identity name, private key, and certificate for managed client certificates.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLIENT_IDENTITY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLIENT_IDENTITY_H_
 

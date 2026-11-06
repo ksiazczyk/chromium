@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise groups component build targets
+summary: Defines the GN source sets for the groups component, listing handler, prefs, and features sources with their dependencies.

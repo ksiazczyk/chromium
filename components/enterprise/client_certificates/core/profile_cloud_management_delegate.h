@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cloud management delegate header
+// summary: Declares ProfileCloudManagementDelegate, a CloudManagementDelegate backed by user cloud policy, a profile ID service and a DM server client.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PROFILE_CLOUD_MANAGEMENT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_PROFILE_CLOUD_MANAGEMENT_DELEGATE_H_
 

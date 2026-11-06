@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECPrivateKeyFactory implementation
+// summary: Implements a factory that generates new EC P-256 keys and loads software keys from serialized proto or base64-encoded dictionary representations off-thread.
+// ---
+
 #include "components/enterprise/client_certificates/core/ec_private_key_factory.h"
 
 #include <optional>

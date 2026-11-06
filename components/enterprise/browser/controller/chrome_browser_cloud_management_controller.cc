@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Browser Cloud Management controller implementation
+// summary: Implements the ChromeBrowserCloudManagementController that sets up and manages CBCM features such as policy fetching, reporting, device trust and certificate provisioning.
+// ---
+
 #include "components/enterprise/browser/controller/chrome_browser_cloud_management_controller.h"
 
 #include <utility>

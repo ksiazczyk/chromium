@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android enterprise reporting
+summary: Restricts includes in the Android enterprise reporting directory to content/public/browser and components/background_task_scheduler.

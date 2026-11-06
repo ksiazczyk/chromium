@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificates database protobuf definitions
+// summary: Protobuf schema defining ClientIdentity and PrivateKey messages, including the private key storage sources used by Chrome on desktop and ChromeOS.
+// ---
+
 syntax = "proto3";
 
 package client_certificates_pb;

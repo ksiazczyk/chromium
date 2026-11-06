@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate store
+// summary: GMock test double for CertificateStore that stubs private key creation, identity and certificate commits, lookups, and deletions in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CERTIFICATE_STORE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CERTIFICATE_STORE_H_
 

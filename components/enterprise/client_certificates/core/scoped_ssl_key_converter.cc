@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped SSL key converter testing utility
+// summary: Scoped testing utility that mocks the unexportable key provider and the SSL key converter so they work together during tests.
+// ---
+
 #include "components/enterprise/client_certificates/core/scoped_ssl_key_converter.h"
 
 #include "base/notreached.h"

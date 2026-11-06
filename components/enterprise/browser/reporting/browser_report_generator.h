@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser report generator class declaration
+// summary: Declares the generator that collects browser information into a BrowserReport proto through a delegate interface.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_REPORT_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_BROWSER_REPORT_GENERATOR_H_
 

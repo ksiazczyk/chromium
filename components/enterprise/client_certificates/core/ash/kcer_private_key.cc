@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerPrivateKey implementation for ChromeOS client certificates
+// summary: Implements the PrivateKey wrapper for Kcer-managed ChromeOS keys, handling signing, SPKI access, serialization and TLS cert binding.
+// ---
+
 #include "components/enterprise/client_certificates/core/ash/kcer_private_key.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups preference registration
+// summary: Registers the local state list and dictionary preferences that store enterprise group IDs.
+// ---
+
 #include "components/enterprise/browser/groups/groups_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

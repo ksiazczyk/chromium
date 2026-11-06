@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the client certificates proto
+summary: GN build file defining the db_client_certs proto_library target that compiles client_certificates_database.proto.

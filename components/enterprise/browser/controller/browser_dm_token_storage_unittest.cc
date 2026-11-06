@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser DM token storage unit tests
+// summary: Unit tests verifying retrieval, caching, storing, invalidating and clearing of client ID, enrollment token and DM token in BrowserDMTokenStorage.
+// ---
+
 #include "components/enterprise/browser/controller/browser_dm_token_storage.h"
 
 #include "base/functional/bind.h"

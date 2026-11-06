@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise browser command-line switch definitions
+// summary: Defines the enable-chrome-browser-cloud-management switch that enables CBCM integration on non-ChromeOS Chromium builds.
+// ---
+
 #include "components/enterprise/browser/enterprise_switches.h"
 
 #include "build/build_config.h"

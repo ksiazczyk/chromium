@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report scheduler implementation
+// summary: Implements periodic generation and upload of SaaS usage reports every four hours, clearing stored data after successful upload.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_report_scheduler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaaS usage reporting controller unit tests
+// summary: Unit tests for the SaaS usage reporting controller covering domain matching, navigation recording, and Gemini in Chrome usage with fake delegates.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_reporting_controller.h"
 
 #include <memory>

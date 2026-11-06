@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate identity wrapper implementation
+// summary: Implements a net::ClientCertIdentity that serves the certificate and SSL private key supplied at construction time.
+// ---
+
 #include "components/enterprise/client_certificates/core/ssl_client_cert_identity_wrapper.h"
 
 #include "net/ssl/ssl_private_key.h"

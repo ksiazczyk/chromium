@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report request queue generator implementation
+// summary: Implements generation of a report request queue, splitting profile reports according to the 5 MB size limit and recording related metrics.
+// ---
+
 #include "components/enterprise/browser/reporting/report_request_queue_generator.h"
 
 #include <utility>

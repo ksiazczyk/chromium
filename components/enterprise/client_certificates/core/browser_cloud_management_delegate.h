@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser cloud management delegate class declaration
+// summary: Declares the CloudManagementDelegate implementation for browser-level cloud management that wraps a DM server client.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_BROWSER_CLOUD_MANAGEMENT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_BROWSER_CLOUD_MANAGEMENT_DELEGATE_H_
 

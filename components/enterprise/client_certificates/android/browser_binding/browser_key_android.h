@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserKeyAndroid class declaration
+// summary: Declares BrowserKeyAndroid, the Android implementation of BrowserKey that wraps a Java object, plus a jni_zero FromJniType conversion helper.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_ANDROID_BROWSER_BINDING_BROWSER_KEY_ANDROID_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_ANDROID_BROWSER_BINDING_BROWSER_KEY_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise promotion preference registration
+// summary: Registers the enterprise.promotion_eligibility integer profile pref, defaulting to an unspecified promotion type, in the syncable pref registry.
+// ---
+
 #include "components/enterprise/browser/promotion/promotion_prefs.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key upload client interface
+// summary: Declares the KeyUploadClient interface for uploading public keys with proof-of-possession and provisioning client certificates.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_KEY_UPLOAD_CLIENT_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_KEY_UPLOAD_CLIENT_H_
 

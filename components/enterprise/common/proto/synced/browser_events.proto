@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser events protobuf definitions
+// summary: Defines protobuf messages and enums for Chrome enterprise reporting events, covering DLP detectors, security agents, event results, and content transfer methods.
+// ---
+
 syntax = "proto3";
 
 package chrome.cros.reporting.proto;

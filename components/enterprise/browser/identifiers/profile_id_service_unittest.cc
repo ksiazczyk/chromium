@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile ID service unit tests
+// summary: Unit tests covering profile ID generation success and failure paths, including empty GUID, empty device ID and the expected histogram reporting.
+// ---
+
 #include "components/enterprise/browser/identifiers/profile_id_service.h"
 
 #include <utility>

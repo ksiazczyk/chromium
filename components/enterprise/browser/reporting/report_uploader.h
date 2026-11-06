@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report uploader declaration
+// summary: Declares ReportUploader, responsible for uploading report requests one by one and retrying on transient errors with a shared retry count.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_UPLOADER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_UPLOADER_H_
 

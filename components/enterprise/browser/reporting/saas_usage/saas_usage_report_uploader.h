@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report uploader interface
+// summary: Defines the SaasUsageReportUploader interface for sending aggregated SaaS usage report events to the reporting server via CloudPolicyClient.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_UPLOADER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_UPLOADER_H_
 

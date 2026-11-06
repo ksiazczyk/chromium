@@ -4,6 +4,12 @@
 
 // Events sent from ChromeOS devices having DLP enabled.
 
+// ---docerion
+// type: source
+// title: DLP policy event protobuf
+// summary: Defines the DlpPolicyEvent message reporting data loss prevention events from ChromeOS devices, including source, destination, restriction, mode, and user type.
+// ---
+
 syntax = "proto3";
 
 // copybara:datapol_begin

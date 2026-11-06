@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise promotion preference declarations
+// summary: Declares the kEnterprisePromotionEligibility pref name constant and the RegisterProfilePrefs function for storing which enterprise promotion to show.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_PROMOTION_PROMOTION_PREFS_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_PROMOTION_PROMOTION_PREFS_H_
 

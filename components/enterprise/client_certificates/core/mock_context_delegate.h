@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock context delegate
+// summary: GMock stand-in for ContextDelegate that fakes client certificate deletion callbacks and identity metadata for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CONTEXT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CONTEXT_DELEGATE_H_
 

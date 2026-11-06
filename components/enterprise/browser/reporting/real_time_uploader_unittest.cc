@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time uploader unit tests
+// summary: Unit tests verifying report enqueuing, enqueue callback results, and histogram metrics for the real-time uploader using mock report queues.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_uploader.h"
 
 #include <memory>

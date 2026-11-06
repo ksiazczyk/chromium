@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion eligibility checker implementation
+// summary: Implements PromotionEligibilityChecker, which fetches an OAuth token via IdentityManager and queries a CloudPolicyClient to determine user eligibility for enterprise promotions.
+// ---
+
 #include "components/enterprise/browser/promotion/promotion_eligibility_checker.h"
 
 #include "base/check.h"

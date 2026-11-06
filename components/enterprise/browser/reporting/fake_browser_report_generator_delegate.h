@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser report generator delegates header
+// summary: Declares fake profile and browser report generator delegates plus a fake reporting delegate factory for tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_FAKE_BROWSER_REPORT_GENERATOR_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_FAKE_BROWSER_REPORT_GENERATOR_DELEGATE_H_
 

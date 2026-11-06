@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate store base implementation
+// summary: Provides the constructor and destructor for the CertificateStore keyed service base class.
+// ---
+
 #include "components/enterprise/client_certificates/core/certificate_store.h"
 
 namespace client_certificates {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FilesScanData path expansion
+// summary: Tests FilesScanData expansion and IndexesToBlock behavior for empty, flat, and directory-based file lists using temporary directories.
+// ---
+
 #include "components/enterprise/common/files_scan_data.h"
 
 #include "base/files/file.h"

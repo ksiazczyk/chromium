@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Endpoint fetcher component metadata
+summary: Declares the bug tracker component, team email and buganizer component for the endpoint fetcher directory.

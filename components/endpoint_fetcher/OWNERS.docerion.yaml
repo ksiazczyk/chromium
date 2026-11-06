@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Endpoint fetcher directory owners
+summary: Lists the owners responsible for reviewing changes to the endpoint fetcher component.

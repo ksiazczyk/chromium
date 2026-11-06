@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMServerClient implementation for public key upload
+// summary: Implements the DM server client that uploads browser public keys through device management jobs, tracking parallel jobs and logging network errors to histograms.
+// ---
+
 #include "components/enterprise/client_certificates/core/dm_server_client.h"
 
 #include "base/containers/flat_map.h"

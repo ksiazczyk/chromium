@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud reporting policy handler header
+// summary: Declares the policy handler that applies the CloudReportingEnabled policy and reports enrollment errors on non-ChromeOS platforms.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_REPORTING_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_REPORTING_POLICY_HANDLER_H_
 

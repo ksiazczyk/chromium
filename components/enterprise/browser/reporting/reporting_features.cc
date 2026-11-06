@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting feature flags implementation
+// summary: Defines feature flags controlling SaaS usage reporting, Gemini in Chrome usage reporting, launch metadata reporting, and other platform-specific reporting behaviors.
+// ---
+
 #include "components/enterprise/browser/reporting/reporting_features.h"
 
 #include "base/feature_list.h"

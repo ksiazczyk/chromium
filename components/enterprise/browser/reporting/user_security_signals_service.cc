@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User security signals service implementation
+// summary: Implements the service that schedules, triggers, and uploads user security signals reports based on policy prefs, timers, and GAIA cookie changes.
+// ---
+
 #include "components/enterprise/browser/reporting/user_security_signals_service.h"
 
 #include "base/check.h"

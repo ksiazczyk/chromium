@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate constants declarations
+// summary: Declares constants naming managed and temporary identities, key-value context fields, the days-before-expiration threshold and common name source keys.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CONSTANTS_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CONSTANTS_H_
 

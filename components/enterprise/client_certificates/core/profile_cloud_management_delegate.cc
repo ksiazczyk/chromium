@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cloud management delegate implementation
+// summary: Implements the profile-scoped cloud management delegate that reads policy data for the DM token and client ID and uploads browser public keys via the DM server.
+// ---
+
 #include "components/enterprise/client_certificates/core/profile_cloud_management_delegate.h"
 
 #include "base/check.h"

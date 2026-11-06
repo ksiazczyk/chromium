@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate identity wrapper header
+// summary: Declares SSLClientCertIdentityWrapper, which pairs an X.509 certificate with an SSL private key as a client certificate identity.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_SSL_CLIENT_CERT_IDENTITY_WRAPPER_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_SSL_CLIENT_CERT_IDENTITY_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PrivateKeyFactory
+// summary: Unit tests verifying key creation and loading delegation across supported key sources using mock sub-factories.
+// ---
+
 #include "components/enterprise/client_certificates/core/private_key_factory.h"
 
 #include <memory>

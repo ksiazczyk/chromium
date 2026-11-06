@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificates service interface
+// summary: Declares the ClientCertificatesService, a net::ClientCertStore that aggregates managed and platform client certificate stores.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLIENT_CERTIFICATES_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLIENT_CERTIFICATES_SERVICE_H_
 

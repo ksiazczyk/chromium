@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable private key factory unit tests
+// summary: Unit tests verifying creation and loading of unexportable private keys via proto and dict, and that the factory is unavailable when unexportable keys are unsupported.
+// ---
+
 #include "components/enterprise/client_certificates/core/unexportable_private_key_factory.h"
 
 #include "base/memory/scoped_refptr.h"

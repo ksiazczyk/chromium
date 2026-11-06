@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable private key factory implementation
+// summary: Implements the factory that creates and loads unexportable signing keys on a thread pool, checking supported algorithms and hardware module support such as TPM.
+// ---
+
 #include "components/enterprise/client_certificates/core/unexportable_private_key_factory.h"
 
 #include <array>

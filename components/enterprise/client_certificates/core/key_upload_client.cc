@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key upload client implementation
+// summary: Builds browser public key upload requests with proof-of-possession signatures, trust levels, and key types for the device management server.
+// ---
+
 #include "components/enterprise/client_certificates/core/key_upload_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileReportGenerator class declaration
+// summary: Declares the profile report generator and its delegate interface for collecting policy-selected profile information into reports.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PROFILE_REPORT_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PROFILE_REPORT_GENERATOR_H_
 

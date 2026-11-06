@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud reporting policy handler implementation
+// summary: Implements the handler that maps the CloudReportingEnabled policy to a preference and warns when the browser is not enrolled outside ChromeOS.
+// ---
+
 #include "components/enterprise/browser/reporting/cloud_reporting_policy_handler.h"
 
 #include "base/values.h"

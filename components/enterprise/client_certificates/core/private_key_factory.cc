@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private key factory implementation
+// summary: Implements the private key factory that creates and loads keys by delegating to sub-factories ordered by key source security.
+// ---
+
 #include "components/enterprise/client_certificates/core/private_key_factory.h"
 
 #include <array>

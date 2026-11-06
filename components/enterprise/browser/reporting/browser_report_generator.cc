@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser report generator implementation
+// summary: Implements generation of browser reports with version, channel, executable path and user profile info.
+// ---
+
 #include "components/enterprise/browser/reporting/browser_report_generator.h"
 
 #include <utility>

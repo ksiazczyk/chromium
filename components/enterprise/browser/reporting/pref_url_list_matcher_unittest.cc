@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefURLListMatcher unit tests
+// summary: Unit tests covering URL matching, subdomain handling and priority tie-breaking rules of PrefURLListMatcher.
+// ---
+
 #include "components/enterprise/browser/reporting/pref_url_list_matcher.h"
 
 #include <memory>

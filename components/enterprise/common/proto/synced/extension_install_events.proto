@@ -4,6 +4,12 @@
 
 // Events related to installing policy based extensions.
 
+// ---docerion
+// type: source
+// title: Extension install event protobuf
+// summary: Defines the ExtensionAppInstallEvent message reporting policy-based extension installation events, with install stages, failure reasons, and device details.
+// ---
+
 syntax = "proto3";
 
 package chrome.cros.reporting.proto;

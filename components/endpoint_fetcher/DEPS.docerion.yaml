@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed dependency rules for endpoint fetcher
+summary: Lists the directories whose headers the endpoint fetcher component is allowed to include.

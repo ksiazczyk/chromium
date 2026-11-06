@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock endpoint fetcher implementation
+// summary: Implements MockEndpointFetcher so tests can stub fetch results with configurable response bodies, status codes and errors.
+// ---
+
 #include <string>
 #include <vector>
 
