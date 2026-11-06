@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router delegate implementation
+// summary: Implements the Viz-side RenderInputRouterDelegate, forwarding input events and acks to observers and providing input handling information within Viz.
+// ---
+
 #include "components/viz/service/input/render_input_router_delegate_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostFrameSinkManager test API
+// summary: Declares a test wrapper for HostFrameSinkManager that lets unit tests override hit test data for event routing without Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_HOST_FRAME_SINK_MANAGER_TEST_API_H_
 #define COMPONENTS_VIZ_TEST_HOST_FRAME_SINK_MANAGER_TEST_API_H_
 

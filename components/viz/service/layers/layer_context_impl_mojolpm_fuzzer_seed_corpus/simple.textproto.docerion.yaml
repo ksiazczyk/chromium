@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: data
+title: Simple seed input for layer context impl mojolpm fuzzer
+summary: Text-format protobuf seed input defining display tree update actions with layer, mirror, nine-patch, and scrollbar layers for the layer context impl mojolpm fuzzer.

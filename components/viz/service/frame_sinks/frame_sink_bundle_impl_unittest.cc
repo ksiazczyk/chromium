@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkBundleImpl unit tests
+// summary: Unit tests verifying bundled frame submission, resource returns, and begin frame batching behavior of FrameSinkBundleImpl.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_sink_bundle_impl.h"
 
 #include <cstdint>

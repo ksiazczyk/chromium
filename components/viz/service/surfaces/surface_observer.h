@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceObserver interface header
+// summary: Declares the SurfaceObserver interface with callbacks for surface activation, damage, destruction, references, and expected damage events in the Viz compositor.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_OBSERVER_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render input router iterator class declaration
+// summary: Declares RenderInputRouterIteratorImpl, an iterator over render input routers looked up by FrameSinkId in the input manager.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_ITERATOR_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_ITERATOR_IMPL_H_
 

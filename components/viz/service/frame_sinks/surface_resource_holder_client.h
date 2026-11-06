@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface resource holder client interface
+// summary: Declares the SurfaceResourceHolderClient interface, whose ReturnResources callback fires when the display compositor is done using resources.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SURFACE_RESOURCE_HOLDER_CLIENT_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SURFACE_RESOURCE_HOLDER_CLIENT_H_
 

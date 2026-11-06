@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkVideoCapturerImpl class declaration
+// summary: Declares the capturer that captures a frame sink's surface as a video stream, resolves capture targets, and delivers frames to consumers via Mojo.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_FRAME_SINK_VIDEO_CAPTURER_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_FRAME_SINK_VIDEO_CAPTURER_IMPL_H_
 

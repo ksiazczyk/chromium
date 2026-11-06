@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for viz tests
+summary: Defines the allowed include dependencies for the components/viz/test directory, with per-file exceptions for specific test and stub sources.

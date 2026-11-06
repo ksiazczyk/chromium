@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test output surface provider implementation
+// summary: Implements a test output surface provider that creates fake Skia or software output surfaces for display tests.
+// ---
+
 #include "components/viz/test/test_output_surface_provider.h"
 
 #include "components/viz/service/display/display_compositor_memory_and_task_controller.h"

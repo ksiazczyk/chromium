@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Mojo external begin frame source implementation
+// summary: Implements the iOS variant of the Mojo begin frame source, issuing external begin frames without acks and forwarding frame needs and preferred intervals to the client.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_mojo_ios.h"
 
 #include <utility>

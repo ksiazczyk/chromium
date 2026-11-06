@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestManager implementation
+// summary: Implements storage, validation, and lookup of HitTestRegionLists submitted with compositor frames, keyed by surface and frame index.
+// ---
+
 #include "components/viz/service/hit_test/hit_test_manager.h"
 
 #include <utility>

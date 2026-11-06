@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl tiling unit tests
+// summary: Unit tests covering tiling and tile lifecycle for TileDisplay layers, including solid color and resource tiles sent via UpdateDisplayTiling.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <limits>

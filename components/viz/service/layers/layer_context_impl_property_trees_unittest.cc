@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl property trees unit tests
+// summary: Unit tests verifying that transform, clip, effect and scroll property tree changes in LayerContextImpl trigger cached data resets and draw property updates.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <limits>

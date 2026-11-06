@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuHostImpl test API implementation
+// summary: Implements the test API for GpuHostImpl, including a hook delegate that forwards calls to the original delegate plus helpers for flushing and setting the GPU service.
+// ---
+
 #include "components/viz/test/gpu_host_impl_test_api.h"
 
 #include <algorithm>

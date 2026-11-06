@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VizTestSuite declaration
+// summary: Declares VizTestSuite, a base::TestSuite subclass providing shared initialization, shutdown, and a static RunUntilIdle helper for viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_VIZ_TEST_SUITE_H_
 #define COMPONENTS_VIZ_TEST_VIZ_TEST_SUITE_H_
 

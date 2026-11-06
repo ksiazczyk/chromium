@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable shared image video frame pool class declaration
+// summary: Declares the MappableSharedImageVideoFramePool class, a VideoFramePool that reserves frames backed by mappable shared images and tracks pool generations for buffer bookkeeping.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point for viz perftests
+// summary: Main function that initializes the Viz test suite and runs perf tests serially to avoid distorting measurements.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "components/viz/test/test_gpu_service_holder.h"

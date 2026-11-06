@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VizMainImpl dependency injection
+// summary: Verifies with mocks that VizMainImpl uses the dependency-injected task runners, UKM recorder, and compositor thread runner.
+// ---
+
 #include "components/viz/service/main/viz_main_impl.h"
 
 #include <memory>

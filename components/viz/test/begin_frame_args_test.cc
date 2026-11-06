@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginFrameArgs test helpers
+// summary: Provides factory functions to create BeginFrameArgs for tests plus equality operators and gtest printing helpers for BeginFrameArgs and BeginFrameAck.
+// ---
+
 #include "components/viz/test/begin_frame_args_test.h"
 
 #include <stdint.h>

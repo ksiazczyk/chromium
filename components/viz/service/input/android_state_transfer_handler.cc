@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android state transfer handler implementation
+// summary: Implements queuing and matching of Android input events with touch transfer states from the browser, dropping out-of-order sequences and recording histograms.
+// ---
+
 #include "components/viz/service/input/android_state_transfer_handler.h"
 
 #include <utility>

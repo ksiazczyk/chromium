@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture overlay implementation
+// summary: Implements the FrameSinkVideoCaptureOverlay mojo interface, scaling and color-converting a client overlay image before blitting it onto captured video frames.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/video_capture_overlay.h"
 
 #include <algorithm>

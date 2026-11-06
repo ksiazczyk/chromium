@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android external begin frame source implementation
+// summary: Implements ExternalBeginFrameSourceAndroid, driving begin frames from Android VSync signals via AChoreographer callbacks with supported refresh rate handling.
+// ---
+
 #include "components/viz/service/frame_sinks/external_begin_frame_source_android.h"
 
 #include <sys/types.h>

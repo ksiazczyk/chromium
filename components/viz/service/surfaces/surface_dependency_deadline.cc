@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceDependencyDeadline implementation
+// summary: Implements SurfaceDependencyDeadline, which manages global, per-dependency, and view transition deadlines used to decide when blocked surface frames may activate.
+// ---
+
 #include "components/viz/service/surfaces/surface_dependency_deadline.h"
 
 #include <utility>

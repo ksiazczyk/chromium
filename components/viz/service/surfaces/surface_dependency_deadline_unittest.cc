@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceDependencyDeadline unit tests
+// summary: Unit tests for SurfaceDependencyDeadline covering per-dependency deadlines, early activation when all dependencies expire, and deadline resolution behavior.
+// ---
+
 #include "components/viz/service/surfaces/surface_dependency_deadline.h"
 
 #include <utility>

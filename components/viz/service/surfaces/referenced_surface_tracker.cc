@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface reference difference computation
+// summary: Implements GetSurfaceReferenceDifference, which computes surface references to add or remove between old and new referenced surface sets.
+// ---
+
 #include "components/viz/service/surfaces/referenced_surface_tracker.h"
 
 #include "base/check.h"

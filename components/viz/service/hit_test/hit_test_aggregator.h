@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestAggregator class declaration
+// summary: Declares HitTestAggregator, which assembles HitTestRegion data for one display from the HitTestManager and provides it to HitTestQuery.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_HIT_TEST_HIT_TEST_AGGREGATOR_H_
 #define COMPONENTS_VIZ_SERVICE_HIT_TEST_HIT_TEST_AGGREGATOR_H_
 

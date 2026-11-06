@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VizTestSuite implementation
+// summary: Implements the VizTestSuite base test suite that initializes the task environment, platform event source, GL surface, paths, and discardable memory allocator.
+// ---
+
 #include "components/viz/test/viz_test_suite.h"
 
 #include "base/threading/thread_id_name_manager.h"

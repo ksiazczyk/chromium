@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameTracker class declaration
+// summary: Declares BeginFrameTracker, which counts outstanding begin frames to throttle or stop sending frames to unresponsive clients.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_BEGIN_FRAME_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_BEGIN_FRAME_TRACKER_H_
 

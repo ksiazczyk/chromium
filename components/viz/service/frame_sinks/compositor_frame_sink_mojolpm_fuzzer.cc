@@ -27,6 +27,12 @@
 // DCHECK_EQ(result, SubmitResult::ACCEPTED) on a non-accepted result), so
 // malformed fuzz frames are rejected cleanly instead of aborting the process.
 
+// ---docerion
+// type: source
+// title: CompositorFrameSink MojoLPM fuzzer harness
+// summary: MojoLPM fuzzer exercising the viz.mojom.CompositorFrameSink interface through a real CompositorFrameSinkSupport backed by a FrameSinkManagerImpl.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

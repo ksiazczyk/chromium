@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android fling scheduler implementation
+// summary: Implements fling progress scheduling for the render input router by observing the begin frame source in viz.
+// ---
+
 #include "components/viz/service/input/fling_scheduler_android.h"
 
 #include "components/input/fling_controller.h"

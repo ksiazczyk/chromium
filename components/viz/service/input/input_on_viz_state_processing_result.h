@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input on Viz state processing result enum
+// summary: Defines the InputOnVizStateProcessingResult enum of histogram-persisted outcome values for processing input on Viz and declares a helper to emit the result histogram.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_INPUT_ON_VIZ_STATE_PROCESSING_RESULT_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_INPUT_ON_VIZ_STATE_PROCESSING_RESULT_H_
 

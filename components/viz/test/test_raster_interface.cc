@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRasterInterface implementation for unit tests
+// summary: Implements a fake GPU raster interface that simulates sync tokens, queries, and context loss for unit tests that do not draw anything.
+// ---
+
 #include "components/viz/test/test_raster_interface.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test GPU service holder for viz tests
+// summary: Declares a singleton holder that runs GPU threads and provides a GpuServiceImpl for creating Skia output surfaces in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_GPU_SERVICE_HOLDER_H_
 #define COMPONENTS_VIZ_TEST_TEST_GPU_SERVICE_HOLDER_H_
 

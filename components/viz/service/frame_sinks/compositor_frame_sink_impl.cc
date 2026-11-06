@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameSinkImpl implementation
+// summary: Implements the viz portion of a non-root CompositorFrameSink, routing client messages through a bundle proxy for batching when a bundle id is set.
+// ---
+
 #include "components/viz/service/frame_sinks/compositor_frame_sink_impl.h"
 
 #include <memory>

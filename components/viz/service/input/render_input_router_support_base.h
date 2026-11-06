@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterSupportBase class declaration
+// summary: Declares the base RenderWidgetHostViewInput implementation for Viz input routing, with a delegate interface for hit-test queries, frame metadata, and parent or root support lookup.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_BASE_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_BASE_H_
 

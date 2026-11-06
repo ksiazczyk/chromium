@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake compositor frame sink client implementation
+// summary: Implements a fake CompositorFrameSinkClient that records returned resources, begin frame counts, and frame timing details for viz tests.
+// ---
+
 #include "components/viz/test/fake_compositor_frame_sink_client.h"
 
 #include <utility>

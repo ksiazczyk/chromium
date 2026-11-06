@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android render input router support implementation
+// summary: Implements the Android-specific render input router support, handling touch events with a filtered gesture provider and routing touch and gesture events.
+// ---
+
 #include "components/viz/service/input/render_input_router_support_android.h"
 
 #include "base/trace_event/trace_event.h"

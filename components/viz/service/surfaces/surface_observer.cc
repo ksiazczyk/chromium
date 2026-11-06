@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceObserver default implementation
+// summary: Provides the default SurfaceObserver::OnSurfaceDamaged implementation, which reports that the surface was not damaged.
+// ---
+
 #include "components/viz/service/surfaces/surface_observer.h"
 
 #include "ui/latency/latency_info.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the viz service layers directory
+summary: Defines allowed include paths for the layers directory, with extra rules for the mojolpm fuzzer and the layer tree host impl unittest.

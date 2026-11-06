@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginFrameArgs test helper declarations
+// summary: Declares BeginFrameArgs factory functions and gtest comparison and pretty-printing helpers used across viz begin frame tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_BEGIN_FRAME_ARGS_TEST_H_
 #define COMPONENTS_VIZ_TEST_BEGIN_FRAME_ARGS_TEST_H_
 

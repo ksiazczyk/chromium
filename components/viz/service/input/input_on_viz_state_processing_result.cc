@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input on viz state processing result helper
+// summary: Emits the Android.InputOnViz.Viz.StateProcessingResult3 histogram for input state processing outcomes.
+// ---
+
 #include "components/viz/service/input/input_on_viz_state_processing_result.h"
 
 #include "base/metrics/histogram_functions.h"

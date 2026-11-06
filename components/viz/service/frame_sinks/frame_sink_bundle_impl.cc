@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkBundleImpl implementation
+// summary: Implements frame sink bundles that batch begin frames and resource acks for grouped compositor frame sink clients sharing a begin frame source.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_sink_bundle_impl.h"
 
 #include <map>

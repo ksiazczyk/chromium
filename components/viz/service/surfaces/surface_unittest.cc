@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface unit tests
+// summary: Unit tests for the Surface class covering presentation callbacks, surface ID allocation, and copy output request behavior.
+// ---
+
 #include "components/viz/service/surfaces/surface.h"
 
 #include <utility>

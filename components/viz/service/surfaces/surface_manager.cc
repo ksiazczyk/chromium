@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceManager implementation
+// summary: Implements SurfaceManager, which creates and destroys surfaces, tracks permanent and temporary surface references, and garbage-collects surfaces unreachable from the root.
+// ---
+
 #include "components/viz/service/surfaces/surface_manager.h"
 
 #include <stddef.h>

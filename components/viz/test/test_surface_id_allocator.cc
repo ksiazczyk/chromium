@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSurfaceIdAllocator implementation
+// summary: Implements a simple SurfaceId allocator for tests that creates an initially valid LocalSurfaceId and increments its sequence number.
+// ---
+
 #include "components/viz/test/test_surface_id_allocator.h"
 
 #include "base/unguessable_token.h"

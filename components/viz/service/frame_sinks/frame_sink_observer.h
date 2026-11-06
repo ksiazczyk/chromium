@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkObserver interface
+// summary: Defines the FrameSinkObserver interface with callbacks for frame sink lifecycle, frame begin and finish, scale factor changes, and capture events.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_OBSERVER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_OBSERVER_H_
 

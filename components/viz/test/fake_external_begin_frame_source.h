@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake external begin frame source for viz tests
+// summary: Declares a fake BeginFrameSource that creates begin frame args, manages observers, and dispatches test begin frames for viz unit tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_EXTERNAL_BEGIN_FRAME_SOURCE_H_
 #define COMPONENTS_VIZ_TEST_FAKE_EXTERNAL_BEGIN_FRAME_SOURCE_H_
 

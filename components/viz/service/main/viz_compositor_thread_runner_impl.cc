@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizCompositorThreadRunner implementation
+// summary: Implements the compositor thread runner, creating and managing the VizCompositorThread along with its frame sink manager and supporting providers.
+// ---
+
 #include "components/viz/service/main/viz_compositor_thread_runner_impl.h"
 
 #include <utility>

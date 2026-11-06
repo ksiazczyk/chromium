@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLScaler test utility with SMPTE test images
+// summary: Provides helpers for GLScaler tests to allocate bitmaps, build and verify scaled SMPTE color bar test images, and convert colors.
+// ---
+
 #include "components/viz/test/gl_scaler_test_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub surface client for viz tests
+// summary: Declares StubSurfaceClient, a no-op SurfaceClient implementation used as a test double for surface lifecycle and resource callbacks in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_STUB_SURFACE_CLIENT_H_
 #define COMPONENTS_VIZ_TEST_STUB_SURFACE_CLIENT_H_
 

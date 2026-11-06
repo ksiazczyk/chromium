@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizMainImpl class declaration
+// summary: Declares VizMainImpl, the mojom::VizMain implementation that wires external dependencies, the GPU service, and the compositor thread runner together.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_MAIN_VIZ_MAIN_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_MAIN_VIZ_MAIN_IMPL_H_
 

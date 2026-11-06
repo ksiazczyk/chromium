@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point for viz unit tests
+// summary: Main function that initializes the Viz test suite and launches the viz unit tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "components/viz/test/viz_test_suite.h"

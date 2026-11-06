@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDetector implementation
+// summary: Implements VideoDetector, which analyzes per-client frame damage sizes and update rates to detect when video is playing and reports activity state changes to observers.
+// ---
+
 #include "components/viz/service/frame_sinks/video_detector.h"
 
 #include <array>

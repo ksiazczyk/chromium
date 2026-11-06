@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceManagerDelegate interface
+// summary: Declares the SurfaceManagerDelegate interface used by SurfaceManager to query frame sink debug labels, manage frame sink observers, and check view transition tokens.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_MANAGER_DELEGATE_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_MANAGER_DELEGATE_H_
 

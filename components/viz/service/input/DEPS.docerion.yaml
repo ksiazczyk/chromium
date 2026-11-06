@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz input directory dependency rules
+summary: Defines allowed include dependencies for the viz service input directory, with per-file exceptions for JNI, GPU surface, and Blink input headers.

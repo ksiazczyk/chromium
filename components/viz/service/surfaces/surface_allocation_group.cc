@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceAllocationGroup implementation
+// summary: Implements SurfaceAllocationGroup, which tracks surfaces sharing an embed token, manages blocked and active embedders, and marks the group for destruction when empty.
+// ---
+
 #include "components/viz/service/surfaces/surface_allocation_group.h"
 
 #include <algorithm>

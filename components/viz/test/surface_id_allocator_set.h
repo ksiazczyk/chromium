@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface ID allocator set for tests
+// summary: Declares SurfaceIdAllocatorSet, a test helper that holds local surface ID allocators keyed by FrameSinkId and creates SurfaceIds with given sequence numbers.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_SURFACE_ID_ALLOCATOR_SET_H_
 #define COMPONENTS_VIZ_TEST_SURFACE_ID_ALLOCATOR_SET_H_
 

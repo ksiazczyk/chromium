@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame pool base class declaration
+// summary: Declares the abstract VideoFramePool interface for reserving video frames, cloning buffer handles for delivery, and reporting pool utilization.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_VIDEO_FRAME_POOL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_VIDEO_FRAME_POOL_H_
 

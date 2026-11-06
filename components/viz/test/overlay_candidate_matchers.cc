@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay candidate gmock matchers implementation
+// summary: Implements gmock matchers and printers for OverlayCandidate, covering render pass, solid color, resource, clip, rounded corners, and overlay type assertions.
+// ---
+
 #include "components/viz/test/overlay_candidate_matchers.h"
 
 #include "base/trace_event/traced_value.h"

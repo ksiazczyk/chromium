@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock compositor frame sink client implementation
+// summary: Implements the mock CompositorFrameSinkClient, providing a bound mojo remote for use in compositor tests.
+// ---
+
 #include "components/viz/test/mock_compositor_frame_sink_client.h"
 
 #include "components/viz/common/frame_sinks/begin_frame_args.h"

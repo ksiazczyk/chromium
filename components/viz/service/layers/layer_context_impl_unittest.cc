@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerContextImpl unit tests
+// summary: Unit tests for LayerContextImpl's DoUpdateDisplayTree, covering latency info validation, transferable UI resource requests, layer handling and error cases.
+// ---
+
 #include "components/viz/service/layers/layer_context_impl.h"
 
 #include <algorithm>

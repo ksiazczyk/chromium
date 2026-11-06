@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: VRP flags dependency allowlist
+summary: Restricts includes in the component to Mojo bindings, sandbox policy switches, and network service switches.

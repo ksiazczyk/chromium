@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake display client implementation
+// summary: Implements a no-op fake mojom DisplayClient that binds display remotes for viz tests, with platform-specific stub methods.
+// ---
+
 #include "components/viz/test/fake_display_client.h"
 
 #include "build/build_config.h"

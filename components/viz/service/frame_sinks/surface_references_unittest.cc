@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface reference tracking unit tests
+// summary: Unit tests for surface reference tracking in CompositorFrameSinkSupport and SurfaceManager, covering adding, removing and temporary surface references.
+// ---
+
 #include <stddef.h>
 
 #include <unordered_map>

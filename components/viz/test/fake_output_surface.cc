@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake software output surface implementation
+// summary: Implements FakeSoftwareOutputSurface, a test OutputSurface that records swapped frames and posts swap buffers acknowledgements.
+// ---
+
 #include "components/viz/test/fake_output_surface.h"
 
 #include "base/functional/bind.h"

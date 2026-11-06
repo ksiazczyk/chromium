@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface ID allocator set implementation
+// summary: Implements SurfaceIdAllocatorSet, which stores ParentLocalSurfaceIdAllocators per FrameSinkId and builds SurfaceIds with embed tokens for tests.
+// ---
+
 #include "components/viz/test/surface_id_allocator_set.h"
 
 namespace viz {

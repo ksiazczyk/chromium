@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android fling scheduler class declaration
+// summary: Declares FlingSchedulerAndroid, which drives fling animation progress from begin frame notifications.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_FLING_SCHEDULER_ANDROID_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_FLING_SCHEDULER_ANDROID_H_
 

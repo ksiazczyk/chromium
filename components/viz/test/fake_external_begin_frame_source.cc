@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake external begin frame source implementation
+// summary: Implements a test BeginFrameSource that delivers begin frames to observers on demand or automatically at a configured refresh rate.
+// ---
+
 #include "components/viz/test/fake_external_begin_frame_source.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkBundleImpl header
+// summary: Declares FrameSinkBundleImpl, which aggregates and batches compositor frame submissions and client messages for frame sinks belonging to the same client in the viz service.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_BUNDLE_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_FRAME_SINK_BUNDLE_IMPL_H_
 

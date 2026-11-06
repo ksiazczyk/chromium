@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'InputTransferHandlerViz: Android touch gesture transfer for viz'
+// summary: Java helper called from native viz code that uses Android's WindowManager to transfer a touch gesture between viz and browser input transfer tokens.
+// ---
+
 package org.chromium.components.viz.service.input;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test context provider for viz tests
+// summary: Declares TestContextProvider, a fake ContextProvider and RasterContextProvider with factory methods for GLES, raster, and worker contexts used in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_CONTEXT_PROVIDER_H_
 #define COMPONENTS_VIZ_TEST_TEST_CONTEXT_PROVIDER_H_
 

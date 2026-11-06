@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizTouchStateHandler class declaration
+// summary: Declares the handler that maintains VizTouchState in shared memory, observing Android motion events to update touch sequence state and transfer timing.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_VIZ_TOUCH_STATE_HANDLER_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_VIZ_TOUCH_STATE_HANDLER_H_
 

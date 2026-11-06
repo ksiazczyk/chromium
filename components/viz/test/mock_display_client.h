@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock display client
+// summary: Declares a gmock implementation of the DisplayClient mojo interface with platform-specific mocked methods for display tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_MOCK_DISPLAY_CLIENT_H_
 #define COMPONENTS_VIZ_TEST_MOCK_DISPLAY_CLIENT_H_
 

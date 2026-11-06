@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info collection GPU service implementation
+// summary: Implements the viz info-collection GPU service that reports supported DirectX feature levels and device performance info to the GPU host over Mojo.
+// ---
+
 #include "components/viz/service/gl/info_collection_gpu_service_impl.h"
 
 #include <utility>

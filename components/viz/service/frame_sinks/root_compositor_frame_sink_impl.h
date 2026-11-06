@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root compositor frame sink header
+// summary: Declares RootCompositorFrameSinkImpl, which owns the Display and implements the CompositorFrameSink and DisplayPrivate Mojo interfaces for the root frame sink.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_ROOT_COMPOSITOR_FRAME_SINK_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_ROOT_COMPOSITOR_FRAME_SINK_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface implementation
+// summary: Implements the Surface class that manages compositor frames, copy-of-output requests, dependencies, and presentation feedback.
+// ---
+
 #include "components/viz/service/surfaces/surface.h"
 
 #include <stddef.h>

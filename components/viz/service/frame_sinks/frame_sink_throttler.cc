@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkThrottler implementation
+// summary: Implements FrameSinkThrottler logic that computes the begin frame interval from throttle, cadence, and vsync interval signals.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_sink_throttler.h"
 
 #include <algorithm>

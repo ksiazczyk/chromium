@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the video_capture directory
+summary: Defines allowed include dependencies (media/base, media/capture, media/gfx, media/mojo) for this directory.

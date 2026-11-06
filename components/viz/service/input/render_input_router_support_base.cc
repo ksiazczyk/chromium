@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterSupportBase implementation
+// summary: Implements the base render input router support view, forwarding touch and gesture events to the render input router while leaving mouse, wheel, and stylus handling unimplemented.
+// ---
+
 #include "components/viz/service/input/render_input_router_support_base.h"
 
 #include "base/notimplemented.h"

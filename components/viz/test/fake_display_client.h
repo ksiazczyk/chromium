@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake display client
+// summary: Declares a fake mojom DisplayClient with platform-specific no-op overrides used in viz compositor tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_DISPLAY_CLIENT_H_
 #define COMPONENTS_VIZ_TEST_FAKE_DISPLAY_CLIENT_H_
 

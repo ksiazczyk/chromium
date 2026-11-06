@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface resource holder header
+// summary: Declares SurfaceResourceHolder, which manages the lifetime of resources submitted by a SurfaceFactory until they are no longer referenced.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SURFACE_RESOURCE_HOLDER_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_SURFACE_RESOURCE_HOLDER_H_
 

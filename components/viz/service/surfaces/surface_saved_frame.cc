@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceSavedFrame implementation
+// summary: Implements capture of compositor frame content into saved frames for view transitions using copy output requests and shared images.
+// ---
+
 #include "components/viz/service/surfaces/surface_saved_frame.h"
 
 #include <algorithm>

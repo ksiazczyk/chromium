@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMB video frame pool context provider implementation
+// summary: Implements the viz context provider that creates contexts for the media GMB video frame pool, creating and destroying shared images on the GPU with context-lost handling.
+// ---
+
 #include "components/viz/service/frame_sinks/gmb_video_frame_pool_context_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameTracker implementation
+// summary: Implements tracking of sent begin frames and received acks so unresponsive clients can be throttled or stopped from receiving further begin frames.
+// ---
+
 #include "components/viz/service/frame_sinks/begin_frame_tracker.h"
 
 namespace viz {

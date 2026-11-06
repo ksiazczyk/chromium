@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory video frame pool implementation
+// summary: Implements a pool of video frames backed by read-only shared memory regions, reusing, reallocating, and wrapping buffers for efficient transport across mojo service boundaries.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/shared_memory_video_frame_pool.h"
 
 #include <algorithm>

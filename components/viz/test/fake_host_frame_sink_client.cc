@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake host frame sink client implementation
+// summary: Implements FakeHostFrameSinkClient, recording the last frame token seen in OnFrameTokenChanged callbacks.
+// ---
+
 #include "components/viz/test/fake_host_frame_sink_client.h"
 
 #include "base/time/time.h"

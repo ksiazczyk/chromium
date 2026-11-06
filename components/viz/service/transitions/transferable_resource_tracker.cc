@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransferableResourceTracker implementation
+// summary: Implements import, ref counting and release of transferable resources created from saved frame results for view transitions.
+// ---
+
 #include "components/viz/service/transitions/transferable_resource_tracker.h"
 
 #include <limits>

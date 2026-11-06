@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the video_capture directory
+summary: Lists the Chromium accounts responsible for reviewing changes in this directory.

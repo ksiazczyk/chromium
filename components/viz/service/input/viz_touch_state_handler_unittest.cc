@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VizTouchStateHandler unit tests
+// summary: Unit tests for VizTouchStateHandler that generate Android motion event sequences and verify the shared memory touch state updates, running only on Android V and above.
+// ---
+
 #include "components/viz/service/input/viz_touch_state_handler.h"
 
 #include <android/input.h>

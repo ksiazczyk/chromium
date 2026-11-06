@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test output surface provider for viz tests
+// summary: Declares a test OutputSurfaceProvider that supplies fake output surfaces in place of real GPU-backed display surfaces.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_OUTPUT_SURFACE_PROVIDER_H_
 #define COMPONENTS_VIZ_TEST_TEST_OUTPUT_SURFACE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Skia output surface for viz tests
+// summary: Declares a fake SkiaOutputSurface test double with factory methods for 3D contexts and Skia rendering hooks used in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_FAKE_SKIA_OUTPUT_SURFACE_H_
 #define COMPONENTS_VIZ_TEST_FAKE_SKIA_OUTPUT_SURFACE_H_
 

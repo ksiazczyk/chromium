@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VRP flags enablement and host resolver setup
+// summary: Checks for the --vrp-flags switch, forbids it with --no-sandbox, and maps victim.test to 127.0.0.1:8000 during early initialization.
+// ---
+
 #include "components/vrp_flags/vrp_flags.h"
 
 #include "base/check.h"

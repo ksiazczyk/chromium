@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameSinkSupport implementation
+// summary: Implements frame submission validation, begin frame scheduling decisions, resource handling, and surface management for compositor frame sinks.
+// ---
+
 #include "components/viz/service/frame_sinks/compositor_frame_sink_support.h"
 
 #include <algorithm>

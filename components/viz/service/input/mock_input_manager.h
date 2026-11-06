@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input manager class declaration
+// summary: Declares MockInputManager, a test subclass of InputManager exposing internal router and support maps plus size and lookup accessors for tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_MOCK_INPUT_MANAGER_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_MOCK_INPUT_MANAGER_H_
 

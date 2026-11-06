@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderInputRouterSupportAndroid class declaration
+// summary: Declares the Android-specific render input router support that handles Android touch events, gesture detection, event acks, and coordinate transforms for input on Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_ANDROID_H_
 #define COMPONENTS_VIZ_SERVICE_INPUT_RENDER_INPUT_ROUTER_SUPPORT_ANDROID_H_
 

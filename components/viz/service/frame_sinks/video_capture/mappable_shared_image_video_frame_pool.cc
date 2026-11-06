@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable shared image video frame pool implementation
+// summary: Implements a video frame pool for viz frame sink video capture that reserves frames backed by mappable shared images and delivers GPU memory buffer handles, recreating the pool on context loss.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/mappable_shared_image_video_frame_pool.h"
 
 #include <utility>

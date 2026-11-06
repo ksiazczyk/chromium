@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test frame sink manager implementation
+// summary: Implements TestFrameSinkManagerImpl, a stub mojom::FrameSinkManager that binds Mojo receivers and immediately runs callbacks for tests.
+// ---
+
 #include "components/viz/test/test_frame_sink_manager.h"
 
 #include <utility>

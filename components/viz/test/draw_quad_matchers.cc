@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawQuad gMock matcher implementations
+// summary: Implements gMock matchers and printers that check DrawQuad material types and attributes such as rect, transform, opacity, and clip in viz tests.
+// ---
+
 #include "components/viz/test/draw_quad_matchers.h"
 
 #include "components/viz/common/quads/compositor_render_pass_draw_quad.h"

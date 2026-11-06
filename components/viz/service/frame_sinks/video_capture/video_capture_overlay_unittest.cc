@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture overlay unit tests
+// summary: Unit tests for VideoCaptureOverlay using a mock frame source and pixel comparison to verify overlay rendering, bounds handling, and image blending behavior.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/video_capture_overlay.h"
 
 #include <array>

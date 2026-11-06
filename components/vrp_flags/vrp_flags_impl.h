@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrpFlagsImpl class declaration
+// summary: Declares the singleton VrpFlagsImpl class with write allocations, read flag state, and testing hooks.
+// ---
+
 #ifndef COMPONENTS_VRP_FLAGS_VRP_FLAGS_IMPL_H_
 #define COMPONENTS_VRP_FLAGS_VRP_FLAGS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerContextImpl implementation
+// summary: Implements the viz LayerContext mojom API, applying client layer tree updates to a VizLayerTreeHostImpl that renders the display tree in the viz process.
+// ---
+
 #include "components/viz/service/layers/layer_context_impl.h"
 
 #include <algorithm>

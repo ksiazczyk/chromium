@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Viz test support build definition
+summary: GN build file defining the viz test_support static library and buildflag headers that enable GL, Vulkan, and Skia Graphite backend tests.

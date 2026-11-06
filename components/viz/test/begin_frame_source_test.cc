@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock begin frame observer implementation
+// summary: Implements MockBeginFrameObserver with default gmock behavior and MockInputClient used by begin frame source tests.
+// ---
+
 #include "components/viz/test/begin_frame_source_test.h"
 
 #include "base/location.h"

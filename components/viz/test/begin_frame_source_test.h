@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Begin frame source test macros and mocks
+// summary: Declares MockBeginFrameObserver and macros for expecting begin frame used, dropped, missed, and paused events in begin frame source tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_BEGIN_FRAME_SOURCE_TEST_H_
 #define COMPONENTS_VIZ_TEST_BEGIN_FRAME_SOURCE_TEST_H_
 

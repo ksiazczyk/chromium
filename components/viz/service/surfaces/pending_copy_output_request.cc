@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCopyOutputRequest implementation
+// summary: Implements the pending copy-of-output request, including a deadline timer that sends a timeout error when the response deadline passes.
+// ---
+
 #include "components/viz/service/surfaces/pending_copy_output_request.h"
 
 #include <utility>

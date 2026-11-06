@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test GLES2 interface implementation
+// summary: Implements TestGLES2Interface, a fake GLES2 interface that generates and tracks texture, buffer, framebuffer, shader, and program IDs for viz unit tests.
+// ---
+
 #include "components/viz/test/test_gles2_interface.h"
 
 #include "base/compiler_specific.h"

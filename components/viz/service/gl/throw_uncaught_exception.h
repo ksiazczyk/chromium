@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throw uncaught exception header
+// summary: Declares ThrowUncaughtException, a helper that raises a Java exception to unwind the Java stack completely on Android.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_THROW_UNCAUGHT_EXCEPTION_H_
 #define COMPONENTS_VIZ_SERVICE_GL_THROW_UNCAUGHT_EXCEPTION_H_
 

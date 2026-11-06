@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root compositor frame sink implementation
+// summary: Implements the viz portion of a root compositor frame sink, owning the Display and wiring platform-specific external begin frame sources for Android, iOS, Mac and Windows.
+// ---
+
 #include "components/viz/service/frame_sinks/root_compositor_frame_sink_impl.h"
 
 #include <algorithm>

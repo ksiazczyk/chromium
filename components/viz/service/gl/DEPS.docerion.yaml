@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for the viz GL service directory
+summary: Defines the allowed include and dependency rules for the directory, listing permitted paths such as gpu, media, mojo, skia, and ui/gl.

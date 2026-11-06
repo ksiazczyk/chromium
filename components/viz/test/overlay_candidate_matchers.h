@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay candidate gmock matchers
+// summary: Declares gmock matchers and helpers for asserting properties of overlay candidates in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_OVERLAY_CANDIDATE_MATCHERS_H_
 #define COMPONENTS_VIZ_TEST_OVERLAY_CANDIDATE_MATCHERS_H_
 

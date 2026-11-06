@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test context support for viz tests
+// summary: Declares TestContextSupport, a fake gpu::ContextSupport with configurable callback ordering and sync point client ID for use in viz tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_TEST_TEST_CONTEXT_SUPPORT_H_
 #define COMPONENTS_VIZ_TEST_TEST_CONTEXT_SUPPORT_H_
 

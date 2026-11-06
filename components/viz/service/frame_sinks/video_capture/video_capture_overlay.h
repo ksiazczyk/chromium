@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture overlay class declaration
+// summary: Declares VideoCaptureOverlay, which blits a client-provided overlay image onto captured video frames and notifies a frame source of overlay state changes.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_VIDEO_CAPTURE_OVERLAY_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_VIDEO_CAPTURE_VIDEO_CAPTURE_OVERLAY_H_
 

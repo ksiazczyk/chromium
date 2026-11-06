@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for begin frame observer mocks
+// summary: Unit tests verifying that the MockBeginFrameObserver macros fail on missing, duplicate, or out-of-order begin frame calls and pass on correct sequences.
+// ---
+
 #include "components/viz/test/begin_frame_source_test.h"
 
 #include "components/viz/test/begin_frame_args_test.h"

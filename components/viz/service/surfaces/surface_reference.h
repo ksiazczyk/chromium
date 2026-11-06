@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceReference class declaration
+// summary: Declares the SurfaceReference class holding a reference from a parent surface to a child surface, with hashing and comparison support.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_REFERENCE_H_
 #define COMPONENTS_VIZ_SERVICE_SURFACES_SURFACE_REFERENCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info collection GPU service header
+// summary: Declares InfoCollectionGpuServiceImpl, the service running in the info-collection GPU process that serves DirectX and device performance info via Mojo.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_INFO_COLLECTION_GPU_SERVICE_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_GL_INFO_COLLECTION_GPU_SERVICE_IMPL_H_
 

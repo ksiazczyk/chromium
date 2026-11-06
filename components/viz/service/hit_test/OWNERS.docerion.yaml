@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Hit test directory OWNERS
+summary: Points to the shared OWNERS file in components/viz/common/hit_test for reviewer ownership of this directory.

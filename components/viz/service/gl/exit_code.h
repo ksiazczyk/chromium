@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exit codes and GPU context loss restart declaration
+// summary: Declares the viz ExitCode enum and the RestartGpuProcessForContextLoss function used to restart the GPU process after context loss without a crash report.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_GL_EXIT_CODE_H_
 #define COMPONENTS_VIZ_SERVICE_GL_EXIT_CODE_H_
 

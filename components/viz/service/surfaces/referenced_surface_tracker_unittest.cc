@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReferencedSurfaceTracker unit tests
+// summary: Unit tests for GetSurfaceReferenceDifference covering adding, removing, and unchanged surface references.
+// ---
+
 #include "components/viz/service/surfaces/referenced_surface_tracker.h"
 
 #include <memory>

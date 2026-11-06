@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkManagerImpl implementation
+// summary: Implements FrameSinkManagerImpl, which manages the BeginFrame hierarchy, frame sinks, surfaces, video capture, and hit test aggregation in the viz compositor service.
+// ---
+
 #include "components/viz/service/frame_sinks/frame_sink_manager_impl.h"
 
 #include <stddef.h>

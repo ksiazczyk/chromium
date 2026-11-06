@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake delay-based time source implementation
+// summary: Implements a fake DelayBasedTimeSource that takes the current time from an injected TickClock for deterministic scheduler tests.
+// ---
+
 #include "components/viz/test/fake_delay_based_time_source.h"
 
 #include "base/task/single_thread_task_runner.h"

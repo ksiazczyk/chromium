@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMB video frame pool context provider header
+// summary: Declares GmbVideoFramePoolContextProviderImpl, which creates contexts for the media GMB video frame pool on behalf of the viz GPU service.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_FRAME_SINKS_GMB_VIDEO_FRAME_POOL_CONTEXT_PROVIDER_IMPL_H_
 #define COMPONENTS_VIZ_SERVICE_FRAME_SINKS_GMB_VIDEO_FRAME_POOL_CONTEXT_PROVIDER_IMPL_H_
 

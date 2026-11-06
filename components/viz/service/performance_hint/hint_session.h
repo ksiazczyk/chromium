@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintSession interface header
+// summary: Declares the HintSession interface and factory that wrap Android PerformanceHintManager APIs so the OS can ramp CPU performance for rendering threads.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_PERFORMANCE_HINT_HINT_SESSION_H_
 #define COMPONENTS_VIZ_SERVICE_PERFORMANCE_HINT_HINT_SESSION_H_
 

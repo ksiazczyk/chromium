@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkVideoCapturerImpl implementation
+// summary: Implements the frame sink video capturer, capturing compositor frames into pooled buffers and logging capture duration and success UMA histograms.
+// ---
+
 #include "components/viz/service/frame_sinks/video_capture/frame_sink_video_capturer_impl.h"
 
 #include <algorithm>

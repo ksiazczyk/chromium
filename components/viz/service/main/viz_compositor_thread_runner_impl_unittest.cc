@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VizCompositorThreadRunnerImpl hang watching
+// summary: Tests hang watcher behavior of the compositor thread runner, including default enabling, feature flag control, and histogram reporting.
+// ---
+
 #include "components/viz/service/main/viz_compositor_thread_runner_impl.h"
 
 #include "base/synchronization/waitable_event.h"
