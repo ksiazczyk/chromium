@@ -1,0 +1,4 @@
+# Docerion header of profile_context_resolver.mm.
+type: source
+title: Profile context resolver implementation
+summary: Resolves tab IDs to URL loader, web state and web state list with kTabWentAway errors on failure and fetches the origin gating service.

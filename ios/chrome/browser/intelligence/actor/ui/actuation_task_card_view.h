@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActuationTaskCardView interface
+// summary: Declares the ActuationTaskCardView delegate protocol and a collapsible card view with title, subtitle, icon, and action button for agentic task interaction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_TASK_CARD_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_TASK_CARD_VIEW_H_
 

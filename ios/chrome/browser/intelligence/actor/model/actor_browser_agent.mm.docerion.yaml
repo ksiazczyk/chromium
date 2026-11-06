@@ -1,0 +1,4 @@
+# Docerion header of actor_browser_agent.mm.
+type: source
+title: ActorBrowserAgent implementation
+summary: Implements overlay command dispatching when the active web state or its actor control state changes.

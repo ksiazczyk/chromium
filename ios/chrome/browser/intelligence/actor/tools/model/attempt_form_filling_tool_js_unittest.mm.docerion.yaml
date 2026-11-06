@@ -1,0 +1,4 @@
+# Docerion header of attempt_form_filling_tool_js_unittest.mm.
+type: test
+title: Attempt form filling tool JavaScript tests
+summary: Web view JavaScript tests that exercise getAutofillRendererIds against a test page, covering lookups by node ID and by coordinates.

@@ -1,0 +1,4 @@
+# Docerion header of gradient_activity_indicator_view.mm.
+type: source
+title: Gradient activity indicator view
+summary: Objective-C++ implementation of an animated gradient activity indicator view for the iOS Chrome actor UI, drawing a conic gradient with stroke mask animations.

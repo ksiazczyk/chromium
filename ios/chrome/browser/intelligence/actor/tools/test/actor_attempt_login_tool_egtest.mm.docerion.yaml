@@ -1,0 +1,4 @@
+# Docerion header of actor_attempt_login_tool_egtest.mm.
+type: test
+title: Actor attempt login tool Earl Grey tests
+summary: Earl Grey tests verifying the attempt login tool fills login forms with stored credentials after device reauthentication.

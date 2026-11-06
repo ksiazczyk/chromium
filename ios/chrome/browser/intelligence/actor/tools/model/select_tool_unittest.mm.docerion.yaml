@@ -1,0 +1,4 @@
+# Docerion header of select_tool_unittest.mm.
+type: test
+title: Select tool unit tests
+summary: Unit tests for the Select tool's validation and execution behavior in the actor tools layer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll tool JavaScript feature header
+// summary: Declares ScrollToolJavaScriptFeature, which executes scroll and scroll-to actions in web frames and defines scroll result codes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_SCROLL_TOOL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_SCROLL_TOOL_JAVA_SCRIPT_FEATURE_H_
 

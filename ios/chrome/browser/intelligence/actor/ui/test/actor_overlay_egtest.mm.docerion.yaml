@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_egtest.mm.
+type: test
+title: Actor overlay Earl Grey UI tests
+summary: Earl Grey UI tests for the actor overlay, covering keyboard dismissal and scrim visibility with actor control states and a local test server.

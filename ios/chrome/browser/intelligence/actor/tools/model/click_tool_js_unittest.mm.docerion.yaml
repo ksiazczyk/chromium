@@ -1,0 +1,4 @@
+# Docerion header of click_tool_js_unittest.mm.
+type: test
+title: Click tool JavaScript unit tests
+summary: Browser-based JavaScript tests for the click tool script, verifying mouse event sequences when clicking elements served by an embedded test server.

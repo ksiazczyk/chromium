@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_coordinator_unittest.mm.
+type: test
+title: ActorOverlayCoordinator unit tests
+summary: Verifies that the overlay coordinator adds and removes its child view controller on start and stop, including handling of reentrant starts.

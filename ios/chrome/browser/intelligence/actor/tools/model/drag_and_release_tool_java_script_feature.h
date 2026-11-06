@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and release tool JavaScript feature header
+// summary: Declares the DragAndReleaseToolJavaScriptFeature class and its result code enum for executing drag and release actions in web frames.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_DRAG_AND_RELEASE_TOOL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_DRAG_AND_RELEASE_TOOL_JAVA_SCRIPT_FEATURE_H_
 

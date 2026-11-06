@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the actor coordinator
+summary: Defines the coordinator source set and its unit test target, listing sources and dependencies for the iOS actor intelligence feature.

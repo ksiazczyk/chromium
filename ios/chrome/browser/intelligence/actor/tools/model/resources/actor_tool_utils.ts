@@ -6,6 +6,12 @@
  * @fileoverview Utility functions for actuation.
  */
 
+// ---docerion
+// type: source
+// title: Actor tool actuation utilities
+// summary: Shared types and helpers for actor tools, including action target type guards, element lookup at coordinates, and disabled-element checks.
+// ---
+
 import {safeHasAttribute} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/safe_dom_utils.js';
 
 /**

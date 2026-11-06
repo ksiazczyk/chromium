@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for actor tools utilities
+summary: Defines source_set targets for tab actions, actor tool, browser, profile context and logging utilities plus their unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of actor_enterprise_policy_checker_ios.mm.
+type: source
+title: Actor enterprise policy checker implementation
+summary: Implements URL allow and blocklist evaluation with a cached CanActOnWeb value and change notifications from preference updates.

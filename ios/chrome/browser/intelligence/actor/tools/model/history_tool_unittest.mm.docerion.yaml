@@ -1,0 +1,4 @@
+# Docerion header of history_tool_unittest.mm.
+type: test
+title: History tool unit tests
+summary: Unit tests for the history actor tool, covering validation and execution of back and forward navigation actions.

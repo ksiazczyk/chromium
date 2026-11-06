@@ -1,0 +1,4 @@
+# Docerion header of actuation_task_card_view.mm.
+type: source
+title: ActuationTaskCardView implementation
+summary: Implements the collapsible actuation task card, including gradient background, chevron rotation, and animated collapse and expand transitions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskFormFillingHandler class declaration
+// summary: Declares a handler that prompts users to select credentials or autofill suggestions and manages login and form filling services for actor tasks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTOR_TASK_FORM_FILLING_HANDLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_ACTOR_TASK_FORM_FILLING_HANDLER_H_
 

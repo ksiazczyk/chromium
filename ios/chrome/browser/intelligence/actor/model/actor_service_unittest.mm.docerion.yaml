@@ -1,0 +1,4 @@
+# Docerion header of actor_service_unittest.mm.
+type: test
+title: Actor service unit tests
+summary: Unit tests exercising ActorService task lifecycle, action execution results, tab observations, and observer notifications with fake web states and delegates.

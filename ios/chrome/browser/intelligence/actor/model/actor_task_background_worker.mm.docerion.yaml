@@ -1,0 +1,4 @@
+# Docerion header of actor_task_background_worker.mm.
+type: source
+title: ActorTaskBackgroundWorker implementation
+summary: Implements background task management for actor tasks, including heartbeat scripts, end reason handling, and localized waiting-on-user titles.

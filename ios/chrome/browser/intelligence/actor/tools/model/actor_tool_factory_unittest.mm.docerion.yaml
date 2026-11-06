@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_factory_unittest.mm.
+type: test
+title: ActorToolFactory unit tests
+summary: Unit tests verifying supported capabilities, feature-based tool disabling, and tool creation behavior of ActorToolFactory.

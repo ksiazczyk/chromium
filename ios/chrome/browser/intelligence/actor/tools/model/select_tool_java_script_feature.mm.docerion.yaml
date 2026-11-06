@@ -1,0 +1,4 @@
+# Docerion header of select_tool_java_script_feature.mm.
+type: source
+title: Select tool JavaScript feature implementation
+summary: Implements the select tool JavaScript feature that calls the select_tool script and maps its result codes to action result codes.

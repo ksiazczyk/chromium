@@ -1,0 +1,4 @@
+# Docerion header of wait_tool.mm.
+type: source
+title: Wait tool implementation
+summary: Implements WaitTool, posting a delayed task for the wait duration and reporting success when the delay finishes.

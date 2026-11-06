@@ -1,0 +1,4 @@
+# Docerion header of drag_and_release_tool_js_unittest.mm.
+type: test
+title: Drag and release tool JavaScript unit tests
+summary: Browser-based JavaScript tests verifying the touch, mouse, and drag events dispatched by the drag and release tool script on test pages.

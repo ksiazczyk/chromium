@@ -1,0 +1,4 @@
+# Docerion header of attempt_form_filling_tool_java_script_feature_unittest.mm.
+type: test
+title: Attempt form filling tool JavaScript feature unit tests
+summary: Unit tests for the attempt form filling JavaScript feature that mock getAutofillRendererIds to verify renderer ID parsing, error codes, and metrics.

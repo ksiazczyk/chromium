@@ -1,0 +1,4 @@
+# Docerion header of attempt_login_tool_unittest.mm.
+type: test
+title: Attempt login tool unit tests
+summary: Unit tests for the attempt login tool that use a fake actor login service to verify credential retrieval, login attempts, and cancellation behavior.

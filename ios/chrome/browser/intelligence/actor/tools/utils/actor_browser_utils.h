@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor browser utils header
+// summary: Declares a helper that finds the browser and index of the web state for a given WebStateID within a profile, optionally including incognito.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_ACTOR_BROWSER_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_ACTOR_BROWSER_UTILS_H_
 

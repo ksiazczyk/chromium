@@ -1,0 +1,4 @@
+# Docerion header of fake_tool_delegate.mm.
+type: source
+title: Fake tool delegate implementation
+summary: Implements the fake ToolDelegate for tests, handling web state insertion, journal access, and navigation destination checks.

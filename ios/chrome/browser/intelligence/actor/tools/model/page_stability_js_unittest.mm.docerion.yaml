@@ -1,0 +1,4 @@
+# Docerion header of page_stability_js_unittest.mm.
+type: test
+title: Page stability JavaScript unit tests
+summary: Unit tests for the page_stability JavaScript API, covering waitForStability resolution, mutation counting, and timeout behavior.

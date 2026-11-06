@@ -1,0 +1,4 @@
+# Docerion header of posted_observer_list_unittest.mm.
+type: test
+title: Posted Observer List Unit Tests
+summary: Unit tests covering asynchronous notification delivery, ordering, registration callbacks, observer removal, and re-entrant changes from within notifications.

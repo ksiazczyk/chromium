@@ -9,6 +9,12 @@
  * https://source.chromium.org/chromium/chromium/src/+/main:chrome/renderer/actor/drag_and_release_tool.cc;l=50;drc=36e01346a61fe3cda0df8b3672cceb4223ca7d36
  */
 
+// ---docerion
+// type: source
+// title: Drag and release tool logic
+// summary: Simulates drag-and-release gestures between source and destination targets using intermediate movement steps.
+// ---
+
 import type {ActionTarget, Coordinate} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget, isDisabled, isNodeIdTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {areElementsConnected, safeIsDraggable, safeNodeType, safeParentElement} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/safe_dom_utils.js';

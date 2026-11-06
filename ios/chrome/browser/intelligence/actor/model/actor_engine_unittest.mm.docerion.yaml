@@ -1,0 +1,4 @@
+# Docerion header of actor_engine_unittest.mm.
+type: test
+title: ActorEngine unit tests
+summary: Exercises the engine's action execution flow with controllable tools, origin gating, and intervention delegates.

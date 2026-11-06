@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay_view_controller.mm.
+type: source
+title: ActorOverlayViewController implementation
+summary: Implements the overlay view controller, observing scene layout state to adjust glow constraints and corner radii as the app bar moves.

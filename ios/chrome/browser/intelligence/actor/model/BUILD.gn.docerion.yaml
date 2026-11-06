@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor model BUILD.gn build targets
+summary: GN build file defining the model, tab_helper, and unit_tests source sets with their sources and dependencies for the iOS Actor implementation.

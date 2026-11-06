@@ -1,0 +1,4 @@
+# Docerion header of actor_tools_base_test_case.mm.
+type: test
+title: Actor tools base test case implementation
+summary: Implements the base test case with embedded test server setup, HTML page helpers, and recursive PageContext node search functions.

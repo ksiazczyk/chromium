@@ -1,0 +1,4 @@
+# Docerion header of select_tool_js_unittest.mm.
+type: test
+title: Select tool JavaScript integration tests
+summary: Parameterized JavaScript tests that exercise the select tool script in a web view and capture resulting DOM events by coordinate and node id.

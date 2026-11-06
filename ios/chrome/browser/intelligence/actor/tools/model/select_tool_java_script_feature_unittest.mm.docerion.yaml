@@ -1,0 +1,4 @@
+# Docerion header of select_tool_java_script_feature_unittest.mm.
+type: test
+title: Select tool JavaScript feature unit tests
+summary: Unit tests for the select tool JavaScript feature that mock JavaScript responses and verify select result handling by coordinate and node id.

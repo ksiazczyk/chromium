@@ -1,0 +1,4 @@
+# Docerion header of profile_context_resolver_unittest.mm.
+type: test
+title: Profile context resolver unit tests
+summary: Tests tab resolution for valid, invalid and incognito tabs and origin gating service access using test profile, browser and web state fakes.

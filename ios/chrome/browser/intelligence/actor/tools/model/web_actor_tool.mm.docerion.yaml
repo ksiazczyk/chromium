@@ -1,0 +1,4 @@
+# Docerion header of web_actor_tool.mm.
+type: source
+title: Web actor tool base class implementation
+summary: Implements WebActorTool target frame resolution with error handling for tabs or frames that went away.

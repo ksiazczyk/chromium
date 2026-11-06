@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_constants.mm.
+type: source
+title: Actuation worklog constants implementation
+summary: Builds the indexed accessibility identifier string for actuation intervention action buttons.

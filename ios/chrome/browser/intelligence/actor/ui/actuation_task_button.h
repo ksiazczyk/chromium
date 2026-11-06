@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actuation task button interface
+// summary: Declares a custom interactive button with a gradient background, leading favicon or logo icon, trailing action icon, and title and subtitle text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_TASK_BUTTON_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTUATION_TASK_BUTTON_H_
 

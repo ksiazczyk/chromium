@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor tools model
+summary: Grants this directory include access to the page content annotations core and the iOS actor login password model components.

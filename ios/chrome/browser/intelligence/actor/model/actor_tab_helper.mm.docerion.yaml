@@ -1,0 +1,4 @@
+# Docerion header of actor_tab_helper.mm.
+type: source
+title: ActorTabHelper implementation
+summary: Implements the per-tab actor helper that tracks actor control state, keeps the render process alive, and suppresses input views while actuation is active.

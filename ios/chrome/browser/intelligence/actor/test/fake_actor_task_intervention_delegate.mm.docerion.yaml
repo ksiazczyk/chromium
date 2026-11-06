@@ -1,0 +1,4 @@
+# Docerion header of fake_actor_task_intervention_delegate.mm.
+type: test
+title: Fake actor task intervention delegate implementation
+summary: Implements the fake delegate, capturing intervention and suggestion requests and running their completion handlers on demand in tests.

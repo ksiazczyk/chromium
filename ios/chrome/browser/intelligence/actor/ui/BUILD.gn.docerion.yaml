@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for actor UI
+summary: Defines the ui and unit_tests source sets, listing actor overlay and actuation worklog view sources with their dependencies and frameworks.

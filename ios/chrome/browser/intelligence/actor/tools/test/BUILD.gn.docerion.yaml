@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for actor tools Earl Grey tests
+summary: Defines GN source sets for the actor tools integration tests, including app interface support, Earl Grey test support, and the eg2 test targets.

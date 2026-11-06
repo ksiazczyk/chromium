@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the actor directory
+summary: Defines the additional include dependencies allowed for code in the ios chrome browser intelligence actor directory.

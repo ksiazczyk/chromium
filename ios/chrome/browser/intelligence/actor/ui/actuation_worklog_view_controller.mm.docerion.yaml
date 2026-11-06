@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_view_controller.mm.
+type: source
+title: Actuation worklog view controller implementation
+summary: Implements the actuation worklog view controller, coordinating header, compact, expanded and intervention views across display modes.

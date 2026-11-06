@@ -1,0 +1,4 @@
+# Docerion header of actor_origin_gating_checker_delegate_ios_unittest.mm.
+type: test
+title: Actor origin gating checker delegate unit tests
+summary: Unit tests covering confirmation requirements for navigation requests, page actions, cross-origin transitions, and enterprise policy evaluation.

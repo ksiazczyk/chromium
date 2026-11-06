@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor header
+// summary: Declares PageStabilityMonitor, a class that watches page stability signals to decide when a page has settled for an observation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_PAGE_STABILITY_MONITOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_PAGE_STABILITY_MONITOR_H_
 

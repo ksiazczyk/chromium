@@ -6,6 +6,12 @@
  * @fileoverview JavaScript API for AttemptFormFillingTool.
  */
 
+// ---docerion
+// type: source
+// title: AttemptFormFillingTool JavaScript API
+// summary: JavaScript API that resolves Autofill renderer IDs for form elements targeted by coordinates or DOM node IDs.
+// ---
+
 import {RENDERER_ID_NOT_SET} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {isAutofillableElement} from '//components/autofill/ios/form_util/resources/fill_element_inference_util.js';
 import {getUniqueID} from '//components/autofill/ios/form_util/resources/fill_util.js';

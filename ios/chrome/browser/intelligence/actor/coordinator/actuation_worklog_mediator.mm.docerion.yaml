@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_mediator.mm.
+type: source
+title: ActuationWorklogMediator implementation
+summary: Implements the mediator, mapping tool types to worklog chips and building credential and intervention cards for the worklog UI.

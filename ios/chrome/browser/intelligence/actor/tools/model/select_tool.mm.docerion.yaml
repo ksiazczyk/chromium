@@ -1,0 +1,4 @@
+# Docerion header of select_tool.mm.
+type: source
+title: Select tool implementation
+summary: Implements SelectTool validation and execution, resolving the target frame and invoking the select JavaScript feature with the chosen value.

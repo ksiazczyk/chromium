@@ -1,0 +1,4 @@
+# Docerion header of actor_task_unittest.mm.
+type: test
+title: ActorTask unit tests
+summary: Unit tests for ActorTask covering observer registration, state transitions, tool execution notifications, and intervention handling.

@@ -1,0 +1,4 @@
+# Docerion header of action_target_java_script_feature.mm.
+type: source
+title: ActionTargetJavaScriptFeature implementation
+summary: Implements target frame resolution by document identifier or coordinates, parsing iframe resolution results and recording JavaScript call durations for UMA.

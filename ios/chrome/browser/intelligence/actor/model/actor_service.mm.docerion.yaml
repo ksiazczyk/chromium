@@ -1,0 +1,4 @@
+# Docerion header of actor_service.mm.
+type: source
+title: Actor service implementation
+summary: Implements ActorService task creation, sequential action execution with validation, journal logging, and observer notifications for task lifecycle and updates.

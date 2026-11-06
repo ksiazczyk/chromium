@@ -1,0 +1,4 @@
+# Docerion header of type_tool_unittest.mm.
+type: test
+title: Type tool unit tests
+summary: Unit tests for TypeTool creation and validation, covering missing text, missing mode and other invalid action arguments.

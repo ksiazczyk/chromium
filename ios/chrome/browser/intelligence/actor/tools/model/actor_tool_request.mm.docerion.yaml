@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_request.mm.
+type: source
+title: Actor tool request implementation
+summary: Implements ActorToolRequest by mapping action protos to tool types, resolving target tab IDs, and deciding whether URL checks are required in the current tab.

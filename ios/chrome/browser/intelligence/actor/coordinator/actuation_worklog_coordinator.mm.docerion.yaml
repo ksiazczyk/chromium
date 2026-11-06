@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_coordinator.mm.
+type: source
+title: ActuationWorklogCoordinator implementation
+summary: Implements the worklog coordinator, wiring the mediator and worklog view controller to the profile's actor service.

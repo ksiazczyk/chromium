@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor tools base test case header
+// summary: Declares the base test case and helpers for actor tools Earl Grey tests, including action execution, target coordinates, and PageContext node search utilities.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_TEST_ACTOR_TOOLS_BASE_TEST_CASE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_TEST_ACTOR_TOOLS_BASE_TEST_CASE_H_
 

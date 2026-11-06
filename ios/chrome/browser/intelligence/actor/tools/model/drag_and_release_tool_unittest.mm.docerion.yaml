@@ -1,0 +1,4 @@
+# Docerion header of drag_and_release_tool_unittest.mm.
+type: test
+title: Drag and release tool unit tests
+summary: Unit tests for the drag and release actor tool, covering tool creation and validation of drag actions with missing or invalid targets.

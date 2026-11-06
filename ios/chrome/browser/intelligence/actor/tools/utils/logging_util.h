@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor tools journal logging utilities header
+// summary: Declares helpers for logging actor tool events, execution results, Act rejections and async entries to the aggregated journal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_LOGGING_UTIL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_UTILS_LOGGING_UTIL_H_
 

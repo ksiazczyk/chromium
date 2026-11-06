@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_java_script_feature_util.mm.
+type: source
+title: Actor tool JavaScript feature utility implementation
+summary: Implements parsing of JavaScript tool call results, mapping result codes, handling timeouts and invalid results, and recording execution duration metrics.

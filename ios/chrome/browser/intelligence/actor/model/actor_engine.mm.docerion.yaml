@@ -1,0 +1,4 @@
+# Docerion header of actor_engine.mm.
+type: source
+title: ActorEngine implementation
+summary: Implements the action execution state machine, including safety list evaluation, origin gating checks, and tool invocation.

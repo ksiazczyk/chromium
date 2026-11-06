@@ -1,0 +1,4 @@
+# Docerion header of actor_tool_request_unittest.mm.
+type: test
+title: Actor tool request unit tests
+summary: Parameterized unit tests verifying tool type, target tab ID, and URL check behavior of ActorToolRequest across supported browser actions.

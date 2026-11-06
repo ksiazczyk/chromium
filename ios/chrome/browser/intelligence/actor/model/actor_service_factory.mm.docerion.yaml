@@ -1,0 +1,4 @@
+# Docerion header of actor_service_factory.mm.
+type: source
+title: Actor service factory implementation
+summary: Implements the ActorService factory, building the service only when the Actor feature is enabled and depending on browser list and origin gating services.

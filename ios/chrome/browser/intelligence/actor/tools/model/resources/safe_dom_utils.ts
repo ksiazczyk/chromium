@@ -8,6 +8,12 @@
  * properties or methods).
  */
 
+// ---docerion
+// type: source
+// title: DOM clobbering-safe DOM accessors
+// summary: Provides defensive accessors for DOM properties and methods that guard against DOM clobbering.
+// ---
+
 const nodeTypeGetter =
     Object.getOwnPropertyDescriptor(Node.prototype, 'nodeType')?.get;
 const parentElementGetter =

@@ -1,0 +1,4 @@
+# Docerion header of action_target_java_script_feature_unittest.mm.
+type: test
+title: ActionTargetJavaScriptFeature unit tests
+summary: Unit tests for the ActionTargetJavaScriptFeature covering invalid JavaScript results, error codes, and target frame resolution with histogram checks.

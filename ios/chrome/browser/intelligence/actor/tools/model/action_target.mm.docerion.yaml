@@ -1,0 +1,4 @@
+# Docerion header of action_target.mm.
+type: source
+title: ActionTarget class implementation
+summary: Implements ActionTarget proto parsing, coordinate updates, conversion to a dictionary for JavaScript execution, and human-readable debug logging.

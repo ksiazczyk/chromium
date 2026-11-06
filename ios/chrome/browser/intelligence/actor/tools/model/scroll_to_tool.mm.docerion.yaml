@@ -1,0 +1,4 @@
+# Docerion header of scroll_to_tool.mm.
+type: source
+title: Scroll-to tool implementation
+summary: Implements ScrollToTool, validating scroll-to actions and resolving the target frame before scrolling an element into view.

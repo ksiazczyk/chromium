@@ -1,0 +1,4 @@
+# Docerion header of scroll_to_tool_unittest.mm.
+type: test
+title: Scroll-to tool unit tests
+summary: Unit tests for ScrollToTool covering validation of missing targets and execution errors when the web state is destroyed.

@@ -1,0 +1,4 @@
+# Docerion header of actuation_intervention_view_unittest.mm.
+type: test
+title: Actuation intervention view unit tests
+summary: Unit tests covering card, row, and column intervention layouts and verifying that button taps dispatch the expected action through a fake delegate.

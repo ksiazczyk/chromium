@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and release tool header
+// summary: Declares DragAndReleaseTool, an actor tool that performs a drag and release action from one target to another within a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_DRAG_AND_RELEASE_TOOL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_TOOLS_MODEL_DRAG_AND_RELEASE_TOOL_H_
 

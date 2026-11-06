@@ -1,0 +1,4 @@
+# Docerion header of actuation_header_view.mm.
+type: source
+title: Actuation header view implementation
+summary: Implements the actuation header, building icon, circular, and call-to-action buttons for header items alongside the Gemini logo and spinner.

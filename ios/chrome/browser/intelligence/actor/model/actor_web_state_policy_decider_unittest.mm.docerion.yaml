@@ -1,0 +1,4 @@
+# Docerion header of actor_web_state_policy_decider_unittest.mm.
+type: test
+title: Actor Web State Policy Decider Unit Tests
+summary: Unit tests verifying that permissible navigations are allowed and blocked navigations are cancelled with the appropriate action result code.

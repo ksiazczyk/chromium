@@ -1,0 +1,4 @@
+# Docerion header of page_stability_monitor.mm.
+type: source
+title: Page stability monitor implementation
+summary: Implements the page stability monitor state machine, driving stability checks, timeouts, and callback invocation for actor tools.

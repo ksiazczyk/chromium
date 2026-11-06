@@ -1,0 +1,4 @@
+# Docerion header of tab_management_tool_unittest.mm.
+type: test
+title: Tab management tool unit tests
+summary: Unit tests covering tab close, activate and create tool behavior and failure cases.

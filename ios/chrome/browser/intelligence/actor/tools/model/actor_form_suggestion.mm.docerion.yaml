@@ -1,0 +1,4 @@
+# Docerion header of actor_form_suggestion.mm.
+type: source
+title: ActorFormSuggestion implementation
+summary: Implements ActorFormSuggestion, wrapping actor login credentials and autofill suggestions into FormSuggestion objects with icons and types for the actor form filling UI.

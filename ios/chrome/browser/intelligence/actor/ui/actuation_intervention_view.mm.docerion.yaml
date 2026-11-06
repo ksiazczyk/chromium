@@ -1,0 +1,4 @@
+# Docerion header of actuation_intervention_view.mm.
+type: source
+title: Actuation intervention view implementation
+summary: Implements the intervention view, presenting card, row, or column action layouts and dispatching tapped actions to its delegate, collapsing when empty.

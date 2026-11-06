@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CornerRadii struct for the glow view
+// summary: Defines a CornerRadii struct holding the radii of the four corners of a rectangular view with comparison support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTOR_OVERLAY_GLOW_VIEW_DATA_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_UI_ACTOR_OVERLAY_GLOW_VIEW_DATA_H_
 

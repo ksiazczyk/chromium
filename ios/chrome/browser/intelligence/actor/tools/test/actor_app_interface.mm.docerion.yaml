@@ -1,0 +1,4 @@
+# Docerion header of actor_app_interface.mm.
+type: test
+title: ActorAppInterface test app interface implementation
+summary: Implements the test app interface that runs actor actions, fetches page context, simulates in-flight autofill predictions, and manages test intervention delegates.

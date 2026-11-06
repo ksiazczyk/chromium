@@ -6,6 +6,12 @@
  * @fileoverview Logic for determining the target frame for an action.
  */
 
+// ---docerion
+// type: source
+// title: Action target iframe resolution
+// summary: Resolves whether a coordinate-based action target is an iframe and registers the child frame so actions can be forwarded with frame-relative coordinates.
+// ---
+
 import {registerChildFrame} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 import type {ActionTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';
 import {getElementFromPoint, isCoordinateTarget} from '//ios/chrome/browser/intelligence/actor/tools/model/resources/actor_tool_utils.js';

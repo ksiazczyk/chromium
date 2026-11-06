@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor background task metrics histograms and enums
+// summary: Declares UMA histogram name constants and enums for logging iOS actor background task end reasons, duration, and background request eligibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_METRICS_ACTOR_BACKGROUND_TASK_METRICS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ACTOR_METRICS_ACTOR_BACKGROUND_TASK_METRICS_H_
 

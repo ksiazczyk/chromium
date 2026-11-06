@@ -1,0 +1,4 @@
+# Docerion header of history_tool.mm.
+type: source
+title: History navigation actor tool implementation
+summary: Implements HistoryTool, validating and executing back and forward navigation with a navigation timeout and delegate checks.

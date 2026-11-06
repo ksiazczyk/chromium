@@ -1,0 +1,4 @@
+# Docerion header of tab_actions_utils.mm.
+type: source
+title: Tab actions utilities implementation
+summary: Implements UngroupTabs and CreateTabGroup, removing tabs from groups and creating new tab groups with generated IDs in the WebStateList.
