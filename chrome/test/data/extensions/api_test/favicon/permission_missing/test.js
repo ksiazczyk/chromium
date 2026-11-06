@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon fetch failure test
+// summary: Browser test asserting that fetching the chrome-extension favicon URL fails with 'Failed to fetch' when the favicon permission is missing.
+// ---
+
 window.onload = function() {
   chrome.test.runTests([async function test() {
     const config = await chrome.test.getConfig();

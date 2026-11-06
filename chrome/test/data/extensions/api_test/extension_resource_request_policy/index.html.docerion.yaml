@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Extension resource image load test page
+summary: Test page that loads an image from an extension resource and sets the document title depending on load success or failure.

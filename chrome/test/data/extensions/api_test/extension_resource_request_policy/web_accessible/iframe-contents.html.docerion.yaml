@@ -1,0 +1,4 @@
+# Docerion header of iframe-contents.html.
+type: test
+title: Iframe contents page for web accessible resource test
+summary: Iframe content page that displays confirmation text and loads iframe-contents.js to signal that it loaded.

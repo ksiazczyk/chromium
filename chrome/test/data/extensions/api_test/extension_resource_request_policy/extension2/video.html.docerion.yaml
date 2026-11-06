@@ -1,0 +1,4 @@
+# Docerion header of video.html.
+type: test
+title: Video test page
+summary: Test page that loads video.js so the extension can attempt to play its packaged video resource.

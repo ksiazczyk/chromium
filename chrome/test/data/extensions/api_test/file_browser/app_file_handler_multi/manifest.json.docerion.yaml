@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ChromeOS file handler multi-item test manifest.json
+summary: Manifest for the ChromeOS file handler test extension that registers a text file handler accepting multiple items and directories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileManagerPrivate.getVolumeRoot
+// summary: Runs browser tests for getVolumeRoot, verifying failure for a nonexistent volume ID and read-only root access for an existing testing volume.
+// ---
+
 /**
  * Helper function that retrieves volume ID of the test folder.
  * @return {Promise<string>} the promise that returns the volume ID

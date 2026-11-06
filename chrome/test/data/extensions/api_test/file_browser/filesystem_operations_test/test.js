@@ -35,6 +35,12 @@
  * All files should initially have content: INITIAL_FILE_CONTENT.
  */
 
+// ---docerion
+// type: test
+// title: File system operations test extension script
+// summary: Test extension script that verifies extensions with fileManagerPrivate permission can perform file system operations such as get, create, copy, move, write and truncate on local, restricted local and Drive external file systems.
+// ---
+
 const INITIAL_FILE_CONTENT = 'This is some test content.';
 const WRITE_OFFSET = 26;
 const WRITE_DATA = ' Yay!';

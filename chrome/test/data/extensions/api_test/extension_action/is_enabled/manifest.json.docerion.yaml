@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the enabled/disabled action test extension
+summary: Manifest for the is_enabled API test extension, registering tests.js as a module service worker and declaring an action.

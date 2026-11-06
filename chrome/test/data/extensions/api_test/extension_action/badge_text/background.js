@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action Badge Text API Test Background Script
+// summary: Runs browser tests that set and get chrome.action badge text and verify that text exceeding the 100-byte limit is rejected without changing the badge.
+// ---
+
 chrome.test.runTests([
   async function() {
     // Extension has access to Action API.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: fileManagerPrivate holding space test extension manifest
+summary: Manifest for the chrome.fileManagerPrivate holding space test extension, declaring the background test script and the fileManagerPrivate and file system permissions.

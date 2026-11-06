@@ -1,0 +1,4 @@
+# Docerion header of accessible_redirect_resource.html.
+type: test
+title: Redirect test page for accessible resource
+summary: Test page that redirects the browser to a web-accessible chrome-extension image resource via document.location.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test for SVG icon failure
+// summary: Asserts that setting the action icon to an SVG from the service worker rejects with a decode error, since workers cannot load SVG images.
+// ---
+
 chrome.test.runTests([
   async function setIconFromWorkerFails() {
     // Service workers currently don't support loading SVG images

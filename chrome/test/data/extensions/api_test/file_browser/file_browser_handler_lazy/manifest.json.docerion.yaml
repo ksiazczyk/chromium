@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the file browser handler lazy test extension
+summary: Extension manifest declaring the ReadOnly and ReadWrite file browser handlers with file filters and permissions used by the file browser handler API test.

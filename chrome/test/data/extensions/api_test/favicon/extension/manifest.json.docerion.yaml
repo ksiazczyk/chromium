@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the favicon API test extension
+summary: Declares the test extension's manifest with the favicon permission and an example.com host permission for the API browser test.

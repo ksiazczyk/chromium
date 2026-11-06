@@ -1,0 +1,4 @@
+# Docerion header of nonexistent_resource.html.
+type: test
+title: Nonexistent resource test page
+summary: Test fixture that loads an image from a nonexistent extension resource and reports the outcome in the document title.

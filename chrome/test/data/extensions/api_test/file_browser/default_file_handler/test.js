@@ -10,6 +10,12 @@
  * set the handler as default.
  */
 
+// ---docerion
+// type: test
+// title: Default file handler selection test
+// summary: Browser test script that uses chrome.fileManagerPrivate.getFileTasks to verify the .tiff handler becomes the default for .tiff files while the generic handler does not for other extensions.
+// ---
+
 /**
  * File for which the file browser handlers will be executed by the extension.
  * @type {string}

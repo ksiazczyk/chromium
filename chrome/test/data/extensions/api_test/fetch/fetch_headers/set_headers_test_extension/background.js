@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for the fetch headers test extension
+// summary: Runs the common fetch header tests in the extension's background service worker and registers the user script used by the fetch headers API test.
+// ---
+
 import {getCommonFetchHeaderTests} from '/_test_resources/api_test/fetch/fetch_headers/fetch_common_tests.js';
 
 globalThis.runBackgroundTests = function() {

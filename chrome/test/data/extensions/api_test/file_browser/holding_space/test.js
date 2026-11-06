@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fileManagerPrivate holding space API tests
+// summary: Browser test script that adds, removes, and reads holding space items via chrome.fileManagerPrivate and asserts the resulting holding space state.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 /**

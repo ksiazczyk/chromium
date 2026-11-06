@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the action persistence test extension
+summary: Manifest for the Action persistence check test extension, defining a service worker, default action popup and title, and the storage permission.

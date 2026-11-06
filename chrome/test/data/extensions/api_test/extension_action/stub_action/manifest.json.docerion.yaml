@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Stub Action Extension manifest
+summary: Manifest V3 manifest for the stub action test extension, declaring a service worker and a default popup page.

@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup page for the fetch headers test extension
+summary: Minimal HTML page that loads popup.js as the extension's default popup for running the fetch header tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: feedbackPrivate basic API tests
+// summary: Runs browser tests for the chrome.feedbackPrivate API, checking getUserEmail, getSystemInformation, and sendFeedback behavior.
+// ---
+
 chrome.test.runTests([
   function getUserEmailTest() {
     chrome.feedbackPrivate.getUserEmail(

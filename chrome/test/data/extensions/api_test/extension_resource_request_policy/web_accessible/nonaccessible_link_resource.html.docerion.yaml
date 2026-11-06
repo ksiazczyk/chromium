@@ -1,0 +1,4 @@
+# Docerion header of nonaccessible_link_resource.html.
+type: test
+title: Non-accessible link resource test page
+summary: Test fixture that clicks a link to a non-web-accessible extension resource to verify it cannot be loaded that way.

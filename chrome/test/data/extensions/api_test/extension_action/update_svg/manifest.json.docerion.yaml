@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the SVG icon test extension
+summary: Manifest version 3 definition of the SVG Icon Test extension, which runs its background logic in a service worker.

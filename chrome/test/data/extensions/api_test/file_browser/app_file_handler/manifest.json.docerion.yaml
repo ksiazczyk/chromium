@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ChromeOS file handler test extension manifest
+summary: Manifest for the file browser app file handler test extension, declaring xulAction and tiffAction file handlers plus fileSystem and unlimitedStorage permissions.

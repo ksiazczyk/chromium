@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Experimental AI data API browser test
+// summary: JavaScript test verifying the experimentalAiData API, covering DOM node ID helpers, bulk and invalid input handling, pseudo-element IDs, and access restrictions for content scripts and other extension contexts.
+// ---
+
 chrome.test.getConfig(config => {
   const {tabId, expectedError, nodeAccess, devtools, pseudoNodeId} =
       JSON.parse(config.customArg);

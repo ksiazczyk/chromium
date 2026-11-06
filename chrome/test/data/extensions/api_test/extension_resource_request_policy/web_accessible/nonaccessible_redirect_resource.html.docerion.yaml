@@ -1,0 +1,4 @@
+# Docerion header of nonaccessible_redirect_resource.html.
+type: test
+title: Non-accessible redirect resource test page
+summary: Test fixture that redirects the document to a non-web-accessible extension resource to check the request is blocked.

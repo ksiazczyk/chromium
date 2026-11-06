@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP block getDisallowedTransfers test script
+// summary: Browser test that resolves a DLP-flagged test file and asserts chrome.fileManagerPrivate.getDisallowedTransfers disallows moving it to a Drive directory.
+// ---
+
 /**
  * Gets the metadata of a volume having a specified type.
  * @param {string} volumeType volume type for entry.

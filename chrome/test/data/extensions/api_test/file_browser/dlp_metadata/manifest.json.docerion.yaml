@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.fileManagerPrivate DLP metadata tests
+summary: Extension manifest that sets up the test app with fileManagerPrivate and file system permissions for the DLP metadata API tests.

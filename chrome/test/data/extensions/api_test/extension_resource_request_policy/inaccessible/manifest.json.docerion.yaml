@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension with inaccessible resources
+summary: Manifest version 3 manifest for the test extension used in the extension resource request policy API test, including a fixed extension key.

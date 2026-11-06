@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Minimal Manifest V3 extension manifest used as fixture for the favicon permission_missing extension API test.

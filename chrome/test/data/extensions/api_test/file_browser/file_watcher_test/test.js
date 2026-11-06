@@ -9,6 +9,12 @@
  * watched entries. On file system operations is performed per a test function.
  */
 
+// ---docerion
+// type: test
+// title: fileManagerPrivate file watch API tests
+// summary: Test extension script that adds watches on file system entries, performs operations, and verifies the resulting onDirectoryChanged events against expected events.
+// ---
+
 /**
  * Helper class to observe the events triggered during a file system operation
  * performed during a single test function.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for feedbackPrivate basic extension tests
+summary: Manifest for the chrome.feedbackPrivate basic API test extension, granting the feedbackPrivate permission and registering test.js as the background service worker.

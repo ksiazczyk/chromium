@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Points the directory to the shared file manager metadata through a mixin for component and team assignment.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the retain entry test app
+summary: Extension app manifest declaring the background script and the fileSystem, retainEntries, and storage permissions needed by the test.

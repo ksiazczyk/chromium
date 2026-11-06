@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handler multi-item browser test script
+// summary: Test script that prepares files and directories on drive and local volumes and exercises file handlers invoked with multiple items.
+// ---
+
 'use strict';
 
 /**

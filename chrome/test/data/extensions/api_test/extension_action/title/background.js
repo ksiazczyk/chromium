@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action title histogram test background script
+// summary: Runs chrome.test checks that set and read the extension action title across string-length buckets and verify invalid titles throw.
+// ---
+
 // TODO(crbug.com/492555224): Remove this file along with histogram test.
 chrome.test.runTests([
   async function() {

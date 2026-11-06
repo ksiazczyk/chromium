@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Unmodified test page
+summary: Test page titled Unmodified that loads index.js to check image loading from another extension.

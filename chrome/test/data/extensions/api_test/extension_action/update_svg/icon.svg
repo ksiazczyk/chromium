@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--docerion
+type: asset
+title: SVG icon with embedded PNG for setIcon test
+summary: SVG image containing an embedded base64 PNG, used as the extension action icon in the update SVG API test.
+-->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"

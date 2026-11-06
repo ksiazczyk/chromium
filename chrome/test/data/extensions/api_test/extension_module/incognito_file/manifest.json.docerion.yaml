@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.extension incognito access browser test
+summary: Manifest for a test extension whose service worker runs the ExtensionModuleApiTest.IncognitoFile browser test.

@@ -16,6 +16,12 @@
  * to run the deirectories directory reader.
  */
 
+// ---docerion
+// type: test
+// title: Drive search API tests for chrome.fileManagerPrivate
+// summary: Runs API tests that load the Drive file system and verify searchDrive and searchDriveMetadata results by reading returned file and directory entries.
+// ---
+
 /**
  * Verifies that a file snapshot can be created for the entry.
  * On failure, the current test is ended with failure.

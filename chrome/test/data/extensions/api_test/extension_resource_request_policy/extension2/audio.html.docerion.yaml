@@ -1,0 +1,4 @@
+# Docerion header of audio.html.
+type: test
+title: Audio test page
+summary: Test page that loads audio.js so the extension can attempt to play its packaged audio resource.

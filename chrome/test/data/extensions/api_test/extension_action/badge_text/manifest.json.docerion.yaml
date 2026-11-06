@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Action Badge Text Test Extension Manifest
+summary: Manifest V3 manifest for the test extension that registers background.js as a service worker to run the badge text API tests.

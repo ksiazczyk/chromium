@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the favicon URL endpoint
+// summary: Runs chrome.test cases that load favicons via the _favicon URL, verifying pageUrl handling, icon sizes, scale factors, defaults, and error cases.
+// ---
+
 let port;
 let visitedPageUrl;
 

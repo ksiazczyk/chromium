@@ -1,0 +1,4 @@
+# Docerion header of fetch_forbidden.html.
+type: test
+title: fetch_forbidden.html
+summary: Empty HTML fixture page used by the extension fetch headers API test for the forbidden fetch case.

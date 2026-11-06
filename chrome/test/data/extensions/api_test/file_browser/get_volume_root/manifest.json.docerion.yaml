@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileManagerPrivate getVolumeRoot test extension
+summary: Chrome extension manifest that defines the test app for chrome.fileManagerPrivate.getVolumeRoot, loading test.js and requesting the fileManagerPrivate permission.

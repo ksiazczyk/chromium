@@ -5,6 +5,12 @@
 // extension api test
 // browser_tests.exe --gtest_filter=ExtensionModuleApiTest.CognitoFile
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.extension API cognito mode
+// summary: Runs chrome.test cases that verify the setUpdateUrlData data length limit and the incognito and file scheme access permissions of the chrome.extension API.
+// ---
+
 chrome.test.runTests([
   function testUpdateUrlData() {
     // Data string must not be too long.

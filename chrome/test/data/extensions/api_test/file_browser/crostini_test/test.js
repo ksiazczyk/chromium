@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileManagerPrivate crostini functions
+// summary: JavaScript test suite that mounts Crostini, shares and unshares paths, and verifies getCrostiniSharedPaths behavior via chrome.fileManagerPrivate.
+// ---
+
 // This api testing extension's ID.  Files referenced as Entry will
 // have this as part of their URL.
 const TEST_EXTENSION_ID = 'pkplfbidichfdicaijlchgnapepdginl';

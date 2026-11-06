@@ -1,0 +1,4 @@
+# Docerion header of non_existent_extension.html.
+type: test
+title: Non-existent extension image load test page
+summary: Test page that loads an image from a non-existent extension ID and sets the document title depending on load success or failure.

@@ -1,0 +1,4 @@
+# Docerion header of modified_popup.html.
+type: test
+title: Modified popup page for the action persistence test
+summary: Minimal HTML page that the service worker sets as the modified action popup during the test.

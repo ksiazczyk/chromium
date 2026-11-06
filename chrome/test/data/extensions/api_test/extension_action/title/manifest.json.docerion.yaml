@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the action title histogram test extension
+summary: Manifest V3 manifest declaring the action and background service worker used by the title histogram API test extension.

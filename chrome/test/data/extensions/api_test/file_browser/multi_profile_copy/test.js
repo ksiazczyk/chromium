@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-profile copy tests for chrome.fileManagerPrivate
+// summary: Test script that copies entries between file systems mounted from different profiles via chrome.fileManagerPrivate IO tasks and verifies the results.
+// ---
+
 const SECONDARY_DRIVE_MOUNT_POINT_NAME = 'drive-fileBrowserApiTestProfile2';
 
 /**

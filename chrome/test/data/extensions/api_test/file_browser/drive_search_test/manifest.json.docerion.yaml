@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.fileManagerPrivate test extension
+summary: Extension manifest declaring the background test script and fileManagerPrivate/fileSystem permissions used by the drive search API tests.

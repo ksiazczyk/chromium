@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileManagerPrivate.addFileWatch
+// summary: JavaScript browser tests that add and remove file watches on watchable and non-watchable volumes, using promise wrappers around fileManagerPrivate calls.
+// ---
+
 /**
  * Requests metadata for all loaded Volumes.
  * @return {!Promise<chrome.fileManagerPrivate.VolumeMetadata>} Volume metadata

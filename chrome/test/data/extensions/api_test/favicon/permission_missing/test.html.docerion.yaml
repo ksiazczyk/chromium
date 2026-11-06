@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page for favicon permission test
+summary: HTML page that loads test.js to run the favicon permission_missing extension API test.

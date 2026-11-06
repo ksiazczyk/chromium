@@ -19,6 +19,12 @@
  * should carry exactly one handled file.
  */
 
+// ---docerion
+// type: test
+// title: File browser handler test extension background script
+// summary: Background script of a test extension that registers ReadOnly and ReadWrite file browser handlers and runs tests verifying that reading and writing handled files matches the handlers' file access permissions.
+// ---
+
 // Initial content of handled files. The content is set in
 // external_filesystem_apitest.cc.
 const INITIAL_TEST_FILE_CONTENT = 'This is some test content.';
