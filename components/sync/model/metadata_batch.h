@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataBatch class declaration
+// summary: Declares MetadataBatch, a movable container mapping storage keys to EntityMetadata protos together with a DataTypeState, passed from services to their sync processor.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_METADATA_BATCH_H_
 #define COMPONENTS_SYNC_MODEL_METADATA_BATCH_H_
 

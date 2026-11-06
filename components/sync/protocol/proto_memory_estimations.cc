@@ -4,6 +4,12 @@
 
 // Keep this file in sync with the .proto files in this directory.
 
+// ---docerion
+// type: source
+// title: Proto memory usage estimation implementation
+// summary: Implements a visitor that estimates the memory usage of sync proto messages via VisitProtoFields.
+// ---
+
 #include "components/sync/protocol/proto_memory_estimations.h"
 
 #include <concepts>

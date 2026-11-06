@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration metadata implementation
+// summary: Implements the CollaborationMetadata class that converts collaboration attribution data between local and remote sync protos.
+// ---
+
 #include "components/sync/protocol/collaboration_metadata.h"
 
 #include <cstddef>

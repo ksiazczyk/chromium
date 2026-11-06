@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptographerImpl class header
+// summary: Declares CryptographerImpl, which manages Nigori objects and a key bag used to encrypt and decrypt sensitive sync data such as passwords.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_CRYPTOGRAPHER_IMPL_H_
 #define COMPONENTS_SYNC_NIGORI_CRYPTOGRAPHER_IMPL_H_
 

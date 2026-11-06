@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncData implementation
+// summary: Implements the SyncData immutable sync data container, including factory methods for local and remote data and debug string output.
+// ---
+
 #include "components/sync/model/sync_data.h"
 
 #include <algorithm>

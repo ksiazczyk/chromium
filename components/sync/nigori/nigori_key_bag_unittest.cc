@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Nigori key bag
+// summary: Unit tests covering creation, key addition, export, proto conversion and encryption and decryption behavior of NigoriKeyBag.
+// ---
+
 #include "components/sync/nigori/nigori_key_bag.h"
 
 #include <vector>

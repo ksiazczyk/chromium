@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardingDataTypeControllerDelegate class declaration
+// summary: Declares a trivial DataTypeControllerDelegate wrapper that forwards all calls to another delegate held via weak pointer, useful when ownership must be transferred.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_FORWARDING_DATA_TYPE_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_SYNC_MODEL_FORWARDING_DATA_TYPE_CONTROLLER_DELEGATE_H_
 

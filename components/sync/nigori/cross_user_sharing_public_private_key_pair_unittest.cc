@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossUserSharingPublicPrivateKeyPair unit tests
+// summary: Unit tests verifying X25519 key pair generation, import, and HPKE authenticated encryption and decryption for cross-user sharing.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_public_private_key_pair.h"
 
 #include <algorithm>

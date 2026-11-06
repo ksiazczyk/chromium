@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Contextual Task Sync Specifics
+// summary: Defines the protobuf messages for the contextual task sync datatype, covering tasks linked to AI threads and attached URL resources.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

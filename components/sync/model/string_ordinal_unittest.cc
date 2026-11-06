@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StringOrdinal unit tests
+// summary: Unit tests for StringOrdinal covering validity criteria, ordering comparisons and creation of ordinals between, before and after values.
+// ---
+
 #include "components/sync/model/string_ordinal.h"
 
 #include <algorithm>

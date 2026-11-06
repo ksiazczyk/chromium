@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Processor entity metadata unit tests
+// summary: Unit tests verifying ProcessorEntityMetadata validity rules, unsynced state transitions, commit response handling, and proto serialization round trips.
+// ---
+
 #include "components/sync/model/processor_entity_metadata.h"
 
 #include <memory>

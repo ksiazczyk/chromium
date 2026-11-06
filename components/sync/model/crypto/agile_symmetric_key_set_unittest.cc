@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AgileSymmetricKeySet encryption and rotation
+// summary: Tests AgileSymmetricKeySet behavior including empty keysets, key rotation, AEAD encryption and decryption, and legacy Nigori compatibility.
+// ---
+
 #include "components/sync/model/crypto/agile_symmetric_key_set.h"
 
 #include <string>

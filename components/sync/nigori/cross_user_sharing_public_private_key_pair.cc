@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingPublicPrivateKeyPair implementation
+// summary: Implements X25519 key pair generation and authenticated HPKE encryption and decryption for cross-user sharing.
+// ---
+
 #include "components/sync/nigori/cross_user_sharing_public_private_key_pair.h"
 
 #include <array>

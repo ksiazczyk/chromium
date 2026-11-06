@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync protocol BUILD.gn build targets
+summary: GN build file defining the sync protocol proto_library, the util static library, an Android Java proto target and the test-only full_proto generation.

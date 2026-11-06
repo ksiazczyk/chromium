@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Shared Comment Sync Protocol Definition
+// summary: Defines the protobuf schema for user-authored comments shared within a group, including URL context, attribution, replies and deterministic ordering.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

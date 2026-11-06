@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sync protocol include rules (DEPS)
+summary: Declares the include dependencies allowed for the sync protocol directory, covering components/sync/base and the protobuf descriptor header for unit tests.

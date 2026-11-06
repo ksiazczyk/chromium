@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagBasedDataTypeProcessor class declaration
+// summary: Declares the processor embedded on the data type sequence that tracks entity metadata in the model store and coordinates communication with sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CLIENT_TAG_BASED_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_MODEL_CLIENT_TAG_BASED_DATA_TYPE_PROCESSOR_H_
 

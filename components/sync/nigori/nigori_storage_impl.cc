@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori storage implementation
+// summary: Implements NigoriStorage by writing encrypted NigoriLocalData to a file using the OS crypt async Encryptor and atomic file writes.
+// ---
+
 #include "components/sync/nigori/nigori_storage_impl.h"
 
 #include <string>

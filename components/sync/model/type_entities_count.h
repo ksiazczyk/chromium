@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeEntitiesCount struct for per-type entity counts
+// summary: Defines a struct that tracks total and non-tombstone entity counts per data type for debugging purposes.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_TYPE_ENTITIES_COUNT_H_
 #define COMPONENTS_SYNC_MODEL_TYPE_ENTITIES_COUNT_H_
 

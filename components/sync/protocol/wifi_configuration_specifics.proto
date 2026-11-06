@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Wi-Fi configuration sync protocol datatype
+// summary: Defines the protobuf message for syncing Wi-Fi network configurations, including security, passphrase, proxy, DNS and metered options.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

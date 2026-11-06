@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeControllerDelegate base implementation
+// summary: Implements the constructor, destructor and weak pointer support of the DataTypeControllerDelegate base class.
+// ---
+
 #include "components/sync/model/data_type_controller_delegate.h"
 
 namespace syncer {

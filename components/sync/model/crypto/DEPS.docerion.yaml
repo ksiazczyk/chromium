@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sync crypto directory
+summary: Grants the sync model crypto directory include access to the top-level crypto module via a single include_rules entry.

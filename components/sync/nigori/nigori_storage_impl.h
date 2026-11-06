@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriStorageImpl header
+// summary: Declares NigoriStorageImpl, which encrypts NigoriLocalData and atomically stores it in a binary file, using an optional Encryptor.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_STORAGE_IMPL_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_STORAGE_IMPL_H_
 

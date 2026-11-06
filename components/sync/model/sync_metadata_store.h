@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncMetadataStore interface
+// summary: Defines the interface data types implement to persist per-entity sync metadata and overall data type state.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNC_METADATA_STORE_H_
 #define COMPONENTS_SYNC_MODEL_SYNC_METADATA_STORE_H_
 

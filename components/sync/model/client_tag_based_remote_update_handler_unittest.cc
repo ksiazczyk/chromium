@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client tag based remote update handler unit tests
+// summary: Unit tests for ClientTagBasedRemoteUpdateHandler covering remote update application, conflict resolution and unique positions for sync data types.
+// ---
+
 #include "components/sync/model/client_tag_based_remote_update_handler.h"
 
 #include <utility>

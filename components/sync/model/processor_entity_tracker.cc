@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessorEntityTracker implementation
+// summary: Implements the tracker that manages sync processor entities for the client-tag-based data type processor, including local creations, remote updates and tombstone counting.
+// ---
+
 #include "components/sync/model/processor_entity_tracker.h"
 
 #include <algorithm>

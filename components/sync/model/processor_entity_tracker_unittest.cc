@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessorEntityTracker unit tests
+// summary: Unit tests for ProcessorEntityTracker covering entity creation, remote updates, tombstones, storage keys and removal of inactive collaborations.
+// ---
+
 #include "components/sync/model/processor_entity_tracker.h"
 
 #include <utility>

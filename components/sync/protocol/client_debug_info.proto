@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Client debug info proto
+// summary: Defines protos for debug events and sync cycle statistics that clients report to the sync server, including cryptographer readiness state.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

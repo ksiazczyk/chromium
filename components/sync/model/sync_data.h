@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncData class header
+// summary: Declares a lightweight immutable container for sync data with helpers to create local and remote data and accessors for specifics and tag hash.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNC_DATA_H_
 #define COMPONENTS_SYNC_MODEL_SYNC_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingPublicKey class declaration
+// summary: Declares a wrapper around a 32-byte X25519 public key used for cross-user sharing.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_PUBLIC_KEY_H_
 #define COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_PUBLIC_KEY_H_
 

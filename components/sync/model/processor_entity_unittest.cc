@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessorEntity unit tests
+// summary: Unit tests for the ProcessorEntity class covering local updates, remote updates, tombstones, unique positions and shared tab group data.
+// ---
+
 #include "components/sync/model/processor_entity.h"
 
 #include <utility>

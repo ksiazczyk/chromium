@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessorEntityTracker class declaration
+// summary: Declares ProcessorEntityTracker, which tracks entities and their metadata for ClientTagBasedDataTypeProcessor, with lookups by client tag hash or storage key.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_TRACKER_H_
 #define COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_TRACKER_H_
 

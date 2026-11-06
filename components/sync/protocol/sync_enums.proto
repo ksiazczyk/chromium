@@ -9,6 +9,12 @@
 // If you deprecate enum or enum values, mark any corresponding entry in
 // tools/metrics/histograms/enums.xml as <obsolete>.
 
+// ---docerion
+// type: source
+// title: Sync protocol enum definitions
+// summary: Defines shared SyncEnums for the sync protocol, covering debug events, page transitions, error types and other enumerated values.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync Collaboration Attribution Proto Extension
+// summary: Defines a protobuf field option extension for tracking per-field user attribution, such as last modifier, in collaborative sync data types.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyMetadataChangeList header
+// summary: Declares EmptyMetadataChangeList, a MetadataChangeList implementation that stores nothing.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_EMPTY_METADATA_CHANGE_LIST_H_
 #define COMPONENTS_SYNC_MODEL_EMPTY_METADATA_CHANGE_LIST_H_
 

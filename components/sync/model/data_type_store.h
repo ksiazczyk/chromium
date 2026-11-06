@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStore levelDB backed store interface
+// summary: Declares the levelDB backed store for data type data, metadata and global metadata with asynchronous reads and atomic batched writes.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_H_
 #define COMPONENTS_SYNC_MODEL_DATA_TYPE_STORE_H_
 

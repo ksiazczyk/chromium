@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgileSymmetricKeySet header managing primary and candidate keys
+// summary: Declares AgileSymmetricKeySet, a keyset holding one primary encryption key and multiple candidate decryption keys, analogous to Tink's Keyset.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CRYPTO_AGILE_SYMMETRIC_KEY_SET_H_
 #define COMPONENTS_SYNC_MODEL_CRYPTO_AGILE_SYMMETRIC_KEY_SET_H_
 

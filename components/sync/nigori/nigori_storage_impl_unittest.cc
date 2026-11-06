@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NigoriStorageImpl unit tests
+// summary: Unit tests verifying that NigoriStorageImpl can store, restore, and clear encrypted Nigori local data in a temporary directory.
+// ---
+
 #include "components/sync/nigori/nigori_storage_impl.h"
 
 #include "base/files/file_util.h"

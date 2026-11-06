@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self Sync Protocol Definition
+// summary: Defines the protobuf schema for the send-tab-to-self sync datatype, including shared tab metadata, navigation history and encrypted page context.
+// ---
+
 syntax = "proto2";
 
 package sync_pb;

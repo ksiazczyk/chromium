@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the nigori directory
+summary: Declares the allowed include dependencies for code in the sync nigori component directory.

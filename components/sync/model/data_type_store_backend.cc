@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreBackend implementation
+// summary: Implements the LevelDB-backed backend for sync data type stores, including initialization, record reads and writes, schema migration, and error histogram logging.
+// ---
+
 #include "components/sync/model/data_type_store_backend.h"
 
 #include <memory>

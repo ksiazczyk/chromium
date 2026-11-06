@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Nigori specifics sync proto for encryption keys
+// summary: Defines the NigoriSpecifics protobuf holding sync encryption keys, cross-user sharing keys, and trusted vault auto-upgrade experiment groups.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

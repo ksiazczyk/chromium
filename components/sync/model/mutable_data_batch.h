@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable data batch
+// summary: Declares a DataBatch implementation that takes ownership of EntityData objects when they are put in and releases it when Next is invoked.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_MUTABLE_DATA_BATCH_H_
 #define COMPONENTS_SYNC_MODEL_MUTABLE_DATA_BATCH_H_
 

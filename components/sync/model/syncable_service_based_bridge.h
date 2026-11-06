@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableServiceBasedBridge class declaration
+// summary: Declares a DataTypeSyncBridge implementation that integrates legacy SyncableService data types with the newer sync bridge API.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNCABLE_SERVICE_BASED_BRIDGE_H_
 #define COMPONENTS_SYNC_MODEL_SYNCABLE_SERVICE_BASED_BRIDGE_H_
 

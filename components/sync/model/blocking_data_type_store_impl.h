@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingDataTypeStoreImpl class declaration
+// summary: Declares BlockingDataTypeStoreImpl, the LevelDB-backed implementation of BlockingDataTypeStore for a given data type and storage type.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_BLOCKING_DATA_TYPE_STORE_IMPL_H_
 #define COMPONENTS_SYNC_MODEL_BLOCKING_DATA_TYPE_STORE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared Tab Group Data Proto Annotation Unit Test
+// summary: Unit test verifying that sync collaboration attribution annotations on shared tab group proto fields are present and readable via protobuf descriptors.
+// ---
+
 #include "components/sync/protocol/shared_tab_group_data_specifics_full_proto.pb.h"
 #include "components/sync/protocol/sync_collaboration_attribution_full_proto.pb.h"
 #include "google/protobuf/descriptor.h"

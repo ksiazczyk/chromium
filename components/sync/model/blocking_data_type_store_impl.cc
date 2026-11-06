@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingDataTypeStore implementation
+// summary: Implements the blocking data type store on top of LevelDB, including key prefixes for data and metadata records and a LevelDB metadata change list.
+// ---
+
 #include "components/sync/model/blocking_data_type_store_impl.h"
 
 #include <optional>

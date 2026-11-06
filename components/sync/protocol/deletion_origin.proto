@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Deletion Origin Proto
+// summary: Defines a protobuf identifying the client version and source location that issued a sync deletion, aiding investigation of deletion incidents.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

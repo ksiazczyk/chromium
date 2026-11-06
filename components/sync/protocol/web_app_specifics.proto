@@ -6,6 +6,12 @@
 // components/sync/protocol/proto_visitors.h and potentially
 // components/sync/protocol/proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Web app sync protocol datatype
+// summary: Defines the protobuf message for syncing installed web app data, including display modes, icons, ordinals and migration metadata.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -7,6 +7,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: iOS theme sync specifics
+// summary: Defines the ThemeIosSpecifics protobuf for syncing iOS theme settings such as the user color theme and NTP custom background.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

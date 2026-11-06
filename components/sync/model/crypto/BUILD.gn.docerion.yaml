@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the sync crypto source set
+summary: Defines the crypto source_set in GN, listing the sync crypto sources and its dependencies on the sync protocol, crypto, base and sync base components.

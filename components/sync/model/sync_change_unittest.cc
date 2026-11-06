@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncChange unit tests
+// summary: Unit tests verifying SyncChange behavior for local add, update, and delete changes and for syncer change lists.
+// ---
+
 #include "components/sync/model/sync_change.h"
 
 #include <memory>

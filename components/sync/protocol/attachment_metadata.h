@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttachmentMetadata class declaration
+// summary: Declares the syncer::AttachmentMetadata class wrapping a temporary blob ID for sync entity attachments, with proto conversion and gMock printing support.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_ATTACHMENT_METADATA_H_
 #define COMPONENTS_SYNC_PROTOCOL_ATTACHMENT_METADATA_H_
 

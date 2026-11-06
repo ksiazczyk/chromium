@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreKeysCryptographer implementation
+// summary: Implements a cryptographer wrapper holding only keystore keys, using the last one as the default encryption key, plus keystore decryptor token encryption and decryption.
+// ---
+
 #include "components/sync/nigori/keystore_keys_cryptographer.h"
 
 #include <utility>

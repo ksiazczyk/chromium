@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossUserSharingPublicPrivateKeyPair class declaration
+// summary: Declares an X25519 public-private key pair wrapper with authenticated HPKE encrypt and decrypt methods.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_PUBLIC_PRIVATE_KEY_PAIR_H_
 #define COMPONENTS_SYNC_NIGORI_CROSS_USER_SHARING_PUBLIC_PRIVATE_KEY_PAIR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto memory usage estimation header
+// summary: Declares a template EstimateMemoryUsage function in sync_pb for estimating memory use of sync protocol protos.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_PROTO_MEMORY_ESTIMATIONS_H_
 #define COMPONENTS_SYNC_PROTOCOL_PROTO_MEMORY_ESTIMATIONS_H_
 

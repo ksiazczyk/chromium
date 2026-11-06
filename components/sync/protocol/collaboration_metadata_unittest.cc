@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration metadata unit tests
+// summary: Unit tests verifying serialization and deserialization of CollaborationMetadata between local and remote protos and for local changes.
+// ---
+
 #include "components/sync/protocol/collaboration_metadata.h"
 
 #include "base/test/protobuf_matchers.h"

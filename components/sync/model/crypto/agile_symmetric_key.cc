@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgileSymmetricKey implementation with AEAD ciphers
+// summary: Implements AgileSymmetricKey with an AEAD cipher using AES-256-GCM and a legacy Nigori cipher, covering encryption, decryption and proto serialization.
+// ---
+
 #include "components/sync/model/crypto/agile_symmetric_key.h"
 
 #include <optional>

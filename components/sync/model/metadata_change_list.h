@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataChangeList interface declaration
+// summary: Defines the MetadataChangeList interface used by the processor and service to record data type state and per-entity metadata changes for propagation to storage.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_METADATA_CHANGE_LIST_H_
 #define COMPONENTS_SYNC_MODEL_METADATA_CHANGE_LIST_H_
 

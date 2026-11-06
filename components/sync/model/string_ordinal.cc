@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringOrdinal implementation
+// summary: Implements the StringOrdinal ordering class with operations to create ordinals between, before and after existing values.
+// ---
+
 #include "components/sync/model/string_ordinal.h"
 
 #include <algorithm>

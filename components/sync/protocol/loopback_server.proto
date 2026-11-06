@@ -4,6 +4,12 @@
 //
 // Sync protocol for persisting the loopback server state to disk.
 
+// ---docerion
+// type: source
+// title: Loopback server state persistence protos
+// summary: Defines protobuf messages for persisting the sync loopback server state, entities, and keystore keys to disk.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

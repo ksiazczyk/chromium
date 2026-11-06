@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto enum conversion unit tests
+// summary: Unit tests verifying that string conversions for sync proto enums return non-empty strings for all valid values.
+// ---
+
 #include "components/sync/protocol/proto_enum_conversions.h"
 
 #include <string>

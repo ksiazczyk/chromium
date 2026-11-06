@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagBasedRemoteUpdateHandler class declaration
+// summary: Declares the component that performs updates received from the sync server by applying them to the model through the data type sync bridge.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CLIENT_TAG_BASED_REMOTE_UPDATE_HANDLER_H_
 #define COMPONENTS_SYNC_MODEL_CLIENT_TAG_BASED_REMOTE_UPDATE_HANDLER_H_
 

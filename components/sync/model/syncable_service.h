@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableService interface for legacy sync data types
+// summary: Declares the deprecated SyncableService interface that lets data types merge local data with the server and process sync changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_SYNCABLE_SERVICE_H_
 #define COMPONENTS_SYNC_MODEL_SYNCABLE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unencrypted sharing message protocol
+// summary: Defines protobuf messages set as unencrypted payloads of sharing specifics, covering push notifications, Send Tab to Self and desktop-to-mobile promos.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

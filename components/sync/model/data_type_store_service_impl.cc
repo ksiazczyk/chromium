@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreServiceImpl implementation
+// summary: Implements DataTypeStoreService, initializing the shared LevelDB backend and creating data type stores, including reading list migration and legacy app data wipes.
+// ---
+
 #include "components/sync/model/data_type_store_service_impl.h"
 
 #include <memory>

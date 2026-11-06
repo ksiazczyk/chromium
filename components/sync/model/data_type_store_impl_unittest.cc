@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataTypeStoreImpl unit tests
+// summary: Unit tests for DataTypeStoreImpl verifying data and metadata reads, write batch commits, and error handling across task runner boundaries.
+// ---
+
 #include "components/sync/model/data_type_store_impl.h"
 
 #include <map>

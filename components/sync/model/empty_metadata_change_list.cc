@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyMetadataChangeList implementation
+// summary: Implements a no-op MetadataChangeList whose update, clear and transfer operations discard all changes.
+// ---
+
 #include "components/sync/model/empty_metadata_change_list.h"
 
 namespace syncer {

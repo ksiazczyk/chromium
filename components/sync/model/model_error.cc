@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model error implementation
+// summary: Implements the ModelError class that sync datatypes use to report errors, exposing the error location, type, and a formatted string representation.
+// ---
+
 #include "components/sync/model/model_error.h"
 
 #include "third_party/abseil-cpp/absl/strings/str_format.h"

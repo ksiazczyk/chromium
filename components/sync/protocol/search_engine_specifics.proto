@@ -9,6 +9,12 @@
 
 // Fields that are not used anymore should be marked [deprecated = true].
 
+// ---docerion
+// type: source
+// title: Search engine sync protocol definition
+// summary: Defines the protobuf message describing custom search engines for sync, including keywords, URLs and deprecated fields.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

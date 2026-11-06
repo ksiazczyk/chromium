@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingLocalNigoriCommit interface
+// summary: Declares the interface representing an intended local change to Nigori state pending commit to the sync server, with apply, success, and failure hooks.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_PENDING_LOCAL_NIGORI_COMMIT_H_
 #define COMPONENTS_SYNC_NIGORI_PENDING_LOCAL_NIGORI_COMMIT_H_
 

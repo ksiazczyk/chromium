@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyDerivationParams header declaring key derivation method and salt
+// summary: Declares KeyDerivationParams, which pairs a key derivation method with a scrypt salt for sync passphrase-based key derivation.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_CRYPTO_KEY_DERIVATION_PARAMS_H_
 #define COMPONENTS_SYNC_MODEL_CRYPTO_KEY_DERIVATION_PARAMS_H_
 

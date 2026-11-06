@@ -1,3 +1,12 @@
+---
+type: readme
+title: Sync Protocol Style
+summary: Style guide for sync protocol proto files, covering field naming, timestamp and duration suffixes, backwards compatibility and deprecation rules.
+relations:
+  - references /components/sync/protocol/proto_visitors.h
+  - references /components/sync/protocol/proto_enum_conversions.cc
+---
+
 Sync Protocol Style
 ===================
 

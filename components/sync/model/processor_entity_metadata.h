@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor entity metadata
+// summary: Declares the in-memory metadata for a sync entity tracked by a processor, with helpers for unsynced state, deletion, and hash matching.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_METADATA_H_
 #define COMPONENTS_SYNC_MODEL_PROCESSOR_ENTITY_METADATA_H_
 

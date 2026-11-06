@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration metadata header
+// summary: Declares the CollaborationMetadata class holding creator, updater and collaboration IDs for shared sync entities, with proto conversion helpers.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_COLLABORATION_METADATA_H_
 #define COMPONENTS_SYNC_PROTOCOL_COLLABORATION_METADATA_H_
 

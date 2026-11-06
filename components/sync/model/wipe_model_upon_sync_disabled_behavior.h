@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WipeModelUponSyncDisabledBehavior enum
+// summary: Defines an enum controlling whether and when local model data is wiped when sync is permanently disabled.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_WIPE_MODEL_UPON_SYNC_DISABLED_BEHAVIOR_H_
 #define COMPONENTS_SYNC_MODEL_WIPE_MODEL_UPON_SYNC_DISABLED_BEHAVIOR_H_
 

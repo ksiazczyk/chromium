@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Tab group attribution metadata protobuf
+// summary: Defines the AttributionMetadata protobuf recording which device created and last updated a tab group or tab.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

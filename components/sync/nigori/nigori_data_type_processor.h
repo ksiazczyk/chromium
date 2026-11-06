@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriDataTypeProcessor class header
+// summary: Declares NigoriDataTypeProcessor, which bridges the Nigori model to the sync engine as a DataTypeProcessor, DataTypeControllerDelegate, and NigoriLocalChangeProcessor.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_DATA_TYPE_PROCESSOR_H_
 

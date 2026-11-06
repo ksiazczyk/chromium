@@ -9,6 +9,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: App setting sync specifics
+// summary: Proto definition of AppSettingSpecifics, which reuses the extension setting message as a separate sync data type for app settings.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriDataTypeProcessor implementation
+// summary: Implements the data type processor that connects the Nigori sync bridge to the sync engine, handling commits, updates, and metadata for the Nigori data type.
+// ---
+
 #include "components/sync/nigori/nigori_data_type_processor.h"
 
 #include <optional>

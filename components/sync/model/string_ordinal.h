@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringOrdinal class declaration
+// summary: Declares StringOrdinal, a deprecated dense ordering type superseded by UniquePosition, used to order items so position changes affect only the moved item.
+// ---
+
 #ifndef COMPONENTS_SYNC_MODEL_STRING_ORDINAL_H_
 #define COMPONENTS_SYNC_MODEL_STRING_ORDINAL_H_
 

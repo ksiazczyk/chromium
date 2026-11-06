@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Sync invalidations payload protobuf
+// summary: Defines the SyncInvalidationsPayload protobuf the server sends to identify invalidated data types and trigger GetUpdates with a hint and versioning.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

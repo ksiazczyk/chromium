@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History status request and response protos
+// summary: Defines request and response messages for history status, including the minimum poll interval and derived data flag.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

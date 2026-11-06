@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriSyncBridge interface
+// summary: Declares the interface implemented by the Nigori model to receive Nigori updates from sync, covering merge, commit, debugging, and disable-sync operations.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_SYNC_BRIDGE_H_
 

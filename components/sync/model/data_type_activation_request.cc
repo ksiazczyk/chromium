@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeActivationRequest implementation
+// summary: Implements constructors, assignment operators and the validity check for the DataTypeActivationRequest struct.
+// ---
+
 #include "components/sync/model/data_type_activation_request.h"
 
 namespace syncer {

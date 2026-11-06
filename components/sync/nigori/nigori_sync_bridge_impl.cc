@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NigoriSyncBridgeImpl implementation
+// summary: Implements the USS sync encryption handler, managing Nigori state, passphrase handling, key derivation metrics, keystore keys, and communication with the change processor.
+// ---
+
 #include "components/sync/nigori/nigori_sync_bridge_impl.h"
 
 #include <utility>

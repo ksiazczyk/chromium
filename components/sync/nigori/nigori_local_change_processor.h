@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori local change processor interface
+// summary: Declares the NigoriLocalChangeProcessor interface for propagating local Nigori changes to sync, plus the NigoriMetadataBatch struct.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_NIGORI_LOCAL_CHANGE_PROCESSOR_H_
 #define COMPONENTS_SYNC_NIGORI_NIGORI_LOCAL_CHANGE_PROCESSOR_H_
 

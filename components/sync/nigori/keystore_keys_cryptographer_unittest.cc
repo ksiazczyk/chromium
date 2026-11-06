@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeystoreKeysCryptographer unit tests
+// summary: Unit tests verifying creation of empty and non-empty keystore key cryptographers and their conversion into a CryptographerImpl.
+// ---
+
 #include "components/sync/nigori/keystore_keys_cryptographer.h"
 
 #include "components/sync/model/crypto/key_derivation_params.h"

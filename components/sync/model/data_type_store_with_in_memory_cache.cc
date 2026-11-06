@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeStoreWithInMemoryCache implementation
+// summary: Implements the templated store wrapper that loads all data into an in-memory cache and mirrors write batches to the underlying DataTypeStore.
+// ---
+
 #include "components/sync/model/data_type_store_with_in_memory_cache.h"
 
 #include <utility>

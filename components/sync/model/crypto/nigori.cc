@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nigori protocol implementation
+// summary: Implements the Nigori protocol for Chromium sync, deriving user, encryption and MAC keys from a password via PBKDF2 or Scrypt and providing encryption and decryption of sync secrets.
+// ---
+
 #include "components/sync/model/crypto/nigori.h"
 
 #include <stdint.h>

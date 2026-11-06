@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyDataTypeControllerDelegate implementation
+// summary: Implements a proxy delegate that posts DataTypeControllerDelegate calls to the model thread where the real delegate lives.
+// ---
+
 #include "components/sync/model/proxy_data_type_controller_delegate.h"
 
 #include <utility>

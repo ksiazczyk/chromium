@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Nigori local data protos
+// summary: Defines local persistence messages for sync encryption state, including cryptographer keys, passphrase types, and keystore keys.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

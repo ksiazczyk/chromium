@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgileSymmetricKeySet implementation for key rotation and encryption
+// summary: Implements AgileSymmetricKeySet, handling proto parsing, primary key rotation, and encryption and decryption across modern and legacy Nigori ciphertext formats.
+// ---
+
 #include "components/sync/model/crypto/agile_symmetric_key_set.h"
 
 #include <utility>

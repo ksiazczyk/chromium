@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto enum to string conversion header
+// summary: Declares ProtoEnumToString functions for sync proto enums and must be kept in sync with the directory's proto files.
+// ---
+
 #ifndef COMPONENTS_SYNC_PROTOCOL_PROTO_ENUM_CONVERSIONS_H_
 #define COMPONENTS_SYNC_PROTOCOL_PROTO_ENUM_CONVERSIONS_H_
 

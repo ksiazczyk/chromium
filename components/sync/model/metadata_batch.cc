@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataBatch implementation
+// summary: Implements the MetadataBatch container used to pass sync metadata, including the entity metadata map and data type state, from services to their processor.
+// ---
+
 #include "components/sync/model/metadata_batch.h"
 
 #include <memory>

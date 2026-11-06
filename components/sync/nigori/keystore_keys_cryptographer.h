@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreKeysCryptographer class header
+// summary: Declares KeystoreKeysCryptographer, a CryptographerImpl wrapper containing only keystore keys with helpers for keystore decryptor tokens.
+// ---
+
 #ifndef COMPONENTS_SYNC_NIGORI_KEYSTORE_KEYS_CRYPTOGRAPHER_H_
 #define COMPONENTS_SYNC_NIGORI_KEYSTORE_KEYS_CRYPTOGRAPHER_H_
 

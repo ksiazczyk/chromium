@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequiredPassphraseVerifierImpl implementation
+// summary: Implements verification of decryption passphrases and bootstrap tokens against pending encrypted keys using Nigori key derivation.
+// ---
+
 #include "components/sync/nigori/required_passphrase_verifier_impl.h"
 
 #include <memory>
