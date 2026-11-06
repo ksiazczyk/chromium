@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation audio stream implementation
+// summary: Implements Media Foundation audio stream wrappers, including AAC and AC4 variants with ADTS header removal and subsample mapping adjustments.
+// ---
+
 
 #include "media/renderers/win/media_foundation_audio_stream.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaEngineNotifyImpl class declaration
+// summary: Declares the IMFMediaEngineNotify implementation that forwards Media Foundation engine events to media pipeline callbacks on a safe thread.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_ENGINE_NOTIFY_IMPL_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_ENGINE_NOTIFY_IMPL_H_
 

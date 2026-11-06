@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaEngineExtension class declaration
+// summary: Declares the IMFMediaEngineExtension implementation that supplies the media source to the Windows MFMediaEngine with thread-safe shutdown handling.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_ENGINE_EXTENSION_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_ENGINE_EXTENSION_H_
 

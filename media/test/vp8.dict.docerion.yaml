@@ -1,0 +1,4 @@
+# Docerion header of vp8.dict.
+type: data
+title: VP8 fuzzer dictionary
+summary: Fuzzer dictionary of IVF and VP8 bitstream tokens used to seed fuzzed input for media parsers.

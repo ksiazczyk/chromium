@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation stream wrapper class declaration
+// summary: Declares MediaFoundationStreamWrapper, an IMFMediaStream implementation over a Chromium DemuxerStream with buffering, events, and encryption support.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_STREAM_WRAPPER_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_STREAM_WRAPPER_H_
 

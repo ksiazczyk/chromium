@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoRendererImpl implementation
+// summary: Implements the video renderer that reads decoded frames from a VideoDecoderStream, queues them, and renders them through a VideoRendererSink.
+// ---
+
 #include "media/renderers/video_renderer_impl.h"
 
 #include <algorithm>

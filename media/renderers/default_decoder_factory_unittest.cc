@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default decoder factory unit tests
+// summary: Unit tests verifying that DefaultDecoderFactory creates an IAMF audio decoder only when the kIamfAudioDecoding feature is enabled.
+// ---
+
 #include "media/renderers/default_decoder_factory.h"
 
 #include <algorithm>

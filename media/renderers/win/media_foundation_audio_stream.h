@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation audio stream class declaration
+// summary: Declares the audio stream wrapper classes used by the Media Foundation renderer, including codec-specific AAC and AC4 variants.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_AUDIO_STREAM_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_AUDIO_STREAM_H_
 

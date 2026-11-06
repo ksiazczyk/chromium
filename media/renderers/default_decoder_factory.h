@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultDecoderFactory class header
+// summary: Declares DefaultDecoderFactory, which vends audio and video decoders with support for an external factory and thread-safe shutdown.
+// ---
+
 #ifndef MEDIA_RENDERERS_DEFAULT_DECODER_FACTORY_H_
 #define MEDIA_RENDERERS_DEFAULT_DECODER_FACTORY_H_
 

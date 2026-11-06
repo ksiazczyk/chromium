@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererImpl class declaration
+// summary: Declares RendererImpl, the Renderer implementation that drives audio and video renderers with playback, flush, volume, and track-change controls.
+// ---
+
 #ifndef MEDIA_RENDERERS_RENDERER_IMPL_H_
 #define MEDIA_RENDERERS_RENDERER_IMPL_H_
 

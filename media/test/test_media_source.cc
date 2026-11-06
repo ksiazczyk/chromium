@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaSource implementation
+// summary: Implements TestMediaSource, which emulates Media Source API calls such as appends, seeks and removals on a ChunkDemuxer for tests.
+// ---
+
 #include "media/test/test_media_source.h"
 
 #include "base/functional/bind.h"

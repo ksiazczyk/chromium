@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pipeline integration test base implementation
+// summary: Implements the PipelineIntegrationTestBase helpers that start, play, seek and stop the media pipeline with real demuxers and decoders in tests.
+// ---
+
 #include "media/test/pipeline_integration_test_base.h"
 
 #include <ios>

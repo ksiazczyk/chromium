@@ -1,0 +1,4 @@
+# Docerion header of media_bundle_data.globlist.
+type: data
+title: Glob list for media bundle data filelist
+summary: Glob pattern covering data/** that is used to regenerate the media_bundle_data.filelist for the iOS test bundle.

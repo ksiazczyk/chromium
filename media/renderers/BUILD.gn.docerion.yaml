@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media renderers
+summary: GN build file defining the renderers source set with its dependencies, Windows Media Foundation sources, and the unit test target for the media renderers directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pipeline integration test base header
+// summary: Declares PipelineIntegrationTestBase, the shared base class that runs the media pipeline with simulated audio and video sinks for integration tests.
+// ---
+
 #ifndef MEDIA_TEST_PIPELINE_INTEGRATION_TEST_BASE_H_
 #define MEDIA_TEST_PIPELINE_INTEGRATION_TEST_BASE_H_
 

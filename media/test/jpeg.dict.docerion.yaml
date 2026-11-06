@@ -1,0 +1,4 @@
+# Docerion header of jpeg.dict.
+type: data
+title: AFL dictionary for JPEG fuzzing
+summary: AFL fuzzing dictionary of JPEG headers and section markers used by media fuzzers.

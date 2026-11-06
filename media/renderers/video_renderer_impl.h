@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoRendererImpl class declaration
+// summary: Declares VideoRendererImpl, which manages decoded video frame queues, buffering limits, frame dropping, and render callbacks for the video sink.
+// ---
+
 #ifndef MEDIA_RENDERERS_VIDEO_RENDERER_IMPL_H_
 #define MEDIA_RENDERERS_VIDEO_RENDERER_IMPL_H_
 

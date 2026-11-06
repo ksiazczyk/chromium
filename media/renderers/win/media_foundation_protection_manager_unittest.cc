@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation protection manager unit tests
+// summary: Unit test verifying that MediaFoundationProtectionManager is destroyed on the correct task runner sequence after its last reference is released.
+// ---
+
 #include "media/renderers/win/media_foundation_protection_manager.h"
 
 #include <wrl/client.h>

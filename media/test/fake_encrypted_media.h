@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake encrypted media test support header
+// summary: Declares FakeEncryptedMedia, a test helper providing a CdmContext backed by an AesDecryptor with an AppBase interface for EME event handling.
+// ---
+
 #ifndef MEDIA_TEST_FAKE_ENCRYPTED_MEDIA_H_
 #define MEDIA_TEST_FAKE_ENCRYPTED_MEDIA_H_
 

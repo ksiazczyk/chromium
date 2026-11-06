@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation source wrapper implementation
+// summary: Implements the IMFMediaSource wrapper that adapts Chromium MediaResource demuxer streams into Media Foundation streams for the media engine.
+// ---
+
 #include "media/renderers/win/media_foundation_source_wrapper.h"
 
 #include <mferror.h>

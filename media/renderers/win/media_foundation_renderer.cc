@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer implementation
+// summary: Implements MediaFoundationRenderer, bridging Chromium's Renderer interface to the Windows MFMediaEngine with DirectComposition rendering and GPU metrics reporting.
+// ---
+
 #include "media/renderers/win/media_foundation_renderer.h"
 
 #include <Audioclient.h>

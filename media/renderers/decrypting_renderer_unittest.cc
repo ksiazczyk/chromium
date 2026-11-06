@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecryptingRenderer unit tests
+// summary: Unit tests for DecryptingRenderer covering clear and encrypted streams, CDM attachment, and initialization outcomes with mock components.
+// ---
+
 #include "media/renderers/decrypting_renderer.h"
 
 #include "base/functional/bind.h"

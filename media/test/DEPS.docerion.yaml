@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media tests
+summary: Specifies allowed include rules for the media/test directory, covering Mojo and service manager headers plus a gtest internal header for the fuzzer test.

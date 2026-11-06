@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video stream class declarations
+// summary: Declares the MediaFoundationVideoStream wrapper and its H.264 and HEVC specific subclasses, which supply codec-specific media types for the Windows Media Foundation renderer.
+// ---
+
 #ifndef MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_VIDEO_STREAM_H_
 #define MEDIA_RENDERERS_WIN_MEDIA_FOUNDATION_VIDEO_STREAM_H_
 

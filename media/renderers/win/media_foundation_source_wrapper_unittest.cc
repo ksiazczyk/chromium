@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Media Foundation source wrapper unit tests
+// summary: Unit tests for MediaFoundationSourceWrapper verifying destruction on the task runner and that a CDM forces the protected stream attribute.
+// ---
+
 #include "media/renderers/win/media_foundation_source_wrapper.h"
 
 #include <mfapi.h>

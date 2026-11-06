@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media pipeline integration fuzzer test
+// summary: libFuzzer target that runs the media pipeline over fuzzed MSE input across many WebM, MP4, MP2T and audio codec variants.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 
