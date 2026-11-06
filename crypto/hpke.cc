@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HPKE encryption implementation
+// summary: Implements HPKE seal and open in Base and Auth modes with X25519 and ML-KEM-768 key encapsulation over BoringSSL.
+// ---
+
 #include "crypto/hpke.h"
 
 #include <cstdint>

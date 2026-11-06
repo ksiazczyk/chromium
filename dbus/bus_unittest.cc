@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Bus class
+// summary: Tests Bus behavior such as object proxy creation, unknown service handling, and service owner change notifications.
+// ---
+
 #include "dbus/bus.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of user-verifying keys
+// summary: Implements user-verifying signing keys on Windows through the WinRT KeyCredentialManager, with result enums recorded as metrics for key creation and signing.
+// ---
+
 #include "crypto/user_verifying_key.h"
 
 #include <windows.h>

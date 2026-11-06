@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key provider dispatch implementation
+// summary: Implements platform dispatch for unexportable key providers on Windows and Apple platforms, with a mock provider hook for testing.
+// ---
+
 #include "crypto/unexportable_key.h"
 
 #include "base/check.h"

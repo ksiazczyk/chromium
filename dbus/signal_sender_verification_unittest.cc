@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal sender verification tests
+// summary: Tests sender verification in ObjectProxy by connecting to signals and switching ownership between two test D-Bus services.
+// ---
+
 #include <memory>
 #include <utility>
 

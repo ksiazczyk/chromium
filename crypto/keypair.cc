@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key pair generation and serialization implementation
+// summary: Implements generation, import, and export of RSA, EC P-256/P-384/P-521, Ed25519, X25519, ML-DSA, and ML-KEM keys on top of BoringSSL EVP_PKEY.
+// ---
+
 #include "crypto/keypair.h"
 
 #include "base/containers/to_vector.h"

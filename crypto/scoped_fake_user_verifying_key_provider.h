@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped fake user verifying key provider header
+// summary: Declares scoped helpers that install fake, null, or failing user verifying key providers and override key support checks while in scope.
+// ---
+
 #ifndef CRYPTO_SCOPED_FAKE_USER_VERIFYING_KEY_PROVIDER_H_
 #define CRYPTO_SCOPED_FAKE_USER_VERIFYING_KEY_PROVIDER_H_
 

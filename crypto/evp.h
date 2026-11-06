@@ -5,6 +5,12 @@
 // This file contains utility functions and types for working with BoringSSL's
 // EVP_* types.
 
+// ---docerion
+// type: source
+// title: EVP_PKEY byte serialization helpers API
+// summary: Declares helpers to parse and marshal EVP_PKEY public and private keys from and to byte spans.
+// ---
+
 #ifndef CRYPTO_EVP_H_
 #define CRYPTO_EVP_H_
 

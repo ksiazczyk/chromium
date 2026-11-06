@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key exchange header for EcdhP256, EcdhP384, and X25519
+// summary: Declares crypto::kex functions that derive raw ECDH or X25519 shared secrets from a public and private key, noting the output is not directly usable as key material.
+// ---
+
 #ifndef CRYPTO_KEX_H_
 #define CRYPTO_KEX_H_
 

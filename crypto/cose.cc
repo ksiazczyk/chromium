@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COSE key serialization implementation
+// summary: Converts RSA, EC-P256, Ed25519, and ML-DSA public keys into serialized COSE_Key CBOR structures.
+// ---
+
 #include "crypto/cose.h"
 
 #include <vector>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: //crypto README
+summary: Describes the crypto directory as wrappers around platform APIs and BoringSSL, listing common interfaces, recommended primitives, and advice for clients.
+relations:
+  - documents /crypto/aead.h
+  - documents /crypto/hash.h
+  - documents /crypto/hmac.h
+---
+
 # //crypto README
 
 This directory contains implementations of crypto primitives for use in

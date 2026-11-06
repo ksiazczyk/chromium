@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property and PropertySet implementation
+// summary: Implements PropertyBase, PropertySet and related classes for reading, caching and updating D-Bus interface properties via the Properties interface.
+// ---
+
 #include "dbus/property.h"
 
 #include <stddef.h>

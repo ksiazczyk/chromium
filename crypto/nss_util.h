@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS and NSPR initialization API
+// summary: Declares thread-safe NSS and NSPR initialization functions, NSS version checks, ChromeOS TPM token support, and PRTime conversion helpers.
+// ---
+
 #ifndef CRYPTO_NSS_UTIL_H_
 #define CRYPTO_NSS_UTIL_H_
 

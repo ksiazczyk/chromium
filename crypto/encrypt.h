@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA-OAEP-SHA1 encryption API
+// summary: Declares one-shot RSA encryption and decryption functions and size helpers for the crypto module.
+// ---
+
 #ifndef CRYPTO_ENCRYPT_H_
 #define CRYPTO_ENCRYPT_H_
 

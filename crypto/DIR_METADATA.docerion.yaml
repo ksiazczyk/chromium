@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for //crypto
+summary: Maps the crypto directory to the Internals>Network>SSL component and the trusty-transport team for issue tracking.

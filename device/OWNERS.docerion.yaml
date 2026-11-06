@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for device
+summary: Lists the reviewers responsible for changes in the device directory, with per-file rules for BUILD.gn and translation artifacts.

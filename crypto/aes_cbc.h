@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CBC one-shot encryption header
+// summary: Declares one-shot AES-CBC encrypt and decrypt functions in crypto::aes_cbc, with warnings to prefer authenticated AEAD modes.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectProxy class declaration
+// summary: Declares the ref-counted ObjectProxy class used to call methods on remote D-Bus objects, connect to signals and wait for services to become available.
+// ---
+
 #ifndef DBUS_OBJECT_PROXY_H_
 #define DBUS_OBJECT_PROXY_H_
 

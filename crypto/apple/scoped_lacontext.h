@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLAContext header
+// summary: Declares ScopedLAContext, a C++-safe unique-pointer wrapper for holding and passing an authenticated LAContext from UI code to the platform layer.
+// ---
+
 #ifndef CRYPTO_APPLE_SCOPED_LACONTEXT_H_
 #define CRYPTO_APPLE_SCOPED_LACONTEXT_H_
 

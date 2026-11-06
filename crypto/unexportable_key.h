@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable signing key interfaces
+// summary: Declares the UnexportableSigningKey and provider interfaces for hardware-backed signing oracles on Windows TPM, macOS and iOS Secure Enclave.
+// ---
+
 #ifndef CRYPTO_UNEXPORTABLE_KEY_H_
 #define CRYPTO_UNEXPORTABLE_KEY_H_
 

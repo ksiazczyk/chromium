@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake unexportable key provider scopes implementation
+// summary: Implements scoped test helpers that install a fake software-based or null unexportable key provider for the duration of their scope.
+// ---
+
 #include "crypto/scoped_fake_unexportable_key_provider.h"
 
 #include <vector>

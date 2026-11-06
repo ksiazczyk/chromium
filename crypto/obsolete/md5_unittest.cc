@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MD5 known-answer unit test
+// summary: Verifies that Md5::Hash produces the expected MD5 digest for a fixed test input string.
+// ---
+
 #include "crypto/obsolete/md5.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

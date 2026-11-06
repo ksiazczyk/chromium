@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security framework lock header
+// summary: Declares GetSecurityFrameworkLock, which protects concurrent SecKeychain, SecPolicy and SecTrust calls on Apple platforms.
+// ---
+
 #ifndef CRYPTO_APPLE_SECURITY_FRAMEWORK_LOCK_H_
 #define CRYPTO_APPLE_SECURITY_FRAMEWORK_LOCK_H_
 

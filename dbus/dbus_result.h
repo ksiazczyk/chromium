@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusResult enum and error mapping header
+// summary: Defines the DBusResult enum of stable, logged D-Bus error codes and declares GetResult to map error responses to results.
+// ---
+
 #ifndef DBUS_DBUS_RESULT_H_
 #define DBUS_DBUS_RESULT_H_
 

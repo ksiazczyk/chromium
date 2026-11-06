@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneWriterSeqLock implementation
+// summary: Implements the single-writer seqlock's read and write begin/retry logic using an atomic sequence counter with acquire and release fences.
+// ---
+
 #include "device/base/synchronization/one_writer_seqlock.h"
 
 #include "base/threading/platform_thread.h"

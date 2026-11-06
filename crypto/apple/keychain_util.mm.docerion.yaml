@@ -1,0 +1,4 @@
+# Docerion header of keychain_util.mm.
+type: source
+title: Apple keychain utility function implementations
+summary: Implements keychain utilities, including entitlement checks on macOS and iOS accessibility migration for keychain items with histogram logging.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AES-CTR unit tests
+// summary: Checks AES-CTR encrypt and decrypt against a known-answer test vector derived via OpenSSL.
+// ---
+
 #include "crypto/aes_ctr.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

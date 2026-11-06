@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for D-Bus property classes
+// summary: Unit test exercising the asynchronous APIs of PropertySet and Property against a running test D-Bus service.
+// ---
+
 #include "dbus/property.h"
 
 #include <stddef.h>

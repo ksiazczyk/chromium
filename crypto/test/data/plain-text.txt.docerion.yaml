@@ -1,0 +1,4 @@
+# Docerion header of plain-text.txt.
+type: test
+title: plain-text.txt test fixture
+summary: Plain-text test input used by hash and signature function tests in the crypto package.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macro header for the dbus library
+// summary: Defines the CHROME_DBUS_EXPORT macro that controls symbol visibility when the dbus library is built as a component.
+// ---
+
 #ifndef DBUS_DBUS_EXPORT_H_
 #define DBUS_DBUS_EXPORT_H_
 

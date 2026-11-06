@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus statistics API header
+// summary: Declares the statistics API to initialize, record, and format D-Bus call counts for debugging, with test helpers.
+// ---
+
 #ifndef DBUS_DBUS_STATISTICS_H_
 #define DBUS_DBUS_STATISTICS_H_
 

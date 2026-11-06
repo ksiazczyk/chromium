@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test D-Bus service implementation
+// summary: Implements TestService, a D-Bus service running on its own thread that exports Echo and related methods and sends test signals for end-to-end tests.
+// ---
+
 #include "dbus/test_service.h"
 
 #include <stdint.h>

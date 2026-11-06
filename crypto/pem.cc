@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PEM message file decoding implementation
+// summary: Implements reading and decoding RFC 1421 PEM messages from files using BoringSSL's PEM decoder.
+// ---
+
 #include "crypto/pem.h"
 
 #include "base/containers/to_vector.h"

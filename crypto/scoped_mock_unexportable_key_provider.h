@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock unexportable key provider header
+// summary: Declares a scoped mock unexportable key provider whose queued mock keys are returned by GetUnexportableKeyProvider during tests.
+// ---
+
 #ifndef CRYPTO_SCOPED_MOCK_UNEXPORTABLE_KEY_PROVIDER_H_
 #define CRYPTO_SCOPED_MOCK_UNEXPORTABLE_KEY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash implementation for SHA family digests
+// summary: Implements one-shot and streaming SHA-1, SHA-256, SHA-384 and SHA-512 hashing over BoringSSL, including hashing the contents of a file.
+// ---
+
 #include "crypto/hash.h"
 
 #include <cstdint>

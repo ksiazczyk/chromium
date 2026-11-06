@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device feature flag declarations
+// summary: Declares the exported feature flags of the device::features namespace with platform-specific preprocessor guards.
+// ---
+
 #ifndef DEVICE_BASE_FEATURES_H_
 #define DEVICE_BASE_FEATURES_H_
 

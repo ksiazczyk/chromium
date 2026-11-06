@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT event handler helper for base callbacks
+// summary: Provides a template that wraps a base RepeatingCallback in a WinRT IEventHandler and posts events back to the creating sequence.
+// ---
+
 #ifndef DEVICE_BASE_EVENT_UTILS_WINRT_H_
 #define DEVICE_BASE_EVENT_UTILS_WINRT_H_
 

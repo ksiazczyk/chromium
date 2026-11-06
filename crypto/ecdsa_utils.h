@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA signature format conversion API
+// summary: Declares functions converting ECDSA signatures between DER and IEEE P1363 raw formats, as used in JWTs.
+// ---
+
 #ifndef CRYPTO_ECDSA_UTILS_H_
 #define CRYPTO_ECDSA_UTILS_H_
 

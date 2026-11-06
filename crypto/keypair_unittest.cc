@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keypair unit tests
+// summary: Unit tests that generate keys and roundtrip them through PrivateKeyInfo, SubjectPublicKeyInfo and algorithm-specific encodings in crypto::keypair.
+// ---
+
 // crypto::keypair tests
 #include "crypto/keypair.h"
 

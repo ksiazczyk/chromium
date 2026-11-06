@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the dbus directory
+summary: Lists the owners responsible for reviewing changes to the dbus directory, with no parent owners set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SHA hashing
+// summary: Verifies SHA-256, SHA-384 and SHA-512 digests against FIPS 180-4 test vectors and checks misuse crashes such as wrong digest sizes and use after Finish.
+// ---
+
 #include "crypto/hash.h"
 
 #include <array>

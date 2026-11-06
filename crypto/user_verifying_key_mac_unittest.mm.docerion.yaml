@@ -1,0 +1,4 @@
+# Docerion header of user_verifying_key_mac_unittest.mm.
+type: test
+title: Unit tests for macOS user-verifying keys
+summary: Tests generation, retrieval, signing and deletion of user-verifying keys on macOS using a fake keychain and an optional LAContext.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EVP key serialization
+// summary: Tests round-trip serialization of fixed RSA public and private keys through the EVP helpers.
+// ---
+
 #include "crypto/evp.h"
 
 #include "crypto/test_support.h"

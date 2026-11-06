@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneWriterSeqLock unit tests
+// summary: Runs multithreaded gtest cases verifying reader and writer behavior of the one-writer seqlock, including a max-retries test.
+// ---
+
 
 #include "device/base/synchronization/one_writer_seqlock.h"
 

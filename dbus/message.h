@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus message class declarations
+// summary: Declares the Message base class with D-Bus message and data type enums plus header field accessors, and forward declares the reader and writer classes.
+// ---
+
 #ifndef DBUS_MESSAGE_H_
 #define DBUS_MESSAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestService class declaration
+// summary: Declares the TestService thread class and its options for running a D-Bus test service with exported methods, signals, and name ownership handling in end-to-end tests.
+// ---
+
 #ifndef DBUS_TEST_SERVICE_H_
 #define DBUS_TEST_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtlePassKey capability header
+// summary: Declares SubtlePassKey, a capability token that gates access to subtle or mistake-prone crypto APIs, with friend declarations listing the allowed callers.
+// ---
+
 #ifndef CRYPTO_SUBTLE_PASSKEY_H_
 #define CRYPTO_SUBTLE_PASSKEY_H_
 

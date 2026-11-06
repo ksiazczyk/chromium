@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeKeychainV2 test keychain header
+// summary: Declares FakeKeychainV2, a test-only KeychainV2 implementation that avoids writing to the real Keychain and lets tests simulate user verification results.
+// ---
+
 #ifndef CRYPTO_APPLE_FAKE_KEYCHAIN_V2_H_
 #define CRYPTO_APPLE_FAKE_KEYCHAIN_V2_H_
 

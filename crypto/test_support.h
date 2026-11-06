@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed test key helper header
+// summary: Declares functions returning fixed RSA, EC P-256, ML-DSA and Ed25519 private and public keys so tests avoid costly key generation.
+// ---
+
 #ifndef CRYPTO_TEST_SUPPORT_H_
 #define CRYPTO_TEST_SUPPORT_H_
 

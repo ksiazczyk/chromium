@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSA-OAEP-SHA1 encryption implementation
+// summary: Implements one-shot RSA-OAEP-SHA1 encryption and decryption plus ciphertext and maximum plaintext size helpers.
+// ---
+
 #include "crypto/encrypt.h"
 
 #include "base/check.h"

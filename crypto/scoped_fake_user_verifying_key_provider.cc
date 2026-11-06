@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped fake user verifying key provider implementation
+// summary: Implements fake user verifying key providers that wrap software unexportable keys, track deleted keys, and emulate hardware backing for tests.
+// ---
+
 #include "crypto/scoped_fake_user_verifying_key_provider.h"
 
 #include <memory>

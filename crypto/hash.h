@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hashing API with one-shot and streaming interfaces
+// summary: Declares HashKind, Sha256 and Sha512 helpers, a streaming Hasher class and HashFile for computing digests, with SHA-1 marked deprecated.
+// ---
+
 #ifndef CRYPTO_HASH_H_
 #define CRYPTO_HASH_H_
 

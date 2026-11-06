@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal NSS utility declarations
+// summary: Declares internal NSS functions for opening and closing software databases, SECMOD list locking, and ChromeOS user slot management.
+// ---
+
 #ifndef CRYPTO_NSS_UTIL_INTERNAL_H_
 #define CRYPTO_NSS_UTIL_INTERNAL_H_
 

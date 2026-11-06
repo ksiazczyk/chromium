@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Md5 class header with friend list
+// summary: Declares the Md5 class that can only be constructed by friend functions across Chromium components, enforcing crypto-owner approval for MD5 use.
+// ---
+
 #ifndef CRYPTO_OBSOLETE_MD5_H_
 #define CRYPTO_OBSOLETE_MD5_H_
 

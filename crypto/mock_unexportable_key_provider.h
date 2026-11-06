@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock unexportable key provider declarations
+// summary: Declares a gmock mock of the stateful unexportable key provider covering algorithm selection, key generation, wrapping and deletion.
+// ---
+
 #ifndef CRYPTO_MOCK_UNEXPORTABLE_KEY_PROVIDER_H_
 #define CRYPTO_MOCK_UNEXPORTABLE_KEY_PROVIDER_H_
 

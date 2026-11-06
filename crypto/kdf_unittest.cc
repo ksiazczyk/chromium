@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KDF unit tests with RFC known-answer vectors
+// summary: Verifies PBKDF2, scrypt, and HKDF against known-answer vectors from RFC 6070, RFC 7914, and RFC 5869, and checks death on invalid scrypt parameters.
+// ---
+
 #include "crypto/kdf.h"
 
 #include <array>

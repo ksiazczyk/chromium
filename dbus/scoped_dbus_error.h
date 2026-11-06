@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDBusError RAII wrapper header
+// summary: Declares ScopedDBusError, a utility class ensuring DBusError is freed, with accessors for error name and message.
+// ---
+
 #ifndef DBUS_SCOPED_DBUS_ERROR_H_
 #define DBUS_SCOPED_DBUS_ERROR_H_
 

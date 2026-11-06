@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COSE key conversion header
+// summary: Declares PublicKeyToCoseKey, which serializes supported public keys into COSE_Key CBOR bytes.
+// ---
+
 #ifndef CRYPTO_COSE_H_
 #define CRYPTO_COSE_H_
 

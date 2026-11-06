@@ -9,6 +9,12 @@
 //
 // See RFC 9180 for the specification in its full glory.
 
+// ---docerion
+// type: source
+// title: HPKE API for authenticated encryption
+// summary: Declares HPKE parameters and one-shot Seal, Open, AuthSeal and AuthOpen functions per RFC 9180, limited to parameters used in Chromium.
+// ---
+
 #ifndef CRYPTO_HPKE_H_
 #define CRYPTO_HPKE_H_
 

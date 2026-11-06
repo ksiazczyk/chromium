@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KEM unit tests for ML-KEM-768
+// summary: Tests ML-KEM-768 encapsulation and decapsulation round trips, repeated encapsulations, and known-answer vectors from Wycheproof.
+// ---
+
 #include "crypto/kem.h"
 
 #include <array>

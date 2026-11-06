@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectProxy implementation
+// summary: Implements ObjectProxy, which sends method calls to remote D-Bus objects, manages reply callbacks and handles signal connections and NameOwnerChanged.
+// ---
+
 #include "dbus/object_proxy.h"
 
 #include <stddef.h>

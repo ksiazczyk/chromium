@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM operation UMA metrics implementation
+// summary: Measures TPM availability, operation success and latency for hardware and virtualized keys and reports them as UMA histograms.
+// ---
+
 #include "crypto/unexportable_key_metrics.h"
 
 #include <array>

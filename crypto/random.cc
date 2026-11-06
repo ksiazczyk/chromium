@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptographically secure random bytes implementation
+// summary: Implements crypto::RandBytes as an alias for base::RandBytes and provides RandBytesAsVector for length-based random byte generation.
+// ---
+
 #include "crypto/random.h"
 
 #include <stddef.h>

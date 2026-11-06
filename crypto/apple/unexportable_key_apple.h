@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple unexportable key provider header
+// summary: Declares UnexportableKeyProviderApple, a Secure Enclave backed implementation of the unexportable key provider interface with LAContext-aware key generation variants.
+// ---
+
 #ifndef CRYPTO_APPLE_UNEXPORTABLE_KEY_APPLE_H_
 #define CRYPTO_APPLE_UNEXPORTABLE_KEY_APPLE_H_
 

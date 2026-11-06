@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptographically secure random bytes API
+// summary: Declares RandBytes, RandBytesAsVector, and RandBytesAsArray for filling spans, vectors, and fixed-size arrays with cryptographically secure random bits.
+// ---
+
 #ifndef CRYPTO_RANDOM_H_
 #define CRYPTO_RANDOM_H_
 

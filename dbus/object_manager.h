@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectManager class declaration and usage documentation
+// summary: Declares the ObjectManager class with detailed comments on how clients track remote D-Bus objects and properties via the Object Manager interface.
+// ---
+
 #ifndef DBUS_OBJECT_MANAGER_H_
 #define DBUS_OBJECT_MANAGER_H_
 

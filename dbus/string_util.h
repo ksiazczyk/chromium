@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus string utility header
+// summary: Declares IsValidObjectPath, which reports whether a string is a valid D-Bus object path.
+// ---
+
 #ifndef DBUS_STRING_UTIL_H_
 #define DBUS_STRING_UTIL_H_
 

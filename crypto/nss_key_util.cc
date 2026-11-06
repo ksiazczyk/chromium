@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS key utility implementation
+// summary: Implements NSS helpers that generate RSA and EC key pairs, import PKCS#8 private keys, and find keys by SubjectPublicKeyInfo.
+// ---
+
 #include "crypto/nss_key_util.h"
 
 #include <cryptohi.h>

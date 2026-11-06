@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for D-Bus value conversion
+// summary: Unit tests covering PopDataAsValue and the Append value helpers across basic types, variants, arrays, and dictionaries.
+// ---
+
 
 #include "dbus/values_util.h"
 

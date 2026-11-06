@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus message and base::Value conversion implementation
+// summary: Implements helpers that pop D-Bus message data as base::Value and append base::Value data to D-Bus messages, including variants, lists, and dictionaries.
+// ---
+
 #include "dbus/values_util.h"
 
 #include <memory>

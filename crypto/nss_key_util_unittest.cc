@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS key utility unit tests
+// summary: Unit tests for NSS key utilities, covering RSA key pair generation and finding keys from an encoded SubjectPublicKeyInfo.
+// ---
+
 #include "crypto/nss_key_util.h"
 
 #include <keyhi.h>

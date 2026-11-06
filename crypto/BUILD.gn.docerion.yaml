@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crypto build configuration (BUILD.gn)
+summary: Defines GN targets for the crypto library, including buildflag headers, a Rust TPM static library, and platform-specific sources and dependencies.

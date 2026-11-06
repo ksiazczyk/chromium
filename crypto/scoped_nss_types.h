@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped NSS pointer types
+// summary: Defines unique_ptr typedefs that automatically free NSS objects such as slots, keys, contexts, items, and certificate lists.
+// ---
+
 #ifndef CRYPTO_SCOPED_NSS_TYPES_H_
 #define CRYPTO_SCOPED_NSS_TYPES_H_
 

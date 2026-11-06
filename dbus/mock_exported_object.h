@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockExportedObject gmock class
+// summary: Declares a gmock mock of ExportedObject for stubbing method export, unexport and signal sending in unit tests.
+// ---
+
 #ifndef DBUS_MOCK_EXPORTED_OBJECT_H_
 #define DBUS_MOCK_EXPORTED_OBJECT_H_
 

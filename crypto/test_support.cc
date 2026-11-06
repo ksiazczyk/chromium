@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed test key implementations
+// summary: Provides pre-generated fixed private and public test keys, such as RSA 2048, as embedded DER-encoded byte arrays for use by crypto tests.
+// ---
+
 #include "crypto/test_support.h"
 
 #include <array>

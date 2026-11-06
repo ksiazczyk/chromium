@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test D-Bus service server entry point
+// summary: Standalone main that starts a D-Bus thread and a TestService instance for use in testing.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/message_loop/message_pump_type.h"

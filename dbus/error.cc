@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus Error class implementation
+// summary: Implements constructors and move semantics for the Error class that carries D-Bus error information.
+// ---
+
 #include "dbus/error.h"
 
 #include <utility>

@@ -5,6 +5,12 @@
 // This interface is deprecated and being removed: https://crbug.com/374310081.
 // New users should use crypto/hash instead.
 
+// ---docerion
+// type: source
+// title: Deprecated SecureHash interface for incremental hashing
+// summary: Declares the deprecated SecureHash interface for incremental SHA-256 and SHA-512 hashing; new users are directed to crypto/hash.
+// ---
+
 #ifndef CRYPTO_SECURE_HASH_H_
 #define CRYPTO_SECURE_HASH_H_
 

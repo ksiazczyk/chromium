@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chaps TPM support header
+// summary: Declares functions to load the chaps module, fetch TPM slots, and identify chaps-provided NSS modules and slots.
+// ---
+
 #ifndef CRYPTO_CHAPS_SUPPORT_H_
 #define CRYPTO_CHAPS_SUPPORT_H_
 

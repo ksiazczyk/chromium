@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature creation and verification implementation
+// summary: Implements one-shot Sign and Verify for RSA PKCS1, RSA-PSS, ECDSA, Ed25519 and ML-DSA signature kinds via BoringSSL EVP APIs.
+// ---
+
 #include "crypto/sign.h"
 
 #include "base/check.h"

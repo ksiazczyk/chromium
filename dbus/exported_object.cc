@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExportedObject implementation
+// summary: Implements method exporting, unexporting, and response sending for D-Bus objects registered on a bus.
+// ---
+
 #include "dbus/exported_object.h"
 
 #include <stdint.h>

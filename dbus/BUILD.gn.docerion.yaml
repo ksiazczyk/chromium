@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the dbus library
+summary: Defines GN build targets for the dbus component, its test support mocks, protobuf test proto, unit tests, and test server executables.

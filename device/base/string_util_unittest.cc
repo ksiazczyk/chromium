@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for device string utilities
+// summary: GTest suite verifying HasGraphicCharacter and ContainStringForDisplay behavior for whitespace, isolates, spoofing, and truncation cases.
+// ---
+
 #include "device/base/public/cpp/string_util.h"
 
 #include <string>

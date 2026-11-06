@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process-bound string encryption implementation
+// summary: Implements internal helpers that round buffer sizes and encrypt or decrypt buffers in place, using Windows DPAPI CryptProtectMemory and terminating on out-of-memory errors.
+// ---
+
 #include "crypto/process_bound_string.h"
 
 #include "base/containers/span.h"

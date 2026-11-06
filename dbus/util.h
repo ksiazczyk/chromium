@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus utility header
+// summary: Declares GetAbsoluteMemberName, a helper that joins a D-Bus interface name and member name into a single absolute name.
+// ---
+
 #ifndef DBUS_UTIL_H_
 #define DBUS_UTIL_H_
 

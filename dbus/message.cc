@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus message implementation
+// summary: Implements the Message base class for D-Bus messages, including type queries, header accessors, string dumping and a runtime Unix FD support check.
+// ---
+
 #include "dbus/message.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bus class header for D-Bus connections
+// summary: Declares the Bus class used to connect to D-Bus, create object proxies, and export objects, with threading and usage documentation.
+// ---
+
 #ifndef DBUS_BUS_H_
 #define DBUS_BUS_H_
 

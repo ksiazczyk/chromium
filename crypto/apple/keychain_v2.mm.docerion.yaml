@@ -1,0 +1,4 @@
+# Docerion header of keychain_v2.mm.
+type: source
+title: KeychainV2 Security framework wrapper implementation
+summary: Implements KeychainV2 by forwarding calls to SecKey and SecItem functions and supporting instance overrides for testing.

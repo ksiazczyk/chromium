@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSSL error stack handling implementation
+// summary: Implements draining and debug logging of the OpenSSL error stack on behalf of crypto callers.
+// ---
+
 #include "crypto/openssl_util.h"
 
 #include <stddef.h>

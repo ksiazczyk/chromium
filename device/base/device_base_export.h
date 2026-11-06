@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the device_base component
+// summary: Defines the DEVICE_BASE_EXPORT macro for DLL import/export and symbol visibility in component builds.
+// ---
+
 #ifndef DEVICE_BASE_DEVICE_BASE_EXPORT_H_
 #define DEVICE_BASE_DEVICE_BASE_EXPORT_H_
 

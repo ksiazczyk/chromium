@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User verifying key provider implementation
+// summary: Implements platform dispatch for user verifying key providers on Windows and macOS, with availability checks and test overrides.
+// ---
+
 #include "crypto/user_verifying_key.h"
 
 #include "base/check.h"

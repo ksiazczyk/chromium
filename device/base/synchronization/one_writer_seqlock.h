@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneWriterSeqLock class declaration
+// summary: Declares the OneWriterSeqLock class for one-writer, many-reader synchronization with retry-based reads and documented usage caveats.
+// ---
+
 #ifndef DEVICE_BASE_SYNCHRONIZATION_ONE_WRITER_SEQLOCK_H_
 #define DEVICE_BASE_SYNCHRONIZATION_ONE_WRITER_SEQLOCK_H_
 

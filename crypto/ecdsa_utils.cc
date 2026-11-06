@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA signature format conversion implementation
+// summary: Implements conversion of ECDSA signatures between DER-encoded and fixed-width raw r||s formats using BoringSSL.
+// ---
+
 #include "crypto/ecdsa_utils.h"
 
 #include <vector>

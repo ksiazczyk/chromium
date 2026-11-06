@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS utility unit tests
+// summary: Tests PRTime to base::Time conversions and default NSS config directory selection across home and XDG data locations.
+// ---
+
 #include "crypto/nss_util.h"
 
 #include <prtime.h>
