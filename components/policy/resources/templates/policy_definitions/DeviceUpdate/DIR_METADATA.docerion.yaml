@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DeviceUpdate directory metadata
+summary: Specifies the owning team email, OS, and Buganizer components for the DeviceUpdate policy definitions directory.

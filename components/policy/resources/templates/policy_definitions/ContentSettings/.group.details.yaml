@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Content settings group details
+# summary: Defines the caption and description for the Content Settings policy group used in Chrome enterprise policy documentation.
+# ---
+
 caption: Content settings
 desc: Content settings allow you to specify how contents of a specific type (for example
   Cookies, Images or JavaScript) is handled.

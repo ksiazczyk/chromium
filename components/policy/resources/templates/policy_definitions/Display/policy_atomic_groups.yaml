@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Display policy atomic group
+# summary: Groups the DeviceDisplayResolution and DisplayRotationDefault policies together into the Display atomic policy group.
+# ---
+
 Display:
   caption: Display
   policies:

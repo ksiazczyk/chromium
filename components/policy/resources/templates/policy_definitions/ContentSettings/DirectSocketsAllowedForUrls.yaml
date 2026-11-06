@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DirectSocketsAllowedForUrls policy definition
+# summary: Chromium policy definition listing URL patterns of Isolated Web Apps allowed to use the Direct Sockets API, falling back to DefaultDirectSocketsSetting when unset.
+# ---
+
 caption: Allow Direct Sockets API on these sites
 desc: |-
   The Direct Sockets API allows communication with arbitrary endpoints using TCP and UDP.

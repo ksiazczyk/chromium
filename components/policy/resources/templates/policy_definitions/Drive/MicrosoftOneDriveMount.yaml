@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MicrosoftOneDriveMount policy definition
+# summary: Policy definition configuring Microsoft OneDrive mounting in the ChromeOS file manager with allowed, disallowed, and automated setup modes.
+# ---
+
 caption: Configures the mounting of <ph name="MICROSOFT_ONE_DRIVE_NAME">Microsoft OneDrive</ph>
 default: allowed
 default_for_enterprise_users: disallowed

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultClipboardSetting policy definition
+# summary: Defines the default Chrome policy for the clipboard site permission, overridable per URL pattern.
+# ---
+
 caption: Default clipboard setting
 default: null
 desc: |-

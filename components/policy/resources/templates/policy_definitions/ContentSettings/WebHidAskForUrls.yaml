@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow the WebHID API on these sites
+# summary: Policy definition listing URL patterns for sites allowed to ask users for access to HID devices via the WebHID API.
+# ---
+
 caption: Allow the WebHID API on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites can ask users to grant them access to a HID device.

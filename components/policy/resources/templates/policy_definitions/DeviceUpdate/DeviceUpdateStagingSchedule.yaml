@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceUpdateStagingSchedule policy definition
+# summary: ChromeOS device policy that defines a day-by-day staging schedule of update percentages for devices in an OU, overriding the DeviceUpdateScatterFactor policy.
+# ---
+
 caption: The staging schedule for applying a new update
 desc: |-
   This policy defines a list of percentages that will define the fraction of <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> devices in the OU to update per day starting from the day the update is first discovered. The discovery time is later than the update published time, since it could be a while after the update publishing until the device checks for updates.

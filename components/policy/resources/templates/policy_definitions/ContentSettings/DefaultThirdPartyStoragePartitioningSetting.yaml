@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Third-Party Storage Partitioning Setting policy
+# summary: Defines the deprecated Chrome policy that sets the default for third-party storage partitioning, allowing or blocking partitioning through Chrome 145.
+# ---
+
 caption: Default third-party storage partitioning setting
 default: 1
 desc: |-

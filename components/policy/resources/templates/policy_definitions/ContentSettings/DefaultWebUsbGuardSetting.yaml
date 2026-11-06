@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default WebUSB Guard Setting policy
+# summary: Defines the Chrome policy that controls website access to connected USB devices via the WebUSB API, either blocking access or letting sites ask users.
+# ---
+
 caption: Control use of the WebUSB API
 default: null
 desc: |-

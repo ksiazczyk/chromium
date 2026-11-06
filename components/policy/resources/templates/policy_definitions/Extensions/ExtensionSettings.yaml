@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionSettings policy definition
+# summary: Defines the Chrome ExtensionSettings policy for managing extension installation and runtime settings per extension ID or update URL.
+# ---
+
 caption: Extension management settings
 desc: |-
   Setting the policy controls extension management settings for <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>, including any controlled by existing extension-related policies.

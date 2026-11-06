@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceMinimumVersion policy definition
+# summary: Defines the DeviceMinimumVersion device policy that enforces a minimum ChromeOS version with warning periods and sign-in or sign-out restrictions.
+# ---
+
 caption: Configure minimum allowed <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
   version for the device.
 desc: |-

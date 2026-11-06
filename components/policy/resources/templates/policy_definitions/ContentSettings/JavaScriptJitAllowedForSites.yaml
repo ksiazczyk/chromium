@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: JavaScriptJitAllowedForSites policy
+# summary: Lists sites allowed to run JavaScript with the JIT compiler enabled, describing per-frame, subdomain, and low-memory Android exception behavior.
+# ---
+
 caption: Allow JavaScript to use JIT on these sites
 desc: |-
   Allows you to set a list of site url patterns that specify sites which are allowed to run JavaScript with JIT (Just In Time) compiler enabled.

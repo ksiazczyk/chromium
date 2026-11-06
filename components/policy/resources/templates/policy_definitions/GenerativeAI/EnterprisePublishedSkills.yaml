@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnterprisePublishedSkills Chrome policy definition
+# summary: Chrome enterprise policy definition that publishes configured Generative AI skills to users, listing each skill by a download location and SHA-256 hash, and publishing at most the first ten skills when more are provided.
+# ---
+
 caption: Configure Skills in Chrome
 desc: |-
   Setting the policy publishes Generative AI skills to the user in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

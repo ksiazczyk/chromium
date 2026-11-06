@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ControlledFrameAllowedForUrls policy definition
+# summary: Defines the Chrome policy listing Isolated Web App URL patterns allowed to use the Controlled Frame API, with DefaultControlledFrameSetting as fallback.
+# ---
+
 caption: Allow Controlled Frame API on these sites
 desc: |-
   The Controlled Frame API, available to certain isolated contexts such as Isolated Web Apps (IWAs), allows an app to embed and manipulate arbitrary content.

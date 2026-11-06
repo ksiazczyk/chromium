@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Settings for the GenAI Inline Image feature
+# summary: ChromeOS enterprise policy definition that controls the generative AI Inline Image feature, including whether user content may improve Google's AI models.
+# ---
+
 caption: Settings for GenAI Inline Image feature
 
 desc: |-

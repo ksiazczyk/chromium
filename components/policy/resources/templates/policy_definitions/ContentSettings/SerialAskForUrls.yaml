@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SerialAskForUrls policy definition
+# summary: Defines a policy listing the sites that may prompt users to grant them access to a serial port.
+# ---
+
 caption: Allow the Serial API on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites can ask users to grant them access to a serial port.

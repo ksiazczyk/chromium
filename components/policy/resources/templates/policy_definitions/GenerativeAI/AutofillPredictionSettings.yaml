@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enhanced autofill settings policy (deprecated)
+# summary: Deprecated policy for AI-enhanced autofill that has been superseded by AutofillGenAiSettings since M157.
+# ---
+
 caption: Settings for enhanced autofill
 deprecated: true
 desc: |-

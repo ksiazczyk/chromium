@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome suggestions settings policy
+# summary: Policy that enables or disables Chrome's suggestions of AI capabilities to users at relevant moments.
+# ---
+
 caption: Settings for ChromeSuggestions
 desc: |-
   This setting allows Chrome to suggest AI capabilities at relevant moments.

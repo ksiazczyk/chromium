@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClipboardBlockedForUrls policy definition
+# summary: Defines the Chrome policy listing URL patterns for sites denied the clipboard site permission, with DefaultClipboardSetting as fallback.
+# ---
+
 caption: Block clipboard on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify sites that can't use the clipboard site permission. This does not include all clipboard operations on origins matching the patterns. For instance, users will still be able to paste using keyboard shortcuts as this isn't gated by the clipboard site permission.

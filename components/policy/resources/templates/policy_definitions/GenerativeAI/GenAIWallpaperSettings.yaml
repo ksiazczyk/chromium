@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GenAIWallpaperSettings policy definition
+# summary: ChromeOS policy that controls the Generative AI Wallpaper feature for creating personalized wallpapers, with allow, allow-without-logging, and disable options.
+# ---
+
 caption: Settings for Generative AI Wallpaper feature
 desc: |-
   Generative AI Wallpaper allows users to self-express using generative AI features to create personalized wallpapers in <ph name="PRODUCT_OS_NAME">$1<ex>Google ChromeOS</ex></ph>.

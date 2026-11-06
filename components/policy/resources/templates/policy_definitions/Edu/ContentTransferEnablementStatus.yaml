@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ContentTransferEnablementStatus policy definition
+# summary: ChromeOS policy definition that controls when the Content transfer app is shown to managed users, including an enablement flag and optional start and end dates.
+# ---
+
 caption: Configure when the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> Content transfer tool is available
 desc: |-
   This policy enables the Content transfer app for managed users. The Content transfer app helps users transfer their data from their managed account to a consumer account.

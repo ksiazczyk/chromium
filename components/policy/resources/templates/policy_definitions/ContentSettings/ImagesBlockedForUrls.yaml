@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ImagesBlockedForUrls policy
+# summary: Lists URL patterns of sites that cannot display images, overriding DefaultImagesSetting or the user's personal setting when unset.
+# ---
+
 caption: Block images on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify sites that can't display images.

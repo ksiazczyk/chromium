@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: PartitionedBlobUrlUsage policy
+# summary: Defines a policy controlling whether Blob URLs are partitioned during fetching and navigation.
+# ---
+
 caption: Choose whether Blob URLs are partitioned during fetching and navigations
 
 default: true

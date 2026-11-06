@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SensorsBlockedForUrls policy definition
+# summary: Defines a policy listing URL patterns of sites blocked from accessing motion and light sensors.
+# ---
+
 caption: Block access to sensors on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can't access sensors like motion and light sensors.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MinimumRequiredChromeVersion policy definition (deprecated)
+# summary: Deprecated ChromeOS device policy that set the minimum allowed Chrome version for sign-in; removed in M82 and replaced by DeviceMinimumVersion.
+# ---
+
 caption: Configure minimum allowed Chrome version for the device.
 deprecated: true
 desc: "This policy is removed in M82, please use DeviceMinimumVersion instead.\n\n\

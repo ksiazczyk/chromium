@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gaia offline sign-in time limit policy definition
+# summary: ChromeOS policy definition limiting how many days a user authenticated via GAIA without SAML may sign in offline.
+# ---
+
 caption: Limit the time for which a user authenticated via GAIA without SAML can log
   in offline
 default: null

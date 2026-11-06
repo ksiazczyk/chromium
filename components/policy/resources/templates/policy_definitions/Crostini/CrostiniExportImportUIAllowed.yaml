@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniExportImportUIAllowed policy definition
+# summary: Defines the policy that enables or disables the Crostini container export and import UI for users.
+# ---
+
 caption: User is enabled to export / import Crostini containers via the UI
 default: true
 desc: Setting the policy to Enabled or leaving it unset makes the export-import UI

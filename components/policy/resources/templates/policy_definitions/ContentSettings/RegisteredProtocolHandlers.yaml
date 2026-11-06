@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RegisteredProtocolHandlers policy definition
+# summary: Defines the Chrome policy for registering protocol handlers that merge with the ones users register themselves.
+# ---
+
 arc_support: The protocol handlers set via this policy are not used when handling
   Android intents.
 caption: Register protocol handlers

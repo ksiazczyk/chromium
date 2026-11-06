@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: GetDisplayMediaSetSelectAllScreensAllowedForUrls policy
+# summary: Defines the deprecated policy that lets listed origins auto-select all screens in getDisplayMediaSet capture requests without per-surface user permission.
+# ---
+
 caption: Enables auto-select for multi screen captures
 deprecated: true
 desc: |-

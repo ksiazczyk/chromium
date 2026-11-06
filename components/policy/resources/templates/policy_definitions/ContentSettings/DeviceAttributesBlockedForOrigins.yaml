@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device Attributes Blocked For Origins policy
+# summary: Defines the ChromeOS policy listing origins blocked from reading device attributes such as serial number and hostname via the Device Attributes API.
+# ---
+
 caption: Block Device Attributes API on these sites
 desc: |-
   Setting the policy blocks listed origins from getting device attributes (e.g. serial number, hostname) using the Device Attributes API.

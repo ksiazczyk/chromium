@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Policy: Enable NTLMv2 authentication'
+# summary: Defines the Chrome policy that turns NTLMv2 HTTP authentication on or off, defaulting to enabled since disabling it reduces authentication security.
+# ---
+
 caption: Enable NTLMv2 authentication.
 default: true
 desc: |-

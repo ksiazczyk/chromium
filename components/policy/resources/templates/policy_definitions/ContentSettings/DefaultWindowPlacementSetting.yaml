@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Window Placement Setting policy
+# summary: Defines the deprecated Chrome policy that sets the default Window Placement permission for sites to view screen information and place windows.
+# ---
+
 caption: Default Window Placement permission setting
 default: null
 desc: |-

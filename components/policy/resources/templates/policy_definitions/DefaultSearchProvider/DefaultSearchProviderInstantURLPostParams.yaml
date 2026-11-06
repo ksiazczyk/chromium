@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Parameters for instant URL which uses POST
+# summary: Deprecated policy definition giving comma-separated name/value pairs for instant search requests sent via POST, supported only up to Chrome 63.
+# ---
+
 caption: Parameters for instant URL which uses POST
 deprecated: true
 desc: |-

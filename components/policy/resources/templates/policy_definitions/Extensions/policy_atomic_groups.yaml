@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extensions policy atomic group
+# summary: Groups the extension-related Chrome policies such as install allowlist, blocklist, forcelist and ExtensionSettings into one atomic group.
+# ---
+
 Extensions:
   caption: Extensions
   policies:

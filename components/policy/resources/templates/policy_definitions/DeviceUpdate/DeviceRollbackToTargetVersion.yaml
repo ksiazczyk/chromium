@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Roll back OS to target version
+# summary: ChromeOS device policy that specifies whether the device rolls back to the version set by DeviceTargetVersionPrefix when it is running a later version.
+# ---
+
 caption: Roll back OS to target version
 default: 1
 desc: |-

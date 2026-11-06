@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: PreciseGeolocationAllowedForUrls policy
+# summary: Defines a policy listing URL patterns for sites allowed high accuracy geolocation without a permission request.
+# ---
+
 caption: Allow precise geolocation on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify sites that are allowed to access the user's high accuracy geolocation without first having to request the user's permission to do so.

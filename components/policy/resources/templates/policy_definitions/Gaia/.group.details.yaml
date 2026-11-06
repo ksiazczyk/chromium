@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gaia policy group details
+# summary: Defines the caption and description metadata for the Gaia user identity management policy group.
+# ---
+
 caption: Gaia user identity management settings
 desc: Controls settings for users authenticated againts Gaia without SAML.

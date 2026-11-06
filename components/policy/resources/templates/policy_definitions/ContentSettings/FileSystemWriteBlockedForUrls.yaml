@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FileSystemWriteBlockedForUrls policy definition
+# summary: Policy definition listing URL patterns of sites blocked from requesting write access to files and directories via the File System API, with DefaultFileSystemWriteGuardSetting as fallback.
+# ---
+
 caption: Block write access to files and directories on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites can't ask users to grant them write access to files or directories in the host operating system's file system.

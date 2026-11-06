@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionManifestV2Availability policy definition
+# summary: Defines the deprecated Chrome policy controlling whether Manifest v2 extensions are enabled, disabled, or restricted to force-installed ones.
+# ---
+
 owners:
 - zmin@chromium.org
 - file://components/policy/OWNERS

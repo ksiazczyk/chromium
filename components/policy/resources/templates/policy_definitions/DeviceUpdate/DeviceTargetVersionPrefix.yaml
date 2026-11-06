@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Target Auto Update Version
+# summary: ChromeOS device policy that sets a version prefix auto updates should target, warning that version restrictions may block security fixes.
+# ---
+
 caption: Target Auto Update Version
 desc: |-
   Sets a target version for Auto Updates.

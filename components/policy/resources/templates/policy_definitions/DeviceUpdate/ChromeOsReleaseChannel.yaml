@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeOsReleaseChannel policy definition
+# summary: Defines the ChromeOsReleaseChannel device policy that locks a ChromeOS device to a release channel such as stable, beta, dev, LTS, or LTC.
+# ---
+
 caption: Release channel
 default: "stable-channel"
 desc: |-

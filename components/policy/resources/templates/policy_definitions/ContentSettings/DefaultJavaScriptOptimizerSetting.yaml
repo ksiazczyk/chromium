@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default JavaScript Optimizer Setting policy definition
+# summary: Defines the Chrome policy that enables or disables advanced V8 JavaScript optimizations on all sites, with per-site override policies available.
+# ---
+
 caption: Control use of JavaScript optimizers
 default: 1
 desc: |-

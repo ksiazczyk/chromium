@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeAppsWebViewPermissiveBehaviorAllowed policy definition
+# summary: Defines a deprecated temporary policy that restores the permissive Chrome Apps webview behavior for enterprises affected by the change.
+# ---
+
 owners:
 - mcnee@chromium.org
 - file://components/guest_view/OWNERS

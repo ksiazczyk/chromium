@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DataUrlInSvgUseEnabled policy definition
+# summary: Defines a Chrome policy that enables or disables Data URL support in SVGUseElement.
+# ---
+
 caption: Data URL support for SVGUseElement.
 default: false
 example_value: false

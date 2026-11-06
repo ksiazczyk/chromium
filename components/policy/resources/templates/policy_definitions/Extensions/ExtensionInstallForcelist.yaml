@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionInstallForcelist policy definition
+# summary: Defines the Chrome policy listing apps and extensions that are silently force-installed and cannot be uninstalled or turned off by users.
+# ---
+
 arc_support: Android apps can be force-installed from the Google Admin console using
   Google Play. They do not use this policy.
 caption: Configure the list of force-installed apps and extensions

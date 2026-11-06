@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionInstallBlocklist policy definition
+# summary: Defines the Chrome policy listing extension IDs users are prevented from installing, where '*' blocks all extensions.
+# ---
+
 caption: Configure extension installation blocklist
 desc: |-
   Allows you to specify which extensions the users can NOT install. Extensions already installed will be disabled if blocked, without a way for the user to enable them. Once an extension disabled due to the blocklist is removed from it, it will automatically get re-enabled.

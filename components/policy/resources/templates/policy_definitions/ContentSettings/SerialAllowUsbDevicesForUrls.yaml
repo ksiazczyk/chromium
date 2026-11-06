@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SerialAllowUsbDevicesForUrls policy definition
+# summary: Defines a policy granting listed sites access to USB serial devices matched by vendor and product ID.
+# ---
+
 caption: Automatically grant permission to sites to connect to USB serial devices.
 desc: |-
   Setting the policy allows you to list sites which are automatically granted permission to access USB serial devices with vendor and product IDs matching the <ph name="VENDOR_ID_FIELD_NAME">vendor_id</ph> and <ph name="PRODUCT_ID_FIELD_NAME">product_id</ph> fields. Omitting the <ph name="PRODUCT_ID_FIELD_NAME">product_id</ph> field allows the given sites permission to access devices with a vendor ID matching the <ph name="VENDOR_ID_FIELD_NAME">vendor_id</ph> field and any product ID.

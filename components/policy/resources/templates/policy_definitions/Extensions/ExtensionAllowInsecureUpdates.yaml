@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionAllowInsecureUpdates policy definition
+# summary: Defines a deprecated policy that controlled whether insecure algorithms were allowed in integrity checks for out-of-store extension updates.
+# ---
+
 caption: Allow insecure algorithms in integrity checks on extension updates and installs
 deprecated: true
 desc: |-

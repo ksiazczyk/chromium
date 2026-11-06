@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow or disallow Gemini app integrations to act on web pages
+# summary: Chrome enterprise policy definition that controls whether the Gemini app is allowed to take actions on web pages on behalf of the user.
+# ---
+
 caption: Allows Gemini app integrations to directly act on web pages
 desc: |-
   Controls if the Gemini app is allowed to take action on the web pages on behalf of the user.

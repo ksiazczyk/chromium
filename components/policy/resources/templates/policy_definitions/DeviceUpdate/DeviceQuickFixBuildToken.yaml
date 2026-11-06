@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Provide users with Quick Fix Build
+# summary: ChromeOS device policy that controls whether the device is updated to a Quick Fix Build identified by the configured token.
+# ---
+
 caption: Provide users with Quick Fix Build
 desc: |-
   This policy controls whether or not the device should be updated to a Quick Fix Build.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default search provider keyword
+# summary: Defines the DefaultSearchProviderKeyword policy setting the address bar keyword or shortcut that triggers the search provider.
+# ---
+
 caption: Default search provider keyword
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_KEYWORD_POLICY_NAME">DefaultSearchProviderKeyword</ph> specifies the keyword or shortcut used in the address bar to trigger the search for this provider.

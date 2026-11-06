@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceUnaffiliatedCrostiniAllowed policy definition
+# summary: Defines the device policy that lets unaffiliated users use Crostini when the other required policies allow it.
+# ---
+
 caption: Allow unaffiliated users to use Crostini
 default: true
 desc: Setting the policy to Enabled or leaving it unset lets all users use <ph name="PRODUCT_CROSTINI_NAME">Crostini</ph>

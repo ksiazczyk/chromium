@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderSuggestURL policy definition
+# summary: Defines the Chrome policy that sets the search engine URL used to provide search suggestions, with a {searchTerms} placeholder.
+# ---
+
 caption: Default search provider suggest URL
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_SUGGEST_URL_POLICY_NAME">DefaultSearchProviderSuggestURL</ph> specifies the URL of the search engine to provide search suggestions. The URL should include the string <ph name="SEARCH_TERM_MARKER">'{searchTerms}'</ph>, replaced in the query by the user's search terms.

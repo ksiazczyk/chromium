@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default pop-ups setting policy
+# summary: Defines the Chrome policy controlling whether websites may display pop-ups by default, with allow and block values across desktop and mobile platforms.
+# ---
+
 caption: Default pop-ups setting
 default: null
 desc: |-

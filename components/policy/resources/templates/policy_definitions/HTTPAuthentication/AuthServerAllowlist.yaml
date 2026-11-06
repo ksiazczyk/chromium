@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Authentication server allowlist
+# summary: Chrome policy listing servers allowed for integrated authentication; unset makes Chrome respond to IWA only from detected intranet servers.
+# ---
+
 caption: Authentication server allowlist
 desc: |-
   Setting the policy specifies which servers should be allowed for integrated authentication. Integrated authentication is only on when <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> gets an authentication challenge from a proxy or from a server in this permitted list.

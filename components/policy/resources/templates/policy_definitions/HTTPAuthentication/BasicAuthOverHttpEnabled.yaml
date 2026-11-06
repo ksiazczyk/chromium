@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Basic authentication for HTTP
+# summary: Chrome policy controlling whether Basic authentication challenges received over non-secure HTTP are allowed, defaulting to allowed.
+# ---
+
 caption: Allow <ph name="BASIC_AUTH">Basic</ph> authentication for HTTP
 default: true
 desc: |-

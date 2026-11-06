@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default search provider group details
+# summary: Group metadata for the DefaultSearchProvider policy group, describing policies that configure or disable the default search provider.
+# ---
+
 caption: Default search provider
 desc: Configures the default search provider. You can specify the default search provider
   that the user will use or choose to disable default search.

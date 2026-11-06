@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block Gemini app integrations to directly act on specified sites
+# summary: Chrome enterprise policy definition that sets URL patterns on which Gemini app integrations cannot directly act on web pages, complementing the GeminiActOnWeb allowlist.
+# ---
+
 caption: Block Gemini app integrations to directly act on specified sites
 desc: |-
   Allows to set a list of URL patterns that specify on which sites Gemini app integrations cannot directly act on web pages.

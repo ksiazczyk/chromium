@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default search provider instant URL
+# summary: Deprecated policy definition specifying the URL used to provide instant search results, supported only up to Chrome 63.
+# ---
+
 caption: Default search provider instant URL
 deprecated: true
 desc: |-

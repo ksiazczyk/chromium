@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DirectSocketsBlockedForUrls policy definition
+# summary: Chromium policy definition listing URL patterns of Isolated Web Apps blocked from using the Direct Sockets API, falling back to DefaultDirectSocketsSetting when unset.
+# ---
+
 caption: Block Direct Sockets API on these sites
 desc: |-
   The Direct Sockets API allows communication with arbitrary endpoints using TCP and UDP.

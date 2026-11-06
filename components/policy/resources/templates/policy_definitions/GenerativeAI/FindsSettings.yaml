@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome Finds settings policy
+# summary: Policy controlling Chrome Finds, an AI-based feature for searching and understanding content on the current web page, on Android.
+# ---
+
 caption: Settings for Chrome Finds
 
 desc: |-

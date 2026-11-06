@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Smart Card Connect setting policy
+# summary: Defines the ChromeOS policy controlling whether Isolated Web App origins may connect to smart card readers, overridable per origin via URL list policies.
+# ---
+
 caption: Control use of the Web Smart Card API
 default: null
 desc: |-

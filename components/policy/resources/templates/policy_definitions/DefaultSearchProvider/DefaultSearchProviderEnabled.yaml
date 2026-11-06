@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable the default search provider
+# summary: Defines the DefaultSearchProviderEnabled policy that turns default search on or off for non-URL text entered in the address bar.
+# ---
+
 caption: Enable the default search provider
 default: null
 desc: |-

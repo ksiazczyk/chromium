@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Settings for Gemini integration
+# summary: Chrome enterprise policy definition that enables or disables Gemini app integrations, falling back to GenAiDefaultSettings when unset.
+# ---
+
 caption: Settings for Gemini integration
 desc: |-
   This setting allows Gemini app integrations.

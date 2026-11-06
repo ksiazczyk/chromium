@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CookiesSessionOnlyForUrls policy definition
+# summary: Defines a Chrome policy limiting cookies from matching sites to the current browsing session.
+# ---
+
 caption: Limit cookies from matching URLs to the current session
 desc: |-
   Unless the <ph name="RESTORE_ON_STARTUP_POLICY_NAME">RestoreOnStartup</ph> policy is set to permanently restore URLs from previous sessions, then setting <ph name="COOKIES_SESSION_ONLY_FOR_URLS_POLICY_NAME">CookiesSessionOnlyForUrls</ph> lets you make a list of URL patterns that specify sites that can and can't set cookies for one session.

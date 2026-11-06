@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Drive policy group details
+# summary: Metadata for the Drive policy group, providing its caption and description in ChromeOS policy templates.
+# ---
+
 caption: Drive
 desc: Configure cloud drives (Google Drive, Microsoft OneDrive) in <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

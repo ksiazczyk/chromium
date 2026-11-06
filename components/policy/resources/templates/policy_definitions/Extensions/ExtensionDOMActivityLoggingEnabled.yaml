@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionDOMActivityLoggingEnabled policy definition
+# summary: Defines a policy that enables telemetry of extension DOM activity, such as code injection and sensitive data access, for enterprise security auditing.
+# ---
+
 owners:
 - anunoy@chromium.org
 - file://components/policy/OWNERS

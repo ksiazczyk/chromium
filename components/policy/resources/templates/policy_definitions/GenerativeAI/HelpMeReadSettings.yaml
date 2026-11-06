@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HelpMeReadSettings policy definition
+# summary: ChromeOS policy that controls the Help Me Read feature, with options to allow it with or without AI model improvement or to disable it.
+# ---
+
 caption: Settings for Help Me Read feature
 desc: |-
   This policy controls the settings of the Help Me Read feature for <ph name="PRODUCT_OS_NAME">$1<ex>Google ChromeOS</ex></ph>.

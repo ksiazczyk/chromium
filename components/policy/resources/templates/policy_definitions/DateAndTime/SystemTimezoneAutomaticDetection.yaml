@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemTimezoneAutomaticDetection policy definition
+# summary: Defines the device-only policy selecting the automatic time zone detection method, from disabled to sending full location info.
+# ---
+
 caption: Configure the automatic timezone detection method
 default: 0
 desc: |-

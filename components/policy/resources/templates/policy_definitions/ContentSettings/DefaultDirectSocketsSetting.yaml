@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Direct Sockets Setting policy definition
+# summary: Defines the Chrome policy that allows or blocks Isolated Web App origins from using the Direct Sockets API for TCP and UDP communication.
+# ---
+
 caption: Control use of the Direct Sockets API
 default: null
 desc: |-

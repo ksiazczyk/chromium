@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultAutomaticDownloadsSetting policy definition
+# summary: Defines the default Chrome policy for whether sites may download multiple files automatically.
+# ---
+
 caption: Default automatic downloads setting
 default: null
 desc: |-

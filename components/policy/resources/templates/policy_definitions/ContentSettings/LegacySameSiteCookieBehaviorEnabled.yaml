@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default legacy SameSite cookie behavior setting
+# summary: Deprecated Chrome policy reverting all cookies to legacy SameSite behavior, supported in Chrome 79 to 92 and replaced by the domain list variant.
+# ---
+
 caption: Default legacy <ph name="ATTRIBUTE_SAMESITE_NAME">SameSite</ph> cookie behavior
   setting
 deprecated: true

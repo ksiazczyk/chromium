@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: List of origins allowing all HTTP authentication
+# summary: Chrome policy that specifies origins for which all supported HTTP authentication schemes are allowed regardless of the AuthSchemes policy.
+# ---
+
 caption: List of origins allowing all HTTP authentication
 desc: |-
   Setting the policy specifies for which origins to allow all the HTTP authentication schemes <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> supports regardless of the <ph name="AUTH_SCHEMES_POLICY_NAME">AuthSchemes</ph> policy.

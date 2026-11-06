@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HelpMeWriteSettings policy definition
+# summary: Policy that controls the Help Me Write AI writing assistant for short-form web content, allowing it with or without model improvement or disabling it.
+# ---
+
 caption: Settings for Help Me Write
 
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Chrome DevTools generative AI settings policy
+# summary: Policy controlling DevTools generative AI features such as Console Insights and AI assistance, including data-use and model-improvement choices.
+# ---
+
 caption: Settings for <ph name="CHROME_DEVTOOLS_NAME">Chrome DevTools</ph> Generative AI Features
 
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BlockExternalExtensions policy definition
+# summary: Defines a boolean policy that blocks installation of external extensions when enabled and allows them otherwise.
+# ---
+
 caption: Blocks external extensions from being installed
 default: false
 desc: |-

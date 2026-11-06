@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Third-party AI Mode integrations settings policy
+# summary: Policy controlling whether third-party AI Mode integrations are available in the address bar and New Tab page search box when a supporting default search engine is set.
+# ---
+
 caption: Settings for 3rd party AI Mode integrations in the address bar and New Tab page search box.
 desc: |-
   This policy controls 3rd party AI Mode integrations in the address bar and the New Tab page search box.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Tab Organizer settings policy
+# summary: Deprecated policy that controlled the AI-based Tab Organizer feature for automatic tab grouping, with options for allowing use with or without model improvement.
+# ---
+
 caption: Settings for Tab Organizer
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Auto-grant sites permission to connect to HID devices by vendor and product ID
+# summary: Policy definition granting listed sites access to HID devices matched by vendor and product IDs, taking precedence over WebHidBlockedForUrls on conflicts.
+# ---
+
 caption: Automatically grant permission to these sites to connect to HID devices with
   the given vendor and product IDs.
 desc: |-

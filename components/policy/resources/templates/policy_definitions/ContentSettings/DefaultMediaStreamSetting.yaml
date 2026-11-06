@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default mediastream setting policy (deprecated)
+# summary: Defines the deprecated Chrome policy controlling default access to media capture devices such as camera and microphone, with block and prompt values.
+# ---
+
 caption: Default mediastream setting
 deprecated: true
 desc: |-

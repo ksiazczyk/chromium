@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Isolated Web Apps to use Sub Apps Add API without user prompt
+# summary: Policy definition letting admins list Isolated Web App origins that may add Sub Apps without a user prompt, overriding DefaultSubAppsWithoutPromptsSetting.
+# ---
+
 caption: Allow Isolated Web Apps to use Sub Apps Add API without user prompt
 desc: |-
   By default, Isolated Web Apps (IWAs) can add Sub Apps provided the user confirms the prompt interactively.

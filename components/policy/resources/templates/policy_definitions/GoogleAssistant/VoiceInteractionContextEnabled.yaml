@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Assistant screen context access policy definition
+# summary: Defines a deprecated policy controlling whether Google Assistant may access screen context and send that data to a server.
+# ---
+
 caption: Allow Google Assistant to access screen context
 default: null
 deprecated: true

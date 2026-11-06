@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DateAndTime policy atomic group
+# summary: Lists CalendarIntegrationEnabled, SystemTimezone and SystemTimezoneAutomaticDetection as members of the DateAndTime atomic group.
+# ---
+
 DateAndTime:
   caption: Date and time
   policies:

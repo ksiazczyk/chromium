@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Revert to legacy cookie scope behavior
+# summary: Chrome policy that reverts cookies to legacy scheme- and port-independent scoping instead of origin-bound scope, intended to be removed in the future.
+# ---
+
 caption: Revert to legacy cookie scope behavior
 default: 0
 desc: |-

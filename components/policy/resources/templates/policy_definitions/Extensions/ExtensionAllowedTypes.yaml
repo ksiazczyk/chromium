@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionAllowedTypes policy definition
+# summary: Defines a policy restricting which app and extension types may be installed in Chrome and limiting their runtime access.
+# ---
+
 caption: Configure allowed app/extension types
 desc: |-
   Setting the policy controls which apps and extensions may be installed in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>, which hosts they can interact with, and limits runtime access.

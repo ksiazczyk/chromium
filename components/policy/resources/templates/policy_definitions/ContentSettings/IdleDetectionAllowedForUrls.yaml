@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: IdleDetectionAllowedForUrls policy
+# summary: Lists URL patterns of sites allowed to use the Idle Detection API without asking the user, taking priority over blocklist and default settings.
+# ---
+
 caption: Allow idle detection on these sites
 desc: |-
   Allows you to set a list of URL patterns that specify the sites that are allowed to use the Idle Detection API witout asking the user. Blocklist entries have higher priority than allowlist entries, which in turn have higher priority than the configured default value.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Number of milestones kernel key increments are held back
+# summary: ChromeOS device policy that controls how long incompatible kernel key increments are held back on enrolled devices to postpone rollback protection.
+# ---
+
 caption: Number of milestones kernel key increments are held back
 default: 4
 desc: |-

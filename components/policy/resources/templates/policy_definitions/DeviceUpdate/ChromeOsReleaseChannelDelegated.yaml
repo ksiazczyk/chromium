@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeOsReleaseChannelDelegated policy definition
+# summary: Defines the ChromeOsReleaseChannelDelegated device policy that controls whether users are allowed to change the device release channel.
+# ---
+
 caption: Users may configure the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
   release channel
 default: false

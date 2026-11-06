@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultCookiesSetting policy definition
+# summary: Defines the default Chrome policy for whether sites may set cookies, with per-URL override policies.
+# ---
+
 caption: Default cookies setting
 desc: |-
   Unless the <ph name="RESTORE_ON_STARTUP_POLICY_NAME">RestoreOnStartup</ph> policy is set to permanently restore URLs from previous sessions, then setting <ph name="COOKIES_SESSION_ONLY_FOR_URLS_POLICY_NAME">CookiesSessionOnlyForUrls</ph> lets you make a list of URL patterns that specify sites that can and can't set cookies for one session.

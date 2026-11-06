@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device update settings group details
+# summary: Provides the caption and description for the DeviceUpdate policy group shown in policy documentation.
+# ---
+
 caption: Device update settings
 desc: Controls how and when <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
   updates are applied.

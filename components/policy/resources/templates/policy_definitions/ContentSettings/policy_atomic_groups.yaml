@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Content settings policy atomic groups
+# summary: Groups related content setting policies such as cookies, images, JavaScript, WebUSB and window management into named atomic groups for policy tooling.
+# ---
+
 CookiesSettings:
   caption: Cookies settings
   policies:

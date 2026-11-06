@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Flash plugin setting policy (deprecated)
+# summary: Defines the deprecated Chrome policy for the Flash plugin with allow, block, and click-to-play values, removed since Flash support ended in M88.
+# ---
+
 caption: Default <ph name="FLASH_PLUGIN_NAME">Flash</ph> setting
 deprecated: true
 desc: |-

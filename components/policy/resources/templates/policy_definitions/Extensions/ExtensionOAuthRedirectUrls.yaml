@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionOAuthRedirectUrls policy definition
+# summary: Defines the ChromeOS policy configuring additional per-extension OAuth redirect URLs for use with the identity API.
+# ---
+
 owners:
 - melfice@google.com
 - cros-3pidp@google.com

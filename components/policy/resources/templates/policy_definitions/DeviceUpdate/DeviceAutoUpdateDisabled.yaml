@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAutoUpdateDisabled policy definition
+# summary: Defines the DeviceAutoUpdateDisabled device policy that blocks automatic ChromeOS updates when set to True.
+# ---
+
 caption: Disable Auto Update
 default: false
 desc: |-

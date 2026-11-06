@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device login screen Manifest v2 extension availability policy
+# summary: Policy definition controlling whether Manifest v2 extensions can be used on the ChromeOS sign-in screen, with options to disable, enable, or allow only force-installed v2 extensions; deprecated.
+# ---
+
 owners:
 - zmin@chromium.org
 - file://components/policy/OWNERS

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutomaticDownloadsBlockedForUrls policy definition
+# summary: Defines the Chrome policy listing sites blocked from downloading multiple files automatically, taking precedence over the allow list on matching URLs.
+# ---
+
 caption: Block automatic downloads on these sites
 desc: |-
   Allows you to set a list of URL patterns that specify sites which are not allowed to download multiple files automatically.

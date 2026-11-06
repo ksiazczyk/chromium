@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GeolocationBlockedForUrls policy definition
+# summary: Policy definition listing URL patterns of sites blocked from accessing or requesting the user's geolocation, with DefaultGeolocationSetting as fallback.
+# ---
+
 caption: Block geolocation on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify sites that are not allowed to access the user's geolocation, and are also prevented from requesting user permission to do so.

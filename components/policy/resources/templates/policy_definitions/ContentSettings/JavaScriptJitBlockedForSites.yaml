@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block JavaScript from using JIT on these sites
+# summary: Chrome policy definition listing site URL patterns where the JavaScript JIT compiler is disabled, with DefaultJavaScriptJitSetting as the fallback.
+# ---
+
 caption: Block JavaScript from using JIT on these sites
 desc: |-
   Allows you to set a list of site url patterns that specify sites which are not allowed to run JavaScript JIT (Just In Time) compiler enabled.

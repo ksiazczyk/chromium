@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AccessCodeCastEnabled policy definition
+# summary: Policy definition controlling whether users can select cast devices with an access code or QR code from the Google Cast menu.
+# ---
+
 caption: Allow users to select cast devices with an access code or QR code from within
   the <ph name="PRODUCT_NAME">Google Cast</ph> menu.
 default: false

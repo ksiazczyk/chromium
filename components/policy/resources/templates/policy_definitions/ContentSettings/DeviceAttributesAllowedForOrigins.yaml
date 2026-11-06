@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device Attributes Allowed For Origins policy
+# summary: Defines the ChromeOS policy listing origins allowed to read device attributes such as serial number and hostname via the Device Attributes API.
+# ---
+
 caption: Allow Device Attributes API on these sites
 desc: |-
   Setting the policy allows listed origins to get device attributes (e.g. serial number, hostname) using the Device Attributes API.

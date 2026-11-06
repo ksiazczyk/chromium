@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Floating SSO policy atomic group
+# summary: Groups the Floating SSO policies into an atomic group so they are configured together.
+# ---
+
 FloatingSso:
   caption: Floating SSO Service settings
   policies:

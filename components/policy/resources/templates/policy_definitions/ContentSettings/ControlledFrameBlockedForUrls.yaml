@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ControlledFrameBlockedForUrls policy definition
+# summary: Defines a Chrome policy listing URL patterns where the Controlled Frame API is blocked for Isolated Web Apps.
+# ---
+
 caption: Block Controlled Frame API on these sites
 desc: |-
   The Controlled Frame API, available to certain isolated contexts such as Isolated Web Apps (IWAs), allows an app to embed and manipulate arbitrary content.

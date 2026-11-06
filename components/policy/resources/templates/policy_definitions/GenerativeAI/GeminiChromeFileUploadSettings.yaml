@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Settings for Gemini in Chrome file uploads
+# summary: Chrome enterprise policy definition that controls whether users may upload files to Gemini in Chrome.
+# ---
+
 caption: Settings for Gemini in Chrome File Uploads
 desc: |-
   This setting controls whether file uploads are allowed within <ph name="GEMINI_IN_CHROME_NAME">Gemini in Chrome</ph> (see https://support.google.com/chrome/a/answer/16291696).

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GenAiChromeOsSmartActionsSettings policy (Text Capture)
+# summary: ChromeOS policy that controls the Text Capture feature, allowing it with or without AI model improvement or disabling it, falling back to GenAiDefaultSettings when unset.
+# ---
+
 caption: Settings for the Text Capture feature
 desc: |-
   This policy controls the settings of the Text Capture feature for <ph name="PRODUCT_OS_NAME">$1<ex>Google ChromeOS</ex></ph>.

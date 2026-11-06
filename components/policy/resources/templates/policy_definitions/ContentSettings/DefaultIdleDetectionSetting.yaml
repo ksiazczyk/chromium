@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Idle Detection Setting policy definition
+# summary: Defines the Chrome policy controlling whether websites may use the Idle Detection API without asking, block it entirely, or require user permission.
+# ---
+
 caption: Default idle detection setting
 desc: |-
   Allows you to set whether websites are allowed to use the Idle Detection API.

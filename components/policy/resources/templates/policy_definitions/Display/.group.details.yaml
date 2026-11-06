@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Display policy group details
+# summary: Metadata for the Display policy group, providing its caption and description used when generating policy documentation.
+# ---
+
 caption: Display
 desc: Controls display settings.

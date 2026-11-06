@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FirstPartySetsEnabled policy definition
+# summary: Defines the deprecated Chrome policy that enables or disables the First-Party Sets (Related Website Sets) feature, equivalent to the RelatedWebsiteSetsEnabled policy.
+# ---
+
 caption: Enable First-Party Sets.
 default: true
 deprecated: true

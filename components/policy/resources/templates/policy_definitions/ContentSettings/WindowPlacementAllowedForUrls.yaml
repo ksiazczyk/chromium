@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WindowPlacementAllowedForUrls policy definition
+# summary: Defines the deprecated Chrome policy that automatically grants the window placement permission to listed sites.
+# ---
+
 caption: Allow Window Placement permission on these sites
 desc: |-
   Allows you to set a list of site url patterns that specify sites which will automatically grant the window placement permission. This will extend the ability of sites to see information about the device's screens and use that information to open and place windows or request fullscreen on specific screens.

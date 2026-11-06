@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Window Management Setting policy
+# summary: Defines the Chrome policy that sets the default Window Management permission for sites, replacing the deprecated DefaultWindowPlacementSetting policy.
+# ---
+
 caption: Default Window Management permission setting
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FirstPartySetsOverrides policy definition
+# summary: Defines the deprecated Chrome policy for overriding the browser's First-Party Sets list via additions and replacements, equivalent to the RelatedWebsiteSetsOverrides policy.
+# ---
+
 caption: Override First-Party Sets.
 default: {}
 deprecated: true

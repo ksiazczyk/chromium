@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configure auto update expiration message for DeviceMinimumVersion policy
+# summary: ChromeOS device policy definition that sets a custom plain-text message shown when a device has reached auto update expiration and is blocked by the DeviceMinimumVersion policy.
+# ---
+
 caption: Configure auto update expiration message for DeviceMinimumVersion policy
 desc: |-
   This policy is only effective when the device has reached auto update expiration and does not meet the minimum allowed version of <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> set through <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME">DeviceMinimumVersion</ph> policy.

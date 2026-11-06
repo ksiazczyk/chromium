@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProvider policy atomic group
+# summary: Groups all DefaultSearchProvider policies into a single atomic policy group for the policy templates.
+# ---
+
 DefaultSearchProvider:
   caption: Default search provider
   policies:

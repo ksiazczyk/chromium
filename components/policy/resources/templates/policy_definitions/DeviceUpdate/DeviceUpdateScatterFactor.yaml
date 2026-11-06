@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Auto update scatter factor
+# summary: ChromeOS device policy specifying the number of seconds a device may randomly delay its update download to spread load after an update is pushed.
+# ---
+
 caption: Auto update scatter factor
 desc: Specifies the number of seconds up to which a device may randomly delay its
   download of an update from the time the update was first pushed out to the server.

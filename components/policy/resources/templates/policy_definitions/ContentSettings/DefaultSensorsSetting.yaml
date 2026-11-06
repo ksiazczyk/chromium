@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default sensors setting policy
+# summary: Defines the Chrome policy controlling website access to sensors such as motion and light, with allow, block, and ask values.
+# ---
+
 caption: Default sensors setting
 default: null
 desc: |-

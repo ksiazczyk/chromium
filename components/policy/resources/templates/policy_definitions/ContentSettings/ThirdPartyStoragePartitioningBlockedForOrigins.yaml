@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable third-party storage partitioning for specific top-level origins
+# summary: Deprecated policy definition listing top-level origins where third-party storage partitioning is disabled; removed in Chrome 145 in favor of requestStorageAccess.
+# ---
+
 caption: Disable third-party storage partitioning for specific top-level origins
 desc: |-
   This policy allows you to set a list of URL patterns that specify top-level origins for which third-party storage partitioning (partitioning of cross-origin iframe storage) should be disabled.

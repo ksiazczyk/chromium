@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Create Themes with AI settings policy
+# summary: Policy controlling the Create Themes with AI feature for generating custom themes and wallpapers, with options for allowing model improvement.
+# ---
+
 caption: Settings for Create Themes with AI
 
 desc: |-

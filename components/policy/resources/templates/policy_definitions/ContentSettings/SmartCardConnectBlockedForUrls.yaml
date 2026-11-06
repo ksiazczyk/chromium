@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SmartCardConnectBlockedForUrls policy definition
+# summary: Defines a policy blocking Isolated Web Apps from connecting to smart card readers without any prompt.
+# ---
+
 caption: Block Smart Card connection by Isolated Apps
 desc: |-
   Setting the policy specifies which Isolated Web Apps (IWAs) won't be able to connect to smart card readers (users won't even be prompted for permission).

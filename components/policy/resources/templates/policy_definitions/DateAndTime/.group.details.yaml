@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: DateAndTime policy group details
+# summary: Provides the caption and description for the DateAndTime policy group that controls clock and time zone settings.
+# ---
+
 caption: Date and time
 desc: Controls clock and time zone settings.

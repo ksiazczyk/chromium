@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the DeviceUpdate policy definitions
+summary: OWNERS file that includes the ChromeOS remote management owners list for the DeviceUpdate policy definitions directory.
