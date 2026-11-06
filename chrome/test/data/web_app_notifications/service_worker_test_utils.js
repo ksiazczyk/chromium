@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service Worker Test Utilities
+// summary: Utilities for posting messages to the service worker and awaiting its activation in notification tests.
+// ---
+
 // Posts a message to service worker and awaits the response.
 function postRequestAwaitResponse(message) {
   return new Promise((result, reject) => {

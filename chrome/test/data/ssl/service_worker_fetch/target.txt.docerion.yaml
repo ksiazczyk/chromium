@@ -1,0 +1,4 @@
+# Docerion header of target.txt.
+type: test
+title: Fetch target text file
+summary: Plain text resource served as the fetch target for the service worker SSL test.

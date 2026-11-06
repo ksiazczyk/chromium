@@ -1,0 +1,4 @@
+# Docerion header of shortcuts.json.
+type: test
+title: Web app manifest with shortcut definitions
+summary: Web app manifest defining six shortcuts with icons of various sizes and purposes, used as test data for web app shortcuts.

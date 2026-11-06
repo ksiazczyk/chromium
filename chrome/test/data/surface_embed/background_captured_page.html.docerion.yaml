@@ -1,0 +1,4 @@
+# Docerion header of background_captured_page.html.
+type: test
+title: Background Captured Page
+summary: Test page that continuously increments a tick counter via requestAnimationFrame, used to verify background capture of embedded surfaces.

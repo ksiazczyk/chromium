@@ -1,0 +1,4 @@
+# Docerion header of crash_seed.json.
+type: test
+title: Variations crash seed test data
+summary: JSON fixture containing a compressed variations seed and its signature, used as test data for crash-related seed scenarios.

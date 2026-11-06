@@ -1,0 +1,4 @@
+# Docerion header of malformed1.json.
+type: test
+title: malformed1.json
+summary: Deliberately malformed web app definition JSON used to test error handling when default app data is invalid.

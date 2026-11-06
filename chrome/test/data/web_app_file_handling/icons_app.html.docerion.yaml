@@ -1,0 +1,4 @@
+# Docerion header of icons_app.html.
+type: test
+title: Icons app test page for file opening
+summary: Test page for the icons app variant that links the shared manifest and registers the file handling service worker.

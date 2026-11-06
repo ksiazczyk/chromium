@@ -1,0 +1,4 @@
+# Docerion header of empty.json.
+type: test
+title: empty.json
+summary: Empty JSON file in the web app default apps test data, likely used to test parsing of an empty app definition.

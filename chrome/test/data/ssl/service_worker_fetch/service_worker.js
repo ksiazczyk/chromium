@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker that performs fetches on request
+// summary: Service worker that receives fetch commands from the page and replies with the response text or any encountered error.
+// ---
+
 // The other end of a message channel opened by the page.
 let port;
 

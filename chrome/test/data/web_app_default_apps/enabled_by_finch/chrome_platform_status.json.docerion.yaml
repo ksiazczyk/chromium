@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome Platform Status default app test fixture
+summary: JSON test fixture defining a default web app pointing to chromestatus.com with a tab launch container and shortcut creation for unmanaged users.

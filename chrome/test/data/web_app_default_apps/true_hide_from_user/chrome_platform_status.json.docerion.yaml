@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome Platform Status default app test fixture
+summary: Test data defining a default web app entry for chromestatus.com with hide_from_user set to true, a tab launch container, and unmanaged user type.

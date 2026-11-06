@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wasm binary format constants
+// summary: Defines Wasm binary format constants, section codes, opcodes, and signature helpers shared by the Wasm tests.
+// ---
+
 function bytes() {
   var buffer = new ArrayBuffer(arguments.length);
   var view = new Uint8Array(buffer);

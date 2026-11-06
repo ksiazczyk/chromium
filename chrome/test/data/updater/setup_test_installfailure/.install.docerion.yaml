@@ -1,0 +1,4 @@
+# Docerion header of .install.
+type: test
+title: .install test script
+summary: Shell script fixture that exits with status 2 to simulate a failing install step in updater setup tests.

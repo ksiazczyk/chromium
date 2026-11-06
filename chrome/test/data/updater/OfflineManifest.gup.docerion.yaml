@@ -1,0 +1,4 @@
+# Docerion header of OfflineManifest.gup.
+type: test
+title: OfflineManifest.gup
+summary: Sample offline update manifest in Omaha protocol 3.0 XML format with updatecheck URLs, packages, actions, and distribution data for updater tests.

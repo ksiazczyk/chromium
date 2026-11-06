@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Top sites history database fixture, version 19
+-- summary: SQL dump that creates a version 19 history database with urls, visits, segments and related tables, used as test data for top sites.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY,value LONGVARCHAR);
 INSERT INTO "meta" VALUES('version','19');

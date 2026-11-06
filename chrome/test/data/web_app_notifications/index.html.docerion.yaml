@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Web App Notifications Test Page
+summary: HTML test page for WebAppNotificationsBrowserTest that links the web app manifest and registers the notification service worker.

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Service worker handling app badge commands
+// summary: Service worker that listens for set-app-badge and clear-app-badge messages, calls setAppBadge() or clearAppBadge() accordingly, and replies to the sender with the result.
+// ---
+
 'use strict';
 
 // Adds a  message event handler that responds to 'set-app-badge' and

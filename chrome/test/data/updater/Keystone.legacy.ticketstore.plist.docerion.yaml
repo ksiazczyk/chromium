@@ -1,0 +1,4 @@
+# Docerion header of Keystone.legacy.ticketstore.plist.
+type: test
+title: Keystone.legacy.ticketstore.plist
+summary: Manually crafted property list fed to keystone_ticket_tool to generate the Keystone.legacy.ticketstore test file.

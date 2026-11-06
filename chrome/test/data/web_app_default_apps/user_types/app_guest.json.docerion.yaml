@@ -1,0 +1,4 @@
+# Docerion header of app_guest.json.
+type: test
+title: Default web app test data for guest users
+summary: JSON fixture defining a default web app opened in a tab with shortcuts, scoped to the guest user type for Chrome default app tests.

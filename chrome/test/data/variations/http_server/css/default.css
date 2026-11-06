@@ -6,6 +6,12 @@ which is CC-Attribute Licensed, but it is actually based on the MIT-licensed
 Andy Bell's "modern reset" https://github.com/hankchizljaw/modern-css-reset
 */
 
+/*docerion
+type: test
+title: Default stylesheet snapshot of the chromium.org website
+summary: Snapshot of the chromium.org site stylesheet, based on a modern CSS reset, used as test data served by the variations HTTP server.
+*/
+
 *,
 *::before,
 *::after {

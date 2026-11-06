@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync test data directory owners
+summary: Owners file that delegates code ownership to the components/sync OWNERS file.

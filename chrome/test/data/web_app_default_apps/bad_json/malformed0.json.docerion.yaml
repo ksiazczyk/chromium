@@ -1,0 +1,4 @@
+# Docerion header of malformed0.json.
+type: test
+title: Malformed JSON test file
+summary: Intentionally invalid JSON file used as test data for web app default apps parsing in Chrome.

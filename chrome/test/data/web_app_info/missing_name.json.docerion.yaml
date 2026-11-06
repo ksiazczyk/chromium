@@ -1,0 +1,4 @@
+# Docerion header of missing_name.json.
+type: test
+title: Missing name test fixture
+summary: Web app fixture lacking a name field, used to test handling of a missing required field.

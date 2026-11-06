@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome Platform Status default app test fixture
+summary: JSON fixture defining a Chrome Platform Status default app with shortcut creation for unmanaged users in the missing launch container test.

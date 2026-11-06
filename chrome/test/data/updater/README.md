@@ -1,3 +1,12 @@
+---
+type: readme
+title: Updater test data README
+summary: Explains how to recreate the updater qualification app DMG and EXE CRX test packages, including build commands and signing key requirements.
+relations:
+  - documents /chrome/test/data/updater/updater_qualification_app_dmg.crx
+  - documents /chrome/test/data/updater/updater_qualification_app_exe.crx
+---
+
 # updater_qualification_app_dmg.crx
 To recreate, run:
 

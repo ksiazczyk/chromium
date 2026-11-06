@@ -1,0 +1,4 @@
+# Docerion header of basic_app.html.
+type: test
+title: Basic web app test page for file opening
+summary: Test page for a web app that handles file opening, linking the manifest and registering the file handling service worker.

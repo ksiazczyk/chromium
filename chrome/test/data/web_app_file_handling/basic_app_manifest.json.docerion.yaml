@@ -1,0 +1,4 @@
+# Docerion header of basic_app_manifest.json.
+type: test
+title: Web app manifest with file handlers
+summary: Manifest for a test file editor web app declaring file handlers for plain text and spreadsheet files with single and multiple client launch types.

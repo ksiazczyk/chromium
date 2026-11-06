@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome Platform Status default app test data with invalid create_shortcuts
+summary: Test fixture JSON defining a default web app entry for chromestatus.com with an invalid create_shortcuts value, used to verify handling of malformed default app data.

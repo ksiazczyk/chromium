@@ -1,0 +1,4 @@
+# Docerion header of polytimer.json.
+type: test
+title: polytimer.json
+summary: Valid web app definition for Polytimer with a window launch container, used as test data for default app parsing.

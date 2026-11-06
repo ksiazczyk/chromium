@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First script of the pseudo translate test
+// summary: Writes log messages into the page, checks v8 isolation, and triggers loading of the second pseudo test script.
+// ---
+
 div_log = function (message) {
   // console.log() does not work inside the isolated world.
   // Add DOM elements to show error messages.

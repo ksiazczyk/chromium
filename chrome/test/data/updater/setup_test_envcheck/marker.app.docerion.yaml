@@ -1,0 +1,4 @@
+# Docerion header of marker.app.
+type: test
+title: Updater setup test marker app placeholder
+summary: Empty marker file serving as a placeholder app in the updater setup test environment.

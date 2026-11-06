@@ -1,0 +1,4 @@
+# Docerion header of invalid_launch_url.json.
+type: test
+title: Invalid launch URL test fixture
+summary: Web app fixture whose launch URL points to another domain, used to test launch URL validation.

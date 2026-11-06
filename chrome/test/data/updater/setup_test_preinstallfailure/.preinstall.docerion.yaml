@@ -1,0 +1,4 @@
+# Docerion header of .preinstall.
+type: test
+title: .preinstall script exiting with code 1
+summary: Shell script fixture for the updater setup test that simulates a preinstall failure by exiting with code 1.

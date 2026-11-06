@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Translate test data directory metadata
+summary: Points this test data directory to the shared translate component metadata through a mixins entry.

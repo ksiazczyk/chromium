@@ -1,0 +1,4 @@
+# Docerion header of wss_close_loop.html.
+type: test
+title: Test page looping hanging wss connections
+summary: Test page that continuously creates hanging secure WebSocket connections, reopening on each close.

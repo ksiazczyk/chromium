@@ -1,0 +1,4 @@
+# Docerion header of wss_close.html.
+type: test
+title: Test page closing a hanging wss connection
+summary: Test page that opens a secure WebSocket connection and reports PASS or FAIL via the document title when it closes.

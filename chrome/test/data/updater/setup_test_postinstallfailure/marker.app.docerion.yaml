@@ -1,0 +1,4 @@
+# Docerion header of marker.app.
+type: test
+title: Empty marker.app test fixture
+summary: Empty placeholder app file used as a marker by the updater setup test for the postinstall failure scenario.

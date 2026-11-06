@@ -1,0 +1,4 @@
+# Docerion header of minimal.json.
+type: test
+title: Minimal web app info test fixture
+summary: Minimal valid web app definition containing only a name and launch URL, used as a baseline parsing test case.

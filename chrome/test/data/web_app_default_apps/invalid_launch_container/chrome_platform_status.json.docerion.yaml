@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Invalid launch container test data for chrome_platform_status default app
+summary: Test fixture JSON defining a default web app for chromestatus.com with an intentionally invalid launch container value, used to test error handling.

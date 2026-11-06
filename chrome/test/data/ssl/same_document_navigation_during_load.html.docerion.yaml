@@ -1,0 +1,4 @@
+# Docerion header of same_document_navigation_during_load.html.
+type: test
+title: Same-document navigation during load test page
+summary: Test page that sets a random location hash during load to trigger a same-document navigation.

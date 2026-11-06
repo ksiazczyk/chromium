@@ -1,0 +1,4 @@
+# Docerion header of google_io_2016.json.
+type: test
+title: google_io_2016.json
+summary: Test fixture JSON defining a default web app for Google I/O 2016 that launches in a window and replaces a migration source app ID.

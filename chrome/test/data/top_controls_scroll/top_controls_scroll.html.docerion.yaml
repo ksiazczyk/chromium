@@ -1,0 +1,4 @@
+# Docerion header of top_controls_scroll.html.
+type: test
+title: Browser Top Controls Scrolls Test Page
+summary: HTML test page used to verify browser top controls scroll behavior during page scrolls in Tablet Mode, with a select element and helper functions for test automation.

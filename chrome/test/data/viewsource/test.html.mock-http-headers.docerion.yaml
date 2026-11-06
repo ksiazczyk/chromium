@@ -1,0 +1,4 @@
+# Docerion header of test.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the view-source test page
+summary: Mock HTTP response headers served for test.html, returning 200 OK with a Permissions-Policy vertical-scroll directive for view-source tests.

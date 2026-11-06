@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.txt.
+type: test
+title: Chrome platform status default app test data
+summary: Test data holding web app manifest and start URLs for chromestatus.com in a case covering a .txt default app file without JSON.

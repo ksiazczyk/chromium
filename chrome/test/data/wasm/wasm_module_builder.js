@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wasm module builder
+// summary: Provides a JavaScript builder for constructing Wasm binary modules, function bodies, and sections in tests.
+// ---
+
 // Used for encoding f32 and double constants to bits.
 let __buffer = new ArrayBuffer(8);
 let byte_view = new Int8Array(__buffer);
