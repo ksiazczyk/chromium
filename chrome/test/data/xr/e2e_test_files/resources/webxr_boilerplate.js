@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR e2e test boilerplate
+// summary: Shared boilerplate for WebXR end-to-end tests that requests immersive VR, AR, and magic-window sessions and manages WebGL rendering setup.
+// ---
+
 // Add additional setup steps to the object from webxr_e2e.js if it exists.
 if (typeof initializationSteps !== 'undefined') {
   initializationSteps['magicWindowStarted'] = false;

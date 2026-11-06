@@ -1,0 +1,4 @@
+# Docerion header of test_visibility_mask_change_event.html.
+type: test
+title: WebXR visibility mask change event test
+summary: Test page that listens for visibilitymaskchange events on an immersive VR session and counts how many fire.

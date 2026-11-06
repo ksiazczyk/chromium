@@ -1,0 +1,4 @@
+# Docerion header of test_ar_request_session_succeeds.html.
+type: test
+title: AR requestSession success test
+summary: WebXR end-to-end test page verifying that requestSession calls for AR sessions succeed.

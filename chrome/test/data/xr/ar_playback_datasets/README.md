@@ -1,3 +1,9 @@
+---
+type: readme
+title: AR Playback Datasets
+summary: Explains that the directory holds recorded ARCore playback datasets containing video and sensor data, used by automated AR tests to exercise features such as hit testing.
+---
+
 # AR Playback Datasets
 
 The .mp4 files in this directory are recorded AR datasets for use with ARCore's

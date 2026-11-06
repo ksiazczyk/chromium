@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_time_on_page.html.
+type: test
+title: What's New time on page test page
+summary: HTML fixture page for the What's New iframe that loads the time-on-page metrics test script.

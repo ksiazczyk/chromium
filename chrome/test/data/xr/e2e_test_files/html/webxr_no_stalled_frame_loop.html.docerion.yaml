@@ -1,0 +1,4 @@
+# Docerion header of webxr_no_stalled_frame_loop.html.
+type: test
+title: WebXR single-frame page for stalled frame loop check
+summary: WebXR test page that submits one frame and clears the base layer to verify the immersive frame loop does not stall.

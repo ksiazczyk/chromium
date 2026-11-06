@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_profiles.html.
+type: test
+title: WebXR input profiles test page
+summary: Test page with helpers to validate that input sources contain or lack expected profiles during hand-tracking sessions.

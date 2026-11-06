@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New module click metrics test
+// summary: Simulates a user clicking an external link in a module and posts the link click metrics event to the What's New page.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 window.onload = function() {

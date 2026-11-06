@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_disabled_without_flag_set.html.
+type: test
+title: WebXR API absence without flag test
+summary: Test page asserting that navigator.xr is not exposed when the flag enabling WebXR is not set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New time on page heartbeat metrics test fixture
+// summary: Test fixture that posts a heartbeat time-on-page event followed by a CTA click event to the What's New page.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 window.onload = function() {

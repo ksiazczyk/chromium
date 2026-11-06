@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_transient_input.html.
+type: test
+title: WebXR transient input select event ordering test
+summary: End-to-end test page verifying that selectstart, select, and selectend events fire in the correct order for transient input such as canvas taps in an inline session.

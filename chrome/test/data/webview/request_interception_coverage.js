@@ -9,6 +9,12 @@
  * with the guest page to verify that requests were observed.
  */
 
+// ---docerion
+// type: test
+// title: Request interception coverage test helper
+// summary: Helper that creates a webview, controlledframe, or iframe element, intercepts its requests, and signals observed requests to the guest page for verification.
+// ---
+
 const kResultMessageType = 'TEST_RESULT';
 const kObservedRequestMessageType = 'OBSERVED_REQUEST';
 const kStartTestsMessageType = 'START_TESTS';

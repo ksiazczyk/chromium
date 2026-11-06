@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_input.html.
+type: test
+title: WebXR select input events test for Cardboard and Daydream
+summary: Test page verifying that Cardboard screen taps and Daydream controller input fire WebXR select events in the correct order.

@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_next_button_click.html.
+type: test
+title: What's New next button click metrics test page
+summary: HTML test page for the What's New iframe that loads the next button click metrics test script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket from worker test script
+// summary: Worker script that opens a WebSocket from a URL received via message and relays received data or error notifications back.
+// ---
+
 self.onmessage = e => {
   const ws = new WebSocket(e.data.url);
   ws.onmessage = msg => self.postMessage(msg.data);

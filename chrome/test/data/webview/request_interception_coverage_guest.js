@@ -11,6 +11,12 @@
  * postMessage.
  */
 
+// ---docerion
+// type: test
+// title: Request interception coverage guest test script
+// summary: Guest script that issues fetch, WebSocket, and WebTransport requests from the main page and worker contexts and reports which requests the embedder intercepted.
+// ---
+
 // The timeout for tests that are expected to succeed.
 const kLongObservationTimeoutMs = 2000;
 // The timeout for tests that are expected to fail. This reduces wait time for

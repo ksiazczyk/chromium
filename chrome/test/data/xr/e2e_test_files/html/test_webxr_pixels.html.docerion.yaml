@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_pixels.html.
+type: test
+title: WebXR pixels test page
+summary: Minimal test page used to verify that WebXR pixel data is submitted correctly.

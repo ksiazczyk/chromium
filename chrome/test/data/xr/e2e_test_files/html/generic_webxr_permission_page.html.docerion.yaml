@@ -1,0 +1,4 @@
+# Docerion header of generic_webxr_permission_page.html.
+type: test
+title: WebXR permission request test page
+summary: WebXR test page that can request user media permissions and reports whether each permission request succeeds.

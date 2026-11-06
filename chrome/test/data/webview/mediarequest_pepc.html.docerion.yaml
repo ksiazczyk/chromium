@@ -1,0 +1,4 @@
+# Docerion header of mediarequest_pepc.html.
+type: test
+title: Webview PEPC usermedia request test page
+summary: Test page that requests microphone access through the usermedia permission element, clicking it after layout, and reports the grant result to its source.

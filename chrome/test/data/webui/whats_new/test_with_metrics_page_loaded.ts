@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New page loaded metrics test script
+// summary: Test script that posts modules_rendered and page_loaded metric events to the What's New page when loaded.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 window.onload = function() {

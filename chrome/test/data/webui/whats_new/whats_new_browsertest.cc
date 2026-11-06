@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New browser test runner
+// summary: C++ browser test that enables the What's New feature and runs the whats_new_app_test mocha suite in the WebUI.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/webui/whats_new/whats_new_util.h"
 #include "chrome/common/webui_url_constants.h"

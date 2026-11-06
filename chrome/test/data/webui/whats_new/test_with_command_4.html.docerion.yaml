@@ -1,0 +1,4 @@
+# Docerion header of test_with_command_4.html.
+type: test
+title: What's New browser command test page
+summary: HTML test page that loads the script posting a browser command event to the What's New iframe.

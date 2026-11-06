@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_controller_poses.html.
+type: test
+title: WebXR controller poses test page
+summary: End-to-end WebXR test page verifying that WebXR controller grip space poses match the expected matrices.

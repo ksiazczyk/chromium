@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_hand_tracking.html.
+type: test
+title: WebXR hand tracking input source test helpers
+summary: Test page providing helper functions and listeners to confirm the state of hand-tracking input sources and enabled features.

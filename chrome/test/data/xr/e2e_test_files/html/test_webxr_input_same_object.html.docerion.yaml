@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_input_same_object.html.
+type: test
+title: WebXR input same object test page
+summary: Test page with helper functions and listeners to verify the state of input sources across frames in the WebXR same object tests.

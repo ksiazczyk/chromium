@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_worker.html.
+type: test
+title: Fetch from worker test page
+summary: Test page that creates a dedicated worker, optionally started manually, and forwards fetch requests to it via postMessage.

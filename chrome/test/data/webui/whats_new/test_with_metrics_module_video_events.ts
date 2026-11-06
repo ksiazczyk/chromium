@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New module video events metrics test fixture
+// summary: Test fixture that posts simulated video start, end, play, pause and restart metric events to the What's New page via postMessage.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 window.onload = function() {

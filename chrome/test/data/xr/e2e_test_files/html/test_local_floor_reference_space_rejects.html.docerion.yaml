@@ -1,0 +1,4 @@
+# Docerion header of test_local_floor_reference_space_rejects.html.
+type: test
+title: Local-floor reference space rejection test
+summary: WebXR test page verifying that requesting a local-floor reference space on an inline session fails with NotSupportedError.

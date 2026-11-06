@@ -1,0 +1,4 @@
+# Docerion header of webxr_page_submits_once.html.
+type: test
+title: WebXR page that submits only one frame
+summary: WebXR test page that submits a single immersive frame and finishes the test step after submission.

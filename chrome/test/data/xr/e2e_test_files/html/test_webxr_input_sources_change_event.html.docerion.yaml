@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_input_sources_change_event.html.
+type: test
+title: WebXR input sources change event test page
+summary: Test page with helpers to validate the added and removed input sources reported by the inputsourceschange event during immersive sessions.

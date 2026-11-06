@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_module_video_events.html.
+type: test
+title: What's New module video events test page
+summary: HTML host page that loads the module video events test script for the What's New iframe.

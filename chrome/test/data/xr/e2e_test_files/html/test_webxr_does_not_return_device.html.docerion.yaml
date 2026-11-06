@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_does_not_return_device.html.
+type: test
+title: WebXR immersive-vr support absence test
+summary: Test page asserting that WebXR does not report immersive-vr support when XR runtimes are disabled.

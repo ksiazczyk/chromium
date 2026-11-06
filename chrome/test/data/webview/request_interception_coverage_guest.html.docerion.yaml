@@ -1,0 +1,4 @@
+# Docerion header of request_interception_coverage_guest.html.
+type: test
+title: Request interception coverage guest page
+summary: Minimal guest HTML page that loads the request interception coverage guest script for the interception tests.

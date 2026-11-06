@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_capabilities.html.
+type: test
+title: WebXR device capabilities test
+summary: Test page checking that the WebXR device reports support for both inline and immersive-vr sessions via isSessionSupported.

@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_scroll_depth.html.
+type: test
+title: What's New scroll depth metrics test page
+summary: HTML test page for the What's New iframe that loads the scroll depth metrics test script.

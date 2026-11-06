@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Generate allowed imports list
+# summary: Parses dumpbin export output to generate the .inc file of valid imports included by delayloads_unittest.cc, with optional JSON export.
+# ---
+
 """
 Generates the list of valid imports for the lowest-supported version of
 Windows.

@@ -1,0 +1,4 @@
+# Docerion header of webxr_set_base_layer_late.html.
+type: test
+title: WebXR page that sets the base layer late
+summary: WebXR test page that delays setting the session's base layer to check frame behavior when the render state is updated late.

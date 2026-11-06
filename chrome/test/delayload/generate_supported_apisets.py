@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Generate supported API sets
+# summary: Parses the .apiset section of a Windows DLL to generate the list of API sets supported on a given Windows version.
+# ---
+
 """
 Parses .apiset section from a DLL (e.g. ApiSetSchema.dll) to determine which
 functions are "exported" on a given Windows version by apisets. Only supports

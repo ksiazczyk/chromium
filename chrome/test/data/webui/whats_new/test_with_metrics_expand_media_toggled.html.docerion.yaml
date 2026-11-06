@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_expand_media_toggled.html.
+type: test
+title: Expand media toggled test page
+summary: HTML test page that loads the script posting an expand media toggled event to the What's New iframe.

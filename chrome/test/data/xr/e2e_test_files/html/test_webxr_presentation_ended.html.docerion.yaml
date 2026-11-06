@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_presentation_ended.html.
+type: test
+title: WebXR presentation ended test page
+summary: Test page that verifies a WebXR session ends correctly when the XR_SESSION_STATE_STOPPING event is received via OpenXR.

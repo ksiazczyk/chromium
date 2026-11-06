@@ -2,6 +2,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: WebXR e2e test page styles
+summary: Styles for WebXR end-to-end test pages, making the WebGL canvas fill the viewport and hiding the log element.
+*/
+
 html, body {
   margin: 0;
   padding: 0;
