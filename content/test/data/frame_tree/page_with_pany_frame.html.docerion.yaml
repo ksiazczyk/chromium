@@ -1,0 +1,4 @@
+# Docerion header of page_with_pany_frame.html.
+type: test
+title: Test page with pan-y touch-action iframe
+summary: Test page embedding a cross-origin iframe inside a container with touch-action pan-y for gesture handling tests.

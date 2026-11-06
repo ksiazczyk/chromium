@@ -1,0 +1,4 @@
+# Docerion header of cookies.txt.
+type: test
+title: Fuzzer corpus entry for the cookies type
+summary: Fuzzer corpus input containing a Clear-Site-Data header value with only the cookies type.

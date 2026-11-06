@@ -1,0 +1,4 @@
+# Docerion header of rgb.txt.
+type: test
+title: RGB color fuzzer corpus entry
+summary: Fuzzer corpus input containing an RGB color string with a hexadecimal component used to exercise the color parser.

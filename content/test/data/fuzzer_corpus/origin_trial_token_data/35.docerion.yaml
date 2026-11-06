@@ -1,0 +1,4 @@
+# Docerion header of 35.
+type: test
+title: 'Fuzzer input 35: empty usage field'
+summary: Fuzzer corpus entry with an empty usage field in the origin trial token JSON.

@@ -1,0 +1,4 @@
+# Docerion header of opaque_origin_operations.textproto.
+type: test
+title: Fuzzer corpus seed for opaque-origin storage area operations
+summary: Fuzzer corpus seed covering opaque-origin local and session storage bindings, including the security-rejection path for opaque-origin Put actions.

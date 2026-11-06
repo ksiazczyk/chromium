@@ -1,0 +1,4 @@
+# Docerion header of 16.
+type: test
+title: Origin trial token fuzzer input 16
+summary: Fuzzer corpus input with a token object containing feature and expiry but no origin.

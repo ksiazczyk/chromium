@@ -1,0 +1,4 @@
+# Docerion header of 25.
+type: test
+title: 'Fuzzer corpus 25: valid token JSON with isSubdomain false'
+summary: Fuzzer corpus input with a well-formed origin trial token including isSubdomain set to false.

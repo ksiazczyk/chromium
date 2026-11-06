@@ -1,0 +1,4 @@
+# Docerion header of page_with_editable_elements.html.
+type: test
+title: Page with editable elements
+summary: Test page with a hidden autofocus input and a text input positioned far down the page for editable element tests.

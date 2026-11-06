@@ -1,0 +1,4 @@
+# Docerion header of page_with_same_origin_nested_frames.html.
+type: test
+title: Same-origin nested frames test page
+summary: Test page that embeds a same-origin positioned iframe inside a wrapper div to exercise nested frame handling.

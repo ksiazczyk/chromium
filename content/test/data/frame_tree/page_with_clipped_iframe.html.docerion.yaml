@@ -1,0 +1,4 @@
+# Docerion header of page_with_clipped_iframe.html.
+type: test
+title: Page with clipped iframe
+summary: Test page nesting a cross-origin iframe inside rotated and overflow-hidden divs to exercise iframe clipping.

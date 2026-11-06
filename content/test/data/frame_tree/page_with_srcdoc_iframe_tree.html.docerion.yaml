@@ -1,0 +1,4 @@
+# Docerion header of page_with_srcdoc_iframe_tree.html.
+type: test
+title: Srcdoc iframe tree test page
+summary: Test page with deeply nested iframes mixing srcdoc and src sources for frame tree tests.

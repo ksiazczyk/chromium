@@ -1,0 +1,4 @@
+# Docerion header of 26.
+type: test
+title: 'Fuzzer corpus 26: token JSON with numeric isSubdomain and extra key'
+summary: Fuzzer corpus input with a numeric isSubdomain value and an unrecognized extra field.

@@ -1,0 +1,4 @@
+# Docerion header of 8.
+type: test
+title: Origin trial token fuzzer input with JSON string
+summary: Fuzzer corpus input containing a quoted JSON string to exercise origin trial token parsing of unexpected types.

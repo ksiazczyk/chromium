@@ -1,0 +1,4 @@
+# Docerion header of page_with_one_frame.html.
+type: test
+title: Test page with one cross-site frame
+summary: Test page with a single cross-site iframe plus a script helper to dynamically add sandboxed frames.

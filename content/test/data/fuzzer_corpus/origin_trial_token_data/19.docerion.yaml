@@ -1,0 +1,4 @@
+# Docerion header of 19.
+type: test
+title: 'Fuzzer corpus 19: minimal token JSON with string expiry'
+summary: Fuzzer corpus input with a minimal origin trial token JSON whose expiry is given as a string.

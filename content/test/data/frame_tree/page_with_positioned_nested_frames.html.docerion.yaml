@@ -1,0 +1,4 @@
+# Docerion header of page_with_positioned_nested_frames.html.
+type: test
+title: Test page with nested positioned cross-origin frames
+summary: Test page embedding a cross-origin page that itself contains a positioned cross-origin iframe.

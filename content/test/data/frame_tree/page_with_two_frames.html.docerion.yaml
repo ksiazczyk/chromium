@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_frames.html.
+type: test
+title: Page with two frames
+summary: Test fixture page embedding two iframes, one cross-site and one same-site, for frame tree testing.

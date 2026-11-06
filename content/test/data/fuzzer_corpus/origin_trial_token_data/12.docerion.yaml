@@ -1,0 +1,4 @@
+# Docerion header of 12.
+type: test
+title: Origin trial token fuzzer input 12
+summary: Fuzzer corpus input with a JSON object holding only an unknown key.

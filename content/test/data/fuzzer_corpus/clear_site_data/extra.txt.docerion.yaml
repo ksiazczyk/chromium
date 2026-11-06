@@ -1,0 +1,4 @@
+# Docerion header of extra.txt.
+type: test
+title: Fuzzer corpus entry with an extra Clear-Site-Data type
+summary: Fuzzer corpus input listing the cookies, storage, cache and executionContexts types for Clear-Site-Data header parsing.

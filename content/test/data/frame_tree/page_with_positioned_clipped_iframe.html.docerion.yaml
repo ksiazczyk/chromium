@@ -1,0 +1,4 @@
+# Docerion header of page_with_positioned_clipped_iframe.html.
+type: test
+title: Test page with positioned clipped cross-origin iframe
+summary: Test page embedding a cross-origin iframe clipped by an overflow-hidden container.

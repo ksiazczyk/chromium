@@ -1,0 +1,4 @@
+# Docerion header of 29.
+type: test
+title: 'Fuzzer input 29: pretty-printed origin trial token JSON'
+summary: Fuzzer corpus entry with a pretty-printed WebBluetooth origin trial token for example.com.

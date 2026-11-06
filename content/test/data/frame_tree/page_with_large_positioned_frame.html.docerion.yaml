@@ -1,0 +1,4 @@
+# Docerion header of page_with_large_positioned_frame.html.
+type: test
+title: Test page with a large positioned cross-origin frame
+summary: Test page with an absolutely positioned cross-origin iframe covering most of the viewport.

@@ -1,0 +1,4 @@
+# Docerion header of 20.
+type: test
+title: 'Fuzzer corpus 20: token JSON with negative expiry'
+summary: Fuzzer corpus input with a minimal origin trial token JSON using a negative expiry value.

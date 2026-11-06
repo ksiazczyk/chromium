@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe_in_scrollable_div.html.
+type: test
+title: Page with iframe in scrollable div
+summary: Test page with a 1000-pixel-tall cross-site iframe inside a scrollable wrapper div.

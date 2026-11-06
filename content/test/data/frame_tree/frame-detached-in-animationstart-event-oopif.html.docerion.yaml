@@ -1,0 +1,4 @@
+# Docerion header of frame-detached-in-animationstart-event-oopif.html.
+type: test
+title: OOPIF frame detached in animationstart event wrapper
+summary: Test page embedding a cross-site same-site frame to exercise frame detachment during the animationstart event in an OOPIF.

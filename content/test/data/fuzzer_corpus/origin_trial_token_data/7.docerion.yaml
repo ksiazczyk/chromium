@@ -1,0 +1,4 @@
+# Docerion header of 7.
+type: test
+title: Origin trial token fuzzer input with lone brace
+summary: Fuzzer corpus input containing a single opening brace to test origin trial token parsing of truncated JSON.

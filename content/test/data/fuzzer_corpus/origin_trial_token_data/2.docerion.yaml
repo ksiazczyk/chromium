@@ -1,0 +1,4 @@
+# Docerion header of 2.
+type: test
+title: 'Fuzzer corpus 2: valid WebBluetooth token JSON'
+summary: Fuzzer corpus input with a well-formed origin trial token for WebBluetooth on example.com port 443.

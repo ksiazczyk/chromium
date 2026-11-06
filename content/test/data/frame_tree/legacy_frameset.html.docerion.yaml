@@ -1,0 +1,4 @@
+# Docerion header of legacy_frameset.html.
+type: test
+title: Legacy frameset test page
+summary: Minimal legacy frameset loading a single child frame for frame tree tests.

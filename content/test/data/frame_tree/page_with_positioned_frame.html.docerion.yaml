@@ -1,0 +1,4 @@
+# Docerion header of page_with_positioned_frame.html.
+type: test
+title: Test page with positioned cross-origin iframe
+summary: Test page embedding a cross-origin iframe at an absolute position.

@@ -1,0 +1,4 @@
+# Docerion header of clientHints.txt.
+type: test
+title: Fuzzer corpus entry for the clientHints type
+summary: Fuzzer corpus input containing a Clear-Site-Data header value with only the clientHints type.

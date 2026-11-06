@@ -1,0 +1,4 @@
+# Docerion header of 22.
+type: test
+title: 'Fuzzer corpus 22: token JSON with data URL origin'
+summary: Fuzzer corpus input with an origin trial token using a data URL as the origin value.

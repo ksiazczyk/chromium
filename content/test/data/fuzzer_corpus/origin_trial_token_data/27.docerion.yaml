@@ -1,0 +1,4 @@
+# Docerion header of 27.
+type: test
+title: 'Fuzzer corpus 27: token JSON with string isSubdomain'
+summary: Fuzzer corpus input with isSubdomain given as a string instead of a boolean.

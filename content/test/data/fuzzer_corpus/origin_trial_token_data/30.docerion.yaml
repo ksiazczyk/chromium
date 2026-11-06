@@ -1,0 +1,4 @@
+# Docerion header of 30.
+type: test
+title: 'Fuzzer input 30: numeric isThirdParty and extra field'
+summary: Fuzzer corpus entry testing a numeric isThirdParty value and an extra field in the token JSON.

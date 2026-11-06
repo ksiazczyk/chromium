@@ -1,0 +1,4 @@
+# Docerion header of page_with_clip_path_iframe.html.
+type: test
+title: Page with clip-path iframe
+summary: Test page applying a polygon clip-path to a cross-origin iframe.

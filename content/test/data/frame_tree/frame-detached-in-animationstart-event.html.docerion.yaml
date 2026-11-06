@@ -1,0 +1,4 @@
+# Docerion header of frame-detached-in-animationstart-event.html.
+type: test
+title: Regression test page for frame detached in animation start
+summary: Regression test page embedding a cross-site iframe chain that detaches a nested frame during animation events.

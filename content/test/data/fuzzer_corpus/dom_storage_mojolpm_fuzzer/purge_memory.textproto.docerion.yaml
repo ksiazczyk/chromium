@@ -1,0 +1,4 @@
+# Docerion header of purge_memory.textproto.
+type: test
+title: Fuzzer corpus seed for session storage PurgeMemory
+summary: Fuzzer corpus seed exercising SessionStorageImpl::PurgeMemory across namespaces with flush and thread drains to cover purge racing pending commit work.

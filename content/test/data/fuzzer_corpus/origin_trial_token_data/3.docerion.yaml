@@ -1,0 +1,4 @@
+# Docerion header of 3.
+type: test
+title: 'Fuzzer input 3: minimal origin trial token JSON'
+summary: Fuzzer corpus entry with a compact WebBluetooth origin trial token without a third-party flag.

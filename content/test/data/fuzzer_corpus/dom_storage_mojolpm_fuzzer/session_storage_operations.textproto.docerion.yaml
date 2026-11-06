@@ -1,0 +1,4 @@
+# Docerion header of session_storage_operations.textproto.
+type: test
+title: Fuzzer corpus seed for session storage Put, GetAll and DeleteAll
+summary: Fuzzer corpus seed driving session storage areas across two origins with Put, GetAll and DeleteAll actions arranged in three sequences.

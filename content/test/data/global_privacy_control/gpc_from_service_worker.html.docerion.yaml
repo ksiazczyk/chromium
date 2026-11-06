@@ -1,0 +1,4 @@
+# Docerion header of gpc_from_service_worker.html.
+type: test
+title: Service worker GPC test page
+summary: Test page that registers a service worker and exposes a function to query Global Privacy Control through a message channel.

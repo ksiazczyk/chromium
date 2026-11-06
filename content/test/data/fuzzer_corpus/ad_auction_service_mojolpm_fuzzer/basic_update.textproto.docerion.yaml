@@ -1,0 +1,4 @@
+# Docerion header of basic_update.textproto.
+type: test
+title: Basic interest group update fuzzer corpus input
+summary: Fuzzer corpus input that joins an interest group with an update URL and then triggers an interest group update, running until idle.

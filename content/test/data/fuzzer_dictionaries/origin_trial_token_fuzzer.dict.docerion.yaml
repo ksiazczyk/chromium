@@ -1,0 +1,4 @@
+# Docerion header of origin_trial_token_fuzzer.dict.
+type: test
+title: Origin trial token fuzzer dictionary
+summary: Dictionary of strings and tokens used by the origin trial token fuzzer to generate test inputs for parsing origin trial tokens.

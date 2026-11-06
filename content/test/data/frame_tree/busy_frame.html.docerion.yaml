@@ -1,0 +1,4 @@
+# Docerion header of busy_frame.html.
+type: test
+title: Busy frame test page
+summary: Test page that counts to infinity after submitting a compositor frame and embeds a cross-origin iframe so a hit test query is sent to this frame.

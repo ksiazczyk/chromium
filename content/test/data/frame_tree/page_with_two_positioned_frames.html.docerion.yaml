@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_positioned_frames.html.
+type: test
+title: Page with two positioned cross-origin frames
+summary: Test fixture page containing two absolutely positioned cross-origin frames side by side.

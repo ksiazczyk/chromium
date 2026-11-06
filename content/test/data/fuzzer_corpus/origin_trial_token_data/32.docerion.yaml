@@ -1,0 +1,4 @@
+# Docerion header of 32.
+type: test
+title: 'Fuzzer input 32: usage field set to subset'
+summary: Fuzzer corpus entry adding a usage field set to subset to the origin trial token JSON.

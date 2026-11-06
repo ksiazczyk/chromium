@@ -1,0 +1,4 @@
+# Docerion header of merkle_integrity_source_stream_fuzzer.dict.
+type: test
+title: Merkle integrity source stream fuzzer dictionary
+summary: Fuzzer dictionary supplying hash, header version, separator and record size tokens for the merkle integrity source stream fuzzer.

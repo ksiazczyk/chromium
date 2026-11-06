@@ -1,0 +1,4 @@
+# Docerion header of page_with_rotated_clipped_iframe.html.
+type: test
+title: Test page with rotated and clipped cross-origin iframe
+summary: Test page embedding a cross-origin iframe inside nested rotated and clipped containers.

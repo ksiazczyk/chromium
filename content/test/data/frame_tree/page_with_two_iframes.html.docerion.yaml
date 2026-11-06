@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_iframes.html.
+type: test
+title: Page with two positioned cross-site iframes
+summary: Test fixture page with two absolutely positioned cross-site iframes placed at the same coordinates.

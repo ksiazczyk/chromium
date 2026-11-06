@@ -1,0 +1,4 @@
+# Docerion header of page_with_janky_frame.html.
+type: test
+title: Test page with janky cross-origin frame
+summary: Test page embedding a positioned cross-origin iframe whose target page janks the main thread on touch start, for touch and hit-testing tests.

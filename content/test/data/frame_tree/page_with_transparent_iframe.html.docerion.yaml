@@ -1,0 +1,4 @@
+# Docerion header of page_with_transparent_iframe.html.
+type: test
+title: Transparent iframe test page
+summary: Test page with a fully transparent cross-origin iframe over an output div for click and hit-testing scenarios.

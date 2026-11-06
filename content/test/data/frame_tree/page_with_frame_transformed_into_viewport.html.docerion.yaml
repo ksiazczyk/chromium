@@ -1,0 +1,4 @@
+# Docerion header of page_with_frame_transformed_into_viewport.html.
+type: test
+title: Page with frame transformed into viewport
+summary: Test page scaling a div by 0.5 around a full-viewport-sized iframe to test transformed frame viewport behavior.

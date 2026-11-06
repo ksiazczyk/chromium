@@ -1,0 +1,4 @@
+# Docerion header of page_with_ancestor_masked_iframe.html.
+type: test
+title: Page with ancestor-masked iframe
+summary: Test page placing a semi-transparent cross-origin iframe inside a rounded, overflow-hidden ancestor element.

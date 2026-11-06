@@ -1,0 +1,4 @@
+# Docerion header of scrollable_page_with_large_positioned_frame.html.
+type: test
+title: Scrollable page with large positioned frame
+summary: Test fixture with a scrollable page containing a large absolutely positioned cross-origin iframe and a div far down the page.

@@ -1,0 +1,4 @@
+# Docerion header of 6.
+type: test
+title: Origin trial token fuzzer input with plain text
+summary: Fuzzer corpus input of plain text used to exercise origin trial token parsing with non-JSON content.

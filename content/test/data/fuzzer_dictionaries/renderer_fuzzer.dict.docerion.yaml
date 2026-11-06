@@ -1,0 +1,4 @@
+# Docerion header of renderer_fuzzer.dict.
+type: test
+title: Renderer fuzzer dictionary
+summary: Generated fuzzer dictionary of HTML and SGML tokens for the renderer fuzzer, produced from the renderer_fuzzer binary and RFC 1866.

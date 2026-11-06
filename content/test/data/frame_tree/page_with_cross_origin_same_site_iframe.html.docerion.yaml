@@ -1,0 +1,4 @@
+# Docerion header of page_with_cross_origin_same_site_iframe.html.
+type: test
+title: Page with cross-origin same-site iframe
+summary: Test page containing a cross-origin but same-site iframe named frame0 loading from b.x.com.

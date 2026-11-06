@@ -1,0 +1,4 @@
+# Docerion header of page_with_scaled_large_frame.html.
+type: test
+title: Scaled large frame test page
+summary: Test page with a very tall cross-origin iframe inside a 0.2-scaled scrollable div.

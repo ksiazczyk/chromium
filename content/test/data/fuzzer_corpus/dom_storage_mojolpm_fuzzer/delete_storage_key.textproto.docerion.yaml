@@ -1,0 +1,4 @@
+# Docerion header of delete_storage_key.textproto.
+type: test
+title: Fuzzer corpus seed for session storage DeleteStorage
+summary: Fuzzer corpus seed exercising SessionStorageImpl::DeleteStorage via delete_storage_key actions on origins with and without bound session storage areas.
