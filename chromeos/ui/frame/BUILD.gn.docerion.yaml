@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the chromeos UI frame target
+summary: Defines the frame and test_support source sets for ChromeOS window frame UI, listing their sources and dependencies.

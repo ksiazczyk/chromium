@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug utility header for printing the window hierarchy
+// summary: Declares PrintWindowHierarchy, which writes the window hierarchy to a stream, returns window titles, and supports data scrubbing and custom child traversal.
+// ---
+
 #ifndef CHROMEOS_UI_WM_DEBUG_UTIL_H_
 #define CHROMEOS_UI_WM_DEBUG_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ru.xtb.
+type: data
+title: ChromeOS Russian translation bundle
+summary: Russian translations of ChromeOS user interface strings stored in the XTB XML translation bundle format.

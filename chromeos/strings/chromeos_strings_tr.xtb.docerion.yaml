@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_tr.xtb.
+type: data
+title: Turkish ChromeOS translation bundle
+summary: XML translation bundle providing Turkish translations of ChromeOS user interface strings, keyed by numeric message IDs.

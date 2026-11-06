@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_be.xtb.
+type: data
+title: ChromeOS strings in Belarusian
+summary: Translation bundle with ChromeOS UI strings localized into Belarusian for use in the strings build.

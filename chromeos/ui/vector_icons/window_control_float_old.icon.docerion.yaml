@@ -1,0 +1,4 @@
+# Docerion header of window_control_float_old.icon.
+type: asset
+title: Window control float old icon
+summary: Defines the legacy float window control vector icon for ChromeOS UI at two canvas sizes.

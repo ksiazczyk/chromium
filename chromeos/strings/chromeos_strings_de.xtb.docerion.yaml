@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_de.xtb.
+type: data
+title: ChromeOS strings translation bundle for German
+summary: XML translation bundle holding German translations of ChromeOS interface strings, keyed by numeric message IDs.

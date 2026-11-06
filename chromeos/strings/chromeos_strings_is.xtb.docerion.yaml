@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_is.xtb.
+type: data
+title: ChromeOS UI strings for Icelandic
+summary: XML translation bundle providing Icelandic translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

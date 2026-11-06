@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloatControllerBase interface
+// summary: Declares the interface for floating and unfloating windows plus the FloatStartLocation enum, implemented by Ash and Lacros.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_FLOAT_CONTROLLER_BASE_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_FLOAT_CONTROLLER_BASE_H_
 

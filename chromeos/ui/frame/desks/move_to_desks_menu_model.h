@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to Desks menu model header
+// summary: Declares the menu model class for the Move to Desks menu, defining its command IDs for moving windows to desks 1 through 16.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_DESKS_MOVE_TO_DESKS_MENU_MODEL_H_
 #define CHROMEOS_UI_FRAME_DESKS_MOVE_TO_DESKS_MENU_MODEL_H_
 

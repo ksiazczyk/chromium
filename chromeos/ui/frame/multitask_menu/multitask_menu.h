@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskMenu class
+// summary: Declares the window layout menu bubble attached to the frame size button, observing display and window changes.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window property key definitions
+// summary: Defines UI class property keys for windows covering app type, frame colors, immersive state, snapping, rounded corners, and other shell behaviors.
+// ---
+
 #include "chromeos/ui/base/window_properties.h"
 
 #include "chromeos/ui/base/chromeos_ui_constants.h"

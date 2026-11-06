@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multitask menu view implementation
+// summary: Implements the multitask menu view with buttons to fullscreen, snap or float a window, including auto-close behavior.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_view.h"
 
 #include <memory>

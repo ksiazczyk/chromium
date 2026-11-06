@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) ChromeOS translation bundle
+summary: XML translation bundle providing Traditional Chinese translations for Hong Kong of ChromeOS user interface strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Vector icons directory metadata
+summary: Directory metadata that inherits the shared vector_icons metadata through a mixins reference to COMMON_METADATA.

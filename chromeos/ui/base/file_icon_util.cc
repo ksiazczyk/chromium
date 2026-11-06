@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type icon utilities implementation
+// summary: Implements file type icon lookup, mapping file paths and icon types to vector icons and colors resolved through the color provider.
+// ---
+
 #include "chromeos/ui/base/file_icon_util.h"
 
 #include <optional>

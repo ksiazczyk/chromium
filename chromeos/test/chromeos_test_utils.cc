@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test utils implementation
+// summary: Implements GetTestDataPath, which resolves the path to test data files for the chromeos library.
+// ---
+
 #include "chromeos/test/chromeos_test_utils.h"
 
 #include "base/files/file_path.h"

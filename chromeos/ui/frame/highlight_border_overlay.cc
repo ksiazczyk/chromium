@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightBorderOverlay implementation
+// summary: Implements HighlightBorderOverlay, which draws a cached nine-patch highlight border layer over widgets whose client area spans the full widget width.
+// ---
+
 #include "chromeos/ui/frame/highlight_border_overlay.h"
 
 #include <algorithm>

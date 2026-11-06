@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_te.xtb.
+type: data
+title: Telugu ChromeOS translation bundle
+summary: XML translation bundle providing Telugu translations of ChromeOS user interface strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of TestConnectedNetworkNoWelcome.json.
+type: test
+title: TestConnectedNetworkNoWelcome OOBE configuration fixture
+summary: Test fixture OOBE configuration that uses the already connected network during out-of-box experience.

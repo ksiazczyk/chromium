@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_es-419.xtb.
+type: data
+title: ChromeOS strings translation bundle for Latin American Spanish
+summary: XML translation bundle holding Latin American Spanish translations of ChromeOS interface strings, keyed by numeric message IDs.

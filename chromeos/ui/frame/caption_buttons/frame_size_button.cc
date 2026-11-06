@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame size button implementation
+// summary: Implements the maximize/restore button with snap mode, pie press animation and multitask menu behavior on long press or hover.
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_size_button.h"
 
 #include <memory>

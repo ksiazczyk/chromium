@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_lo.xtb.
+type: data
+title: ChromeOS strings in Lao (lo)
+summary: XML translation bundle providing ChromeOS UI strings in Lao as part of the chromeos/strings localization set.

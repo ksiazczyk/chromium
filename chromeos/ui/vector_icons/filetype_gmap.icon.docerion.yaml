@@ -1,0 +1,4 @@
+# Docerion header of filetype_gmap.icon.
+type: asset
+title: Google Maps file type icon
+summary: Vector icon definition drawing the Google Maps document glyph with a location pin on a 20dp canvas.

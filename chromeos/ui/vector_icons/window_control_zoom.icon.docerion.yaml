@@ -1,0 +1,4 @@
+# Docerion header of window_control_zoom.icon.
+type: source
+title: Window control zoom vector icon
+summary: Defines the vector path artwork for the zoom window control icon used in ChromeOS UI at 24 and 12 canvas sizes.

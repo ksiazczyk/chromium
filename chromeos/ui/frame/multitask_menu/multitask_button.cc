@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskButton implementation
+// summary: Implements painting, hover haptics, and state-based coloring for the multitask menu's fullscreen and float buttons.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_button.h"
 
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_constants.h"

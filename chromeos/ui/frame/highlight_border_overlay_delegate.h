@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightBorderOverlayDelegate interface
+// summary: Defines the delegate interface for HighlightBorderOverlay that decides whether a window's highlight border should be rounded.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_HIGHLIGHT_BORDER_OVERLAY_DELEGATE_H_
 #define CHROMEOS_UI_FRAME_HIGHLIGHT_BORDER_OVERLAY_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowPinType enum definition
+// summary: Defines the WindowPinType enum for window pinning modes, including trusted pinned which prevents exiting the mode via shortcut key.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_WINDOW_PIN_TYPE_H_
 #define CHROMEOS_UI_BASE_WINDOW_PIN_TYPE_H_
 

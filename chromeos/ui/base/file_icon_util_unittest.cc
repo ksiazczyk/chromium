@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file icon type mapping
+// summary: Tests that GetIconTypeForPath maps file extensions such as PDF, archive formats and Google Docs types to the expected IconType values.
+// ---
+
 #include "chromeos/ui/base/file_icon_util.h"
 
 #include <string>

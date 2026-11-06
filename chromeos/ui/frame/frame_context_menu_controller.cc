@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame context menu controller implementation
+// summary: Implements the shared context menu behavior that shows the move-to-desks menu for frame views.
+// ---
+
 #include "chromeos/ui/frame/frame_context_menu_controller.h"
 
 #include "chromeos/ui/frame/desks/move_to_desks_menu_delegate.h"

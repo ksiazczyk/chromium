@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC validator command-line tool
+// summary: C++ command-line tool that reads an ONC JSON file and validates it with the chromeos ONC Validator, supporting options for managed ONC, policies, and error strictness.
+// ---
+
 #include "chromeos/components/onc/onc_validator.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of non_empty_configuration.json.
+type: test
+title: Non-empty OOBE configuration
+summary: Simple non-empty OOBE configuration used to test that a configuration file is loaded correctly.

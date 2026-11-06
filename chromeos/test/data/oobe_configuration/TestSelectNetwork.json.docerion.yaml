@@ -1,0 +1,4 @@
+# Docerion header of TestSelectNetwork.json.
+type: test
+title: TestSelectNetwork OOBE configuration fixture
+summary: Test fixture OOBE configuration that advances the welcome screen and selects a network by GUID.

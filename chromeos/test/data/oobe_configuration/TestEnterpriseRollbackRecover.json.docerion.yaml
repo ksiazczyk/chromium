@@ -1,0 +1,4 @@
+# Docerion header of TestEnterpriseRollbackRecover.json.
+type: test
+title: TestEnterpriseRollbackRecover OOBE configuration fixture
+summary: Test fixture OOBE configuration that restores enrollment after enterprise rollback, auto-accepts the EULA, and configures a WPA-PSK WiFi network.

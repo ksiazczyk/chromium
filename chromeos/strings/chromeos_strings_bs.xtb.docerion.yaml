@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_bs.xtb.
+type: data
+title: ChromeOS strings in Bosnian
+summary: Translation bundle with ChromeOS UI strings localized into Bosnian for use in the strings build.

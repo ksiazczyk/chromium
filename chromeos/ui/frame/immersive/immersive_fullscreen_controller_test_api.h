@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive fullscreen controller test API header
+// summary: Declares ImmersiveFullscreenControllerTestApi, letting tests access private controller state and disable animations globally.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FULLSCREEN_CONTROLLER_TEST_API_H_
 #define CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FULLSCREEN_CONTROLLER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPG to PDF conversion implementation
+// summary: Implements conversion of JPEG images into a single PDF using Skia, with optional 180-degree page rotation and DPI-based page sizing.
+// ---
+
 #include "chromeos/utils/pdf_conversion.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the chromeos UI frame directory
+summary: Lists the owners responsible for reviewing changes in the chromeos/ui/frame directory.

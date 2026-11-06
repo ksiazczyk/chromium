@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS desks histogram enums header
+// summary: Defines the DesksAssignToAllDesksSource enum and histogram name used to log to UMA how windows are assigned to desks, kept in sync with enums.xml.
+// ---
+
 #ifndef CHROMEOS_UI_WM_DESKS_CHROMEOS_DESKS_HISTOGRAM_ENUMS_H_
 #define CHROMEOS_UI_WM_DESKS_CHROMEOS_DESKS_HISTOGRAM_ENUMS_H_
 

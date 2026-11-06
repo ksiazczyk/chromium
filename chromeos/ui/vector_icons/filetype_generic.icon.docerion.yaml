@@ -1,0 +1,4 @@
+# Docerion header of filetype_generic.icon.
+type: asset
+title: Generic file type icon
+summary: Vector icon definition drawing a generic document file type glyph on a 20dp canvas for ChromeOS UI.

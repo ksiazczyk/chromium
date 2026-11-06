@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderView implementation for frame header painting
+// summary: Implements HeaderView, the view that paints the frame header with title, avatar icon and caption buttons and handles immersive fullscreen sliding.
+// ---
+
 #include "chromeos/ui/frame/header_view.h"
 
 #include <memory>

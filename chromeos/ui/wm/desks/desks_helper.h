@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksHelper interface header
+// summary: Declares the DesksHelper interface that lets Chrome clients query desk membership, active desk state, and move windows between virtual desks.
+// ---
+
 #ifndef CHROMEOS_UI_WM_DESKS_DESKS_HELPER_H_
 #define CHROMEOS_UI_WM_DESKS_DESKS_HELPER_H_
 

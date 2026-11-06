@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to Desks menu model implementation
+// summary: Builds the Move to Desks menu contents, adding the title, assign-to-all-desks item, and per-desk check items with separator logic.
+// ---
+
 #include "chromeos/ui/frame/desks/move_to_desks_menu_model.h"
 
 #include "chromeos/strings/grit/chromeos_strings.h"

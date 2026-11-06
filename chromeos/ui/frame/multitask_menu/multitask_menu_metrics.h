@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multitask menu metrics enums and histogram names
+// summary: Defines enums, histogram names and recording helpers for multitask menu entry and action usage metrics.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_METRICS_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_METRICS_H_
 

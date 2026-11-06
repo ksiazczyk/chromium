@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepFullscreenForUrlChecker implementation
+// summary: Implements the checker that watches the fullscreen URL allow-list preference and decides whether a window URL may keep fullscreen after unlock.
+// ---
+
 #include "chromeos/ui/wm/fullscreen/keep_fullscreen_for_url_checker.h"
 
 #include "chromeos/ui/wm/fullscreen/pref_names.h"

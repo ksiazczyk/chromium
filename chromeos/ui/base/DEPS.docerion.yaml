@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chromeos/ui/base
+summary: Specifies the allowed include directories for code in chromeos/ui/base, such as ui/base, ui/gfx, ui/color, ui/display and third_party/skia.

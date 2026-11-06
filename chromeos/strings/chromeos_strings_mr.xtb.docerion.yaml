@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_mr.xtb.
+type: data
+title: ChromeOS strings in Marathi (mr)
+summary: XML translation bundle providing ChromeOS UI strings in Marathi as part of the chromeos/strings localization set.

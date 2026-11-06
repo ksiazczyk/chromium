@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history submenu model header
+// summary: Declares the SimpleMenuModel subclass used to show clipboard history items in render view and textfield context submenus.
+// ---
+
 #ifndef CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_SUBMENU_MODEL_H_
 #define CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_SUBMENU_MODEL_H_
 

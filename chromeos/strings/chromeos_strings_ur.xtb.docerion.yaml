@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ur.xtb.
+type: data
+title: Urdu ChromeOS translation bundle
+summary: XML translation bundle providing Urdu translations of ChromeOS user interface strings, keyed by numeric message IDs.

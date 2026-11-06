@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapController implementation
+// summary: Implements the SnapController singleton, storing the global instance pointer and providing the Get accessor for Ash-provided snap handling.
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/snap_controller.h"
 
 #include "base/check_op.h"

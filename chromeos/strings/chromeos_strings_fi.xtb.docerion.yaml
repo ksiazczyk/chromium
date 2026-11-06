@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_fi.xtb.
+type: data
+title: ChromeOS strings translation bundle (Finnish)
+summary: Finnish XTB translation bundle with localized ChromeOS UI strings, keyed by numeric message IDs and used to render the ChromeOS interface in Finnish.

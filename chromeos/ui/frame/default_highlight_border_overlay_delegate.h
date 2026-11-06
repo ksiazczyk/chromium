@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default highlight border overlay delegate declaration
+// summary: Declares the default HighlightBorderOverlayDelegate that decides per-window highlight border rounding.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_DEFAULT_HIGHLIGHT_BORDER_OVERLAY_DELEGATE_H_
 #define CHROMEOS_UI_FRAME_DEFAULT_HIGHLIGHT_BORDER_OVERLAY_DELEGATE_H_
 

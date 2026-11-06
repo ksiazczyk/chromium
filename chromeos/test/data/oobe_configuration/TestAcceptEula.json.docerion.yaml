@@ -1,0 +1,4 @@
+# Docerion header of TestAcceptEula.json.
+type: test
+title: TestAcceptEula OOBE configuration fixture
+summary: Test fixture OOBE configuration that advances the welcome screen, selects a network, and auto-accepts the EULA with statistics reporting.

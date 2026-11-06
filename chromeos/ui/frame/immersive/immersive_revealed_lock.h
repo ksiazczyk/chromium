@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive revealed lock header
+// summary: Declares ImmersiveRevealedLock, a lock keeping top-of-window views revealed while held, with an optional reveal animation.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_REVEALED_LOCK_H_
 #define CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_REVEALED_LOCK_H_
 

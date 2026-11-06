@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Haptics touchpad effect utility header
+// summary: Declares functions to play haptic touchpad effects and toggle effects in Ash, plus a testing hook for the input controller.
+// ---
+
 #ifndef CHROMEOS_UTILS_HAPTICS_UTIL_H_
 #define CHROMEOS_UTILS_HAPTICS_UTIL_H_
 

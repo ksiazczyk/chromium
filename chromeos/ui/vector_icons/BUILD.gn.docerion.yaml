@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS UI vector icons build file
+summary: GN build configuration that aggregates the .icon files into the chromeos_ui_vector_icons target and exposes them as a vector_icons source_set.

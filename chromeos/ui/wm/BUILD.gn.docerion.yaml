@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the chromeos ui wm source set
+summary: Defines the wm source set with its source files and dependencies for ChromeOS window management code.

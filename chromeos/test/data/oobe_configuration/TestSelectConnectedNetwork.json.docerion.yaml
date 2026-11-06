@@ -1,0 +1,4 @@
+# Docerion header of TestSelectConnectedNetwork.json.
+type: test
+title: TestSelectConnectedNetwork OOBE configuration fixture
+summary: Test fixture OOBE configuration that advances the welcome screen and uses the already connected network.

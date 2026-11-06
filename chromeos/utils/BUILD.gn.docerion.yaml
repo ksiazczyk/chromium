@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for chromeos utils
+summary: Defines the utils source set with haptics and PDF conversion sources plus a testonly unit_tests target for Chrome OS builds.

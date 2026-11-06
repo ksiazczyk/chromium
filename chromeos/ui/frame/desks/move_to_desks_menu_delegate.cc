@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to Desks menu delegate implementation
+// summary: Implements the menu delegate for the Move to Desks menu, handling command checks, labels, execution, and assign-to-all-desks metrics.
+// ---
+
 #include "chromeos/ui/frame/desks/move_to_desks_menu_delegate.h"
 
 #include "base/metrics/histogram_macros.h"

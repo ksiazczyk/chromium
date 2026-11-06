@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame back button class
+// summary: Declares the frame caption button that sends back key events when pressed, used in Chrome hosted app windows.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_BACK_BUTTON_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_BACK_BUTTON_H_
 

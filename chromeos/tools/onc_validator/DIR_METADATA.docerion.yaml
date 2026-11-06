@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the onc_validator directory
+summary: Declares the Monorail component and public Buganizer component ID used for bug tracking of the onc_validator tool.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepFullscreenForUrlChecker class header
+// summary: Declares the KeepFullscreenForUrlChecker class that checks user preferences to decide if fullscreen may be kept for a given window URL.
+// ---
+
 #ifndef CHROMEOS_UI_WM_FULLSCREEN_KEEP_FULLSCREEN_FOR_URL_CHECKER_H_
 #define CHROMEOS_UI_WM_FULLSCREEN_KEEP_FULLSCREEN_FOR_URL_CHECKER_H_
 

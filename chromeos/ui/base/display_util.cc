@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display orientation utilities implementation
+// summary: Implements helpers that map display rotations to orientation types and back, plus checks for primary, landscape and portrait orientations.
+// ---
+
 #include "chromeos/ui/base/display_util.h"
 
 #include "base/notreached.h"

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_it.xtb.
+type: data
+title: ChromeOS UI strings for Italian
+summary: XML translation bundle providing Italian translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

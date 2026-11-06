@@ -1,0 +1,4 @@
+# Docerion header of invalid_model_metadata.json.
+type: test
+title: Invalid Smart Dim model metadata
+summary: Test fixture with intentionally invalid Smart Dim model metadata, used to verify that validation rejects malformed model descriptions.

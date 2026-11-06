@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameHeader window header helper class declaration
+// summary: Declares FrameHeader, a helper class that manages ChromeOS window frame headers, including painting, layout, header heights and frame animation.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_FRAME_HEADER_H_
 #define CHROMEOS_UI_FRAME_FRAME_HEADER_H_
 

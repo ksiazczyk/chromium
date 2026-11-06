@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_hy.xtb.
+type: data
+title: ChromeOS UI strings for Armenian
+summary: XML translation bundle providing Armenian translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

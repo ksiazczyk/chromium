@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history utility header
+// summary: Declares helpers for querying clipboard history descriptors, pasting items by id, and getting icons for descriptors.
+// ---
+
 #ifndef CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_UTIL_H_
 #define CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_UTIL_H_
 

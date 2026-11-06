@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_zu.xtb.
+type: data
+title: ChromeOS strings translation bundle for Zulu
+summary: Localized ChromeOS UI strings in Zulu, stored as an XML translation bundle mapping message IDs to translated text with placeholders.

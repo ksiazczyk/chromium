@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive fullscreen controller implementation
+// summary: Implements the immersive fullscreen controller that reveals and hides top-of-window views via mouse, touch and gesture edge interactions.
+// ---
+
 #include "chromeos/ui/frame/immersive/immersive_fullscreen_controller.h"
 
 #include <set>

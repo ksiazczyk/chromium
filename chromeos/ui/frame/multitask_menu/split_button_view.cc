@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split button view implementation
+// summary: Implements the divided split buttons that snap a window primary or secondary, with painting and accessibility names.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/split_button_view.h"
 
 #include <memory>

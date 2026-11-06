@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core scheduling support implementation
+// summary: Detects kernel core scheduling support via prctl and enables it when the CPU is vulnerable to L1TF or MDS, and counts physical cores.
+// ---
+
 #include "chromeos/system/core_scheduling.h"
 
 #include <errno.h>

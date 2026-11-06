@@ -1,0 +1,4 @@
+# Docerion header of TestSkipHIDScreen.json.
+type: test
+title: TestSkipHIDScreen OOBE configuration
+summary: Test OOBE configuration that sets skipHidScreen to true so the HID screen is skipped during out-of-box setup.

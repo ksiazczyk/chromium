@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge utility header for notifier framework histograms
+// summary: Declares the notifier framework nudge shown-count histogram constant and a helper that builds time-to-action histogram names from a time delta.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_NUDGE_UTIL_H_
 #define CHROMEOS_UI_BASE_NUDGE_UTIL_H_
 

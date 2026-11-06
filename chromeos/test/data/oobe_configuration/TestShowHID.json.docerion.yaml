@@ -1,0 +1,4 @@
+# Docerion header of TestShowHID.json.
+type: test
+title: TestShowHID OOBE configuration fixture
+summary: Test fixture OOBE configuration that leaves welcomeNext disabled so the HID screen is shown, with a note explaining the reason.

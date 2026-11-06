@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloatControllerBase implementation
+// summary: Implements the FloatControllerBase singleton, managing its global instance and lifetime.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/float_controller_base.h"
 
 #include "base/check_op.h"

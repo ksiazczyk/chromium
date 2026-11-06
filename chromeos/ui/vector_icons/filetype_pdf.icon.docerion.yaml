@@ -1,0 +1,4 @@
+# Docerion header of filetype_pdf.icon.
+type: asset
+title: PDF file type icon
+summary: Vector icon definition drawing the PDF file type badge used in the ChromeOS UI, expressed as path commands on a 20dp canvas.

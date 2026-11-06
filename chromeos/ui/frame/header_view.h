@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderView class declaration
+// summary: Declares HeaderView, a view that paints the frame header including title and caption buttons and slides on and off screen in immersive fullscreen.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_HEADER_VIEW_H_
 #define CHROMEOS_UI_FRAME_HEADER_VIEW_H_
 

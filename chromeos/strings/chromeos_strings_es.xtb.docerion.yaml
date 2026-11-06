@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_es.xtb.
+type: data
+title: ChromeOS strings translation bundle for Spanish
+summary: XML translation bundle holding Spanish translations of ChromeOS interface strings, keyed by numeric message IDs.

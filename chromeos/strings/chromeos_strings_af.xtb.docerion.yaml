@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_af.xtb.
+type: data
+title: ChromeOS strings in Afrikaans
+summary: Translation bundle with ChromeOS UI strings localized into Afrikaans for use in the strings build.

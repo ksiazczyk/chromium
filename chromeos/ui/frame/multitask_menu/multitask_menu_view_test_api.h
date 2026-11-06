@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitask menu view test API
+// summary: Declares a wrapper that exposes MultitaskMenuView internal state, such as buttons and reversed flag, to test functions.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_VIEW_TEST_API_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_MENU_VIEW_TEST_API_H_
 

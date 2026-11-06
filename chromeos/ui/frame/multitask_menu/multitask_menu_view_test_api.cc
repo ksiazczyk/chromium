@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitask menu view test API implementation
+// summary: Implements accessors that expose MultitaskMenuView internal button state for use in tests.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_view_test_api.h"
 
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_view.h"

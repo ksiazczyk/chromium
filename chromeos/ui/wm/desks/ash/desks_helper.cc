@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksHelper singleton implementation
+// summary: Implements the DesksHelper class, managing a global singleton instance with a static Get() accessor for desks-related window management support in ChromeOS.
+// ---
+
 #include "chromeos/ui/wm/desks/desks_helper.h"
 
 #include "base/check_op.h"

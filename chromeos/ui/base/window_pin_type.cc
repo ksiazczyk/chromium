@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowPinType stream output implementation
+// summary: Implements the ostream operator that prints WindowPinType enum values as readable strings such as kPinned and kTrustedPinned.
+// ---
+
 #include "chromeos/ui/base/window_pin_type.h"
 
 #include "base/notreached.h"

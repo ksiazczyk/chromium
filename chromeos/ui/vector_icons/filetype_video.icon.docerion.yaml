@@ -1,0 +1,4 @@
+# Docerion header of filetype_video.icon.
+type: asset
+title: Video file type icon
+summary: Vector icon definition drawing the video file type badge used in the ChromeOS UI, expressed as path commands on a 20dp canvas.

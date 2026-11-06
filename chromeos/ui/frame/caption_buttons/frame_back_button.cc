@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame back button implementation
+// summary: Implements the frame back button that sends browser back key press and release events, used in Chrome hosted app windows.
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_back_button.h"
 
 #include <tuple>

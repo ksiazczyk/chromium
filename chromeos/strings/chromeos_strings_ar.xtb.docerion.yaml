@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ar.xtb.
+type: data
+title: ChromeOS strings in Arabic
+summary: Translation bundle with ChromeOS UI strings localized into Arabic for use in the strings build.

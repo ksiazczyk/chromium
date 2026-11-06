@@ -1,0 +1,4 @@
+# Docerion header of TestSwitchLanguageIME.json.
+type: test
+title: TestSwitchLanguageIME OOBE configuration
+summary: Test OOBE configuration that switches the out-of-box language to German and selects the Neo German keyboard input method.

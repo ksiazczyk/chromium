@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interior resize handle window targeter implementation
+// summary: Implements a window targeter that reserves hit-test space for resize handles inside top-level windows and defers to the parent targeter where appropriate.
+// ---
+
 #include "chromeos/ui/wm/interior_resize_handler_targeter.h"
 
 #include "chromeos/ui/base/chromeos_ui_constants.h"

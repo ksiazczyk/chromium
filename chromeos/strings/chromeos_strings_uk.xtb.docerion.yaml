@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_uk.xtb.
+type: data
+title: Ukrainian ChromeOS translation bundle
+summary: XML translation bundle providing Ukrainian translations of ChromeOS user interface strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_en-GB.xtb.
+type: data
+title: ChromeOS strings translation bundle for British English
+summary: XML translation bundle holding British English translations of ChromeOS interface strings, keyed by numeric message IDs.

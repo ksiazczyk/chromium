@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the chromeos system component
+summary: Defines the chromeos_system GN component with core scheduling and CPU temperature reader sources plus a testonly unit_tests target.

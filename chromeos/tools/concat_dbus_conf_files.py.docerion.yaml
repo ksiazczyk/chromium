@@ -1,0 +1,4 @@
+# Docerion header of concat_dbus_conf_files.py.
+type: script
+title: Concatenate D-Bus busconfig files
+summary: Python tool that merges multiple D-Bus busconfig XML files into a single output file with the proper DOCTYPE header.

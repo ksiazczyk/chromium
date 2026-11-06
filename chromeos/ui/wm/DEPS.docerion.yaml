@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the chromeos ui wm folder
+summary: Lists the include directories that code in the chromeos ui wm folder is allowed to depend on.

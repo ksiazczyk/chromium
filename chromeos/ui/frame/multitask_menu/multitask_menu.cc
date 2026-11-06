@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskMenu implementation
+// summary: Implements the bubble menu attached to the frame size button, selecting available layout buttons and reacting to display and window changes.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_menu.h"
 
 #include <memory>

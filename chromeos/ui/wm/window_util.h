@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility header for floating and resize handling
+// summary: Declares window management helpers for resize handle installation, display orientation checks, and floated window sizing and floatability in tablet mode.
+// ---
+
 #ifndef CHROMEOS_UI_WM_WINDOW_UTIL_H_
 #define CHROMEOS_UI_WM_WINDOW_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of redeem.icon.
+type: asset
+title: Redeem icon
+summary: Defines the redeem vector icon for ChromeOS UI as a sequence of vector drawing commands.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display orientation utilities header
+// summary: Declares the OrientationType enum and exported functions for converting between display rotations and orientation types and querying display layout.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_DISPLAY_UTIL_H_
 #define CHROMEOS_UI_BASE_DISPLAY_UTIL_H_
 

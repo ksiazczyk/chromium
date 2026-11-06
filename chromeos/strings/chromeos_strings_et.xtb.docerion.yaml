@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_et.xtb.
+type: data
+title: ChromeOS strings translation bundle for Estonian
+summary: XML translation bundle holding Estonian translations of ChromeOS interface strings, keyed by numeric message IDs.
