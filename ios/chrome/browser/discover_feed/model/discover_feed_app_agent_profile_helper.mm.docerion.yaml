@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_app_agent_profile_helper.mm.
+type: source
+title: DiscoverFeedAppAgentProfileHelper implementation
+summary: Implements per-profile feed refresh, checking profile initialization, sign-in state, and default search engine before refreshing the feed.

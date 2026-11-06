@@ -1,0 +1,4 @@
+# Docerion header of java_script_dialog_blocking_state_unittest.mm.
+type: test
+title: Unit tests for JavaScript dialog blocking state
+summary: Verifies blocking option visibility and how blocking is reset or continued across different navigation types.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Discover feed model include rules
+summary: Lists the directories whose headers the Discover feed model code is allowed to include.

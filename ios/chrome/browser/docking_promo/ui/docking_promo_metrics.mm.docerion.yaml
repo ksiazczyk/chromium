@@ -1,0 +1,4 @@
+# Docerion header of docking_promo_metrics.mm.
+type: source
+title: Docking promo metrics implementation
+summary: Records Docking Promo actions and impressions into UMA histograms segmented by user eligibility type.

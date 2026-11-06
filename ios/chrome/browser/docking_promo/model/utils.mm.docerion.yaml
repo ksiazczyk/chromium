@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Docking promo eligibility implementation
+summary: Implements DockingPromoEligibility by inspecting feature engagement events for low engagement and recent home screen icon launches.

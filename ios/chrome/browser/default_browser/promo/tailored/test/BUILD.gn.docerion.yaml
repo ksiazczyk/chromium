@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tailored default browser promo unit tests
+summary: Defines the testonly unit_tests source_set that builds the base default browser promo view provider unit tests with their dependencies.

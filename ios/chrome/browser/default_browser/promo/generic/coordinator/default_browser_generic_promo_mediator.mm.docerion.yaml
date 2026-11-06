@@ -1,0 +1,4 @@
+# Docerion header of default_browser_generic_promo_mediator.mm.
+type: source
+title: Default browser generic promo mediator implementation
+summary: Implements the mediator's primary action by marking the Set Up List default browser item complete and opening the iOS default browser settings page.

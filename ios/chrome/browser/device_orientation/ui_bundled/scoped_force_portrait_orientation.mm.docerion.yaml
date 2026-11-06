@@ -1,0 +1,4 @@
+# Docerion header of scoped_force_portrait_orientation.mm.
+type: source
+title: ScopedForcePortraitOrientation implementation
+summary: Implements the constructor and destructor that increment and decrement the portrait orientation counter on the manager.

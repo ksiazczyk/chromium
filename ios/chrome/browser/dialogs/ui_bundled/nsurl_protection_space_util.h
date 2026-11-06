@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSURLProtectionSpace utility header
+// summary: Declares helpers that describe, validate and identify requesters of HTTP authentication dialogs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_NSURL_PROTECTION_SPACE_UTIL_H_
 #define IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_NSURL_PROTECTION_SPACE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_service.mm.
+type: source
+title: Reauthentication service implementation
+summary: Implements ReauthenticationService by holding the reauthentication module, returning it on request and clearing it at shutdown.

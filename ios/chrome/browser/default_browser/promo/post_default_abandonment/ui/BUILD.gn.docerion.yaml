@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the post-default abandonment promo UI
+summary: Defines the ui source_set listing the promo provider sources and their build dependencies.

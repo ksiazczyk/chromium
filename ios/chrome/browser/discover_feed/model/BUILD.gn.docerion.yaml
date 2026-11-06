@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Discover feed model GN build targets
+summary: Defines the GN source sets, sources, and dependencies for the Discover feed model, factory, app agent, refresher, visibility agent, and constants targets.

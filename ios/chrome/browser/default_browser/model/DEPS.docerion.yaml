@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for default browser model
+summary: Lists the directories that code in the default browser model folder is allowed to include from.

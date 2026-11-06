@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog blocking state header
+// summary: Declares a WebState user data helper that tracks whether JavaScript dialogs should be blocked for a WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_JAVA_SCRIPT_DIALOG_BLOCKING_STATE_H_
 #define IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_JAVA_SCRIPT_DIALOG_BLOCKING_STATE_H_
 

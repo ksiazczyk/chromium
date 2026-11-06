@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser model build targets
+summary: Defines GN source sets for the default browser model, including utils, interest signals, features, test support and unit tests.

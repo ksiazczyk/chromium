@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for device orientation ui_bundled
+summary: Defines the ui_bundled source set with portrait orientation sources and the unit_tests source set depending on gtest.

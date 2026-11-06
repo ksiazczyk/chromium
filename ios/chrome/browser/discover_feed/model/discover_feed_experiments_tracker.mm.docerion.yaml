@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_experiments_tracker.mm.
+type: source
+title: Discover feed experiments tracker implementation
+summary: Registers Discover feed experiments as synthetic field trials and persists them in profile preferences.

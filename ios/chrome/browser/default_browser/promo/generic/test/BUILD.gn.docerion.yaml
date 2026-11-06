@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for default browser generic promo unit tests
+summary: Defines the unit_tests source set and its dependencies for testing the default browser generic promo coordinator.

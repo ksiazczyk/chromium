@@ -1,0 +1,4 @@
+# Docerion header of base_default_browser_promo_view_provider_unittest.mm.
+type: test
+title: Base default browser promo view provider unit tests
+summary: Unit tests verifying that the tailored default browser promo view provider records the expected histograms and user actions on display and on primary and secondary button taps.

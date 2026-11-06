@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default status helper interface
+// summary: Declares the default_status helper that assigns clients to monthly reporting cohorts and triggers rate-limited default browser status API checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_H_
 

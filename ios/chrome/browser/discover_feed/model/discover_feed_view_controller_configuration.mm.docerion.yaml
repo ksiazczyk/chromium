@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_view_controller_configuration.mm.
+type: source
+title: Discover feed view controller configuration implementation
+summary: Implements the DiscoverFeedViewControllerConfiguration object used to configure the Discover feed view controller.

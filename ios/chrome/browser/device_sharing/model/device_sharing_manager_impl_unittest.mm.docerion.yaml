@@ -1,0 +1,4 @@
+# Docerion header of device_sharing_manager_impl_unittest.mm.
+type: test
+title: Device sharing manager implementation unit tests
+summary: Unit tests for the device sharing manager implementation, covering URL sharing, clearing, incognito behavior, and the handoff preference.

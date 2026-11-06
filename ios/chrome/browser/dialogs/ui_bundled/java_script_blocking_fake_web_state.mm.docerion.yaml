@@ -1,0 +1,4 @@
+# Docerion header of java_script_blocking_fake_web_state.mm.
+type: source
+title: JavaScript blocking fake web state implementation
+summary: Implements navigation simulation for the fake web state used by JavaScript dialog tests.

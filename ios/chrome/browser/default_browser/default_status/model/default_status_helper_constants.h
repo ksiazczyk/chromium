@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default status helper constants interface
+// summary: Declares the kCohortCount constant specifying the number of monthly reporting cohorts for the default status API.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of default_browser_promo_non_modal_coordinator_unittest.mm.
+type: test
+title: Default browser non-modal promo coordinator unit tests
+summary: Verifies the promo banner title and subtitle strings for the omnibox paste reason across experiment feature states.

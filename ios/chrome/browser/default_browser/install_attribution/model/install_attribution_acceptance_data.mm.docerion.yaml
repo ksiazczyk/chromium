@@ -1,0 +1,4 @@
+# Docerion header of install_attribution_acceptance_data.mm.
+type: source
+title: InstallAttributionAcceptanceData implementation
+summary: Implements NSSecureCoding encoding and decoding of the promo acceptance placement ID and timestamp.

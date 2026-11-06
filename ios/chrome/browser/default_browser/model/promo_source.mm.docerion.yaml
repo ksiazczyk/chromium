@@ -1,0 +1,4 @@
+# Docerion header of promo_source.mm.
+type: source
+title: Settings page source to string mapping
+summary: Maps DefaultBrowserSettingsPageSource values to the strings used as UMA histogram suffixes.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator
+summary: Allows includes from the contextual promo public and UI targets, feature engagement, BWG utils and confirmation alert UI.

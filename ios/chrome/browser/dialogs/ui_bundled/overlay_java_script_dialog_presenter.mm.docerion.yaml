@@ -1,0 +1,4 @@
+# Docerion header of overlay_java_script_dialog_presenter.mm.
+type: source
+title: Overlay JavaScript dialog presenter implementation
+summary: Runs JavaScript alert, confirm and prompt dialogs as overlay requests and updates the JavaScript dialog blocking state from user responses.

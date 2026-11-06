@@ -1,0 +1,4 @@
+# Docerion header of distiller_service_factory_unittest.mm.
+type: test
+title: Unit test for DistillerServiceFactory incognito redirection
+summary: Verifies that incognito profiles are redirected to the same DistillerService instance as the original profile.

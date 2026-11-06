@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_visibility_provider_configuration.mm.
+type: source
+title: Discover feed visibility provider configuration implementation
+summary: Implements the DiscoverFeedVisibilityProviderConfiguration object declared in the matching header.

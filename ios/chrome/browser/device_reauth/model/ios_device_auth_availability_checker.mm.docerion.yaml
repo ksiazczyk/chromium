@@ -1,0 +1,4 @@
+# Docerion header of ios_device_auth_availability_checker.mm.
+type: source
+title: iOS device auth availability checker implementation
+summary: Implements the iOS availability checker by delegating biometric and screen lock checks to the reauthentication module.

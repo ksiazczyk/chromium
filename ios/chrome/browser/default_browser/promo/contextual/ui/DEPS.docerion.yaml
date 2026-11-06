@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for the promo UI directory
+summary: Lists the include paths that the contextual default browser promo UI directory is allowed to depend on.

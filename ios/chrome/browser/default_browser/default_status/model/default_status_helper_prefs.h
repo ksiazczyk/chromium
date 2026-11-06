@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default status helper prefs interface
+// summary: Declares local state preference keys for cohort assignment, last successful call, next retry, and result, plus their registration function.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_PREFS_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_STATUS_MODEL_DEFAULT_STATUS_HELPER_PREFS_H_
 

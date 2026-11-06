@@ -1,0 +1,4 @@
+# Docerion header of utils_test_support.mm.
+type: test
+title: Default browser utils test support implementation
+summary: Implements test helpers that clear legacy promo keys, replace stored dictionaries, and simulate non-modal promo user interactions.

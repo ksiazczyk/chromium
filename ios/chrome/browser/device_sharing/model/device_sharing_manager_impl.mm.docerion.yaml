@@ -1,0 +1,4 @@
+# Docerion header of device_sharing_manager_impl.mm.
+type: source
+title: DeviceSharingManagerImpl implementation
+summary: Implements active browser and URL tracking, creating or clearing the HandoffManager based on the Handoff-to-other-devices preference.

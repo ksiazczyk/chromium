@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_visibility_browser_agent.mm.
+type: source
+title: Discover feed visibility browser agent implementation
+summary: Implements the visibility browser agent, lazily creating a visibility provider from profile prefs, feed, search engine, and regional capabilities services.

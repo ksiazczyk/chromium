@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser non-modal promo coordinator header
+// summary: Declares the InfobarCoordinator subclass that creates and manages the non-modal default browser promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_NON_MODAL_COORDINATOR_DEFAULT_BROWSER_PROMO_NON_MODAL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_NON_MODAL_COORDINATOR_DEFAULT_BROWSER_PROMO_NON_MODAL_COORDINATOR_H_
 

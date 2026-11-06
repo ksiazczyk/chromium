@@ -1,0 +1,4 @@
+# Docerion header of handoff_manager_egtest.mm.
+type: test
+title: Handoff manager Earl Grey tests
+summary: Earl Grey tests verifying that the handoff URL matches the active tab, including new tab pages, incognito tabs, and tab switching.

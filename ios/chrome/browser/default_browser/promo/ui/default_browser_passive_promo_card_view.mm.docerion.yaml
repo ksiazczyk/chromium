@@ -1,0 +1,4 @@
+# Docerion header of default_browser_passive_promo_card_view.mm.
+type: source
+title: Passive promo card view implementation
+summary: Builds the passive promo card view layout with localized title and description, close and action buttons, and an illustration chosen by branded asset build flags.

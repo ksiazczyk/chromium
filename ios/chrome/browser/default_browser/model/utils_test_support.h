@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser utils test support header
+// summary: Declares test helpers to clear, reset, and simulate default browser promo data stored in NSUserDefaults for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_UTILS_TEST_SUPPORT_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_MODEL_UTILS_TEST_SUPPORT_H_
 

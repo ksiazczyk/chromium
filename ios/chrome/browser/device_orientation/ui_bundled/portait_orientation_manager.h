@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortraitOrientationManager protocol header
+// summary: Declares the PortraitOrientationManager protocol with methods to increment and decrement a counter that blocks the UI in portrait mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UI_DEVICE_ORIENTATION_PORTAIT_ORIENTATION_MANAGER_H_
 #define IOS_CHROME_BROWSER_UI_DEVICE_ORIENTATION_PORTAIT_ORIENTATION_MANAGER_H_
 

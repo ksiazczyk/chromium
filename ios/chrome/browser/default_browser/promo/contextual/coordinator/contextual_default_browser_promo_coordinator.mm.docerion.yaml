@@ -1,0 +1,4 @@
+# Docerion header of contextual_default_browser_promo_coordinator.mm.
+type: source
+title: Contextual default browser promo coordinator implementation
+summary: Presents the promo as a bottom sheet with adaptive detents, records shown metrics, wires the mediator and view controller, and handles actions and dismissal.

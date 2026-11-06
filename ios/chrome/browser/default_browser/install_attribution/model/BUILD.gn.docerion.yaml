@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for install attribution model
+summary: Defines the model source set and a testonly unit_tests target with their dependencies for the iOS install attribution code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Docking promo eligibility enum and function declaration
+// summary: Declares the IOSDockingPromoEligibility enum and the DockingPromoEligibility function that categorizes users for the Docking Promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOCKING_PROMO_MODEL_UTILS_H_
 #define IOS_CHROME_BROWSER_DOCKING_PROMO_MODEL_UTILS_H_
 

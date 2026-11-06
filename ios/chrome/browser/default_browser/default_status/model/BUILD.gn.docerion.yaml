@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for default status model
+summary: Defines the model and unit_tests source sets for the iOS default status helper, listing sources and build dependencies.

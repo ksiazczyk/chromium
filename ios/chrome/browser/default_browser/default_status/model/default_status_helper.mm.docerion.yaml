@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper.mm.
+type: source
+title: Default status helper implementation
+summary: Implements cohort assignment, reporting window computation, and the system default status API call with a test override hook.

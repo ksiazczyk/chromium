@@ -1,0 +1,4 @@
+# Docerion header of handoff_manager_app_interface.mm.
+type: source
+title: Handoff manager app interface implementation
+summary: Implements the handoff test app interface by returning the current user activity URL from the profile's device sharing manager.

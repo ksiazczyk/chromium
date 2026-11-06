@@ -1,0 +1,4 @@
+# Docerion header of default_browser_instructions_view_controller_unittest.mm.
+type: test
+title: Default browser instructions view controller unit tests
+summary: Unit tests checking that the instructions view controller builds its view with the expected title, subtitle, steps and action buttons.

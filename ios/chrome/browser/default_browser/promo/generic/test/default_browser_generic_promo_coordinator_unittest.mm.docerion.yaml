@@ -1,0 +1,4 @@
+# Docerion header of default_browser_generic_promo_coordinator_unittest.mm.
+type: test
+title: Default browser generic promo coordinator unit tests
+summary: Unit tests for the generic default browser promo coordinator, verifying metrics and feature engagement events when the promo appears and Remind Me Later is tapped.

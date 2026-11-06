@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for reauthentication Earl Grey test support
+summary: Defines test-only source sets that bundle the reauthentication app interface and its stub with the dependencies needed by Earl Grey tests.

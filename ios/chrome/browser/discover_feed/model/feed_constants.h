@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed constants and enums
+// summary: Defines enums for feed start reasons, display strategy, update and layout update types, Discover feed eligibility, and the engaged-with-feed defaults key.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_FEED_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_FEED_CONSTANTS_H_
 

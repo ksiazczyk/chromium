@@ -1,0 +1,4 @@
+# Docerion header of install_attribution_helper_unittest.mm.
+type: test
+title: Install attribution helper unit tests
+summary: Unit tests verifying install attribution logging using stub acceptance data classes, histogram testers and overridden time.

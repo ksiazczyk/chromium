@@ -1,0 +1,4 @@
+# Docerion header of default_browser_generic_promo_coordinator.mm.
+type: source
+title: Default browser generic promo coordinator implementation
+summary: Implements the promo lifecycle, showing the instructions UI, recording metrics, handling confirmation alert actions, and managing feature engagement dismissal.

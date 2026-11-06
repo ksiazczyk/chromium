@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the docking promo model utils
+summary: Defines the utils source_set with its sources and dependencies for the docking promo model.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscoverFeedConfiguration interface
+// summary: Declares a configuration object holding the services and preferences, such as authentication, identity, sync, and metrics, used by the Discover feed service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_DISCOVER_FEED_MODEL_DISCOVER_FEED_CONFIGURATION_H_
 

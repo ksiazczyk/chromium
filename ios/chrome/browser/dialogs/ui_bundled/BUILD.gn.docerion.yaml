@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for iOS JavaScript dialog targets
+summary: Defines GN source sets and dependencies for the dialogs ui_bundled code, its fakes and its unit and Earl Grey tests.

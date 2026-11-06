@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Docking promo resources build file
+summary: GN build rule that bundles the docking promo JSON animations into the iOS app bundle as resources.

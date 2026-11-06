@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedForcePortraitOrientation class header
+// summary: Declares a non-copyable scoped C++ object that forces portrait orientation through a PortraitOrientationManager until destroyed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UI_DEVICE_ORIENTATION_SCOPED_FORCE_PORTRAIT_ORIENTATION_H_
 #define IOS_CHROME_BROWSER_UI_DEVICE_ORIENTATION_SCOPED_FORCE_PORTRAIT_ORIENTATION_H_
 

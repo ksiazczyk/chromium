@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript blocking fake web state header
+// summary: Declares a FakeWebState subclass that can simulate page loads and navigation starts for dialog tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_JAVA_SCRIPT_BLOCKING_FAKE_WEB_STATE_H_
 #define IOS_CHROME_BROWSER_DIALOGS_UI_BUNDLED_JAVA_SCRIPT_BLOCKING_FAKE_WEB_STATE_H_
 

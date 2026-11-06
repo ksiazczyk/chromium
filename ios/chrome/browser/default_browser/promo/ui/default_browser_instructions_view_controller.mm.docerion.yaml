@@ -1,0 +1,4 @@
+# Docerion header of default_browser_instructions_view_controller.mm.
+type: source
+title: Default browser instructions view controller implementation
+summary: Implements the instructions view controller, selecting Lottie animation assets for RTL, dark mode, iPad and default apps variants with localized animation text.

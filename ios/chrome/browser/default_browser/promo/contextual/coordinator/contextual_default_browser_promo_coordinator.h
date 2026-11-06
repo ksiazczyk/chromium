@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual default browser promo coordinator header
+// summary: Declares the coordinator that manages presentation and lifecycle of the contextual default browser promo, with a promo type initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_CONTEXTUAL_COORDINATOR_CONTEXTUAL_DEFAULT_BROWSER_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_CONTEXTUAL_COORDINATOR_CONTEXTUAL_DEFAULT_BROWSER_PROMO_COORDINATOR_H_
 

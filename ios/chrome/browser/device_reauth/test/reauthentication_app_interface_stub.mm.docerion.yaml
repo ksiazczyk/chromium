@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_app_interface_stub.mm.
+type: test
+title: Reauthentication app interface stub
+summary: Registers the reauthentication app interface as an Earl Grey stub class in the app main queue for test runs.

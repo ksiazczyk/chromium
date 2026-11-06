@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device reauth model dependency rules
+summary: Restricts includes in this directory to components/device_reauth and components/keyed_service/core.

@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_app_agent.mm.
+type: source
+title: DiscoverFeedAppAgent implementation
+summary: Implements the app agent, tracking per-profile helpers and triggering background feed refresh when the app enters the background.

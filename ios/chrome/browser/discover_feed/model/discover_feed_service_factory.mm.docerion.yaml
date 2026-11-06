@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_service_factory.mm.
+type: source
+title: Discover feed service factory implementation
+summary: Builds DiscoverFeedService instances by assembling a configuration from auth, sync, metrics, sign-in, and search engine dependencies.

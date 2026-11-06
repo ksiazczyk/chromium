@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Made for iOS default browser promo view provider header
+// summary: Declares the MadeForIOSDefaultBrowserPromoViewProvider class for the Made for iOS default browser promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_TAILORED_UI_MADE_FOR_IOS_DEFAULT_BROWSER_PROMO_VIEW_PROVIDER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_TAILORED_UI_MADE_FOR_IOS_DEFAULT_BROWSER_PROMO_VIEW_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauthentication service header
+// summary: Declares ReauthenticationService, a keyed service that owns and exposes the reauthentication module reused for a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_REAUTHENTICATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_REAUTHENTICATION_SERVICE_H_
 

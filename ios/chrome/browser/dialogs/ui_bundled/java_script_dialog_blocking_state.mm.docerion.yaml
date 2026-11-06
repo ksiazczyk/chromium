@@ -1,0 +1,4 @@
+# Docerion header of java_script_dialog_blocking_state.mm.
+type: source
+title: JavaScript dialog blocking state implementation
+summary: Tracks shown dialog counts and resets blocking state on user-initiated or document-changing navigations.

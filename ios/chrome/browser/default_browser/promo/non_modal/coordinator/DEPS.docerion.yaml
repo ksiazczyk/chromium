@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the promo coordinator
+summary: Restricts allowed includes in this directory to the feature engagement tracker factory and infobar UI.

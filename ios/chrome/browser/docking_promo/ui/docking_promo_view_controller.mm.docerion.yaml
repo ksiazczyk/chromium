@@ -1,0 +1,4 @@
+# Docerion header of docking_promo_view_controller.mm.
+type: source
+title: Docking promo view controller implementation
+summary: Configures the Docking Promo animation, dark mode colors, localized strings and accessibility identifier.

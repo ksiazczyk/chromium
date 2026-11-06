@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper_metrics_unittest.mm.
+type: test
+title: Default status helper metrics unit tests
+summary: Unit tests verifying heuristic assessment classification and the histogram values recorded by the default status metrics functions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Browser off-cycle promo display handler interface
+// summary: Declares the display handler the Promos Manager calls when a user becomes eligible for the off-cycle default browser promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_MODEL_DEFAULT_BROWSER_OFF_CYCLE_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_DEFAULT_BROWSER_PROMO_MODEL_DEFAULT_BROWSER_OFF_CYCLE_PROMO_DISPLAY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authenticator_unittest.mm.
+type: test
+title: iOS device authenticator unit tests
+summary: Unit tests verifying that IOSDeviceAuthenticator skips reauthentication within the valid period and re-prompts after expiry or failure using a fake module.

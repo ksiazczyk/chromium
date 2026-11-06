@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Default browser generic promo coordinator DEPS include rules
+summary: Specifies allowed include rules for the coordinator directory, covering feature engagement, NTP, and promos manager dependencies.

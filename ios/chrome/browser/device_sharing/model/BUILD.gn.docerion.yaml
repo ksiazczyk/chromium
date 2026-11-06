@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS device sharing model
+summary: Defines source sets and dependencies for the device sharing model, its unit tests and Earl Grey test support.

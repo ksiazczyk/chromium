@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for default browser promo UI
+summary: Defines the GN source set and dependencies for the iOS default browser promo UI components.

@@ -1,0 +1,4 @@
+# Docerion header of default_status_helper_metrics.mm.
+type: source
+title: Default status helper metrics implementation
+summary: Implements histogram recording for default status API results, including per-cohort histograms and heuristic assessments at 1 to 21 day intervals.

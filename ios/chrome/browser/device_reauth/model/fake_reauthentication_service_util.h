@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake reauthentication service util header
+// summary: Declares CreateFakeReauthService, which builds a reauthentication service backed by a fake reauthentication module for testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_FAKE_REAUTHENTICATION_SERVICE_UTIL_H_
 #define IOS_CHROME_BROWSER_DEVICE_REAUTH_MODEL_FAKE_REAUTHENTICATION_SERVICE_UTIL_H_
 

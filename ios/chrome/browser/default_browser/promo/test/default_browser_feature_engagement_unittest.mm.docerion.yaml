@@ -1,0 +1,4 @@
+# Docerion header of default_browser_feature_engagement_unittest.mm.
+type: test
+title: Default browser feature engagement unit tests
+summary: Unit tests verifying that default browser promos, including the remind me later reminder, trigger only when feature engagement conditions are met.

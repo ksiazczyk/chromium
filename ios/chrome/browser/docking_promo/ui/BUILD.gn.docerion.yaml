@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Docking promo UI build configuration
+summary: GN build file defining the ui source set with its sources, dependencies and frameworks for the Docking Promo.
