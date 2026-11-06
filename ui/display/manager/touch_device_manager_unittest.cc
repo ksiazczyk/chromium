@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchDeviceManager unit tests
+// summary: Tests touch device to display association logic across internal, external and fallback touchscreen devices.
+// ---
+
 #include "ui/display/manager/touch_device_manager.h"
 
 #include <memory>

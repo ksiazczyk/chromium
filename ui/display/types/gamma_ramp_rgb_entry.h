@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GammaRampRGBEntry struct header
+// summary: Defines a single gamma correction table entry with 16-bit red, green, and blue components for GPU gamma ramps.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_GAMMA_RAMP_RGB_ENTRY_H_
 #define UI_DISPLAY_TYPES_GAMMA_RAMP_RGB_ENTRY_H_
 

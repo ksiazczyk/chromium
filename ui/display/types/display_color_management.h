@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GammaCurve and color calibration structures
+// summary: Declares GammaCurve with RGB lookup tables plus ColorCalibration and ColorTemperatureAdjustment structures for display color transformations.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_COLOR_MANAGEMENT_H_
 #define UI_DISPLAY_TYPES_DISPLAY_COLOR_MANAGEMENT_H_
 

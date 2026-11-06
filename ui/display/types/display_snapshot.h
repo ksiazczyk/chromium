@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySnapshot class header
+// summary: Declares the DisplaySnapshot class capturing a display's state, including modes, EDID, color info, and connector details.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_SNAPSHOT_H_
 #define UI_DISPLAY_TYPES_DISPLAY_SNAPSHOT_H_
 

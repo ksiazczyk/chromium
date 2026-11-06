@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamma curve and display color management implementation
+// summary: Implements GammaCurve construction, concatenation, gamma and scale curves, and LUT interpolation for display color management.
+// ---
+
 #include "ui/display/types/display_color_management.h"
 
 #include <cmath>

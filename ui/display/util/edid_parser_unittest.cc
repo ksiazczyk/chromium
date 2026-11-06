@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EDID parser unit tests
+// summary: Unit tests for the EDID parser, using sample EDID blobs from real devices to verify display name, size, and serial number parsing.
+// ---
+
 #include "ui/display/util/edid_parser.h"
 
 #include <stdint.h>

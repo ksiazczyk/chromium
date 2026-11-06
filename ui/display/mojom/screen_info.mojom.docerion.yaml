@@ -1,0 +1,4 @@
+# Docerion header of screen_info.mojom.
+type: source
+title: ScreenInfo mojom struct definition
+summary: Mojom definition of the ScreenInfo struct describing screen properties such as scale factor, color spaces, orientation, and refresh rate.

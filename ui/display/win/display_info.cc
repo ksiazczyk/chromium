@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfo implementation
+// summary: Implements DisplayInfo, which gathers Windows monitor parameters and derives stable display IDs from monitor information.
+// ---
+
 #include "ui/display/win/display_info.h"
 
 #include "base/hash/hash.h"

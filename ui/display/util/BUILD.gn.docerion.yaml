@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for display util
+summary: Defines the display_util component, the gpu_info_util source set, and the edid_parser fuzzer target with their sources and dependencies.

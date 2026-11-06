@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info entry builder header
+// summary: Declares BuildGpuInfoEntry overloads that build description and value dictionaries used by internal browser diagnostic pages such as the GPU info page.
+// ---
+
 #ifndef UI_DISPLAY_UTIL_GPU_INFO_UTIL_H_
 #define UI_DISPLAY_UTIL_GPU_INFO_UTIL_H_
 

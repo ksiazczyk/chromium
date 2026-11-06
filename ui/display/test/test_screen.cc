@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test screen implementation
+// summary: Implements a dummy single-display Screen with a fake cursor point and overridable tablet state for tests.
+// ---
+
 #include "ui/display/test/test_screen.h"
 
 #include <vector>

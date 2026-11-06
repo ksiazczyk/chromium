@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action logger header
+// summary: Declares the ActionLogger test helper that records display actions and returns them as a comma-separated string.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TEST_ACTION_LOGGER_H_
 #define UI_DISPLAY_MANAGER_TEST_ACTION_LOGGER_H_
 

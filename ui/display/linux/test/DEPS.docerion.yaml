@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Linux display test directory
+summary: Grants the Linux display test directory permission to include ui/aura/screen_ozone.h.

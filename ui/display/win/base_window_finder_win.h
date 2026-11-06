@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base window finder class for Windows window iteration
+// summary: Defines an abstract base class for locating windows via Win32 iteration, with subclasses overriding ShouldStopIterating to end the search.
+// ---
+
 #ifndef UI_DISPLAY_WIN_BASE_WINDOW_FINDER_WIN_H_
 #define UI_DISPLAY_WIN_BASE_WINDOW_FINDER_WIN_H_
 

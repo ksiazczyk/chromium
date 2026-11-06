@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display connection type string conversion
+// summary: Implements DisplayConnectionTypeString, mapping display connection type enums to readable strings.
+// ---
+
 #include "ui/display/types/display_constants.h"
 
 #include "base/notreached.h"

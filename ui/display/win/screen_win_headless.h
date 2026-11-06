@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWinHeadless class header
+// summary: Declares ScreenWinHeadless, a ScreenWin subclass serving headless screen configurations and overriding monitor, display and window queries.
+// ---
+
 #ifndef UI_DISPLAY_WIN_SCREEN_WIN_HEADLESS_H_
 #define UI_DISPLAY_WIN_SCREEN_WIN_HEADLESS_H_
 

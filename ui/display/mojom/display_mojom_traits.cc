@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display Mojo traits implementation
+// summary: Implements Mojo conversions for display::Display enums like rotation, touch and accelerometer support and reads Display fields from Mojo data.
+// ---
+
 #include "ui/display/mojom/display_mojom_traits.h"
 
 #include "base/notreached.h"

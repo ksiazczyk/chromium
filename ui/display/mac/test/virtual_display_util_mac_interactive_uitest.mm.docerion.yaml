@@ -1,0 +1,4 @@
+# Docerion header of virtual_display_util_mac_interactive_uitest.mm.
+type: test
+title: Mac virtual display utility interactive UI tests
+summary: Interactive UI tests verifying virtual display creation, removal, reset and resolution presets on Mac.

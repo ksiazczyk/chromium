@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified desktop layout utilities header
+// summary: Declares the unified desktop layout matrix type and functions to validate matrices and build one from a display layout.
+// ---
+
 #ifndef UI_DISPLAY_UNIFIED_DESKTOP_UTILS_H_
 #define UI_DISPLAY_UNIFIED_DESKTOP_UTILS_H_
 

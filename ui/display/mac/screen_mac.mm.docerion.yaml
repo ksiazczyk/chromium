@@ -1,0 +1,4 @@
+# Docerion header of screen_mac.mm.
+type: source
+title: ScreenMac implementation
+summary: Implements the macOS Screen backend, building display::Display objects from NSScreen with work areas, scale factors, and HDR support.

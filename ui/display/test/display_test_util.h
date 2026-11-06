@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display test utility header
+// summary: Declares ScopedSetInternalDisplayIds, a gtest printer for Display, and display spec list creation helpers.
+// ---
+
 #ifndef UI_DISPLAY_TEST_DISPLAY_TEST_UTIL_H_
 #define UI_DISPLAY_TEST_DISPLAY_TEST_UTIL_H_
 

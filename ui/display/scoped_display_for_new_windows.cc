@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDisplayForNewWindows implementation
+// summary: Implements the scoped object that temporarily overrides the display used for new windows and restores the previous setting on destruction.
+// ---
+
 #include "ui/display/scoped_display_for_new_windows.h"
 
 #include "ui/display/screen.h"

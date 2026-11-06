@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for display manager utilities
+// summary: Unit tests verifying display zoom factor lists for various widths and device scale factors and display ID list generation.
+// ---
+
 #include "ui/display/manager/util/display_manager_util.h"
 
 #include <array>

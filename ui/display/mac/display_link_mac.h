@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayLinkMac interface and VSync callback types
+// summary: Declares the DisplayLinkMac base interface, VSyncParamsMac, and the VSync and presentation callback lifetime objects shared by macOS display link backends.
+// ---
+
 #ifndef UI_DISPLAY_MAC_DISPLAY_LINK_MAC_H_
 #define UI_DISPLAY_MAC_DISPLAY_LINK_MAC_H_
 

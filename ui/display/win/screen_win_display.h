@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWinDisplay class header
+// summary: Declares ScreenWinDisplay, which pairs a display::Display with pixel bounds, pixels per inch, screen rects and a cached HMONITOR for DPI calculations.
+// ---
+
 #ifndef UI_DISPLAY_WIN_SCREEN_WIN_DISPLAY_H_
 #define UI_DISPLAY_WIN_SCREEN_WIN_DISPLAY_H_
 

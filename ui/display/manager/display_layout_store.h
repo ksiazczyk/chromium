@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayLayoutStore class header
+// summary: Declares DisplayLayoutStore, which registers and retrieves display layouts for display ID lists and tracks forced mirror mode for tablet.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_LAYOUT_STORE_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_LAYOUT_STORE_H_
 

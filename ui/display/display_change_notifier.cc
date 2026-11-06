@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeNotifier implementation
+// summary: Implements diffing of old and new display lists to notify observers about added, removed and changed displays and workspace changes.
+// ---
+
 #include "ui/display/display_change_notifier.h"
 
 #include <stdint.h>

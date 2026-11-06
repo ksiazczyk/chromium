@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for ui/display
+summary: Maps the directory to the UI>Shell>UIFoundations monorail component and a Buganizer component ID.

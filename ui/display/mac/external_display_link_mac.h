@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalDisplayLinkMac header
+// summary: Declares ExternalDisplayLinkMac, a DisplayLinkMac that obtains VSync ticks from VSyncProviderMac instead of registering a CADisplayLink directly.
+// ---
+
 #ifndef UI_DISPLAY_MAC_EXTERNAL_DISPLAY_LINK_MAC_H_
 #define UI_DISPLAY_MAC_EXTERNAL_DISPLAY_LINK_MAC_H_
 

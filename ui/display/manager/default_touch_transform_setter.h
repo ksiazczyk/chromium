@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultTouchTransformSetter class header
+// summary: Declares DefaultTouchTransformSetter, the default TouchTransformSetter that configures touch device transforms through DeviceDataManager.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DEFAULT_TOUCH_TRANSFORM_SETTER_H_
 #define UI_DISPLAY_MANAGER_DEFAULT_TOUCH_TRANSFORM_SETTER_H_
 

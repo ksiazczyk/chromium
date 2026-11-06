@@ -1,0 +1,4 @@
+# Docerion header of cv_display_link_mac.mm.
+type: source
+title: CVDisplayLinkMac implementation
+summary: Implements CVDisplayLink callbacks, shared display link state, and conversion of CVTimeStamp values into VSync timing parameters.

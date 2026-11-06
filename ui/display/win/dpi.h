@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DPI and scale factor API
+// summary: Declares DPI and scale factor functions for Windows, including accessibility font scaling and internal unforced scale factor helpers.
+// ---
+
 #ifndef UI_DISPLAY_WIN_DPI_H_
 #define UI_DISPLAY_WIN_DPI_H_
 

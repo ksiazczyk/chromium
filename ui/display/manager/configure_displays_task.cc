@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configure displays task implementation
+// summary: Implements display modeset configuration with resolution downgrading on failure, plus UMA metrics for configuration outcomes and resolutions.
+// ---
+
 #include "ui/display/manager/configure_displays_task.h"
 
 #include <array>

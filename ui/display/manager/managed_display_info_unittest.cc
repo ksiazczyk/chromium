@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedDisplayInfo unit tests
+// summary: Tests parsing of display spec strings and ManagedDisplayInfo behavior such as overscan, rotation, zoom factor and color spaces.
+// ---
+
 #include "ui/display/manager/managed_display_info.h"
 
 #include "base/test/gtest_util.h"

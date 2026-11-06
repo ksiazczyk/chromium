@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DISPLAY_EXPORT macro definitions
+// summary: Defines the DISPLAY_EXPORT macro for exporting display component symbols on Windows and other component builds.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_EXPORT_H_
 #define UI_DISPLAY_DISPLAY_EXPORT_H_
 

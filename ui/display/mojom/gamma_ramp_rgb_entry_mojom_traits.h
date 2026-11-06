@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GammaRampRGBEntry mojom traits declarations
+// summary: Declares mojo StructTraits that map the display::GammaRampRGBEntry fields to the GammaRampRGBEntry mojom struct.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_GAMMA_RAMP_RGB_ENTRY_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_GAMMA_RAMP_RGB_ENTRY_MOJOM_TRAITS_H_
 

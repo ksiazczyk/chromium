@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UWP text scale factor header
+// summary: Declares UwpTextScaleFactor, providing access to the Windows text zoom accessibility scale factor with observer registration and testing hooks.
+// ---
+
 #ifndef UI_DISPLAY_WIN_UWP_TEXT_SCALE_FACTOR_H_
 #define UI_DISPLAY_WIN_UWP_TEXT_SCALE_FACTOR_H_
 

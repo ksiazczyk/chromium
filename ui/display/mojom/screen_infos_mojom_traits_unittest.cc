@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenInfos Mojo traits unit tests
+// summary: Tests serialization roundtrips and validation rules such as non-empty lists, unique display ids, and a matching current display id.
+// ---
+
 #include "ui/display/mojom/screen_infos_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

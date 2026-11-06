@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified desktop layout utilities implementation
+// summary: Implements validation of display placement graphs and construction of the unified desktop layout matrix from a DisplayLayout.
+// ---
+
 #include "ui/display/unified_desktop_utils.h"
 
 #include <algorithm>

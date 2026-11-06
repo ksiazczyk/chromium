@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content protection key manager implementation
+// summary: Implements fetching the provisioned HDCP key from the server, caching it, and injecting it into the kernel for HDCP-capable displays.
+// ---
+
 #include "ui/display/manager/content_protection_key_manager.h"
 
 #include "base/memory/raw_ptr.h"

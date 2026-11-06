@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display scaling utility declarations
+// summary: Declares scaling helpers for display layouts, including placement calculation and rect distance functions, with detailed coordinate examples.
+// ---
+
 #ifndef UI_DISPLAY_WIN_SCALING_UTIL_H_
 #define UI_DISPLAY_WIN_SCALING_UTIL_H_
 

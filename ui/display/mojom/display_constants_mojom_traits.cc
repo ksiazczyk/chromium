@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display constants Mojo traits implementation
+// summary: Implements Mojo enum conversions between native display constants such as connection type, HDCP state and privacy screen state and their display::mojom counterparts.
+// ---
+
 #include "ui/display/mojom/display_constants_mojom_traits.h"
 
 #include "base/notreached.h"

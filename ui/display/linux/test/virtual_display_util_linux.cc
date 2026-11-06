@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux virtual display utility implementation
+// summary: Implements VirtualDisplayUtilLinux, which adds, removes and resets virtual X11 displays via XRandR for tests.
+// ---
+
 #include "ui/display/linux/test/virtual_display_util_linux.h"
 
 #include <algorithm>

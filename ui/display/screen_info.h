@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfo structure header
+// summary: Defines the ScreenInfo struct describing a screen's device scale factor, text scale, color spaces, depth, bounds, work area, orientation, and primary or internal flags.
+// ---
+
 #ifndef UI_DISPLAY_SCREEN_INFO_H_
 #define UI_DISPLAY_SCREEN_INFO_H_
 

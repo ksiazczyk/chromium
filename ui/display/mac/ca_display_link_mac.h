@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CADisplayLinkMac and WindowServer event pump declarations
+// summary: Declares CADisplayLinkMac, a CADisplayLink-based VSync source, and a thread that pumps WindowServer events in child processes lacking an AppKit loop.
+// ---
+
 #ifndef UI_DISPLAY_MAC_CA_DISPLAY_LINK_MAC_H_
 #define UI_DISPLAY_MAC_CA_DISPLAY_LINK_MAC_H_
 

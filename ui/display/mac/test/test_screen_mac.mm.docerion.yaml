@@ -1,0 +1,4 @@
+# Docerion header of test_screen_mac.mm.
+type: test
+title: Mac test screen implementation
+summary: Implements TestScreenMac by building a display from the first NSScreen with the given size or default bounds.

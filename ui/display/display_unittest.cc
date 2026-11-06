@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display unit tests
+// summary: Unit tests covering Display work area, scaling, forced device scale factor, frequency, label, and gamma curve evaluation.
+// ---
+
 #include "ui/display/display.h"
 
 #include "base/command_line.h"

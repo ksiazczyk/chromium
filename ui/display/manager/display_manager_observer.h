@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayManagerObserver interface
+// summary: Declares the DisplayManagerObserver interface with callbacks for display initialization and processing of display configuration changes.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_MANAGER_OBSERVER_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_MANAGER_OBSERVER_H_
 

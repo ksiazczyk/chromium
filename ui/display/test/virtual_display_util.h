@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual display utility interface
+// summary: Defines the VirtualDisplayUtil interface and DisplayParams for creating system-level virtual displays in multi-screen integration tests.
+// ---
+
 #ifndef UI_DISPLAY_TEST_VIRTUAL_DISPLAY_UTIL_H_
 #define UI_DISPLAY_TEST_VIRTUAL_DISPLAY_UTIL_H_
 

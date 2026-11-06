@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfig implementation
+// summary: Provides constructors, move operations and the destructor for the DisplayConfig struct.
+// ---
+
 #include "ui/display/types/display_config.h"
 
 namespace display {

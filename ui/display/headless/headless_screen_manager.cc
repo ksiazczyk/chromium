@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenManager implementation
+// summary: Implements the headless screen manager singleton that assigns display IDs and delegates add, update, remove and primary display operations to a set delegate.
+// ---
+
 #include "ui/display/headless/headless_screen_manager.h"
 
 #include <algorithm>

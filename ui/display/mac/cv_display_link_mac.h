@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CVDisplayLinkMac declarations
+// summary: Declares CVDisplayLinkMac, which wraps a CoreVideo CVDisplayLink shared per display and thread to deliver VSync callbacks.
+// ---
+
 #ifndef UI_DISPLAY_MAC_CV_DISPLAY_LINK_MAC_H_
 #define UI_DISPLAY_MAC_CV_DISPLAY_LINK_MAC_H_
 

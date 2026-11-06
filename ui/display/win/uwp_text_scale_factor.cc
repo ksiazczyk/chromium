@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UWP text scale factor implementation
+// summary: Implements UwpTextScaleFactor by reading the Windows UWP UISettings text scale via COM and notifying observers when it changes.
+// ---
+
 #include "ui/display/win/uwp_text_scale_factor.h"
 
 #include <windows.h>

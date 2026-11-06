@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualDisplayUtilWin header
+// summary: Declares VirtualDisplayUtilWin for creating virtual displays in tests and DisplayConfigWaiter for waiting until display configurations match expected sizes.
+// ---
+
 #ifndef UI_DISPLAY_WIN_TEST_VIRTUAL_DISPLAY_UTIL_WIN_H_
 #define UI_DISPLAY_WIN_TEST_VIRTUAL_DISPLAY_UTIL_WIN_H_
 

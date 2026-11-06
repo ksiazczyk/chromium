@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchDeviceManagerTestApi header
+// summary: Declares a test API exposing TouchDeviceManager internals for associating touch devices with displays and resetting associations in tests.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TEST_TOUCH_DEVICE_MANAGER_TEST_API_H_
 #define UI_DISPLAY_MANAGER_TEST_TOUCH_DEVICE_MANAGER_TEST_API_H_
 

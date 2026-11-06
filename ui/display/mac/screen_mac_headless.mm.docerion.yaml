@@ -1,0 +1,4 @@
+# Docerion header of screen_mac_headless.mm.
+type: source
+title: ScreenMacHeadless implementation
+summary: Implements ScreenMacHeadless, building the display list from command-line screen info and serving headless screen queries.

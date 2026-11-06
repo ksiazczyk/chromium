@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurator implementation
+// summary: Implements DisplayConfigurator, which coordinates native display configuration, power states, layout management, and content protection through tasks, observers, and the native display delegate.
+// ---
+
 #include "ui/display/manager/display_configurator.h"
 
 #include <algorithm>

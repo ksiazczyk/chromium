@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeDisplayObserver interface for display change notifications
+// summary: Observer interface used by NativeDisplayDelegate to announce display configuration changes and to signal that owned display snapshots are about to be invalidated.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_NATIVE_DISPLAY_OBSERVER_H_
 #define UI_DISPLAY_TYPES_NATIVE_DISPLAY_OBSERVER_H_
 

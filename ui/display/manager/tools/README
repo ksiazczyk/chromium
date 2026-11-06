@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Display Resolution Checker README
+summary: Explains that the tool checks whether a new display panel satisfies the ChromeOS PPI requirement and that its conditions must stay in sync with the spec in ui/display/manager, including exceptions like Nocturne's 2.25x scale factor.
+---
+
 This page is used to check if a new panel satisfies the ChromeOS PPI(PixelPerInch)
 equirement. The condition must be in sync with the spec implemented in
 i/display/manager as there are several exceptions (such as we use 2.25x only for

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows EDID audio bitstream scanning header
+// summary: Declares ScanEdidBitstreams, which returns a bitmask of audio formats supported by the EDID data of connected monitors.
+// ---
+
 #ifndef UI_DISPLAY_WIN_AUDIO_EDID_SCAN_H_
 #define UI_DISPLAY_WIN_AUDIO_EDID_SCAN_H_
 

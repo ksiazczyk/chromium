@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for display util
+summary: Lists the allowed include dependencies for code in ui/display/util, such as crypto, Skia color space, and device event log headers.

@@ -1,0 +1,4 @@
+# Docerion header of display.mojom.
+type: source
+title: Display Mojom definitions
+summary: Defines the Display struct plus rotation, touch support, and accelerometer support enums for Mojo IPC.

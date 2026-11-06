@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenWin unit tests
+// summary: Large unit test suite for ScreenWin that mocks monitors and windows to verify DPI scaling, display enumeration and coordinate conversions.
+// ---
+
 #include "ui/display/win/screen_win.h"
 
 #include <windows.h>

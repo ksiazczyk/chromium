@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen class unit tests
+// summary: Unit tests for the Screen class covering primary display size, display counts, lookup by id, and display selection for new windows including scoped overrides.
+// ---
+
 #include "ui/display/screen.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows display configuration helper implementation
+// summary: Maps monitors to active Windows display configuration paths and retrieves monitor manufacturer ID and product code from EDID-derived device names.
+// ---
+
 #include "ui/display/win/display_config_helper.h"
 
 #include <cstdint>

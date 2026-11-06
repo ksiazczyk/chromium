@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen base class implementation
+// summary: Implements the Screen singleton with display lookup, DIP and screen rect conversion, and default stubs for platform-specific behavior such as screen savers and idle time.
+// ---
+
 #include "ui/display/screen.h"
 
 #include <algorithm>

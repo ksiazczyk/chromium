@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display layout Mojo traits implementation
+// summary: Implements conversions between display::DisplayPlacement and display::DisplayLayout objects and their Mojo representations.
+// ---
+
 #include "ui/display/mojom/display_layout_mojom_traits.h"
 
 #include "base/notreached.h"

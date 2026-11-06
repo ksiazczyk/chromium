@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows display color profile reader implementation
+// summary: Enumerates monitors and asynchronously reads their ICC profiles on background threads to provide display color spaces.
+// ---
+
 #include "ui/display/win/color_profile_reader.h"
 
 #include <windows.h>

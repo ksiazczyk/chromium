@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen abstract interface header
+// summary: Declares the Screen utility class for querying displays, cursor position, and window locations, and for notifying DisplayObservers about workspace changes.
+// ---
+
 #ifndef UI_DISPLAY_SCREEN_H_
 #define UI_DISPLAY_SCREEN_H_
 

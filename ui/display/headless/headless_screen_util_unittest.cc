@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless screen utility unit tests
+// summary: Unit tests verifying SetDisplayGeometry and UpdateDisplay behavior for default, scaled and updated displays, including bounds and work area insets.
+// ---
+
 #include "ui/display/headless/headless_screen_util.h"
 
 #include <vector>

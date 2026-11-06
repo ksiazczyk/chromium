@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryContentProtectionTask implementation
+// summary: Implements a task that queries HDCP state across displays and reports connection and content protection masks through a callback.
+// ---
+
 #include "ui/display/manager/query_content_protection_task.h"
 
 #include <utility>

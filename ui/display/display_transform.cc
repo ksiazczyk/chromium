@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display rotation transform helpers
+// summary: Converts display rotation values into gfx transforms and overlay transforms used by the display compositor.
+// ---
+
 #include "ui/display/display_transform.h"
 
 #include "base/notreached.h"

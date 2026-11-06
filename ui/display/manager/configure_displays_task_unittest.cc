@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configure displays task unit tests
+// summary: Unit tests covering success, partial success, and failure paths of the display configuration task across varied modes, refresh rates, and connectors.
+// ---
+
 #include <stddef.h>
 #include <vector>
 

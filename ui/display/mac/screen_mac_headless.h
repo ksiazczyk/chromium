@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenMacHeadless header
+// summary: Declares ScreenMacHeadless, a headless macOS Screen that manages displays through HeadlessScreenManager.
+// ---
+
 #ifndef UI_DISPLAY_MAC_SCREEN_MAC_HEADLESS_H_
 #define UI_DISPLAY_MAC_SCREEN_MAC_HEADLESS_H_
 

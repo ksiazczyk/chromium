@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayObserver header
+// summary: Declares the DisplayObserver interface with display change callbacks, metric bitmasks, and scoped observer helper classes.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_OBSERVER_H_
 #define UI_DISPLAY_DISPLAY_OBSERVER_H_
 

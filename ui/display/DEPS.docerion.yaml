@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/display dependencies
+summary: Lists the directories that files in ui/display are allowed to include from, such as mojo, skia and ui/gfx.

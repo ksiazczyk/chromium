@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action logger utility header
+// summary: Declares action string constants and helper functions for describing and comparing TestNativeDisplayDelegate actions in tests.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TEST_ACTION_LOGGER_UTIL_H_
 #define UI_DISPLAY_MANAGER_TEST_ACTION_LOGGER_UTIL_H_
 

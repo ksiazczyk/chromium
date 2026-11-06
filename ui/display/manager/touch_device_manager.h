@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchDeviceManager declarations
+// summary: Declares touch device identifiers, calibration data structures and the manager that associates touchscreens with displays.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TOUCH_DEVICE_MANAGER_H_
 #define UI_DISPLAY_MANAGER_TOUCH_DEVICE_MANAGER_H_
 

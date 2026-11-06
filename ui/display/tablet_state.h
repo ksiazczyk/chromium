@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabletState enum header
+// summary: Defines the TabletState enum tracking clamshell and tablet mode transitions and declares the IsTabletStateChanging helper.
+// ---
+
 #ifndef UI_DISPLAY_TABLET_STATE_H_
 #define UI_DISPLAY_TABLET_STATE_H_
 

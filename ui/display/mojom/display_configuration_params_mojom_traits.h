@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display configuration params Mojom traits header
+// summary: Declares StructTraits mapping DisplayConfigurationParams between Mojom and native C++ types.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_DISPLAY_CONFIGURATION_PARAMS_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_DISPLAY_CONFIGURATION_PARAMS_MOJOM_TRAITS_H_
 

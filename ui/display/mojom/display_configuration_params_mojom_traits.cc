@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display configuration params Mojom traits implementation
+// summary: Implements deserialization of DisplayConfigurationParams from its Mojom representation.
+// ---
+
 #include "ui/display/mojom/display_configuration_params_mojom_traits.h"
 
 namespace mojo {

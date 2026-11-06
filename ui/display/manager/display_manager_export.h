@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager export macros
+// summary: Defines the DISPLAY_MANAGER_EXPORT macro controlling symbol visibility for the display manager component build.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_MANAGER_EXPORT_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_MANAGER_EXPORT_H_
 

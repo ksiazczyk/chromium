@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager utility header
+// summary: Declares display manager helper functions covering display power, content protection, zoom factors, display mode lists, and layout boundaries.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_UTIL_DISPLAY_MANAGER_UTIL_H_
 #define UI_DISPLAY_MANAGER_UTIL_DISPLAY_MANAGER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action logger implementation
+// summary: Implements ActionLogger, a test helper that accumulates comma-separated action strings and returns them with GetActionsAndClear.
+// ---
+
 #include "ui/display/manager/test/action_logger.h"
 
 namespace display::test {

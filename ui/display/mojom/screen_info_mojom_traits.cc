@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfo mojom traits implementation
+// summary: Implements the mojo StructTraits Read function that deserializes a ScreenInfoDataView into display::ScreenInfo.
+// ---
+
 #include "ui/display/mojom/screen_info_mojom_traits.h"
 
 #include "ui/gfx/geometry/mojom/geometry.mojom.h"

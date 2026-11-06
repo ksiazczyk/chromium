@@ -1,0 +1,4 @@
+# Docerion header of display_snapshot.mojom.
+type: source
+title: DisplaySnapshot mojom struct definition
+summary: Mojom definition of the DisplaySnapshot struct and its ColorInfo that mirror display::DisplaySnapshot for serialization across process boundaries.

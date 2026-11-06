@@ -1,0 +1,4 @@
+# Docerion header of ca_metal_display_link_mac.mm.
+type: source
+title: CAMetalDisplayLinkMac implementation
+summary: Implements the Metal display link delegate, drawable presentation handling, and VSync parameter computation for CAMetalDisplayLink updates.

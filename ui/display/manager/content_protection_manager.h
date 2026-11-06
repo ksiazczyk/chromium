@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentProtectionManager class header
+// summary: Declares ContentProtectionManager with client registration, query and apply content protection APIs, the task abstraction, and the observer interface for display security changes.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_CONTENT_PROTECTION_MANAGER_H_
 #define UI_DISPLAY_MANAGER_CONTENT_PROTECTION_MANAGER_H_
 

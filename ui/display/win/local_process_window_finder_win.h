@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local process window finder declaration
+// summary: Declares a helper class that locates a window from the current process at a given screen point using window enumeration.
+// ---
+
 #ifndef UI_DISPLAY_WIN_LOCAL_PROCESS_WINDOW_FINDER_WIN_H_
 #define UI_DISPLAY_WIN_LOCAL_PROCESS_WINDOW_FINDER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen refresh interval utilities for macOS
+// summary: Declares helpers that query display refresh intervals via CoreGraphics and NSScreen, noting which calls are safe outside the browser process.
+// ---
+
 #ifndef UI_DISPLAY_MAC_SCREEN_UTILS_MAC_H_
 #define UI_DISPLAY_MAC_SCREEN_UTILS_MAC_H_
 

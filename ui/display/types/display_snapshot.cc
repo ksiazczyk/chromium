@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySnapshot implementation
+// summary: Implements the DisplaySnapshot class, including EDID serial number masking, cloning, and string output of display state.
+// ---
+
 #include "ui/display/types/display_snapshot.h"
 
 #include <inttypes.h>

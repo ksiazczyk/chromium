@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake display snapshot header
+// summary: Declares FakeDisplaySnapshot and its Builder for constructing fake display snapshots used when running off device.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TEST_FAKE_DISPLAY_SNAPSHOT_H_
 #define UI_DISPLAY_MANAGER_TEST_FAKE_DISPLAY_SNAPSHOT_H_
 

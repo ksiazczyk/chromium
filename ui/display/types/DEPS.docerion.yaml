@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ui/display/types
+summary: Restricts includes in ui/display/types to an allowlist of viz, gfx and display headers.

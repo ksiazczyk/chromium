@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWin screen implementation header
+// summary: Declares ScreenWin, the Windows implementation of display::Screen, with conversions between physical pixel and DIP points and rects.
+// ---
+
 #ifndef UI_DISPLAY_WIN_SCREEN_WIN_H_
 #define UI_DISPLAY_WIN_SCREEN_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of display_mode.mojom.
+type: source
+title: Mojo definition of the display mode struct
+summary: Defines the display.mojom DisplayMode struct carrying display size, interlacing flag, refresh rate and optional minimum vsync rate.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDID parser header
+// summary: Declares the EdidParser class interface for reading EDID data and generating EDID-based display identifiers.
+// ---
+
 #ifndef UI_DISPLAY_UTIL_EDID_PARSER_H_
 #define UI_DISPLAY_UTIL_EDID_PARSER_H_
 

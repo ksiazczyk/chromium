@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfos implementation
+// summary: Implements ScreenInfos helpers that locate and expose the ScreenInfo entry for the currently active display.
+// ---
+
 #include "ui/display/screen_infos.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayPortObserver unit tests
+// summary: Tests DisplayPortObserver port detection using fake DP connector sysfs directories and display snapshots.
+// ---
+
 #include "ui/display/manager/display_port_observer.h"
 
 #include "base/files/file_path.h"

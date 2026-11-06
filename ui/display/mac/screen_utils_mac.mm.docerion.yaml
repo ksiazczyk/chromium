@@ -1,0 +1,4 @@
+# Docerion header of screen_utils_mac.mm.
+type: source
+title: Screen refresh interval utilities implementation
+summary: Implements refresh interval lookups for macOS displays, falling back to 60 Hz when NSScreen or display mode data is unavailable.

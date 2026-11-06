@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchTransformController unit tests
+// summary: Unit tests verifying that touch device transforms map touch input to the correct display points, including calibration and error tolerance checks.
+// ---
+
 #include "ui/display/manager/touch_transform_controller.h"
 
 #include <array>

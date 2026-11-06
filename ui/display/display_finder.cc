@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display finder implementation
+// summary: Implements helpers to find the display containing a point, nearest to a point, or with the biggest intersection with a rectangle.
+// ---
+
 #include "ui/display/display_finder.h"
 
 #include <algorithm>

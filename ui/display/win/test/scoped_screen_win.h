@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedScreenWin header
+// summary: Declares the deprecated ScopedScreenWin class that sets up a fake ScreenWin display instance for Windows screen unit tests.
+// ---
+
 #ifndef UI_DISPLAY_WIN_TEST_SCOPED_SCREEN_WIN_H_
 #define UI_DISPLAY_WIN_TEST_SCOPED_SCREEN_WIN_H_
 

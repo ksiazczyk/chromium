@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySnapshot mojom traits declarations
+// summary: Declares mojo StructTraits mapping display::DisplaySnapshot and its ColorInfo fields to the display.mojom.DisplaySnapshot message.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_DISPLAY_SNAPSHOT_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_DISPLAY_SNAPSHOT_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DPI and scale factor helpers
+// summary: Implements DPI and device scale factor helpers for Windows, including accessibility font scaling and system DPI lookup.
+// ---
+
 #include "ui/display/win/dpi.h"
 
 #include <windows.h>

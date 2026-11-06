@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless screen utility implementation
+// summary: Implements helpers that set headless display geometry and update display bounds, work area insets, scale, rotation and other properties from optional parameters.
+// ---
+
 #include "ui/display/headless/headless_screen_util.h"
 
 #include <algorithm>

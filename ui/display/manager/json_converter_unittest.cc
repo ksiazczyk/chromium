@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON converter unit tests
+// summary: Tests round-trip conversion of DisplayLayout to JSON and parsing of legacy JSON layout formats.
+// ---
+
 #include "ui/display/manager/json_converter.h"
 
 #include <memory>

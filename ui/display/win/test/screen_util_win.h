@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenUtilWin header
+// summary: Declares the CreateMonitorInfo helper used to construct MONITORINFOEX structures in Windows display test code.
+// ---
+
 #ifndef UI_DISPLAY_WIN_TEST_SCREEN_UTIL_WIN_H_
 #define UI_DISPLAY_WIN_TEST_SCREEN_UTIL_WIN_H_
 

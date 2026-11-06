@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDisplayForNewWindows class header
+// summary: Declares a scoped RAII helper that switches the target display for newly created windows for the duration of its lifetime.
+// ---
+
 #ifndef UI_DISPLAY_SCOPED_DISPLAY_FOR_NEW_WINDOWS_H_
 #define UI_DISPLAY_SCOPED_DISPLAY_FOR_NEW_WINDOWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayGeometry struct header
+// summary: Defines the DisplayGeometry struct holding a display's pixel bounds and scale factor with an equality operator.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_GEOMETRY_H_
 #define UI_DISPLAY_TYPES_DISPLAY_GEOMETRY_H_
 

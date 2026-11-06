@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateDisplayConfigurationTask class declaration
+// summary: Declares the UpdateDisplayConfigurationTask class that coordinates display configuration runs, software mirroring fallback, and VRR and power state handling.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_UPDATE_DISPLAY_CONFIGURATION_TASK_H_
 #define UI_DISPLAY_MANAGER_UPDATE_DISPLAY_CONFIGURATION_TASK_H_
 

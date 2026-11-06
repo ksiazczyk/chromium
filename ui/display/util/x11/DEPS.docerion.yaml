@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the x11 display utility
+summary: Grants the ui/display/util/x11 directory permission to include headers from ui/gfx/x via an include_rules entry.

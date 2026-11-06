@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurationParams implementation
+// summary: Implements constructors, assignment and equality for per-display configuration parameters, cloning the display mode.
+// ---
+
 #include "ui/display/types/display_configuration_params.h"
 
 namespace display {

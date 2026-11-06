@@ -1,0 +1,4 @@
+# Docerion header of gamma_ramp_rgb_entry.mojom.
+type: source
+title: GammaRampRGBEntry mojom struct definition
+summary: Mojom definition of the GammaRampRGBEntry struct holding red, green, and blue values that mirrors display::GammaRampRGBEntry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous monitor ICC color profile reader for Windows
+// summary: Manages off-main-thread reading of monitor ICC profiles and notifies a client when the display color profiles change.
+// ---
+
 #ifndef UI_DISPLAY_WIN_COLOR_PROFILE_READER_H_
 #define UI_DISPLAY_WIN_COLOR_PROFILE_READER_H_
 

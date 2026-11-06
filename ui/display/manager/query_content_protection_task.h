@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryContentProtectionTask class declaration
+// summary: Declares a content protection task that queries HDCP state and returns connection and protection masks via a response callback.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_QUERY_CONTENT_PROTECTION_TASK_H_
 #define UI_DISPLAY_MANAGER_QUERY_CONTENT_PROTECTION_TASK_H_
 

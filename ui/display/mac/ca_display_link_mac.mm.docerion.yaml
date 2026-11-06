@@ -1,0 +1,4 @@
+# Docerion header of ca_display_link_mac.mm.
+type: source
+title: CADisplayLinkMac implementation
+summary: Implements CADisplayLink-based VSync callbacks via the private SkyLight SLSGetDisplayLink function, with fallback to timer-based VSync when the event pump fails.

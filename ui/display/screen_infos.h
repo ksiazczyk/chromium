@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfos structure header
+// summary: Defines the ScreenInfos struct holding screen information for the displays relevant to a widget, plus the current display id and the Windows system cursor size.
+// ---
+
 #ifndef UI_DISPLAY_SCREEN_INFOS_H_
 #define UI_DISPLAY_SCREEN_INFOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation.mojom.
+type: source
+title: ScreenOrientation Mojom enum
+summary: Defines the ScreenOrientation enum with undefined, portrait, and landscape orientation values.

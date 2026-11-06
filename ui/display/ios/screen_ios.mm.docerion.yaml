@@ -1,0 +1,4 @@
+# Docerion header of screen_ios.mm.
+type: source
+title: iOS screen implementation for the display library
+summary: Implements the display::Screen abstraction for iOS, tracking active UIScreen bounds, scale, rotation and touch support via UIKit notifications.

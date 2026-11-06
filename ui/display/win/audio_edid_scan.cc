@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows EDID audio bitstream scanning implementation
+// summary: Queries WMI for monitor EDID blocks and parses Short Audio Descriptors into a bitmask of supported audio formats across connected displays.
+// ---
+
 #include "ui/display/win/audio_edid_scan.h"
 
 #include <objbase.h>

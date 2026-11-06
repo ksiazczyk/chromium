@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CAMetalDisplayLinkMac declarations
+// summary: Declares CAMetalDisplayLinkMac, which provides VSync and drawable presentation callbacks through CAMetalDisplayLink on macOS 14 and later.
+// ---
+
 #ifndef UI_DISPLAY_MAC_CA_METAL_DISPLAY_LINK_MAC_H_
 #define UI_DISPLAY_MAC_CA_METAL_DISPLAY_LINK_MAC_H_
 

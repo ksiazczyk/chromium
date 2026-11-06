@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test screen header
+// summary: Declares TestScreen, a dummy Screen implementation holding one 800x600 display for use in unit tests.
+// ---
+
 #ifndef UI_DISPLAY_TEST_TEST_SCREEN_H_
 #define UI_DISPLAY_TEST_TEST_SCREEN_H_
 

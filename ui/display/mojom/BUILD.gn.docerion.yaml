@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Display Mojom build configuration
+summary: GN build rules for the display Mojom target, listing Mojom sources, dependencies, and C++ typemap mappings.

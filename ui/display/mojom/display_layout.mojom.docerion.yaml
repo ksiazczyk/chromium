@@ -1,0 +1,4 @@
+# Docerion header of display_layout.mojom.
+type: source
+title: Mojo definitions for display layout types
+summary: Defines Mojo enums and structs for display placement and layout, mirroring display::DisplayPlacement and display::DisplayLayout for IPC.

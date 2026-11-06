@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content protection key manager header
+// summary: Declares ContentProtectionKeyManager, which manages server-provisioned HDCP keys for displays whose drivers require key provisioning.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_CONTENT_PROTECTION_KEY_MANAGER_H_
 #define UI_DISPLAY_MANAGER_CONTENT_PROTECTION_KEY_MANAGER_H_
 

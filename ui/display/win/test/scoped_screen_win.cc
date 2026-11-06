@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedScreenWin implementation
+// summary: Implements ScopedScreenWin, which initializes a ScreenWin with a fake 1920x1200 primary display so unit tests can query screen details.
+// ---
+
 #include "ui/display/win/test/scoped_screen_win.h"
 
 #include <optional>

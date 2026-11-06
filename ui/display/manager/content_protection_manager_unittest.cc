@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentProtectionManager unit tests
+// summary: Unit tests for ContentProtectionManager covering client registration, content protection queries and applications, and display security change notifications using fake display snapshots.
+// ---
+
 #include "ui/display/manager/content_protection_manager.h"
 
 #include <array>
