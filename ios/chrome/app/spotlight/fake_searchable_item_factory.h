@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSearchableItemFactory class header
+// summary: Declares a fake searchable item factory subclass that records cancelItemsGeneration calls, designed mainly for testing purposes.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_FAKE_SEARCHABLE_ITEM_FACTORY_H_
 #define IOS_CHROME_APP_SPOTLIGHT_FAKE_SEARCHABLE_ITEM_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS Chrome startup
+summary: Defines GN source sets, build flags, unit test and fuzzer targets for the iOS Chrome app startup code.

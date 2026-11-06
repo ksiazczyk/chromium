@@ -1,0 +1,4 @@
+# Docerion header of spotlight_manager.mm.
+type: source
+title: SpotlightManager implementation
+summary: Implements SpotlightManager coordinating bookmark, top sites, actions, reading list, and open tabs Spotlight managers.

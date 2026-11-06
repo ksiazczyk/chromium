@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actions spotlight manager header
+// summary: Declares the ActionsSpotlightManager class and constants for indexing Chrome actions like New Tab and Voice Search in the system Spotlight index.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_ACTIONS_SPOTLIGHT_MANAGER_H_
 #define IOS_CHROME_APP_SPOTLIGHT_ACTIONS_SPOTLIGHT_MANAGER_H_
 

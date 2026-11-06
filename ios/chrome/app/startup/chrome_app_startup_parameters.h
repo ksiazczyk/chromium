@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app startup parameters class interface
+// summary: Declares ChromeAppStartupParameters, which parses URLs Chrome is opened with, including x-callback-url and app group commands.
+// ---
+
 #ifndef IOS_CHROME_APP_STARTUP_CHROME_APP_STARTUP_PARAMETERS_H_
 #define IOS_CHROME_APP_STARTUP_CHROME_APP_STARTUP_PARAMETERS_H_
 

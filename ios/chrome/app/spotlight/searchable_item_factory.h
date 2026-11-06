@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchableItemFactory class header
+// summary: Declares a factory that fetches favicons and creates Spotlight searchable items for URLs, with Spotlight ID generation helpers.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_SEARCHABLE_ITEM_FACTORY_H_
 #define IOS_CHROME_APP_SPOTLIGHT_SEARCHABLE_ITEM_FACTORY_H_
 

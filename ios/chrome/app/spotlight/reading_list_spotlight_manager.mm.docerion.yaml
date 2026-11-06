@@ -1,0 +1,4 @@
+# Docerion header of reading_list_spotlight_manager.mm.
+type: source
+title: ReadingListSpotlightManager implementation
+summary: Implements ReadingListSpotlightManager, observing reading list model changes to keep Spotlight entries for saved pages up to date.

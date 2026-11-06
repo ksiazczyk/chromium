@@ -1,0 +1,4 @@
+# Docerion header of chrome_main_starter.mm.
+type: source
+title: ChromeMainStarter implementation
+summary: Implements startChromeMain by returning a new IOSChromeMain instance that drives startup and shutdown logic.

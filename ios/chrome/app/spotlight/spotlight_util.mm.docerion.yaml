@@ -1,0 +1,4 @@
+# Docerion header of spotlight_util.mm.
+type: source
+title: Spotlight utility implementation
+summary: Implements Spotlight domain string mappings, availability checks, and URL lookup for Spotlight item IDs.

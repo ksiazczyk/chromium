@@ -1,0 +1,4 @@
+# Docerion header of spotlight_interface.mm.
+type: source
+title: SpotlightInterface implementation
+summary: Implements CoreSpotlight index and delete operations with retry logic and main-thread completion callbacks.

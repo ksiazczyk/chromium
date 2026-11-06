@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sandbox dump code
+summary: Grants sandbox_dump.mm an include exception to use the third-party zlib zip header.

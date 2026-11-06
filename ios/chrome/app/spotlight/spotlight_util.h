@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight utility header
+// summary: Declares the Spotlight domain enum, indexing version constants, and helpers for domain conversion and availability checks.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_SPOTLIGHT_UTIL_H_
 #define IOS_CHROME_APP_SPOTLIGHT_SPOTLIGHT_UTIL_H_
 

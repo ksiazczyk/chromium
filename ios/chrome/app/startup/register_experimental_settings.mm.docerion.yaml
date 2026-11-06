@@ -1,0 +1,4 @@
+# Docerion header of register_experimental_settings.mm.
+type: source
+title: Experimental settings registration implementation
+summary: Registers defaults for experimental preferences from Settings.bundle plists and removes user default keys that are no longer present in the bundle.

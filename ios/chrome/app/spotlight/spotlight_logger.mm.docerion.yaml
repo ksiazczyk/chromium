@@ -1,0 +1,4 @@
+# Docerion header of spotlight_logger.mm.
+type: source
+title: SpotlightLogger implementation
+summary: Implements Spotlight error logging via UMA histograms, stored error logs, and debug alerts when debugging is enabled.

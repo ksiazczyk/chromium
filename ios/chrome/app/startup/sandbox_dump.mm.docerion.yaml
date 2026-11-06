@@ -1,0 +1,4 @@
+# Docerion header of sandbox_dump.mm.
+type: source
+title: Sandbox dump implementation
+summary: Zips the application sandbox and app group containers into the document directory when the EnableDumpSandboxes user default is set, skipping unreadable files.

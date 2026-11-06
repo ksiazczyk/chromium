@@ -1,0 +1,4 @@
+# Docerion header of fake_searchable_item_factory.mm.
+type: source
+title: FakeSearchableItemFactory implementation
+summary: Implements FakeSearchableItemFactory, creating simple CSSearchableItem objects and counting cancel requests instead of using real Spotlight indexing.

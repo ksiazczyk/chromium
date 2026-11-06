@@ -1,0 +1,4 @@
+# Docerion header of chrome_app_startup_parameters_external_actions_fuzzer.mm.
+type: test
+title: Fuzzer for external action startup URLs
+summary: libFuzzer target that feeds fuzzed input as ChromeExternalAction URLs to ChromeAppStartupParameters parsing.

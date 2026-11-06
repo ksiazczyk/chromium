@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesSpotlightManager header
+// summary: Declares TopSitesSpotlightManager, which indexes the sites shown on the NTP into iOS Spotlight for a given profile.
+// ---
+
 #ifndef IOS_CHROME_APP_SPOTLIGHT_TOPSITES_SPOTLIGHT_MANAGER_H_
 #define IOS_CHROME_APP_SPOTLIGHT_TOPSITES_SPOTLIGHT_MANAGER_H_
 

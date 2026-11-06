@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spotlight build configuration
+summary: Defines the GN build targets for the iOS Spotlight sources and their unit tests, listing sources, dependencies and frameworks.

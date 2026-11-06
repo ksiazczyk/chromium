@@ -1,0 +1,4 @@
+# Docerion header of fake_spotlight_interface.mm.
+type: source
+title: FakeSpotlightInterface implementation
+summary: Implements FakeSpotlightInterface, counting index and delete calls and invoking completion handlers without touching the real Spotlight index.

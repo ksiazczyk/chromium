@@ -1,0 +1,4 @@
+# Docerion header of bookmark_spotlight_manager_unittest.mm.
+type: test
+title: Bookmark spotlight manager unit tests
+summary: Unit tests for the bookmarks Spotlight manager, covering reindexing and icon fetching with mocked favicon and Spotlight services.

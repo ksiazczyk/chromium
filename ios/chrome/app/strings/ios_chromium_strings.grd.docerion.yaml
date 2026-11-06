@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings.grd.
+type: data
+title: Chromium-branded iOS string resources
+summary: Defines iOS-specific translatable UI strings for the Chromium-branded build, with localized pak outputs for many locales.

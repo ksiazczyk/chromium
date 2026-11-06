@@ -1,0 +1,4 @@
+# Docerion header of open_tabs_spotlight_manager_unittest.mm.
+type: test
+title: OpenTabsSpotlightManager unit tests
+summary: Unit tests for OpenTabsSpotlightManager covering indexing, deletion and reindexing of open tab Spotlight items using fake dependencies.

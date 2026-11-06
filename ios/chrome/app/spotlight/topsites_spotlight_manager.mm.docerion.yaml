@@ -1,0 +1,4 @@
+# Docerion header of topsites_spotlight_manager.mm.
+type: source
+title: TopSitesSpotlightManager implementation
+summary: Implements indexing of top sites and server suggestions into Spotlight, observing top sites changes and batching reindex requests.

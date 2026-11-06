@@ -1,0 +1,4 @@
+# Docerion header of reading_list_spotlight_manager_unittest.mm.
+type: test
+title: ReadingListSpotlightManager unit tests
+summary: Unit tests for ReadingListSpotlightManager covering indexing, updating and removing reading list Spotlight items with fake dependencies.
