@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome web page selection script
+// summary: Injected TypeScript script that retrieves the current page text selection and its bounding box, forwards requests to subframes, and sends the result to native Chrome via a WebKit message.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

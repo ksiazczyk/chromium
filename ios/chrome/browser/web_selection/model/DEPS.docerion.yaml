@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the web selection model
+summary: Allows this directory to include the Chrome web client header from the ios web model.

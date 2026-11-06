@@ -1,0 +1,4 @@
+# Docerion header of ssl_egtest.mm.
+type: test
+title: SSL interstitial Earl Grey tests
+summary: Earl Grey tests for the bad SSL certificate interstitial, covering proceed, back to safety, back navigation, and session restore cases.

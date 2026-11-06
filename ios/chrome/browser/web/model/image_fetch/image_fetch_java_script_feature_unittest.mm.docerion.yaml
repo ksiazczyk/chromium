@@ -1,0 +1,4 @@
+# Docerion header of image_fetch_java_script_feature_unittest.mm.
+type: test
+title: ImageFetchJavaScriptFeature unit tests
+summary: Unit tests for ImageFetchJavaScriptFeature that fetch image data from a local test server and verify JavaScript success and failure handling.

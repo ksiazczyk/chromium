@@ -1,0 +1,4 @@
+# Docerion header of web_view_proxy_tab_helper_unittest.mm.
+type: test
+title: WebViewProxyTabHelper unit tests
+summary: Unit tests covering observer notifications for proxy changes, tab helper destruction, and that removed observers are not notified.

@@ -1,0 +1,4 @@
+# Docerion header of extension_service_unittest.mm.
+type: test
+title: ExtensionService unit tests
+summary: Unit tests for the iOS Chrome extension service, using a fake ExtensionController and test observer to verify built-in extension loading, unload behavior, and load error notifications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load timing tab helper header
+// summary: Declares LoadTimingTabHelper, a WebStateUserData that times page loads from omnibar submission to page load and reports the elapsed time as a UMA metric.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_LOAD_TIMING_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_LOAD_TIMING_TAB_HELPER_H_
 

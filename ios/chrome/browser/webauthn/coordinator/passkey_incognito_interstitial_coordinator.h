@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey incognito interstitial coordinator header
+// summary: Declares the ChromeCoordinator subclass that presents the passkey incognito interstitial and reports the user's decision through a boolean callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_COORDINATOR_PASSKEY_INCOGNITO_INTERSTITIAL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_COORDINATOR_PASSKEY_INCOGNITO_INTERSTITIAL_COORDINATOR_H_
 

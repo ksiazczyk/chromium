@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS annotations model
+summary: Defines the annotations source set and its unit tests, listing sources and dependencies for the build.

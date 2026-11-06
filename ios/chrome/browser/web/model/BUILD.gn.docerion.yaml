@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the web model directory
+summary: Defines source sets and dependency lists for the iOS Chrome web model build targets.

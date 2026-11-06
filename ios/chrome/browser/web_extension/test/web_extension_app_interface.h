@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebExtension app interface for EarlGrey tests
+// summary: Declares the app interface used by WebExtension EarlGrey tests to query ExtensionService readiness and profile init stages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_TEST_WEB_EXTENSION_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_TEST_WEB_EXTENSION_APP_INTERFACE_H_
 

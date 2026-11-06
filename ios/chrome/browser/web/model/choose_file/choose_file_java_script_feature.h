@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChooseFileJavaScriptFeature declaration
+// summary: Declares a JavaScript feature that detects clicks on choose file inputs and logs data about them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_JAVA_SCRIPT_FEATURE_H_
 

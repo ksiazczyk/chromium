@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the web selection model
+summary: Defines the model source set, unit test target, and TypeScript optimization target for the web selection feature.

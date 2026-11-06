@@ -1,0 +1,4 @@
+# Docerion header of web_selection_response.mm.
+type: source
+title: Web selection response implementation
+summary: Parses the JavaScript selection payload into a response object and converts page coordinates to browser zoom scale.

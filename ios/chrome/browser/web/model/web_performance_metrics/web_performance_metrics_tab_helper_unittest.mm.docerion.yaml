@@ -1,0 +1,4 @@
+# Docerion header of web_performance_metrics_tab_helper_unittest.mm.
+type: test
+title: Web performance metrics tab helper unit tests
+summary: Unit tests verifying that interaction-to-next-paint metrics are buffered in the tab helper and flushed exactly once on cross-document navigation commit or WebState destruction.

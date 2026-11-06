@@ -1,0 +1,4 @@
+# Docerion header of web_performance_metrics_java_script_feature.mm.
+type: source
+title: Web performance metrics JavaScript feature implementation
+summary: Implements the JavaScript feature that receives metric messages from injected scripts and logs First Contentful Paint, First Input Delay and INP data to UMA.

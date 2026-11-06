@@ -1,0 +1,4 @@
+# Docerion header of web_performance_metrics_java_script_feature_unittest.mm.
+type: test
+title: Web performance metrics JavaScript feature unit tests
+summary: Unit tests verifying that the JavaScript feature parses INP script messages and records histograms only when the feature flag is enabled.

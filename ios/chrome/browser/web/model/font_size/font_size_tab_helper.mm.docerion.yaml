@@ -1,0 +1,4 @@
+# Docerion header of font_size_tab_helper.mm.
+type: source
+title: Implementation of the FontSizeTabHelper class
+summary: Implements text zoom handling, zoom preference storage, UKM and user action logging, and system font size change observation.

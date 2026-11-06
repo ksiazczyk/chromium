@@ -1,0 +1,4 @@
+# Docerion header of extension_service_impl.mm.
+type: source
+title: ExtensionServiceImpl implementation
+summary: Implements extension loading with timeouts and delays, opt-out preference observation, and startup readiness notifications.

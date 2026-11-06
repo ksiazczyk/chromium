@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the choose_file module
+summary: Defines source sets, unit tests, test support and TypeScript compilation targets for the choose_file code.

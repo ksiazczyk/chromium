@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_passkey_client.mm.
+type: source
+title: IOSChromePasskeyClient implementation
+summary: Implements the Chrome iOS passkey client, wiring trusted vault and device authorization key fetches, bottom sheets, interstitials, and reauthentication.

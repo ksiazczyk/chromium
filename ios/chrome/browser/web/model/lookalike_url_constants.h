@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookalike URL constants header
+// summary: Declares test-only URL path constants for lookalike URL interstitial tests, with and without a suggested URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_LOOKALIKE_URL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_LOOKALIKE_URL_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page utility header
+// summary: Declares GetErrorPage, a helper that returns HTML for the error page shown in a WebState when a page load fails.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_ERROR_PAGE_UTIL_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_ERROR_PAGE_UTIL_H_
 

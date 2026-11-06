@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator app interface header
+// summary: Declares an app interface with an Earl Grey matcher for UIProgressViews showing a given progress value.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_PROGRESS_INDICATOR_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_PROGRESS_INDICATOR_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of print_java_script_feature_unittest.mm.
+type: test
+title: PrintJavaScriptFeature unit tests
+summary: Verifies that window.print() from a visible main frame triggers printing while calls from hidden tabs or non-user-initiated iframes are ignored.

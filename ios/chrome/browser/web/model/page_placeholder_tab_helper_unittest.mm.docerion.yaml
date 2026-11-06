@@ -1,0 +1,4 @@
+# Docerion header of page_placeholder_tab_helper_unittest.mm.
+type: test
+title: Page placeholder tab helper unit tests
+summary: Unit tests covering placeholder display, cancellation, and removal behavior of the page placeholder tab helper.

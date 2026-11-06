@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image fetch BUILD.gn build rules
+summary: Defines GN build targets for the image fetch source set, its TypeScript JavaScript resource, unit tests, and a libFuzzer fuzzer target.

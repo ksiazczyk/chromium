@@ -1,0 +1,4 @@
+# Docerion header of font_size_tab_helper_unittest.mm.
+type: test
+title: Unit tests for FontSizeTabHelper
+summary: Tests FontSizeTabHelper text zoom support and behavior with fake and real web states and mocked content size categories.

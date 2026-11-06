@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey client app interface for iOS Chrome tests
+// summary: Declares helpers to set up a fake passkey keychain provider bridge and to configure a mock reauthentication result.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_TEST_IOS_CHROME_PASSKEY_CLIENT_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_TEST_IOS_CHROME_PASSKEY_CLIENT_APP_INTERFACE_H_
 

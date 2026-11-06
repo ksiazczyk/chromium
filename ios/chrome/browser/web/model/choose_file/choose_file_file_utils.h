@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Choose file temporary directory utilities declaration
+// summary: Declares helpers to create, locate, and delete per-tab temporary directories where user-chosen files are downloaded before upload.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_FILE_UTILS_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_FILE_UTILS_H_
 

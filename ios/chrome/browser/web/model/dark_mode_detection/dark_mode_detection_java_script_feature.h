@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dark mode detection JavaScript feature header
+// summary: Declares the singleton JavaScript feature that detects whether a webpage natively supports dark mode and reports results to native code.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_DARK_MODE_DETECTION_DARK_MODE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_DARK_MODE_DETECTION_DARK_MODE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_passkey_client_unittest.mm.
+type: test
+title: IOSChromePasskeyClient unit tests
+summary: Unit tests for IOSChromePasskeyClient verifying passkey saving conditions and device authorization key handling with mock sync and authorization services.

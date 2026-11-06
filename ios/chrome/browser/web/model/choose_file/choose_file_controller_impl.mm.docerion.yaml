@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller_impl.mm.
+type: source
+title: ChooseFileControllerImpl implementation
+summary: Implements file picker presentation state, expiry and submission that runs the completion callback with file URLs.

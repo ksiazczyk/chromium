@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS device authorization utility header
+// summary: Declares BuildDeviceIntegrityContentBindings, which builds the content bindings map for device integrity attestation from a request and salt.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_DEVICE_AUTHORIZATION_UTIL_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_DEVICE_AUTHORIZATION_UTIL_H_
 

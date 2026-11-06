@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller_impl_unittest.mm.
+type: test
+title: Unit tests for ChooseFileControllerImpl
+summary: Tests file picker presentation state, selection submission and destruction without submitting a selection.

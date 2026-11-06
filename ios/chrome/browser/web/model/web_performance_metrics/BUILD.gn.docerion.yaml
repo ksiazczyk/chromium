@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for web performance metrics
+summary: Defines source sets and TypeScript compilation targets for the web performance metrics feature, its dependencies and its unit tests.

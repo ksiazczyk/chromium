@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web performance metrics tab helper header
+// summary: Declares a WebState tab helper that observes navigation events, stores frame interaction data, flushes INP metrics to UMA and notifies observers of First Contentful Paint.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_PERFORMANCE_METRICS_WEB_PERFORMANCE_METRICS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_PERFORMANCE_METRICS_WEB_PERFORMANCE_METRICS_TAB_HELPER_H_
 

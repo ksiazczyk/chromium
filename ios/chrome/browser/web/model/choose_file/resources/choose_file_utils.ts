@@ -7,6 +7,12 @@
  * inputs.
  */
 
+// ---docerion
+// type: source
+// title: Choose file input processing utilities
+// summary: Utilities that classify file input accept and capture attributes into accept and capture types sent to the native browser when a file input is tapped.
+// ---
+
 // These lists are not exhaustive, but should give a good clue of what type
 // are filtered.
 const AUDIO_FILES = ['aac', 'flac', 'm4a', 'mp3', 'ogg', 'pcm', 'wav', 'wma'];

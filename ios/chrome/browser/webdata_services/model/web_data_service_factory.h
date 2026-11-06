@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceFactory header for iOS Chrome
+// summary: Declares the ios::WebDataServiceFactory singleton, a profile-keyed factory exposing accessors for autofill, keyword, and token web data services per ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBDATA_SERVICES_MODEL_WEB_DATA_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_WEBDATA_SERVICES_MODEL_WEB_DATA_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeExtensionService test fake header
+// summary: Declares a fake ExtensionService for tests with controllable ready state, startup load flag, load error reporting, and tracking of pending RunWhenReady callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_FAKE_EXTENSION_SERVICE_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_FAKE_EXTENSION_SERVICE_H_
 

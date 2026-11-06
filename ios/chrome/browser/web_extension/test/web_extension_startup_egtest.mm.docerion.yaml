@@ -1,0 +1,4 @@
+# Docerion header of web_extension_startup_egtest.mm.
+type: test
+title: WebExtension startup EarlGrey tests
+summary: EarlGrey test suite verifying Chrome startup halts until the ExtensionService is ready, then the profile reaches its final stage.

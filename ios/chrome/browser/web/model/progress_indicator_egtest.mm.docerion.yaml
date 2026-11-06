@@ -1,0 +1,4 @@
+# Docerion header of progress_indicator_egtest.mm.
+type: test
+title: Progress indicator Earl Grey tests
+summary: Earl Grey tests verifying toolbar progress view visibility and progress during page loads and form submissions.

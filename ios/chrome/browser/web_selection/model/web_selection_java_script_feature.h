@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web selection JavaScript feature header
+// summary: Declares the singleton JavaScript feature that requests the page selection and notifies registered observers of results.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_JAVA_SCRIPT_FEATURE_H_
 

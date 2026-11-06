@@ -1,0 +1,4 @@
+# Docerion header of web_selection_java_script_feature_unittest.mm.
+type: test
+title: Unit tests for the web selection JavaScript feature
+summary: Tests selection retrieval in the main frame and iframes, including that no observer callback fires when nothing is selected.

@@ -1,0 +1,4 @@
+# Docerion header of child_window_open_by_dom_egtest.mm.
+type: test
+title: Child window open by DOM Earl Grey tests
+summary: Earl Grey UI tests covering child windows opened by DOM window.open(), including named windows, closing, and write-and-reload behavior.

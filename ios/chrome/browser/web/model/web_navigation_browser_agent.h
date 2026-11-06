@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web navigation browser agent header
+// summary: Declares a browser agent encapsulating back, forward, stop, reload, and desktop or mobile site requests for the active web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_BROWSER_AGENT_H_
 

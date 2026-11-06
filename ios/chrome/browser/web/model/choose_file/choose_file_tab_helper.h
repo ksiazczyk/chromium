@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChooseFileTabHelper declaration
+// summary: Declares a per-WebState helper that manages ongoing file selection, file picker presentation, and submission of chosen file URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_TAB_HELPER_H_
 

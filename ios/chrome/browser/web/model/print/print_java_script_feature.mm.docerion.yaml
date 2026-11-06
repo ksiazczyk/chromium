@@ -1,0 +1,4 @@
+# Docerion header of print_java_script_feature.mm.
+type: source
+title: PrintJavaScriptFeature implementation
+summary: Handles print script messages, forwarding visible main-frame or user-initiated window.print() calls to the print tab helper and ignoring others.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthorizationProfileAgent class header
+// summary: Declares the DeviceAuthorizationProfileAgent, which silently fetches device authorization keys for the primary account with exponential backoff.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_MODEL_DEVICE_AUTHORIZATION_PROFILE_AGENT_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_MODEL_DEVICE_AUTHORIZATION_PROFILE_AGENT_H_
 

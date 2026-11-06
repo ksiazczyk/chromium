@@ -1,0 +1,4 @@
+# Docerion header of font_size_java_script_feature.mm.
+type: source
+title: Implementation of the FontSizeJavaScriptFeature class
+summary: Implements font size adjustment by invoking the font_size.adjustFontSize JavaScript function in all frames of a page.

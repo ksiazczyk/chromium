@@ -1,0 +1,4 @@
+# Docerion header of web_navigation_browser_agent_unittest.mm.
+type: test
+title: Web navigation browser agent unit tests
+summary: Unit tests verifying that WebNavigationBrowserAgent reloads the web state or delegates to the NTP delegate depending on whether an NTP is active.

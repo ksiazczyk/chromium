@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authorization_client.mm.
+type: source
+title: IOSDeviceAuthorizationClient implementation
+summary: Implements the iOS device authorization client, reading and storing keys via the keychain provider and populating requests with device integrity signals.

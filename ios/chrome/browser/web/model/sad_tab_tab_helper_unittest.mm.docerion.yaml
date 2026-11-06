@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_tab_helper_unittest.mm.
+type: test
+title: SadTabTabHelper unit tests
+summary: Unit tests for SadTabTabHelper crash handling, repeated failure detection, reload behavior, and delegate interactions.

@@ -1,0 +1,4 @@
+# Docerion header of device_authorization_profile_agent.mm.
+type: source
+title: DeviceAuthorizationProfileAgent implementation
+summary: Implements the device authorization profile agent, handling profile init stages, primary account changes, and backoff-tracked key fetches via prefs.

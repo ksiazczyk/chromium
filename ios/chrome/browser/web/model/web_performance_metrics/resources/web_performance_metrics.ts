@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web performance metrics script for FCP, FID and INP
+// summary: Injected page script that observes paint and input events and reports First Contentful Paint, First Input Delay and INP data to the browser via WebKit messages.
+// ---
+
 import {InteractionManager} from '//ios/chrome/browser/web/model/web_performance_metrics/resources/interaction_manager.js';
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';

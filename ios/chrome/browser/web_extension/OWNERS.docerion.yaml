@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web extension OWNERS
+summary: Lists the code owners responsible for reviewing changes in the ios/chrome/browser/web_extension directory.

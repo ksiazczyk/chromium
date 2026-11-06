@@ -1,0 +1,4 @@
+# Docerion header of dark_mode_detection_java_script_feature_unittest.mm.
+type: test
+title: Dark mode detection JavaScript feature unit tests
+summary: Unit tests that load plain and dark-mode-enabled HTML pages and check the expected dark mode support histogram buckets.

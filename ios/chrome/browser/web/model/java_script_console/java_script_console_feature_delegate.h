@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptConsoleFeatureDelegate interface header
+// summary: Declares the JavaScriptConsoleFeatureDelegate interface whose DidReceiveConsoleMessage callback is invoked when a JavaScript message is logged.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_FEATURE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_FEATURE_DELEGATE_H_
 

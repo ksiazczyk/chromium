@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser about URL rewriter implementation
+// summary: 'Rewrites about: URLs to chrome: equivalents and maps hosts like about and sync to internal pages.'
+// ---
+
 #include "ios/chrome/browser/web/model/browser_about_rewriter.h"
 
 #include <array>

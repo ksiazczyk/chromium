@@ -1,0 +1,4 @@
+# Docerion header of window_open_by_dom_egtest.mm.
+type: test
+title: Window open by DOM Earl Grey tests
+summary: Earl Grey integration tests verifying child window opening via DOM, covering target=_blank links, special URLs, and popup blocking preferences.

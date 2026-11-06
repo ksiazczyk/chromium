@@ -1,0 +1,4 @@
+# Docerion header of print_tab_helper_unittest.mm.
+type: test
+title: PrintTabHelper unit tests
+summary: Checks that Print invokes the printer when the printing preference is enabled and does nothing when it is disabled.

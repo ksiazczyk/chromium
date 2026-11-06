@@ -1,0 +1,4 @@
+# Docerion header of web_usage_enabler_browser_agent_unittest.mm.
+type: test
+title: WebUsageEnablerBrowserAgent unit tests
+summary: Unit tests verifying that SetWebUsageEnabled updates web usage for existing and newly added WebStates and triggers initial loads.

@@ -1,0 +1,4 @@
+# Docerion header of load_timing_tab_helper.mm.
+type: source
+title: Load timing tab helper implementation
+summary: Implements LoadTimingTabHelper, reporting the IOS.PageLoadTiming.OmnibarToPageLoaded histogram on successful loads and handling prerender promotion.

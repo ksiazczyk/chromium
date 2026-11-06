@@ -1,0 +1,4 @@
+# Docerion header of dark_mode_detection_egtest.mm.
+type: test
+title: Dark mode detection Earl Grey integration tests
+summary: Earl Grey tests that load pages declaring dark mode via meta tag, CSS, or media query and verify the recorded UMA support histograms.

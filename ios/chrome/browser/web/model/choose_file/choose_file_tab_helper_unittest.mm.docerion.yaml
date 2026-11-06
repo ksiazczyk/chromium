@@ -1,0 +1,4 @@
+# Docerion header of choose_file_tab_helper_unittest.mm.
+type: test
+title: ChooseFileTabHelper unit tests
+summary: Unit tests for ChooseFileTabHelper covering starting and stopping file selection, submitting selected file URLs, and ending selection on navigation.

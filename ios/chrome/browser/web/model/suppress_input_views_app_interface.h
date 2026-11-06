@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suppress input views app interface header
+// summary: Declares an Earl Grey app interface that sets shouldSuppressInputViews on the active WebState's CRWWebViewProxy in the app process.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_SUPPRESS_INPUT_VIEWS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_SUPPRESS_INPUT_VIEWS_APP_INTERFACE_H_
 

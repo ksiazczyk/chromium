@@ -1,0 +1,4 @@
+# Docerion header of passkey_incognito_interstitial_coordinator_unittest.mm.
+type: test
+title: Passkey incognito interstitial coordinator unit tests
+summary: Verifies that the continue and cancel actions and a forced stop invoke the coordinator's callback with the expected boolean result.

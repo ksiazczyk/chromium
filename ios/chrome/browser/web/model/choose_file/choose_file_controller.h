@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChooseFileController class header
+// summary: Declares the controller that tracks a file selection flow in a WebState, with delegate and observer interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_CHOOSE_FILE_CONTROLLER_H_
 

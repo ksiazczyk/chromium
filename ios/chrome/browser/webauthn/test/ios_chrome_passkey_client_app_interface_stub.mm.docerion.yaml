@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_passkey_client_app_interface_stub.mm.
+type: test
+title: Stub for the passkey client app interface
+summary: Stubs the passkey client app interface in the app main queue for Earl Grey test support.

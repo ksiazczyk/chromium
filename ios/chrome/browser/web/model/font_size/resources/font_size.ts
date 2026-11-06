@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font size adjustment web API for iOS Chrome
+// summary: TypeScript source defining the font_size web API, whose adjustFontSize function scales page text by setting -webkit-text-size-adjust on the document body.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of image_fetch_java_script_feature.mm.
+type: source
+title: ImageFetchJavaScriptFeature implementation
+summary: Implements the image fetch JavaScript feature, injecting the image_fetch script and decoding base64 image data from script messages before dispatching to the handler.

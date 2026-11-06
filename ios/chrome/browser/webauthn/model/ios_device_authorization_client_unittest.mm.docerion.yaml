@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authorization_client_unittest.mm.
+type: test
+title: iOS device authorization client unit tests
+summary: Unit tests for the iOS device authorization client that verify storing and retrieving cached device authorization keys in the Keychain.

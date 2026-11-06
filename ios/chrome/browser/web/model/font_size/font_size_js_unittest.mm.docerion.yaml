@@ -1,0 +1,4 @@
+# Docerion header of font_size_js_unittest.mm.
+type: test
+title: Unit tests for the font_size JavaScript
+summary: Tests the font_size script's adjustFontSize behavior at various scales using a test web state and computed font size checks.

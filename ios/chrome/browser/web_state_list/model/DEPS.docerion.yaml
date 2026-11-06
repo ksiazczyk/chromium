@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the web_state_list model
+summary: Declares the allowed include rule for tabs_dependency_installer.h within this directory.

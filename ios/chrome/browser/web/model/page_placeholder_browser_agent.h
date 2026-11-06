@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page placeholder browser agent header
+// summary: Declares the browser agent that adds or cancels a page placeholder for the next navigation of WebStates in a Browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_PAGE_PLACEHOLDER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_PAGE_PLACEHOLDER_BROWSER_AGENT_H_
 

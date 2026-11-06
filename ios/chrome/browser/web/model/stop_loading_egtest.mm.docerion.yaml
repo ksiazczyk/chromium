@@ -1,0 +1,4 @@
+# Docerion header of stop_loading_egtest.mm.
+type: test
+title: Stop loading Earl Grey tests
+summary: Earl Grey tests verifying that tapping the Stop button halts a never-ending page load and toggles the Stop/Reload buttons in the tools menu.

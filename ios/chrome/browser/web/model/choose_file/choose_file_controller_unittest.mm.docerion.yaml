@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller_unittest.mm.
+type: test
+title: ChooseFileController unit tests
+summary: Unit tests verifying that ChooseFileController forwards submitted file selections and ignores submissions from expired controllers.

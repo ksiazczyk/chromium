@@ -1,0 +1,4 @@
+# Docerion header of annotations_util_unittest.mm.
+type: test
+title: Unit tests for annotations utilities
+summary: Tests policy resolution and default values for annotation types using a testing preference service.

@@ -1,0 +1,4 @@
+# Docerion header of choose_file_file_utils.mm.
+type: source
+title: Choose file temporary directory utilities implementation
+summary: Implements session-scoped temporary directory management for files chosen for upload, including background deletion of stale session directories.

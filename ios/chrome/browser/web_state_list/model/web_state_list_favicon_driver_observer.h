@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateListFaviconDriverObserver class declaration
+// summary: Declares a TabsDependencyInstaller and FaviconDriverObserver that watches WebStates in a WebStateList and forwards favicon update notifications to an observer protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_STATE_LIST_MODEL_WEB_STATE_LIST_FAVICON_DRIVER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_WEB_STATE_LIST_MODEL_WEB_STATE_LIST_FAVICON_DRIVER_OBSERVER_H_
 

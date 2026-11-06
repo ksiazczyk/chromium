@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authorization_service_factory.mm.
+type: source
+title: iOS device authorization service factory implementation
+summary: Implements the factory that builds a DeviceAuthorizationServiceImpl per profile when the fetch device authorization keys feature is enabled.

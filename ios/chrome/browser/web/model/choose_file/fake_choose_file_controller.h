@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake choose file controller header
+// summary: Declares a fake ChooseFileController that records submitted file selections and lets tests control picker state and expiry.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_FAKE_CHOOSE_FILE_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_FAKE_CHOOSE_FILE_CONTROLLER_H_
 

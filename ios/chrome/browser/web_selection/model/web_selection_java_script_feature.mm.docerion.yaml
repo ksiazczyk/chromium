@@ -1,0 +1,4 @@
+# Docerion header of web_selection_java_script_feature.mm.
+type: source
+title: Web selection JavaScript feature implementation
+summary: Implements invoking the selection script, receiving script messages, parsing responses, and forwarding valid selections to observers.

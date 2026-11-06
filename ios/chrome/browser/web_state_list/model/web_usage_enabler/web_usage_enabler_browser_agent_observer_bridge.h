@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUsageEnablerBrowserAgentObserverBridge header
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards web usage enabler events to Objective-C observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_STATE_LIST_MODEL_WEB_USAGE_ENABLER_WEB_USAGE_ENABLER_BROWSER_AGENT_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_WEB_STATE_LIST_MODEL_WEB_USAGE_ENABLER_WEB_USAGE_ENABLER_BROWSER_AGENT_OBSERVER_BRIDGE_H_
 

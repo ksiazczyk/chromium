@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS passkey Earl Grey test targets
+summary: Defines source sets for passkey test app support, test support, and Earl Grey 2 tests in the iOS WebAuthn test directory.

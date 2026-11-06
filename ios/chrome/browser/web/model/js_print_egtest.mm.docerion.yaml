@@ -1,0 +1,4 @@
+# Docerion header of js_print_egtest.mm.
+type: test
+title: JavaScript print Earl Grey test
+summary: Earl Grey UI test verifying that a web page button calling window.print opens the print dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepostFormTabHelper interface
+// summary: Declares RepostFormTabHelper, which presents a form repost dialog and dismisses it on WebState activity such as navigation or hiding.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_REPOST_FORM_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_REPOST_FORM_TAB_HELPER_H_
 

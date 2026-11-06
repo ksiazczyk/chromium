@@ -1,0 +1,4 @@
+# Docerion header of device_authorization_profile_agent_unittest.mm.
+type: test
+title: DeviceAuthorizationProfileAgent unit tests
+summary: Unit tests for DeviceAuthorizationProfileAgent covering key fetch behavior, backoff handling, and primary account changes using mock services.

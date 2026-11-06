@@ -1,0 +1,4 @@
+# Docerion header of web_state_delegate_browser_agent.mm.
+type: source
+title: Web state delegate browser agent implementation
+summary: Implements the web state delegate browser agent, routing dialogs, geolocation and HTTP auth prompts, permissions, certificates and URL loading for web states.

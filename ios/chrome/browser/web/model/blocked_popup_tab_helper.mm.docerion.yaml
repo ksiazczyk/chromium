@@ -1,0 +1,4 @@
+# Docerion header of blocked_popup_tab_helper.mm.
+type: source
+title: Blocked popup tab helper implementation
+summary: Implements popup blocking with a confirm infobar, content settings checks, and metrics recording.

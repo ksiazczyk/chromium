@@ -1,0 +1,4 @@
+# Docerion header of suppress_input_views_egtest.mm.
+type: test
+title: Suppress input views Earl Grey tests
+summary: Earl Grey tests verifying keyboard suppression via the CRWWebViewProxy shouldSuppressInputViews API, including default behavior and dynamic toggling.

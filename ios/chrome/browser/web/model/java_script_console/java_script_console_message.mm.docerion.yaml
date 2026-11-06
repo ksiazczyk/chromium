@@ -1,0 +1,4 @@
+# Docerion header of java_script_console_message.mm.
+type: source
+title: JavaScriptConsoleMessage implementation
+summary: Implements the constructor and destructor of the JavaScriptConsoleMessage struct.

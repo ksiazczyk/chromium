@@ -1,0 +1,4 @@
+# Docerion header of fake_choose_file_controller.mm.
+type: source
+title: Fake choose file controller implementation
+summary: Implements the fake ChooseFileController used in tests, storing submitted file URLs, display string, and icon and invoking test callbacks.

@@ -1,0 +1,4 @@
+# Docerion header of choose_file_java_script_feature.mm.
+type: source
+title: ChooseFileJavaScriptFeature implementation
+summary: Implements the JavaScript message handler that parses file input attributes and logs UMA metrics for choose file events.

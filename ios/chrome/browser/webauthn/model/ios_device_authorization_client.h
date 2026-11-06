@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSDeviceAuthorizationClient class header
+// summary: Declares IOSDeviceAuthorizationClient, the iOS implementation of DeviceAuthorizationClient for caching, storing, and populating device authorization keys.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_DEVICE_AUTHORIZATION_CLIENT_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_DEVICE_AUTHORIZATION_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_main_parts.mm.
+type: source
+title: IOSChromeMainParts implementation
+summary: Implements iOS Chrome startup in IOSChromeMainParts, setting up field trials, metrics services, crash reporting, and the application context.

@@ -1,0 +1,4 @@
+# Docerion header of passkey_egtest.mm.
+type: test
+title: Earl Grey tests for iOS Chrome passkey flows
+summary: Earl Grey 2 tests covering passkey creation, assertion, cancellation and the incognito interstitial using a fake keychain provider.

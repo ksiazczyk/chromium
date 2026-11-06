@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller_observer_bridge_unittest.mm.
+type: test
+title: Unit tests for ChooseFileControllerObserverBridge
+summary: Verifies with OCMock that destroying a controller notifies the bridged Objective-C observer.

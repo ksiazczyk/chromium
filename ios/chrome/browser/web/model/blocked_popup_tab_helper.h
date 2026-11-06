@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked popup tab helper header
+// summary: Declares a tab helper that blocks popups and shows an infobar letting users allow them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_BLOCKED_POPUP_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_BLOCKED_POPUP_TAB_HELPER_H_
 

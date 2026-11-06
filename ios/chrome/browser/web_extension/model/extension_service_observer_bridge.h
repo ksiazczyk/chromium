@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionService observer bridge header
+// summary: Declares an Objective-C protocol and a C++ observer bridge that forwards extension load error events to Objective-C observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_OBSERVER_BRIDGE_H_
 

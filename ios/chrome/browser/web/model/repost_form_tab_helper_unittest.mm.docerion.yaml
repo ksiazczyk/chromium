@@ -1,0 +1,4 @@
+# Docerion header of repost_form_tab_helper_unittest.mm.
+type: test
+title: RepostFormTabHelper unit tests
+summary: Unit tests covering repost dialog presentation location, cancellation, and dismissal behavior using a fake WebState and test delegate.

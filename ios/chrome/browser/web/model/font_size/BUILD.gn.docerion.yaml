@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the font size feature
+summary: Defines the font_size source set, its unit_tests target, and the optimized font_size_js TypeScript script for the iOS Chrome build.

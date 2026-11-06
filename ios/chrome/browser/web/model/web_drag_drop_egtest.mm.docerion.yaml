@@ -1,0 +1,4 @@
+# Docerion header of web_drag_drop_egtest.mm.
+type: test
+title: Web drag and drop Earl Grey tests
+summary: Earl Grey tests verifying that dragging and dropping a web link opens it in a new tab, covering incognito, iframe, and disallowed scheme cases.

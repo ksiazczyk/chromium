@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_coordinator.mm.
+type: source
+title: Passkey welcome screen coordinator implementation
+summary: Presents the passkey welcome screen in a navigation controller with the signed-in user's email and branded title, and handles dismissal via its delegate.

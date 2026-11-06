@@ -1,0 +1,4 @@
+# Docerion header of browsing_prevent_default_egtest.mm.
+type: test
+title: Browsing preventDefault Earl Grey tests
+summary: Earl Grey UI tests verifying that JavaScript preventDefault() prevents navigation and new tabs from opening when tapping links.

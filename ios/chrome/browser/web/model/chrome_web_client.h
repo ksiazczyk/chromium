@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebClient header
+// summary: Declares ChromeWebClient, the Chrome implementation of web::WebClient that customizes user agents, schemes, JavaScript features, and error pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHROME_WEB_CLIENT_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHROME_WEB_CLIENT_H_
 

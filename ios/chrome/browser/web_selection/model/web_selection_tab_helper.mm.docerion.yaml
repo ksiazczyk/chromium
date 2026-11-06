@@ -1,0 +1,4 @@
+# Docerion header of web_selection_tab_helper.mm.
+type: source
+title: WebSelectionTabHelper implementation
+summary: Implements the tab helper that retrieves the selected text of a web state via the JavaScript feature, queues concurrent callbacks, and answers with an invalid response on timeout or teardown.

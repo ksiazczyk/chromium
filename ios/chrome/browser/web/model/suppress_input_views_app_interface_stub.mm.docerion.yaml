@@ -1,0 +1,4 @@
+# Docerion header of suppress_input_views_app_interface_stub.mm.
+type: source
+title: Suppress input views app interface stub
+summary: Registers a stub implementation of the suppress input views app interface for Earl Grey test builds.

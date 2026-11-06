@@ -1,0 +1,4 @@
+# Docerion header of last_tap_location_tab_helper.mm.
+type: source
+title: Last tap location tab helper implementation
+summary: Implements tap location tracking by adding a gesture recognizer to the web view and recording the last tap point and time.

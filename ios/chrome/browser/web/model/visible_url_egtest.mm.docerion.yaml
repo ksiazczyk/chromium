@@ -1,0 +1,4 @@
+# Docerion header of visible_url_egtest.mm.
+type: test
+title: Visible URL Earl Grey tests
+summary: Earl Grey tests verifying the visible URL during history back, forward, and delta navigations using a pausable embedded test server handler.

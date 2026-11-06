@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last tap location tab helper header
+// summary: Declares a tab helper that tracks the last tap point and time on the web view using a tap gesture recognizer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_LAST_TAP_LOCATION_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHOOSE_FILE_LAST_TAP_LOCATION_TAB_HELPER_H_
 

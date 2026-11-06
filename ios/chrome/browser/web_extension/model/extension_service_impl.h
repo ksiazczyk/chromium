@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionServiceImpl header
+// summary: Declares the ExtensionService implementation that loads built-in web extensions, tracks readiness, and reports load errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_IMPL_H_
 
