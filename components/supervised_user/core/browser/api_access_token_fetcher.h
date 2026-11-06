@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API access token fetcher class declaration
+// summary: Declares ApiAccessTokenFetcher, which wraps primary account access token retrieval and invalidation behind a consumer callback interface.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_API_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_API_ACCESS_TOKEN_FETCHER_H_
 

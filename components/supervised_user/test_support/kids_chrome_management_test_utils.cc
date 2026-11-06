@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids management test utilities implementation
+// summary: Implements helpers that fill family member profile attributes for testing and append host resolver rules for embedded test servers.
+// ---
+
 #include "components/supervised_user/test_support/kids_chrome_management_test_utils.h"
 
 #include <string>

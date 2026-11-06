@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request creator implementation declarations
+// summary: Declares PermissionRequestCreatorImpl, which uses ParallelFetchManager to issue URL access permission requests via the Kids Management API.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PERMISSION_REQUEST_CREATOR_IMPL_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PERMISSION_REQUEST_CREATOR_IMPL_H_
 

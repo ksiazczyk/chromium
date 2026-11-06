@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExplicitPassphrasePlatformClient
+// summary: Abstract singleton that shares the explicit sync passphrase with non-browser sync clients, invoked from native code via JNI.
+// ---
+
 package org.chromium.components.sync;
 
 import androidx.annotation.VisibleForTesting;

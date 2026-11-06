@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory Metadata Mixin
+summary: Points to COMMON_METADATA so the directory inherits the sync team's metadata settings.

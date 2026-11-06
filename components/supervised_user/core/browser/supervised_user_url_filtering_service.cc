@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL filtering service implementation
+// summary: Implements the supervised user URL filtering service, aggregating web filter types across delegates and mapping safe search classifications to filtering behavior results.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_url_filtering_service.h"
 
 #include <type_traits>

@@ -1,0 +1,4 @@
+# Docerion header of bootstrap_new_data_type.sh.
+type: script
+title: Bootstrap Script for New Sync Data Types
+summary: Shell script that creates a branch adding a new sync data type proto, enum entry, and follow-up TODOs from a name and bug number.

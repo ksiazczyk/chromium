@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content filters settings observer bridge
+// summary: Java bridge that observes Android secure settings for supervised user content filters and notifies native code when the setting value changes or the application state changes.
+// ---
+
 package org.chromium.components.supervised_user;
 
 import android.database.ContentObserver;

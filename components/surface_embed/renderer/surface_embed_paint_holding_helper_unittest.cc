@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SurfaceEmbedPaintHoldingHelper
+// summary: gtest suite verifying initial state, surface ID updates, paint holding fallback setup, and timeout clearing behavior of the paint holding helper.
+// ---
+
 #include "components/surface_embed/renderer/surface_embed_paint_holding_helper.h"
 
 #include "base/test/task_environment.h"

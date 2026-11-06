@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chromium Sync Architecture Overview
+summary: Explains the layered architecture of Chromium Sync, covering service, engine, model, and protocol layers plus key workflows and threading.
+relations:
+  - documents /components/sync/protocol/sync.proto
+---
+
 # Chromium Sync Architecture Overview
 
 Chromium Sync is a system designed to synchronize user data (bookmarks, passwords, history, etc.) across multiple devices. It follows a layered architecture to separate high-level service logic, low-level sync protocol management, and individual data type models. This document describes the high-level architecture.

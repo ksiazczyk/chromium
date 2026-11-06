@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidParentalControls unit tests
+// summary: Verifies that subscribers are notified when browser and search content filter states change through the testing interface.
+// ---
+
 #include "components/supervised_user/core/browser/android/android_parental_controls.h"
 
 #include "base/callback_list.h"

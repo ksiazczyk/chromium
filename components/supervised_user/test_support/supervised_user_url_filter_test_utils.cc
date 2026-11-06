@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL filter test utilities implementation
+// summary: Implements fake delegates, a mock safe search URL checker client with queued callback resolution, and a checker client wrapper for URL filter tests.
+// ---
+
 #include "components/supervised_user/test_support/supervised_user_url_filter_test_utils.h"
 
 #include <cstddef>

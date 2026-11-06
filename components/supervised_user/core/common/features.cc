@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user feature flag definitions
+// summary: Defines base::Feature flags and helper functions for supervised user local web approvals, download URL filtering and sign-out dialog behavior across platforms.
+// ---
+
 #include "components/supervised_user/core/common/features.h"
 
 #include "base/check.h"

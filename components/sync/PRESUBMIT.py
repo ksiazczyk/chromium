@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit Check for Proto Visitor Changes
+# summary: Presubmit check that warns when sync proto files are changed without a corresponding proto_visitors.h update.
+# ---
+
 """
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts
 for more details about the presubmit API built into depot_tools.

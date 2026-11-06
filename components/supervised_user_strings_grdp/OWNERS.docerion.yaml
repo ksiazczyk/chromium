@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Supervised user strings OWNERS file
+summary: Delegates code ownership of this directory to the chrome/browser/supervised_user/OWNERS file.

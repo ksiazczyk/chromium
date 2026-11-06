@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher metrics implementation
+// summary: Implements histogram recording for proto fetcher status, latency, auth errors, HTTP or net errors, and retry counts.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher_metrics.h"
 
 #include <optional>

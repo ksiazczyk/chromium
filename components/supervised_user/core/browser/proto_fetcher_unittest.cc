@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto fetcher unit tests
+// summary: Unit tests for the supervised user proto fetcher, covering fetcher configurations, access token handling, metrics, and Kids Management API requests.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher.h"
 
 #include <memory>

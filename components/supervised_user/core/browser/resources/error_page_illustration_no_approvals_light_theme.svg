@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Light theme no-approvals error page illustration
+summary: Light theme SVG illustration for the simplified block interstitial variant that offers no approval request options.
+-->
+
 <svg width="224" height="224" viewBox="0 0 224 224" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M40.966 176.161C9.21025 153.903 8.60134 107.889 28.2251 79.713C47.8489 51.5451 88.3067 40.6286 120.062 62.8941C151.818 85.1519 162.848 127.458 143.224 155.634C123.6 183.809 72.714 198.426 40.966 176.168V176.161Z" fill="#F2F2F2"/>
 <path d="M167 168C176.941 168 185 160.165 185 150.5C185 140.835 176.941 133 167 133C157.059 133 149 140.835 149 150.5C149 160.165 157.059 168 167 168Z" fill="#F2F2F2"/>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account service class declaration
+// summary: Declares ChildAccountService, a keyed service that tracks child account status, Google authentication state and supervision changes.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_CHILD_ACCOUNT_SERVICE_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_CHILD_ACCOUNT_SERVICE_H_
 

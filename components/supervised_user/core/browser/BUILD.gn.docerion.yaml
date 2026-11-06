@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for supervised user core browser
+summary: Defines GN build targets, sources and dependencies for the supervised user core browser component, including fetcher, browser and test support libraries.

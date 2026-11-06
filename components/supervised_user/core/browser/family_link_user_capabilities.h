@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link user capabilities header
+// summary: Declares FamilyLinkUserCapabilitiesObserver and a helper that reports whether the primary account is subject to parental controls.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_USER_CAPABILITIES_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_USER_CAPABILITIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupervisedUserUrlCheckerClient unit tests
+// summary: Unit tests for SupervisedUserUrlCheckerClient covering credential modes, identity and token handling, and classification responses from the kids management endpoint.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_url_checker_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user error page implementation
+// summary: Builds HTML for supervised user block interstitial pages, including custodian details and approval request options.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_error_page.h"
 
 #include <string>

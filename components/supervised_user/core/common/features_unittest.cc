@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for supervised user features
+// summary: Unit tests verifying the enabled and disabled behavior of the supervised user local web approvals feature, including the Google-branded Android requirement.
+// ---
+
 #include "components/supervised_user/core/common/features.h"
 
 #include "base/dcheck_is_on.h"

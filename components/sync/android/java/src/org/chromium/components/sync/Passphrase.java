@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase
+// summary: Utility class that classifies sync passphrase types, identifying which ones count as explicit passphrases.
+// ---
+
 package org.chromium.components.sync;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user content settings provider implementation
+// summary: Implements a content settings provider that maps custodian-managed supervised user settings such as geolocation, camera, and cookies to content settings rules.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_content_settings_provider.h"
 
 #include <memory>

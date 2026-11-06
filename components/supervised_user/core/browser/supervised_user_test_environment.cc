@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user test environment implementation
+// summary: Implements the supervised user test environment, wiring pref stores, settings services, URL filters and fake network and sync components for supervised user tests.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_test_environment.h"
 
 #include <memory>

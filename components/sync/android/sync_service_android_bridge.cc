@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service Android bridge implementation
+// summary: Implements the JNI bridge that forwards calls from Java SyncServiceImpl to the native SyncService, including data type and callback handling.
+// ---
+
 #include "components/sync/android/sync_service_android_bridge.h"
 
 #include <cstdint>

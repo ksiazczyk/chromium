@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote web approvals manager implementation
+// summary: Implements RemoteWebApprovalsManager, which forwards remote web approval requests from supervised users to enabled permission request creators.
+// ---
+
 #include "components/supervised_user/core/browser/remote_web_approvals_manager.h"
 
 #include <string>

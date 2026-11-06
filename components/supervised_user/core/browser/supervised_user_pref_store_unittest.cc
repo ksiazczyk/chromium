@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user pref store unit tests
+// summary: Unit tests verifying that the supervised user pref store initializes, observes and propagates preference changes from Family Link settings and device parental controls.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_pref_store.h"
 
 #include <set>

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Surface Embed User Guide
+summary: Step-by-step guide for enabling and using Surface Embed, covering C++ setup, CSP configuration, obtaining content IDs, and rendering the embed element in HTML/JS.
+relations:
+  - references /chrome/browser/chrome_content_browser_client_receiver_bindings.cc
+  - references /components/surface_embed/common/features.h
+  - references /components/surface_embed/browser/surface_embed_host.h
+---
+
 # Surface Embed User Guide
 
 `//components/surface_embed` implements a mechanism to embed a

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service Android bridge header
+// summary: Declares the SyncServiceAndroidBridge class that forwards calls between Java SyncServiceImpl and the native SyncService and manages observer lifetime.
+// ---
+
 #ifndef COMPONENTS_SYNC_ANDROID_SYNC_SERVICE_ANDROID_BRIDGE_H_
 #define COMPONENTS_SYNC_ANDROID_SYNC_SERVICE_ANDROID_BRIDGE_H_
 

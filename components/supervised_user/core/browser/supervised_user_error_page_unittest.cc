@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user error page unit tests
+// summary: Parameterized unit tests for the supervised user error page, checking interstitial message IDs and generated HTML content with custodian information.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_error_page.h"
 
 #include <optional>

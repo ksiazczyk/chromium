@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List family members service unit tests
+// summary: Unit tests that verify ListFamilyMembersService flows family member responses into preferences and handles errors and repeated scheduling.
+// ---
+
 #include "components/supervised_user/core/browser/list_family_members_service.h"
 
 #include "base/test/task_environment.h"

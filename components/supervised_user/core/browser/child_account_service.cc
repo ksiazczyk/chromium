@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account service implementation
+// summary: Implements detection of child accounts on sign-in and browser restart, updating supervision status and related preferences.
+// ---
+
 #include "components/supervised_user/core/browser/child_account_service.h"
 
 #include <functional>

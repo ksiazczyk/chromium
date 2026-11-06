@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the surface_embed common component
+summary: Defines the common component sources and the mojom bindings target, including a component-build dependency override to avoid duplicate symbols.

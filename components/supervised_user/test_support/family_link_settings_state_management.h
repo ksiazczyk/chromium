@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings state management declarations
+// summary: Declares toggle types and the FamilyLinkSettingsState utility with intents to seed and check Family Link parental control states in tests.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_FAMILY_LINK_SETTINGS_STATE_MANAGEMENT_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_FAMILY_LINK_SETTINGS_STATE_MANAGEMENT_H_
 

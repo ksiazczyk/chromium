@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link URL filter header
+// summary: Declares FamilyLinkUrlFilter, which decides whether URLs are allowed or blocked using Family Link manual overrides, default behavior and asynchronous remote checks.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_URL_FILTER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_URL_FILTER_H_
 

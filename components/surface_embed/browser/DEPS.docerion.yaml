@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for surface_embed browser
+summary: Specifies which directories the surface embed browser code may include from, with extra allowances granted only to browser test files.

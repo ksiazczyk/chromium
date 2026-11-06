@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncFeatureMap
+// summary: Java accessor for the native sync feature map, exposing feature flag checks such as bookmarks in transport mode.
+// ---
+
 package org.chromium.components.sync;
 
 import org.jni_zero.JNINamespace;

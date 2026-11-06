@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings sync data type controller declaration
+// summary: Declares a DataTypeController for Family Link supervised user sync types, gated on the profile's IsSubjectToParentalControls state in transport mode.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_SETTINGS_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_SETTINGS_DATA_TYPE_CONTROLLER_H_
 

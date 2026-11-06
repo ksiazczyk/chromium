@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access callback test helpers implementation
+// summary: Implements helpers that build base64 encoded ParentAccessCallback approval and resize results for local web approval tests.
+// ---
+
 #include "components/supervised_user/test_support/parent_access_test_utils.h"
 
 #include <string>

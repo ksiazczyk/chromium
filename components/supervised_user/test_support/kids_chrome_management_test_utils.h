@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids management test utilities declarations
+// summary: Declares helpers for setting family member test attributes and adding host resolver rules before test setup.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_KIDS_CHROME_MANAGEMENT_TEST_UTILS_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_KIDS_CHROME_MANAGEMENT_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher status declarations
+// summary: Declares the ProtoFetcherStatus class with states for success, auth errors, HTTP or net errors, invalid responses, and data errors.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PROTO_FETCHER_STATUS_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PROTO_FETCHER_STATUS_H_
 

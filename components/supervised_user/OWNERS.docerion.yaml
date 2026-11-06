@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for supervised_user
+summary: Lists default reviewers and last-resort owners for ChromeOS and Chrome Browser changes, directing CLs to a shared review list for load balancing.

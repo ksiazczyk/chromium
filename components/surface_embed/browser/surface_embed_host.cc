@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedHost implementation
+// summary: Implements SurfaceEmbedHost and its per-document collection, bridging the embed plugin in the parent frame with the child WebContents connector over Mojo.
+// ---
+
 #include "components/surface_embed/browser/surface_embed_host.h"
 
 #include <algorithm>

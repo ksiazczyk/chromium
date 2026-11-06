@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user interstitial implementation
+// summary: Implements the blocking interstitial shown to supervised users when a page is filtered, including error page HTML contents, commands, and access requests.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_interstitial.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List family members service declarations
+// summary: Declares the ListFamilyMembersService keyed service that manages repeated fetching of family member data and updates family-related preferences.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_LIST_FAMILY_MEMBERS_SERVICE_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_LIST_FAMILY_MEMBERS_SERVICE_H_
 

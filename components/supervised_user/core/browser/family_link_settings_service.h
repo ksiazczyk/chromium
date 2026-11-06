@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings service declaration
+// summary: Declares a keyed syncable service that stores Family Link settings in a supervised user pref store and exposes host and URL exceptions.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_SETTINGS_SERVICE_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FAMILY_LINK_SETTINGS_SERVICE_H_
 

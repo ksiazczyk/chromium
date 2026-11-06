@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote web approvals manager unit tests
+// summary: Unit tests for RemoteWebApprovalsManager using a mock permission request creator to verify asynchronous approval request behavior.
+// ---
+
 #include "components/supervised_user/core/browser/remote_web_approvals_manager.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user block interstitial v3 JavaScript
+// summary: Implements the supervised user block interstitial, sending remote and local access request commands and showing custodian details and request status.
+// ---
+
 let localWebApprovalsEnabled = false;
 let hasSecondCustodian = false;
 

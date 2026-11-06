@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List family members service implementation
+// summary: Implements a keyed service that periodically fetches family member data from the Kids Management API and stores the member role in user preferences.
+// ---
+
 #include "components/supervised_user/core/browser/list_family_members_service.h"
 
 #include <memory>

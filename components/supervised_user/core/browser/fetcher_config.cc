@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetcher config implementation
+// summary: Defines network traffic annotations for supervised user API requests such as URL classification, family member listing and blocked site permission requests.
+// ---
+
 #include "components/supervised_user/core/browser/fetcher_config.h"
 
 #include <memory>

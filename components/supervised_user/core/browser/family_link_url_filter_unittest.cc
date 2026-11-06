@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link URL filter tests
+// summary: Unit tests for the Family Link URL filter covering host pattern matching, manual allow and deny lists, and default denylist behavior with expected filtering reasons.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_url_filter.h"
 
 #include <cstddef>

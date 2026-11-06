@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test account repository declarations
+// summary: Declares test account data structures for families and members and the TestAccountRepository class used to pick accounts in tests.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_ACCOUNT_REPOSITORY_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_ACCOUNT_REPOSITORY_H_
 

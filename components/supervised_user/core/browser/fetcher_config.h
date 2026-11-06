@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetcher config header
+// summary: Declares FetcherConfig, a configuration bundle for the ProtoFetcher covering service paths, HTTP methods, backoff policy, metrics and access token settings.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FETCHER_CONFIG_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_FETCHER_CONFIG_H_
 

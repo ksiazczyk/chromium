@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for SurfaceEmbed plugin creation
+// summary: Declares MaybeCreatePlugin for ContentRendererClient overrides, documenting the renderer- and browser-side URL checks that guard plugin creation.
+// ---
+
 #ifndef COMPONENTS_SURFACE_EMBED_RENDERER_CREATE_PLUGIN_H_
 #define COMPONENTS_SURFACE_EMBED_RENDERER_CREATE_PLUGIN_H_
 

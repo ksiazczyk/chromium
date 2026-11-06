@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto fetcher status unit tests
+// summary: Unit tests verifying creation and classification of ProtoFetcherStatus values for ok, transient, and persistent error cases.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher_status.h"
 
 #include "net/base/net_errors.h"

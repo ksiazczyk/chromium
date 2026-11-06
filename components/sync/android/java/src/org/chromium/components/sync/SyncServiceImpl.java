@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceImpl
+// summary: JNI wrapper implementing SyncService that forwards calls to the native C++ SyncServiceImpl and observes account changes.
+// ---
+
 package org.chromium.components.sync;
 
 import androidx.annotation.VisibleForTesting;

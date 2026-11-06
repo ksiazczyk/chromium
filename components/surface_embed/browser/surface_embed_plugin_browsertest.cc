@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface embed plugin browser tests
+// summary: Content browser tests for the surface embed plugin and host, covering attachment, focus, visual properties, pinch zoom and accessibility via dedicated harness pages.
+// ---
+
 #include <cstdint>
 
 #include "base/command_line.h"

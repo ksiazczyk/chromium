@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web content handler implementation
+// summary: Implements shared web content handler logic that records local web approval outcome, duration, and error type metrics for supervised users.
+// ---
+
 #include "components/supervised_user/core/browser/web_content_handler.h"
 
 #include "base/logging.h"

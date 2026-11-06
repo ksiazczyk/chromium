@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFiltersObserverBridge implementation
+// summary: Implements the JNI bridge that observes Android secure settings, tracks their enabled state, and notifies registered C++ observers.
+// ---
+
 #include "components/supervised_user/core/browser/android/content_filters_observer_bridge.h"
 
 #include <string_view>

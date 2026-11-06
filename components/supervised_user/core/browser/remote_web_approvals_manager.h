@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote web approvals manager interface
+// summary: Declares RemoteWebApprovalsManager, which manages remote web approval requests from Family Link users that are sent asynchronously to guardians.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_REMOTE_WEB_APPROVALS_MANAGER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_REMOTE_WEB_APPROVALS_MANAGER_H_
 

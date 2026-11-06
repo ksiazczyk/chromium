@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the surface_embed renderer component
+summary: GN build file defining the surface_embed renderer component and its unit test source set, listing their sources and build dependencies.

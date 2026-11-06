@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link URL filter implementation
+// summary: Implements URL filtering for supervised users based on Family Link settings, combining manual allow and block overrides, remote SafeSearch checks and filtering metrics.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_url_filter.h"
 
 #include <memory>

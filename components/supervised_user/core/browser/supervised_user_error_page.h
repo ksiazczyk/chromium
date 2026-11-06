@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user error page interface
+// summary: Declares functions that build supervised user block interstitial HTML and map filtering reasons to interstitial message IDs.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_ERROR_PAGE_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_ERROR_PAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service implementation
+// summary: Implements the supervised user service, extracting custodian data from preferences and orchestrating supervision features such as remote approvals and incognito availability.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_service.h"
 
 #include <array>

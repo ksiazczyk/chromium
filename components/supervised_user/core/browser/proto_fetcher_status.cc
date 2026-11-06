@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher status implementation
+// summary: Implements ProtoFetcherStatus helpers that classify fetch outcomes as ok, transient, or persistent errors and render status descriptions.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher_status.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parallel fetch manager for proto fetchers
+// summary: Declares a template manager that runs multiple proto fetches concurrently and cleans up finished or canceled requests from an internal map.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PARALLEL_FETCH_MANAGER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PARALLEL_FETCH_MANAGER_H_
 

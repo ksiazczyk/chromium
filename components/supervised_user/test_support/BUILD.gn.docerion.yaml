@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Supervised user test support build configuration
+summary: GN build file defining the test_support and account_repository source sets with their dependencies, plus the account repository unit test target.

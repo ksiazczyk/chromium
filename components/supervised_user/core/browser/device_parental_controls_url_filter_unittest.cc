@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device parental controls URL filter unit tests
+// summary: Unit tests for DeviceParentalControlsUrlFilter covering web filter types and filtering behavior for main frames and subframes.
+// ---
+
 #include "components/supervised_user/core/browser/device_parental_controls_url_filter.h"
 
 #include "base/test/bind.h"

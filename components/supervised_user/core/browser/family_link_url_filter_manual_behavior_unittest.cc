@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link URL filter manual behavior tests
+// summary: Unit tests verifying manual allow and block behavior of the Family Link URL filter, including host canonicalization, allow-all mode and disabled parental controls.
+// ---
+
 #include <map>
 #include <optional>
 #include <string>

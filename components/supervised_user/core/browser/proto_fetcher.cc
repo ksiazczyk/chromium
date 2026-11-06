@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher implementation
+// summary: Implements the generic protobuf fetch process that obtains access tokens, builds Kids Management API requests, and handles HTTP responses and retries.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher.h"
 
 #include <memory>

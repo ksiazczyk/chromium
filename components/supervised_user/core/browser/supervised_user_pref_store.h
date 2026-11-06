@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user pref store header
+// summary: Declares SupervisedUserPrefStore, which supplies preference values derived from Family Link settings and Android device parental controls.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_PREF_STORE_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_PREF_STORE_H_
 

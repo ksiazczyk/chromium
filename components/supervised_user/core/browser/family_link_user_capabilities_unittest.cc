@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link user capabilities tests
+// summary: Unit tests verifying capability change notifications for signed-out users, signed-in adults and children subject to parental controls.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_user_capabilities.h"
 
 #include "base/test/task_environment.h"

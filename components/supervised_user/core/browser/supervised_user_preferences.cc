@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user preferences implementation
+// summary: Implements preference operations for family supervision, including registering family and custodian preferences and toggling parental controls and Google Safe Search.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_preferences.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserUrlCheckerClient class header
+// summary: Declares SupervisedUserUrlCheckerClient, which classifies URLs via the Kids Chrome Management ClassifyUrl RPC and returns results asynchronously, optionally with end-user credentials.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_KIDS_CHROME_MANAGEMENT_URL_CHECKER_CLIENT_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_KIDS_CHROME_MANAGEMENT_URL_CHECKER_CLIENT_H_
 

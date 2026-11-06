@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync Directory Owners
+summary: Lists the default reviewers and review mailing list for code changes in the components/sync directory.

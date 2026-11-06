@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Family member profile and role protobuf definitions
+// summary: Defines FamilyMember, FamilyMemberProfile and FamilyRole messages describing family members, their profiles and roles.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

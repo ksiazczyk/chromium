@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncService
+// summary: Java interface mirroring the native SyncService, exposing sync engine state, data type selection, and passphrase queries.
+// ---
+
 package org.chromium.components.sync;
 
 import androidx.annotation.VisibleForTesting;

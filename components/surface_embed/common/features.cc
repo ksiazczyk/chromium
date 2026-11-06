@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbed feature flag definition
+// summary: Defines the kSurfaceEmbed base feature that enables embedding WebContents via a WebPlugin, enabled by default.
+// ---
+
 #include "components/surface_embed/common/features.h"
 
 namespace surface_embed {

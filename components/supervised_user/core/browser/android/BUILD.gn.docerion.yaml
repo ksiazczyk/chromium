@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for supervised user Android browser sources
+summary: Defines the android source set and unit_tests target with their dependencies for the supervised user Android parental controls code.

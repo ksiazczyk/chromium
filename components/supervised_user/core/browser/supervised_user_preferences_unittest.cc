@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user preferences unit tests
+// summary: Unit tests for supervised user preference registration, parental control toggling, child account status and family member information fetching.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_preferences.h"
 
 #include <memory>

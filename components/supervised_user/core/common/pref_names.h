@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user preference name constants
+// summary: Declares preference name constants for supervised user custodian details, child account status and extension permission approval settings.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_COMMON_PREF_NAMES_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_COMMON_PREF_NAMES_H_
 

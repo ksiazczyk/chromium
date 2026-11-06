@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request creator implementation
+// summary: Implements PermissionRequestCreator by sending permission requests for URLs to the Kids Management API and validating the responses.
+// ---
+
 #include "components/supervised_user/core/browser/permission_request_creator_impl.h"
 
 #include <memory>

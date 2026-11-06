@@ -1,3 +1,9 @@
+---
+type: reference
+title: Security Model for //components/sync
+summary: Documents the threat model for Chromium Sync, including trust assumptions, in-scope vulnerabilities, and what is not a security boundary.
+---
+
 # Security Model for //components/sync
 
 Chromium Sync synchronizes user data (e.g., bookmarks, passwords, history) across multiple devices under the same account. It runs entirely in the browser process.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Parent access callback protobuf definitions
+// summary: Defines callback messages invoked by the Parent Access Interface, covering parent verification tokens, consent decline and page size events.
+// ---
+
 syntax = "proto3";
 
 package kids.platform.parentaccess.client.proto;

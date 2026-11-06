@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for supervised_user
+summary: Lists allowed dependencies for code in the supervised_user component, covering autofill, signin, sync, policy, network and other Chromium modules.
