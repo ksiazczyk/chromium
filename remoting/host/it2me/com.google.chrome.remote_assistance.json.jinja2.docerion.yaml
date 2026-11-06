@@ -1,0 +1,4 @@
+# Docerion header of com.google.chrome.remote_assistance.json.jinja2.
+type: config
+title: Native messaging manifest template
+summary: Jinja2 template that generates the native messaging manifest with the allowed Chrome extension origins.

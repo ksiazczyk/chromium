@@ -1,0 +1,4 @@
+# Docerion header of com.google.chrome.remote_assistance-firefox.json.jinja2.
+type: config
+title: Firefox native messaging manifest template
+summary: Jinja2 template for the Firefox native messaging manifest of the remote assistance host.

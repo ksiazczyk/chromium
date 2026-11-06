@@ -1,0 +1,4 @@
+# Docerion header of rules.
+type: source
+title: Debian package build rules
+summary: Debhelper rules makefile that forces xz compression and prevents auto-enabling or restarting the Chrome Remote Desktop service on upgrades.

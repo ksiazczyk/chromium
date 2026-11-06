@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: It2Me confirmation dialog proxy unit tests
+// summary: Unit tests verifying that the dialog proxy shows the dialog on the UI thread, disables inputs while draining, and reports results on the caller's thread.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog_proxy.h"
 
 #include <memory>

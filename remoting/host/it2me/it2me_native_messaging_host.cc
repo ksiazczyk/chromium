@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me native messaging host implementation
+// summary: Implements the It2Me native messaging host process, handling connect and disconnect requests, policy updates, OAuth tokens, and delegation to an elevated host on Windows.
+// ---
+
 #include "remoting/host/it2me/it2me_native_messaging_host.h"
 
 #include <memory>

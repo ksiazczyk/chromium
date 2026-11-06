@@ -1,0 +1,4 @@
+# Docerion header of installer.include.
+type: script
+title: Shared shell functions for packaging and staging
+summary: Shell functions shared by the packaging scripts to log commands, process template includes and variables, and stage install files into the package directory.

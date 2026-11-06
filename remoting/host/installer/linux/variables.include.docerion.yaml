@@ -1,0 +1,4 @@
+# Docerion header of variables.include.
+type: config
+title: Package defaults file variables template
+summary: Defines the DEFAULTS_FILE template variable pointing to the system-wide package configuration path.

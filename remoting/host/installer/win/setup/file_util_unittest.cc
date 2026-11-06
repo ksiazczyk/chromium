@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for installer file utilities
+// summary: Unit tests that simulate locked files and verify deploy, update, and uninstall behavior of the installer file utilities.
+// ---
+
 #include "remoting/host/installer/win/setup/file_util.h"
 
 #include <windows.h>

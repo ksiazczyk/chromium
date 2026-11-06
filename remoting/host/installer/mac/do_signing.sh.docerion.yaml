@@ -1,0 +1,4 @@
+# Docerion header of do_signing.sh.
+type: script
+title: Chromoting signing and DMG packaging script
+summary: Shell script that signs the Chromoting binaries, builds the installer packages with packagesbuild, and packages them into a DMG, optionally submitting it for Apple notarization.

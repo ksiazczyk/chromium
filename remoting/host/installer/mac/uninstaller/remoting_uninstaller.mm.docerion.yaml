@@ -1,0 +1,4 @@
+# Docerion header of remoting_uninstaller.mm.
+type: source
+title: Remoting uninstaller implementation
+summary: Implements the uninstaller logic that runs privileged commands, stops the remoting service, kills processes and deletes host files on macOS.

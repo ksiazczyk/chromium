@@ -1,0 +1,4 @@
+# Docerion header of build-installer-archive.py.
+type: script
+title: Chrome Remote Desktop Host installer archive builder
+summary: Python script that builds a zip archive with the files needed to create the Chrome Remote Desktop Host installer, which signing bots use to sign binaries and build the final installer.

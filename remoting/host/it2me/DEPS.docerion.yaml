@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ChromeOS it2me sources
+summary: Lists extra include permissions for the ChromeOS confirmation dialog sources and their unit test.

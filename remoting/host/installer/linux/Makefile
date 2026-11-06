@@ -5,6 +5,12 @@
 # This Makefile is used by debhelper, which supplies the appropriate value of
 # variables not defined here, such as DESTDIR.
 
+# ---docerion
+# type: source
+# title: Makefile for installing the Chrome Remote Desktop host
+# summary: Used by debhelper to install the host binaries, scripts, PipeWire templates, native messaging hosts and other files into their system destinations.
+# ---
+
 ifndef SRC_DIR
   SRC_DIR = ../../../..
 endif

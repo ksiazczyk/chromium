@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer constants and default install directory
+// summary: Defines installer constants such as command-line switches, Omaha app ID, legacy MSI upgrade code, service names, binary names, and the default install directory helper.
+// ---
+
 #ifndef REMOTING_HOST_INSTALLER_WIN_SETUP_INSTALLER_CONSTANTS_H_
 #define REMOTING_HOST_INSTALLER_WIN_SETUP_INSTALLER_CONSTANTS_H_
 

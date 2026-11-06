@@ -1,0 +1,4 @@
+# Docerion header of remoting_uninstaller_app.mm.
+type: source
+title: Remoting uninstaller app delegate implementation
+summary: Implements the uninstaller application delegate that builds the uninstall window, handles user actions and reports uninstall results.

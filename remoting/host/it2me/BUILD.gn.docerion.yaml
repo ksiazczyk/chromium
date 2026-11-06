@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the it2me host
+summary: Defines GN source sets and platform-conditional dependencies for the it2me remote support host components.

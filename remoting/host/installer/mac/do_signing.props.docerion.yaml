@@ -1,0 +1,4 @@
+# Docerion header of do_signing.props.
+type: config
+title: Signing build properties
+summary: Key-value properties file with placeholder values for DMG and bundle names that the signing script reads at build time.

@@ -1,0 +1,4 @@
+# Docerion header of control.
+type: config
+title: Debian package control file for chrome-remote-desktop
+summary: Defines the package source and binary metadata, build and runtime dependencies, and description for the Chrome Remote Desktop Debian package.

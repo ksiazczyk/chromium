@@ -1,0 +1,4 @@
+# Docerion header of chrome-remote-desktop@.service.
+type: config
+title: Systemd unit for the Chrome Remote Desktop host instance
+summary: Systemd template service that runs the single-process Chrome Remote Desktop host for a user, defining start, reload and stop commands and restart behavior.

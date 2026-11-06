@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me confirmation dialog proxy declaration
+// summary: Declares It2MeConfirmationDialogProxy, a helper class for using an It2Me confirmation dialog from a non-UI thread.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_PROXY_H_
 #define REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_PROXY_H_
 

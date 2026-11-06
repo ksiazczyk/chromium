@@ -1,0 +1,4 @@
+# Docerion header of generate_clsids.gni.
+type: config
+title: GN helper that generates host CLSIDs
+summary: GN import that runs get_clsids.py to compute the RDP desktop session CLSID used by the Windows installer build.

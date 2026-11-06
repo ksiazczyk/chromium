@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me native messaging host main entry point
+// summary: Implements It2MeNativeMessagingHostMain, which initializes host services, attaches the It2Me native messaging host to stdin/stdout, and runs until shutdown.
+// ---
+
 #include "remoting/host/it2me/it2me_native_messaging_host_main.h"
 
 #include <utility>

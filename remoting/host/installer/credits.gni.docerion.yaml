@@ -1,0 +1,4 @@
+# Docerion header of credits.gni.
+type: config
+title: GN template for generating remoting credits
+summary: GN build file defining the remoting_credits template, which generates a CREDITS.txt file listing dependency licenses for the remoting installer.

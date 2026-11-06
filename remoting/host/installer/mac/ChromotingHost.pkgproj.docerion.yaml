@@ -1,0 +1,4 @@
+# Docerion header of ChromotingHost.pkgproj.
+type: config
+title: Chromoting Host installer package project
+summary: Packages project plist describing the file hierarchy and settings for building the main Chromoting Host installer package.

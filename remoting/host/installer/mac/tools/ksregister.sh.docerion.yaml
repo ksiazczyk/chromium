@@ -1,0 +1,4 @@
+# Docerion header of ksregister.sh.
+type: script
+title: ksregister.sh
+summary: Shell script that registers the Chrome Remote Desktop host with Google's Keystone update service so it receives automatic updates.

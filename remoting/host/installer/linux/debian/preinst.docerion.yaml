@@ -1,0 +1,4 @@
+# Docerion header of preinst.
+type: script
+title: Pre-installation maintainer script
+summary: Removes the obsolete SysVinit conffile, records md5 hashes of installed files, and creates the package defaults file on fresh installs.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Linux host Debian package
+summary: Defines GN targets that build the chrome-remote-desktop Debian package and package the deb and changes files into a zip archive for build archiving.

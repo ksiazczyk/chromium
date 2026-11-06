@@ -1,0 +1,4 @@
+# Docerion header of triggers.
+type: config
+title: dpkg triggers for PAM library paths
+summary: Declares dpkg triggers so the package is reconfigured when the PAM library or its security directory changes.

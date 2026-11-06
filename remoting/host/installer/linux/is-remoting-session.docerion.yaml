@@ -1,0 +1,4 @@
+# Docerion header of is-remoting-session.
+type: script
+title: Deprecated check for a virtual Me2Me session
+summary: Deprecated shell wrapper that reports whether the current desktop is a virtual Me2Me session by calling remote-session-info with --is-crd-session.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS IT2Me confirmation dialog unit tests
+// summary: Verifies the ChromeOS IT2Me confirmation dialog across lock, login, and user session states and dialog styles.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog_chromeos.h"
 
 #include <algorithm>

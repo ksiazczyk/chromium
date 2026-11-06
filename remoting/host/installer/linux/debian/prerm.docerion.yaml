@@ -1,0 +1,4 @@
+# Docerion header of prerm.
+type: script
+title: Debian prerm script for Chrome Remote Desktop
+summary: Debian pre-removal script that stops the templated Chrome Remote Desktop systemd services when the package is removed.

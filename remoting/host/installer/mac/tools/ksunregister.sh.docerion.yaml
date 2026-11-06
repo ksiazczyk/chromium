@@ -1,0 +1,4 @@
+# Docerion header of ksunregister.sh.
+type: script
+title: ksunregister.sh
+summary: Shell script that removes the Chrome Remote Desktop host's product ticket from Google's Keystone update service.

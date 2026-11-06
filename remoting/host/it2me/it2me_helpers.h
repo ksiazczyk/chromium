@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host state helper declaration
+// summary: Declares It2MeHostStateToString, which returns a readable name for an It2MeHostState used in logging and JSON messages.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_HELPERS_H_
 #define REMOTING_HOST_IT2ME_IT2ME_HELPERS_H_
 

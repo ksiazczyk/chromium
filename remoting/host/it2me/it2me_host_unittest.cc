@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: It2Me host unit tests
+// summary: Unit tests for the It2Me host covering client authentication, access codes, domain validation, port ranges, policies, and ChromeOS enterprise sessions.
+// ---
+
 #include "remoting/host/it2me/it2me_host.h"
 
 #include <memory>

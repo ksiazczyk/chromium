@@ -1,0 +1,4 @@
+# Docerion header of keystone_install.sh.
+type: script
+title: Keystone install script for Chrome Remote Desktop host
+summary: Runs the macOS installer to install the Chrome Remote Desktop host package and logs the Keystone installer version.

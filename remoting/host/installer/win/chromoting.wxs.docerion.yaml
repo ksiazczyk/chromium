@@ -1,0 +1,4 @@
+# Docerion header of chromoting.wxs.
+type: config
+title: WiX installer definition for the Windows host
+summary: WiX source defining the Windows MSI installer for the remote desktop host, including components, registry keys, COM settings and security descriptors.

@@ -1,0 +1,4 @@
+# Docerion header of remoting_uninstaller-InfoPlist.strings.jinja2.
+type: config
+title: Remoting uninstaller InfoPlist strings template
+summary: Jinja2 template that generates the localized Info.plist strings, such as bundle name and copyright, for the Mac uninstaller bundle.

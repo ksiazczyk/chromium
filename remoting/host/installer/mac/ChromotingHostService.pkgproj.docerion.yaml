@@ -1,0 +1,4 @@
+# Docerion header of ChromotingHostService.pkgproj.
+type: config
+title: Chromoting Host service package project
+summary: Packages project defining the Chromoting Host Service package layout, including native messaging host config files for Chrome and Firefox.

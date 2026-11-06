@@ -1,0 +1,4 @@
+# Docerion header of build-deb.sh.
+type: script
+title: Debian package build script for the remoting host
+summary: Builds the chrome-remote-desktop Debian package, computing the full version from the VERSION files and staging sources for reproducible dpkg-buildpackage runs.

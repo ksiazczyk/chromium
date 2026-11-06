@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows service management API
+// summary: Declares helpers for managing the Chrome Remote Desktop Windows service and for signaling or checking host session and update-pending events.
+// ---
+
 #ifndef REMOTING_HOST_INSTALLER_WIN_SETUP_SERVICE_UTIL_H_
 #define REMOTING_HOST_INSTALLER_WIN_SETUP_SERVICE_UTIL_H_
 

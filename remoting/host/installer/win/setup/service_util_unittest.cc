@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for host session and update events
+// summary: Unit tests for session-active and update-pending event handling using uniquely named Windows events.
+// ---
+
 #include "remoting/host/installer/win/setup/service_util.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of chrome-remote-desktop.pam.
+type: config
+title: PAM configuration for Chrome Remote Desktop
+summary: PAM policy that includes common auth, account, password, and session modules plus SELinux and limits handling for remote desktop sessions.

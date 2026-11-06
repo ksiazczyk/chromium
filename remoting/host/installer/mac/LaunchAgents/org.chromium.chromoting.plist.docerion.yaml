@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.chromoting.plist.
+type: config
+title: Chromoting macOS LaunchAgent configuration
+summary: launchd property list that runs the Chrome Remote Desktop host service from launchd at load time for Aqua and LoginWindow sessions.

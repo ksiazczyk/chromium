@@ -1,0 +1,4 @@
+# Docerion header of ChromotingHostUninstaller.pkgproj.
+type: config
+title: Chromoting Host uninstaller package project
+summary: Packages project defining the Chromoting Host Uninstaller package, which installs the uninstaller app into Applications.

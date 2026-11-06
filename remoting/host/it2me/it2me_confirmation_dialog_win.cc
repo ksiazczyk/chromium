@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me confirmation dialog for Windows
+// summary: Windows implementation of the It2Me confirmation dialog using a task dialog with confirm and decline buttons and a one-minute timeout.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog.h"
 
 #include <windows.h>

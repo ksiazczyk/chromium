@@ -1,3 +1,13 @@
+---
+type: readme
+title: IT2Me remote support implementation notes
+summary: Explains the IT2Me remote support host architecture, core components, and stability warnings for this directory.
+relations:
+  - documents /remoting/host/it2me/it2me_native_messaging_host_main.cc
+  - documents /remoting/host/it2me/it2me_host.cc
+  - documents /remoting/host/it2me/it2me_native_messaging_host.cc
+---
+
 # IT2Me (Remote Support) Implementation
 
 This directory contains the host-side logic for "Remote Support" (IT2Me), which

@@ -1,0 +1,4 @@
+# Docerion header of postinst.
+type: script
+title: Post-installation maintainer script
+summary: Creates sandboxed system users, restarts Chrome Remote Desktop processes, and notifies virtual desktop users to log out after package upgrades.
