@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: data
+title: iOS unit tests bundle data filelist
+summary: Generated list of Safe Browsing test data files bundled for iOS unit tests, updated via update_bundle_filelist.py.

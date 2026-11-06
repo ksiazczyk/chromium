@@ -1,0 +1,4 @@
+# Docerion header of window_open_spoof_click.html.
+type: test
+title: Window open spoof click test page
+summary: Test page that simulates a spoofed shift-click on a link to open a window and replies to postMessage when embedded as a subframe.

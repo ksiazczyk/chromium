@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Delayed single-option shipping show promise test script
+// summary: Launches PaymentRequest with a show promise that resolves after one second to a single pre-selected free shipping option.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and a single pre-selected option
  * for shipping worldwide. The show promise resolves after 1 second.

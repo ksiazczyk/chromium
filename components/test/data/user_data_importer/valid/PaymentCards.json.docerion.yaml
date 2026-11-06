@@ -1,0 +1,4 @@
+# Docerion header of PaymentCards.json.
+type: test
+title: Safari payment cards fixture for user data import tests
+summary: Safari payment cards export with sample Visa card entries including numbers, holders and expiry dates, used as a valid input fixture for importer tests.

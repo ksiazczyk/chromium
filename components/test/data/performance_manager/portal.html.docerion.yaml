@@ -1,0 +1,4 @@
+# Docerion header of portal.html.
+type: test
+title: Site with a portal containing empty.html
+summary: Test page with a portal element that loads empty.html.

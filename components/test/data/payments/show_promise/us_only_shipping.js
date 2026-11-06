@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise test with US-only shipping
+// summary: JavaScript that launches PaymentRequest with a show promise, updating shipping options for US addresses and erroring for non-US addresses.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and US-only shipping.
  * @param {string} supportedMethods - The payment method identifier.

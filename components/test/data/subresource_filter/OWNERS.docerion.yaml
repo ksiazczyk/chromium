@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for subresource filter test data
+summary: Grants per-file ownership so anyone may update the unit tests bundle data filelist.

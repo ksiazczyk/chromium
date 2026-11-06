@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Payment method manifest for Nick Pay
+summary: Payment method manifest served at the payment method identifier that lists app.json as the default payment application.

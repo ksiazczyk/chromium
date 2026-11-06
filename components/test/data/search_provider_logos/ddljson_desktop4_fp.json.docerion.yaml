@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop4_fp.json.
+type: test
+title: Desktop Pony Express doodle JSON test fixture with fingerprint
+summary: Test fixture holding a Google doodle JSON response with fingerprint for the Pony Express test interactive doodle, used by desktop search provider logo tests.

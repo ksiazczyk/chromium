@@ -1,3 +1,9 @@
+---
+type: readme
+title: Regenerating and testing puffin patch test files
+summary: Explains how to regenerate the test puff patch and crx3 files on Linux, Mac and Windows after changing the test app sources, and how to verify the patches with puffin_unittest.
+---
+
 ## How to regenerate linux, mac and windows test puff files:
 
 If changes are made to puffin_app_v1/main.cc or puffin_app_v2/main.cc, the various puff files which represent a patch between the crx's produced by each of these sources. Thus, we'll need to regenerate these on each platform.

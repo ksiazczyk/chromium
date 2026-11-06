@@ -1,0 +1,4 @@
+# Docerion header of worklet_script_fetch.html.
+type: test
+title: Worklet script fetch test page
+summary: Test page that loads audio and paint worklets from a script and reports whether the fetches succeeded, partially failed, or failed.

@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: QuincyPay web app manifest
+summary: Web app manifest with two related_applications entries for com.quincypay.app, each carrying a different SHA256 certificate fingerprint.

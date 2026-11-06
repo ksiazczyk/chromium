@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: data
+title: iOS unit tests bundle data globlist
+summary: Glob patterns used to regenerate the bundle data filelist, excluding the filelist, globlist and OWNERS files.

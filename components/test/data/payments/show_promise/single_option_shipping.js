@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Single-option shipping show promise test script
+// summary: Launches PaymentRequest with a show promise resolving to a single pre-selected free shipping option and prints the resulting payment details.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and a single pre-selected option
  * for shipping worldwide.

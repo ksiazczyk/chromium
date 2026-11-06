@@ -1,0 +1,4 @@
+# Docerion header of intersection_observer_target.html.
+type: test
+title: Intersection observer target page
+summary: Test page with promise-based helpers that observe a full-size target element's viewport intersection state and ratio.

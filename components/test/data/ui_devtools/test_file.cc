@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // This file is for testing GetSource.
+
+// ---docerion
+// type: test
+// title: Test file for GetSource
+// summary: Test data source file used to exercise the GetSource functionality in the ui_devtools tests.
+// ---

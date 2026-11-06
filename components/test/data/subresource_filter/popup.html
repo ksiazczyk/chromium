@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Popup test page loading a disallowed pixel image
+summary: Test popup page that loads pixel.png with an ad query parameter and reports the load result through the document title.
+-->
+
 <html>
   <body>
     <img src='/subresource_filter/pixel.png?ad=true' onload='document.title = "loaded";' onerror='document.title = "failed";'>

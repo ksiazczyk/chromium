@@ -1,0 +1,4 @@
+# Docerion header of f1.
+type: test
+title: f1 manifest patch for version 2.0
+summary: Patch file that creates the version 2.0 app manifest in the bad 1-to-2 differential update test.

@@ -1,0 +1,4 @@
+# Docerion header of basic_test.out.
+type: test
+title: Basic test output
+summary: Records successful generation and highlighting results for the basic shared highlighting navigation test.

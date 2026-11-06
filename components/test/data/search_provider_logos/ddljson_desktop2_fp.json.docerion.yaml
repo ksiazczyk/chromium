@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop2_fp.json.
+type: test
+title: Desktop Halloween doodle JSON fixture with fingerprint
+summary: Test fixture with Google Doodle JSON for the interactive Halloween 2016 doodle on desktop, including a fingerprint and embedded interactive HTML.

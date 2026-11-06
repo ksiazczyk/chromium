@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise resolving with empty dictionary
+// summary: Shows a PaymentRequest with shipping options and modifiers, resolving show() with an empty dictionary that should not clear existing items.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise that resolves with an empty
  * dictionary.

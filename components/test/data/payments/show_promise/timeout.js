@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise timeout test script
+// summary: Launches PaymentRequest with a show promise that is intentionally never resolved or rejected, returning the timeout error for Java and C++ browser tests.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and don't resolve or reject it.
  * @param {string} supportedMethods - The payment method identifier.

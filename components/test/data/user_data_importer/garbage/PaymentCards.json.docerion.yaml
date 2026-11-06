@@ -1,0 +1,4 @@
+# Docerion header of PaymentCards.json.
+type: test
+title: Non-conforming Safari payment cards JSON test fixture
+summary: Test fixture with valid JSON carrying Safari payment card metadata that does not match the expected schema, used to test importer validation.

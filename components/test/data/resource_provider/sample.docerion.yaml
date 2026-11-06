@@ -1,0 +1,4 @@
+# Docerion header of sample.
+type: test
+title: Sample test data
+summary: Sample data file providing test data for resource provider tests.

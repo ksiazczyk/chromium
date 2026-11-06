@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Unit tests bundle data globlist for value store
+summary: Glob patterns used to regenerate the bundle data filelist for the value store unit tests.

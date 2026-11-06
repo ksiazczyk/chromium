@@ -1,0 +1,4 @@
+# Docerion header of OSCryptKey-k1.
+type: test
+title: OSCryptKey-k1 test fixture key
+summary: Dummy 32-character crypt key stored as a test fixture for the session tests, including encrypted session variants.

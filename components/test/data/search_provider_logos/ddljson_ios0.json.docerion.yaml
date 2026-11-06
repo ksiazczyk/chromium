@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios0.json.
+type: test
+title: iOS doodle JSON test fixture 0
+summary: Test fixture containing a Google doodle JSON response with an embedded base64 PNG logo used by iOS search provider logo tests.

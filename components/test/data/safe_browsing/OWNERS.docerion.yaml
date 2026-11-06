@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Safe Browsing test data
+summary: Sets per-file ownership rules so anyone may update the unit tests bundle data filelist.

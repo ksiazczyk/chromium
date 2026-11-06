@@ -1,0 +1,4 @@
+# Docerion header of image_embeddings.textproto.
+type: data
+title: Safe Browsing image embeddings textproto
+summary: Text protobuf defining image embeddings with IDs, thresholds and values used as Safe Browsing test data.

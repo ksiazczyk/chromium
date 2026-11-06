@@ -1,0 +1,4 @@
+# Docerion header of worker_fetch_data.txt.
+type: test
+title: Worker fetch dummy data
+summary: Dummy data file fetched by the worker script during subresource filter fetch tests.

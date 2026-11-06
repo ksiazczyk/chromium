@@ -1,0 +1,4 @@
+# Docerion header of sample2.
+type: test
+title: Sample2 test resource file
+summary: Sample text resource used as fixture data for resource provider tests.

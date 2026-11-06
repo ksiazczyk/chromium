@@ -1,0 +1,4 @@
+# Docerion header of unsupported.html.
+type: test
+title: Unsupported payment method show promise test page
+summary: HTML test page that loads unsupported.js to test show() with an unsupported payment method identifier.

@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop0_fp.json.
+type: test
+title: Desktop search provider logo fingerprint JSON test data
+summary: Fingerprint variant of the desktop doodle test fixture holding doodle metadata such as image URLs, share button settings, search links and a fingerprint value.

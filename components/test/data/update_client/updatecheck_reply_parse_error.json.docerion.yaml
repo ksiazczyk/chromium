@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_parse_error.json.
+type: data
+title: Update check reply fixture for parse errors
+summary: Update check response fixture with an unexpected protocol version used to test handling of replies that fail to parse.

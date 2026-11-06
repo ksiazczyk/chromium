@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for value store test data
+summary: Grants any contributor permission to update the unit tests bundle data filelist in this directory.

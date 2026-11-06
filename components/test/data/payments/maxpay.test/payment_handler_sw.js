@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Max Pay payment handler service worker
+// summary: Service worker that responds to canmakepayment, opens the payment handler window, and resolves payment requests based on confirm, fail, cancel, or app-ready messages.
+// ---
+
 let paymentRequestResponder;
 let paymentRequestEvent;
 let methodName;

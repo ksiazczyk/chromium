@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Digital goods show promise test logic
+// summary: Creates a PaymentRequest and calls show() with a promise that resolves updated totals, printing the resulting payment details.
+// ---
+
 let request = null;
 
 /**

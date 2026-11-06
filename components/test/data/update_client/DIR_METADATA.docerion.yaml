@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Update client component metadata
+summary: Metadata file that links the update_client test data folder to the component's common metadata via a mixins entry.

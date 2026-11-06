@@ -1,0 +1,4 @@
+# Docerion header of a_embeds_a.html.
+type: test
+title: a.com page embedding an a.com iframe
+summary: Test page from a.com that dynamically embeds a.html from a.com in an iframe to exercise same-site embedding.

@@ -1,0 +1,4 @@
+# Docerion header of f0.
+type: test
+title: Patch f0 for creating a changing text file
+summary: Patch payload used to create a_changing_text_file in the component updater 1-to-2 diff update test, containing the text jedi knight.

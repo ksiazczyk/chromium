@@ -1,0 +1,4 @@
+# Docerion header of webrtc_basic.html.
+type: test
+title: WebRTC basic test page
+summary: Test page that on load sets up a WebRTC peer connection loopback with a connected RTCDataChannel for performance manager testing.

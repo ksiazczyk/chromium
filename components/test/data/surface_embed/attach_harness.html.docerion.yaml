@@ -1,0 +1,4 @@
+# Docerion header of attach_harness.html.
+type: test
+title: Surface embed attach harness
+summary: HTML harness used by browser tests to create and attach application/x-chromium-surface-embed elements with optional IDs and pinch-zoom support.

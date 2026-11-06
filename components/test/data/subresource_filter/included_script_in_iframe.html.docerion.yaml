@@ -1,0 +1,4 @@
+# Docerion header of included_script_in_iframe.html.
+type: test
+title: Included script in iframe test page
+summary: Test page that embeds frame_with_included_script.html in an iframe for subresource filter browser tests.

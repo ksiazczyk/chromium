@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Service worker test data OWNERS
+summary: Defines ownership for this test data directory, allowing anyone to update the unit tests bundle data filelist.

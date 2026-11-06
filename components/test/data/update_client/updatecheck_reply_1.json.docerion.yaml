@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_1.json.
+type: data
+title: Mock update check reply with run action
+summary: Update check response fixture that offers version 1.0 of a crx3 app and instructs the client to download and run it.

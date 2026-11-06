@@ -1,0 +1,4 @@
+# Docerion header of about_blank_iframes.html.
+type: test
+title: Page with about:blank iframes
+summary: Test page containing one plain and one sandboxed about:blank iframe.

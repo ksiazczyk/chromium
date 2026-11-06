@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios4.json.
+type: test
+title: iOS Pony Express doodle JSON test fixture
+summary: Test fixture with a Google doodle JSON response for the Pony Express test interactive doodle, including a base64-encoded image, used by iOS search provider logo tests.

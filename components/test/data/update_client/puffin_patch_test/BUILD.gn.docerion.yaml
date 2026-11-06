@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for puffin patch test data
+summary: GN build file that builds the puffin_app_v1 and v2 test executables, packages them as crx3 archives, and copies the crx3 and puff patch files for the patch tests.

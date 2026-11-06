@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop1.json.
+type: test
+title: Desktop Prayoon Yomyiam doodle JSON fixture with inline image
+summary: Test fixture with Google Doodle JSON for Prayoon Yomyiam's 85th birthday on desktop, embedding the call-to-action image as a base64 data URI.

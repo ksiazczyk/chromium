@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: b.com test page
+summary: Minimal test page simulating b.com that logs a message when loaded.

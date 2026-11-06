@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Blank pay redirect destination page
+summary: Intentionally blank page used as the payment redirect destination in browser tests.

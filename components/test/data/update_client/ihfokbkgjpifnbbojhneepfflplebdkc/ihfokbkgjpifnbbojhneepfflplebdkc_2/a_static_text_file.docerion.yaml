@@ -1,0 +1,4 @@
+# Docerion header of a_static_text_file.
+type: test
+title: Static text file test fixture
+summary: Test fixture text file that stays unchanged across versions in the update client test data.

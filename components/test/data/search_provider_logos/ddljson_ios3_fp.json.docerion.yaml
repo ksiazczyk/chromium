@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios3_fp.json.
+type: test
+title: iOS Hedy Lamarr doodle JSON fingerprint fixture
+summary: Fingerprint variant of the Hedy Lamarr doodle JSON test fixture, describing a video doodle for iOS search provider logo tests.

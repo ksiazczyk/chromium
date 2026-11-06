@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop2.json.
+type: test
+title: Desktop Halloween doodle JSON fixture with inline image
+summary: Test fixture with Google Doodle JSON for the Halloween 2016 doodle on desktop, embedding the call-to-action image as a base64 data URI.

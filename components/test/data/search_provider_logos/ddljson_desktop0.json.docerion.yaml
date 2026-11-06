@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop0.json.
+type: test
+title: Desktop Google Doodle JSON test fixture with embedded image
+summary: Test fixture holding a desktop Google Doodle JSON payload that embeds the doodle image as a base64 data URI, used by search provider logo tests.

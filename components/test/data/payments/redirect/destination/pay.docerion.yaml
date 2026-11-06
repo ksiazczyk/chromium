@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Payment method manifest for redirect destination
+summary: Payment method manifest listing the app.json as the default application for the redirect destination payment method identifier.

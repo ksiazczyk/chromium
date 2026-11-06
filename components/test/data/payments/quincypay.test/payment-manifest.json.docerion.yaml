@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment method manifest
+summary: Payment method manifest that lists the QuincyPay web app manifest as the default payment application.

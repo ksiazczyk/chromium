@@ -1,0 +1,4 @@
+# Docerion header of empty_file.
+type: asset
+title: Empty test fixture file
+summary: Empty file kept as a fixture for update client tests.

@@ -1,0 +1,4 @@
+# Docerion header of page_freeze_ot_opt_out.html.
+type: test
+title: Page freeze origin trial opt-out page
+summary: Test page carrying an origin trial token that opts the example.test origin out of background page freezing.

@@ -1,0 +1,4 @@
+# Docerion header of page_with_websocket.html.
+type: test
+title: WebSocket test page with document and worker modes
+summary: Test page that opens a WebSocket either in the document context or in a worker, selected by the inWorker URL parameter, for subresource filter tests.

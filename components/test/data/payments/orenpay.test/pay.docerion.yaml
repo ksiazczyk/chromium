@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Payment method manifest for orenpay.test
+summary: Payment method manifest that names Nick Pay, references the icon.png icon and app.js service worker, and is served at the payment method identifier.

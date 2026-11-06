@@ -1,0 +1,4 @@
+# Docerion header of commands.json.
+type: test
+title: Update commands for ihfokbkgjpifnbbojhneepfflplebdkc 1to2 test
+summary: JSON list of create, bsdiff and copy operations with expected SHA-256 hashes that drives the 1-to-2 diff update test for the ihfokbkgjpifnbbojhneepfflplebdkc component.

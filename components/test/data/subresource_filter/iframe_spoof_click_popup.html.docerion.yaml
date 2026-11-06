@@ -1,0 +1,4 @@
+# Docerion header of iframe_spoof_click_popup.html.
+type: test
+title: Test iframe spoofing a click to open a popup
+summary: Test HTML page that embeds an iframe and posts a message to it, resolving when the frame replies, for window-open spoofed click tests.

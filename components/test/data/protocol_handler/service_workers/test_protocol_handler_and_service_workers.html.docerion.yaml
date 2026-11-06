@@ -1,0 +1,4 @@
+# Docerion header of test_protocol_handler_and_service_workers.html.
+type: test
+title: Test page for protocol handler and service worker browser tests
+summary: HTML test page that loads the protocol handler and service worker test script.

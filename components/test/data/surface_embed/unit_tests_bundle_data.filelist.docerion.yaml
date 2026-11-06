@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: config
+title: Unit tests bundle data filelist
+summary: Generated list of surface embed test data files packaged into the iOS unit test bundle, maintained by update_bundle_filelist.py.

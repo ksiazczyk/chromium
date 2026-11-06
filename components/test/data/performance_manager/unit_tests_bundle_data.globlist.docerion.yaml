@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Unit tests bundle data globlist for performance manager
+summary: Glob patterns that select performance manager test data files and drive regeneration of the corresponding iOS unit tests bundle filelist.

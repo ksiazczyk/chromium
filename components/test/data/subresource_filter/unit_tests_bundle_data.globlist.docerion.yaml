@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Unit tests bundle data glob list
+summary: Glob patterns used by build/ios/update_bundle_filelist.py to regenerate the unit tests bundle data file list, excluding metadata files.

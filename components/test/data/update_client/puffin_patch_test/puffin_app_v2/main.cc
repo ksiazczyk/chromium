@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Puffin patch test app version 2 main
+// summary: Do-nothing 'installer' application embedded in an update CRX, serving as version 2 of the Puffin patch test fixture that version 1 patches into.
+// ---
+
 // The Puffin patch test app is a do-nothing application "installer" that is
 // embedded in an update CRX. This is version 2, version 1 is located at
 // ../puffin_app_v1. If you apply the

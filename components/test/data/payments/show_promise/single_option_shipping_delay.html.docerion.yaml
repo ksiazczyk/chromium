@@ -1,0 +1,4 @@
+# Docerion header of single_option_shipping_delay.html.
+type: test
+title: Show promise test page for single-option shipping with delay
+summary: HTML test page that loads single_option_shipping_delay.js to exercise a show promise that resolves after a delay.

@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: Service worker test database CURRENT file
+summary: LevelDB CURRENT file that names MANIFEST-000001 as the active manifest in the service worker test database fixture.

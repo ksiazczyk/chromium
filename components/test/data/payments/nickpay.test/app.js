@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Nick Pay payment handler service worker
+// summary: Service worker that always reports it can make payments and responds to payment requests with a success status.
+// ---
+
 self.addEventListener('canmakepayment', (event) => {
   event.respondWith(true);
 });

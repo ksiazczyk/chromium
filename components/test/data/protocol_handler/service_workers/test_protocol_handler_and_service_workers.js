@@ -5,6 +5,12 @@
 // browser_tests
 // --gtest_filter=ProtocolHandlerBrowserTest.*
 
+// ---docerion
+// type: test
+// title: Test helpers for protocol handler and service worker browser tests
+// summary: Browser test helpers that register a web+html protocol handler and service worker, then verify custom scheme navigations are handled by the service worker.
+// ---
+
 async function registerFetchListenerForHTMLHandler() {
   await navigator.serviceWorker.register(
       '/protocol_handler/service_workers/fetch_listener_for_html_handler.js');

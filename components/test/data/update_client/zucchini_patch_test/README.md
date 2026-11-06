@@ -1,3 +1,13 @@
+---
+type: readme
+title: Zucchini patch test data README
+summary: Explains the test files for zucchini patching and gives commands to regenerate the app1 and app2 zip archives and the app1_to_app2.zucchini patch file.
+relations:
+  - documents /components/test/data/update_client/zucchini_patch_test/app1.zip
+  - documents /components/test/data/update_client/zucchini_patch_test/app2.zip
+  - documents /components/test/data/update_client/zucchini_patch_test/app1_to_app2.zucchini
+---
+
 This directory contains test files for zucchini patching.
 
 The zip files can be regenerated using the following commands:

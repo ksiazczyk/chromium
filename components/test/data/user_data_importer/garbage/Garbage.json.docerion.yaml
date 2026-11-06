@@ -1,0 +1,4 @@
+# Docerion header of Garbage.json.
+type: test
+title: Garbage.json test fixture
+summary: Test fixture of emoji junk standing in for JSON, used to exercise the user data importer's handling of garbage input.

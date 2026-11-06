@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: LevelDB lock file for value store test data
+summary: Empty LevelDB lock file accompanying the value store test database fixtures.

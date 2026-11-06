@@ -1,0 +1,4 @@
+# Docerion header of single_option_shipping_with_update.html.
+type: test
+title: Show promise test page for single-option shipping with update
+summary: HTML test page that loads single_option_shipping_with_update.js to test shipping address change handling together with a show promise.

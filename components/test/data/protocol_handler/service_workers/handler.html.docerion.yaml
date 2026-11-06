@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: HTML protocol handler fallback page for service worker tests
+summary: Fallback HTML page that posts a message reporting the navigation was not handled by the service worker.

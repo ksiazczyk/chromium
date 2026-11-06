@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Performance manager test data directory metadata
+summary: Declares metadata mixins linking this test data directory to the performance manager component's common metadata.

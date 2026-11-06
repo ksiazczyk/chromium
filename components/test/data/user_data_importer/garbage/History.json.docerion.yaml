@@ -1,0 +1,4 @@
+# Docerion header of History.json.
+type: test
+title: Invalid Safari history JSON test fixture
+summary: Test fixture with a Safari history metadata header followed by deliberately invalid JSON, used to confuse the importer's parser.

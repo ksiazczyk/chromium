@@ -1,0 +1,4 @@
+# Docerion header of History - Profile 2.json.
+type: test
+title: Safari history fixture for profile 2 import tests
+summary: Safari history export containing redirect-linked visits, used as a valid input fixture for user data importer tests.

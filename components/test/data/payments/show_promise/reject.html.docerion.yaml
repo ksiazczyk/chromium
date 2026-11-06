@@ -1,0 +1,4 @@
+# Docerion header of reject.html.
+type: test
+title: Show promise rejection test page
+summary: Test page with a Buy button that loads reject.js to exercise PaymentRequest.show() with a rejected promise.

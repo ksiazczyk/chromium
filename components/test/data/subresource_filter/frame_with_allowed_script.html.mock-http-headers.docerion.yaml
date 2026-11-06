@@ -1,0 +1,4 @@
+# Docerion header of frame_with_allowed_script.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for frame_with_allowed_script
+summary: Mock HTTP response headers marking the frame as supporting fenced-frame loading mode for subresource filter tests.
