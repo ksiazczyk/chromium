@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows process lineage implementation
+// summary: Builds a process lineage by walking parent PIDs and collecting each ancestor's command line.
+// ---
+
 #include "chrome/test/base/process_lineage_win.h"
 
 #include <sstream>

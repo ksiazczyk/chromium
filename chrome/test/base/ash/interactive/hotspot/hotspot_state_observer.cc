@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot state observer implementation
+// summary: Implements the state observer that reports hotspot state changes for interactive UI tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/hotspot/hotspot_state_observer.h"
 
 #include "chromeos/ash/components/network/network_state_handler.h"

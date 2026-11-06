@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot state observer header
+// summary: Declares a Kombucha test helper that observes and exposes the current hotspot state.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_HOTSPOT_HOTSPOT_STATE_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_HOTSPOT_HOTSPOT_STATE_OBSERVER_H_
 

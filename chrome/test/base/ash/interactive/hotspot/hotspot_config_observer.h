@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot config observer header
+// summary: Declares a Kombucha test helper class that observes Hotspot config changes through Shill manager notifications.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_HOTSPOT_HOTSPOT_CONFIG_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_HOTSPOT_HOTSPOT_CONFIG_OBSERVER_H_
 

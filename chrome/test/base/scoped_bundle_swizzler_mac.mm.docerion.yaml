@@ -1,0 +1,4 @@
+# Docerion header of scoped_bundle_swizzler_mac.mm.
+type: test
+title: Mac bundle swizzler implementation
+summary: Implements ScopedBundleSwizzlerMac using a TestBundle NSProxy that swizzles the NSBundle mainBundle method for tests.

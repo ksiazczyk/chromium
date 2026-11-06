@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive test utilities implementation
+// summary: Implements helpers for interactive browser tests, including waiting for browser window activation and sending synchronized key presses to windows.
+// ---
+
 #include "chrome/test/base/interactive_test_utils.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia sign-in screen test helpers
+// summary: Provides helpers to access the Gaia webview frame, run JavaScript in it and skip to the Gaia screen during login tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/gaia_host_util.h"
 
 #include <string>

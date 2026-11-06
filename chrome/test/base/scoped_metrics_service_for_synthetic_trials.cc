@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped metrics service for synthetic trials implementation
+// summary: Sets up a MetricsService with a synthetic trial registry on TestingBrowserProcess and undoes the setup when the scope ends.
+// ---
+
 #include "chrome/test/base/scoped_metrics_service_for_synthetic_trials.h"
 
 ScopedMetricsServiceForSyntheticTrials::ScopedMetricsServiceForSyntheticTrials(

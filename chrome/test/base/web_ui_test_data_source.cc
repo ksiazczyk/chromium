@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test data source implementation
+// summary: Creates trusted and untrusted WebUI test data sources that serve bundled test resources with configured content security policies for browser tests.
+// ---
+
 
 #include "chrome/test/base/web_ui_test_data_source.h"
 

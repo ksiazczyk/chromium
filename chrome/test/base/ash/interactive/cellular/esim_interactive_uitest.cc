@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM interactive UI tests
+// summary: Interactive UI tests for eSIM behaviors in ChromeOS, including opening the add eSIM dialog from Quick Settings.
+// ---
+
 #include <optional>
 #include <string>
 

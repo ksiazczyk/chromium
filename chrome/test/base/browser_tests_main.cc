@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests main entry point
+// summary: Main entry point for Chrome browser tests that computes parallel jobs and applies platform-specific startup fixes for Windows and interactive tests.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/launcher/test_launcher.h"
 #include "base/test/test_switches.h"

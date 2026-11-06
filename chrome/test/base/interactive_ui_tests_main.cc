@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: interactive_ui_tests entry point
+// summary: Main and test suite for the interactive_ui_tests binary, enabling platform UI controls and interactive test verbs across ChromeOS, Windows, Linux and Mac.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

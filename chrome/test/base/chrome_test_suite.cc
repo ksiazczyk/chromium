@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTestSuite implementation
+// summary: Implements ChromeTestSuite initialization for Chrome tests, including path overrides, media library setup and signin test accommodations.
+// ---
+
 
 #include "chrome/test/base/chrome_test_suite.h"
 

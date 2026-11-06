@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu model test mix-in
+// summary: Mix-in class with a delegate that counts calls, helping tests verify menu models are hooked up correctly.
+// ---
+
 #ifndef CHROME_TEST_BASE_MENU_MODEL_TEST_H_
 #define CHROME_TEST_BASE_MENU_MODEL_TEST_H_
 

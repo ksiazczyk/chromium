@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform browser test alias
+// summary: Aliases PlatformBrowserTest to AndroidBrowserTest or InProcessBrowserTest depending on the target platform.
+// ---
+
 #ifndef CHROME_TEST_BASE_PLATFORM_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_PLATFORM_BROWSER_TEST_H_
 

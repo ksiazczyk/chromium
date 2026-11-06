@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderViewTest header
+// summary: Declares the ChromeRenderViewTest fixture for in-process renderer tests, noting it does not cover Chrome's multiprocess architecture.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_RENDER_VIEW_TEST_H_
 #define CHROME_TEST_BASE_CHROME_RENDER_VIEW_TEST_H_
 

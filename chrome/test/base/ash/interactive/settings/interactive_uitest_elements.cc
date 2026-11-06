@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeepQuery selectors for ChromeOS Settings interactive UI tests
+// summary: Implements DeepQuery locators for internet, Wi-Fi, VPN and cellular APN elements in ChromeOS Settings used by interactive UI tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/settings/interactive_uitest_elements.h"
 
 #include "base/strings/stringprintf.h"

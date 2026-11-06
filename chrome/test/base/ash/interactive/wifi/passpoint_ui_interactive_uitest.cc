@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for Passpoint subscription UI
+// summary: Interactive UI test checking that the Passpoint subscription subpage in OS Settings shows the correct expiration date, provider source, and domain list using a fake Passpoint service.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/time/time.h"
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"

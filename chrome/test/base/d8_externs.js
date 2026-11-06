@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: test
+// title: d8 shell externs
+// summary: Provides Closure extern declarations for d8 shell functions such as print, quit, and read used in tests.
+// ---
+
 /** @param {...string} var_args */
 function print(var_args) {}
 

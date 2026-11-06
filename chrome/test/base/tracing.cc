@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing test helpers implementation
+// summary: Implements helpers to begin and end in-process tracing and collect the resulting JSON trace output during Chrome tests.
+// ---
+
 #include "chrome/test/base/tracing.h"
 
 #include <memory>

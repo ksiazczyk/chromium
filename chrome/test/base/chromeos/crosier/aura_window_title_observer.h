@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura window title observer header
+// summary: Declares AuraWindowTitleObserver, a state observer that detects windows created or retitled with an expected title.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_AURA_WINDOW_TITLE_OBSERVER_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_AURA_WINDOW_TITLE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete change observer implementation
+// summary: Implements a test observer that runs a wait loop until the omnibox autocomplete controller reports changed results for a profile.
+// ---
+
 #include "chrome/test/base/autocomplete_change_observer.h"
 
 #include "chrome/browser/omnibox/autocomplete_controller_emitter_factory.h"

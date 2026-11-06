@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfile implementation
+// summary: Implements TestingProfile, a lightweight Profile test double that wires up test factories, prefs, and browser services for Chrome tests.
+// ---
+
 #include "chrome/test/base/testing_profile.h"
 
 #include <memory>

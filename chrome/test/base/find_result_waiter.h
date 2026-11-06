@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find result waiter class declaration
+// summary: Declares FindResultWaiter, a find result observer that lets browser tests wait for a find-in-page request to finish and read its match details.
+// ---
+
 #ifndef CHROME_TEST_BASE_FIND_RESULT_WAITER_H_
 #define CHROME_TEST_BASE_FIND_RESULT_WAITER_H_
 

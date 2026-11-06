@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upstart initctl wrapper implementation
+// summary: Implements helpers to query, start, restart, and stop Upstart jobs via initctl and the test sudo helper during Crosier tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/upstart.h"
 
 #include "base/notreached.h"

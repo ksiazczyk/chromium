@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep query helpers for Bluetooth pairing dialog UI tests
+// summary: Defines DeepQuery selectors for the Bluetooth pairing dialog and its device selection and enter-code pages for use in interactive UI tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/webui/interactive_uitest_elements.h"
 
 namespace ash::webui::bluetooth {

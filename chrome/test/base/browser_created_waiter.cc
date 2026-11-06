@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserCreatedWaiter implementation
+// summary: Implements a test helper that observes the global browser collection and blocks until a new browser is created, then returns it to the caller.
+// ---
+
 #include "chrome/test/base/browser_created_waiter.h"
 
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for Wi-Fi interactive UI tests
+summary: Defines the interactive_ui_tests source set for ChromeOS Wi-Fi interactive UI tests, listing the test sources and dependencies on Ash, Shill, network, and UI test support.

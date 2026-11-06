@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeProfileManager implementation
+// summary: Implements a ProfileManager replacement that creates TestingProfile instances for tests that create new profiles.
+// ---
+
 #include "chrome/test/base/fake_profile_manager.h"
 
 #include "base/files/file_util.h"

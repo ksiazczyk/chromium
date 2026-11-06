@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserWithTestWindowTest base class header
+// summary: Declares a base class for browser unit tests that creates a Browser with a TestingProfile and TestBrowserWindow, with a warning that new features should avoid it.
+// ---
+
 #ifndef CHROME_TEST_BASE_BROWSER_WITH_TEST_WINDOW_TEST_H_
 #define CHROME_TEST_BASE_BROWSER_WITH_TEST_WINDOW_TEST_H_
 

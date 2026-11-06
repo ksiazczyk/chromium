@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for network interactive test support
+summary: Defines the testonly test_support source set with the Shill state observer and service utility sources and their dependencies.

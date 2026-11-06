@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search test utilities for TemplateURLService loading
+// summary: Declares a helper that blocks until the TemplateURLService finishes loading during tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_SEARCH_TEST_UTILS_H_
 #define CHROME_TEST_BASE_SEARCH_TEST_UTILS_H_
 

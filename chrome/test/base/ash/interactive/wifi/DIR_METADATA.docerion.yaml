@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Wi-Fi interactive UI tests
+summary: Maps the Wi-Fi interactive UI test directory to Buganizer component 1131912 and the cros-device-enablement team mailing list.

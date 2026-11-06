@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 unit test base class header
+// summary: Declares V8UnitTest, a gtest superclass that sets up a V8 context with helpers to execute scripts, call functions, and report JavaScript test results.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_V8_UNIT_TEST_H_
 #define CHROME_TEST_BASE_ASH_V8_UNIT_TEST_H_
 

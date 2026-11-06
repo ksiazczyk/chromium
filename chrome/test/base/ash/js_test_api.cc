@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS test API configuration implementation
+// summary: Implements JsTestApiConfig, providing the search path and default libraries for ChromeOS JavaScript test harnesses.
+// ---
+
 #include "chrome/test/base/ash/js_test_api.h"
 
 #include "base/check.h"

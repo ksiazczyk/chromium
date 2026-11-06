@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome test base
+summary: Defines test-only GN source sets such as test switches, tracing, WebUI test support, path utilities, and browser test harnesses for Chrome's test infrastructure.

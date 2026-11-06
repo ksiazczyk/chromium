@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia host utility declarations
+// summary: Declares helpers for obtaining the Gaia RenderFrameHost, a JS checker and waiting for the Gaia screen in login tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_GAIA_HOST_UTIL_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_GAIA_HOST_UTIL_H_
 

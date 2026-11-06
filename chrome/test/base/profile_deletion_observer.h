@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile deletion observer test helper
+// summary: Declares ProfileDeletionObserver, a test helper that synchronously waits until a profile is removed from ProfileAttributesStorage.
+// ---
+
 #ifndef CHROME_TEST_BASE_PROFILE_DELETION_OBSERVER_H_
 #define CHROME_TEST_BASE_PROFILE_DELETION_OBSERVER_H_
 

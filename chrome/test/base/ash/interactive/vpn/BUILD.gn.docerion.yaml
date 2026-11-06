@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for VPN interactive UI tests
+summary: Defines the interactive_ui_tests source set that builds the VPN interactive UI test together with its ChromeOS, network, crypto, and UI dependencies.

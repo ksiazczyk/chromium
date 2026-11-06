@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash test utility implementations
+// summary: Implements test helpers for clicking and hovering views, creating download files, installing and launching system web apps, and creating browsers for ChromeOS tests.
+// ---
+
 #include "chrome/test/base/ash/util/ash_test_util.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test launcher interface
+// summary: Declares the suite runner, Chrome main delegate and launcher delegate used to launch ChromeOS on-device integration tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_TEST_LAUNCHER_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_TEST_LAUNCHER_H_
 

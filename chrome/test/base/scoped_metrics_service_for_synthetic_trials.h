@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped metrics service for synthetic trials helper
+// summary: Declares a scoped helper that installs a MetricsService supporting synthetic field trials into TestingBrowserProcess for tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_SCOPED_METRICS_SERVICE_FOR_SYNTHETIC_TRIALS_H_
 #define CHROME_TEST_BASE_SCOPED_METRICS_SERVICE_FOR_SYNTHETIC_TRIALS_H_
 

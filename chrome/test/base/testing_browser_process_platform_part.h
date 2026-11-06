@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing browser process platform part interface
+// summary: Declares a BrowserProcessPlatformPart subclass for tests that omits the OomPriorityManager on Chrome OS.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_PLATFORM_PART_H_
 #define CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_PLATFORM_PART_H_
 

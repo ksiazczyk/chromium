@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTestSuite test suite header
+// summary: Declares ChromeTestSuite, the base test suite that creates services shared by Chrome unit and browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_TEST_SUITE_H_
 #define CHROME_TEST_BASE_CHROME_TEST_SUITE_H_
 

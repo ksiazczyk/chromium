@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserWithTestWindowTest implementation
+// summary: Implements a base class for browser-based unit tests that sets up a TestingProfile, test window, and ChromeOS or Views specific test fixtures.
+// ---
+
 #include "chrome/test/base/browser_with_test_window_test.h"
 
 #include <memory>

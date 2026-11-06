@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura window title observer implementation
+// summary: Watches for Aura windows with a given title and signals when one appears, for use in ChromeOS integration tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/aura_window_title_observer.h"
 
 #include <map>

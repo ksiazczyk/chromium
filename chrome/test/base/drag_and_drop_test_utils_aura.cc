@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura implementation of drag and drop test utilities
+// summary: Implements DragAndDropSimulator for Aura platforms by dispatching drag enter, over and drop events to WebContents drop delegates.
+// ---
+
 #include <utility>
 
 #include "base/check.h"

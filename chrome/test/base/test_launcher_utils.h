@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test launcher utilities header
+// summary: Declares utilities that configure command line switches and user data directories for test-launched processes.
+// ---
+
 #ifndef CHROME_TEST_BASE_TEST_LAUNCHER_UTILS_H_
 #define CHROME_TEST_BASE_TEST_LAUNCHER_UTILS_H_
 

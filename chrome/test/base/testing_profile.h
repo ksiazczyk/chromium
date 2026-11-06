@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfile declaration
+// summary: Declares the TestingProfile class, a Profile subclass with builders and testing factories used across Chrome unit and browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_PROFILE_H_
 #define CHROME_TEST_BASE_TESTING_PROFILE_H_
 

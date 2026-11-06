@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot config observer implementation
+// summary: Implements a test observer that watches Shill tethering config changes and restarts tethering via the test interface.
+// ---
+
 #include "chrome/test/base/ash/interactive/hotspot/hotspot_config_observer.h"
 
 #include "third_party/cros_system_api/dbus/shill/dbus-constants.h"

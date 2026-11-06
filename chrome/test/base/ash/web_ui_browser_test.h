@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI browser test class header
+// summary: Declares the WebUI browser test base classes with methods to run JavaScript functions, synchronous and asynchronous tests, and library preloading.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_WEB_UI_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_ASH_WEB_UI_BROWSER_TEST_H_
 

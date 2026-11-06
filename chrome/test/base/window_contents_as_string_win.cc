@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window contents as string helper for Windows tests
+// summary: Implements WindowContentsAsString, which walks a window's UI Automation element tree and returns an indented textual dump of control types and names for use in tests.
+// ---
+
 #include "chrome/test/base/window_contents_as_string_win.h"
 
 // Needed for <uiautomation.h>

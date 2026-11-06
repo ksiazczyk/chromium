@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic smoke test for InteractiveAshTest
+// summary: Runs a basic UI test that installs system apps, verifies an active user profile exists, and opens browser windows to exercise InteractiveAshTest.
+// ---
+
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"
 #include "content/public/test/browser_test.h"
 #include "url/gurl.h"

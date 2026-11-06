@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript browser test implementation
+// summary: Implements JavaScriptBrowserTest, which resolves and loads JavaScript test libraries for execution in browser tests.
+// ---
+
 #include "chrome/test/base/ash/javascript_browser_test.h"
 
 #include <optional>

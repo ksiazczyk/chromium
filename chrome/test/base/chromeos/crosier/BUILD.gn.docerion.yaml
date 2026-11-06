@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for Crosier ChromeOS integration tests
+summary: Defines the proto, test support libraries, and Crosier integration test targets for ChromeOS devices and VMs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test switches definitions
+// summary: Defines command-line switch constants for tests, including success log emission, devtools code coverage output, and printing UMA means in perf tests.
+// ---
+
 #include "chrome/test/base/test_switches.h"
 
 namespace switches {

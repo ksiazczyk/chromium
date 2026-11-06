@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Chrome WebUI controller factory implementation
+// summary: Implements a test WebUI controller factory that supports per-host provider overrides and test URL rewriting.
+// ---
+
 #include "chrome/test/base/test_chrome_web_ui_controller_factory.h"
 
 #include "base/functional/callback_helpers.h"

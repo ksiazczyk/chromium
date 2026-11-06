@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test launcher implementation
+// summary: Implements the test suite runner and launcher delegate for ChromeOS integration tests, including content clients and profiling setup.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/chromeos_test_launcher.h"
 
 #include <string_view>

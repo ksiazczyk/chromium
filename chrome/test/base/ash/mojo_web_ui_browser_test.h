@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo WebUI browser test header
+// summary: Declares MojoWebUIBrowserTest, a browser test base class that runs WebUI JavaScript tests reporting results over a Mojo pipe instead of chrome.send().
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_MOJO_WEB_UI_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_ASH_MOJO_WEB_UI_BROWSER_TEST_H_
 

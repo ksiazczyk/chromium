@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill device power state observer implementation
+// summary: Implements an observation state observer that tracks whether a Shill network technology is enabled for use in Kombucha tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/network/shill_device_power_state_observer.h"
 
 #include "chromeos/ash/components/network/network_state_handler.h"

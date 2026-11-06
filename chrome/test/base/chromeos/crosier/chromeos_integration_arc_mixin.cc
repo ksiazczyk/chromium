@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC mixin implementation for ChromeOS integration tests
+// summary: Implements ARC support for integration tests, including waiting for ARC boot completion, installing APKs, and launching activities.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/chromeos_integration_arc_mixin.h"
 
 #include <string>

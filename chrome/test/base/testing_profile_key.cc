@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfileKey implementation
+// summary: Implements TestingProfileKey, retrieving the proto database provider from the testing profile's default storage partition.
+// ---
+
 #include "chrome/test/base/testing_profile_key.h"
 
 #include "content/public/browser/browser_context.h"

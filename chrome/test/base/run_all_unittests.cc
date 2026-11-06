@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome unit tests main entry point
+// summary: Main entry point that launches Chrome unit tests, setting up content clients, Mojo IPC support, and channel or install details overrides.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"

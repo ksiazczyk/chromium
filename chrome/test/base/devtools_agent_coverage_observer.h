@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools agent coverage observer header
+// summary: Declares DevToolsAgentCoverageObserver for enabling and collecting DevTools-based code coverage in browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_DEVTOOLS_AGENT_COVERAGE_OBSERVER_H_
 #define CHROME_TEST_BASE_DEVTOOLS_AGENT_COVERAGE_OBSERVER_H_
 

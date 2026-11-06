@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android drag-and-drop test utilities
+// summary: Implements Android drag-and-drop simulation for tests by dispatching drag events through the JNI DragEvent interface into WebContents views.
+// ---
+
 #include "chrome/test/base/drag_and_drop_test_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI test utilities declaration
+// summary: Declares ui_test_utils helper functions for navigating, waiting on loads, and inspecting browser state in in-process browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_UI_TEST_UTILS_H_
 #define CHROME_TEST_BASE_UI_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM policy interactive UI tests
+// summary: Interactive UI tests verifying eSIM network connection and settings behavior when cellular networks are restricted by device policy.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/cellular/cellular_util.h"

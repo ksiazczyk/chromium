@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for Wi-Fi settings and network list
+// summary: Interactive UI tests covering the Wi-Fi power toggle, network list visibility, tooltips, and accessibility states in ChromeOS quick settings and OS Settings.
+// ---
+
 #include <utility>
 
 #include "ash/ash_element_identifiers.h"

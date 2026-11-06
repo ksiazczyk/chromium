@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular toggle interactive UI tests
+// summary: Interactive UI tests enabling and disabling mobile data from both Quick Settings and the OS Settings network page.
+// ---
+
 #include <string>
 
 #include "ash/ash_element_identifiers.h"

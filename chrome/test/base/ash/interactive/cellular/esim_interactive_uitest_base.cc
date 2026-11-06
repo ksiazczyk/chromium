@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM interactive UI test base implementation
+// summary: Implements shared setup for eSIM interactive UI tests, clearing existing eUICCs and adding a fake active eUICC.
+// ---
+
 #include "chrome/test/base/ash/interactive/cellular/esim_interactive_uitest_base.h"
 
 #include "chromeos/ash/components/dbus/hermes/hermes_euicc_client.h"

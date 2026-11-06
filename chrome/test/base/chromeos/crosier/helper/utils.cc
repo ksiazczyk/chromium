@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix socket utility implementations
+// summary: Implements socket creation and binding plus null-terminated string and buffer read and send helpers for the crosier namespace.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/helper/utils.h"
 
 #include <sys/socket.h>

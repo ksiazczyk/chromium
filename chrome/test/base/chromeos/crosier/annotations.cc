@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of Crosier test requirement checks
+// summary: Implements checks for informational tests and board requirements such as Bluetooth, on-device handwriting, and Vulkan support.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/annotations.h"
 
 #include "base/command_line.h"

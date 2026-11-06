@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot policy interactive UI tests
+// summary: Interactive UI tests verifying that device policy restricts enabling hotspot in ChromeOS Settings.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/hotspot/hotspot_state_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfileManager declaration
+// summary: Declares TestingProfileManager, a factory for creating and registering TestingProfile instances in a multi-profile test environment.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_PROFILE_MANAGER_H_
 #define CHROME_TEST_BASE_TESTING_PROFILE_MANAGER_H_
 

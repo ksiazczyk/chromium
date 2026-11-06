@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the AndroidBrowserTest framework
+// summary: Contains browser tests covering smoke startup, PRE_ test state preservation, and network connection tracker behavior on Android.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/functional/callback_helpers.h"

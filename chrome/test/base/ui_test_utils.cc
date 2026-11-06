@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI test utilities implementation
+// summary: Implements ui_test_utils helpers for navigation, tab and browser waits, dialogs, and other interactions in in-process browser tests.
+// ---
+
 #include "chrome/test/base/ui_test_utils.h"
 
 #include <stddef.h>

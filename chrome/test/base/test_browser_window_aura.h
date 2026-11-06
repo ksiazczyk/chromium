@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test browser window header
+// summary: Declares TestBrowserWindowAura and TestBrowserWindowViews and helper functions to create browsers with native test windows.
+// ---
+
 #ifndef CHROME_TEST_BASE_TEST_BROWSER_WINDOW_AURA_H_
 #define CHROME_TEST_BASE_TEST_BROWSER_WINDOW_AURA_H_
 

@@ -7,6 +7,12 @@
 // keep the profile clean. Clients of this class must handle the NULL return
 // value, however.
 
+// ---docerion
+// type: test
+// title: Testing browser process interface
+// summary: Declares a BrowserProcess test double that fails for most services, with helpers to create, tear down, and set up global features for testing.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_H_
 #define CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_H_
 

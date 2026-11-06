@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeUnitTestSuite implementation
+// summary: Sets up services for Chrome unit tests, including TestingBrowserProcess, resource bundles, idle state, and WebUI registrations.
+// ---
+
 #include "chrome/test/base/chrome_unit_test_suite.h"
 
 #include <memory>

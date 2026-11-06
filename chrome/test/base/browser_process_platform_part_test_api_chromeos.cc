@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser process platform part test API implementation
+// summary: Implements a test API that swaps in a testing ComponentManagerAsh for BrowserProcessPlatformPart during ChromeOS tests and shuts it down afterwards.
+// ---
+
 #include "chrome/test/base/browser_process_platform_part_test_api_chromeos.h"
 
 #include <utility>

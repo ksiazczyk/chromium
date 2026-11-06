@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test data source header
+// summary: Declares factory functions for trusted and untrusted WebUI test data sources used by WebUI browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_WEB_UI_TEST_DATA_SOURCE_H_
 #define CHROME_TEST_BASE_WEB_UI_TEST_DATA_SOURCE_H_
 

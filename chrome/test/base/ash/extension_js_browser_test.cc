@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension JS browser test implementation
+// summary: Implements ExtensionJSBrowserTest, a base class that runs JavaScript tests against ChromeOS extensions and collects DevTools code coverage.
+// ---
+
 #include "chrome/test/base/ash/extension_js_browser_test.h"
 
 #include <array>

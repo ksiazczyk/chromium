@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting network WebUI owners
+summary: Delegates ownership of this directory to the network WebUI common resources OWNERS file.

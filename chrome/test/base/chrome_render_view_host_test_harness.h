@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderViewHostTestHarness header
+// summary: Declares a RenderViewHostTestHarness wrapper that uses a TestingProfile as browser context with overridable testing factories.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_RENDER_VIEW_HOST_TEST_HARNESS_H_
 #define CHROME_TEST_BASE_CHROME_RENDER_VIEW_HOST_TEST_HARNESS_H_
 

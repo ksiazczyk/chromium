@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save desktop snapshot browser test
+// summary: Browser test verifying that SaveDesktopSnapshot writes a snapshot file, accepting an empty path on Wayland where capture is unsupported.
+// ---
+
 #include "save_desktop_snapshot.h"
 
 #include "base/command_line.h"

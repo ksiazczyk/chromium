@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash integration test base implementation
+// summary: Implements base class setup that enables the Wayland server and configures XDG_RUNTIME_DIR for ChromeOS integration tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/ash_integration_test.h"
 
 #include "ash/constants/ash_switches.h"

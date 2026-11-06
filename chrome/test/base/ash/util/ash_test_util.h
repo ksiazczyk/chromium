@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash test utility declarations
+// summary: Declares test helpers for view interaction, file creation, system web app and browser creation, plus a BrowsersWaiter class to await multiple browser windows.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_UTIL_ASH_TEST_UTIL_H_
 #define CHROME_TEST_BASE_ASH_UTIL_ASH_TEST_UTIL_H_
 

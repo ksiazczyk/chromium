@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing browser process death test mixin
+// summary: Declares a mixin for unit test fixtures using death tests, ensuring g_browser_process is set up despite incomplete death test initialization.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_DEATH_TEST_MIXIN_H_
 #define CHROME_TEST_BASE_TESTING_BROWSER_PROCESS_DEATH_TEST_MIXIN_H_
 

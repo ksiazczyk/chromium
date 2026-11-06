@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome stub for ChromeOS integration tests
+// summary: Stub Chrome binary that test_sudo_helper.py passes to the session_manager daemon so ChromeOS integration tests can run as Chrome.
+// ---
+
 #include <string>
 
 #include "base/at_exit.h"

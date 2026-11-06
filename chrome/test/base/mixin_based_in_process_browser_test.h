@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixin-based in-process browser test header
+// summary: Defines InProcessBrowserTestMixin and a fixture that forwards test lifecycle hooks to registered mixins.
+// ---
+
 #ifndef CHROME_TEST_BASE_MIXIN_BASED_IN_PROCESS_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_MIXIN_BASED_IN_PROCESS_BROWSER_TEST_H_
 

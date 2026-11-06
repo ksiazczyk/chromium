@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test system NSS key slot mixin implementation
+// summary: Implements a browser test mixin that creates a software NSS database in the user data directory and installs it as the system key slot for testing.
+// ---
+
 #include "chrome/test/base/ash/scoped_test_system_nss_key_slot_mixin.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power manager emitter for synthetic power events in tests
+// summary: Declares a helper that emulates the power manager daemon so tests can broadcast synthetic power events via dbus-send.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_POWER_MANAGER_EMITTER_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_POWER_MANAGER_EMITTER_H_
 

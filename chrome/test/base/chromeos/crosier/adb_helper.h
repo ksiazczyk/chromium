@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdbHelper interface for adb commands in tests
+// summary: Declares a helper that starts the adb server, connects to an emulator device, and installs APKs or runs adb commands via TestSudoHelper.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_ADB_HELPER_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_ADB_HELPER_H_
 

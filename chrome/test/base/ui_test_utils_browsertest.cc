@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ui_test_utils browser tests
+// summary: Browser tests covering NavigateToURLWithDisposition background-tab handling and ui_test_utils FindMatchingBrowsers filtering.
+// ---
+
 #include "chrome/test/base/ui_test_utils.h"
 
 #include <algorithm>

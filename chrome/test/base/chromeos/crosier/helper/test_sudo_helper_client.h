@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test sudo helper client header
+// summary: Declares TestSudoHelperClient for running root commands and starting or stopping the session manager daemon from tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_HELPER_TEST_SUDO_HELPER_CLIENT_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_HELPER_TEST_SUDO_HELPER_CLIENT_H_
 

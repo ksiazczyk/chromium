@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac scoped channel override implementation
+// summary: Implements ScopedChannelOverride on macOS by setting the testing channel id matching the requested release channel.
+// ---
+
 #include "chrome/test/base/scoped_channel_override.h"
 
 #include <string>

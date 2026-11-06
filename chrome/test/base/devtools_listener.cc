@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools coverage listener implementation
+// summary: Implements a DevTools protocol client that starts, collects, and stores JavaScript code coverage from a WebContents.
+// ---
+
 #include "chrome/test/base/devtools_listener.h"
 
 #include <stddef.h>

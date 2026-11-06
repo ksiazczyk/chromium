@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for Bluetooth interactive tests
+summary: Directory metadata mapping the tests to a Buganizer component and the cros-device-enablement team email.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for test account loading
+// summary: Verifies that Gaia and family test accounts are loaded with non-empty credentials from the test accounts pool.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/test_accounts.h"
 
 #include <string>

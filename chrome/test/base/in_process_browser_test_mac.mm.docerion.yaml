@@ -1,0 +1,4 @@
+# Docerion header of in_process_browser_test_mac.mm.
+type: test
+title: Mac-specific in-process browser test methods
+summary: Mac implementations of InProcessBrowserTest helpers such as opening DevTools, incognito, popup and app browsers, flushing the AppKit autorelease pool around window creation.

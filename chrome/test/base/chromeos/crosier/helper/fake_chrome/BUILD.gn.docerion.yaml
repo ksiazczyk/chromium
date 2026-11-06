@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for the fake_chrome test helper
+summary: GN build file defining the testonly fake_chrome executable from fake_chrome_main.cc for ChromeOS device integration testing.

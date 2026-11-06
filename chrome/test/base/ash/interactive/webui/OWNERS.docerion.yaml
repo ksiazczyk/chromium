@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to network WebUI common resources owners
+summary: Delegates code review ownership for this directory to the owners of ash/webui/common/resources/network.

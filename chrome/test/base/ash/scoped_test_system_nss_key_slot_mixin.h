@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test system NSS key slot mixin header
+// summary: Declares a browser test mixin that owns a persistent NSS software database and associates it with the system slot, keeping state across PRE_ test restarts.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_SCOPED_TEST_SYSTEM_NSS_KEY_SLOT_MIXIN_H_
 #define CHROME_TEST_BASE_ASH_SCOPED_TEST_SYSTEM_NSS_KEY_SLOT_MIXIN_H_
 

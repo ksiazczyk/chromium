@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing test helpers declaration
+// summary: Declares tracing namespace functions for starting and stopping trace collection with category patterns or a trace config in browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_TRACING_H_
 #define CHROME_TEST_BASE_TRACING_H_
 

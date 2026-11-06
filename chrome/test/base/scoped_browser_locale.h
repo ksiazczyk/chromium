@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped browser locale test helper
+// summary: Declares ScopedBrowserLocale, a helper that temporarily sets the locale of the browser process for the duration of a test.
+// ---
+
 #ifndef CHROME_TEST_BASE_SCOPED_BROWSER_LOCALE_H_
 #define CHROME_TEST_BASE_SCOPED_BROWSER_LOCALE_H_
 

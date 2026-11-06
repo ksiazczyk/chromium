@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeProfileManager class declaration
+// summary: Declares a fake ProfileManager that builds TestingProfile objects, useful when profiles cannot be injected directly in tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_FAKE_PROFILE_MANAGER_H_
 #define CHROME_TEST_BASE_FAKE_PROFILE_MANAGER_H_
 

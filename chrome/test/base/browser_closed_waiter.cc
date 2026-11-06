@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser closed waiter implementation
+// summary: Implements a test helper that blocks in a run loop until the observed browser window interface is closed.
+// ---
+
 #include "chrome/test/base/browser_closed_waiter.h"
 
 #include "base/run_loop.h"

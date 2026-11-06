@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI browser test implementation
+// summary: Implements the WebUI browser test runner that preloads JavaScript libraries into WebUI pages, intercepts console errors, and runs JavaScript tests.
+// ---
+
 #include "chrome/test/base/ash/web_ui_browser_test.h"
 
 #include <stddef.h>

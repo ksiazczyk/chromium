@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGaiaMixin class declaration
+// summary: Declares a test mixin that simplifies using FakeGaia so tests can route login and token requests to a fake Gaia server.
+// ---
+
 #ifndef CHROME_TEST_BASE_FAKE_GAIA_MIXIN_H_
 #define CHROME_TEST_BASE_FAKE_GAIA_MIXIN_H_
 

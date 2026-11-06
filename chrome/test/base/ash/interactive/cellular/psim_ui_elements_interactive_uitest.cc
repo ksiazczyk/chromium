@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: pSIM UI elements interactive UI tests
+// summary: Interactive UI test verifying the OS Settings details page elements for a physical SIM (pSIM) cellular network.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/cellular/cellular_util.h"

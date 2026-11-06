@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for configuring Wi-Fi networks
+// summary: Interactive UI test verifying that Wi-Fi networks added through the OS Settings Add Wi-Fi dialog can be configured as shared or non-shared in Shill profiles.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"
 #include "chrome/test/base/ash/interactive/network/shill_service_util.h"

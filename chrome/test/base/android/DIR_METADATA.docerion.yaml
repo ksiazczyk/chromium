@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Android test base folder
+summary: Defines directory metadata mixins inheriting from the chrome/android and chrome/test/android common metadata files.

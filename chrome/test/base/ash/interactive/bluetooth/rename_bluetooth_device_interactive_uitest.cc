@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for renaming a Bluetooth device
+// summary: Interactive UI test that renames a Bluetooth device in OS Settings and verifies the new nickname is stored.
+// ---
+
 #include <string>
 
 #include "base/test/scoped_feature_list.h"

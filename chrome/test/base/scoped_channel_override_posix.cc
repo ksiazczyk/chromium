@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX scoped channel override implementation
+// summary: Implements ScopedChannelOverride on POSIX platforms by mapping channels to version_info channels via a scoped version extra override.
+// ---
+
 #include "chrome/test/base/scoped_channel_override.h"
 
 #include "base/test/nix/scoped_chrome_version_extra_override.h"

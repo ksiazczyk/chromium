@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop snapshot saving test helper
+// summary: Declares SaveDesktopSnapshot and the kSnapshotOutputDir command line switch used to save desktop snapshots during tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_SAVE_DESKTOP_SNAPSHOT_H_
 #define CHROME_TEST_BASE_SAVE_DESKTOP_SNAPSHOT_H_
 

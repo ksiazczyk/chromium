@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveAshTest base class header
+// summary: Declares the InteractiveAshTest class, a Kombucha-based ash browser test base with helpers for system web apps, Settings navigation, and Wi-Fi dialogs.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_INTERACTIVE_ASH_TEST_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_INTERACTIVE_ASH_TEST_H_
 

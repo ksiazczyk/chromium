@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM installation interactive UI tests
+// summary: Interactive UI tests covering installation of pending eSIM profiles through the ChromeOS settings installation dialog.
+// ---
+
 #include <string>
 
 #include "base/time/time.h"

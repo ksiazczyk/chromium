@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu model test implementation
+// summary: Implements the counting menu delegate and a recursive check that every ui::MenuModel item is enabled and executable.
+// ---
+
 #include "chrome/test/base/menu_model_test.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

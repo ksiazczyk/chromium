@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill service test utilities header
+// summary: Declares ShillServiceInfo and ConnectShillService/DisconnectShillService helpers for setting up Shill services in interactive tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_NETWORK_SHILL_SERVICE_UTIL_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_NETWORK_SHILL_SERVICE_UTIL_H_
 

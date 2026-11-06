@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test path utilities header
+// summary: Declares chrome_test_utils helpers for the Chrome test data directory, test file paths and test URLs used by tests and the embedded server.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_TEST_PATH_UTILS_H_
 #define CHROME_TEST_BASE_CHROME_TEST_PATH_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS integration test mixin implementation
+// summary: Implements command-line and user data directory setup so integration tests enable GPU and pixel output on hardware or in a VM.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/chromeos_integration_test_mixin.h"
 
 #include "base/command_line.h"

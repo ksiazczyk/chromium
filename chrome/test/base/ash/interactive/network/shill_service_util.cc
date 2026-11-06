@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill service test utilities implementation
+// summary: Implements ShillServiceInfo and helpers to configure fake Shill services and connect or disconnect them via the network connection handler.
+// ---
+
 #include "chrome/test/base/ash/interactive/network/shill_service_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools coverage listener header
+// summary: Declares DevToolsListener, which collects JavaScript code coverage via the Chrome DevTools Protocol during browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_DEVTOOLS_LISTENER_H_
 #define CHROME_TEST_BASE_DEVTOOLS_LISTENER_H_
 

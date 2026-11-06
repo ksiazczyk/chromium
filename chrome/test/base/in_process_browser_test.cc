@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process browser test base implementation
+// summary: Implements the InProcessBrowserTest base class that runs a full Chrome browser in-process for browser tests, covering setup, teardown and main-thread test execution.
+// ---
+
 #include "chrome/test/base/in_process_browser_test.h"
 
 #include <map>

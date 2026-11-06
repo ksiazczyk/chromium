@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebFeatureHistogramTester implementation
+// summary: Implements a test helper that fetches and asserts WebFeature use counts recorded in Blink UMA histograms.
+// ---
+
 #include "chrome/test/base/web_feature_histogram_tester.h"
 
 #include <utility>

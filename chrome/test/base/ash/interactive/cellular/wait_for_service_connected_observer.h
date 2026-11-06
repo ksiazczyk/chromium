@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitForServiceConnectedObserver test helper header
+// summary: Declares an observer that blocks interactive cellular UI test steps until the network service for a given ICCID is connected, auto-connecting it once enabled.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_WAIT_FOR_SERVICE_CONNECTED_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_WAIT_FOR_SERVICE_CONNECTED_OBSERVER_H_
 

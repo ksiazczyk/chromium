@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hotspot test directory metadata
+summary: Maps the hotspot test directory to a Buganizer component and the ChromeOS device enablement team email.

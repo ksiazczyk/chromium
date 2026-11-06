@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows process inspector implementation
+// summary: Reads parent PID and command line from a remote Windows process, with traits for 32-bit WoW64 processes.
+// ---
+
 #include "chrome/test/base/process_inspector_win.h"
 
 #include <winternl.h>

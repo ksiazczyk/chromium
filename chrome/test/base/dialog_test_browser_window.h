@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog test browser window class declaration
+// summary: Declares a custom test browser window that provides a parent view and modal dialog host for tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_DIALOG_TEST_BROWSER_WINDOW_H_
 #define CHROME_TEST_BASE_DIALOG_TEST_BROWSER_WINDOW_H_
 

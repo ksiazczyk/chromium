@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserCreatedWaiter test helper header
+// summary: Declares a test helper that waits for browser creation, needed because browser creation is asynchronous on some platforms such as Android.
+// ---
+
 #ifndef CHROME_TEST_BASE_BROWSER_CREATED_WAITER_H_
 #define CHROME_TEST_BASE_BROWSER_CREATED_WAITER_H_
 

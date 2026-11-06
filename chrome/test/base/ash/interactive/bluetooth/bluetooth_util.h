@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth adapter test utility header
+// summary: Declares the GetBluetoothAdapter helper used by Bluetooth interactive UI tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_BLUETOOTH_BLUETOOTH_UTIL_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_BLUETOOTH_BLUETOOTH_UTIL_H_
 

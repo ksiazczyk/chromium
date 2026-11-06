@@ -14,6 +14,12 @@
  * @see chrome/test/base/ash/v8sh.py
  */
 
+// ---docerion
+// type: script
+// title: js2gtest JavaScript test generator
+// summary: Generator script run via the V8 shell that converts JavaScript test files into C++ gtest wrappers for extension, WebUI and unit tests.
+// ---
+
 // Arguments from the js2gtest template in chrome/test/base/js2gtest.gni
 // are passed in through python script v8sh.py.
 if (arguments.length != 7) {

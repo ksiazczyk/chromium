@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of interactive Ash tests
+summary: Lists the email addresses of the code owners responsible for the interactive Ash test directory.

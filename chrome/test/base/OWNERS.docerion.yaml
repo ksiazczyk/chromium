@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Chrome test base
+summary: Maps test support files such as test browser windows, testing profiles, fake Gaia, WebUI helpers, and tracing utilities to their reviewing owners.
