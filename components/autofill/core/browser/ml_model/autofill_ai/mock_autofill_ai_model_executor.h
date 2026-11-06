@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill AI model executor
+// summary: GoogleMock mock of AutofillAiModelExecutor that stubs GetPredictions and provides a weak-pointer accessor for Autofill AI unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_AUTOFILL_AI_MOCK_AUTOFILL_AI_MODEL_EXECUTOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_AUTOFILL_AI_MOCK_AUTOFILL_AI_MODEL_EXECUTOR_H_
 

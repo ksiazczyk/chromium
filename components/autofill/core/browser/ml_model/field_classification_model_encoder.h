@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model encoder header
+// summary: Declares the encoder that vectorizes forms into model input and defines the ModelInput and ModelOutput types used by the field classification ML model.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field classification model handler unit tests
+// summary: Unit tests verifying prediction handling with a mock executor, including postprocessing of field type predictions and small-form behaviour.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_handler.h"
 
 #include <optional>

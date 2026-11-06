@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillAiModelExecutorImpl
+// summary: Unit tests for the AutofillAI model executor covering response handling, cache writes, feature flags, shadow metrics and logging.
+// ---
+
 #include "components/autofill/core/browser/ml_model/autofill_ai/autofill_ai_model_executor_impl.h"
 
 #include <memory>

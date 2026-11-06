@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockWalletPassAccessManager
+// summary: gmock implementation of WalletPassAccessManager that stubs wallet pass save, update and unmask operations for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_MOCK_WALLET_PASS_ACCESS_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_MOCK_WALLET_PASS_ACCESS_MANAGER_H_
 

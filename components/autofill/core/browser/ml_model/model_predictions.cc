@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model predictions implementation
+// summary: Implements ModelPredictions, applying predicted field types and supported types to the fields of a form.
+// ---
+
 #include "components/autofill/core/browser/ml_model/model_predictions.h"
 
 #include <memory>

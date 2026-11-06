@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model handler implementation
+// summary: Implements the handler that loads the server-provided autofill ML model, executes it on forms and caches the resulting field type predictions.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_handler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Wallet pass access manager implementation
+// summary: Implements a fake Wallet pass access manager that simulates Wallet API responses with configurable delay and failure for testing and UI development.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/fake_wallet_pass_access_manager.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillAiModelCacheImpl
+// summary: Unit tests covering adding entries, persistence across restarts, and enforcement of maximum cache size and age for the AutofillAI model cache.
+// ---
+
 #include "components/autofill/core/browser/ml_model/autofill_ai/autofill_ai_model_cache_impl.h"
 
 #include <memory>

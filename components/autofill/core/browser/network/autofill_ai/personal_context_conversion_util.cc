@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context to Autofill AI entity conversion utilities
+// summary: Implements conversion between personal context protos and Autofill AI EntityInstances, including date formatting, source validation and SPII masking.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/personal_context_conversion_util.h"
 
 #include <algorithm>

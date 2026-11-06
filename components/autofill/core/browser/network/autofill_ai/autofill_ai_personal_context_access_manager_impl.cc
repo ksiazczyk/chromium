@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI personal context access manager implementation
+// summary: Implements the Autofill AI personal context access manager, covering prefetch requests with exponential backoff, caching, metrics, and unmasking of SPII entities.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/autofill_ai_personal_context_access_manager_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstance to wallet PrivatePass conversion
+// summary: Implements conversion of Autofill AI EntityInstances into wallet::PrivatePass protos for Wallet API communication, including Chrome metadata serialization.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/private_pass_conversion_util.h"
 
 #include <optional>

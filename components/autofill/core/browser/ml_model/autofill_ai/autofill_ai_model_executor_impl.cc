@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAiModelExecutorImpl implementation
+// summary: Implements AutofillAI model execution via the optimization guide, validating responses, writing predictions to the cache, and logging metrics.
+// ---
+
 #include "components/autofill/core/browser/ml_model/autofill_ai/autofill_ai_model_executor_impl.h"
 
 #include <stddef.h>

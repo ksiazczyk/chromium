@@ -1,0 +1,4 @@
+# Docerion header of autofill_ml_internals.mojom.
+type: source
+title: Autofill ML internals Mojom interfaces
+summary: Defines Mojo structs and interfaces for logging autofill ML predictions and for communication between the browser process and the autofill ML internals WebUI page.

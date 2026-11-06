@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet pass access manager implementation unit tests
+// summary: Unit tests for the wallet pass access manager implementation, covering pass upsert and unmasking flows with a mocked wallet HTTP client, entity test data, and metrics verification.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/wallet_pass_access_manager_impl.h"
 
 #include <memory>

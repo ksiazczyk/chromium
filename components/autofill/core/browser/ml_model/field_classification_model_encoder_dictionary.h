@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model encoder dictionary header
+// summary: Declares the vocabulary dictionary for the field classification ML model, with padding and unknown token IDs and O(log N) token lookups.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_DICTIONARY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_DICTIONARY_H_
 

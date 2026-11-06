@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Wallet pass access manager for testing and UI development
+// summary: Declares a fake WalletPassAccessManager that intercepts Wallet API calls and returns locally simulated responses when the fake wallet feature is enabled.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_FAKE_WALLET_PASS_ACCESS_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_FAKE_WALLET_PASS_ACCESS_MANAGER_H_
 

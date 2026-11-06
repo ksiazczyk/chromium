@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Field classification model encoder test API
+// summary: Test-only header exposing the encoder's StandardizeString method so tests can inspect string standardization behavior.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_FIELD_CLASSIFICATION_MODEL_ENCODER_TEST_API_H_
 
