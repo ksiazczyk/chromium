@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Autofill include dependency rules
+summary: Specifies the DEPS include rules that control which dependencies the Autofill component and its subdirectories may use.

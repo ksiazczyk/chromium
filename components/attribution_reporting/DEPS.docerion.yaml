@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for attribution_reporting
+summary: Declares the allowed include dependency on services/network/public/cpp for this directory.

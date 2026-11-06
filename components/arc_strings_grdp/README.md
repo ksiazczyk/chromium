@@ -1,3 +1,9 @@
+---
+type: readme
+title: ARC strings context image hashes README
+summary: Explains that the directory stores SHA-1 hashes of context images that help translators translate ARC UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

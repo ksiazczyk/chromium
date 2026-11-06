@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Autofill common metadata
+summary: Defines the issue tracker component, team email and Buganizer component used for the Autofill directory.
