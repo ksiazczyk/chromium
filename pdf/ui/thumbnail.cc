@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF page thumbnail implementation
+// summary: Implements thumbnail image size calculation and data handling for PDF pages, respecting pixel area, aspect ratio, and device pixel ratio limits.
+// ---
+
 #include "pdf/ui/thumbnail.h"
 
 #include <stddef.h>

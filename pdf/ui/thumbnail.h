@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail class header
+// summary: Declares the Thumbnail class that stores PDF page thumbnail image data with size, stride, and device pixel ratio, plus accessors and data transfer helpers.
+// ---
+
 #ifndef PDF_UI_THUMBNAIL_H_
 #define PDF_UI_THUMBNAIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document properties formatting implementation
+// summary: Implements locale-aware formatting of PDF page sizes in inches or millimeters with orientation, plus conversion of PDF versions to display strings.
+// ---
+
 #include "pdf/ui/document_properties.h"
 
 #include <optional>

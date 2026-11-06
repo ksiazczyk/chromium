@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save file name header
+// summary: Declares GetFileNameForSaveFromUrlAndSuggestion, which builds a file name for saving a PDF given its URL and a suggested name.
+// ---
+
 #ifndef PDF_UI_FILE_NAME_H_
 #define PDF_UI_FILE_NAME_H_
 

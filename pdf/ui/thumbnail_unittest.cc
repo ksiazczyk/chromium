@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail unit tests
+// summary: Unit tests verifying the Thumbnail class computes best-fit image sizes for various page dimensions and device pixel ratios, including fractional, extreme aspect ratio, and overflow edge cases.
+// ---
+
 #include "pdf/ui/thumbnail.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

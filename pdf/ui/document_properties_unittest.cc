@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document properties unit tests
+// summary: Unit tests verifying page size formatting across locales such as en_US, en_CA, and de_DE, and PDF version formatting including invalid versions.
+// ---
+
 #include "pdf/ui/document_properties.h"
 
 #include <optional>
