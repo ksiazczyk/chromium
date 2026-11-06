@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for ukm.xml
+# summary: Runs validation and formatting checks on ukm.xml during upload and commit via the presubmit infrastructure.
+# ---
+
 """Presubmit script for ukm.xml.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

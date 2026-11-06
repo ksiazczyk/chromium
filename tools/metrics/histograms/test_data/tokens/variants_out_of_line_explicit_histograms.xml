@@ -3,6 +3,12 @@
   are referred to from tokens within histogram.
 -->
 
+<!--docerion
+type: test
+title: Explicit out-of-line variants test fixture
+summary: Sample histogram configuration with correctly defined variants that are explicitly referred to from tokens within the histogram, for valid-case testing.
+-->
+
 <histogram-configuration>
 
 <histograms>

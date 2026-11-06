@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Model of a structured metrics XML file
+# summary: Parses structured metrics XML into a validated Model of projects, events and metrics, and can produce a canonically formatted XML version.
+# ---
+
 """Model of a structured metrics description xml file.
 
 This marshals an XML string into a Model, and validates that the XML is

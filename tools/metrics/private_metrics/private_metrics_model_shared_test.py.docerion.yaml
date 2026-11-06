@@ -1,0 +1,4 @@
+# Docerion header of private_metrics_model_shared_test.py.
+type: test
+title: Private metrics shared model unit tests
+summary: Unit tests for the shared private metrics model, covering XML pretty-printing and validation of event, metric, and study names.

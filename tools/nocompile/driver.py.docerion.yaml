@@ -1,0 +1,4 @@
+# Docerion header of driver.py.
+type: source
+title: No-compile test driver for C++
+summary: Python driver that runs the compiler on test sources and asserts that compilation fails with the expected output for C++ no-compile tests.

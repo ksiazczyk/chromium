@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Windows histograms metadata
+summary: Lists the owners responsible for reviewing changes to Windows histogram metadata in this directory, with a shared metric reviewer list as fallback.

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Tests for the dependency solver
+# summary: Unit tests that verify dependency resolution of chromium_src.tools.metrics import styles using isolated temporary directories.
+# ---
+
 import os
 import pathlib
 import shutil

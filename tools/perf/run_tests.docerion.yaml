@@ -1,0 +1,4 @@
+# Docerion header of run_tests.
+type: script
+title: Perf directory unit test runner
+summary: Script that runs the unit tests of the code in the perf directory rather than benchmarks.

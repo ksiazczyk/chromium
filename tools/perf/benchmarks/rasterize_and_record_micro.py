@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rasterize and record micro benchmark
+# summary: Defines the rasterize_and_record_micro benchmark and its top-25-pages variant, measuring rasterization and recording performance with configurable repeat counts.
+# ---
+
 from core import perf_benchmark
 
 from measurements import rasterize_and_record_micro

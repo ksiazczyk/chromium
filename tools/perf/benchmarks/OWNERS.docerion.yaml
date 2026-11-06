@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for the benchmarks directory
+summary: Points review ownership of the benchmarks directory to the shared perf OWNERS file in infra config.

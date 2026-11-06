@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit checks for tools/perf changes
+# summary: Runs validation scripts that check perf data currentness, JSON configs, shard maps, and WPR SHA files on upload and commit.
+# ---
+
 """Presubmit script for changes affecting tools/perf/.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

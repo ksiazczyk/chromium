@@ -1,0 +1,4 @@
+# Docerion header of crossbench.
+type: script
+title: Crossbench runner wrapper
+summary: Wrapper that launches the crossbench cb.py entry point with the arguments passed to it.

@@ -1,0 +1,4 @@
+# Docerion header of model_unittest.py.
+type: test
+title: Unit tests for the structured metrics model
+summary: Unit tests verifying that model.py correctly parses and validates structured metrics XML, including error cases for invalid input.

@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Abstract base classes for structured metrics code generation
+# summary: Defines abstract base classes holding project, event, and metric information used to generate code from structured.xml for different targets.
+# ---
+
 """Abstract class definition of Code Generation from structured.xml
 into definitions for different targets."""
 

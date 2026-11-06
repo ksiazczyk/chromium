@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wallet metrics OWNERS
+summary: Lists the owners and backup reviewer contact for changes to wallet histogram metadata in this directory.

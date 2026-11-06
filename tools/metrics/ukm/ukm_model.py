@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: XML model for ukm.xml
+# summary: Defines the node types, validation rules, and pretty-printing logic for the structure of ukm.xml.
+# ---
+
 """Model objects for ukm.xml contents."""
 
 import setup_modules  # pylint: disable=unused-import

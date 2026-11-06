@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dummy WPR page load benchmark
+# summary: Defines an unscheduled dummy benchmark that measures page load metrics through Web Page Replay for testing purposes.
+# ---
+
 """Dummy benchmarks using WPR to test page load time.
 
 The number produced isn't meant to represent any actual performance

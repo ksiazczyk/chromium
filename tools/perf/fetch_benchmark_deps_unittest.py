@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Fetch benchmark deps unit tests
+# summary: Unit tests verifying that fetch_benchmark_deps downloads WPR archives, serving directories and crossbench story sets correctly.
+# ---
+
 import json
 import os
 import tempfile

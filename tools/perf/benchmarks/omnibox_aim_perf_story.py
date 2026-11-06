@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Omnibox AI Mode popup performance story
+# summary: Defines a desktop UI story that opens the omnibox AI Mode popup and collects omnibox, event latency, smoothness and GPU memory UMA metrics.
+# ---
+
 from core import perf_benchmark
 from telemetry import benchmark
 from telemetry import story

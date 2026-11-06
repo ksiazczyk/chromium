@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Test enums definitions
+summary: Test fixture defining sample enums, including a placeholder UKM event name hash enum, for histogram tooling tests.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

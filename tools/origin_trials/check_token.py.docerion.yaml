@@ -1,0 +1,4 @@
+# Docerion header of check_token.py.
+type: script
+title: Origin trial token validation and inspection utility
+summary: Command-line utility that validates and inspects origin trial tokens using Ed25519 signatures with the Chrome public key, a test key, or a provided key file.

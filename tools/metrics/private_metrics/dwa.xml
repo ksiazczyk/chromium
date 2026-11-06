@@ -13,6 +13,12 @@ the event will only occur once per source, and multiple entries will just
 be describing additional metrics about the same event.
 -->
 
+<!--docerion
+type: config
+title: DWA metrics configuration
+summary: Defines the events, metrics and studies for Chrome DWA private metrics, serving as input for generated builder code.
+-->
+
 <dwa-configuration>
 
 <event name="BrowsingTopics.Result">

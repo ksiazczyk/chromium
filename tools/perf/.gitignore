@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for tools/perf
+# summary: Specifies files and directories such as cached data and artifacts that git should ignore in the perf tools directory.
+# ---
+
 /*.html
 /_cached_data
 /artifacts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test runner shim for Blink perf tests
+// summary: JavaScript shim providing testRunner and GCController so Blink perf pages can run under Telemetry.
+// ---
+
 (function() {
 window.testRunner = {};
 window.testRunner.isDone = false;

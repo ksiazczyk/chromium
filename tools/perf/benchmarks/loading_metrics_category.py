@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Loading metrics tracing categories
+# summary: Augments timeline-based measurement options with the tracing categories and loading metrics needed for page load performance measurements.
+# ---
+
 # Set the required tracing categories specified by page_cycler_v2
 def AugmentOptionsForLoadingMetrics(tbm_options):
   cat_filter = tbm_options.config.chrome_trace_config.category_filter

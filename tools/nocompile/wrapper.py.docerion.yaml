@@ -1,0 +1,4 @@
+# Docerion header of wrapper.py.
+type: source
+title: Clang wrapper for no-compile tests
+summary: Wraps clang for no-compile tests, touching an empty object file and generating a depfile on Windows from /showIncludes output.

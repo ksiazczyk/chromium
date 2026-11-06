@@ -1,0 +1,4 @@
+# Docerion header of record-hardware-events.
+type: script
+title: Record hardware counter events with simpleperf on Android
+summary: Shell script that runs simpleperf on an Android device via adb to record hardware counter events per thread and CPU, outputting merged counts as CSV in timed or free-running modes.

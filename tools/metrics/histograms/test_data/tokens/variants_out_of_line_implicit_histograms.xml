@@ -3,6 +3,12 @@
   are implicitly referred to from name of the histogram.
 -->
 
+<!--docerion
+type: test
+title: Implicit out-of-line variants test fixture
+summary: Sample histogram configuration with correctly defined variants that are implicitly referred to from the histogram name, for valid-case testing.
+-->
+
 <histogram-configuration>
 
 <histograms>

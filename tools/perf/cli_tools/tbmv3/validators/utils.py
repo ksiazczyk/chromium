@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Histogram assertion helpers
+# summary: Provides helper assertions that check histogram statistics and sample values are almost equal between TBMv2 and TBMv3 histograms.
+# ---
+
 
 def AssertHistogramStatsAlmostEqual(test_ctx, v2_hist, v3_hist, precision=1e-3):
   """Asserts major histogram statistics are close enough.

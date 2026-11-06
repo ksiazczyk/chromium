@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java allowlist test fixture for histograms check
+// summary: Java test fixture whose marked allowlist entries are parsed by the histograms_allowlist_check presubmit test.
+// ---
+
 package tools.metrics.histograms.test_data;
 
 private class AllowlistExample {

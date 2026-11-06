@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for the Blink perf benchmark
+# summary: Verifies Blink perf tracing metrics for measure-time, frame-time, and page-load-time test pages.
+# ---
+
 from __future__ import division
 
 import os

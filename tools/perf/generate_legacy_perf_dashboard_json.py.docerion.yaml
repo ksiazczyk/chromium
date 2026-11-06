@@ -1,0 +1,4 @@
+# Docerion header of generate_legacy_perf_dashboard_json.py.
+type: source
+title: Legacy perf dashboard JSON generator
+summary: Parses legacy RESULT and HISTOGRAM output lines from non-Telemetry perf tests and converts them into legacy perf dashboard JSON.

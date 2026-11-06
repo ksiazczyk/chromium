@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: View transitions navigation benchmark
+# summary: Defines the view_transitions.navigation benchmark measuring first contentful paint for same-origin navigations with and without cross-document view transitions.
+# ---
+
 """Benchmarks for cross-document view transitions."""
 
 from core import perf_benchmark

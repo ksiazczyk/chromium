@@ -27,6 +27,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Valid enums reference for presubmit tests
+summary: Valid and properly formatted enum definitions used as a positive reference for presubmit check tests.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

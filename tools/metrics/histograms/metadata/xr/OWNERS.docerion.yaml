@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: XR metrics directory owners
+summary: Lists the owners for XR histogram metadata changes and points to the shared metric reviewer owners file.

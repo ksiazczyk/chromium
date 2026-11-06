@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Pinpoint Experiment Presets for Mac M1
+# summary: YAML preset file defining Pinpoint CLI performance experiment presets such as Speedometer2, JetStream2, and MotionMark on Mac M1 configs.
+# ---
+
 # This preset yaml file is used in conjunction with the Pinpoint CLI
 # For more information, see https://source.chromium.org/chromium/infra/infra/+/main:go/src/infra/chromeperf/doc/pinpoint/cli/job-presets.md
 # Example command:

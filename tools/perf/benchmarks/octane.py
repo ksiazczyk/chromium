@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Octane 2.0 JavaScript benchmark
+# summary: Registers the Octane 2.0 JavaScript engine benchmark, which measures performance with tests representative of real-world web applications.
+# ---
+
 """Runs Octane 2.0 javascript benchmark.
 
 Octane 2.0 is a modern benchmark that measures a JavaScript engine's performance

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebRTC metrics OWNERS
+summary: Lists the reviewers responsible for changes to WebRTC histogram metadata in this directory, with a shared metric reviewer list as fallback.

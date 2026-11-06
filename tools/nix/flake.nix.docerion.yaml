@@ -1,0 +1,4 @@
+# Docerion header of flake.nix.
+type: config
+title: Nix flake with dev shells for Linux
+summary: Nix flake that exposes dev shells for aarch64-linux and x86_64-linux built via make-shell-for-system.nix.

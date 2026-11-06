@@ -1,0 +1,4 @@
+# Docerion header of pinpoint.
+type: script
+title: Pinpoint Command Wrapper
+summary: Wrapper script that forwards pinpoint commands and version queries to the crossbench cb.py tool.

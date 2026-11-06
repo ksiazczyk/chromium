@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Visited URL ranking histogram definitions
+summary: Defines the histograms for the visited URL ranking component, including owners, expiry dates, variants, and detailed descriptions for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

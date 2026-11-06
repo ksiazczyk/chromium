@@ -1,0 +1,4 @@
+# Docerion header of results_processor.
+type: script
+title: Results processor entry point
+summary: Command-line entry point that sets up core paths and invokes the results processor to compute performance results from benchmark output.

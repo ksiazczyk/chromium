@@ -1,0 +1,4 @@
+# Docerion header of diagnose_test_failure.
+type: script
+title: Perf test failure range diagnostic tool
+summary: Tool that walks build history backwards to find the first failed build and revision range for a failing perf test.

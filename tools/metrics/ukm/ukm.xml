@@ -16,6 +16,12 @@ the event will only occur once per source, and multiple entries will just
 be describing additional metrics about the same event.
 -->
 
+<!--docerion
+type: config
+title: UKM events and metrics definitions
+summary: Comprehensive list of Chrome UKM events and metrics with owners and descriptions, used to generate code and documentation.
+-->
+
 <ukm-configuration>
 
 <event name="AbandonedSRPNavigation" singular="True">

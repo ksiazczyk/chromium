@@ -9,6 +9,12 @@ This file is used for testing only, see dwa.xml for configuration used in
 production.
 -->
 
+<!--docerion
+type: test
+title: DWA test metric configuration
+summary: Test-only DWA configuration XML defining a DwaTestMetric event with studies and metrics, used for testing instead of the production dwa.xml.
+-->
+
 <dwa-configuration>
 
 <event name="DwaTestMetric">

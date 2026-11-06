@@ -1,0 +1,4 @@
+# Docerion header of list_benchmarks.
+type: script
+title: List Available Benchmarks
+summary: Command-line script that prints benchmark names, optionally including contrib (non-waterfall) benchmarks.

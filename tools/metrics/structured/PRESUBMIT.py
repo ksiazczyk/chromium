@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for structured.xml
+# summary: Presubmit script that verifies structured.xml is pretty-printed and rejects leftover structured.old.xml files before upload or commit.
+# ---
+
 """Presubmit script for structured.xml, stored in the sync directory.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

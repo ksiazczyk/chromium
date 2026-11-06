@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Command line tools package initializer
+# summary: Package module for performance-related command line tools, where each submodule is an independent tool exposing a Main() function called by thin executable scripts in the parent directory.
+# ---
+
 """Command line tools.
 
 This module contains implementations for several performance related command

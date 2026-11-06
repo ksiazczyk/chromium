@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: V8 loading benchmarks
+# summary: Defines unscheduled desktop and mobile V8 loading benchmarks measuring RuntimeStats, GC and memory metrics on system health load stories.
+# ---
+
 from core import platforms, perf_benchmark
 
 from telemetry import benchmark, story

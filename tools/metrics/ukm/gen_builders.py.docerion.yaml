@@ -1,0 +1,4 @@
+# Docerion header of gen_builders.py.
+type: script
+title: Generator for UKM entry builders
+summary: Parses ukm.xml, filters obsolete entries, and generates C++ builder and decoder files for UKM events and metrics.

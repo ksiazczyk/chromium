@@ -9,6 +9,12 @@ This file describes the enumerations referenced by entries in histograms.xml for
 this directory.
 -->
 
+<!--docerion
+type: config
+title: Voice typing dictation metric enums
+summary: Defines the enumeration values used by the voice typing histograms, covering dictation exit statuses, entry points, stream triggers and URL categories.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

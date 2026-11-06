@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Media performance benchmarks
+# summary: Defines desktop and mobile media playback benchmarks that collect media and CPU time metrics via timeline-based measurement.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

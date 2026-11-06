@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Code generation templates for ukm.xml
+# summary: Defines template objects that stamp event and metric code from parsed ukm.xml data into generated files.
+# ---
+
 """Objects for describing template code that can be generated from ukm.xml."""
 
 import os

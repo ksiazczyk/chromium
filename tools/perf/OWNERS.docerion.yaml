@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for perf tools
+summary: Lists reviewers responsible for the perf directory, with per-file owners for expectations.config and area-specific owners.

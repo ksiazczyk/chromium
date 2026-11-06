@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore excluding ukm.old.xml
+# summary: Keeps the ukm.old.xml backup produced by pretty-printing out of version control.
+# ---
+
 ukm.old.xml

@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: npins .gitignore
+# summary: Ignores the generated default.nix in the npins directory so only sources.json is tracked.
+# ---
+
 /default.nix

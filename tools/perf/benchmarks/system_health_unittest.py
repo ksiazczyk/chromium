@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: System health benchmark unit tests
+# summary: Unit tests verifying that system health benchmarks use the system_health name prefix, use SystemHealthStorySet, and do not override RunPageInteractions.
+# ---
+
 import sys
 import unittest
 

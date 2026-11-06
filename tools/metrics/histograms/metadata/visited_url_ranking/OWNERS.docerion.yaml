@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for visited URL ranking metrics metadata
+summary: Lists the owners and backup metric reviewers responsible for reviewing changes to the visited URL ranking histogram metadata.

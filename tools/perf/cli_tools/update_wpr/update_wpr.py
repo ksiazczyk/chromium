@@ -5,6 +5,12 @@
 # Script to automate updating existing WPR benchmarks from live versions of the
 # sites. Only supported on Mac/Linux.
 
+# ---docerion
+# type: script
+# title: 'update_wpr: WPR benchmark update automation tool'
+# summary: Command-line script that re-records Web Page Replay archives for Chromium perf benchmarks from live sites, runs benchmarks, and prepares change lists for review.
+# ---
+
 from __future__ import print_function
 
 import argparse

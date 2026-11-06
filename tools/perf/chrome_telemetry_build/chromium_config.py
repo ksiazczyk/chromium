@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chromium Telemetry project configuration
+# summary: Defines ChromiumConfig, a ProjectConfig subclass that sets up benchmark directories, expectations, and binary dependencies for Chromium.
+# ---
+
 import os
 
 from core import path_util

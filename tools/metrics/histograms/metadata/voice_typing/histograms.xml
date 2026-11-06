@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Voice typing histogram definitions
+summary: Defines the VoiceTyping UMA histograms for first-run exit, session and stream triggers, exit reasons, URL context and latency measurements.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -14,6 +14,12 @@
 # It's used to make sure that all affected files are tested when
 # running presubmits.
 
+# ---docerion
+# type: source
+# title: Dependency solver for tools/metrics Python imports
+# summary: Library that resolves internal chromium_src.tools.metrics imports to file paths so presubmits can test all affected files.
+# ---
+
 import os
 import pathlib
 import re

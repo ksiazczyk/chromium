@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Speedometer 1 benchmark
+# summary: Defines Speedometer 1.0 benchmark classes that measure simulated web app interactions using TodoMVC across DOM APIs and JavaScript frameworks.
+# ---
+
 """Apple's Speedometer performance benchmark.
 
 Speedometer measures simulated user interactions in web applications.

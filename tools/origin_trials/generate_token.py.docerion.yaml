@@ -1,0 +1,4 @@
+# Docerion header of generate_token.py.
+type: script
+title: Origin trial token generation utility
+summary: Command-line utility that generates signed origin trial tokens for versions 2 and 3 with configurable origin, expiry, subdomain, third-party, and usage options.

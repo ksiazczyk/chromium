@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Benchmark option and naming validation tests
+# summary: Checks that all perf benchmarks have valid options, unique names, and follow naming conventions.
+# ---
+
 """For all the benchmarks that set options, test that the options are valid."""
 
 from collections import defaultdict

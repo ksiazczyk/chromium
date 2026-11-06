@@ -1,0 +1,4 @@
+# Docerion header of bootstrap_deps.
+type: config
+title: Bootstrap dependencies for tools/perf
+summary: Lists source directories required to bootstrap the perf tools, including benchmarks, telemetry, and test data paths.

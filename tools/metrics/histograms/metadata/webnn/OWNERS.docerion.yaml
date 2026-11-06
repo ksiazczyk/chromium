@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for WebNN metrics metadata
+summary: Delegates review ownership for WebNN metrics metadata changes to the OWNERS file in services/webnn.

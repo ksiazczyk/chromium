@@ -6,6 +6,12 @@
 //
 // USAGE: clear_system_cache [--recurse] <files or directories>
 
+// ---docerion
+// type: source
+// title: clear_system_cache command-line utility
+// summary: Implements a utility that evicts files or directories from the operating system's page cache, optionally recursing, to support performance testing.
+// ---
+
 #include <stddef.h>
 #include <stdio.h>
 

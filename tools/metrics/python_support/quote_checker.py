@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Quote consistency checker for Python string literals
+# summary: Parses Python files into an AST to extract string literals and f-strings and flag double-quoted strings that break quote rules.
+# ---
+
 """Helper to check Python files for quote consistency."""
 
 import ast

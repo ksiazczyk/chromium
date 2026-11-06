@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Script validator for the frame_times metric
+# summary: Script validator that compares the frame_times histogram of the TBMv2 renderingMetric with the TBMv3 frame_times metric.
+# ---
+
 """
 Validates the rendering/frame_times metric.
 """

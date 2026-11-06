@@ -1,0 +1,4 @@
+# Docerion header of system_health_load_tests_smoke_test.py.
+type: script
+title: System health smoke test version checker
+summary: Standalone script that validates story name versions in the system health smoke tests.

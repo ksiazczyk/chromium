@@ -1,0 +1,4 @@
+# Docerion header of crossbench_result_converter.py.
+type: script
+title: Crossbench result to histogram converter
+summary: Command-line tool that converts crossbench result JSON into Catapult histogram format for the perf dashboard.

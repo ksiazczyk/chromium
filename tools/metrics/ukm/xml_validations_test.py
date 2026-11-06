@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: UKM XML validation unit tests
+# summary: Unit tests for UkmXmlValidation, verifying owner, enum, aggregation and other UKM XML configuration checks and their error messages.
+# ---
+
 import unittest
 from xml.dom import minidom
 

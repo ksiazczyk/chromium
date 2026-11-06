@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for traces directory
+# summary: Ignores the local traces directory where downloaded HTML and proto traces are stored.
+# ---
+
 traces/

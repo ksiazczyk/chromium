@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: V8 browsing benchmarks
+# summary: Defines desktop and mobile V8 browsing benchmarks measuring RuntimeStats, expected queueing time, GC and memory metrics on system health browse stories.
+# ---
+
 from core import platforms, perf_benchmark
 
 from telemetry import benchmark

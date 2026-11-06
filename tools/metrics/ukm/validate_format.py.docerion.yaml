@@ -1,0 +1,4 @@
+# Docerion header of validate_format.py.
+type: script
+title: UKM XML format validator
+summary: Command-line script that runs the UkmXmlValidation checks against ukm.xml and reports collected errors and warnings.

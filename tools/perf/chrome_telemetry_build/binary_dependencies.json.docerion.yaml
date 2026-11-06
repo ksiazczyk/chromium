@@ -1,0 +1,4 @@
+# Docerion header of binary_dependencies.json.
+type: config
+title: Telemetry binary dependencies configuration
+summary: Specifies local paths to binaries such as crashpad_database_util and generate_breakpad_symbols used by Telemetry per platform.

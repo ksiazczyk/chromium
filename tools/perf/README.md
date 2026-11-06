@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Benchmarking System overview
+summary: Explains how to run and analyze Chrome perf benchmarks, create new stories, and use tools like run_benchmark, Pinpoint, and crossbench.
+relations:
+  - references /docs/speed/how_does_chrome_measure_performance.md
+  - references /docs/vscode_python.md
+  - documents /tools/perf/run_benchmark
+---
+
 <!-- Copyright 2020 The Chromium Authors
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.

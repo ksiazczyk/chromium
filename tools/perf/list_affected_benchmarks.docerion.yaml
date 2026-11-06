@@ -1,0 +1,4 @@
+# Docerion header of list_affected_benchmarks.
+type: script
+title: List Benchmarks Defined in a Benchmark File
+summary: Command-line script that prints the benchmark names found in the given benchmark files as a JSON string.

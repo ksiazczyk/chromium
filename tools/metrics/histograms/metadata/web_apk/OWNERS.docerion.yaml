@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAPK metrics OWNERS
+summary: Lists code owners for WebAPK histogram metadata changes and directs contributors to metric reviewers for sign-off.

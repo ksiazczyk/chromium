@@ -1,0 +1,4 @@
+# Docerion header of run_gtest_benchmark.py.
+type: script
+title: GTest perf test runner and result processor
+summary: Script that runs gtest performance tests, merges their LUCI test result files, and processes traces into perf results.

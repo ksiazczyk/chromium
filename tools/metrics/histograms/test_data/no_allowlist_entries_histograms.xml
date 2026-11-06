@@ -5,6 +5,12 @@
   to validate test scenarios that rely on such circumstances.
 -->
 
+<!--docerion
+type: data
+title: Histograms fixture without allowlist entries
+summary: Histograms fixture missing entries expected from HistogramsAllowlist.java, used to validate related test scenarios.
+-->
+
 <histogram name="RandomHistogramName"
     units="%" expires_after="M298">
   <owner>person@chromium.org</owner>

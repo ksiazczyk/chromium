@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the perf presubmit script
+# summary: Tests the validation command construction, argument splitting, and check aggregation logic of PRESUBMIT.py using mock APIs.
+# ---
+
 """Unit tests for tools/perf/PRESUBMIT.py."""
 
 import ntpath

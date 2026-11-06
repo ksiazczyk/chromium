@@ -19,6 +19,12 @@
 #     }
 # }
 
+# ---docerion
+# type: config
+# title: Cross-device benchmark repeat configuration
+# summary: Defines per-builder repeat counts for benchmarks and stories across Android, Linux and Windows perf devices.
+# ---
+
 TARGET_DEVICES = {
   'android-go-wembley-perf': {
     'jetstream2': {

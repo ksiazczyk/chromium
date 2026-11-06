@@ -1,0 +1,4 @@
+# Docerion header of generate_perf_sharding.py.
+type: script
+title: Perf benchmark sharding map generator
+summary: Generates, updates and validates JSON sharding maps that distribute Telemetry benchmarks across perf builder machines.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: TBMv3 Metric Validators
+summary: Explains how to write simple config and script validators used by the validate_tbmv3_metric tool to compare TBMv2 and TBMv3 metrics.
+relations:
+  - documents /tools/perf/cli_tools/tbmv3/validate_tbmv3_metric.py
+  - documents /tools/perf/cli_tools/tbmv3/validators/simple_configs.pyl
+  - references /tools/perf/cli_tools/tbmv3/validators/utils.py
+---
+
 # TBMv3 Metric Validators
 
 The validate_tbmv3_metric tool works with two types of validators: A simple

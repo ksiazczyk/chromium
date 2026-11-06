@@ -1,0 +1,4 @@
+# Docerion header of gen_private_metrics_builders.gni.
+type: config
+title: GN template for Private Metrics builder targets
+summary: GN template that runs the builder generator on the metrics XML and wraps the generated C++ files in a static library.

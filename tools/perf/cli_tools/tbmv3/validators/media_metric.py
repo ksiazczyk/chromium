@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Script validator for the media_metric
+# summary: Script validator that compares TBMv2 mediaMetric histograms with the TBMv3 media_metric, including merged seek time histograms.
+# ---
+
 """
 Validates the media_metric.
 """

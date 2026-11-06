@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Git attributes marking key files as binary
+# summary: Git attributes entry that marks .key files as binary so git does not modify key material.
+# ---
+
 *.key binary

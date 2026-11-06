@@ -1,0 +1,4 @@
+# Docerion header of android_browser_types.gni.
+type: config
+title: Android telemetry browser target suffixes
+summary: Defines GN suffixes for Android Chromium Telemetry targets used to auto-generate binary-specific build targets.

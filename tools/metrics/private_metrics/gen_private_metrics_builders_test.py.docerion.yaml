@@ -1,0 +1,4 @@
+# Docerion header of gen_private_metrics_builders_test.py.
+type: test
+title: Tests for Private Metrics builder generation
+summary: Unit tests that compare generated DWA builders and decode files against expected output fixtures.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Private metrics XML validations
+# summary: Defines validation classes for event-based private metrics configuration XML, including owner and enum checks plus DWA-specific validation.
+# ---
+
 import xml.dom.minidom
 
 import setup_modules  # pylint: disable=unused-import

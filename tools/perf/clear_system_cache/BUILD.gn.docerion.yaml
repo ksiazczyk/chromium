@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the clear_system_cache executable
+summary: Defines the testonly clear_system_cache executable target, its source file, and dependencies on base and test support.

@@ -1,0 +1,4 @@
+# Docerion header of gen_builders_test.py.
+type: test
+title: Tests for UKM builder generation
+summary: Unit tests that verify obsolete-metric filtering and the C++ code stamped from the builder and decoder templates.

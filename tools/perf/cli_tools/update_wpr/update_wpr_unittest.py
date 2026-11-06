@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the update_wpr tool
+# summary: Unit tests that mock subprocesses and services to verify the update_wpr tool's argument handling, live recording flow and cleanup behavior.
+# ---
+
 
 import argparse
 import os

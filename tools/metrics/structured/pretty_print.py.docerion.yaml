@@ -1,0 +1,4 @@
+# Docerion header of pretty_print.py.
+type: script
+title: Pretty-print structured metrics XML
+summary: Command-line script that pretty-prints the structured metrics definitions in structured.xml by re-serializing the parsed model for presubmit checks.

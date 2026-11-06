@@ -5,6 +5,12 @@
 
 # Script to run Chrome Health Nightly A/B tests
 
+# ---docerion
+# type: script
+# title: Chrome Health nightly A/B experiment runner
+# summary: Shell script that resolves the current stable and release Chromium versions and starts nightly Chrome Health A/B experiments through Pinpoint.
+# ---
+
 # get stable hash
 versionHistoryURL='https://versionhistory.googleapis.com/v1/chrome/platforms/win64/channels/stable/versions/all/releases?filter=endtime=none'
 

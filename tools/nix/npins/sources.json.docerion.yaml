@@ -1,0 +1,4 @@
+# Docerion header of sources.json.
+type: config
+title: npins sources lock file
+summary: Pins the nixpkgs Git source from GitHub with a fixed revision and hash for reproducible Nix dependency management.

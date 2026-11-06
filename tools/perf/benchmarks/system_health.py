@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: System health benchmarks
+# summary: Defines common system health benchmarks that collect smoothness, memory, CPU and loading metrics via timeline-based measurement.
+# ---
+
 import logging
 
 from benchmarks import loading_metrics_category

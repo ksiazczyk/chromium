@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Pinpoint CLI presets for Chrome health experiments
+# summary: Defines preset benchmark and bot configurations for running Pinpoint telemetry batch experiments such as speedometer2 and rendering tests.
+# ---
+
 # This file is for use with the Pinpoint CLI.
 # For more information, see https://source.chromium.org/chromium/infra/infra/+/main:go/src/infra/chromeperf/doc/pinpoint/cli/job-presets.md
 # Example command:

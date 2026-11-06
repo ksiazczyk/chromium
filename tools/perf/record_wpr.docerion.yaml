@@ -1,0 +1,4 @@
+# Docerion header of record_wpr.
+type: script
+title: Record WPR Archives
+summary: Wrapper script that runs Telemetry's record_wpr with the default Chromium configuration to record web page replay archives.

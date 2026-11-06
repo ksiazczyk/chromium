@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Crossbench result converter unit tests
+# summary: Unit tests verifying that crossbench results for benchmarks like JetStream, MotionMark and Speedometer convert into correct histograms.
+# ---
+
 import json
 import pathlib
 import tempfile
