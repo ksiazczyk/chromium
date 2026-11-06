@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-editability-changes-expected-win.txt.
+type: test
+title: Expected Windows events for ARIA textbox editability changes
+summary: Expected Windows accessibility event output for the editability changes test, listing EVENT_OBJECT_STATECHANGE events before and after editability toggles.

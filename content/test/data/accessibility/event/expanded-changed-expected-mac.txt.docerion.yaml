@@ -1,0 +1,4 @@
+# Docerion header of expanded-changed-expected-mac.txt.
+type: test
+title: Expanded changed expected events for Mac
+summary: Expected macOS accessibility events for the expanded state change test, recording an AXExpandedChanged notification on the toggle link.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-atomic-add.html.
+type: test
+title: Live region atomic add test page
+summary: HTML test page that appends an empty div and a paragraph to an atomic aria-live region to test accessibility event generation.

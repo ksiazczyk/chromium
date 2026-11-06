@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-within-live-region-expected-auralinux.txt.
+type: test
+title: Live region reparent within live region expected Auralinux
+summary: Expected Auralinux accessibility output for the live-region-reparent-within-live-region test with parent-changed and text insert/remove events.

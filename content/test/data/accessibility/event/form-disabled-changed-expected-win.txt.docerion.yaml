@@ -1,0 +1,4 @@
+# Docerion header of form-disabled-changed-expected-win.txt.
+type: test
+title: Expected Windows events for form-disabled-changed test
+summary: Expected Windows accessibility events for the form-disabled-changed test, listing state change events on checkbox, radio button and grouping roles.

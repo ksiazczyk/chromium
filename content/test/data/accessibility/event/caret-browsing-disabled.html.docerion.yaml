@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-disabled.html.
+type: test
+title: Caret browsing disabled accessibility event test page
+summary: HTML test page that changes the text selection to check which caret moved events fire when caret browsing is disabled.

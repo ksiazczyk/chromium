@@ -1,0 +1,4 @@
+# Docerion header of input-type-text-value-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for text input value change
+summary: Expected Windows MSAA/IA2 accessibility events emitted when a text input's value changes.

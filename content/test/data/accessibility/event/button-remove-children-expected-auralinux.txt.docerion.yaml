@@ -1,0 +1,4 @@
+# Docerion header of button-remove-children-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for button-remove-children test
+summary: Expected AuraLinux accessibility event output for the button-remove-children test, recording a children-changed remove event on the push button.

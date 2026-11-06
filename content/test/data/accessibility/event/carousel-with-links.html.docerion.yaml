@@ -1,0 +1,4 @@
+# Docerion header of carousel-with-links.html.
+type: test
+title: Carousel with links test page
+summary: HTML test page with a scrollable carousel using scroll markers and links, scrolling the third item into view to test accessibility events.

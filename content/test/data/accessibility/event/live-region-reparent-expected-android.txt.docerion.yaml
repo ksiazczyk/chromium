@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-expected-android.txt.
+type: test
+title: Live region reparent expected events for Android
+summary: Expected Android accessibility events for the live region reparent test, listing content-changed notifications as text moves between regions.

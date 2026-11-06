@@ -1,0 +1,4 @@
+# Docerion header of material-design-chips-expected-auralinux.txt.
+type: test
+title: Material design chips expected AuraLinux events
+summary: Expected AuraLinux accessibility tree and pressed state change output for the material design filter chips selection test.

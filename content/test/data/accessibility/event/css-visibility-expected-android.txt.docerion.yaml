@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-expected-android.txt.
+type: test
+title: CSS visibility expected accessibility events for Android
+summary: Expected Android accessibility event output for the CSS visibility test, listing window content changed events after the initial page load.

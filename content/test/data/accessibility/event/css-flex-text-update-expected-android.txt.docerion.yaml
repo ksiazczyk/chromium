@@ -1,0 +1,4 @@
+# Docerion header of css-flex-text-update-expected-android.txt.
+type: test
+title: css-flex-text-update expected events for Android
+summary: Expected Android accessibility events when text inside a flex container is updated in the css-flex-text-update test page.

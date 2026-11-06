@@ -1,0 +1,4 @@
+# Docerion header of material-design-button-expected-auralinux.txt.
+type: test
+title: Material design button expected events for Linux
+summary: Expected Linux accessibility tree snapshots and state-change events across the three passes of the Material Web button event test.

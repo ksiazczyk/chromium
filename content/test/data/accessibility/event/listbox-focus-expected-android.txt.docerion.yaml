@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus-expected-android.txt.
+type: test
+title: Expected Android accessibility events for listbox focus
+summary: Expected Android accessibility events emitted when a listbox receives focus.

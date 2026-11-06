@@ -1,0 +1,4 @@
+# Docerion header of description-changed-pane-title.html.
+type: test
+title: Description-changed pane title accessibility event test page
+summary: Test page with two dialogs whose aria-describedby attributes are changed by script to verify accessibility events when a description changes.

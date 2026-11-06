@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-expected-mac.txt.
+type: test
+title: Live region change expected events for Mac
+summary: Expected macOS accessibility events for the live region change test, listing AXLiveRegionChanged and AXTitleChanged notifications.

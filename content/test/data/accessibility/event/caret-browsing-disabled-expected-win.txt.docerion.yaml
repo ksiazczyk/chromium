@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-disabled-expected-win.txt.
+type: test
+title: Expected Windows events for caret-browsing-disabled test
+summary: Expected Windows accessibility event output for the caret-browsing-disabled test, recording a text caret moved event on static text.

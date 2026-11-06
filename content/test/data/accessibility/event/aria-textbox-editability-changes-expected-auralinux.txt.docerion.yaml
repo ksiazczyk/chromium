@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-editability-changes-expected-auralinux.txt.
+type: test
+title: Expected Linux events for ARIA textbox editability changes
+summary: Expected Linux accessibility event output for the editability changes test, noting missing editable state-change events as a TODO.

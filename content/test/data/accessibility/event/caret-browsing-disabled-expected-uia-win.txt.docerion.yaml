@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-disabled-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for caret-browsing-disabled test
+summary: Expected UIA Windows accessibility event output for the caret-browsing-disabled test with text selection changed events.

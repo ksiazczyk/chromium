@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expand.html.
+type: test
+title: ARIA tree expand event test page
+summary: HTML accessibility test page that expands a tree item by setting aria-expanded to true and showing its hidden subtree.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-on-freshly-unignored-node-expected-uia-win.txt.
+type: test
+title: Live region change on freshly unignored node expected UIA events for Windows
+summary: Expected UIA events on Windows for the freshly unignored node live region test, recording structure changed notifications for child added and children reordered.

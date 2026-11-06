@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-expected-win.txt.
+type: test
+title: Live-region-add expected events for Windows
+summary: Expected MSAA and IA2 accessibility events on Windows when content is added to a live region, including live region change, reorder, show, and text-inserted events.

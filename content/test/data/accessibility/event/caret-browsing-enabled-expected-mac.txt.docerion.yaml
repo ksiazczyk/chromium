@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-enabled-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for caret browsing enabled test
+summary: Expected macOS AXSelectedTextChanged event output for the caret-browsing-enabled test page.

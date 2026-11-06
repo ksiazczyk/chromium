@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-uia-win.txt.
+type: test
+title: Expected UIA events for button click test
+summary: Expected UIA on Windows Invoke events fired when the button, span and link in the button click test page are clicked.

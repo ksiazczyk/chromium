@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-collapse.html.
+type: test
+title: CSS visibility collapse test page
+summary: HTML test page that flips CSS visibility between visible and collapse on two toolbar children to trigger accessibility events.

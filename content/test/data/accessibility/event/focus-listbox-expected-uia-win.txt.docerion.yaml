@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility events for focus-listbox test on Windows
+summary: Expected UIA event log including AutomationFocusChanged and SelectionItem events when focus moves to an option in a listbox.

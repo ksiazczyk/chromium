@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-expected-win.txt.
+type: test
+title: Expected MSAA and IA2 accessibility events for focus-listbox test on Windows
+summary: Expected Windows event log with EVENT_OBJECT_FOCUS, selection and state-change events fired when a listbox option gains focus.

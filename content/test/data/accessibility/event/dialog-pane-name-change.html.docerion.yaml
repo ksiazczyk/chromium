@@ -1,0 +1,4 @@
+# Docerion header of dialog-pane-name-change.html.
+type: test
+title: Dialog pane name change accessibility event test page
+summary: Test page with a role=dialog live region whose text changes from Before to After to trigger pane name change accessibility events.

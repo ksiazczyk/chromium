@@ -1,0 +1,4 @@
+# Docerion header of material-design-button-expected-mac.txt.
+type: test
+title: Material design button expected events for macOS
+summary: Expected macOS AX tree snapshots and focus-change events for the Material Web button event test across its three passes.

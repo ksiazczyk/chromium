@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-within-live-region-expected-uia-win.txt.
+type: test
+title: Live region reparent within live region expected UIA Win
+summary: Expected UIA Windows accessibility output for the live-region-reparent-within-live-region test with layout invalidated and structure changed events.

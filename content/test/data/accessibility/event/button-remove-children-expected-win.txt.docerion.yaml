@@ -1,0 +1,4 @@
+# Docerion header of button-remove-children-expected-win.txt.
+type: test
+title: Expected Windows events for button-remove-children test
+summary: Expected Windows accessibility event output for the button-remove-children test, listing object hide, location change and reorder events.

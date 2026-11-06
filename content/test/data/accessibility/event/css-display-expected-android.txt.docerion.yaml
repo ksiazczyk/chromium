@@ -1,0 +1,4 @@
+# Docerion header of css-display-expected-android.txt.
+type: test
+title: CSS display expected events for Android
+summary: Expected Android accessibility event sequence for the CSS display test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-focusable-children.html.
+type: test
+title: ARIA textbox with focusable children event test
+summary: HTML accessibility test page with textbox roles containing focusable buttons, used to check events when focusing children inside non-editable and contenteditable textboxes.

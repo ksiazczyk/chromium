@@ -1,0 +1,4 @@
+# Docerion header of inner-html-change-expected-android.txt.
+type: test
+title: inner-html-change expected accessibility events for Android
+summary: Expected Android accessibility events for an innerHTML change, showing window content changed notifications with subtree content types.

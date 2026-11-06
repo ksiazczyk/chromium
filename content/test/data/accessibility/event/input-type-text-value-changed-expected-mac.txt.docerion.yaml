@@ -1,0 +1,4 @@
+# Docerion header of input-type-text-value-changed-expected-mac.txt.
+type: test
+title: Text input value change expected events for Mac
+summary: Expected macOS accessibility event for a text input value change, an AXValueChanged notification on the text field.

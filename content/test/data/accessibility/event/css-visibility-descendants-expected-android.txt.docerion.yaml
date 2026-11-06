@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-descendants-expected-android.txt.
+type: test
+title: Expected Android events for CSS visibility descendants test
+summary: Expected Android accessibility events when CSS visibility is toggled on nested element trees.

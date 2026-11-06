@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-focusable-children-expected-mac.txt.
+type: test
+title: Expected Mac events for ARIA textbox with focusable children
+summary: Expected Mac accessibility event output for the focusable children test, recording AXFocusedUIElementChanged events on buttons.

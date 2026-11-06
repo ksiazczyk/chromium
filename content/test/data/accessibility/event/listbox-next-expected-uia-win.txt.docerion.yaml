@@ -1,0 +1,4 @@
+# Docerion header of listbox-next-expected-uia-win.txt.
+type: test
+title: Listbox-next expected events for Windows UIA
+summary: Expected UIA accessibility events on Windows when a list box selection moves to the next option, including focus and selection property changes.

@@ -1,0 +1,4 @@
+# Docerion header of description-change-expected-win.txt.
+type: test
+title: Description change expected accessibility events for Windows
+summary: Expected Windows MSAA/IA2 accessibility event output for the description change test, covering a description change and reorder event on the document.

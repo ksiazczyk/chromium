@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-added-expected-uia-win.txt.
+type: test
+title: css-highlight-added expected UIA events for Windows
+summary: Expected Windows UIA annotation events when a CSS Custom Highlight is added to text in the css-highlight-added test page.

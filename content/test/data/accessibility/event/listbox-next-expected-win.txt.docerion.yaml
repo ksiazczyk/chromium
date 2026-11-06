@@ -1,0 +1,4 @@
+# Docerion header of listbox-next-expected-win.txt.
+type: test
+title: Listbox-next expected events for Windows
+summary: Expected MSAA and IA2 accessibility events on Windows when a list box selection moves to the next option, including focus, selection, and state-change events.

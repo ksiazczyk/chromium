@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innertext-expected-mac.txt.
+type: test
+title: Live region innerText change expected events for Mac
+summary: Expected macOS accessibility events for the live region innerText change test, recording an AXLiveRegionChanged notification on a group.

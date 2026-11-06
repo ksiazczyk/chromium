@@ -1,0 +1,4 @@
+# Docerion header of css-flex-text-update-expected-win.txt.
+type: test
+title: css-flex-text-update expected events for Windows
+summary: Expected Windows IAccessible2 text inserted and removed events when text inside a flex container is updated.

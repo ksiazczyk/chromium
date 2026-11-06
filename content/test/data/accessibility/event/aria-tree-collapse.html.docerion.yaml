@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-collapse.html.
+type: test
+title: ARIA tree collapse event test page
+summary: HTML accessibility test page that collapses a tree item by setting aria-expanded to false and hiding its subtree.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-from-live-region-expected-mac.txt.
+type: test
+title: Live region reparent from live region expected Mac
+summary: Expected macOS accessibility output for the live-region-reparent-from-live-region test, containing a single AXLiveRegionChanged notification.

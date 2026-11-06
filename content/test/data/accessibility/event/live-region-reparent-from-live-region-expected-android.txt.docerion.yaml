@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-from-live-region-expected-android.txt.
+type: test
+title: Live region reparent from live region expected Android
+summary: Expected Android accessibility events for the live-region-reparent-from-live-region test, listing TYPE_WINDOW_CONTENT_CHANGED notifications on TextViews.

@@ -1,0 +1,4 @@
+# Docerion header of css-visibility.html.
+type: test
+title: CSS visibility accessibility event test page
+summary: HTML test page that flips CSS visibility between two toolbar children via a go() function to trigger accessibility events for the test harness.

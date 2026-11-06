@@ -1,0 +1,4 @@
+# Docerion header of input-type-text-value-changed-expected-android.txt.
+type: test
+title: Text input value change expected events for Android
+summary: Expected Android accessibility events for a text input whose value changes from Before to After.

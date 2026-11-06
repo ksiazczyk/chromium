@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus.html.
+type: test
+title: Listbox focus accessibility test page
+summary: HTML test page that focuses a multi-option select element to trigger accessibility focus events.

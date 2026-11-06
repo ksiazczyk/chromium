@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed-expected-uia-win.txt.
+type: test
+title: Checked state changed expected output for Windows UIA
+summary: Expected UIA accessibility tree and property change events when a checkbox and treeitem toggle to checked.

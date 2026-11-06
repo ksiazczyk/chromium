@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-disabled-expected-mac.txt.
+type: test
+title: Expected Mac events for caret-browsing-disabled test
+summary: Expected Mac accessibility event output for the caret-browsing-disabled test, recording selected text change events on the web area.

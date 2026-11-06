@@ -1,0 +1,4 @@
+# Docerion header of live-region-create-expected-uia-win.txt.
+type: test
+title: Live region create expected events for UIA on Windows
+summary: Expected UIA structure-changed events on Windows when a live region is created in the live-region-create test page.

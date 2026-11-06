@@ -1,0 +1,4 @@
+# Docerion header of live-region-elem-reparent-expected-auralinux.txt.
+type: test
+title: Live region element reparent expected events for Linux
+summary: Expected Linux AT-SPI children-changed, parent-changed and text-inserted events for the live-region-elem-reparent test page.

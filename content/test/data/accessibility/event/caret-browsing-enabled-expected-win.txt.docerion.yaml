@@ -1,0 +1,4 @@
+# Docerion header of caret-browsing-enabled-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for caret browsing enabled test
+summary: Expected IA2 caret moved event output on Windows for the caret-browsing-enabled test page.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-dialog-expected-auralinux.txt.
+type: test
+title: Material design dialog expected AuraLinux events
+summary: Expected AuraLinux accessibility tree and focus event output for the material design dialog opening test.

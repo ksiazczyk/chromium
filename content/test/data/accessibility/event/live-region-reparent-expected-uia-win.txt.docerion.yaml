@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-expected-uia-win.txt.
+type: test
+title: Live region reparent expected events for Windows UIA
+summary: Expected Windows UIA accessibility events for the live region reparent test, listing property, live region and structure change notifications.

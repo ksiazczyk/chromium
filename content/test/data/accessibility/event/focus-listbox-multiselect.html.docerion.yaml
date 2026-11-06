@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-multiselect.html.
+type: test
+title: Multi-select listbox focus test page
+summary: HTML test page with a multi-select listbox and a go() script that focuses the select and changes selectedIndex to trigger accessibility events.

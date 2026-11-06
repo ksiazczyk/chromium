@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-expected-android.txt.
+type: test
+title: Live-region-add expected events for Android
+summary: Expected Android accessibility events when content is added to a live region, covering window content changes before and after the initial page load.

@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-multiselect-expected-win.txt.
+type: test
+title: Focus listbox multiselect expected output for Windows
+summary: Expected Windows accessibility event output for focusing an option in a multiselect listbox, covering focus, selection, state-change and active-descendant events.

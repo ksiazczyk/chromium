@@ -1,0 +1,4 @@
+# Docerion header of input-combobox-expected-android.txt.
+type: test
+title: Combobox expected events for Android
+summary: Expected Android accessibility events for the combobox test, covering expansion and autocomplete option announcements.

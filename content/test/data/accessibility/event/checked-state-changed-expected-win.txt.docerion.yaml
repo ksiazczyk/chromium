@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed-expected-win.txt.
+type: test
+title: Checked state changed expected output for Windows MSAA/IA2
+summary: Expected Windows accessibility tree and state change events when a checkbox and treeitem become checked.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-chips-expected-blink.txt.
+type: test
+title: Material design chips expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots before and after each pass of the material design filter chips selection test.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-atomic-change-innertext-expected-android.txt.
+type: test
+title: Expected Android events for live region atomic change innertext test
+summary: Expected accessibility event output on Android for the live-region-atomic-change-innertext test, listing content changed events after text updates.

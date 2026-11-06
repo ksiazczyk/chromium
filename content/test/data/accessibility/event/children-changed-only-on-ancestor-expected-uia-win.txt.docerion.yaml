@@ -1,0 +1,4 @@
+# Docerion header of children-changed-only-on-ancestor-expected-uia-win.txt.
+type: test
+title: Children changed only on ancestor expected output for Windows UIA
+summary: Expected UIA structure change events showing show and hide notifications fire only on the affected ancestor.

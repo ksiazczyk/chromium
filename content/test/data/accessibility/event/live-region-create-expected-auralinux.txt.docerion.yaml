@@ -1,0 +1,4 @@
+# Docerion header of live-region-create-expected-auralinux.txt.
+type: test
+title: Live region create expected events for Auralinux
+summary: Expected Auralinux accessibility events for the live region create test, recording a children-changed add notification for a section role.

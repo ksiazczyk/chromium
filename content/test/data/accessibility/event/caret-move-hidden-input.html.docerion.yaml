@@ -1,0 +1,4 @@
+# Docerion header of caret-move-hidden-input.html.
+type: test
+title: Caret move in hidden input test page
+summary: HTML test page that focuses an aria-hidden input and sets its selection range to trigger accessibility caret events.

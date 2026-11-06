@@ -1,0 +1,4 @@
+# Docerion header of material-design-dialog-expected-mac.txt.
+type: test
+title: Material design dialog expected macOS events
+summary: Expected macOS AX accessibility tree and focus change output for the material design dialog opening test.

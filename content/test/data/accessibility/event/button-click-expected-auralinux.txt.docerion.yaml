@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-auralinux.txt.
+type: test
+title: Expected auralinux events for button click test
+summary: Expected Linux accessibility events, including state changes, caret moves and text insertion, when the button click test page runs.

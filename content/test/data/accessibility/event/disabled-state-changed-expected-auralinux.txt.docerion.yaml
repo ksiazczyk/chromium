@@ -1,0 +1,4 @@
+# Docerion header of disabled-state-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for disabled-state-changed
+summary: Expected Linux accessibility events for the disabled-state-changed test, listing enabled, read-only and sensitive state changes on two buttons.

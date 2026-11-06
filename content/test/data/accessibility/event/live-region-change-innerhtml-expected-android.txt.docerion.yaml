@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innerhtml-expected-android.txt.
+type: test
+title: Live region change innerHTML expected events for Android
+summary: Expected Android accessibility events for the live region change innerHTML test, listing content changed notifications before and after the update.

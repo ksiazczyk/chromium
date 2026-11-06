@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed-expected-blink.txt.
+type: test
+title: Checked state changed expected output for Blink
+summary: Expected Blink accessibility tree snapshots before and after a checkbox and treeitem change to checked state.

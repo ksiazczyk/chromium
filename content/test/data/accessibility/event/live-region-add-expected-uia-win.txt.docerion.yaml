@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-expected-uia-win.txt.
+type: test
+title: Live-region-add expected events for Windows UIA
+summary: Expected UIA accessibility events on Windows when content is added to a live region, including layout invalidation, live region change, and structure change events.

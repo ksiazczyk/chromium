@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expand-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for ARIA tree expand
+summary: Expected Mac accessibility event output, including AXRowExpanded and AXRowCountChanged, for expanding an ARIA tree item.

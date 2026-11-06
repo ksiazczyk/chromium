@@ -1,0 +1,4 @@
+# Docerion header of material-design-dialog-expected-blink.txt.
+type: test
+title: Material design dialog expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots showing the material design dialog and its contents becoming visible after the test pass.

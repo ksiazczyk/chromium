@@ -1,0 +1,4 @@
+# Docerion header of individual-nodes-become-ignored-expected-auralinux.txt.
+type: test
+title: individual-nodes-become-ignored expected accessibility events for Linux
+summary: Expected Linux/ATK accessibility events when nodes become ignored, listing children-changed removals and parent changes for the affected links and text.

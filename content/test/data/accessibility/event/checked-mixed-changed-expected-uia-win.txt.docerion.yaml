@@ -1,0 +1,4 @@
+# Docerion header of checked-mixed-changed-expected-uia-win.txt.
+type: test
+title: Checked mixed changed expected events for Windows UIA
+summary: Expected UIA events for AriaProperties and toggle state changes on a checkbox and tree item in the checked-mixed-changed accessibility test.

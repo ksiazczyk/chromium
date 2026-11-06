@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-grammar-error-expected-uia-win.txt.
+type: test
+title: Expected UIA events for CSS grammar-error highlight test
+summary: Expected UIA accessibility events on Windows when a grammar-error CSS highlight is applied to editable text.

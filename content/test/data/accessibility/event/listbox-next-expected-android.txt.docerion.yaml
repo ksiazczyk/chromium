@@ -1,0 +1,4 @@
+# Docerion header of listbox-next-expected-android.txt.
+type: test
+title: Expected Android accessibility events for listbox next action
+summary: Expected Android accessibility events emitted while moving to the next item in a listbox.

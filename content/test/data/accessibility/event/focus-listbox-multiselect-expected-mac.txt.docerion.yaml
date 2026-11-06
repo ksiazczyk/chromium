@@ -1,0 +1,4 @@
+# Docerion header of focus-listbox-multiselect-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for focus-listbox-multiselect test
+summary: Expected macOS event log with AXFocusedUIElementChanged and AXSelectedChildrenChanged notifications when an option in a multi-select listbox is focused.

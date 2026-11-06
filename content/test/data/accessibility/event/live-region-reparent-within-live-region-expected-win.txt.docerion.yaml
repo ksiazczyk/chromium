@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-within-live-region-expected-win.txt.
+type: test
+title: Live region reparent within live region expected events for Windows
+summary: Expected Windows accessibility events for the live region reparent-within-live-region test, covering reorder events and text inserted and removed on the affected divs.

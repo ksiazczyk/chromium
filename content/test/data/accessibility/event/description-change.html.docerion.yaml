@@ -1,0 +1,4 @@
+# Docerion header of description-change.html.
+type: test
+title: Description change accessibility test page
+summary: HTML test page that sets aria-describedby on a heading to trigger description change events for accessibility testing.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-innerhtml-expected-auralinux.txt.
+type: test
+title: Live region change innerHTML expected events for Aura Linux
+summary: Empty expected accessibility event file for the live region change innerHTML test on Aura Linux, apparently expecting no events.

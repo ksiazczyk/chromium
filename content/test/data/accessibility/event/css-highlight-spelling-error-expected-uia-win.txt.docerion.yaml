@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-spelling-error-expected-uia-win.txt.
+type: test
+title: Expected UIA events for CSS spelling-error highlight test
+summary: Expected UIA accessibility events on Windows when a spelling-error CSS highlight is applied to editable text.

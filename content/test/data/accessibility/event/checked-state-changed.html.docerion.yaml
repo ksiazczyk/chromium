@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed.html.
+type: test
+title: Checked state changed accessibility event test page
+summary: HTML test page that checks a checkbox and sets aria-checked on a treeitem to trigger accessibility events.

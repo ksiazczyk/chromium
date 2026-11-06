@@ -1,0 +1,4 @@
+# Docerion header of live-region-elem-reparent-expected-android.txt.
+type: test
+title: Live region element reparent expected events for Android
+summary: Expected Android accessibility events, including content-changed and view-clicked events, for the live-region-elem-reparent test page.

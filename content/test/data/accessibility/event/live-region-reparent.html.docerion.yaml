@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent.html.
+type: test
+title: Live region reparent test page
+summary: HTML test page that appends an offscreen text node into a polite live region to exercise live region reparenting events.

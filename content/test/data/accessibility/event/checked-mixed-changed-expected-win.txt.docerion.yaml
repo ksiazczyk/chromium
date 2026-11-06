@@ -1,0 +1,4 @@
+# Docerion header of checked-mixed-changed-expected-win.txt.
+type: test
+title: Checked mixed changed expected events for Windows accessibility
+summary: Expected EVENT_OBJECT_STATECHANGE events for a checkbox and tree item with mixed checked state in the Windows accessibility test.

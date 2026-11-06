@@ -1,0 +1,4 @@
+# Docerion header of description-change-indirect-expected-android.txt.
+type: test
+title: Expected Android events for indirect description change test
+summary: Expected accessibility event output on Android for the indirect description change test page.

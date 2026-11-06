@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-expected-win.txt.
+type: test
+title: Live region change expected events for Windows
+summary: Expected Windows MSAA and IAccessible2 events for the live region change test, covering live region change plus text inserted and removed events.

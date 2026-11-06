@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-focus-reference-target-expected-uia-win.txt.
+type: test
+title: Expected UIA events for aria treeitem focus reference target test
+summary: Expected UIA on Windows accessibility events for a tree whose items are exposed through shadowrootreferencetarget while focus moves across them.

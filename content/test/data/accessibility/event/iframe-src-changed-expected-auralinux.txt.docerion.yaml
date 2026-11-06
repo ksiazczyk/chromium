@@ -1,0 +1,4 @@
+# Docerion header of iframe-src-changed-expected-auralinux.txt.
+type: test
+title: iframe-src-changed expected accessibility events for Linux
+summary: Expected Linux/ATK accessibility event sequence when an iframe's srcdoc is replaced, listing load-complete events and busy state changes for the inner documents.

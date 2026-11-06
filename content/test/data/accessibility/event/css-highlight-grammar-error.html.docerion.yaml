@@ -1,0 +1,4 @@
+# Docerion header of css-highlight-grammar-error.html.
+type: test
+title: CSS highlight grammar error test page
+summary: HTML test page that creates a CSS Highlight of type grammar-error over a text range in a contenteditable div.

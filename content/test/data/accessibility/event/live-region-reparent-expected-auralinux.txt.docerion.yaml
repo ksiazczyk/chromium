@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-expected-auralinux.txt.
+type: test
+title: Live region reparent expected events for Aura Linux
+summary: Expected accessibility events on Linux for the live region reparent test, listing parent-changed, text-inserted and text-removed notifications.

@@ -1,0 +1,4 @@
+# Docerion header of live-region-elem-reparent-expected-mac.txt.
+type: test
+title: Live region element reparent expected events for macOS
+summary: Expected macOS AXLiveRegionChanged event on an AXGroup for the live-region-elem-reparent test page.

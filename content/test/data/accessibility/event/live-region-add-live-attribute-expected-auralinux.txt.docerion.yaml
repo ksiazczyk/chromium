@@ -1,0 +1,4 @@
+# Docerion header of live-region-add-live-attribute-expected-auralinux.txt.
+type: test
+title: Expected auralinux events for live region add live attribute test
+summary: Expected accessibility event output on Linux (auralinux) for the live-region-add-live-attribute test; the file is empty, indicating no events are expected.

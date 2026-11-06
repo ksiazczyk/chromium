@@ -1,0 +1,4 @@
+# Docerion header of disabled-state-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for disabled-state-changed
+summary: Expected Android accessibility event log for the disabled-state-changed test, covering two submit buttons toggled between enabled and disabled.

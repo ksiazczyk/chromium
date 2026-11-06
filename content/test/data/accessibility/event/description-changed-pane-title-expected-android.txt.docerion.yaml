@@ -1,0 +1,4 @@
+# Docerion header of description-changed-pane-title-expected-android.txt.
+type: test
+title: Expected Android accessibility events for description-changed-pane-title
+summary: Expected Android accessibility event log for the description-changed-pane-title test, listing TYPE_WINDOW_CONTENT_CHANGED events including a PANE_TITLE event on an AlertDialog.

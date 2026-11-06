@@ -1,0 +1,4 @@
+# Docerion header of checkbox-validity.html.
+type: test
+title: Checkbox validity accessibility test page
+summary: HTML test page with two required checkboxes whose checked state is toggled to trigger validity-related accessibility events.

@@ -1,0 +1,4 @@
+# Docerion header of checked-state-changed-expected-android.txt.
+type: test
+title: Checked state changed expected output for Android
+summary: Expected Android accessibility output for the checked-state-changed test, containing only the end-of-initial-page-load marker.

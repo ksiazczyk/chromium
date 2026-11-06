@@ -1,0 +1,4 @@
+# Docerion header of delete-subtree-expected-android.txt.
+type: test
+title: Delete subtree expected accessibility events for Android
+summary: Expected Android accessibility event output for the delete-subtree test, showing window content changed events on the parent view after page load.

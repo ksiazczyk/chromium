@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-expected-uia-win.txt.
+type: test
+title: Live region change expected UIA events for Windows
+summary: Expected UIA accessibility events on Windows for the live region change test, listing LiveRegionChanged and Text_TextChanged notifications.

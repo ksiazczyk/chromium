@@ -1,0 +1,4 @@
+# Docerion header of live-region-off.html.
+type: test
+title: Live region off test page
+summary: HTML test page with an aria-live off region whose text changes from Before to After, used to verify no live region announcements occur.

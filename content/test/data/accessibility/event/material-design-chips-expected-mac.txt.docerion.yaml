@@ -1,0 +1,4 @@
+# Docerion header of material-design-chips-expected-mac.txt.
+type: test
+title: Material design chips expected macOS events
+summary: Expected macOS AX accessibility tree and value change output for the material design filter chips selection test.

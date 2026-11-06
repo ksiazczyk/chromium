@@ -1,0 +1,4 @@
+# Docerion header of caret-move-hidden-input-expected-android.txt.
+type: test
+title: Expected Android accessibility events for caret move in hidden input
+summary: Expected Android accessibility event sequence for the caret-move-hidden-input test, listing window content, text and selection change events.

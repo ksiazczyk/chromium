@@ -1,0 +1,4 @@
+# Docerion header of css-display-descendants-expected-android.txt.
+type: test
+title: CSS display descendants expected events for Android
+summary: Expected Android accessibility event sequence for the CSS display descendants test.

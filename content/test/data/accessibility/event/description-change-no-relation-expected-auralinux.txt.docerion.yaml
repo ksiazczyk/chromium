@@ -1,0 +1,4 @@
+# Docerion header of description-change-no-relation-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for description change without relation test
+summary: Expected accessibility event output on AuraLinux for the description change test that involves no relation.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-checkbox-expected-uia-win.txt.
+type: test
+title: Material design checkbox expected UIA-Win events
+summary: Expected UIA-Win accessibility event output for the material design checkbox test, listing AriaProperties and toggle state changes across passes.

@@ -1,0 +1,4 @@
+# Docerion header of disabled-state-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for disabled-state-changed
+summary: Expected Windows accessibility events for the disabled-state-changed test, listing EVENT_OBJECT_STATECHANGE events on two submit buttons.

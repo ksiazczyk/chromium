@@ -1,0 +1,4 @@
+# Docerion header of description-change-expected-uia-win.txt.
+type: test
+title: Description change expected accessibility events for UIA Windows
+summary: Expected UIA accessibility event output for the description change test, noting a full description change and a structure change on the document.

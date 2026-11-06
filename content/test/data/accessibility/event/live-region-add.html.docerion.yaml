@@ -1,0 +1,4 @@
+# Docerion header of live-region-add.html.
+type: test
+title: Live region add test page
+summary: HTML test page that appends a new paragraph to an aria-live polite region so accessibility tests can verify live region add events.

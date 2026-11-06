@@ -1,0 +1,4 @@
+# Docerion header of individual-nodes-become-ignored-expected-mac.txt.
+type: test
+title: individual-nodes-become-ignored expected events for Mac
+summary: Expected Mac accessibility event output for the ignored-nodes test; the file is empty, implying no platform-specific events are expected.

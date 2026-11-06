@@ -1,0 +1,4 @@
+# Docerion header of listbox-focus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for listbox focus
+summary: Expected Linux AT-SPI accessibility events emitted when a listbox receives focus.

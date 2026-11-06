@@ -1,0 +1,4 @@
+# Docerion header of css-visibility-expected-win.txt.
+type: test
+title: CSS visibility expected accessibility events for Windows
+summary: Expected Windows MSAA/IA2 accessibility event output for the CSS visibility test, covering hide, show, reorder and text inserted or removed events.

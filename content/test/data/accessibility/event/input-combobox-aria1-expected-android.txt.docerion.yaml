@@ -1,0 +1,4 @@
+# Docerion header of input-combobox-aria1-expected-android.txt.
+type: test
+title: ARIA 1.0 combobox expected events for Android
+summary: Expected Android accessibility events for the ARIA 1.0 combobox test, covering content, selection and state changes when the listbox expands.

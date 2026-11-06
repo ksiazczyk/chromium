@@ -1,0 +1,4 @@
+# Docerion header of live-region-change-expected-android.txt.
+type: test
+title: Live region change expected events for Android
+summary: Expected Android accessibility events for the live region change test, listing TYPE_WINDOW_CONTENT_CHANGED notifications before and after the update.

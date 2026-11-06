@@ -1,0 +1,4 @@
+# Docerion header of expanded-changed-expected-android.txt.
+type: test
+title: Expanded changed expected events for Android
+summary: Expected Android accessibility events for the expanded state change test, including subtree and expanded content changes on the toggle element.

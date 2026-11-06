@@ -1,0 +1,4 @@
+# Docerion header of live-region-reparent-within-live-region.html.
+type: test
+title: Live region reparent within live region test page
+summary: HTML test page with two polite live regions whose text node is reparented from one div to the other to trigger accessibility events.

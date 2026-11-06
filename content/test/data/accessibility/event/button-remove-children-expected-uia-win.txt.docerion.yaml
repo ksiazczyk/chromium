@@ -1,0 +1,4 @@
+# Docerion header of button-remove-children-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for button-remove-children test
+summary: Expected UIA Windows accessibility event output for the button-remove-children test with layout invalidated and structure changed events.
