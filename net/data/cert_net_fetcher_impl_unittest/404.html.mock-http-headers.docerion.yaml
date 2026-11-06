@@ -1,0 +1,4 @@
+# Docerion header of 404.html.mock-http-headers.
+type: data
+title: 404.html.mock-http-headers
+summary: Mock HTTP headers returning status 404 with text/html content type for the 404.html fixture.

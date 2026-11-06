@@ -4,6 +4,12 @@
 
 // Brought to you by number 42.
 
+// ---docerion
+// type: source
+// title: CookieStore interface
+// summary: Interface for storing and retrieving cookies, defining asynchronous set, get, and delete methods with callbacks and partition key support.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_STORE_H_
 #define NET_COOKIES_COOKIE_STORE_H_
 

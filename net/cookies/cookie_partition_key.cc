@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiePartitionKey implementation
+// summary: Implements cookie partition key construction, serialization, and derivation from network isolation keys.
+// ---
+
 #include "net/cookies/cookie_partition_key.h"
 
 #include <compare>

@@ -1,0 +1,4 @@
+# Docerion header of cacheable_1hr.crt.
+type: data
+title: cacheable_1hr.crt
+summary: Mock certificate response body used to test one-hour caching in CertNetFetcherImpl unit tests.

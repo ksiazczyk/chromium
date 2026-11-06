@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store unit test templates
+// summary: Defines reusable unit test templates and traits that exercise common behavior shared by any CookieStore implementation.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_STORE_UNITTEST_H_
 #define NET_COOKIES_COOKIE_STORE_UNITTEST_H_
 

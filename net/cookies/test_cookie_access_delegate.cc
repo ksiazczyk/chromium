@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCookieAccessDelegate implementation
+// summary: Implements a test CookieAccessDelegate that returns configurable access and scope semantics, SameSite restriction overrides, and trustworthy-URL answers for cookie domains.
+// ---
+
 #include "net/cookies/test_cookie_access_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store change notification tests
+// summary: Shared typed test suite verifying cookie change notifications, causes, and ordering across cookie store implementations.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_STORE_CHANGE_UNITTEST_H_
 #define NET_COOKIES_COOKIE_STORE_CHANGE_UNITTEST_H_
 

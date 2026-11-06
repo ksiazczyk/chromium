@@ -42,6 +42,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: Parsed cookie implementation
+// summary: Implements ParsedCookie, which parses and modifies cookie lines with attributes such as path, domain, and SameSite.
+// ---
+
 #include "net/cookies/parsed_cookie.h"
 
 #include <algorithm>

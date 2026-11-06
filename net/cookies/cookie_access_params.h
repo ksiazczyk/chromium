@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie access parameters
+// summary: Defines the CookieAccessParams struct holding access and scope semantics plus a flag for delegate-granted secure cookie access.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_ACCESS_PARAMS_H_
 #define NET_COOKIES_COOKIE_ACCESS_PARAMS_H_
 

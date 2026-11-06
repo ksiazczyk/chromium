@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie deletion info header
+// summary: Declares CookieDeletionInfo and its TimeRange class, which specify which cookies to delete through ANDed filter criteria.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_DELETION_INFO_H_
 #define NET_COOKIES_COOKIE_DELETION_INFO_H_
 

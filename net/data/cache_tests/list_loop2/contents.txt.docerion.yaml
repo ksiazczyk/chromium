@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Disk cache list_loop2 test data contents
+summary: Textual dump of the index, block files, entries and rankings for the list_loop2 disk cache test case, including the test snippet that generated it for bug 69135.

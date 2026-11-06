@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCookieAccessDelegate declaration
+// summary: Declares TestCookieAccessDelegate, a CookieAccessDelegate fake for tests that lets tests set expected access semantics, scope semantics, and SameSite restriction behavior per domain or scheme.
+// ---
+
 #ifndef NET_COOKIES_TEST_COOKIE_ACCESS_DELEGATE_H_
 #define NET_COOKIES_TEST_COOKIE_ACCESS_DELEGATE_H_
 

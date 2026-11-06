@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed cookie class header
+// summary: Declares the ParsedCookie class for parsing cookie lines per RFC6265bis and reading or setting cookie attributes.
+// ---
+
 #ifndef NET_COOKIES_PARSED_COOKIE_H_
 #define NET_COOKIES_PARSED_COOKIE_H_
 

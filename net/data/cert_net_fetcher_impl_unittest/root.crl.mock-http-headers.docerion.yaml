@@ -1,0 +1,4 @@
+# Docerion header of root.crl.mock-http-headers.
+type: test
+title: Root.crl mock HTTP headers
+summary: Mock HTTP response headers serving root.crl as a 200 application/pkix-crl response.

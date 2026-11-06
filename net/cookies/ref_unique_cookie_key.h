@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefUniqueCookieKey class declaration
+// summary: Declares RefUniqueCookieKey, a non-owning view of a cookie's unique key that must not outlive the CookieBase that created it and supports host and domain key types.
+// ---
+
 #ifndef NET_COOKIES_REF_UNIQUE_COOKIE_KEY_H_
 #define NET_COOKIES_REF_UNIQUE_COOKIE_KEY_H_
 

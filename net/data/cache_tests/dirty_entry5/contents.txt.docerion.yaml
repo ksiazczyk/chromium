@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Disk cache dirty entry test data description
+summary: Describes the index, block files, entries and rankings of a disk cache test fixture with a dirty entry, including the code steps that generated it for bug 69135.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store test callbacks implementation
+// summary: Implements test callback helpers that validate invocation threads and block until asynchronous cookie store operations complete.
+// ---
+
 #include "net/cookies/cookie_store_test_callbacks.h"
 
 #include "base/location.h"

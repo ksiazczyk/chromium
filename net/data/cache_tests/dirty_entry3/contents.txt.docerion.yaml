@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Dirty entry 3 cache test data description
+summary: Textual dump of the index, block files, entries and rankings for a disk cache test fixture, including the code steps that generated the state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanonicalCookie libFuzzer fuzzer
+// summary: Fuzzer that converts protobuf cookie inputs into sanitized cookies and checks canonicalization and equivalence invariants.
+// ---
+
 #include "net/cookies/canonical_cookie.h"
 
 #include <memory>

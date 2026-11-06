@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteForCookies implementation
+// summary: Implements SiteForCookies, which tracks the site a context belongs to and decides whether URLs are first-party, including schemeful same-site comparison and frame tree revision.
+// ---
+
 #include "net/cookies/site_for_cookies.h"
 
 #include <utility>

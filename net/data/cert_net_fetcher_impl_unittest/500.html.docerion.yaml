@@ -1,0 +1,4 @@
+# Docerion header of 500.html.
+type: data
+title: 500.html
+summary: Mock HTTP response body served with a 500 status in CertNetFetcherImpl unit tests.

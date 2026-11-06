@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store test callbacks header
+// summary: Declares callback helper classes for asynchronous cookie store tests, providing thread checks, result saving, and wait support.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_STORE_TEST_CALLBACKS_H_
 #define NET_COOKIES_COOKIE_STORE_TEST_CALLBACKS_H_
 

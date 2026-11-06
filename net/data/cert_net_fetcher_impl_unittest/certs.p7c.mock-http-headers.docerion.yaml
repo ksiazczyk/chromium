@@ -1,0 +1,4 @@
+# Docerion header of certs.p7c.mock-http-headers.
+type: data
+title: certs.p7c.mock-http-headers
+summary: Mock HTTP headers returning 200 with application/pkcs7-mime content type for certs.p7c.

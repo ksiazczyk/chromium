@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie change cause gtest printer
+// summary: Provides a Google Test stream operator that prints CookieChangeCause values for readable test failure output.
+// ---
+
 #include "net/cookies/cookie_change_dispatcher_test_helpers.h"
 
 #include "base/notreached.h"

@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: test
+title: Disk cache dirty_entry4 test data description
+summary: Textual dump of the dirty_entry4 disk cache index, block files, entries and rankings, together with the steps that generated the fixture for cache tests (bug 69135).

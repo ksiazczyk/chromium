@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteForCookies class declaration
+// summary: Declares SiteForCookies, a class representing which origins are considered same-site for a context, with schemeful and schemeless policies and first-party checks.
+// ---
+
 #ifndef NET_COOKIES_SITE_FOR_COOKIES_H_
 #define NET_COOKIES_SITE_FOR_COOKIES_H_
 

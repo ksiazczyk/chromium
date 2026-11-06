@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Disk cache bad entry test fixture description
+summary: Describes a deliberately corrupted disk cache index and entries used as a test fixture for cache corruption handling, noting the edited rankings_node value and how the cache was generated.

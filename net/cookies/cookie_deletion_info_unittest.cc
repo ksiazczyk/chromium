@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie deletion info unit tests
+// summary: Unit tests covering TimeRange behavior and CookieDeletionInfo matching for session control, creation ranges, hosts, names, values, and URLs.
+// ---
+
 #include "net/cookies/cookie_deletion_info.h"
 
 #include "base/test/scoped_feature_list.h"

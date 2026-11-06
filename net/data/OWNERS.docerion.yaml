@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for test bundle data filelists
+summary: Grants permission for anyone to update the test bundle data filelists via per-file ownership rules.

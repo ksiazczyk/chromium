@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanonicalCookie proto converter implementation
+// summary: Converts protobuf cookie messages into sanitized CanonicalCookie objects, mapping enums, times, and partition keys.
+// ---
+
 #include "canonical_cookie_proto_converter.h"
 
 #include <memory>

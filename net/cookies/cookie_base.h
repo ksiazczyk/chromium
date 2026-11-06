@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieBase class header
+// summary: Declares the CookieBase class with request inclusion, set permission, path and domain matching, and attribute accessors.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_BASE_H_
 #define NET_COOKIES_COOKIE_BASE_H_
 

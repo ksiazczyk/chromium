@@ -1,0 +1,4 @@
+# Docerion header of foo.txt.
+type: test
+title: Foo.txt test fixture
+summary: Placeholder plain-text body served by the mock HTTP server in the CertNetFetcherImpl unit tests.

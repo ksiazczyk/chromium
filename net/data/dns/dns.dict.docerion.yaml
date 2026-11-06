@@ -1,0 +1,4 @@
+# Docerion header of dns.dict.
+type: data
+title: DNS fuzzer dictionary
+summary: Fuzzer dictionary of DNS message fragments such as headers, encoded domain names, and A, AAAA, and CNAME records used to seed DNS response fuzzing.

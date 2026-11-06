@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieMonsterChangeDispatcher class header
+// summary: Declares CookieMonsterChangeDispatcher, the CookieChangeDispatcher implementation that manages cookie change subscriptions for CookieMonster.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_MONSTER_CHANGE_DISPATCHER_H_
 #define NET_COOKIES_COOKIE_MONSTER_CHANGE_DISPATCHER_H_
 

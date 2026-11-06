@@ -1,0 +1,4 @@
+# Docerion header of mock-headers-without-crlf.html.
+type: test
+title: Mock HTML page without CRLF
+summary: HTML test page served by the embedded test server as a mock response whose headers lack CRLF line endings.

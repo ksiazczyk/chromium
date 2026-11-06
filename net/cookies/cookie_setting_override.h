@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieSettingOverride enum
+// summary: Header defining the CookieSettingOverride enum of cookie setting check overrides such as storage access grants and forced third-party cookie settings.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_SETTING_OVERRIDE_H_
 #define NET_COOKIES_COOKIE_SETTING_OVERRIDE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Canonical cookie test matchers
+// summary: Gmock matchers and helpers for testing CanonicalCookie lines, names, access results, and inclusion statuses.
+// ---
+
 #ifndef NET_COOKIES_CANONICAL_COOKIE_TEST_HELPERS_H_
 #define NET_COOKIES_CANONICAL_COOKIE_TEST_HELPERS_H_
 

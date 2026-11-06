@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieMonster NetLog parameters header
+// summary: Declares functions that produce NetLog parameter values for CookieMonster construction, cookie changes, and rejected cookie additions.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_MONSTER_NETLOG_PARAMS_H_
 #define NET_COOKIES_COOKIE_MONSTER_NETLOG_PARAMS_H_
 

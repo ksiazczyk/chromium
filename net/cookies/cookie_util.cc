@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie utility functions implementation
+// summary: Implements cookie utility helpers for domain computation, time parsing, and storage access status in the network stack.
+// ---
+
 #include "net/cookies/cookie_util.h"
 
 #include <array>

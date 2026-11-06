@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanonicalCookie class declaration
+// summary: Declares the CanonicalCookie class representing a concrete cookie, with canonicalization results and factory helpers for creation.
+// ---
+
 #ifndef NET_COOKIES_CANONICAL_COOKIE_H_
 #define NET_COOKIES_CANONICAL_COOKIE_H_
 

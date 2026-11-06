@@ -1,3 +1,13 @@
+---
+type: readme
+title: Cookies
+summary: Explains cookie management in Chromium, covering the cookie lifecycle, implementation classes, and the main interfaces for using cookies.
+relations:
+  - documents /net/cookies/canonical_cookie.h
+  - documents /net/url_request/url_request_http_job.h
+  - references /net/docs/life-of-a-url-request.md
+---
+
 # Cookies
 
 *** aside

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanonicalCookie protobuf definition
+// summary: Defines a protobuf message describing a canonical cookie, used as input format for the cookie fuzzer.
+// ---
+
 syntax = "proto2";
 
 package canonical_cookie_proto;

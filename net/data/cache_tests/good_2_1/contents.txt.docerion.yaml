@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: note
+title: Sample valid 2.1 cache test data
+summary: Explains that this directory holds a sample valid 2.1-format disk cache and documents the test and patch used to produce it.

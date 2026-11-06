@@ -4,6 +4,12 @@
 
 // Brought to you by the letter D and the number 2.
 
+// ---docerion
+// type: source
+// title: CookieMonster class header
+// summary: Declares the CookieMonster cookie store, including its persistent store interface, preference delegate, and cookie map data structures.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_MONSTER_H_
 #define NET_COOKIES_COOKIE_MONSTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieInclusionStatus implementation
+// summary: Implements the CookieInclusionStatus class that records exclusion and warning reasons determining whether a cookie is included in a get or set operation.
+// ---
+
 #include "net/cookies/cookie_inclusion_status.h"
 
 #include <algorithm>

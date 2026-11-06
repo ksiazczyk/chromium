@@ -1,0 +1,4 @@
+# Docerion header of gzipped_crl.mock-http-headers.
+type: test
+title: Gzipped CRL mock HTTP headers
+summary: Mock HTTP response headers serving a gzipped CRL body with application/pkix-crl content type and gzip encoding.

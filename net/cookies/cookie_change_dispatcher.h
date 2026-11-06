@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie change dispatcher header
+// summary: Declares the CookieChangeCause enum, CookieChangeInfo, change callbacks, and the CookieChangeSubscription listener API for observing cookie store changes.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_CHANGE_DISPATCHER_H_
 #define NET_COOKIES_COOKIE_CHANGE_DISPATCHER_H_
 

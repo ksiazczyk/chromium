@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanonicalCookie unit tests
+// summary: Extensive unit tests for CanonicalCookie covering construction, attributes, cookie line building, and source scheme handling.
+// ---
+
 #include "net/cookies/canonical_cookie.h"
 
 #include <memory>

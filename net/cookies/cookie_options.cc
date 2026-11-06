@@ -4,6 +4,12 @@
 
 // Brought to you by number 42.
 
+// ---docerion
+// type: source
+// title: CookieOptions implementation
+// summary: Implements CookieOptions SameSite context helpers, equivalence checks, and the all-inclusive options factory.
+// ---
+
 #include "net/cookies/cookie_options.h"
 
 #include <tuple>

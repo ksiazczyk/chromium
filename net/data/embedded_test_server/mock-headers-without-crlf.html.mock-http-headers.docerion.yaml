@@ -1,0 +1,4 @@
+# Docerion header of mock-headers-without-crlf.html.mock-http-headers.
+type: test
+title: Mock HTTP headers without CRLF
+summary: Mock HTTP response headers paired with the HTML page, written without CRLF endings to exercise header parsing in tests.

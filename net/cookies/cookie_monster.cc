@@ -42,6 +42,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: CookieMonster implementation
+// summary: Implements CookieMonster, the cookie store that keeps cookies in memory, synchronizes with persistent storage, and handles setting, getting, and deleting cookies.
+// ---
+
 #include "net/cookies/cookie_monster.h"
 
 #include <algorithm>

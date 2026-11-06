@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessResult header
+// summary: Declares CookieAccessResult, combining inclusion status, effective SameSite, access and scope semantics, and secure access permission.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_ACCESS_RESULT_H_
 #define NET_COOKIES_COOKIE_ACCESS_RESULT_H_
 

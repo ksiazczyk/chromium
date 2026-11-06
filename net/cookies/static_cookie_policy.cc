@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticCookiePolicy implementation
+// summary: Implements StaticCookiePolicy::CanAccessCookies, allowing all cookies, blocking all cookies, or blocking third-party cookies based on the configured policy type.
+// ---
+
 #include "net/cookies/static_cookie_policy.h"
 
 #include "base/notreached.h"
