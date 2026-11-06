@@ -1,0 +1,4 @@
+# Docerion header of shell.nix.
+type: config
+title: nix-shell entry point
+summary: Imports make-shell-for-system.nix with the current system so nix-shell can start the dev environment.

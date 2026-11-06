@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: TBMv3 metric validation tool
+# summary: Command-line tool that runs metric validators on downloaded traces to compute and validate TBMv3 metrics.
+# ---
+
 from __future__ import print_function
 
 import ast

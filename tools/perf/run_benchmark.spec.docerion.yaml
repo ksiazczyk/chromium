@@ -1,0 +1,4 @@
+# Docerion header of run_benchmark.spec.
+type: config
+title: PyInstaller spec for run_benchmark
+summary: PyInstaller spec file describing how to package the run_benchmark script into a standalone executable.

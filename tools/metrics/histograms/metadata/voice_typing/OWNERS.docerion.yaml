@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for voice typing histogram metadata
+summary: Sets code owners for the voice typing histogram metadata and delegates metric reviews to the central metric reviewer owners list.

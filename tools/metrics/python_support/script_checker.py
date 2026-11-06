@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Parallel runner for testable Python scripts
+# summary: Executes a list of scripts concurrently, shows a progress bar and reports failed runs with their stdout and stderr.
+# ---
+
 from dataclasses import dataclass
 from typing import List
 import sys

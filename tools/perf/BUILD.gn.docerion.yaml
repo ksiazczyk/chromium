@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome perf benchmarks
+summary: Defines GN build groups that bundle perf benchmark data and dependencies for running Chrome performance tests on desktop and Android.

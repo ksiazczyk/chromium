@@ -1,0 +1,4 @@
+# Docerion header of flakiness_cli.
+type: script
+title: Flakiness dashboard CLI
+summary: Command-line wrapper that launches the flakiness dashboard CLI after requiring external modules.

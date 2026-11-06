@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the tests_helpers module
+# summary: Unit tests verifying that testable metrics scripts run cleanly, use the --presubmit flag where required, and that build.gn sources cover all discovered tests.
+# ---
+
 import os
 import pathlib
 import unittest

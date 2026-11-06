@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Desktop UI benchmark
+# summary: Defines the desktop_ui benchmark that measures UMA metrics while driving native browser UI on desktop platforms.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

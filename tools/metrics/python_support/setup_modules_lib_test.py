@@ -5,6 +5,12 @@
 # Validates that imports are properly evaluated within tools/metrics
 # python scripts.
 
+# ---docerion
+# type: test
+# title: Compile and import tests for tools/metrics scripts
+# summary: Parameterized tests that compile and import every Python file under tools/metrics to validate the module setup.
+# ---
+
 import unittest
 import os
 import importlib.util

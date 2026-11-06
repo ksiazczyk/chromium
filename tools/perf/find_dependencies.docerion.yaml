@@ -1,0 +1,4 @@
+# Docerion header of find_dependencies.
+type: script
+title: Find dependencies entry point
+summary: Command-line entry point that runs the core find_dependencies command after adding Telemetry to the Python path.

@@ -3,6 +3,12 @@
   within the histogram itself.
 -->
 
+<!--docerion
+type: test
+title: Inline variants histogram test fixture
+summary: Sample histogram configuration with correctly defined variants declared inside the histogram itself, used as a valid-case test fixture for token handling.
+-->
+
 <histogram-configuration>
 
 <histograms>

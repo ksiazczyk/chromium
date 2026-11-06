@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Smoke test version validator unit tests
+# summary: Unit tests for the multi-version story checking logic used by system_health_smoke_test.py.
+# ---
+
 """Unit tests for multiple version checking in system_health_smoke_test.py."""
 
 import unittest

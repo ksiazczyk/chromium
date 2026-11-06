@@ -1,3 +1,11 @@
+---
+type: guide
+title: Updating WPR Recorded Stories
+summary: Guide describing guided and manual workflows for recording, replaying, and uploading new WPR archives for benchmark stories on desktop and Android.
+relations:
+  - documents /tools/perf/update_wpr
+---
+
 # Updating WPR Recorded Stories
 
 ## Preparation (Android only)

@@ -3,6 +3,12 @@
   at all. This is an invalid histogram definition.
 -->
 
+<!--docerion
+type: test
+title: Missing variants histogram test fixture
+summary: Sample histogram configuration that uses an entirely undefined token, representing an invalid histogram definition for negative test scenarios.
+-->
+
 <histogram-configuration>
 
 <histograms>

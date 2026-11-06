@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks running the token unit tests
+# summary: Presubmit checks that run the generate_token unit tests for Python changes in this directory.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
   if not input_api.HasAffectedFiles(extensions='.py'):

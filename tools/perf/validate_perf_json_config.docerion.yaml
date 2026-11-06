@@ -1,0 +1,4 @@
+# Docerion header of validate_perf_json_config.
+type: script
+title: Perf JSON config validator entry point
+summary: Entry point that validates perf JSON configuration files using the core perf JSON config validator.

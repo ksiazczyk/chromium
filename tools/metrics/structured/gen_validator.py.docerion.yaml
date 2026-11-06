@@ -1,0 +1,4 @@
+# Docerion header of gen_validator.py.
+type: script
+title: Structured metrics validator generator
+summary: Command-line tool that reads structured.xml, optionally merging ChromiumOS definitions, and generates the C++ metrics validator files.

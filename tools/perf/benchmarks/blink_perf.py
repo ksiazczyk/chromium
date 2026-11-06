@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Blink perf benchmark harness
+# summary: Defines benchmarks that run Blink performance tests from third_party/blink/perf_tests and measure trace event durations.
+# ---
+
 from __future__ import print_function
 
 import collections

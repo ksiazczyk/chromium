@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Visited URL ranking histogram enums
+summary: Defines the enumeration values, such as suggestion reasons, user actions, and UI events, referenced by the visited URL ranking histograms.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

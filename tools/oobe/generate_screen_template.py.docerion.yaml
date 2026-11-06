@@ -1,0 +1,4 @@
+# Docerion header of generate_screen_template.py.
+type: source
+title: Generate sample ChromeOS OOBE screen template
+summary: Python script that generates a new OOBE screen with C++, TypeScript and HTML files and updates the corresponding BUILD files.

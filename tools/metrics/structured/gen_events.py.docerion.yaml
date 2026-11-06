@@ -1,0 +1,4 @@
+# Docerion header of gen_events.py.
+type: script
+title: Structured metrics event generator
+summary: Command-line tool that reads structured.xml and generates C++ or TypeScript event builder files for the chromium or webui target.

@@ -1,0 +1,4 @@
+# Docerion header of cb.
+type: script
+title: Wrapper to launch crossbench cb.py
+summary: Small Python entry point that locates the crossbench directory and runs cb.py with the given arguments.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Memory usage benchmark
+# summary: Defines a desktop benchmark measuring memory usage on synthetic sites, with reusable memory measurement options and cache flushing browser settings.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

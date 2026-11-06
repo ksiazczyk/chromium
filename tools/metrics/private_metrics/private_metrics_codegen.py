@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Codegen templates for Private Metrics
+# summary: Defines template classes that stamp event, metric and study code from parsed dwa.xml data into generated output files.
+# ---
+
 """Objects for describing template code that can be generated from dwa.xml."""
 
 import os

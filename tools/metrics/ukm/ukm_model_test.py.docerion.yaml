@@ -1,0 +1,4 @@
+# Docerion header of ukm_model_test.py.
+type: test
+title: UKM model unit tests
+summary: Unit tests for the UKM XML model, covering XML prettifying, obsolete event trimming and event and metric name validation.

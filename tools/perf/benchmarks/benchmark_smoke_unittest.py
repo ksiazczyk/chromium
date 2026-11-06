@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Benchmark smoke tests for all benchmark modules
+# summary: Runs the first page of each benchmark as a smoke test, excluding a blocklist of slow or flaky modules.
+# ---
+
 """Run the first page of one benchmark for every module.
 
 Only benchmarks that have a composable measurement are included.

@@ -1,0 +1,4 @@
+# Docerion header of update_wpr.
+type: script
+title: WPR archive update entry point
+summary: Entry point that delegates to the cli_tools update_wpr utility for updating WPR archives.

@@ -1,0 +1,4 @@
+# Docerion header of generate_token_unittest.py.
+type: test
+title: Unit tests for the token generation utility
+summary: Unit tests covering hostname, extension ID, and origin validation, token formatting, and end-to-end token generation.

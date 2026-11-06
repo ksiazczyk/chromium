@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Standalone MyPy validation script
+# summary: Runs a MyPy analysis over the metrics tools directory as a standalone script and exits with the number of reported errors.
+# ---
+
 """Helper script allowing to run a MyPy analysis as a standalone script."""
 
 import os

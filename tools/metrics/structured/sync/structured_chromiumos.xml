@@ -1,5 +1,11 @@
 <!-- Structured metrics is under development and isn't available for use yet. -->
 
+<!--docerion
+type: data
+title: ChromeOS structured metrics definitions
+summary: XML definitions of ChromeOS structured metrics projects and events, including Bluetooth metrics, noted as still under development.
+-->
+
 <structured-metrics>
 
 <project name="Bluetooth">

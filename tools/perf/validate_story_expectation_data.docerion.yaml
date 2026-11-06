@@ -1,0 +1,4 @@
+# Docerion header of validate_story_expectation_data.
+type: script
+title: Story expectation data validator entry point
+summary: Entry point that validates story expectation data using the core story expectation validator.

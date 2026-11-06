@@ -1,0 +1,4 @@
+# Docerion header of model_unittest_wrapper.py.
+type: test
+title: Wrapper for running model unit tests
+summary: Wraps the synced model_unittest.py so its tests can run from the Chromium repository without module import errors.

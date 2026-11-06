@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Test histogram configuration with components
+summary: Sample histograms.xml defining test histograms with owners, expiry, enums and component tags for metrics tooling tests.
+-->
+
 <histogram-configuration>
 
 <histograms>

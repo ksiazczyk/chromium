@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Speedometer 2 benchmark
+# summary: Defines Speedometer 2 benchmark classes with suite filtering, runtime call stats, systrace and iteration count options.
+# ---
+
 """Apple's Speedometer 2 performance benchmark."""
 
 import os

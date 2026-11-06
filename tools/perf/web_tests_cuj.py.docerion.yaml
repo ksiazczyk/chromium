@@ -1,0 +1,4 @@
+# Docerion header of web_tests_cuj.py.
+type: source
+title: Web Tests CUJ Runner Wrapper
+summary: Wrapper script that runs the crossbench web-tests CUJ runner for Speedometer 3.1 on Android, currently always returning success during development.

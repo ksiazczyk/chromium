@@ -1,0 +1,4 @@
+# Docerion header of ignorelist.txt.
+type: config
+title: MemorySanitizer ignore list
+summary: Compile-time rules that exclude functions and sources with known false positives, such as ffmpeg assembly and breakpad code, from MemorySanitizer instrumentation.

@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Test UKM event definitions
+summary: Test fixture defining sample UKM events and metrics, including obsolete and deprecated entries, for UKM tooling tests.
+-->
+
 <ukm-configuration>
 
 <event name="AbusiveExperienceHeuristic.TestEvent1">

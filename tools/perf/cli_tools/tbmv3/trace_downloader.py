@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Trace downloader for TBMv3 CLI tools
+# summary: Downloads HTML and proto traces from the chrome-telemetry-output cloud storage bucket and derives local file names for them.
+# ---
+
 import logging
 import os
 

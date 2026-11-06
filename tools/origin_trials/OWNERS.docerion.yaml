@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the origin trials tools
+summary: Owners file that defers review ownership to the Blink origin trials common owners.

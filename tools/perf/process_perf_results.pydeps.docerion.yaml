@@ -1,0 +1,4 @@
+# Docerion header of process_perf_results.pydeps.
+type: config
+title: Python Dependency List for process_perf_results
+summary: Generated list of Python module dependencies required by process_perf_results.py, produced by build/print_python_deps.py.

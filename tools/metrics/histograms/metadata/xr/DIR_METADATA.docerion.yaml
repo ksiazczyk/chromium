@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: XR metrics directory metadata
+summary: Sets the monorail and Buganizer components used for tracking issues in the XR metrics metadata directory.

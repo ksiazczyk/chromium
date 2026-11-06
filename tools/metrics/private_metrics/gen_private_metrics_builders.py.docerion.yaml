@@ -1,0 +1,4 @@
+# Docerion header of gen_private_metrics_builders.py.
+type: script
+title: Generator for Private Metrics C++ builders
+summary: Reads the Private Metrics XML configuration and writes generated C++ builder and decode header and implementation files.

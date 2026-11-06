@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Speedometer 3 benchmark
+# summary: Defines Speedometer 3 benchmark classes with suite filtering, detailed metrics, runtime call stats and memory measurement options.
+# ---
+
 """Speedometer 3 Web Interaction Benchmark Pages"""
 
 import os

@@ -1,0 +1,4 @@
+# Docerion header of run_telemetry_tests.
+type: script
+title: Telemetry unit test runner
+summary: Script that runs the Telemetry unit tests for the perf directory code instead of running benchmarks.

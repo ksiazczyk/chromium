@@ -1,0 +1,4 @@
+# Docerion header of private_metrics_validations_test.py.
+type: test
+title: Private metrics validations unit tests
+summary: Unit tests for private metrics XML validations, checking event owner requirements and detection of undefined metric enums.

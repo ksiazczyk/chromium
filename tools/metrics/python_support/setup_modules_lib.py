@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Module setup for tools/metrics imports
+# summary: Registers a chromium_src namespace module and extra library paths so tools/metrics scripts can import by full path.
+# ---
+
 import pathlib
 import sys
 import types

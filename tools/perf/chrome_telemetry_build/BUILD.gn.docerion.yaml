@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Telemetry Chrome test build targets
+summary: GN build file defining telemetry_chrome_test targets and their platform-specific data dependencies for Telemetry runs.

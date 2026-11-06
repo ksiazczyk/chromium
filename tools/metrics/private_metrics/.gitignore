@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for private_metrics backup files
+# summary: Ignores dwa.old.xml, the backup file created when pretty-printing the DWA configuration.
+# ---
+
 dwa.old.xml

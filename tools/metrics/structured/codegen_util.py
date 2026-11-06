@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Codegen utility helpers
+# summary: Offers helpers for name sanitization, camel-to-snake conversion, MD5-based name hashing, and generated file info such as header guards.
+# ---
+
 import hashlib
 import os
 import re

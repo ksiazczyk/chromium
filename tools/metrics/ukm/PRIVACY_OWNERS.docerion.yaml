@@ -1,0 +1,4 @@
+# Docerion header of PRIVACY_OWNERS.
+type: config
+title: Privacy owners for ukm.xml
+summary: Lists the narrower set of privacy reviewers who must approve UKM collection proposals before review.

@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Press benchmark base class
+# summary: Provides the PressBenchmark base class that combines JavaScript-based story metrics with timeline-based measurement for press-style benchmarks.
+# ---
+
 """Base class for a PressBenchmark.
 
 This benchmark manages both PressStory objects that

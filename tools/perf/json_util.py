@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: JSON to Skia conversion utilities
+# summary: Utilities that convert result2 JSON into Skia format, including GCS bucket selection, name escaping and statistics calculation.
+# ---
+
 """Utils to convert json from result2 to skia."""
 
 import collections

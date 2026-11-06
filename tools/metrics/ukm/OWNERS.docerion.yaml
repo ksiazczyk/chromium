@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the UKM tools directory
+summary: Routes ukm.xml changes to the privacy owners and all other changes to the standard metrics owners.

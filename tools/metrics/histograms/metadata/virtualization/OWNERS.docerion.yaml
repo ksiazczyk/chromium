@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for virtualization histogram metadata
+summary: Delegates code review ownership for the virtualization histogram metadata to the shared crostini OWNERS file.

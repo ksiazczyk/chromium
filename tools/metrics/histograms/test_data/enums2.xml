@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Second test enums definitions
+summary: Test fixture providing an additional enum definition used alongside the other enums test data.
+-->
+
 <histogram-configuration>
 <enums>
 

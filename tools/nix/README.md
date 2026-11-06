@@ -1,3 +1,11 @@
+---
+type: readme
+title: NixOS dev environment
+summary: Explains how to enter the Nix dev shell, set up clangd, and update or roll back the pinned dependencies.
+relations:
+  - references /tools/nix/npins/sources.json
+---
+
 NixOS dev environment
 =====================
 

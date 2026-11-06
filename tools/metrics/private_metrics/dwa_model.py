@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Model objects for dwa.xml
+# summary: Defines the dwa.xml document type and provides parsing and pretty-printing of the DWA configuration.
+# ---
+
 """Model objects for dwa.xml contents."""
 
 import setup_modules  # pylint: disable=unused-import

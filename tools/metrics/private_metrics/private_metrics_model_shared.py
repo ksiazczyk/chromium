@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared model types for Private Metrics
+# summary: Defines XML node types for events, metrics and studies and builds document types for event-based Private Metrics configurations.
+# ---
+
 """Shared model objects and utils for Private Metrics."""
 
 import setup_modules  # pylint: disable=unused-import

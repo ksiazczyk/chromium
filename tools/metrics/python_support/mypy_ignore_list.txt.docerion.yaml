@@ -1,0 +1,4 @@
+# Docerion header of mypy_ignore_list.txt.
+type: config
+title: Ignore list of pre-existing mypy errors
+summary: Lists known mypy errors in tools/metrics files that are suppressed until the underlying type issues are fixed.

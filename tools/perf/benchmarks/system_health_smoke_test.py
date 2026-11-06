@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: System health smoke tests
+# summary: Smoke tests that run all system health stories with memory benchmarks, including a maintained list of disabled or flaky tests.
+# ---
+
 """Run all system health stories used by system health benchmarks.
 
 Only memory benchmarks are used when running these stories to make the total

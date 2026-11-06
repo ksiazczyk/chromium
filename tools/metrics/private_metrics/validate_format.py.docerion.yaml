@@ -1,0 +1,4 @@
+# Docerion header of validate_format.py.
+type: script
+title: DWA XML format validation script
+summary: Command-line script that validates dwa.xml, reporting errors for missing event owners and metrics with undefined enums.

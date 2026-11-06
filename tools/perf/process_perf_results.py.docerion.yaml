@@ -1,0 +1,4 @@
+# Docerion header of process_perf_results.py.
+type: script
+title: Process and Upload Performance Results
+summary: Merges benchmark result files in various formats and uploads them to the Chrome performance dashboard during perf builds.

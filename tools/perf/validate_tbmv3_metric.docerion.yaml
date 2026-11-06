@@ -1,0 +1,4 @@
+# Docerion header of validate_tbmv3_metric.
+type: source
+title: TBMv3 Metric Validation Launcher
+summary: Launcher script that runs the TBMv3 metric validation CLI tool with proper path setup and exception logging.

@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for Private Metrics XML
+# summary: Runs format checks on dwa.xml during upload and commit using the shared metrics presubmit utilities.
+# ---
+
 """Presubmit script for Private Metrics XML configuration.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

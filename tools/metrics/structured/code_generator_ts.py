@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: TypeScript code generation from structured.xml
+# summary: Provides TypeScript project, event, and metric info classes and templates for generating structured metrics code for WebUI pages.
+# ---
+
 import setup_modules  # pylint: disable=unused-import
 
 

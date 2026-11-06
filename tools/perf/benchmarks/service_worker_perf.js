@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker perf tools helper
+// summary: Browser-side JavaScript helper that cooperates with blink_perf.py to perform benchmark actions such as stopping service workers.
+// ---
+
 // This class cooperates with blink_perf.py to perform actions. Currently only
 // stopping service workers is supported.
 class ServiceWorkerPerfTools {

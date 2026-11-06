@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Utilities for parsing structured.xml
+# summary: Helper functions for parsing and validating structured.xml nodes, raising formatted errors when format constraints are not met.
+# ---
+
 """Utilities for parsing structured.xml.
 
 Functions in this module raise an error if constraints on the format of the

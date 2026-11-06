@@ -1,0 +1,4 @@
+# Docerion header of fetch_benchmark_deps.py.
+type: script
+title: Benchmark dependency fetcher
+summary: Fetches and prints the dependencies, such as WPR archives and serving files, needed by one or all perf benchmarks.

@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Rendering performance benchmarks
+# summary: Defines Chromium rendering benchmarks that measure smoothness, jank, scroll latency and GPU memory UMA metrics over a rendering story set.
+# ---
+
 import logging
 from core import perf_benchmark
 from core import platforms as core_platforms

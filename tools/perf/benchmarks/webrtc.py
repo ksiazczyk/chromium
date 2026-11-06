@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebRTC performance benchmark
+# summary: Defines the webrtc benchmark measuring CPU time and WebRTC rendering metrics for real-time communication tests using fake media devices.
+# ---
+
 import page_sets
 from telemetry import benchmark
 from telemetry.timeline import chrome_trace_category_filter

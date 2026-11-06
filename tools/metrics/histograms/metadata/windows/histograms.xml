@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: reference
+title: Windows histogram definitions
+summary: Provides a comprehensive list of Windows histograms with detailed descriptions, owners, variants, and expiry dates for the metrics system.
+-->
+
 <histogram-configuration>
 
 <histograms>

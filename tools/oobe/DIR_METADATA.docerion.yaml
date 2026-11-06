@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for tools/oobe
+summary: Directory metadata mapping tools/oobe to ChromeOS OOBE Buganizer components, team email and ChromeOS OS tag.

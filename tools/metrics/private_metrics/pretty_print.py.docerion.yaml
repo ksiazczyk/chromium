@@ -1,0 +1,4 @@
+# Docerion header of pretty_print.py.
+type: script
+title: Pretty-printer for Private Metrics XML
+summary: Formats dwa.xml in place, as a diff, or in presubmit check mode using the DWA model.

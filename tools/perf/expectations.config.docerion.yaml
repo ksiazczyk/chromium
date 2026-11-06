@@ -1,0 +1,4 @@
+# Docerion header of expectations.config.
+type: config
+title: Telemetry perf test expectations
+summary: Expectations file listing telemetry perf stories to skip per platform and bug, used by the perf bot gardeners.

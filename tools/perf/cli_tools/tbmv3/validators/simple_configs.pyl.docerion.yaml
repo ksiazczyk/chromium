@@ -1,0 +1,4 @@
+# Docerion header of simple_configs.pyl.
+type: config
+title: Simple validator configs (simple_configs.pyl)
+summary: Defines simple config validators that map TBMv2 histograms to TBMv3 histograms for the console_error and reported_by_page metrics.

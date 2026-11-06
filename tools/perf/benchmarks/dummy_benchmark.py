@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Dummy benchmarks for testing infrastructure
+# summary: Defines dummy benchmarks that emit random Gaussian values for bisect and integration tests rather than real performance data.
+# ---
+
 """Dummy benchmarks for the bisect FYI integration tests and other tests.
 
 The number they produce aren't meant to represent any actual performance

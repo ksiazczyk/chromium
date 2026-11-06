@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the origin trials tools
+summary: Directory metadata that inherits common metadata from the Blink origin trials implementation.

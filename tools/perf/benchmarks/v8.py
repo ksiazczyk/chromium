@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: V8 runtime stats top 25 benchmark
+# summary: Defines the v8.runtime_stats.top_25 benchmark measuring Blink runtime call stats on a mix of top websites and pages with unique V8 characteristics.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

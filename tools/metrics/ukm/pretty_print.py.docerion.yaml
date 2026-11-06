@@ -1,0 +1,4 @@
+# Docerion header of pretty_print.py.
+type: script
+title: Pretty-printer for ukm.xml
+summary: Reformats ukm.xml, trims obsolete events and metrics, and keeps a backup copy in ukm.old.xml.

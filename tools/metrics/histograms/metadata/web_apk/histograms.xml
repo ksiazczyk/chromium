@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: WebAPK histogram definitions
+summary: Defines the WebAPK histograms recorded by Chrome, with owners, expiry dates, and a description for each metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for webapps metrics
+summary: Lists the owners who review changes to webapps histogram metadata and points to the shared metric reviewer owners file.

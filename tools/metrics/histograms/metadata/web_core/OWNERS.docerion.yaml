@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebCore histograms OWNERS
+summary: Specifies the owners responsible for reviewing changes to the WebCore histogram metadata files, with a metrics reviews mailing list as backup.

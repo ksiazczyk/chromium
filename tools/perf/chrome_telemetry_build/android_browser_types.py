@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android telemetry browser target suffixes for Python
+# summary: Lists Android Telemetry browser target suffixes for Python scripts and extends them from a Clank checkout when present.
+# ---
+
 import logging
 import os
 import sys

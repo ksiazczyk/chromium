@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: UKM XML validation rules
+# summary: Implements UkmXmlValidation checks for owners, metric types, aggregation, statistics, name uniqueness and time unit naming in ukm.xml.
+# ---
+
 import re
 
 import setup_modules  # pylint: disable=unused-import

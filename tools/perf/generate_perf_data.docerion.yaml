@@ -1,0 +1,4 @@
+# Docerion header of generate_perf_data.
+type: script
+title: Perf data generator entry point
+summary: Command-line entry point that runs the core perf data generator with the given arguments.

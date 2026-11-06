@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Power desktop benchmark
+# summary: Defines a desktop power benchmark that traces CPU time and console errors while running the desktop power story set.
+# ---
+
 from core import perf_benchmark
 from core import platforms
 

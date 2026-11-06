@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Structured metrics definitions
+summary: XML definitions of structured metrics projects, events and metrics for Chromium, covering areas such as display monitoring and Fast Pair.
+-->
+
 <structured-metrics>
 
 <project name="PopularDisplays">

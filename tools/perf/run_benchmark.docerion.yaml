@@ -1,0 +1,4 @@
+# Docerion header of run_benchmark.
+type: script
+title: Run benchmark entry point
+summary: Entry point that launches the Telemetry benchmark runner using the default Chromium configuration.

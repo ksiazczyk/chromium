@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Nix dev environment
+summary: Lists the code owner of the tools/nix NixOS dev environment directory.

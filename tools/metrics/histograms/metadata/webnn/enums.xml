@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: WebNN histogram enum definitions
+summary: Defines the enumeration values referenced by WebNN histogram entries, including context backend, device type, execution provider status, and graph operator enums.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

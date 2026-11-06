@@ -1,0 +1,4 @@
+# Docerion header of generate_legacy_perf_dashboard_json_unittest.py.
+type: test
+title: Legacy perf dashboard JSON generator unit tests
+summary: Unit tests that check the legacy results processor produces the expected dashboard JSON graphs from test log files.

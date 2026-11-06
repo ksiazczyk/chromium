@@ -4,6 +4,12 @@
   test scenarios that rely on such circumstances.
 -->
 
+<!--docerion
+type: test
+title: Token errors histogram test fixture
+summary: Sample histogram configuration with undefined tokens in the histogram name, used to validate test scenarios that rely on such invalid token references.
+-->
+
 <histogram-configuration>
 
 <histograms>

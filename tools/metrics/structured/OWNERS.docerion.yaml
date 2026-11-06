@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for structured metrics tools
+summary: Lists the primary owners and last-resort reviewers for the structured metrics tools directory.

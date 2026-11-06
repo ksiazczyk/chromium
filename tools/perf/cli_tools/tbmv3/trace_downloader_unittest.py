@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the trace downloader
+# summary: Unit tests covering local trace naming, proto trace path lookup, and HTML and proto trace downloads with mocked cloud storage.
+# ---
+
 import os
 import unittest
 from unittest import mock

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Mobile startup benchmarks
+# summary: Defines Android Chrome startup benchmarks, including a how-to for building Chrome and running the startup.mobile benchmark on mobile devices.
+# ---
+
 import contextlib
 import logging
 

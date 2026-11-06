@@ -1,0 +1,4 @@
+# Docerion header of download_proto_trace.py.
+type: script
+title: Proto trace downloader
+summary: Command-line utility that downloads the proto trace corresponding to a cloud storage HTML trace URL.

@@ -1,0 +1,4 @@
+# Docerion header of make-shell-for-system.nix.
+type: config
+title: Nix function to build the Chromium dev shell
+summary: Builds an FHS dev shell for Chromium with the packages needed for reclient, autoninja and content_shell.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JetStream 2 benchmark definitions
+# summary: Defines Telemetry benchmark classes for Apple's JetStream 2.0, 2.1 and 2.2 JavaScript and WebAssembly benchmarks, including a variant that disables field trials.
+# ---
+
 """Runs Apple's JetStream 2 benchmark.
 
 JetStream 2 combines together a variety of JavaScript and Web Assembly

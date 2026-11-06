@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Helpers for running mypy over tools/metrics
+# summary: Prepares stub directories with symlinks, applies ignore lists and error filters, and runs mypy on the tools/metrics code.
+# ---
+
 import contextlib
 import os
 import pathlib

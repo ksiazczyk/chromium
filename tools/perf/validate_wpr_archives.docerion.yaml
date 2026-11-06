@@ -1,0 +1,4 @@
+# Docerion header of validate_wpr_archives.
+type: source
+title: WPR Archive Cloud Storage Validator
+summary: Script that validates whether WPR archives and their SHA1 hashes for all benchmarks are properly stored in Cloud Storage.

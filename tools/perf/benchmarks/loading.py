@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Loading benchmark base class
+# summary: Provides a base class for page loading benchmarks that configures timeline-based measurement with GPU memory and Core Web Vitals UMA histograms.
+# ---
+
 from core import perf_benchmark
 
 from benchmarks import loading_metrics_category

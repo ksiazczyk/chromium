@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Test histogram definitions
+summary: Test fixture with sample histograms, variants and token usage for exercising metrics XML tooling.
+-->
+
 <histogram-configuration>
 
 <!-- Second level Comment 1 -->

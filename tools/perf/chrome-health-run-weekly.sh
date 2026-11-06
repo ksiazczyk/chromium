@@ -5,6 +5,12 @@
 
 # Script to run Chrome Health A/A trustworthy experiments
 
+# ---docerion
+# type: script
+# title: Chrome Health weekly A/A experiment runner
+# summary: Shell script that repeatedly starts A/A Chrome Health experiments via Pinpoint on the current release branch to measure trustworthiness.
+# ---
+
 export RELEASE_MILESTONE=$(curl -s https://chromiumdash.appspot.com/fetch_milestone_schedule?offset=-1 | jq '.mstones[].mstone')
 echo "Release Milestone" $RELEASE_MILESTONE
 

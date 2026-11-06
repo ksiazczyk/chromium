@@ -1,0 +1,4 @@
+# Docerion header of codegen_unittest.py.
+type: test
+title: Unit tests for codegen utilities
+summary: Unit tests covering name sanitization, camel-to-snake conversion, and the known-good metric and event name hash functions.

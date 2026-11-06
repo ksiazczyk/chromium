@@ -1,0 +1,4 @@
+# Docerion header of quote_checker_test.py.
+type: test
+title: Tests for the quote consistency checker
+summary: Unit tests covering quote rules for plain, prefixed, multiline, concatenated and nested f-strings.
