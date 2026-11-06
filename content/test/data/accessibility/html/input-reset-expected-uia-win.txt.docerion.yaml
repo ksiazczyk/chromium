@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for input reset test
+summary: Expected UIA accessibility tree snapshot for the input-reset HTML test, describing a document with an edit field and a Reset button on Windows.

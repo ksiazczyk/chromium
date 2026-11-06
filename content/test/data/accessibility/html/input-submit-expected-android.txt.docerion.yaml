@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-android.txt.
+type: test
+title: input-submit expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the input-submit test page, covering forms, text fields and submit and image buttons inside and outside forms.

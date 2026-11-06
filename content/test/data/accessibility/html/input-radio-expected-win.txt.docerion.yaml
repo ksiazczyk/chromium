@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-win.txt.
+type: test
+title: Expected accessibility tree for input radio on Windows
+summary: Expected Windows IA2 accessibility tree snapshot for the HTML radio input test, describing radio buttons, static text, and checked states.

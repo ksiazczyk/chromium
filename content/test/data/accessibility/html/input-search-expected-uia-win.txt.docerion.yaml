@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-uia-win.txt.
+type: test
+title: input-search expected UIA-Win accessibility tree
+summary: Expected UIA-Win accessibility tree snapshot for the input-search test page, describing a document, group and edit control with value 'Search terms'.

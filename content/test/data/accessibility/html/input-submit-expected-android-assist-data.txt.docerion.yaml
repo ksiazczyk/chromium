@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-android-assist-data.txt.
+type: test
+title: input-submit expected Android assist data
+summary: Expected Android assist data snapshot for the input-submit test page, showing forms with text fields plus submit and image buttons and their default-button roles.

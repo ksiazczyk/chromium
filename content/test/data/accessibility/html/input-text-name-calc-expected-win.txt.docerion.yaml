@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-win.txt.
+type: test
+title: input-text-name-calc expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the text input name calculation test, listing roles, names and descriptions for each input.

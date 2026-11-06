@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-android-external.txt.
+type: test
+title: Expected Android external tree for radio and checkbox label test
+summary: Expected Android external accessibility tree snapshot covering radio and checkbox label exposure, state descriptions, and actions.

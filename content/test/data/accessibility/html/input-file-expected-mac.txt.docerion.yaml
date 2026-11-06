@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for file input
+summary: Expected macOS accessibility output for a file input page, describing the AXWebArea, group and AXButton with its title.

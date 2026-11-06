@@ -1,0 +1,4 @@
+# Docerion header of input-text-name-calc-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the input text name calculation test
+summary: Expected Android accessibility tree snapshot listing EditText hints and tooltips that verify accessible name calculation for HTML text inputs.

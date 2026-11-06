@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for tel input
+summary: Expected Android accessibility tree for a page containing a tel input with value 123-456-7890.

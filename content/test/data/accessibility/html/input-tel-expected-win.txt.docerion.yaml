@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for tel input test
+summary: Expected Windows accessibility tree snapshot for the tel input test page.

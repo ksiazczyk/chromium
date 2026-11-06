@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-android.txt.
+type: test
+title: input-text-read-only expected Android accessibility tree
+summary: Expected Android accessibility tree dump for the read-only text input test, showing a focused editable text field with a hint.

@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-auralinux.txt.
+type: test
+title: Input color expected AuraLinux tree
+summary: Expected AuraLinux accessibility tree for the HTML color input test, listing a document with a section and a push button.

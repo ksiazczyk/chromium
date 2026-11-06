@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-fuchsia.txt.
+type: test
+title: Email input expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree dump for the email input test page, describing the text field with set value action and its static text label.

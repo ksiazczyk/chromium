@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input search test
+summary: Expected Android assist data snapshot for the input-search HTML test, showing WebView, EditText and TextView nodes for a search input.

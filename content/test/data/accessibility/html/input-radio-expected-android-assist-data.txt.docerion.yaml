@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input-radio test
+summary: Expected Android assist data snapshot for the input-radio test, listing radio buttons with their names, values and checked states.

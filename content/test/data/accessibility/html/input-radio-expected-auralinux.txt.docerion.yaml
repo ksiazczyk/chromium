@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for input radio on Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the HTML radio input test, showing forms, radio buttons, and static text labels.

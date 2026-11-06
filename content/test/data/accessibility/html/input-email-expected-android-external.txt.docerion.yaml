@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-android-external.txt.
+type: test
+title: Email input expected Android external accessibility tree
+summary: Expected Android external accessibility tree dump for the email input test page, describing the focused EditText field and its available actions.

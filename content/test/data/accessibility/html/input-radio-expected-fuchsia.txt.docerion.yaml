@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-fuchsia.txt.
+type: test
+title: Expected accessibility tree for input radio on Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the HTML radio input test, listing radio buttons, labels, and checked states.

@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-android-external.txt.
+type: test
+title: input-color expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the color input test, showing a Spinner color picker with focus and click actions.

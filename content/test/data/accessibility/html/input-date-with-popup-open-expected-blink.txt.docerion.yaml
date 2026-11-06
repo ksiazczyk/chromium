@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input date with popup open
+summary: Expected Blink accessibility tree dump for the date input with an open popup, covering date spin buttons, picker buttons and calendar grid cells.

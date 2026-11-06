@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for number input
+summary: Expected Aura Linux accessibility tree output for a page with number inputs shown as spin buttons with range values.

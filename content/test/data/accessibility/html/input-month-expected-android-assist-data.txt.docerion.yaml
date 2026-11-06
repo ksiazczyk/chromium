@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-android-assist-data.txt.
+type: test
+title: Input month expected Android assist data
+summary: Expected Android assist data snapshot for the input month test, describing the month input spinner view hierarchy.

@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for input date with popup open
+summary: Expected macOS accessibility tree dump for the date input with an open popup, describing steppers, the popup button and calendar table cells.

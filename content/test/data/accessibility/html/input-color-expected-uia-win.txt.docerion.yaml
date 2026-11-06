@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-uia-win.txt.
+type: test
+title: Input color expected UIA Win tree
+summary: Expected UIA Windows accessibility tree for the HTML color input test, showing a color picker button with an RGB value.

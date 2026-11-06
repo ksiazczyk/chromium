@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-mac.txt.
+type: test
+title: Mac accessibility tree expectation for input-range
+summary: Expected macOS accessibility tree for the input-range test page listing AXSlider nodes with their AXValue attributes.

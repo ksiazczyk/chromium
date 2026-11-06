@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-mac.txt.
+type: test
+title: Input radio in menu expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the radio buttons inside menu roles test page.

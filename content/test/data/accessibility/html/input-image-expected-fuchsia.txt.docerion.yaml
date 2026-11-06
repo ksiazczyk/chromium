@@ -1,0 +1,4 @@
+# Docerion header of input-image-expected-fuchsia.txt.
+type: test
+title: Expected accessibility tree for input-image on Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the input-image test page, showing a focusable button labelled Submit.

@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility snapshot for datetime input
+summary: Expected Android external accessibility snapshot for datetime input test pages, listing focusable and editable text fields.

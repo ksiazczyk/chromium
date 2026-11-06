@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-uia-win.txt.
+type: test
+title: Input radio in menu expected UIA Windows tree
+summary: Expected UIA accessibility tree snapshot on Windows for the radio-in-menu test page.

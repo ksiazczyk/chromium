@@ -1,0 +1,4 @@
+# Docerion header of input-radio-checkbox-label-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input-radio-checkbox-label
+summary: Expected Blink accessibility tree snapshot for the input-radio-checkbox-label test, showing label exposure for radio buttons and checkboxes.

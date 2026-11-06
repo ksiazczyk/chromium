@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for number input
+summary: Expected Windows accessibility tree output for a page with number inputs exposed as spin buttons with range values.

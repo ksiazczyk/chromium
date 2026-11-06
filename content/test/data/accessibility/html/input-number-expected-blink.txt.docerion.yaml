@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for number input
+summary: Expected Blink accessibility tree output for a page with number inputs represented as spin buttons with range values.

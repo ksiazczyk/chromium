@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-android-assist-data.txt.
+type: test
+title: Expected Android accessibility tree for date inputs
+summary: Expected Android accessibility tree snapshot for date inputs, one with an aria-label, used to verify assist data output.

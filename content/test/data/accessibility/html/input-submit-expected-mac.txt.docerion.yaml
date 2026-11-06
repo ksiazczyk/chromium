@@ -1,0 +1,4 @@
+# Docerion header of input-submit-expected-mac.txt.
+type: test
+title: input-submit expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the input-submit test page, describing the web area, form groups, text fields and buttons.

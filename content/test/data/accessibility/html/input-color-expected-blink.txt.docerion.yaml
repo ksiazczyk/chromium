@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-blink.txt.
+type: test
+title: Input color expected Blink tree
+summary: 'Expected Blink accessibility tree for the HTML color input test, showing a color well input with value #ff9900.'

@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia tree for input search test
+summary: Expected Fuchsia accessibility tree snapshot for the input-search HTML test, showing a search box with value Search terms.

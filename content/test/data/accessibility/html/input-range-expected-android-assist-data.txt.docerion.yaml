@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-android-assist-data.txt.
+type: test
+title: Android assist data expectation for input-range
+summary: Expected Android assist data snapshot for the input-range test page showing SeekBar nodes with range, value and aria attribute details.

@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for input list
+summary: Expected Auralinux accessibility tree snapshot for the input-list test, showing a label and a combo box with list autocomplete and listbox popup.

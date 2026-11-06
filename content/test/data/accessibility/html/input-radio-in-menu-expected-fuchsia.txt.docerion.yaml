@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input-radio-in-menu
+summary: Expected Fuchsia accessibility tree snapshot for the input-radio-in-menu test, showing radio buttons with checked states and static text labels in menus.

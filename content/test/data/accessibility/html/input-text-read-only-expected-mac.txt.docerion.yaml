@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-mac.txt.
+type: test
+title: Read-only text input expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the read-only text input test page.

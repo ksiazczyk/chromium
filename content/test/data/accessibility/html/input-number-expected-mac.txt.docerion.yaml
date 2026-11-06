@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for number input
+summary: Expected macOS accessibility tree output for a page with number inputs exposed as steppers with values.

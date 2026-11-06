@@ -1,0 +1,4 @@
+# Docerion header of input-radio-expected-android-external.txt.
+type: test
+title: Expected accessibility tree for input radio on Android external
+summary: Expected Android external accessibility tree snapshot for the HTML radio input test, listing radio buttons, labels, and checked states.

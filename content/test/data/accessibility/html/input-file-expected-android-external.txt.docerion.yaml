@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for file input
+summary: Expected Android external accessibility output for a file input page, listing focusable and clickable button nodes with actions, roles and descriptions.

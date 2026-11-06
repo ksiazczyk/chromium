@@ -1,0 +1,4 @@
+# Docerion header of input-radio-wrapped-label-expected-fuchsia.txt.
+type: test
+title: Fuchsia expected accessibility tree for input-radio-wrapped-label
+summary: Expected Fuchsia accessibility tree output for the radio inputs wrapped in labels test page, listing radio buttons and static text labels.

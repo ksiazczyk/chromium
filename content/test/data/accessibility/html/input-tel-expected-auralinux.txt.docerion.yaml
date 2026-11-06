@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for tel input
+summary: Expected Aura Linux accessibility tree for a page containing a tel input with value 123-456-7890.

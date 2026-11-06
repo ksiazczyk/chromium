@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-fuchsia.txt.
+type: test
+title: input-suggestions-source-element expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the input-suggestions-source-element page, showing a text field with combo box semantics.

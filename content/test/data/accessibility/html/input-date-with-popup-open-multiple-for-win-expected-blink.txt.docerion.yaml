@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-for-win-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for date input with popup open on Windows
+summary: Expected Blink accessibility tree snapshot for a page with multiple date inputs whose picker popup is open, used as test expectations on Windows.

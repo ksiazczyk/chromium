@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-uia-win.txt.
+type: test
+title: Input hidden expected UIA Windows output
+summary: Expected Windows UIA accessibility result for the hidden input test, marking the object as skipped.

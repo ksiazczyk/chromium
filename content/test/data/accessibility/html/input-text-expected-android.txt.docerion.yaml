@@ -1,0 +1,4 @@
+# Docerion header of input-text-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for text input test
+summary: Expected Android accessibility tree snapshot for the text input test.

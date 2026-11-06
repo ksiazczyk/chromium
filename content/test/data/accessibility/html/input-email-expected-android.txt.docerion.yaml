@@ -1,0 +1,4 @@
+# Docerion header of input-email-expected-android.txt.
+type: test
+title: Email input expected Android accessibility tree
+summary: Expected Android accessibility tree dump for the email input test page, describing the WebView hierarchy and the editable email text field.

@@ -1,0 +1,4 @@
+# Docerion header of input-tel-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for tel input test
+summary: Expected UIA accessibility tree snapshot for the tel input test page on Windows.

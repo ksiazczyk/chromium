@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for date input with popup open multiple
+summary: Expected accessibility tree snapshot on Aura Linux for the HTML test with several date inputs whose date picker popups are open.

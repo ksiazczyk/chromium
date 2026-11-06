@@ -1,0 +1,4 @@
+# Docerion header of input-range-expected-android.txt.
+type: test
+title: Android accessibility tree expectation for input-range
+summary: Expected Android accessibility tree for the input-range test page listing SeekBar nodes with range minima, maxima and current values.

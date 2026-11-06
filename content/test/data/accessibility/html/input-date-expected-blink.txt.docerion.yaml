@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-blink.txt.
+type: test
+title: Input date expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the input-date HTML test, detailing date fields, spin buttons, static text and pop-up buttons with values and ranges.

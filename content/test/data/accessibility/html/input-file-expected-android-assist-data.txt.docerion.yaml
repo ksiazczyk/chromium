@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for file input
+summary: Expected Android assist data snapshot for a file input page, describing the WebView, view and button nodes used in accessibility tests.

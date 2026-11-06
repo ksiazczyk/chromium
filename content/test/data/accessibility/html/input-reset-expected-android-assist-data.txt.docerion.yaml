@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input reset test
+summary: Expected Android assist data snapshot for the input-reset HTML test showing an EditText and a Reset button with htmlInfo details.

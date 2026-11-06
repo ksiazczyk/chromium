@@ -1,0 +1,4 @@
+# Docerion header of input-number-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for number input
+summary: Expected Fuchsia accessibility tree output for a page with number inputs exposing set-value actions and static text labels.

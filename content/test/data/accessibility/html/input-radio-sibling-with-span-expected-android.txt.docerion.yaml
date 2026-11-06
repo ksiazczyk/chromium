@@ -1,0 +1,4 @@
+# Docerion header of input-radio-sibling-with-span-expected-android.txt.
+type: test
+title: Input radio sibling with span expected Android tree
+summary: Expected Android accessibility tree snapshot for the radio sibling-with-span test page.

@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for input-radio-in-menu
+summary: Expected external Android accessibility snapshot for the input-radio-in-menu test, with state descriptions, actions and bundle info for radio buttons in menus.

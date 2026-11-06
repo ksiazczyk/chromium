@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-for-win-expected-win.txt.
+type: test
+title: Expected Windows IA2 tree for date input popup test (for win)
+summary: Expected Windows IA2 and MSAA accessibility tree snapshot for the for-win test page, covering date editors and an open calendar popup.

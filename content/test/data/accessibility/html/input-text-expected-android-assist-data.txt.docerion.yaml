@@ -1,0 +1,4 @@
+# Docerion header of input-text-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for text input test
+summary: Expected Android assist data snapshot for the text input accessibility test.

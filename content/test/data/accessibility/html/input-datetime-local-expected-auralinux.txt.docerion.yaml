@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-local-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for datetime-local input
+summary: Expected Linux accessibility tree snapshot showing the spin buttons and picker button of a datetime-local input.

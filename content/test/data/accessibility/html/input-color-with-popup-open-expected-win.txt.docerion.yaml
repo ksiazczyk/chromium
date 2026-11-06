@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for color input with popup open
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for a color input with its popup open, including sliders, buttons and text fields.

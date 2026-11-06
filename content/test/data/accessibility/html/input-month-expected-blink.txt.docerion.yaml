@@ -1,0 +1,4 @@
+# Docerion header of input-month-expected-blink.txt.
+type: test
+title: Input month expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the input month test, describing month and year spin buttons and the picker popup button.

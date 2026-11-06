@@ -1,0 +1,4 @@
+# Docerion header of input-color-with-popup-open-expected-android.txt.
+type: test
+title: Input color with popup open expected Android skip marker
+summary: Skip marker for the Android expectation of the color input test with popup open, because Android uses a native color dialog.

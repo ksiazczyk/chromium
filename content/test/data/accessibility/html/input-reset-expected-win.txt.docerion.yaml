@@ -1,0 +1,4 @@
+# Docerion header of input-reset-expected-win.txt.
+type: test
+title: Expected Win tree for input reset test
+summary: Expected Windows accessibility tree snapshot for the input-reset HTML test, listing a document, section, text input and Reset pushbutton.

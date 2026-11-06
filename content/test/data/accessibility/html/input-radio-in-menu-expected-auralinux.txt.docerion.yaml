@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for input-radio-in-menu
+summary: Expected Linux AT-SPI accessibility tree snapshot for the input-radio-in-menu test, showing menu containers with checked and checkable radio buttons.

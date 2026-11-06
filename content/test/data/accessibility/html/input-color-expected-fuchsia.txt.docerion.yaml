@@ -1,0 +1,4 @@
+# Docerion header of input-color-expected-fuchsia.txt.
+type: test
+title: Input color expected Fuchsia tree
+summary: 'Expected Fuchsia accessibility tree for the HTML color input test, showing a focusable node with value #ff9900 and set-value action.'

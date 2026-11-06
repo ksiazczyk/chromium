@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-win.txt.
+type: test
+title: Input hidden expected Windows output
+summary: Expected Windows accessibility result for the hidden input test, marking the object as skipped.

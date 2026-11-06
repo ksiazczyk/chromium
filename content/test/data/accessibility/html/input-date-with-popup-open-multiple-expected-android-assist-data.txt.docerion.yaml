@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-multiple-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input date with popup open (multiple)
+summary: Expected Android assist data snapshot for a page with several date inputs, capturing spinner labels and values for each date picker.

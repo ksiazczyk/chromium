@@ -1,0 +1,4 @@
+# Docerion header of input-image-expected-android-assist-data.txt.
+type: test
+title: Input image expected Android assist data
+summary: Expected Android assist data for the image input test, describing a Submit image button with its HTML attributes.

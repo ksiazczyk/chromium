@@ -1,0 +1,4 @@
+# Docerion header of input-file.html.
+type: test
+title: Input file accessibility test page
+summary: HTML test page containing a file input, with platform allow directives, used to verify accessibility tree output.

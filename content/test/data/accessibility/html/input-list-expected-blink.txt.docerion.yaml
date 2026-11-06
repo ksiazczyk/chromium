@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input list
+summary: Expected Blink accessibility tree snapshot for the input-list test, showing label text and a text field with combo box role and listbox popup.

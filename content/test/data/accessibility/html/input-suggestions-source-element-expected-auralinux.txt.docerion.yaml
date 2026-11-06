@@ -1,0 +1,4 @@
+# Docerion header of input-suggestions-source-element-expected-auralinux.txt.
+type: test
+title: input-suggestions-source-element expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility snapshot for the input-suggestions-source-element page, showing a combo box with a listbox popup for suggestions.

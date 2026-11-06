@@ -1,0 +1,4 @@
+# Docerion header of input-text-read-only-expected-blink.txt.
+type: test
+title: input-text-read-only expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the read-only text input test, showing a read-only text field named from its placeholder.

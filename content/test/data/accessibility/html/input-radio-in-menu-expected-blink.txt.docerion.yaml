@@ -1,0 +1,4 @@
+# Docerion header of input-radio-in-menu-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input-radio-in-menu
+summary: Expected Blink internal accessibility tree snapshot for the input-radio-in-menu test, with menus, radio buttons and static text including setSize and posInSet.

@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-win.txt.
+type: test
+title: Input list expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the input list test, describing the combobox produced by an input with a datalist.

@@ -1,0 +1,4 @@
+# Docerion header of input-search-expected-android.txt.
+type: test
+title: Expected Android tree for input search test
+summary: Expected Android accessibility tree snapshot for the input-search HTML test with an EditText search field named Search terms.

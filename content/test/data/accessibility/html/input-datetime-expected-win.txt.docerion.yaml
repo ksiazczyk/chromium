@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for datetime input
+summary: Expected Windows accessibility tree snapshot used to verify how a datetime input is exposed to assistive technology.

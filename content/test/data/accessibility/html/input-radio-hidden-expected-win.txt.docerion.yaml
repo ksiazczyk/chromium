@@ -1,0 +1,4 @@
+# Docerion header of input-radio-hidden-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for input-radio-hidden
+summary: Expected Windows IA2 accessibility tree snapshot for the input-radio-hidden test, including setsize and posinset values for radio buttons.

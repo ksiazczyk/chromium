@@ -1,0 +1,4 @@
+# Docerion header of input-list-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for input list
+summary: Expected Android external accessibility snapshot for the input-list test, showing label text and an editable text field with combo box role.

@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-android-external.txt.
+type: test
+title: Input date expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the input-date HTML test, listing date picker nodes with roles, actions and chromeRole bundles.

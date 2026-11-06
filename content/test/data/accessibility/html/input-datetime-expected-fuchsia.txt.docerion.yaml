@@ -1,0 +1,4 @@
+# Docerion header of input-datetime-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for datetime input test
+summary: Expected Fuchsia accessibility tree snapshot for datetime input test pages.

@@ -1,0 +1,4 @@
+# Docerion header of input-hidden-expected-auralinux.txt.
+type: test
+title: Input hidden expected Aura Linux output
+summary: Expected Aura Linux accessibility result for the hidden input test, showing only the document web node.

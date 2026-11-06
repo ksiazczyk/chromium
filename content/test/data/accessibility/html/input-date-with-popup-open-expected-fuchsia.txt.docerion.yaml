@@ -1,0 +1,4 @@
+# Docerion header of input-date-with-popup-open-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input date with popup open
+summary: Expected Fuchsia accessibility tree dump for the date input with an open popup, including date spin buttons, picker controls and calendar cells.

@@ -1,0 +1,4 @@
+# Docerion header of input-date-expected-uia-win.txt.
+type: test
+title: Input date expected UIA Win accessibility tree
+summary: Expected UIA Windows accessibility tree snapshot for the input-date HTML test, showing date picker edits, spinner range values and expand-collapse buttons.

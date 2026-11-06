@@ -1,0 +1,4 @@
+# Docerion header of input-file-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for file input
+summary: Expected Blink accessibility tree for a file input page, describing the root web area, containers and button with input type file.

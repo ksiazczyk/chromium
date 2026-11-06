@@ -1,0 +1,4 @@
+# Docerion header of input-radio-sibling-with-span.html.
+type: test
+title: Input radio sibling with span test page
+summary: HTML test page comparing radio button labels with and without a wrapping span element.

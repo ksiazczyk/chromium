@@ -1,0 +1,4 @@
+# Docerion header of input-text-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for text input test
+summary: Expected Fuchsia accessibility tree snapshot for the text input test.
