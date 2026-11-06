@@ -1,0 +1,4 @@
+# Docerion header of em-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for em element test
+summary: Expected macOS accessibility tree snapshot verifying that an em element is exposed as an emphasis group containing the emphasized text.

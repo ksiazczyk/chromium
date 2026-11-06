@@ -1,0 +1,4 @@
+# Docerion header of del-expected-android-external.txt.
+type: test
+title: Expected Android external tree for del.html
+summary: Expected Android external accessibility snapshot showing a paragraph with deleted text for the del test.

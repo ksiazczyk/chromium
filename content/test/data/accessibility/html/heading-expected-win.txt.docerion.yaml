@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-win.txt.
+type: test
+title: Expected Windows tree for the heading test page
+summary: Expected Windows accessibility tree snapshot for the heading test page, listing heading roles with static text for levels 1 through 6.

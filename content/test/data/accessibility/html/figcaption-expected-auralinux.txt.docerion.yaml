@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for figcaption test
+summary: Expected accessibility tree snapshot for the figcaption test page on Linux, showing two figures with images and caption text Fig.1 and Fig.2.

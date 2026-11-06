@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open-expected-fuchsia.txt.
+type: test
+title: Custom select open expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the opened custom select currency picker with five currency menu items.

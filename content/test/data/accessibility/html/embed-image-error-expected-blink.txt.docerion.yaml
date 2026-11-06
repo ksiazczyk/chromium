@@ -1,0 +1,4 @@
+# Docerion header of embed-image-error-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for embed image error
+summary: Expected Blink accessibility tree snapshot for the embed image error test page, showing ignored containers and fallback static text.

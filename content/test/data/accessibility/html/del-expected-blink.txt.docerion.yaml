@@ -1,0 +1,4 @@
+# Docerion header of del-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for del.html
+summary: Expected Blink internal accessibility tree snapshot for the del.html content deletion test.

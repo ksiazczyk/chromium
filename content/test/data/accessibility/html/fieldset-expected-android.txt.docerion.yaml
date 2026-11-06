@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for fieldset test
+summary: Expected Android accessibility tree snapshot for the fieldset test page, showing container titles and heading role descriptions for legends.

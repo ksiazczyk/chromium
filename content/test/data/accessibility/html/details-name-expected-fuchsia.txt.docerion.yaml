@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-fuchsia.txt.
+type: test
+title: Fuchsia expected accessibility tree for details-name
+summary: Expected Fuchsia accessibility tree snapshot for the details-name test with node roles, labels, actions and hidden nodes.

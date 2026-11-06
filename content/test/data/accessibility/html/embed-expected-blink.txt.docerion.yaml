@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for embed element test
+summary: Expected Blink internal accessibility tree snapshot for a page with an embed element, showing a disabled embedded object.

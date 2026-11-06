@@ -1,0 +1,4 @@
+# Docerion header of details-expected-win.txt.
+type: test
+title: Details element expected Windows accessibility tree
+summary: Expected MSAA and IA2 Windows accessibility tree snapshot for the HTML details element test page with pushbutton and static text roles.

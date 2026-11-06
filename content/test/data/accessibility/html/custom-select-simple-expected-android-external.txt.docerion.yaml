@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-android-external.txt.
+type: test
+title: Custom select simple expected Android external accessibility tree
+summary: Expected Android WebView accessibility snapshot for the custom-select-simple test, describing a combo box with Fruit options.

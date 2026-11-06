@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-mac.txt.
+type: test
+title: Dialog expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the dialog HTML test page, showing an application dialog subrole.

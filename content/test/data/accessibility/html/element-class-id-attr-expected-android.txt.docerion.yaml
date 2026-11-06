@@ -1,0 +1,4 @@
+# Docerion header of element-class-id-attr-expected-android.txt.
+type: test
+title: element-class-id-attr expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the element-class-id-attr.html test page.

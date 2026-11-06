@@ -1,0 +1,4 @@
+# Docerion header of footer-expected-auralinux.txt.
+type: test
+title: Footer expected AuraLinux accessibility tree
+summary: Expected AuraLinux accessibility tree output for the footer element test, showing the contentinfo landmark role.

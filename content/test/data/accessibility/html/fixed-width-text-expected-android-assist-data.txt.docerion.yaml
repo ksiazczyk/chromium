@@ -1,0 +1,4 @@
+# Docerion header of fixed-width-text-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for fixed-width text test
+summary: Expected Android assist data snapshot for the fixed-width text accessibility test, describing a TextView with the text Hello, World inside a WebView.

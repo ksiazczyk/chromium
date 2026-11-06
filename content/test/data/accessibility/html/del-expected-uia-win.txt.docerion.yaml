@@ -1,0 +1,4 @@
+# Docerion header of del-expected-uia-win.txt.
+type: test
+title: Expected UIA-Win accessibility tree for the del element test
+summary: Expected UIA-Win accessibility tree snapshot for the del element test page, listing document, group, text and deletion nodes.

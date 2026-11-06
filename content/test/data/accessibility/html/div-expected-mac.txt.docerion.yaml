@@ -1,0 +1,4 @@
+# Docerion header of div-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for div test
+summary: Expected macOS AX accessibility tree snapshot for the div test page, showing an unfocusable and a focusable div.

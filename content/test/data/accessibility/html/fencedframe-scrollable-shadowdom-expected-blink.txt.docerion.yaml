@@ -1,0 +1,4 @@
+# Docerion header of fencedframe-scrollable-shadowdom-expected-blink.txt.
+type: test
+title: Expected Blink tree for scrollable fenced frame with shadow DOM
+summary: Expected Blink accessibility tree snapshot for a scrollable fenced frame with shadow DOM, including an iframe and visible or hidden static text.

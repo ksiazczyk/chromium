@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for form validation message test
+summary: Expected MSAA/IA2 accessibility tree snapshot for the form validation message test on Windows, including alert, label and invalid entry states.

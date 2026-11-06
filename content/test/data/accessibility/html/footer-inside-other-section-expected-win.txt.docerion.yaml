@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-other-section-expected-win.txt.
+type: test
+title: Expected Windows tree for footer inside other sections
+summary: Expected Windows accessibility tree snapshot for the footer-inside-other-section test page.

@@ -1,0 +1,4 @@
+# Docerion header of details-expected-fuchsia.txt.
+type: test
+title: Details element expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the HTML details element test page with labels for summary and paragraph nodes.

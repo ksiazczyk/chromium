@@ -1,0 +1,4 @@
+# Docerion header of element-class-id-attr-expected-blink.txt.
+type: test
+title: element-class-id-attr expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the element-class-id-attr.html test page.

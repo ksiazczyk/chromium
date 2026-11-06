@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-blink.txt.
+type: test
+title: dfn expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the dfn test page, showing the term and static text nodes for the Web Browser definition.

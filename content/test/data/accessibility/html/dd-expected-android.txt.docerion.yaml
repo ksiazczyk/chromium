@@ -1,0 +1,4 @@
+# Docerion header of dd-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the dd test
+summary: Expected Android accessibility tree snapshot for the dd description list test page.

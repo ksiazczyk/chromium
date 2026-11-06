@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-fuchsia.txt.
+type: test
+title: Custom select simple expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the custom-select-simple test, listing the Fruit select and its option labels.

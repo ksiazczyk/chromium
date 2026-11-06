@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for embed element
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the embed element test page, showing document, section and unavailable embedded object roles.

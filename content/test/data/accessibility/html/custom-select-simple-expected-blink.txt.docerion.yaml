@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-blink.txt.
+type: test
+title: Custom select simple expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the custom-select-simple test, describing the select element and its option nodes.

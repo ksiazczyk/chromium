@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for figcaption test
+summary: Expected Blink accessibility tree for the figcaption test page, listing figures with images and static text captions including inline text boxes.

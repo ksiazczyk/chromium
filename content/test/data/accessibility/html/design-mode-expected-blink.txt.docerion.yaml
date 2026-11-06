@@ -1,0 +1,4 @@
+# Docerion header of design-mode-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for design mode test
+summary: Expected Blink accessibility tree snapshot for the design mode test page, showing richly editable nodes with the value Hello.

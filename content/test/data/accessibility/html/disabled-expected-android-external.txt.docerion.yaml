@@ -1,0 +1,4 @@
+# Docerion header of disabled-expected-android-external.txt.
+type: test
+title: Disabled expected external tree for Android
+summary: Expected Android external accessibility snapshot for the disabled controls test page, detailing actions and roles of enabled and disabled elements.

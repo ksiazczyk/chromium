@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for figcaption test
+summary: Expected Fuchsia accessibility tree for the figcaption test page, with image and static text nodes for the two captioned figures.

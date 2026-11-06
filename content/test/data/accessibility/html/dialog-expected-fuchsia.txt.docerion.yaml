@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-fuchsia.txt.
+type: test
+title: Dialog expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the dialog HTML test page with its static text label.

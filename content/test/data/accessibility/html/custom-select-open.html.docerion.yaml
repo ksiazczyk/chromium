@@ -1,0 +1,4 @@
+# Docerion header of custom-select-open.html.
+type: test
+title: Custom select open accessibility test page
+summary: HTML test page with a styled custom select element for currency choices, used to verify accessibility tree output when the picker is open.

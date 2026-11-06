@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-win.txt.
+type: test
+title: Fieldset expected Windows accessibility tree
+summary: Expected Windows (IA2/MSAA) accessibility tree for the fieldset test page with grouping and label roles.

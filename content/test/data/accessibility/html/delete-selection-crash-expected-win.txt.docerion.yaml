@@ -1,0 +1,4 @@
+# Docerion header of delete-selection-crash-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for delete selection crash test
+summary: Expected Windows accessibility tree snapshot for the delete selection crash test page, showing a document with section and static text.

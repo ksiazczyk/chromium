@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for fieldset test
+summary: Expected Android external accessibility tree snapshot for the fieldset test page, listing focusable views and container titles for fieldsets and legends.

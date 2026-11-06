@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options.html.
+type: test
+title: Custom select with mixed text and image options test page
+summary: HTML test page rendering select elements whose options combine text and inline images to exercise custom select accessibility.

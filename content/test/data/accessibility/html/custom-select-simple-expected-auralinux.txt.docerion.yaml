@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-auralinux.txt.
+type: test
+title: Custom select simple expected Linux accessibility tree
+summary: Expected Linux screen reader accessibility tree for the custom-select-simple test with a combo box and Apple, Orange and Banana menu items.

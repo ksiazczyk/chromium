@@ -1,0 +1,4 @@
+# Docerion header of div-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for div test
+summary: Expected UI Automation tree snapshot for the div test page on Windows, with groups for the unfocusable and focusable divs.

@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-mac.txt.
+type: test
+title: macOS expected accessibility tree for details-name
+summary: Expected macOS AX accessibility tree snapshot for the details-name test showing disclosure triangles and expanded states.

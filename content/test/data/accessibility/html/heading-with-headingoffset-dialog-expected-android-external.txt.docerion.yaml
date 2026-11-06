@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-dialog-expected-android-external.txt.
+type: test
+title: Expected Android external tree for the headingoffset dialog test
+summary: Expected Android accessibility tree snapshot for the headingoffset dialog test, showing a focused alert dialog containing two heading TextViews.

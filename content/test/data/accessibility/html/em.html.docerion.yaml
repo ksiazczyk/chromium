@@ -1,0 +1,4 @@
+# Docerion header of em.html.
+type: test
+title: HTML test page with an em element
+summary: HTML test page containing a sentence with an em element, used as input for the accessibility tree tests on the various platforms.

@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-win.txt.
+type: test
+title: Dialog expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the dialog HTML test page.

@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for dl test
+summary: Expected MSAA/IA2 accessibility tree for the dl.html definition list test on Windows, with document, list, text frame, and grouping roles.

@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-android-assist-data.txt.
+type: test
+title: Details name expected Android assist data tree
+summary: Expected Android assist data view hierarchy for the details name test page, capturing htmlInfo attributes of details and summary elements.

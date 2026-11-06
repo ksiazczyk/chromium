@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for dl test
+summary: Expected Android assist data snapshot describing the accessibility representation of a description list with term, description and definition.

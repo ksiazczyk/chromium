@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-android.txt.
+type: test
+title: Custom select simple expected Android accessibility tree
+summary: Expected Android accessibility tree for the custom-select-simple test, showing a menu pop up button named Fruit with value Apple.

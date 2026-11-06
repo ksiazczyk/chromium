@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-android-assist-data.txt.
+type: test
+title: Android assist data expectation for dfn
+summary: Expected Android assist data dump for the dfn element test showing text sizes, styles and HTML tag info.

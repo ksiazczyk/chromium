@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-mac.txt.
+type: test
+title: dt expected accessibility tree for Mac
+summary: Expected macOS accessibility tree snapshot for the dt.html definition list test page.

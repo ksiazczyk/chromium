@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-expected-uia-win.txt.
+type: test
+title: Custom select simple expected Windows UIA accessibility tree
+summary: Expected Windows UI Automation tree for the custom-select-simple test, describing a collapsed combo box named Fruit with value Apple.

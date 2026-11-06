@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-uia-win.txt.
+type: test
+title: Dialog expected UIA tree for Windows
+summary: Expected Windows UIA accessibility tree snapshot for the dialog HTML test page with a modal window element.

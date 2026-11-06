@@ -1,0 +1,4 @@
+# Docerion header of del-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for del.html
+summary: Expected Android accessibility tree snapshot for the del.html content deletion test.

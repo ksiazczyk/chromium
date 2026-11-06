@@ -1,0 +1,4 @@
+# Docerion header of details-name-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for details-name
+summary: Expected Blink accessibility tree snapshot for the details-name test, listing roles, names, set positions and ignored nodes.

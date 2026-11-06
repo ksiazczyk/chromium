@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for dt test
+summary: Expected external Android accessibility tree for the dt test page, with collection info and role descriptions for the term and definition.

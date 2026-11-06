@@ -1,0 +1,4 @@
+# Docerion header of em-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for em element test
+summary: Expected Windows IAccessible2 tree snapshot verifying that an em element is exposed as a text frame containing the emphasized static text.

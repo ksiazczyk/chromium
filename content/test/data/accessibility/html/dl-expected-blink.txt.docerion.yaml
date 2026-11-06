@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for dl test
+summary: Expected Blink internal accessibility tree snapshot for the description list test page, including term and definition nodes.

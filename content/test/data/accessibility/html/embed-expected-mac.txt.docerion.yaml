@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for embed element
+summary: Expected macOS accessibility tree snapshot for the embed element test page, listing an AXWebArea with nested empty groups.

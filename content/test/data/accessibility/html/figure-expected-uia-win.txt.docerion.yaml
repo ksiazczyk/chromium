@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for figure test
+summary: Expected UIA Windows accessibility tree snapshot for the figure test, showing a document with a group localized as figure containing an image named Sunspots.

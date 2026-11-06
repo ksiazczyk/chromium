@@ -1,0 +1,4 @@
+# Docerion header of em-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for em element test on Windows
+summary: Expected Windows UI Automation tree snapshot verifying that an em element is exposed as a text element containing the emphasized text.

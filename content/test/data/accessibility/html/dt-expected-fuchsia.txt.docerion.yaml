@@ -1,0 +1,4 @@
+# Docerion header of dt-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for dt test
+summary: Expected Fuchsia accessibility tree for the dt test page, listing static text labels for the Coffee term and Black hot drink definition.

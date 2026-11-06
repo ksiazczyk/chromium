@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for figure test
+summary: Expected accessibility tree snapshot in Android external format for the figure test, showing a WebView with a figure and an image described as Sunspots.

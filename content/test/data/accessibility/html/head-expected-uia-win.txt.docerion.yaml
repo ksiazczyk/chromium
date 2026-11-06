@@ -1,0 +1,4 @@
+# Docerion header of head-expected-uia-win.txt.
+type: test
+title: Head element UIA Windows accessibility expectation
+summary: Expected UIA Windows accessibility output for the head element test page, marked as skipped because the element is not mapped.

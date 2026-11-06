@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for embed element test
+summary: Expected Fuchsia accessibility tree snapshot for a page with an embed element, showing focusable and hidden nodes.

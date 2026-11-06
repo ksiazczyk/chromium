@@ -1,0 +1,4 @@
+# Docerion header of dfn-expected-win.txt.
+type: test
+title: dfn expected accessibility tree for Windows
+summary: Expected Windows IA2 accessibility tree for the dfn test page, with text frame and static text roles for the Web Browser definition.

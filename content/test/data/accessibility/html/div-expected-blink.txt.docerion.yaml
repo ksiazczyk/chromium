@@ -1,0 +1,4 @@
+# Docerion header of div-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for div test
+summary: Expected Blink accessibility tree snapshot for a page with focusable and unfocusable divs.

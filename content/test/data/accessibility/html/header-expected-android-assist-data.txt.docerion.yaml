@@ -1,0 +1,4 @@
+# Docerion header of header-expected-android-assist-data.txt.
+type: test
+title: Header element Android assist data expectation
+summary: Expected Android assist data accessibility output for the header element test page, showing the banner landmark with Chromium Browser text.

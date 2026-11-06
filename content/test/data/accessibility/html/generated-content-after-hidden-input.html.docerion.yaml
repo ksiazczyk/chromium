@@ -1,0 +1,4 @@
+# Docerion header of generated-content-after-hidden-input.html.
+type: test
+title: Generated content after hidden input test page
+summary: HTML test page that renders CSS generated content after a hidden input element.

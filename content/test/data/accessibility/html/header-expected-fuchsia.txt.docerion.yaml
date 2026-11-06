@@ -1,0 +1,4 @@
+# Docerion header of header-expected-fuchsia.txt.
+type: test
+title: Header element Fuchsia accessibility expectation
+summary: Expected Fuchsia accessibility tree for the header element test page, showing a header node with a Chromium Browser static text label.

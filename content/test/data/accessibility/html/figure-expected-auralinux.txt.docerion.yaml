@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for figure test
+summary: Expected Auralinux accessibility tree snapshot for the figure test, showing a document with a panel and an image named Sunspots.

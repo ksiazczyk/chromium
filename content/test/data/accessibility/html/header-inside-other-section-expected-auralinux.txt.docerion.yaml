@@ -1,0 +1,4 @@
+# Docerion header of header-inside-other-section-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for header inside other section test
+summary: Expected Linux (AT-SPI) accessibility tree snapshot for headers nested in article, section and main.

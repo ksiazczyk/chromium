@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for dl test on Windows
+summary: Expected UI Automation tree for the dl.html definition list test on Windows, listing document, list, list item, and group nodes with their text names.

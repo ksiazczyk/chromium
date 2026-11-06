@@ -1,0 +1,4 @@
+# Docerion header of fieldset-expected-uia-win.txt.
+type: test
+title: Fieldset expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree for the fieldset test page on Windows, listing group and text elements.

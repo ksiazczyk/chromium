@@ -1,0 +1,4 @@
+# Docerion header of disabled-with-subtree-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disabled subtree test
+summary: Expected Blink accessibility tree snapshot for a disabled button whose text content is updated to 'new'.

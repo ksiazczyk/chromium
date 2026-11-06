@@ -1,0 +1,4 @@
+# Docerion header of disabled-expected-android-assist-data.txt.
+type: test
+title: Disabled expected assist data for Android
+summary: Expected Android assist data snapshot for the disabled controls HTML test page, covering enabled and disabled checkboxes, buttons and forms.

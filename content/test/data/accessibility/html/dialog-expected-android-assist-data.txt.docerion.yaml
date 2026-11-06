@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-android-assist-data.txt.
+type: test
+title: dialog expected Android assist data tree
+summary: Expected Android assist data accessibility tree for the dialog test page, showing the dialog element with its open state and text.

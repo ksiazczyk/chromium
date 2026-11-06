@@ -1,0 +1,4 @@
+# Docerion header of figcaption-expected-android.txt.
+type: test
+title: Figcaption expected Android accessibility tree
+summary: Expected Android accessibility tree for the figcaption test page, describing two figures with images and captions.

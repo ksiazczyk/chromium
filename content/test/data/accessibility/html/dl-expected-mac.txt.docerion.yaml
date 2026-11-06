@@ -1,0 +1,4 @@
+# Docerion header of dl-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for dl test
+summary: Expected macOS accessibility tree snapshot for the dl.html definition list test, describing roles and text for the term, description, and definition elements.

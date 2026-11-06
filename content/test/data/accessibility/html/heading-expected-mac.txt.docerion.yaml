@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-mac.txt.
+type: test
+title: Heading expected Mac output
+summary: Expected macOS accessibility tree for a page containing headings h1 through h6.

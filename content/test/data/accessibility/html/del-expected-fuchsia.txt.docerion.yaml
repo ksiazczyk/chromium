@@ -1,0 +1,4 @@
+# Docerion header of del-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for del.html
+summary: Expected Fuchsia accessibility tree snapshot for the del.html content deletion test.

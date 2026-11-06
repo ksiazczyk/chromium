@@ -1,0 +1,4 @@
+# Docerion header of head-expected-win.txt.
+type: test
+title: Head element Windows accessibility expectation
+summary: Expected Windows accessibility output for the head element test page, marked as skipped because the element is not mapped.

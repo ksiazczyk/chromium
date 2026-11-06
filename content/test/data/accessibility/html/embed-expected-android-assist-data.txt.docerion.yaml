@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for embed element test
+summary: Expected Android assist data snapshot for a page with an embed element pointing to a SWF file, listing text sizes and HTML tag information.

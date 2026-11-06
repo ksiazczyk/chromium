@@ -1,0 +1,4 @@
+# Docerion header of custom-select-simple-open-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for open simple custom select
+summary: Expected Blink internal accessibility tree snapshot for the open simple custom select test page.

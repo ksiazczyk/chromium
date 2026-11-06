@@ -1,0 +1,4 @@
+# Docerion header of generated-content-in-empty-page.html.
+type: test
+title: Generated content in empty page test page
+summary: HTML test page that applies an open-quote ::before pseudo-element to all elements.

@@ -1,0 +1,4 @@
+# Docerion header of fieldset.html.
+type: test
+title: Fieldset HTML test page
+summary: HTML test page with two fieldset elements, one with a plain legend and one with a heading inside the legend.

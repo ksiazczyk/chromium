@@ -1,0 +1,4 @@
+# Docerion header of embed-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for embed element on Windows
+summary: Expected UIA accessibility tree snapshot for the embed element test page, describing a document, group and disabled pane.

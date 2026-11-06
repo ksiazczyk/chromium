@@ -1,0 +1,4 @@
+# Docerion header of delete-selection-crash-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for delete selection crash test
+summary: Expected Blink accessibility tree snapshot for the delete selection crash test page, showing a root web area with static text Done.

@@ -1,0 +1,4 @@
+# Docerion header of form-validation-message-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for form validation message test
+summary: Expected AT-SPI accessibility tree snapshot for the form validation message test on Linux, showing notification, form, label and entry nodes.

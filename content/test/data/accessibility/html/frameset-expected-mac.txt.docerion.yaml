@@ -1,0 +1,4 @@
+# Docerion header of frameset-expected-mac.txt.
+type: test
+title: Frameset expected macOS accessibility tree snapshot
+summary: Expected macOS accessibility tree for the frameset test covering iframes, deletion, insertion and mark elements.

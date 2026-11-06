@@ -1,0 +1,4 @@
+# Docerion header of dd-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the dd test
+summary: Expected Blink accessibility tree snapshot for the dd description list test page.

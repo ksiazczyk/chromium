@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-other-section-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for footers in sections
+summary: Expected Linux accessibility tree for footers inside article, section and main elements.

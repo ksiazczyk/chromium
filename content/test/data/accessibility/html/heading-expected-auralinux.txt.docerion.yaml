@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-auralinux.txt.
+type: test
+title: Heading expected Aura Linux output
+summary: Expected Linux accessibility tree for a page containing headings h1 through h6.

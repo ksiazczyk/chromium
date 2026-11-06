@@ -1,0 +1,4 @@
+# Docerion header of header-expected-auralinux.txt.
+type: test
+title: Header element Aura Linux accessibility expectation
+summary: Expected Aura Linux accessibility tree for the header element test page, showing a banner landmark with static text.

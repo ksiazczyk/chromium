@@ -1,0 +1,4 @@
+# Docerion header of figure-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for figure test
+summary: Expected macOS accessibility tree snapshot for the figure test, showing an AXImage with description Sunspots inside an AXGroup figure.

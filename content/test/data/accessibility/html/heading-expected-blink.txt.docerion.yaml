@@ -1,0 +1,4 @@
+# Docerion header of heading-expected-blink.txt.
+type: test
+title: Heading expected Blink output
+summary: Expected Blink internal accessibility tree for a page containing headings h1 through h6.
