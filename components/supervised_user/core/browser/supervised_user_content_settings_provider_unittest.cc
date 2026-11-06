@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user content settings provider unit tests
+// summary: Unit tests for the supervised user content settings provider, verifying geolocation, camera, microphone, and cookie settings propagation.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_content_settings_provider.h"
 
 #include <memory>

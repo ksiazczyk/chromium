@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature override test helper
+// summary: Provides a template that overrides a feature flag for a test suite while combining it with a parameterized test case interface.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_FEATURES_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_FEATURES_H_
 

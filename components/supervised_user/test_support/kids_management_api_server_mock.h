@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids Management API server mock for tests
+// summary: Declares a mock of the Kids Management API server for EmbeddedTestServer, with ClassifyUrl matchers, a Simpson family fixture, and configurable allow or restrict responses.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_KIDS_MANAGEMENT_API_SERVER_MOCK_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_KIDS_MANAGEMENT_API_SERVER_MOCK_H_
 

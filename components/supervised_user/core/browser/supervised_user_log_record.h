@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user log record header
+// summary: Declares SupervisedUserLogRecord, which stores supervision state needed to log UMA histograms for Family Link and locally supervised profiles.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_LOG_RECORD_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_SUPERVISED_USER_LOG_RECORD_H_
 

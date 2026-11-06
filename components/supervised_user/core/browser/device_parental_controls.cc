@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device parental controls base implementation
+// summary: Implements subscription and notification plumbing for the device parental controls interface.
+// ---
+
 #include "components/supervised_user/core/browser/device_parental_controls.h"
 
 #include <utility>

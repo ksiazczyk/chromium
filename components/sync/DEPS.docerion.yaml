@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sync Include Dependency Rules
+summary: Specifies allowed include dependencies for components/sync and requires subdirectories to declare their own DEPS rules.

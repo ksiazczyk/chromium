@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user metrics service implementation
+// summary: Records daily UMA metrics about web filter types and managed site list usage for Family Link and locally supervised users.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_metrics_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account repository unit tests
+// summary: Unit tests verifying JSON parsing of the test account repository and lookup of families by feature and members by role.
+// ---
+
 #include "components/supervised_user/test_support/account_repository.h"
 
 #include <optional>

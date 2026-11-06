@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user constants implementation
+// summary: Implements supervised user constants, histogram value helpers and display string mappings for web filter types and filtering contexts.
+// ---
+
 #include "components/supervised_user/core/common/supervised_user_constants.h"
 
 #include "base/notreached.h"

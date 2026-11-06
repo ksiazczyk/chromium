@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA mixins for supervised_user
+summary: Applies the COMMON_METADATA.chromeos and COMMON_METADATA files as mixins to supply directory metadata.

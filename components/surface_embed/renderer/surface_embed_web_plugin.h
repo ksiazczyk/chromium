@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedWebPlugin class declaration
+// summary: Declares the WebPlugin implementation that embeds a WebContents surface identified by the internal MIME type, with SurfaceEmbedHost as its browser-side counterpart.
+// ---
+
 #ifndef COMPONENTS_SURFACE_EMBED_RENDERER_SURFACE_EMBED_WEB_PLUGIN_H_
 #define COMPONENTS_SURFACE_EMBED_RENDERER_SURFACE_EMBED_WEB_PLUGIN_H_
 

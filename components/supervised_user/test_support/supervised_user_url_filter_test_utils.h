@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL filter test utilities
+// summary: Declares fake delegates, a MockUrlCheckerClient with deque-style callback resolution, and a UrlCheckerClientWrapper for testing supervised user URL filtering.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_SUPERVISED_USER_URL_FILTER_TEST_UTILS_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_SUPERVISED_USER_URL_FILTER_TEST_UTILS_H_
 

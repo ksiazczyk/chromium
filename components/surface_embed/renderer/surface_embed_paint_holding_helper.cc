@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedPaintHoldingHelper implementation
+// summary: Implements surface ID updates and paint holding fallbacks on cc::SurfaceLayer so the old surface keeps rendering until new content arrives or a timeout expires.
+// ---
+
 #include "components/surface_embed/renderer/surface_embed_paint_holding_helper.h"
 
 #include "base/functional/bind.h"

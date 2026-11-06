@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings state seeding implementation
+// summary: Implements utilities that seed Family Link settings through backend RPCs and verify the browser reaches the intended supervised user state.
+// ---
+
 #include "components/supervised_user/test_support/family_link_settings_state_management.h"
 
 #include <memory>

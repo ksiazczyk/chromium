@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.chromeos.
+type: config
+title: COMMON_METADATA.chromeos
+summary: ChromeOS-specific directory metadata assigning the cros-families-eng team and Buganizer parental controls component, with notes on mixin ordering.

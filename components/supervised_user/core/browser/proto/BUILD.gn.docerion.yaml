@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Proto library build definition for supervised user
+summary: GN build file that defines the proto_library target compiling the supervised user proto sources.

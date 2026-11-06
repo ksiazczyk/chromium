@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetcher config tests
+// summary: Unit tests for FetcherConfig service path handling, verifying static path access and template path interpolation with and without separators.
+// ---
+
 #include "components/supervised_user/core/browser/fetcher_config.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

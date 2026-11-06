@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Sync Component Metadata
+summary: Declares the issue tracker component, team contact email, and agentic review settings for the components/sync directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants shared with Java
+// summary: Defines supervised user constants exported to Java, such as the device filters help center URL.
+// ---
+
 #include "components/supervised_user/core/common/supervised_user_constants.h"
 
 // Defines constants that are exported to Java.

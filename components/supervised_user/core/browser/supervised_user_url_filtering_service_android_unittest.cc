@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android unit tests for the URL filtering service
+// summary: Parameterized Android unit tests verifying how Family Link and device parental controls web filter settings combine into the effective filtering type.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_url_filtering_service.h"
 
 #include <string>

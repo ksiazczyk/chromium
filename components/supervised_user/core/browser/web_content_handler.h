@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web content handler header
+// summary: Declares the WebContentHandler base class with platform hooks for local web approval flows, interstitial navigation, and infobar cleanup.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_WEB_CONTENT_HANDLER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_WEB_CONTENT_HANDLER_H_
 

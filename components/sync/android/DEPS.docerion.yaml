@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android sync include rules
+summary: DEPS file listing the include dependencies allowed for the sync Android component directory.

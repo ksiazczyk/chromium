@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user utilities unit tests
+// summary: Unit tests for supervised user utilities, verifying decoding and parsing of PACP parent access callback results including decoding and parsing error cases.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_utils.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Presubmit Check Tests
+summary: Unit tests that verify the proto visitor presubmit check warns and stays silent in the appropriate cases.

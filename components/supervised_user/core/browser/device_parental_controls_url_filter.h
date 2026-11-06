@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device parental controls URL filter class declaration
+// summary: Declares DeviceParentalControlsUrlFilter, a filtering delegate that reads configuration from the device and checks URLs without end user credentials.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_DEVICE_PARENTAL_CONTROLS_URL_FILTER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_DEVICE_PARENTAL_CONTROLS_URL_FILTER_H_
 

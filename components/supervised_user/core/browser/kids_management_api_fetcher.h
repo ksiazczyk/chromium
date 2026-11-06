@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids Management API fetcher declarations
+// summary: Declares fetcher type aliases and factory functions for calling the Kids Management API to classify URLs, list family members, and create permission requests.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_KIDS_MANAGEMENT_API_FETCHER_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_KIDS_MANAGEMENT_API_FETCHER_H_
 

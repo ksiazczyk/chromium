@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time guard for supervised users build flag
+// summary: Header that raises a compile-time error when supervised user source files are included without the ENABLE_SUPERVISED_USERS build flag enabled.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_COMMON_SUPERVISED_USERS_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_COMMON_SUPERVISED_USERS_H_
 

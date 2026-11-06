@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Kids management request and response protobuf messages
+// summary: Defines request and response messages for listing family members, URL classification, permission requests and website filtering settings.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

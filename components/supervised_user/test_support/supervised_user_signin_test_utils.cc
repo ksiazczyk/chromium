@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user sign-in test helpers implementation
+// summary: Implements helpers that update an account's supervision status and family info fetch status through the IdentityManager in tests.
+// ---
+
 #include "components/supervised_user/test_support/supervised_user_signin_test_utils.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test account repository implementation
+// summary: Implements a file-based repository that loads test account families from JSON and returns random families matching a requested feature.
+// ---
+
 #include "components/supervised_user/test_support/account_repository.h"
 
 #include <map>

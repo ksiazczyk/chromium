@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the surface_embed renderer directory
+summary: DEPS file listing the include dependencies permitted for code in the surface_embed renderer directory, such as cc, viz, blink, and skia.

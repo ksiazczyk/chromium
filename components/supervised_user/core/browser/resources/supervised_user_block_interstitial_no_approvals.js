@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-approvals block interstitial JavaScript
+// summary: Connects the back and learn-more buttons to the supervised user error page controller and focuses the page for screen readers.
+// ---
+
 /** Return the element with the given id. */
 function $(id) {
   return document.body.querySelector(`#${id}`);

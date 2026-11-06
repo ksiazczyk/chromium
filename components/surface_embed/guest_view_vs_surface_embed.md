@@ -1,3 +1,9 @@
+---
+type: reference
+title: GuestView vs SurfaceEmbed
+summary: Compares the GuestView and SurfaceEmbed mechanisms for embedding web content in Chromium, detailing differences in ownership, containers, scripting APIs, and capabilities.
+---
+
 # GuestView vs. SurfaceEmbed
 
 `GuestView` and `SurfaceEmbed` are two different mechanisms in Chromium for

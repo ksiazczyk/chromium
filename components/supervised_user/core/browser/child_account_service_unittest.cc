@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child account service unit tests
+// summary: Unit tests for child account detection and authentication state handling using a test identity environment.
+// ---
+
 #include "components/supervised_user/core/browser/child_account_service.h"
 
 #include <memory>

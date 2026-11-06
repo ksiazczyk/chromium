@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for supervised user common
+summary: Defines GN build targets for the supervised user common library, including a buildflags header, the common static library, the features source set and unit tests.

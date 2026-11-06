@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Supervised user build flags
+summary: Declares the enable_supervised_users GN build argument that enables supervision for Family Link users on supported platforms.

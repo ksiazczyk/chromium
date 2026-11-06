@@ -2,6 +2,12 @@
    Use of this source code is governed by a BSD-style license that can be
    found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Supervised user block interstitial styles
+summary: CSS for the v3 block interstitial covering buttons, custodian information, dark theme colors and narrow-screen layouts.
+*/
+
 body {
   --custodian-name-color: #333333;
   --custodian-email-color: #5f6368;

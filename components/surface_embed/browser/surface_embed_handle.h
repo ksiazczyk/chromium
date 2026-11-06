@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedHandle alias header
+// summary: Declares SurfaceEmbedHandle as an alias of GuestContentsHandle, with a TODO to move the handle implementation into this component later.
+// ---
+
 #ifndef COMPONENTS_SURFACE_EMBED_BROWSER_SURFACE_EMBED_HANDLE_H_
 #define COMPONENTS_SURFACE_EMBED_BROWSER_SURFACE_EMBED_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op device parental controls implementation
+// summary: Provides a default DeviceParentalControls implementation in which all device-level parental control features are disabled.
+// ---
+
 #include "components/supervised_user/core/browser/device_parental_controls_noop_impl.h"
 
 #include "base/callback_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user metrics service unit tests
+// summary: Unit tests verifying that supervised user metrics are recorded per day, updated on new days, and skipped for unsupervised users.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_metrics_service.h"
 
 #include <memory>

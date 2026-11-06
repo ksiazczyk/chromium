@@ -1,3 +1,9 @@
+---
+type: readme
+title: Supervised User component overview
+summary: Describes the multiprocess layered component providing cross-platform services for supervised users in Chrome and outlines its core directory structure.
+---
+
 Supervised User is a multiprocess [layered
 component](https://sites.google.com/a/chromium.org/dev/developers/design-documents/layered-components-design) that supports cross-platform access to services and
 features that target supervised users in Chrome, including metrics

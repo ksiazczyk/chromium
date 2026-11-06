@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device parental controls URL filter implementation
+// summary: Implements a URL filtering delegate that derives web filter type from device parental controls and checks URLs against a remote SafeSearch service.
+// ---
+
 #include "components/supervised_user/core/browser/device_parental_controls_url_filter.h"
 
 #include <memory>

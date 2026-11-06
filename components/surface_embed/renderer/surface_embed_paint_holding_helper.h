@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedPaintHoldingHelper class declaration
+// summary: Declares the helper managing paint holding for a cc::SurfaceLayer, analogous to ChildFrameCompositingHelper's OOPIF logic, to prevent visual flashes during navigation.
+// ---
+
 #ifndef COMPONENTS_SURFACE_EMBED_RENDERER_SURFACE_EMBED_PAINT_HOLDING_HELPER_H_
 #define COMPONENTS_SURFACE_EMBED_RENDERER_SURFACE_EMBED_PAINT_HOLDING_HELPER_H_
 

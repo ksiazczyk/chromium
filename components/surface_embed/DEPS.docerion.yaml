@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Surface Embed DEPS include rules
+summary: Defines include rules for the surface_embed component, restricting dependencies to shared common code and requiring explicit DEPS entries for browser or renderer code.

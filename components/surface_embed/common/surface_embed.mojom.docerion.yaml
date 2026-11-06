@@ -1,0 +1,4 @@
+# Docerion header of surface_embed.mojom.
+type: source
+title: SurfaceEmbed Mojo interface definitions
+summary: Defines the browser-renderer Mojo interfaces for embedding child WebContents surfaces in embed elements, covering focus, pinch zoom, and render throttling.

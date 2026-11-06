@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher metrics declarations
+// summary: Declares ProtoFetcherMetrics and CumulativeProtoFetcherMetrics classes that record fetcher histograms based on the fetcher configuration.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PROTO_FETCHER_METRICS_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_PROTO_FETCHER_METRICS_H_
 

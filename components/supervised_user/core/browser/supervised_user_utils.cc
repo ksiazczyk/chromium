@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user utilities implementation
+// summary: Implements supervised user utilities such as parsing PACP parent approval callbacks, normalizing URLs, and building the parent access widget URL.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_utils.h"
 
 #include <optional>

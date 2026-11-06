@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user log record unit tests
+// summary: Unit tests for SupervisedUserLogRecord covering supervision segments, web filter types, and the UMA histograms emitted for various account states.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_log_record.h"
 
 #include <memory>

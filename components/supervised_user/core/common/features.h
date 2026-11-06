@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user feature flag declarations
+// summary: Declares supervised user feature flags and helpers such as IsLocalWebApprovalsEnabled for local parent approvals and subframe approval support.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_COMMON_FEATURES_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_COMMON_FEATURES_H_
 

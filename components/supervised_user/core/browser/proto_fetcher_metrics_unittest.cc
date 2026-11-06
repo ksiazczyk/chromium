@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Proto fetcher metrics unit tests
+// summary: Unit tests verifying metric construction from fetcher configs and recording of status, latency, auth error, and retry count histograms.
+// ---
+
 #include "components/supervised_user/core/browser/proto_fetcher_metrics.h"
 
 #include <optional>

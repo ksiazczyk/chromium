@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings sync data type controller implementation
+// summary: Implements the sync data type controller that enables or disables supervised user settings sync based on the profile's parental controls state.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_settings_data_type_controller.h"
 
 #include "base/functional/bind.h"

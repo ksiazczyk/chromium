@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for supervised user interstitial resources
+summary: Defines GN targets that preprocess and optionally minify the supervised user block interstitial JavaScript for WebUI bundling.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the surface_embed browser component
+summary: Defines the static library for the surface embed browser code and the browser_tests source set, explaining the static library choice keeps mojom symbols visible to the final linker.

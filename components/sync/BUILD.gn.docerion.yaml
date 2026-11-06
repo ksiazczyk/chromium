@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync Build Targets and Test Support
+summary: Defines GN build targets for the sync component, including the aggregate sync group and a test support library with fakes and mocks.

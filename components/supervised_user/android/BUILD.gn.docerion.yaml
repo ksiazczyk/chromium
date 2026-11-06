@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Supervised user Android build targets
+summary: GN build file defining JNI header generation, Java constants, and the content filters observer bridge Android library for the supervised user component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings service implementation
+// summary: Implements syncing of Family Link user settings from the sync server, mapping atomic and split settings to browser preferences and website approvals.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_settings_service.h"
 
 #include <stddef.h>

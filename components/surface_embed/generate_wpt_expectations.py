@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Generate WPT expectations for surface-embed
+# summary: Python script that generates the FlagExpectations/surface-embed WPT file from wpt.fyi results, filtering discrepancies between content_shell baselines and real Chrome.
+# ---
+
 """Generates FlagExpectations/surface-embed from wpt.fyi.
 
 This script generates the third_party/blink/web_tests/FlagExpectations/surface-embed

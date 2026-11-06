@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Transaction data protobuf for local web approval
+// summary: Defines TransactionData and LocalApprovalPayload messages passed from Chrome to the PACP widget during local web approval flows.
+// ---
+
 syntax = "proto3";
 
 package kids.platform.parentaccess.proto;

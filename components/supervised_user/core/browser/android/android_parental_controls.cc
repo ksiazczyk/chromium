@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidParentalControls implementation
+// summary: Implements the Android parental controls class that reports web filtering, incognito, and SafeSearch state from content filter observer bridges.
+// ---
+
 #include "components/supervised_user/core/browser/android/android_parental_controls.h"
 
 #include <string>

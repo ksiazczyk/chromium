@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link user capabilities implementation
+// summary: Implements an IdentityManager observer that tracks parental controls and family member info capabilities of the primary account and notifies capability changes.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_user_capabilities.h"
 
 #include <array>

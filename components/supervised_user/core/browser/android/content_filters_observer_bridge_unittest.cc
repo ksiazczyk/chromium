@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentFiltersObserverBridge unit tests
+// summary: Checks that observers receive notifications when the bridged content filters setting is toggled enabled or disabled.
+// ---
+
 #include "components/supervised_user/core/browser/android/content_filters_observer_bridge.h"
 
 #include "components/supervised_user/core/common/supervised_user_constants.h"

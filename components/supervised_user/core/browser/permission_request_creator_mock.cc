@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request creator mock implementation
+// summary: Mock PermissionRequestCreator that records URL access requests and writes approved or rejected hosts into the FamilyLink settings service for tests.
+// ---
+
 #include "components/supervised_user/core/browser/permission_request_creator_mock.h"
 
 #include <memory>

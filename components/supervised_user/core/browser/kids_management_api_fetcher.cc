@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids Management API fetcher implementation
+// summary: Implements factory functions that create fetchers for the Kids Management API, covering URL classification, family member listing, and permission requests.
+// ---
+
 #include "components/supervised_user/core/browser/kids_management_api_fetcher.h"
 
 #include "base/strings/strcat.h"

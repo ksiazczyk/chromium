@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user sign-in test helpers
+// summary: Declares helpers to modify supervision status and family info fetch status for a signed-in account via IdentityManager.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_SUPERVISED_USER_SIGNIN_TEST_UTILS_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_SUPERVISED_USER_SIGNIN_TEST_UTILS_H_
 

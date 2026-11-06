@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL checker client implementation
+// summary: Implements a URL checker client that classifies URLs through the Kids Management API, mapping responses to safe search classifications per platform fetcher configuration.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_url_checker_client.h"
 
 #include <memory>

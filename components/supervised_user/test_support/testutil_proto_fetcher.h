@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto fetcher string specialization
+// summary: Declares the std::string specialization of TypedFetchProcess::OnResponse for fetchers that do not parse the response message.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_TESTUTIL_PROTO_FETCHER_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_TESTUTIL_PROTO_FETCHER_H_
 

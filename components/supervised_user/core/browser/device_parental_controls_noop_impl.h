@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device parental controls no-op implementation
+// summary: Declares a no-op DeviceParentalControls implementation offering browser-neutral behavior on platforms that do not support parental controls.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_CORE_BROWSER_DEVICE_PARENTAL_CONTROLS_NOOP_IMPL_H_
 #define COMPONENTS_SUPERVISED_USER_CORE_BROWSER_DEVICE_PARENTAL_CONTROLS_NOOP_IMPL_H_
 

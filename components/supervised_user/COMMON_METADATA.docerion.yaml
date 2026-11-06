@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for supervised_user
+summary: Declares the monorail component, team email and Buganizer component used for issues in the supervised_user directory.

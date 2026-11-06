@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user log record implementation
+// summary: Determines a user's supervision segment, web filter type, and permission toggle states to emit UMA record histograms for supervised profiles.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_log_record.h"
 
 #include <optional>

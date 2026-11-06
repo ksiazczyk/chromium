@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link settings data type controller unit tests
+// summary: Unit tests verifying precondition state, transport mode delegate, and sync precondition change notifications for the Family Link settings controller.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_settings_data_type_controller.h"
 
 #include "base/functional/callback_helpers.h"

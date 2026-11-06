@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user service unit tests
+// summary: Unit tests for the supervised user service covering approval requests, URL blocking behavior and managed site list metrics recorded on preference changes.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_service.h"
 
 #include <memory>

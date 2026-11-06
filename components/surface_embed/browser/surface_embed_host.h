@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedHost class declaration
+// summary: Declares the browser-process counterpart of the SurfaceEmbedWebPlugin, which exposes the child WebContents surface and synchronizes visual properties, focus and accessibility.
+// ---
+
 #ifndef COMPONENTS_SURFACE_EMBED_BROWSER_SURFACE_EMBED_HOST_H_
 #define COMPONENTS_SURFACE_EMBED_BROWSER_SURFACE_EMBED_HOST_H_
 

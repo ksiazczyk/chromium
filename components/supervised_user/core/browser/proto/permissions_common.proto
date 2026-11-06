@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Permission request state and family event enums
+// summary: Defines the PermissionRequestState and FamilyEventType enums used by the kids management permission protos.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user pref store implementation
+// summary: Implements a pref store that maps Family Link settings and device parental controls into supervised user preference values and notifies observers of changes.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_pref_store.h"
 
 #include <memory>

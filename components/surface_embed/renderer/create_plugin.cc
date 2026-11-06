@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbed plugin creation entry point
+// summary: Implements MaybeCreatePlugin, which creates a SurfaceEmbedWebPlugin when the SurfaceEmbed feature is enabled and the internal plugin MIME type matches.
+// ---
+
 #include "components/surface_embed/renderer/create_plugin.h"
 
 #include "base/feature_list.h"

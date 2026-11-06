@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Light theme error page illustration
+summary: SVG illustration shown on the supervised user block interstitial error page in the light color scheme.
+-->
+
 <svg width="224" height="224" viewBox="0 0 224 224" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_5909_157435)">
 <path d="M79.1079 205.546C30.444 192.926 8.91804 137.386 20.0498 94.3237C31.1851 51.2709 75.4438 19.711 124.111 32.3408C172.775 44.9613 205.296 91.2844 194.164 134.347C183.032 177.409 127.766 218.179 79.1114 205.555L79.1079 205.546Z" fill="#F2F2F2"/>

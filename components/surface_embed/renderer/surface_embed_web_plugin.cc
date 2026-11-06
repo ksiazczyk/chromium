@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedWebPlugin implementation
+// summary: Implements the blink WebPlugin that embeds a WebContents surface via a data-content-id attribute, handling geometry, input, accessibility, and the mojo host connection.
+// ---
+
 #include "components/surface_embed/renderer/surface_embed_web_plugin.h"
 
 #include "base/notimplemented.h"

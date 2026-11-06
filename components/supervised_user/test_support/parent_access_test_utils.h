@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access callback test helpers
+// summary: Declares helpers returning base64 encoded approval and resize results for the local web approvals callback in tests.
+// ---
+
 #ifndef COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_PARENT_ACCESS_TEST_UTILS_H_
 #define COMPONENTS_SUPERVISED_USER_TEST_SUPPORT_PARENT_ACCESS_TEST_UTILS_H_
 

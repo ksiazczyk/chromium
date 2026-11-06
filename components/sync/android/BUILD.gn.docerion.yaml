@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android sync component build file
+summary: GN build file defining the sync Android Java library, JNI header generation, and Java enum and preference generation targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kids Management API server mock implementation
+// summary: Implements an embedded test server mock for the Kids Management API that serves family member lists and URL classification responses.
+// ---
+
 #include "components/supervised_user/test_support/kids_management_api_server_mock.h"
 
 #include <memory>

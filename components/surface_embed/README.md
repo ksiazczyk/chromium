@@ -1,3 +1,11 @@
+---
+type: readme
+title: Surface Embed
+summary: Describes the SurfaceEmbed mechanism for embedding a WebContents inside another via a blink::WebPlugin, covering its overview, architecture, components, and usage.
+relations:
+  - references /components/guest_contents/README.md
+---
+
 # Surface Embed
 
 `//components/surface_embed` implements a mechanism to embed

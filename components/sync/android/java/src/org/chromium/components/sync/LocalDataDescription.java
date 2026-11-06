@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataDescription
+// summary: Java mirror of the native LocalDataDescription struct that summarizes local sync data items and domains for UI display.
+// ---
+
 package org.chromium.components.sync;
 
 import androidx.annotation.VisibleForTesting;
