@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http2PriorityDependencies class declaration
+// summary: Declares Http2PriorityDependencies, a helper that maps SPDY priorities to HTTP/2 stream dependencies and returns dependency updates for stream creation and priority changes.
+// ---
+
 #ifndef NET_SPDY_HTTP2_PRIORITY_DEPENDENCIES_H_
 #define NET_SPDY_HTTP2_PRIORITY_DEPENDENCIES_H_
 

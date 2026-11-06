@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unix domain client socket unit tests
+// summary: Tests connecting, reading and writing over Unix domain client sockets against a local Unix domain server socket.
+// ---
+
 #include "net/socket/unix_domain_client_socket_posix.h"
 
 #include <unistd.h>

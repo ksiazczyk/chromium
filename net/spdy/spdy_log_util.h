@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPDY NetLog utilities header
+// summary: Declares NetLog helpers for eliding GOAWAY debug data and SPDY header blocks when logging.
+// ---
+
 #ifndef NET_SPDY_SPDY_LOG_UTIL_H_
 #define NET_SPDY_SPDY_LOG_UTIL_H_
 

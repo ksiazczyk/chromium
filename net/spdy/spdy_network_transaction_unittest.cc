@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SPDY network transaction end-to-end tests
+// summary: Extensive end-to-end tests driving HTTP network transactions over SPDY sessions, covering request and response flows, priorities, proxies, and errors.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketPool interface
+// summary: Declares the ClientSocketPool interface and layered pool interfaces for limiting open sockets, managing idle persistent sockets and proxy auth callbacks.
+// ---
+
 #ifndef NET_SOCKET_CLIENT_SOCKET_POOL_H_
 #define NET_SOCKET_CLIENT_SOCKET_POOL_H_
 

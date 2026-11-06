@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport client socket unit tests
+// summary: Unit tests for transport client sockets, exercising TCP connection setup, accept flow, and NetLog events against a local loopback server socket.
+// ---
+
 #include "net/socket/transport_client_socket_test_util.h"
 
 #include <string>

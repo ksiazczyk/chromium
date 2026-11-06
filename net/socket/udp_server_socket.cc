@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP server socket implementation
+// summary: Implements UDPServerSocket, a UDP-based server socket supporting listen, address reuse, broadcast, multicast group management and datagram send/receive.
+// ---
+
 #include "net/socket/udp_server_socket.h"
 
 #include <utility>

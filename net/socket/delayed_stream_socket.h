@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedStreamSocket class declaration
+// summary: Declares a stream socket wrapper that models realistic network delay and throughput limits via intermediate bottleneck buffers and bandwidth throttles.
+// ---
+
 #ifndef NET_SOCKET_DELAYED_STREAM_SOCKET_H_
 #define NET_SOCKET_DELAYED_STREAM_SOCKET_H_
 

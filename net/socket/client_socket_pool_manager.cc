@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketPoolManager implementation
+// summary: Implements socket pool limits and InitSocketPoolHelper, which initializes socket handles for HTTP requests using proxy, SSL and privacy settings.
+// ---
+
 #include "net/socket/client_socket_pool_manager.h"
 
 #include <array>

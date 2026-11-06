@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX UDP socket implementation
+// summary: Implements UDPSocketPosix with platform calls for binding, connecting and transferring UDP datagrams, including recvmmsg batching and multicast support.
+// ---
+
 #include "net/socket/udp_socket_posix.h"
 
 #include "build/build_config.h"

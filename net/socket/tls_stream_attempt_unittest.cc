@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TLS stream attempt unit tests
+// summary: Unit tests for TlsStreamAttempt covering connection completion, connect timing metrics, SSL configuration and service endpoint handling.
+// ---
+
 #include "net/socket/tls_stream_attempt.h"
 
 #include <memory>

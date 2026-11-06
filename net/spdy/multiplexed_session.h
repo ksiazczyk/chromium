@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiplexed session base class and handle
+// summary: Declares MultiplexedSession, the base interface for SPDY and QUIC sessions, and MultiplexedSessionHandle, a handle that remains valid after the session is deleted.
+// ---
+
 #ifndef NET_SPDY_MULTIPLEXED_SESSION_H_
 #define NET_SPDY_MULTIPLEXED_SESSION_H_
 

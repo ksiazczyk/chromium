@@ -13,6 +13,12 @@
 //
 // See https://crbug.com/621176 for more details.
 
+// ---docerion
+// type: source
+// title: SSL server socket interface
+// summary: Declares the SSLServerSocket and SSLServerContext interfaces plus factory functions for creating SSL server socket contexts.
+// ---
+
 #ifndef NET_SOCKET_SSL_SERVER_SOCKET_H_
 #define NET_SOCKET_SSL_SERVER_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPSocket platform-independent header
+// summary: Selects the platform-specific TCPSocket typedef, mapping to TCPSocketWin on Windows and TCPSocketPosix on POSIX and Fuchsia builds.
+// ---
+
 #ifndef NET_SOCKET_TCP_SOCKET_H_
 #define NET_SOCKET_TCP_SOCKET_H_
 

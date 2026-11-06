@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport client socket pool interface
+// summary: Declares TransportClientSocketPool, which establishes connections via ConnectJobs and maintains idle persistent sockets with per-group limits.
+// ---
+
 #ifndef NET_SOCKET_TRANSPORT_CLIENT_SOCKET_POOL_H_
 #define NET_SOCKET_TRANSPORT_CLIENT_SOCKET_POOL_H_
 

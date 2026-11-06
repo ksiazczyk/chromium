@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket pool additional capacity unit tests
+// summary: Unit tests for SocketPoolAdditionalCapacity covering feature-flag driven creation, invalid parameter handling and expandability transitions before allocation and after release.
+// ---
+
 #include "net/socket/socket_pool_additional_capacity.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket endpoint lock manager
+// summary: Declares WebSocketEndpointLockManager and EndpointLock, which throttle WebSocket connections to the same endpoint per RFC 6455.
+// ---
+
 #ifndef NET_SOCKET_WEBSOCKET_ENDPOINT_LOCK_MANAGER_H_
 #define NET_SOCKET_WEBSOCKET_ENDPOINT_LOCK_MANAGER_H_
 

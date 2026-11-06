@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySessionKey implementation
+// summary: Implements SpdySessionKey, which identifies SPDY sessions by host, privacy mode, proxy chain, session usage, socket tag, and network context.
+// ---
+
 #include "net/spdy/spdy_session_key.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform socket creation implementation
+// summary: Implements CreatePlatformSocket, creating sockets via WSASocket on Windows and socket() on POSIX and Fuchsia systems.
+// ---
+
 #include "net/socket/socket_descriptor.h"
 
 #include "build/build_config.h"

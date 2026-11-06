@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyStream implementation
+// summary: Implements SpdyStream, a single stream on a SPDY session, including header and data buffer production, window updates and net logging.
+// ---
+
 #include "net/spdy/spdy_stream.h"
 
 #include <algorithm>

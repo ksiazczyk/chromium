@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS ephemeral port randomizer implementation
+// summary: Implements random selection of ephemeral TCP source ports on macOS, avoiding recently used ports per peer and reading the port range from sysctl.
+// ---
+
 #include "net/socket/ephemeral_port_randomizer_mac.h"
 
 #include <sys/sysctl.h>

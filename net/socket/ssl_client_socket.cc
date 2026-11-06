@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client socket base implementation
+// summary: Implements shared SSLClientSocket logic, including connect result histograms for ECH and Trust Anchor IDs and NetLog params for cached client certs.
+// ---
+
 #include "net/socket/ssl_client_socket.h"
 
 #include <string>

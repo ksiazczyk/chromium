@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketTransportClientSocketPool unit tests
+// summary: Extensive unit tests for the WebSocket transport client socket pool, parameterized on Happy Eyeballs v2 being enabled or disabled.
+// ---
+
 #include "net/socket/websocket_transport_client_socket_pool.h"
 
 #include <algorithm>

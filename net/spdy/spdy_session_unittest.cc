@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySession unit tests
+// summary: Extensive test suite for SpdySession covering streams, settings, flow control, proxies, certificate requirements and session lifecycle.
+// ---
+
 #include "net/spdy/spdy_session.h"
 
 #include <algorithm>

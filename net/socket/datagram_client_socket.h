@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatagramClientSocket interface
+// summary: Declares the DatagramClientSocket abstract interface for UDP client sockets, including connect variants and network binding.
+// ---
+
 #ifndef NET_SOCKET_DATAGRAM_CLIENT_SOCKET_H_
 #define NET_SOCKET_DATAGRAM_CLIENT_SOCKET_H_
 

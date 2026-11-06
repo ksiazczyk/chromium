@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket descriptor type and platform socket creation
+// summary: Defines the platform-specific SocketDescriptor typedef, the invalid socket constant, and declares CreatePlatformSocket.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_DESCRIPTOR_H_
 #define NET_SOCKET_SOCKET_DESCRIPTOR_H_
 

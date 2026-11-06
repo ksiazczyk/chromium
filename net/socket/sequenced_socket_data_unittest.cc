@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedSocketData unit tests
+// summary: Unit tests for the SequencedSocketData test utility covering sequenced reads and writes, including reentrant operation scenarios.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

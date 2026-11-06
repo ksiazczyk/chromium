@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadMultiple emulator header
+// summary: Declares ReadMultipleEmulator, a temporary helper that emulates ReadMultiple via Read for datagram sockets lacking native support.
+// ---
+
 #ifndef NET_SOCKET_READ_MULTIPLE_EMULATOR_H_
 #define NET_SOCKET_READ_MULTIPLE_EMULATOR_H_
 

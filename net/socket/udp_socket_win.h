@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP socket for Windows
+// summary: Declares the Windows UDP socket implementation and the QWAVE API wrapper used to set packet priorities via DSCP flows.
+// ---
+
 #ifndef NET_SOCKET_UDP_SOCKET_WIN_H_
 #define NET_SOCKET_UDP_SOCKET_WIN_H_
 

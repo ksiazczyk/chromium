@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect job test delegate utility
+// summary: Provides TestConnectJobDelegate, a helper that runs connect jobs in tests and captures results, sockets and proxy auth challenges.
+// ---
+
 #include "net/socket/connect_job_test_util.h"
 
 #include <utility>

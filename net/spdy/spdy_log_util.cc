@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPDY NetLog utilities implementation
+// summary: Implements NetLog helpers that elide GOAWAY debug data and SPDY header block values according to the capture mode.
+// ---
+
 #include "net/spdy/spdy_log_util.h"
 
 #include <string_view>

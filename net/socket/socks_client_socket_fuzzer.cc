@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SOCKS client socket fuzzer
+// summary: Fuzzing harness that exercises the SOCKS4 handshake of SOCKSClientSocket using a FuzzedSocket and a mock host resolver.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

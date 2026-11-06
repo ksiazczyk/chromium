@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdyHttpStream unit tests
+// summary: Unit tests for SpdyHttpStream covering load timing, uploads, response reading, and stream cancellation over SPDY sessions.
+// ---
+
 
 #include "net/spdy/spdy_http_stream.h"
 

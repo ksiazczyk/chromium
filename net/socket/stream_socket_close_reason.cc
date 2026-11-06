@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream socket close reason to string conversion
+// summary: Maps StreamSocketCloseReason enum values to human-readable string names for logging and diagnostics.
+// ---
+
 #include "net/socket/stream_socket_close_reason.h"
 
 #include <string_view>

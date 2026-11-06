@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketTransportClientSocketPool implementation
+// summary: Implements the WebSocket-specific client socket pool, handling socket requests, stalled request queues, and endpoint unlocking through the WebSocketEndpointLockManager.
+// ---
+
 #include "net/socket/websocket_transport_client_socket_pool.h"
 
 #include <algorithm>

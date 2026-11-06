@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SocketBIOAdapter unit tests
+// summary: Tests BIO read and write behavior, error replay, blocking semantics, and ReadIfReady support for the SocketBIOAdapter.
+// ---
+
 #include "net/socket/socket_bio_adapter.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Http2PriorityDependencies unit tests
+// summary: Unit tests for Http2PriorityDependencies verifying parent, weight, and exclusive flags for stream creation, priority updates, and destruction across priority bands.
+// ---
+
 #include "net/spdy/http2_priority_dependencies.h"
 
 #include <algorithm>

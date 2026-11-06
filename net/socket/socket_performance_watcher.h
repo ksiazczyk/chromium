@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket performance watcher interface
+// summary: Defines the SocketPerformanceWatcher base class for recording per-socket statistics and receiving transport layer RTT updates and connection change notifications.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_PERFORMANCE_WATCHER_H_
 #define NET_SOCKET_SOCKET_PERFORMANCE_WATCHER_H_
 

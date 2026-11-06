@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP socket unit tests
+// summary: Unit tests covering UDPSocket behavior across platforms, including bind, connect, DSCP and ECN handling, multicast and global socket limits.
+// ---
+
 #include "net/socket/udp_socket.h"
 
 #include <algorithm>

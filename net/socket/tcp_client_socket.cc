@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP client socket implementation
+// summary: Implements TCPClientSocket, handling binding, connecting across address lists, keep-alive and no-delay options, and suspend event observation.
+// ---
+
 #include "net/socket/tcp_client_socket.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyStream test delegate utilities declarations
+// summary: Declares test delegate classes for SpdyStream, including base functionality for waiting on close, draining data and inspecting headers.
+// ---
+
 #ifndef NET_SPDY_SPDY_STREAM_TEST_UTIL_H_
 #define NET_SPDY_SPDY_STREAM_TEST_UTIL_H_
 

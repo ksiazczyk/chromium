@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket pool additional capacity implementation
+// summary: Implements randomized additional TCP socket pool capacity to prevent cross-site expandability tracking, including expandability transitions and histogram logging.
+// ---
+
 #include "net/socket/socket_pool_additional_capacity.h"
 
 #include "base/feature_list.h"

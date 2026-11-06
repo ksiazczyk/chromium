@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP connect job implementation
+// summary: Implements TcpConnectJob, managing TCP connection attempts with DNS endpoint results, optimistic DNS, stale connector promotion, and ECH support.
+// ---
+
 #include "net/socket/tcp_connect_job.h"
 
 #include <algorithm>

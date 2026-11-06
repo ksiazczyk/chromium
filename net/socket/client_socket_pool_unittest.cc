@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSocketPool GroupId unit tests
+// summary: Unit tests verifying ClientSocketPool GroupId ordering, equality and string conversion across ports, schemes, privacy modes, DNS policies and networks.
+// ---
+
 #include "net/socket/client_socket_pool.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect job factory unit tests
+// summary: Unit tests verifying ConnectJobFactory creates the right connect job type and parameters for various endpoints, proxies and ALPN modes.
+// ---
+
 #include "net/socket/connect_job_factory.h"
 
 #include <memory>

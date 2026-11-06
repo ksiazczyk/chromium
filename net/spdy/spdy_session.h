@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySession class declaration
+// summary: Declares the SpdySession class and related constants such as frame chunk sizes, initial window size, and stream ID limits for HTTP/2 sessions.
+// ---
+
 #ifndef NET_SPDY_SPDY_SESSION_H_
 #define NET_SPDY_SPDY_SESSION_H_
 

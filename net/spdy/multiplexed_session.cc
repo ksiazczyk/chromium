@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiplexed session handle implementation
+// summary: Implements MultiplexedSessionHandle, which caches SSL info and forwards remote endpoint and ALPS Accept-CH queries to a multiplexed SPDY or QUIC session.
+// ---
+
 #include "net/spdy/multiplexed_session.h"
 
 #include <string_view>

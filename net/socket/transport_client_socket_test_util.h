@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport client socket test helper declarations
+// summary: Declares test helpers for sending requests and responses and draining data over StreamSocket instances.
+// ---
+
 #ifndef NET_SOCKET_TRANSPORT_CLIENT_SOCKET_TEST_UTIL_H_
 #define NET_SOCKET_TRANSPORT_CLIENT_SOCKET_TEST_UTIL_H_
 

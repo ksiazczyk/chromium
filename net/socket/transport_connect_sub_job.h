@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport connect sub job declarations
+// summary: Declares TransportConnectSubJob, which attempts connections to a subset of addresses on behalf of a parent transport connect job.
+// ---
+
 #ifndef NET_SOCKET_TRANSPORT_CONNECT_SUB_JOB_H_
 #define NET_SOCKET_TRANSPORT_CONNECT_SUB_JOB_H_
 

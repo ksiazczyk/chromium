@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP client socket declarations
+// summary: Declares the UDP client socket class implementing DatagramClientSocket with network binding, buffer sizing, and multicast interface options.
+// ---
+
 #ifndef NET_SOCKET_UDP_CLIENT_SOCKET_H_
 #define NET_SOCKET_UDP_CLIENT_SOCKET_H_
 

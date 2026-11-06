@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed server socket implementation
+// summary: Implements a ServerSocket that uses FuzzedDataProvider to asynchronously accept a single connection backed by fuzzed input.
+// ---
+
 #include "net/socket/fuzzed_server_socket.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SocketTag unit tests
+// summary: Tests SocketTag comparison operators and, on Android, verifies that applying a tag attributes connect and send traffic to the expected tag and UID.
+// ---
+
 #include "net/socket/socket_tag.h"
 
 #include "build/build_config.h"

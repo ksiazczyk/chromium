@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzedDatagramClientSocket implementation
+// summary: Implements a datagram client socket for fuzzers whose connect, read and write outcomes and returned data are driven by a FuzzedDataProvider.
+// ---
+
 #include "net/socket/fuzzed_datagram_client_socket.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

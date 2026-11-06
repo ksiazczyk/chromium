@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX socket class header
+// summary: Declares SocketPosix, a class providing asynchronous read and write operations on top of the POSIX socket API for AF_INET, AF_INET6 and AF_UNIX addresses.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_POSIX_H_
 #define NET_SOCKET_SOCKET_POSIX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http2PriorityDependencies implementation
+// summary: Implements Http2PriorityDependencies, which maintains SPDY priority lists to compute HTTP/2 stream dependency parents, weights, and updates on stream creation, change, and destruction.
+// ---
+
 #include "net/spdy/http2_priority_dependencies.h"
 
 #include <array>

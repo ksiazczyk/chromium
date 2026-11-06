@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SPDY HTTP utilities unit tests
+// summary: Unit tests for SPDY HTTP utilities covering priority conversion, request header creation, and response header conversion ordering.
+// ---
+
 
 #include "net/spdy/spdy_http_utils.h"
 

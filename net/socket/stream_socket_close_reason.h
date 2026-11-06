@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream socket close reason enum
+// summary: Defines the StreamSocketCloseReason enum describing why a stream socket is closed, with values persisted to histograms and metrics.
+// ---
+
 #ifndef NET_SOCKET_STREAM_SOCKET_CLOSE_REASON_H_
 #define NET_SOCKET_STREAM_SOCKET_CLOSE_REASON_H_
 

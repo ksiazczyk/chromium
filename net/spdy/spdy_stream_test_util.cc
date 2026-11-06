@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyStream test delegate utilities implementation
+// summary: Implements test delegate classes such as ClosingDelegate and StreamDelegateBase used to exercise SpdyStream behavior in unit tests.
+// ---
+
 #include "net/spdy/spdy_stream_test_util.h"
 
 #include <cstddef>

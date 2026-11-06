@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL connect job and socket params declarations
+// summary: Declares SSLSocketParams and SSLConnectJob, which connect via direct transport, SOCKS proxy or HTTP proxy and then run the SSL handshake.
+// ---
+
 #ifndef NET_SOCKET_SSL_CONNECT_JOB_H_
 #define NET_SOCKET_SSL_CONNECT_JOB_H_
 

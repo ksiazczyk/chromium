@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferedSpdyFramer visitor interface and buffered framer
+// summary: Declares BufferedSpdyFramer and its visitor interface for buffering and dispatching SPDY/HTTP/2 frames such as HEADERS, DATA, SETTINGS, PING, RST_STREAM, and GOAWAY.
+// ---
+
 #ifndef NET_SPDY_BUFFERED_SPDY_FRAMER_H_
 #define NET_SPDY_BUFFERED_SPDY_FRAMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketPool implementation
+// summary: Implements the ClientSocketPool base class, including group ID prefixes, socket params and a host resolution callback that checks for matching SPDY sessions.
+// ---
+
 #include "net/socket/client_socket_pool.h"
 
 #include <memory>

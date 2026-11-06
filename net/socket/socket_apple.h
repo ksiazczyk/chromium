@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple socket workaround declarations and bug documentation
+// summary: Documents the sendto and write bogus return value bug on Apple platforms and declares the workaround helpers for macOS and iOS builds.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_APPLE_H_
 #define NET_SOCKET_SOCKET_APPLE_H_
 

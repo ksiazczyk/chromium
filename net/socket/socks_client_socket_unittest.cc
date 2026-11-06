@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SOCKS client socket unit tests
+// summary: Unit tests for SOCKSClientSocket covering the SOCKS4 handshake, data transfer, and net logging over mock TCP sockets.
+// ---
+
 #include "net/socket/socks_client_socket.h"
 
 #include <memory>

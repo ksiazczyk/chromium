@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows TCP socket IO completion port header
+// summary: Declares TcpSocketIoCompletionPortWin, a TCPSocketWin implementation that uses IO completion ports to notify of completed reads and writes.
+// ---
+
 #ifndef NET_SOCKET_TCP_SOCKET_IO_COMPLETION_PORT_WIN_H_
 #define NET_SOCKET_TCP_SOCKET_IO_COMPLETION_PORT_WIN_H_
 

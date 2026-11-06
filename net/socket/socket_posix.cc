@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX socket implementation
+// summary: Implements SocketPosix with asynchronous open, bind, listen, accept, connect, read and write operations over the POSIX socket API, including platform-specific error mapping.
+// ---
+
 #include "net/socket/socket_posix.h"
 
 #include <errno.h>

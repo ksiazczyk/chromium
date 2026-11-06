@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket options implementation
+// summary: Implements cross-platform helpers that set TCP_NODELAY, SO_REUSEADDR, receive and send buffer sizes, and IPV6_V6ONLY socket options on Windows and POSIX-like systems.
+// ---
+
 #include "net/socket/socket_options.h"
 
 #include <cerrno>

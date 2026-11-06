@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedStreamSocket implementation
+// summary: Implements a StreamSocket wrapper that simulates network latency and bandwidth limits using bottleneck buffers and shared bandwidth throttles.
+// ---
+
 #include "net/socket/delayed_stream_socket.h"
 
 #include <algorithm>

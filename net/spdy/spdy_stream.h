@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyStream class declaration
+// summary: Declares SpdyStream and its delegate interface for request/response and bidirectional streams managed by a SpdySession.
+// ---
+
 #ifndef NET_SPDY_SPDY_STREAM_H_
 #define NET_SPDY_SPDY_STREAM_H_
 

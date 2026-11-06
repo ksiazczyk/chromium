@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPSocketWin class declaration
+// summary: Declares the TCPSocketWin class interface, including socket adoption, listen and accept, virtual read and write methods and the histogram helper for testing.
+// ---
+
 #ifndef NET_SOCKET_TCP_SOCKET_WIN_H_
 #define NET_SOCKET_TCP_SOCKET_WIN_H_
 

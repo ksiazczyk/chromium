@@ -6,6 +6,12 @@
 // transport_client_socket_unittest.cc contains some other tests that
 // are common for TCP and other types of sockets.
 
+// ---docerion
+// type: test
+// title: TCPClientSocket unit tests
+// summary: Unit tests for TCPClientSocket covering connect, bind, suspend and resume handling, and the Windows IO completion port feature.
+// ---
+
 #include "net/socket/tcp_client_socket.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderCoalescer class declaration
+// summary: Declares HeaderCoalescer, a SpdyHeadersHandlerInterface that collects and validates an HTTP/2 header block and releases it as a quiche HttpHeaderBlock.
+// ---
+
 #ifndef NET_SPDY_HEADER_COALESCER_H_
 #define NET_SPDY_HEADER_COALESCER_H_
 

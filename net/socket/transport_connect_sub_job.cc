@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport connect sub job implementation
+// summary: Implements sub-jobs that try connecting to a list of IPv4 or IPv6 addresses in turn and report completion to the parent transport connect job.
+// ---
+
 #include "net/socket/transport_connect_sub_job.h"
 
 #include <memory>

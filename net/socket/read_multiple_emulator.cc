@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadMultiple emulator implementation
+// summary: Implements ReadMultipleEmulator, which emulates ReadMultiple on datagram sockets using single Read calls while preserving TOS metadata.
+// ---
+
 #include "net/socket/read_multiple_emulator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatagramSocket base interface
+// summary: Declares the DatagramSocket base interface shared by datagram sockets, covering close, addresses, TOS/ECN settings, and NetLog access.
+// ---
+
 #ifndef NET_SOCKET_DATAGRAM_SOCKET_H_
 #define NET_SOCKET_DATAGRAM_SOCKET_H_
 

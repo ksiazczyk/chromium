@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySession test task observer declaration
+// summary: Declares SpdySessionTestTaskObserver, a TaskObserver that records how many executed tasks originate from a specific function and file.
+// ---
+
 #ifndef NET_SPDY_SPDY_SESSION_TEST_UTIL_H_
 #define NET_SPDY_SPDY_SESSION_TEST_UTIL_H_
 

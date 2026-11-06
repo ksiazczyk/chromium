@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bidirectional stream over SPDY interface
+// summary: Declares BidirectionalStreamSpdyImpl, a BidirectionalStreamImpl that acts as a SpdyStream delegate for full-duplex requests.
+// ---
+
 #ifndef NET_SPDY_BIDIRECTIONAL_STREAM_SPDY_IMPL_H_
 #define NET_SPDY_BIDIRECTIONAL_STREAM_SPDY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketPoolManagerImpl header
+// summary: Declares ClientSocketPoolManagerImpl, which maps proxy chains to ClientSocketPool instances and tracks their lifetime on a single thread.
+// ---
+
 #ifndef NET_SOCKET_CLIENT_SOCKET_POOL_MANAGER_IMPL_H_
 #define NET_SOCKET_CLIENT_SOCKET_POOL_MANAGER_IMPL_H_
 

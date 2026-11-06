@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the net/spdy HTTP/2 implementation
+summary: Describes net/spdy as Chromium's HTTP/2 implementation handling session management and flow control on top of the QUICHE library.
+---
+
 [net/spdy](https://source.chromium.org/chromium/chromium/src/+/main:net/spdy/)
 provides the HTTP/2 implementation for Chromium. It takes care of things like
 session management and flow control. It relies on the [QUICHE

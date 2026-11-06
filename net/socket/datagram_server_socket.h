@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatagramServerSocket interface
+// summary: Declares the DatagramServerSocket abstract interface for UDP server sockets with listen, recvfrom, sendto, and multicast support.
+// ---
+
 #ifndef NET_SOCKET_DATAGRAM_SERVER_SOCKET_H_
 #define NET_SOCKET_DATAGRAM_SERVER_SOCKET_H_
 

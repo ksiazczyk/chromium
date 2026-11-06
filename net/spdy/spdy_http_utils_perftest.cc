@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SPDY HTTP utilities performance benchmarks
+// summary: Google Benchmark performance tests comparing raw-string and builder-based SPDY response header conversion and request header creation.
+// ---
+
 #include "net/spdy/spdy_http_utils.h"
 
 #include "base/memory/ref_counted.h"

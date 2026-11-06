@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySessionPool implementation
+// summary: Implements the pool of open SPDY sessions, including session requests, lookup, creation, IP-based pooling and cleanup on network changes.
+// ---
+
 #include "net/spdy/spdy_session_pool.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamSocketHandle interface
+// summary: Declares a base class for handles that own a StreamSocket, tracking initialization, reuse type, connect timing, and higher-layered pool association.
+// ---
+
 #ifndef NET_SOCKET_STREAM_SOCKET_HANDLE_H_
 #define NET_SOCKET_STREAM_SOCKET_HANDLE_H_
 

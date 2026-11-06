@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EphemeralPortRandomizer unit tests
+// summary: Unit tests verifying port reuse avoidance, port use recording, and stale peer entry cleanup for the macOS ephemeral port randomizer.
+// ---
+
 #include "net/socket/ephemeral_port_randomizer_mac.h"
 
 #include "base/functional/bind.h"

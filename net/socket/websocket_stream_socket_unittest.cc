@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketStreamSocket unit tests
+// summary: Parameterized unit tests verifying WebSocketStreamSocket connect behavior for one and two sockets across synchronous and asynchronous connect modes.
+// ---
+
 #include "net/socket/websocket_stream_socket.h"
 
 #include <memory>

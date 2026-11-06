@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bidirectional stream over SPDY implementation
+// summary: Implements bidirectional streaming over a SpdySession, buffering received data and forwarding reads, writes, and errors to a delegate.
+// ---
+
 #include "net/spdy/bidirectional_stream_spdy_impl.h"
 
 #include <utility>

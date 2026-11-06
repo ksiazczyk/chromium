@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TCP socket unit tests
+// summary: Unit tests for TCP socket behavior across platforms, covering connect, read and read-if-ready paths, RTT notifications and Windows IO completion port features.
+// ---
+
 #include "net/socket/tcp_socket.h"
 
 #include <stddef.h>

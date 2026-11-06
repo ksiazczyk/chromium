@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamSocket interface
+// summary: Declares the abstract StreamSocket interface for connecting, disconnecting, TLS handshake confirmation, and connection state queries in the network stack.
+// ---
+
 #ifndef NET_SOCKET_STREAM_SOCKET_H_
 #define NET_SOCKET_STREAM_SOCKET_H_
 

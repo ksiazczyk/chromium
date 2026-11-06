@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket options header
+// summary: Declares net namespace helper functions for setting TCP_NODELAY, SO_REUSEADDR, socket buffer sizes and the IPv6-only option, with detailed notes on Nagle behavior.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_OPTIONS_H_
 #define NET_SOCKET_SOCKET_OPTIONS_H_
 

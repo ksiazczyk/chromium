@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ALPS decoder unit tests
+// summary: Unit tests verifying AlpsDecoder parsing of SETTINGS and ACCEPT_CH frames, error cases, and feature-flag behavior.
+// ---
+
 #include "net/spdy/alps_decoder.h"
 
 #include "base/test/metrics/histogram_tester.h"

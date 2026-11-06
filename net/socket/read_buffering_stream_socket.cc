@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read buffering stream socket implementation
+// summary: Implements a StreamSocket wrapper that buffers a set amount of read data before satisfying Read and ReadIfReady calls.
+// ---
+
 #include "net/socket/read_buffering_stream_socket.h"
 
 #include <algorithm>

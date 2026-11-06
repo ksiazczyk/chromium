@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global UDP socket count limits header
+// summary: Declares OwnedUDPSocketCount, an RAII helper for the global open UDP socket counter with a 6000 socket limit, plus acquisition and testing functions.
+// ---
+
 #ifndef NET_SOCKET_UDP_SOCKET_GLOBAL_LIMITS_H_
 #define NET_SOCKET_UDP_SOCKET_GLOBAL_LIMITS_H_
 

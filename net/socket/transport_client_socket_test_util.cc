@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport client socket test helpers
+// summary: Implements helpers that exchange HTTP request and response data over StreamSocket instances in tests.
+// ---
+
 #include "net/socket/transport_client_socket_test_util.h"
 
 #include <memory>

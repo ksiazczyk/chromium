@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job params factory header
+// summary: Declares ConstructConnectJobParams, which builds ConnectJobParams for a given endpoint, proxy chain and SSL-related connection settings.
+// ---
+
 #ifndef NET_SOCKET_CONNECT_JOB_PARAMS_FACTORY_H_
 #define NET_SOCKET_CONNECT_JOB_PARAMS_FACTORY_H_
 

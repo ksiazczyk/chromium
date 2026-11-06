@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketStreamSocket class declaration
+// summary: Declares the WebSocketStreamSocket class, a StreamSocket wrapper that locks the target endpoint via WebSocketEndpointLockManager on Connect and releases it on destruction.
+// ---
+
 #ifndef NET_SOCKET_WEBSOCKET_STREAM_SOCKET_H_
 #define NET_SOCKET_WEBSOCKET_STREAM_SOCKET_H_
 

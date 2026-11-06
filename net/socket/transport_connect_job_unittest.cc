@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport connect job unit tests
+// summary: Unit tests for the transport connect job, covering host resolution, connection attempts, SSL configuration, and Happy Eyeballs feature behavior.
+// ---
+
 #include "net/socket/transport_connect_job.h"
 
 #include <memory>

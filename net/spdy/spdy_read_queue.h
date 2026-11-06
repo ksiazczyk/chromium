@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyReadQueue class declaration
+// summary: Declares SpdyReadQueue, a FIFO queue of incoming data buffers from a SPDY connection intended for SpdyStream delegates.
+// ---
+
 #ifndef NET_SPDY_SPDY_READ_QUEUE_H_
 #define NET_SPDY_SPDY_READ_QUEUE_H_
 

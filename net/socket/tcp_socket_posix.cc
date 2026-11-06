@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP socket implementation for POSIX platforms
+// summary: Implements TCPSocketPosix, providing open, bind, listen, accept, connect, read and write operations plus keepalive and TCP_INFO RTT handling on POSIX systems.
+// ---
+
 #include "net/socket/tcp_socket.h"
 
 #include <errno.h>

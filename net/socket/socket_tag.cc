@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket tag implementation
+// summary: Implements SocketTag comparison operators and applies Android traffic stats UID and tag values to socket descriptors, with stubs for non-Android platforms.
+// ---
+
 #include "net/socket/socket_tag.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketStreamSocket implementation
+// summary: Implements a StreamSocket wrapper that acquires a WebSocket endpoint lock before connecting and delegates all socket operations to the wrapped socket.
+// ---
+
 #include "net/socket/websocket_stream_socket.h"
 
 #include <memory>

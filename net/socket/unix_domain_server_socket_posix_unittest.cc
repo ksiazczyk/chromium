@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unix domain server socket unit tests
+// summary: Tests binding, listening and accepting Unix domain server socket connections, including rejection of forbidden users.
+// ---
+
 #include "net/socket/unix_domain_server_socket_posix.h"
 
 #include <memory>

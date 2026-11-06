@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS ephemeral port randomizer declaration
+// summary: Declares EphemeralPortRandomizer, which randomizes ephemeral source ports for TCP connections on macOS to compensate for missing OS-level randomization.
+// ---
+
 #ifndef NET_SOCKET_EPHEMERAL_PORT_RANDOMIZER_MAC_H_
 #define NET_SOCKET_EPHEMERAL_PORT_RANDOMIZER_MAC_H_
 

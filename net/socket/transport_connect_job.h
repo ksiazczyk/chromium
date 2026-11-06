@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport connect job declarations
+// summary: Declares TransportSocketParams and TransportConnectJob, which resolve hostnames and establish transport connections with IPv6 fallback timing logic.
+// ---
+
 #ifndef NET_SOCKET_TRANSPORT_CONNECT_JOB_H_
 #define NET_SOCKET_TRANSPORT_CONNECT_JOB_H_
 

@@ -6,6 +6,12 @@
 // and websocket_transport_client_socket_pool_unittest.cc. If you find you need
 // to use these for another purpose, consider moving them to socket_test_util.h.
 
+// ---docerion
+// type: test
+// title: Transport client socket pool test utility declarations
+// summary: Declares shared test helpers and MockTransportClientSocketFactory with configurable connection behaviors for socket pool tests.
+// ---
+
 #ifndef NET_SOCKET_TRANSPORT_CLIENT_SOCKET_POOL_TEST_UTIL_H_
 #define NET_SOCKET_TRANSPORT_CLIENT_SOCKET_POOL_TEST_UTIL_H_
 

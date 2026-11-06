@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketFactory interface
+// summary: Declares the factory interface for creating datagram, transport, and SSL client sockets so tests can substitute mock implementations.
+// ---
+
 #ifndef NET_SOCKET_CLIENT_SOCKET_FACTORY_H_
 #define NET_SOCKET_CLIENT_SOCKET_FACTORY_H_
 

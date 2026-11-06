@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TcpConnectJob Connector implementation
+// summary: Implements TcpConnectJob::Connector, which drives TCP connection attempts to addresses supplied one by one by the parent job's host resolution.
+// ---
+
 #include "net/socket/tcp_connect_job_connector.h"
 
 #include <memory>

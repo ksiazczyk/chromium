@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsStreamAttempt class declaration
+// summary: Declares TlsStreamAttempt, a StreamAttempt subclass for TLS connection attempts with a delegate interface, handshake timeout and state machine methods.
+// ---
+
 #ifndef NET_SOCKET_TLS_STREAM_ATTEMPT_H_
 #define NET_SOCKET_TLS_STREAM_ATTEMPT_H_
 

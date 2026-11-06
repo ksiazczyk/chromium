@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BufferedSpdyFramer unit tests
+// summary: Unit tests for BufferedSpdyFramer using a test visitor that counts and verifies frame callbacks for headers, settings, push promise, Alt-Svc, and GoAway frames.
+// ---
+
 #include "net/spdy/buffered_spdy_framer.h"
 
 #include <algorithm>

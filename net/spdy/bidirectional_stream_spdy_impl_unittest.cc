@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidirectional stream SPDY implementation tests
+// summary: Unit tests for BidirectionalStreamSpdyImpl covering stream setup, data reads and writes, trailers, and load timing.
+// ---
+
 #include "net/spdy/bidirectional_stream_spdy_impl.h"
 
 #include <string>

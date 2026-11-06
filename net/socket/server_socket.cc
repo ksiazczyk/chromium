@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server socket base implementation
+// summary: Implements ServerSocket helpers for listening on an address string and accepting connections with an optional peer address output.
+// ---
+
 #include "net/socket/server_socket.h"
 
 #include "net/base/ip_address.h"

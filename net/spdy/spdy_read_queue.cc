@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyReadQueue implementation
+// summary: Implements a FIFO queue of SPDY data buffers, dequeuing bytes into caller buffers while deferring consume callbacks that may re-enter network stack code.
+// ---
+
 #include "net/spdy/spdy_read_queue.h"
 
 #include <algorithm>

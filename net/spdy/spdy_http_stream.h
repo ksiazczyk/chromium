@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyHttpStream class header
+// summary: Declares SpdyHttpStream, the HTTP stream implementation that sends requests and reads responses over a SPDY session.
+// ---
+
 #ifndef NET_SPDY_SPDY_HTTP_STREAM_H_
 #define NET_SPDY_SPDY_HTTP_STREAM_H_
 

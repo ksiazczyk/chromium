@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyReadQueue unit tests
+// summary: Unit tests for SpdyReadQueue covering enqueue and dequeue with various buffer sizes, boundary checks, and buffer discard callbacks.
+// ---
+
 #include "net/spdy/spdy_read_queue.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelayedStreamSocket unit tests
+// summary: Unit tests covering connect latency, read and write throttling, and error behavior of the delayed stream socket using mock time and mock sockets.
+// ---
+
 #include "net/socket/delayed_stream_socket.h"
 
 #include <memory>

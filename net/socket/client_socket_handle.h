@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketHandle header
+// summary: Declares ClientSocketHandle, a StreamSocket container that obtains sockets from a ClientSocketPool, supporting reuse, priority changes and load timing.
+// ---
+
 #ifndef NET_SOCKET_CLIENT_SOCKET_HANDLE_H_
 #define NET_SOCKET_CLIENT_SOCKET_HANDLE_H_
 

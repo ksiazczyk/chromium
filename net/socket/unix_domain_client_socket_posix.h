@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix domain client socket
+// summary: Declares UnixDomainClientSocket, a StreamSocket transport over Unix domain sockets with optional abstract namespace support.
+// ---
+
 #ifndef NET_SOCKET_UNIX_DOMAIN_CLIENT_SOCKET_POSIX_H_
 #define NET_SOCKET_UNIX_DOMAIN_CLIENT_SOCKET_POSIX_H_
 

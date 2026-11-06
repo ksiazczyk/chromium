@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket endpoint lock manager implementation
+// summary: Implements endpoint locking with an unlock delay to serialize WebSocket connections per RFC 6455 throttling requirements.
+// ---
+
 #include "net/socket/websocket_endpoint_lock_manager.h"
 
 #include <memory>

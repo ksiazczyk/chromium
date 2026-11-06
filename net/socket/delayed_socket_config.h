@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedSocketConfig struct
+// summary: Defines DelayedSocketConfig holding RTT and optional download/upload throughput limits shared by the delayed TCP and UDP socket wrappers.
+// ---
+
 #ifndef NET_SOCKET_DELAYED_SOCKET_CONFIG_H_
 #define NET_SOCKET_DELAYED_SOCKET_CONFIG_H_
 

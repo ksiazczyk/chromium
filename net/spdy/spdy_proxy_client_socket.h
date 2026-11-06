@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyProxyClientSocket class declaration
+// summary: Declares the SpdyProxyClientSocket class, which tunnels a stream socket over an HTTP/2 connection and implements ProxyClientSocket and SpdyStream::Delegate.
+// ---
+
 #ifndef NET_SPDY_SPDY_PROXY_CLIENT_SOCKET_H_
 #define NET_SPDY_SPDY_PROXY_CLIENT_SOCKET_H_
 

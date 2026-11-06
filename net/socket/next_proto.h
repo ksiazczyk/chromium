@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NextProto enum and ALPN protocol list header
+// summary: Defines the NextProto enum for HTTP/1.1, HTTP/2 and QUIC, plus ALPN protocol list types and conversion function declarations.
+// ---
+
 #ifndef NET_SOCKET_NEXT_PROTO_H_
 #define NET_SOCKET_NEXT_PROTO_H_
 

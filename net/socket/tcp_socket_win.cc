@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP socket implementation for Windows
+// summary: Implements TCPSocketWin, handling overlapped I/O, TCP keepalive, AppContainer checks and Winsock error mapping for TCP connections on Windows.
+// ---
+
 #include "net/socket/tcp_socket.h"
 
 #include <errno.h>

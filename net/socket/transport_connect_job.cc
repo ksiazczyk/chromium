@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport connect job implementation
+// summary: Implements the transport connect job that performs host resolution and TCP connection attempts, including IPv6 fallback and HTTPS/SVCB route handling.
+// ---
+
 #include "net/socket/transport_connect_job.h"
 
 #include <memory>

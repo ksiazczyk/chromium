@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPDY HTTP utilities header
+// summary: Declares helpers for converting between SPDY header blocks and HTTP request and response headers, plus priority conversion functions.
+// ---
+
 #ifndef NET_SPDY_SPDY_HTTP_UTILS_H_
 #define NET_SPDY_SPDY_HTTP_UTILS_H_
 

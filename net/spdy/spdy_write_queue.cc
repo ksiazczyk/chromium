@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyWriteQueue implementation
+// summary: Implements the priority-ordered queue of pending SPDY frame writes, including enqueueing, dequeuing and removal per stream.
+// ---
+
 
 #include "net/spdy/spdy_write_queue.h"
 

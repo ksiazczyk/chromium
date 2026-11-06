@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client socket BoringSSL implementation
+// summary: Implements SSLClientSocketImpl on top of BoringSSL, handling the TLS handshake, certificate verification, and read and write operations.
+// ---
+
 #include "net/socket/ssl_client_socket_impl.h"
 
 #include <errno.h>

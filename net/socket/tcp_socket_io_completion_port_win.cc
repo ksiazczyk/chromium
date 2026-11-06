@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows TCP socket IO completion port implementation
+// summary: Implements TCP socket reads and writes on Windows via an IO completion port, avoiding PostTask overhead and handling FILE_SKIP_COMPLETION_PORT_ON_SUCCESS.
+// ---
+
 #include "net/socket/tcp_socket_io_completion_port_win.h"
 
 #include <functional>

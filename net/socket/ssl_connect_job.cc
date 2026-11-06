@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL connect job implementation
+// summary: Implements SSLConnectJob, which establishes a direct, SOCKS or HTTP-proxied connection and then performs the SSL handshake to yield an SSLClientSocket.
+// ---
+
 #include "net/socket/ssl_connect_job.h"
 
 #include <cstdlib>
