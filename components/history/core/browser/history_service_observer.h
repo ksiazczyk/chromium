@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceObserver interface
+// summary: Declares the HistoryServiceObserver interface for components to receive visit, URL modification, deletion, keyword search term, and loading notifications from HistoryService.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_SERVICE_OBSERVER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_SERVICE_OBSERVER_H_
 

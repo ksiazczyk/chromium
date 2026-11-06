@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesDatabase SQLite implementation
+// summary: Implements the top sites SQLite database with table creation, schema versioning and migration, rank management, corruption recovery, and delta application.
+// ---
+
 #include "components/history/core/browser/top_sites_database.h"
 
 #include <stddef.h>

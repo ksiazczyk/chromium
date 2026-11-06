@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingHistoryDriver interface
+// summary: Declares the interface that connects BrowsingHistoryService to platform embedder logic through callbacks for history queries, visit removals, and deletion notifications.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_BROWSING_HISTORY_DRIVER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_BROWSING_HISTORY_DRIVER_H_
 

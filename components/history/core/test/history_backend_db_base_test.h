@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History backend database base test fixture declarations
+// summary: Declares HistoryBackendDBBaseTest, a base fixture providing history backend and database setup for unit tests.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_HISTORY_BACKEND_DB_BASE_TEST_H_
 #define COMPONENTS_HISTORY_CORE_TEST_HISTORY_BACKEND_DB_BASE_TEST_H_
 

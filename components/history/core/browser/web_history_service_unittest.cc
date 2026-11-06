@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebHistoryService unit tests
+// summary: Unit tests for WebHistoryService using a test request class and URL loader factory to verify query, deletion, and web-and-app activity lookup behavior.
+// ---
+
 #include "components/history/core/browser/web_history_service.h"
 
 #include <memory>

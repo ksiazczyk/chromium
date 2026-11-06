@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys database interface
+// summary: Defines the JourneysDatabase class managing the SQLite tables for journey data and the JourneyHistoryEntryLookup result of resolving entries against visits and urls.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_DATABASE_H_
 

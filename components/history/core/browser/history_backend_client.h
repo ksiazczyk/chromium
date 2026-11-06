@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend client interface
+// summary: Defines the HistoryBackendClient interface for checking pinned URLs, listing pinned URLs with titles, and determining whether a URL is web-safe.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_CLIENT_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_CLIENT_H_
 

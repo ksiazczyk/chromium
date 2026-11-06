@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeleteDirectiveHandler unit tests
+// summary: Unit tests for DeleteDirectiveHandler covering creation, processing, and propagation of time-range, URL, and global-id delete directives.
+// ---
+
 #include "components/history/core/browser/sync/delete_directive_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageUsageData implementation
+// summary: Implements the constructor and destructor of the PageUsageData class that carries per-domain usage data for most visited page queries.
+// ---
+
 #include "components/history/core/browser/page_usage_data.h"
 
 namespace history {

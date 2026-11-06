@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSitesBackend database thread service
+// summary: Implements the backend that funnels TopSites database operations such as init, queries, delta updates, and resets onto a dedicated sequenced task runner.
+// ---
+
 #include "components/history/core/browser/top_sites_backend.h"
 
 #include <stddef.h>

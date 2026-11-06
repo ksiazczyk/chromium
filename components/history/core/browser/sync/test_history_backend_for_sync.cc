@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory test history backend for sync
+// summary: Provides a simple in-memory implementation of HistoryBackendForSync with helpers to add, update, and remove URLs and visits for use in history sync tests.
+// ---
+
 #include "components/history/core/browser/sync/test_history_backend_for_sync.h"
 
 #include <vector>

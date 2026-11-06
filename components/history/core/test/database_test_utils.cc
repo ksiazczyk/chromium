@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History database test utilities implementation
+// summary: Implements helpers that locate the history test data directory and create history databases from SQL golden files.
+// ---
+
 #include "components/history/core/test/database_test_utils.h"
 
 #include "base/files/file_path.h"

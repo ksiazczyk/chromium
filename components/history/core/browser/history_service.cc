@@ -15,6 +15,12 @@
 //                                   -> FaviconDatabase
 //                                      -> SQLite connection to favicons
 
+// ---docerion
+// type: source
+// title: HistoryService implementation
+// summary: Implements the HistoryService, dispatching history database operations to a background sequence where HistoryBackend and the SQLite history database run.
+// ---
+
 #include "components/history/core/browser/history_service.h"
 
 #include <functional>

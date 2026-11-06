@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History database params helper implementation
+// summary: Implements HistoryDatabaseParamsForPath, which builds history database parameters from a history directory path and a release channel.
+// ---
+
 #include "components/history/content/browser/history_database_helper.h"
 
 #include "base/files/file_path.h"

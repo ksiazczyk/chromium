@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History unit test base implementation
+// summary: Implements HistoryUnitTestBase::ExecuteSQLScript, which runs a SQL script into a test database after substituting current time values.
+// ---
+
 #include "components/history/core/test/history_unittest_base.h"
 
 #include <stdint.h>

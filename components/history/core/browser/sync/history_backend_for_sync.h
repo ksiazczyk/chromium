@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryBackendForSync interface
+// summary: Declares the subset of HistoryBackend needed by HistorySyncBridge, split out as an interface mainly to ease testing.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_BACKEND_FOR_SYNC_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_BACKEND_FOR_SYNC_H_
 

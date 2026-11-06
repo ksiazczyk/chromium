@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisitedLinkDatabase unit tests
+// summary: Unit tests covering add, query, update, and delete operations on the visited link database using a temporary SQLite database and URL table fixture.
+// ---
+
 #include "components/history/core/browser/visited_link_database.h"
 
 #include "base/files/file_path.h"

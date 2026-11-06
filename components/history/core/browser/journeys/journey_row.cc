@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyRow storage model implementations
+// summary: Implements constructors and copy and move operations for the storage model structs JourneyHistoryEntry, JourneyContinuationQuery, JourneyHistoryEntryCollection, and JourneyRow.
+// ---
+
 #include "components/history/core/browser/journeys/journey_row.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys sync bridge interface
+// summary: Declares JourneysSyncBridge, a DataTypeSyncBridge and HistoryBackendObserver that syncs journey entities and tracks history backend changes.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_SYNC_BRIDGE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_SYNC_BRIDGE_H_
 

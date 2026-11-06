@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download state and danger type enums
+// summary: Defines the DownloadState and DownloadDangerType enums persisted in the download database plus the invalid download identifier constant.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_CONSTANTS_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_CONSTANTS_H_
 

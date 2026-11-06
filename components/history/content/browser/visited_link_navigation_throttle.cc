@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link navigation throttle implementation
+// summary: Implements a navigation throttle that obtains the visited-link origin salt from the history service and assigns it to navigation commit params for :visited styling.
+// ---
+
 #include "components/history/content/browser/visited_link_navigation_throttle.h"
 
 #include "base/notreached.h"

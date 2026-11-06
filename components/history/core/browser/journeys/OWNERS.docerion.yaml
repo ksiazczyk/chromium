@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Journeys component OWNERS
+summary: Lists code owners for the journeys directory and delegates sync bridge and data type controller files to the components/sync OWNERS.

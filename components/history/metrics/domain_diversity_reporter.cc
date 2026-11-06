@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain diversity reporter implementation
+// summary: Implements DomainDiversityReporter, which computes daily domain diversity metrics from history data and emits V3 and V4 histograms using persisted reporting timestamps.
+// ---
+
 #include "components/history/metrics/domain_diversity_reporter.h"
 
 #include "base/metrics/histogram_functions.h"

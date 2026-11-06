@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync bridge class declaration
+// summary: Declares the DataTypeSyncBridge for history, which connects the history backend to the sync engine and reacts to visit and URL changes as a HistoryBackendObserver.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_SYNC_BRIDGE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_SYNC_BRIDGE_H_
 

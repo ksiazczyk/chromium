@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRow implementation
+// summary: Implements the DownloadRow struct with default constructors and an equality operator comparing all download history fields.
+// ---
+
 #include "components/history/core/browser/download_row.h"
 
 #include "components/history/core/browser/download_constants.h"

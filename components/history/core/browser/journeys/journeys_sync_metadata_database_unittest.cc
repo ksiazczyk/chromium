@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journeys sync metadata database unit tests
+// summary: Unit tests for JourneysSyncMetadataDatabase verifying storage, retrieval, and replacement of sync entity metadata and data type state in an in-memory SQL database.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_sync_metadata_database.h"
 
 #include "components/sync/model/metadata_batch.h"

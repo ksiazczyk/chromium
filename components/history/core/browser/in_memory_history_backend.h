@@ -17,6 +17,12 @@
 // main thread where operations can be completed synchronously. It listens for
 // notifications from the "regular" history backend and keeps itself in sync.
 
+// ---docerion
+// type: source
+// title: In-memory history backend class declaration
+// summary: Declares InMemoryHistoryBackend, an observer wrapper around the in-memory URL database that maintains a subset of history for low-latency operations like inline autocomplete.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_IN_MEMORY_HISTORY_BACKEND_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_IN_MEMORY_HISTORY_BACKEND_H_
 

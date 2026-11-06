@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit delegate interface
+// summary: Declares the VisitDelegate interface that is notified when URLs and partitioned visited links are added or removed by the HistoryService.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISIT_DELEGATE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISIT_DELEGATE_H_
 

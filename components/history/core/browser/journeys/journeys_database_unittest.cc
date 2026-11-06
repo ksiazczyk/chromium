@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journeys database unit tests
+// summary: Unit tests for JourneysDatabase covering add, update, delete and lookup of journeys and their child rows in an in-memory SQLite database.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_database.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History service test utilities
+// summary: Declares helpers to create a HistoryService for tests, optionally failing database initialization, and to block until pending history requests are processed.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_HISTORY_SERVICE_TEST_UTIL_H_
 #define COMPONENTS_HISTORY_CORE_TEST_HISTORY_SERVICE_TEST_UTIL_H_
 

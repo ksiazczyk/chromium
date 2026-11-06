@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDataTypeControllerHelper implementation
+// summary: Implements precondition logic for history data type controllers, including enterprise account restrictions and the history-saving-disabled pref.
+// ---
+
 #include "components/history/core/browser/sync/history_data_type_controller_helper.h"
 
 #include "base/functional/bind.h"

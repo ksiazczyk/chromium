@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDatabase class declaration
+// summary: Declares the class that maintains the downloads table with methods to query, create, update, and remove download rows and to run schema migrations.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_DOWNLOAD_DATABASE_H_
 

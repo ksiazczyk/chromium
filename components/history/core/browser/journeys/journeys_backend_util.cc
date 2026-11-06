@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys visit resolution utilities
+// summary: Implements the pipeline that groups journey history entry lookups by journey ID, resolves visits by timestamp, and resolves collection items while dropping unmatched ones.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_backend_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync metadata database class declaration
+// summary: Declares the SyncMetadataStore implementation that persists history sync entity metadata and data type state, plus storage key and visit time conversion helpers.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_SYNC_METADATA_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_SYNC_METADATA_DATABASE_H_
 

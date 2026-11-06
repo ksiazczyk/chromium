@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRow unit tests
+// summary: Unit tests for URLRow covering category merging, visibility score merging rules, and move semantics of visit content annotations.
+// ---
+
 #include "components/history/core/browser/url_row.h"
 
 #include <utility>

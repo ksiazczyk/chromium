@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit tracker implementation
+// summary: Implements VisitTracker, which links page transitions into visit chains per context and finds the last matching visit for a navigation entry and URL.
+// ---
+
 #include "components/history/core/browser/visit_tracker.h"
 
 #include <stddef.h>

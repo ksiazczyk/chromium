@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLDatabase unit tests
+// summary: Unit tests for URLDatabase covering add, update, upsert, and query behavior of the URL table and keyword search terms.
+// ---
+
 #include "components/history/core/browser/url_database.h"
 
 #include <limits>

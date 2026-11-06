@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitSegmentDatabase interface
+// summary: Declares the database mixin that tracks segments for the most visited view, with segment creation, visit counting, scored usage queries, and table migrations.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISITSEGMENT_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISITSEGMENT_DATABASE_H_
 

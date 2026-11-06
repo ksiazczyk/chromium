@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageUsageData class declaration
+// summary: Defines a per-domain usage data structure holding segment ID, URL, title, visit count, last visit timeslot, and score used to compute most visited pages.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_PAGE_USAGE_DATA_H__
 #define COMPONENTS_HISTORY_CORE_BROWSER_PAGE_USAGE_DATA_H__
 

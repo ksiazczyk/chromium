@@ -1,0 +1,4 @@
+# Docerion header of thumbnail_ios.mm.
+type: test
+title: iOS Google thumbnail test helper
+summary: iOS implementation of CreateGoogleThumbnailForTest that builds a gfx::Image from the embedded thumbnail bytes via UIKit.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainDiversityReporter class header
+// summary: Declares the DomainDiversityReporter keyed service that schedules periodic domain diversity metric computation and reporting via the history service.
+// ---
+
 #ifndef COMPONENTS_HISTORY_METRICS_DOMAIN_DIVERSITY_REPORTER_H_
 #define COMPONENTS_HISTORY_METRICS_DOMAIN_DIVERSITY_REPORTER_H_
 

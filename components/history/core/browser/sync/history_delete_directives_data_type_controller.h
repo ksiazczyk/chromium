@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History delete directives data type controller class declaration
+// summary: Declares the controller for the history delete directives sync type, noting it cannot sync when full encryption is enabled and observing sync service state changes.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_DELETE_DIRECTIVES_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_DELETE_DIRECTIVES_DATA_TYPE_CONTROLLER_H_
 

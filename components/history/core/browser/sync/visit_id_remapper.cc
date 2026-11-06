@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitIDRemapper implementation
+// summary: Implements remapping of originator visit IDs to local visit IDs for synced history visits, updating referrer and opener links in the history database.
+// ---
+
 #include "components/history/core/browser/sync/visit_id_remapper.h"
 
 #include "components/history/core/browser/sync/history_backend_for_sync.h"

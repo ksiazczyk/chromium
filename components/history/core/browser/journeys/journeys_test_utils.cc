@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journeys test utility implementations
+// summary: Implements gtest printers for journey history entries, collections, and visits, plus a helper converting microseconds since the Windows epoch to base::Time for journeys tests.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_test_utils.h"
 
 #include <ostream>

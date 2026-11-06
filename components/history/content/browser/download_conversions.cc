@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download state and danger type conversion functions
+// summary: Implements conversions between history download enums and content download enums for states, danger types, interrupt reasons, IDs and slice info.
+// ---
+
 #include "components/history/content/browser/download_conversions.h"
 
 #include "base/check_op.h"

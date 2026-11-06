@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History feature flags header
+// summary: Declares history feature flags and their field trial parameters, including browsing history filtering and database options, for the history component.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_FEATURES_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys database implementation
+// summary: Implements the JourneysDatabase SQLite layer that reads and writes journeys plus their history entries, continuation queries and collections tables.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_database.h"
 
 #include <cstdint>

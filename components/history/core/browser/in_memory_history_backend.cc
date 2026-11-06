@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory history backend implementation
+// summary: Implements InMemoryHistoryBackend, keeping the in-memory URL cache in sync with HistoryService notifications for visits, modifications, deletions, and search term changes.
+// ---
+
 #include "components/history/core/browser/in_memory_history_backend.h"
 
 #include <memory>

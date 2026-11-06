@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents top sites observer implementation
+// summary: Implements an observer that reports committed main-frame navigation virtual URLs from a WebContents to the TopSites service.
+// ---
+
 #include "components/history/content/browser/web_contents_top_sites_observer.h"
 
 #include "base/check.h"

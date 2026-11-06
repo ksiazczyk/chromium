@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisitIDRemapper unit tests
+// summary: Unit tests for VisitIDRemapper covering remapping of referrer and opener visit IDs from memory and from the database using a test history backend.
+// ---
+
 #include "components/history/core/browser/sync/visit_id_remapper.h"
 
 #include "components/history/core/browser/sync/test_history_backend_for_sync.h"

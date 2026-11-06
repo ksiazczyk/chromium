@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web state TopSites observer header
+// summary: Declares WebStateTopSitesObserver, a web state observer and user data that forwards navigation events to TopSites.
+// ---
+
 #ifndef COMPONENTS_HISTORY_IOS_BROWSER_WEB_STATE_TOP_SITES_OBSERVER_H_
 #define COMPONENTS_HISTORY_IOS_BROWSER_WEB_STATE_TOP_SITES_OBSERVER_H_
 

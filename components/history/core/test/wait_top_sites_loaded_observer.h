@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitTopSitesLoadedObserver class declaration
+// summary: Declares a TopSitesObserver test helper used to block until TopSites has finished loading, with a Run method that returns immediately if loading is complete.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_WAIT_TOP_SITES_LOADED_OBSERVER_H_
 #define COMPONENTS_HISTORY_CORE_TEST_WAIT_TOP_SITES_LOADED_OBSERVER_H_
 

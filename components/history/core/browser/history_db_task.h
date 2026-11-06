@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDBTask interface
+// summary: Declares the HistoryDBTask interface for scheduling arbitrary work on the history backend database thread, with a completion callback on the main thread.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_DB_TASK_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_DB_TASK_H_
 

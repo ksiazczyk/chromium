@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History context identifier types
+// summary: Defines Context and ContextID, used to scope the lifetime of navigation entry references without dereferencing pointers.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CONTEXT_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CONTEXT_H_
 

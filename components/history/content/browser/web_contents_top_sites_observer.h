@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents top sites observer header
+// summary: Declares a WebContents observer that forwards navigation events to the TopSites service.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_WEB_CONTENTS_TOP_SITES_OBSERVER_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_WEB_CONTENTS_TOP_SITES_OBSERVER_H_
 

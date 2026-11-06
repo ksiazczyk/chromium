@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopSitesDatabase unit tests
+// summary: Unit tests verifying TopSitesDatabase schema versions, migrations from golden SQL files, table structure, and site ranking behavior.
+// ---
+
 #include "components/history/core/browser/top_sites_database.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents history context helper declaration
+// summary: Declares ContextIDForWebContents, a helper that associates a history ContextID with a content WebContents, invalid once the WebContents is destroyed.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_HISTORY_CONTEXT_HELPER_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_HISTORY_CONTEXT_HELPER_H_
 

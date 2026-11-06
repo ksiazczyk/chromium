@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google thumbnail test helper implementation
+// summary: Implements CreateGoogleThumbnailForTest, decoding embedded Google thumbnail JPEG data into a gfx::Image for tests.
+// ---
+
 #include "components/history/core/test/thumbnail.h"
 
 #include <memory>

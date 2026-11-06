@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment scorer implementation with recency factors
+// summary: Implements history segment scoring with classic, exponential decay, and staircase recency factors, configurable via feature flags for Most Visited tile ranking.
+// ---
+
 #include "components/history/core/browser/segment_scorer.h"
 
 #include <limits.h>

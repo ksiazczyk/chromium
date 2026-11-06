@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend observer interface
+// summary: Defines the HistoryBackendObserver interface for receiving backend-thread notifications about visits, URL changes, history deletions, and visit updates.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_OBSERVER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_OBSERVER_H_
 

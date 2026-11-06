@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend notifier interface
+// summary: Defines the HistoryBackendNotifier interface that forwards favicon, visit, URL modification, and deletion notifications from the backend to interested observers.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_NOTIFIER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_BACKEND_NOTIFIER_H_
 

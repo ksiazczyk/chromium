@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History backend implementation
+// summary: Implements the core history backend that manages the history database, visits, downloads, favicons, expiration, and sync on a background thread.
+// ---
+
 #include "components/history/core/browser/history_backend.h"
 
 #include <algorithm>

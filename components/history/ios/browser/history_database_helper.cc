@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History database params helper implementation
+// summary: Implements HistoryDatabaseParamsForPath, defining iOS download interrupt reason constants and building history database parameters for a directory and channel.
+// ---
+
 #include "components/history/ios/browser/history_database_helper.h"
 
 #include "base/files/file_path.h"

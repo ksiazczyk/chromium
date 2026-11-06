@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for history content browser
+summary: Specifies allowed include dependencies for the folder, with per-file exceptions for content_visit_delegate.cc and the web contents observer unit test.

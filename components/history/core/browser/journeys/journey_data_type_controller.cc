@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JourneyDataTypeController implementation
+// summary: Implements the syncer::JOURNEY data type controller, which reports that sync must stop and clear data when custom passphrase encryption is enabled.
+// ---
+
 #include "components/history/core/browser/journeys/journey_data_type_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History backend database base test fixture implementation
+// summary: Implements the base test fixture for history backend database tests, including backend creation and database version setup.
+// ---
+
 #include "components/history/core/test/history_backend_db_base_test.h"
 
 #include "base/files/file_path.h"

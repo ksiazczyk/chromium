@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journeys sync bridge unit tests
+// summary: Unit tests for JourneysSyncBridge covering merge and incremental sync changes, commit data, metadata handling and database operation success histograms.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_sync_bridge.h"
 
 #include <map>

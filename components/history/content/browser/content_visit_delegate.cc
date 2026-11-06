@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content visit delegate implementation
+// summary: Implements ContentVisitDelegate, bridging history backend URL and visited link enumeration tasks to the visited link delegate and writers.
+// ---
+
 #include "components/history/content/browser/content_visit_delegate.h"
 
 #include <utility>

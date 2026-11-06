@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for history metrics
+summary: GN build file defining the metrics source set with its dependencies and a testonly unit_tests target for the domain diversity reporter.

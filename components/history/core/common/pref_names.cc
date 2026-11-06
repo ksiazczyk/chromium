@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History preference name constants
+// summary: Defines constant strings for history preference names, covering whether history saving is disabled and whether deleting browsing and download history is permitted.
+// ---
+
 #include "components/history/core/common/pref_names.h"
 
 namespace prefs {

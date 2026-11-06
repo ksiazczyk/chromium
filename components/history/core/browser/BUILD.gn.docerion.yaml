@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for history core browser
+summary: Defines the GN build targets for the history core browser component, including the features component and the browser static library with its source list and dependencies.

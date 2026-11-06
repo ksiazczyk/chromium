@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit annotations database implementation
+// summary: Implements SQLite storage for visit content and context annotations and history clusters, including enum validation and row field handling for the history component.
+// ---
+
 #include "components/history/core/browser/visit_annotations_database.h"
 
 #include <algorithm>

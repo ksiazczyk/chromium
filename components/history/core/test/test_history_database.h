@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test history database
+// summary: Declares TestHistoryDatabase, a HistoryDatabase wrapper with default constructor values, test download interrupt reasons, and a params helper.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_TEST_HISTORY_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_TEST_TEST_HISTORY_DATABASE_H_
 

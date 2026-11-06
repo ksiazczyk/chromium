@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download conversions unit test
+// summary: Unit test verifying that history download slice infos are converted correctly into content download received slices.
+// ---
+
 #include "components/history/content/browser/download_conversions.h"
 
 #include <vector>

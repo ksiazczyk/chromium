@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingHistoryService class declaration
+// summary: Declares the service that queries and removes history across HistoryService, WebHistoryService, and SyncService and delivers history entries to a BrowsingHistoryDriver.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_BROWSING_HISTORY_SERVICE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_BROWSING_HISTORY_SERVICE_H_
 

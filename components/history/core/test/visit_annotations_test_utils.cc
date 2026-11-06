@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visit annotations test utilities implementation
+// summary: Implements helpers for visit annotation tests, including time conversion, visit and cluster ID extraction, and cluster construction.
+// ---
+
 #include "components/history/core/test/visit_annotations_test_utils.h"
 
 #include "components/history/core/browser/history_types.h"

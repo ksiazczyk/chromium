@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History database parameters implementation
+// summary: Implements HistoryDatabaseParams constructors holding the history directory, download interrupt reasons, and release channel.
+// ---
+
 #include "components/history/core/browser/history_database_params.h"
 #include "components/version_info/channel.h"
 

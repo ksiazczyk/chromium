@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitSegmentDatabase implementation
+// summary: Implements the segments and segment_usage tables that track pages for the most visited view, including usage queries, migrations, and deletion of old segment data.
+// ---
+
 #include "components/history/core/browser/visitsegment_database.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: History component DEPS include rules
+summary: Defines the allowed include dependencies for the history component, such as favicon_base, keyed_service, sync, net, sql, and ui.

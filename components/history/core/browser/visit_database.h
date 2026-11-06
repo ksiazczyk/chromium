@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visit database interface
+// summary: Declares the VisitDatabase interface for adding, deleting, updating and querying visit rows and managing sync-known flags in the history database.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_VISIT_DATABASE_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_VISIT_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link navigation throttle header
+// summary: Declares a navigation throttle that identifies the origin salt pair for incoming navigations, including non-tab navigations, and observes history service lifetime.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_VISITED_LINK_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_VISITED_LINK_NAVIGATION_THROTTLE_H_
 

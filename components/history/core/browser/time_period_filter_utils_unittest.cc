@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time period filter utils unit tests
+// summary: Verifies computed time period options, localized labels, and week boundaries for mid-week and Monday cases, plus empty results when the feature is disabled.
+// ---
+
 #include "components/history/core/browser/time_period_filter_utils.h"
 
 #include <vector>

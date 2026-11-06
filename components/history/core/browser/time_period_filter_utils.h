@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time period filter utilities declaration
+// summary: Declares the TimePeriodOptionId enum, TimePeriodOption struct, and ComputeTimePeriodOptions function used to build the history page time period filter.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_TIME_PERIOD_FILTER_UTILS_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_TIME_PERIOD_FILTER_UTILS_H_
 

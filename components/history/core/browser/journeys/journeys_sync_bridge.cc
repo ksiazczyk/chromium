@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys sync bridge implementation
+// summary: Implements the JOURNEY data type sync bridge, converting between JourneyRow and JourneySpecifics and reacting to history backend visit and URL changes.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_sync_bridge.h"
 
 #include <utility>

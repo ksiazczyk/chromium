@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingHistoryService implementation
+// summary: Implements querying and removing browsing history by combining results from the local history database and the web history service with sync and timeout handling.
+// ---
+
 #include "components/history/core/browser/browsing_history_service.h"
 
 #include <stddef.h>

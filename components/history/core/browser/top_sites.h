@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopSites interface for most visited sites
+// summary: Interface for the TopSites keyed service that stores and serves the most visited sites list, including blocked URLs, prepopulated pages, and observer notifications.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_TOP_SITES_H_
 

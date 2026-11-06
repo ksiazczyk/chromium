@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for history core browser
+summary: Lists the include rules that restrict which components and directories the code in this history browser folder may depend on.

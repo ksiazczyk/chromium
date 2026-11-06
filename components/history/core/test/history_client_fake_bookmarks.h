@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bookmarks history client declarations
+// summary: Declares HistoryClientFakeBookmarks, a HistoryClient fake that fakes bookmark-related methods for unit testing.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_TEST_HISTORY_CLIENT_FAKE_BOOKMARKS_H_
 #define COMPONENTS_HISTORY_CORE_TEST_HISTORY_CLIENT_FAKE_BOOKMARKS_H_
 

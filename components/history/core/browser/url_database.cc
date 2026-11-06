@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLDatabase implementation
+// summary: Implements the SQL-backed URLDatabase that stores, queries, updates, and migrates URL rows and keyword search terms.
+// ---
+
 #include "components/history/core/browser/url_database.h"
 
 #include <algorithm>

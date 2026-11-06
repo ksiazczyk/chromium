@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryBackendForJourneysSync interface
+// summary: Declares the HistoryBackend subset required by the journeys sync bridge, covering observer registration and adding, deleting, and querying journey rows, mainly for testability.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_HISTORY_BACKEND_FOR_JOURNEYS_SYNC_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_HISTORY_BACKEND_FOR_JOURNEYS_SYNC_H_
 

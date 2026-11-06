@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake web history service implementation
+// summary: Implements a fake WebHistoryService that simulates synced visits, web and app activity, and configurable request responses for tests.
+// ---
+
 #include "components/history/core/test/fake_web_history_service.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journeys sync metadata database implementation
+// summary: Implements SQLite storage of journey sync metadata, including per-entity metadata rows and the JOURNEY data type state in the meta table.
+// ---
+
 #include "components/history/core/browser/journeys/journeys_sync_metadata_database.h"
 
 #include <memory>

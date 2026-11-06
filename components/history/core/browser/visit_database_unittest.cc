@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the visit database
+// summary: Unit tests covering visit add, update, delete and query behavior of the visit database against an in-memory SQLite database.
+// ---
+
 #include "components/history/core/browser/visit_database.h"
 
 #include <stddef.h>

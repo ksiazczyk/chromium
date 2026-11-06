@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History constants declarations
+// summary: Declares history database filenames and title-change limits shared across the history component.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CONSTANTS_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync bridge implementation
+// summary: Implements the sync bridge that converts local history visits into sync entities, applies remote history changes, and handles conflicts, deletions, and database error metrics.
+// ---
+
 #include "components/history/core/browser/sync/history_sync_bridge.h"
 
 #include <optional>

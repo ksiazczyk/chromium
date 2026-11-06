@@ -4,6 +4,12 @@
 
 // Constants for the names of various preferences, for easier changing.
 
+// ---docerion
+// type: source
+// title: Declarations for history preference name constants
+// summary: Header declaring the extern preference name constants used by history components for saving and deleting browser history.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_COMMON_PREF_NAMES_H_
 #define COMPONENTS_HISTORY_CORE_COMMON_PREF_NAMES_H_
 

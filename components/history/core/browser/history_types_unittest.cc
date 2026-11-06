@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History types unit tests
+// summary: Unit tests for history_types.h, covering QueryResults insertion, deletion by range and by URL, and DeletionTimeRange validity checks.
+// ---
+
 #include "components/history/core/browser/history_types.h"
 
 #include <stddef.h>

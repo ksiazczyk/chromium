@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword search term enumerator implementation
+// summary: Implements enumerators that read KeywordSearchTermVisit and KeywordSearchTermRow records, including term, normalized term, visit count, and last visit time, from SQL statements.
+// ---
+
 #include "components/history/core/browser/keyword_search_term.h"
 
 #include <cmath>

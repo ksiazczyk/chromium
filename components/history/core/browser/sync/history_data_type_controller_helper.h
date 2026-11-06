@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDataTypeControllerHelper class declaration
+// summary: Declares a helper for history-related data type controllers that handles the kSavingBrowserHistoryDisabled pref and account managed status policy.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_DATA_TYPE_CONTROLLER_HELPER_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_SYNC_HISTORY_DATA_TYPE_CONTROLLER_HELPER_H_
 

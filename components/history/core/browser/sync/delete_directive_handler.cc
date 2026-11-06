@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteDirectiveHandler implementation
+// summary: Implements the SyncableService that sends locally created history delete directives to sync and expires local history entries based on server directives.
+// ---
+
 #include "components/history/core/browser/sync/delete_directive_handler.h"
 
 #include <stddef.h>

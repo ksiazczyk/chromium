@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryClient embedder interface
+// summary: Abstract interface for embedder-dependent history operations such as URL filtering, error reporting, backend client creation, and bookmark time updates.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CLIENT_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_HISTORY_CLIENT_H_
 

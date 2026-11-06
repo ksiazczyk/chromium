@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download conversion function declarations
+// summary: Declares utility functions that convert download states, danger types, interrupt reasons, IDs and slice info between history and content download types.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_DOWNLOAD_CONVERSIONS_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_DOWNLOAD_CONVERSIONS_H_
 

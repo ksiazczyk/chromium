@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journeys test utility declarations
+// summary: Declares gtest printers for journey data types and the TimeFromMicros timestamp helper shared by journeys tests so failure messages print consistently.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_TEST_UTILS_H_
 #define COMPONENTS_HISTORY_CORE_BROWSER_JOURNEYS_JOURNEYS_TEST_UTILS_H_
 

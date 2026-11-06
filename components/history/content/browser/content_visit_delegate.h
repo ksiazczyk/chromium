@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content visit delegate class declaration
+// summary: Declares ContentVisitDelegate, which forwards history visit and visited link updates to either the partitioned or unpartitioned visited link writer.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CONTENT_BROWSER_CONTENT_VISIT_DELEGATE_H_
 #define COMPONENTS_HISTORY_CONTENT_BROWSER_CONTENT_VISIT_DELEGATE_H_
 
