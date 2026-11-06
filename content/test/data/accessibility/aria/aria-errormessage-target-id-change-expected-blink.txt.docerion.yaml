@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-target-id-change-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-errormessage target ID change
+summary: Expected Blink accessibility tree snapshots for the aria-errormessage test when the referenced target element ID changes.

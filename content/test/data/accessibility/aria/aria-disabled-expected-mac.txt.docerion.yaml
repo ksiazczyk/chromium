@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-mac.txt.
+type: test
+title: Expected Mac output for the aria-disabled test
+summary: Expected macOS accessibility tree snapshot verifying AXEnabled values for aria-disabled text fields and groups.

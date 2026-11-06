@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-android-external.txt.
+type: test
+title: aria-description expected Android external output
+summary: Expected Android external accessibility output for the aria-description test, including hint and supplemental description fields.

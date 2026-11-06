@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for aria-hidden test
+summary: Expected Windows UIA accessibility tree for the aria-hidden test with Document, Group and Text controls for the blockDisplay elements.

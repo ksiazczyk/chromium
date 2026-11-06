@@ -1,0 +1,4 @@
+# Docerion header of aria-group-expected-mac.txt.
+type: test
+title: aria-group expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the aria-group test page with grouped links.

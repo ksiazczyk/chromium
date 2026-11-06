@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-android-assist-data.txt.
+type: test
+title: ARIA directory expected Android assist data
+summary: Expected Android assist data output for the ARIA directory role test, showing the WebView and ListView structure.

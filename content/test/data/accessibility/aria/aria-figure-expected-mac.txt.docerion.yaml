@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-mac.txt.
+type: test
+title: aria-figure expected Mac
+summary: Expected macOS AX accessibility tree for the aria-figure test, showing an AXGroup with figure role description containing static text 'Figure'.

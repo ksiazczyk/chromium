@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-dynamic-add-row-expected-blink.txt.
+type: test
+title: Expected Blink output for ARIA grid dynamic row addition
+summary: Expected Blink accessibility tree output for an ARIA grid after a new row is dynamically inserted.

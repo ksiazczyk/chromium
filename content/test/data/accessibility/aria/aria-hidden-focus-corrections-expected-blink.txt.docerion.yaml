@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focus-corrections-expected-blink.txt.
+type: test
+title: aria-hidden focus corrections expected Blink tree
+summary: Expected Blink accessibility tree output for the aria-hidden focus corrections test, listing ignored and invisible tree items.

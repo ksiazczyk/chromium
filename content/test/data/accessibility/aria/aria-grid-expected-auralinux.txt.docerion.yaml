@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for ARIA grid
+summary: Expected Linux accessibility tree output for an ARIA grid with column headers and grid cells.

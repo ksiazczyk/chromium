@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-blink.txt.
+type: test
+title: ARIA directory expected tree for Blink
+summary: Expected Blink accessibility tree for the ARIA directory role test, showing the directory rendered as a list inside generic containers.

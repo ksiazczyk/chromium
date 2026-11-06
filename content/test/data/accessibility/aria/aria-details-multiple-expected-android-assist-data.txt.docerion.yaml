@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-android-assist-data.txt.
+type: test
+title: aria-details multiple expected Android assist data
+summary: Expected Android assist data snapshot for the multiple aria-details test, covering comment, footnote and definition annotations on highlighted text.

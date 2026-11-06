@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-auralinux.txt.
+type: test
+title: ARIA directory expected tree for Aurora Linux
+summary: Expected auralinux accessibility tree for the ARIA directory role test, exposing the directory as a list with the directory xml-role.

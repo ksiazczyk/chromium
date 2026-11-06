@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-mac.txt.
+type: test
+title: aria-emphasis expected output for Mac
+summary: Expected macOS accessibility tree output for the aria-emphasis test, with AXEmphasisStyleGroup nodes and text values.

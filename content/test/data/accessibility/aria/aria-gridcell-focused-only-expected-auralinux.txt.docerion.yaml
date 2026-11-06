@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-focused-only-expected-auralinux.txt.
+type: test
+title: aria-gridcell focused-only expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the focused-only ARIA gridcell test.

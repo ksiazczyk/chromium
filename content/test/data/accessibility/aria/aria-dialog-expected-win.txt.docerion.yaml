@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-win.txt.
+type: test
+title: Expected Windows output for ARIA dialog test
+summary: Expected Windows accessibility tree for the ARIA dialog test with a dialog role node and static text.

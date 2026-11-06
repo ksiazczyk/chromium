@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-android-external.txt.
+type: test
+title: aria-emphasis-expected-android-external
+summary: Expected Android external accessibility tree output for the aria emphasis test page.

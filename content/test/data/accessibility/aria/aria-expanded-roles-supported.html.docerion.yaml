@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-roles-supported.html.
+type: test
+title: ARIA expanded roles supported test page
+summary: HTML test page applying aria-expanded to a wide range of ARIA roles to check which roles support the attribute, with Blink allow and deny annotations.

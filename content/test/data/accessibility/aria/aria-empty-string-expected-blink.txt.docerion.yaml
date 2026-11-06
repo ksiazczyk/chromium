@@ -1,0 +1,4 @@
+# Docerion header of aria-empty-string-expected-blink.txt.
+type: test
+title: aria-empty-string expected output for Blink
+summary: Expected Blink accessibility tree output for the aria-empty-string test, showing empty-string ARIA attributes treated as undefined.

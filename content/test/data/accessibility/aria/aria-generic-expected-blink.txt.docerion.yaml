@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA generic test
+summary: Expected Blink accessibility tree output for the aria-generic test page, including the hasAriaAttribute flag on the generic container.

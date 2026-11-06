@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-expected-android-external.txt.
+type: test
+title: aria-describedby expected Android external output
+summary: Expected Android external accessibility tree snapshot for the aria-describedby test.

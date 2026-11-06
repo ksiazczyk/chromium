@@ -1,0 +1,4 @@
+# Docerion header of aria-feed-expected-win.txt.
+type: test
+title: ARIA feed expected tree for Windows
+summary: Expected Windows accessibility tree output for the aria-feed test, listing feed and article roles with static text names.

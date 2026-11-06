@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-aria-selected-expected-uia-win.txt.
+type: test
+title: Expected UIA output for ARIA grid with aria-selected
+summary: Expected UIA accessibility tree output on Windows for an ARIA grid whose cells use aria-selected.

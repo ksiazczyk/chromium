@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-win.txt.
+type: test
+title: aria-details expected Windows IA2 accessibility tree
+summary: Expected Windows IA2/MSAA tree snapshot for the aria-details test, exposing details relations on text roles, sections and graphics.

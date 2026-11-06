@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-span-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden focused span
+summary: Expected Blink accessibility tree snapshot including a continuation showing a focused group inside a previously ignored aria-hidden container.

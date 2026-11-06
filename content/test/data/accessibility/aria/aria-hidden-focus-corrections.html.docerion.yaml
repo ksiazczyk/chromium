@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focus-corrections.html.
+type: test
+title: aria-hidden focus corrections test page
+summary: HTML test page with a tree whose tree items use aria-hidden at different levels to verify focus corrections in the accessibility tree.

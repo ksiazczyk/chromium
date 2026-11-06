@@ -1,0 +1,4 @@
+# Docerion header of aria-global-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for global ARIA attributes test
+summary: Expected Blink accessibility tree listing elements that each carry one of the global ARIA attributes, marked with hasAriaAttribute.

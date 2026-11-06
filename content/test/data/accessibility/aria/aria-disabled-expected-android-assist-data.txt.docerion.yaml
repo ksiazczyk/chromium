@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-disabled test
+summary: Expected Android assist data accessibility tree for the aria-disabled test, showing disabled state propagation to text inputs.

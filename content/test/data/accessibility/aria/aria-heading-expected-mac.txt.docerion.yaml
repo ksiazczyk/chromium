@@ -1,0 +1,4 @@
+# Docerion header of aria-heading-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for ARIA headings
+summary: Expected macOS AX accessibility tree dump for a page with ARIA heading elements at levels 1 through 6.

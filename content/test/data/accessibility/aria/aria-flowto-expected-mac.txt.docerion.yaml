@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-mac.txt.
+type: test
+title: aria-flowto expected Mac accessibility tree
+summary: Expected macOS AX accessibility tree output for the aria-flowto test, including linked UI elements for the flow relation.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-button-expected-blink.txt.
+type: test
+title: aria-hidden focused button expected Blink tree
+summary: Expected Blink accessibility tree for the aria-hidden focused button test, showing two buttons inside a main landmark.

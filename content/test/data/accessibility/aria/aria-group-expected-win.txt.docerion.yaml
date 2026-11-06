@@ -1,0 +1,4 @@
+# Docerion header of aria-group-expected-win.txt.
+type: test
+title: aria-group expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria-group test page with grouped links.

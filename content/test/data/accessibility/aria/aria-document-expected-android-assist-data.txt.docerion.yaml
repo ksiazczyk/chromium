@@ -1,0 +1,4 @@
+# Docerion header of aria-document-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-document test
+summary: Expected Android assist data accessibility tree for the aria role document test page.

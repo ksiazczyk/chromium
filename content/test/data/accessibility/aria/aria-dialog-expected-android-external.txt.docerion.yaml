@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-android-external.txt.
+type: test
+title: Expected Android external output for ARIA dialog test
+summary: Expected Android external accessibility output for the ARIA dialog test with a focusable WebView and an AlertDialog node.

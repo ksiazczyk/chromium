@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-focused-only-expected-uia-win.txt.
+type: test
+title: aria-gridcell focused-only expected Windows UIA tree
+summary: Expected Windows UIA accessibility tree snapshot for the focused-only ARIA gridcell test.

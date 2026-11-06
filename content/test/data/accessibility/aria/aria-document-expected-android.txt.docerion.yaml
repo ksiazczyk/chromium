@@ -1,0 +1,4 @@
+# Docerion header of aria-document-expected-android.txt.
+type: test
+title: aria-document-expected-android
+summary: Expected Android accessibility tree output for the aria document role test page.

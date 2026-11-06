@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-multiple-expected-blink.txt.
+type: test
+title: aria-flowto-multiple expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the aria-flowto-multiple test, where several elements declare flowto relations.

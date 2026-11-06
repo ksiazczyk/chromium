@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-hidden test
+summary: Expected Android accessibility tree for the aria-hidden test, listing TextView nodes named blockDisplay and blockDisplay Hiddenfalse.

@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-android-external.txt.
+type: test
+title: Expected Android external output for the aria-disabled test
+summary: Expected Android external accessibility tree snapshot verifying aria-disabled behavior on text fields and containers.

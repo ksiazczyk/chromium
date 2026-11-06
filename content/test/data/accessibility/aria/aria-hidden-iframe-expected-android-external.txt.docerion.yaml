@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-iframe-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria-hidden iframe test
+summary: Expected Android accessibility output in external format for the aria-hidden iframe test, showing buttons around a hidden iframe.

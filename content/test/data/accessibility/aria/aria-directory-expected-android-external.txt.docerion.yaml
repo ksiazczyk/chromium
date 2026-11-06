@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-android-external.txt.
+type: test
+title: ARIA directory expected Android external output
+summary: Expected external Android accessibility output for the ARIA directory role test, including actions and bundle information.

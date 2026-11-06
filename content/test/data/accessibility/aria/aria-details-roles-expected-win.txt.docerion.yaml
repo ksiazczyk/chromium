@@ -1,0 +1,4 @@
+# Docerion header of aria-details-roles-expected-win.txt.
+type: test
+title: aria-details-roles expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the aria-details-roles test, showing details relations and roles for comment, definition, endnote and footnote targets.

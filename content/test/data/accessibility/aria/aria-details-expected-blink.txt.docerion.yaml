@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-blink.txt.
+type: test
+title: aria-details expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the aria-details test, showing how details relationships are exposed on text fields, paragraphs, groups and images.

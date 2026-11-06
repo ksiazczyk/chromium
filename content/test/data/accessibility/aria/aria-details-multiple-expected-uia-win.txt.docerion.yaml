@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-uia-win.txt.
+type: test
+title: aria-details-multiple expected UIA output for Windows
+summary: Expected UIA accessibility tree snapshot for the aria-details-multiple test, showing comment, footnote and definition annotations on highlighted text.

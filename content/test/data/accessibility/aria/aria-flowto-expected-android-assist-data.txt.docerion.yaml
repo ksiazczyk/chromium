@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-android-assist-data.txt.
+type: test
+title: aria-flowto expected Android assist data
+summary: Expected Android assist data snapshot for the aria-flowto test, showing sections labeled 'current' and 'next' linked via the aria-flowto attribute.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden test
+summary: Expected Blink internal accessibility tree for the aria-hidden test, including generic containers, static text and line-breaking object information.

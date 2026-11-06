@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for ARIA dialog test
+summary: Expected Android assist data accessibility tree for the ARIA dialog test, listing the WebView, dialog and text nodes.

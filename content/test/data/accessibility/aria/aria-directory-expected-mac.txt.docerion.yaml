@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-mac.txt.
+type: test
+title: ARIA directory expected tree for macOS
+summary: Expected macOS accessibility tree for the ARIA directory role test, exposing the directory as an AXList with the AXContentList subrole.

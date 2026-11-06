@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis.html.
+type: test
+title: aria-emphasis accessibility test page
+summary: HTML test page exercising the emphasis role and em elements with and without accessible names for accessibility tree verification.

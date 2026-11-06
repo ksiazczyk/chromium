@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-android-external.txt.
+type: test
+title: aria-figure expected Android external
+summary: Expected Android accessibility tree output in the external format for the aria-figure test, showing the figure role mapped with roleDescription 'graphic'.

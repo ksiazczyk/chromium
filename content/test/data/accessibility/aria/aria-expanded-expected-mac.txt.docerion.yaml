@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-mac.txt.
+type: test
+title: aria-expanded expected macOS output
+summary: Expected macOS AX accessibility output for the aria-expanded test with menu items and splitters.

@@ -1,0 +1,4 @@
+# Docerion header of aria-fieldset-describedby-expected-mac.txt.
+type: test
+title: ARIA fieldset describedby expected tree for macOS
+summary: Expected macOS accessibility tree output for the fieldset aria-describedby test, showing the fieldset group with its help text.

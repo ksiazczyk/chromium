@@ -1,0 +1,4 @@
+# Docerion header of aria-group-expected-blink.txt.
+type: test
+title: aria-group expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree output for the aria-group test page with grouped links.

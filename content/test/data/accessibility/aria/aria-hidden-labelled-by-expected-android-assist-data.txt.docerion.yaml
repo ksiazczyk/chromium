@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-labelled-by-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-hidden labelled-by test
+summary: Expected Android assist data output for the aria-hidden labelled-by test showing spans labelled through aria-labelledby.

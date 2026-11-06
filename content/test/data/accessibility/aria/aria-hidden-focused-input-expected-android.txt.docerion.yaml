@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-input-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-hidden focused input
+summary: Expected Android accessibility tree snapshot showing two editable text fields inside an aria-hidden container with the second input focused.

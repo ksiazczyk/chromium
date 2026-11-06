@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-blink.txt.
+type: test
+title: Expected Blink output for ARIA dialog test
+summary: Expected Blink internal accessibility tree for the ARIA dialog test, including dialog and static text nodes.

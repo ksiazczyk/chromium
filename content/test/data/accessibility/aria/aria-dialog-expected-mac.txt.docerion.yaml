@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-mac.txt.
+type: test
+title: Expected macOS output for ARIA dialog test
+summary: Expected macOS accessibility tree for the ARIA dialog test with an AXApplicationDialog group and static text.

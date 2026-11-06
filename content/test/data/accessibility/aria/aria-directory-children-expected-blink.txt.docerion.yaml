@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-children-expected-blink.txt.
+type: test
+title: ARIA directory children expected tree for Blink
+summary: Expected Blink accessibility tree snapshot for the ARIA directory children test, including static text and inline text boxes.

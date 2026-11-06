@@ -1,0 +1,4 @@
+# Docerion header of aria-feed-expected-mac.txt.
+type: test
+title: ARIA feed expected tree for macOS
+summary: Expected macOS accessibility tree output for the aria-feed test, describing feed and article groups with their static text values.

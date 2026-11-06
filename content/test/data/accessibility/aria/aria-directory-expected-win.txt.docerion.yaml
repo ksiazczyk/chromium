@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-win.txt.
+type: test
+title: ARIA directory expected tree for Windows
+summary: Expected Windows accessibility tree for the ARIA directory role test, exposing the directory as ROLE_SYSTEM_LIST with the directory xml-role.

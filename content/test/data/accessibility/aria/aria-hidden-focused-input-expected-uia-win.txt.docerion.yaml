@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-input-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for aria-hidden focused input
+summary: Expected Windows UIA accessibility tree snapshot with two Edit elements inside a Group for the aria-hidden focused input test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-html.html.
+type: test
+title: Test page for aria-hidden ignored on the html element
+summary: HTML test page that sets aria-hidden on the html element to verify accessibility ignores it there.

@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-grid
+summary: Expected macOS accessibility tree snapshot for the aria-grid test page showing table, row, column header and cell roles.

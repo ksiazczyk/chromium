@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-win.txt.
+type: test
+title: Expected Windows output for the aria-disabled test
+summary: Expected Windows accessibility tree snapshot verifying UNAVAILABLE states for aria-disabled text roles.

@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-blink.txt.
+type: test
+title: aria-description expected output for the Blink accessibility tree
+summary: Expected Blink accessibility tree serialization for the aria-description test page, including description sources and describedby relationships.

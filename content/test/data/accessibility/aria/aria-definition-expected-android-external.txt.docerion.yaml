@@ -1,0 +1,4 @@
+# Docerion header of aria-definition-expected-android-external.txt.
+type: test
+title: aria-definition expected Android external data
+summary: Expected Android external accessibility data for the aria-definition test page, including the definition role description.

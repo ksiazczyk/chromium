@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-reference-target-expected-blink.txt.
+type: test
+title: aria-describedby reference target expected Blink output
+summary: Expected Blink accessibility tree snapshot for the aria-describedby reference target test, covering descriptions resolved to tooltip targets inside shadow roots.

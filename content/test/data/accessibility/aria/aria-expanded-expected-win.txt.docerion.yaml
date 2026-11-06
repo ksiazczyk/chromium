@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-win.txt.
+type: test
+title: aria-expanded expected Windows output
+summary: Expected Windows MSAA/IA2 accessibility output for the aria-expanded test with menu items and separators.

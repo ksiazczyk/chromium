@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-gridcell
+summary: Expected Android assist data accessibility tree for the aria-gridcell test page showing grid, row, columnheader and gridcell views.

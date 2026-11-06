@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-android-assist-data.txt.
+type: test
+title: ARIA generic expected output for Android assist data
+summary: Expected Android assist-data accessibility tree for the ARIA generic role test, showing a fieldset exposed with the generic role.

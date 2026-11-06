@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-expected-android-external.txt.
+type: test
+title: aria-errormessage expected Android external output
+summary: Expected Android accessibility output for the aria-errormessage test, listing text fields with error descriptions and error paragraphs.

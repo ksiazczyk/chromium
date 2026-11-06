@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-roles-supported-expected-blink.txt.
+type: test
+title: aria-expanded roles supported expected Blink output
+summary: Expected Blink accessibility tree listing which ARIA roles expose the expanded state in the roles-supported aria-expanded test.

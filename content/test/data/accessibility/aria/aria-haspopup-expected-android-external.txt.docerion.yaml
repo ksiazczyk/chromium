@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-android-external.txt.
+type: test
+title: aria-haspopup expected Android external accessibility tree
+summary: Expected accessibility tree snapshot for the aria-haspopup test page in the Android external format, listing spinner nodes with popup and click actions.

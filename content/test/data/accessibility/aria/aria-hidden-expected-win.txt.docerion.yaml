@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-win.txt.
+type: test
+title: Expected Windows MSAA and IA2 tree for aria-hidden test
+summary: Expected Windows MSAA and IA2 accessibility tree for the aria-hidden test with document, section and static text roles for the blockDisplay elements.

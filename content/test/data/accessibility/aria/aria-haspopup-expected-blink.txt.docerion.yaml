@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-blink.txt.
+type: test
+title: aria-haspopup expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the aria-haspopup test page, listing combo box menu buttons with haspopup values.

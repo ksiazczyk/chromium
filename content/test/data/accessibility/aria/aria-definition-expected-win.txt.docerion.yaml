@@ -1,0 +1,4 @@
+# Docerion header of aria-definition-expected-win.txt.
+type: test
+title: aria-definition expected Windows tree
+summary: Expected Windows accessibility tree output for the aria-definition test page, listing the xml-roles:definition attribute.

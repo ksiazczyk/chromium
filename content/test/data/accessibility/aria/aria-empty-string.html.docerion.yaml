@@ -1,0 +1,4 @@
+# Docerion header of aria-empty-string.html.
+type: test
+title: aria-empty-string accessibility test page
+summary: HTML test page setting boolean and token ARIA attributes to empty strings to verify they behave as undefined.

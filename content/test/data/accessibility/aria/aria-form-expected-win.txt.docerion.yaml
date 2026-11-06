@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-win.txt.
+type: test
+title: ARIA form expected output for Windows
+summary: Expected Windows accessibility tree for the ARIA form test, mapping role=form elements to IA2 roles and static text.

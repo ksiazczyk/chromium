@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-blink.txt.
+type: test
+title: Expected Blink output for ARIA grid
+summary: Expected Blink accessibility tree output for an ARIA grid with column headers and grid cells.

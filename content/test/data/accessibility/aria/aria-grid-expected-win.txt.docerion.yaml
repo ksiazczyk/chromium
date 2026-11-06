@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-grid
+summary: Expected MSAA/IA2 accessibility tree snapshot for the aria-grid test page with grid, row, columnheader and gridcell roles.

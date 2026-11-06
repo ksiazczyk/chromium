@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-android-external.txt.
+type: test
+title: Expected Android external tree for aria-gridcell
+summary: Expected Android external accessibility tree for the aria-gridcell test page with collection info for grid rows and cells.

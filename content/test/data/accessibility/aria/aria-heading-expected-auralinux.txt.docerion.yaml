@@ -1,0 +1,4 @@
+# Docerion header of aria-heading-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for ARIA headings
+summary: Expected auralinux accessibility tree dump for a page with ARIA heading elements at levels 1 through 6.

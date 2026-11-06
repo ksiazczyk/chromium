@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-described-by-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-hidden with aria-describedby
+summary: Expected Windows accessibility tree for the aria-hidden described-by test, listing sections whose descriptions come from aria-describedby referenced spans.

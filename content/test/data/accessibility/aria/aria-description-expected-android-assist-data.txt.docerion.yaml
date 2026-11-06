@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-android-assist-data.txt.
+type: test
+title: aria-description expected Android assist data
+summary: Expected Android assist data output for the aria-description test, showing how aria-description and aria-describedby combine.

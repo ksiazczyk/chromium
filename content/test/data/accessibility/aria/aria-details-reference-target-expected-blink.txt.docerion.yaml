@@ -1,0 +1,4 @@
+# Docerion header of aria-details-reference-target-expected-blink.txt.
+type: test
+title: aria-details reference target expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the aria-details reference target test, showing details relations to a group and an image in shadow DOM.

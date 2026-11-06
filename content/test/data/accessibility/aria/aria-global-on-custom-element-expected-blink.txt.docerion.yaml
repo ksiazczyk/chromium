@@ -1,0 +1,4 @@
+# Docerion header of aria-global-on-custom-element-expected-blink.txt.
+type: test
+title: Expected Blink tree for global ARIA on custom elements
+summary: Expected Blink accessibility tree for the custom element test where elements with role=none and global ARIA attributes are not exposed.

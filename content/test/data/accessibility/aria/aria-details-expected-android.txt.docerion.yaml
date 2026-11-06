@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-android.txt.
+type: test
+title: aria-details expected Android accessibility tree output
+summary: Expected Android accessibility tree for the aria-details test page listing views, text views and an image used as detail targets.

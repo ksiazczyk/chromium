@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-android-external.txt.
+type: test
+title: aria-details multiple expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the multiple aria-details test, with role descriptions for highlight, comment, footnote and definition views.

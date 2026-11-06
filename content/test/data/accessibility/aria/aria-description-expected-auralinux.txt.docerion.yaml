@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-auralinux.txt.
+type: test
+title: aria-description expected output for the Linux accessibility tree
+summary: Expected Linux ATK accessibility tree for the aria-description test page, showing descriptions from aria-description and aria-describedby.

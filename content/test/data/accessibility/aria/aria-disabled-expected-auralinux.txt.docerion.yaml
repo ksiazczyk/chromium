@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for the aria-disabled test
+summary: Expected Linux accessibility tree snapshot verifying enabled and sensitive states for aria-disabled entries.

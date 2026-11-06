@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-android.txt.
+type: test
+title: aria-figure expected Android
+summary: Expected Android accessibility tree snapshot for the aria-figure test, describing how a figure role is exposed with role_description 'graphic'.

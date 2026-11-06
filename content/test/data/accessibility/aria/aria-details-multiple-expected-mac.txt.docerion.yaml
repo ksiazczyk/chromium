@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-mac.txt.
+type: test
+title: aria-details multiple expected macOS accessibility tree
+summary: Expected macOS AX tree snapshot for the multiple aria-details test, listing AXDetailsElements links to comment, footnote and definition groups.

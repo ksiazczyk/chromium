@@ -1,0 +1,4 @@
+# Docerion header of aria-details-target-id-change-expected-blink.txt.
+type: test
+title: aria-details target id change expected Blink accessibility tree
+summary: Expected Blink accessibility tree across continuations for the aria-details target id change test, covering switching, removing and restoring the reference.

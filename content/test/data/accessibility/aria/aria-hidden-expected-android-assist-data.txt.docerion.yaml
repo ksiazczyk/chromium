@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-hidden test
+summary: Expected Android assist data snapshot for the aria-hidden test, showing TextView nodes for visible divs and one with aria-hidden set to false.

@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-multiple-expected-win.txt.
+type: test
+title: aria-flowto-multiple expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree output for the aria-flowto-multiple test with focusable sections and flow relations.

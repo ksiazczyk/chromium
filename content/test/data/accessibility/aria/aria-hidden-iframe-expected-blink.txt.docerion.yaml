@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-iframe-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden iframe test
+summary: Expected Blink accessibility tree snapshot for the aria-hidden iframe test showing Before and After buttons around a hidden iframe.

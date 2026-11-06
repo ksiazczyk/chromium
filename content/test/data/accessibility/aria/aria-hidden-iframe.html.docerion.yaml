@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-iframe.html.
+type: test
+title: Test page with aria-hidden iframe
+summary: HTML test page that marks an iframe aria-hidden and signals completion through the document title for the accessibility test.

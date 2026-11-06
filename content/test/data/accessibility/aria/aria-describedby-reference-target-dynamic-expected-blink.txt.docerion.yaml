@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-reference-target-dynamic-expected-blink.txt.
+type: test
+title: aria-describedby reference target dynamic expected Blink output
+summary: Expected Blink accessibility tree snapshot for the dynamic aria-describedby reference target test.
