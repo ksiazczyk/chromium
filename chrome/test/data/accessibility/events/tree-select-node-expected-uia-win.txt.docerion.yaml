@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-expected-uia-win.txt.
+type: test
+title: Tree node selection expected events on Windows UIA
+summary: Expected UI Automation SelectionItem element-selected event on a tree item when a tree node is selected in a test.

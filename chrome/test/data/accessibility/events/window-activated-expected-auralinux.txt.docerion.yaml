@@ -1,0 +1,4 @@
+# Docerion header of window-activated-expected-auralinux.txt.
+type: test
+title: Window activated expected events on Linux
+summary: Expected Linux accessibility events for window activation, listing active-state changes on the frame.

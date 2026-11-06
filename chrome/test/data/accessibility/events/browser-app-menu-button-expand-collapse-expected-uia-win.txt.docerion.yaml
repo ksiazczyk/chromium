@@ -1,0 +1,4 @@
+# Docerion header of browser-app-menu-button-expand-collapse-expected-uia-win.txt.
+type: test
+title: Browser App Menu Button Expand Collapse UIA Expectation
+summary: Expected Windows UIA ExpandCollapseState change events for the browser app menu button expand and collapse test.

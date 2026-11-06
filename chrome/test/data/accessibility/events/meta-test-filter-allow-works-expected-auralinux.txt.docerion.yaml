@@ -1,0 +1,4 @@
+# Docerion header of meta-test-filter-allow-works-expected-auralinux.txt.
+type: test
+title: Meta test filter allow expected events for Linux
+summary: Expected Linux AT-SPI accessibility events verifying that the allow filter works, containing a focus event on the Test Button push button.

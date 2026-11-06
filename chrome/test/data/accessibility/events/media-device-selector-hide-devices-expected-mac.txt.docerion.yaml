@@ -1,0 +1,4 @@
+# Docerion header of media-device-selector-hide-devices-expected-mac.txt.
+type: test
+title: Expected device selector hide-devices events on Mac
+summary: Empty expected accessibility event output for hiding media device selector devices on macOS.

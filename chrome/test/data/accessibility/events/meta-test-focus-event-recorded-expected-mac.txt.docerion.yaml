@@ -1,0 +1,4 @@
+# Docerion header of meta-test-focus-event-recorded-expected-mac.txt.
+type: test
+title: Meta test focus event recorded expected events for macOS
+summary: Expected macOS AXFocusedUIElementChanged event recorded when a Test Button receives focus in the meta test.

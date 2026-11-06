@@ -1,0 +1,4 @@
+# Docerion header of tree-collapse-node-expected-uia-win.txt.
+type: test
+title: Tree collapse expected events on Windows UIA
+summary: Expected UI Automation ExpandCollapse state-change event on a tree item when a tree node is collapsed in a test.

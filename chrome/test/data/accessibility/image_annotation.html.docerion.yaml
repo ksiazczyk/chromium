@@ -1,0 +1,4 @@
+# Docerion header of image_annotation.html.
+type: test
+title: Image annotation test page
+summary: Test page displaying three images (red, green, printer) for basic image annotation testing.

@@ -1,0 +1,4 @@
+# Docerion header of button-click-expected-auralinux.txt.
+type: test
+title: Button Click Linux ATK Expectation
+summary: Expected Linux ATK accessibility events, including the checked state change on the test push button, for the button click test.

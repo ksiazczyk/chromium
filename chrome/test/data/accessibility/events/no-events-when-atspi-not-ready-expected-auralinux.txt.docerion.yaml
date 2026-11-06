@@ -1,0 +1,4 @@
+# Docerion header of no-events-when-atspi-not-ready-expected-auralinux.txt.
+type: test
+title: No events when AT-SPI not ready expected output for Linux AT-SPI
+summary: Empty expected Linux AT-SPI output verifying that no accessibility events are recorded when AT-SPI is not ready.

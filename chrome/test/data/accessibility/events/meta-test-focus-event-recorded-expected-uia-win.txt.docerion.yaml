@@ -1,0 +1,4 @@
+# Docerion header of meta-test-focus-event-recorded-expected-uia-win.txt.
+type: test
+title: Meta test focus event recorded expected events for Windows UIA
+summary: Expected Windows UIA AutomationFocusChanged event recorded when a Test Button receives focus in the meta test.

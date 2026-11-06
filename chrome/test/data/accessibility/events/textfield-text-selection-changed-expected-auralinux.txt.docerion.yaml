@@ -1,0 +1,4 @@
+# Docerion header of textfield-text-selection-changed-expected-auralinux.txt.
+type: test
+title: Textfield text selection changed expected events (Linux)
+summary: Expected Linux accessibility events emitted when a textfield's text selection changes.

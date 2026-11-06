@@ -1,0 +1,4 @@
+# Docerion header of tooltip-closed-expected-uia-win.txt.
+type: test
+title: Tooltip closed expected UIA events
+summary: Expected UIA accessibility events when a tooltip closes on Windows.

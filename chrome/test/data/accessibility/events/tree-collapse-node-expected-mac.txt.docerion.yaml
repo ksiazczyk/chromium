@@ -1,0 +1,4 @@
+# Docerion header of tree-collapse-node-expected-mac.txt.
+type: test
+title: Tree collapse expected events on macOS
+summary: Expected macOS AXRowCollapsed notification emitted when a tree node is collapsed in an accessibility event test.

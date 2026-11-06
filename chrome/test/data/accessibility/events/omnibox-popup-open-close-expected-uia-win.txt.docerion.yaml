@@ -1,0 +1,4 @@
+# Docerion header of omnibox-popup-open-close-expected-uia-win.txt.
+type: test
+title: Omnibox popup open/close expected UIA events (Windows)
+summary: Expected UIA accessibility events fired when the omnibox popup opens and closes on Windows.

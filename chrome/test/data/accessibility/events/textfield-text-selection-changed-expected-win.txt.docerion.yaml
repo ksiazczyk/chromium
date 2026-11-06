@@ -1,0 +1,4 @@
+# Docerion header of textfield-text-selection-changed-expected-win.txt.
+type: test
+title: Textfield text selection changed expected Windows events
+summary: Expected Windows accessibility events when the text selection changes in a text field.

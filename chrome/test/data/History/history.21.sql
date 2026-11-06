@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Version 21 history database SQL fixture
+-- summary: SQL script that creates a version 21 history database schema with old-format android_urls and downloads tables, presumably for migration testing.
+-- ---
+
 BEGIN TRANSACTION;
 -- Version reset
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY,value LONGVARCHAR);

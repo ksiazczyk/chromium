@@ -1,0 +1,4 @@
+# Docerion header of button-focus-expected-win.txt.
+type: test
+title: Button focus expected events for Windows
+summary: Expected Windows accessibility output for a button focus event, listing the EVENT_OBJECT_FOCUS event on the Test Button.

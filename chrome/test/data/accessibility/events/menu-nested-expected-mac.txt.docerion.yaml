@@ -1,0 +1,4 @@
+# Docerion header of menu-nested-expected-mac.txt.
+type: test
+title: Nested menu expected events for macOS
+summary: Expected macOS accessibility event sequence for the nested menu test, listing AXMenuOpened and AXMenuClosed notifications.

@@ -1,0 +1,4 @@
+# Docerion header of textfield-text-selection-changed-expected-mac.txt.
+type: test
+title: Textfield text selection changed expected events (macOS)
+summary: Expected macOS accessibility events emitted when a textfield's text selection changes.

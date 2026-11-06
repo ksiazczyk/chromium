@@ -1,0 +1,4 @@
+# Docerion header of menu-show-hide-expected-auralinux.txt.
+type: test
+title: Menu show and hide expected events for Linux
+summary: Expected Linux AT-SPI accessibility events for the menu show and hide test, containing a SHOWING state change on the menu role.

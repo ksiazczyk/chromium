@@ -1,0 +1,4 @@
+# Docerion header of menu-nested-expected-auralinux.txt.
+type: test
+title: Expected nested menu events on Linux
+summary: Expected Linux accessibility events for nested menus, listing showing state changes for each submenu level.

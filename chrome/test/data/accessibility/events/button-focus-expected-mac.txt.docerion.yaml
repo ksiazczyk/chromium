@@ -1,0 +1,4 @@
+# Docerion header of button-focus-expected-mac.txt.
+type: test
+title: Button focus expected events for Mac
+summary: Expected macOS accessibility output for a button focus event, listing the AXFocusedUIElementChanged notification for the Test Button.

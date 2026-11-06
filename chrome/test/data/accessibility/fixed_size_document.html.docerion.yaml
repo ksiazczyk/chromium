@@ -1,0 +1,4 @@
+# Docerion header of fixed_size_document.html.
+type: test
+title: Fixed size document test page
+summary: Test page with a fixed 300x300 body containing two absolutely positioned buttons for accessibility layout testing.

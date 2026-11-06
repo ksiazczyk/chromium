@@ -1,0 +1,4 @@
+# Docerion header of push_state.html.
+type: test
+title: Push State Test Page
+summary: Test page that pushes a history state entry with history.pushState for history API testing.

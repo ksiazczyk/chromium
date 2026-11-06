@@ -1,0 +1,4 @@
+# Docerion header of redirector.html.
+type: test
+title: Redirector Page to Landing
+summary: Redirect page that forwards to landing.html via meta refresh, used by the history functional tests.

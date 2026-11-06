@@ -1,0 +1,4 @@
+# Docerion header of button-enabled-state-changed-expected-uia-win.txt.
+type: test
+title: Button Enabled State Changed Windows UIA Expectation
+summary: Expected Windows UIA IsEnabled property change events when the test button is enabled and disabled.

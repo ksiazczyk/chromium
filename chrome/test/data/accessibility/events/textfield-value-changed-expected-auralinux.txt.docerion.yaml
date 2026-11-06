@@ -1,0 +1,4 @@
+# Docerion header of textfield-value-changed-expected-auralinux.txt.
+type: test
+title: Textfield value changed expected Linux accessibility events
+summary: Expected Linux accessibility events when a text field's value changes.

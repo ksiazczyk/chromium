@@ -1,0 +1,4 @@
+# Docerion header of tree-select-node-expected-auralinux.txt.
+type: test
+title: Tree node selection expected events on Linux
+summary: Expected Linux selection-changed and selected state events for a tree and its items when a tree node is selected in a test.

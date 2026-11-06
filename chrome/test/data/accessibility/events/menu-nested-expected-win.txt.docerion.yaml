@@ -1,0 +1,4 @@
+# Docerion header of menu-nested-expected-win.txt.
+type: test
+title: Nested menu expected events for Windows MSAA
+summary: Expected Windows accessibility events for the nested menu test, recording EVENT_SYSTEM_MENUPOPUPSTART and MENUPOPUPEND for each submenu level.

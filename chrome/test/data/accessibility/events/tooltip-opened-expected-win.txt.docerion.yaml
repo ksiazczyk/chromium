@@ -1,0 +1,4 @@
+# Docerion header of tooltip-opened-expected-win.txt.
+type: test
+title: Tooltip opened expected Windows accessibility events
+summary: Expected Windows accessibility events when a tooltip opens.

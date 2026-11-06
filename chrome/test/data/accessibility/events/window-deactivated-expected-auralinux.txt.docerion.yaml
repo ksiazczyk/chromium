@@ -1,0 +1,4 @@
+# Docerion header of window-deactivated-expected-auralinux.txt.
+type: test
+title: Window deactivated expected events on Linux
+summary: Expected Linux accessibility event for window deactivation, listing the frame's active state changing to false.

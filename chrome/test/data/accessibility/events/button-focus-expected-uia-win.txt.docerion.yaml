@@ -1,0 +1,4 @@
+# Docerion header of button-focus-expected-uia-win.txt.
+type: test
+title: Button focus expected events for UIA on Windows
+summary: Expected UI Automation output for a button focus event on Windows, recording the AutomationFocusChanged event for the Test Button.

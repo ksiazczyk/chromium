@@ -1,0 +1,4 @@
+# Docerion header of click_zero_area_anchor.html.
+type: test
+title: Click zero-area anchor test page
+summary: HTML test page with an anchor containing two positioned fragments and a click counter, used to exercise clicking zero-area anchors in browser actor tests.

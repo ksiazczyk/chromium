@@ -1,0 +1,4 @@
+# Docerion header of button-enabled-state-changed-expected-win.txt.
+type: test
+title: Button Enabled State Changed Windows IA2 Expectation
+summary: Expected Windows IA2 EVENT_OBJECT_STATECHANGE events when the test button is enabled and disabled.

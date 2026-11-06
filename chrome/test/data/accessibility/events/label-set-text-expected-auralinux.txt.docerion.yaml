@@ -1,0 +1,4 @@
+# Docerion header of label-set-text-expected-auralinux.txt.
+type: test
+title: Label text change expected events for Linux
+summary: Expected Linux accessibility output after a label's text is set, listing the NAME-CHANGED event with the updated text.

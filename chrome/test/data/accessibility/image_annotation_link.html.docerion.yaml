@@ -1,0 +1,4 @@
+# Docerion header of image_annotation_link.html.
+type: test
+title: Image annotation link test page
+summary: Test page covering cases where a link containing an image should or should not receive an accessibility annotation.

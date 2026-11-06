@@ -1,0 +1,4 @@
+# Docerion header of menu-show-hide-expected-win.txt.
+type: test
+title: Menu show and hide expected events for Windows MSAA
+summary: Expected Windows accessibility events for the menu show and hide test, recording menu popup start and end events on the SubmenuView class.

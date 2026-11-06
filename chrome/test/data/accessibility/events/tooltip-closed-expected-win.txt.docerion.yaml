@@ -1,0 +1,4 @@
+# Docerion header of tooltip-closed-expected-win.txt.
+type: test
+title: Tooltip closed expected Windows accessibility events
+summary: Expected Windows accessibility events when a tooltip closes.
