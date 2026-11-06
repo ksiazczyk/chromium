@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottleneckBuffer class declaration
+// summary: Declares a latency-modeling bottleneck buffer with BDP-based capacity, data-ready and space-available callbacks, and stream versus datagram modes.
+// ---
+
 #ifndef NET_SOCKET_BOTTLENECK_BUFFER_H_
 #define NET_SOCKET_BOTTLENECK_BUFFER_H_
 

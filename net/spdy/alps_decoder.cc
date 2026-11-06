@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALPS decoder implementation
+// summary: Implements decoding of HTTP/2 SETTINGS and ACCEPT_CH frames carried in the ALPS TLS extension, reporting errors and metrics.
+// ---
+
 #include "net/spdy/alps_decoder.h"
 
 #include <string_view>

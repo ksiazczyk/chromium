@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzedSocket class header
+// summary: Declares FuzzedSocket, a TransportClientSocket that produces deterministic fuzzed reads, writes, and connect results.
+// ---
+
 #ifndef NET_SOCKET_FUZZED_SOCKET_H_
 #define NET_SOCKET_FUZZED_SOCKET_H_
 

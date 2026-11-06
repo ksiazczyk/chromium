@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP client socket implementation
+// summary: Implements the UDP client socket, supporting connect, network binding, socket tagging, and NetLog events for datagram communication.
+// ---
+
 #include "net/socket/udp_client_socket.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport client socket pool unit tests
+// summary: Unit tests for TransportClientSocketPool covering connection establishment, idle socket reuse, priorities, proxy jobs and Happy Eyeballs behavior.
+// ---
+
 #include "net/socket/transport_client_socket_pool.h"
 
 #include <limits>

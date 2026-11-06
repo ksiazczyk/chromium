@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdyBuffer unit tests
+// summary: Unit tests covering SpdyBuffer construction from frames and raw data, consume callbacks, discard on destruction, and IOBuffer behavior for remaining data.
+// ---
+
 #include "net/spdy/spdy_buffer.h"
 
 #include <cstddef>

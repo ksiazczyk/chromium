@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCKS5 client socket implementation
+// summary: Implements the SOCKSv5 greet and handshake state machine over a transport socket, providing StreamSocket read, write, and connect behavior.
+// ---
+
 #include "net/socket/socks5_client_socket.h"
 
 #include <stdint.h>

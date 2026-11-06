@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection attempt record types
+// summary: Defines the ConnectionAttempt struct and ConnectionAttempts list recording endpoints and error results of connection attempts.
+// ---
+
 #ifndef NET_SOCKET_CONNECTION_ATTEMPTS_H_
 #define NET_SOCKET_CONNECTION_ATTEMPTS_H_
 

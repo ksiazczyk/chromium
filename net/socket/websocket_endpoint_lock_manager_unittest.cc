@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket endpoint lock manager unit tests
+// summary: Tests endpoint lock acquisition, queuing of waiters and unlock delay behavior of the WebSocket endpoint lock manager.
+// ---
+
 #include "net/socket/websocket_endpoint_lock_manager.h"
 
 #include <array>

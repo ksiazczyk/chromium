@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyWriteQueue class declaration
+// summary: Declares SpdyWriteQueue, a priority and FIFO ordered queue of frame producers with helpers to remove or reprioritize pending writes.
+// ---
+
 #ifndef NET_SPDY_SPDY_WRITE_QUEUE_H_
 #define NET_SPDY_SPDY_WRITE_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPServerSocket unit tests
+// summary: Unit tests for TCPServerSocket covering synchronous and asynchronous accept over IPv4 and IPv6 loopback with connecting client sockets.
+// ---
+
 #include "net/socket/tcp_server_socket.h"
 
 #include <memory>

@@ -13,6 +13,12 @@
 //
 // Implementations of these two classes are included in this file.
 
+// ---docerion
+// type: test
+// title: SSL server socket unit tests
+// summary: Tests the SSL server socket implementation by pairing it with SSLClientSocket over fake data channels, covering handshakes and client certificates.
+// ---
+
 #include "net/socket/ssl_server_socket.h"
 
 #include <stdint.h>

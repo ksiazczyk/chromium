@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default client socket factory implementation
+// summary: Provides the default ClientSocketFactory singleton that creates UDP, TCP, and SSL client sockets.
+// ---
+
 #include "net/socket/client_socket_factory.h"
 
 #include <utility>

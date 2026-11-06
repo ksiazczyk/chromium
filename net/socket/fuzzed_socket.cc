@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed socket implementation
+// summary: Implements a StreamSocket whose connect, read, and write results and data are generated from a FuzzedDataProvider for fuzzing.
+// ---
+
 #include "net/socket/fuzzed_socket.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkBindingClientSocketFactory class header
+// summary: Declares a ClientSocketFactory that binds sockets to a specific network for the legacy multi-networking approach in Cronet and CCT.
+// ---
+
 #ifndef NET_SOCKET_NETWORK_BINDING_CLIENT_SOCKET_FACTORY_H_
 #define NET_SOCKET_NETWORK_BINDING_CLIENT_SOCKET_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SOCKS connect job unit tests
+// summary: Unit tests for SOCKSConnectJob covering SOCKS4 and SOCKS5 connections, host resolution failures, and handshake timeouts.
+// ---
+
 #include "net/socket/socks_connect_job.h"
 
 #include "base/containers/flat_set.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottleneckBuffer implementation
+// summary: Implements a per-socket buffer that models one-way propagation delay, with capacity backpressure and stream or datagram push/pull modes.
+// ---
+
 #include "net/socket/bottleneck_buffer.h"
 
 #include <algorithm>

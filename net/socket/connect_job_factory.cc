@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job factory implementation
+// summary: Implements ConnectJobFactory, which creates the appropriate connect job for a given endpoint, proxy chain and connection settings.
+// ---
+
 #include "net/socket/connect_job_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyBuffer implementation
+// summary: Implements SpdyBuffer, which holds SPDY frame data, tracks consumed bytes, and invokes consume callbacks when data is consumed or the buffer is destroyed.
+// ---
+
 #include "net/spdy/spdy_buffer.h"
 
 #include <cstring>

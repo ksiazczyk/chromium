@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCKS connect job implementation
+// summary: Implements SOCKSConnectJob, which establishes a transport connection and performs the SOCKS4 or SOCKS5 handshake to create a proxy tunnel.
+// ---
+
 #include "net/socket/socks_connect_job.h"
 
 #include <memory>

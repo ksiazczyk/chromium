@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job params implementation
+// summary: Implements constructors, destructors and assignment operators for the ConnectJobParams variant of socket parameter types.
+// ---
+
 #include "net/socket/connect_job_params.h"
 
 #include "net/http/http_proxy_connect_job.h"

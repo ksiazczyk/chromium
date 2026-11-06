@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket pool additional capacity header
+// summary: Declares the SocketPoolAdditionalCapacity class that encapsulates randomized extra TCP socket pool capacity used in allocation and release expandability calculations.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_POOL_ADDITIONAL_CAPACITY_H_
 #define NET_SOCKET_SOCKET_POOL_ADDITIONAL_CAPACITY_H_
 

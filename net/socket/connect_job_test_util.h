@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectJob test delegate utility
+// summary: Declares TestConnectJobDelegate, a ConnectJob::Delegate test helper that waits for connect results and proxy auth challenges in net socket tests.
+// ---
+
 #ifndef NET_SOCKET_CONNECT_JOB_TEST_UTIL_H_
 #define NET_SOCKET_CONNECT_JOB_TEST_UTIL_H_
 

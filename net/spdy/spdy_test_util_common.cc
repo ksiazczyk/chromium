@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common SPDY test utilities implementation
+// summary: Implements shared helpers for SPDY tests, such as chopping frames into mock writes, building header blocks and creating sessions.
+// ---
+
 #include "net/spdy/spdy_test_util_common.h"
 
 #include <cstddef>

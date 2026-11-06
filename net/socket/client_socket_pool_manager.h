@@ -6,6 +6,12 @@
 // simple container for all of them. Most importantly, it handles the lifetime
 // and destruction order properly.
 
+// ---docerion
+// type: source
+// title: ClientSocketPoolManager interface
+// summary: Declares ClientSocketPoolManager, which owns all ClientSocketPools, controls lifetime and offers helpers to initialize socket handles for requests.
+// ---
+
 #ifndef NET_SOCKET_CLIENT_SOCKET_POOL_MANAGER_H_
 #define NET_SOCKET_CLIENT_SOCKET_POOL_MANAGER_H_
 

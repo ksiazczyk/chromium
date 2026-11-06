@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HPACK fuzzing utility header
+// summary: Declares the HpackFuzzUtil class with generator, input, and fuzzer context structures used by HPACK fuzzing tools and tests.
+// ---
+
 #ifndef NET_SPDY_FUZZING_HPACK_FUZZ_UTIL_H_
 #define NET_SPDY_FUZZING_HPACK_FUZZ_UTIL_H_
 

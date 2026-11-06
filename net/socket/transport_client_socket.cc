@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport client socket base implementation
+// summary: Default implementations for TransportClientSocket, returning not-implemented for SetNoDelay and SetKeepAlive.
+// ---
+
 #include "net/socket/transport_client_socket.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeaderCoalescer implementation
+// summary: Implements HeaderCoalescer, which validates HTTP/2 headers for size, ordering, and allowed characters, coalesces duplicates, and logs invalid headers to NetLog.
+// ---
+
 #include "net/spdy/header_coalescer.h"
 
 #include <algorithm>

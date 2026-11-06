@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedHttpStream implementation
+// summary: Implements MultiplexedHttpStream, the shared HttpStream base for SPDY and QUIC streams, handling remote endpoints, SSL info, connection reuse, and request headers callbacks.
+// ---
+
 #include "net/spdy/multiplexed_http_stream.h"
 
 #include <utility>

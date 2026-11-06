@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket test utilities header
+// summary: Declares mock client sockets, MockRead and MockWrite data providers, and connect helpers for testing the socket and socket pool layers.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_TEST_UTIL_H_
 #define NET_SOCKET_SOCKET_TEST_UTIL_H_
 

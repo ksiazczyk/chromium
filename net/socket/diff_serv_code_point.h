@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DSCP and ECN code point definitions
+// summary: Defines enums for Differentiated Services Code Point and Explicit Congestion Notification values plus helpers converting to and from the IP TOS byte.
+// ---
+
 #ifndef NET_SOCKET_DIFF_SERV_CODE_POINT_H_
 #define NET_SOCKET_DIFF_SERV_CODE_POINT_H_
 

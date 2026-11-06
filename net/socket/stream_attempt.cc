@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream attempt implementation
+// summary: Implements StreamAttempt, a single TCP or TLS connection attempt to an IP endpoint, with parameter setup and NetLog completion logging.
+// ---
+
 #include "net/socket/stream_attempt.h"
 
 #include <memory>

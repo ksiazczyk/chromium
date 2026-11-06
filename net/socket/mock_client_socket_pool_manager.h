@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockClientSocketPoolManager class header
+// summary: Declares a mock ClientSocketPoolManager that maps proxy chains to client socket pools for use in tests.
+// ---
+
 #ifndef NET_SOCKET_MOCK_CLIENT_SOCKET_POOL_MANAGER_H_
 #define NET_SOCKET_MOCK_CLIENT_SOCKET_POOL_MANAGER_H_
 

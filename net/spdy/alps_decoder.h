@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALPS decoder interface
+// summary: Declares AlpsDecoder for parsing HTTP/2 frames in ALPS extension data, including error codes, settings, and Accept-CH results.
+// ---
+
 #ifndef NET_SPDY_ALPS_DECODER_H_
 #define NET_SPDY_ALPS_DECODER_H_
 

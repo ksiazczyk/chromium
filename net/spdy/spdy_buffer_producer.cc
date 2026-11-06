@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spdy buffer producer implementation
+// summary: Implements SpdyBufferProducer and SimpleBufferProducer, which supply SpdyBuffer objects for writing to SPDY connections.
+// ---
+
 #include "net/spdy/spdy_buffer_producer.h"
 
 #include <utility>

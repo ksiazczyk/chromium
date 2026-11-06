@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HPACK example generator tool
+// summary: Command-line tool that generates a configurable number of header sets, encodes them with HpackEncoder, and writes length-prefixed blocks to an output file.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network binding client socket factory implementation
+// summary: Implements a ClientSocketFactory that creates TCP and UDP sockets bound to a fixed network handle and delegates SSL socket creation.
+// ---
+
 #include "net/socket/network_binding_client_socket_factory.h"
 
 #include "net/socket/tcp_client_socket.h"

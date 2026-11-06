@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyBuffer class declaration
+// summary: Declares SpdyBuffer, a non-ref-counted holder for data read from or written to a SPDY connection, with consume callbacks and IOBuffer access to remaining data.
+// ---
+
 #ifndef NET_SPDY_SPDY_BUFFER_H_
 #define NET_SPDY_SPDY_BUFFER_H_
 

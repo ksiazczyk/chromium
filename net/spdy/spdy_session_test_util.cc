@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySession test task observer
+// summary: Implements SpdySessionTestTaskObserver, which counts executed tasks posted from a given file and function during SPDY session tests.
+// ---
+
 #include "net/spdy/spdy_session_test_util.h"
 
 #include <string_view>

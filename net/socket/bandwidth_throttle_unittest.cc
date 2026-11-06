@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BandwidthThrottle unit tests
+// summary: Tests burst usage, FIFO ordering, token refill during idle, and async completion behavior of the bandwidth throttle using mock time.
+// ---
+
 #include "net/socket/bandwidth_throttle.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamSocket default method implementations
+// summary: Implements default StreamSocket methods such as the before-connect callback, peer application settings, SSL cert request info, and handshake confirmation.
+// ---
+
 #include "net/socket/stream_socket.h"
 
 #include <string_view>

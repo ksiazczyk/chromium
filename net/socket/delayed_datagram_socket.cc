@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedDatagramSocket implementation
+// summary: Implements the DelayedDatagramSocket wrapper that adds latency and bandwidth throttling to UDP client socket reads and writes.
+// ---
+
 #include "net/socket/delayed_datagram_socket.h"
 
 #include <memory>

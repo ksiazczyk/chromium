@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered SPDY framer implementation
+// summary: Implements a buffered SPDY frame processor that coalesces header frames and forwards frame events to a visitor interface.
+// ---
+
 #include "net/spdy/buffered_spdy_framer.h"
 
 #include <algorithm>

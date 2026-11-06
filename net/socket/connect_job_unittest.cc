@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectJob unit tests
+// summary: Unit tests for ConnectJob covering synchronous, asynchronous, and hung connect jobs using a mock TestConnectJob implementation.
+// ---
+
 #include "net/socket/connect_job.h"
 
 #include "base/functional/bind.h"

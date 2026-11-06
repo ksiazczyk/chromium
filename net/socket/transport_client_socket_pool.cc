@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport client socket pool implementation
+// summary: Implements TransportClientSocketPool, managing ConnectJobs, idle socket reuse, per-group connection limits and socket closure reasons.
+// ---
+
 #include "net/socket/transport_client_socket_pool.h"
 
 #include <algorithm>

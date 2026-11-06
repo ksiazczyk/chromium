@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketTransportClientSocketPool class declaration
+// summary: Declares the WebSocketTransportClientSocketPool class and its ClientSocketPool interface methods for managing WebSocket socket requests and releases.
+// ---
+
 #ifndef NET_SOCKET_WEBSOCKET_TRANSPORT_CLIENT_SOCKET_POOL_H_
 #define NET_SOCKET_WEBSOCKET_TRANSPORT_CLIENT_SOCKET_POOL_H_
 

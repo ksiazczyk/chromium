@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix domain server socket
+// summary: Declares UnixDomainServerSocket with peer credential checking and abstract namespace support on Linux and Android.
+// ---
+
 #ifndef NET_SOCKET_UNIX_DOMAIN_SERVER_SOCKET_POSIX_H_
 #define NET_SOCKET_UNIX_DOMAIN_SERVER_SOCKET_POSIX_H_
 

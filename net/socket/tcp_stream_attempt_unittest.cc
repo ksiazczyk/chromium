@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TCP stream attempt unit tests
+// summary: Unit tests for TcpStreamAttempt covering successful connections, timeouts, socket performance watchers and net log entries using mock time.
+// ---
+
 #include "net/socket/tcp_stream_attempt.h"
 
 #include <optional>

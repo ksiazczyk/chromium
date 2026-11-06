@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for net/socket
+summary: Delegates ownership of websocket* files in net/socket to the net/websockets/OWNERS reviewers.

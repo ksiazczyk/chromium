@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPServerSocket implementation
+// summary: Implements TCPServerSocket, including listen with optional IPv6-only mode, socket adoption, and asynchronous accept of client connections.
+// ---
+
 #include "net/socket/tcp_server_socket.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySessionPool unit tests
+// summary: Tests for SpdySessionPool covering session creation, IP-based pooling, closing active and idle sessions, and session request delegate callbacks.
+// ---
+
 #include "net/spdy/spdy_session_pool.h"
 
 #include <array>

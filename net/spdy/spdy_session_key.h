@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySessionKey session key for the SPDY session pool
+// summary: Declares SpdySessionKey, the unique index for SpdySessionPool combining host, privacy mode, proxy chain, socket tag, network anonymization and DNS policy fields.
+// ---
+
 #ifndef NET_SPDY_SPDY_SESSION_KEY_H_
 #define NET_SPDY_SPDY_SESSION_KEY_H_
 

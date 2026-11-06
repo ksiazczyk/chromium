@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyHttpStream implementation
+// summary: Implements SpdyHttpStream, which carries HTTP requests and responses over a SPDY session, handling stream initialization, request body upload, and response reading.
+// ---
+
 #include "net/spdy/spdy_http_stream.h"
 
 #include <algorithm>

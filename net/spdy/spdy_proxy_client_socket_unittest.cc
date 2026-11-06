@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyProxyClientSocket unit tests
+// summary: Unit tests for SpdyProxyClientSocket covering CONNECT tunneling over HTTP/2 proxies, data transfer, redirects, and load timing.
+// ---
+
 #include "net/spdy/spdy_proxy_client_socket.h"
 
 #include <stdint.h>

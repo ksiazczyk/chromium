@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketBIOAdapter class declaration
+// summary: Declares SocketBIOAdapter, which converts between StreamSocket and OpenSSL BIO I/O models, with a delegate interface for read and write readiness.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_BIO_ADAPTER_H_
 #define NET_SOCKET_SOCKET_BIO_ADAPTER_H_
 

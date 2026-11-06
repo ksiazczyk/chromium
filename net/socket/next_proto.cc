@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NextProto protocol string conversion helpers
+// summary: Implements conversion between NextProto enum values and ALPN protocol strings plus histogram suffix helpers.
+// ---
+
 #include "net/socket/next_proto.h"
 
 #include <string_view>

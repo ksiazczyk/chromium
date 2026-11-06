@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySession fuzzer
+// summary: Fuzz test harness that drives SpdySession with FuzzedDataProvider, fuzzed sockets, and mock SSL data to uncover crashes in session handling.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketHandle implementation
+// summary: Implements a handle that requests sockets from a client socket pool, manages priority, reset, and error state, and reports load state.
+// ---
+
 #include "net/socket/client_socket_handle.h"
 
 #include <utility>

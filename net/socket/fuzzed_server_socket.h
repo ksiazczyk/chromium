@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzedServerSocket class header
+// summary: Declares FuzzedServerSocket, a ServerSocket that accepts one fuzzed connection and then returns ERR_IO_PENDING for later accepts.
+// ---
+
 #ifndef NET_SOCKET_FUZZED_SERVER_SOCKET_H_
 #define NET_SOCKET_FUZZED_SERVER_SOCKET_H_
 

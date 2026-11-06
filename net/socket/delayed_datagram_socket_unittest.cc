@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelayedDatagramSocket unit tests
+// summary: Unit tests for DelayedDatagramSocket verifying latency, throughput shaping, and packet queuing behavior under mock time.
+// ---
+
 #include "net/socket/delayed_datagram_socket.h"
 
 #include <algorithm>

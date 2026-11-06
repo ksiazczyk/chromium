@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSocketPoolManagerImpl implementation
+// summary: Implements the concrete pool manager, creating transport or WebSocket pools per proxy chain and flushing pools or closing idle sockets.
+// ---
+
 #include "net/socket/client_socket_pool_manager_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HPACK fuzzing utility implementation
+// summary: Implements HpackFuzzUtil helpers for seeded header set generation, exponential sampling, input block parsing, and multi-stage fuzzing of HPACK blocks.
+// ---
+
 #include "net/spdy/fuzzing/hpack_fuzz_util.h"
 
 #include <algorithm>

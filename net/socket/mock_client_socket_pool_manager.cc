@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock client socket pool manager implementation
+// summary: Implements a ClientSocketPoolManager that returns socket pools registered per proxy chain, with some methods left unimplemented.
+// ---
+
 #include "net/socket/mock_client_socket_pool_manager.h"
 
 #include <utility>

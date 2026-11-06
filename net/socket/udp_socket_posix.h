@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX UDP socket class declaration
+// summary: Declares UDPSocketPosix, the POSIX UDP socket API covering open, bind, connect, read and write operations with network binding and GRO support.
+// ---
+
 #ifndef NET_SOCKET_UDP_SOCKET_POSIX_H_
 #define NET_SOCKET_UDP_SOCKET_POSIX_H_
 

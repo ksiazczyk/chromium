@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPClientSocket class declaration
+// summary: Declares the TCPClientSocket transport client socket, including constructors for adopted or bound sockets and optional network handle binding.
+// ---
+
 #ifndef NET_SOCKET_TCP_CLIENT_SOCKET_H_
 #define NET_SOCKET_TCP_CLIENT_SOCKET_H_
 

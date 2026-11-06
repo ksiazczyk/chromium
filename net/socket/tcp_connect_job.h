@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TcpConnectJob class declaration
+// summary: Declares TcpConnectJob, which handles DNS resolution and TCP connection establishment with Happy Eyeballs support, intended to replace TransportConnectJob.
+// ---
+
 #ifndef NET_SOCKET_TCP_CONNECT_JOB_H_
 #define NET_SOCKET_TCP_CONNECT_JOB_H_
 

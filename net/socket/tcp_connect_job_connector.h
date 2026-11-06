@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TcpConnectJob Connector class declaration
+// summary: Declares TcpConnectJob::Connector, which attempts connections to addresses pulled from the parent TcpConnectJob and reports completion back to it.
+// ---
+
 #ifndef NET_SOCKET_TCP_CONNECT_JOB_CONNECTOR_H_
 #define NET_SOCKET_TCP_CONNECT_JOB_CONNECTOR_H_
 

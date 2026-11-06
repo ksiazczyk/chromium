@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPServerSocket class declaration
+// summary: Declares TCPServerSocket, a server socket that uses TCP as the transport layer and supports listen, accept, and thread detachment.
+// ---
+
 #ifndef NET_SOCKET_TCP_SERVER_SOCKET_H_
 #define NET_SOCKET_TCP_SERVER_SOCKET_H_
 

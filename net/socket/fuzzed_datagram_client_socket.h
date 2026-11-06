@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzedDatagramClientSocket declaration
+// summary: Declares a DatagramClientSocket implementation for fuzzers that can succeed or fail synchronously or asynchronously with random data.
+// ---
+
 #ifndef NET_SOCKET_FUZZED_DATAGRAM_CLIENT_SOCKET_H_
 #define NET_SOCKET_FUZZED_DATAGRAM_CLIENT_SOCKET_H_
 

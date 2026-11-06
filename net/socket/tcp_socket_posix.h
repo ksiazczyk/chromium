@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCPSocketPosix class declaration
+// summary: Declares the TCPSocketPosix class interface for TCP socket lifecycle, asynchronous I/O, address accessors and socket options on POSIX platforms.
+// ---
+
 #ifndef NET_SOCKET_TCP_SOCKET_POSIX_H_
 #define NET_SOCKET_TCP_SOCKET_POSIX_H_
 

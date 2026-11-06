@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottleneckBuffer unit tests
+// summary: Tests BDP capacity computation, capacity-limited pushes, datagram all-or-nothing semantics, and pull behavior of the bottleneck buffer.
+// ---
+
 #include "net/socket/bottleneck_buffer.h"
 
 #include <algorithm>

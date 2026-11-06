@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BandwidthThrottle implementation
+// summary: Implements a shared token-bucket bandwidth throttle that queues byte requests FIFO and completes them asynchronously as tokens refill.
+// ---
+
 #include "net/socket/bandwidth_throttle.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read buffering stream socket header
+// summary: Declares ReadBufferingStreamSocket, a StreamSocket wrapper that delays returning read data until an internal buffer is filled.
+// ---
+
 #ifndef NET_SOCKET_READ_BUFFERING_STREAM_SOCKET_H_
 #define NET_SOCKET_READ_BUFFERING_STREAM_SOCKET_H_
 

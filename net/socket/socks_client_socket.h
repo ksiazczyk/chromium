@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCKS4 client socket header
+// summary: Declares SOCKSClientSocket, a StreamSocket that performs the SOCKS4 handshake with host resolution through a HostResolver.
+// ---
+
 #ifndef NET_SOCKET_SOCKS_CLIENT_SOCKET_H_
 #define NET_SOCKET_SOCKS_CLIENT_SOCKET_H_
 

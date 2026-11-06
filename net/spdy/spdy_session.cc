@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySession implementation
+// summary: Implements the core HTTP/2 session class managing streams, settings, flow control, priorities, and frame handling in Chromium's network stack.
+// ---
+
 #include "net/spdy/spdy_session.h"
 
 #include <algorithm>

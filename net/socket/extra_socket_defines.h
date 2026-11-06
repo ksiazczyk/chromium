@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extra socket defines for older kernel headers
+// summary: Defines SOL_UDP, UDP_SEGMENT and UDP_GRO values that may be missing in older Linux, ChromeOS and Android kernel headers.
+// ---
+
 #ifndef NET_SOCKET_EXTRA_SOCKET_DEFINES_H_
 #define NET_SOCKET_EXTRA_SOCKET_DEFINES_H_
 

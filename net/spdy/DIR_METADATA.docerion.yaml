@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: SPDY directory metadata
+summary: Maps the net/spdy directory to Chromium issue tracker components for HTTP2 bug reporting.

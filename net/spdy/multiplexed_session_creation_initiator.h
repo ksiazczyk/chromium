@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiplexed session creation initiator enum
+// summary: Defines an enum recording why a multiplexed session was created, distinguishing preconnect-initiated sessions, with values persisted to logs.
+// ---
+
 #ifndef NET_SPDY_MULTIPLEXED_SESSION_CREATION_INITIATOR_H_
 #define NET_SPDY_MULTIPLEXED_SESSION_CREATION_INITIATOR_H_
 

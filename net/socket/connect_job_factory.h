@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job factory interface
+// summary: Declares ConnectJobFactory, which determines and creates the correct ConnectJob type from connection parameters, with ALPN mode and endpoint variants.
+// ---
+
 #ifndef NET_SOCKET_CONNECT_JOB_FACTORY_H_
 #define NET_SOCKET_CONNECT_JOB_FACTORY_H_
 

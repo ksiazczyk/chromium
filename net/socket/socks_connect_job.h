@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCKS connect job header
+// summary: Declares SOCKSSocketParams and SOCKSConnectJob, which connect through SOCKS4 or SOCKS5 proxies on top of a nested transport connect job.
+// ---
+
 #ifndef NET_SOCKET_SOCKS_CONNECT_JOB_H_
 #define NET_SOCKET_SOCKS_CONNECT_JOB_H_
 

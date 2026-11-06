@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple sendto return value bug workaround
+// summary: Implements SendtoAndDetectBogusReturnValue to detect and work around bogus sendto return values on affected macOS and iOS versions.
+// ---
+
 #include "net/socket/socket_apple.h"
 
 #if defined(WORK_AROUND_CRBUG_40064248)

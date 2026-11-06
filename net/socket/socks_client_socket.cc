@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCKS4 client socket implementation
+// summary: Implements the SOCKS4 handshake, including host resolution and SOCKS4a domain support, over a transport socket for proxy connections.
+// ---
+
 #include "net/socket/socks_client_socket.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job params variant
+// summary: Declares ConnectJobParams, a variant wrapper over HTTP proxy, SOCKS, transport and SSL socket parameters with type checks and accessors.
+// ---
+
 #ifndef NET_SOCKET_CONNECT_JOB_PARAMS_H_
 #define NET_SOCKET_CONNECT_JOB_PARAMS_H_
 

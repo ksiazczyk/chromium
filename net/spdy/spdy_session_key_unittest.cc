@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdySessionKey unit tests
+// summary: Unit tests verifying equality and inequality of SpdySessionKey when host, privacy mode, proxy chain, session usage, socket tag or anonymization key differ.
+// ---
+
 #include "net/spdy/spdy_session_key.h"
 
 #include "net/base/network_anonymization_key.h"

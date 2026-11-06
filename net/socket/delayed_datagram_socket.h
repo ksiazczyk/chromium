@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedDatagramSocket wrapper header
+// summary: Declares DelayedDatagramSocket, a DatagramClientSocket wrapper simulating RTT and bandwidth constraints with documented read and write pipelines.
+// ---
+
 #ifndef NET_SOCKET_DELAYED_DATAGRAM_SOCKET_H_
 #define NET_SOCKET_DELAYED_DATAGRAM_SOCKET_H_
 

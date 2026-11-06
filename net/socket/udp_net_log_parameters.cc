@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP NetLog parameter helpers
+// summary: Builds NetLog event parameters for UDP data transfers and connect events, including byte counts and addresses when capture mode allows.
+// ---
+
 #include "net/socket/udp_net_log_parameters.h"
 
 #include <utility>

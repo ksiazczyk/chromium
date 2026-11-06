@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS stream attempt implementation
+// summary: Implements TlsStreamAttempt, which runs a nested TCP attempt followed by a TLS handshake, including ECH configuration and cert request handling.
+// ---
+
 #include "net/socket/tls_stream_attempt.h"
 
 #include <memory>

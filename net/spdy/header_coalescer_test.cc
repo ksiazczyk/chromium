@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeaderCoalescer unit tests
+// summary: Unit tests for HeaderCoalescer covering valid headers, empty names, oversized lists, pseudo-header ordering, duplicate appending, and invalid characters with NetLog checks.
+// ---
+
 #include "net/spdy/header_coalescer.h"
 
 #include <string>

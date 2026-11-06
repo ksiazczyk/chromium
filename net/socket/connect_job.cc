@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectJob implementation
+// summary: Implements ConnectJob and CommonConnectJobParams, the shared base machinery for establishing connections used by the socket pools.
+// ---
+
 #include "net/socket/connect_job.h"
 
 #include <set>

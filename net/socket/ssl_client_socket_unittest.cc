@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL client socket unit tests
+// summary: Extensive unit tests for SSLClientSocketImpl covering TLS handshakes, ECH, certificate verification, client certs, and session resumption.
+// ---
+
 #include "net/socket/ssl_client_socket.h"
 
 #include <errno.h>

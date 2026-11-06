@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket performance watcher factory interface
+// summary: Declares an abstract factory that creates unique SocketPerformanceWatcher instances for sockets using TCP or QUIC transport protocols and a given IP address.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_PERFORMANCE_WATCHER_FACTORY_H_
 #define NET_SOCKET_SOCKET_PERFORMANCE_WATCHER_FACTORY_H_
 

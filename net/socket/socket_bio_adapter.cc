@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketBIOAdapter implementation
+// summary: Implements the adapter that bridges asynchronous StreamSocket I/O to the OpenSSL BIO model for TLS connections, including buffering and error surfacing.
+// ---
+
 #include "net/socket/socket_bio_adapter.h"
 
 #include <stdio.h>

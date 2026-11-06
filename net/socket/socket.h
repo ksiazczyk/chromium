@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket base interface for read and write operations
+// summary: Declares the abstract net::Socket class defining asynchronous Read, ReadIfReady, Write, and buffer size methods used across the network stack.
+// ---
+
 #ifndef NET_SOCKET_SOCKET_H_
 #define NET_SOCKET_SOCKET_H_
 

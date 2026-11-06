@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global UDP socket count limits implementation
+// summary: Implements a thread-safe process-wide singleton that tracks open UDP sockets and enforces the maximum count through OwnedUDPSocketCount.
+// ---
+
 #include "net/socket/udp_socket_global_limits.h"
 
 #include <limits>

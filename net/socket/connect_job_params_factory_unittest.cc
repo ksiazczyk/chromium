@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect job params factory unit tests
+// summary: Unit tests verifying ConstructConnectJobParams produces correct socket parameters across proxy types, ALPN modes, privacy and DNS policies.
+// ---
+
 #include "net/socket/connect_job_params_factory.h"
 
 #include <ostream>

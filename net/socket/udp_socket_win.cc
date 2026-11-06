@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UDP socket implementation
+// summary: Implements UDPSocketWin using Winsock overlapped IO, with source-specific multicast helpers and core state for in-progress network operations.
+// ---
+
 #include "net/socket/udp_socket_win.h"
 
 #include <winsock2.h>

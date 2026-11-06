@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP stream attempt implementation
+// summary: Implements TcpStreamAttempt, which starts a single TCP connection via the client socket factory with a handshake timeout and connect timing metrics.
+// ---
+
 #include "net/socket/tcp_stream_attempt.h"
 
 #include <memory>

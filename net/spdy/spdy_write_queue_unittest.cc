@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdyWriteQueue unit tests
+// summary: Unit tests for SpdyWriteQueue covering enqueue and dequeue ordering, priority changes, requeuing and removal of pending writes.
+// ---
+
 #include "net/spdy/spdy_write_queue.h"
 
 #include <array>

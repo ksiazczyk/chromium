@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpdyStream unit tests
+// summary: Unit tests for SpdyStream covering request-response and bidirectional streams, flow control, unstalling and session interaction.
+// ---
+
 #include "net/spdy/spdy_stream.h"
 
 #include <stdint.h>

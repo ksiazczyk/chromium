@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP socket write performance test
+// summary: Performance test measuring UDP write elapsed time and throughput by sending packets from a client socket to a local server socket.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/weak_ptr.h"
 #include "base/run_loop.h"

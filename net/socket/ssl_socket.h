@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLSocket interface
+// summary: Defines the SSLSocket interface shared by client and server SSL sockets, providing keying material export per RFC 5705.
+// ---
+
 #ifndef NET_SOCKET_SSL_SOCKET_H_
 #define NET_SOCKET_SSL_SOCKET_H_
 

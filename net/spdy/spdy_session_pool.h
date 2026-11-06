@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdySessionPool class declaration
+// summary: Declares SpdySessionPool, a simple pool for open SpdySessions with session request handling and support for greased HTTP/2 frames.
+// ---
+
 #ifndef NET_SPDY_SPDY_SESSION_POOL_H_
 #define NET_SPDY_SPDY_SESSION_POOL_H_
 

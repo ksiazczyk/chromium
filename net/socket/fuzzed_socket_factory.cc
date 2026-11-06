@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed socket factory implementation
+// summary: Implements a ClientSocketFactory that creates fuzzed datagram and transport sockets plus SSL sockets that always fail to connect.
+// ---
+
 #include "net/socket/fuzzed_socket_factory.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

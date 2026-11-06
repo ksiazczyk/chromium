@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket test utilities implementation
+// summary: Implements mock sockets, socket data providers, and helper classes used to simulate socket behavior in network stack tests.
+// ---
+
 #include "net/socket/socket_test_util.h"
 
 #include <inttypes.h>  // For SCNx64

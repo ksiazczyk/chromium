@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SOCKS5 client socket unit tests
+// summary: Tests complete SOCKS5 handshakes, error responses, and disconnection using mock TCP sockets and scripted reads and writes.
+// ---
+
 #include "net/socket/socks5_client_socket.h"
 
 #include <stdint.h>

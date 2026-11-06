@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedHttpStream class declaration
+// summary: Declares MultiplexedHttpStream, the base class for SPDY and QUIC HttpStream subclasses, holding a MultiplexedSessionHandle and request headers callback support.
+// ---
+
 #ifndef NET_SPDY_MULTIPLEXED_HTTP_STREAM_H_
 #define NET_SPDY_MULTIPLEXED_HTTP_STREAM_H_
 

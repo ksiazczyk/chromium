@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix domain client socket implementation
+// summary: Implements a StreamSocket client that connects, reads and writes over a Unix domain socket on POSIX systems.
+// ---
+
 #include "net/socket/unix_domain_client_socket_posix.h"
 
 #include <sys/socket.h>

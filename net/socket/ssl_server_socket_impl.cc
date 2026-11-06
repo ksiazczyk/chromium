@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL server socket implementation
+// summary: Implements the BoringSSL-based SSL server socket and context, including handshake, ALPN selection and certificate verification callbacks.
+// ---
+
 #include "net/socket/ssl_server_socket_impl.h"
 
 #include <cstdint>

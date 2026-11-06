@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TcpConnectJob unit tests
+// summary: Unit tests for TcpConnectJob covering DNS resolution, connection attempts, and Happy Eyeballs behavior using mock factories and task environments.
+// ---
+
 #include "net/socket/tcp_connect_job.h"
 
 #include <array>

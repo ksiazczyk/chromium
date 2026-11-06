@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpdyProxyClientSocket implementation
+// summary: Implements a client socket that tunnels traffic through an HTTP/2 proxy by sending a CONNECT request on a SPDY stream and handling auth and data transfer.
+// ---
+
 #include "net/spdy/spdy_proxy_client_socket.h"
 
 #include <algorithm>  // min

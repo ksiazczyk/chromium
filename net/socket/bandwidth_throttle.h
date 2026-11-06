@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BandwidthThrottle class declaration
+// summary: Declares a ref-counted token-bucket throttle shared by sockets to simulate a constrained link, with cancellation handles and FIFO request queueing.
+// ---
+
 #ifndef NET_SOCKET_BANDWIDTH_THROTTLE_H_
 #define NET_SOCKET_BANDWIDTH_THROTTLE_H_
 

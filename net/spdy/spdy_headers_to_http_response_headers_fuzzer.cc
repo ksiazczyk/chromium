@@ -9,6 +9,12 @@
 // TODO(ricea): Remove this when SpdyHeadersToHttpResponseHeadersUsingRawString
 // is removed.
 
+// ---docerion
+// type: test
+// title: Fuzzer for SPDY headers to HTTP response headers conversion
+// summary: Fuzzer that feeds generated SPDY headers to both response header conversion implementations and verifies the builder output matches the raw-string output.
+// ---
+
 #include <stddef.h>
 
 #include <string_view>

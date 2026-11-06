@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect job params construction
+// summary: Implements ConstructConnectJobParams, building the appropriate socket parameters for connect jobs, including ALPN and renegotiation configuration.
+// ---
+
 #include "net/socket/connect_job_params_factory.h"
 
 #include <optional>

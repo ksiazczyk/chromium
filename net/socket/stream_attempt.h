@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream attempt declarations
+// summary: Declares StreamAttemptParams and the StreamAttempt base class representing a TCP or TLS connection attempt to a single IP endpoint.
+// ---
+
 #ifndef NET_SOCKET_STREAM_ATTEMPT_H_
 #define NET_SOCKET_STREAM_ATTEMPT_H_
 
