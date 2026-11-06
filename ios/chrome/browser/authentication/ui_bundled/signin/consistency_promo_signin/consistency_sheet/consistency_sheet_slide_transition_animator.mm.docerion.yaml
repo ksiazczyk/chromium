@@ -1,0 +1,4 @@
+# Docerion header of consistency_sheet_slide_transition_animator.mm.
+type: source
+title: Consistency sheet slide transition animator implementation
+summary: Implements the slide animations for pushing and popping views, including right-to-left layout support.

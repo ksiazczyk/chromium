@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox pedal implementation header
+// summary: Declares GetPedalImplementations, which returns the full set of OmniboxPedal action implementations for the omnibox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_OMNIBOX_PEDAL_IMPLEMENTATION_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_OMNIBOX_PEDAL_IMPLEMENTATION_H_
 

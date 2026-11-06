@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow_performer_base.mm.
+type: source
+title: AuthenticationFlowPerformerBase implementation
+summary: Implements the authentication flow performer base, handling profile switching, error presentation, and post-sign-in snackbars with an undo action.

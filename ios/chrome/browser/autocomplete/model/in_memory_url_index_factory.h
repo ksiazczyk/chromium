@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index factory header
+// summary: Declares the singleton factory that owns InMemoryURLIndex instances per profile and provides a default factory usable in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_IN_MEMORY_URL_INDEX_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_IN_MEMORY_URL_INDEX_FACTORY_H_
 

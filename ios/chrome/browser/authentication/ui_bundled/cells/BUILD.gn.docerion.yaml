@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for authentication cells
+summary: Defines the Swift and Objective-C source sets, dependencies and unit test target for the authentication UI cells.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User sign-in logger header
+// summary: Declares UserSigninLogger, a SigninLogger for user-initiated sign-in flows with access point, promo action, and metrics service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_LOGGING_USER_SIGNIN_LOGGER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_LOGGING_USER_SIGNIN_LOGGER_H_
 

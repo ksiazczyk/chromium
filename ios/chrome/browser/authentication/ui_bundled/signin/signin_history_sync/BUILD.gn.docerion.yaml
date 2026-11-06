@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the signin_history_sync target
+summary: GN build file defining the signin_history_sync source set, listing its coordinator sources and dependencies on signin, sync, and authentication targets.

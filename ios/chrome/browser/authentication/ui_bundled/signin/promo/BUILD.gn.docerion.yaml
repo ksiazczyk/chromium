@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen signin promo build definition
+summary: Defines the promo source set with its fullscreen sign-in promo handler and scene agent sources, plus a unit_tests target, listing their build dependencies.

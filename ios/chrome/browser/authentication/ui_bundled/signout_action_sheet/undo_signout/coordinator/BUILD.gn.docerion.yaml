@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Undo sign-out coordinator build definition
+summary: GN build file defining the coordinator source set with its sources and dependencies for the undo sign-out feature.

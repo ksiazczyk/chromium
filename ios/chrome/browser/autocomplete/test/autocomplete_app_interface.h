@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete app interface header for tests
+// summary: Declares an Earl Grey app interface to enable fake suggestions and add shortcut, search and history URL suggestions in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_AUTOCOMPLETE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_AUTOCOMPLETE_APP_INTERFACE_H_
 

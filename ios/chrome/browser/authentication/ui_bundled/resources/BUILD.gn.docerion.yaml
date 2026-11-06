@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Authentication resources build definition
+summary: Defines the bundle_data_xcassets target that packages the sign-in confirmation asset catalog images for the iOS authentication UI.

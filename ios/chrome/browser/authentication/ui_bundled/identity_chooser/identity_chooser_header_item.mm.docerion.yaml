@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_header_item.mm.
+type: source
+title: Identity chooser header item implementation
+summary: Builds the Choose an account header view with a localized label, colors, margins and accessibility support.

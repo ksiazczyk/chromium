@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consistency account chooser BUILD.gn
+summary: Defines the source_set target listing the consistency account chooser sources and their build dependencies.

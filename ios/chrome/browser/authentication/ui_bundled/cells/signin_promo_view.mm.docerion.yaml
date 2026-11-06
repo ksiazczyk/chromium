@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view.mm.
+type: source
+title: Sign-in promo view implementation
+summary: Implements the sign-in promo view layouts, buttons, spinner and cell reuse behavior.

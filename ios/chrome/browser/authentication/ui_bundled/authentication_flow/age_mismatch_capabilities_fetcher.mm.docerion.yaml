@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_capabilities_fetcher.mm.
+type: source
+title: Age mismatch capabilities fetcher implementation
+summary: Implements the capabilities fetcher, observing IdentityManager updates and applying a timeout while recording fetch result histograms.

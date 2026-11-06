@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Change profile build target definition
+summary: Defines the change_profile source set with its source files and dependencies for the GN build.

@@ -1,0 +1,4 @@
+# Docerion header of ai_subscription_chip_constants.mm.
+type: source
+title: AI subscription chip accessibility identifier implementation
+summary: Defines the accessibility identifier string value for the AI subscription chip view.

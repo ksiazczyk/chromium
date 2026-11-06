@@ -1,0 +1,4 @@
+# Docerion header of account_preview_preference_string_utils.mm.
+type: source
+title: Account preview preference string utilities implementation
+summary: Implements selection of sign-in promo label strings from preferred data types and device form factors.

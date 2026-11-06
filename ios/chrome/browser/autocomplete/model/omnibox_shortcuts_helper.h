@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox shortcuts helper header
+// summary: Declares a helper that observes web states to track navigations accepted from the omnibox and store them as shortcuts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_OMNIBOX_SHORTCUTS_HELPER_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_OMNIBOX_SHORTCUTS_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of enterprise_utils.mm.
+type: source
+title: Enterprise utils implementation for managed identity checks
+summary: Implements checks for account restriction patterns and hosted-domain lookup to report the managed status of identities.

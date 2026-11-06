@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account settings presenter protocol
+// summary: Declares a protocol for presenting the account settings UI of the signed-in account.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ACCOUNT_SETTINGS_PRESENTER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ACCOUNT_SETTINGS_PRESENTER_H_
 

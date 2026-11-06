@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sign-in
+summary: Specifies include rules limiting which headers files in the sign-in directory are allowed to depend on.

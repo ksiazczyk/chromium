@@ -1,0 +1,4 @@
+# Docerion header of identity_item_configurator.mm.
+type: source
+title: Identity item configurator implementation
+summary: Implements configuration of TableViewIdentityItem cells with the stored identity data for the account chooser list.

@@ -1,0 +1,4 @@
+# Docerion header of signin_utils.mm.
+type: source
+title: iOS Chrome sign-in utilities implementation
+summary: Implements sign-in and sign-out helpers for iOS Chrome, including profile switching, snackbar messages, and feature engagement tracking.

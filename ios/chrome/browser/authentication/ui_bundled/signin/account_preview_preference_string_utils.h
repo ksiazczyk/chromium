@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview preference string utilities header
+// summary: Declares helpers that return promo subtitle strings for web and NTP sign-in based on account preview preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_ACCOUNT_PREVIEW_PREFERENCE_STRING_UTILS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_ACCOUNT_PREVIEW_PREFERENCE_STRING_UTILS_H_
 

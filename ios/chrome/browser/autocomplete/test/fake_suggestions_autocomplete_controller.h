@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake suggestions autocomplete controller header
+// summary: Declares a fake AutocompleteController that returns configured fake suggestions and exposes its suggestions builder.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_FAKE_SUGGESTIONS_AUTOCOMPLETE_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_FAKE_SUGGESTIONS_AUTOCOMPLETE_CONTROLLER_H_
 

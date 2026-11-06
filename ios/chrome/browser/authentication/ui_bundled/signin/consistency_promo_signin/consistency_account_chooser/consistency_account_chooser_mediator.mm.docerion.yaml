@@ -1,0 +1,4 @@
+# Docerion header of consistency_account_chooser_mediator.mm.
+type: source
+title: Consistency account chooser mediator implementation
+summary: Implements the mediator that loads on-device identities into configurators and observes identity manager updates.

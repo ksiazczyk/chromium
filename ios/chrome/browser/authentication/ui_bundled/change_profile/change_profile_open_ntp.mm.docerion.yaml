@@ -1,0 +1,4 @@
+# Docerion header of change_profile_open_ntp.mm.
+type: source
+title: Change profile open NTP continuation implementation
+summary: Implements the continuation that opens a New Tab page in the new profile unless the active tab already displays one.

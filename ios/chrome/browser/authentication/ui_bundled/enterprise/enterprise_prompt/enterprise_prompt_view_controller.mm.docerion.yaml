@@ -1,0 +1,4 @@
+# Docerion header of enterprise_prompt_view_controller.mm.
+type: source
+title: EnterprisePromptViewController implementation
+summary: Implements the enterprise prompt alert, configuring title, subtitle and actions for sign out, account restriction and sync disabled cases.

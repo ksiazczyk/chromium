@@ -1,0 +1,4 @@
+# Docerion header of omnibox_shortcuts_helper.mm.
+type: source
+title: Omnibox shortcuts helper implementation
+summary: Implements tracking of omnibox-accepted navigations, adding a shortcut to the ShortcutsBackend when a navigation from the address bar succeeds.

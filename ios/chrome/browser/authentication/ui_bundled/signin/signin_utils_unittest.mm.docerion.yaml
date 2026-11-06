@@ -1,0 +1,4 @@
+# Docerion header of signin_utils_unittest.mm.
+type: test
+title: Sign-in utilities unit tests
+summary: Unit tests for the sign-in utilities, covering sign-in upgrade prompts and sign-out behavior with mock profile and sync services.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Change profile include rules
+summary: Specifies the headers that files in the change_profile directory are allowed to include.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for deeplink sign-in targets
+summary: Defines GN source sets for the deeplink sign-in sources and their Earl Grey 2 tests, listing the required dependencies.

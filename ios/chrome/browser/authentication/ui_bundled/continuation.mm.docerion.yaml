@@ -1,0 +1,4 @@
+# Docerion header of continuation.mm.
+type: source
+title: Do-nothing continuation implementation
+summary: Implements do-nothing change profile continuations that simply run the completion closure.

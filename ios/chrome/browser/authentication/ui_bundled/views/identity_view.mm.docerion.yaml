@@ -1,0 +1,4 @@
+# Docerion header of identity_view.mm.
+type: source
+title: IdentityView implementation
+summary: Implements IdentityView with per-style layout constants for avatar size, margins, title and subtitle, and the management icon.

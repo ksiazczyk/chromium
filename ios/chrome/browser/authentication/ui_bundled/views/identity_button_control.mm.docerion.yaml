@@ -1,0 +1,4 @@
+# Docerion header of identity_button_control.mm.
+type: source
+title: IdentityButtonControl implementation
+summary: Implements the identity button control, laying out the identity view and arrow image and setting accessibility labels for account picking.

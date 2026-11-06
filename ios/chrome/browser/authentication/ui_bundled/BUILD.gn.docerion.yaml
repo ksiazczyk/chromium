@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the authentication UI
+summary: Defines the GN source sets, sources and dependencies for the iOS authentication UI bundled module.

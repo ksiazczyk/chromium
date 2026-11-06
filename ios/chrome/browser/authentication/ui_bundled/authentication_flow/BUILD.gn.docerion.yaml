@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for authentication flow
+summary: Defines GN build targets and dependencies for the authentication flow source sets, including the main flow and internal components.

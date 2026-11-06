@@ -1,0 +1,4 @@
+# Docerion header of consistency_account_chooser_view_controller.mm.
+type: source
+title: Consistency account chooser view controller implementation
+summary: Implements the account chooser view controller that embeds the table view controller, records user metrics, and sizes the sheet to its content.

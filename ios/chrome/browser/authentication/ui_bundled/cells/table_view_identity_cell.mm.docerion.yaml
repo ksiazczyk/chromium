@@ -1,0 +1,4 @@
+# Docerion header of table_view_identity_cell.mm.
+type: source
+title: Table view identity cell implementation
+summary: Implements TableViewIdentityCell, laying out the identity view and animating checkmark selection with a configurable title color.

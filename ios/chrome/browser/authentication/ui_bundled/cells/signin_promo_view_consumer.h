@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninPromoViewConsumer protocol
+// summary: Declares a consumer protocol that receives signin promo configurators and identity update notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONSUMER_H_
 

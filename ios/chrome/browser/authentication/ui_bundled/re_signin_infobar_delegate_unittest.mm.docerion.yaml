@@ -1,0 +1,4 @@
+# Docerion header of re_signin_infobar_delegate_unittest.mm.
+type: test
+title: Re-signin infobar delegate unit tests
+summary: Unit tests for ReSignInInfoBarDelegate covering infobar creation conditions and interactions with the authentication service, identity manager and presenter.

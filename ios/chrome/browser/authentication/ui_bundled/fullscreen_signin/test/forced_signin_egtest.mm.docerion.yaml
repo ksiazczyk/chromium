@@ -1,0 +1,4 @@
+# Docerion header of forced_signin_egtest.mm.
+type: test
+title: Forced sign-in Earl Grey UI tests
+summary: Earl Grey UI tests verifying forced sign-in screens, policy-driven sign-in and related account and sync settings flows in Chrome on iOS.

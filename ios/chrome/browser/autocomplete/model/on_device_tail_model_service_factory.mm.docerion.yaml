@@ -1,0 +1,4 @@
+# Docerion header of on_device_tail_model_service_factory.mm.
+type: source
+title: OnDeviceTailModelServiceFactory implementation
+summary: Factory that builds the on-device tail suggest model service per profile when the omnibox field trial enables it, using the Optimization Guide service.

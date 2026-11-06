@@ -4,6 +4,12 @@
 
 // This codes is copied as-is from Google repository where it is implemented in Swift.
 
+// ---docerion
+// type: source
+// title: AI subscription chip SwiftUI view
+// summary: SwiftUI view that renders a gradient chip indicating the user has an AI subscription.
+// ---
+
 import SwiftUI
 import UIKit
 

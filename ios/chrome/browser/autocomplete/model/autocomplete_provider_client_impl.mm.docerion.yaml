@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_provider_client_impl.mm.
+type: source
+title: AutocompleteProviderClientImpl implementation
+summary: Implements iOS accessors to history, bookmarks, sync, signin, and other services required by autocomplete providers.

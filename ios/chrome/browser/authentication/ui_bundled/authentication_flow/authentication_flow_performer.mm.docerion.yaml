@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow_performer.mm.
+type: source
+title: AuthenticationFlowPerformer implementation
+summary: Implements the same-profile sign-in flow steps, including reauthentication dialogs, profile separation policies, managed account handling, and profile switching.

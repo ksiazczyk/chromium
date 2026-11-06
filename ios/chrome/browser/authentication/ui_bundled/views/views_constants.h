@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity views constants and styles
+// summary: Declares accessibility identifiers for the identity picker and the IdentityViewStyle enum used to vary identity view layouts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_VIEWS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_VIEWS_CONSTANTS_H_
 

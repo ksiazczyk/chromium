@@ -1,0 +1,4 @@
+# Docerion header of enterprise_prompt_coordinator.mm.
+type: source
+title: EnterprisePromptCoordinator implementation
+summary: Implements the coordinator that presents the enterprise prompt sheet and handles actions such as opening the management page and hiding the prompt.

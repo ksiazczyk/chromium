@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buggy authentication view owner protocol
+// summary: Declares a protocol for coordinators whose authentication view may silently disappear, exposing viewWillPersist for checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_BUGGY_AUTHENTICATION_VIEW_OWNER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_BUGGY_AUTHENTICATION_VIEW_OWNER_H_
 

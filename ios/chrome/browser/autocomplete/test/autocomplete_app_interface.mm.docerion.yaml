@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_app_interface.mm.
+type: test
+title: Autocomplete app interface implementation
+summary: Implements the app interface by installing a fake suggestions controller into the browser's autocomplete agent and adding matches.

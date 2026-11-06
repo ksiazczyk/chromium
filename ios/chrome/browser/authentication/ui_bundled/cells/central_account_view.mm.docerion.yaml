@@ -1,0 +1,4 @@
+# Docerion header of central_account_view.mm.
+type: source
+title: Central account view implementation
+summary: Implements the signed-in account view with avatar, labels, enterprise icon and AI subscription chip.

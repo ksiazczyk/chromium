@@ -1,0 +1,4 @@
+# Docerion header of table_view_signin_promo_item.mm.
+type: source
+title: Table view sign-in promo item and cell implementation
+summary: Implements TableViewSigninPromoItem and TableViewSigninPromoCell, applying text, delegate, and standard style to the promo view.

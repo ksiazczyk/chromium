@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Identity chooser BUILD.gn build targets
+summary: Defines the identity_chooser, identity_chooser_ui and unit_tests source sets with their sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of user_signin_logger.mm.
+type: source
+title: User sign-in logger implementation
+summary: Implements UserSigninLogger, recording sign-in start and completion user actions for canceled, interrupted, and other results.

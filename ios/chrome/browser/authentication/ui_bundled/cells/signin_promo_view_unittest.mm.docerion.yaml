@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view_unittest.mm.
+type: test
+title: SigninPromoView unit tests
+summary: Unit tests verifying signin promo view logo and avatar images, secondary button visibility and accessibility labels.

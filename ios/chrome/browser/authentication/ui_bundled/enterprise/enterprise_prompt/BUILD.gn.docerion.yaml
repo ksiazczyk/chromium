@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the enterprise_prompt source set
+summary: Defines the enterprise_prompt source_set with its Objective-C sources and dependencies for the Chromium iOS build.

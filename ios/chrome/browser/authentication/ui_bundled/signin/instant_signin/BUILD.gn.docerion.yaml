@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Instant sign-in build target definition
+summary: Defines the instant_signin source_set for the GN build, listing its coordinator and mediator sources and their dependencies.

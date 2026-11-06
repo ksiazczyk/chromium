@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autocomplete model
+summary: Declares the cross-directory includes permitted for the iOS autocomplete model code.

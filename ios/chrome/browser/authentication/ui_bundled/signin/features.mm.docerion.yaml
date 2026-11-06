@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Sign-in feature flag implementation
+summary: Defines the fullscreen sign-in promo manager migration feature flag, enabled by default, and its accessor.

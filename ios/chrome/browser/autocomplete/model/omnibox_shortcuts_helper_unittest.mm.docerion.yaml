@@ -1,0 +1,4 @@
+# Docerion header of omnibox_shortcuts_helper_unittest.mm.
+type: test
+title: Omnibox shortcuts helper unit tests
+summary: Unit tests for OmniboxShortcutsHelper verifying that shortcuts are added on successful address-bar navigations and handled correctly on failures.

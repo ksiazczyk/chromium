@@ -1,0 +1,4 @@
+# Docerion header of fake_suggestions_autocomplete_controller.mm.
+type: test
+title: Fake suggestions autocomplete controller implementation
+summary: Implements the fake controller using a fake autocomplete provider and builder to produce results for any input.

@@ -1,0 +1,4 @@
+# Docerion header of table_view_account_item_unittest.mm.
+type: test
+title: Table view account item unit tests
+summary: Unit tests verifying that TableViewAccountItem configures cells with the correct avatar, name, email, and AI tier ring settings.

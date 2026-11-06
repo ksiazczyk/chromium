@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view identity item interface
+// summary: Declares TableViewIdentityItem, the model holding Gaia ID, name, email, avatar, selection, and managed state for an identity cell.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_TABLE_VIEW_IDENTITY_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_TABLE_VIEW_IDENTITY_ITEM_H_
 

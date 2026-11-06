@@ -1,0 +1,4 @@
+# Docerion header of zero_suggest_prefetcher_unittest.mm.
+type: test
+title: Zero suggest prefetcher unit tests
+summary: Unit tests for ZeroSuggestPrefetcher covering reactions to foregrounding, backgrounding and disconnect callbacks.

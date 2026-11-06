@@ -1,0 +1,4 @@
+# Docerion header of history_sync_signin_coordinator.mm.
+type: source
+title: HistorySyncSigninCoordinator implementation
+summary: Implements the coordinator that starts the History Sync popup, verifies sync opt-in state, and handles the popup result including optional snackbar display.

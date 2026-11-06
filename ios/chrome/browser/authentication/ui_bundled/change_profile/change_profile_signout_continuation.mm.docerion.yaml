@@ -1,0 +1,4 @@
+# Docerion header of change_profile_signout_continuation.mm.
+type: source
+title: Change profile signout continuation
+summary: Implements profile sign-out during a profile change, recording metrics, showing a snackbar, and presenting the force sign-out prompt when policy disables sign-in.

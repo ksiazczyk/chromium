@@ -1,0 +1,4 @@
+# Docerion header of change_profile_send_tab.mm.
+type: source
+title: Change profile send tab to other device implementation
+summary: Implements the continuation that loads the given URL in the current tab and triggers the Send tab to self UI via the command dispatcher.

@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_capabilities_fetcher_unittest.mm.
+type: test
+title: Age mismatch capabilities fetcher unit tests
+summary: Parameterized unit tests verifying capability fetch results and histogram reporting for the age mismatch capabilities fetcher.

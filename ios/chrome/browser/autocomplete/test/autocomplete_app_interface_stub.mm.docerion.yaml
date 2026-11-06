@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_app_interface_stub.mm.
+type: test
+title: Autocomplete app interface Earl Grey stub
+summary: Registers a stub AutocompleteAppInterface class in the app main queue for the Earl Grey test support build.

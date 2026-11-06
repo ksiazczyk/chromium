@@ -1,0 +1,4 @@
+# Docerion header of continuation_unittest.mm.
+type: test
+title: Continuation unit tests
+summary: Unit tests verifying that the do-nothing continuation and its provider run the completion closure.

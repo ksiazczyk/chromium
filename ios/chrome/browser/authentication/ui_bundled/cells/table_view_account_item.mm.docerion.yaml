@@ -1,0 +1,4 @@
+# Docerion header of table_view_account_item.mm.
+type: source
+title: TableViewAccountItem implementation
+summary: Implements account cell configuration with avatar, error, managed and AI tier ring detail images and tappable modes.

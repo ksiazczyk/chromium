@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_add_account_item.mm.
+type: source
+title: IdentityChooserAddAccountItem implementation
+summary: Configures the Add Account identity cell with its localized title, template image and accessibility identifier.

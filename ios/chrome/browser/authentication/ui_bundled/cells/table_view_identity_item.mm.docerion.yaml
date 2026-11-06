@@ -1,0 +1,4 @@
+# Docerion header of table_view_identity_item.mm.
+type: source
+title: Table view identity item implementation
+summary: Implements TableViewIdentityItem, configuring the identity cell and adding accessibility labels for managed accounts.

@@ -4,6 +4,12 @@
 
 // Origin: google3/googlemac/iPhone/Shared/Identity/Common/UI/AISubscriptionIndicators/SubscriptionBottomWave.swift
 
+// ---docerion
+// type: source
+// title: SubscriptionBottomWave SwiftUI shape
+// summary: Defines a SwiftUI shape that draws the wave at the bottom of the AI subscription indicator, scaled to its view size.
+// ---
+
 import SwiftUI
 
 /// A shape that represents the wave at the bottom of the AI subscription indicator.

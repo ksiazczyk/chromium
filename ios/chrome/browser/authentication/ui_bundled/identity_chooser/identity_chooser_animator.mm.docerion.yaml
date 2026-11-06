@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_animator.mm.
+type: source
+title: IdentityChooserAnimator implementation
+summary: Implements the spring-based scale and fade animation for presenting and dismissing the identity chooser.

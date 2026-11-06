@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo sign-out coordinator header
+// summary: Declares the UndoSignoutCoordinator interface and its delegate protocol for handling the undo sign-out action for a given identity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNOUT_ACTION_SHEET_UNDO_SIGNOUT_COORDINATOR_UNDO_SIGNOUT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNOUT_ACTION_SHEET_UNDO_SIGNOUT_COORDINATOR_UNDO_SIGNOUT_COORDINATOR_H_
 

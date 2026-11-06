@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceSigninURLInterceptor interface
+// summary: Declares a URL interceptor that parses cross-device sign-in deep links and invokes a callback with the resulting payload.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_DEEPLINK_SIGNIN_CROSS_DEVICE_SIGNIN_URL_INTERCEPTOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_DEEPLINK_SIGNIN_CROSS_DEVICE_SIGNIN_URL_INTERCEPTOR_H_
 

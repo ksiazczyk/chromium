@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityView interface
+// summary: Declares IdentityView, a view showing a round avatar, a title, an optional subtitle and a managed-account icon.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_IDENTITY_VIEW_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_IDENTITY_VIEW_H_
 

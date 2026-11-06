@@ -1,0 +1,4 @@
+# Docerion header of consistency_account_chooser_coordinator.mm.
+type: source
+title: Consistency account chooser coordinator implementation
+summary: Implements the coordinator that creates the mediator and view controller and records identity chooser metrics.

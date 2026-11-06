@@ -1,0 +1,4 @@
+# Docerion header of signin_screen_provider.mm.
+type: source
+title: Sign-in screen provider implementation
+summary: Implements SigninScreenProvider with the sign-in and steps-completed screens in its screen list.

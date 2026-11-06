@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterprisePromptViewController class interface
+// summary: Declares the confirmation alert view controller that displays enterprise prompt information based on a prompt type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ENTERPRISE_ENTERPRISE_PROMPT_ENTERPRISE_PROMPT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ENTERPRISE_ENTERPRISE_PROMPT_ENTERPRISE_PROMPT_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in notification infobar delegate header
+// summary: Declares SigninNotificationInfoBarDelegate, which shows a sign-in notification infobar and can create it in an infobar manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_NOTIFICATION_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_NOTIFICATION_INFOBAR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of consistency_default_account_mediator.mm.
+type: source
+title: ConsistencyDefaultAccountMediator implementation
+summary: Implements the mediator, computing promo labels per access point and sync policy state and updating the consumer with account details.

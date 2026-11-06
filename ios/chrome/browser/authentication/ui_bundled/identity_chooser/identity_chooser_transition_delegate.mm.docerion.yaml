@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_transition_delegate.mm.
+type: source
+title: Identity chooser transition delegate implementation
+summary: Supplies the presentation controller and the present and dismiss animators for the identity chooser.

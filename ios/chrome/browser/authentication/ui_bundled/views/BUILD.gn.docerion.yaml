@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for authentication views
+summary: Defines the views and views_constants source sets and their dependencies for the iOS authentication identity UI.

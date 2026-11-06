@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for consistency_default_account
+summary: GN build file defining the consistency_default_account source set and its dependencies for the iOS default account sign-in promo UI.

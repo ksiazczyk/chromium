@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sign-in BUILD.gn build targets
+summary: Defines GN build targets grouping public sign-in headers and the sign-in implementation with their dependencies.

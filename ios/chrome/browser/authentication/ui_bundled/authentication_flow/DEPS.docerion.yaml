@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the authentication flow
+summary: Grants authentication_flow_performer_base.mm an include exception for the bubble model utils header.

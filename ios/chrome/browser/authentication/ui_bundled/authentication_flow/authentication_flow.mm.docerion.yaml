@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow.mm.
+type: source
+title: Authentication flow implementation
+summary: Implements the sign-in flow state machine covering capability checks, reauth, unsynced data checks, age mismatch dialogs, and profile switching.

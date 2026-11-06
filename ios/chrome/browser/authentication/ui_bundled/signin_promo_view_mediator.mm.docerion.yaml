@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view_mediator.mm.
+type: source
+title: Sign-in promo view mediator implementation
+summary: Implements the sign-in promo view mediator, including promo state tracking, impression metrics, automatic dismissal, and sign-in actions per access point.

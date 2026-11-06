@@ -1,0 +1,4 @@
+# Docerion header of account_preview_preference_string_utils_unittest.mm.
+type: test
+title: Account preview preference string utilities unit tests
+summary: Unit tests verifying promo label strings for all supported data types and device form factors in web and NTP sign-in.

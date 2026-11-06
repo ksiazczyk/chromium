@@ -1,0 +1,4 @@
+# Docerion header of tab_matcher_impl.mm.
+type: source
+title: TabMatcherImpl implementation
+summary: Implements IsTabOpenWithURL by checking the web state lists of the profile's regular or incognito browsers for the given URL.

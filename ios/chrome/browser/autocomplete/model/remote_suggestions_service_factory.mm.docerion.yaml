@@ -1,0 +1,4 @@
+# Docerion header of remote_suggestions_service_factory.mm.
+type: source
+title: RemoteSuggestionsServiceFactory implementation
+summary: Implements the RemoteSuggestionsServiceFactory, building a service per profile with the profile's shared URL loader factory.
