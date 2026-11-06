@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for intermediate EKU server gated crypto
+summary: Generates SHA-1 and SHA-256 certificate chains whose intermediate carries the Netscape Server Gated Crypto extended key usage instead of serverAuth.

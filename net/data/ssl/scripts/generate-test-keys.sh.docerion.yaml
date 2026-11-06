@@ -1,0 +1,4 @@
+# Docerion header of generate-test-keys.sh.
+type: script
+title: Test key generator
+summary: Generates RSA and EC private keys of various sizes for tests that need keys without paying runtime generation cost.

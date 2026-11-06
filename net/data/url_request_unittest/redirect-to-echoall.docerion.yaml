@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-echoall.
+type: data
+title: Redirect to echoall response body
+summary: Minimal response body served when the redirect-to-echoall test target is fetched.

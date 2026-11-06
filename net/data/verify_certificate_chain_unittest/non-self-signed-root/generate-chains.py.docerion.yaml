@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for non-self-signed root certificate chain
+summary: Python script that generates a certificate chain whose root is not self-signed, writing target, intermediate and root certificates to chain.pem for verification tests.

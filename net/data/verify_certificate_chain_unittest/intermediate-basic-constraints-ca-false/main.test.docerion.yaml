@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected errors for intermediate with basicConstraints CA:false
+summary: Test input specifying chain verification parameters and the expected error that the intermediate's basic constraints indicate it is not a CA.

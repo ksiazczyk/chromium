@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Root Store trusted roots list
+summary: Generated reference table of the Chrome Root Store's trusted and constrained roots with SHA-256 hashes, subjects, and validity dates.
+---
+
 <!-- mdformat off(generated) -->
 <!-- mdlint off(generated) -->
 # Chrome Root Store

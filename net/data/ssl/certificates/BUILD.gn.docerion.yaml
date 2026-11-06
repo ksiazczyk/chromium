@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build action for fuzzer certificate includes
+summary: Defines a GN action_foreach that generates .inc headers from fuzzer certificate PEM files via generate-fuzzer-cert-include.py.

@@ -1,0 +1,4 @@
+# Docerion header of longrolloverchain.test.
+type: test
+title: Long rollover chain test case
+summary: Defines the long rollover chain, trusted anchor, verification time and key purpose, with no expected errors, for the certificate chain verifier unit test.

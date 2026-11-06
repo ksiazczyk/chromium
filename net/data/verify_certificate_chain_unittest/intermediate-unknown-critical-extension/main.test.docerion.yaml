@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected errors for unknown critical extension chain test
+summary: Test definition expecting verification of the generated chain to fail with an unconsumed critical extension error on the intermediate certificate.

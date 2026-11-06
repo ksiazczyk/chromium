@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-https.
+type: data
+title: Redirect 302 to HTTPS body fixture
+summary: Placeholder response body served for the 302 redirect-to-HTTPS case in URLRequest unit tests.

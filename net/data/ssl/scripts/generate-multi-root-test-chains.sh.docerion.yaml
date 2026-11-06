@@ -1,0 +1,4 @@
+# Docerion header of generate-multi-root-test-chains.sh.
+type: script
+title: Multi-root test chain generator
+summary: Generates overlapping certificate chains with two self-signed roots to exercise path building as described in RFC 4158.

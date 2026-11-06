@@ -1,0 +1,4 @@
+# Docerion header of toomany-ips-excluded.test.
+type: test
+title: Too many excluded IP name constraints test
+summary: Test data for certificate chain verification expecting a 'Too many name constraints checks' error when a chain exceeds the limit on excluded IP name constraints.

@@ -1,0 +1,4 @@
+# Docerion header of generate-bad-eku-certs.sh.
+type: script
+title: Generator for bad extendedKeyUsage test certificates
+summary: Shell script that generates a root and end-entity chains with critical and non-critical codeSigning EKUs to verify they are rejected as web server certs.

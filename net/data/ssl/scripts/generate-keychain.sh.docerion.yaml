@@ -1,0 +1,4 @@
+# Docerion header of generate-keychain.sh.
+type: script
+title: macOS keychain generator for test certificates
+summary: Creates a macOS keychain and adds the given certificates to it as trusted or untrusted entries.

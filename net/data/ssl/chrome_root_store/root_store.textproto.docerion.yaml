@@ -1,0 +1,4 @@
+# Docerion header of root_store.textproto.
+type: data
+title: Chrome root store definition
+summary: Text-format protobuf RootStore message listing trust anchors with IDs, EV policy OIDs, constraints, and version information.

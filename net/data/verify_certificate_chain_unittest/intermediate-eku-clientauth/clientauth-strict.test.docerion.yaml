@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: 'clientauth-strict.test: strict client auth verification'
+summary: Test case verifying the generated chain under the strict client auth key purpose, expecting successful verification with no errors.

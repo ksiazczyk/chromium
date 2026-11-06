@@ -1,0 +1,4 @@
+# Docerion header of clientauth.test.
+type: test
+title: 'clientauth.test: chain verification test for client auth'
+summary: Defines a verify_certificate_chain unittest case that validates the chain for client auth and expects no errors.

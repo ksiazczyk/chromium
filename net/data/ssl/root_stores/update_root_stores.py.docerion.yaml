@@ -1,0 +1,4 @@
+# Docerion header of update_root_stores.py.
+type: script
+title: Root Store Trust Anchor Header Generator
+summary: Python script that reads root_stores.json and generates the sorted C++ header mapping trust anchor SPKI hashes to histogram IDs, then formats it with clang-format.

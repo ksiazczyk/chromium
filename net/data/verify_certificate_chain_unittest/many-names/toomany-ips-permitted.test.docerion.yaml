@@ -1,0 +1,4 @@
+# Docerion header of toomany-ips-permitted.test.
+type: test
+title: Too many permitted IP name constraints test
+summary: Test data for certificate chain verification expecting a 'Too many name constraints checks' error when a chain exceeds the limit on permitted IP name constraints.

@@ -1,0 +1,4 @@
+# Docerion header of generate-redundant-test-chains.sh.
+type: script
+title: Redundant test chain generator
+summary: Generates two test certificate chains where C2 shares C's key, used to test validation against an alternate trusted root.

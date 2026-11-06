@@ -1,0 +1,4 @@
+# Docerion header of ee.cnf.
+type: config
+title: OpenSSL configuration for end-entity test certificates
+summary: OpenSSL configuration providing subject names, SANs, policies, and key usage sections for generating end-entity test certificates.

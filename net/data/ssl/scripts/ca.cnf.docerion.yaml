@@ -1,0 +1,4 @@
+# Docerion header of ca.cnf.
+type: config
+title: OpenSSL configuration for the test root CA
+summary: OpenSSL configuration defining the test root CA, signing policy, and certificate and CRL extensions used to generate test certificates.

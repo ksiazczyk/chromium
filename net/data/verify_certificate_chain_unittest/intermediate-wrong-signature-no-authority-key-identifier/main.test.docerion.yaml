@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for intermediate-wrong-signature-no-authority-key-identifier
+summary: Test definition specifying the chain, trusted anchor, and expected VerifySignedData failure for the intermediate signed with the wrong key.

@@ -1,0 +1,4 @@
+# Docerion header of generate-client-certificates.sh.
+type: script
+title: Generator for SSL client authentication test certificates
+summary: Shell script generating client certificate chains across RSA, EC, Ed25519, ML-DSA, and X25519 key types for SSL client authentication tests.

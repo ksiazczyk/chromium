@@ -1,0 +1,4 @@
+# Docerion header of toomany-dirnames-excluded.test.
+type: test
+title: toomany-dirnames-excluded chain test
+summary: Test case expecting the toomany-dirnames-excluded certificate chain to fail verification with a too many name constraints checks error.

@@ -1,0 +1,4 @@
+# Docerion header of crlset_by_root_subject.raw.
+type: data
+title: CRLSet limiting certificates by root subject
+summary: CRLSet test fixture with sequence 1 and no parents that limits leaf certificates under a specific root subject SPKI for revocation tests.

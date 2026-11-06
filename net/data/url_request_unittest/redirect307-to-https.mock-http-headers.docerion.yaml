@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-https.mock-http-headers.
+type: data
+title: Mock HTTP headers for a 307 redirect to HTTPS
+summary: Mock HTTP response headers that simulate a 307 redirect to an HTTPS location for URL request unit tests.

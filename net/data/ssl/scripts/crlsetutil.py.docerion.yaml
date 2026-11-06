@@ -1,0 +1,4 @@
+# Docerion header of crlsetutil.py.
+type: script
+title: CRLSet builder utility
+summary: Python utility that reads a JSON description of blocked and limited certificates from stdin and produces a binary CRLSet.

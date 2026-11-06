@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Key rollover certificate chain generator
+summary: Python script that generates the old, new, rollover and long rollover PEM certificate chains exercising root key rollover for the certificate verifier unit tests.

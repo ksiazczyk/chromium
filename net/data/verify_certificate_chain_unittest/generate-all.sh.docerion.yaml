@@ -1,0 +1,4 @@
+# Docerion header of generate-all.sh.
+type: script
+title: Regenerate all certificate chain test data
+summary: Shell script that walks each test subdirectory, runs its generate-chains.py to rebuild the .pem chains, and removes temporary output files afterwards.

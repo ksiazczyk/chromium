@@ -1,3 +1,9 @@
+---
+type: readme
+title: SSL test certificates directory README
+summary: Documents the certificates for SSL-related unit tests and warns against adding new checked-in certificate files, preferring runtime-generated or CertBuilder alternatives.
+---
+
 This directory contains various certificates for use with SSL-related
 unit tests.
 

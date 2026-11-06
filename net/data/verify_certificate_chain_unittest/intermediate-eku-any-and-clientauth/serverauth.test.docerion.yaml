@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: 'serverauth.test: chain verification test for server auth'
+summary: Defines a verify_certificate_chain unittest case for server auth, expecting only a warning that the intermediate EKU includes anyExtendedKeyUsage instead of server auth.

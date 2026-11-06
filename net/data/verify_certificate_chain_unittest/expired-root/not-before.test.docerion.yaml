@@ -1,0 +1,4 @@
+# Docerion header of not-before.test.
+type: test
+title: Expired root not-before with trusted anchor
+summary: Test case verifying the chain at a time before the root's notBefore with plain TRUSTED_ANCHOR trust, expecting no errors since expiration is not enforced.

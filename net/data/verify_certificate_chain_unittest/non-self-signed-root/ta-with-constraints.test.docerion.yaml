@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Non-self-signed root chain test with trusted anchor and constraints
+summary: Test definition verifying the generated chain with the last certificate trusted as a trusted anchor with constraints, expecting no errors for server auth.

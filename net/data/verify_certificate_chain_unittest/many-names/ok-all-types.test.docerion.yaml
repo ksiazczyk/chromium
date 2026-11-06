@@ -1,0 +1,4 @@
+# Docerion header of ok-all-types.test.
+type: test
+title: ok-all-types chain test
+summary: Test case expecting the ok-all-types certificate chain, with many name constraints and names of all types below the limit, to verify without errors.

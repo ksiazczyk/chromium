@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-file.html.mock-http-headers.
+type: test
+title: Redirect to file mock HTTP headers
+summary: Mock HTTP response headers that return a 302 redirect to a file URL, used as a fixture for URL request redirect handling tests.

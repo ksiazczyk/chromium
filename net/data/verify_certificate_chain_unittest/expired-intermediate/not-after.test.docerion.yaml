@@ -1,0 +1,4 @@
+# Docerion header of not-after.test.
+type: test
+title: 'Expired intermediate: time after notAfter test'
+summary: Test case verifying that chain validation at a time after the intermediate's notAfter reports a 'Time is after notAfter' error.

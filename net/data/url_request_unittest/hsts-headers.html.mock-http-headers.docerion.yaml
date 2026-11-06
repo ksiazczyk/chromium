@@ -1,0 +1,4 @@
+# Docerion header of hsts-headers.html.mock-http-headers.
+type: data
+title: HSTS headers mock HTTP headers
+summary: Mock HTTP headers with a Strict-Transport-Security header to test HSTS processing.

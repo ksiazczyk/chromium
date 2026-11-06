@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate test chain with unknown non-critical intermediate extension
+summary: Python script that builds a certificate chain whose intermediate contains an unknown non-critical extension and writes the resulting chain to chain.pem.

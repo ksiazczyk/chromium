@@ -1,0 +1,4 @@
+# Docerion header of simple.html.mock-http-headers.
+type: data
+title: simple.html.mock-http-headers
+summary: Mock HTTP response headers serving a 200 OK page with text/html content type and content length.

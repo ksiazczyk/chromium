@@ -1,0 +1,4 @@
+# Docerion header of anchor.test.
+type: test
+title: Anchor test parameters for issuer-and-subject-not-byte-for-byte-equal chain
+summary: Test parameters verifying a chain anchored at a trusted anchor for the scenario where issuer and subject are not byte-for-byte equal.

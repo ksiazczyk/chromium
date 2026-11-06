@@ -1,0 +1,4 @@
+# Docerion header of eku-test.cnf.
+type: config
+title: OpenSSL configuration for extendedKeyUsage test certificates
+summary: OpenSSL configuration defining certificate requests with critical and non-critical codeSigning extended key usage for tests.

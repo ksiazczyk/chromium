@@ -1,0 +1,4 @@
+# Docerion header of sha1-eku-clientAuth.test.
+type: test
+title: SHA-1 chain, client auth test expectations
+summary: Defines a chain verification test expecting an error because the intermediate's extended key usage lacks client auth for client authentication.

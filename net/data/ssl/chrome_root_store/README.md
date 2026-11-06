@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Root Store
+summary: Introduces the directory's root store artifacts, explains how the textproto and certificate files generate Chrome code, and links to testing and FAQ documentation.
+relations:
+  - references /net/cert/root_store.proto
+  - references /net/data/ssl/chrome_root_store/faq.md
+  - references /net/data/ssl/chrome_root_store/testing.md
+---
+
 # Chrome Root Store
 
 This directory contains the artifacts related to the

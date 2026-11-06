@@ -1,0 +1,4 @@
+# Docerion header of two-content-lengths.html.
+type: data
+title: two-content-lengths.html
+summary: Placeholder HTML body for the duplicate Content-Length test, with the behavior defined in the paired headers file.

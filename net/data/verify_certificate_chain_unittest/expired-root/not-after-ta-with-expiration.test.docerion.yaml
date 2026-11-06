@@ -1,0 +1,4 @@
+# Docerion header of not-after-ta-with-expiration.test.
+type: test
+title: Expired root not-after with trusted anchor with expiration
+summary: Test case verifying the chain at a time after the root's notAfter with TRUSTED_ANCHOR_WITH_EXPIRATION trust, expecting a Time is after notAfter error on the root.

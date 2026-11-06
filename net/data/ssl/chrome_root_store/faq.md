@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Root Store FAQ
+summary: Answers common questions about the Chrome Root Store and Certificate Verifier, covering rollout timelines, CA inclusion, updates, and local trust decisions.
+---
+
 # Frequently Asked Questions
 Last updated: November 14, 2025
 

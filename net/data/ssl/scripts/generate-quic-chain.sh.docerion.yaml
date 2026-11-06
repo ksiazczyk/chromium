@@ -1,0 +1,4 @@
+# Docerion header of generate-quic-chain.sh.
+type: script
+title: QUIC test chain generator
+summary: Generates a root, intermediate and leaf certificate chain used to run a test QUIC server.

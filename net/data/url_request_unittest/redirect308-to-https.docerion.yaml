@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-https.
+type: data
+title: redirect308-to-https
+summary: Response body fixture served for the 308 redirect-to-HTTPS case in the URLRequest unit tests.

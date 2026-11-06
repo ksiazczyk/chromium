@@ -1,0 +1,4 @@
+# Docerion header of redirect-test.html.mock-http-headers.
+type: data
+title: Redirect test mock HTTP headers
+summary: Mock HTTP headers returning a cacheable 302 redirect that points the redirect test at with-headers.html.

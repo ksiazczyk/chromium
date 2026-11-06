@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-echo.
+type: data
+title: Redirect 308 to echo response body
+summary: Body served by the mock HTTP server for the URLRequest unit test covering a 308 redirect to the /echo endpoint.

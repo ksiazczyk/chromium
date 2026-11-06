@@ -1,0 +1,4 @@
+# Docerion header of rebase-errors.py.
+type: script
+title: Rebaseline certificate chain test error expectations
+summary: Python helper that scans unittest stdout for cert path error mismatches and rewrites the expected errors in the corresponding .test or .txt files.

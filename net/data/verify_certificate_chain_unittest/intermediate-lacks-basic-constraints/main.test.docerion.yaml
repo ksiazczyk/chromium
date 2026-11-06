@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for intermediate lacking basic constraints
+summary: Test input and expected verification errors for the generated chain, expecting a Basic Constraints error on the intermediate certificate.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for intermediate and target wrong signature chain
+summary: Defines the test inputs and expected VerifySignedData error for the intermediate certificate when verifying a chain whose intermediate and target signatures are wrong.

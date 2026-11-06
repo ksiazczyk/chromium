@@ -1,0 +1,4 @@
+# Docerion header of generate-key-usage-certs.sh.
+type: script
+title: Key usage test certificate generator
+summary: Generates RSA and P256 test certificates with different key usage extensions and writes them to the certificates directory.

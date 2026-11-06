@@ -1,0 +1,4 @@
+# Docerion header of generate-bad-self-signed.sh.
+type: script
+title: Generator for invalid self-signed test certificates
+summary: Shell script that creates self-signed test certificates with invalid names or corrupted signatures for unit tests.

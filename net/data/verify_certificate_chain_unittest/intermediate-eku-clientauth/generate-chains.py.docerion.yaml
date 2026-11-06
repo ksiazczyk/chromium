@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: 'generate-chains.py: builds the clientAuth-restricted intermediate chain'
+summary: Python script that generates chain.pem, a chain whose intermediate restricts EKU to clientAuth while the target asserts serverAuth and clientAuth.

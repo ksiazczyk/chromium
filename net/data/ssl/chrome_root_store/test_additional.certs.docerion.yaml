@@ -1,0 +1,4 @@
+# Docerion header of test_additional.certs.
+type: test
+title: Test additional certificates
+summary: Additional certificates used to build the test root store include file for exercising the Chrome root store tooling.

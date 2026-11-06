@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: 'serverauth-strict.test: strict server auth verification failure'
+summary: Test case expecting verification to fail under the strict server auth key purpose because the intermediate's EKU excludes server auth.

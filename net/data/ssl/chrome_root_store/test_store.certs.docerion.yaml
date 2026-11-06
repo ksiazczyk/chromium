@@ -1,0 +1,4 @@
+# Docerion header of test_store.certs.
+type: test
+title: Chrome Root Store test certificates
+summary: Test root certificate data backing the trust anchors used by the Chrome Root Store test store.

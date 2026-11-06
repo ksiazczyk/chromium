@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-https.mock-http-headers.
+type: test
+title: Mock 308 redirect headers to HTTPS
+summary: Mock HTTP response headers simulating a 308 permanent redirect to an HTTPS URL, used as a fixture for URLRequest unit tests.

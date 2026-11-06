@@ -1,3 +1,9 @@
+---
+type: readme
+title: Certificate Blocklist
+summary: Describes certificates and public keys treated as name-constrained during certificate validation in Chromium-based products, including details on compromises and misissuances such as ANSSI.
+---
+
 # Certificate Blocklist
 
 This directory contains a number of certificates and public keys which are to be

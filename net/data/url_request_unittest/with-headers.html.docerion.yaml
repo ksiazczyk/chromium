@@ -1,0 +1,4 @@
+# Docerion header of with-headers.html.
+type: data
+title: with-headers.html
+summary: Placeholder HTML body for the response header test, with the behavior defined in the paired headers file.

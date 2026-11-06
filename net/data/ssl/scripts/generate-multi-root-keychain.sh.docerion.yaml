@@ -1,0 +1,4 @@
+# Docerion header of generate-multi-root-keychain.sh.
+type: script
+title: Multi-root keychain generator
+summary: Builds a macOS keychain containing the multi-root test certificates and copies it into the certificates directory.

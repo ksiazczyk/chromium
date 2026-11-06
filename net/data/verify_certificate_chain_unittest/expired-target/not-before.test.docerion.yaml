@@ -1,0 +1,4 @@
+# Docerion header of not-before.test.
+type: test
+title: 'Verification test: time before target notBefore'
+summary: Defines a chain verification scenario expecting a 'Time is before notBefore' error when the target certificate is not yet valid.

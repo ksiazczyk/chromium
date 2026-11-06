@@ -1,0 +1,4 @@
+# Docerion header of toomany-dns-excluded.test.
+type: test
+title: toomany-dns-excluded chain test
+summary: Test case expecting the toomany-dns-excluded certificate chain to fail verification with a too many name constraints checks error.

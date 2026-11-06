@@ -1,0 +1,4 @@
+# Docerion header of not-after-ta-with-constraints.test.
+type: test
+title: Expired root not-after with trusted anchor with constraints
+summary: Test case verifying the chain at a time after the root's notAfter with TRUSTED_ANCHOR_WITH_CONSTRAINTS trust, expecting no errors.

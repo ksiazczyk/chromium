@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: 'any.test: chain verification test for ANY_EKU key purpose'
+summary: Defines a verify_certificate_chain unittest case that validates the chain with the ANY_EKU key purpose and expects no errors.

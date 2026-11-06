@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome root store build rules
+summary: GN build targets that run the root store and signer set tools to generate C++ include files from the root store, certificate, and signer set data.

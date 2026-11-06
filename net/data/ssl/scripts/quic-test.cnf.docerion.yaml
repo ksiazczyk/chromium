@@ -1,0 +1,4 @@
+# Docerion header of quic-test.cnf.
+type: config
+title: QUIC test CA OpenSSL configuration
+summary: OpenSSL configuration defining the quic-test-root CA and certificate extensions (serverAuth/clientAuth, SAN) used to generate the QUIC test chain.

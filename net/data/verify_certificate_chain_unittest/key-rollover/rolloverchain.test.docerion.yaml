@@ -1,0 +1,4 @@
+# Docerion header of rolloverchain.test.
+type: test
+title: Rollover chain test case
+summary: Defines the rollover chain, trusted anchor, verification time and key purpose, with no expected errors, for the certificate chain verifier unit test.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for root store data updates
+summary: Grants the Chrome PKI metadata release jobs team approval rights over the root store data files for bot-driven updates.

@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: 'any.test: ANY_EKU verification of the clientAuth intermediate chain'
+summary: Test case verifying the generated chain under the ANY_EKU key purpose, expecting successful verification with no errors.

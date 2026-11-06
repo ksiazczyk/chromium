@@ -1,0 +1,4 @@
+# Docerion header of hsts-multiple-headers.html.mock-http-headers.
+type: data
+title: HSTS multiple headers mock HTTP headers
+summary: Mock HTTP headers with two Strict-Transport-Security headers to test handling of multiple HSTS entries.

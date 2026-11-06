@@ -1,0 +1,4 @@
+# Docerion header of sha256-eku-serverAuth-strict.test.
+type: test
+title: SHA-256 chain, strict server auth test expectations
+summary: Defines a chain verification test expecting a warning about Netscape Server Gated Crypto and an error for missing server auth under strict policy.

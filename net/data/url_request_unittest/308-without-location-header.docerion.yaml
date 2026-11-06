@@ -1,0 +1,4 @@
+# Docerion header of 308-without-location-header.
+type: data
+title: 308 without Location header fixture
+summary: Body served for a 308 response without a Location header in URLRequest unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-file.html.
+type: data
+title: Redirect to file URL HTML fixture
+summary: Response body served for the test where a redirect targets a file URL.

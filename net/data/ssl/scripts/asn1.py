@@ -4,6 +4,12 @@
 
 # This file implements very minimal ASN.1, DER serialization.
 
+# ---docerion
+# type: script
+# title: Minimal ASN.1 DER serialization helper
+# summary: Python module implementing minimal ASN.1 and DER serialization primitives used to build test certificate data.
+# ---
+
 
 def ToDER(obj):
   '''ToDER converts the given object into DER encoding'''

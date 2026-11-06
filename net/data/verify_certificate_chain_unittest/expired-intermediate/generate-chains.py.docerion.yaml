@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Expired intermediate certificate chain generator
+summary: Python script that generates a certificate chain whose intermediate has a shorter validity range than the root and target, for testing validity-period errors.

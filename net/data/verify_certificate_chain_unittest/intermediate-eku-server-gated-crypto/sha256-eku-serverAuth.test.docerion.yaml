@@ -1,0 +1,4 @@
+# Docerion header of sha256-eku-serverAuth.test.
+type: test
+title: sha256-eku-serverAuth.test
+summary: Test data for verify_certificate_chain_unittest expecting errors because the intermediate's extended key usage is Netscape Server Gated Crypto instead of server auth.

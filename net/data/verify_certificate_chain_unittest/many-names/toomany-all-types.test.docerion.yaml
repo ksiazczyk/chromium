@@ -1,0 +1,4 @@
+# Docerion header of toomany-all-types.test.
+type: test
+title: toomany-all-types chain test
+summary: Test case expecting the toomany-all-types certificate chain to fail verification with a too many name constraints checks error.
