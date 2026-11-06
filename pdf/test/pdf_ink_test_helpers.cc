@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink annotation test helpers implementation
+// summary: Implements helpers that create annotation mode, brush and undo/redo messages, ink stroke input batches and sample text annotation data for PDF Ink tests.
+// ---
+
 #include "pdf/test/pdf_ink_test_helpers.h"
 
 #include <array>

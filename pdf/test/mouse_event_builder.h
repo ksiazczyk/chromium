@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse event builder for PDF tests
+// summary: Fluent builder class that constructs blink::WebMouseEvent objects, with convenience helpers for left clicks, used in PDF tests.
+// ---
+
 #ifndef PDF_TEST_MOUSE_EVENT_BUILDER_H_
 #define PDF_TEST_MOUSE_EVENT_BUILDER_H_
 

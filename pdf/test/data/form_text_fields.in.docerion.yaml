@@ -1,0 +1,4 @@
+# Docerion header of form_text_fields.in.
+type: test
+title: Form text fields test PDF template
+summary: PDF template defining text field widgets including read-only, required, and password fields on a page with sample text.

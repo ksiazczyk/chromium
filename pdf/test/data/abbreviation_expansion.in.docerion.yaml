@@ -1,0 +1,4 @@
+# Docerion header of abbreviation_expansion.in.
+type: test
+title: Abbreviation expansion PDF template
+summary: Template for a tagged PDF whose structure tree marks the abbreviation PDF with the expansion Portable Document Format.

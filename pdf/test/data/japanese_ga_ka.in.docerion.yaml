@@ -1,0 +1,4 @@
+# Docerion header of japanese_ga_ka.in.
+type: test
+title: Japanese CID font text test input
+summary: PDF test input template rendering Japanese characters with a Type0 CID font using the UniJIS-UCS2-H encoding.

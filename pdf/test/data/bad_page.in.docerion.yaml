@@ -1,0 +1,4 @@
+# Docerion header of bad_page.in.
+type: test
+title: Bad page PDF template
+summary: Template for a malformed PDF whose page tree deliberately references a missing page object, for error handling tests.

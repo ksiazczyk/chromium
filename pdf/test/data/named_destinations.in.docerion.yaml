@@ -1,0 +1,4 @@
+# Docerion header of named_destinations.in.
+type: test
+title: Named destinations PDF test template
+summary: PDF template defining named destinations with valid and invalid page objects and page numbers, used to test destination resolution.

@@ -1,0 +1,4 @@
+# Docerion header of bug_406530484.in.
+type: test
+title: Bug 406530484 PDF test template
+summary: Test PDF template combining form and image XObjects with transformations for bug 406530484.

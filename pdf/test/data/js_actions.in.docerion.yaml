@@ -1,0 +1,4 @@
+# Docerion header of js_actions.in.
+type: test
+title: JavaScript action test input
+summary: PDF test input template defining a named JavaScript action that shows an alert in the document name tree.

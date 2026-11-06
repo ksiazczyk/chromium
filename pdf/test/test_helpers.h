@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF test helper utilities
+// summary: Declares test helpers for PDF tests, covering test data paths, PNG matching, PDF rendering checks, Skia image creation, and print parameters.
+// ---
+
 #ifndef PDF_TEST_TEST_HELPERS_H_
 #define PDF_TEST_TEST_HELPERS_H_
 

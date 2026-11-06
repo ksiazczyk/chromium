@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: PDF test presubmit checks
+# summary: Presubmit script that runs bundle data checks for pdf_test_bundle_data on changes to pdf/test.
+# ---
+
 """Presubmit checks for //pdf/test
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

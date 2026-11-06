@@ -1,0 +1,4 @@
+# Docerion header of uri_action_utf8.in.
+type: test
+title: URI action with UTF-8 characters
+summary: Test template PDF with a link annotation whose URI action contains UTF-8 encoded non-ASCII characters.

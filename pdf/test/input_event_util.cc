@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input event creation helpers for PDF tests
+// summary: Provides functions that build common WebMouseEvent events such as left clicks and mouse moves for PDF tests.
+// ---
+
 #include "pdf/test/input_event_util.h"
 
 #include "pdf/test/mouse_event_builder.h"

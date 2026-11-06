@@ -1,0 +1,4 @@
+# Docerion header of ink_text_line_decorations.in.
+type: test
+title: Ink text with line decorations test input
+summary: PDF test input template using version 2 GOOG:CrText with strikethrough and underline flags plus drawn decoration lines.

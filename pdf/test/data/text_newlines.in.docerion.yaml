@@ -1,0 +1,4 @@
+# Docerion header of text_newlines.in.
+type: test
+title: Text with newlines
+summary: Test template PDF whose text string contains LF and CRLF newlines to exercise newline handling in text extraction.

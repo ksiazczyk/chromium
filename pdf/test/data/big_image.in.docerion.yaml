@@ -1,0 +1,4 @@
+# Docerion header of big_image.in.
+type: test
+title: Big image PDF template
+summary: Template for a PDF embedding a 5000x5000 CMYK image XObject drawn onto a 64x64 page.

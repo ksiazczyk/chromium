@@ -1,0 +1,4 @@
+# Docerion header of ink_text_invalid.in.
+type: test
+title: Invalid ink text attributes test input
+summary: PDF test input template with many malformed GOOG:CrText blocks covering missing bounds, typeface, alignment, orientation, text and duplicate attributes.

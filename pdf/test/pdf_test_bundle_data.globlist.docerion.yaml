@@ -1,0 +1,4 @@
+# Docerion header of pdf_test_bundle_data.globlist.
+type: test
+title: PDF test bundle data glob list
+summary: Glob list of PDF test data files used by update_bundle_filelist.py to regenerate the matching .filelist for the iOS test bundle.

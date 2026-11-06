@@ -1,0 +1,4 @@
+# Docerion header of tags.in.
+type: test
+title: Tagged PDF structure tree
+summary: Test template PDF with a structure tree containing Art, BlockQuote, P, H1 and H2 elements mapped to marked content.

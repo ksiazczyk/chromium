@@ -1,0 +1,4 @@
+# Docerion header of graphic_with_text.in.
+type: test
+title: Form XObject graphic and text detection test
+summary: PDF template testing detection of Form XObjects that combine graphics with visible, text-only, and invisible text content.

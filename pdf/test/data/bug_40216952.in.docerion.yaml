@@ -1,0 +1,4 @@
+# Docerion header of bug_40216952.in.
+type: test
+title: Bug 40216952 PDF test template
+summary: Test PDF template exercising a soft-light ExtGState blend applied to a form XObject for bug 40216952.

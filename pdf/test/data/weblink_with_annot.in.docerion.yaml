@@ -1,0 +1,4 @@
+# Docerion header of weblink_with_annot.in.
+type: test
+title: Web link deduplication with annotations
+summary: Test template PDF printing four URLs with overlapping link annotations to test removal of duplicated web links.

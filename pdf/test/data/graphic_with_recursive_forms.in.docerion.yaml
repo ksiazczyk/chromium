@@ -1,0 +1,4 @@
+# Docerion header of graphic_with_recursive_forms.in.
+type: test
+title: Recursive form XObject graphic detection test
+summary: PDF template exercising graphic detection with deeply nested and self-invoking Form XObjects, testing depth limits beyond kMaxFormDepth.

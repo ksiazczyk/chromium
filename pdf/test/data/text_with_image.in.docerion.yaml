@@ -1,0 +1,4 @@
+# Docerion header of text_with_image.in.
+type: test
+title: Text with images and tagged figures
+summary: Test template PDF combining text with images, transparency groups and tagged figure elements including alt text.

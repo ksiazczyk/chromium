@@ -1,0 +1,4 @@
+# Docerion header of A4_rects.in.
+type: test
+title: A4 rects PDF template
+summary: Template for a test PDF that draws colored rectangles at the corners and edges of an A4 page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDocumentLoader implementation for PDF tests
+// summary: Implements a DocumentLoader test double that loads PDFs from test data and simulates chunked data loading for PDF unit tests.
+// ---
+
 #include "pdf/test/test_document_loader.h"
 
 #include <stdint.h>

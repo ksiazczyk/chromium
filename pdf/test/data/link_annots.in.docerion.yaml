@@ -1,0 +1,4 @@
+# Docerion header of link_annots.in.
+type: test
+title: Link annotations PDF test template
+summary: PDF template with link annotations across two pages, including URI actions, destinations and quad points, for testing annotation handling.

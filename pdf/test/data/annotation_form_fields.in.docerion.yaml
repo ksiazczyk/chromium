@@ -1,0 +1,4 @@
+# Docerion header of annotation_form_fields.in.
+type: test
+title: Annotation form fields PDF template
+summary: Template for a two-page PDF with text form field widgets and different tab order settings for annotation tests.

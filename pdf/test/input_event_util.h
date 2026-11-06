@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input event helper declarations
+// summary: Declares utility functions for creating commonly used mouse input events in PDF tests.
+// ---
+
 #ifndef PDF_TEST_INPUT_EVENT_UTIL_H_
 #define PDF_TEST_INPUT_EVENT_UTIL_H_
 

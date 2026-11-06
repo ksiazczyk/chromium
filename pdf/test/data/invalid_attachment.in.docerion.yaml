@@ -1,0 +1,4 @@
+# Docerion header of invalid_attachment.in.
+type: test
+title: Invalid embedded attachment test input
+summary: PDF test input template with a malformed embedded files name tree whose file specification object is empty.

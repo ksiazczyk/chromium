@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF unit test runner entry point
+// summary: Sets up the PDF unit test suite with Blink, V8, Mojo and resource bundle support, then launches all PDF unit tests.
+// ---
+
 #include <memory>
 
 #include "base/base_paths.h"

@@ -1,0 +1,4 @@
+# Docerion header of in_doc_link_with_various_page_sizes.in.
+type: test
+title: In-document link test with various page sizes
+summary: PDF test input template with pages of different sizes and a link annotation whose destination points to a position on another page.

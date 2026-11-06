@@ -1,0 +1,4 @@
+# Docerion header of ink_text_multi_textboxes.in.
+type: test
+title: Ink text with multiple textboxes test input
+summary: PDF test input template with two GOOG:CrText textboxes on one page using different typeface, size and style attributes.

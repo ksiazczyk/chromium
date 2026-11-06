@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPDFiumEngine mock of PDFiumEngine for tests
+// summary: Declares a gmock-based TestPDFiumEngine subclass that mocks PDFiumEngine methods with dummy data for use in PDF unit tests.
+// ---
+
 #ifndef PDF_TEST_TEST_PDFIUM_ENGINE_H_
 #define PDF_TEST_TEST_PDFIUM_ENGINE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of rotated_rectangles_smaller_than_size_letter.in.
+type: test
+title: Rotated rectangles smaller than letter size
+summary: Test template PDF that draws small rectangles on a page rotated 90 degrees, for testing rendering of rotated pages.

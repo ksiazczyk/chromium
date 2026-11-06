@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink annotation test helper declarations
+// summary: Declares helper functions, sample data factories and gmock matchers for testing PDF Ink annotation features.
+// ---
+
 #ifndef PDF_TEST_PDF_INK_TEST_HELPERS_H_
 #define PDF_TEST_PDF_INK_TEST_HELPERS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of annots.in.
+type: test
+title: Annotations PDF template
+summary: Template for a PDF combining a text field widget, a pushbutton, a URI link, and a highlight annotation.

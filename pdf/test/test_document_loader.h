@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDocumentLoader test double for PDF loading
+// summary: Declares a DocumentLoader test double that loads test PDFs from pdf/test/data and simulates incremental loading for PDF unit tests.
+// ---
+
 #ifndef PDF_TEST_TEST_DOCUMENT_LOADER_H_
 #define PDF_TEST_TEST_DOCUMENT_LOADER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of rotated_page.in.
+type: test
+title: Rotated page with image PDF test template
+summary: PDF template of a single page rotated 270 degrees containing an image drawn with a transformation matrix, used to test rotated rendering.
