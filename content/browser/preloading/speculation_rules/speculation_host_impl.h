@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeculationHostImpl class declaration
+// summary: Declares SpeculationHostImpl, the per-frame DocumentService receiving speculation rules candidates from the web platform.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_HOST_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_HOST_IMPL_H_
 

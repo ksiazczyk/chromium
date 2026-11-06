@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingDataImpl implementation
+// summary: Implements per-WebContents preloading data tracking, adding attempts and predictions with reservoir sampling to limit memory usage for UKM metric logging.
+// ---
+
 #include "content/browser/preloading/preloading_data_impl.h"
 
 #include <limits>

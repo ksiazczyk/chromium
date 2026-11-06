@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender No-Vary-Search commit deferring condition implementation
+// summary: Implements a commit deferring condition that updates the prerendered page's URL when activation targets a different but No-Vary-Search-compatible URL.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_no_vary_search_commit_deferring_condition.h"
 
 #include "base/functional/bind.h"

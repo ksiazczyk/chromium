@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading prediction implementation
+// summary: Implements PreloadingPrediction and ExperimentalPreloadingPrediction, recording preloading prediction UKMs and checking prediction accuracy against navigated URLs.
+// ---
+
 #include "content/browser/preloading/preloading_prediction.h"
 
 #include "base/metrics/histogram_functions.h"

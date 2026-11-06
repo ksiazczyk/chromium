@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation test utilities
+// summary: Declares mock classes, matchers, and test actions for exercising the presentation service implementation and its delegates in unit tests.
+// ---
+
 #ifndef CONTENT_BROWSER_PRESENTATION_PRESENTATION_TEST_UTILS_H_
 #define CONTENT_BROWSER_PRESENTATION_PRESENTATION_TEST_UTILS_H_
 

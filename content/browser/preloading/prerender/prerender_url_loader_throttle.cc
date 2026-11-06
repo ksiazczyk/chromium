@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender URL loader throttle implementation
+// summary: Implements a URL loader throttle that aborts the prerendering network request and cancels the prerender host when the preceding prefetch failed.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_url_loader_throttle.h"
 
 #include "content/browser/preloading/prerender/prerender_features.h"

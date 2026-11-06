@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search helper implementation
+// summary: Parses No-Vary-Search data from prefetch response heads and logs header parse errors to the console.
+// ---
+
 #include "content/browser/preloading/prefetch/no_vary_search_helper.h"
 
 #include "content/public/browser/render_frame_host.h"

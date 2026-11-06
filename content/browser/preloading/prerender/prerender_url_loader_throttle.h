@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderURLLoaderThrottle class header
+// summary: Declares PrerenderURLLoaderThrottle, a URLLoaderThrottle that cancels the network request of a prerendering navigation when the prefetch ahead of prerender fails.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_URL_LOADER_THROTTLE_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_URL_LOADER_THROTTLE_H_
 

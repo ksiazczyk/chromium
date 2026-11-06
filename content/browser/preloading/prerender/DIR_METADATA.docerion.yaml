@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the prerender directory
+summary: Applies the shared COMMON_METADATA mixins to this directory's metadata.

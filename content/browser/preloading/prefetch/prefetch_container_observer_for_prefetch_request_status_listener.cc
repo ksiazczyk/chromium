@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch request status listener adapter implementation
+// summary: Implements the adapter that forwards PrefetchContainer lifecycle events to a PrefetchRequestStatusListener, mapping prefetch outcomes to listener callbacks.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_container_observer_for_prefetch_request_status_listener.h"
 
 #include "base/memory/ptr_util.h"

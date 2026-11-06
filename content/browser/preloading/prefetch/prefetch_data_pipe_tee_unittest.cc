@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchDataPipeTee unit tests
+// summary: Unit tests for PrefetchDataPipeTee covering data pipe cloning, buffer limits, and lifetime behavior using a test data pipe reader.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_data_pipe_tee.h"
 
 #include "base/containers/span.h"

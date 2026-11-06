@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchKey implementation
+// summary: Implements the key that identifies and matches prefetches by referring document token or network isolation key together with the target URL.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_key.h"
 
 #include <variant>

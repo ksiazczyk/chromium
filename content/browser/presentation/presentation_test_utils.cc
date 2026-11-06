@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation test mock implementations
+// summary: Implements mock presentation service delegates, receiver, connection, and controller classes used by presentation unit tests.
+// ---
+
 #include "content/browser/presentation/presentation_test_utils.h"
 
 namespace content {

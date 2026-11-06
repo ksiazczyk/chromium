@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContaminationDelayNavigationThrottle implementation
+// summary: Implements a navigation throttle that delays commit of navigations using contaminated prefetches based on load timing.
+// ---
+
 #include "content/browser/preloading/prefetch/contamination_delay_navigation_throttle.h"
 
 #include "content/browser/preloading/prefetch/prefetch_features.h"

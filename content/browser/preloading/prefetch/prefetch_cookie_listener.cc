@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch cookie listener implementation
+// summary: Implements PrefetchCookieListener, which registers with the cookie manager to track whether cookies for a URL change during prefetching.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_cookie_listener.h"
 
 #include "base/check.h"

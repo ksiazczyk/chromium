@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingDecider implementation
+// summary: Implements the per-document preloading decider that processes pointer, hover, viewport, and speculation rule candidates to choose safe preloading actions.
+// ---
+
 #include "content/browser/preloading/preloading_decider.h"
 
 #include <algorithm>

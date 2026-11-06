@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender metrics declarations
+// summary: Declares prerender metric enums and PrerenderCancellationReason, which pairs final statuses with detailed cancellation explanations.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_METRICS_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch params unit tests
+// summary: Unit tests verifying that the ineligible prefetch decoy request probability is clamped to the range from zero to one.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_params.h"
 
 #include "base/test/scoped_feature_list.h"

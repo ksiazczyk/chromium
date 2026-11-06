@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload serving metrics log structs
+// summary: Declares the log structs such as PrefetchContainerMetrics that collect serving-related preload timing and debug data for UMA and UKM reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOAD_SERVING_METRICS_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOAD_SERVING_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchScheduler implementation
+// summary: Implements the prefetch scheduler that queues and runs prefetches with priority-based active set size limits, burst capacity, and feature-driven policies.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_scheduler.h"
 
 #include "base/auto_reset.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender feature flags implementation
+// summary: Defines Prerender2 feature flags and field trial parameters for fallback prefetch scheduling, No-Vary-Search header timeouts, compositor warm-up, and process reuse.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_features.h"
 
 #include "content/public/browser/content_browser_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload serving metrics holder declaration
+// summary: Declares PreloadServingMetricsHolder, which holds PreloadServingMetrics for a navigation and exposes access for UMA and UKM recording.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOAD_SERVING_METRICS_HOLDER_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOAD_SERVING_METRICS_HOLDER_H_
 

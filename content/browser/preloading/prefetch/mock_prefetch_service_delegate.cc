@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPrefetchServiceDelegate implementation
+// summary: Provides a mock PrefetchServiceDelegate with default test behaviors such as proxy host, API key and eligibility for prefetch tests.
+// ---
+
 #include "content/browser/preloading/prefetch/mock_prefetch_service_delegate.h"
 
 namespace content {

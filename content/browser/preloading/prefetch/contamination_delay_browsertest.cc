@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contamination delay browser tests
+// summary: Browser tests checking that navigations using cross-site-contaminated prefetches are delayed to hide timing information.
+// ---
+
 #include <optional>
 
 #include "base/strings/string_number_conversions.h"

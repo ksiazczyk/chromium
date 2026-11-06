@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchService class declaration
+// summary: Declares PrefetchService, which manages all prefetches within a BrowserContext, covering eligibility checks, network requests, and providing prefetched resources.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVICE_H_
 

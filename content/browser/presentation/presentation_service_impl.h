@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentationServiceImpl class declaration
+// summary: Declares the PresentationServiceImpl class implementing the Mojo PresentationService and receiver service for a render frame, tied to a WebContents as an observer.
+// ---
+
 #ifndef CONTENT_BROWSER_PRESENTATION_PRESENTATION_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_PRESENTATION_PRESENTATION_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch DNS prober implementation
+// summary: Implements PrefetchDNSProber, a ResolveHostClient that performs DNS resolution and reports resolved addresses or failure through a callback.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_dns_prober.h"
 
 #include "base/functional/callback.h"

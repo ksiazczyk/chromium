@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchStreamingURLLoader class declaration
+// summary: Declares PrefetchStreamingURLLoader, a self-owned URLLoaderClient that streams prefetch responses and supports service worker controlled prefetching.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_STREAMING_URL_LOADER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_STREAMING_URL_LOADER_H_
 

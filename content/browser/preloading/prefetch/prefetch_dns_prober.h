@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch DNS prober class declaration
+// summary: Declares PrefetchDNSProber, a simple ResolveHostClient that resolves DNS for prefetch targets and invokes a callback with the results.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DNS_PROBER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DNS_PROBER_H_
 

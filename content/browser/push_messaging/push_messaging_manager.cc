@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingManager implementation
+// summary: Implements the browser-side PushMessaging Mojo manager, handling subscribe, unsubscribe and get subscription flows with permission checks, incognito handling and UMA metrics.
+// ---
+
 #include "content/browser/push_messaging/push_messaging_manager.h"
 
 #include <optional>

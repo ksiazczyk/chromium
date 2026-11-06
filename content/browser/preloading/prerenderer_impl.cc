@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerenderer implementation
+// summary: Implements PrerendererImpl, which starts, tracks, upgrades, and cancels speculation-rules prerenders via the prerender host registry and records related metrics.
+// ---
+
 #include "content/browser/preloading/prerenderer_impl.h"
 
 #include <algorithm>

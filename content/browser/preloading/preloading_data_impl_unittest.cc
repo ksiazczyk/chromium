@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreloadingDataImpl unit tests
+// summary: Unit tests checking that PreloadingDataImpl computes predictor and attempt precision and recall UMA histograms for preloading predictions.
+// ---
+
 #include "content/browser/preloading/preloading_data_impl.h"
 
 #include <algorithm>

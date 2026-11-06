@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender navigation utilities
+// summary: Helpers that check disallowed HTTP response codes and same-site, same-site cross-origin or cross-site relations for prerendering.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_navigation_utils.h"
 
 #include "net/base/registry_controlled_domains/registry_controlled_domain.h"

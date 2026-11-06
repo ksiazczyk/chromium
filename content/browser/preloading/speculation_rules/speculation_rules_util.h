@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speculation rules eagerness utility
+// summary: Header declaring a helper that treats a speculation eagerness as immediate, with kEager depending on the preloading eager hover and viewport heuristic feature flags.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_RULES_UTIL_H_
 #define CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_RULES_UTIL_H_
 

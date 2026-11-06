@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchDataPipeTee declaration
+// summary: Declares PrefetchDataPipeTee, a ref-counted helper that clones a source data pipe into multiple consumers with a buffer limit and documented state machine.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DATA_PIPE_TEE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DATA_PIPE_TEE_H_
 

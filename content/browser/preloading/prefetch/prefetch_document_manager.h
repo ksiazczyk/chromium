@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch document manager class declaration
+// summary: Declares PrefetchDocumentManager, a per-document user data class that manages prefetch state, canary checks, eviction decisions, and metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DOCUMENT_MANAGER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_DOCUMENT_MANAGER_H_
 

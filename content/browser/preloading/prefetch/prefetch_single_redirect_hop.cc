@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchSingleRedirectHop implementation
+// summary: Implements per-URL state for one hop of a prefetch redirect chain, including cookie listeners and isolated cookie copy timing metrics.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_single_redirect_hop.h"
 
 #include "base/barrier_closure.h"

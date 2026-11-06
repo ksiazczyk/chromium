@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preconnector header
+// summary: Declares the Preconnector class that handles heuristics-based preconnects via an anchor element preconnect delegate.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRECONNECTOR_H_
 #define CONTENT_BROWSER_PRELOADING_PRECONNECTOR_H_
 

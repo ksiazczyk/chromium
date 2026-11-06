@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading trigger type implementation
+// summary: Maps speculation injection types to preloading trigger types and identifies which trigger types are speculation rule based.
+// ---
+
 #include "content/browser/preloading/preloading_trigger_type_impl.h"
 
 namespace content {

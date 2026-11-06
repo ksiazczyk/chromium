@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderNewTabHandle class declaration
+// summary: Declares PrerenderNewTabHandle, which prerenders pages in a new WebContents so that new tab navigations can take over the pre-created WebContents on activation.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NEW_TAB_HANDLE_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NEW_TAB_HANDLE_H_
 

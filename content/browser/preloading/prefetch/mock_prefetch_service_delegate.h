@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PrefetchServiceDelegate for tests
+// summary: Gmock implementation of PrefetchServiceDelegate that stubs prefetch service methods for use in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_MOCK_PREFETCH_SERVICE_DELEGATE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_MOCK_PREFETCH_SERVICE_DELEGATE_H_
 

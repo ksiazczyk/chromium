@@ -1,3 +1,9 @@
+---
+type: readme
+title: Prerender2 overview and developer tips
+summary: Documents the Prerender2 implementation with terminology, UKM source ID usage, debugging tips, demo sites and references.
+---
+
 This directory contains the Prerender2 implementation
 (https://crbug.com/1126305).
 

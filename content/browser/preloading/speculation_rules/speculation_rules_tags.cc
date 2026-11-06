@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeculationRulesTags implementation
+// summary: Implements SpeculationRulesTags, storing rule tags in a flat set and serializing them into an HTTP structured header string.
+// ---
+
 #include "content/browser/preloading/speculation_rules/speculation_rules_tags.h"
 
 #include <algorithm>

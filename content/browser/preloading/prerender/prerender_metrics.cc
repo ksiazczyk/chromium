@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender metrics implementation
+// summary: Implements UMA and UKM reporting for prerender final statuses, cancellations and activation header mismatches.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_metrics.h"
 
 #include <cmath>

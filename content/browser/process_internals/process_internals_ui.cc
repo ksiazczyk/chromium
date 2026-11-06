@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process internals WebUI controller implementation
+// summary: Implements the WebUI controller that serves the process internals page, disables process bindings, and enables Mojo JavaScript bindings for the renderer.
+// ---
+
 #include "content/browser/process_internals/process_internals_ui.h"
 
 #include <memory>

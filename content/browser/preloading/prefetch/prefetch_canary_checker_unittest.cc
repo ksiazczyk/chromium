@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchCanaryChecker unit tests
+// summary: Unit tests for the canary checker using a fake network context to simulate DNS resolution successes, errors, caching, and retry behavior.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_canary_checker.h"
 
 #include <optional>

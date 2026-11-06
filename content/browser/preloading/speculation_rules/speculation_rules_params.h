@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeculationRulesParams struct declaration
+// summary: Declares a struct holding speculation rules parameters such as target hint, eagerness and tags.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_RULES_PARAMS_H_
 #define CONTENT_BROWSER_PRELOADING_SPECULATION_RULES_SPECULATION_RULES_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyLookupClientImpl unit tests
+// summary: Unit tests for the proxy lookup client covering no proxy info, direct connections, named proxies, and Mojo pipe disconnects.
+// ---
+
 #include "content/browser/preloading/proxy_lookup_client_impl.h"
 
 #include "base/run_loop.h"

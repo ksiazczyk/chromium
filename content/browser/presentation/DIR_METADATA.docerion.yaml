@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Presentation API directory metadata
+summary: Metadata for the presentation directory, specifying the Blink>PresentationAPI issue tracker component, team email, and Buganizer component ID.

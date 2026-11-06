@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchNetworkContextClient implementation
+// summary: Implements a network context client that denies file uploads, reporting, and similar callbacks so no extra network traffic occurs during prefetch.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_network_context_client.h"
 
 #include "build/build_config.h"

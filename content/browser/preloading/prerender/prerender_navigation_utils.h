@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender navigation utility functions
+// summary: Declares utility functions for prerender navigation, including checks for disallowed HTTP response codes and same-site, cross-origin, and cross-site URL classification.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NAVIGATION_UTILS_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NAVIGATION_UTILS_H_
 

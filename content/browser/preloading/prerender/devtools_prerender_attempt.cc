@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools prerender attempt implementation
+// summary: Implements reporting of prerender triggering outcomes and failure reasons to DevTools through CDP instrumentation.
+// ---
+
 #include "content/browser/preloading/prerender/devtools_prerender_attempt.h"
 
 #include "base/check.h"

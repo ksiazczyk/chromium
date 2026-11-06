@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingDecider class declaration
+// summary: Declares PreloadingDecider, a DocumentUserData that evaluates user interactions and speculation rules to decide which preloading actions to execute.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_DECIDER_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_DECIDER_H_
 

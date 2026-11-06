@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchRequest class declarations
+// summary: Declares PrefetchRequest plus PrefetchRendererInitiatorInfo and PrefetchBrowserInitiatorInfo, which hold initiator details and request parameters for prefetches.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_REQUEST_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_REQUEST_H_
 

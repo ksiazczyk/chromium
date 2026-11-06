@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Speculation rules directory metadata
+summary: Declares the issue tracker component and Buganizer ID used for bugs in the speculation rules directory.

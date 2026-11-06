@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch origin prober implementation
+// summary: Implements DNS and TLS origin probes plus canary checks that verify end-to-end connectivity to an origin before prefetched resources are used for a navigation.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_origin_prober.h"
 
 #include "base/functional/bind.h"

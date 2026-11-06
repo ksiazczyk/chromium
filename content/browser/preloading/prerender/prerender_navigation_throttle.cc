@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender navigation throttle implementation
+// summary: Implements the navigation throttle that cancels prerendering on cross-origin starts, redirects and navigations, logging redirection mismatches.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_navigation_throttle.h"
 
 #include <algorithm>

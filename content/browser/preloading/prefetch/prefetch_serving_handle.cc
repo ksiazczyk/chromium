@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchServingHandle implementation
+// summary: Implements the serving-state handle for a prefetch container, including cookie change checks, isolated cookie copying, and probe result handling.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_serving_handle.h"
 
 #include "base/metrics/histogram_macros.h"

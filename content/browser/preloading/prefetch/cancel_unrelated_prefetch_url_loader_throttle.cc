@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelUnrelatedPrefetchURLLoaderThrottle implementation
+// summary: Implements a throttle that cancels unrelated prefetches when an outermost main frame navigation starts.
+// ---
+
 #include "content/browser/preloading/prefetch/cancel_unrelated_prefetch_url_loader_throttle.h"
 
 #include "content/browser/preloading/prefetch/prefetch_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor element interaction host header
+// summary: Declares the AnchorElementInteractionHostImpl class, which forwards anchor element user interaction events to the preloading decider.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_ANCHOR_ELEMENT_INTERACTION_HOST_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_ANCHOR_ELEMENT_INTERACTION_HOST_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderCommitDeferringCondition class header
+// summary: Declares a commit deferring condition that pauses prerender activation until an ongoing main frame navigation in the prerendered frame tree commits.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_COMMIT_DEFERRING_CONDITION_H_
 

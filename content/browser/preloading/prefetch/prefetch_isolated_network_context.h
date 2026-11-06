@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchIsolatedNetworkContext class declaration
+// summary: Declares the class wrapping an isolated network context used for prefetches so a custom proxy configuration applies and cookies stay separate.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_ISOLATED_NETWORK_CONTEXT_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_ISOLATED_NETWORK_CONTEXT_H_
 

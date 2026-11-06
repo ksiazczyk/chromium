@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchServableState implementation
+// summary: Implements conversion between PrefetchMatchResolverAction and PrefetchServableState, plus debug integer encodings used for sparse metrics.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_servable_state.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender browser tests
+// summary: Large browser test suite covering prerendering behavior including activation, cancellation, metrics and speculation rules.
+// ---
+
 #include <algorithm>
 #include <cstdint>
 #include <optional>

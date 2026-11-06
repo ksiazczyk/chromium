@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreconnectManagerImpl implementation
+// summary: Implements the browser-side preconnect manager that queues and runs DNS preresolve and preconnect jobs, tracking stats, proxy lookups and socket requests for origins.
+// ---
+
 #include "content/browser/preloading/preconnect/preconnect_manager_impl.h"
 
 #include <ranges>

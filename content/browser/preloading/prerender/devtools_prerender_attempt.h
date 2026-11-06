@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools prerender attempt class declaration
+// summary: Declares the DevToolsPrerenderAttempt class that shares prerender status updates with DevTools via the Preload.prerenderStatusUpdated CDP event.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_DEVTOOLS_PRERENDER_ATTEMPT_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_DEVTOOLS_PRERENDER_ATTEMPT_H_
 

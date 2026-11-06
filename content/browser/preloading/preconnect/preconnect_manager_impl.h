@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreconnectManagerImpl class declarations
+// summary: Declares the PreconnectManagerImpl class plus the PreresolveInfo and PreresolveJob structures that track preconnect status and per-job data.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRECONNECT_PRECONNECT_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PRECONNECT_PRECONNECT_MANAGER_IMPL_H_
 

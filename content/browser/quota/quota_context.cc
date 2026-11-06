@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaContext implementation
+// summary: Implements QuotaContext, which owns the QuotaManager for a StoragePartition and binds per-storage-key quota manager hosts on the IO thread.
+// ---
+
 #include "content/browser/quota/quota_context.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchContainerAsyncObserver class declaration
+// summary: Declares a wrapper around PrefetchContainerObserver that notifies the underlying observer asynchronously to avoid synchronous logic in PrefetchContainer notifications.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_ASYNC_OBSERVER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_ASYNC_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrePrefetchServiceImpl unit tests
+// summary: Unit tests for the pre-prefetch service covering creation on the UI thread, starting requests from non-UI threads, and pre-calculated header cache behavior.
+// ---
+
 #include "content/browser/preloading/prefetch/pre_prefetch_service_impl.h"
 
 #include <memory>

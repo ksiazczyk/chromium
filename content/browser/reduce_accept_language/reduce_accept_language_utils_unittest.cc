@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for reduce accept-language utils
+// summary: Tests parsing and persisting of Accept-Language negotiation based on Content-Language and Avail-Language headers using browser test harnesses.
+// ---
+
 #include "content/public/browser/reduce_accept_language_utils.h"
 
 #include <array>

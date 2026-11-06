@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchServiceImpl class declaration
+// summary: Declares the pre-prefetch service, its pre-calculated headers cache key struct, and the PrePrefetchStartResult enum used for UMA logging, along with the threading model.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_SERVICE_IMPL_H_
 

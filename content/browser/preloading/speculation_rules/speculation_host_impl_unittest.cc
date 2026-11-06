@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeculationHostImpl unit tests
+// summary: Unit tests covering candidate validation, bad message reporting and enactment behavior of SpeculationHostImpl.
+// ---
+
 #include "content/browser/preloading/speculation_rules/speculation_host_impl.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchURLLoaderInterceptor unit tests
+// summary: Unit tests for the prefetch URL loader interceptor covering prefetch serving, service worker control states, DNS and TLS canary checks, and UKM and histogram metrics.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_url_loader_interceptor.h"
 
 #include <map>

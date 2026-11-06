@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy lookup client header
+// summary: Declares ProxyLookupClientImpl, which checks for a proxy for a URL in a NetworkContext and invokes a callback with the result.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PROXY_LOOKUP_CLIENT_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PROXY_LOOKUP_CLIENT_IMPL_H_
 

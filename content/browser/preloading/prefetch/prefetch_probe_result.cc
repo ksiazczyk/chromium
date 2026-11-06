@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch probe result helpers
+// summary: Implements the PrefetchProbeResultIsSuccess helper that classifies origin probe results as success or failure.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_probe_result.h"
 
 #include "base/notreached.h"

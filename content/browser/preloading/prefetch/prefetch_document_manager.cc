@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch document manager implementation
+// summary: Implements PrefetchDocumentManager, which processes speculation candidates, starts prefetches, and tracks prefetch state and metrics per page load.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_document_manager.h"
 
 #include <tuple>

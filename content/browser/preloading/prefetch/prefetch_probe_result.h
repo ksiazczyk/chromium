@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchProbeResult enum declaration
+// summary: Declares the PrefetchProbeResult enum of DNS and TLS origin probe outcomes used by PrefetchOriginProber.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_PROBE_RESULT_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_PROBE_RESULT_H_
 

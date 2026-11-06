@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerenderer interface
+// summary: Defines the Prerenderer interface for speculation-rules based prerendering, including candidate processing, LCP-based deferral, and cancellation callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDERER_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDERER_H_
 

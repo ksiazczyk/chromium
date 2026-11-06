@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchType class declaration
+// summary: Declares the PrefetchType class that captures a prefetch's trigger type, proxy requirement, and eagerness to determine how the prefetch is handled.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_TYPE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_TYPE_H_
 

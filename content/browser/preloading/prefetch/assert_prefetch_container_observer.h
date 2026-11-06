@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssertPrefetchContainerObserver class declaration
+// summary: Declares an observer that verifies PrefetchContainerObserver callbacks fire in the right sequence with aligned load states.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_ASSERT_PREFETCH_CONTAINER_OBSERVER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_ASSERT_PREFETCH_CONTAINER_OBSERVER_H_
 

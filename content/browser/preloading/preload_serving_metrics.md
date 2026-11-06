@@ -1,3 +1,9 @@
+---
+type: reference
+title: PreloadServingMetrics design document
+summary: Design document explaining how PreloadServingMetrics collects, associates, and records serving-related preload logs and metrics across a navigation's life.
+---
+
 # PreloadServingMetrics: Logs/metrics related to preload serving
 
 Design doc: https://docs.google.com/document/d/1bBhfhO7BotUB7Myy_8mtFF_4lI5N8hUyNayV_gI019Y

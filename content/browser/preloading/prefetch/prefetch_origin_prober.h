@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchOriginProber class declaration
+// summary: Declares the PrefetchOriginProber class that decides when a probe is needed before using prefetched resources and runs DNS or TLS probes for the prefetch proxy feature.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_ORIGIN_PROBER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_ORIGIN_PROBER_H_
 

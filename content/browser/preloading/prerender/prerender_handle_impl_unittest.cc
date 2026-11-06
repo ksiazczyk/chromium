@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrerenderHandleImpl unit tests
+// summary: Unit tests for PrerenderHandleImpl covering lifecycle observer notifications and response header handling via the prerender host registry.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_handle_impl.h"
 
 #include <memory>

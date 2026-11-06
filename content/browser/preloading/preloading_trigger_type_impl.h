@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading trigger type header
+// summary: Declares helpers that convert SpeculationInjectionType to PreloadingTriggerType and test whether a trigger type is a speculation rule type.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_TRIGGER_TYPE_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_TRIGGER_TYPE_IMPL_H_
 

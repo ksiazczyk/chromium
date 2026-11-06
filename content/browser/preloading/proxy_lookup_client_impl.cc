@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy lookup client implementation
+// summary: Implements a self-owned Mojo proxy lookup client that reports whether a proxy is configured for a URL in a given network context.
+// ---
+
 #include "content/browser/preloading/proxy_lookup_client_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload activation report utils implementation
+// summary: Implements helpers that determine whether the prefetch and prerender activation beacon features are enabled via feature flags, kill switches, or Origin Trial tokens in response headers.
+// ---
+
 #include "content/browser/preloading/preload_activation_report_utils.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchSingleRedirectHop class declaration
+// summary: Declares PrefetchSingleRedirectHop, which holds request and response state for a single URL within a broader prefetch redirect chain.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SINGLE_REDIRECT_HOP_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SINGLE_REDIRECT_HOP_H_
 

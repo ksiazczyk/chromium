@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchServiceImpl implementation
+// summary: Implements the browser-side pre-prefetch service that starts embedder-triggered pre-prefetches per BrowserContext, pre-calculates request headers off the UI thread, and records start-result metrics.
+// ---
+
 #include "content/browser/preloading/prefetch/pre_prefetch_service_impl.h"
 
 #include <atomic>

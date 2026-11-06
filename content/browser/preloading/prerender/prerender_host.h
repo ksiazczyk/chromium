@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderHost class header
+// summary: Declares PrerenderHost, which owns a prerendered frame tree and activates the prerendered page when a matching navigation commits, plus related enums.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_HOST_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_HOST_H_
 

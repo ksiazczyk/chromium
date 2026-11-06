@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload activation report manager implementation
+// summary: Implements sending credentialless activation beacon GET requests for consumed prefetches and prerenders, with DevTools instrumentation, histograms, and redirect handling.
+// ---
+
 #include "content/browser/preloading/preload_activation_report_manager.h"
 
 #include "base/functional/callback_helpers.h"

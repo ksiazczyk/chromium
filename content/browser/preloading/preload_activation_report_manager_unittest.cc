@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload activation report manager unit tests
+// summary: Unit tests covering activation beacon reporting for prefetch and prerender, including success, network error, and same-origin redirect scenarios using a test URL loader factory.
+// ---
+
 #include "content/browser/preloading/preload_activation_report_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

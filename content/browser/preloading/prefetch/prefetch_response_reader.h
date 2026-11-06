@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchResponseReader class declarations
+// summary: Declares PrefetchResponseReader, which stores prefetched data per redirect hop and serves it to URLLoaderClients for matching navigation requests.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_RESPONSE_READER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_RESPONSE_READER_H_
 

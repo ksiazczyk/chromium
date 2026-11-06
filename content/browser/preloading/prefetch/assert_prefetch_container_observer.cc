@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssertPrefetchContainerObserver implementation
+// summary: Implements an observer that asserts PrefetchContainerObserver callbacks occur in the right order with consistent load states.
+// ---
+
 #include "content/browser/preloading/prefetch/assert_prefetch_container_observer.h"
 
 #include "base/no_destructor.h"

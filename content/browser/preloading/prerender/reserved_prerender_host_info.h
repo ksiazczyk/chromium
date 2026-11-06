@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ReservedPrerenderHostInfo struct header
+// summary: Declares the ReservedPrerenderHostInfo struct that passes reserved prerender host details, including metrics-related fields, through the browser code.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_RESERVED_PRERENDER_HOST_INFO_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_RESERVED_PRERENDER_HOST_INFO_H_
 

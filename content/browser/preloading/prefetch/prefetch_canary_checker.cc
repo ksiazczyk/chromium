@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchCanaryChecker implementation
+// summary: Implements DNS and TLS canary checks that verify whether the user's ISP requires probing a prefetched host before use, with per-network result caching and UMA histograms.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_canary_checker.h"
 
 #include <cmath>

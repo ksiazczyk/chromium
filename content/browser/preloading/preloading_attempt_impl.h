@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading attempt class declaration
+// summary: Declares PreloadingAttemptImpl, which tracks preloading attempt state, triggering accuracy, and service worker checks for metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_ATTEMPT_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_ATTEMPT_IMPL_H_
 

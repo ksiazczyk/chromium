@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContaminationDelayNavigationThrottle class declaration
+// summary: Declares a navigation throttle that delays commit of navigations whose prefetch may reveal cross-site check timing.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_CONTAMINATION_DELAY_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_CONTAMINATION_DELAY_NAVIGATION_THROTTLE_H_
 

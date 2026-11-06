@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetcher unit tests
+// summary: Unit tests verifying that the Prefetcher processes speculation candidates into prefetches and correctly reports failed or discarded prefetch attempts.
+// ---
+
 #include "content/browser/preloading/prefetcher.h"
 
 #include <vector>

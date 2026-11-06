@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchContainer implementation
+// summary: Implements starting off-main-thread pre-prefetch requests with a URL loader factory and pre-calculated headers.
+// ---
+
 #include "content/browser/preloading/prefetch/pre_prefetch_container.h"
 
 #include "base/feature_list.h"

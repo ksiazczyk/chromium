@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadPipelineInfoImpl implementation
+// summary: Implements the ref-counted preload pipeline info, tracking prefetch eligibility and status, matched prerender hosts, and Perfetto tracing tracks and flows.
+// ---
+
 #include "content/browser/preloading/preload_pipeline_info_impl.h"
 
 #include "base/trace_event/trace_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetcher implementation
+// summary: Implements the Prefetcher, which processes speculation candidates and triggers prefetches through the per-document prefetch document manager.
+// ---
+
 #include "content/browser/preloading/prefetcher.h"
 
 #include "content/browser/devtools/devtools_instrumentation.h"

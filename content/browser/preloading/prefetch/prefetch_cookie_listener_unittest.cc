@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchCookieListener unit tests
+// summary: Unit tests verifying that PrefetchCookieListener detects host and domain cookie changes for a URL and reports whether cookies have changed.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_cookie_listener.h"
 
 #include "content/public/browser/browser_context.h"

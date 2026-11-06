@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchHandleImpl class declaration
+// summary: Declares the PrePrefetchHandle implementation that holds a PrePrefetchContainer for UI-thread consumption.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_HANDLE_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_HANDLE_IMPL_H_
 

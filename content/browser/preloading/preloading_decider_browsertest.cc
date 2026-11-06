@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preloading decider browser tests
+// summary: Browser tests for the preloading decider covering speculation candidate handling and hover heuristics with simulated mouse input against an embedded HTTPS test server.
+// ---
+
 #include "content/browser/preloading/preloading_decider.h"
 
 #include "base/strings/stringprintf.h"

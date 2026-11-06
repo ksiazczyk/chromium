@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation prefetch browser tests
+// summary: Browser tests covering navigation prefetch behavior, including feature flags, prerendering interaction, and preload activation reporting.
+// ---
+
 #include <optional>
 
 #include "base/location.h"

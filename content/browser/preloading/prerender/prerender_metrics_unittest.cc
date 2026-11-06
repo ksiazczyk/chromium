@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender metrics unit tests
+// summary: Tests that header mismatch metrics are reported with sparse hashes matching the enum generator expectations.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

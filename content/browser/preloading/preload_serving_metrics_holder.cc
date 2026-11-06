@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload serving metrics holder implementation
+// summary: Implements PreloadServingMetricsHolder, a NavigationHandleUserData that stores per-navigation PreloadServingMetrics and hands it off for recording.
+// ---
+
 #include "content/browser/preloading/preload_serving_metrics_holder.h"
 
 #include "base/debug/crash_logging.h"

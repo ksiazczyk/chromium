@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the process internals WebUI
+// summary: Browser tests checking that the process internals WebUI loads without WebUI bindings and that its Mojo JavaScript bindings stay correctly scoped.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "content/browser/renderer_host/render_process_host_impl.h"
 #include "content/browser/security/cpsp/child_process_security_policy_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingContext class declaration
+// summary: Declares PushMessagingContext, a service worker context core observer that forwards relevant service worker events to the push service.
+// ---
+
 #ifndef CONTENT_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_CONTEXT_H_
 #define CONTENT_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_CONTEXT_H_
 

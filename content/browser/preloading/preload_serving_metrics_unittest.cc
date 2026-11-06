@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload serving metrics unit tests
+// summary: Unit tests verifying that PreloadServingMetrics records the expected histograms for navigations with and without preloads.
+// ---
+
 #include "content/browser/preloading/preload_serving_metrics.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speculation rules tags unit tests
+// summary: Unit tests verifying that speculation rules tags serialize to RFC 8941 structured header strings, covering quoting, escaping, null tokens, deduplication and sorting.
+// ---
+
 #include "content/browser/preloading/speculation_rules/speculation_rules_tags.h"
 
 #include "testing/gtest/include/gtest/gtest.h"
