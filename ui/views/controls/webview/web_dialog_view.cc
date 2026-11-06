@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogView implementation
+// summary: Implements WebDialogView and ObservableWebView, which display web-based dialogs and notify their delegate when content loads or the dialog closes.
+// ---
+
 #include "ui/views/controls/webview/web_dialog_view.h"
 
 #include <utility>

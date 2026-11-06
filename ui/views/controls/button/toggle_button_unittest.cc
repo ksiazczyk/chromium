@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toggle button unit tests
+// summary: Unit tests for ToggleButton verifying toggling via mouse and keyboard, event acceptance, ink drop layer cleanup on destruction, and shutdown with focus.
+// ---
+
 #include "ui/views/controls/button/toggle_button.h"
 
 #include <memory>

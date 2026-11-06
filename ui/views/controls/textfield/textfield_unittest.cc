@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Textfield unit test implementation
+// summary: Implements the TextfieldTest fixture, exercising textfield editing, clipboard, IME, gestures, and accessibility behavior across platforms.
+// ---
+
 #include "ui/views/controls/textfield/textfield_unittest.h"
 
 #include <stddef.h>

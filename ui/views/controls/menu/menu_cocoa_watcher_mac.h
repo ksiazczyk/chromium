@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuCocoaWatcherMac class declaration
+// summary: Declares MenuCocoaWatcherMac, which runs a callback when a native menu begins tracking or a new window takes focus on macOS.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_COCOA_WATCHER_MAC_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_COCOA_WATCHER_MAC_H_
 

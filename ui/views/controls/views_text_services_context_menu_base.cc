@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsTextServicesContextMenuBase implementation
+// summary: Implements the base text services context menu, inserting an emoji item into textfield menus with platform-specific accelerators.
+// ---
+
 #include "ui/views/controls/views_text_services_context_menu_base.h"
 
 #include <memory>

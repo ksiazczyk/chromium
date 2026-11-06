@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: separator_unittest.cc
+// summary: Unit tests for the Separator view covering preferred size in both orientations and painting behavior at various image scales and insets.
+// ---
+
 #include "ui/views/controls/separator.h"
 
 #include <memory>

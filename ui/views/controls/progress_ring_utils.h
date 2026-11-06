@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress ring drawing utilities header
+// summary: Declares the DrawProgressRing and DrawSpinningRing helpers that paint progress and spinning rings onto a canvas.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_PROGRESS_RING_UTILS_H_
 #define UI_VIEWS_CONTROLS_PROGRESS_RING_UTILS_H_
 

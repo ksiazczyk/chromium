@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MdTextButtonWithSpinner implementation
+// summary: Implements MdTextButtonWithSpinner, a material design text button with a left-side spinner, covering spinner visibility, colors, and preferred size and layout calculations.
+// ---
+
 #include "ui/views/controls/button/md_text_button_with_spinner.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsSetBackgroundColor class declaration
+// summary: Declares WebContentsSetBackgroundColor, a WebContentsUserData that ensures a WebContents always uses a given background color.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_WEB_CONTENTS_SET_BACKGROUND_COLOR_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_WEB_CONTENTS_SET_BACKGROUND_COLOR_H_
 

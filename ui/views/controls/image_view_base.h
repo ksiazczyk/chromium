@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageViewBase class declaration
+// summary: Declares ImageViewBase, the shared View base for image views providing image size, alignment, tooltip and accessibility handling.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_IMAGE_VIEW_BASE_H_
 #define UI_VIEWS_CONTROLS_IMAGE_VIEW_BASE_H_
 

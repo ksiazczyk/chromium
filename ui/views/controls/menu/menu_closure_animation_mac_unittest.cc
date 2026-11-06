@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu closure animation unit tests
+// summary: Unit tests verifying that the Mac menu closure animation cancels cleanly when destroyed and handles submenu destruction during the fade.
+// ---
+
 #include "ui/views/controls/menu/menu_closure_animation_mac.h"
 
 #include <memory>

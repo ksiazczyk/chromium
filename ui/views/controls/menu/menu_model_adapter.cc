@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModelAdapter implementation
+// summary: Implements the adapter that builds views MenuItemView hierarchies from a ui::MenuModel, mapping model item types to menu item types and handling menu closed callbacks.
+// ---
+
 #include "ui/views/controls/menu/menu_model_adapter.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuClosureAnimationMac class declaration
+// summary: Declares MenuClosureAnimationMac, which animates menu closure on macOS by flashing the selected item and fading the menu before running a completion callback.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_CLOSURE_ANIMATION_MAC_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_CLOSURE_ANIMATION_MAC_H_
 

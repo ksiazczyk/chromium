@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuButtonController unit tests
+// summary: Unit tests for MenuButtonController verifying pressed callback invocation and safe lock release when the controller is destroyed during a state change.
+// ---
+
 #include "ui/views/controls/button/menu_button_controller.h"
 
 #include <memory>

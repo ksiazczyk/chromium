@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeTrackingImageView implementation
+// summary: Implements ThemeTrackingImageView, selecting the light or dark image model according to the resolved background color and updating on theme changes.
+// ---
+
 #include "ui/views/controls/theme_tracking_image_view.h"
 
 #include "base/functional/callback.h"

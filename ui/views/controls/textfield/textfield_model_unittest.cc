@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextfieldModel unit tests
+// summary: Unit tests covering TextfieldModel editing, undo/redo, cursor movement, selection, composition, and clipboard behavior.
+// ---
+
 #include "ui/views/controls/textfield/textfield_model.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuItemView declaration
+// summary: Declares the MenuItemView class for menu items of various types such as command, checkbox, radio, submenu, and title, including APIs for building and showing menus.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_ITEM_VIEW_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_ITEM_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImplCocoa class declaration
+// summary: Declares the macOS menu runner implementation that shows context menus using NSMenu through a Cocoa menu controller and delegate.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_COCOA_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_COCOA_H_
 

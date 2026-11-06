@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield model implementation
+// summary: Implements the text editing model for Textfield, including undo/redo edit history, cursor and selection manipulation, and clipboard operations.
+// ---
+
 #include "ui/views/controls/textfield/textfield_model.h"
 
 #include <algorithm>

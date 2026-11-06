@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefixSelector unit tests
+// summary: Unit tests for PrefixSelector verifying that typed prefixes select the matching row in a test delegate.
+// ---
+
 #include "ui/views/controls/prefix_selector.h"
 
 #include <memory>

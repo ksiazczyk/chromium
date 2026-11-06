@@ -1,0 +1,4 @@
+# Docerion header of menu_runner_impl_remote_cocoa.mm.
+type: source
+title: MenuRunnerImplRemoteCocoa implementation
+summary: Implements MenuRunnerImplRemoteCocoa, converting menu models to Mojo menu items and running, updating, or canceling context menus through remote Cocoa windows.

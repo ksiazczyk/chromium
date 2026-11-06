@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixSelector class
+// summary: Declares PrefixSelector, a TextInputClient used to change the selection in a view as the user types characters.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_PREFIX_SELECTOR_H_
 #define UI_VIEWS_CONTROLS_PREFIX_SELECTOR_H_
 

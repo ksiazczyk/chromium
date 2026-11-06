@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize area control header
+// summary: Declares the ResizeArea view, an invisible horizontal or vertical resizer that notifies a delegate about resize amounts.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_RESIZE_AREA_H_
 #define UI_VIEWS_CONTROLS_RESIZE_AREA_H_
 

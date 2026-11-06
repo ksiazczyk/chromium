@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LabelButton border implementation
+// summary: Implements LabelButtonBorder and LabelButtonAssetBorder, painting label button background frames from image grid assets with themed state painters and animation blending.
+// ---
+
 #include "ui/views/controls/button/label_button_border.h"
 
 #include <utility>

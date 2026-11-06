@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextfieldTest fixture header
+// summary: Declares the TextfieldTest base fixture with helpers for setting up textfields, sending key events, and checking clipboard and cursor state.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_UNITTEST_H_
 #define UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_UNITTEST_H_
 

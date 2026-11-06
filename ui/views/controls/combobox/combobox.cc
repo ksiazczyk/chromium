@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox view implementation
+// summary: Implements the views::Combobox non-editable dropdown control, including painting, menu handling, ink drop effects, accessibility, and keyboard interaction.
+// ---
+
 #include "ui/views/controls/combobox/combobox.h"
 
 #include <algorithm>

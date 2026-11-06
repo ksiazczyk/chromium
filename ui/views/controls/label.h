@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label view header
+// summary: Declares the Label view class for displaying strings, with typography contexts, mnemonic modes, selection support and custom font options.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_LABEL_H_
 #define UI_VIEWS_CONTROLS_LABEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuController class declaration
+// summary: Declares the MenuController class used internally by Views menu classes to manage showing, selecting, and drag-and-drop for menus.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_CONTROLLER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_CONTROLLER_H_
 

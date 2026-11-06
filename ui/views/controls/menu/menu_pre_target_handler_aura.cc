@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura menu pre-target handler
+// summary: Implements MenuPreTargetHandler for Aura, cancelling menus on activation changes or cancel mode and intercepting key events such as browser shortcuts.
+// ---
+
 #include "ui/views/controls/menu/menu_pre_target_handler_aura.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedPane implementation
+// summary: Implements the TabbedPane view, its tabs and tab strip, including orientation and style handling, tab selection, keyboard navigation and painting.
+// ---
+
 #include "ui/views/controls/tabbed_pane/tabbed_pane.h"
 
 #include <algorithm>

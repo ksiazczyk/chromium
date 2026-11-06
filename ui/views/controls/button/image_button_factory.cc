@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Image button factory implementation
+// summary: Implements factory and configuration helpers that build image buttons from vector icons with native-theme color tracking, ink drop effects, and centered images.
+// ---
+
 #include "ui/views/controls/button/image_button_factory.h"
 
 #include <memory>

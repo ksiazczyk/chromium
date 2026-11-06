@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuHostRootView event forwarding implementation
+// summary: Implements the root view of the menu window, forwarding mouse, wheel, gesture, tooltip, and hierarchy events to the MenuController.
+// ---
+
 #include "ui/views/controls/menu/menu_host_root_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

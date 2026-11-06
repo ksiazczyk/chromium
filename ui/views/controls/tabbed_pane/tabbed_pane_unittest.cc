@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedPane unit tests
+// summary: Unit tests covering TabbedPane orientation, tab strip styles, scrolling, layout, tab selection and accessibility behavior.
+// ---
+
 #include "ui/views/controls/tabbed_pane/tabbed_pane.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollBarButton unit tests
+// summary: Unit tests for ScrollBarButton covering focus behavior and callback firing on mouse press, hold and release.
+// ---
+
 #include "ui/views/controls/scrollbar/scroll_bar_button.h"
 
 #include <memory>

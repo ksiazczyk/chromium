@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuScrollViewContainer class declaration
+// summary: Declares MenuScrollViewContainer, which wraps a submenu in a scroll view with up and down buttons shown when menu items exceed the available height.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_SCROLL_VIEW_CONTAINER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_SCROLL_VIEW_CONTAINER_H_
 

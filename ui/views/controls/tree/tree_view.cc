@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeView implementation for the Views UI toolkit
+// summary: Implements the TreeView widget that displays and edits hierarchical data from a TreeModel, including selection, keyboard navigation, inline editing, drawing and accessibility support.
+// ---
+
 #include "ui/views/controls/tree/tree_view.h"
 
 #include <algorithm>

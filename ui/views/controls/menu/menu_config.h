@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuConfig struct declaration
+// summary: Declares the MenuConfig struct holding menu layout parameters such as fonts, borders, margins, arrow and separator sizes, accessed via instance().
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_CONFIG_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_CONFIG_H_
 

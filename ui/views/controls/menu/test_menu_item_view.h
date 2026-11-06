@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMenuItemView test helper header
+// summary: Declares TestMenuItemView, a MenuItemView test subclass that exposes protected internals like mnemonics and image views for menu unit tests.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_TEST_MENU_ITEM_VIEW_H_
 #define UI_VIEWS_CONTROLS_MENU_TEST_MENU_ITEM_VIEW_H_
 

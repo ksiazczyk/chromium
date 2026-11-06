@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: styled_label.h
+// summary: Declares the views::StyledLabel view with RangeStyleInfo and LayoutSizeInfo structures for styling and laying out text ranges.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_STYLED_LABEL_H_
 #define UI_VIEWS_CONTROLS_STYLED_LABEL_H_
 

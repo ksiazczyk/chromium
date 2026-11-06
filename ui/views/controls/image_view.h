@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageView class declaration
+// summary: Declares the ImageView class that displays an image from an ImageModel, resizing or centering it and supporting corner radius and view builder properties.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_IMAGE_VIEW_H_
 #define UI_VIEWS_CONTROLS_IMAGE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTableModel implementation for table view tests
+// summary: Implements a minimal ui::TableModel that returns generated row text and placeholder icons, with observer support, for use in table view unit tests.
+// ---
+
 #include "ui/views/controls/table/test_table_model.h"
 
 #include "base/strings/string_number_conversions.h"

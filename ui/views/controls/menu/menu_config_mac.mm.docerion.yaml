@@ -1,0 +1,4 @@
+# Docerion header of menu_config_mac.mm.
+type: source
+title: MenuConfig Mac platform initialization
+summary: Initializes macOS-specific MenuConfig options such as prefix selection, disabled mnemonics, and no arrow-key wrap for menus.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dot indicator class declaration
+// summary: Declares DotIndicator, a view used as a status indicator that can be installed into a parent view with configurable dot and border colors.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_DOT_INDICATOR_H_
 #define UI_VIEWS_CONTROLS_DOT_INDICATOR_H_
 

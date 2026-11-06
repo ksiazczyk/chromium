@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipping-window Aura wrapper declaration
+// summary: Declares NativeViewHostAuraWithClipWindow, an Aura NativeViewHostWrapper that manages an intermediate clipping window for resizing and clipping hosted native views.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_AURA_WITH_CLIP_WINDOW_H_
 #define UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_AURA_WITH_CLIP_WINDOW_H_
 

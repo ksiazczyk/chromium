@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusRing focus indicator view declaration
+// summary: Declares the FocusRing view that draws a focus indicator around its parent, with install, get and remove helpers plus halo, color and focus predicate configuration.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_FOCUS_RING_H_
 #define UI_VIEWS_CONTROLS_FOCUS_RING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonController implementation
+// summary: Implements ButtonController event handling for mouse, keyboard, and gesture input, updating button states and notifying clicks on press or release.
+// ---
+
 #include "ui/views/controls/button/button_controller.h"
 
 #include <memory>

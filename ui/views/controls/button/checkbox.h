@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox class declaration
+// summary: Declares views::Checkbox, a LabelButton subclass with checked state, multi-line labels, icon color customization, and an action view interface.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_CHECKBOX_H_
 #define UI_VIEWS_CONTROLS_BUTTON_CHECKBOX_H_
 

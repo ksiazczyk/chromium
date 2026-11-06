@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuController unit tests
+// summary: Unit tests covering MenuController behavior, including anchoring, drag and drop, accessibility, and platform-specific menu handling.
+// ---
+
 #include "ui/views/controls/menu/menu_controller.h"
 
 #include <algorithm>

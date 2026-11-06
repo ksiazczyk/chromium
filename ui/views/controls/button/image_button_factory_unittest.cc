@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image button factory unit tests
+// summary: Unit tests verifying vector icon image button creation, themed icon image and ink drop colors, and toggle button image handling for both toggled states.
+// ---
+
 #include "ui/views/controls/button/image_button_factory.h"
 
 #include <memory>

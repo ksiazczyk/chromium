@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_header.cc
+// summary: Implements the TableHeader view that paints column headers and handles resizing, sort toggling, gestures, and focus rings.
+// ---
+
 #include "ui/views/controls/table/table_header.h"
 
 #include <stddef.h>

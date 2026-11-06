@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows menu insertion delegate interface
+// summary: Declares a small Windows-specific delegate interface that returns the index at which items should be inserted into a native HMENU.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_INSERTION_DELEGATE_WIN_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_INSERTION_DELEGATE_WIN_H_
 

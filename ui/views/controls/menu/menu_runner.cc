@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunner implementation
+// summary: Implements MenuRunner, showing menus with anchor adjustments based on source type, run-type flags, runner handlers, and shutdown safety checks.
+// ---
+
 #include "ui/views/controls/menu/menu_runner.h"
 
 #include <memory>

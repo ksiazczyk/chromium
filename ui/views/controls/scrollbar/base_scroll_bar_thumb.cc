@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseScrollBarThumb implementation
+// summary: Implements the draggable scroll bar thumb view, covering length and position handling, mouse hover and drag states, and snap-back when the drag moves far outside the thumb.
+// ---
+
 #include "ui/views/controls/scrollbar/base_scroll_bar_thumb.h"
 
 #include "base/i18n/rtl.h"

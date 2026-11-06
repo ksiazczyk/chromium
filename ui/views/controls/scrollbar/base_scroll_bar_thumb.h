@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseScrollBarThumb class declaration
+// summary: Declares the BaseScrollBarThumb view that acts as the draggable thumb in a scroll bar track, with length and position accessors, drag handling, and snap-back-on-drag-outside support.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLLBAR_BASE_SCROLL_BAR_THUMB_H_
 #define UI_VIEWS_CONTROLS_SCROLLBAR_BASE_SCROLL_BAR_THUMB_H_
 

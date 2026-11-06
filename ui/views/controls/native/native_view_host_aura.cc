@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of NativeViewHostWrapper
+// summary: Implements the Aura-specific NativeViewHostWrapper that reparents and clips native windows, handling layers, transforms, focus, hit testing and accessibility for the host.
+// ---
+
 #include "ui/views/controls/native/native_view_host_aura.h"
 
 #include <algorithm>

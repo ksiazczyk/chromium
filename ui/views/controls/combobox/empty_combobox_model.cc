@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyComboboxModel implementation
+// summary: Implements an empty combobox model that reports zero items, no default index, and never returns item text.
+// ---
+
 #include "ui/views/controls/combobox/empty_combobox_model.h"
 
 #include <string>

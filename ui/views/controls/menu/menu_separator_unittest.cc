@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuSeparator unit tests
+// summary: Unit tests for MenuSeparator verifying view metadata, separator type sizing effects, accessible role, and color ID handling.
+// ---
+
 #include "ui/views/controls/menu/menu_separator.h"
 
 #include <memory>

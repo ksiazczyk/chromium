@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS views text services context menu implementation
+// summary: Implements the ChromeOS text services context menu for textfields, forwarding commands to a platform-specific implementation that can be injected via a factory for unit tests.
+// ---
+
 #include "ui/views/controls/views_text_services_context_menu_chromeos.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura NativeViewHostWrapper declaration
+// summary: Declares NativeViewHostAura, the Aura implementation of NativeViewHostWrapper that manages clipping, corner radii, top insets and window observation for a NativeViewHost.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_AURA_H_
 #define UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_AURA_H_
 

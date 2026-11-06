@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WEBVIEW_EXPORT macro definition
+// summary: Defines the WEBVIEW_EXPORT macro for exporting webview module symbols in component builds.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_WEBVIEW_EXPORT_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_WEBVIEW_EXPORT_H_
 

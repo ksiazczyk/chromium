@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedPaneListener interface
+// summary: Declares the TabbedPaneListener interface that is notified when the user selects a tab at a given index.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABBED_PANE_TABBED_PANE_LISTENER_H_
 #define UI_VIEWS_CONTROLS_TABBED_PANE_TABBED_PANE_LISTENER_H_
 

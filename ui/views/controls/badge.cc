@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge implementation
+// summary: Implements the Badge view, which paints a small piece of informational text on a square blue background through BadgePainter.
+// ---
+
 #include "ui/views/controls/badge.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

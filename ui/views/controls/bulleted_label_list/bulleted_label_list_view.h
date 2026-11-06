@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BulletedLabelListView class declaration
+// summary: Declares the views class that builds a bulleted list of labels from given texts and a specified text style.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BULLETED_LABEL_LIST_BULLETED_LABEL_LIST_VIEW_H_
 #define UI_VIEWS_CONTROLS_BULLETED_LABEL_LIST_BULLETED_LABEL_LIST_VIEW_H_
 

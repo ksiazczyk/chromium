@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the webview views component
+summary: GN build file defining the webview component, its platform-specific sources and dependencies, and the unit_tests source set.

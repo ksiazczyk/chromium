@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: TabbedPane directory owners
+summary: Lists ellyjones@chromium.org as the code owner for the tabbed pane controls directory.

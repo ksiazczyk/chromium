@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComboboxMenuModel implementation
+// summary: Implements the adapter that exposes a ui::ComboboxModel as a ui::MenuModel for the combobox dropdown, handling item types, labels, icons, and colors.
+// ---
+
 #include "ui/views/controls/combobox/combobox_menu_model.h"
 
 #include "ui/base/models/combobox_model.h"

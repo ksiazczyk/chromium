@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_utils.cc
+// summary: Implements helpers that compute table column widths, convert column alignments, and locate the closest visible column.
+// ---
+
 #include "ui/views/controls/table/table_utils.h"
 
 #include <stddef.h>

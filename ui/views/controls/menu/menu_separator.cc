@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuSeparator view implementation
+// summary: Implements the MenuSeparator view, painting separator lines of various types with native theme styling, configurable padding, and optional color IDs.
+// ---
+
 #include "ui/views/controls/menu/menu_separator.h"
 
 #include <variant>

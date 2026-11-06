@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuHost widget implementation
+// summary: Implements the MenuHost widget that hosts a SubmenuView, including Aura touch pre-target handling, gesture transfer, capture, and widget lifecycle management.
+// ---
+
 #include "ui/views/controls/menu/menu_host.h"
 
 #include <utility>

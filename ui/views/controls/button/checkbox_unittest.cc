@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checkbox unit tests
+// summary: Unit tests for views::Checkbox verifying accessibility roles and labelled-by relationships plus correct check and container icon colors in enabled and disabled states.
+// ---
+
 #include "ui/views/controls/button/checkbox.h"
 
 #include <memory>

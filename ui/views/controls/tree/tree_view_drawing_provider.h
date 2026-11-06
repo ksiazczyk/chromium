@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeViewDrawingProvider interface declaration
+// summary: Declares the TreeViewDrawingProvider interface for customizing TreeView appearance, including node colors, auxiliary text and icon drawing.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TREE_TREE_VIEW_DRAWING_PROVIDER_H_
 #define UI_VIEWS_CONTROLS_TREE_TREE_VIEW_DRAWING_PROVIDER_H_
 

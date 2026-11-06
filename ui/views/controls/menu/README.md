@@ -1,3 +1,13 @@
+---
+type: readme
+title: Views Menus
+summary: Overview of how Views menus are implemented, covering key classes, menu running and selection, painting, event handling, positioning, drag and drop, and ownership.
+relations:
+  - references /docs/ui/views/overview.md
+  - documents /ui/views/controls/menu/menu_controller.h
+  - documents /ui/views/controls/menu/menu_item_view.h
+---
+
 # Views Menus
 
 This document outlines how menus are implemented in Views. You should probably

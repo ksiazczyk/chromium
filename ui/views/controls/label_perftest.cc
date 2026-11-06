@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Label performance test
+// summary: Performance test measuring how many Label preferred-size text measurements run per second to surface regressions in the underlying text layout system.
+// ---
+
 #include "ui/views/controls/label.h"
 
 #include "base/strings/utf_string_conversions.h"

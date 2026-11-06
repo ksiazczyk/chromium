@@ -1,0 +1,4 @@
+# Docerion header of tabbed_pane_accessibility_mac_unittest.mm.
+type: test
+title: TabbedPane accessibility tests for macOS
+summary: Unit tests verifying that TabbedPane accessibility attributes and hit testing match Cocoa NSTabViewItem behavior on macOS.

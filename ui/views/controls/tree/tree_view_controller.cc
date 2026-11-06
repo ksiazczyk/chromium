@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeViewController default implementation
+// summary: Implements the TreeViewController defaults, allowing all tree nodes to be edited and providing the destructor.
+// ---
+
 #include "ui/views/controls/tree/tree_view_controller.h"
 
 #include "ui/base/models/tree_model.h"

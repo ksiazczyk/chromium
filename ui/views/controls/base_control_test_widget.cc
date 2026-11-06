@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base control test widget implementation
+// summary: Implements BaseControlTestWidget, a ViewsTestBase fixture that sets up a frameless test widget with overridable content for views control tests.
+// ---
+
 #include "ui/views/controls/base_control_test_widget.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogView class declaration
+// summary: Declares ObservableWebView and WebDialogView, a ClientView that shows a web dialog driven by a WebDialogDelegate.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_WEB_DIALOG_VIEW_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_WEB_DIALOG_VIEW_H_
 

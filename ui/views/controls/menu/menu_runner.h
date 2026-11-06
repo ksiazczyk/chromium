@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunner header
+// summary: Declares MenuRunner, which owns the MenuItemView and runs menus with flags for context menus, comboboxes, drops, nested drags, and gesture handling.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView class declaration
+// summary: Declares WebView, a View that displays a WebContents either standalone or swapped in by a full browser.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_WEBVIEW_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_WEBVIEW_H_
 

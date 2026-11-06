@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBoxView implementation
+// summary: Implements the MessageBoxView dialog body, including paragraph splitting, message labels, prompt field, checkbox, link, and clipboard copy support.
+// ---
+
 #include "ui/views/controls/message_box_view.h"
 
 #include <stddef.h>

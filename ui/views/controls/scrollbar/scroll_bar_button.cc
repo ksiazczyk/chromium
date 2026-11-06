@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollBarButton implementation
+// summary: Implements scroll bar arrow buttons that fire on mouse press and repeat while held, sizing and painting themselves through NativeTheme parts.
+// ---
+
 #include "ui/views/controls/scrollbar/scroll_bar_button.h"
 
 #include <utility>

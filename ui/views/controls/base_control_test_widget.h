@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base control test widget declaration
+// summary: Declares BaseControlTestWidget, a shared test base class providing a widget and a virtual hook to create widget content for control tests.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BASE_CONTROL_TEST_WIDGET_H_
 #define UI_VIEWS_CONTROLS_BASE_CONTROL_TEST_WIDGET_H_
 

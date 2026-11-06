@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS views text services context menu class declaration
+// summary: Declares the ViewsTextServicesContextMenuChromeos class, which adds and handles text service items in ChromeOS textfield context menus and supports injecting an implementation factory.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_VIEWS_TEXT_SERVICES_CONTEXT_MENU_CHROMEOS_H_
 #define UI_VIEWS_CONTROLS_VIEWS_TEXT_SERVICES_CONTEXT_MENU_CHROMEOS_H_
 

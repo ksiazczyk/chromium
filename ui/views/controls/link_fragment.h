@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkFragment header
+// summary: Declares LinkFragment, a Link subclass representing part of a logical link spanning multiple fragments that share hover and focus styling.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_LINK_FRAGMENT_H_
 #define UI_VIEWS_CONTROLS_LINK_FRAGMENT_H_
 

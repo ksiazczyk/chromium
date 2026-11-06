@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: slider.h
+// summary: Declares the views::Slider view, its SliderListener interface, change reasons, rendering styles, and the API for continuous or discrete value ranges.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SLIDER_H_
 #define UI_VIEWS_CONTROLS_SLIDER_H_
 

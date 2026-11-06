@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMenuWin header for wrapping native Windows menus
+// summary: Declares NativeMenuWin, a views wrapper that builds and updates a native Windows HMENU from a ui::MenuModel, including support for wrapping a window's system menu.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_NATIVE_MENU_WIN_H_
 #define UI_VIEWS_CONTROLS_MENU_NATIVE_MENU_WIN_H_
 

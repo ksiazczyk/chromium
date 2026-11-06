@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuHost widget declaration
+// summary: Declares the MenuHost widget that houses a SubmenuView, with init parameters, show, hide, destroy, bounds, anchor, and capture control methods.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_HOST_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_HOST_H_
 

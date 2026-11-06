@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield controller default implementations
+// summary: Provides default no-op implementations of the TextfieldController hooks for key, mouse, and gesture events plus clipboard interception.
+// ---
+
 #include "ui/views/controls/textfield/textfield_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa menu controller parameter builder
+// summary: Builds a remote_cocoa MenuControllerParams struct with badge and styling parameters for a menu associated with a widget.
+// ---
+
 #include "ui/views/controls/menu/menu_controller_cocoa_delegate_params.h"
 
 #include "base/numerics/safe_conversions.h"

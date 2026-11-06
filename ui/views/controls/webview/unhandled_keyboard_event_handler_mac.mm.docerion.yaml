@@ -1,0 +1,4 @@
+# Docerion header of unhandled_keyboard_event_handler_mac.mm.
+type: source
+title: Mac native keyboard event handling
+summary: macOS implementation that redispatches unhandled key events through the native Mac NSWindow host.

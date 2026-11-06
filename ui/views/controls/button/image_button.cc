@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageButton and ToggleImageButton implementation
+// summary: Implements the views ImageButton and ToggleImageButton classes, handling per-state images, background images, alignment, RTL mirroring, and accessible toggle state.
+// ---
+
 #include "ui/views/controls/button/image_button.h"
 
 #include <string>

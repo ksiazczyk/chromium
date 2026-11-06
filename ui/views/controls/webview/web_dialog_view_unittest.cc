@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDialogView unit tests
+// summary: Unit tests for WebDialogView covering dialog creation, escape-key closing, and JSON return values passed to the delegate.
+// ---
+
 #include "ui/views/controls/webview/web_dialog_view.h"
 
 #include <memory>

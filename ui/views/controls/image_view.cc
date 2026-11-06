@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageView implementation
+// summary: Implements the ImageView that paints images from an ImageModel, handling scaling with cached representations, rounded-corner clipping and theme changes.
+// ---
+
 #include "ui/views/controls/image_view.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: slider_unittest.cc
+// summary: Parameterized unit tests for continuous and discrete sliders, tracking listener events, drag behavior, RTL handling, and accessibility events.
+// ---
+
 #include "ui/views/controls/slider.h"
 
 #include <memory>

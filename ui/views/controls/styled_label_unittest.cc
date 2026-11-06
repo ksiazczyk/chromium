@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: styled_label_unittest.cc
+// summary: Unit tests for StyledLabel covering text wrapping, trailing whitespace, styling ranges, links, and layout sizing behavior.
+// ---
+
 #include "ui/views/controls/styled_label.h"
 
 #include <stddef.h>

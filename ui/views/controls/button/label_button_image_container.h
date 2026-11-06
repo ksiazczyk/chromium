@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label button image container interface
+// summary: Defines the LabelButtonImageContainer interface for creating and updating button image views, plus the SingleImageContainer subclass that tracks one state-based image.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_IMAGE_CONTAINER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_IMAGE_CONTAINER_H_
 

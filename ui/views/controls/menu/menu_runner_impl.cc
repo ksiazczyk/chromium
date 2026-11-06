@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImpl implementation using MenuItemView
+// summary: Implements the internal menu runner that displays menus built from MenuItemView, handling run, cancel, release, and delegate lifetime concerns.
+// ---
+
 #include "ui/views/controls/menu/menu_runner_impl.h"
 
 #include <memory>

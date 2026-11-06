@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Design text button class declaration
+// summary: Declares MdTextButton, a LabelButton implementing the Material Design text button spec with style, background, stroke, corner radius, and padding overrides.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_H_
 

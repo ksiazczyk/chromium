@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: separator.cc
+// summary: Implements the views::Separator view that paints a themed vertical or horizontal divider line, handling preferred size, color, border radius, and scale-factor-aware painting.
+// ---
+
 #include "ui/views/controls/separator.h"
 
 #include <algorithm>

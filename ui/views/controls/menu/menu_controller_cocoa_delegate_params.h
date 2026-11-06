@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa menu controller parameter builder declaration
+// summary: Declares MenuControllerParamsForWidget, which populates Cocoa menu controller parameters for a given widget.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_CONTROLLER_COCOA_DELEGATE_PARAMS_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_CONTROLLER_COCOA_DELEGATE_PARAMS_H_
 

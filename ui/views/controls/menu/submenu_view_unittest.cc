@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubmenuView unit tests
+// summary: Unit tests covering SubmenuView last-item lookup, accessible properties, and how the accessibility ignored state follows menu visibility.
+// ---
+
 #include "ui/views/controls/menu/submenu_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTableModel class declaration for table view tests
+// summary: Declares TestTableModel, a non-copyable ui::TableModel subclass with a fixed row count, generated text, placeholder icons and observer support for table tests.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABLE_TEST_TABLE_MODEL_H_
 #define UI_VIEWS_CONTROLS_TABLE_TEST_TABLE_MODEL_H_
 

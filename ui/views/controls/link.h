@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link view header
+// summary: Declares the Link class, a Label subclass styled like an HTML link that notifies a clicked callback when activated.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_LINK_H_
 #define UI_VIEWS_CONTROLS_LINK_H_
 

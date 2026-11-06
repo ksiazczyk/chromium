@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImplMac class declaration
+// summary: Declares the macOS menu runner that chooses between the local Cocoa runner and the remote Cocoa runner depending on whether the widget is remote.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_MAC_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_MAC_H_
 

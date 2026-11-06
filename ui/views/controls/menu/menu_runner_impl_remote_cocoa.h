@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImplRemoteCocoa class declaration
+// summary: Declares MenuRunnerImplRemoteCocoa, a menu runner that serializes a menu model over Mojo so an NSMenu, possibly in another process, can display context menus.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_REMOTE_COCOA_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_REMOTE_COCOA_H_
 

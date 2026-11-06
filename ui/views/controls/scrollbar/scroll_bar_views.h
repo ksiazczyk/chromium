@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollBarViews class declaration
+// summary: Declares the Views-based scrollbar with track bounds, thickness and arrow button members.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLLBAR_SCROLL_BAR_VIEWS_H_
 #define UI_VIEWS_CONTROLS_SCROLLBAR_SCROLL_BAR_VIEWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonController header
+// summary: Declares MenuButtonController and its scoped PressedLock helper, containing the logic for showing a menu when the left mouse button is pushed.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_MENU_BUTTON_CONTROLLER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_MENU_BUTTON_CONTROLLER_H_
 

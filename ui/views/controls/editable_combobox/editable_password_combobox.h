@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditablePasswordCombobox class declaration
+// summary: Declares EditablePasswordCombobox, an editable combobox that can switch between visible and obfuscated password text via an eye icon.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_EDITABLE_COMBOBOX_EDITABLE_PASSWORD_COMBOBOX_H_
 #define UI_VIEWS_CONTROLS_EDITABLE_COMBOBOX_EDITABLE_PASSWORD_COMBOBOX_H_
 

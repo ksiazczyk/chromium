@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuConfig Linux platform initialization
+// summary: Initializes the Linux/Ozone MenuConfig settings, enabling bubble borders for menus on this platform.
+// ---
+
 #include "ui/views/controls/menu/menu_config.h"
 
 #include "ui/ozone/public/ozone_platform.h"

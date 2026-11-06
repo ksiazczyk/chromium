@@ -1,0 +1,4 @@
+# Docerion header of native_view_host_mac_interactive_uitest.mm.
+type: test
+title: Mac NativeViewHost interactive UI tests
+summary: Interactive UI tests for NativeViewHostMac that send NSEvents directly to the NSWindow and verify mouse event routing between overlay views and the hosted native view.

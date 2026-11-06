@@ -1,0 +1,4 @@
+# Docerion header of native_view_host_mac.mm.
+type: source
+title: Mac NativeViewHostWrapper implementation
+summary: Implements the macOS NativeViewHostWrapper, attaching NSViews to the Views layer tree and coordinating with NativeWidgetMacNSWindowHost for accessibility and video capture.

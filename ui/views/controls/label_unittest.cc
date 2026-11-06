@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Label unit tests
+// summary: Unit tests covering Label text rendering, mnemonics, selection, clipboard, RTL layout, accessibility, focus and metadata behavior.
+// ---
+
 #include "ui/views/controls/label.h"
 
 #include <stddef.h>

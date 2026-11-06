@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuPreTargetHandler interface
+// summary: Declares the MenuPreTargetHandler base class and factory that intercepts events destined for a menu's owner widget so the menu controller can dispatch them first.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_H_
 

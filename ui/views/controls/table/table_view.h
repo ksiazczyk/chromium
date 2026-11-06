@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_view.h
+// summary: Declares the TableView view plus header and background style structs for model-driven multi-column tables.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABLE_TABLE_VIEW_H_
 #define UI_VIEWS_CONTROLS_TABLE_TABLE_VIEW_H_
 

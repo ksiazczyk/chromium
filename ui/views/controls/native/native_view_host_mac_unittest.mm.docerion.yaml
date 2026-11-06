@@ -1,0 +1,4 @@
+# Docerion header of native_view_host_mac_unittest.mm.
+type: test
+title: NativeViewHost Mac unit tests
+summary: Unit tests for NativeViewHost on macOS, covering widget destruction, attaching native views and accessibility hostable behavior.

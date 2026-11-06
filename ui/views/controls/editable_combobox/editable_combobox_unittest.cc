@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditableCombobox unit tests
+// summary: Unit tests for the editable combobox covering item filtering, drop-down menus, context menus, and accessibility behavior.
+// ---
+
 #include "ui/views/controls/editable_combobox/editable_combobox.h"
 
 #include <memory>

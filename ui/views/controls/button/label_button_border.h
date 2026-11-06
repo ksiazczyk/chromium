@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LabelButton border class declaration
+// summary: Declares an empty border with customizable insets for LabelButton and an asset-based border that paints background frames using per-state painters.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_BORDER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_BORDER_H_
 

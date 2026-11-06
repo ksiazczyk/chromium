@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LabelButton implementation
+// summary: Implements the LabelButton view combining a text label and image container with ink drop effects, typography, state-based colors, and delegated layout.
+// ---
+
 #include "ui/views/controls/button/label_button.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default native keyboard event handling
+// summary: Default platform implementation that forwards unhandled native key events to the focus manager unless skipping is requested.
+// ---
+
 #include "components/input/native_web_keyboard_event.h"
 #include "ui/events/event.h"
 #include "ui/views/controls/webview/unhandled_keyboard_event_handler.h"

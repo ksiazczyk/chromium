@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnhandledKeyboardEventHandler class declaration
+// summary: Declares the class that handles unhandled keyboard messages from the renderer, including suppression of follow-up Char events.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_UNHANDLED_KEYBOARD_EVENT_HANDLER_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_UNHANDLED_KEYBOARD_EVENT_HANDLER_H_
 

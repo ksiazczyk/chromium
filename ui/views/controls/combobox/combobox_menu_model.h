@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComboboxMenuModel class declaration
+// summary: Declares ComboboxMenuModel, which adapts a ui::ComboboxModel to a ui::MenuModel and supports per-item color identifiers and checkmark configuration.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_COMBOBOX_COMBOBOX_MENU_MODEL_H_
 #define UI_VIEWS_CONTROLS_COMBOBOX_COMBOBOX_MENU_MODEL_H_
 

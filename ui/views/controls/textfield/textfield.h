@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield view class declaration
+// summary: Declares the Textfield view class, a Views/Skia text input widget with selection, IME, drag-and-drop, and menu command support.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_H_
 #define UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_H_
 

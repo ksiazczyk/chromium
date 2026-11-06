@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CocoaScrollBar class declaration
+// summary: Declares the Mac transparent overlay scroll bar, including scroller style handling, a hide timer, thickness animation, and painting and layout overrides.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLLBAR_COCOA_SCROLL_BAR_H_
 #define UI_VIEWS_CONTROLS_SCROLLBAR_COCOA_SCROLL_BAR_H_
 

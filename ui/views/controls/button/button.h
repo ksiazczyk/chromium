@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button view class declaration
+// summary: Declares views::Button, the base View for buttons, with button states, key click actions, the PressedCallback wrapper, and the default controller delegate.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_BUTTON_H_
 

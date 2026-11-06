@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeViewHost test base implementation
+// summary: Implements the shared NativeViewHostTestBase fixture that creates top-level and child widgets and tracks host destruction for NativeViewHost tests.
+// ---
+
 #include "ui/views/controls/native/native_view_host_test_base.h"
 
 #include <utility>

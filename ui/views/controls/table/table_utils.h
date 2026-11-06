@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_utils.h
+// summary: Declares table utility functions for column size calculation, alignment conversion, and visible column lookup.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABLE_TABLE_UTILS_H_
 #define UI_VIEWS_CONTROLS_TABLE_TABLE_UTILS_H_
 
