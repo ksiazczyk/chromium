@@ -1,0 +1,4 @@
+# Docerion header of timeit.bat.
+type: script
+title: Timeit batch script
+summary: Batch file that runs the commands passed to it and prints the elapsed run time by calling subtract_time.py.

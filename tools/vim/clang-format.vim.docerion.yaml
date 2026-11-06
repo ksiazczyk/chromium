@@ -1,0 +1,4 @@
+# Docerion header of clang-format.vim.
+type: script
+title: clang-format integration for Vim
+summary: Binds a key shortcut that invokes clang-format.py to format the current selection or line in Vim.

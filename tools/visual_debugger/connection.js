@@ -6,6 +6,12 @@
  * @fileoverview Keeps the websocket connection and allows sending messages
  */
 
+// ---docerion
+// type: source
+// title: WebSocket connection handling
+// summary: JavaScript module that establishes and maintains the WebSocket connection to the debug stream and sends commands.
+// ---
+
 const Connection = {
 
   async getUrl() {

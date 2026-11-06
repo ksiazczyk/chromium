@@ -1,0 +1,4 @@
+# Docerion header of windbg_common.bat.
+type: script
+title: Shared setup for WinDbg launchers
+summary: Batch helper shared by the 32-bit and 64-bit WinDbg launchers that sets win_sdk_dir and prints debugging tips.

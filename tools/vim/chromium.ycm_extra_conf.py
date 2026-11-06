@@ -58,6 +58,12 @@
 #
 #   * This has only been tested on Linux and macOS.
 
+# ---docerion
+# type: source
+# title: YouCompleteMe configuration for Chromium
+# summary: Supplies compile flags to YouCompleteMe so Vim can autocomplete Chromium C and C++ code.
+# ---
+
 import os
 import os.path
 import re

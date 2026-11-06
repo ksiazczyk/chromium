@@ -1,0 +1,4 @@
+# Docerion header of extensions.json.
+type: config
+title: Recommended VSCode extensions
+summary: Lists recommended VSCode extensions for Chromium development, including C++ tools, clangd and Mojom support.

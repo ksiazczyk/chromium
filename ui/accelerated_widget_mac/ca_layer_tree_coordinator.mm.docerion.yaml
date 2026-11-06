@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_tree_coordinator.mm.
+type: source
+title: CALayerTreeCoordinator implementation
+summary: Implements frame presentation for CALayerTreeCoordinator, including resizing, backpressure fence waiting, and committing presented frames to CoreAnimation.

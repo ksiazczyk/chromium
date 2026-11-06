@@ -1,0 +1,4 @@
+# Docerion header of mojomfiletype.vim.
+type: script
+title: Vim filetype detection for Mojom files
+summary: Vim script that detects .mojom files and sets their filetype, encoding, and format, preserving the user's global fileencodings and fileformats settings.

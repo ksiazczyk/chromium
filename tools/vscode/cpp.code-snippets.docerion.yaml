@@ -1,0 +1,4 @@
+# Docerion header of cpp.code-snippets.
+type: config
+title: C++ code snippets for VSCode
+summary: Provides VSCode snippets for Chrome headers, copyright notices, logging and stack traces in C++ development.

@@ -1,0 +1,4 @@
+# Docerion header of sample_warnings_1.txt.
+type: data
+title: Sample compiler warnings file 1
+summary: Sample Clang compiler warning output from a C++ build, used as test input for the warning analysis tool.

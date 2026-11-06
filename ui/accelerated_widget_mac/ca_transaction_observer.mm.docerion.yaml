@@ -1,0 +1,4 @@
+# Docerion header of ca_transaction_observer.mm.
+type: source
+title: CATransactionCoordinator implementation
+summary: Implements pre-commit and post-commit handlers for CATransaction phases, waiting on observers and pumping tasks through the window resize helper during synchronization.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: chromeexts - Chrome's Windbg Extension
+summary: Explains how to load the chromeexts debugger extension in cdb, ntsd, and windbg and documents the !view and !hwnd commands with examples.
+---
+
 # chromeexts - Chrome's Windbg Extension
 
 `chromeexts` is a debugger extension that works in `cdb`, `ntsd`, and `windbg`.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui
+summary: Lists reviewers responsible for ui changes, with per-file rules for build files, translation artifacts, and Fuchsia code.

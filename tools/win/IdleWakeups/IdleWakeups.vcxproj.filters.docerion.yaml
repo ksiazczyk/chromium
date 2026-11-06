@@ -1,0 +1,4 @@
+# Docerion header of IdleWakeups.vcxproj.filters.
+type: config
+title: IdleWakeups project source file filters
+summary: Visual Studio filters file that organizes the IdleWakeups sources and headers into Source, Header and Resource file groups.

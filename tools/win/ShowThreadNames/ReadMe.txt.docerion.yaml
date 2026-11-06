@@ -1,0 +1,4 @@
+# Docerion header of ReadMe.txt.
+type: readme
+title: ShowThreadNames tool readme
+summary: Explains the motivation, Windows 10 1607 requirement and usage of the tool that lists thread names set via SetThreadDescription in a Chrome process.

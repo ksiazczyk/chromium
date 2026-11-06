@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: ESLint configuration for Chromium web development
+// summary: ESLint flat config defining style, restriction, and banned-import rules for Chromium JavaScript and TypeScript code.
+// ---
+
 import eslintPluginLit from '../../third_party/node/node_modules/eslint-plugin-lit/lib/index.js';
 import stylistic from '../../third_party/node/node_modules/@stylistic/eslint-plugin/dist/index.js';
 import typescriptEslint from '../../third_party/node/node_modules/@typescript-eslint/eslint-plugin/dist/index.js';

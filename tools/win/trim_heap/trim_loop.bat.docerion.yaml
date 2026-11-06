@@ -1,0 +1,4 @@
+# Docerion header of trim_loop.bat.
+type: script
+title: Periodic heap trimming loop
+summary: Builds trim_heap and reruns it in a loop every five minutes to trim heaps of the given target processes.

@@ -1,0 +1,4 @@
+# Docerion header of 0001-Make-it-work-for-chromium-s-infra-configs.patch.
+type: source
+title: Patch making bazel-lsp work with Chromium infra configs
+summary: Patch adapting the bazel-lsp server to Chromium's infra config load path prefixes and the optional LUCI stdlib path.

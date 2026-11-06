@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU power sampling via Intel Power Gadget
+// summary: Implements CPU power sampling by loading the Intel Power Gadget energy library and reading per-MSR power data.
+// ---
+
 #include "stdafx.h"
 
 #include "power_sampler.h"

@@ -1,0 +1,4 @@
+# Docerion header of template.html.
+type: source
+title: Sizeviewer report HTML template
+summary: HTML template with embedded CodeMirror styles and placeholders that sizeviewer.py fills with size data to produce the standalone report page.

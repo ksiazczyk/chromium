@@ -1,0 +1,4 @@
+# Docerion header of GuidPerfExample.txt.
+type: data
+title: Example GUID-based performance results
+summary: Recorded example output showing GUID-based temp file creation timings stay roughly constant across tens of thousands of files.

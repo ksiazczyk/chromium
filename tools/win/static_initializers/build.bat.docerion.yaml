@@ -1,0 +1,4 @@
+# Docerion header of build.bat.
+type: script
+title: Build script for the static_initializers tool
+summary: Batch script that sets up the Visual Studio environment and compiles static_initializers.cc with the DIA SDK includes and required libraries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleWakeups main program source
+// summary: Main source of the IdleWakeups tool, collecting and diffing process snapshots to report idle wakeups, CPU usage, memory, power and handle counts.
+// ---
+
 #include "stdafx.h"
 
 #include <algorithm>

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for RetrieveSymbols build output
+# summary: Ignores the Release, Debug, and ipch build output directories of the Visual Studio project.
+# ---
+
 Release/
 Debug/
 ipch/

@@ -1,3 +1,9 @@
+---
+type: guide
+title: UltiSnips snippets for Chromium development
+summary: Documents useful UltiSnips vim snippets for Chromium C++ coding, with demo screencasts and snippet definitions.
+---
+
 # UltiSnips
 
 [UltiSnips](https://vimawesome.com/plugin/ultisnips) is one of snippet systems

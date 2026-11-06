@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleWakeups .gitignore
+# summary: Ignores Visual Studio build output and cache directories such as Release, Debug, ipch, x64 and .vs.
+# ---
+
 Release/
 Debug/
 ipch/

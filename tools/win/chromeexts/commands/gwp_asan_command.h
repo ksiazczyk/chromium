@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan debugger command header
+// summary: Declares the GwpAsanCommand class with methods for reading dump streams, symbolizing stack traces, and printing task trace entries with clickable links.
+// ---
+
 #ifndef TOOLS_WIN_CHROMEEXTS_COMMANDS_GWP_ASAN_COMMAND_H_
 #define TOOLS_WIN_CHROMEEXTS_COMMANDS_GWP_ASAN_COMMAND_H_
 

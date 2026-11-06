@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System information sampler header
+// summary: Declares the SystemInformationSampler class and the ThreadData, ProcessData and ProcessDataSnapshot structures used to store per-process and per-thread data snapshots for the IdleWakeups tool.
+// ---
+
 #ifndef TOOLS_WIN_IDLEWAKEUPS_SYSTEM_INFORMATION_SAMPLER_H_
 #define TOOLS_WIN_IDLEWAKEUPS_SYSTEM_INFORMATION_SAMPLER_H_
 

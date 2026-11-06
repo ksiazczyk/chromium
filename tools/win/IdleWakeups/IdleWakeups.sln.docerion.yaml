@@ -1,0 +1,4 @@
+# Docerion header of IdleWakeups.sln.
+type: config
+title: IdleWakeups Visual Studio solution
+summary: Visual Studio solution defining Debug and Release build configurations for the IdleWakeups project on x86 and x64 platforms.

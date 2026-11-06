@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Compare interesting globals between two PDBs
+# summary: Uses ShowGlobals.exe to compare globals present in two PDB files or ShowGlobals text dumps to investigate size regressions.
+# ---
+
 """
 This script uses ShowGlobals.exe to compare two PDBs to see what interesting
 globals are present in one but not the other. You can either pass in a .pdb file

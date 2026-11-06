@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for the static_initializers tool
+# summary: Ignores Visual Studio files and Windows build artifacts such as .vs folders, executables and object files.
+# ---
+
 .vs/
 *.exe
 *.obj

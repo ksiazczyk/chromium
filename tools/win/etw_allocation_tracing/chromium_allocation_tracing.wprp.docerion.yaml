@@ -1,0 +1,4 @@
+# Docerion header of chromium_allocation_tracing.wprp.
+type: config
+title: Chromium allocation tracing WPR profile
+summary: Windows Performance Recorder profile that records the Chromium allocation ETW provider with call stacks on allocation events, plus a cheaper variant without stack walking.

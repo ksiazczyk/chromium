@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread drawing filter UI element
+// summary: Custom element providing the UI for editing thread draw options (override, color, opacity) and creating thread filter chips.
+// ---
+
 // This class represent the UI for Thread drawing filter.
 //
 class ThreadUI extends HTMLElement {

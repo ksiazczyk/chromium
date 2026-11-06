@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Trace sandbox viewer for Mojo endpoints
+# summary: Python script that parses Chromium trace files to associate Mojo interfaces with the sandboxed processes that host or consume them.
+# ---
+
 """Use Chromium tracing to associate mojo endpoints with sandboxes.
 
 This script provides a rich view of where mojo interfaces are hosted

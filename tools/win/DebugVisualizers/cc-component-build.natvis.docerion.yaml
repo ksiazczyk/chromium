@@ -1,0 +1,4 @@
+# Docerion header of cc-component-build.natvis.
+type: config
+title: cc::ListContainer visualizer for component builds
+summary: Natvis visualizer for cc::ListContainer in component builds, reaching the CharAllocator through a cc_base.dll module-qualified cast.

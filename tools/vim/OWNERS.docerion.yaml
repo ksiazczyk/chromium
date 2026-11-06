@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tools/vim
+summary: Lists the maintainers responsible for reviewing changes to the tools/vim directory.

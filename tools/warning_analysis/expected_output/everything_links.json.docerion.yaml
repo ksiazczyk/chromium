@@ -1,0 +1,4 @@
+# Docerion header of everything_links.json.
+type: data
+title: Expected warning hits with source links in JSON format
+summary: Expected JSON output pairing each warning hit with a Chromium source browser link on crsrc.org pointing to the exact line.

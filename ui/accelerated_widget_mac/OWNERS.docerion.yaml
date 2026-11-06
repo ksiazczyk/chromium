@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of accelerated_widget_mac
+summary: Lists ccameron@chromium.org as the code owner whose approval is required for changes in this directory.

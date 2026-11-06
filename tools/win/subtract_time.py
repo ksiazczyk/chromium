@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Subtract two %time% time strings
+# summary: Converts two %time%-compatible time strings to seconds and prints the difference; used by timeit.bat.
+# ---
+
 """
 This script converts two %time% compatible strings passed to it into seconds,
 subtracts them, and prints the difference. That's it. It's used by timeit.bat.

@@ -19,6 +19,12 @@
 // Some error handling and resource cleanup is omitted in order to keep things
 // simple.
 
+// ---docerion
+// type: source
+// title: Experimental Windows heap trimming tool
+// summary: Injects a thread into a target process to call HeapSetInformation so Windows trims unnecessary heap memory; experimental and not for production use.
+// ---
+
 #include <Windows.h>
 
 // Psapi.h must come after Windows.h.

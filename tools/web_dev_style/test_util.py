@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test highlight utility
+# summary: Test helper that extracts the caret-highlighted substring of a line from a style checker error message.
+# ---
+
 
 def GetHighlight(line, error):
   """Returns the substring of |line| that is highlighted in |error|."""

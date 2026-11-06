@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWND debugger command implementation
+// summary: Implements a debugger command that evaluates a window handle expression and prints its title, class, hierarchy, styles, and bounds.
+// ---
+
 #include "tools/win/chromeexts/commands/hwnd_command.h"
 
 #include <windows.h>

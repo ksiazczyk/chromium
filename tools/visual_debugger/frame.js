@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame buffering and rendering
+// summary: Defines DrawFrame and a circular buffer that store incoming debug frames and render them to the canvas.
+// ---
+
 // Enum class to identify horizontal or vertical flips
 //
 class FlipEnum {

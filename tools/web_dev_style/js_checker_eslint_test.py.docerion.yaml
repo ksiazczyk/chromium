@@ -1,0 +1,4 @@
+# Docerion header of js_checker_eslint_test.py.
+type: test
+title: JS checker ESLint unit tests
+summary: Unit tests verifying the ESLint-based checks of the JS style checker, covering rules such as no-new-wrappers and TypeScript lint rules.

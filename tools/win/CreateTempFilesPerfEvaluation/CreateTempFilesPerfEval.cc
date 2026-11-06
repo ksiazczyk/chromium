@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateTempFilesPerfEval benchmark source
+// summary: Windows console tool that measures the time to create temp files using GetTempFileName() versus a GUID-based naming method, printing timings every 500 files.
+// ---
+
 #include <tchar.h>
 #include <windows.h>
 

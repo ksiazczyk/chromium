@@ -1,0 +1,4 @@
+# Docerion header of everything.txt.
+type: data
+title: Expected warning hits for all checks in text format
+summary: Expected text summary of all warning hits across source files, with per-file hit counts and totals of 9 files and 32 hits.

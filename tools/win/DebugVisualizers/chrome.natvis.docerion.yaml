@@ -1,0 +1,4 @@
+# Docerion header of chrome.natvis.
+type: config
+title: Visualizers for gfx, gpu, IPC and base types
+summary: Natvis visualizers for common Chromium types including gfx geometry, gpu mailboxes, IPC messages, scoped_refptr and base::raw_ptr.

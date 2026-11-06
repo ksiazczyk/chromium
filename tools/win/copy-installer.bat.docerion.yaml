@@ -1,0 +1,4 @@
+# Docerion header of copy-installer.bat.
+type: script
+title: Copy a Windows installer and symbols from a build directory
+summary: Batch script that copies mini_installer and PDB symbols from a build output directory on a network share to the current drive for debugging.

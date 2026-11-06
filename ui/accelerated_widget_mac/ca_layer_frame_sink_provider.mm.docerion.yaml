@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_frame_sink_provider.mm.
+type: source
+title: CALayerFrameSinkProvider implementation
+summary: Implements CALayerFrameSinkProvider, assigning unique view handles and maintaining a map from handles to provider instances for later lookup.

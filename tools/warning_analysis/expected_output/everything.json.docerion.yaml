@@ -1,0 +1,4 @@
+# Docerion header of everything.json.
+type: data
+title: Expected warning hits for all checks in JSON format
+summary: Expected output of the warning analysis tool listing all detected hits per source file with line, column, code snippet and originating warning sample files.

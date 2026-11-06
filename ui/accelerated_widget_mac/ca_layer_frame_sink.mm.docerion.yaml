@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_frame_sink.mm.
+type: source
+title: CALayerFrameSink implementation
+summary: Implements FromAcceleratedWidget, resolving widget handles to AcceleratedWidgetMac on macOS or a CALayerFrameSinkProvider on iOS.

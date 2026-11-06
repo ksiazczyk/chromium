@@ -1,0 +1,4 @@
+# Docerion header of tasks.json.
+type: config
+title: VSCode build and test tasks
+summary: Defines VSCode tasks for setting the Chrome output directory, building and running tests, with problem matchers for compiler output.

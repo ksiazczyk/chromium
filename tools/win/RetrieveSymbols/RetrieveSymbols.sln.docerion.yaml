@@ -1,0 +1,4 @@
+# Docerion header of RetrieveSymbols.sln.
+type: config
+title: Visual Studio solution for RetrieveSymbols
+summary: Visual Studio 2013 solution defining Debug and Release Win32 build configurations for the RetrieveSymbols project.

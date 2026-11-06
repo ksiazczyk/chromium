@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the chromeexts directory
+summary: Lists robliao@chromium.org as the owner responsible for reviewing changes to the chromeexts directory.

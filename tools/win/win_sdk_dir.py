@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Find the Windows SDK directory
+# summary: Helper script that prints the Windows SDK directory, either from a local install or the packaged Chromium toolchain.
+# ---
+
 """
 Helper script to find the Windows SDK directory.
 """

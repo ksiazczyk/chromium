@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread model for the visual debugger
+// summary: Defines a Thread class that registers threads making debug calls, tracks their enable state and draw settings, and adds filter chips.
+// ---
+
 // Represents a thread making a debug call to
 // the visual debugger.
 //

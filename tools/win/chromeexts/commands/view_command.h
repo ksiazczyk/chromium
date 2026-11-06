@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View debugger command header
+// summary: Declares the ViewCommand class, a ChromeExtsCommand subclass for inspecting the view hierarchy of a debugged process.
+// ---
+
 #ifndef TOOLS_WIN_CHROMEEXTS_COMMANDS_VIEW_COMMAND_H_
 #define TOOLS_WIN_CHROMEEXTS_COMMANDS_VIEW_COMMAND_H_
 

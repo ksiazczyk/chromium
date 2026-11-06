@@ -1,0 +1,4 @@
+# Docerion header of ca_layer_tree_unittest_mac.mm.
+type: test
+title: CALayer tree unit tests for macOS
+summary: Unit tests for ui::CARendererLayerTree that schedule CALayers and verify committed layer hierarchies, clipping, transforms, HDR, and video layer behavior.

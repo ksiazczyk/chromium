@@ -1,0 +1,4 @@
+# Docerion header of blink.natvis.
+type: config
+title: Blink and cppgc type debugger visualizers
+summary: Natvis visualizers for Blink and cppgc types such as heap members, persistents and strings, including compressed pointer decompression.

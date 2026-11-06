@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for trim_heap
+# summary: Ignores Visual Studio cache files and trim_heap build outputs such as the object file and executable.
+# ---
+
 .vs/
 trim_heap.obj
 trim_heap.exe

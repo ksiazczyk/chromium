@@ -1,0 +1,4 @@
+# Docerion header of sample_warnings_win.txt.
+type: data
+title: Sample Windows compiler warning output
+summary: Sample Windows compiler warning output featuring non-trivial memcpy and memset warnings, used as test input for warning analysis.

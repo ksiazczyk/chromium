@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the whats_new tools
+summary: Delegates code ownership of the whats_new tools directory to the iOS Chrome What's New OWNERS file.

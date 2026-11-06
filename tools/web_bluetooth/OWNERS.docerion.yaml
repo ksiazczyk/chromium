@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web Bluetooth tools owners
+summary: Delegates ownership of the web_bluetooth tools directory to the owners listed in content/browser/bluetooth/OWNERS.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowThreadNames build output ignore rules
+# summary: Ignores Visual Studio build output directories such as Release, Debug, ipch and x64 for the ShowThreadNames tool.
+# ---
+
 Release/
 Debug/
 ipch/

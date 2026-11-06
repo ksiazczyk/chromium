@@ -1,0 +1,4 @@
+# Docerion header of filetypes.vim.
+type: config
+title: Vim filetype settings for gyp, DEPS and changelist files
+summary: Sets syntax highlighting and tab settings for gyp, DEPS and git cl description files when sourced from .vimrc.

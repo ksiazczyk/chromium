@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowResizeHelperMac implementation
+// summary: Implements a pumpable task runner that lets the UI thread run tasks while waiting for matching compositor frames during window resizes.
+// ---
+
 #include "ui/accelerated_widget_mac/window_resize_helper_mac.h"
 
 #include <stdint.h>

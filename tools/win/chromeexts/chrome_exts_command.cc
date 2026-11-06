@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ChromeExtsCommand base class
+// summary: Implements the ChromeExtsCommand methods for initializing commands and printing normal, error, indented, and DML output through the debug engine.
+// ---
+
 #include "tools/win/chromeexts/chrome_exts_command.h"
 
 #include <stdio.h>

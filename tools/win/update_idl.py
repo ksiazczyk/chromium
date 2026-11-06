@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Update IDL COM headers and TLB
+# summary: Python tool that rebuilds and updates IDL COM headers and type libraries after an IDL template change, run from a Windows machine at the source root.
+# ---
+
 """A tool for updating IDL COM headers/TLB after updating IDL template.
 
 This tool must be run from a Windows machine at the source root directory.

@@ -1,0 +1,4 @@
+# Docerion header of compact_blocklist_unittest.py.
+type: test
+title: Unit tests for the blocklist compaction script
+summary: Tests UUID validation, UUID shortening, and blocklist line processing for compact_blocklist.py.

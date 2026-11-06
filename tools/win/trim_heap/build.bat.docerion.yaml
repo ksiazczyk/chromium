@@ -1,0 +1,4 @@
+# Docerion header of build.bat.
+type: script
+title: Build script for trim_heap
+summary: Compiles trim_heap.cc with the MSVC compiler and explains how to set up the 64-bit toolchain when cl is not in the path.

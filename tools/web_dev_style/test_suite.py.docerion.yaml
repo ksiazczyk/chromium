@@ -1,0 +1,4 @@
+# Docerion header of test_suite.py.
+type: script
+title: Test suite runner
+summary: Runs the directory's Python unit tests by invoking unittest discovery over *test.py files.

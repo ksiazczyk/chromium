@@ -1,0 +1,4 @@
+# Docerion header of sample_warnings_2.txt.
+type: data
+title: Sample compiler warnings file 2
+summary: Sample compiler warning output with sections repeated across files to verify duplicate warnings are not double-counted in analysis.

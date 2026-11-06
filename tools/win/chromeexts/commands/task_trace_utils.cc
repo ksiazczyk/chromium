@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task trace stack scanning utilities
+// summary: Implements helpers that scan thread stack memory for task annotator begin and end markers and collect task backtrace entries for debugger output.
+// ---
+
 #include "tools/win/chromeexts/commands/task_trace_utils.h"
 
 #include <algorithm>

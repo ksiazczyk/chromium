@@ -1,0 +1,4 @@
+# Docerion header of collect_warnings.py.
+type: script
+title: Collect compiler warnings from build logs
+summary: Scans build log files for occurrences of a specified compiler warning and reports affected files and locations as human-readable text or JSON, with optional codesearch links.

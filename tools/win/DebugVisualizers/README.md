@@ -1,3 +1,11 @@
+---
+type: readme
+title: Natvis files overview and testing workflow
+summary: Describes the natvis files in this directory and the recommended workflow for editing, diagnosing and testing them in Visual Studio.
+relations:
+  - references /tools/win/DebugVisualizers/BUILD.gn
+---
+
 This directory contains "natvis" (Native Visualization) files,
 that provide custom views in the Visual Studio debugger.
 The official Natvis documentation is located at

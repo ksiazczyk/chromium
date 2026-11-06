@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the chromeexts debugger extension
+summary: Defines the chromeexts shared library build target with its command sources and dependencies on base, GWP-ASan, Crashpad, and views debug code.

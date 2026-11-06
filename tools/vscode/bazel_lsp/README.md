@@ -1,3 +1,11 @@
+---
+type: readme
+title: Guide for a Bazel Extension LSP in Chromium
+summary: Guide for building, patching, and configuring the bazel-lsp VS Code extension to support Chromium Starlark files.
+relations:
+  - references /tools/vscode/bazel_lsp/0001-Make-it-work-for-chromium-s-infra-configs.patch
+---
+
 # Guide for a Bazel Extension LSP in Chromium
 
 ## Pre-requisites

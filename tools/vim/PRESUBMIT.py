@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for tools/vim
+# summary: Runs the YCM extra conf unit tests on upload when the YCM config, ninja output helper, or tests directory changes.
+# ---
+
 """Presubmit tests for /tools/vim.
 
 Runs Python unit tests in /tools/vim/tests on upload.

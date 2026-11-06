@@ -1,3 +1,9 @@
+---
+type: readme
+title: VSCode example settings for Chromium development
+summary: Explains that the directory holds example VSCode settings to copy into src/.vscode or ~/.vscode and points to further documentation.
+---
+
 Example settings for VSCode, to be adopted/moved into a src/.vscode or
 ~/.vscode directory.
 While these files are not spec-compliant json, they do indeed work with the

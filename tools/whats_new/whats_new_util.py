@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: What's New tooling utilities
+# summary: Shared helpers for the What's New scripts that update enums and plists, validate icons and Lottie assets, and remove milestone data.
+# ---
+
 import plistlib
 import os
 from pathlib import Path

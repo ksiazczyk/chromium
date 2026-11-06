@@ -1,0 +1,4 @@
+# Docerion header of CreateTempFilesPerfEval.sln.
+type: config
+title: Visual Studio solution for CreateTempFilesPerfEval
+summary: Visual Studio solution defining Debug and Release build configurations for x86 and x64 of the benchmark project.

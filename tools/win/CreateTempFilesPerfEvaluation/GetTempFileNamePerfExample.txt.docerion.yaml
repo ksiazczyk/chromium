@@ -1,0 +1,4 @@
+# Docerion header of GetTempFileNamePerfExample.txt.
+type: data
+title: Example GetTempFileName performance results
+summary: Recorded example output showing GetTempFileName timings degrade sharply as the number of temp files in the target directory grows.

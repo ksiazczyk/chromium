@@ -1,0 +1,4 @@
+# Docerion header of accelerated_widget_mac.mm.
+type: source
+title: AcceleratedWidgetMac implementation
+summary: Implements AcceleratedWidgetMac, mapping widget handles to helper instances and forwarding CALayer parameter updates to the attached NSView.

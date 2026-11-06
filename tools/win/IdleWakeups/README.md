@@ -1,3 +1,11 @@
+---
+type: readme
+title: IdleWakeups tool README
+summary: Explains how to compile the IdleWakeups tool in Visual Studio and how to run it to measure CPU, memory, power and context switch metrics for browser processes.
+relations:
+  - references /tools/win/IdleWakeups/IdleWakeups.sln
+---
+
 This tool is designed to measure and aggregate a few key performance metrics
 for all Chrome processes over time. The tool supports other browsers such as
 Edge or Firefox, or in fact any other processes. The inclusion of processes

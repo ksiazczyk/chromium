@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Resource style checker
+# summary: Presubmit checker enforcing web resource style rules, such as avoiding deprecated mojo_bindings.js and unnecessary closing <include> tags.
+# ---
+
 """
 Presubmit for Chromium HTML/CSS/JS resources. See chrome/browser/PRESUBMIT.py.
 """

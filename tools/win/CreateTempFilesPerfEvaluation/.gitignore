@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for build directories
+# summary: Ignores Visual Studio build output directories such as Release, Debug, ipch and x64.
+# ---
+
 Release/
 Debug/
 ipch/

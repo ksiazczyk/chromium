@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task trace utilities header
+// summary: Declares the TaskTraceEntry struct and functions to scan a memory region or thread stacks for task backtrace marker pairs.
+// ---
+
 #ifndef TOOLS_WIN_CHROMEEXTS_COMMANDS_TASK_TRACE_UTILS_H_
 #define TOOLS_WIN_CHROMEEXTS_COMMANDS_TASK_TRACE_UTILS_H_
 

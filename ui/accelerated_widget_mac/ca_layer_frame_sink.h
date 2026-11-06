@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerFrameSink interface declaration
+// summary: Declares the CALayerFrameSink interface through which frames described by CALayerParams are submitted to an NSView embedder.
+// ---
+
 #ifndef UI_ACCELERATED_WIDGET_MAC_CA_LAYER_FRAME_SINK_H_
 #define UI_ACCELERATED_WIDGET_MAC_CA_LAYER_FRAME_SINK_H_
 

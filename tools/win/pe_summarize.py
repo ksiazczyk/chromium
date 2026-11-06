@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Summarize PE file section sizes
+# summary: Parses dumpbin section headers to report on-disk and in-memory sizes of PE sections and diff two files, aiding binary size investigations.
+# ---
+
 """
 Parse information about a PE file to summarize the on-disk and
 in-memory sizes of the sections, in decimal MB instead of in hex. This

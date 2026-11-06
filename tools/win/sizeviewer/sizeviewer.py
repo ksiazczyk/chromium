@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Sizeviewer report generator
+# summary: Runs code_tally.exe over Chrome DLLs and converts the resulting JSON size tallies into standalone HTML reports built from the template.
+# ---
+
 from __future__ import print_function
 
 import base64

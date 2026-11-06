@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the accelerated_widget_mac component
+summary: Explains that the directory hosts the accelerated_widget_mac component, whose AcceleratedWidgetMac class manages Core Animation layers for an NSView.
+---
+
 This directory contains the accelerated_widget_mac ui component. The main
 exported class is AcceleratedWidgetMac, which owns a tree of Core Animation
 CALayers that are placed into an NSView provided by the

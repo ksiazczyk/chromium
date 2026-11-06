@@ -1,0 +1,4 @@
+# Docerion header of remove_whats_new_milestone.py.
+type: script
+title: Remove a What's New milestone
+summary: Command-line script that removes the assets and strings of a given What's New milestone and formats the resulting changes with git cl format.

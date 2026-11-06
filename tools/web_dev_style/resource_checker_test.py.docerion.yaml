@@ -1,0 +1,4 @@
+# Docerion header of resource_checker_test.py.
+type: test
+title: Resource checker unit tests
+summary: Unit tests for the resource style checker, covering deprecated Mojo bindings, disallowed includes and self-closing include tag checks.

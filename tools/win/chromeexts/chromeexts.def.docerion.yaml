@@ -1,0 +1,4 @@
+# Docerion header of chromeexts.def.
+type: config
+title: DLL exports for the chromeexts extension
+summary: Module definition file exporting the chromeexts.dll entry points and mapping the hwnd, view, crashinfo, and gwpasan command names to their Run functions.

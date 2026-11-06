@@ -1,0 +1,4 @@
+# Docerion header of RetrieveSymbols.vcxproj.
+type: config
+title: MSBuild project file for RetrieveSymbols
+summary: Defines the Win32 Debug and Release build settings, toolset, and source files for the RetrieveSymbols console application.

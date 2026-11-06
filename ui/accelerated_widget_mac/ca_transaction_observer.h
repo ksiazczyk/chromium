@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CATransactionCoordinator header
+// summary: Declares CATransactionCoordinator, an interface to macOS CATransaction pre-commit and post-commit phases for synchronizing cross-process CoreAnimation updates.
+// ---
+
 #ifndef UI_ACCELERATED_WIDGET_MAC_CA_TRANSACTION_OBSERVER_H_
 #define UI_ACCELERATED_WIDGET_MAC_CA_TRANSACTION_OBSERVER_H_
 

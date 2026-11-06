@@ -1,0 +1,4 @@
+# Docerion header of sample_rust.txt.
+type: data
+title: Sample Rust build warning output
+summary: Sample Rust compiler warning output from a build, used as test input for the warning analysis tool.

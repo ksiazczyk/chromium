@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration for ui
+# summary: Configures Ruff line length, indentation, excluded paths, and lint and format rules for Python code under the ui directory.
+# ---
+
 line-length = 80
 indent-width = 2
 extend-exclude = [

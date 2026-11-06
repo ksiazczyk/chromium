@@ -1,0 +1,4 @@
+# Docerion header of IdleWakeups.vcxproj.
+type: config
+title: IdleWakeups Visual Studio C++ project file
+summary: MSBuild project file configuring the IdleWakeups Windows application build, including platform configurations, toolset and compiler and linker settings.

@@ -1,0 +1,4 @@
+# Docerion header of ShowGlobals.sln.
+type: config
+title: ShowGlobals Visual Studio solution
+summary: Visual Studio solution file that defines Debug and Release configurations for the ShowGlobals project on Win32 and x64 platforms.
