@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MLKit model downloader backend
+// summary: Implements the AiCore model downloader backend, checking base model status and downloading via MLKit GenerativeModel.
+// ---
+
 package org.chromium.on_device_model;
 
 import com.google.common.util.concurrent.FutureCallback;

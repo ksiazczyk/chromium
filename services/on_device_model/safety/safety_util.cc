@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language prediction helper implementation
+// summary: Implements PredictLanguage, choosing between scan-based and sample-based language prediction depending on a feature flag.
+// ---
+
 #include "services/on_device_model/safety/safety_util.h"
 
 #include "base/strings/utf_string_conversions.h"

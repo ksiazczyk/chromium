@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend interface
+// summary: Declares the Backend interface for checking model creation support, querying capabilities and getting device and performance information.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_BACKEND_H_
 #define SERVICES_ON_DEVICE_MODEL_BACKEND_H_
 

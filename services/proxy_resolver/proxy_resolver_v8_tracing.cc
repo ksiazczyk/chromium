@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverV8Tracing implementation
+// summary: Implements the non-blocking tracing proxy resolver that aborts and restarts PAC script execution when DNS results arrive, with limits on unique DNS resolves and buffered alerts and errors.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_v8_tracing.h"
 
 #include <map>

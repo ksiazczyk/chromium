@@ -1,0 +1,4 @@
+# Docerion header of downloader_params.mojom.
+type: source
+title: Mojom struct for model downloader parameters
+summary: Defines the DownloaderParams mojom struct, including the persistent mode requirement, for passing downloader settings between C++ and Java.

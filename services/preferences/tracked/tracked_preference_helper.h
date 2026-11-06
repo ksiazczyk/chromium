@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preference helper class
+// summary: Declares TrackedPreferenceHelper, which maps validation states to reset actions and reports validation results via UMA.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCE_HELPER_H_
 #define SERVICES_PREFERENCES_TRACKED_TRACKED_PREFERENCE_HELPER_H_
 

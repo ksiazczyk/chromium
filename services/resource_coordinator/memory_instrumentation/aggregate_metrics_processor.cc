@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated native code memory metrics implementation
+// summary: Computes global native code resident memory metrics from per-process memory dumps, including Android-specific logging of resident library pages.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/aggregate_metrics_processor.h"
 
 #include <string>

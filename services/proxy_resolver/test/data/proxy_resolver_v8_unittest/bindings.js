@@ -2,6 +2,12 @@
 // inputs. There is no notion of "success" for this test, other than
 // verifying the correct C++ bindings were reached with expected values.
 
+// ---docerion
+// type: test
+// title: PAC test script for bound function calls with invalid inputs
+// summary: PAC script that calls dnsResolve, alert, myIpAddress and their Ex variants with invalid arguments to verify the C++ bindings.
+// ---
+
 function MyObject() {
   this.x = "3";
 }

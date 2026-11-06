@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDumpGraph class declarations
+// summary: Declares GlobalDumpGraph and its Process, Node, Edge, and iterator classes used to represent and traverse processed memory dump graphs per process and shared memory.
+// ---
+
 #ifndef SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_GRAPH_H_
 #define SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_GRAPH_H_
 

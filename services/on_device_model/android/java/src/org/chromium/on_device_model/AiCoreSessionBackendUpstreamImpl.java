@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy AiCoreSessionBackend used when AiCore is unavailable
+// summary: Fallback session backend implementation that reports the AiCore API as not available for generation and token size requests.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.chromium.build.annotations.NullMarked;

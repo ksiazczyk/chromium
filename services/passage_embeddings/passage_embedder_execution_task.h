@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassageEmbedderExecutionTask class header
+// summary: Declares the TFLite execution task that formats token input and extracts float embedding output for the embedder models.
+// ---
+
 #ifndef SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_EXECUTION_TASK_H_
 #define SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_EXECUTION_TASK_H_
 

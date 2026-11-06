@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GlobalDumpGraph
+// summary: Unit tests covering process graph creation, ownership edges, and depth-first pre- and post-order traversal of the GlobalDumpGraph structure.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/graph.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy resolver implementation
+// summary: Implements the mojo system proxy resolver service, converting WinHttp proxy results into Chromium proxy chains and managing in-flight requests.
+// ---
+
 #include "services/proxy_resolver_win/windows_system_proxy_resolver_impl.h"
 
 #include <cwchar>

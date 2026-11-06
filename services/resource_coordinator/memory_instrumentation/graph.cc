@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDumpGraph implementation
+// summary: Implements the GlobalDumpGraph arena with process graphs, nodes, ownership edges, and depth-first pre- and post-order iterators for memory dump graphs.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/graph.h"
 
 #include <algorithm>

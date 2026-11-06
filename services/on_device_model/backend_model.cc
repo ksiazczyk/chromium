@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend model adaptation implementation
+// summary: Implements ScopedAdaptation, a handle that unloads a model adaptation when it is destroyed.
+// ---
+
 #include "services/on_device_model/backend_model.h"
 
 namespace on_device_model {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ChromeML accessor implementation
+// summary: Provides GetFakeChromeML, which creates and returns a fake ChromeML instance built on the fake ML API for testing purposes.
+// ---
+
 #include "services/on_device_model/fake/on_device_model_fake.h"
 
 #include "base/no_destructor.h"

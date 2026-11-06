@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Proxy resolver GN build targets
+summary: Defines the lib and tests source sets with their sources, dependencies, and V8 startup data configs for the proxy_resolver service.

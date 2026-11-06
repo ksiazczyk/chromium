@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embedder implementation unit tests
+// summary: Unit tests for PassageEmbedderImpl covering model loading success and failure cases, embedding generation and cache behavior.
+// ---
+
 #include "services/passage_embeddings/passage_embedder_impl.h"
 
 #include "base/path_service.h"

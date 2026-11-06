@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Tracked preferences feature flags implementation
+// summary: Defines base::Feature flags that control encrypted preference hashing, enterprise encrypted tracked prefs, weak ciphertext rejection on Windows, and the legacy HMAC fallback.
+// ---
+
 #include "services/preferences/tracked/features.h"
 
 #include "base/feature_list.h"

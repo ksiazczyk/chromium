@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ML Kit AiCore session backend
+// summary: Robolectric unit tests that verify MlKitAiCoreSessionBackendImpl streaming generation and token counting via mocked GenerativeModelFutures.
+// ---
+
 package org.chromium.on_device_model;
 
 import static org.junit.Assert.assertEquals;

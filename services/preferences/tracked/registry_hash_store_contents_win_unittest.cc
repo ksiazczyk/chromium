@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry hash store contents unit tests
+// summary: Unit tests verifying set, get, remove and reset behavior for atomic and split preference authenticators in the registry-backed hash store.
+// ---
+
 #include "services/preferences/tracked/registry_hash_store_contents_win.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interceptable pref filter implementation
+// summary: Implements InterceptablePrefFilter's FilterOnLoad interception, delegating to a registered interceptor before finalizing the filtered preference store contents.
+// ---
+
 #include "services/preferences/tracked/interceptable_pref_filter.h"
 
 #include <utility>

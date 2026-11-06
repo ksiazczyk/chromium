@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web Bundles directory metadata
+summary: Declares the issue tracker components (Monorail and Buganizer) used for bugs in the Web Bundles network service directory.

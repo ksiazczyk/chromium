@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref hash calculator unit tests
+// summary: Tests HMAC and encrypted hash calculation and validation across seeds, device IDs, paths, and values, including os_crypt test encryptor setups.
+// ---
+
 #include "services/preferences/tracked/pref_hash_calculator.h"
 
 #include <memory>

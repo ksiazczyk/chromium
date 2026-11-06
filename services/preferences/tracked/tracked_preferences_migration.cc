@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preferences migration implementation
+// summary: Implements the migrator that moves preferences and their hashes between unprotected and protected tracked stores as tracking configuration changes.
+// ---
+
 #include "services/preferences/tracked/tracked_preferences_migration.h"
 
 #include <string>

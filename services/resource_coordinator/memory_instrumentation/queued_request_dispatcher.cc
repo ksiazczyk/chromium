@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queued request dispatcher implementation
+// summary: Implements dispatching of queued memory dump requests to client processes and finalizing responses, including per-platform private memory footprint calculation.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/queued_request_dispatcher.h"
 
 #include <inttypes.h>

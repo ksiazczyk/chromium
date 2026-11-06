@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassageEmbedderExecutionTask TFLite task implementation
+// summary: Implements TFLite BaseTaskApi preprocessing and postprocessing to run the embedder model and return float embedding output.
+// ---
+
 #include "services/passage_embeddings/passage_embedder_execution_task.h"
 
 #include "base/check_op.h"

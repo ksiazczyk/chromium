@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked atomic preference implementation
+// summary: Implements validation, enforcement and UMA reporting for preferences tracked as a whole, resetting the value on hash mismatch.
+// ---
+
 #include "services/preferences/tracked/tracked_atomic_preference.h"
 
 #include "base/memory/scoped_refptr.h"

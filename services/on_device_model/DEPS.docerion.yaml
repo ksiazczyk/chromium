@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Lists the allowed include paths and dependency rules for code in the on_device_model directory.

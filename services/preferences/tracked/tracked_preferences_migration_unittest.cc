@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracked preferences migration unit tests
+// summary: Unit tests covering migration of preferences between unprotected and protected tracked preference stores, including store cleanup and hash migration scenarios.
+// ---
+
 #include "services/preferences/tracked/tracked_preferences_migration.h"
 
 #include <memory>

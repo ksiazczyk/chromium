@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings op resolver implementation
+// summary: Implements the History and Gemma TFLite op resolvers, adding GPU delegates via CoreML or ChromeML and XNNPACK delegate options.
+// ---
+
 #include "services/passage_embeddings/passage_embeddings_op_resolver.h"
 
 #include <memory>

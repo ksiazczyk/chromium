@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverImpl class header
+// summary: Declares ProxyResolverImpl, the Mojo ProxyResolver service implementation that forwards GetProxyForUrl requests to a ProxyResolverV8Tracing instance and tracks outstanding resolve jobs.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_IMPL_H_
 

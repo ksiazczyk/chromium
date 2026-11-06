@@ -5,6 +5,12 @@
 // This PAC script will throw an exception when accessing the "FindProxyForURL"
 // the *second* time it is accessed.
 
+// ---docerion
+// type: test
+// title: PAC test script throwing on second FindProxyForURL access
+// summary: PAC script that throws an exception the second time the FindProxyForURL property is accessed during resolution.
+// ---
+
 function actualFindProxyForURL(url, host) {
   return "DIRECT";
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ChromeML API header
+// summary: Declares the fake ChromeML API entry point along with fake tool call, ASR transcript, and formatting prefix constants used by on-device model tests.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_FAKE_FAKE_CHROME_ML_API_H_
 #define SERVICES_ON_DEVICE_MODEL_FAKE_FAKE_CHROME_ML_API_H_
 

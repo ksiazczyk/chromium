@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstraintFactory class for response constraints
+// summary: Declares the ConstraintFactory class that initializes a tokenizer on a background task runner and creates response constraints for ChromeML sessions.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_CONSTRAINT_FACTORY_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_CONSTRAINT_FACTORY_H_
 

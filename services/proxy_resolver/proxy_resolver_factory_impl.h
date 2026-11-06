@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverFactoryImpl class
+// summary: Declares the mojom::ProxyResolverFactory implementation that manages resolver creation jobs and multiple bound resolver pipes.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_FACTORY_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_FACTORY_IMPL_H_
 

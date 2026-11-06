@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked atomic preference class
+// summary: Declares TrackedAtomicPreference, a preference tracked as a whole whose entire value is reset on mismatch, with an optional validation delegate.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TRACKED_ATOMIC_PREFERENCE_H_
 #define SERVICES_PREFERENCES_TRACKED_TRACKED_ATOMIC_PREFERENCE_H_
 

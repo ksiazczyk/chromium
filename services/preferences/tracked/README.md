@@ -1,3 +1,9 @@
+---
+type: readme
+title: Tracked preferences
+summary: Explains the tracked preferences system, including integrity tiers, individual and super authenticators, enforcement levels, pref segregation, migration, and core classes.
+---
+
 # Tracked preferences
 
 ## Overview and taxonomy

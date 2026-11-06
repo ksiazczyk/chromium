@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PAC test script for failing DNS resolution
+// summary: PAC script verifying the expected return values of DNS-related bindings in an environment where all DNS resolution fails.
+// ---
+
 // This script should be run in an environment where all DNS resolution are
 // failing. It tests that functions return the expected values.
 //

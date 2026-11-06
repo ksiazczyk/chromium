@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Mac proxy resolver component
+summary: GN build file defining the proxy_resolver_mac component sources and dependencies plus a source_set target for its unit tests.

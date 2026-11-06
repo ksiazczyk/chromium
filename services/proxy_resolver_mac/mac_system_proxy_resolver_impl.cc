@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver implementation
+// summary: Implements the SystemProxyResolver Mojo interface for macOS, resolving proxies for a URL via CFNetwork system configuration and returning a proxy list.
+// ---
+
 #include "services/proxy_resolver_mac/mac_system_proxy_resolver_impl.h"
 
 #include <CFNetwork/CFNetwork.h>

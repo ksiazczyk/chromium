@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Memory instrumentation common directory metadata
+summary: Shared metadata for the memory_instrumentation directory, assigning the Monorail component Internals>Instrumentation>Memory and a public Buganizer component ID.

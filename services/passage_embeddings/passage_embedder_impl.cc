@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder implementation
+// summary: Implements PassageEmbedderImpl, loading embeddings and SentencePiece models, generating embeddings and recording duration metrics and trace events.
+// ---
+
 #include "services/passage_embeddings/passage_embedder_impl.h"
 
 #include <utility>

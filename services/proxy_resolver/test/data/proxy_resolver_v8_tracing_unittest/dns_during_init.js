@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: PAC test script resolving DNS during initialization
+// summary: Test fixture PAC script that performs DNS lookups at load time and again per request to check they do not share a resolution cache.
+// ---
+
 var g_ips = [
   dnsResolve('host1'),
   dnsResolve('host2')

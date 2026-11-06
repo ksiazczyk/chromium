@@ -1,6 +1,12 @@
 // PAC script which uses isInNet on both IP addresses and hosts, and calls
 // isResolvable().
 
+// ---docerion
+// type: test
+// title: PAC test script using isInNet and isResolvable
+// summary: PAC test data exercising isInNet on IP addresses and hosts, dnsDomainIs, and isResolvable to select among several proxies.
+// ---
+
 function FindProxyForURL(url, host) {
   var my_ip = myIpAddress();
 

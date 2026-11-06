@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefHashStoreTransaction interface
+// summary: Declares the transaction interface for checking and storing preference authenticators, including split values and authentication data import.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_PREF_HASH_STORE_TRANSACTION_H_
 #define SERVICES_PREFERENCES_TRACKED_PREF_HASH_STORE_TRANSACTION_H_
 

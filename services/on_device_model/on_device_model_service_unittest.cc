@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device model service unit tests
+// summary: Unit tests for the on-device model service and Mojom implementation, exercising generation, tool calls, ASR streams, and safety features against a fake backend.
+// ---
+
 #include "services/on_device_model/on_device_model_service.h"
 
 #include "base/files/scoped_temp_file.h"

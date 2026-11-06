@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo proxy resolver V8 tracing bindings unit tests
+// summary: Unit tests verifying that MojoProxyResolverV8TracingBindings records PAC script alerts and errors and exposes the host resolver and NetLog.
+// ---
+
 #include "services/proxy_resolver/mojo_proxy_resolver_v8_tracing_bindings.h"
 
 #include <string>

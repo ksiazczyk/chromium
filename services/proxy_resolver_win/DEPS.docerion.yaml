@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the proxy_resolver_win directory
+summary: Specifies the allowed include rules for base, net, services/proxy_resolver/public/mojom, and url within this directory.

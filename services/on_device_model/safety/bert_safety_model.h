@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertSafetyModel class declaration
+// summary: Declares the BertSafetyModel class implementing the TextSafetyModel and TextSafetySession Mojo interfaces for on-device text safety.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_SAFETY_BERT_SAFETY_MODEL_H_
 #define SERVICES_ON_DEVICE_MODEL_SAFETY_BERT_SAFETY_MODEL_H_
 

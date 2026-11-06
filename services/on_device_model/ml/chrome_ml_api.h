@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public C API header for the ChromeML library
+// summary: Defines the C API structs, opaque handles, and function pointer interface exposed by the ChromeML shared library.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_API_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_CHROME_ML_API_H_
 

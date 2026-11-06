@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefHashFilter implementation
+// summary: Implements the preference hash filter that validates tracked preferences on load, keeps hash stores up to date, and cleans up deprecated tracked preferences.
+// ---
+
 #include "services/preferences/tracked/pref_hash_filter.h"
 
 #include <stdint.h>

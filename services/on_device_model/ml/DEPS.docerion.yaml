@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the llguidance header
+summary: Grants this directory permission to include the vendored llguidance C header used for on-device constraints.

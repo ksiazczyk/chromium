@@ -1,3 +1,9 @@
+---
+type: readme
+title: Preference Service User Guide
+summary: Explains what preferences are, describes the pref service design, and notes the standalone service was deleted with legacy code remaining.
+---
+
 # Preference Service User Guide
 
 The Preference Service is no longer an independent service. The implementation

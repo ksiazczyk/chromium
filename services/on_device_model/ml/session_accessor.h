@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeML session accessor declarations
+// summary: Declares SessionAccessor, which safely forwards ChromeMLSession calls such as append, generate and ASR streaming to a background task runner.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_SESSION_ACCESSOR_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_SESSION_ACCESSOR_H_
 

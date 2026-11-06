@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyHostResolver interface
+// summary: Declares the ProxyHostResolver interface for a limited host resolver used only for proxy resolution, including a Request class for starting lookups.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_HOST_RESOLVER_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_HOST_RESOLVER_H_
 

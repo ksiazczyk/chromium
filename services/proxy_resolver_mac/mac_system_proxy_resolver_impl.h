@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver class declaration
+// summary: Declares MacSystemProxyResolverImpl, a Mojo SystemProxyResolver implementation that uses a MacAPIWrapper for SystemConfiguration and CFNetwork calls.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_MAC_MAC_SYSTEM_PROXY_RESOLVER_IMPL_H_
 #define SERVICES_PROXY_RESOLVER_MAC_MAC_SYSTEM_PROXY_RESOLVER_IMPL_H_
 

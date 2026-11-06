@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model Mojom implementation
+// summary: Implements the mojom OnDeviceModel and Session interfaces, wrapping backend sessions with idle-timeout unloading, priority handling, and ASR streaming support.
+// ---
+
 #include "services/on_device_model/on_device_model_mojom_impl.h"
 
 #include <cstdint>

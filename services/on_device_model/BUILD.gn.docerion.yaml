@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: On-device model service build targets
+summary: Defines GN build targets for the on-device model service, including backend interfaces, the service component, unit tests and ML internal buildflags.

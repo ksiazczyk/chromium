@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend model interface
+// summary: Declares the BackendModel interface for creating sessions and loading or unloading adaptations and post-processors such as the ASR polisher.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_BACKEND_MODEL_H_
 #define SERVICES_ON_DEVICE_MODEL_BACKEND_MODEL_H_
 

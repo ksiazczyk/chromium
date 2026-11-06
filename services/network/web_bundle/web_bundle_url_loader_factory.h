@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web bundle URL loader factory class declaration
+// summary: Declares the WebBundleURLLoaderFactory class that manages Web Bundle loading, including load result UMA enums, loader creation, and error reporting for the network service.
+// ---
+
 #ifndef SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_URL_LOADER_FACTORY_H_
 #define SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_URL_LOADER_FACTORY_H_
 

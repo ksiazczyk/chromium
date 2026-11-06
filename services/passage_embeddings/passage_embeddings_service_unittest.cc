@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embeddings service unit tests
+// summary: Unit tests for PassageEmbeddingsService covering model loading validation, embedding generation over mojo and cache hit behavior.
+// ---
+
 #include "services/passage_embeddings/passage_embeddings_service.h"
 
 #include "base/path_service.h"

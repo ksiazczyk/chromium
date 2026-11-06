@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Mac proxy resolver
+summary: Designates the net/OWNERS file as the primary owners for this directory.

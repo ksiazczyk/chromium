@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ChromeML API implementation for on-device model tests
+// summary: Implements a fake ChromeML API that emulates model responses, tokenization, constraints, tool calls, and input piece formatting for testing the on-device model service.
+// ---
+
 #include "services/on_device_model/fake/fake_chrome_ml_api.h"
 
 #include "base/check.h"

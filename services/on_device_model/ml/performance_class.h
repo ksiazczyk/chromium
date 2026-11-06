@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model performance classification declarations
+// summary: Declares functions returning RAM thresholds and device and performance info used to classify devices for on-device model support.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ML_PERFORMANCE_CLASS_H_
 #define SERVICES_ON_DEVICE_MODEL_ML_PERFORMANCE_CLASS_H_
 

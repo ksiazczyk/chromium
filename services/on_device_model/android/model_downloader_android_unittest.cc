@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model downloader Android unit tests
+// summary: Unit tests for the Android model downloader, covering download success and failure paths and verifying the related histogram metrics.
+// ---
+
 #include "services/on_device_model/android/model_downloader_android.h"
 
 #include <optional>

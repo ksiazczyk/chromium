@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interceptable pref filter header
+// summary: Declares a partial PrefFilter implementation whose FilterOnLoad call can be intercepted, with callbacks for finalizing load filtering and encryptor handling.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_INTERCEPTABLE_PREF_FILTER_H_
 #define SERVICES_PREFERENCES_TRACKED_INTERCEPTABLE_PREF_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence checker helper implementation
+// summary: Implements a helper that runs tasks immediately when already on the creating sequence and otherwise posts them to that sequence's task runner.
+// ---
+
 #include "services/on_device_model/android/sequence_checker_helper.h"
 
 #include "base/task/sequenced_task_runner.h"

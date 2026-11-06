@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for memory_instrumentation
+summary: DIR_METADATA file that mixes in the shared COMMON_METADATA to apply the directory's bug tracking and component metadata.

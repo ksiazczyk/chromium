@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the preferences service
+summary: Lists the email addresses of the owners responsible for reviewing changes in this directory.

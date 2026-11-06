@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyHostResolverCache class
+// summary: Declares a simple cache for proxy host resolutions that keeps entries for a five-second TTL and evicts oldest entries when full.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_HOST_RESOLVER_CACHE_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_HOST_RESOLVER_CACHE_H_
 

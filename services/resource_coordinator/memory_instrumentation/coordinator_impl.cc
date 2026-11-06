@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory instrumentation coordinator implementation
+// summary: Implements the memory instrumentation service that registers client processes and fulfills global and per-process memory dump requests.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/coordinator_impl.h"
 
 #include <inttypes.h>

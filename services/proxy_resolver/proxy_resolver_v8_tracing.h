@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverV8Tracing class header
+// summary: Declares ProxyResolverV8Tracing, a non-blocking proxy resolver interface with per-request Bindings, and a factory that runs resolvers on a single helper thread to avoid blocking DNS.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_V8_TRACING_H_
 #define SERVICES_PROXY_RESOLVER_PROXY_RESOLVER_V8_TRACING_H_
 

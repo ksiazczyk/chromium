@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock proxy host resolver declarations
+// summary: Declares MockProxyHostResolver and HangingProxyHostResolver test fakes of ProxyHostResolver with configurable results and failure modes.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_MOCK_PROXY_HOST_RESOLVER_H_
 #define SERVICES_PROXY_RESOLVER_MOCK_PROXY_HOST_RESOLVER_H_
 

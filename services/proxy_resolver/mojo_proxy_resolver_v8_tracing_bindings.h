@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo V8 tracing bindings
+// summary: Template bindings for ProxyResolverV8Tracing that forward PAC alert, error, and DNS requests to a mojo client interface.
+// ---
+
 #ifndef SERVICES_PROXY_RESOLVER_MOJO_PROXY_RESOLVER_V8_TRACING_BINDINGS_H_
 #define SERVICES_PROXY_RESOLVER_MOJO_PROXY_RESOLVER_V8_TRACING_BINDINGS_H_
 

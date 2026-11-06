@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the fake on-device model component
+summary: GN build file defining the fake on-device model component with its public headers, sources, dependencies, and conditional build conditions.

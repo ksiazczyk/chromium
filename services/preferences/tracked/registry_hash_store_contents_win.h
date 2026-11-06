@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry hash store contents
+// summary: Declares RegistryHashStoreContentsWin, which stores preference authenticators in the Windows registry, plus a cleaner for scoped temporary registry pref stores.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_REGISTRY_HASH_STORE_CONTENTS_WIN_H_
 #define SERVICES_PREFERENCES_TRACKED_REGISTRY_HASH_STORE_CONTENTS_WIN_H_
 

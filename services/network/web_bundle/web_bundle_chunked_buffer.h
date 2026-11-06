@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleChunkedBuffer header
+// summary: Declares WebBundleChunkedBuffer, which keeps appended bytes as ref-counted chunks and supports reads, range checks, and data source creation.
+// ---
+
 #ifndef SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_CHUNKED_BUFFER_H_
 #define SERVICES_NETWORK_WEB_BUNDLE_WEB_BUNDLE_CHUNKED_BUFFER_H_
 

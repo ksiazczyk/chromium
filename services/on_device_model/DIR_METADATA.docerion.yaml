@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Points to the shared COMMON_METADATA file that supplies Buganizer component information for this directory.

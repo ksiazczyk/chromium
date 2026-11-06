@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence checker helper header
+// summary: Declares a helper that ensures tasks are run on the sequence where the helper object was created.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ANDROID_SEQUENCE_CHECKER_HELPER_H_
 #define SERVICES_ON_DEVICE_MODEL_ANDROID_SEQUENCE_CHECKER_HELPER_H_
 

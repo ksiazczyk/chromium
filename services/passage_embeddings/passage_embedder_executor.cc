@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model executors for history and Gemma embeddings
+// summary: Implements HistoryModelExecutor and GemmaModelExecutor that format token inputs and run TFLite signatures to produce embeddings.
+// ---
+
 #include "services/passage_embeddings/passage_embedder_executor.h"
 
 #include <algorithm>

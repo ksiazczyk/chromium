@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome graph processor unit tests
+// summary: Unit tests verifying memory graph creation with none, all, and shared footprint operations of ChromeGraphProcessor.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/chrome_graph_processor.h"
 
 #include <iostream>

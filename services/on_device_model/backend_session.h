@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend session interface
+// summary: Declares the BackendSession interface for appending context, generating output, token sizing, scoring, cloning sessions and ASR audio streaming.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_BACKEND_SESSION_H_
 #define SERVICES_ON_DEVICE_MODEL_BACKEND_SESSION_H_
 

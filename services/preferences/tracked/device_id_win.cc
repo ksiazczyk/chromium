@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows machine ID implementation
+// summary: Implements the machine ID lookup on Windows by resolving the computer account SID via LookupAccountNameW.
+// ---
+
 #include "services/preferences/tracked/device_id.h"
 
 #include <windows.h>

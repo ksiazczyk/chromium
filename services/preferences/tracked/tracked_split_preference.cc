@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked split preference implementation
+// summary: Implements validation and enforcement for split dictionary preferences, checking each top-level entry independently and reporting results through a delegate.
+// ---
+
 #include "services/preferences/tracked/tracked_split_preference.h"
 
 #include <vector>

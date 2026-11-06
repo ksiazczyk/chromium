@@ -9,6 +9,12 @@
 // exposed in the PAC's execution environment. (Namely, dnsDomainLevels,
 // timeRange, etc.)
 
+// ---docerion
+// type: test
+// title: Unit tests for PAC library functions
+// summary: Runs assertions against PAC library functions such as dnsDomainIs, isInNet and shExpMatch, returning PROXY success:80 when all tests pass.
+// ---
+
 function FindProxyForURL(url, host) {
   var numTestsFailed = 0;
 

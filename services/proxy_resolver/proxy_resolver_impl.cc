@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverImpl implementation
+// summary: Implements the mojom::ProxyResolver service, running per-URL resolve jobs through ProxyResolverV8Tracing and reporting results to Mojo clients.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBuffer implementation
+// summary: Implements the default constructors, destructors, and assignment operators for the ml::AudioBuffer type.
+// ---
+
 #include "services/on_device_model/ml/chrome_ml_audio_buffer.h"
 
 namespace ml {

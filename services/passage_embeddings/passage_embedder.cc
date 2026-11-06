@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassageEmbedder Mojo interface implementation
+// summary: Implements the PassageEmbedder Mojo interface, loading models and generating embeddings while updating the task runner priority based on pending task counts.
+// ---
+
 #include "services/passage_embeddings/passage_embedder.h"
 
 #include <utility>

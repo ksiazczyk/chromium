@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyModelHolder implementation
+// summary: Implements SafetyModelHolder, creating and resetting a BertSafetyModel on a sequenced task runner that may block.
+// ---
+
 #include "services/on_device_model/safety/safety_model_holder.h"
 
 #include <utility>

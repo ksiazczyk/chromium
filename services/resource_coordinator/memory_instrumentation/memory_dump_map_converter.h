@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpMapConverter class declarations
+// summary: Declares the MemoryDumpMapConverter class that converts Chromium MemoryDumpMap data into Perfetto RawMemoryNodeMap structures for graph processing.
+// ---
+
 #ifndef SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_MEMORY_DUMP_MAP_CONVERTER_H_
 #define SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_MEMORY_DUMP_MAP_CONVERTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the proxy_resolver_win component
+summary: Defines the proxy_resolver_win component sources, dependencies, and the test source set for the Windows proxy resolution service.

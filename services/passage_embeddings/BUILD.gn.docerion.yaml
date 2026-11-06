@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the passage embeddings service
+summary: Defines the passage_embeddings source set with its TFLite and sentencepiece dependencies plus a testonly source set for the unit tests.

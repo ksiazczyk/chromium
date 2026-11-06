@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpMapConverter implementation
+// summary: Implements conversion of Chromium ProcessMemoryDump maps into Perfetto RawMemoryNodeMap structures, translating allocator dumps, entries, flags, and edges.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/memory_dump_map_converter.h"
 
 #include <list>

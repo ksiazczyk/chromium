@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model JNI bridge header
+// summary: Declares the static bridge between native and Java code for creating on-device model sessions and model downloaders.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_ANDROID_ON_DEVICE_MODEL_BRIDGE_H_
 #define SERVICES_ON_DEVICE_MODEL_ANDROID_ON_DEVICE_MODEL_BRIDGE_H_
 

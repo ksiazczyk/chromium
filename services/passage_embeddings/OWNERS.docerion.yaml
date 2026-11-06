@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for passage embeddings
+summary: Delegates code ownership review to the components/passage_embeddings OWNERS file.

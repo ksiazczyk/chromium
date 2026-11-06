@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session responder interface
+// summary: Interface backends use to deliver streaming response pieces, completion results and token count results from any thread.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.chromium.build.annotations.NullMarked;

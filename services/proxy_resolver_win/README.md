@@ -1,3 +1,9 @@
+---
+type: readme
+title: Windows proxy resolution service overview
+summary: Describes the service that resolves proxies via Windows APIs and the Windows-specific features it enables, linking to the design document.
+---
+
 This service offers a way to perform proxy resolution using Windows APIs. This
 enables several Windows proxy features that are not otherwise supported in
 Chromium, including:

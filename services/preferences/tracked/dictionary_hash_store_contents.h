@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary hash store contents header
+// summary: Declares DictionaryHashStoreContents, a HashStoreContents implementation that stores preference authenticators in a dictionary value backing a pref store.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_DICTIONARY_HASH_STORE_CONTENTS_H_
 #define SERVICES_PREFERENCES_TRACKED_DICTIONARY_HASH_STORE_CONTENTS_H_
 

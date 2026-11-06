@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated metrics processor header
+// summary: Declares ComputeGlobalNativeCodeResidentMemoryKb, which aggregates native code resident memory across process memory dumps.
+// ---
+
 #ifndef SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_AGGREGATE_METRICS_PROCESSOR_H_
 #define SERVICES_RESOURCE_COORDINATOR_MEMORY_INSTRUMENTATION_AGGREGATE_METRICS_PROCESSOR_H_
 

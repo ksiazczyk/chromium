@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedRequest implementation
+// summary: Implements QueuedRequest and its Args, PendingResponse, and Response types used to track pending global memory dump requests and build request arguments.
+// ---
+
 #include "services/resource_coordinator/memory_instrumentation/queued_request.h"
 
 #include "base/containers/to_vector.h"

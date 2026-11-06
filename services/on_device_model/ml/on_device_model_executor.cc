@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model executor implementation
+// summary: Implements the on-device model executor that loads ChromeML models, runs sessions, and handles tokens, constraints and performance metrics.
+// ---
+
 #include "services/on_device_model/ml/on_device_model_executor.h"
 
 #include <algorithm>

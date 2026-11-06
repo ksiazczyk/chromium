@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo host resolver implementation
+// summary: Implements ProxyHostResolver by forwarding DNS requests over a mojo Impl interface, using a local cache to return results synchronously when possible.
+// ---
+
 #include "services/proxy_resolver/host_resolver_mojo.h"
 
 #include <memory>

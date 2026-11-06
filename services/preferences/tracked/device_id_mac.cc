@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac machine ID implementation
+// summary: Implements the machine ID lookup on macOS by reading the IOPlatformUUID via IOKit.
+// ---
+
 #include "services/preferences/tracked/device_id.h"
 
 #include <IOKit/IOKitLib.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temp scoped directory cleaner interface
+// summary: Defines a ref-counted helper interface for clearing additional data of scoped temporary preference stores.
+// ---
+
 #ifndef SERVICES_PREFERENCES_TRACKED_TEMP_SCOPED_DIR_CLEANER_H_
 #define SERVICES_PREFERENCES_TRACKED_TEMP_SCOPED_DIR_CLEANER_H_
 

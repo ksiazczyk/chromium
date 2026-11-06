@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder executor interface and model executors
+// summary: Declares the PassageEmbedderExecutor interface plus History and Gemma model executors that format raw tokens and run TFLite models to produce embeddings.
+// ---
+
 #ifndef SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_EXECUTOR_H_
 #define SERVICES_PASSAGE_EMBEDDINGS_PASSAGE_EMBEDDER_EXECUTOR_H_
 

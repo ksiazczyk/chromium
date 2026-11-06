@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language prediction helper declaration
+// summary: Declares the PredictLanguage helper that makes a language prediction from a language detection model and input text.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_SAFETY_SAFETY_UTIL_H_
 #define SERVICES_ON_DEVICE_MODEL_SAFETY_SAFETY_UTIL_H_
 

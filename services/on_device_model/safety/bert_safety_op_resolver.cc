@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bert safety TFLite op resolver implementation
+// summary: Registers TensorFlow Text fast BERT normalization and wordpiece tokenizer and detokenizer custom ops with the TFLite op resolver.
+// ---
+
 #include "services/on_device_model/safety/bert_safety_op_resolver.h"
 
 #include "third_party/tensorflow-text/src/tensorflow_text/core/kernels/fast_bert_normalizer_tflite.h"

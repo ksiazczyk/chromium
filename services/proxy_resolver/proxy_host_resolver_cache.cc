@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyHostResolverCache implementation
+// summary: Implements storing, looking up, expiring and evicting cached proxy host resolution results with TTL and capacity limits.
+// ---
+
 #include "services/proxy_resolver/proxy_host_resolver_cache.h"
 
 #include <list>

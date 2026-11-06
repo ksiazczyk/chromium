@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native-Java bridge for the on-device model
+// summary: Bridge called from native code to create AI sessions and model downloaders, falling back to upstream backends when no factory is registered.
+// ---
+
 package org.chromium.on_device_model;
 
 import org.jni_zero.CalledByNative;

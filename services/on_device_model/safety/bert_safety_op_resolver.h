@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bert safety TFLite op resolver declaration
+// summary: Declares the TFLite op resolver class used by the BERT safety model.
+// ---
+
 #ifndef SERVICES_ON_DEVICE_MODEL_SAFETY_BERT_SAFETY_OP_RESOLVER_H_
 #define SERVICES_ON_DEVICE_MODEL_SAFETY_BERT_SAFETY_OP_RESOLVER_H_
 

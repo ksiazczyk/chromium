@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverV8 PAC script evaluation implementation
+// summary: Implements the V8-based PAC script evaluator with JavaScript bindings for DNS resolution, alerts, and errors, including Microsoft PAC extensions and cross-browser compatibility notes.
+// ---
+
 #include "services/proxy_resolver/proxy_resolver_v8.h"
 
 #include <algorithm>

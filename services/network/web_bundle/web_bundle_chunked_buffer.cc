@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBundleChunkedBuffer implementation
+// summary: Implements a chunked buffer that stores appended bytes as ref-counted chunks and serves them through a Mojo data pipe data source.
+// ---
+
 
 #include "services/network/web_bundle/web_bundle_chunked_buffer.h"
 
