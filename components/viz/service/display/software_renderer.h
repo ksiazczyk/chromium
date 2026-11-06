@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareRenderer class declaration for software frame drawing
+// summary: Declares the SoftwareRenderer DirectRenderer subclass that paints aggregated frames via a SoftwareOutputDevice, with quad drawing and render pass bitmap backing.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_SOFTWARE_RENDERER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_SOFTWARE_RENDERER_H_
 

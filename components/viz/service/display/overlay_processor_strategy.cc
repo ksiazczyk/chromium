@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay processor strategy defaults
+// summary: Implements default behavior of the OverlayProcessorStrategy interface, such as keeping the output surface off the overlay path and reporting an unknown UMA overlay strategy.
+// ---
+
 #include "components/viz/service/display/overlay_processor_strategy.h"
 
 #include "components/viz/common/display/overlay_strategy.h"

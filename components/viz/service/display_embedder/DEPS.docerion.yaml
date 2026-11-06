@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for display_embedder
+summary: Defines allowed include dependencies for the display_embedder directory, with extra rules for unit test files.

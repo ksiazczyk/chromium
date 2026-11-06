@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolved frame data implementation
+// summary: Implements per-quad and per-pass data structures that track render passes, resources, and aggregation state for resolved frames.
+// ---
+
 #include "components/viz/service/display/resolved_frame_data.h"
 
 #include <set>

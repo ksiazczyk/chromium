@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated overlay promotion support
+// summary: Implements TryPromoteDrawQuadForDelegation, which attempts to turn draw quads into overlay candidates for delegated compositing and maps failures to delegation statuses.
+// ---
+
 #include "components/viz/service/display/overlay_processor_delegated_support.h"
 
 #include "base/metrics/histogram_macros.h"

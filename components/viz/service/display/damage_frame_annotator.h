@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage frame annotator interface
+// summary: Declares the DamageFrameAnnotator, a SurfaceAggregator frame annotator that draws a red outline around the root render pass damage rect.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DAMAGE_FRAME_ANNOTATOR_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DAMAGE_FRAME_ANNOTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz pixel test base class declaration
+// summary: Declares VizPixelTest and VizPixelTestWithParam base classes for running pixel tests across different renderer and graphics backend types.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_VIZ_PIXEL_TEST_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_VIZ_PIXEL_TEST_H_
 

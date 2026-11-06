@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputDeviceDawn implementation
+// summary: Implements the Dawn/WebGPU-based Skia output device, including a swap chain variant that presents via wgpu::Surface with platform handling for Windows and Android.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_dawn.h"
 
 #include <utility>

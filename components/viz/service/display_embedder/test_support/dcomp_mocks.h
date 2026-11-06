@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleMock mocks for DirectComposition COM interfaces
+// summary: Declares gmock-based mock classes for IDCompositionDevice, IDCompositionTarget and IDCompositionVisual to stub DirectComposition calls in tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_TEST_SUPPORT_DCOMP_MOCKS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_TEST_SUPPORT_DCOMP_MOCKS_H_
 

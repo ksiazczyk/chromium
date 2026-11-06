@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame interval matcher implementation
+// summary: Implements FrameIntervalMatcher logic, including common cadence computation for fixed intervals and content interval type matching.
+// ---
+
 #include "components/viz/service/display/frame_interval_matchers.h"
 
 #include <algorithm>

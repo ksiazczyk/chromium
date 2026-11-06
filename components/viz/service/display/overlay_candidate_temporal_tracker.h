@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay candidate temporal tracker class declaration
+// summary: Declares OverlayCandidateTemporalTracker, a class that temporally tracks overlay candidate properties to estimate power gains from promoting candidates to overlays.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_CANDIDATE_TEMPORAL_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_CANDIDATE_TEMPORAL_TRACKER_H_
 

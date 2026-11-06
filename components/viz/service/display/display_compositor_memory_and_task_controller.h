@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display compositor controller class
+// summary: Declares a controller that owns GPU task sequencing and memory tracking for the display compositor, used only for GPU compositing.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_COMPOSITOR_MEMORY_AND_TASK_CONTROLLER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_COMPOSITOR_MEMORY_AND_TASK_CONTROLLER_H_
 

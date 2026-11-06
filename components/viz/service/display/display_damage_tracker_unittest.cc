@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display damage tracker unit tests
+// summary: Unit tests for DisplayDamageTracker covering root surface damage, pending surfaces, and begin frame acknowledgments using fake frame sinks and compositor frame helpers.
+// ---
+
 #include "components/viz/service/display/display_damage_tracker.h"
 
 #include <utility>

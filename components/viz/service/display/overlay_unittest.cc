@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay processor unit tests
+// summary: Unit tests covering viz overlay strategies, candidate proposal and processing across display sizes, features and renderer configurations.
+// ---
+
 #include <stddef.h>
 
 #include <array>

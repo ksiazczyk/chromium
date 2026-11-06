@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software renderer unit tests
+// summary: Unit tests for the viz software renderer that compare rendered output, including debug borders and copy requests, against expected images.
+// ---
+
 #include "components/viz/service/display/software_renderer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated ink point pixel test helper implementation
+// summary: Implements a helper that creates and sends delegated ink points and metadata to a direct renderer for use in pixel tests.
+// ---
+
 #include "components/viz/service/display/delegated_ink_point_pixel_test_helper.h"
 
 #include <memory>

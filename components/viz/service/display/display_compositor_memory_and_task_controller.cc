@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display compositor controller implementation
+// summary: Implements DisplayCompositorMemoryAndTaskController, scheduling initialization and destruction of the on-GPU compositor controller on the GPU task sequence.
+// ---
+
 #include "components/viz/service/display/display_compositor_memory_and_task_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display utilities header
+// summary: Declares the exported IsScroll helper that reports whether a vector of latency info entries contains scroll update components.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_UTILS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_UTILS_H_
 

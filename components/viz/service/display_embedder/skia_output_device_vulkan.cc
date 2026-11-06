@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan Skia output device implementation
+// summary: Implements the Vulkan-backed Skia output device, managing Vulkan surfaces, swap chains, and Skia surfaces for presenting frames on Vulkan.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_vulkan.h"
 
 #include <utility>

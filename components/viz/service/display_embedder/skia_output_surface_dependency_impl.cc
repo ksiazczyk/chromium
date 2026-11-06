@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output surface dependency implementation
+// summary: Implements SkiaOutputSurfaceDependency on top of GpuServiceImpl, providing task sequences, context providers and GL surface or presenter creation.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_dependency_impl.h"
 
 #include <memory>

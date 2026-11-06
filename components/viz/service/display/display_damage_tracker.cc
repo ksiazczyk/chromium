@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display damage tracker implementation
+// summary: Implements tracking of surface damage for a Display, including root surface changes, resize handling, begin frame acknowledgments, and input latency timestamps.
+// ---
+
 #include "components/viz/service/display/display_damage_tracker.h"
 
 #include "base/observer_list.h"

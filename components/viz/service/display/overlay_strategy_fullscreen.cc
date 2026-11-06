@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen overlay strategy implementation
+// summary: Implements the fullscreen overlay strategy that promotes a single quad covering the whole display to an overlay, accounting for rounded display masks.
+// ---
+
 #include "components/viz/service/display/overlay_strategy_fullscreen.h"
 
 #include <vector>

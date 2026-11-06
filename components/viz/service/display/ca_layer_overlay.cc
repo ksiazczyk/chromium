@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core Animation layer overlay processor implementation
+// summary: Implements the CALayerOverlayProcessor that promotes render pass quads to Core Animation layers on macOS, applying layer limits and validation rules.
+// ---
+
 #include "components/viz/service/display/ca_layer_overlay.h"
 
 #include <algorithm>

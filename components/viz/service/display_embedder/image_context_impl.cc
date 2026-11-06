@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageContextImpl implementation
+// summary: Implements image context handling for Skia output surfaces, including fallback image creation and YCbCr Vulkan descriptor compatibility checks.
+// ---
+
 #include "components/viz/service/display_embedder/image_context_impl.h"
 
 #include <utility>

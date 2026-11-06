@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionCuller implementation
+// summary: Implements removal of overdraw quads from aggregated frames by computing occluding regions, including handling of rounded corners and axis-aligned transforms.
+// ---
+
 #include "components/viz/service/display/occlusion_culler.h"
 
 #include <algorithm>

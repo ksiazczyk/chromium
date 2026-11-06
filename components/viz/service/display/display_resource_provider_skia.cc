@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia renderer display resource provider implementation
+// summary: Implements DisplayResourceProviderSkia, handling deletion and return of unused GPU resources, image contexts, SharedImages and release fences for the SkiaRenderer.
+// ---
+
 #include "components/viz/service/display/display_resource_provider_skia.h"
 
 #include <algorithm>

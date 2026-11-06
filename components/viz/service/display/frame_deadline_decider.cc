@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame deadline selection implementation
+// summary: Implements FrameDeadlineDecider logic that queries and selects frame presentation deadlines, including Android-specific strategies and metrics.
+// ---
+
 #include "components/viz/service/display/frame_deadline_decider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DXGI swap chain software output device
+// summary: Implements a Windows software output device that draws Skia content into a DXGI swap chain with a minimal DirectComposition tree, handling resize, device removal, and child window sizing.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_win_swapchain.h"
 
 #include <utility>

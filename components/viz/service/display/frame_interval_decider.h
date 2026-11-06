@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameIntervalDecider interface
+// summary: Declares FrameIntervalDecider, the replacement for FrameRateDecider that computes the ideal display frame interval using ordered matchers.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_INTERVAL_DECIDER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_INTERVAL_DECIDER_H_
 

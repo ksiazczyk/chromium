@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-on-top overlay strategy implementation
+// summary: Implements the single-on-top overlay strategy that proposes quads as overlays above the primary plane, including occlusion handling for rounded display masks.
+// ---
+
 #include "components/viz/service/display/overlay_strategy_single_on_top.h"
 
 #include <vector>

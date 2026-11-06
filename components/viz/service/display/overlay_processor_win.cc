@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows overlay processor implementation
+// summary: Implements the Windows overlay processor using DirectComposition layers, including hysteresis for enabling DC layers and quad limits for delegated compositing.
+// ---
+
 #include "components/viz/service/display/overlay_processor_win.h"
 
 #include <algorithm>

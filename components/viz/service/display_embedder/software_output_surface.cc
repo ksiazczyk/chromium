@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software output surface implementation
+// summary: Implements an OutputSurface that delegates to a SoftwareOutputDevice, handling buffer swaps, latency tracing, and vsync parameter updates.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_surface.h"
 
 #include <utility>

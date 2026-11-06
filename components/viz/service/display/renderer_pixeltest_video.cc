@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer video pixel test
+// summary: Pixel test checking renderer output for video frames, including Y16 texture quads, color spaces, and video resource updating.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

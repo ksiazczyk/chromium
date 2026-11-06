@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullRenderer implementation
+// summary: Implements the empty DirectRenderer used with OutputSurfaceUnified, which does not support drawing and crashes if SwapBuffers or BeginDrawingFrame is called.
+// ---
+
 #include "components/viz/service/display/null_renderer.h"
 
 #include "base/notreached.h"

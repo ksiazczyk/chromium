@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame interval decision implementation
+// summary: Implements FrameIntervalDecider, which aggregates drawn surfaces and applies matchers to decide the display frame interval.
+// ---
+
 #include "components/viz/service/display/frame_interval_decider.h"
 
 #include <inttypes.h>

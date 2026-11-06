@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone overlay processor unit tests
+// summary: Unit tests for the Ozone overlay processor using fake overlay candidates, fake native pixmaps, and a mocked pixmap provider.
+// ---
+
 #include "components/viz/service/display/overlay_processor_ozone.h"
 
 #include <utility>

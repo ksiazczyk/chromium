@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceControl overlay processor unit tests
+// summary: Unit tests verifying clipping, negative offsets, and display transform handling of overlay candidates in the SurfaceControl overlay processor.
+// ---
+
 #include "components/viz/service/display/overlay_processor_surface_control.h"
 
 #include <variant>

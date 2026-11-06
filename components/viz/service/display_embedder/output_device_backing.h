@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceBacking class header
+// summary: Declares OutputDeviceBacking, which allocates and owns a shared shared-memory backing plus D3D11 and DirectComposition resources for multiple software output devices.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_OUTPUT_DEVICE_BACKING_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_OUTPUT_DEVICE_BACKING_H_
 

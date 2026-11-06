@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionCuller class declaration
+// summary: Declares the OcclusionCuller, which removes overdraw quads from an AggregatedFrame using overlay processor and resource provider information.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OCCLUSION_CULLER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OCCLUSION_CULLER_H_
 

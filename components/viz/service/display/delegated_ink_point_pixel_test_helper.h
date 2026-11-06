@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated ink point pixel test helper class declaration
+// summary: Declares a helper class for pixel tests that feeds ink points and metadata to a renderer and computes ink damage rects.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_POINT_PIXEL_TEST_HELPER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_POINT_PIXEL_TEST_HELPER_H_
 

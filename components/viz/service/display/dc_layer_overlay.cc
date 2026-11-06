@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition layer overlay processor implementation
+// summary: Implements the DCLayerOverlayProcessor that promotes quads to DirectComposition overlays on Windows, validating YUV, HDR, and hardware overlay support.
+// ---
+
 #include "components/viz/service/display/dc_layer_overlay.h"
 
 #include <limits>

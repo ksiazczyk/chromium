@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceSharedImageInterface implementation
+// summary: Implements a SharedImageInterface wrapper around the Skia output surface that schedules GPU tasks and safely detaches the output surface on host and GPU threads.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_shared_image_interface.h"
 
 #include <cstddef>

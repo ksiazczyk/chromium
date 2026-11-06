@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BufferQueue unit tests
+// summary: Unit tests for BufferQueue covering buffer uniqueness, damage rects, swap completion, and reshape behavior using a fake Skia output surface.
+// ---
+
 #include "components/viz/service/display_embedder/buffer_queue.h"
 
 #include <stddef.h>

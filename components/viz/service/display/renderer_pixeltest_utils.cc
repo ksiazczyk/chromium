@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer pixel test utilities implementation
+// summary: Implements helpers for pixel tests that build render passes, shared quad states, and GPU or software resources for viz rendering tests.
+// ---
+
 #include "components/viz/service/display/renderer_pixeltest_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverdrawTracker unit tests
+// summary: Unit tests verifying overdraw estimation with transforms, clip rects and time-series recording behavior of the OverdrawTracker.
+// ---
+
 #include "components/viz/service/display/overdraw_tracker.h"
 
 #include <memory>

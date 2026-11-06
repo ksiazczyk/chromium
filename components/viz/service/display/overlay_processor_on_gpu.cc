@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU-side overlay processor implementation
+// summary: Implements scheduling of overlay candidates for presentation on the GPU thread, including Android overlay promotion notifications via shared images.
+// ---
+
 #include "components/viz/service/display/overlay_processor_on_gpu.h"
 
 #include "build/build_config.h"

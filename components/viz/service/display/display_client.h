@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayClient interface
+// summary: Defines the DisplayClient interface with callbacks for output surface loss, draw and swap events, CALayer params, swap completion, and wide color settings.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_CLIENT_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_CLIENT_H_
 

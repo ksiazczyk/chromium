@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceAggregator unit tests
+// summary: Extensive unit tests covering quad aggregation, render pass merging, damage rects, resource transfer, and surface lifecycle in SurfaceAggregator.
+// ---
+
 #include "components/viz/service/display/surface_aggregator.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows software output devices for direct and layered window drawing
+// summary: Implements Windows software output devices that draw directly to an HWND via shared memory backing or indirectly through a LayeredWindowUpdater Mojo proxy.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_win.h"
 
 #include <utility>

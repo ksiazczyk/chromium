@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output device for WebView
+// summary: Implements a Skia output device that draws into the backing framebuffer of a GL surface for WebView, covering surface initialization, reshape and buffer swapping.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_webview.h"
 
 #include <utility>

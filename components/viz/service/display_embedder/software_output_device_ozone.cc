@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software output device for Ozone software rendering
+// summary: Implements the Ozone software output device that draws through a SurfaceOzone canvas, presents damaged regions, and delegates buffer swaps to the platform.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_ozone.h"
 
 #include <memory>

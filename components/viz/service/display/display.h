@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display class and observer interface
+// summary: Declares the Display class, which produces a surface for drawing to a physical display, along with the DisplayObserver interface and scheduler and output surface integration hooks.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_H_
 

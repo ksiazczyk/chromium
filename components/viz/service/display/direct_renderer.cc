@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Direct renderer implementation
+// summary: Implements the renderer base shared by GL and software backends, handling frame drawing, render passes, and damage tracking.
+// ---
+
 #include "components/viz/service/display/direct_renderer.h"
 
 #include <limits.h>

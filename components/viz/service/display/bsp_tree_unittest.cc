@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BSP tree unit tests
+// summary: Verifies BSP tree polygon splitting, traversal ordering, and sidedness invariants across scenarios such as parallel quads without splits.
+// ---
+
 #include "components/viz/service/display/bsp_tree.h"
 
 #include <stddef.h>

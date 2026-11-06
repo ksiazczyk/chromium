@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputDeviceDawnD3D11BltMode implementation
+// summary: Implements the Windows D3D11 BitBlt-mode Dawn output device that presents directly into the browser window via a BitBlt swap chain without needing a child window.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_dawn_d3d11_blt_mode.h"
 
 #include <memory>

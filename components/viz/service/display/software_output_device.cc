@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareOutputDevice raster surface implementation
+// summary: 'Implements SoftwareOutputDevice basics: binding a client, resizing a raster SkSurface, providing a canvas for painting, and acknowledging swap buffers.'
+// ---
+
 #include "components/viz/service/display/software_output_device.h"
 
 #include <utility>

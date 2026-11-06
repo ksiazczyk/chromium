@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated ink handler implementation
+// summary: Implements the DelegatedInkHandler that stores either delegated ink metadata or a Skia ink renderer depending on platform support and feature flags.
+// ---
+
 #include "components/viz/service/display/delegated_ink_handler.h"
 
 #include <utility>

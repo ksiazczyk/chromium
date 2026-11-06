@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base implementation for Windows software output devices
+// summary: Implements shared resize, begin paint, and end paint flow with damage intersection for Windows software output device variants.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_win_base.h"
 
 #include <memory>

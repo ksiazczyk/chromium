@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorGpuThread implementation
+// summary: Implements the dedicated compositor GPU thread, including Vulkan and Dawn context provider setup and GL initialization.
+// ---
+
 #include "components/viz/service/display_embedder/compositor_gpu_thread.h"
 
 #include <utility>

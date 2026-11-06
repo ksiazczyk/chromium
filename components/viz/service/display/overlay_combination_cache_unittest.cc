@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay combination cache unit tests
+// summary: Unit tests for OverlayCombinationCache, verifying candidate combination selection, id mapping, power-sorted ordering, and promotion result handling.
+// ---
+
 #include <algorithm>
 #include <cstddef>
 #include <memory>

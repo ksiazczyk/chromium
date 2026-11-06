@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test for scaled copy output requests
+// summary: Parameterized pixel test verifying that copy output requests with scaling produce correct RGBA and I420 results against a rendered color block scene.
+// ---
+
 #include <stdint.h>
 
 #include <array>

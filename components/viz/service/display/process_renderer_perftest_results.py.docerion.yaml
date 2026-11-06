@@ -1,0 +1,4 @@
+# Docerion header of process_renderer_perftest_results.py.
+type: script
+title: RendererPerfTest results processing script
+summary: Parses RendererPerfTest stdout from viz_perftests and writes the collected FPS and draw-to-swap metrics into a CSV file.

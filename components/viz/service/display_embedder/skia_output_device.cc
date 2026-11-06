@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputDevice base implementation
+// summary: Implements the base SkiaOutputDevice class, including the ScopedPaint helper, swap latency reporting, and shared setup for Skia-based display output devices.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device.h"
 
 #include <algorithm>

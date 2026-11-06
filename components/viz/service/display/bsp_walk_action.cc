@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BSP walk action handlers
+// summary: Implements traversal callbacks that either draw polygons through a DirectRenderer or collect them into a list during BSP tree walks.
+// ---
+
 #include "components/viz/service/display/bsp_walk_action.h"
 
 #include <memory>

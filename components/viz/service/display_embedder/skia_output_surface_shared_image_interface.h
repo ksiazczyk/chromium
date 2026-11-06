@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceSharedImageInterface header
+// summary: Declares SkiaOutputSurfaceSharedImageInterface, a SharedImageInterfaceInProcessBase wrapper around the Skia output surface implementations for shared image creation.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_SURFACE_SHARED_IMAGE_INTERFACE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_SURFACE_SHARED_IMAGE_INTERFACE_H_
 

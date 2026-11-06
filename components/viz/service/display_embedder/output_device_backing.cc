@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputDeviceBacking implementation
+// summary: Implements shared memory backing for software output devices, sizing regions to the largest registered client viewport.
+// ---
+
 #include "components/viz/service/display_embedder/output_device_backing.h"
 
 #include <algorithm>

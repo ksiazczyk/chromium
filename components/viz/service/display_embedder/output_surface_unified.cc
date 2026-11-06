@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSurfaceUnified implementation
+// summary: Implements a stub OutputSurface for the Chrome OS unified desktop display that never draws or swaps buffers and always reports no display transform.
+// ---
+
 #include "components/viz/service/display_embedder/output_surface_unified.h"
 
 #include <memory>

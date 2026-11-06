@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BSP tree performance test
+// summary: Measures BSP tree construction time over polygons built from JSON layer tree test data and reports calc draw props timing metrics.
+// ---
+
 #include "components/viz/service/display/bsp_tree.h"
 
 #include <stddef.h>

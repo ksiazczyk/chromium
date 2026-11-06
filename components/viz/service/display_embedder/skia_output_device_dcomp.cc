@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition Skia output device implementation
+// summary: Implements the DirectComposition-backed Skia output device, including overlay texture handling, DC support level detection, and reshape failure loop checks.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_dcomp.h"
 
 #include <memory>

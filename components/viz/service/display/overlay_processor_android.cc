@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overlay processor implementation
+// summary: Implements OverlayProcessorAndroid, which supports fullscreen video underlays on Android and schedules GPU-side overlay processor initialization and teardown.
+// ---
+
 #include "components/viz/service/display/overlay_processor_android.h"
 
 #include <memory>

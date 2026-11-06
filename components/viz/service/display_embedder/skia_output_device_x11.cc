@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output device for X11 windows
+// summary: Implements an offscreen Skia output device that presents composited frames to X11 windows by copying pixels through the X11 connection.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_x11.h"
 
 #include <utility>

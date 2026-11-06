@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz performance test helpers
+// summary: Implements loading of render pass frame data from JSON test files and the VizPerfTest base class with a configurable lap timer.
+// ---
+
 #include "components/viz/service/display/viz_perftest.h"
 
 #include "base/command_line.h"

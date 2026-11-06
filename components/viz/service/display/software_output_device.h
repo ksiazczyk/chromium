@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareOutputDevice interface for software drawing support
+// summary: Declares the SoftwareOutputDevice tear-off class that provides software drawing support to OutputSurface, including resize, paint, backbuffer, vsync, and swap callbacks.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_SOFTWARE_OUTPUT_DEVICE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_SOFTWARE_OUTPUT_DEVICE_H_
 

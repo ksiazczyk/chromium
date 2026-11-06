@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame interval matchers declarations
+// summary: Declares FrameIntervalMatcher and scenario-specific matchers that work with FrameIntervalDecider to compute the ideal display frame interval for fixed or continuous interval settings.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_INTERVAL_MATCHERS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_INTERVAL_MATCHERS_H_
 

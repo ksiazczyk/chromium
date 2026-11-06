@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia delegated ink point renderer class declaration
+// summary: Declares the Skia renderer that filters and predicts ink points, builds the trail path, and tracks old and new damage rects.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_POINT_RENDERER_SKIA_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_POINT_RENDERER_SKIA_H_
 

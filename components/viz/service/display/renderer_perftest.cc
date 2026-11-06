@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer performance tests
+// summary: Performance test measuring frames per second from compositor draw start to swap buffers on the GPU main thread.
+// ---
+
 
 #include <array>
 

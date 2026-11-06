@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated ink point renderer base implementation
+// summary: Implements the base class that binds the Mojo ink pipeline, stores metadata, matches pointer IDs, and filters stored ink points.
+// ---
+
 #include "components/viz/service/display/delegated_ink_point_renderer_base.h"
 
 #include <algorithm>

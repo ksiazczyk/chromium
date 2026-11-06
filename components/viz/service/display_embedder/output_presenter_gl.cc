@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL output presenter implementation
+// summary: Implements OutputPresenterGL, delegating reshape, present, and overlay scheduling to a gl::Presenter while populating output surface capabilities and color formats.
+// ---
+
 #include "components/viz/service/display_embedder/output_presenter_gl.h"
 
 #include <memory>

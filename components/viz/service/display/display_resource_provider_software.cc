@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software renderer display resource provider implementation
+// summary: Implements DisplayResourceProviderSoftware, producing SharedImage memory representations and managing read locks and resource returns for the SoftwareRenderer.
+// ---
+
 #include "components/viz/service/display/display_resource_provider_software.h"
 
 #include <memory>

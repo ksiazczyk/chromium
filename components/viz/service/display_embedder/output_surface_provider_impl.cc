@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output surface provider implementation
+// summary: Implements OutputSurfaceProviderImpl, creating software or Skia output surfaces with platform-specific software output devices for Windows, Mac, Ozone, and ChromeOS.
+// ---
+
 #include "components/viz/service/display_embedder/output_surface_provider_impl.h"
 
 #include <memory>

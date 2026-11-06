@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverdrawTracker implementation
+// summary: Implements overdraw estimation for aggregated frames, recording per-interval averages and logging average overdraw as a UMA histogram metric.
+// ---
+
 #include "components/viz/service/display/overdraw_tracker.h"
 
 #include <algorithm>

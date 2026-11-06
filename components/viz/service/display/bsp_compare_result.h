@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BspCompareResult enum
+// summary: Defines an enum describing whether a polygon lies in front of, behind, split by, or coplanar with a BSP splitting plane.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_COMPARE_RESULT_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_COMPARE_RESULT_H_
 

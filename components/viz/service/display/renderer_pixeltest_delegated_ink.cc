@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated ink pixel tests
+// summary: Pixel tests for delegated ink trail rendering, checking trail drawing, erasing and damage rect expansion with and without prediction.
+// ---
+
 #include <memory>
 #include <vector>
 

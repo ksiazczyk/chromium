@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayResourceProviderSoftware unit tests
+// summary: Unit tests for DisplayResourceProviderSoftware covering allocation, mapping, locking and release of software SharedImage resources with a GPU service test harness.
+// ---
+
 #include "components/viz/service/display/display_resource_provider_software.h"
 
 #include <stddef.h>

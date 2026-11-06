@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia renderer display resource provider class
+// summary: Declares DisplayResourceProviderSkia with lock helpers for external Skia use, exclusive SharedImage read locks and GPU fence setters used with SkiaRenderer.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_SKIA_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_SKIA_H_
 

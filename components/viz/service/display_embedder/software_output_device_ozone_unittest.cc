@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ozone software output device
+// summary: Tests resize behavior and canvas presentation of SoftwareOutputDeviceOzone using a mock SurfaceOzoneCanvas test double.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_ozone.h"
 
 #include <memory>

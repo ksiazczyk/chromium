@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the display directory
+summary: Defines allowed include dependencies for the viz display compositor directory, with specific exceptions for overlay code and test files.

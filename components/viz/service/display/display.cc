@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display implementation for the viz compositor
+// summary: Implements the Display class that aggregates surfaces and drives drawing and swapping to a physical output surface, coordinating schedulers, renderers, and resource providers.
+// ---
+
 #include "components/viz/service/display/display.h"
 
 #include <stddef.h>

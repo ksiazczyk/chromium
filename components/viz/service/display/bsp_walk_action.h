@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BSP walk action interfaces for drawing polygons during tree traversal
+// summary: Defines action callbacks used when walking a BSP tree, either drawing polygons through a DirectRenderer or collecting them into a vector.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_WALK_ACTION_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_WALK_ACTION_H_
 

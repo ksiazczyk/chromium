@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia delegated ink point renderer implementation
+// summary: Implements drawing of delegated ink trails with Skia, covering path finalization, damage rects, and latency histograms.
+// ---
+
 #include "components/viz/service/display/delegated_ink_point_renderer_skia.h"
 
 #include "base/metrics/histogram_macros.h"

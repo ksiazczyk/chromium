@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows swap chain output device unit tests
+// summary: Unit tests for SoftwareOutputDeviceWinSwapChain using D3D11, DXGI, and DirectComposition mocks to verify resize, painting, and swap chain behavior.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_win_swapchain.h"
 
 #include <windows.h>

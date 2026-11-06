@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software output device for macOS software compositing
+// summary: Implements the macOS software output device, managing a queue of IOSurface paint buffers and copying accumulated damage between buffers during painting.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_mac.h"
 
 #include <memory>

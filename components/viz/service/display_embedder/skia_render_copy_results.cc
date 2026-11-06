@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia render copy results implementation
+// summary: Implements classes for servicing copy output requests from SkiaOutputSurfaceImplOnGpu, including async read result locking and RGBA copy output results.
+// ---
+
 #include "components/viz/service/display_embedder/skia_render_copy_results.h"
 
 #include <memory>

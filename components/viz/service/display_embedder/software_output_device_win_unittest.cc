@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows software output device proxy unit tests
+// summary: Unit tests for SoftwareOutputDeviceWinProxy verifying shared memory allocation on resize and the Draw IPC flow with swap buffer callbacks.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_device_win.h"
 
 #include "base/memory/unsafe_shared_memory_region.h"

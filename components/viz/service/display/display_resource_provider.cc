@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display resource provider implementation
+// summary: Implements DisplayResourceProvider, managing compositor resources with memory dumping, child provider destruction, and shared image tracing.
+// ---
+
 #include "components/viz/service/display/display_resource_provider.h"
 
 #include <algorithm>

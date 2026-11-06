@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderPassAlphaType enum
+// summary: Defines the RenderPassAlphaType enum with premultiplied and opaque alpha types used when drawing and compositing render passes.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_RENDER_PASS_ALPHA_TYPE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_RENDER_PASS_ALPHA_TYPE_H_
 

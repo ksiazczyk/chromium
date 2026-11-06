@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated ink trail data implementation
+// summary: Implements per-pointer ink point storage with linear resampling prediction, point pruning, and prediction metrics.
+// ---
+
 #include "components/viz/service/display/delegated_ink_trail_data.h"
 
 #include <string>
