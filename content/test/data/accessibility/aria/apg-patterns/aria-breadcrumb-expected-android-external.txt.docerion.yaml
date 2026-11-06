@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the breadcrumb pattern
+summary: Expected Android accessibility tree snapshot in external format for the breadcrumb test page, including chromeRole bundle details for links and list items.

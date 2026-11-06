@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the carousel tabs pattern
+summary: Expected Android accessibility tree snapshot for the ARIA carousel tabs test page, covering the tab list and slide panels.

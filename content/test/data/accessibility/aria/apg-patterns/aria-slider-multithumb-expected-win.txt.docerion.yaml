@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-multithumb-expected-win.txt.
+type: test
+title: Multithumb slider expected Windows tree
+summary: Expected Windows IA2 accessibility tree snapshot for the multithumb slider ARIA APG pattern test page.

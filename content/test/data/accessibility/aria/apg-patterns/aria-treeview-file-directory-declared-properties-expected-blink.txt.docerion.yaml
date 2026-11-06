@@ -1,0 +1,4 @@
+# Docerion header of aria-treeview-file-directory-declared-properties-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for treeview declared properties
+summary: Expected Blink accessibility tree snapshot for the treeview file directory example using declared ARIA properties.

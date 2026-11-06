@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb.html.
+type: test
+title: ARIA breadcrumb pattern test page
+summary: HTML test page based on the W3C ARIA breadcrumb pattern example, providing a breadcrumb navigation for accessibility tree tests.

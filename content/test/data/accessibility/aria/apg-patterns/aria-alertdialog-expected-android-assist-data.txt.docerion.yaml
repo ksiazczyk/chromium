@@ -1,0 +1,4 @@
+# Docerion header of aria-alertdialog-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for alert dialog APG pattern
+summary: Expected Android assist data snapshot for the alert dialog ARIA APG pattern test page, used to verify the alertdialog role mapping.

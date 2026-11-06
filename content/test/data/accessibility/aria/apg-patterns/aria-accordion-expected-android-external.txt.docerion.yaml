@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for accordion APG pattern
+summary: Expected Android accessibility tree in external format for the accordion ARIA APG pattern test page, listing roles, actions and bundle data per node.

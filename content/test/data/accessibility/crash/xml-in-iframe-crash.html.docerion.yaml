@@ -1,0 +1,4 @@
+# Docerion header of xml-in-iframe-crash.html.
+type: test
+title: XML in iframe crash test
+summary: Test page that loads an XML document in an iframe to verify the accessibility handling of XML content does not crash.

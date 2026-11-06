@@ -1,0 +1,4 @@
+# Docerion header of rt-in-select-crash.html.
+type: test
+title: rt element inside select crash test
+summary: Minimal test page placing an rt element inside a select element to check that loading it does not crash the renderer.

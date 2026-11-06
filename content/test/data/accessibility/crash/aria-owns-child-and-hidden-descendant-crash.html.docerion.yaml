@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-child-and-hidden-descendant-crash.html.
+type: test
+title: aria-owns child and hidden descendant crash test
+summary: Test page that sets aria-owns on a div to a child and a hidden great-grandchild to exercise accessibility tree ownership edge cases.

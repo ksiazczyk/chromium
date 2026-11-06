@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-grouped-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for grouped ARIA listbox
+summary: Expected Android accessibility tree in the external format for the grouped ARIA listbox test page, showing Land and Water groups with options like Cat and Dolphin.

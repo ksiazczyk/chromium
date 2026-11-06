@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-vertical.html.
+type: test
+title: ARIA vertical slider APG pattern test page
+summary: HTML test page implementing the W3C ARIA slider pattern temperature example as a vertical SVG slider for accessibility testing.

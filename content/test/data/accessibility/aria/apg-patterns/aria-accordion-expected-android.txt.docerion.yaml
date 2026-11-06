@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for accordion APG pattern
+summary: Expected Android accessibility tree snapshot for the accordion ARIA APG pattern test page, used to verify rendered roles, states and properties.

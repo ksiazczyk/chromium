@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the carousel tabs pattern
+summary: Expected Android accessibility tree in external format, with actions and bundles, for the ARIA carousel tabs test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-alertdialog-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for alert dialog APG pattern
+summary: Expected Android accessibility tree in external format for the alert dialog ARIA APG pattern test page, listing roles, hints and actions.

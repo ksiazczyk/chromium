@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the breadcrumb pattern
+summary: Expected Android accessibility tree snapshot for the breadcrumb test page, describing the navigation list, list markers and links.

@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the carousel tabs pattern
+summary: Expected macOS AX accessibility tree snapshot for the ARIA carousel tabs test page, covering the tab group and slide panels.

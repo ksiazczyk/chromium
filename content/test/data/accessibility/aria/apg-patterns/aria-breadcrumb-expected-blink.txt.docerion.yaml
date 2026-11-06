@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the breadcrumb pattern
+summary: Expected Blink accessibility tree snapshot for the breadcrumb test page, listing navigation, list items and links.

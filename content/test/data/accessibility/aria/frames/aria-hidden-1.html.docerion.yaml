@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-1.html.
+type: test
+title: ARIA-hidden contenteditable frame fixture 1
+summary: Test fixture page with a contenteditable body marked aria-hidden, used in accessibility tests for hidden editable content.

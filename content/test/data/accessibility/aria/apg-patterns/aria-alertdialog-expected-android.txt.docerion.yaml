@@ -1,0 +1,4 @@
+# Docerion header of aria-alertdialog-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for alert dialog APG pattern
+summary: Expected Android accessibility tree snapshot for the alert dialog ARIA APG pattern test page, used to verify rendered roles and states.

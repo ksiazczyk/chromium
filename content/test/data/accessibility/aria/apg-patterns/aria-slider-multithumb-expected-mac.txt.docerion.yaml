@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-multithumb-expected-mac.txt.
+type: test
+title: Multithumb slider expected macOS tree
+summary: Expected macOS accessibility tree snapshot for the multithumb slider ARIA APG pattern test page.

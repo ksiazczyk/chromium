@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for accordion APG pattern
+summary: Expected Windows IA2 accessibility tree snapshot for the accordion ARIA APG pattern test page, used to verify rendered roles and states.

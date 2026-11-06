@@ -1,0 +1,4 @@
+# Docerion header of aria-treeview-file-directory-declared-properties-expected-android.txt.
+type: test
+title: Expected Android snapshot for treeview declared properties
+summary: Expected Android accessibility snapshot for the treeview file directory example using declared ARIA properties.

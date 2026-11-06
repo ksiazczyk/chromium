@@ -1,0 +1,4 @@
+# Docerion header of aria-quantity-spinbutton-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for ARIA quantity spinbutton test
+summary: Expected macOS AX accessibility tree snapshot for the ARIA quantity spinbutton pattern test page.

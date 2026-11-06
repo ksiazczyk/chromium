@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ARIA carousel tabs
+summary: Expected Windows accessibility tree for the ARIA carousel tabs test page, listing roles such as pushbutton, pagetab, and property page for the slide show controls.

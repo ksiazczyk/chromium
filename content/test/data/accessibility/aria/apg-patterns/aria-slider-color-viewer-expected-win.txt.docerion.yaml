@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-color-viewer-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ARIA color viewer slider test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the ARIA color viewer slider pattern test page.

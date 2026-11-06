@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-buttons-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the carousel buttons pattern
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the ARIA carousel buttons test page.

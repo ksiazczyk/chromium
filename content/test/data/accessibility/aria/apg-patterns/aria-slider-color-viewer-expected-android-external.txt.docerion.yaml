@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-color-viewer-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for ARIA color viewer slider test
+summary: Expected Android accessibility tree snapshot with external action and bundle details for the ARIA color viewer slider test.

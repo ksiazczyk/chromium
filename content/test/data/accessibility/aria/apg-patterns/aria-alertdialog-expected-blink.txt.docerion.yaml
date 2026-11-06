@@ -1,0 +1,4 @@
+# Docerion header of aria-alertdialog-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the alert dialog pattern
+summary: Expected Blink accessibility tree snapshot for the alert dialog test page, listing roles and names such as the Confirmation alert dialog heading and text.

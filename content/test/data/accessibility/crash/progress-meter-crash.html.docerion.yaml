@@ -1,0 +1,4 @@
+# Docerion header of progress-meter-crash.html.
+type: test
+title: Progress meter aria-owns crash test
+summary: Test page that sets aria-owns on a div pointing to an element inside a progress meter to verify the accessibility tree handles it without crashing.

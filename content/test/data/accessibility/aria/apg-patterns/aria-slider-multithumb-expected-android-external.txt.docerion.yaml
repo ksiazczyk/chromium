@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-multithumb-expected-android-external.txt.
+type: test
+title: Multithumb slider expected Android external tree
+summary: Expected external Android accessibility tree snapshot for the multithumb slider ARIA APG pattern test page.

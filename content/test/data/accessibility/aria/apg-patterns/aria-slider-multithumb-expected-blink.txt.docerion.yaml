@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-multithumb-expected-blink.txt.
+type: test
+title: Multithumb slider expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the multithumb slider ARIA APG pattern test page.

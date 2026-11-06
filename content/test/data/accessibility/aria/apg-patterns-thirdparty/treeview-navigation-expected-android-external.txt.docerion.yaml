@@ -1,0 +1,4 @@
+# Docerion header of treeview-navigation-expected-android-external.txt.
+type: test
+title: Treeview navigation expected accessibility tree for Android (external)
+summary: Expected Android accessibility tree snapshot in the external dump format for the navigation treeview example, used as a test expectation.

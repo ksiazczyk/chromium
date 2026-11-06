@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-grouped-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for grouped ARIA listbox
+summary: Expected Windows accessibility tree for the grouped ARIA listbox test page, with list groupings for Land and Water and list items for each option.

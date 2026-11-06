@@ -1,0 +1,4 @@
+# Docerion header of aria-quantity-spinbutton-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA quantity spinbutton test
+summary: Expected Blink accessibility tree snapshot for the ARIA quantity spinbutton pattern test page.

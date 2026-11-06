@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-grouped-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for grouped ARIA listbox
+summary: Expected macOS accessibility tree for the grouped ARIA listbox test page, with an AXList containing AXApplicationGroup sections for Land and Water.

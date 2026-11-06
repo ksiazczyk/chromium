@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs.html.
+type: test
+title: ARIA carousel tabs test page
+summary: HTML snippet based on the W3C ARIA carousel with tablist slide-control pattern, used as input for accessibility tree tests with two slides and pause controls.
