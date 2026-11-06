@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HWND frame thickness metrics
+// summary: Declares helpers that compute the resizable window frame thickness in pixels or DIP for a monitor, window handle, or screen rectangle.
+// ---
+
 #ifndef UI_BASE_WIN_HWND_METRICS_H_
 #define UI_BASE_WIN_HWND_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power setting change observer implementation
+// summary: Implements a singleton observer that translates Windows WM_POWERBROADCAST messages into display state, suspend and resume notifications for registered listeners.
+// ---
+
 #include "ui/base/win/power_setting_change_listener.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Least squares predictor implementation
+// summary: Implements an input predictor that fits a least-squares quadratic to recent points to predict future coordinates.
+// ---
+
 #include "ui/base/prediction/least_squares_predictor.h"
 
 #include <algorithm>

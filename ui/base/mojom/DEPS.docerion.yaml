@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/base mojom
+summary: Restricts allowed includes in this directory to Mojo bindings headers and the Blink clipboard mojom shared header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android pointer device implementation
+// summary: Implements pointer device queries on Android via JNI calls to the Java TouchDevice API, preferring fine pointers in desktop mode.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image model implementation
+// summary: Implements ImageModel and VectorIconModel, including factory functions for vector icons, images, resource ids, and image generators.
+// ---
+
 #include "ui/base/models/image_model.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows pointer device implementation
+// summary: Windows implementation detecting touch, mouse and pointer devices through system metrics and Win32 pointer APIs.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include <windows.h>

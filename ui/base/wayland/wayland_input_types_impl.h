@@ -6,6 +6,12 @@
 // in order to share the mapping rules.
 // So please do not use in other places.
 
+// ---docerion
+// type: source
+// title: Shared macro mappings for Wayland text input types
+// summary: Defines macro lists and inline helpers shared by the client and server converters to map text input types, modes and flags.
+// ---
+
 #ifndef UI_BASE_WAYLAND_WAYLAND_INPUT_TYPES_IMPL_H_
 #define UI_BASE_WAYLAND_WAYLAND_INPUT_TYPES_IMPL_H_
 

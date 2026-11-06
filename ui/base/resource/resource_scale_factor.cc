@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource scale factor implementation
+// summary: Implements tracking of supported resource scale factors plus scale selection, fallback and maximum scale queries.
+// ---
+
 #include "ui/base/resource/resource_scale_factor.h"
 
 #include <algorithm>

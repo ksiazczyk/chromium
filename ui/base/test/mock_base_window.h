@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock mock of ui::BaseWindow
+// summary: Defines a GoogleMock mock of BaseWindow with mocked methods for window state, bounds, visibility, z-order and window actions for use in tests.
+// ---
+
 #ifndef UI_BASE_TEST_MOCK_BASE_WINDOW_H_
 #define UI_BASE_TEST_MOCK_BASE_WINDOW_H_
 

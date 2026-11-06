@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HWND subclass unit tests
+// summary: Unit tests verifying that message filters receive window messages, can consume them, handle multiple filters, and can be removed.
+// ---
+
 #include "ui/base/win/hwnd_subclass.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

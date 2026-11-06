@@ -1,0 +1,4 @@
+# Docerion header of ui_base_test_resources.grd.
+type: data
+title: UI base test resources definition
+summary: GRIT resource file defining test-only string messages with placeholders used by ui_base resource tests.

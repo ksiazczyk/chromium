@@ -1,3 +1,9 @@
+---
+type: readme
+title: ui/base/prediction overview
+summary: Describes the general purpose input predictors in ui/base/prediction, points to scroll predictor usage, and explains how predictor metrics are logged.
+---
+
 #ui/base/prediction
 This directory implements general purpose predictors.
 

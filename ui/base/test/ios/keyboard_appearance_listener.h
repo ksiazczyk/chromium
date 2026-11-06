@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard appearance listener header
+// summary: Declares an Objective-C class that exposes whether the iOS keyboard is currently visible.
+// ---
+
 #ifndef UI_BASE_TEST_IOS_KEYBOARD_APPEARANCE_LISTENER_H_
 #define UI_BASE_TEST_IOS_KEYBOARD_APPEARANCE_LISTENER_H_
 

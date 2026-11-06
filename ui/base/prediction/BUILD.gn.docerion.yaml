@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prediction component build file
+summary: Defines the GN build target for the ui/base/prediction component, listing predictor and filter sources, defines, and dependencies.

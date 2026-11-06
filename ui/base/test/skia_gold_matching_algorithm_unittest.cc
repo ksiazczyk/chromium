@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold matching algorithm unit tests
+// summary: Unit tests verifying that each Skia Gold matching algorithm appends the expected command-line switches and rejects invalid parameters.
+// ---
+
 #include "ui/base/test/skia_gold_matching_algorithm.h"
 
 #include "base/command_line.h"

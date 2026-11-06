@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of UnownedUserDataHost
+// summary: Implements UnownedUserDataHost set, erase, and get operations with checks that entries are unique and removed before host destruction.
+// ---
+
 #include "ui/base/unowned_user_data/unowned_user_data_host.h"
 
 #include "base/check.h"

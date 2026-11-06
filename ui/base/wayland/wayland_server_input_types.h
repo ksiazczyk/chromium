@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server input type conversion helpers
+// summary: Declares functions that convert zcr_extended_text_input protocol input type, mode, and flags into Chromium's TextInputType, TextInputMode, and TextInputFlags for the compositor side.
+// ---
+
 #ifndef UI_BASE_WAYLAND_WAYLAND_SERVER_INPUT_TYPES_H_
 #define UI_BASE_WAYLAND_WAYLAND_SERVER_INPUT_TYPES_H_
 

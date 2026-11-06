@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Prediction directory include rules
+summary: Specifies allowed include dependencies for the prediction directory, permitting third_party/one_euro_filter/src.

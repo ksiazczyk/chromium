@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog model menu model adapter unit tests
+// summary: Verifies that the adapter reports the correct element identifiers for dialog model menu items.
+// ---
+
 #include "ui/base/models/dialog_model_menu_model_adapter.h"
 
 #include <memory>

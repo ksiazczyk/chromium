@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceBundle unit tests
+// summary: Unit tests for ResourceBundle covering data pack loading, image retrieval, PNG scale chunks, locale handling and Lottie assets.
+// ---
+
 #include "ui/base/resource/resource_bundle.h"
 
 #include <stddef.h>

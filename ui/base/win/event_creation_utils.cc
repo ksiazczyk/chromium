@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic mouse event sending implementation
+// summary: Implements SendMouseEvent by injecting absolute-coordinate mouse input through the Windows SendInput API.
+// ---
+
 #include "ui/base/win/event_creation_utils.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of view_tree_validator.mm.
+type: test
+title: View tree validator implementation for macOS views
+summary: Implements macOS view tree validation that detects subviews outside their parent bounds and overlapping views that contain text.

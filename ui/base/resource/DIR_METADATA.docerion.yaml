@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Maps the resource directory to Monorail and Buganizer components for issue tracking and triage.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake NSWindow fullscreen test helper
+// summary: Declares ScopedFakeNSWindowFullscreen, a scoped helper that simulates fullscreen transitions on NSWindows so tests avoid flaky OS fullscreen behavior.
+// ---
+
 #ifndef UI_BASE_TEST_SCOPED_FAKE_NSWINDOW_FULLSCREEN_H_
 #define UI_BASE_TEST_SCOPED_FAKE_NSWINDOW_FULLSCREEN_H_
 

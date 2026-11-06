@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeModel interface
+// summary: Declares the TreeModel and TreeModelNode interfaces used by TreeView, together with a TreeModelObserver for node addition, removal, and change notifications.
+// ---
+
 #ifndef UI_BASE_MODELS_TREE_MODEL_H_
 #define UI_BASE_MODELS_TREE_MODEL_H_
 

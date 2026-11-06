@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer device unit tests
+// summary: Unit tests for pointer and hover type queries, including Android-specific primary hover type behavior.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmptyFilter unit tests
+// summary: Unit tests verifying that the EmptyFilter returns exactly the same coordinates it receives for random points.
+// ---
+
 #include "ui/base/prediction/empty_filter.h"
 
 #include "base/rand_util.h"

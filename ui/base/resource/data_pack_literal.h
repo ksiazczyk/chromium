@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample .pak byte array declarations
+// summary: Declares extern constants for sample, compressed, empty, and corrupt .pak contents and sizes shared by DataPack tests.
+// ---
+
 #ifndef UI_BASE_RESOURCE_DATA_PACK_LITERAL_H_
 #define UI_BASE_RESOURCE_DATA_PACK_LITERAL_H_
 

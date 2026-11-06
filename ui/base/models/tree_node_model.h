@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeNode and TreeNodeModel templates
+// summary: Defines TreeNode and TreeNodeWithValue node classes that own their children, plus TreeNodeModel, a standard TreeModel implementation with observer notification.
+// ---
+
 #ifndef UI_BASE_MODELS_TREE_NODE_MODEL_H_
 #define UI_BASE_MODELS_TREE_NODE_MODEL_H_
 

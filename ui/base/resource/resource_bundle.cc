@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceBundle implementation
+// summary: Core implementation of ResourceBundle, loading images, localized strings and data resources from pak files, including brotli and PNG handling.
+// ---
+
 #include "ui/base/resource/resource_bundle.h"
 
 #include <stdint.h>

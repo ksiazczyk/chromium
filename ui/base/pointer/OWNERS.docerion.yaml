@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of touch UI controller files
+summary: Assigns per-file review ownership of the touch UI controller sources to specific Chromium developers.

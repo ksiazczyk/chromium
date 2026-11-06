@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListSelectionModel class
+// summary: Declares a selection model tracking selected indices plus active and anchor indices, with helpers for shifting and range selection.
+// ---
+
 #ifndef UI_BASE_MODELS_LIST_SELECTION_MODEL_H_
 #define UI_BASE_MODELS_LIST_SELECTION_MODEL_H_
 

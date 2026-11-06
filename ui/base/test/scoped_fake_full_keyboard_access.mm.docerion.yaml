@@ -1,0 +1,4 @@
+# Docerion header of scoped_fake_full_keyboard_access.mm.
+type: test
+title: Scoped fake full keyboard access implementation
+summary: Implements the swizzler that donates a fake isFullKeyboardAccessEnabled method to NSApplication so tests can control full keyboard access state.

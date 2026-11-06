@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictionMetricsHandler implementation
+// summary: Implements buffering of real and predicted input events and reporting prediction quality metrics such as over- and under-prediction and jitter to UMA histograms.
+// ---
+
 #include "ui/base/prediction/prediction_metrics_handler.h"
 
 #include <string_view>

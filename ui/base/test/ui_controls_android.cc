@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android UI controls implementation
+// summary: Android implementation of ui_controls that sends synthetic key events via WindowAndroid for android_browsertests.
+// ---
+
 #include "ui/base/test/ui_controls.h"
 
 #include <utility>

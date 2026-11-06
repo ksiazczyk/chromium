@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I18nSourceStream class declaration
+// summary: Declares the I18nSourceStream filter that applies i18n template replacements to streamed WebUI content.
+// ---
+
 #ifndef UI_BASE_WEBUI_I18N_SOURCE_STREAM_H_
 #define UI_BASE_WEBUI_I18N_SOURCE_STREAM_H_
 

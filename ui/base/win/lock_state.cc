@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workstation lock state implementation
+// summary: Implements IsWorkstationLocked by querying WTS session information and caching the lock state through a session change observer for performance.
+// ---
+
 #include "ui/base/win/lock_state.h"
 
 #include <windows.h>

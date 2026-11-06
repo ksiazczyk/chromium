@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActivityObserver interface
+// summary: Defines the UserActivityObserver interface with the OnUserActivity callback for classes that want to be notified when the user generates input events.
+// ---
+
 #ifndef UI_BASE_USER_ACTIVITY_USER_ACTIVITY_OBSERVER_H_
 #define UI_BASE_USER_ACTIVITY_USER_ACTIVITY_OBSERVER_H_
 

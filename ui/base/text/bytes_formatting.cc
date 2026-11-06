@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte formatting implementation
+// summary: Implements human-readable formatting of byte sizes and transfer speeds with localized unit suffixes and unit selection thresholds.
+// ---
+
 #include "ui/base/text/bytes_formatting.h"
 
 #include <array>

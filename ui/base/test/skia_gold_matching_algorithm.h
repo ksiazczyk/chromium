@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold matching algorithm classes
+// summary: Defines Skia Gold matching algorithm classes for golden image comparison, including exact, fuzzy and Sobel variants with adjustable parameters.
+// ---
+
 #ifndef UI_BASE_TEST_SKIA_GOLD_MATCHING_ALGORITHM_H_
 #define UI_BASE_TEST_SKIA_GOLD_MATCHING_ALGORITHM_H_
 

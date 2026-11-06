@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page transition types unit tests
+// summary: Unit tests covering PageTransitionCoreTypeIs, PageTransitionTypeIncludingQualifiersIs and PageTransitionStripQualifier behavior.
+// ---
+
 #include "ui/base/page_transition_types.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

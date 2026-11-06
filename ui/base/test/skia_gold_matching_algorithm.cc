@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia Gold matching algorithm implementations
+// summary: Implements exact, fuzzy and Sobel Skia Gold image matching algorithms that append their parameters to the goldctl command line.
+// ---
+
 #include "ui/base/test/skia_gold_matching_algorithm.h"
 
 #include "base/command_line.h"

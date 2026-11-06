@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ResourceBundle implementation
+// summary: Windows-specific ResourceBundle code that loads resources from a DLL and provides icon and cursor loading helpers.
+// ---
+
 #include "ui/base/resource/resource_bundle_win.h"
 
 #include <windows.h>

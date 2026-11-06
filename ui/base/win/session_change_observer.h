@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session change observer declaration
+// summary: Declares SessionChangeObserver, which invokes a callback on Windows WM_WTSSESSION_CHANGE lock and unlock events, noting whether the change affects the current session.
+// ---
+
 #ifndef UI_BASE_WIN_SESSION_CHANGE_OBSERVER_H_
 #define UI_BASE_WIN_SESSION_CHANGE_OBSERVER_H_
 

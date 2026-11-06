@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUnownedUserData template and user data macros
+// summary: Defines the ScopedUnownedUserData template plus DECLARE_USER_DATA and DEFINE_USER_DATA macros for registering and retrieving feature objects on a host.
+// ---
+
 #ifndef UI_BASE_UNOWNED_USER_DATA_SCOPED_UNOWNED_USER_DATA_H_
 #define UI_BASE_UNOWNED_USER_DATA_SCOPED_UNOWNED_USER_DATA_H_
 

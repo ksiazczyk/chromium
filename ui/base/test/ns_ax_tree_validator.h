@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS accessibility tree validator interface
+// summary: Declares ValidateNSAXTree and PrintNSAXTree helpers that check macOS accessibility tree invariants and describe any problems found.
+// ---
+
 #ifndef UI_BASE_TEST_NS_AX_TREE_VALIDATOR_H_
 #define UI_BASE_TEST_NS_AX_TREE_VALIDATOR_H_
 

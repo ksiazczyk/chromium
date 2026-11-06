@@ -1,0 +1,4 @@
+# Docerion header of themes.mojom.
+type: source
+title: BrowserColorVariant mojom enum
+summary: Defines the BrowserColorVariant enum listing browser color variants such as system, tonal spot, neutral, vibrant, and expressive.

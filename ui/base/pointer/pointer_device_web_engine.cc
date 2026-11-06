@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia WebEngine pointer device implementation
+// summary: Fuchsia WebEngine implementation reporting a coarse pointer, no hover, an enabled touchscreen and two touch points.
+// ---
+
 #include <utility>
 
 #include "build/build_config.h"

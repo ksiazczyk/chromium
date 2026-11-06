@@ -1,0 +1,4 @@
+# Docerion header of menu_source_type.mojom.
+type: source
+title: MenuSourceType mojom enum
+summary: Defines a stable, extensible enum of menu trigger sources used in histograms, with a generated Java counterpart.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for ui/base test
+summary: Maps the directory to the Tests component in Monorail and a Buganizer component ID for issue routing.

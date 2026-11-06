@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataPack implementation
+// summary: Implements the DataPack class for loading and reading .pak resource files, covering v4 and v5 formats, compression handling, aliases, and iteration.
+// ---
+
 #include "ui/base/resource/data_pack.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputPredictor abstract base class for input prediction
+// summary: Defines the abstract InputPredictor base class that models sequences of input points and predicts coordinates at a given time.
+// ---
+
 #ifndef UI_BASE_PREDICTION_INPUT_PREDICTOR_H_
 #define UI_BASE_PREDICTION_INPUT_PREDICTOR_H_
 

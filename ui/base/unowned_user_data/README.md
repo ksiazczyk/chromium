@@ -1,3 +1,12 @@
+---
+type: readme
+title: Implementing Features As Unowned User Data
+summary: Explains how to implement features as unowned user data, covering retrieval, setup, unit testing, and injection for integration tests.
+relations:
+  - references /chrome/browser/ui/browser_window/internal/browser_window_features.cc
+  - documents /ui/base/unowned_user_data/scoped_unowned_user_data.h
+---
+
 # Implementing Features As Unowned User Data
 
 Features scoped to `BrowserWindowInterface` and `TabInterface` are created and

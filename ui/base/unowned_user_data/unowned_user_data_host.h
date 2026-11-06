@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnownedUserDataHost holder for unowned user data
+// summary: Declares UnownedUserDataHost, a keyed holder of unowned user data entries that must outlive the data it references.
+// ---
+
 #ifndef UI_BASE_UNOWNED_USER_DATA_UNOWNED_USER_DATA_HOST_H_
 #define UI_BASE_UNOWNED_USER_DATA_UNOWNED_USER_DATA_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleComboboxModel class header
+// summary: Declares a simple combobox data model whose items carry text, secondary dropdown text, and icons, with support for separators and item list updates.
+// ---
+
 #ifndef UI_BASE_MODELS_SIMPLE_COMBOBOX_MODEL_H_
 #define UI_BASE_MODELS_SIMPLE_COMBOBOX_MODEL_H_
 

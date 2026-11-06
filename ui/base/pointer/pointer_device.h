@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer device API and types
+// summary: Declares pointer, hover, and digitizer enums, the PointerDevice struct, and functions for querying touch screens and pointer devices across platforms.
+// ---
+
 #ifndef UI_BASE_POINTER_POINTER_DEVICE_H_
 #define UI_BASE_POINTER_POINTER_DEVICE_H_
 

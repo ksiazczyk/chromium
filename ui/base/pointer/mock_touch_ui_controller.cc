@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock touch UI controller implementation
+// summary: Implements MockTouchUiController, which serves mock connected pointer device data for touch UI testing.
+// ---
+
 #include "ui/base/pointer/mock_touch_ui_controller.h"
 
 namespace ui {

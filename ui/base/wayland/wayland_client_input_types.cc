@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client text input type conversions
+// summary: Implements conversion of Chromium text input types, modes and flags into Wayland extended text input protocol values for Wayland clients.
+// ---
+
 #include "ui/base/wayland/wayland_client_input_types.h"
 
 #include "base/check_op.h"

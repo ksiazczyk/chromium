@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear predictor implementation
+// summary: Implements the LinearPredictor, computing first and second order predictions of input positions from queued events, velocity, and acceleration.
+// ---
+
 #include "ui/base/prediction/linear_predictor.h"
 
 #include <algorithm>

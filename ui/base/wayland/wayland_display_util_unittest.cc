@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Wayland display ID pair conversion
+// summary: Verifies that display IDs round-trip correctly through the Wayland high and low pair conversion across boundary values.
+// ---
+
 #include <limits>
 
 #include "testing/gtest/include/gtest/gtest.h"

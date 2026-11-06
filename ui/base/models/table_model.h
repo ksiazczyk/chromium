@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableModel interface
+// summary: Declares the TableModel interface that drives TableView, including row text, icons, tooltips, accessibility names, observers, and sorting, plus the TableColumn struct.
+// ---
+
 #ifndef UI_BASE_MODELS_TABLE_MODEL_H_
 #define UI_BASE_MODELS_TABLE_MODEL_H_
 

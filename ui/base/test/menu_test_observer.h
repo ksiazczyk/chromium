@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu test observer declarations
+// summary: Declares MenuTestObserver, an NSMenu helper that reports open state and can run callbacks or close the menu while it is tracking.
+// ---
+
 #ifndef UI_BASE_TEST_MENU_TEST_OBSERVER_H_
 #define UI_BASE_TEST_MENU_TEST_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleComboboxModel implementation
+// summary: Implements a combobox model backed by a vector of items with text, secondary dropdown text, icons and separator entries.
+// ---
+
 #include "ui/base/models/simple_combobox_model.h"
 
 #include <utility>

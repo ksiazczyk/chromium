@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageModel and VectorIconModel declarations
+// summary: Declares ImageModel and VectorIconModel classes that encapsulate the ways a model can specify an icon or image, notably for menu models.
+// ---
+
 #ifndef UI_BASE_MODELS_IMAGE_MODEL_H_
 #define UI_BASE_MODELS_IMAGE_MODEL_H_
 

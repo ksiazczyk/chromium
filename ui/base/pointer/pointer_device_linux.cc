@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux pointer device implementation
+// summary: Implements pointer device queries on Linux using DeviceDataManager to detect touchscreens, mice, touchpads, and pointing sticks.
+// ---
+
 #include "ui/base/pointer/pointer_device.h"
 
 #include <algorithm>

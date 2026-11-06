@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Windows accessibility ID range constants
+// summary: Defines non-overlapping negative MSAA child ID ranges so views and browser accessibility systems do not collide.
+// ---
+
 #ifndef UI_BASE_WIN_ACCESSIBILITY_IDS_WIN_H_
 #define UI_BASE_WIN_ACCESSIBILITY_IDS_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Wayland text input type roundtrip conversion
+// summary: Checks that text input types and modes survive roundtrip conversion between Chromium and Wayland values and rejects invalid values.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/base/wayland/wayland_client_input_types.h"
 #include "ui/base/wayland/wayland_server_input_types.h"

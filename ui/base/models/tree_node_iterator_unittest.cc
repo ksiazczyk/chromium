@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeNodeIterator unit tests
+// summary: Tests basic iteration over tree descendants and branch pruning using odd and even value filter callbacks on a sample tree.
+// ---
+
 #include "ui/base/models/tree_node_iterator.h"
 
 #include "base/functional/bind.h"

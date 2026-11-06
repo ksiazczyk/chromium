@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear resampling class header
+// summary: Declares the LinearResampling class, which resamples input events to frame times via linear interpolation or extrapolation, mirroring Android resampling behavior.
+// ---
+
 #ifndef UI_BASE_PREDICTION_LINEAR_RESAMPLING_H_
 #define UI_BASE_PREDICTION_LINEAR_RESAMPLING_H_
 

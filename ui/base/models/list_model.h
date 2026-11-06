@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListModel template class declaration
+// summary: Declares a template list model that owns its items and notifies ListModelObserver listeners about additions, removals, moves, and changes.
+// ---
+
 #ifndef UI_BASE_MODELS_LIST_MODEL_H_
 #define UI_BASE_MODELS_LIST_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ui/base mojom bindings
+summary: Defines GN targets that generate Mojo bindings for the ui/base mojom files, including typemaps, Blink and Java generation, and WebUI module paths.

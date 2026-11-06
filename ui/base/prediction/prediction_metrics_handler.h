@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictionMetricsHandler class declaration
+// summary: Declares the PredictionMetricsHandler class that buffers real and predicted events and computes prediction quality metrics for UMA reporting.
+// ---
+
 #ifndef UI_BASE_PREDICTION_PREDICTION_METRICS_HANDLER_H_
 #define UI_BASE_PREDICTION_PREDICTION_METRICS_HANDLER_H_
 

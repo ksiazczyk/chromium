@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDialogModelHost implementation
+// summary: Implements a test host that drives DialogModel accept, cancel, close and textfield interactions for unit tests.
+// ---
+
 #include "ui/base/test/test_dialog_model_host.h"
 
 #include "ui/base/models/dialog_model.h"

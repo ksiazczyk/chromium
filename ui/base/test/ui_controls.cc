@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI controls accelerator state helper
+// summary: Implements the helper that converts modifier key booleans into a ui_controls accelerator state bitmap.
+// ---
+
 #include "ui/base/test/ui_controls.h"
 
 namespace ui_controls {

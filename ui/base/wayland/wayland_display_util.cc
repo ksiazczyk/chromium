@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland display ID pair conversion utilities
+// summary: Implements conversion between a 64-bit display ID and a pair of 32-bit high and low values used by Wayland.
+// ---
+
 #include "ui/base/wayland/wayland_display_util.h"
 
 namespace ui::wayland {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModelDelegate interface
+// summary: Declares a delegate interface notified of icon changes, menu structure changes and when a MenuModel clears its delegate.
+// ---
+
 #ifndef UI_BASE_MODELS_MENU_MODEL_DELEGATE_H_
 #define UI_BASE_MODELS_MENU_MODEL_DELEGATE_H_
 

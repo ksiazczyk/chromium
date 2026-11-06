@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFileWriter implementation
+// summary: Implements ScopedFileWriter, a scoped writer for pak files that tracks I/O errors and closes the file on destruction.
+// ---
+
 #include "ui/base/resource/scoped_file_writer.h"
 
 #include "base/compiler_specific.h"

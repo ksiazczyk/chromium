@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UI controls internal helpers
+// summary: Declares internal Windows helper functions for sending synthetic key, mouse and touch events in tests.
+// ---
+
 #ifndef UI_BASE_TEST_UI_CONTROLS_INTERNAL_WIN_H_
 #define UI_BASE_TEST_UI_CONTROLS_INTERNAL_WIN_H_
 

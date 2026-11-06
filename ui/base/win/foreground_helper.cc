@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreground window activation helper implementation
+// summary: Implements ForegroundHelper, which registers an F22 hot key to move a target window into the foreground.
+// ---
+
 #include "ui/base/win/foreground_helper.h"
 
 #include <ostream>

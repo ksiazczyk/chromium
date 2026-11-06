@@ -1,0 +1,4 @@
+# Docerion header of scoped_fake_nswindow_fullscreen.mm.
+type: test
+title: Scoped fake NSWindow fullscreen test helper implementation
+summary: Implements ScopedFakeNSWindowFullscreen by enabling NSWindow faking for testing while an instance of the helper is alive.

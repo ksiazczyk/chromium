@@ -1,0 +1,4 @@
+# Docerion header of color_mode.mojom.
+type: source
+title: ColorMode mojom enum
+summary: Defines the ColorMode enum used for window styling that affects the window border color on macOS.

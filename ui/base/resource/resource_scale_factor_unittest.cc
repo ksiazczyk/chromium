@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceScaleFactor unit tests
+// summary: Unit tests verifying scale-to-scale-factor mapping and closest-match fallback behavior for supported scale factors.
+// ---
+
 #include "ui/base/resource/resource_scale_factor.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

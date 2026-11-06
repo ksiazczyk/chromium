@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One Euro filter implementation
+// summary: Implements the OneEuroFilter input filter, applying the third-party 1€ filter separately to the x and y coordinates of input positions.
+// ---
+
 #include "ui/base/prediction/one_euro_filter.h"
 #include "ui/base/ui_base_features.h"
 

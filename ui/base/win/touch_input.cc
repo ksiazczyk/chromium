@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch input wrapper implementation
+// summary: Dynamically loads GetTouchInputInfo from user32 and forwards touch input queries, returning FALSE when the API is unavailable.
+// ---
+
 #include "ui/base/win/touch_input.h"
 #include "base/win/win_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View tree validator header for macOS views
+// summary: Declares ValidateViewTree, which reports macOS views lying outside their parent bounds or overlapping other localizable views.
+// ---
+
 #ifndef UI_BASE_TEST_VIEW_TREE_VALIDATOR_H_
 #define UI_BASE_TEST_VIEW_TREE_VALIDATOR_H_
 

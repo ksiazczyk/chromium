@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle provider test utilities implementation
+// summary: Implements ScopedIdleProviderForTest, which installs and removes a fake IdleTimeProvider on IdlePollingService for tests.
+// ---
+
 #include "ui/base/test/idle_test_utils.h"
 
 #include "ui/base/idle/idle_polling_service.h"

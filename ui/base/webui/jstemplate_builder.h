@@ -8,6 +8,12 @@
 // reasons, as it no longer uses jstemplate (see crbug.com/378692755 for
 // context).
 
+// ---docerion
+// type: source
+// title: Jstemplate builder helpers
+// summary: Declares helpers for rendering internal HTML pages with i18n replacements and for assigning JSON data to loadTimeData.
+// ---
+
 #ifndef UI_BASE_WEBUI_JSTEMPLATE_BUILDER_H_
 #define UI_BASE_WEBUI_JSTEMPLATE_BUILDER_H_
 

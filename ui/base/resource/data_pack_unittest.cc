@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataPack unit tests
+// summary: Tests loading .pak files from paths and file handles, resource lookup, compressed packs, and error handling across platforms.
+// ---
+
 #include "ui/base/resource/data_pack.h"
 
 #include <stddef.h>

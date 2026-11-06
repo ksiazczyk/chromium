@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UIControlsAura interface
+// summary: Declares the UIControlsAura interface that platform implementations use to synthesize key, mouse and touch events.
+// ---
+
 #ifndef UI_BASE_TEST_UI_CONTROLS_AURA_H_
 #define UI_BASE_TEST_UI_CONTROLS_AURA_H_
 

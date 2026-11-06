@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input predictor unit test helper implementation
+// summary: Implements shared ValidatePredictor routines that check predictor outputs against expected coordinates in unit tests.
+// ---
+
 #include "ui/base/prediction/input_predictor_unittest_helpers.h"
 
 namespace ui {

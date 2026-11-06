@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI utility functions
+// summary: Declares WebUI helpers for converting bitmaps and PNGs to data URLs, deriving click dispositions, parsing scale factors and image specs, and setting localized loadTimeData defaults.
+// ---
+
 #ifndef UI_BASE_WEBUI_WEB_UI_UTIL_H_
 #define UI_BASE_WEBUI_WEB_UI_UTIL_H_
 

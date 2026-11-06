@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse event injection utilities header
+// summary: Declares SendMouseEvent and the MouseEventExtraInfo enum used to mark synthetic mouse events for hooks.
+// ---
+
 #ifndef UI_BASE_WIN_EVENT_CREATION_UTILS_H_
 #define UI_BASE_WIN_EVENT_CREATION_UTILS_H_
 

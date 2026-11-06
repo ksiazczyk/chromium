@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lottie still image resource declarations
+// summary: Declares functions to parse Lottie assets as still images, including themed variants for light and dark color modes.
+// ---
+
 #ifndef UI_BASE_RESOURCE_LOTTIE_RESOURCE_H_
 #define UI_BASE_RESOURCE_LOTTIE_RESOURCE_H_
 

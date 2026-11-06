@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch UI controller header
+// summary: Declares the TouchUiController singleton that tracks touch UI and tablet mode state and notifies registered listeners.
+// ---
+
 #ifndef UI_BASE_POINTER_TOUCH_UI_CONTROLLER_H_
 #define UI_BASE_POINTER_TOUCH_UI_CONTROLLER_H_
 

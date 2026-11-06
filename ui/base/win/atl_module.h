@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ATL module registration helper
+// summary: Inline helper that registers exactly one ATL module when needed so ATL calls work across build configurations.
+// ---
+
 #ifndef UI_BASE_WIN_ATL_MODULE_H_
 #define UI_BASE_WIN_ATL_MODULE_H_
 

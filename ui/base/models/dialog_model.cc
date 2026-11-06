@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogModel implementation
+// summary: Implements DialogModel and its Builder for constructing platform-agnostic dialogs, covering button params, ok, cancel and extra buttons, and action callbacks.
+// ---
+
 #include "ui/base/models/dialog_model.h"
 
 #include <algorithm>

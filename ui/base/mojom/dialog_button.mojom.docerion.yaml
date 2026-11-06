@@ -1,0 +1,4 @@
+# Docerion header of dialog_button.mojom.
+type: source
+title: DialogButton mojom enum
+summary: Defines dialog button identifiers used to specify which buttons to show the user, pending a move back into ui_base_types.mojom.

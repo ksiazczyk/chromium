@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One Euro filter header
+// summary: Declares the OneEuroFilter input filter wrapping the third-party 1€ filter, with default tuning parameters and field trial parameter names.
+// ---
+
 #ifndef UI_BASE_PREDICTION_ONE_EURO_FILTER_H_
 #define UI_BASE_PREDICTION_ONE_EURO_FILTER_H_
 

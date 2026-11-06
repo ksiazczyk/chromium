@@ -1,0 +1,4 @@
+# Docerion header of view_tree_validator_unittest.mm.
+type: test
+title: Unit tests for the macOS view tree validator
+summary: Unit tests verifying that ValidateViewTree flags views outside parents and overlapping localizable views while ignoring benign overlaps.

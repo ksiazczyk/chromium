@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTL-aware message box implementation
+// summary: Implements a MessageBox wrapper that adds right-to-left flags and Unicode directionality marks when running in an RTL locale.
+// ---
+
 #include "ui/base/win/message_box_win.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windowed NSNotification observer header for tests
+// summary: Declares a test helper that starts watching an NSNotification on init and can wait until the notification is observed.
+// ---
+
 #ifndef UI_BASE_TEST_WINDOWED_NSNOTIFICATION_OBSERVER_H_
 #define UI_BASE_TEST_WINDOWED_NSNOTIFICATION_OBSERVER_H_
 

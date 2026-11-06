@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Sets per-file owners so Android-specific resource files are reviewed by the Chrome Android owners.

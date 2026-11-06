@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWND subclassing implementation
+// summary: Implements the HWNDSubclass singleton factory that installs a window procedure on target windows and dispatches messages to registered filters.
+// ---
+
 #include "ui/base/win/hwnd_subclass.h"
 
 #include <algorithm>

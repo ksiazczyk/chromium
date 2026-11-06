@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear resampling implementation
+// summary: Implements linear resampling of input events, interpolating or extrapolating positions toward frame times with configurable resample latency.
+// ---
+
 #include "ui/base/prediction/linear_resampling.h"
 
 #include <algorithm>

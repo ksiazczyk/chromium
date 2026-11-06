@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User Data Factory Unit Tests
+// summary: Unit tests for the unowned user data factory, covering creation of scoped user data types, host attachment and test-specific implementation overrides.
+// ---
+
 #include "ui/base/unowned_user_data/user_data_factory.h"
 
 #include <sstream>

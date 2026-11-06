@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourcePath struct
+// summary: Defines a struct that maps a WebUI resource path to a resource ID and an optional filepath.
+// ---
+
 #ifndef UI_BASE_WEBUI_RESOURCE_PATH_H_
 #define UI_BASE_WEBUI_RESOURCE_PATH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kalman filter class declaration
+// summary: Declares the KalmanFilter class used to estimate one-dimensional motion state for input prediction.
+// ---
+
 #ifndef UI_BASE_PREDICTION_KALMAN_FILTER_H_
 #define UI_BASE_PREDICTION_KALMAN_FILTER_H_
 

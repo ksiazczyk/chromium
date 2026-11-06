@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleComboboxModel unit tests
+// summary: Unit tests verifying string items, separators, items with icons and secondary text, item list updates, and default index behavior of SimpleComboboxModel.
+// ---
+
 #include "ui/base/models/simple_combobox_model.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

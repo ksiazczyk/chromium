@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyFilter implementation
+// summary: Implements the EmptyFilter, a no-op filter that returns the input position unchanged and reports the empty filter name.
+// ---
+
 #include "ui/base/prediction/empty_filter.h"
 #include "ui/base/ui_base_features.h"
 

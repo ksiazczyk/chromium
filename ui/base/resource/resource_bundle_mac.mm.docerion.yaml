@@ -1,0 +1,4 @@
+# Docerion header of resource_bundle_mac.mm.
+type: source
+title: macOS ResourceBundle implementation
+summary: macOS implementation of ResourceBundle that loads pak files from the framework bundle and creates NSImage instances for resources.

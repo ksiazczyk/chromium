@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Prediction directory owners
+summary: Lists the code owners responsible for reviewing changes to the ui/base/prediction directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListSelectionModel unit tests
+// summary: Unit tests covering selection updates, index shifting on insert and removal, anchor-based ranges and clearing the selection.
+// ---
+
 #include "ui/base/models/list_selection_model.h"
 
 #include <stddef.h>

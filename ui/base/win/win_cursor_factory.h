@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows cursor factory header
+// summary: Declares WinCursorFactory, the CursorFactory implementation that supplies default and image cursors on Windows.
+// ---
+
 #ifndef UI_BASE_WIN_WIN_CURSOR_FACTORY_H_
 #define UI_BASE_WIN_WIN_CURSOR_FACTORY_H_
 

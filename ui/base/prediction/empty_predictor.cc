@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyPredictor implementation
+// summary: Implements the EmptyPredictor, which stores the last input and returns it without generating a real prediction.
+// ---
+
 #include "ui/base/prediction/empty_predictor.h"
 #include "ui/base/ui_base_features.h"
 

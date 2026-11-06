@@ -1,0 +1,4 @@
+# Docerion header of scoped_preferred_scroller_style_mac.mm.
+type: test
+title: Scoped preferred scroller style Mac test helper implementation
+summary: Implements ScopedPreferredScrollerStyle by swizzling +[NSScroller preferredScrollerStyle] with donor classes and posting style-change notifications.

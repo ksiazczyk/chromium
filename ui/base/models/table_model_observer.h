@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableModelObserver interface
+// summary: Declares an observer interface that TableModel implementations notify when the model changes, with callbacks for changed, added, removed, and moved item ranges.
+// ---
+
 #ifndef UI_BASE_MODELS_TABLE_MODEL_OBSERVER_H_
 #define UI_BASE_MODELS_TABLE_MODEL_OBSERVER_H_
 

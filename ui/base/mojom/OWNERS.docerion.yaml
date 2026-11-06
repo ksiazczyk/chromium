@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for mojom and traits files
+summary: Delegates per-file review of all mojom and mojom traits files in this directory to the IPC security owners.
