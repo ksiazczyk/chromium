@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionControllerImpl class declaration
+// summary: Declares the Views touch selection controller that displays selection handles and quick menu elements, handling drag events, menu commands, widget observation, and the magnifier.
+// ---
+
 #ifndef UI_VIEWS_TOUCHUI_TOUCH_SELECTION_CONTROLLER_IMPL_H_
 #define UI_VIEWS_TOUCHUI_TOUCH_SELECTION_CONTROLLER_IMPL_H_
 

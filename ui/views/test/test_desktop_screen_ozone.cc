@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDesktopScreenOzone implementation
+// summary: Implements a test screen for Linux/Ozone that reports a manually set cursor screen point and tracks a singleton instance.
+// ---
+
 #include "ui/views/test/test_desktop_screen_ozone.h"
 
 namespace views::test {

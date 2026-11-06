@@ -1,0 +1,4 @@
+# Docerion header of open_old.icon.
+type: asset
+title: Open icon (old variant)
+summary: Defines the vector path data for the older open icon on a 20dp canvas in Chromium's views vector icon format.

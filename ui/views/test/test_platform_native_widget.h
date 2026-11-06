@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPlatformNativeWidget test helper header
+// summary: Declares a templated NativeWidget wrapper for tests that can mock mouse capture and signals destruction via a flag or callback.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_PLATFORM_NATIVE_WIDGET_H_
 #define UI_VIEWS_TEST_TEST_PLATFORM_NATIVE_WIDGET_H_
 

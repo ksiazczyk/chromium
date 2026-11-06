@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog test helpers
+// summary: Provides AcceptDialog and CancelDialog helpers that trigger a dialog and wait for its widget to be destroyed.
+// ---
+
 #include "ui/views/test/dialog_test.h"
 
 #include "ui/views/test/widget_test.h"

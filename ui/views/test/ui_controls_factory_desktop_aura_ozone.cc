@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone desktop Aura UI controls test factory
+// summary: Implements the ui_controls API for desktop Aura on Ozone, sending synthetic key and mouse events to windows during interactive tests.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <utility>

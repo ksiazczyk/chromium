@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDragController header for drag-and-drop tests
+// summary: Declares a gmock-based fake DragController used to exercise view drag-and-drop behavior in tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_MOCK_DRAG_CONTROLLER_H_
 #define UI_VIEWS_TEST_MOCK_DRAG_CONTROLLER_H_
 

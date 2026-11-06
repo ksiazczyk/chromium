@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget test API helpers header
+// summary: Declares DisableActivationChangeHandlingForTests and AsyncWidgetRequestWaiter for controlling activation handling and syncing asynchronous widget requests in tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_WIDGET_TEST_API_H_
 #define UI_VIEWS_TEST_WIDGET_TEST_API_H_
 

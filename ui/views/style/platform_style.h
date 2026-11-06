@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformStyle cross-platform styling API
+// summary: Declares the PlatformStyle class with platform-specific constants and methods that control styling behavior of toolkit-views across platforms.
+// ---
+
 #ifndef UI_VIEWS_STYLE_PLATFORM_STYLE_H_
 #define UI_VIEWS_STYLE_PLATFORM_STYLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura implementation of TestViewsDelegate
+// summary: Implements TestViewsDelegate for Aura, adjusting widget init params for opacity, ChromeOS context and desktop native widget selection.
+// ---
+
 #include "build/build_config.h"
 #include "ui/views/buildflags.h"
 #include "ui/views/test/test_views_delegate.h"

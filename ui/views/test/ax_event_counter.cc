@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX event counter implementation
+// summary: Implements a test helper that counts accessibility events by type, role, and view, and can block until an event of a given type arrives.
+// ---
+
 #include "ui/views/test/ax_event_counter.h"
 
 #include <utility>

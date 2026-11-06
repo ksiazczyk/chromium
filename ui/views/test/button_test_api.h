@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button test API header
+// summary: Declares ButtonTestApi, a wrapper giving tests access to private Button members such as click notification.
+// ---
+
 #ifndef UI_VIEWS_TEST_BUTTON_TEST_API_H_
 #define UI_VIEWS_TEST_BUTTON_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop test views delegate Aura implementation
+// summary: Implements OnBeforeWidgetInit for Aura, choosing NativeWidgetAura or DesktopNativeWidgetAura for test widgets.
+// ---
+
 #include "build/build_config.h"
 #include "ui/views/buildflags.h"
 #include "ui/views/test/desktop_test_views_delegate.h"

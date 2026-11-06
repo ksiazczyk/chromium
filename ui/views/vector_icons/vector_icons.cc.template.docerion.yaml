@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: vector_icons.cc.template
+summary: Template used to generate vector_icons.cc, wrapping generated icon command declarations in the views namespace.

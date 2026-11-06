@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop test views delegate declaration
+// summary: Declares DesktopTestViewsDelegate, a TestViewsDelegate that selects desktop native widgets during widget initialization in tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_DESKTOP_TEST_VIEWS_DELEGATE_H_
 #define UI_VIEWS_TEST_DESKTOP_TEST_VIEWS_DELEGATE_H_
 

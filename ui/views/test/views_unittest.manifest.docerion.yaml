@@ -1,0 +1,4 @@
+# Docerion header of views_unittest.manifest.
+type: test
+title: Windows manifest for views unittests
+summary: Windows application manifest declaring the views unittest binary's dependency on Microsoft Common Controls version 6.

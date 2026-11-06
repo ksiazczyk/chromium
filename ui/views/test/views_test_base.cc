@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views test base fixture implementation
+// summary: Implements ViewsTestBase, the base test fixture for views tests that sets up the test environment, test widgets, and message loop helpers.
+// ---
+
 #include "ui/views/test/views_test_base.h"
 
 #include <utility>

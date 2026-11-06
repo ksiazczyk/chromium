@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native widget factory header for views tests
+// summary: Declares factory functions that build platform native widgets for tests, with behavior flags such as stubbed capture and destruction callbacks.
+// ---
+
 #ifndef UI_VIEWS_TEST_NATIVE_WIDGET_FACTORY_H_
 #define UI_VIEWS_TEST_NATIVE_WIDGET_FACTORY_H_
 

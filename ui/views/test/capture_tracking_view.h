@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture tracking view header
+// summary: Declares CaptureTrackingView, a test View that tracks whether mouse press and capture-lost callbacks occurred.
+// ---
+
 #ifndef UI_VIEWS_TEST_CAPTURE_TRACKING_VIEW_H_
 #define UI_VIEWS_TEST_CAPTURE_TRACKING_VIEW_H_
 

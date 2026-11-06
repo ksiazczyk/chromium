@@ -1,0 +1,4 @@
+# Docerion header of visibility.icon.
+type: asset
+title: Visibility vector icon
+summary: Defines the path data for the 20dp visibility (eye) vector icon used in the Chromium views UI.

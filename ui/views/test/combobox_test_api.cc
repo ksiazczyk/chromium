@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Combobox test API implementation
+// summary: Implements ComboboxTestApi, including a test menu runner handler that counts how often a dropdown menu is shown.
+// ---
+
 #include "ui/views/test/combobox_test_api.h"
 
 #include <stdint.h>

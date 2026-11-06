@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWidgetBuilder implementation
+// summary: Implements TestWidgetBuilder, a fluent builder that configures Widget::InitParams and builds test widgets with a chosen ownership model.
+// ---
+
 #include "ui/views/test/test_widget_builder.h"
 
 #include <utility>

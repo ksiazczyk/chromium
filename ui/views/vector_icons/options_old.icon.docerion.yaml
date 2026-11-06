@@ -1,0 +1,4 @@
+# Docerion header of options_old.icon.
+type: asset
+title: Options icon (old variant)
+summary: Defines the vector path data for the older three-dot options icon on a 20dp canvas.

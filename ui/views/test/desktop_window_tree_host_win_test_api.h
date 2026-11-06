@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop window tree host Win test API declaration
+// summary: Declares a wrapper around DesktopWindowTreeHostWin giving tests access to private members like the AX system caret and message handler.
+// ---
+
 #ifndef UI_VIEWS_TEST_DESKTOP_WINDOW_TREE_HOST_WIN_TEST_API_H_
 #define UI_VIEWS_TEST_DESKTOP_WINDOW_TREE_HOST_WIN_TEST_API_H_
 

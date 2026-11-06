@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget show state waiter header
+// summary: Declares WaitForWidgetShowState, a test helper for waiting until a widget reaches a given window show state.
+// ---
+
 #ifndef UI_VIEWS_TEST_WIDGET_SHOW_STATE_WAITER_H_
 #define UI_VIEWS_TEST_WIDGET_SHOW_STATE_WAITER_H_
 

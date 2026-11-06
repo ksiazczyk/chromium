@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configurable test native frame view implementation
+// summary: Implements a test-only NativeFrameView that can override minimum size, client view margin, and hit-test result, and tracks fullscreen layout.
+// ---
+
 #include "ui/views/test/configurable_test_native_frame_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

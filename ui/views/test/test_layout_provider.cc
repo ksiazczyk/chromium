@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayoutProvider implementation
+// summary: Implements a layout provider that lets tests override distance metrics, snapped dialog width, and font details, falling back to defaults otherwise.
+// ---
+
 #include "ui/views/test/test_layout_provider.h"
 
 namespace views::test {

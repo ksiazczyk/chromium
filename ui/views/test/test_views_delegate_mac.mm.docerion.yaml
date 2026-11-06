@@ -1,0 +1,4 @@
+# Docerion header of test_views_delegate_mac.mm.
+type: test
+title: Mac implementation of TestViewsDelegate
+summary: Implements TestViewsDelegate for macOS, setting widget opacity, creating NativeWidgetMac when desktop widgets are requested and returning a context factory.

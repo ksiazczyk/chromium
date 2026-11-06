@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configurable test native frame view class declaration
+// summary: Declares a test-only NativeFrameView allowing tests to set a custom minimum size, hit-test result, and client view margin.
+// ---
+
 #ifndef UI_VIEWS_TEST_CONFIGURABLE_TEST_NATIVE_FRAME_VIEW_H_
 #define UI_VIEWS_TEST_CONFIGURABLE_TEST_NATIVE_FRAME_VIEW_H_
 

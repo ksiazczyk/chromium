@@ -1,0 +1,4 @@
+# Docerion header of check_small.icon.
+type: source
+title: Small check mark vector icon
+summary: Defines vector path data for a 24dp check mark icon used in Chromium's Views UI.

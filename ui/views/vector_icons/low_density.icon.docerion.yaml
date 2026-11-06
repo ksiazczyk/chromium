@@ -1,0 +1,4 @@
+# Docerion header of low_density.icon.
+type: asset
+title: Low density icon
+summary: Vector icon definition drawing the low density symbol as canvas and path commands for Chromium Views UI.

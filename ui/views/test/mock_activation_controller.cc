@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockActivationController implementation emulating widget activation in tests
+// summary: Implements a test-only controller that emulates window activation, stacking, and deactivation for views widgets so activation tests can run in parallel.
+// ---
+
 #include "ui/views/test/mock_activation_controller.h"
 
 #include "base/containers/to_vector.h"

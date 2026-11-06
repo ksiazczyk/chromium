@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu runner test API
+// summary: Declares a MenuRunner wrapper exposing testing methods such as setting the runner handler.
+// ---
+
 #ifndef UI_VIEWS_TEST_MENU_RUNNER_TEST_API_H_
 #define UI_VIEWS_TEST_MENU_RUNNER_TEST_API_H_
 

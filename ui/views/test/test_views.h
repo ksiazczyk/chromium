@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test view class declarations for Views tests
+// summary: Declares test view helpers including StaticSizedView, ProportionallySizedView, CloseWidgetView, EventCountView and ResizeAwareParentView for Views tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_VIEWS_H_
 #define UI_VIEWS_TEST_TEST_VIEWS_H_
 

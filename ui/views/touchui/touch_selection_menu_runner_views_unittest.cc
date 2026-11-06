@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchSelectionMenuRunnerViews unit tests
+// summary: Unit tests verifying the touch selection menu runner is installed, opens and closes menus correctly, and adjusts the quick menu anchor rect to avoid overlapping handles.
+// ---
+
 #include "ui/views/touchui/touch_selection_menu_runner_views.h"
 
 #include "base/test/metrics/histogram_tester.h"

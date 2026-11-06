@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputEventActivationProtector header for tests
+// summary: Declares a gmock mock of InputEventActivationProtector so tests can verify how protected views handle possibly unintended interactions.
+// ---
+
 #ifndef UI_VIEWS_TEST_MOCK_INPUT_EVENT_ACTIVATION_PROTECTOR_H_
 #define UI_VIEWS_TEST_MOCK_INPUT_EVENT_ACTIVATION_PROTECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac event generator delegate factory
+// summary: Declares a factory that creates a macOS event generator delegate for Views tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_EVENT_GENERATOR_DELEGATE_MAC_H_
 #define UI_VIEWS_TEST_EVENT_GENERATOR_DELEGATE_MAC_H_
 

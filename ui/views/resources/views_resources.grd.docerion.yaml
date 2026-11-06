@@ -1,0 +1,4 @@
+# Docerion header of views_resources.grd.
+type: data
+title: Views resources GRD image manifest
+summary: GRD resource list declaring scaled UI images such as window frames, caption buttons, and text button graphics for grit to package into pak files.

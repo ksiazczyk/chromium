@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac ViewsTestHelper class declaration
+// summary: Declares ViewsTestHelperMac, which disables animations and fakes window focus, fullscreen, and full keyboard access for stable Mac Views tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_TEST_HELPER_MAC_H_
 #define UI_VIEWS_TEST_VIEWS_TEST_HELPER_MAC_H_
 

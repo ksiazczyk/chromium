@@ -1,0 +1,4 @@
+# Docerion header of uninstall_old.icon.
+type: asset
+title: Uninstall icon (old variant)
+summary: Defines the vector path data for the older uninstall (trash) icon on a 20dp canvas.

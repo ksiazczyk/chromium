@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayoutManager class declaration
+// summary: Declares a stub layout manager returning a specific preferred size and height for width, with an invalidate counter for tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_LAYOUT_MANAGER_H_
 #define UI_VIEWS_TEST_TEST_LAYOUT_MANAGER_H_
 

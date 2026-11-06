@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Views resources build targets (BUILD.gn)
+summary: GN build file that runs grit on views_resources.grd to generate headers, resource maps, and pak files at 100, 200, and 300 percent scale.

@@ -1,0 +1,4 @@
+# Docerion header of views_test_helper_mac.mm.
+type: test
+title: Mac implementation of ViewsTestHelper
+summary: Implements the Mac ViewsTestHelper, configuring NSApp activation, the Mac event generator delegate, and faked window focus and fullscreen behavior.

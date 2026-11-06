@@ -1,0 +1,4 @@
+# Docerion header of event_generator_delegate_mac.mm.
+type: test
+title: Mac event generator delegate implementation
+summary: Implements the macOS event generator delegate that maps ui events to NSEvents for Views tests.

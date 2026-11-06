@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View drawing test utilities header
+// summary: Declares PaintViewToBitmap, which renders a view exactly as in real use, including text antialiasing, hover state, and focus rings.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_DRAWING_TEST_UTILS_H_
 #define UI_VIEWS_TEST_VIEWS_DRAWING_TEST_UTILS_H_
 

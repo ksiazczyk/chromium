@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Views test directory include rules
+summary: Defines allowed include rules for the ui/views/test directory, with specific exceptions for views_test_base.cc and view_skia_gold_pixel_diff.cc.

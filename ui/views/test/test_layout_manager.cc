@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayoutManager implementation
+// summary: Implements a stub layout manager that returns a configured preferred size or height for width and counts layout invalidations.
+// ---
+
 #include "ui/views/test/test_layout_manager.h"
 
 namespace views::test {

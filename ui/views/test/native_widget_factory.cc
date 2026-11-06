@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native widget factory for views tests
+// summary: Creates platform-specific test native widget implementations for desktop and non-desktop widgets, optionally stubbing out capture behavior.
+// ---
+
 #include "ui/views/test/native_widget_factory.h"
 
 #include <utility>

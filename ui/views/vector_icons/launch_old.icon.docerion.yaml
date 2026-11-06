@@ -1,0 +1,4 @@
+# Docerion header of launch_old.icon.
+type: asset
+title: Launch icon, old variant
+summary: Vector icon definition drawing the launch (open externally) symbol in the old style as canvas and path commands for Chromium Views UI.

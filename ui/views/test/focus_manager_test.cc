@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus manager test base implementation
+// summary: Implements the FocusManagerTest fixture and focus change listener helpers used by Views focus tests.
+// ---
+
 #include "ui/views/test/focus_manager_test.h"
 
 #include <algorithm>

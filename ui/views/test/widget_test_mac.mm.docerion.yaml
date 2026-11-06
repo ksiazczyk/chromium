@@ -1,0 +1,4 @@
+# Docerion header of widget_test_mac.mm.
+type: test
+title: Mac implementation of WidgetTest helpers
+summary: Implements the macOS Cocoa pieces of WidgetTest, simulating native window activation, checking window stacking and visibility, and enumerating all widgets.

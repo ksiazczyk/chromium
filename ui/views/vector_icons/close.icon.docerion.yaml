@@ -1,0 +1,4 @@
+# Docerion header of close.icon.
+type: source
+title: Close vector icon
+summary: Defines vector path data for a 24dp X-shaped close icon used in Chromium's Views UI.

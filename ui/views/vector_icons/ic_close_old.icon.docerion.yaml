@@ -1,0 +1,4 @@
+# Docerion header of ic_close_old.icon.
+type: asset
+title: Close icon vector paths (old)
+summary: Vector path definition for the legacy close (X) icon provided at 48, 24 and 20dp canvas sizes.

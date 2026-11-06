@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View metadata test utilities implementation
+// summary: Implements TestViewMetadata, which reads and writes every serializable metadata property of a view to exercise its getters and setters.
+// ---
+
 #include "ui/views/test/view_metadata_test_utils.h"
 
 #include <string>

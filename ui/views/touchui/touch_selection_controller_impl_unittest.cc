@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchSelectionControllerImpl unit tests
+// summary: Unit tests for the touch selection controller, verifying handle visibility, drag behavior, quick menu timing, and selection metrics using Views test utilities.
+// ---
+
 #include "ui/views/touchui/touch_selection_controller_impl.h"
 
 #include <stddef.h>
