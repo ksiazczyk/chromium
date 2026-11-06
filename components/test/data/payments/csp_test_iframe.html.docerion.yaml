@@ -1,0 +1,4 @@
+# Docerion header of csp_test_iframe.html.
+type: test
+title: CSP canMakePayment iframe test page
+summary: Iframe regression test page that runs canMakePayment under a Content-Security-Policy for crbug 1055360 and 1013080.

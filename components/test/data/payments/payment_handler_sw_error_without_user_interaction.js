@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler service worker rejecting without user interaction
+// summary: Service worker test app that rejects the payment promise immediately after its window reports being loaded.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

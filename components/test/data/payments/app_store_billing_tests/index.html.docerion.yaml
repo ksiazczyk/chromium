@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: App store billing test page
+summary: Manual test page with buttons to add a payment method, create a PaymentRequest, and show the payment sheet.

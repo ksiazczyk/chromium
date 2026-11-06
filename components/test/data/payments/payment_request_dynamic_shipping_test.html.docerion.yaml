@@ -1,0 +1,4 @@
+# Docerion header of payment_request_dynamic_shipping_test.html.
+type: test
+title: Payment Request Dynamic Shipping Test
+summary: Test page for the Payment Request API that exercises dynamic shipping updates via dynamic_shipping.js.

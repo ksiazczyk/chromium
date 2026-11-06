@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay modifier with optional data test script
+// summary: Test helper launching PaymentRequest UI with Bob Pay modifiers and variants that request shipping address or payer contact details.
+// ---
+
 /**
  * Launches the PaymentRequest UI with Bob Pay and Bob Pay modifier.
  */

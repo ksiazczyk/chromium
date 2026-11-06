@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Web app manifest for the Harry.Example test payment app
+summary: Defines the test payment app's name, icon, and service worker registration used by payment handler tests.

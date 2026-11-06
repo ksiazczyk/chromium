@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest show promise test script
+// summary: Test script exercising PaymentRequest.show() without a promise, with a resolving promise, and with a rejecting promise for updating the total.
+// ---
+
 /**
  * Initializes the payment request object.
  * @return {PaymentRequest} - The newly initialized object.

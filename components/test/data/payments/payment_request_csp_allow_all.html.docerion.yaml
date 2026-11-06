@@ -1,0 +1,4 @@
+# Docerion header of payment_request_csp_allow_all.html.
+type: test
+title: Payment Request CSP Allow-All Test Page
+summary: Test page with a Content-Security-Policy allowing any payment method URL, used to check canMakePayment under permissive CSP.

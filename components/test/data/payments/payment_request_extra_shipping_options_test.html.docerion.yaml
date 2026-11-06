@@ -1,0 +1,4 @@
+# Docerion header of payment_request_extra_shipping_options_test.html.
+type: test
+title: Payment Request Extra Shipping Options Test
+summary: Test page for the Payment Request API covering extra shipping options, loading extra_shipping_options.js.

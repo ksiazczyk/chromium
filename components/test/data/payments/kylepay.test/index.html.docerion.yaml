@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: KylePay test page
+summary: Minimal HTML page titled Kyle Pay that loads the script enabling payment delegations for the test app.

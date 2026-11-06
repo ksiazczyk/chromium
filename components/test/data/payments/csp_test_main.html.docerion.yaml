@@ -1,0 +1,4 @@
+# Docerion header of csp_test_main.html.
+type: test
+title: CSP canMakePayment main test page
+summary: Main regression test page hosting a payment-allowed iframe to check CSP handling of payment method manifest crawling.

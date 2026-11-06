@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Larry.Example payment app service worker
+// summary: Service worker for the Larry.Example test payment app that responds to canmakepayment and paymentrequest events.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

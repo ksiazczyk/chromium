@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Larry.Example payment method manifest
+summary: Payment method manifest listing the Larry.Example app manifest as the default application.

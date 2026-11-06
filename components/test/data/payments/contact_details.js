@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest contact details test
+// summary: Script that launches the PaymentRequest UI requesting payer name, email, and phone, then prints the returned contact details.
+// ---
+
 /**
  * Launches the PaymentRequest UI that requests contact details.
  */

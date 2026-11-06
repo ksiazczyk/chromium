@@ -1,0 +1,4 @@
+# Docerion header of load_and_remove_iframe.html.
+type: test
+title: Iframe load and remove test page
+summary: HTML page hosting a payment-allowed iframe that the companion script loads and removes during testing.

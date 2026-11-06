@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler service worker test app
+// summary: Service worker that acts as a payment handler, answering canmakepayment and paymentrequest events with mock payment responses for browser tests.
+// ---
+
 let respond = null;
 let requestEvent = null;
 

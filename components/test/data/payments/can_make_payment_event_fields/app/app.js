@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Service worker checking canmakepayment event fields
+// summary: Service worker that records how the canmakepayment event exposes topOrigin, paymentRequestOrigin, methodData and modifiers, and returns the results in response to paymentrequest.
+// ---
+
 /** {object} - The "canmakepayment" event field check results. */
 const details = {};
 

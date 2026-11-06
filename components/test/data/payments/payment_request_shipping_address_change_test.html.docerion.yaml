@@ -1,0 +1,4 @@
+# Docerion header of payment_request_shipping_address_change_test.html.
+type: test
+title: Shipping address change test page
+summary: HTML test page that exercises the PaymentRequest shipping address change event and prints the result.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can make payment false responder service worker
+// summary: Service worker test stub that always responds false to canmakepayment events.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(false);
 });

@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Fake Google Pay web app manifest
+summary: Web app manifest that registers the fake Google Pay service worker, icon, and related Play app metadata for payment tests.

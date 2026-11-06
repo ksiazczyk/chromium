@@ -1,0 +1,4 @@
+# Docerion header of payment_request_metrics_test.html.
+type: test
+title: Payment Request Metrics Test page
+summary: HTML test page with buttons for credit card, URL method, Android Pay, Bob Pay, contact info, and abort metrics test flows.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show twice PaymentRequest test script
+// summary: Test script that shows a second PaymentRequest while one is already showing to verify that the second show fails.
+// ---
+
 /**
  * Launches the first PaymentRequest UI.
  */

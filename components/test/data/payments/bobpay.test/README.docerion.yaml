@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: Bobpay test payment app README
+summary: Explains that the bobpay.test webpay endpoint is provided for testing Android payment apps.

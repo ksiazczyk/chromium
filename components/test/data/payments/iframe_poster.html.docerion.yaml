@@ -1,0 +1,4 @@
+# Docerion header of iframe_poster.html.
+type: test
+title: Iframe Poster page
+summary: HTML test page hosting a payment-allowed iframe and loading the script that posts messages to it.

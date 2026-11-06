@@ -1,0 +1,4 @@
+# Docerion header of method_manifest.json.
+type: test
+title: Payment method manifest fixture
+summary: Payment method manifest declaring an empty list of supported origins for the billing tests.

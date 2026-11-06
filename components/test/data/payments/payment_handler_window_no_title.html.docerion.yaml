@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_window_no_title.html.
+type: test
+title: Payment handler auto-closing window without a title
+summary: Variant of the payment app window that omits the title element, used to test untitled payment handler windows.

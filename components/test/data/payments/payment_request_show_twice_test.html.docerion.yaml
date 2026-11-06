@@ -1,0 +1,4 @@
+# Docerion header of payment_request_show_twice_test.html.
+type: test
+title: Show twice test page
+summary: HTML test page that calls PaymentRequest.show() twice and prints the result.

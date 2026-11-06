@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Multiple payment methods PaymentRequest test page
+// summary: Test page script that launches PaymentRequest with alicepay, bobpay and charliepay URL-based payment methods.
+// ---
+
 /**
  * Launches the PaymentRequest UI with Bob Pay, Alice Pay as payment methods.
  */

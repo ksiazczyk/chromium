@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment app service worker for alicepay.test
+// summary: Service worker that responds to canmakepayment and paymentrequest events to emulate a payment app in Chromium payment tests.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

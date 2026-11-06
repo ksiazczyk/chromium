@@ -1,0 +1,4 @@
+# Docerion header of secure_payment_confirmation_iframe.html.
+type: test
+title: Secure Payment Confirmation iframe test page
+summary: Minimal test page that loads the secure payment confirmation iframe script for testing SPC inside an iframe.

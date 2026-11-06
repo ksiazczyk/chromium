@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: updateWith test script
+// summary: Test script that calls updateWith() with empty details, totals, display items, shipping options and modifiers during shipping address and option changes.
+// ---
+
 /**
  * Builds a PaymentRequest that requests a shipping address.
  * @param {String} paymentMethod - the payment method to be used.

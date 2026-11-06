@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Bob Pay and cards PaymentRequest test page
+// summary: Test page script combining Bob Pay, basic-card and an installable payment app, with shipping options and abort support.
+// ---
+
 let request = null;
 let showPromise = null;
 

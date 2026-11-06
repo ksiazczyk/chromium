@@ -1,0 +1,4 @@
+# Docerion header of payment_request_creator.html.
+type: test
+title: Payment Request Creator Test Page
+summary: Test page that loads a script which creates PaymentRequest objects for a given payment method identifier.

@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Web app manifest for the CanMakePayment Checker app
+summary: Web app manifest for the CanMakePayment Checker test app that registers app.js as its service worker.

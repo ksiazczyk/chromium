@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Print and output helpers for payment test pages
+// summary: Utility script providing print and output helpers that show messages on the page, in the console and to the DOM automation controller.
+// ---
+
 /**
  * Prints the message on the page.
  * @param {String} msg - The message to print.

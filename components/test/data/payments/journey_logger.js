@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Journey logger payment UI helper
+// summary: Launches PaymentRequest UI with specified payment methods and supports abort and Google Pay flows for journey logging tests.
+// ---
+
 let request = null;
 let showPromise = null;
 

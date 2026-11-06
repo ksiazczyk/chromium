@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: CanMakePayment check helper
+// summary: Checks whether a payment handler can make payments by calling canMakePayment() on a PaymentRequest for the given method.
+// ---
+
 /**
  * Checks whether the payment handler can make payments.
  * @param {string} method - The payment method name to check.

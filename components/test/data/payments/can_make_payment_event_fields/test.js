@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest invocation helper for the canmakepayment test
+// summary: JavaScript that invokes PaymentRequest for a given method, completes the response, and stores its details for the canmakepayment event fields test.
+// ---
+
 /** {object} - The details of the payment response. */
 let details = {};
 

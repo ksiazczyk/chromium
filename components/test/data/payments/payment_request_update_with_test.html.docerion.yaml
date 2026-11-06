@@ -1,0 +1,4 @@
+# Docerion header of payment_request_update_with_test.html.
+type: test
+title: updateWith() test page
+summary: HTML test page with buttons covering updateWith() variants such as empty, total, display items, shipping options, modifiers, and errors.

@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: data
+title: Kyle.Example payment app manifest
+summary: Web app manifest for the Kyle.Example payment app, declaring its icon and a service worker scoped to /webpay.

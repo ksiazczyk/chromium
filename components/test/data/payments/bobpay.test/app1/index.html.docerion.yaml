@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Bob Pay 1 test page
+summary: Minimal HTML page titled Bob Pay 1 that serves as the entry point for the test payment app.

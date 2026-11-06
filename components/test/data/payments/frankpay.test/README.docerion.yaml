@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: frankpay.test payment method test data
+summary: Explains that the frankpay.test/webpay payment method identifier has no payment app of its own and may be used by any other payment app in tests.

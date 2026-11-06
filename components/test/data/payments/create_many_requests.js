@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Create many PaymentRequest objects test
+// summary: Creates 1024 PaymentRequest instances with the secure-payment-confirmation method to exercise many concurrent requests.
+// ---
+
 const supportedInstruments = [{
   supportedMethods: 'secure-payment-confirmation',
   data: {

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Retry test helper with shipping address errors
+// summary: Test helper that requests shipping and retries the payment response with shipping address validation error messages.
+// ---
+
 let gPaymentResponse = null;
 
 /**

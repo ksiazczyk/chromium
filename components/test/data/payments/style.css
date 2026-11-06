@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Test page stylesheet for payment tests
+summary: Stylesheet that enlarges buttons and preformatted output for the payment manual test pages.
+*/
+
 button {
   font-size: 3em;
   height: 5em;

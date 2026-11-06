@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay test data file
+summary: Intentionally blank file that represents the webpay payment method endpoint in the george.example.test test data.

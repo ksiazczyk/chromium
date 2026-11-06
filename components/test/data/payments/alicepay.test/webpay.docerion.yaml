@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay test page
+summary: Intentionally blank placeholder served at the alicepay.test webpay endpoint used in Android payment app tests.

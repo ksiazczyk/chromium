@@ -1,0 +1,4 @@
+# Docerion header of abort_responder_app.json.
+type: test
+title: Abort responder app payment method manifest
+summary: Payment method manifest JSON that registers the abort responder payment app and its service worker for tests.

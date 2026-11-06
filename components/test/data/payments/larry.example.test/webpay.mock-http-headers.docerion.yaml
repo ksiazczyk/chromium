@@ -1,0 +1,4 @@
+# Docerion header of webpay.mock-http-headers.
+type: test
+title: Mock HTTP headers for webpay page
+summary: Mock HTTP response headers serving the webpay page with a Link header pointing to the payment method manifest.

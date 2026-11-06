@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Phone number request test script
+// summary: JavaScript that launches PaymentRequest UI requesting the payer phone number and prints the response.
+// ---
+
 /**
  * Launches the PaymentRequest UI that requests phone number.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request shipping options script
+// summary: Script that builds a PaymentRequest with Google Pay and basic-card methods, updating totals and display items on shipping changes.
+// ---
+
 /**
  * Updates the price based on the selected shipping option.
  * @param {object} details - The current details to update.

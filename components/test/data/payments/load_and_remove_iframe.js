@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Iframe load and remove helper
+// summary: Loads a given URL into the page's iframe and removes it after a timeout, resolving with success.
+// ---
+
 /**
  * Loads the given `url` into an iframe and then removes it after the `timeout`.
  * @param {string} url - The URL to load into the iframe.

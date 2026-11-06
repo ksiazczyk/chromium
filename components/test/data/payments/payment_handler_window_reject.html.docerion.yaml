@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_window_reject.html.
+type: test
+title: Payment handler window with reject button
+summary: Payment app window that signals readiness or a user-initiated rejection to its service worker for payment error tests.

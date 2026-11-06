@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Shipping address and option change test logic
+// summary: Script that creates payment requests with shipping and verifies changeShippingAddress() and changeShippingOption() results across no-handler, rejection, throw, and details cases.
+// ---
+
 const methodName = window.location.origin;
 let request = undefined;
 

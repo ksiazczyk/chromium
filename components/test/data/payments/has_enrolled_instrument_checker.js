@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Has enrolled instrument checker script
+// summary: Checks whether a given payment method has an enrolled instrument via PaymentRequest.hasEnrolledInstrument() and returns true, false, or an error message.
+// ---
+
 /**
  * Checks whether the given payment method has an enrolled instrument.
  * @param {string} method - The payment method identifier to check.

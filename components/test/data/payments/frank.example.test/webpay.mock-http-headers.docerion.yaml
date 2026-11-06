@@ -1,0 +1,4 @@
+# Docerion header of webpay.mock-http-headers.
+type: test
+title: Mock HTTP headers for webpay redirect
+summary: Mock HTTP response headers simulating a 301 redirect from webpay to george.example.test/webpay for payment tests.

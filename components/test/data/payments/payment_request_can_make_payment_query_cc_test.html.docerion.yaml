@@ -1,0 +1,4 @@
+# Docerion header of payment_request_can_make_payment_query_cc_test.html.
+type: test
+title: Payment Request CanMakePayment Query Credit Card Test Page
+summary: Test page with VISA and MasterCard buttons that exercises canMakePayment and hasEnrolledInstrument queries for card payment methods.

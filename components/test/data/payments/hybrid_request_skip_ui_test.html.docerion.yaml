@@ -1,0 +1,4 @@
+# Docerion header of hybrid_request_skip_ui_test.html.
+type: test
+title: Basic Card and Payment App Hybrid Request Test page
+summary: HTML test page with a Buy button that runs the hybrid request skip UI helper and displays the resulting payment response.

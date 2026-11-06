@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can Make Payment Checker script
+// summary: Script that reports canMakePayment results for a payment method or method data, including calling the check twice on one request.
+// ---
+
 const kDetails = {
   total: {label: 'TEST', amount: {currency: 'USD', value: '0.01'}},
 };

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_contact_details_test.html.
+type: test
+title: Payment Request Contact Details Test Page
+summary: Test page with a buy button that exercises requesting contact details through the Payment Request API.

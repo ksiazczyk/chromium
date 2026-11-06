@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Jonpay.test payment manifest
+summary: Test payment method manifest declaring the supported origins alicepay.test and bobpay.test for the jonpay.test payment method.

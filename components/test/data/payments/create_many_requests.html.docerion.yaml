@@ -1,0 +1,4 @@
+# Docerion header of create_many_requests.html.
+type: test
+title: Create many requests test page
+summary: HTML test page that loads the script which creates many PaymentRequest objects for the secure-payment-confirmation method.

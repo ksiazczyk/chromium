@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler status retrieval helper
+// summary: Test helper that shows a PaymentRequest and returns the status field from the payment handler's response, with optional show promise variants.
+// ---
+
 /**
  * Returns the status field from the payment handler's response for the given
  * payment method identifier.

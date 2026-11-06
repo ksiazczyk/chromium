@@ -1,0 +1,4 @@
+# Docerion header of deny_csp_after_redirect.html.
+type: test
+title: Payment request CSP test page denying subdomain connections
+summary: HTML test fixture whose Content-Security-Policy permits connections to its own host on any port but blocks subdomains, used to check canMakePayment behavior after a redirect.

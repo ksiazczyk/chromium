@@ -1,0 +1,4 @@
+# Docerion header of has_enrolled_instrument.html.
+type: test
+title: hasEnrolledInstrument test page
+summary: HTML test page for hasEnrolledInstrument() that loads has_enrolled_instrument.js.

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_no_shipping_test.html.
+type: test
+title: No Shipping Test
+summary: HTML test page for a Payment Request API scenario without shipping, loading no_shipping.js.

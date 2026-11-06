@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment app error responder service worker
+// summary: Service worker payment app that answers canmakepayment and paymentrequest events with configurable errors such as rejections and OperationError.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

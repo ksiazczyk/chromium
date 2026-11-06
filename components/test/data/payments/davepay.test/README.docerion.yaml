@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: DavePay test payment app
+summary: Explains that davepay.test/webpay is used to test a payment app with separate development and production builds that share one web app manifest.

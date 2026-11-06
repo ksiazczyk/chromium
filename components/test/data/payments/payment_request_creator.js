@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment Request Creator Script
+// summary: Script that creates a PaymentRequest object for a given payment method identifier, triggering manifest downloads for URL-based methods.
+// ---
+
 /**
  * Creates a PaymentRequest object for the given |method|. If the |method| is
  * URL-based, that triggers manifest downloads.

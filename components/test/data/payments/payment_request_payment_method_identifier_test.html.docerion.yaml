@@ -1,0 +1,4 @@
+# Docerion header of payment_request_payment_method_identifier_test.html.
+type: test
+title: PMI Test
+summary: HTML test page for payment method identifier handling in the Payment Request API, loading payment_method_identifier.js.

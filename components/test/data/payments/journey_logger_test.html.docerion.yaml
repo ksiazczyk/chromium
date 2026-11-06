@@ -1,0 +1,4 @@
+# Docerion header of journey_logger_test.html.
+type: test
+title: Journey logger test page for Bob Pay and cards
+summary: HTML test page that loads journey_logger.js and provides a button to invoke a fake GPay PaymentRequest flow.

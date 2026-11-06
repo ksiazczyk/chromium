@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest test helper without shipping address
+// summary: Test helper that launches a PaymentRequest UI without requesting a shipping address and reports the response or error message.
+// ---
+
 /**
  * Launches the PaymentRequest UI that does not require a shipping address.
  * @param {String} methodData - An array of payment method objects.

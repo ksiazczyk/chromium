@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest test page for phone number and free shipping
+// summary: Test helper that launches the PaymentRequest UI requesting a payer phone number and offering a free global shipping option.
+// ---
+
 /**
  * Launches the PaymentRequest UI that request a phone number and offers free
  * shipping worldwide.

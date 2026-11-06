@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest metrics test script
+// summary: Launches PaymentRequest UIs with URL-based methods, basic card, and Android Pay variants to exercise metrics logging.
+// ---
+
 let request;
 
 const bobPayMethod = Object.freeze({

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Email and phone PaymentRequest test
+// summary: Launches a PaymentRequest UI that requests both the payer email address and phone number via BobPay and basic-card.
+// ---
+
 /**
  * Launches the PaymentRequest UI that requests email address and phone number.
  */

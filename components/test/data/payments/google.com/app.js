@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Fake Google Pay payment handler service worker
+// summary: Service worker script that simulates the GPay API, validating payment methods and responding to paymentrequest events with test data.
+// ---
+
 /**
  * Create a PaymentHandlerResponse that encapsulates an error message. This
  * makes it easier to debug test failures due to errors in JavaScript.

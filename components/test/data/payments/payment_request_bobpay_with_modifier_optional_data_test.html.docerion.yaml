@@ -1,0 +1,4 @@
+# Docerion header of payment_request_bobpay_with_modifier_optional_data_test.html.
+type: test
+title: Bob Pay with modifier optional data test
+summary: Manual test page for Bob Pay modifier optional data with shipping and contact details request variants.

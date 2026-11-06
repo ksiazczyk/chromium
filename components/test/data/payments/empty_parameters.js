@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest empty parameters regression test
+// summary: Runs canMakePayment on a PaymentRequest built with empty parameters as a regression test for Chromium issue 1022810.
+// ---
+
 /**
  * Queries Payment Request with some empty parameters.
  * Regression test for: https://crbug.com/1022810

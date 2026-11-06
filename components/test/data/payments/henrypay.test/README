@@ -1,1 +1,7 @@
+---
+type: readme
+title: HenryPay test payment app README
+summary: Explains that the HenryPay test app exists to test payment handlers that do not have an icon.
+---
+
 This app is used for testing payment handlers that don't have an icon.

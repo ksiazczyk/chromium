@@ -1,0 +1,4 @@
+# Docerion header of app1.json.
+type: test
+title: EvePay app1 payment app manifest
+summary: Payment app manifest for the first EvePay test app, declaring its Play package ID and SHA256 certificate fingerprint.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Test page UI utilities
+// summary: Helper functions for printing info and error messages and formatting payment responses in the test page.
+// ---
+
 let timeoutID1;
 let timeoutID2;
 

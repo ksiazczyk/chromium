@@ -1,0 +1,4 @@
+# Docerion header of payment_request_retry_with_shipping_address_errors.html.
+type: test
+title: Retry with shipping address errors test page
+summary: HTML test page that triggers a PaymentRequest retry with shipping address errors and prints the result.

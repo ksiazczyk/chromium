@@ -1,0 +1,4 @@
+# Docerion header of two_payment_requests.html.
+type: test
+title: Two payment requests test page
+summary: HTML page titled Two Payment Requests that loads two_payment_requests.js for hasEnrolledInstrument testing.

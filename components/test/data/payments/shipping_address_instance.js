@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Shipping address instance comparison test script
+// summary: Test script that checks whether PaymentRequest.shippingAddress and PaymentResponse.shippingAddress are the same object instance.
+// ---
+
 /**
  * Launches PaymentRequest to check whether PaymentRequest.shippingAddress is
  * the same instance as PaymentResponse.shippingAddress.

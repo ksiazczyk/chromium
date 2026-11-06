@@ -1,0 +1,4 @@
+# Docerion header of payment_request_can_make_payment_query_bobpay_test.html.
+type: test
+title: Active Payment Query Bob Pay Test
+summary: Manual test page that queries canMakePayment and hasEnrolledInstrument for Bob Pay and Alice Pay payment methods.

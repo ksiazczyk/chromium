@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment method manifest for harry.example.test
+summary: Payment method manifest that lists app.json as the default payment application for the test payment method.

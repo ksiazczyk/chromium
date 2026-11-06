@@ -1,0 +1,4 @@
+# Docerion header of payment_request_bobpay_test.html.
+type: test
+title: Bob Pay Test
+summary: Manual test page that queries buy and canMakePayment for the Bob Pay payment method and prints the result.

@@ -1,0 +1,4 @@
+# Docerion header of deny_csp.html.
+type: test
+title: CSP test page denying all payment connections
+summary: Test page that blocks all connections with a connect-src 'none' Content-Security-Policy and exposes checkCanMakePayment() to test PaymentRequest canMakePayment() under that policy.

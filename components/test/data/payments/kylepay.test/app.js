@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: KylePay payment app service worker
+// summary: Service worker that answers canmakepayment and paymentrequest events with test payment response data including shipping and payer details.
+// ---
+
 self.addEventListener('canmakepayment', (evt) => {
   evt.respondWith(true);
 });

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest payer name test
+// summary: Launches PaymentRequest requesting the payer name and prints the returned payer details.
+// ---
+
 /**
  * Launches the PaymentRequest UI that offers free shipping worldwide.
  *

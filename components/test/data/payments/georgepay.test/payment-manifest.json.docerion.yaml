@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment manifest for georgepay.test
+summary: Test fixture manifest declaring the payment origins supported by the georgepay.test payment method.

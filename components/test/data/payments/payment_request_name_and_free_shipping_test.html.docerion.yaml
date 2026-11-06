@@ -1,0 +1,4 @@
+# Docerion header of payment_request_name_and_free_shipping_test.html.
+type: test
+title: Name and Free Shipping Test page
+summary: HTML test page that loads name_and_free_shipping.js to test payer name collection with free shipping in Payment Request.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Secure payment confirmation request test helper
+// summary: Helper script for browser tests that requests secure payment confirmation payments with different payee data and returns the clientDataJSON string or an error message.
+// ---
+
 /**
  * Requests a secure payment confirmation payment for the given credential
  * identifier and payment method data.

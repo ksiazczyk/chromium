@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest name and free shipping test
+// summary: Launches PaymentRequest with basic card requesting payer name and free global shipping.
+// ---
+
 /**
  * Launches the PaymentRequest UI that request a payer name and offers free
  * shipping worldwide.

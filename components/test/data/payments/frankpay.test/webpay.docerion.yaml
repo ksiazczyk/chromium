@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Intentionally blank webpay fixture
+summary: Deliberately empty file representing the webpay payment app page for the frankpay.test payment method in tests.

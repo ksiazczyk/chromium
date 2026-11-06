@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay placeholder page
+summary: Intentionally blank HTML placeholder served for the webpay scope of the KylePay test app.

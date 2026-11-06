@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Secure payment confirmation client data test helpers
+// summary: Creates secure-payment-confirmation requests and extracts the total amount from clientDataJSON, including modifier and show promise variants.
+// ---
+
 const kPaymentMethodIdentifier = 'secure-payment-confirmation';
 
 /**

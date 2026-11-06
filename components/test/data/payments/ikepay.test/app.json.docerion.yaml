@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: IkePay payment app manifest test data
+summary: Test fixture describing the IkePay payment app, including its Play platform application and a SHA256 certificate fingerprint.

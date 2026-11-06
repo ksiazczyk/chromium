@@ -1,0 +1,4 @@
+# Docerion header of payment_request_csp_allow_specific.html.
+type: test
+title: Payment Request CSP Test
+summary: HTML test page that loads a script checking canMakePayment under a Content-Security-Policy allowing a specific payment method host.

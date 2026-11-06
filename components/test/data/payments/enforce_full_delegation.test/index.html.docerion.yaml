@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Enforce Full Delegation Tests page
+summary: Manual test page with buttons to enable delegations, add payment methods, create a PaymentRequest and show the payment sheet.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment sheet helper for retry tests
+// summary: Shared helper that opens a PaymentRequest payment sheet with basic-card and free shipping, returning the payment response promise for retry tests.
+// ---
+
 /**
  * Pops up a payment sheet, allowing options to be
  * passed in if particular values are needed.

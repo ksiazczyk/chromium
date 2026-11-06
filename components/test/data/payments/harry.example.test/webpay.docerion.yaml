@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: Blank webpay page for the test payment handler
+summary: Intentionally blank page served at the /webpay scope of the test payment handler.

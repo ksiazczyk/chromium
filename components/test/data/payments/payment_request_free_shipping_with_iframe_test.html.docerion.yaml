@@ -1,0 +1,4 @@
+# Docerion header of payment_request_free_shipping_with_iframe_test.html.
+type: test
+title: Payment Request Free Shipping With Iframe Test
+summary: Test page for the Payment Request API covering free shipping inside an iframe, loading free_shipping.js.

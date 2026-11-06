@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: PaymentRequest free shipping test
+// summary: Launches the PaymentRequest UI offering free global shipping and keeps prices unchanged when the shipping address changes.
+// ---
+
 /**
  * Launches the PaymentRequest UI that offers free shipping worldwide.
  * @param {sequence<PaymentMethodData>} methodData An array of payment method

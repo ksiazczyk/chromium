@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Contact details and free shipping PaymentRequest test
+// summary: Launches a PaymentRequest UI that requests payer contact details and offers free global shipping, printing the response.
+// ---
+
 /**
  * Launches the PaymentRequest UI that requests an email address and a phone
  * number and offers free shipping worldwide.

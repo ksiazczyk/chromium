@@ -1,3 +1,9 @@
+---
+type: readme
+title: Charlie example test payment data README
+summary: Explains that the charlie.example.test webpay payment method redirects to david.example.test/webpay, analogous to google.com/pay redirecting to pay.google.com.
+---
+
 The payment method https://charlie.example.test/webpay redirects to
 https://david.example.test/webpay, similar to how https://google.com/pay
 redirects to https://pay.google.com/about.

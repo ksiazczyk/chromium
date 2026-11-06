@@ -1,0 +1,4 @@
+# Docerion header of app2.json.
+type: test
+title: EvePay app2 payment app manifest
+summary: Payment app manifest for the second EvePay test app, identical to app1 except for its SHA256 certificate fingerprint.

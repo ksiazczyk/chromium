@@ -1,0 +1,4 @@
+# Docerion header of payment_request_csp_violation.html.
+type: test
+title: Payment Request CSP Violation Test Page
+summary: Test page with a Content-Security-Policy blocking all payment method URLs to test canMakePayment under a violating CSP.

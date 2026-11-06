@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: Payment manifest test fixture
+summary: Test fixture payment manifest for john.example.test that lists the default payment application manifest URL.

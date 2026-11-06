@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payer email PaymentRequest test
+// summary: Launches a PaymentRequest UI that requests the payer email address and prints the payment response.
+// ---
+
 /**
  * Launches the PaymentRequest UI that requests email address.
  */

@@ -1,0 +1,4 @@
+# Docerion header of app_manifest.json.
+type: test
+title: Payment handler app manifest for MaxPay
+summary: Web app manifest declaring the MaxPay payment handler name and its 50x50 icon for the full delegation test.

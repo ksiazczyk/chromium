@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment Request Response ID Helper
+// summary: Test helper that creates a PaymentRequest with a details id and returns the request identifier from the response.
+// ---
+
 /**
  * Launches the PaymentRequest UI including a details.id and returns the
  * request identifier from the response.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment request logic for the full delegation test page
+// summary: Implements enabling PaymentManager delegations, adding supported methods, creating a PaymentRequest and showing the payment sheet.
+// ---
+
 const CURRENT_URL = window.location.origin + window.location.pathname;
 const METHOD_NAME = CURRENT_URL.substring(0, CURRENT_URL.lastIndexOf('/')) +
     '/method_manifest.json';

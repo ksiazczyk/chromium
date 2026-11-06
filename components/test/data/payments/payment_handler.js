@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler install, launch, and delegation helper
+// summary: Test helper that installs, uninstalls, launches, and delegates options to a service worker based payment handler.
+// ---
+
 const DEFAULT_METHOD_NAME = window.location.origin;
 const SW_SRC_URL = 'payment_handler_sw.js';
 

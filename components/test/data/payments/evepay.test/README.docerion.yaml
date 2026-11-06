@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: evepay.test README
+summary: Explains that the evepay.test webpay endpoint is used for testing two Android payment apps that have identical package names but different fingerprints.

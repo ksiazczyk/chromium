@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can Make Payment metrics test script
+// summary: Test helper showing PaymentRequests with and without prior CanMakePayment queries to exercise metrics for URL-based and basic-card methods.
+// ---
+
 // Global variable. Used by abort().
 let request;
 

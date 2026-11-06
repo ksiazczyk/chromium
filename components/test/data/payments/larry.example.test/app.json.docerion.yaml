@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Larry.Example payment app manifest
+summary: Web app manifest for the Larry.Example test payment app, declaring its icon and service worker registration.

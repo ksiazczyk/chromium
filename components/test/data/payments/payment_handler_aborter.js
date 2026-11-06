@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Payment handler abort test helper
+// summary: Test helper that launches a payment handler, waits for a ready-for-abort payment method change event, then aborts the request.
+// ---
+
 /**
  * Launches a payment handler, waits for the payment handler to issue a payment
  * method change event with 'status': 'ready for abort' (as, for example, done

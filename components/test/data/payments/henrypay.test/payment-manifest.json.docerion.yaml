@@ -1,0 +1,4 @@
+# Docerion header of payment-manifest.json.
+type: test
+title: HenryPay payment method manifest
+summary: Payment method manifest pointing to the HenryPay app.json and allowing all supported origins.

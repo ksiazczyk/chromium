@@ -1,0 +1,4 @@
+# Docerion header of csp_prevent_icon_download.html.
+type: test
+title: CSP prevent icon download test page
+summary: Test page whose Content-Security-Policy blocks image downloads to verify payment icon refetch behaviour.

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_alicepay_bobpay_charliepay_test.html.
+type: test
+title: Alice Pay, Bob Pay, Charlie Pay Test
+summary: Manual test page that triggers a PaymentRequest purchase with the Alice Pay, Bob Pay and Charlie Pay payment apps and shows the result.

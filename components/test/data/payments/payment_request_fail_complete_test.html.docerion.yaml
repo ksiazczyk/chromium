@@ -1,0 +1,4 @@
+# Docerion header of payment_request_fail_complete_test.html.
+type: test
+title: Payment Request Fail Complete Test
+summary: Test page titled No Shipping Test that loads fail_complete.js to cover a failing payment completion.

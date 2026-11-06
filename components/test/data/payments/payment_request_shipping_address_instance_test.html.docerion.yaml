@@ -1,0 +1,4 @@
+# Docerion header of payment_request_shipping_address_instance_test.html.
+type: test
+title: Shipping address instance test page
+summary: HTML test page that verifies the shipping address instance returned by a PaymentRequest.

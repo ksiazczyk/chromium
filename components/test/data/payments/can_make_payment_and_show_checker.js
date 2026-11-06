@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Can Make Payment and Show Checker script
+// summary: Script that initializes a PaymentRequest and reports canMakePayment, hasEnrolledInstrument, and show() results for a payment method.
+// ---
+
 const kDetails = {
   total: {label: 'TEST', amount: {currency: 'USD', value: '0.01'}},
 };

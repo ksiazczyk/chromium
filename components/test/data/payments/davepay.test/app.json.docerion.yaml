@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: DavePay web app manifest
+summary: Web app manifest for the DavePay test payment app, listing its Play Store development and production builds with SHA256 certificate fingerprints.

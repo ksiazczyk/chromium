@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_aborter.html.
+type: test
+title: Payment method change event waiter page
+summary: Test page that loads payment_handler_aborter.js for waiting on payment method change events.

@@ -1,0 +1,4 @@
+# Docerion header of payment_request_multiple_show_test.html.
+type: test
+title: Multiple Show Test page
+summary: HTML test page with buttons to show a payment request again or show a second request, loading multiple_show.js.

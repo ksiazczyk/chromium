@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: AlicePay web app manifest
+summary: Web app manifest describing the AlicePay test payment app, including its icon and a Play store application with certificate fingerprint.
