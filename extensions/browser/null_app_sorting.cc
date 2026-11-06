@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null app sorting implementation
+// summary: Implements a no-op AppSorting that returns fixed default ordinals and performs no ordering of extension apps.
+// ---
+
 #include "extensions/browser/null_app_sorting.h"
 
 #include "components/sync/model/string_ordinal.h"

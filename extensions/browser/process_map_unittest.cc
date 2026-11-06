@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessMap unit tests
+// summary: Unit tests covering insertion, containment, duplicate handling, and removal behavior of the extensions ProcessMap.
+// ---
+
 #include "extensions/browser/process_map.h"
 
 #include "base/memory/ref_counted.h"

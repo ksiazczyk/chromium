@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest V2 deprecation utility interface
+// summary: Declares manifest_v2_util helpers that report whether an extension is an MV2 extension affected by the deprecation and subject to installation restrictions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MANIFEST_V2_UTIL_H_
 #define EXTENSIONS_BROWSER_MANIFEST_V2_UTIL_H_
 

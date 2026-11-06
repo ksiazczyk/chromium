@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Requirements checker unit tests
+// summary: Unit tests covering the requirements checker for empty, fulfilled and failing requirements, including asynchronous WebGL checks.
+// ---
+
 #include "extensions/browser/requirements_checker.h"
 
 #include <memory>

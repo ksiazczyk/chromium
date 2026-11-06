@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions API client default implementation
+// summary: Provides default no-op implementations of the ExtensionsAPIClient hooks that embedders override to customize extension API support.
+// ---
+
 #include "extensions/browser/api/extensions_api_client.h"
 
 #include "base/task/single_thread_task_runner.h"

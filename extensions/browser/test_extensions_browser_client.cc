@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the test extensions browser client
+// summary: Implements TestExtensionsBrowserClient, providing a browser client with safe or null defaults for delegates such as management and kiosk during tests.
+// ---
+
 #include "extensions/browser/test_extensions_browser_client.h"
 
 #include "base/command_line.h"

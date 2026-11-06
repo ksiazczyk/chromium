@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore data fetcher header
+// summary: Declares the WebstoreDataFetcher class that requests web store data for an extension item via the item snippets API with retry and testing hooks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WEBSTORE_DATA_FETCHER_H_
 #define EXTENSIONS_BROWSER_WEBSTORE_DATA_FETCHER_H_
 

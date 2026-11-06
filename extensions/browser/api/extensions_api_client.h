@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions API client interface declaration
+// summary: Declares ExtensionsAPIClient, the singleton through which the embedder of the extensions module customizes API feature support.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_EXTENSIONS_API_CLIENT_H_
 #define EXTENSIONS_BROWSER_API_EXTENSIONS_API_CLIENT_H_
 

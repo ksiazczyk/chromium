@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blocklist test support implementation
+// summary: Implements TestBlocklist and BlocklistStateFetcherMock, which attach fake Safe Browsing database and state fetcher mocks so extension blocklist behavior can be tested.
+// ---
+
 #include "extensions/browser/test_blocklist.h"
 
 #include <set>

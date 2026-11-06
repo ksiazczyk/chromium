@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateObserver interface
+// summary: Declares the UpdateObserver interface with callbacks invoked when an app update or a Chrome update is available.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATE_OBSERVER_H_
 #define EXTENSIONS_BROWSER_UPDATE_OBSERVER_H_
 

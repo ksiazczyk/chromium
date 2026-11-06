@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessManagerObserver interface
+// summary: Declares an observer interface for ProcessManager events such as background host startup and shutdown, frame registration and service worker tracking.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MANAGER_OBSERVER_H_
 #define EXTENSIONS_BROWSER_PROCESS_MANAGER_OBSERVER_H_
 

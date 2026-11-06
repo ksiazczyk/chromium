@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock screen header
+// summary: Declares MockScreen, a display::Screen subclass returning a fixed set of fake displays and no-op observer handling for tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MOCK_SCREEN_H_
 #define EXTENSIONS_BROWSER_MOCK_SCREEN_H_
 

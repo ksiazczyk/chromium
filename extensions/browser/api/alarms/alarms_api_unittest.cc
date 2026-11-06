@@ -4,6 +4,12 @@
 
 // This file tests the chrome.alarms extension API.
 
+// ---docerion
+// type: test
+// title: chrome.alarms API unit tests
+// summary: Tests the chrome.alarms extension API, covering alarm objects, scheduling, persistence and firing behavior.
+// ---
+
 #include "extensions/browser/api/alarms/alarms_api.h"
 
 #include <stddef.h>

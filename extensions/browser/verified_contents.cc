@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verified contents parsing and signature validation
+// summary: Implements VerifiedContents, which parses webstore-generated verified_contents.json payloads, validates signatures, and extracts expected content hashes.
+// ---
+
 #include "extensions/browser/verified_contents.h"
 
 #include <stddef.h>

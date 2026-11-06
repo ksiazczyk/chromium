@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestRuntimeAPIDelegate declaration
+// summary: Declares a test RuntimeAPIDelegate offering stub runtime API behaviors such as extension reload, update checks, platform info, and device restart for extension tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_RUNTIME_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_TEST_RUNTIME_API_DELEGATE_H_
 

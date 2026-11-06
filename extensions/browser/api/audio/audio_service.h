@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service interface
+// summary: Defines the abstract AudioService interface with observer notifications and operations for querying devices and setting active devices, sound levels and mute state.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_AUDIO_AUDIO_SERVICE_H_
 #define EXTENSIONS_BROWSER_API_AUDIO_AUDIO_SERVICE_H_
 

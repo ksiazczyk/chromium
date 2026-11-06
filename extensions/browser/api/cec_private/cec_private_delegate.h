@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CecPrivateDelegate platform abstraction interface
+// summary: Defines an abstract delegate interface that absorbs platform differences for the cecPrivate API and shields callers with no-ops when the provider is absent.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CEC_PRIVATE_CEC_PRIVATE_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_CEC_PRIVATE_CEC_PRIVATE_DELEGATE_H_
 

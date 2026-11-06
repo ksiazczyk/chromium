@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Requirements checker header
+// summary: Declares RequirementsChecker, a PreloadCheck that asynchronously validates the requirements manifest field such as WebGL support on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_REQUIREMENTS_CHECKER_H_
 #define EXTENSIONS_BROWSER_REQUIREMENTS_CHECKER_H_
 

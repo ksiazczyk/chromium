@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message tracker unit tests
+// summary: Unit tests verifying that MessageTracker records success, hung and post-timeout metrics for extension message pipeline stages.
+// ---
+
 #include "extensions/browser/message_tracker.h"
 
 #include "base/strings/strcat.h"

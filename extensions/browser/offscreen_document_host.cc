@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen document host implementation
+// summary: Implements the ExtensionHost subclass for manifest version 3 offscreen extension documents.
+// ---
+
 #include "extensions/browser/offscreen_document_host.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension verified contents
+// summary: Unit tests for the VerifiedContents class, checking tree hash roots, extension metadata, and case handling when loading verified contents files.
+// ---
+
 #include <stdint.h>
 
 #include <string>

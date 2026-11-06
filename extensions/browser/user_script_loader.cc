@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script loader implementation
+// summary: Implements UserScriptLoader, including Greasemonkey-style metadata header parsing and management of user scripts in shared memory for renderers.
+// ---
+
 #include "extensions/browser/user_script_loader.h"
 
 #include <stddef.h>

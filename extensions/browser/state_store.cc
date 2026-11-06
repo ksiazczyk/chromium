@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StateStore implementation
+// summary: Implements StateStore, a persisted per-extension key-value store with deferred loading, delayed task queueing, and key cleanup on install or uninstall.
+// ---
+
 #include "extensions/browser/state_store.h"
 
 #include <stddef.h>

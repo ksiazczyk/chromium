@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for accessibility mojom dependencies
+summary: Grants this directory permission to include headers from services/accessibility/public/mojom.

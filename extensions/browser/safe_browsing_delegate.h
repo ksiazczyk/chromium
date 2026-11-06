@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe browsing delegate header
+// summary: Declares SafeBrowsingDelegate, an interface giving access to extension telemetry and safe browsing notifications for API invocations and web contents.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SAFE_BROWSING_DELEGATE_H_
 #define EXTENSIONS_BROWSER_SAFE_BROWSING_DELEGATE_H_
 

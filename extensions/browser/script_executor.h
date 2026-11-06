@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptExecutor class header
+// summary: Declares the ScriptExecutor interface for running extension scripts in web contents, including frame scope, process type, and per-frame result types.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCRIPT_EXECUTOR_H_
 #define EXTENSIONS_BROWSER_SCRIPT_EXECUTOR_H_
 

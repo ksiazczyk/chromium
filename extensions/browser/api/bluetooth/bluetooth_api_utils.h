@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth API utility helper declarations
+// summary: Declares helpers for populating API Device and AdapterState objects from device::Bluetooth objects, plus a ChromeOS filter type converter.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_UTILS_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_UTILS_H_
 

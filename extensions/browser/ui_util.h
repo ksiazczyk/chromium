@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension UI utility functions declaration
+// summary: Declares helpers for determining extension visibility in the settings page, fixing up extension names for UI display to prevent spoofing, and building localized extensions for display.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UI_UTIL_H_
 #define EXTENSIONS_BROWSER_UI_UTIL_H_
 

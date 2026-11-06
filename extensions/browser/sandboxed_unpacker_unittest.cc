@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxedUnpacker unit tests
+// summary: Unit tests for SandboxedUnpacker covering extension unpacking, illegal image paths, unpack error reporting and content hash computation behavior.
+// ---
+
 #include "extensions/browser/sandboxed_unpacker.h"
 
 #include <memory>

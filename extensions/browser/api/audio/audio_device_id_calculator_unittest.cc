@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stable device ID calculator unit tests
+// summary: Unit tests verifying generation, lookup and persistence of stable device ID mappings across calculator resets.
+// ---
+
 #include "extensions/browser/api/audio/audio_device_id_calculator.h"
 
 #include <memory>

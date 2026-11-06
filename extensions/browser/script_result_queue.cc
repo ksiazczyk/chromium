@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script result queue for tests
+// summary: Test helper that collects results sent via chrome.test.sendScriptResult() and waits for the next result to arrive.
+// ---
+
 #include "extensions/browser/script_result_queue.h"
 
 #include "base/run_loop.h"

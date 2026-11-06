@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxedUnpacker extension unpacking and validation
+// summary: Declares SandboxedUnpacker and SandboxedUnpackerClient for unpacking, validating and sanitizing extension packages in a sandboxed out-of-process utility.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SANDBOXED_UNPACKER_H_
 #define EXTENSIONS_BROWSER_SANDBOXED_UNPACKER_H_
 

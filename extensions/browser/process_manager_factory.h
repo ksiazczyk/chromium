@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessManagerFactory class declaration
+// summary: Declares the ProcessManagerFactory keyed service factory with static accessors for retrieving a browser context's ProcessManager.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MANAGER_FACTORY_H_
 #define EXTENSIONS_BROWSER_PROCESS_MANAGER_FACTORY_H_
 

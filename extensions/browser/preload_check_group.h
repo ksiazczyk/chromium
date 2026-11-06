@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group runner for extension preload checks
+// summary: Declares PreloadCheckGroup, which runs a collection of PreloadChecks and reports their collective status once all have finished.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PRELOAD_CHECK_GROUP_H_
 #define EXTENSIONS_BROWSER_PRELOAD_CHECK_GROUP_H_
 

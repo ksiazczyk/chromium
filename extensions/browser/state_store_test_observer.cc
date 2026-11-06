@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StateStoreTestObserver implementation
+// summary: Implements StateStoreTestObserver, a test helper that waits for extension state store writes and flushes the store when the expected key is written.
+// ---
+
 #include "extensions/browser/state_store_test_observer.h"
 
 #include "content/public/browser/browser_thread.h"

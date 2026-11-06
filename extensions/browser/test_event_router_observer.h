@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test event router observer declaration
+// summary: Header declaring an observer that records events dispatched through an EventRouter and lets tests wait for specific event names.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_EVENT_ROUTER_OBSERVER_H_
 #define EXTENSIONS_BROWSER_TEST_EVENT_ROUTER_OBSERVER_H_
 

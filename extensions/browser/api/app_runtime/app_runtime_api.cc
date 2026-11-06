@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App runtime event dispatching implementation
+// summary: Implements AppRuntimeEventRouter dispatching of onLaunched, onEmbedRequested and onRestarted events to extension apps, including launch source mapping and session flags.
+// ---
+
 #include "extensions/browser/api/app_runtime/app_runtime_api.h"
 
 #include <stddef.h>

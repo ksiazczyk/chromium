@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process utilities implementation
+// summary: Implements GetPersistentBackgroundPageState, which reports whether an extension's persistent background page is ready, handling incognito spanning and split modes.
+// ---
+
 #include "extensions/browser/process_util.h"
 
 #include "base/check.h"

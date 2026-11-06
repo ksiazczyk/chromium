@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the app.window.create extension function
+// summary: Implements the app.window.create API for Chrome apps, validating frame, bounds, color, alpha and IME options before creating app windows.
+// ---
+
 #include "extensions/browser/api/app_window/app_window_api.h"
 
 #include <algorithm>

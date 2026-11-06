@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blocklist test support class declarations
+// summary: Declares TestBlocklist and BlocklistStateFetcherMock wrappers that mock the Safe Browsing database and blocklist state fetcher used by the extension blocklist in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_BLOCKLIST_H_
 #define EXTENSIONS_BROWSER_TEST_BLOCKLIST_H_
 

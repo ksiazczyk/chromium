@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore installer header
+// summary: Declares the WebstoreInstaller class that downloads and installs web store extensions, with install sources, failure reasons, and callbacks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WEBSTORE_INSTALLER_H_
 #define EXTENSIONS_BROWSER_WEBSTORE_INSTALLER_H_
 

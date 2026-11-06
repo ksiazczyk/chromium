@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock external provider implementation
+// summary: Implements a test ExternalProviderInterface that registers, removes, and reports fake external extension install info for file and update-URL sources.
+// ---
+
 #include "extensions/browser/mock_external_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock screen implementation
+// summary: Implements a fake display::Screen with four fixed 1280x720 displays for use in extension tests.
+// ---
+
 #include "extensions/browser/mock_screen.h"
 
 #include "ui/gfx/native_ui_types.h"

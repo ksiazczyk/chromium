@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy context task queue implementation
+// summary: Implements the ContextInfo constructors for LazyContextTaskQueue, capturing extension host, render process, and service worker context details.
+// ---
+
 #include "extensions/browser/lazy_context_task_queue.h"
 #include "content/public/browser/render_process_host.h"
 #include "extensions/browser/extension_host.h"

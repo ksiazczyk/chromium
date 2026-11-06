@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyCheck unit tests
+// summary: Unit tests for PolicyCheck verifying success for allowed extensions and the kDisallowedByPolicy error for policy-blocked extensions.
+// ---
+
 #include "extensions/browser/policy_check.h"
 
 #include <string>

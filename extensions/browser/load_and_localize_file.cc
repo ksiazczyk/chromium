@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load and localize extension resources implementation
+// summary: Implements loading extension resources, optionally localizing message substitutions in the background, and returning the data via callback.
+// ---
+
 #include "extensions/browser/load_and_localize_file.h"
 
 #include <algorithm>

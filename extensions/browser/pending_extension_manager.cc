@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending extension manager implementation
+// summary: Implements management of pending extensions, including adding from sync and external update URLs and removal tracking.
+// ---
+
 #include "extensions/browser/pending_extension_manager.h"
 
 #include <algorithm>

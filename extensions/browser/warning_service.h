@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning service header
+// summary: Declares WarningService, a keyed service managing warnings caused by misbehaving extensions that trigger a warning badge in the UI.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WARNING_SERVICE_H_
 #define EXTENSIONS_BROWSER_WARNING_SERVICE_H_
 

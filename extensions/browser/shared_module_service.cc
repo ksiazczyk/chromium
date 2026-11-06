@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedModuleService implementation
+// summary: Implements SharedModuleService to check and satisfy extension shared module imports, queue pending webstore installs, and prune unused shared modules.
+// ---
+
 #include "extensions/browser/shared_module_service.h"
 
 #include <set>

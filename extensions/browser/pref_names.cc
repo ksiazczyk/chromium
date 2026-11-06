@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension pref name helpers
+// summary: Maps ChromeSettingScope values to extension preference names such as regular, regular-only, and incognito preferences.
+// ---
+
 #include "extensions/browser/pref_names.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension warning implementation
+// summary: Implements the Warning class and factory methods for warning types such as network delay, repeated cache flushes, and download filename conflicts.
+// ---
+
 #include "extensions/browser/warning_set.h"
 
 #include <stddef.h>

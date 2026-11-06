@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execute code function implementation
+// summary: Implements loading, localizing, and injecting extension scripts and CSS into web contents through the ScriptExecutor.
+// ---
+
 #include "extensions/browser/api/execute_code_function.h"
 
 #include <algorithm>

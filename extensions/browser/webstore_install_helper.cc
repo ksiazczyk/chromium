@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install helper implementation
+// summary: Parses a webstore extension manifest and fetches and decodes its icon, returning parsed data or an error through an asynchronous callback.
+// ---
+
 #include "extensions/browser/webstore_install_helper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the extensions browser API directory
+summary: Grants this directory include access to allowed components such as content settings, permissions, policy, storage, and UI dependencies.

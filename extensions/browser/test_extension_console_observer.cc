@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the extension console observer
+// summary: Implements TestExtensionConsoleObserver, capturing warning and error console messages from an extension's service worker or background page.
+// ---
+
 #include "extensions/browser/test_extension_console_observer.h"
 
 #include "base/strings/utf_string_conversions.h"

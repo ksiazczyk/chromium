@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedActiveInstall class declaration
+// summary: Declares a scoped helper that registers and deregisters an active extension install with InstallTracker, with an option to cancel deregistration.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCOPED_ACTIVE_INSTALL_H_
 #define EXTENSIONS_BROWSER_SCOPED_ACTIVE_INSTALL_H_
 

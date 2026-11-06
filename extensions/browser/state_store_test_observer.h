@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StateStoreTestObserver class declaration
+// summary: Declares StateStoreTestObserver, a test helper that observes when an extension's data is written to the state store.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_STATE_STORE_TEST_OBSERVER_H_
 #define EXTENSIONS_BROWSER_STATE_STORE_TEST_OBSERVER_H_
 

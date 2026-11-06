@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock display info provider implementation
+// summary: Implements a mock DisplayInfoProviderBase for tests, recording display property changes and simulating overscan calibration, mirror mode, and touch calibration behavior.
+// ---
+
 #include "extensions/browser/mock_display_info_provider.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alarms API minimum delay logic
+// summary: Returns the minimum specifiable alarm delay based on unpacked state and manifest version.
+// ---
+
 #include "extensions/browser/api/alarms/alarms_api_constants.h"
 
 namespace extensions {

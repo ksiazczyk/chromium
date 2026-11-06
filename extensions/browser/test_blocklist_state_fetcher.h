@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blocklist state fetcher declarations
+// summary: Declares TestBlocklistStateFetcher, a wrapper that emulates server responses for blocklist state fetch requests for given extension IDs in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_BLOCKLIST_STATE_FETCHER_H_
 #define EXTENSIONS_BROWSER_TEST_BLOCKLIST_STATE_FETCHER_H_
 

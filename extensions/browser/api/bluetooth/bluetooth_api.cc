@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth extension API service implementation
+// summary: Implements the BluetoothAPI browser-context-keyed service that manages the Bluetooth extension API and its event router on the UI thread.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_api.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestManagementPolicyProvider implementation
+// summary: Implements a configurable ManagementPolicy provider that returns fixed decisions about loading, modifying settings, and remaining enabled, disabled, or installed, with a known error message for tests.
+// ---
+
 #include "extensions/browser/test_management_policy.h"
 
 #include "base/strings/utf_string_conversions.h"

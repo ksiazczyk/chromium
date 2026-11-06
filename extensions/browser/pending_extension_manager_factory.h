@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingExtensionManager factory header
+// summary: Declares PendingExtensionManagerFactory, a keyed service factory that shares PendingExtensionManager between an incognito browser context and its original context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PENDING_EXTENSION_MANAGER_FACTORY_H_
 #define EXTENSIONS_BROWSER_PENDING_EXTENSION_MANAGER_FACTORY_H_
 

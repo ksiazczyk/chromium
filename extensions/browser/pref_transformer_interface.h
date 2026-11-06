@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for extension preference transformers
+// summary: Declares an interface that converts preference values between the extension-facing representation and the browser pref store representation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PREF_TRANSFORMER_INTERFACE_H_
 #define EXTENSIONS_BROWSER_PREF_TRANSFORMER_INTERFACE_H_
 

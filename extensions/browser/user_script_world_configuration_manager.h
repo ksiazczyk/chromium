@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptWorldConfigurationManager class declaration
+// summary: Declares a keyed service that manages configurations for extensions' isolated user script worlds, such as messaging and CSP settings, backed by ExtensionPrefs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_USER_SCRIPT_WORLD_CONFIGURATION_MANAGER_H_
 #define EXTENSIONS_BROWSER_USER_SCRIPT_WORLD_CONFIGURATION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents capture client implementation
+// summary: Implements capturing web contents screenshots and encoding the resulting bitmaps as JPEG or PNG for extension API responses.
+// ---
+
 #include "extensions/browser/api/web_contents_capture_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension console observer declaration
+// summary: Header declaring an observer that monitors an extension's console for errors and warnings, with support for allowlisted error messages.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_EXTENSION_CONSOLE_OBSERVER_H_
 #define EXTENSIONS_BROWSER_TEST_EXTENSION_CONSOLE_OBSERVER_H_
 

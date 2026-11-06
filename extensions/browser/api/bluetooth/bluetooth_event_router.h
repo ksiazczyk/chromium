@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth event router header
+// summary: Declares BluetoothEventRouter, which observes adapter, extension registry and host changes and manages discovery sessions and pairing delegates.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_EVENT_ROUTER_H_
 

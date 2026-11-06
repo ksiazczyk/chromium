@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the automationInternal extension API
+// summary: Implements the automationInternal extension functions, converting extension actions to accessibility actions and enabling trees or the desktop.
+// ---
+
 #include "extensions/browser/api/automation_internal/automation_internal_api.h"
 
 #include <stdint.h>

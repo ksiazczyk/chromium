@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension path utilities declaration
+// summary: Declares helpers to prettify paths, resolve the home directory, and calculate extension directory sizes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PATH_UTIL_H_
 #define EXTENSIONS_BROWSER_PATH_UTIL_H_
 

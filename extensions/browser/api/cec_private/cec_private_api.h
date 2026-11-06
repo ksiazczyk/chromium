@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class declarations for cecPrivate extension API functions
+// summary: Declares the CecPrivateFunction base class with kiosk validation and the sendStandBy, sendWakeUp, and queryDisplayCecPowerState function classes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CEC_PRIVATE_CEC_PRIVATE_API_H_
 #define EXTENSIONS_BROWSER_API_CEC_PRIVATE_CEC_PRIVATE_API_H_
 

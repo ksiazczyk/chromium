@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network permissions updater implementation
+// summary: Implements updating the network service's CORS origin access lists for extensions, including incognito handling and single or all-extension updates.
+// ---
+
 #include "extensions/browser/network_permissions_updater.h"
 
 #include "base/barrier_closure.h"

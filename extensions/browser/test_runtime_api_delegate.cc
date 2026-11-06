@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestRuntimeAPIDelegate implementation
+// summary: Implements a stub RuntimeAPIDelegate for tests with no-op update observers and URL opening, no update checks or device restart, and a hardcoded ChromeOS platform info response.
+// ---
+
 #include "extensions/browser/test_runtime_api_delegate.h"
 
 #include "extensions/common/api/runtime.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateInstallGate class declaration
+// summary: Declares UpdateInstallGate, an InstallGate that delays extension updates when the old version is not idle.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATE_INSTALL_GATE_H_
 #define EXTENSIONS_BROWSER_UPDATE_INSTALL_GATE_H_
 

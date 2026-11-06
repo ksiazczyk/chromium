@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scripting utilities header
+// summary: Declares injection target and injected file source structs plus helpers for validating and managing dynamic content script IDs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCRIPTING_UTILS_H_
 #define EXTENSIONS_BROWSER_SCRIPTING_UTILS_H_
 

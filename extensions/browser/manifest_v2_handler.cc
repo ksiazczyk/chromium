@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest V2 deprecation handler implementation
+// summary: Implements the ManifestV2Handler keyed service that disables deprecated Manifest V2 extensions, blocks installations, tracks user acknowledgements and emits deprecation metrics.
+// ---
+
 #include "extensions/browser/manifest_v2_handler.h"
 
 #include "base/auto_reset.h"

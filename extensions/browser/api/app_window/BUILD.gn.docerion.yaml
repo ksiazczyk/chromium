@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the app_window source set
+summary: GN build file defining the app_window source set with its sources and dependencies, enabled only when platform apps are enabled.

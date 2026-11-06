@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null app sorting class declaration
+// summary: Declares NullAppSorting, an AppSorting implementation that provides no ordering for extension apps.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_NULL_APP_SORTING_H_
 #define EXTENSIONS_BROWSER_NULL_APP_SORTING_H_
 

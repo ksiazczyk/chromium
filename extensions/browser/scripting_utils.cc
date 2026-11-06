@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scripting utilities implementation
+// summary: Implements helpers for dynamic script registration, script ID validation, incognito checks, and collecting frames targeted for script injection.
+// ---
+
 #include "extensions/browser/scripting_utils.h"
 
 #include <algorithm>

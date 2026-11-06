@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessManager implementation
+// summary: Implements the per-profile ProcessManager that tracks extension background hosts, render frames and service worker keepalives, including incognito split-mode handling.
+// ---
+
 #include "extensions/browser/process_manager.h"
 
 #include <algorithm>

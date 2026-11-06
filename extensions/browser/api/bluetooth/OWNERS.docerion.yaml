@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Bluetooth extension API
+summary: Delegates code review ownership for this directory by pointing to the ChromeOS Bluetooth OWNERS file.

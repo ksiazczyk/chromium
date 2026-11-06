@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnloadedExtensionReason enum
+// summary: Defines the UnloadedExtensionReason enum listing reasons an extension can be unloaded, such as disable, update, uninstall, terminate, or blocklist.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UNLOADED_EXTENSION_REASON_H_
 #define EXTENSIONS_BROWSER_UNLOADED_EXTENSION_REASON_H_
 

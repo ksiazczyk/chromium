@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed unpacker implementation
+// summary: Unpacks and validates extension archives in a sandboxed process, verifying signatures, sanitizing JSON files and preparing files for install.
+// ---
+
 #include "extensions/browser/sandboxed_unpacker.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererStartupHelper implementation
+// summary: Implements the keyed service that informs renderers about loaded extensions and available functions at startup and handles extension activity log messages.
+// ---
+
 #include "extensions/browser/renderer_startup_helper.h"
 
 #include <ranges>

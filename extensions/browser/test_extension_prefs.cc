@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of test extension prefs helper
+// summary: Implements TestExtensionPrefs, setting up a temporary profile with ExtensionPrefs, a PrefService, and helpers to add test extensions.
+// ---
+
 #include "extensions/browser/test_extension_prefs.h"
 
 #include <memory>

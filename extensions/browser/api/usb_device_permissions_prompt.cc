@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device permissions prompt implementation
+// summary: Implements the USB device chooser prompt logic, enumerating devices and granting user-selected devices to extensions.
+// ---
+
 #include "extensions/browser/api/usb_device_permissions_prompt.h"
 
 #include <algorithm>

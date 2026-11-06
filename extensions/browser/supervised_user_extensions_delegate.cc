@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user extensions delegate stub implementation
+// summary: Implements the SupervisedUserExtensionsDelegate interface with stub methods that are mostly not implemented and return blocked or false results for use in test code.
+// ---
+
 #include "extensions/browser/supervised_user_extensions_delegate.h"
 
 #include "base/notimplemented.h"

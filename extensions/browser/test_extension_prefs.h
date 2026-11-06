@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test extension prefs helper declaration
+// summary: Header declaring a helper class that simplifies working with ExtensionPrefs in tests, including adding extensions, apps, and recreating prefs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_EXTENSION_PREFS_H_
 #define EXTENSIONS_BROWSER_TEST_EXTENSION_PREFS_H_
 

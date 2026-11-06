@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiResource base class implementation
+// summary: Implements the ApiResource constructor, destructor, and default persistent behavior for resources owned by an extension.
+// ---
+
 #include "extensions/browser/api/api_resource.h"
 
 namespace extensions {

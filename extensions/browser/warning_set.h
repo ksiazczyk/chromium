@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension warning header
+// summary: Declares the Warning class and its warning types used by WarningService to represent misbehaving extensions that trigger a badge.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WARNING_SET_H_
 #define EXTENSIONS_BROWSER_WARNING_SET_H_
 

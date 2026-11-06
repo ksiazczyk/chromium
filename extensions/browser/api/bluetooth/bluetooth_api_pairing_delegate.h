@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing delegate header
+// summary: Declares BluetoothApiPairingDelegate, which forwards BluetoothDevice pairing callbacks to the extension event router.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_PAIRING_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_PAIRING_DELEGATE_H_
 

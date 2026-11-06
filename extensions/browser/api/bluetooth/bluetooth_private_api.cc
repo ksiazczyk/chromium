@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth private API implementation
+// summary: Implements the bluetoothPrivate extension API, including adapter state changes, pairing responses, connection failure mapping, and discovery filter handling.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_private_api.h"
 
 #include <stdint.h>

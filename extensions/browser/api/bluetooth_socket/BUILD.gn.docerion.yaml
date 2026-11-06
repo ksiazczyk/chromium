@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the bluetooth_socket extension API
+summary: Defines the bluetooth_socket source_set with its sources and dependencies, asserting the target is only built for ChromeOS with extensions enabled.

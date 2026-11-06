@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Requirements checker implementation
+// summary: Checks extension manifest requirements by verifying WebGL GPU feature availability and reporting an error message when unsupported.
+// ---
+
 #include "extensions/browser/requirements_checker.h"
 
 #include <string>

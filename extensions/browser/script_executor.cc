@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptExecutor implementation
+// summary: Implements execution of extension content scripts and tabs.executeScript calls across frames, sending injection requests to renderers and reporting per-frame results.
+// ---
+
 #include "extensions/browser/script_executor.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsManager implementation
+// summary: Implements user-scoped extension permission management, including restricted and permitted site lists stored in preferences and observer notifications.
+// ---
+
 #include "extensions/browser/permissions_manager.h"
 
 #include <algorithm>

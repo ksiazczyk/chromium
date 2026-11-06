@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth socket extension API function implementations
+// summary: Implements the bluetoothSocket extension API functions, including socket creation, updates, listening, connecting, and validation of permissions, UUIDs, and PSM values.
+// ---
+
 #include "extensions/browser/api/bluetooth_socket/bluetooth_socket_api.h"
 
 #include <stdint.h>

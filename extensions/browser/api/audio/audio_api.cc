@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio API implementation
+// summary: Implements the chrome.audio extension API, dispatching level, mute and device change events and handling getDevices, setActiveDevices, setProperties, setMute and getMute functions.
+// ---
+
 #include "extensions/browser/api/audio/audio_api.h"
 
 #include <memory>

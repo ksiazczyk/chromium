@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management policy unit tests
+// summary: Unit tests for ManagementPolicy covering provider registration and restrictions on loading, installing, and modifying extension settings.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "extensions/browser/management_policy.h"
 #include "extensions/browser/test_management_policy.h"

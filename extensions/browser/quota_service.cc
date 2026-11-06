@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaService implementation
+// summary: Implements QuotaService assessment of extension function calls, applying quota limit heuristics and periodically purging tracked state.
+// ---
+
 #include "extensions/browser/quota_service.h"
 
 #include "base/task/single_thread_task_runner.h"

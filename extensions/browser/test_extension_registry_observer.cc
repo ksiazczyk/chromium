@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the extension registry test observer
+// summary: Implements TestExtensionRegistryObserver with waiter objects that block until install, uninstall, load, ready, or unload events occur.
+// ---
+
 #include "extensions/browser/test_extension_registry_observer.h"
 
 #include <memory>

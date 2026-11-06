@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PreloadCheckGroup
+// summary: Unit tests covering success, failure, and fail-fast behavior of PreloadCheckGroup with synchronous and asynchronous checks.
+// ---
+
 #include "extensions/browser/preload_check_group.h"
 
 #include <memory>

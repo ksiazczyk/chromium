@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning service factory header
+// summary: Declares WarningServiceFactory, which creates and provides per-browser-context WarningService instances.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WARNING_SERVICE_FACTORY_H_
 #define EXTENSIONS_BROWSER_WARNING_SERVICE_FACTORY_H_
 

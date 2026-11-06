@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothApiAdvertisement class declaration
+// summary: Declares the ApiResource wrapper for advertisements from the bluetooth namespace, requiring use on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_API_ADVERTISEMENT_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_API_ADVERTISEMENT_H_
 

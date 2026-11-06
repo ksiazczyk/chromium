@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedActiveInstall implementation
+// summary: Implements scoped registration of an active extension install with the InstallTracker, removing it on destruction or tracker shutdown.
+// ---
+
 #include "extensions/browser/scoped_active_install.h"
 
 #include "extensions/browser/active_install_data.h"

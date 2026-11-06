@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptManager class declaration
+// summary: Declares UserScriptManager, which owns user script loaders for manifest, declarative extension, and embedder scripts and manages userScripts API availability.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_USER_SCRIPT_MANAGER_H_
 #define EXTENSIONS_BROWSER_USER_SCRIPT_MANAGER_H_
 

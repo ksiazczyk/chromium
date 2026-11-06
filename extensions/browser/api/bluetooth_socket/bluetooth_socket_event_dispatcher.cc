@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth socket event dispatcher implementation
+// summary: Implements the per-browser-context dispatcher that starts receive and accept operations on Bluetooth sockets and posts resulting events to extensions.
+// ---
+
 #include "extensions/browser/api/bluetooth_socket/bluetooth_socket_event_dispatcher.h"
 
 #include <memory>

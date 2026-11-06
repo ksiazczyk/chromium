@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestImageLoader test helper declaration
+// summary: Declares a helper class that synchronously loads an extension image from a relative path and returns it as a SkBitmap for use in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_IMAGE_LOADER_H_
 #define EXTENSIONS_BROWSER_TEST_IMAGE_LOADER_H_
 

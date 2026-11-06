@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoaderFactoryManager class declaration
+// summary: Declares URLLoaderFactoryManager, which manages URLLoaderFactory objects handling network requests that require extension-specific permissions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_URL_LOADER_FACTORY_MANAGER_H_
 #define EXTENSIONS_BROWSER_URL_LOADER_FACTORY_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing delegate implementation
+// summary: Implements the pairing delegate that turns device pairing callbacks into bluetoothPrivate onPairing events broadcast to extensions.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_api_pairing_delegate.h"
 
 #include <memory>

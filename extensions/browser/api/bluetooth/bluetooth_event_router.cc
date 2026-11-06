@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth event router implementation
+// summary: Implements BluetoothEventRouter, which manages the Bluetooth adapter, discovery sessions, discovery filters and pairing delegates for extensions.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_event_router.h"
 
 #include <map>

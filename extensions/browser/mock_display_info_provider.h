@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock display info provider header
+// summary: Declares MockDisplayInfoProvider, a test double for DisplayInfoProviderBase with accessors for calibration state, mirror mode, and display change triggering.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MOCK_DISPLAY_INFO_PROVIDER_H_
 #define EXTENSIONS_BROWSER_MOCK_DISPLAY_INFO_PROVIDER_H_
 

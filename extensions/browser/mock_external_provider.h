@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock external provider header
+// summary: Declares MockExternalProvider, a test double for ExternalProviderInterface tracking file and URL extension maps and counting visits.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MOCK_EXTERNAL_PROVIDER_H_
 #define EXTENSIONS_BROWSER_MOCK_EXTERNAL_PROVIDER_H_
 

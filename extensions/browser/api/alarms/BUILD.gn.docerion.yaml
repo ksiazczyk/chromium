@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the alarms extension API
+summary: Defines the alarms source set with its sources and public dependencies for the extensions browser alarms API.

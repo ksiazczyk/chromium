@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScriptResultQueue class header
+// summary: Declares a TestApiObserver that queues script results from chrome.test.sendScriptResult() for use in extension tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCRIPT_RESULT_QUEUE_H_
 #define EXTENSIONS_BROWSER_SCRIPT_RESULT_QUEUE_H_
 

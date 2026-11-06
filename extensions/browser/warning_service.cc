@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning service implementation
+// summary: Implements the per-browser-context service that stores extension warnings, clears them by type, and notifies observers when warnings change.
+// ---
+
 #include "extensions/browser/warning_service.h"
 
 #include "base/observer_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth extension function implementation
+// summary: Implements the BluetoothExtensionFunction base class, checking platform Bluetooth support and obtaining the adapter before running the concrete function's work.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_extension_function.h"
 
 #include "base/functional/bind.h"

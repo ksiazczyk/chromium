@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension path utilities implementation
+// summary: Implements path prettifying with a home directory shortcut and localized names, plus extension directory size calculation.
+// ---
+
 #include "extensions/browser/path_util.h"
 
 #include "base/byte_size.h"

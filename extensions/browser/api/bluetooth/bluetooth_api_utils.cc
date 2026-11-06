@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device and adapter conversion helpers
+// summary: Implements helpers that convert device Bluetooth adapter and device data into the extension API's AdapterState and Device structures.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_api_utils.h"
 
 #include <memory>

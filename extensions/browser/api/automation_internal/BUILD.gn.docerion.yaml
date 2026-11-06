@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the automation_internal source set
+summary: Defines the automation_internal source set, listing its sources and public and private build dependencies for the Chromium extensions build.
