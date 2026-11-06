@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetActivationDelegate singleton implementation
+// summary: Implements the global WidgetActivationDelegate accessor that installs and exposes a single activation-control delegate instance.
+// ---
+
 #include "ui/views/widget/widget_activation_delegate.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopScreenPositionClient implementation
+// summary: Implements the desktop screen position client that places top-level and popup Aura windows using screen coordinates within DesktopNativeWidgetAura.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_screen_position_client.h"
 
 #include "ui/views/widget/desktop_aura/desktop_native_widget_aura.h"

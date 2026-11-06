@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManagerEventHandler class declaration
+// summary: Declares an event handler that registers on an aura window and forwards key events to the widget's focus manager.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_FOCUS_MANAGER_EVENT_HANDLER_H_
 #define UI_VIEWS_WIDGET_FOCUS_MANAGER_EVENT_HANDLER_H_
 

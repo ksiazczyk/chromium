@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentMainDelegate implementation
+// summary: Implements the content main delegate that initializes logging, loads resource packs, and creates the content and browser clients for the views content client.
+// ---
+
 #include "ui/views_content_client/views_content_main_delegate.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web dialogs build targets
+summary: GN build file defining the web_dialogs component, its test support static library, and the web_dialogs_unittests target with their sources and dependencies.

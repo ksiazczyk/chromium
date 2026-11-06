@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ui/views/win
+summary: Lists the reviewers responsible for changes to the Windows views code in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of sublevel_manager_mac_unittest.mm.
+type: test
+title: SublevelManager macOS unit tests
+summary: Parameterized macOS unit tests verifying sublevel stacking of child widgets for active and inactive shows and activatable and non-activatable widgets.

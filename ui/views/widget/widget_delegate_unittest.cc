@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget delegate unit tests
+// summary: Unit tests covering contents view ownership, client, frame and overlay view factories, and window versus app icon handling in WidgetDelegate.
+// ---
+
 #include "ui/views/widget/widget_delegate.h"
 
 #include <memory>

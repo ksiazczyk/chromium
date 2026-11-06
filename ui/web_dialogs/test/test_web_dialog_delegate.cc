@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web dialog delegate implementation
+// summary: Implements TestWebDialogDelegate, providing a fixed 400x400 window-modal dialog with a configurable URL, title, and close-on-escape behavior for tests.
+// ---
+
 #include "ui/web_dialogs/test/test_web_dialog_delegate.h"
 
 #include "base/check.h"

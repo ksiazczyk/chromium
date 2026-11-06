@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopDragDropClientOzone implementation
+// summary: Implements Ozone drag-and-drop for top-level windows, including drag image widgets, re-entrancy guards, and data-leak-prevention checks.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_drag_drop_client_ozone.h"
 
 #include <memory>

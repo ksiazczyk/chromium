@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test WebUI config for untrusted WebUI browser tests
+// summary: Implements TestUntrustedWebUIConfig, which creates a test controller and registers an untrusted data source for browser tests.
+// ---
+
 #include "ui/webui/untrusted_web_ui_browsertest_util.h"
 
 #include <string_view>

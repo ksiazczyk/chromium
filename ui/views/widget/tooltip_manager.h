@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TooltipManager interface for Views tooltips
+// summary: Declares the TooltipManager interface that wires tooltip support for Views, with methods for max width, font list, and tooltip updates.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_TOOLTIP_MANAGER_H_
 #define UI_VIEWS_WIDGET_TOOLTIP_MANAGER_H_
 

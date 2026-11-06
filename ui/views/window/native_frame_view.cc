@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native frame view implementation
+// summary: Implements NativeFrameView, delegating client bounds, non-client hit testing, and size calculations to the widget's client view, with Windows-specific handling.
+// ---
+
 #include "ui/views/window/native_frame_view.h"
 
 #include "build/build_config.h"

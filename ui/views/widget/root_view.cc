@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootView implementation for the Views widget framework
+// summary: Implements the internal RootView, the root of a View hierarchy attached to a Widget, handling event propagation, focus, theme and scale changes, and accessibility announcements.
+// ---
+
 #include "ui/views/widget/root_view.h"
 
 #include <algorithm>

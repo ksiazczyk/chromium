@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogDelegate class declaration
+// summary: Declares the DialogDelegate and DialogDelegateView interfaces that Views dialogs use to configure buttons, titles, framing, and widget creation.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_DIALOG_DELEGATE_H_
 #define UI_VIEWS_WINDOW_DIALOG_DELEGATE_H_
 

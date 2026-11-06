@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen event default-handler utility declaration
+// summary: Declares a function that lets pen events fall through to the default window procedure until the next WM_POINTERUP event, implemented in hwnd_message_handler.cc.
+// ---
+
 #ifndef UI_VIEWS_WIN_PEN_EVENT_HANDLER_UTIL_H_
 #define UI_VIEWS_WIN_PEN_EVENT_HANDLER_UTIL_H_
 

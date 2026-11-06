@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of TooltipManager
+// summary: Implements the Aura-specific TooltipManager, updating tooltip text based on the view under the mouse and handling capture scenarios.
+// ---
+
 #include "ui/views/widget/tooltip_manager_aura.h"
 
 #include "ui/aura/client/screen_position_client.h"

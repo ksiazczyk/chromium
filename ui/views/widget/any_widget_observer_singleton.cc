@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnyWidgetObserverSingleton implementation
+// summary: Implements the AnyWidgetObserverSingleton that fans out widget lifecycle notifications to registered observers.
+// ---
+
 #include "ui/views/widget/any_widget_observer_singleton.h"
 
 #include "base/no_destructor.h"

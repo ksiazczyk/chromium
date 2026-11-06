@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web dialogs issue tracker metadata
+summary: Maps the directory to the Internals>Core Monorail component and Buganizer component 1456128 for issue routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowEventFilterLinux class declaration
+// summary: Declares WindowEventFilterLinux, an event handler that dispatches host window drag and resize requests and manages caption click behavior on Linux.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_WINDOW_EVENT_FILTER_LINUX_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_WINDOW_EVENT_FILTER_LINUX_H_
 

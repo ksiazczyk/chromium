@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropHelper unit tests
+// summary: Unit tests verifying DropHelper drop coordinate dispatch and drag operation handling using a test drop target view.
+// ---
+
 #include "ui/views/widget/drop_helper.h"
 
 #include <memory>

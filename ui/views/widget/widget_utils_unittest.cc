@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget utils unit tests
+// summary: Unit tests for widget layer utilities, verifying GetLayerRelation results for same, child, sibling, disjoint, and null layer cases.
+// ---
+
 #include "ui/views/widget/widget_utils.h"
 
 #include <memory>

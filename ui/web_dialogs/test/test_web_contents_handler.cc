@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web contents handler implementation
+// summary: Implements a no-op WebContentsHandler test double that returns null for OpenURLFromTab and stubs out AddNewContents and RunFileChooser for web dialog tests.
+// ---
+
 #include "ui/web_dialogs/test/test_web_contents_handler.h"
 
 #include "content/public/browser/file_select_listener.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget HWND window style utilities
+// summary: Implements calculation of Windows window styles and extended styles from Widget InitParams, shared by HWND-based widget implementations.
+// ---
+
 #include "ui/views/widget/widget_hwnd_utils.h"
 
 #include <dwmapi.h>

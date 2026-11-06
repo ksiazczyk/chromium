@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop widget positioning tests
+// summary: Tests desktop widget screen positioning, including dialogs, nested parented widgets, and initial bounds constrained to the desktop.
+// ---
+
 #include "ui/display/display.h"
 #include "ui/display/screen.h"
 #include "ui/views/test/native_widget_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCaptureClient implementation
+// summary: Implements per-root-window capture handling for desktop Aura, tracking the active capture client and updating native capture and observers.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_capture_client.h"
 
 #include "base/callback_list.h"

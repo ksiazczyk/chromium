@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentBrowserClient implementation
+// summary: Implements ViewsContentBrowserClient, whose CreateBrowserMainParts builds ViewsContentClientMainParts for the content browser runtime.
+// ---
+
 #include "ui/views_content_client/views_content_browser_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameViewLinux implementation
+// summary: Implements client-side-decorated window frames for non-browser widgets on Linux, creating caption buttons and painting frame background and borders.
+// ---
+
 #include "ui/views/window/frame_view_linux.h"
 
 #include <algorithm>

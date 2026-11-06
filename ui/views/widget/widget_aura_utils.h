@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget to Aura window type utilities header
+// summary: Declares shared Aura helpers for mapping widget types to window types and for enabling drag and drop on widgets.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_AURA_UTILS_H_
 #define UI_VIEWS_WIDGET_WIDGET_AURA_UTILS_H_
 

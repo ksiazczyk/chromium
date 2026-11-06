@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameView class declaration
+// summary: Declares the FrameView interface for rendering and handling events in the non-client frame area of a window, including hit testing and title visibility hooks.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_VIEW_H_
 #define UI_VIEWS_WINDOW_FRAME_VIEW_H_
 

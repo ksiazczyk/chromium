@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogDelegate implementation
+// summary: Implements WebDialogDelegate defaults for dialog title, size, args, message handler ownership, close callbacks, context menu, and URL handling.
+// ---
+
 #include "ui/web_dialogs/web_dialog_delegate.h"
 
 #include <utility>

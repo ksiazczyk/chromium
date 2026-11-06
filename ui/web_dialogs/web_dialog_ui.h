@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogUI and MojoWebDialogUI headers
+// summary: Declares WebDialogUI and MojoWebDialogUI controllers that display URL contents in modal web dialogs, with optional Mojo bindings.
+// ---
+
 #ifndef UI_WEB_DIALOGS_WEB_DIALOG_UI_H_
 #define UI_WEB_DIALOGS_WEB_DIALOG_UI_H_
 

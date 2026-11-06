@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Desktop Aura directory overview
+summary: Explains the views NativeWidget implementation for the Desktop Aura port and the window abstraction layers used across platforms.

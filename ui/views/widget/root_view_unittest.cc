@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootView unit tests
+// summary: Unit tests for RootView covering event dispatch, view deletion during key handling, focus, and accessibility announcement behavior.
+// ---
+
 #include "ui/views/widget/root_view.h"
 
 #include <memory>

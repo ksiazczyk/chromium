@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: Template for generated vector_icons.h
+summary: Header template used to generate vector_icons.h, which declares the window control vector icons in the views namespace.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux frame view layout implementation
+// summary: Implements the Linux layout manager that positions caption buttons and the titlebar, and computes frame border insets, shadows, and corner radii.
+// ---
+
 #include "ui/views/window/frame_view_layout_linux.h"
 
 #include <algorithm>

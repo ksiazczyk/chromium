@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen event processor class declaration
+// summary: Declares PenEventProcessor, which turns native Windows pen pointer messages into appropriate ui::Event instances based on pen contact and button state.
+// ---
+
 #ifndef UI_VIEWS_WIN_PEN_EVENT_PROCESSOR_H_
 #define UI_VIEWS_WIN_PEN_EVENT_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameBackground class declaration
+// summary: Declares FrameBackground, a helper that consolidates painting of window frame colors, theme images, and side and corner images for Chrome window frames.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_BACKGROUND_H_
 #define UI_VIEWS_WINDOW_FRAME_BACKGROUND_H_
 

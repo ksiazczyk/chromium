@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowButtonOrderProvider implementation
+// summary: Implements the singleton that stores leading and trailing window caption button ordering with a default trailing arrangement.
+// ---
+
 #include "ui/views/window/window_button_order_provider.h"
 
 namespace views {

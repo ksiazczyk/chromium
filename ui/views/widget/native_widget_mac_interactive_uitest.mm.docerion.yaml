@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_interactive_uitest.mm.
+type: test
+title: NativeWidgetMac interactive UI tests
+summary: Interactive UI tests for NativeWidgetMac that rely on global window manager state, covering key status and widget activation.

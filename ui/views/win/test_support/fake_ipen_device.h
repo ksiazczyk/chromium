@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIPenDevice class header
+// summary: Declares FakeIPenDevice, a WinRT runtime class implementing the Windows IPenDevice interface with a helper method for getting the pen device GUID as a string.
+// ---
+
 #ifndef UI_VIEWS_WIN_TEST_SUPPORT_FAKE_IPEN_DEVICE_H_
 #define UI_VIEWS_WIN_TEST_SUPPORT_FAKE_IPEN_DEVICE_H_
 

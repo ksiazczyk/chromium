@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogWebContentsDelegate implementation
+// summary: Implements a WebContents delegate that forwards URL opening, new contents creation, and file chooser requests to a WebContentsHandler.
+// ---
+
 #include "ui/web_dialogs/web_dialog_web_contents_delegate.h"
 
 #include <utility>

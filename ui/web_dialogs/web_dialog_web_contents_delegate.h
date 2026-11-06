@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogWebContentsDelegate class declaration for web dialogs
+// summary: Declares WebDialogWebContentsDelegate, a base implementation of content::WebContentsDelegate for web dialogs, with a WebContentsHandler interface for URL opening, new contents, and file chooser handling.
+// ---
+
 #ifndef UI_WEB_DIALOGS_WEB_DIALOG_WEB_CONTENTS_DELEGATE_H_
 #define UI_WEB_DIALOGS_WEB_DIALOG_WEB_CONTENTS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DesktopDragDropClientOzone
+// summary: Tests Ozone drag-and-drop behavior with a fake platform window, covering drag operations across X11 and Wayland coordinate handling.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_drag_drop_client_ozone.h"
 
 #include <memory>

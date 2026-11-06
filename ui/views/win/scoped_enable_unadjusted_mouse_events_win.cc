@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEnableUnadjustedMouseEventsWin implementation
+// summary: Registers a Windows raw input device for the mouse so unadjusted WM_INPUT events reach the HWNDMessageHandler, and removes the registration when the scoped instance is destroyed.
+// ---
+
 #include "ui/views/win/scoped_enable_unadjusted_mouse_events_win.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux native frame view implementation
+// summary: Implements NativeFrameViewLinux, creating caption buttons and painting restored and maximized frame borders using the toolkit's WindowFrameProvider and NavButtonProvider.
+// ---
+
 #include "ui/views/window/native_frame_view_linux.h"
 
 #include <algorithm>

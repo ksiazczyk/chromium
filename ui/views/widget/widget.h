@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget class declaration
+// summary: Declares the Widget class encapsulating platform-specific rendering, event receiving, and widget management for the Views UI framework.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_H_
 #define UI_VIEWS_WIDGET_WIDGET_H_
 

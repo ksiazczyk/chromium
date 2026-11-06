@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropHelper implementation
+// summary: Implements DropHelper, which tracks the target view during drag-and-drop and dispatches drag enter, over, exit, and drop events.
+// ---
+
 #include "ui/views/widget/drop_helper.h"
 
 #include <memory>

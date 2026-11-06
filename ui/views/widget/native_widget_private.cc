@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetPrivate default implementations
+// summary: Implements default and static helper methods of the NativeWidgetPrivate interface, such as constraining bounds to the display work area and showing the emoji panel.
+// ---
+
 #include "ui/views/widget/native_widget_private.h"
 
 #include "base/notimplemented.h"

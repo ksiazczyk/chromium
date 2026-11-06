@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetObserver interface
+// summary: Defines the WidgetObserver interface with callbacks for widget lifecycle, visibility, activation, bounds, resizing, dragging, and theme events.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_OBSERVER_H_
 #define UI_VIEWS_WIDGET_WIDGET_OBSERVER_H_
 

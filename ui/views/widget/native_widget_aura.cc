@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetAura implementation
+// summary: Implements the Aura-based NativeWidgetPrivate, wiring widget behavior to aura windows including focus, drag-drop and tooltips.
+// ---
+
 #include "ui/views/widget/native_widget_aura.h"
 
 #include <memory>

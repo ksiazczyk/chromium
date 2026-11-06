@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopWindowTreeHostPlatform implementation
+// summary: Implements the platform-based desktop window tree host for Views widgets, bridging widget behavior to ui::PlatformWindow for show state, opacity, drag-drop, tooltips and window management.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_platform.h"
 
 #include <algorithm>

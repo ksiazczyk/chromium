@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen ID handler implementation
+// summary: Implements retrieval of unique pen identifiers through the Windows PenDevice API, mapping device GUIDs to stable integer IDs with version and statics checks.
+// ---
+
 #include "ui/views/win/pen_id_handler.h"
 
 #include "base/no_destructor.h"

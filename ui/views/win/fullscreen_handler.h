@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHandler class declaration
+// summary: Declares the FullscreenHandler class that toggles fullscreen state for a Windows window, marks fullscreen to the taskbar and exposes restore bounds.
+// ---
+
 #ifndef UI_VIEWS_WIN_FULLSCREEN_HANDLER_H_
 #define UI_VIEWS_WIN_FULLSCREEN_HANDLER_H_
 

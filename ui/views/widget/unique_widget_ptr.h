@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueWidgetPtr weak owning widget pointer declaration
+// summary: Declares UniqueWidgetPtr, a weak owning pointer to a Widget that closes it on scope exit and becomes null if the widget is destroyed.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_UNIQUE_WIDGET_PTR_H_
 #define UI_VIEWS_WIDGET_UNIQUE_WIDGET_PTR_H_
 

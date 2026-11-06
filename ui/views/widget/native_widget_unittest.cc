@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeWidgetPrivate unit tests
+// summary: Unit tests for NativeWidgetPrivate covering widget creation and lookup helpers such as GetNativeWidgetForNativeView and GetTopLevelNativeWidget.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/views/controls/native/native_view_host.h"

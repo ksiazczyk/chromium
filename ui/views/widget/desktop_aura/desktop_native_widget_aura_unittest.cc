@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopNativeWidgetAura unit tests
+// summary: Unit tests for DesktopNativeWidgetAura covering widget creation with unrooted parents, resize bounds, activation and other desktop Aura widget behavior.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_native_widget_aura.h"
 
 #include <memory>

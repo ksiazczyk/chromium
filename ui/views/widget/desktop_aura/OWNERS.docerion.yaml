@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for desktop_aura
+summary: Assigns per-file code owners for X11, Linux, and Windows files in the desktop_aura directory.

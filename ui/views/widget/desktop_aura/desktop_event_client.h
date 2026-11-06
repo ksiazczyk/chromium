@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the desktop event client
+// summary: Declares DesktopEventClient, an aura::client::EventClient implementation for desktop Aura windows.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_EVENT_CLIENT_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_EVENT_CLIENT_H_
 

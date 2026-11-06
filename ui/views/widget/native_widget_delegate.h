@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetDelegate interface
+// summary: Interface implemented by the object that handles events and state changes sent by a NativeWidget implementation, such as activation, visibility and resizing.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_NATIVE_WIDGET_DELEGATE_H_
 #define UI_VIEWS_WIDGET_NATIVE_WIDGET_DELEGATE_H_
 

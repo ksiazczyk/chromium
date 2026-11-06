@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget deletion observer header
+// summary: Declares WidgetDeletionObserver, a WidgetObserver that can be probed for the lifetime of a widget.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_DELETION_OBSERVER_H_
 #define UI_VIEWS_WIDGET_WIDGET_DELETION_OBSERVER_H_
 

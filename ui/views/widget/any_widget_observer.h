@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnyWidgetObserver class declaration
+// summary: Declares AnyWidgetObserver, a passkey-gated observer for widget lifecycle changes, plus NamedWidgetShownWaiter for waiting on named widgets.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_ANY_WIDGET_OBSERVER_H_
 #define UI_VIEWS_WIDGET_ANY_WIDGET_OBSERVER_H_
 

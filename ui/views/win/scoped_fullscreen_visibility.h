@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFullscreenVisibility class declaration
+// summary: Declares a scoping class that keeps a window hidden while it enters or leaves fullscreen to avoid flicker, with a static check for the hidden state.
+// ---
+
 #ifndef UI_VIEWS_WIN_SCOPED_FULLSCREEN_VISIBILITY_H_
 #define UI_VIEWS_WIN_SCOPED_FULLSCREEN_VISIBILITY_H_
 

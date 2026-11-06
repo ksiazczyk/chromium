@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDialogDelegate unit tests
+// summary: Tests message handler ownership transfer, close callbacks, delete-on-close behavior, and accelerator handling in WebDialogDelegate.
+// ---
+
 #include "ui/web_dialogs/web_dialog_delegate.h"
 
 #include "base/test/bind.h"

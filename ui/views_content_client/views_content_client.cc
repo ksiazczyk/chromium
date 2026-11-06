@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentClient implementation
+// summary: Implements ViewsContentClient entry points, running content::ContentMain and dispatching pre-message-loop-run and resources-loaded callbacks.
+// ---
+
 #include "ui/views_content_client/views_content_client.h"
 
 #include <utility>

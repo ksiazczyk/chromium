@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopScreenWinHeadless class declaration
+// summary: Declares the headless Windows screen subclass with overrides for window lookup, bounds, occlusion, and virtual desktop queries.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_SCREEN_WIN_HEADLESS_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_SCREEN_WIN_HEADLESS_H_
 

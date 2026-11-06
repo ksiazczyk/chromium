@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHandler implementation for Windows
+// summary: Implements entering and leaving fullscreen for an HWND, saving prior window style, bounds, DPI and monitor info and notifying the taskbar via ITaskbarList2.
+// ---
+
 #include "ui/views/win/fullscreen_handler.h"
 
 #include <memory>

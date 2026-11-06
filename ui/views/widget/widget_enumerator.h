@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget enumerator header
+// summary: Declares WidgetEnumerator, used to iterate through widgets while operations might remove them.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_ENUMERATOR_H_
 #define UI_VIEWS_WIDGET_WIDGET_ENUMERATOR_H_
 

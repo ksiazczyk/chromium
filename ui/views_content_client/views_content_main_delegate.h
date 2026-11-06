@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentMainDelegate class declaration
+// summary: Declares the ContentMainDelegate subclass that wires up the views content client's content and browser clients during startup.
+// ---
+
 #ifndef UI_VIEWS_CONTENT_CLIENT_VIEWS_CONTENT_MAIN_DELEGATE_H_
 #define UI_VIEWS_CONTENT_CLIENT_VIEWS_CONTENT_MAIN_DELEGATE_H_
 

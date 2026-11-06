@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowEventFilterLinux implementation
+// summary: Implements a Linux event filter that translates caption and border mouse events into window move and resize requests via WmMoveResizeHandler.
+// ---
+
 #include "ui/views/widget/desktop_aura/window_event_filter_linux.h"
 
 #include <optional>

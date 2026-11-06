@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueWidgetPtr implementation
+// summary: Implements UniqueWidgetPtr, a smart pointer that closes owned Widgets on destruction and yields nullptr once the widget is destroyed elsewhere.
+// ---
+
 #include "ui/views/widget/unique_widget_ptr.h"
 
 #include <utility>

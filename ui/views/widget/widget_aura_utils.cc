@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget to Aura window type utilities
+// summary: Implements helpers that map widget init types to Aura window types and decide whether drag and drop should be enabled for a widget.
+// ---
+
 #include "ui/views/widget/widget_aura_utils.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web contents handler header
+// summary: Declares TestWebContentsHandler, a WebDialogWebContentsDelegate::WebContentsHandler subclass whose methods are overridden for use in web dialog tests.
+// ---
+
 #ifndef UI_WEB_DIALOGS_TEST_TEST_WEB_CONTENTS_HANDLER_H_
 #define UI_WEB_DIALOGS_TEST_TEST_WEB_CONTENTS_HANDLER_H_
 

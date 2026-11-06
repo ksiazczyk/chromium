@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientView class declaration
+// summary: Declares the ClientView class that fills a widget's client area and offers overridable hit testing, close handling, and rounded-corner updates for subclasses.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_CLIENT_VIEW_H_
 #define UI_VIEWS_WINDOW_CLIENT_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code review owners for ui/webui
+summary: Directs code reviews to the chromium-ui-webui-reviews group for load-balanced reviewer assignment and includes platform owners.

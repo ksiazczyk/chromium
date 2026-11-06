@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac.mm.
+type: source
+title: NativeWidgetMac implementation
+summary: macOS implementation of the native widget, mapping widget behavior such as window styling, sheets, focus and drag-and-drop onto Cocoa NSWindows.

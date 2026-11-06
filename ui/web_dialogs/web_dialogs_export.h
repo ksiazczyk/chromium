@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WEB_DIALOGS_EXPORT macro definition for symbol visibility
+// summary: Defines the WEB_DIALOGS_EXPORT macro so symbols from the web_dialogs module can be exported to consumers across component, Windows, and other builds.
+// ---
+
 #ifndef UI_WEB_DIALOGS_WEB_DIALOGS_EXPORT_H_
 #define UI_WEB_DIALOGS_WEB_DIALOGS_EXPORT_H_
 

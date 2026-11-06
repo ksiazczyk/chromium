@@ -1,0 +1,4 @@
+# Docerion header of native_frame_view_mac.mm.
+type: source
+title: NativeFrameViewMac implementation using Cocoa NSWindow
+summary: Implements GetWindowBoundsForClientBounds by querying the native NSWindow frame and enforcing a minimum window size.

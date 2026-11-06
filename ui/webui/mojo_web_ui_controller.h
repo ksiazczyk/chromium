@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo WebUI controller class declarations
+// summary: Declares the EnableMojoWebUI mixin and MojoWebUIController base class that WebUI pages inherit to enable Mojo bindings.
+// ---
+
 #ifndef UI_WEBUI_MOJO_WEB_UI_CONTROLLER_H_
 #define UI_WEBUI_MOJO_WEB_UI_CONTROLLER_H_
 

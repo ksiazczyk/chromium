@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWNDMessageHandler implementation
+// summary: Implements Win32 message handling for views custom-frame windows, covering input, painting, sizing, accessibility, IME and fullscreen behavior.
+// ---
+
 #include "ui/views/win/hwnd_message_handler.h"
 
 #include <tchar.h>

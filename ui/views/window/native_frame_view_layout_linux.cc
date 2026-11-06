@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux native frame layout metrics
+// summary: Implements NativeFrameViewLayoutLinux, computing frame borders, titlebar height, corner radii, and button layout from the toolkit's WindowFrameProvider and NavButtonProvider.
+// ---
+
 #include "ui/views/window/native_frame_view_layout_linux.h"
 
 #include <algorithm>

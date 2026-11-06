@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIAllowlist implementation
+// summary: Implements the per-profile storage of origins and permissions auto-granted to WebUIs, including third-party cookie grants and rule lookups.
+// ---
+
 #include "ui/webui/webui_allowlist.h"
 
 #include <memory>

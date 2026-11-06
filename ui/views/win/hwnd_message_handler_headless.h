@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWNDMessageHandlerHeadless class declaration
+// summary: Declares the headless-mode replacement for HWNDMessageHandler that keeps platform windows hidden while exposing normal window state to upper layers.
+// ---
+
 #ifndef UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_HEADLESS_H_
 #define UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_HEADLESS_H_
 

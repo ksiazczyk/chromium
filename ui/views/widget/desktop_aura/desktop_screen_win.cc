@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop screen implementation
+// summary: Implements the display screen for Windows desktop Aura, mapping HWNDs to native windows and creating a headless screen when the headless switch is set.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_screen_win.h"
 
 #include <memory>

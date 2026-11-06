@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeWidgetAura unit tests
+// summary: Unit tests for NativeWidgetAura covering window centering, activation, focus rules, show state and other Aura-backed widget behavior.
+// ---
+
 #include "ui/views/widget/native_widget_aura.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserResizeMoveDetector implementation
+// summary: Handles WM_ENTERSIZEMOVE, WM_SIZING, WM_MOVING and WM_EXITSIZEMOVE to notify the HWND delegate when user resizing or dragging begins and ends.
+// ---
+
 #include "ui/views/win/user_resize_move_detector.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameViewLinux class declaration
+// summary: Declares FrameViewLinux, a FrameView providing client-side-decorated frames on Linux with caption buttons, title handling, and frame geometry accessors.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_VIEW_LINUX_H_
 #define UI_VIEWS_WINDOW_FRAME_VIEW_LINUX_H_
 

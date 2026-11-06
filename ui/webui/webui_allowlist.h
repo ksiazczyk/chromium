@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIAllowlist class declaration
+// summary: Declares the underlying storage for WebUIAllowlistProvider that records auto-granted WebUI permissions and serves content settings rules.
+// ---
+
 #ifndef UI_WEBUI_WEBUI_ALLOWLIST_H_
 #define UI_WEBUI_WEBUI_ALLOWLIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone desktop screen implementation
+// summary: Implements DesktopScreenOzone, mapping accelerated widgets to content windows via DesktopWindowTreeHostPlatform and providing the CreateDesktopScreen factory for Ozone.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_screen_ozone.h"
 
 #include <memory>

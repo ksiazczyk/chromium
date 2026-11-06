@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogClientView implementation
+// summary: Implements DialogClientView, which adds OK and Cancel buttons with Enter and Escape accelerators, an extra view, and input protection to dialogs.
+// ---
+
 #include "ui/views/window/dialog_client_view.h"
 
 #include <algorithm>

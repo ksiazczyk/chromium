@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCaptionButton implementation
+// summary: Implements the window caption button with icon crossfade animations, ink drop effects, hit test setup, and background or icon color handling.
+// ---
+
 #include "ui/views/window/frame_caption_button.h"
 
 #include <memory>

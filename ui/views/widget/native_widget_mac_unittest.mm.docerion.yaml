@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_unittest.mm.
+type: test
+title: NativeWidgetMac unit tests
+summary: Unit tests for NativeWidgetMac covering window behavior, modal dialogs, restoration data and Cocoa integration.

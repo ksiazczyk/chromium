@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: README for the views_content_client directory
+summary: Explains that the directory provides a content client for standalone views apps, setting up the multiprocess runtime for rendering web content.

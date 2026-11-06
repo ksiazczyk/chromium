@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows drag and drop client for desktop Aura
+// summary: Implements the Aura drag-and-drop client on Windows, running OLE drag loops, handling touch drags, and guarding against source window destruction during drags.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_drag_drop_client_win.h"
 
 #include <memory>

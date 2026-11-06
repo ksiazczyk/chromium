@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default window mask shape helper
+// summary: Implements GetDefaultWindowMask, building a closed polygon path with clipped corners for non-rectangular window shaping.
+// ---
+
 #include "ui/views/window/window_shape.h"
 
 #include "third_party/skia/include/core/SkPath.h"

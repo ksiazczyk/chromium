@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnyWidgetObserver implementation
+// summary: Implements AnyWidgetObserver callback propagation and NamedWidgetShownWaiter, which waits for a named widget to be shown.
+// ---
+
 #include "ui/views/widget/any_widget_observer.h"
 
 #include <utility>

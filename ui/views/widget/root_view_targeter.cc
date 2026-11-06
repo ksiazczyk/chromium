@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootViewTargeter implementation
+// summary: Implements gesture event targeting for the RootView, using the gesture bounding box and restricting re-targeting based on the current gesture handler state.
+// ---
+
 #include "ui/views/widget/root_view_targeter.h"
 
 #include "ui/views/view.h"

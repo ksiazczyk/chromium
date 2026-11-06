@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless Windows desktop screen implementation
+// summary: Implements a headless Windows screen that builds display info from the screen-info command-line switch and answers window queries from the Aura tree.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_screen_win_headless.h"
 
 #include <algorithm>

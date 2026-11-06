@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopNativeWidgetAura interactive activation UI test
+// summary: Interactive UI test verifying that showing a new widget deactivates a widget and its active child, covering a window lock regression when minimizing or maximizing.
+// ---
+
 #include "ui/views/test/native_widget_factory.h"
 #include "ui/views/test/widget_activation_waiter.h"
 #include "ui/views/test/widget_test.h"

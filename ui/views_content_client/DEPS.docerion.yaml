@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for views_content_client
+summary: Grants include access to content public APIs, content shell, storage quota, and the ui aura, base, display, gfx, views, and wm modules.

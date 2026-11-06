@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCaptionButton class declaration
+// summary: Declares FrameCaptionButton, the base button class for window caption buttons such as minimize, maximize, restore, and close.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_CAPTION_BUTTON_H_
 #define UI_VIEWS_WINDOW_FRAME_CAPTION_BUTTON_H_
 

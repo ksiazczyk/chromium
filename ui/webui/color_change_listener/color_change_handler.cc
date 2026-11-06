@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorChangeHandler implementation
+// summary: Implements the Mojo PageHandler that binds WebUI pages and notifies them when the browser color provider changes.
+// ---
+
 #include "ui/webui/color_change_listener/color_change_handler.h"
 
 #include "content/public/browser/web_contents.h"

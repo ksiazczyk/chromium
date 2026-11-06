@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopNativeWidgetAura implementation
+// summary: Implements the desktop NativeWidgetPrivate that owns a platform window, wiring up focus, activation, drag and drop, tooltips, cursor and shadow controllers for Aura.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_native_widget_aura.h"
 
 #include <memory>

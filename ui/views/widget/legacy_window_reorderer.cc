@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowReorderer implementation
+// summary: Implements reordering of child windows and layers associated with views according to the z-order of the view tree.
+// ---
+
 #include "ui/views/widget/legacy_window_reorderer.h"
 
 #include <stddef.h>

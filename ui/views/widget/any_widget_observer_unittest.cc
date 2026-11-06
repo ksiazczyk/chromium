@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnyWidgetObserver unit tests
+// summary: Unit tests covering AnyWidgetObserver callbacks for initialization, close, show, and hide, plus NamedWidgetShownWaiter behavior.
+// ---
+
 #include "ui/views/widget/any_widget_observer.h"
 
 #include <memory>

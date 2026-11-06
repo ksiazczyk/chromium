@@ -1,0 +1,4 @@
+# Docerion header of views_content_client_main_parts_mac.mm.
+type: source
+title: Mac main parts implementation
+summary: Implements the macOS main parts with an NSApplicationDelegate that defers startup work until the application finishes launching.

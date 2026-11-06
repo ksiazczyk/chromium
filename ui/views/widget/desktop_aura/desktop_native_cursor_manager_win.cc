@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop native cursor manager implementation
+// summary: Implements the Windows desktop cursor manager, tracking system cursor visibility through WinEvent hooks and reading the cursor size from the HKCU registry.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_native_cursor_manager_win.h"
 
 #include <windows.h>

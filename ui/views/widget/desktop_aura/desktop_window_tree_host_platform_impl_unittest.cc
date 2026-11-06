@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopWindowTreeHostPlatform Linux implementation unit tests
+// summary: Unit tests for the Wayland and X11 implementations of DesktopWindowTreeHostPlatform, covering window shaping, hit testing and mouse event handling.
+// ---
+
 #include <memory>
 #include <utility>
 

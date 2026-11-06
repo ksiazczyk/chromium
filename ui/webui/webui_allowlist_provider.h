@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIAllowlistProvider class declaration
+// summary: Declares an observable content settings provider supplying HostContentSettingsMap with auto-granted permissions from WebUIAllowlist.
+// ---
+
 #ifndef UI_WEBUI_WEBUI_ALLOWLIST_PROVIDER_H_
 #define UI_WEBUI_WEBUI_ALLOWLIST_PROVIDER_H_
 

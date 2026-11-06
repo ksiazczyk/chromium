@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultFrameView implementation
+// summary: Implements the fallback frame view that manually paints the window frame, title bar, and caption buttons when no platform-specific frame view is used.
+// ---
+
 #include "ui/views/window/default_frame_view.h"
 
 #include <algorithm>

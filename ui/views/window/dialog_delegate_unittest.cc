@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DialogDelegate unit tests
+// summary: Unit tests for DialogDelegate covering titles, close buttons, escape accelerator handling, input protection, and hit testing with a custom frame.
+// ---
+
 #include "ui/views/window/dialog_delegate.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HWND utility functions
+// summary: Unit tests verifying HWND accessibility lookups for views and widgets, including caching, null and orphaned inputs, and shared root windows.
+// ---
+
 #include "ui/views/win/hwnd_util.h"
 
 #include <memory>

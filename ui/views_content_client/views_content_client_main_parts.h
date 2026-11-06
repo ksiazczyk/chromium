@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentClientMainParts class declaration
+// summary: Declares the BrowserMainParts subclass that manages the browser context, views delegate, and run loop for the views content client, with a platform-specific Create factory.
+// ---
+
 #ifndef UI_VIEWS_CONTENT_CLIENT_VIEWS_CONTENT_CLIENT_MAIN_PARTS_H_
 #define UI_VIEWS_CONTENT_CLIENT_VIEWS_CONTENT_CLIENT_MAIN_PARTS_H_
 

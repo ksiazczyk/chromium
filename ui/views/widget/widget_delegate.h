@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget delegate interface
+// summary: Declares the WidgetDelegate class that supplies window properties, contents views, and view factories for widgets.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_DELEGATE_H_
 #define UI_VIEWS_WIDGET_WIDGET_DELEGATE_H_
 
