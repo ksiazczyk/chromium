@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_mediator_unittest.mm.
+type: test
+title: Enhanced Calendar mediator unit tests
+summary: Tests mediator request cancellation and response handling using a fake delegate, fake web state, test profile, and a pinned UTC timezone.

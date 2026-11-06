@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Gemini model layer
+summary: Chromium DEPS file listing allowed include dependencies for the directory, with a special rule for the browser agent unittest.

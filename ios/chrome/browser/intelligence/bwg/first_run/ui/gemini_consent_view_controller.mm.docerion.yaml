@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_view_controller.mm.
+type: source
+title: Gemini consent view controller implementation
+summary: Implements the view controller for the Gemini first run consent screen, building the stack layout, button actions, metrics recording, and mutator callbacks.

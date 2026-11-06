@@ -1,0 +1,4 @@
+# Docerion header of gemini_availability.mm.
+type: source
+title: Gemini availability implementation
+summary: Implements IsGeminiAvailable, combining feature flags, enterprise policy, sign-in state, regional restrictions, and quota checks for Gemini entry points.

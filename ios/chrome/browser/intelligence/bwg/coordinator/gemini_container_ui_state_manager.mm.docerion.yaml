@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_ui_state_manager.mm.
+type: source
+title: Gemini container UI state manager implementation
+summary: Implements container UI states, detent and worklog display modes, thinking timer, and transition handling for the Gemini container.

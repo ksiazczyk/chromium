@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process passage embedder wrapper header
+// summary: Declares a wrapper around PassageEmbedder and its mojo remote that handles initialization, model loading, embedding generation, and connection resets.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_IN_PROCESS_PASSAGE_EMBEDDER_WRAPPER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_IN_PROCESS_PASSAGE_EMBEDDER_WRAPPER_H_
 

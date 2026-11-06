@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini modal content view controller header
+// summary: Declares a view controller hosting arbitrary content in a modal with a navigation bar close button and a delegate protocol for dismissal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_MODAL_CONTENT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_MODAL_CONTENT_VIEW_CONTROLLER_H_
 

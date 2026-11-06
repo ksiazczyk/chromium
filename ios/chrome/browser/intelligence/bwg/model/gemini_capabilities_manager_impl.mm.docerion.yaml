@@ -1,0 +1,4 @@
+# Docerion header of gemini_capabilities_manager_impl.mm.
+type: source
+title: Gemini capabilities manager implementation
+summary: Updates app-group shared defaults with AI summarization support and Gemini user eligibility based on profile, sign-in identity, and Gemini availability.

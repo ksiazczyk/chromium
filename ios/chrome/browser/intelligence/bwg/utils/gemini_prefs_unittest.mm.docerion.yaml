@@ -1,0 +1,4 @@
+# Docerion header of gemini_prefs_unittest.mm.
+type: test
+title: Gemini preferences unit tests
+summary: Tests conversation ID session creation, expiry, and custom validity duration, as well as Live consent preference updates.

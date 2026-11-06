@@ -1,0 +1,4 @@
+# Docerion header of gemini_service_impl_unittest.mm.
+type: test
+title: GeminiServiceImpl unit tests
+summary: Unit tests for GeminiServiceImpl covering profile eligibility, policy preferences, and consent handling using test profiles and sign-in test utilities.

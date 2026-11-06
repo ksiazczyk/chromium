@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_carousel_slide_view_unittest.mm.
+type: test
+title: Gemini first run carousel slide view unit tests
+summary: Unit tests verifying slide model initialization for dynamic and static asset variants and clean slide view creation and animation playback.

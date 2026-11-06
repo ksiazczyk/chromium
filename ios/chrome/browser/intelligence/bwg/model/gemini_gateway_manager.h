@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiGatewayManager interface declaration
+// summary: Declares the GeminiGatewayManager class that creates, initializes, and owns the Gemini gateway and its handlers for a given browser and view state delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_GATEWAY_MANAGER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_GATEWAY_MANAGER_H_
 

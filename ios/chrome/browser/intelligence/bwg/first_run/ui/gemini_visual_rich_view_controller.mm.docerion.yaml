@@ -1,0 +1,4 @@
+# Docerion header of gemini_visual_rich_view_controller.mm.
+type: source
+title: Gemini visual rich view controller implementation
+summary: Implements the visual-rich Gemini first-run consent step with an animated Lottie carousel, consent accordion, and adaptive spacing for orientation changes.

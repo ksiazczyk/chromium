@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini Utilities Layer
+summary: Documents the directory's shared utilities, constants, preference stores, and feature eligibility checks for the Gemini (BWG) integration on Chrome for iOS.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/utils/gemini_constants.h
+  - documents /ios/chrome/browser/intelligence/bwg/utils/gemini_entry_flow_result.h
+  - documents /ios/chrome/browser/intelligence/bwg/utils/gemini_prefs.h
+---
+
 # Gemini Utilities Layer
 *Last updated: May 2026*
 

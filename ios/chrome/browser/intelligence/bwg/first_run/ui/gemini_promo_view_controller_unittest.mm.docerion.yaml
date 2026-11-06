@@ -1,0 +1,4 @@
+# Docerion header of gemini_promo_view_controller_unittest.mm.
+type: test
+title: Gemini promo view controller unit tests
+summary: Unit tests for the Gemini promo view controller, verifying initialization, image remix row visibility, and metric recording and mutator calls for button taps.

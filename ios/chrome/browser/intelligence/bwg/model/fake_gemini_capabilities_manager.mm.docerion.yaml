@@ -1,0 +1,4 @@
+# Docerion header of fake_gemini_capabilities_manager.mm.
+type: test
+title: Fake Gemini capabilities manager implementation
+summary: Implements the fake capabilities manager, incrementing its call counter on each UpdateCapabilities invocation.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_tab_helper_unittest.mm.
+type: test
+title: Gemini tab helper unit tests
+summary: Unit tests for the Gemini tab helper covering page context creation, feature engagement tracking, and service interactions.

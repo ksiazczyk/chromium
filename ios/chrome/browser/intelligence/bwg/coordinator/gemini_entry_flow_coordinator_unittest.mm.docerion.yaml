@@ -1,0 +1,4 @@
+# Docerion header of gemini_entry_flow_coordinator_unittest.mm.
+type: test
+title: Gemini entry flow coordinator unit tests
+summary: Unit tests for the Gemini entry flow coordinator, exercising sign-in, eligibility, and completion outcomes with fake services.

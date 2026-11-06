@@ -1,3 +1,12 @@
+---
+type: readme
+title: Gemini First Run Experience (FRE) Layer
+summary: Describes the coordinator and UI components implementing the Gemini First Run Experience onboarding and consent flows on Chrome for iOS, including tests and Lottie resources.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/first_run/ui/gemini_first_run_egtest.mm
+  - documents /ios/chrome/browser/intelligence/bwg/first_run/ui/gemini_app_store_promo_egtest.mm
+---
+
 # Gemini First Run Experience (FRE) Layer
 *Last updated: 2026*
 

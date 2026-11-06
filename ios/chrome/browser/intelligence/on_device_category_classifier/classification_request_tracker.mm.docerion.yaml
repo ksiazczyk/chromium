@@ -1,0 +1,4 @@
+# Docerion header of classification_request_tracker.mm.
+type: source
+title: Classification request tracker implementation
+summary: Implements bounded pending-request queuing, per-URL in-flight callback attachment, completion, and cancellation that runs callbacks with empty results.

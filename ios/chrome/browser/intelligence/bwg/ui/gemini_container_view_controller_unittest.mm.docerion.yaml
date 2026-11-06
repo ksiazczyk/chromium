@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_view_controller_unittest.mm.
+type: test
+title: Gemini container view controller unit tests
+summary: Unit tests covering keyboard notification handling, keyboard dismissal and zero-state visibility in the Gemini container view controller.

@@ -1,0 +1,4 @@
+# Docerion header of on_device_page_classification_service.mm.
+type: source
+title: On-device page classification service implementation
+summary: Implements on-device page classification for WebStates, handling URL validation, cached embeddings, title-and-URL-only mode, page text extraction, and UKM logging.

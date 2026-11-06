@@ -1,0 +1,4 @@
+# Docerion header of gemini_promo_view_controller.mm.
+type: source
+title: Gemini promo view controller implementation
+summary: Implements the Gemini first-run promo step with feature rows, a gradient Gemini logo, and button actions that record promo metrics and notify the mutator.

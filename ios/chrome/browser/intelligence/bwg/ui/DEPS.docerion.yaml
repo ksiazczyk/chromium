@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Gemini UI include rules
+summary: Defines the allowed header include rules for the Gemini UI directory.

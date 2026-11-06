@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_carousel_view.mm.
+type: source
+title: Gemini first run carousel view implementation
+summary: Implements the auto-scrolling carousel with scroll view paging, page control dots, RTL support, and accessibility-aware timer behavior.

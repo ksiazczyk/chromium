@@ -1,0 +1,4 @@
+# Docerion header of gemini_scroll_observer_unittest.mm.
+type: test
+title: Gemini scroll observer unit tests
+summary: Unit tests verifying the scroll callback fires on drag events, works across multiple events, and does not crash with an empty callback.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_capabilities_manager_unittest.mm.
+type: test
+title: Gemini capabilities manager unit tests
+summary: Unit tests for the Gemini capabilities manager that exercise capability state with a fake Gemini service, test profiles, and sign-in and sync test utilities.

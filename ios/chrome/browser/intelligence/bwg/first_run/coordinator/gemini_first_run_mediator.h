@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini first run mediator interface
+// summary: Declares the mediator that supplies consent configuration, promo visibility, branding, and step lists for each first run type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_COORDINATOR_GEMINI_FIRST_RUN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_COORDINATOR_GEMINI_FIRST_RUN_MEDIATOR_H_
 

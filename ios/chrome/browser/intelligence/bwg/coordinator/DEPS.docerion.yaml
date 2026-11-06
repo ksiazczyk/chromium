@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Gemini coordinator DEPS include rules
+summary: Lists the headers and directories that sources in the Gemini coordinator directory are allowed to include.

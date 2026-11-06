@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_accordion_view_unittest.mm.
+type: test
+title: Unit tests for the Gemini consent accordion view
+summary: Verifies that the accordion view shows chevrons and hides bodies in collapsible mode and expands rows in non-collapsible mode.

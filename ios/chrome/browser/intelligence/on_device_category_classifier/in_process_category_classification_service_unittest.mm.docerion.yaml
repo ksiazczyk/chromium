@@ -1,0 +1,4 @@
+# Docerion header of in_process_category_classification_service_unittest.mm.
+type: test
+title: In-process category classification service unit tests
+summary: Unit tests covering page context classification, embedding handling, request merging for concurrent URLs, and null embedder behavior of the in-process classification service.

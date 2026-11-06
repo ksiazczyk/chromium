@@ -1,0 +1,4 @@
+# Docerion header of in_process_category_classification_service.mm.
+type: source
+title: In-process category classification service implementation
+summary: Implements page context classification with local models using a background task runner, embeddings caching, request tracking, and shutdown cleanup.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_egtest.mm.
+type: test
+title: Gemini Earl Grey UI tests
+summary: Earl Grey UI test suite for the BWG UI that signs in a fake identity and verifies the AI Hub entry point conveys the New badge to accessibility.

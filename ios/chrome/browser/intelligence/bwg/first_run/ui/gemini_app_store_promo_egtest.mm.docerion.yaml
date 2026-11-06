@@ -1,0 +1,4 @@
+# Docerion header of gemini_app_store_promo_egtest.mm.
+type: test
+title: Earl Grey tests for the Gemini app store promo
+summary: Earl Grey UI tests covering the Gemini app store promo and first run carousel titles across visual-rich and lightweight variants.

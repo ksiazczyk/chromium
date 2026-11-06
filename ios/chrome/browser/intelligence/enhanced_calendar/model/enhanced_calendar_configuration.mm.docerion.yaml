@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_configuration.mm.
+type: source
+title: Enhanced Calendar configuration implementations
+summary: Implements the CalendarEventConfiguration and EnhancedCalendarConfiguration classes declared in the matching header.

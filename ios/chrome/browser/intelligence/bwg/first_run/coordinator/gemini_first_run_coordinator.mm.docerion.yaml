@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_coordinator.mm.
+type: source
+title: Gemini first run coordinator implementation
+summary: Implements presentation of the Gemini first run UI, coordinating consent, promo, and feature engagement flows with the mediator.

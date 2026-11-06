@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_infobar_delegate.mm.
+type: source
+title: Contextual cue infobar delegate implementation
+summary: Implements creating and removing the contextual cue infobar, resolving the Gemini handler and cue text.

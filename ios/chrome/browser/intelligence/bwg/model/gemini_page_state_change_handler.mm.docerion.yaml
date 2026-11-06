@@ -1,0 +1,4 @@
+# Docerion header of gemini_page_state_change_handler.mm.
+type: source
+title: Gemini page state change handler implementation
+summary: Implements the page context sharing flow, presenting an alert that enables the page content sharing preference when the user accepts.

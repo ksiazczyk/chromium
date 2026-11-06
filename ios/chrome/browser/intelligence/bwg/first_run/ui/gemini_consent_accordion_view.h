@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini consent accordion view interface
+// summary: Declares a collapsible accordion view for the Gemini consent screen with a delegate protocol for link taps and row toggles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_ACCORDION_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_ACCORDION_VIEW_H_
 

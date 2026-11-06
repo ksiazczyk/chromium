@@ -1,0 +1,4 @@
+# Docerion header of gemini_gateway_manager_unittest.mm.
+type: test
+title: GeminiGatewayManager unit tests
+summary: Unit tests verifying that GeminiGatewayManager initializes the gateway and core handlers and disconnects them correctly.

@@ -1,0 +1,4 @@
+# Docerion header of passage_embedder_model_loader_unittest.mm.
+type: test
+title: PassageEmbedderModelLoader unit tests
+summary: Unit tests for PassageEmbedderModelLoader covering initial state, metadata notification and reset, and handling of model updates and unload callbacks.

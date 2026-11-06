@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gemini UI build definition
+summary: GN build file defining the Gemini UI source set together with its EarlGrey integration test and unit test targets.

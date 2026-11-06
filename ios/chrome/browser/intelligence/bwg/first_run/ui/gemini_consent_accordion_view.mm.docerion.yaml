@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_accordion_view.mm.
+type: source
+title: Gemini consent accordion view implementation
+summary: Implements the accordion rows with icons, titles, collapsible bodies, chevrons and link tap handling for the Gemini consent UI.

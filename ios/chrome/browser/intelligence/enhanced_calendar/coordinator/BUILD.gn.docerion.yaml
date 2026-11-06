@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Enhanced Calendar coordinator
+summary: Defines the coordinator source_set and unit_tests targets with their sources and dependencies for the Enhanced Calendar feature.

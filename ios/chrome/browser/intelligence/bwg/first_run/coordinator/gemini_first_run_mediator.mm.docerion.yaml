@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_mediator.mm.
+type: source
+title: Gemini first run mediator implementation
+summary: Implements the first run logic, such as promo impression limits, consent configuration, feature availability checks, and metrics.

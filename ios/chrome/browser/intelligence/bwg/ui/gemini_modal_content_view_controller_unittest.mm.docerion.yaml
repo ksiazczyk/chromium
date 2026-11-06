@@ -1,0 +1,4 @@
+# Docerion header of gemini_modal_content_view_controller_unittest.mm.
+type: test
+title: Gemini modal content view controller unit tests
+summary: Unit tests verifying the close button configuration, delegate notification on tap, and safe-area content layout of the modal view controller.

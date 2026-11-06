@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Enhanced Calendar constants
+summary: Defines the GN source_set for the Enhanced Calendar error string constants, listing the error_strings sources and depending on //base.

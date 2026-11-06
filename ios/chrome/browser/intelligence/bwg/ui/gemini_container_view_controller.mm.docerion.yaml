@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_view_controller.mm.
+type: source
+title: Gemini container view controller implementation
+summary: Implements the Gemini container layout, keyboard handling, zero-state background and actuation worklog presentation.

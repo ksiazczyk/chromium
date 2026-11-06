@@ -1,0 +1,4 @@
+# Docerion header of gemini_page_context_unittest.mm.
+type: test
+title: GeminiPageContext unit tests
+summary: Unit tests for GeminiPageContext covering initial state, proto copy versus move semantics under the multi-tab feature, and state and favicon properties.

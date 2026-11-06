@@ -1,0 +1,4 @@
+# Docerion header of gemini_gateway_manager.mm.
+type: source
+title: GeminiGatewayManager implementation
+summary: Implements GeminiGatewayManager, creating the provider gateway and wiring up page state, session, camera, tab picker, consent, suggestion, and actuation handlers.

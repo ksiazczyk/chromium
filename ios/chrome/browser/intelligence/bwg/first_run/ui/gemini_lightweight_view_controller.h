@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini lightweight first run view controller interface
+// summary: Declares the view controller for the lightweight Gemini first run experience step with mutator and step delegate properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_LIGHTWEIGHT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_LIGHTWEIGHT_VIEW_CONTROLLER_H_
 

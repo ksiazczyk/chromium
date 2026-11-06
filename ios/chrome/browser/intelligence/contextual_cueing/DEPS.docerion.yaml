@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual cueing include rules
+summary: Lists the header include paths allowed for the contextual cueing directory, with extra rules for test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar service implementation header
+// summary: Declares the Mojo EnhancedCalendarServiceImpl class that executes Enhanced Calendar requests through the Optimization Guide service and observes sign-in state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_MODEL_ENHANCED_CALENDAR_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_MODEL_ENHANCED_CALENDAR_SERVICE_IMPL_H_
 

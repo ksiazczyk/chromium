@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_service_impl.mm.
+type: source
+title: Enhanced Calendar service implementation
+summary: Implements the Mojo Enhanced Calendar service, building requests with selected text and locale, executing model queries, handling responses, and recording metrics.

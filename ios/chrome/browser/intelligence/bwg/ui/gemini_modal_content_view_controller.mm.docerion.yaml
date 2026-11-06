@@ -1,0 +1,4 @@
+# Docerion header of gemini_modal_content_view_controller.mm.
+type: source
+title: Gemini modal content view controller implementation
+summary: Implements the modal content view controller, configuring the close button, background color, and safe-area layout of the supplied content view.

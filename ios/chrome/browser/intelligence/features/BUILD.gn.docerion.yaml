@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for intelligence features
+summary: Defines the features source set and its unit_tests target with their sources and dependencies for the iOS intelligence features directory.

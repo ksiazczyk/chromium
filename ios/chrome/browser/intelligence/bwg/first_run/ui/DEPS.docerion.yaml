@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Gemini first run UI directory
+summary: Lists the headers that files in this directory may include, covering assistant UI, Gemini UI utils and button stack components.

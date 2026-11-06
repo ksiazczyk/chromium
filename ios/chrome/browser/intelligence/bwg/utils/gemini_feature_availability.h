@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini feature availability header
+// summary: Declares checks for conditional Gemini sub-features like Image Remix and Live based on profile and account capabilities beyond feature flags.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_FEATURE_AVAILABILITY_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_FEATURE_AVAILABILITY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gemini_test_utils.mm.
+type: test
+title: Gemini test utilities implementation
+summary: Implements setup of a signed-in test account with model execution and Gemini in Chrome capabilities for use in unit tests.

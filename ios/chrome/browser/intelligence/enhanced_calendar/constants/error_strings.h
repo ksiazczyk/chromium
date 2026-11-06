@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar error strings header
+// summary: Declares error message string constants, the EnhancedCalendarError enum, and a function that maps an error enum value to its string.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_CONSTANTS_ERROR_STRINGS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_CONSTANTS_ERROR_STRINGS_H_
 

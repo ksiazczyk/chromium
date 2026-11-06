@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Explain with Gemini coordinator
+summary: Lists the include rules that restrict which headers the coordinator directory may depend on.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_configuration.mm.
+type: source
+title: Gemini consent configuration implementation
+summary: Builds consent configurations that vary rows, footnotes and headers by managed state, strictness, first run type and country.

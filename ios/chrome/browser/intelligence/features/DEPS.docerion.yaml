@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for intelligence features
+summary: Restricts the allowed includes in this directory to page content annotations core and inactive tabs features headers.

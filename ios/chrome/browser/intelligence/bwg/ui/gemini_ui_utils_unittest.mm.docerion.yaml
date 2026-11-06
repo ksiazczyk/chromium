@@ -1,0 +1,4 @@
+# Docerion header of gemini_ui_utils_unittest.mm.
+type: test
+title: Gemini UI utilities unit tests
+summary: Unit tests for GeminiUIUtils covering symbol and gradient logo generation across point sizes, including zero and negative sizes.

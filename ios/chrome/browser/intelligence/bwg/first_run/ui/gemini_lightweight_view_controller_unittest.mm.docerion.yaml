@@ -1,0 +1,4 @@
+# Docerion header of gemini_lightweight_view_controller_unittest.mm.
+type: test
+title: Gemini lightweight view controller unit tests
+summary: Unit tests for the lightweight Gemini first-run view controller, covering initialization for managed and standard accounts, button configuration, and consent metrics.

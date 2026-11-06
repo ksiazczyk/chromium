@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_ui_state_manager_unittest.mm.
+type: test
+title: Gemini container UI state manager unit tests
+summary: Unit tests verifying the UI state factory methods, delegate notifications, and state transitions of the UI state manager.

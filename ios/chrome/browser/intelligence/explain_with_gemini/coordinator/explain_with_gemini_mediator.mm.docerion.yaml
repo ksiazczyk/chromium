@@ -1,0 +1,4 @@
+# Docerion header of explain_with_gemini_mediator.mm.
+type: source
+title: Explain with Gemini mediator implementation
+summary: Implements the mediator that adds the Explain with Gemini action to the edit menu, checks Gemini availability, fetches the web selection and triggers Gemini.

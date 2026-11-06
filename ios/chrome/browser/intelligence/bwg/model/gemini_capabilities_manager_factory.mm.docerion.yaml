@@ -1,0 +1,4 @@
+# Docerion header of gemini_capabilities_manager_factory.mm.
+type: source
+title: Gemini capabilities manager factory implementation
+summary: Builds a per-profile GeminiCapabilitiesManager when App Switcher AI summarization is enabled, depending on the authentication and Gemini services.

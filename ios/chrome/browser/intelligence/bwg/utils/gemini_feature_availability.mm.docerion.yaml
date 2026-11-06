@@ -1,0 +1,4 @@
+# Docerion header of gemini_feature_availability.mm.
+type: source
+title: Gemini feature availability implementation
+summary: Implements checks for whether Gemini features such as Image Remix and Live are available for a profile based on account capabilities.

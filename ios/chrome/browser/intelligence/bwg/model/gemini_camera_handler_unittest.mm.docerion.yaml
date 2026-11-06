@@ -1,0 +1,4 @@
+# Docerion header of gemini_camera_handler_unittest.mm.
+type: test
+title: Gemini camera handler unit tests
+summary: Tests that GeminiCameraHandler conforms to GeminiCameraDelegate and that opening the camera works with mocked AVCaptureDevice authorization.

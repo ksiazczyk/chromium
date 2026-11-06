@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini availability check header
+// summary: Declares IsGeminiAvailable and GeminiAvailabilityResult, unifying flag, profile, web state, and entry point checks into one availability result.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_AVAILABILITY_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_AVAILABILITY_H_
 

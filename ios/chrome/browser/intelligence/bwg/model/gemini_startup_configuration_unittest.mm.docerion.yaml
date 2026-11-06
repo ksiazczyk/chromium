@@ -1,0 +1,4 @@
+# Docerion header of gemini_startup_configuration_unittest.mm.
+type: test
+title: Gemini Startup Configuration Unit Tests
+summary: Unit tests verifying the default state, property assignment, and weak reference behavior of GeminiStartupConfiguration.

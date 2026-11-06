@@ -1,0 +1,4 @@
+# Docerion header of gemini_service_impl.mm.
+type: source
+title: GeminiServiceImpl implementation
+summary: Implements GeminiService, checking profile eligibility and enterprise policy, registering optimization guide types, and logging first-run and eligibility metrics.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_page_view_controller.mm.
+type: source
+title: Gemini first run page view controller implementation
+summary: Implements the paginated Gemini onboarding container, including logo Lottie animation, sheet detents, and step transitions.

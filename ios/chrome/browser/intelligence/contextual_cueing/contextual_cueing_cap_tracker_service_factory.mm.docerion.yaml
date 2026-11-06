@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_cap_tracker_service_factory.mm.
+type: source
+title: Contextual cueing cap tracker service factory implementation
+summary: Implements the profile-keyed service factory that builds a ContextualCueingCapTrackerService with the profile's preferences and excludes incognito profiles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini visual rich view controller interface
+// summary: Declares the view controller for the visual-rich Gemini first run experience step, with a designated initializer taking a consent configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_VISUAL_RICH_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_VISUAL_RICH_VIEW_CONTROLLER_H_
 

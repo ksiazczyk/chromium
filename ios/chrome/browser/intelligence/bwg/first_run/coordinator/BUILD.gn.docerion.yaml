@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Gemini first run coordinator
+summary: Defines the GN source sets for the Gemini first run coordinator and its unit tests, listing sources and dependencies.

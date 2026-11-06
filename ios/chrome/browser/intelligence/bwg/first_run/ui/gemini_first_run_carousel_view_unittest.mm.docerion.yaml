@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_carousel_view_unittest.mm.
+type: test
+title: Gemini first run carousel view unit tests
+summary: Unit tests covering carousel initialization, public API lifecycle methods, and content offset calculations for LTR and RTL layouts.

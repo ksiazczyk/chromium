@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_log_event_builder.mm.
+type: source
+title: Contextual cue log event builder implementation
+summary: Builds cue snapshots and Private Insights events stamped with time and iOS coarse system profile data.

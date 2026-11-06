@@ -1,0 +1,4 @@
+# Docerion header of gemini_entry_flow_coordinator.mm.
+type: source
+title: Gemini entry flow coordinator implementation
+summary: Implements the Gemini entry flow, mapping entry points to sign-in access points and handling eligibility snackbars and metrics.

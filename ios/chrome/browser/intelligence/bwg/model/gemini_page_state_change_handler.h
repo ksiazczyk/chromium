@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini page state change handler interface
+// summary: Declares GeminiPageStateChangeHandler, which decides whether page context sharing is allowed for Gemini based on a preference and a base view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_PAGE_STATE_CHANGE_HANDLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_PAGE_STATE_CHANGE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of features_unittest.mm.
+type: test
+title: Contextual cueing feature flags unit tests
+summary: Unit tests verifying contextual cueing feature flag behavior, including PageActionMenu dependencies and UI mode parameter parsing.

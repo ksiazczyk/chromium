@@ -1,0 +1,4 @@
+# Docerion header of gemini_tab_picker_handler.mm.
+type: source
+title: Gemini tab picker handler implementation
+summary: Implements the Gemini tab picker handler, presenting the tab picker, enforcing the tab attachment limit, and showing snackbar errors.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_browser_agent.mm.
+type: source
+title: Gemini browser agent implementation
+summary: Implements the Gemini browser agent, wiring session, camera, actuation, suggestion, and consent handlers into the floaty and browser lifecycle.

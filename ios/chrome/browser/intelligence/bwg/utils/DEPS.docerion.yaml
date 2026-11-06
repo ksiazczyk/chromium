@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Gemini utils include rules
+summary: Grants the Gemini utils directory permission to include sign-in model headers for authentication and identity management.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini consent view controller delegate protocol
+// summary: Declares a delegate protocol that notifies when a consent accordion item is expanded so height changes can be handled.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_VIEW_CONTROLLER_DELEGATE_H_
 

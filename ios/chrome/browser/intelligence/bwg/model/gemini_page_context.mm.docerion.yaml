@@ -1,0 +1,4 @@
+# Docerion header of gemini_page_context.mm.
+type: source
+title: GeminiPageContext implementation
+summary: Implements GeminiPageContext, returning a copy of the page context proto when multi-tab context is enabled and moving it otherwise.

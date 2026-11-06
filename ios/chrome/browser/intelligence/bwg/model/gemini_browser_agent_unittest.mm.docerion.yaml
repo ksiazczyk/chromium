@@ -1,0 +1,4 @@
+# Docerion header of gemini_browser_agent_unittest.mm.
+type: test
+title: Gemini browser agent unit tests
+summary: Unit tests for GeminiBrowserAgent covering floaty invocation, availability changes, metrics, fullscreen interaction, and browser lifecycle behavior.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_metrics.mm.
+type: source
+title: Gemini metrics implementation
+summary: Implements the Gemini metric recording functions, including histogram name definitions, aspect ratio bucketing, and entry point impression throttling.

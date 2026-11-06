@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Gemini first run UI
+summary: Defines the source set of Gemini first run views, Earl Grey EG2 test targets and Lottie resource bundling for the first run UI.

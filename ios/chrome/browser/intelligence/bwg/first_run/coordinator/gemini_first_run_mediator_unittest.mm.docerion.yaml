@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_mediator_unittest.mm.
+type: test
+title: Unit tests for the Gemini first run mediator
+summary: Tests the mediator's first run behavior using a fake Gemini service, mock delegate, and histogram and user action testers.

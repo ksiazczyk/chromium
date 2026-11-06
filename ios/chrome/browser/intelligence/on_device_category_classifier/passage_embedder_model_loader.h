@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassageEmbedderModelLoader header
+// summary: Declares PassageEmbedderModelLoader, which observes optimization guide model updates, opens passage embedder model files on a background runner, and manages embedder metadata observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_PASSAGE_EMBEDDER_MODEL_LOADER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_PASSAGE_EMBEDDER_MODEL_LOADER_H_
 

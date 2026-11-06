@@ -1,0 +1,4 @@
+# Docerion header of explain_with_gemini_mediator_unittest.mm.
+type: test
+title: Unit tests for the Explain with Gemini mediator
+summary: Unit tests verifying the mediator's edit menu behavior, availability checks and Gemini triggering using fake services, fake web states and OCMock.

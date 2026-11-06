@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini session metrics manager interface
+// summary: Declares the GeminiSessionMetricsManager interface that tracks session lifecycle, view state transitions, and tab switches for metrics recording.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_METRICS_GEMINI_SESSION_METRICS_MANAGER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_METRICS_GEMINI_SESSION_METRICS_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Gemini metrics
+summary: Defines the GN source sets and dependencies for the Gemini metrics code and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_suggestion_handler.mm.
+type: source
+title: Gemini Suggestion Handler Implementation
+summary: Implements fetching zero-state suggestions from the active web state's GeminiTabHelper.

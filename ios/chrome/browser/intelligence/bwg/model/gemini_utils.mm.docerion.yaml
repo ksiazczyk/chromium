@@ -1,0 +1,4 @@
+# Docerion header of gemini_utils.mm.
+type: source
+title: Gemini page context utilities implementation
+summary: Implements helpers that build a partial Gemini page context from a web state and provide a default globe favicon symbol.
