@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty accessibility test fixture page
+summary: Empty HTML test fixture used by accessibility frame tests.

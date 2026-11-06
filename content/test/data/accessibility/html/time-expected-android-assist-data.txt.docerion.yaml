@@ -1,0 +1,4 @@
+# Docerion header of time-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for time element test
+summary: Expected Android assist data snapshot for the time element test, showing the View hierarchy with htmlTag info and datetime attributes for two time elements.

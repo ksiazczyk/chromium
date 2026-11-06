@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for textarea-with-selection
+summary: Expected Fuchsia accessibility tree snapshot for the textarea-with-selection test, describing a focused text field with input actions and its static text labels.

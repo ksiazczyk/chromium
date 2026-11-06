@@ -1,0 +1,4 @@
+# Docerion header of visible_text.html.
+type: test
+title: Visible and hidden text test page
+summary: HTML test page with visible text, a large blue block, and text hidden from the viewport for accessibility testing.

@@ -1,0 +1,4 @@
+# Docerion header of truncate-label-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the truncate-label test
+summary: Expected Blink accessibility tree dump for a page whose group has a one-million-character aria-label, used to check accessibility name truncation.

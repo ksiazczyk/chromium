@@ -1,0 +1,4 @@
+# Docerion header of var-expected-mac.txt.
+type: test
+title: Expected macOS output for var accessibility test
+summary: Expected macOS accessibility tree output with AXWebArea, AXGroup and AXStaticText named Variable for the var test page.

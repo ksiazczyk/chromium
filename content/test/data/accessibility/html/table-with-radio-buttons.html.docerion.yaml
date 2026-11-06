@@ -1,0 +1,4 @@
+# Docerion header of table-with-radio-buttons.html.
+type: test
+title: HTML table test page with radio buttons
+summary: HTML test page with a data table, layout table and grid containing radio buttons to verify set counting in accessibility trees.

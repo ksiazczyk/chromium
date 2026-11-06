@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-android.txt.
+type: test
+title: Wbr expected Android tree
+summary: Expected Android accessibility tree for the wbr test page, marked as skipped due to a whitespace error, with the word-break text as one view name.

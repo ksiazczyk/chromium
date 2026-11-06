@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-android-assist-data.txt.
+type: test
+title: Android assist data expectation for text-align test
+summary: Expected Android accessibility assist data dump for the text-align test showing the view hierarchy and alignment styles.

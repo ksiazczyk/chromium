@@ -1,0 +1,4 @@
+# Docerion header of title-changed-expected-blink.txt.
+type: test
+title: Blink expected tree for changed document title
+summary: Expected Blink accessibility tree after the document title changes to New Title.

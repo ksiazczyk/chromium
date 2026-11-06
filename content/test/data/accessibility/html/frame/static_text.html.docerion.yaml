@@ -1,0 +1,4 @@
+# Docerion header of static_text.html.
+type: test
+title: Accessibility test fixture with static text
+summary: Test fixture for accessibility frame tests containing only the static text Text in iframe.

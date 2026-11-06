@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-blink.txt.
+type: test
+title: Read-only textarea expected Blink output
+summary: Expected Blink accessibility tree output for the read-only textarea test, including text selection and line break details.

@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-auralinux.txt.
+type: test
+title: Read-only textarea expected Auralinux output
+summary: Expected Auralinux accessibility tree output for the read-only textarea test.

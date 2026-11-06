@@ -1,0 +1,4 @@
+# Docerion header of button_scrolled.html.
+type: test
+title: Accessibility test fixture with a scrolled button
+summary: Test fixture for accessibility frame tests whose script scrolls the window and renames the button to Scrolled Button.

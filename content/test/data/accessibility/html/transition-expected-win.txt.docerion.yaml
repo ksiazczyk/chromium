@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the transition test
+summary: Expected Windows accessibility dump for the CSS transition test, listing the document, the GrowButton pushbutton and the Done static text.

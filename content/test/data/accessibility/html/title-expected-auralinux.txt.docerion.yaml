@@ -1,0 +1,4 @@
+# Docerion header of title-expected-auralinux.txt.
+type: test
+title: Auralinux expected output for document title
+summary: Expected Auralinux accessibility output showing the document web node named Title of the document.

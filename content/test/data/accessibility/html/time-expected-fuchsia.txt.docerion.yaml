@@ -1,0 +1,4 @@
+# Docerion header of time-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the time element test
+summary: Expected Fuchsia accessibility tree snapshot for the time.html test page, listing static text labels for time elements.

@@ -1,0 +1,4 @@
+# Docerion header of var-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for var test
+summary: Expected UIA Windows output for the var test page, marked as skipped because the element has no accessible.

@@ -1,0 +1,4 @@
+# Docerion header of var-expected-auralinux.txt.
+type: test
+title: Expected AuRaLinux output for var accessibility test
+summary: Expected AuRaLinux accessibility tree output with document, section and static text named Variable for the var test page.

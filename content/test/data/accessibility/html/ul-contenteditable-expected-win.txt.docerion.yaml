@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ul-contenteditable
+summary: Expected Windows accessibility tree dump for a contenteditable list, showing list items with bullet and text static text children.

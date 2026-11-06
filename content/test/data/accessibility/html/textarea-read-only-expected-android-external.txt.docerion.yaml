@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-android-external.txt.
+type: test
+title: Read-only textarea expected Android external output
+summary: Expected Android accessibility tree output for the read-only textarea test, written in the external WebView dump format.

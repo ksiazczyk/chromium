@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for textarea-with-selection
+summary: Expected macOS accessibility tree snapshot for the textarea-with-selection test, showing an AXTextArea inside grouped web content with its value.

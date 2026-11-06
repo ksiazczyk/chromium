@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for ul list test
+summary: Expected Android external accessibility snapshot for the ul list test with collection info, list items, markers and static text.

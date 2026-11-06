@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-uia-win.txt.
+type: test
+title: Read-only textarea expected UIA Win output
+summary: Expected Windows UIA accessibility tree output for the read-only textarea test.

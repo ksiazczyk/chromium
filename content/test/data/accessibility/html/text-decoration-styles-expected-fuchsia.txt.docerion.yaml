@@ -1,0 +1,4 @@
+# Docerion header of text-decoration-styles-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for text decoration styles
+summary: Expected Fuchsia accessibility tree for the text decoration styles test page covering overline, underline and line-through styles.

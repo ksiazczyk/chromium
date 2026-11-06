@@ -1,0 +1,4 @@
+# Docerion header of title-attribute-with-children-expected-blink.txt.
+type: test
+title: Blink expected tree for title attribute with children
+summary: Expected Blink accessibility tree for a page where a div's title attribute names a container holding two child paragraphs.

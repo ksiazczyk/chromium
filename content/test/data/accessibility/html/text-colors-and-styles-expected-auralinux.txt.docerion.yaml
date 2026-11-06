@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility tree for text colors and styles
+summary: Expected accessibility tree snapshot on auralinux for the text colors and styles test page, listing paragraph, heading and static text roles.

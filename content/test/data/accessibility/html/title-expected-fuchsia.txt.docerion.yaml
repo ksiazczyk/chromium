@@ -1,0 +1,4 @@
+# Docerion header of title-expected-fuchsia.txt.
+type: test
+title: Title test expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree output for the HTML document title test page.

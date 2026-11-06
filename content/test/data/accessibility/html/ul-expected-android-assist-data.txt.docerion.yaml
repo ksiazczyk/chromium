@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for ul list test
+summary: Expected Android assist data snapshot for the ul list test, describing the WebView, ListView, list items and bullet markers.

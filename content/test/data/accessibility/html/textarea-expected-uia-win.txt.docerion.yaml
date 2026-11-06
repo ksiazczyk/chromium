@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for textarea test
+summary: Expected Windows UI Automation tree snapshot for the HTML textarea element, describing a document, group and edit control value.

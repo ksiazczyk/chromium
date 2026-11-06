@@ -1,0 +1,4 @@
+# Docerion header of time-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the time element test
+summary: Expected Blink accessibility tree snapshot for the time.html test page with time nodes and inline text boxes.

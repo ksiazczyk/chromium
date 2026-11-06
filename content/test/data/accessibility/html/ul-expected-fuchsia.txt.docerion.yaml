@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for ul list test
+summary: Expected Fuchsia accessibility tree snapshot for the ul list test with list elements, markers and static text labels.

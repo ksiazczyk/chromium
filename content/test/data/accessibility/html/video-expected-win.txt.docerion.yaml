@@ -1,0 +1,4 @@
+# Docerion header of video-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for video element
+summary: Expected Windows accessibility tree snapshot for a page containing a video element.

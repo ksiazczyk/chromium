@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-android-external.txt.
+type: test
+title: Wbr expected Android external tree
+summary: Expected Android external accessibility tree for the wbr test page, showing a focused WebView with a TextView containing the full concatenated text.

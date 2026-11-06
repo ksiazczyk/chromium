@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-auralinux.txt.
+type: test
+title: Wbr expected Auralinux tree
+summary: Expected Auralinux accessibility tree for the wbr test page, showing static text nodes split at word break opportunities.

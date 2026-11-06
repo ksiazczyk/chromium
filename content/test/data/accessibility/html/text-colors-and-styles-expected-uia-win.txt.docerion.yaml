@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-uia-win.txt.
+type: test
+title: Expected UIA Win accessibility tree for text colors and styles
+summary: Expected UIA accessibility tree on Windows for the text colors and styles test page with document, group and text elements.

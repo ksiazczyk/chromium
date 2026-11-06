@@ -1,0 +1,4 @@
+# Docerion header of video-text-only-expected-mac.txt.
+type: test
+title: Video text-only expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the video text-only test page, listing empty groups described as 'Unable to play media.' and a static text node.

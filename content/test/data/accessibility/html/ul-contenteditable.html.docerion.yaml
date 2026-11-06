@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable.html.
+type: test
+title: Contenteditable ul list accessibility test page
+summary: HTML test fixture with a contenteditable textbox containing a ul list that mimics the list markup used in Google Docs.

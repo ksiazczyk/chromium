@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ul-contenteditable
+summary: Expected Blink accessibility tree dump for a contenteditable list, showing list items with bullet list markers and Hello and Bye static text.

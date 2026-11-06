@@ -1,0 +1,4 @@
+# Docerion header of title-attribute-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the title attribute test
+summary: Expected Blink accessibility tree snapshot showing how title attributes supply names and descriptions to groups and generic containers.

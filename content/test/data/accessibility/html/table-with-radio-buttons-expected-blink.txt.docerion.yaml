@@ -1,0 +1,4 @@
+# Docerion header of table-with-radio-buttons-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for table with radio buttons
+summary: Expected Blink accessibility tree dump for the table test covering radio button set counting in data, layout and grid tables.

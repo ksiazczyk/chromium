@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for ul-contenteditable
+summary: Expected Fuchsia accessibility tree dump for a contenteditable list, showing a text field with a list of two bulleted list elements.

@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-android.txt.
+type: test
+title: Transition test expected accessibility tree for Android
+summary: Expected Android accessibility tree for the transition test page, noting Android omits object location and size.

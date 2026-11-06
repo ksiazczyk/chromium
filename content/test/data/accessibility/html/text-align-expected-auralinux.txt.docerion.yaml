@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-auralinux.txt.
+type: test
+title: text-align expected Auralinux
+summary: Expected Auralinux accessibility tree snapshot for the text-align HTML test, showing sections with their resolved text-align values.

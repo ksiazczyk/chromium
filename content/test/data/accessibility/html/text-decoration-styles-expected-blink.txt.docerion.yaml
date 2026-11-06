@@ -1,0 +1,4 @@
+# Docerion header of text-decoration-styles-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for text decoration styles
+summary: Expected Blink accessibility tree dump for the text decoration styles test page, covering overline, underline and line-through style values.

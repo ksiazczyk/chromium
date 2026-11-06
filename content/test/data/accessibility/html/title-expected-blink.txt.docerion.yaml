@@ -1,0 +1,4 @@
+# Docerion header of title-expected-blink.txt.
+type: test
+title: Blink expected tree for document title
+summary: Expected Blink accessibility tree with a rootWebArea named Title of the document.

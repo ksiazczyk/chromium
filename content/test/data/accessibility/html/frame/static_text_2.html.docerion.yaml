@@ -1,0 +1,4 @@
+# Docerion header of static_text_2.html.
+type: test
+title: Static text in iframe test page
+summary: HTML test page containing a span with static text, used as iframe content for accessibility tests.

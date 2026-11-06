@@ -1,0 +1,4 @@
+# Docerion header of table-thead-tbody-tfoot-expected-android.txt.
+type: test
+title: table-thead-tbody-tfoot expected accessibility tree for Android
+summary: Expected Android accessibility tree output for the thead, tbody and tfoot table test, listing headers and cells.

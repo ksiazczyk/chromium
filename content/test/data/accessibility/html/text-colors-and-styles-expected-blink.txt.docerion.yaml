@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for text colors and styles
+summary: Expected Blink accessibility tree dump for the text colors and styles test page, including inline text boxes and ignored containers.

@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-win.txt.
+type: test
+title: text-align expected Windows
+summary: Expected Windows accessibility tree snapshot for the text-align HTML test, showing sections and static text with text-align values.

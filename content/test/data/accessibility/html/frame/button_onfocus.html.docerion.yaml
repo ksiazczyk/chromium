@@ -1,0 +1,4 @@
+# Docerion header of button_onfocus.html.
+type: test
+title: Accessibility test fixture with a button focus handler
+summary: Test fixture for accessibility frame tests with a button whose onfocus handler writes Focused into a log div.

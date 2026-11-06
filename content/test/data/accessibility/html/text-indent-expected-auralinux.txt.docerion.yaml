@@ -1,0 +1,4 @@
+# Docerion header of text-indent-expected-auralinux.txt.
+type: test
+title: Text indent expected Auralinux output
+summary: Expected Linux accessibility tree snapshot showing computed text-indent values for the text-indent HTML test.

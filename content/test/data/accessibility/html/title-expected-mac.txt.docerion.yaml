@@ -1,0 +1,4 @@
+# Docerion header of title-expected-mac.txt.
+type: test
+title: Title test expected accessibility tree for macOS
+summary: Expected macOS AXWebArea output exposing the document title for the title test page.

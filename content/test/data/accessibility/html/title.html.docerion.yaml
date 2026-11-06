@@ -1,0 +1,4 @@
+# Docerion header of title.html.
+type: test
+title: HTML test page with a document title
+summary: HTML test page whose document title is verified by the accessibility title test.

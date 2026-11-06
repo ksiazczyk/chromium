@@ -1,0 +1,4 @@
+# Docerion header of box.html.
+type: test
+title: Accessibility test fixture with a styled image box
+summary: Test fixture for accessibility frame tests that renders a div with role img as a 100x50 styled box.

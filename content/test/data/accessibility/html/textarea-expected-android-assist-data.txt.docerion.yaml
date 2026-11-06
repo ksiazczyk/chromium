@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for textarea accessibility test
+summary: Expected Android assist data snapshot of the accessibility tree for the HTML textarea element, listing node sizes, HTML info and text content.

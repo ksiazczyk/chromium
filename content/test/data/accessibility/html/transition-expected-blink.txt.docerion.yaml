@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-blink.txt.
+type: test
+title: Transition test expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the transition test page with a GrowButton button and Done text.

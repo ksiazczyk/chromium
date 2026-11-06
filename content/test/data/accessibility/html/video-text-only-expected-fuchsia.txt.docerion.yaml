@@ -1,0 +1,4 @@
+# Docerion header of video-text-only-expected-fuchsia.txt.
+type: test
+title: Video text-only expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the video text-only test page, showing hidden media controls and the 'Unable to play media.' label.

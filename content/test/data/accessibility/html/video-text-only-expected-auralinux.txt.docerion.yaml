@@ -1,0 +1,4 @@
+# Docerion header of video-text-only-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for video text-only test
+summary: Expected Aura Linux accessibility tree snapshot for a text-only video accessibility test.

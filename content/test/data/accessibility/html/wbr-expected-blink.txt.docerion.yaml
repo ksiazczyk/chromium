@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-blink.txt.
+type: test
+title: wbr expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the wbr HTML test, showing static text split at word break opportunities.

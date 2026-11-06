@@ -1,0 +1,4 @@
+# Docerion header of textarea-changes-expected-blink.txt.
+type: test
+title: Textarea changes expected Blink output
+summary: Expected Blink accessibility tree snapshot showing a multiline text field with value xyz for the textarea-changes test.

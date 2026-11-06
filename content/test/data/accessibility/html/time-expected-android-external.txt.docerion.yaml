@@ -1,0 +1,4 @@
+# Docerion header of time-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for time element test
+summary: Expected Android external accessibility snapshot for the time element test, listing focusable views and text for two time elements and a static text.

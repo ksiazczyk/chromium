@@ -1,0 +1,4 @@
+# Docerion header of textarea.html.
+type: test
+title: Textarea accessibility test page
+summary: HTML test page with a monospace textarea using maxlength and a fixed character width, with per-platform allow-list comments for expected accessibility output.

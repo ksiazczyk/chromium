@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-auralinux.txt.
+type: test
+title: Transition test expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree for the transition test page with a push button and static text.

@@ -1,0 +1,4 @@
+# Docerion header of nested-frame.html.
+type: test
+title: Accessibility test fixture with a nested frame
+summary: Test fixture for accessibility frame tests embedding a scaled same-site iframe of box.html.

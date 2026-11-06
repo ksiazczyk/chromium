@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-android-assist-data.txt.
+type: test
+title: Wbr expected Android assist data tree
+summary: Expected Android assist data accessibility tree for the wbr test page, showing TextViews splitting 'Supercalifragilisticexpialidocious' at word break opportunities.

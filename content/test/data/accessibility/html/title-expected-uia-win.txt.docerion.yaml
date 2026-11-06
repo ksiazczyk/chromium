@@ -1,0 +1,4 @@
+# Docerion header of title-expected-uia-win.txt.
+type: test
+title: Title test expected UIA tree for Windows
+summary: Expected UIA output giving the document name for the title test page on Windows.

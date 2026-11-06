@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-uia-win.txt.
+type: test
+title: wbr expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree snapshot for the wbr HTML test with text elements for each word segment.

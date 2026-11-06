@@ -1,0 +1,4 @@
+# Docerion header of video-controls-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for video controls
+summary: Expected accessibility tree snapshot of the video controls test page on Aura Linux.

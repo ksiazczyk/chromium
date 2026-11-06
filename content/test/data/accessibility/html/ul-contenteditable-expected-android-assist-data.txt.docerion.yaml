@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ul-contenteditable test
+summary: Expected Android assist data dump for a contenteditable list, showing an EditText containing bulleted Hello and Bye list items with markers.
