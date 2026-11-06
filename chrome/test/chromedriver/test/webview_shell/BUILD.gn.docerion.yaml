@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: ChromeDriver WebView shell test app build definition
+summary: GN build file that defines the resources and the ChromeDriverWebViewShell Android APK used by the ChromeDriver WebView shell test app.

@@ -1,0 +1,4 @@
+# Docerion header of page_with_focus_events.html.
+type: test
+title: Page with focus events
+summary: Test page that reports window focus and blur events to the DOM automation controller for popup focus testing.

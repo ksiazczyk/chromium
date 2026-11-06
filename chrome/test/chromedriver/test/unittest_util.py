@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Python unittest utilities with gtest-style output
+# summary: Helpers to run, name, and filter Python unittest suites with gtest-style result output for ChromeDriver tests.
+# ---
+
 """Utilities for dealing with the python unittest module."""
 
 import fnmatch

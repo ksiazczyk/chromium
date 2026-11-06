@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeDriver integration test base header
+// summary: Declares the IntegrationTest base fixture providing Chrome process launch, pipe builder, test HTTP server and DevTools client setup.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_TEST_INTEGRATION_TEST_H_
 #define CHROME_TEST_CHROMEDRIVER_TEST_INTEGRATION_TEST_H_
 

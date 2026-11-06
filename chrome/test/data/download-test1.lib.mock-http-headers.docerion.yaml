@@ -1,0 +1,4 @@
+# Docerion header of download-test1.lib.mock-http-headers.
+type: test
+title: Mock HTTP headers for download-test1.lib
+summary: Mock HTTP response headers with ETag and Last-Modified fields for download-test1.lib.

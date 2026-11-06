@@ -1,0 +1,4 @@
+# Docerion header of fetch-keepalive.html.
+type: test
+title: Fetch keepalive request test page
+summary: Test page that issues a configurable number of fetch keepalive requests and signals their outcome through the document title.

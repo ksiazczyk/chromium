@@ -1,0 +1,4 @@
+# Docerion header of download-anchor-same-origin.html.
+type: test
+title: Same-origin anchor download test page
+summary: Test page with an anchor link that downloads anchor_download_test.png via the download attribute.

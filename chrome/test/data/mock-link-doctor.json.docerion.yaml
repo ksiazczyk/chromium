@@ -1,0 +1,4 @@
+# Docerion header of mock-link-doctor.json.
+type: test
+title: Mock Link Doctor response fixture
+summary: JSON fixture with mock Link Doctor URL correction and web search results used by tests instead of the real service.

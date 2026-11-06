@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the command-injecting socket test helper
+// summary: Declares CommandInjectingSocket, a SyncWebSocket wrapper that injects DevTools commands and skips their responses during tests.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_TEST_COMMAND_INJECTING_SOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_TEST_COMMAND_INJECTING_SOCKET_H_
 

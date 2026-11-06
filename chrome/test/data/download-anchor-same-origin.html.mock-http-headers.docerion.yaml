@@ -1,0 +1,4 @@
+# Docerion header of download-anchor-same-origin.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for same-origin anchor download test
+summary: Mock HTTP response headers served for download-anchor-same-origin.html during download tests.

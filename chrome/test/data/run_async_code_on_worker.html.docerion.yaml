@@ -1,0 +1,4 @@
+# Docerion header of run_async_code_on_worker.html.
+type: test
+title: Run async code on a worker helper
+summary: Helper page that starts a web worker to execute posted async functions and resolves a promise with the worker's result for tests.

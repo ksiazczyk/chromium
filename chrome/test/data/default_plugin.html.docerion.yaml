@@ -1,0 +1,4 @@
+# Docerion header of default_plugin.html.
+type: test
+title: Default plugin test page
+summary: Test page embedding an object and embed using the Chromium test default plugin and reporting the outcome in a result element.

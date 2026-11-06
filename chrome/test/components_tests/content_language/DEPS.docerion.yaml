@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content language tests
+summary: Defines the allowed include paths, such as components/language/core/browser and components/prefs, for code in this test directory.

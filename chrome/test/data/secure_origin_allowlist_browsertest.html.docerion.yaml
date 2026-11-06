@@ -1,0 +1,4 @@
+# Docerion header of secure_origin_allowlist_browsertest.html.
+type: test
+title: Secure context reporting test page
+summary: Sets its title to secure or insecure context so test drivers can observe window.isSecureContext, and embeds an iframe as a regression test for CL 787610.

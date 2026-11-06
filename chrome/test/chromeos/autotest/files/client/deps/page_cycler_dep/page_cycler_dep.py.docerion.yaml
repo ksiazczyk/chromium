@@ -1,0 +1,4 @@
+# Docerion header of page_cycler_dep.py.
+type: script
+title: page_cycler_dep dependency installer
+summary: Python script that installs the page_cycler_dep dependency and updates its source files to the expected version.

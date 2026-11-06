@@ -1,0 +1,4 @@
+# Docerion header of chrome_test.py.
+type: script
+title: Chrome test dependency setup script
+summary: Autotest dependency setup script that tracks the chrome_test dependency version and runs its setup step.

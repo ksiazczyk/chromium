@@ -1,0 +1,4 @@
+# Docerion header of iframe_scaled.html.
+type: test
+title: Scaled iframe test page
+summary: Test page showing an iframe positioned and scaled with a CSS transform for pixel accuracy checks.

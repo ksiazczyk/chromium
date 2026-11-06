@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP server class declarations
+// summary: Declares the HttpServer and HttpServerInterface classes for accepting HTTP and WebSocket connections and forwarding requests safely.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_SERVER_HTTP_SERVER_H_
 #define CHROME_TEST_CHROMEDRIVER_SERVER_HTTP_SERVER_H_
 

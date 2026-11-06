@@ -1,0 +1,4 @@
+# Docerion header of link_new_page.html.
+type: test
+title: New page link test page
+summary: Page containing a target=_blank link used to test opening a link in a new page.

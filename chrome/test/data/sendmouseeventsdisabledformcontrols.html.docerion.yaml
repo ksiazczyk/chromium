@@ -1,0 +1,4 @@
+# Docerion header of sendmouseeventsdisabledformcontrols.html.
+type: test
+title: Disabled form controls mouse event test page
+summary: Page with a disabled button exposing load and mouse-down promises so tests can dispatch mouse events and check propagation over disabled controls.

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Cancelled redirect test page
+summary: Test page combining a long meta refresh with a quick location change, used to test cancelled client redirects.
+-->
+
 <!--Test file for ClientCancelled redirect_uitest. This tests that a location change when a pending 
 client redirect exists (in this case a meta-refresh) isn't flagged as a client redirect. The timeout 
 for the meta-refresh is large so that it can't happen during this test; we just want it to be scheduled. 

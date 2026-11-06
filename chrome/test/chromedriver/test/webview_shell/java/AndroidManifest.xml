@@ -5,6 +5,12 @@
      found in the LICENSE file.
  -->
 
+<!--docerion
+type: test
+title: ChromeDriver WebView shell Android manifest
+summary: Android manifest for the ChromeDriver WebView shell test app, declaring internet and storage permissions plus its main launcher activity.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.chromedriver_webview_shell" android:versionCode="1"
     android:versionName="1.0">

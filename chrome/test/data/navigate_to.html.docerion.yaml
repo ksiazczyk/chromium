@@ -1,0 +1,4 @@
+# Docerion header of navigate_to.html.
+type: test
+title: Query parameter navigation helper page
+summary: Script page that immediately navigates to the URL passed in its query parameter, letting tests trigger redirects.

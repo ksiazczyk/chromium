@@ -1,0 +1,4 @@
+# Docerion header of click.html.
+type: test
+title: Click event test page
+summary: Test page with a button and a link whose script records the last click event on the button for browser tests.

@@ -1,0 +1,4 @@
+# Docerion header of nosniff.empty.
+type: test
+title: Empty nosniff test body
+summary: Empty response body fixture used together with mock headers for nosniff handling tests.

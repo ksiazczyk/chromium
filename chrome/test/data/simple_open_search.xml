@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Simple OpenSearch description
+summary: OpenSearch description XML defining a search engine named Simple Search with an example.com search URL template.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Simple Search</ShortName>
 <Description>Not a creative description.</Description>

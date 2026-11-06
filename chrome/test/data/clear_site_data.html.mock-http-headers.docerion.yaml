@@ -1,0 +1,4 @@
+# Docerion header of clear_site_data.html.mock-http-headers.
+type: test
+title: Clear-Site-Data mock HTTP headers
+summary: Mock HTTP headers that attach a Clear-Site-Data response header for cache, cookies and storage to the test page.

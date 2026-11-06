@@ -1,0 +1,4 @@
+# Docerion header of ie@cookie[1].txt.
+type: test
+title: IE cookie file test fixture
+summary: Internet Explorer format cookie file used as test data for cookie parsing, including httponly, path and malformed entries.

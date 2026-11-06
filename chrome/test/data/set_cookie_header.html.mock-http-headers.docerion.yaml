@@ -1,0 +1,4 @@
+# Docerion header of set_cookie_header.html.mock-http-headers.
+type: test
+title: Set-Cookie HTTP headers mock
+summary: Mock HTTP headers fixture returning 200 OK with a Set-Cookie header for cookie handling tests.

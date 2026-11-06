@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncWebSocketWrapper header
+// summary: Declares SyncWebSocketWrapper, a wrapper that forwards SyncWebSocket calls to an underlying socket for test decoration.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_TEST_SYNC_WEBSOCKET_WRAPPER_H_
 #define CHROME_TEST_CHROMEDRIVER_TEST_SYNC_WEBSOCKET_WRAPPER_H_
 

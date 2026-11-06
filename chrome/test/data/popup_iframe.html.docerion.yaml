@@ -1,0 +1,4 @@
+# Docerion header of popup_iframe.html.
+type: test
+title: Popup iframe page
+summary: Test page for popup iframe testing that signals completion via the DOM automation controller.

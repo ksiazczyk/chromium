@@ -1,0 +1,4 @@
+# Docerion header of my_ip_address.pac.
+type: test
+title: PAC script validating myIpAddress results
+summary: Proxy auto-config script that checks myIpAddress and myIpAddressEx output and routes to a dummy proxy on success or DIRECT on failure.

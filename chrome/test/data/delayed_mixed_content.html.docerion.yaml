@@ -1,0 +1,4 @@
+# Docerion header of delayed_mixed_content.html.
+type: test
+title: Delayed passive mixed content test page
+summary: Test page that loads a passive mixed content image over HTTP on request to exercise mixed content handling.

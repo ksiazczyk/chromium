@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver server main entry point
+// summary: Main executable for ChromeDriver that parses command-line flags, starts the HTTP server on IPv4 and IPv6, and dispatches requests to the command handler.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Components Tests
+summary: Explains that this directory centralizes browser and interaction tests for components that do not fit other top-level test directories and how to add new tests.
+---
+
 # Components Tests
 
 This directory centralizes browser and interaction tests for various components

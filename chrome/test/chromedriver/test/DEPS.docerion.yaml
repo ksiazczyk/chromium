@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ChromeDriver tests
+summary: Defines include rules restricting ChromeDriver test code dependencies to allowed ChromeDriver and third-party directories.

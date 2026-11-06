@@ -1,0 +1,4 @@
+# Docerion header of flash_embeds.html.
+type: test
+title: Flash embed creation test page
+summary: Test page with helper functions that append Flash object and embed elements to the DOM for plugin tests.

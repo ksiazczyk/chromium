@@ -1,0 +1,4 @@
+# Docerion header of redirect-loop.html.mock-http-headers.
+type: test
+title: Redirect loop mock HTTP headers
+summary: Mock HTTP headers serving a 302 redirect back to redirect-loop.html with a Set-Cookie header, used to exercise redirect loop handling in tests.

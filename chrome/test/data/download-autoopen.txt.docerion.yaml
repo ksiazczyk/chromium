@@ -1,0 +1,4 @@
+# Docerion header of download-autoopen.txt.
+type: test
+title: Download auto-open test text file
+summary: Plain text payload served as a download in auto-open download tests.

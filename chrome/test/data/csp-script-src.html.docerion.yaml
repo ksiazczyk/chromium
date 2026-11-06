@@ -1,0 +1,4 @@
+# Docerion header of csp-script-src.html.
+type: test
+title: CSP script-src self test page
+summary: Test page whose CSP restricts scripts to same origin, used for script-src enforcement tests.

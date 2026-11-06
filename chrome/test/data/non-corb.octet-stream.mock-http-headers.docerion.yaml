@@ -1,0 +1,4 @@
+# Docerion header of non-corb.octet-stream.mock-http-headers.
+type: test
+title: Mock HTTP headers for non-corb.octet-stream
+summary: 'Mock HTTP response headers serving the non-corb.octet-stream body as application/octet-stream with X-Content-Type-Options: nosniff.'

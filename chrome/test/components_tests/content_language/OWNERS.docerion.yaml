@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the content language test directory
+summary: Lists the code owners, inherited from reduce_accept_language plus victortan@chromium.org, responsible for reviewing changes here.

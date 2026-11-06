@@ -1,0 +1,4 @@
+# Docerion header of empty_with_404.html.
+type: test
+title: Empty page served with 404
+summary: Empty HTML page that is served with a 404 status via its paired mock HTTP headers file.

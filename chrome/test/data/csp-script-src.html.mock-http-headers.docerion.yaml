@@ -1,0 +1,4 @@
+# Docerion header of csp-script-src.html.mock-http-headers.
+type: test
+title: CSP script-src mock HTTP headers
+summary: Mock HTTP headers serving a 200 response with a Content-Security-Policy script-src self header for the csp-script-src test page.

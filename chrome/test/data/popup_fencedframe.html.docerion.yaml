@@ -1,0 +1,4 @@
+# Docerion header of popup_fencedframe.html.
+type: test
+title: Popup fenced frame page
+summary: Test page for popup fenced frame testing that signals completion via the DOM automation controller.

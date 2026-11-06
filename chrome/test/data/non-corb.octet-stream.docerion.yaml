@@ -1,0 +1,4 @@
+# Docerion header of non-corb.octet-stream.
+type: test
+title: Non-CORB octet-stream test body
+summary: Body fixture served as application/octet-stream alongside mock headers, named for cross-origin read blocking (CORB) related tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for content language metrics recording
+// summary: In-process browser tests verifying that content-language and language usage metrics are recorded correctly for parent and child frames during navigation.
+// ---
+
 #include "base/feature_list.h"
 #include "base/metrics/histogram_base.h"
 #include "base/metrics/statistics_recorder.h"

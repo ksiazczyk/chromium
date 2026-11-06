@@ -1,0 +1,4 @@
+# Docerion header of prerender_with_opt_in_header.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the prerender opt-in test page
+summary: Mock HTTP response headers that serve the prerender test page with the credentialed-prerender Supports-Loading-Mode value.

@@ -1,0 +1,4 @@
+# Docerion header of setup_test_links.sh.
+type: script
+title: Page Cycler test data symlink setup
+summary: Shell script that symlinks the Page Cycler data directory into the chrome_test dependency's test source tree.

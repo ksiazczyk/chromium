@@ -1,0 +1,4 @@
+# Docerion header of allow-all-join-ad-interest-group-run-ad-auction.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for ad auction test page
+summary: Mock HTTP response headers granting CORS and join-ad-interest-group and run-ad-auction permissions for the paired test page.

@@ -1,0 +1,4 @@
+# Docerion header of control.
+type: test
+title: Autotest control file for page_cycler_dep
+summary: Autotest control file that instructs a job to set up the page_cycler_dep dependency.

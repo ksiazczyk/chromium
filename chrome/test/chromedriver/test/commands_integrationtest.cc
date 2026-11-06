@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration tests for ChromeDriver commands
+// summary: Integration tests for ChromeDriver element and window commands, using socket decorators to simulate message ordering and detachment scenarios.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

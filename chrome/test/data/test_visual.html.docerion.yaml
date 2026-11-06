@@ -1,0 +1,4 @@
+# Docerion header of test_visual.html.
+type: test
+title: Visual test page with image
+summary: Test page displaying handbag.png as a 400x500 image for visual verification.

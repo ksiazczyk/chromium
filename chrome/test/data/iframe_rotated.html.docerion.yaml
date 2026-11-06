@@ -1,0 +1,4 @@
+# Docerion header of iframe_rotated.html.
+type: test
+title: Rotated iframe test page
+summary: Test page with an iframe rotated 45 degrees via a CSS transform.

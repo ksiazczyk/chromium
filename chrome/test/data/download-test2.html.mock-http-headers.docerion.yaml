@@ -1,0 +1,4 @@
+# Docerion header of download-test2.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for download-test2.html
+summary: Mock HTTP response headers served for download-test2.html in download tests.

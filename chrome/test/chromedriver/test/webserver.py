@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test web server for ChromeDriver tests
+# summary: Threaded HTTP/HTTPS server that serves files and custom responses on localhost for ChromeDriver integration tests.
+# ---
+
 import http.server
 import os
 import socketserver

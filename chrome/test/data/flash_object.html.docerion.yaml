@@ -1,0 +1,4 @@
+# Docerion header of flash_object.html.
+type: test
+title: Flash object embed test page
+summary: Test page that embeds a Flash SWF file inside an object element.

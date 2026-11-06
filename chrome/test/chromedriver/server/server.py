@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Python helper to launch ChromeDriver server
+# summary: Provides a Server class that starts, monitors, and kills a ChromeDriver process for tests, finding an open port and waiting until it responds.
+# ---
+
 import atexit
 import os
 import socket

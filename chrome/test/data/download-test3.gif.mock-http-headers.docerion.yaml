@@ -1,0 +1,4 @@
+# Docerion header of download-test3.gif.mock-http-headers.
+type: test
+title: Mock HTTP headers for download-test3.gif
+summary: Mock HTTP headers with an attachment Content-Disposition for download-test3.gif.

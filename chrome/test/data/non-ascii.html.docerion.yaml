@@ -1,0 +1,4 @@
+# Docerion header of non-ascii.html.
+type: test
+title: Non-ASCII characters test page
+summary: Test page that renders non-ASCII characters, including Japanese text, accented letters, an emoji and a copyright symbol, for encoding checks.

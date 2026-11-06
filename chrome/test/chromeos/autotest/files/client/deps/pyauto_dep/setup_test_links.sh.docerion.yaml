@@ -1,0 +1,4 @@
+# Docerion header of setup_test_links.sh.
+type: script
+title: PyAuto symbolic link setup script
+summary: Shell script that creates symbolic links to Chrome binaries and resources needed by Chrome's PyAuto framework.

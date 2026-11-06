@@ -1,0 +1,4 @@
+# Docerion header of setup_test_links.sh.
+type: script
+title: Setup script for Chrome UI test symlinks
+summary: Shell script that creates symbolic links to Chrome and pyauto_dep resources needed for Chrome's automated UI tests on a test image.

@@ -1,0 +1,4 @@
+# Docerion header of nostore.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for nostore.html
+summary: 'Mock HTTP response headers that set Cache-Control: no-store for the nostore.html test page.'

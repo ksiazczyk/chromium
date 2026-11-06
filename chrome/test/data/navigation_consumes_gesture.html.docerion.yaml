@@ -1,0 +1,4 @@
+# Docerion header of navigation_consumes_gesture.html.
+type: test
+title: Navigation consumes user gesture test page
+summary: Test page for navigation consuming user gestures that reports fullscreen change results through a result queue.

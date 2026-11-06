@@ -1,0 +1,4 @@
+# Docerion header of instant_extended.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for instant_extended.html
+summary: Mock HTTP response headers served for instant_extended.html in tests, advertising fenced-frame loading support.

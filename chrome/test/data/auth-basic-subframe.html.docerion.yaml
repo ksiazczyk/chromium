@@ -1,0 +1,4 @@
+# Docerion header of auth-basic-subframe.html.
+type: test
+title: Basic auth subframe test page
+summary: Test page embedding an iframe that loads an auth-basic resource to trigger HTTP basic authentication prompts.

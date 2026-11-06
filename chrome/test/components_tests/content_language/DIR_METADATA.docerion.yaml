@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for content language tests
+summary: Maps this directory to the Blink>Loader monorail component and a Buganizer component ID for issue tracking.

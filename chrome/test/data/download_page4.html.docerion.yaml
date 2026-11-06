@@ -1,0 +1,4 @@
+# Docerion header of download_page4.html.
+type: test
+title: Download test page with form submission
+summary: Test page with a form that submits to download-test1.lib in a new tab to trigger a download.

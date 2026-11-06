@@ -1,0 +1,4 @@
+# Docerion header of guest_from_opener.html.
+type: test
+title: Guest page that opens a new window
+summary: Test page that opens a new window with its own URL on load, used for guest view tests.
