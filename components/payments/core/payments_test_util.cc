@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments test utilities implementation
+// summary: Provides a PrefService factory for Payments tests with the payments profile preferences registered.
+// ---
+
 #include "components/payments/core/payments_test_util.h"
 
 #include "base/memory/ref_counted.h"

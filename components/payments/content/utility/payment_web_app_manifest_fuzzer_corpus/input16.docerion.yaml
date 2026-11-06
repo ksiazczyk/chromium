@@ -1,0 +1,4 @@
+# Docerion header of input16.
+type: data
+title: 'Fuzzer input 16: HackerWeb manifest with Play URL and id'
+summary: Fuzzer corpus input with a HackerWeb manifest whose Play related application combines a store URL with an id and fingerprint.

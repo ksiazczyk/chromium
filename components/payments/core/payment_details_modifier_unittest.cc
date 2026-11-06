@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment details modifier unit tests
+// summary: Tests serialization of empty and populated PaymentDetailsModifier objects and their equality semantics.
+// ---
+
 #include "components/payments/core/payment_details_modifier.h"
 
 #include "base/values.h"

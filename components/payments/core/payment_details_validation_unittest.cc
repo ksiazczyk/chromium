@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment details validation unit tests
+// summary: Parameterized unit tests that parse JSON payment details and check ValidatePaymentDetails results for required totals and valid amounts.
+// ---
+
 #include "components/payments/core/payment_details_validation.h"
 
 #include <ostream>

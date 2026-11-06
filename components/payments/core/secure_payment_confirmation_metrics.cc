@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Payment Confirmation metrics recording
+// summary: Records histograms for Secure Payment Confirmation enrollment prompts, browser bound key operations, and credential finder outcomes.
+// ---
+
 #include "components/payments/core/secure_payment_confirmation_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

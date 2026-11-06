@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments profile comparator unit tests
+// summary: Unit tests covering filtering, deduplication and completeness scoring of contact and shipping profiles by PaymentsProfileComparator.
+// ---
+
 #include "components/payments/core/payments_profile_comparator.h"
 
 #include <memory>

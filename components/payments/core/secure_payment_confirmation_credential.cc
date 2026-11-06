@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation credential implementation
+// summary: Implements SecurePaymentConfirmationCredential, holding credential ID, relying party ID and user ID with validity checks.
+// ---
+
 #include "components/payments/core/secure_payment_confirmation_credential.h"
 
 #include <utility>

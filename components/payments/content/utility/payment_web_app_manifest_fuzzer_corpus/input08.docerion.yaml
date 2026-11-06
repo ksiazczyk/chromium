@@ -1,0 +1,4 @@
+# Docerion header of input08.
+type: test
+title: 'Fuzzer input 08: AlicePay manifest with uppercase keys'
+summary: Fuzzer corpus input repeating the AlicePay manifest with all JSON keys uppercased to test case sensitivity of manifest parsing.

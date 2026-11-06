@@ -1,0 +1,4 @@
+# Docerion header of input34.
+type: test
+title: Payment method manifest fuzzer input 34
+summary: Fuzzer corpus input with a payment method manifest whose default_applications list contains an empty string.

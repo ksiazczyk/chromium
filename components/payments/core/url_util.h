@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payment URL validation utilities
+// summary: Declares the UrlUtil class with static checks for payment method identifiers, supported origins, manifest URLs, and payment handler window pages.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_URL_UTIL_H_
 #define COMPONENTS_PAYMENTS_CORE_URL_UTIL_H_
 

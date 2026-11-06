@@ -1,0 +1,4 @@
+# Docerion header of input18.
+type: test
+title: Fingerprint fuzzer corpus input 18
+summary: Fuzzer seed input for the payments fingerprint utility containing a plain lowercase hexadecimal fingerprint string without separators.

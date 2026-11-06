@@ -1,0 +1,4 @@
+# Docerion header of input35.
+type: test
+title: Payment method manifest fuzzer input 35
+summary: Fuzzer corpus input with a payment method manifest where default_applications is the string "basic-card" instead of a list.

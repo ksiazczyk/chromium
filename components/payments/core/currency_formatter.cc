@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrencyFormatter implementation
+// summary: Implements locale-aware currency amount formatting with ICU, including currency code truncation and handling of non-ISO4217 codes.
+// ---
+
 #include "components/payments/core/currency_formatter.h"
 
 #include <memory>

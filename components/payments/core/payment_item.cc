@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentItem implementation
+// summary: Implements PaymentItem parsing and serialization to and from dictionaries, covering label, amount and pending fields per the PaymentRequest spec.
+// ---
+
 #include "components/payments/core/payment_item.h"
 
 #include "base/values.h"

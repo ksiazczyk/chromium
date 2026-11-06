@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app manifest section table implementation
+// summary: Implements the SQLite web_app_manifest_section table that caches Android app verification requirements from web app manifests, including fingerprint serialization, expiry and schema migration.
+// ---
+
 #include "components/payments/core/web_app_manifest_section_table.h"
 
 #include <stdint.h>

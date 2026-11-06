@@ -1,0 +1,4 @@
+# Docerion header of input17.
+type: data
+title: 'Fuzzer input 17: HackerWeb manifest without fingerprints'
+summary: Fuzzer corpus input with a HackerWeb manifest listing web and Play related applications without min_version or fingerprints.

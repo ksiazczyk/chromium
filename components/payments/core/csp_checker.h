@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSPChecker interface
+// summary: Defines the CSPChecker interface for checking whether the CSP connect-src directive allows a given URL.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_CSP_CHECKER_H_
 #define COMPONENTS_PAYMENTS_CORE_CSP_CHECKER_H_
 

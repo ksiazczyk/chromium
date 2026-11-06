@@ -1,0 +1,4 @@
+# Docerion header of input22.
+type: data
+title: Fingerprint fuzzer corpus input 22
+summary: Hex string seed input for the payments fingerprint fuzzer corpus.

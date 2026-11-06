@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment method manifest parser fuzzer
+// summary: Fuzzer harness that feeds arbitrary JSON input into PaymentManifestParser::ParsePaymentMethodManifestIntoVectors to test robustness of payment method manifest parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

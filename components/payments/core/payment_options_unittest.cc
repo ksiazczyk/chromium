@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentOptions equality unit tests
+// summary: Unit tests verifying that PaymentOptions objects compare equal only when payer name, email, phone, shipping and shipping type values match.
+// ---
+
 #include "components/payments/core/payment_options.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

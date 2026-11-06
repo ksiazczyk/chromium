@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Payments core build configuration
+summary: Defines the static libraries, sources and dependencies for the payments core component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequest journey logger implementation
+// summary: Implements logging of PaymentRequest journey metrics, mapping abort and not-shown reasons to UKM outcomes and building histogram name suffixes.
+// ---
+
 #include "components/payments/core/journey_logger.h"
 
 #include <algorithm>

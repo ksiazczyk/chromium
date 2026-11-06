@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment currency amount conversion
+// summary: Implements conversion between value dictionaries and the PaymentCurrencyAmount structure per the PaymentRequest spec.
+// ---
+
 #include "components/payments/core/payment_currency_amount.h"
 
 #include "base/values.h"

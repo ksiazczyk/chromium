@@ -1,0 +1,4 @@
+# Docerion header of input16.
+type: test
+title: Fuzzer corpus input 16 with origin path
+summary: Seed input for the payment method manifest fuzzer with a supported_origins entry that includes a path.

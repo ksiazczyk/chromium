@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentItem class header
+// summary: Declares the PaymentItem class, a C++ binding of the PaymentRequest spec's PaymentItem with label, amount and pending fields.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_ITEM_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment method URL string constants
+// summary: Defines constants for payment method identifiers such as Google Pay, Android Pay, Play Billing, and secure payment confirmation.
+// ---
+
 #include "components/payments/core/method_strings.h"
 
 namespace payments {

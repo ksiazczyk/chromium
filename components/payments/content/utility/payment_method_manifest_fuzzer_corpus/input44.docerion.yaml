@@ -1,0 +1,4 @@
+# Docerion header of input44.
+type: test
+title: 'Fuzzer input 44: fragment in default application URL'
+summary: Payment method manifest fuzzer input with a URL fragment in the default application URL.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint string to byte array parser
+// summary: Implements conversion of colon-separated 32-byte uppercase hex fingerprint strings into byte arrays with error logging.
+// ---
+
 #include "components/payments/content/utility/fingerprint_parser.h"
 
 #include "base/check.h"

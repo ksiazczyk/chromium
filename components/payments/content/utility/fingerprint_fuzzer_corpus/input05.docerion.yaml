@@ -1,0 +1,4 @@
+# Docerion header of input05.
+type: test
+title: Fingerprint fuzzer corpus input 05
+summary: Fuzzer corpus input holding a colon-separated hex fingerprint string used to exercise payment fingerprint parsing.

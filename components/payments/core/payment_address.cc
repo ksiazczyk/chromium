@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAddress to dictionary conversion
+// summary: Converts a mojom PaymentAddress into a base dictionary with fields matching the W3C PaymentAddress interface.
+// ---
+
 #include "components/payments/core/payment_address.h"
 
 #include "base/values.h"

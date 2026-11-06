@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Payment Confirmation credential struct
+// summary: Defines the SecurePaymentConfirmationCredential struct holding credential ID, relying party ID, and user ID for SQLite storage, with validity checks.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_H_
 #define COMPONENTS_PAYMENTS_CORE_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_H_
 

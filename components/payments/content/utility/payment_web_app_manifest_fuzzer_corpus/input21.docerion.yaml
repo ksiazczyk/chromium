@@ -1,0 +1,4 @@
+# Docerion header of input21.
+type: test
+title: 'Fuzzer input: related application without an ID'
+summary: Fuzzer corpus input with a single related Play application that omits the id field but includes min_version and a certificate fingerprint.

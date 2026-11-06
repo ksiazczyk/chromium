@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment error message utilities header
+// summary: Declares functions that generate developer-facing error messages for unsupported payment methods, skipped apps, and payment manifest download failures.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_ERROR_MESSAGE_UTIL_H_
 #define COMPONENTS_PAYMENTS_CORE_ERROR_MESSAGE_UTIL_H_
 

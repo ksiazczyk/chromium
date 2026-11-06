@@ -1,0 +1,4 @@
+# Docerion header of input32.
+type: test
+title: 'Fuzzer input 32: fingerprints given as plain strings'
+summary: Fuzzer corpus input with a related application whose fingerprints array contains a raw fingerprint string instead of an object.

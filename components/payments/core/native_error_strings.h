@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native payment error string declarations
+// summary: Declares C++-only error string constants with comments explaining each condition and how to format placeholder-based messages.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_NATIVE_ERROR_STRINGS_H_
 #define COMPONENTS_PAYMENTS_CORE_NATIVE_ERROR_STRINGS_H_
 

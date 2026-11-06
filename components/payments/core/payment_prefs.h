@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment preferences constants
+// summary: Defines pref name constants for first completed payment transaction and canMakePayment enablement, and declares profile pref registration.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_PREFS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_PREFS_H_
 

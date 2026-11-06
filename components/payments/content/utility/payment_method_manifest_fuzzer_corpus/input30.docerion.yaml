@@ -1,0 +1,4 @@
+# Docerion header of input30.
+type: test
+title: Payment method manifest fuzzer input 30
+summary: Fuzzer corpus input with a payment method manifest where supported_origins is the string "true" instead of a list.

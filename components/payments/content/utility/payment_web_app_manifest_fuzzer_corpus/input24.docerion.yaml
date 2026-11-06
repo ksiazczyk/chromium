@@ -1,0 +1,4 @@
+# Docerion header of input24.
+type: test
+title: 'Fuzzer input: related application without min_version'
+summary: Fuzzer corpus input with a related Play application that has an ID and fingerprint but omits the min_version field.

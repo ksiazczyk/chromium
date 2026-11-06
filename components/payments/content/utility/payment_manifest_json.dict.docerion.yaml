@@ -1,0 +1,4 @@
+# Docerion header of payment_manifest_json.dict.
+type: data
+title: Payment manifest JSON fuzzer dictionary
+summary: Dictionary of JSON syntax and payment manifest field tokens shared by the payment manifest parser fuzzers.

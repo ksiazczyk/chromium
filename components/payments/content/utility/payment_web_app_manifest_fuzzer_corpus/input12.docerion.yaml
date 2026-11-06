@@ -1,0 +1,4 @@
+# Docerion header of input12.
+type: data
+title: 'Fuzzer input 12: manifest with related_applications as object'
+summary: Fuzzer corpus input exercising a manifest where related_applications is an object instead of an array.

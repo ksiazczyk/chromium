@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for web payments 3D-Secure telemetry
+// summary: Verifies that 3D-Secure challenge request and response form data is recorded into the expected histograms and UKM entries, covering valid and unrelated transaction statuses.
+// ---
+
 #include "components/payments/core/web_payments_telemetry.h"
 
 #include <cstdint>

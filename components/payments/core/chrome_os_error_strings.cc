@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS payment error strings
+// summary: Defines error message strings for Chrome OS Android payment app responses.
+// ---
+
 #include "components/payments/core/chrome_os_error_strings.h"
 
 namespace payments {

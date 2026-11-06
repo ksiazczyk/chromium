@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL utility unit tests
+// summary: Unit tests for UrlUtil, checking valid and invalid URL-based payment method identifiers, supported origins and manifest URLs, including insecure-origin allowlist handling.
+// ---
+
 #include "components/payments/core/url_util.h"
 
 #include "base/test/scoped_command_line.h"

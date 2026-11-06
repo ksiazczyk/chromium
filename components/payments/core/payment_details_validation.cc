@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment details validation
+// summary: Validates payment details totals, display items, shipping options, and modifiers, producing error messages on failure.
+// ---
+
 #include "components/payments/core/payment_details_validation.h"
 
 #include <set>

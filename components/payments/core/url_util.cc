@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payment URL validation implementation
+// summary: Implements use-case-specific URL validity checks for web payment APIs, covering HTTPS, localhost, file scheme, and insecure origin allowlist rules.
+// ---
+
 #include "components/payments/core/url_util.h"
 
 #include "net/base/url_util.h"

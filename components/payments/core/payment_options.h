@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentOptions class header
+// summary: Declares the PaymentOptions class, a C++ binding of the PaymentRequest spec's options for payer name, email, phone and shipping requests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_OPTIONS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_OPTIONS_H_
 

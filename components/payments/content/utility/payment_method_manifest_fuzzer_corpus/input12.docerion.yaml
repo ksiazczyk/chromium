@@ -1,0 +1,4 @@
+# Docerion header of input12.
+type: test
+title: Fuzzer corpus input 12 with wildcard supported_origins
+summary: Seed input for the payment method manifest fuzzer with a wildcard supported_origins entry.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for payments strings
+summary: Chromium directory metadata that applies the common payments metadata mixins to the payments_strings_grdp folder.

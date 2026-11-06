@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestBaseDelegate interface
+// summary: Declares an interface giving PaymentRequest flows access to autofill data, address normalization, locale, incognito state, current URL and pref service.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_BASE_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_BASE_DELEGATE_H_
 

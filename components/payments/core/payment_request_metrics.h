@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request metrics header
+// summary: Declares enums for can-make-payment pref setters, payment request outcomes, and paused resolution outcomes, plus the pref metrics function.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_METRICS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_METRICS_H_
 

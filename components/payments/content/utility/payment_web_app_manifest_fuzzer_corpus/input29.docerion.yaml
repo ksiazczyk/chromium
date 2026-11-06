@@ -1,0 +1,4 @@
+# Docerion header of input29.
+type: test
+title: 'Fuzzer input: related application without fingerprints'
+summary: Fuzzer corpus input with a related Play application that includes an ID and min_version but omits the fingerprints array.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native payment error message strings
+// summary: Defines error message strings for PaymentRequest failures such as invalid manifests, service worker issues, and SSL certificate errors.
+// ---
+
 #include "components/payments/core/native_error_strings.h"
 
 namespace payments {

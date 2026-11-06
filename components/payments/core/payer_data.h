@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PayerData struct declaration
+// summary: Declares the PayerData struct with payer name, email, phone, shipping address, and selected shipping option fields.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYER_DATA_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYER_DATA_H_
 

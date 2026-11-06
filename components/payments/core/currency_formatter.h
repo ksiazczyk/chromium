@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrencyFormatter class header
+// summary: Declares CurrencyFormatter, which formats payment amounts according to a currency code and locale using ICU.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_CURRENCY_FORMATTER_H_
 #define COMPONENTS_PAYMENTS_CORE_CURRENCY_FORMATTER_H_
 

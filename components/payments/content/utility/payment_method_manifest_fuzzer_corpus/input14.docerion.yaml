@@ -1,0 +1,4 @@
+# Docerion header of input14.
+type: test
+title: Fuzzer corpus input 14 with HTTP application URL
+summary: Seed input for the payment method manifest fuzzer with an HTTP rather than HTTPS default_applications URL.

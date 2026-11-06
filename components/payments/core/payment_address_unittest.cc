@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PaymentAddress equality
+// summary: Tests that PaymentAddress instances compare equal only when all property values such as country and postal code match.
+// ---
+
 #include "components/payments/core/payment_address.h"
 
 #include "base/strings/utf_string_conversions.h"

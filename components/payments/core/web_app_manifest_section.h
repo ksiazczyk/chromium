@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app manifest section header
+// summary: Defines the WebAppManifestSection struct representing a related_applications entry in a Web App Manifest, with package name, minimum version and SHA-256 certificate fingerprints.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_WEB_APP_MANIFEST_SECTION_H_
 #define COMPONENTS_PAYMENTS_CORE_WEB_APP_MANIFEST_SECTION_H_
 

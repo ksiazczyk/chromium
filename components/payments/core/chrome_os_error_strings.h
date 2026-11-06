@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS payment error strings
+// summary: Declares developer-facing error message constants for Chrome OS payment failures such as empty or invalid ARC responses and multiple PAY activities.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_CHROME_OS_ERROR_STRINGS_H_
 #define COMPONENTS_PAYMENTS_CORE_CHROME_OS_ERROR_STRINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments validators implementation
+// summary: Implements validators for ISO 4217 currency codes, payment amounts, country codes and error message length limits in Payment Request.
+// ---
+
 #include "components/payments/core/payments_validators.h"
 
 #include "third_party/re2/src/re2/re2.h"

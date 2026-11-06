@@ -1,0 +1,4 @@
+# Docerion header of input11.
+type: data
+title: 'Fuzzer input 11: minimal AlicePay manifest with fingerprint'
+summary: Fuzzer corpus input with a compact payment web app manifest listing a Play related application and a certificate fingerprint.

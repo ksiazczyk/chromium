@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app manifest section table header
+// summary: Declares WebAppManifestSectionTable, a WebDatabaseTable that stores and retrieves cached related_applications verification sections keyed by payment method and package name.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_WEB_APP_MANIFEST_SECTION_TABLE_H_
 #define COMPONENTS_PAYMENTS_CORE_WEB_APP_MANIFEST_SECTION_TABLE_H_
 

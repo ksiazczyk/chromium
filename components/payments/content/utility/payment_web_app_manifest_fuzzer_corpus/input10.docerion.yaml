@@ -1,0 +1,4 @@
+# Docerion header of input10.
+type: data
+title: 'Fuzzer input 10: AlicePay manifest with fingerprint comment'
+summary: Fuzzer corpus input holding a payment web app manifest whose certificate fingerprint entry carries a comment and trailing commas.

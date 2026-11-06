@@ -1,0 +1,4 @@
+# Docerion header of input05.
+type: test
+title: 'Fuzzer input 05: HenryPay manifest'
+summary: Fuzzer corpus input with a HenryPay manifest reusing the same SHA256 certificate fingerprint as an EvePay sample.

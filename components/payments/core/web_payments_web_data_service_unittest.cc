@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the web payments web data service
+// summary: Exercises the web payments web data service against an in-memory web database, covering manifests, secure payment confirmation credentials and browser bound key metadata.
+// ---
+
 #include "components/payments/core/web_payments_web_data_service.h"
 
 #include "base/functional/callback_helpers.h"

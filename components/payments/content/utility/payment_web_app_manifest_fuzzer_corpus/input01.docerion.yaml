@@ -1,0 +1,4 @@
+# Docerion header of input01.
+type: test
+title: 'Fuzzer input 01: BobPay payment manifest'
+summary: Fuzzer corpus input with a BobPay payment web app manifest listing one Play store application and a SHA256 certificate fingerprint.

@@ -1,0 +1,4 @@
+# Docerion header of input22.
+type: test
+title: 'Fuzzer corpus input: wildcard supported_origins'
+summary: Fuzzer seed input setting supported_origins to the wildcard value * to test wildcard origin handling.

@@ -1,0 +1,4 @@
+# Docerion header of input27.
+type: test
+title: 'Fuzzer input: min_version spelled out as a word'
+summary: Fuzzer corpus input with a related Play application whose min_version is the word 'one' instead of a numeric version.

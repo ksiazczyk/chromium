@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment error message utilities implementation
+// summary: Implements developer-facing error message builders for unsupported payment methods, apps skipped for partial delegation, and payment manifest download failures.
+// ---
+
 #include "components/payments/core/error_message_util.h"
 
 #include <algorithm>

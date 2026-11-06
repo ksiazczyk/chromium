@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment shipping string utilities implementation
+// summary: Builds shipping address labels from autofill profiles and returns localized strings for delivery, pickup, and shipping sections.
+// ---
+
 #include "components/payments/core/strings_util.h"
 
 #include "base/notreached.h"

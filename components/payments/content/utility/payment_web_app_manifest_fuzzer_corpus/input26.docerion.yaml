@@ -1,0 +1,4 @@
+# Docerion header of input26.
+type: test
+title: 'Fuzzer input: non-numeric min_version value'
+summary: Fuzzer corpus input with a related Play application whose min_version is a Chinese character rather than a numeric version.

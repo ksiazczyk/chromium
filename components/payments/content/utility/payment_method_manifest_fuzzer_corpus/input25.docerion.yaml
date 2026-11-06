@@ -1,0 +1,4 @@
+# Docerion header of input25.
+type: test
+title: 'Fuzzer corpus input: numeric default_applications entry'
+summary: Fuzzer seed input with a numeric 0 entry in default_applications to test handling of invalid application values.

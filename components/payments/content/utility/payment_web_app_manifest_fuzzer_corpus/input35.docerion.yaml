@@ -1,0 +1,4 @@
+# Docerion header of input35.
+type: test
+title: 'Fuzzer input 35: fingerprint with sha512_cert type'
+summary: Fuzzer corpus input with a Play related application whose fingerprint uses the sha512_cert type.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAddress C++ bindings header
+// summary: Declares PaymentAddressToValueDict, providing C++ bindings for the PaymentRequest API PaymentAddress per the W3C spec.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_ADDRESS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_ADDRESS_H_
 

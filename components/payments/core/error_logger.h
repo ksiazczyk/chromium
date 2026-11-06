@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorLogger class header
+// summary: Declares ErrorLogger, a helper for logging warnings and errors to stderr for web developers, with an option to disable logging in tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_ERROR_LOGGER_H_
 #define COMPONENTS_PAYMENTS_CORE_ERROR_LOGGER_H_
 

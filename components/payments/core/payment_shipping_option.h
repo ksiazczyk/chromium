@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentShippingOption class declaration
+// summary: Declares the PaymentShippingOption class, C++ bindings for the W3C shipping option with dictionary parsing support.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_SHIPPING_OPTION_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_SHIPPING_OPTION_H_
 

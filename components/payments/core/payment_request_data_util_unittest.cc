@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request data utility unit tests
+// summary: Unit tests covering payment address serialization from autofill profiles and parsing of supported, invalid and URL-based payment method identifiers.
+// ---
+
 #include "components/payments/core/payment_request_data_util.h"
 
 #include <map>

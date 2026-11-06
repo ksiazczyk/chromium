@@ -1,0 +1,4 @@
+# Docerion header of input04.
+type: test
+title: 'Fuzzer input 04: EvePay manifest variant'
+summary: Fuzzer corpus input with an EvePay manifest whose fingerprint differs from the other EvePay sample, for parser comparison testing.

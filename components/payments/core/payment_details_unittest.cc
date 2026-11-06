@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment details unit tests
+// summary: Tests success and failure cases when populating PaymentDetails from dictionaries, including required total handling.
+// ---
+
 #include "components/payments/core/payment_details.h"
 
 #include "base/values.h"

@@ -1,0 +1,4 @@
+# Docerion header of input28.
+type: test
+title: 'Fuzzer corpus input: HTTP URL with array supported_origins'
+summary: Fuzzer seed input with an HTTP default application URL and supported_origins as an array containing interledger.

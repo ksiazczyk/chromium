@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manifest parser implementation
+// summary: Parses payment method manifests and web app manifests, validating default applications, supported origins, icons, and related applications.
+// ---
+
 #include "components/payments/content/utility/payment_manifest_parser.h"
 
 #include <algorithm>

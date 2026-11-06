@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Payment Confirmation metrics enums and declarations
+// summary: Declares enums and recording functions for Secure Payment Confirmation metrics such as enrollment results, browser bound keys, and locale outcomes.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_SECURE_PAYMENT_CONFIRMATION_METRICS_H_
 #define COMPONENTS_PAYMENTS_CORE_SECURE_PAYMENT_CONFIRMATION_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of input22.
+type: test
+title: 'Fuzzer input: related application with empty ID'
+summary: Fuzzer corpus input with a related Play application whose id field is an empty string.

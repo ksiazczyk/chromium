@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bound key metadata implementation
+// summary: Implements constructors, assignment and comparison for browser bound key metadata.
+// ---
+
 #include "components/payments/core/browser_bound_key_metadata.h"
 
 #include <compare>

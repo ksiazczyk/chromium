@@ -1,0 +1,4 @@
+# Docerion header of input20.
+type: test
+title: 'Fuzzer input: two related Play applications with fingerprints'
+summary: Fuzzer corpus input with two related Play Store applications, each carrying an ID, minimum version and SHA-256 certificate fingerprint.

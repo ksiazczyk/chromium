@@ -1,0 +1,4 @@
+# Docerion header of input15.
+type: data
+title: 'Fuzzer input 15: HackerWeb manifest with icons and related apps'
+summary: Fuzzer corpus input with a full HackerWeb manifest including icons and web and Play related applications with a fingerprint.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments 3-D Secure telemetry
+// summary: Records 3-D Secure challenge request and response telemetry, parsing the cRes transaction status into histogram and UKM events.
+// ---
+
 #include "components/payments/core/web_payments_telemetry.h"
 
 #include <cstdint>

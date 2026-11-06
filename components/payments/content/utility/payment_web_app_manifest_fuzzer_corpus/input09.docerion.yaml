@@ -1,0 +1,4 @@
+# Docerion header of input09.
+type: test
+title: 'Fuzzer input 09: AlicePay manifest with mixed case values'
+summary: Fuzzer corpus input repeating the AlicePay manifest with mixed-case keys and values to test case handling of platform, id and fingerprint fields.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HasEnrolledInstrument query quota unit tests
+// summary: Unit tests verifying that hasEnrolledInstrument() query quotas are enforced per origin, allowing different origins to query different card networks.
+// ---
+
 #include "components/payments/core/has_enrolled_instrument_query.h"
 
 #include "base/test/task_environment.h"

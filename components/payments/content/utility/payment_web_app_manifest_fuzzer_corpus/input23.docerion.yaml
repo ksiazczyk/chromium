@@ -1,0 +1,4 @@
+# Docerion header of input23.
+type: test
+title: 'Fuzzer input: related application with non-ASCII ID'
+summary: Fuzzer corpus input with a related Play application whose id field contains Chinese characters instead of a package name.

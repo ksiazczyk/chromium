@@ -1,0 +1,4 @@
+# Docerion header of input15.
+type: test
+title: Fuzzer corpus input 15 with HTTP supported origin
+summary: Seed input for the payment method manifest fuzzer with an HTTP entry in supported_origins.

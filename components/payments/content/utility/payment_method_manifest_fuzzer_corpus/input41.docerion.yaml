@@ -1,0 +1,4 @@
+# Docerion header of input41.
+type: test
+title: 'Fuzzer input 41: credentials in supported origins URL'
+summary: Payment method manifest fuzzer input with user credentials embedded in a supported origins URL.

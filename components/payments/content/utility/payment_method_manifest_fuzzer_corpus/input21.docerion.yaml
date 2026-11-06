@@ -1,0 +1,4 @@
+# Docerion header of input21.
+type: test
+title: 'Fuzzer corpus input: uppercase URL values'
+summary: Fuzzer seed input with lowercase keys and uppercase URL values to test URL case handling in payment method manifests.

@@ -1,0 +1,4 @@
+# Docerion header of input27.
+type: test
+title: 'Fuzzer corpus input: basic-card with two supported origins'
+summary: Fuzzer seed input using basic-card as the default application with two supported origins to test standard payment method names.

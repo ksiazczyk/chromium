@@ -1,0 +1,4 @@
+# Docerion header of input08.
+type: test
+title: Fuzzer corpus input with multiple supported origins
+summary: Fuzzer corpus entry containing a payment method manifest JSON with a default application URL and two supported origins.
