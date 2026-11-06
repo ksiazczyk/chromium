@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust gtest unit tests for Privacy Pass ATHM FFI
+// summary: Exercises issuer and client creation, invalid parameters, issuance and verification roundtrips, batch flows, and framing behavior for the ATHM FFI crate.
+// ---
+
 chromium::import! {
     "//components/private_verification_tokens/common/athm_ffi:athm_ffi";
 }

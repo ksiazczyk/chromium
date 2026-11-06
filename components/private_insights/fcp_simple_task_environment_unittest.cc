@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FcpSimpleTaskEnvironment unit tests
+// summary: Tests example iterator behavior, HTTP client creation and endorsement options parsing outcome histograms for the FCP simple task environment.
+// ---
+
 #include "components/private_insights/fcp_simple_task_environment.h"
 
 #include <memory>

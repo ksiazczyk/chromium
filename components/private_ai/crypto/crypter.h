@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypter interface for post-handshake message encryption
+// summary: Declares the Crypter class that encrypts and decrypts messages with separate read and write keys after the handshake completes.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_CRYPTER_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_CRYPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsCertificateRepository implementation
+// summary: Implements TlsCertificateRepository, which downloads, OakCT-verifies, caches and hands out the TCA root certificate, coalescing concurrent lookups.
+// ---
+
 #include "components/private_ai/tls_certificate_repository.h"
 
 #include <memory>

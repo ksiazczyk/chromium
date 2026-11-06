@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTokenManager implementation caching and serving auth tokens
+// summary: Implements the feature token manager that caches blind signed auth tokens, serves pending requests, applies backoff and refills the cache.
+// ---
+
 #include "components/private_ai/phosphor/feature_token_manager.h"
 
 #include <algorithm>

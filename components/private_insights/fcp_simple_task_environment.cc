@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpSimpleTaskEnvironment implementation
+// summary: Implements the FCP task environment for Private Insights, providing a single-example iterator, HTTP client creation and attestation verifier setup with endorsement options parsing.
+// ---
+
 #include "components/private_insights/fcp_simple_task_environment.h"
 
 #include "base/logging.h"

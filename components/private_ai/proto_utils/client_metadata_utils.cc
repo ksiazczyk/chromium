@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client metadata proto creation from Chrome version info
+// summary: Builds a ClientMetadata proto with product name, platform, and release channel derived from version_info and build flags.
+// ---
+
 #include "components/private_ai/proto_utils/client_metadata_utils.h"
 
 #include <string>

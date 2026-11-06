@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TlsCertificateDownloader unit tests
+// summary: Unit tests for TlsCertificateDownloader covering successful dual-certificate downloads, URLLoaderFactory creation and reuse, and failure paths with a test factory.
+// ---
+
 #include "components/private_ai/tls_certificate_downloader.h"
 
 #include <memory>

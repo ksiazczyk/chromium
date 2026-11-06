@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server verification key selection by server environment
+// summary: Selects the server verification key set for a URL based on host prefixes such as autopush, dev, staging and labs, and exposes accessors for testing.
+// ---
+
 #include "components/private_ai/attestation/server_verification_key.h"
 
 #include <stdint.h>

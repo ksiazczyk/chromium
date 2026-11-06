@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous secure session implementation
+// summary: Implements SecureSessionAsyncImpl, converting Oak session protos and delegating handshake, encryption, and decryption to the OakSessionService via Mojo.
+// ---
+
 #include "components/private_ai/secure_session_async_impl.h"
 
 #include <optional>

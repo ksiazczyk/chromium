@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePrivateAiOakSessionDriver test double header
+// summary: Declares a PrivateAiOakSessionDriver fake that returns a stored OakSession mojo remote in tests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_FAKE_PRIVATE_AI_OAK_SESSION_DRIVER_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_FAKE_PRIVATE_AI_OAK_SESSION_DRIVER_H_
 

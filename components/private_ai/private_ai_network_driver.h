@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAiNetworkDriver interface
+// summary: Declares an abstract interface for platform-specific network capabilities such as cert verifier params, network context creation and proxy configuration detection.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PRIVATE_AI_NETWORK_DRIVER_H_
 #define COMPONENTS_PRIVATE_AI_PRIVATE_AI_NETWORK_DRIVER_H_
 

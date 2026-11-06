@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnection implementation for Private AI tests
+// summary: Implements a fake Connection that queues sent requests as pending entries, fails them on destruction, and can simulate a network disconnect for tests.
+// ---
+
 #include "components/private_ai/testing/fake_connection.h"
 
 #include <utility>

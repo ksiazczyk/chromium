@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private AI service unit tests
+// summary: Unit tests for PrivateAiService covering token fetching and client setup with fake drivers, mock blind sign auth, and an identity test environment.
+// ---
+
 #include "components/private_ai/private_ai_service.h"
 
 #include <memory>

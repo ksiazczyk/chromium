@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection unused timeout implementation
+// summary: Implements a Connection decorator that closes the connection with kUnusedConnection when no message is sent within the configured inactivity timeout.
+// ---
+
 #include "components/private_ai/connection_unused_timeout.h"
 
 #include <utility>

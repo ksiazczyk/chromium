@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals page handler implementation
+// summary: Implements the private AI internals page handler, wiring the WebUI to the private AI client to send feature requests and forward log messages to the page.
+// ---
+
 #include "components/private_ai/private_ai_internals/webui/private_ai_internals_page_handler.h"
 
 #include <memory>

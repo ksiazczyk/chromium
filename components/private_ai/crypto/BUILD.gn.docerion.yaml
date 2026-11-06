@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the private AI crypto component
+summary: Defines source sets for the crypto library, test support helpers, and unit tests, with dependencies on base, crypto, and BoringSSL.

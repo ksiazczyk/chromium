@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsCertificateDownloader header
+// summary: Declares TlsCertificateDownloader, which downloads PEM-encoded TCA root and OakCT certificates for Private AI TLS sessions and performs no verification or caching.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TLS_CERTIFICATE_DOWNLOADER_H_
 #define COMPONENTS_PRIVATE_AI_TLS_CERTIFICATE_DOWNLOADER_H_
 

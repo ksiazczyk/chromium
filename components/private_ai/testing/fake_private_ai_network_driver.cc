@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePrivateAiNetworkDriver implementation
+// summary: Implements a stub network driver that returns empty cert verifier params, ignores network context creation, and reports a configurable proxy state.
+// ---
+
 #include "components/private_ai/testing/fake_private_ai_network_driver.h"
 
 namespace private_ai {

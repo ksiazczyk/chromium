@@ -4,6 +4,12 @@
 
 //! Common Privacy Pass framing, framing traits, and token state types.
 
+// ---docerion
+// type: source
+// title: Common Privacy Pass framing and token state types
+// summary: Provides RFC 9578 framing traits for token requests and tokens, the ATHM token type constant, unframing errors, and the AthmStatus result enum.
+// ---
+
 use athm::{Decodable, Encodable, PublicKey, Token, TokenContext, TokenRequest};
 
 pub const ATHM_TOKEN_TYPE: [u8; 2] = (0xC07Eu16).to_be_bytes();

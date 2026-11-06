@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP utility helpers implementation
+// summary: Implements helpers that map FCP HTTP methods, convert Chromium net errors to FCP statuses and process or filter FCP request and response headers.
+// ---
+
 #include "components/private_insights/fcp_utils.h"
 
 #include <utility>

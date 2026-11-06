@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server verification key interface
+// summary: Declares the ProcessedKey struct, output prefix types and functions to obtain server verification keys and detect non-production environments.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_SERVER_VERIFICATION_KEY_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_SERVER_VERIFICATION_KEY_H_
 

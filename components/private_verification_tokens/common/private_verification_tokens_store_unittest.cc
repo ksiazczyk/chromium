@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens store unit tests
+// summary: Unit tests for the token store covering cache initialization, storage, deletion and direct SQL database row checks with temporary directories.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_store.h"
 
 #include "base/files/file_path.h"

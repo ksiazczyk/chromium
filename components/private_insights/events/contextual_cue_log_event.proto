@@ -4,6 +4,12 @@
 
 // Proto definition for Contextual Cue Log Events.
 
+// ---docerion
+// type: source
+// title: Contextual cue log event proto definition
+// summary: Defines the ContextualCueLogEvent message capturing page context, cue details, event types such as shown or clicked, and the shared system profile.
+// ---
+
 syntax = "proto3";
 
 package private_insights.events;

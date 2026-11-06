@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared data types for auth token results and blind signed tokens
+// summary: Defines the GetAuthnTokensResult histogram enum and the BlindSignedAuthToken struct used across the phosphor token pipeline.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_DATA_TYPES_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_DATA_TYPES_H_
 

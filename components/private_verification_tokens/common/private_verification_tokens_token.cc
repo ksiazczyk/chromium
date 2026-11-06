@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens token implementation
+// summary: Implements the PrivateVerificationTokensToken class constructors and accessors for issuer, serialized token, key ID, expiration, version and creation time.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_token.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OakSession Mojom StructTraits header
+// summary: Declares StructTraits that map the native private_ai HandshakeMessage type to its Mojom representation for serialization and deserialization.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_MOJOM_OAK_SESSION_MOJOM_TRAITS_H_
 #define COMPONENTS_PRIVATE_AI_MOJOM_OAK_SESSION_MOJOM_TRAITS_H_
 

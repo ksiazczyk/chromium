@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parse Google RPC codes from server reason strings
+// summary: 'Implements ParseGoogleRpcCode, which extracts a canonical RPC error code from a reason string containing a generic:: prefix and maps it to the GoogleRpcCode proto enum.'
+// ---
+
 #include "components/private_ai/proto_utils/google_rpc_code.h"
 
 #include <map>

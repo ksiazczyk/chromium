@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigHttp implementation issuing token server HTTP requests
+// summary: Implements HTTP requests to the PrivateAI token server for initial data and token signing, including traffic annotations, size limits and metrics.
+// ---
+
 #include "components/private_ai/phosphor/config_http.h"
 
 #include <memory>

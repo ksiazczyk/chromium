@@ -5,6 +5,12 @@
 //! Client-side operations for Privacy Pass ATHM, including batch request
 //! management.
 
+// ---docerion
+// type: source
+// title: Client-side Privacy Pass ATHM operations
+// summary: Implements the Privacy Pass ATHM client, including token state creation, response finalization, and batch request and response management.
+// ---
+
 use athm::{Decodable, Params, PublicKey, PublicKeyProof, Token, TokenResponse};
 
 use crate::privacy_pass_common::{

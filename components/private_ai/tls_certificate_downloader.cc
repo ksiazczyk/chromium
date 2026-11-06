@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsCertificateDownloader implementation
+// summary: Implements TlsCertificateDownloader, which fetches the TCA root and OakCT certificates from Google's Static Content Service using SimpleURLLoader without caching.
+// ---
+
 #include "components/private_ai/tls_certificate_downloader.h"
 
 #include <memory>

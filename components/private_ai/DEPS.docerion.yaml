@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PrivateAI include dependency rules (DEPS)
+summary: Specifies the directories the PrivateAI component may include from, with an extra rule for unit test files.

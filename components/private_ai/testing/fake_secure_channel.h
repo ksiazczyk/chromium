@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSecureChannel test double header
+// summary: Declares FakeSecureChannel with test controls for write success and response injection, and FakeSecureChannelFactory with creation and destruction callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_FAKE_SECURE_CHANNEL_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_FAKE_SECURE_CHANNEL_H_
 

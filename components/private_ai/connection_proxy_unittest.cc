@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection proxy unit tests
+// summary: Tests ConnectionProxy token fetching, request buffering, inner connection creation, and disconnect handling using fake dependencies.
+// ---
+
 #include "components/private_ai/connection_proxy.h"
 
 #include <memory>

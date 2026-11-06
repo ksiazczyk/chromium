@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: PrivateAI bug tracking metadata
+summary: Maps the component to the Privacy monorail component and a Buganizer component ID for issue routing.

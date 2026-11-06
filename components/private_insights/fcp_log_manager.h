@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpLogManager header for FCP diagnostic logging
+// summary: Declares FcpLogManager, the Private Insights implementation of the FCP client LogManager interface for diagnostic logging.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_LOG_MANAGER_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_LOG_MANAGER_H_
 

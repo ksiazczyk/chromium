@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrivateAiService implementation
+// summary: Implements the test PrivateAiService that injects the mock BlindSignAuth factory and resets it during shutdown.
+// ---
+
 #include "components/private_ai/testing/test_private_ai_service.h"
 
 #include <utility>

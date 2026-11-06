@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPrivateAiClient gmock mock for the Private AI client
+// summary: Defines a gmock mock of the PrivateAiClient interface with mocked connection and request methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_MOCK_PRIVATE_AI_CLIENT_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_MOCK_PRIVATE_AI_CLIENT_H_
 

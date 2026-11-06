@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for private AI internals webui
+summary: Defines GN source sets and Mojo bindings targets for the private AI internals webui, including a split page handler target that isolates heavy proto dependencies.

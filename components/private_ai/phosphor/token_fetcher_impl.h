@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenFetcherImpl class declaration
+// summary: Declares the TokenFetcher implementation that fetches blind-signed tokens via quiche BlindSignAuth on a background task runner.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_IMPL_H_
 

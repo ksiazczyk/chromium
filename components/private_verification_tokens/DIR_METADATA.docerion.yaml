@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for private_verification_tokens
+summary: Declares the issue tracker component, team email address and Buganizer component for this directory.

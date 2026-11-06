@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationHandlerImpl class declaration
+// summary: Declares AttestationHandlerImpl, which loads verification keys from a URL or an injected map and verifies attestation evidence.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_HANDLER_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_HANDLER_IMPL_H_
 

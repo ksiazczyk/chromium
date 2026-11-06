@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Google RPC code parsing helper
+// summary: Declares the ParseGoogleRpcCode function in the private_ai namespace, which parses a GoogleRpcCode proto enum value from a server-provided reason string.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PROTO_UTILS_GOOGLE_RPC_CODE_H_
 #define COMPONENTS_PRIVATE_AI_PROTO_UTILS_GOOGLE_RPC_CODE_H_
 

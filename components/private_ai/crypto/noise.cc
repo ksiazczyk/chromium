@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Noise protocol handshake
+// summary: Implements a subset of the Noise Protocol Framework with HKDF, MixHash, MixKey, and AEAD encrypt-and-hash operations for supported handshake patterns.
+// ---
+
 #include "components/private_ai/crypto/noise.h"
 
 #include <string.h>

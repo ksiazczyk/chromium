@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI network driver content header
+// summary: Declares the content-layer implementation of the PrivateAiNetworkDriver interface with a proxy-configured callback.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONTENT_PRIVATE_AI_NETWORK_DRIVER_CONTENT_H_
 #define COMPONENTS_PRIVATE_AI_CONTENT_PRIVATE_AI_NETWORK_DRIVER_CONTENT_H_
 

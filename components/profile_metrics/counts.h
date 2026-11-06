@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile counts struct and logging API
+// summary: Declares the Counts struct, the ProfileActivityThreshold enum, and functions for logging profile count metrics.
+// ---
+
 #ifndef COMPONENTS_PROFILE_METRICS_COUNTS_H_
 #define COMPONENTS_PROFILE_METRICS_COUNTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens token unit tests
+// summary: Unit tests verifying that PrivateVerificationTokensToken creation stores the issuer, serialized token, key ID, expiration and version correctly.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_token.h"
 
 #include <cstdint>

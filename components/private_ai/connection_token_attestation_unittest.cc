@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection token attestation unit tests
+// summary: Unit tests for ConnectionTokenAttestation covering token fetching, request buffering, attestation success and failure paths using fake connection and token manager.
+// ---
+
 #include "components/private_ai/connection_token_attestation.h"
 
 #include <memory>

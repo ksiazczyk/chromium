@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBlindSignAuthFactory test helper header
+// summary: Declares a BlindSignAuthFactory subclass that produces mock BlindSignAuth instances and exposes them to tests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_TEST_BLIND_SIGN_AUTH_FACTORY_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_TEST_BLIND_SIGN_AUTH_FACTORY_H_
 

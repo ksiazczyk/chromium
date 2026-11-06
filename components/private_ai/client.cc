@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI client factory and URL formatting
+// summary: Implements Client::Create to build a ClientImpl with connection factory, optional proxy and token attestation, plus URL formatting helpers.
+// ---
+
 #include "components/private_ai/client.h"
 
 #include <memory>

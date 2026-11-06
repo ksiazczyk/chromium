@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals page handler class declaration
+// summary: Declares the PrivateAiInternalsPageHandler class, which implements the Mojo page handler interface and observes private AI logger events.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PRIVATE_AI_INTERNALS_WEBUI_PRIVATE_AI_INTERNALS_PAGE_HANDLER_H_
 #define COMPONENTS_PRIVATE_AI_PRIVATE_AI_INTERNALS_WEBUI_PRIVATE_AI_INTERNALS_PAGE_HANDLER_H_
 

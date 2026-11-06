@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection timeout unit tests
+// summary: Tests timeout handling for single and multiple requests, including that late responses are ignored after a timeout fires.
+// ---
+
 #include "components/private_ai/connection_timeout.h"
 
 #include <memory>

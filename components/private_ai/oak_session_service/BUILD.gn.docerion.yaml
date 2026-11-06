@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for oak_session_service
+summary: Defines the oak_session_service source_set, listing its C++ sources and dependencies on base, private_ai crypto and mojom, and Mojo system bindings.

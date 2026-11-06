@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens database implementation
+// summary: Implements SQLite storage for private verification tokens, including schema creation, token insertion, retrieval per issuer, deletion, and expiration cleanup.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_database.h"
 
 #include <memory>

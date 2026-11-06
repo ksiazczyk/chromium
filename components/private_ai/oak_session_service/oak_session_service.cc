@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OakSessionService implementation
+// summary: Implements the mojom::OakSession Mojo interface, enforcing a strict handshake order before serving encrypt and decrypt requests via SecureSessionImpl.
+// ---
+
 #include "components/private_ai/oak_session_service/oak_session_service.h"
 
 #include "base/check_op.h"

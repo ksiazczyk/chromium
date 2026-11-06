@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens database unit tests
+// summary: Unit tests for the private verification tokens SQLite database, covering storage, retrieval, deletion, per-issuer counts, and schema versioning.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_database.h"
 
 #include <limits>

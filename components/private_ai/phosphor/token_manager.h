@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenManager interface
+// summary: Interface for the PrivateAI blind-signed auth token cache, defining token retrieval, prefetching, and account status handling for terminal and proxy layers.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_MANAGER_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_MANAGER_H_
 

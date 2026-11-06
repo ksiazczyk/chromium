@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection unused timeout unit tests
+// summary: Unit tests verifying that the unused-connection timer fires, is reset by Send, and is stopped by OnDestroy using mock time.
+// ---
+
 #include "components/private_ai/connection_unused_timeout.h"
 
 #include <memory>

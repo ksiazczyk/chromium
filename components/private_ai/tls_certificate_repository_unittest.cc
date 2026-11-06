@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TlsCertificateRepository unit tests
+// summary: Unit tests for TlsCertificateRepository covering caching, OakCT verification outcomes, forced refresh and concurrent caller coalescing with test certificates.
+// ---
+
 #include "components/private_ai/tls_certificate_repository.h"
 
 #include <memory>

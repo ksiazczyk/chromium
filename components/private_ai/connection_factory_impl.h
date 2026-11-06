@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionFactoryImpl header
+// summary: Declares ConnectionFactoryImpl, which creates connections with optional token attestation and proxy support and a test-only secure channel factory override.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_FACTORY_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_FACTORY_IMPL_H_
 

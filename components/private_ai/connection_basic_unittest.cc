@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionBasic unit tests
+// summary: Unit tests for ConnectionBasic using a fake secure channel, covering successful requests, out-of-order response matching, and disconnect behavior.
+// ---
+
 #include "components/private_ai/connection_basic.h"
 
 #include <memory>

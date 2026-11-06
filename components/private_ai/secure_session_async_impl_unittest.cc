@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureSessionAsyncImpl unit tests
+// summary: Unit tests for SecureSessionAsyncImpl that verify handshake, encryption, decryption and graceful handling of Mojo service disconnection using fake OakSession services.
+// ---
+
 #include "components/private_ai/secure_session_async_impl.h"
 
 #include <cstdint>

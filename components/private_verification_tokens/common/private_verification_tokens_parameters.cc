@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens parameters implementation
+// summary: Returns protocol parameters such as batch sizes, bucket counts and response limits for supported token versions.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_parameters.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsCertificateRepository header
+// summary: Declares TlsCertificateRepository, which provides the OakCT-verified TCA root certificate for Private AI TLS sessions with in-memory caching and forced refresh.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TLS_CERTIFICATE_REPOSITORY_H_
 #define COMPONENTS_PRIVATE_AI_TLS_CERTIFICATE_REPOSITORY_H_
 

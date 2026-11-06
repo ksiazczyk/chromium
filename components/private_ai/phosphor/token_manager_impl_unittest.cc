@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenManagerImpl unit tests
+// summary: Tests TokenManagerImpl against a mock TokenFetcher, verifying batch sizes, proxy layers, token delivery, and try-again-after responses.
+// ---
+
 #include "components/private_ai/phosphor/token_manager_impl.h"
 
 #include <deque>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI Oak Session driver content header
+// summary: Declares the content-layer implementation of the PrivateAiOakSessionDriver that binds the Oak Session service.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONTENT_PRIVATE_AI_OAK_SESSION_DRIVER_CONTENT_H_
 #define COMPONENTS_PRIVATE_AI_CONTENT_PRIVATE_AI_OAK_SESSION_DRIVER_CONTENT_H_
 

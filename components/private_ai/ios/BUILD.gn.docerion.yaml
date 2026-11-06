@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Private AI iOS build configuration
+summary: GN build file defining the iOS Private AI source set and its unit test target with their dependencies.

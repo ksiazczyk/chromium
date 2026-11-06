@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP event publisher header
+// summary: Declares the FcpEvent enum and the FCP event and SecAgg event publisher classes used for federated compute reporting.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_EVENT_PUBLISHER_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_EVENT_PUBLISHER_H_
 

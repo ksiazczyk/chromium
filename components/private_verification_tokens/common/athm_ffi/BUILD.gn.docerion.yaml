@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ATHM FFI Rust library and unit tests
+summary: Defines the athm_ffi Rust static library with Crubit C++ bindings and the privacy_pass_unittests gtest target for the Private Verification Tokens component.

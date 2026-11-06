@@ -4,6 +4,12 @@
 
 // Proto definition for Storage Access Log Events.
 
+// ---docerion
+// type: source
+// title: Storage access log event proto definition
+// summary: Defines the StorageAccessLogEvent message recording Storage Access API permission request outcomes per requesting site, mirroring the browser's RequestOutcome enum.
+// ---
+
 syntax = "proto3";
 
 package private_insights.events;

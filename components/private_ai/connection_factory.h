@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionFactory interface
+// summary: Defines the factory interface for creating Connection instances, taking a feature name and a disconnect callback.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_FACTORY_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GenerateContentResponse text conversion
+// summary: gtest suite covering successful text extraction and empty, content-less, part-less, and text-less responses.
+// ---
+
 #include "components/private_ai/proto_utils/generate_content_response_utils.h"
 
 #include <optional>

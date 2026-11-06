@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens fetcher implementation
+// summary: Implements HTTP fetching of token issuance responses from a registered issuer using SimpleURLLoader with RFC 9578 Accept and Content-Type headers.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection interface
+// summary: Defines the Connection interface for sending requests to the PrivateAI server and receiving responses, with RAII-style connection lifetime and teardown via OnDestroy.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_H_
 

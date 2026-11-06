@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI Oak Session driver content implementation
+// summary: Launches the Oak Session service process and returns a Mojo remote for the OakSession interface.
+// ---
+
 #include "components/private_ai/content/private_ai_oak_session_driver_content.h"
 
 #include "content/public/browser/service_process_host.h"

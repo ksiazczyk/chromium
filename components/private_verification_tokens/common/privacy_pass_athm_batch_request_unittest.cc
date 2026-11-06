@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Pass ATHM batch request unit tests
+// summary: Unit tests covering round-trip batch issuance, request body layout and version trailer, and metadata verification of finalized tokens for PrivacyPassAthmBatchRequest.
+// ---
+
 #include "components/private_verification_tokens/common/privacy_pass_athm_batch_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Insights feature flags header
+// summary: Declares the Private Insights feature and the FCP client configuration parameters exported for use across the component.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_PRIVATE_INSIGHTS_FEATURES_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_PRIVATE_INSIGHTS_FEATURES_H_
 

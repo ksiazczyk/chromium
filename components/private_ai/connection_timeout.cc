@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection timeout implementation
+// summary: Implements the ConnectionTimeout decorator that fails pending requests with kTimeout when responses do not arrive within the specified delay.
+// ---
+
 #include "components/private_ai/connection_timeout.h"
 
 #include <cstdint>

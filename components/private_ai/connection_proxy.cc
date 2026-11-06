@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection proxy implementation
+// summary: Implements ConnectionProxy, which buffers requests, fetches proxy tokens, and builds a custom proxy config with PrivateToken authorization headers.
+// ---
+
 #include "components/private_ai/connection_proxy.h"
 
 #include <optional>

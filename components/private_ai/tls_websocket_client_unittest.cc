@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TLS WebSocket client
+// summary: Tests the TLS WebSocket client's frame serialization, connection handling, and error reporting using a mock network context and histogram checks.
+// ---
+
 #include "components/private_ai/tls_websocket_client.h"
 
 #include <optional>

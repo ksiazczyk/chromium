@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server verification key selection unit tests
+// summary: Unit tests verifying that key selection returns the correct key set for autopush, dev, labs, staging and production URLs and flags non-prod hosts.
+// ---
+
 #include "components/private_ai/attestation/server_verification_key.h"
 
 #include <vector>

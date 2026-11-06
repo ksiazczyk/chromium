@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionBasic header
+// summary: Declares ConnectionBasic, a basic Connection implementation that sends requests over a SecureChannel and resolves callbacks by request ID.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_BASIC_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_BASIC_H_
 

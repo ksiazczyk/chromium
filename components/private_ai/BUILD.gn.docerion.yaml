@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PrivateAI build configuration (BUILD.gn)
+summary: Defines GN targets for the PrivateAI component, including proto libraries, feature and main source sets, and testing support.

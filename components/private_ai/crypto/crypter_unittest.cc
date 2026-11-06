@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Crypter class
+// summary: Tests encryption and decryption round trips, empty messages, wrong keys, corrupted ciphertexts, and padding across message sizes.
+// ---
+
 #include "components/private_ai/crypto/crypter.h"
 
 #include <optional>

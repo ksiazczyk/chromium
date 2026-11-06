@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpFlags implementation of FCP client runtime flags
+// summary: Supplies fixed and configurable runtime flag values for the Federated Compute Platform client, backed by feature parameters from private_insights_features.
+// ---
+
 #include "components/private_insights/fcp_flags.h"
 
 #include "components/private_insights/private_insights_features.h"

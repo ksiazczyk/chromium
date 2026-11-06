@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSecureChannel and factory implementation
+// summary: Implements a fake SecureChannel that records written protobuf requests and can replay responses or errors, plus a factory that reports created channels.
+// ---
+
 #include "components/private_ai/testing/fake_secure_channel.h"
 
 #include <utility>

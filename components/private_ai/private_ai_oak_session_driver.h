@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI Oak session driver interface
+// summary: Declares PrivateAiOakSessionDriver, an abstract interface for binding the platform-specific OakSessionService used by the Private AI component.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PRIVATE_AI_OAK_SESSION_DRIVER_H_
 #define COMPONENTS_PRIVATE_AI_PRIVATE_AI_OAK_SESSION_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenFetcherImpl implementation
+// summary: Implements TokenFetcher using the quiche BlindSignAuth library over HTTP, handling OAuth tokens, metrics, and backoff for failed requests.
+// ---
+
 #include "components/private_ai/phosphor/token_fetcher_impl.h"
 
 #include <memory>

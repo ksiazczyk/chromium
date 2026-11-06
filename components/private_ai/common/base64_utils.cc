@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64 to Base64Url conversion implementation
+// summary: Implements ConvertBase64toBase64Url, which decodes a Base64 string and re-encodes it as Base64Url, returning nullopt on invalid input.
+// ---
+
 #include "components/private_ai/common/base64_utils.h"
 
 #include <optional>

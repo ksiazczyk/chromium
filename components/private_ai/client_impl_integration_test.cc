@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientImpl integration tests
+// summary: Integration tests exercising ClientImpl end to end with fake secure channels, token manager, and network and Oak session drivers.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

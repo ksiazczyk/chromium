@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpFiles implementation for temporary file creation
+// summary: Implements the FCP client Files interface by creating temporary files via base::CreateTemporaryFile for the Private Insights federated compute integration.
+// ---
+
 #include "components/private_insights/fcp_files.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the phosphor component
+summary: Defines GN source sets for the phosphor component, its test support mocks and unit tests, with dependencies on quiche blind sign auth and Chromium base libraries.

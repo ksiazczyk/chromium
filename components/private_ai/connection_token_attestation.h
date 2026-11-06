@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionTokenAttestation class declaration
+// summary: Declares a Connection decorator that ensures a client attestation request with a blind-signed token is sent before any other requests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_TOKEN_ATTESTATION_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_TOKEN_ATTESTATION_H_
 

@@ -3,6 +3,13 @@
 // found in the LICENSE file.
 // This file contains enum code from
 // third_party/oak/src/third_party/google/rpc/code.proto
+
+// ---docerion
+// type: source
+// title: Google RPC code enum for private AI
+// summary: Defines the GoogleRpcCode enum of canonical Google API error codes, copied from Oak's rpc code.proto, for use in the private_ai component.
+// ---
+
 edition = "2023";
 
 package private_ai.rpc;

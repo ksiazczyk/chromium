@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser profile type user data implementation
+// summary: Stores and retrieves the BrowserProfileType of a browser context by attaching user data to base::SupportsUserData.
+// ---
+
 #include "components/profile_metrics/browser_profile_type.h"
 
 #include <memory>

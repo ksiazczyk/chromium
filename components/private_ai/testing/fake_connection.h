@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnection test double header
+// summary: Declares FakeConnection, a Connection test double that records pending requests and exposes SimulateDisconnect to trigger network error callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_FAKE_CONNECTION_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_FAKE_CONNECTION_H_
 

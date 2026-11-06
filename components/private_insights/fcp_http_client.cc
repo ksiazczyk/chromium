@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP HTTP client implementation over Chromium's network stack
+// summary: Implements the FCP HTTP client using SimpleURLLoader, with a network traffic annotation for encrypted metrics uploads and histograms for request metrics.
+// ---
+
 #include "components/private_insights/fcp_http_client.h"
 
 #include <atomic>

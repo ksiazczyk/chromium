@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandshakeMessage struct for Noise handshake payloads
+// summary: Declares a move-only struct that carries an ephemeral P-256 public key and handshake ciphertext between peers.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_HANDSHAKE_MESSAGE_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_HANDSHAKE_MESSAGE_H_
 

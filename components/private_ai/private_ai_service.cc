@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI service implementation
+// summary: Implements PrivateAiService, wiring sign-in observation, blind sign auth token fetching, and client creation for the Private AI feature.
+// ---
+
 #include "components/private_ai/private_ai_service.h"
 
 #include <utility>

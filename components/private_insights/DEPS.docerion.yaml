@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for private_insights
+summary: Specifies allowed include rules for the private_insights directory, with extra Abseil allowances for FCP files.

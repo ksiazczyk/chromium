@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Private AI feature flags and parameters
+// summary: Defines Private AI feature flags and feature parameters for endpoints, token server URLs, token cache sizing, backoff durations and unused connection timeout.
+// ---
+
 #include "components/private_ai/features.h"
 
 #include "base/feature.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for client metadata proto helpers
+// summary: Declares CreateClientMetadata, ConvertChannelToProto, and GetPlatformForProto for populating ChromeClientMetadata protos.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PROTO_UTILS_CLIENT_METADATA_UTILS_H_
 #define COMPONENTS_PRIVATE_AI_PROTO_UTILS_CLIENT_METADATA_UTILS_H_
 

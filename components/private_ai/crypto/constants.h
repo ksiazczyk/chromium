@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for the private AI crypto module
+// summary: Declares the length of an uncompressed X9.62 P-256 public key used throughout the crypto code.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_CONSTANTS_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_CONSTANTS_H_
 

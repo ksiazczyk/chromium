@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for client metadata proto helpers
+// summary: gtest suite verifying channel-to-proto mapping, platform detection, and populated ClientMetadata fields.
+// ---
+
 #include "components/private_ai/proto_utils/client_metadata_utils.h"
 
 #include <string>

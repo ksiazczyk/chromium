@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PrivateAI logger observers
+// summary: Uses a mock observer to verify PrivateAiLogger notifies observers of info and error logs and stops after observer removal.
+// ---
+
 #include "components/private_ai/common/private_ai_logger.h"
 
 #include <string_view>

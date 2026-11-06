@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI client interface
+// summary: Declares the Client interface for establishing connections and sending text, GenerateContent, and PAIC requests with callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CLIENT_H_
 #define COMPONENTS_PRIVATE_AI_CLIENT_H_
 

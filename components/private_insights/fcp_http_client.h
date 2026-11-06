@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP HTTP client request runner and manager declarations
+// summary: Declares the FCP HTTP request runner, handle, and manager classes that bridge the federated compute HTTP client API to Chromium's network stack.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_HTTP_CLIENT_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_HTTP_CLIENT_H_
 

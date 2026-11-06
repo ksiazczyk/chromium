@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation evidence data structures
+// summary: Defines Endorsement, EndorsedEvidence and AttestationEvidence structs holding signed statements from the server's attestation response.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_SERVER_EVIDENCE_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_SERVER_EVIDENCE_H_
 

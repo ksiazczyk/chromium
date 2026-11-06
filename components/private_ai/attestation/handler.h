@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationHandler interface
+// summary: Declares the AttestationHandler interface for generating attestation requests and verifying server attestation evidence.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_HANDLER_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_HANDLER_H_
 

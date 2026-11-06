@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttestationHandlerImpl unit tests
+// summary: Tests attestation request generation and signature verification success and failure cases using test verification keys.
+// ---
+
 #include "components/private_ai/attestation/handler_impl.h"
 
 #include <vector>

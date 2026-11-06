@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebSocket transport client
+// summary: Tests the WebSocket client's connection setup, additional headers, request sending, and response handling with a mock network context.
+// ---
+
 #include "components/private_ai/websocket_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionBasic implementation
+// summary: Implements the Connection interface over a SecureChannel, matching responses to pending requests by request ID and handling disconnects and parse errors.
+// ---
+
 #include "components/private_ai/connection_basic.h"
 
 #include <utility>

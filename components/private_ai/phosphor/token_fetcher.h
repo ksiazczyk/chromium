@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenFetcher interface
+// summary: Interface for requesting batches of single-use blind-signed authentication tokens for PrivateAI, returning tokens or a retry time on failure.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_H_
 

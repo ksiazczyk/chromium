@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OakCtVerifier class declaration
+// summary: Declares the Oak Certificate Transparency verifier that checks a TCA root is published via a publicly trusted, CT-compliant OakCT certificate.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_OAK_CT_VERIFIER_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_OAK_CT_VERIFIER_H_
 

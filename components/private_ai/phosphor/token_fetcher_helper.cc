@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenFetcherHelper implementation
+// summary: Implements helpers that call BlindSignAuth to fetch tokens and convert quiche BlindSignToken values into Phosphor auth tokens.
+// ---
+
 #include "components/private_ai/phosphor/token_fetcher_helper.h"
 
 #include <cstdint>

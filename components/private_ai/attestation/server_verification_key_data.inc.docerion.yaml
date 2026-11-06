@@ -1,0 +1,4 @@
+# Docerion header of server_verification_key_data.inc.
+type: data
+title: Embedded server verification key data
+summary: Defines constant arrays of EC P-256 server verification keys for the autopush, dev, labs and production environments, included by the key selection source.

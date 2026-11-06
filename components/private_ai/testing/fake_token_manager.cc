@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTokenManager implementation
+// summary: Implements a fake phosphor TokenManager that captures token requests via test futures and returns configurable fake blind-signed auth tokens or errors.
+// ---
+
 #include "components/private_ai/testing/fake_token_manager.h"
 
 #include <utility>
