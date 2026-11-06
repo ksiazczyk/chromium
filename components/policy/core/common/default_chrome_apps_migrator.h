@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultChromeAppsMigrator class header
+// summary: Declares DefaultChromeAppsMigrator, a temporary solution replacing Chrome app force-install and pinning policies with web app equivalents.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_DEFAULT_CHROME_APPS_MIGRATOR_H_
 #define COMPONENTS_POLICY_CORE_COMMON_DEFAULT_CHROME_APPS_MIGRATOR_H_
 

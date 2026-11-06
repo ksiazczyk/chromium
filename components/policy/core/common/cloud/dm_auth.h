@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DM auth header
+// summary: Declares the DMAuth class encapsulating authentication token types such as DM, OAuth, enrollment, and OIDC tokens used with the device management service.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_DM_AUTH_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_DM_AUTH_H_
 

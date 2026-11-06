@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalTestPolicyLoader implementation
+// summary: Loads policies from a JSON list into a PolicyBundle for the policy testing page, handling level, scope, source, namespace and user affiliation.
+// ---
+
 #include "components/policy/core/common/local_test_policy_loader.h"
 
 #include <map>

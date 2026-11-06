@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockConfigurationPolicyProvider class declaration
+// summary: Declares a gmock-based ConfigurationPolicyProvider with helpers to update Chrome and extension policies and configure default test behaviour.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MOCK_CONFIGURATION_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MOCK_CONFIGURATION_POLICY_PROVIDER_H_
 

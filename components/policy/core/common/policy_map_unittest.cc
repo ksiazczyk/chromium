@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy map unit tests
+// summary: Unit tests for PolicyMap covering set and get operations, merging, conflicts, external data fetchers, and policy messages.
+// ---
+
 #include "components/policy/core/common/policy_map.h"
 
 #include <memory>

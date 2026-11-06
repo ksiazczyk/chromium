@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy service interface
+// summary: Defines the PolicyService interface that merges policies from all sources by priority and lets clients observe policy updates.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_H_
 

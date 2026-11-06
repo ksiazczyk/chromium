@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock matchers for policy dictionary field validation
+// summary: Provides gmock matchers that verify whether policy dictionaries contain unset, string, boolean, integer or double fields in tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_FIELD_VALIDATION_TEST_UTILS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_FIELD_VALIDATION_TEST_UTILS_H_
 

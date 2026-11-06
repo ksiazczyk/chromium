@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation helper declarations
+// summary: Declares the exported functions for checking user and device affiliation and for reading affiliation IDs from a CloudPolicyCore.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_AFFILIATION_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_AFFILIATION_H_
 

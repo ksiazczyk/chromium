@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line policy loader declarations
+// summary: Declares PolicyLoaderCommandLine, which reads policy values from a command line switch under strict limitations.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_COMMAND_LINE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_COMMAND_LINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy service change registrar
+// summary: Implements PolicyChangeRegistrar, which observes individual policy values and invokes callbacks when they change.
+// ---
+
 #include "components/policy/core/common/policy_service.h"
 
 #include "base/values.h"

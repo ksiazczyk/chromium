@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON schema key constants
+// summary: Defines shared string constants for JSON schema keys such as type, properties, items and additionalProperties.
+// ---
+
 #include "components/policy/core/common/json_schema_constants.h"
 
 namespace json_schema_constants {

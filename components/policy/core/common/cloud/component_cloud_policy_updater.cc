@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component cloud policy updater implementation
+// summary: Implements ComponentCloudPolicyUpdater, which validates policy fetch responses, downloads external component policy data with size limits, and caches results in the component cloud policy store.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_updater.h"
 
 #include <stddef.h>

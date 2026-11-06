@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy builder test helper implementation
+// summary: Implements the PolicyBuilder test helper that constructs signed cloud policy blobs using hard-coded test signing keys and dummy policy data.
+// ---
+
 #include "components/policy/core/common/cloud/test/policy_builder.h"
 
 #include <vector>

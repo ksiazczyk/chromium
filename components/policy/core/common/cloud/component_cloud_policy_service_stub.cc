@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub component cloud policy service
+// summary: Provides a no-op stub implementation of ComponentCloudPolicyService for builds where component cloud policy is not supported.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_service.h"
 
 #include "base/task/sequenced_task_runner.h"

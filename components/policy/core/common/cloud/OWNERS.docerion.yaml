@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for machine level and encrypted policy files
+summary: Assigns per-file owners for machine level user cloud policy files and delegates encrypted policy files to the reporting component owners.

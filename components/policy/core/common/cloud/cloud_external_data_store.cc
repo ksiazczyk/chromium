@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud external data store implementation
+// summary: Implements a ResourceCache-backed store that stores, loads with hash and size validation, and prunes cached external policy data.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_external_data_store.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android combined policy provider class declaration
+// summary: Declares the AndroidCombinedPolicyProvider configuration policy provider that pushes Java-side policies into the core policy system and controls initialization waiting.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ANDROID_ANDROID_COMBINED_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ANDROID_ANDROID_COMBINED_POLICY_PROVIDER_H_
 

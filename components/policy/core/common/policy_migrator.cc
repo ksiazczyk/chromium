@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy migrator implementation
+// summary: Implements copying deprecated policy values to their replacement policies, adding migration warnings and logging when the new policy is unset.
+// ---
+
 #include "components/policy/core/common/policy_migrator.h"
 
 #include <algorithm>

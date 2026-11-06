@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal schema data structures
+// summary: Defines internal SchemaNode, PropertyNode, and PropertiesNode structures used by the schema parser and the compile-time code generator.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SCHEMA_INTERNAL_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SCHEMA_INTERNAL_H_
 

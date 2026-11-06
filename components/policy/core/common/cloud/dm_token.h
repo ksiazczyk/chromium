@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMToken class header
+// summary: Defines the DMToken class representing a device management token with valid, invalid, or empty status and helpers to check it.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_DM_TOKEN_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_DM_TOKEN_H_
 

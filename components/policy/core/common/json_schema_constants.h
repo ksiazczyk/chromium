@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON schema key constant declarations
+// summary: Declares shared string constants for JSON schema keys used by code that processes JSON schemas.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_JSON_SCHEMA_CONSTANTS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_JSON_SCHEMA_CONSTANTS_H_
 

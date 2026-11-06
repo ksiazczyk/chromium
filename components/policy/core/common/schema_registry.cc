@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry implementation
+// summary: Implements SchemaRegistry, which tracks registered policy schemas per domain and notifies observers on registration, unregistration and readiness changes.
+// ---
+
 
 #include "components/policy/core/common/schema_registry.h"
 

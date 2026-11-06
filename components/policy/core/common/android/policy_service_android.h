@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyServiceAndroid class header
+// summary: Declares the PolicyServiceAndroid bridge class, an observer of PolicyService that exposes Chrome-domain policies and events to Java on Android.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_SERVICE_ANDROID_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_SERVICE_ANDROID_H_
 

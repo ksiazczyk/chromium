@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user cloud policy store header
+// summary: Declares a gmock user cloud policy store that exposes load, store and validation internals to tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_USER_CLOUD_POLICY_STORE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_USER_CLOUD_POLICY_STORE_H_
 

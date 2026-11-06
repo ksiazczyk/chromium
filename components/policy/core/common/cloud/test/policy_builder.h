@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy builder test helper header
+// summary: Declares the PolicyBuilder class, a test-only helper for building fake signed policy fetch responses with configurable signing keys.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_TEST_POLICY_BUILDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_TEST_POLICY_BUILDER_H_
 

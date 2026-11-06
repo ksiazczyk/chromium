@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy manager unit tests
+// summary: Unit tests for the user cloud policy manager, covering policy load and disconnect behavior with mock stores.
+// ---
+
 #include "components/policy/core/common/cloud/user_cloud_policy_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy scheduler header
+// summary: Declares PolicyScheduler, a helper that drives repeated non-overlapping asynchronous tasks like policy fetches on the current thread.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_SCHEDULER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_SCHEDULER_H_
 

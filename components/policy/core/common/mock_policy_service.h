@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock PolicyService declarations
+// summary: Declares gmock-based mocks of PolicyService and its observer interfaces for use in policy-related tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MOCK_POLICY_SERVICE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MOCK_POLICY_SERVICE_H_
 

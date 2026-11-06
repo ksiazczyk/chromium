@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component cloud policy service unit tests
+// summary: Unit tests for ComponentCloudPolicyService covering policy fetching, schema validation, caching and observer notifications.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_service.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration policy provider header
+// summary: Declares the abstract base class for platform-specific policy providers, defining init, shutdown, refresh and observer interfaces.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CONFIGURATION_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CONFIGURATION_POLICY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy settings policy constant declaration
+// summary: Declares the kProxyPacMandatory key used in the ProxySettings dictionary policy.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_PROXY_SETTINGS_CONSTANTS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_PROXY_SETTINGS_CONSTANTS_H_
 

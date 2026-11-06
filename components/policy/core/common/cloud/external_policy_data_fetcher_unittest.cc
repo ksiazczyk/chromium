@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External policy data fetcher unit tests
+// summary: Unit tests for ExternalPolicyDataFetcher covering job start, cancellation, and result handling for external policy data downloads.
+// ---
+
 #include "components/policy/core/common/cloud/external_policy_data_fetcher.h"
 
 #include <stdint.h>

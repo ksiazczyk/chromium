@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchemaMap unit tests
+// summary: Unit tests for SchemaMap lookups, component detection, and bundle filtering with valid and invalid component policies.
+// ---
+
 #include "components/policy/core/common/schema_map.h"
 
 #include <memory>

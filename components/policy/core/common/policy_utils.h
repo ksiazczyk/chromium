@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Policy utilities header for testing checks and name-to-type mapping
+// summary: Declares utility functions that report whether the policy testing page is enabled on a channel and that map policy names to their schema types.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_UTILS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_UTILS_H_
 

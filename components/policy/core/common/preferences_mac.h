@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacPreferences class declaration
+// summary: Declares a wrapper around the macOS CFPreferences API used to read managed policy values and determine their scope.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_PREFERENCES_MAC_H_
 #define COMPONENTS_POLICY_CORE_COMMON_PREFERENCES_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install decision proto types implementation
+// summary: Defines the constructors and destructor for the ExtensionInstallDecision struct that wraps an extension install policy action and its reasons.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_client_proto_types.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyServiceStub header for unit tests
+// summary: Declares a stub PolicyService implementation that serves an empty policy map and is used during unit tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_STUB_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_STUB_H_
 

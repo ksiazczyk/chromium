@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy client types header
+// summary: Declares ExtensionIdAndVersion and PolicyTypeToFetch, which identify policy fetch requests by policy type together with a settings entity ID or extension set provider.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CLIENT_TYPES_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CLIENT_TYPES_H_
 

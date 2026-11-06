@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime reporting job configuration unit tests
+// summary: Unit tests for the realtime reporting job configuration that uploads browser events to the reporting server.
+// ---
+
 #include "components/policy/core/common/cloud/realtime_reporting_job_configuration.h"
 
 #include <cstddef>

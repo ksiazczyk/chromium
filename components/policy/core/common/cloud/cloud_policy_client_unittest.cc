@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudPolicyClient unit tests
+// summary: Unit tests for CloudPolicyClient covering registration, policy and status fetching, and reporting requests against a mock device management service.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_client.h"
 
 #include <stddef.h>

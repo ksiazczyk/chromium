@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted reporting job configuration declarations
+// summary: Declares EncryptedReportingJobConfiguration and documents the JSON payload structure for encrypted reporting uploads.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_ENCRYPTED_REPORTING_JOB_CONFIGURATION_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_ENCRYPTED_REPORTING_JOB_CONFIGURATION_H_
 

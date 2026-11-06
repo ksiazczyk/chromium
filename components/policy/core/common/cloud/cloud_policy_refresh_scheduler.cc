@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyRefreshScheduler implementation
+// summary: Implements the scheduler that triggers periodic and on-demand cloud policy refreshes with platform-specific delays and error retry backoff.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_refresh_scheduler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM token implementation
+// summary: Implements the DMToken class with factory methods for valid, invalid, and empty device management tokens plus status checks.
+// ---
+
 #include "components/policy/core/common/cloud/dm_token.h"
 
 #include "base/check.h"

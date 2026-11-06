@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy converter class declaration
+// summary: Declares PolicyConverter, which with its Java counterpart transforms Android Bundles into PolicyBundles via typed setter methods and schema conversion helpers.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_CONVERTER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_CONVERTER_H_
 

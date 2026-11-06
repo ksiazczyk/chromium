@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine level user cloud policy manager implementation
+// summary: Implements MachineLevelUserCloudPolicyManager, which connects machine level user cloud policy to a client, refresh scheduler, and external data manager.
+// ---
+
 #include "components/policy/core/common/cloud/machine_level_user_cloud_policy_manager.h"
 
 #include <memory>

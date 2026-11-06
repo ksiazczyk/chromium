@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local test policy provider implementation
+// summary: Implements the local test policy provider that loads, clears and refreshes JSON test policies and registers the local state pref used to apply them at next startup.
+// ---
+
 #include "components/policy/core/common/local_test_policy_provider.h"
 
 #include "base/memory/ptr_util.h"

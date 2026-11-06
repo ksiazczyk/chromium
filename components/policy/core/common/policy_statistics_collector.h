@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyStatisticsCollector class declaration
+// summary: Declares the PolicyStatisticsCollector that schedules regular updates of policy usage UMA histograms, plus enums for policy conditions and sources.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_STATISTICS_COLLECTOR_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_STATISTICS_COLLECTOR_H_
 

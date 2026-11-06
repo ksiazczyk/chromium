@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy map header
+// summary: Declares PolicyMap, a mapping of policy names to entries holding values, level, scope, source, conflicts, and messages.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_MAP_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_MAP_H_
 

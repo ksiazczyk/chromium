@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cloud policy manager header
+// summary: Declares the cloud policy manager class that initializes profile-level user cloud policy and manages its connection and shutdown.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_PROFILE_CLOUD_POLICY_MANAGER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_PROFILE_CLOUD_POLICY_MANAGER_H_
 

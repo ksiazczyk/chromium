@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyManager implementation
+// summary: Implements CloudPolicyManager, which connects a CloudPolicyCore to the ConfigurationPolicyProvider interface and exposes DM token and client id access.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_manager.h"
 
 #include <memory>

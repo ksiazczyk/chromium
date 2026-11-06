@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy store unit tests
+// summary: Unit tests covering loading, storing, and clearing of user cloud policies in the user cloud policy store using a temporary directory and mock observers.
+// ---
+
 #include "components/policy/core/common/cloud/user_cloud_policy_store.h"
 
 #include <memory>

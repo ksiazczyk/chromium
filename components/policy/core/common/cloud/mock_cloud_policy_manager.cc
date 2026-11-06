@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cloud policy manager implementation
+// summary: Implements the MockCloudPolicyManager test double that wraps a CloudPolicyStore and can create a component cloud policy service for tests.
+// ---
+
 #include "components/policy/core/common/cloud/mock_cloud_policy_manager.h"
 
 #include <memory>

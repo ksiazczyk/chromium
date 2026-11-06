@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async policy loader class declaration
+// summary: Declares the base class platform-specific policy loaders use for initial load, periodic reloads and file change watching.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ASYNC_POLICY_LOADER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ASYNC_POLICY_LOADER_H_
 

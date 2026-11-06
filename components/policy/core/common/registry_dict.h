@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryDict class header
+// summary: Declares the RegistryDict class for case-insensitive registry subtree storage and the ConvertRegistryValue helper for schema-based type conversion.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_REGISTRY_DICT_H_
 #define COMPONENTS_POLICY_CORE_COMMON_REGISTRY_DICT_H_
 

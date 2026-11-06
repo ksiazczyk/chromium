@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cloud policy directory
+summary: Defines the include rules that allow the cloud policy code to depend on components/signin/public and components/session_manager/core.

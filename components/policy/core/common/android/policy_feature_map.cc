@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy feature map JNI bridge
+// summary: Exposes policy feature flags such as the restrictions manager feature to Java through a base::android::FeatureMap accessed over JNI.
+// ---
+
 #include <string>
 
 #include "base/android/feature_map.h"

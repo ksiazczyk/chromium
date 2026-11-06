@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy value utilities unit tests
+// summary: Unit tests verifying ValueToStringSet conversion and invalid-item handling and checking PolicyValueHash behavior across simple, list, dictionary, and nested values.
+// ---
+
 #include "components/policy/core/common/values_util.h"
 
 #include <memory>

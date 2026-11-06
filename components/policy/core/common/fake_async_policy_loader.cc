@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake async policy loader implementation for tests
+// summary: Implements a fake AsyncPolicyLoader that returns test-controlled policy bundles and posts reload tasks for testing.
+// ---
+
 #include "components/policy/core/common/fake_async_policy_loader.h"
 
 #include "base/functional/bind.h"

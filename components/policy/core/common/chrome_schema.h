@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policy schema accessor declaration
+// summary: Declares GetChromeSchema, which exposes the policy schema generated from policy_templates.json.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CHROME_SCHEMA_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CHROME_SCHEMA_H_
 

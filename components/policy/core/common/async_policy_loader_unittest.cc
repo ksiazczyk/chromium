@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the async policy loader
+// summary: Verifies initial load behavior and filtering of sensitive policies when the platform is not managed by a trusted source.
+// ---
+
 #include "components/policy/core/common/async_policy_loader.h"
 
 #include <memory>

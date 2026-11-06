@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Config directory policy loader
+// summary: Loads JSON policy files from managed and recommended subdirectories of a config directory and watches them for changes.
+// ---
+
 #include "components/policy/core/common/config_dir_policy_loader.h"
 
 #include <stddef.h>

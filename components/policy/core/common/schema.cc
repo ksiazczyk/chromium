@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema implementation
+// summary: Implements the policy Schema class, parsing JSON schema definitions and validating, normalizing, and masking policy values against them.
+// ---
+
 #include "components/policy/core/common/schema.h"
 
 #include <limits.h>

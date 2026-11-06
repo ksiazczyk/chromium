@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local test policy provider class declaration
+// summary: Declares the local test policy provider, a configuration policy provider that supplies locally defined test policies and disables other providers while it is active.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_LOCAL_TEST_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_LOCAL_TEST_POLICY_PROVIDER_H_
 

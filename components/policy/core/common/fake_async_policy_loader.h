@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeAsyncPolicyLoader header for test-controlled policies
+// summary: Declares a fake AsyncPolicyLoader that serves test-controlled policies and simulates change notifications for the policy subsystem.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_FAKE_ASYNC_POLICY_LOADER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_FAKE_ASYNC_POLICY_LOADER_H_
 

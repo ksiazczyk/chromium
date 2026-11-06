@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External policy data updater header
+// summary: Declares ExternalPolicyDataUpdater, which fetches external policy data by URL, verifies size and hash, and schedules retries with exponential backoff.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_EXTERNAL_POLICY_DATA_UPDATER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_EXTERNAL_POLICY_DATA_UPDATER_H_
 

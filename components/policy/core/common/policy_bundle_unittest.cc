@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyBundle unit tests
+// summary: Unit tests covering PolicyBundle namespace access, merging, cloning, equality and clearing behavior.
+// ---
+
 #include "components/policy/core/common/policy_bundle.h"
 
 #include <memory>

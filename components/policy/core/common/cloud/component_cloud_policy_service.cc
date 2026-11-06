@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component cloud policy service implementation
+// summary: Implements fetching, validating, caching and exposing policy for components such as extensions via a background backend and resource cache.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_service.h"
 
 #include <stddef.h>

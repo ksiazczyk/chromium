@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud external data store unit tests
+// summary: Unit tests covering storing, loading, hash verification, maximum size enforcement and pruning of entries in CloudExternalDataStore.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_external_data_store.h"
 
 #include <stddef.h>

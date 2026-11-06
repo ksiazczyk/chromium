@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Mac policy loader
+// summary: Unit tests for PolicyLoaderMac using mock Mac preferences to install string, integer, boolean, list, and dictionary policies.
+// ---
+
 #include "components/policy/core/common/policy_loader_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

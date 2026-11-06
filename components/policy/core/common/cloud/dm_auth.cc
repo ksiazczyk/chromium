@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM auth implementation
+// summary: Implements DMAuth factory methods that wrap DM, OAuth, enrollment, and OIDC tokens for authenticating requests to the device management service.
+// ---
+
 #include "components/policy/core/common/cloud/dm_auth.h"
 
 #include "base/memory/ptr_util.h"

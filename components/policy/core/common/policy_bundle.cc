@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyBundle implementation
+// summary: Implements PolicyBundle as a map of policy namespaces to PolicyMaps with merge, clone, equality and clear operations.
+// ---
+
 #include "components/policy/core/common/policy_bundle.h"
 
 #include "base/check.h"

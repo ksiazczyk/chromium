@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy client implementation
+// summary: Implements CloudPolicyClient, the core logic for talking to the device management service, including registration, policy fetching, remote commands and request status tracking.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_client.h"
 
 #include <string>

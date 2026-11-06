@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile cloud policy store unit tests
+// summary: Unit tests for ProfileCloudPolicyStore verifying policy persistence, validation, and loading of stored policy blobs.
+// ---
+
 #include "components/policy/core/common/cloud/profile_cloud_policy_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryDict implementation
+// summary: Implements the in-memory registry subtree representation and converts Windows registry values to schema-conforming JSON values.
+// ---
+
 #include "components/policy/core/common/registry_dict.h"
 
 #include <memory>

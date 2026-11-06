@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise management status utilities
+// summary: Maps management service authorities to platform and browser management status values.
+// ---
+
 #include "components/policy/core/common/enterprise_management_status_util.h"
 
 #include <string>

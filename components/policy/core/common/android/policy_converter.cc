@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy converter implementation
+// summary: Implements PolicyConverter, turning Java policy key/value calls into a PolicyBundle, including comma-separated list parsing and schema-based value conversion.
+// ---
+
 #include "components/policy/core/common/android/policy_converter.h"
 
 #include <algorithm>

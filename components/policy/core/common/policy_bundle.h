@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyBundle class declarations
+// summary: Declares PolicyBundle, which maps policy namespaces to PolicyMaps and supports merging, cloning and iteration.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_BUNDLE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_BUNDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy statistics collector implementation
+// summary: Implements daily collection of policy usage statistics and records UMA histograms about policy sources such as cloud, platform, merge, and enrollment.
+// ---
+
 #include "components/policy/core/common/policy_statistics_collector.h"
 
 #include <algorithm>

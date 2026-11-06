@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value validator header
+// summary: Defines a templated interface for validating policy payload values and reporting validation issues with severity levels.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_VALUE_VALIDATOR_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_VALUE_VALIDATOR_H_
 

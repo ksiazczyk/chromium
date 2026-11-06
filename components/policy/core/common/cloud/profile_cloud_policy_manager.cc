@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cloud policy manager implementation
+// summary: Implements the manager that initializes and connects profile-level user cloud policy, including extension install policy support.
+// ---
+
 #include "components/policy/core/common/cloud/profile_cloud_policy_manager.h"
 
 #include <memory>

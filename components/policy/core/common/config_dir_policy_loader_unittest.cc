@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Config directory policy loader unit tests
+// summary: Tests the config directory policy loader with a harness that writes policy files and checks mandatory, recommended and third-party policy loading.
+// ---
+
 #include "components/policy/core/common/config_dir_policy_loader.h"
 #include <memory>
 

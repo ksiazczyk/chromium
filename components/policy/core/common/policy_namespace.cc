@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy namespace implementation
+// summary: Implements constructors, assignment and destructor for the PolicyNamespace struct that pairs a policy domain with a component ID.
+// ---
+
 #include "components/policy/core/common/policy_namespace.h"
 
 #include <tuple>

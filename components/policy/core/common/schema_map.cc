@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemaMap implementation
+// summary: Implements SchemaMap, filtering policy bundles against known schemas and computing schema namespace changes between versions.
+// ---
+
 #include "components/policy/core/common/schema_map.h"
 
 #include <utility>

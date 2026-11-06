@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy metrics recorder implementation
+// summary: Implements the recorder that reports the number of active user policies as a UMA histogram when the configuration policy provider updates.
+// ---
+
 #include "components/policy/core/common/cloud/user_policy_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

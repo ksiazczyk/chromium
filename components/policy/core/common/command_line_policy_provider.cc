@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line policy provider
+// summary: Implements a policy provider that loads Chrome policies from the command line, created only on debug Android builds for development and testing.
+// ---
+
 #include "components/policy/core/common/command_line_policy_provider.h"
 
 #include <memory>

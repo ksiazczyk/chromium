@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseManagementMetricsProvider class header
+// summary: Declares a metrics provider that logs the platform and active profiles' enterprise management status.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ENTERPRISE_MANAGEMENT_METRICS_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ENTERPRISE_MANAGEMENT_METRICS_PROVIDER_H_
 

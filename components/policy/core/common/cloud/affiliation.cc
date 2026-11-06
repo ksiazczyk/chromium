@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation checks for cloud policy
+// summary: Implements helpers that decide whether a user and device are managed by the same customer and extract affiliation IDs from a cloud policy core.
+// ---
+
 #include "components/policy/core/common/cloud/affiliation.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External policy data fetcher implementation
+// summary: Implements network fetch jobs that download external policy data such as extension policies with size limits and error reporting.
+// ---
+
 #include "components/policy/core/common/cloud/external_policy_data_fetcher.h"
 
 #include <string_view>

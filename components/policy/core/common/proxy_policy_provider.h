@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPolicyProvider class declaration
+// summary: Declares a swappable proxy policy provider used to inject browser-global policy from the primary Chrome OS user into local state.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_PROXY_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_PROXY_POLICY_PROVIDER_H_
 

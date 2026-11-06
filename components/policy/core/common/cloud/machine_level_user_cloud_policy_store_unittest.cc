@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine level user cloud policy store unit tests
+// summary: Unit tests for MachineLevelUserCloudPolicyStore focusing on its unique behavior, such as external cached policy loading and validation.
+// ---
+
 #include "components/policy/core/common/cloud/machine_level_user_cloud_policy_store.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy scheduler unit tests
+// summary: Unit tests covering PolicyScheduler task loops, rescheduling, and handling of overlapping tasks.
+// ---
+
 #include "components/policy/core/common/policy_scheduler.h"
 
 #include <memory>

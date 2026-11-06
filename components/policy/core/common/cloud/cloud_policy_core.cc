@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyCore implementation
+// summary: Implements CloudPolicyCore, which wires together the client, store, service, refresh scheduler, and remote commands service for cloud policy.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_core.h"
 
 #include <memory>

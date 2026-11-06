@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPreferences implementation
+// summary: Implements a mock MacPreferences that stores test preference items for verifying code that interacts with CFPreferences.
+// ---
+
 #include "components/policy/core/common/preferences_mock_mac.h"
 
 MockPreferences::MockPreferences() {

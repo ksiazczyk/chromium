@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header of the Mac policy loader reading Mac preferences
+// summary: Declares PolicyLoaderMac, an async policy loader that reads policies from the Mac preferences system and watches managed preferences files for updates.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_MAC_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_MAC_H_
 

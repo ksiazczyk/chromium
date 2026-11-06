@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegistryDict unit tests
+// summary: Unit tests covering RegistryDict value and key handling, case-insensitive but case-preserving naming, and dictionary manipulation.
+// ---
+
 #include "components/policy/core/common/registry_dict.h"
 
 #include <memory>

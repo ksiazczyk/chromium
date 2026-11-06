@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Config directory policy loader header
+// summary: Declares ConfigDirPolicyLoader, an async policy loader that merges JSON policy files from a directory in lexicographic order.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CONFIG_DIR_POLICY_LOADER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CONFIG_DIR_POLICY_LOADER_H_
 

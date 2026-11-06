@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy protobuf decoding interfaces
+// summary: Declares functions to decode cloud policy settings and extension install policies into a PolicyMap and to parse component JSON policies.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_PROTO_DECODERS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_PROTO_DECODERS_H_
 

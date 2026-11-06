@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema class header
+// summary: Declares the Schema class describing expected policy types, with validation strategies, error paths, and sensitive value masking support.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SCHEMA_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SCHEMA_H_
 

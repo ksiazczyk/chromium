@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMServer job configurations implementation
+// summary: Implements job configurations for device management requests, mapping job types to DMServer request types and handling responses.
+// ---
+
 #include "components/policy/core/common/cloud/dmserver_job_configurations.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of policy_loader_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS policy loader
+summary: Unit tests for PolicyLoaderIOS using a test harness that installs policies into NSUserDefaults, including JSON-encoded complex values.

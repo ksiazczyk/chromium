@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped critical policy section implementation
+// summary: Windows implementation that acquires user and machine critical policy sections before reading policy values, with timeout handling on a background thread.
+// ---
+
 #include "components/policy/core/common/scoped_critical_policy_section.h"
 
 #include <windows.h>

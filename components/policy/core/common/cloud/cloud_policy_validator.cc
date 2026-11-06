@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy validator implementation
+// summary: Implements validation of cloud policy blobs, including signature checks, validation status strings and UMA metrics for user and key signature verification.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_validator.h"
 
 #include <stddef.h>

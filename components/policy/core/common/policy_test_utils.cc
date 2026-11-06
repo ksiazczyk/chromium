@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test utility implementations
+// summary: Implements test helpers including PolicyDetailsMap, an empty policy service check, and conversion of values to CFPropertyListRef on macOS.
+// ---
+
 #include "components/policy/core/common/policy_test_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cloud policy store implementation
+// summary: Implements the store that persists profile-level cloud policy and signing keys, including extension install policy, in the profile directory.
+// ---
+
 #include "components/policy/core/common/cloud/profile_cloud_policy_store.h"
 
 #include <utility>

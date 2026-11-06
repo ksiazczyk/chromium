@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy device management protocol constants
+// summary: Defines string constants for device management protocol query parameters, authorization headers, request types, and policy type identifiers.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
 
 #include <stdint.h>

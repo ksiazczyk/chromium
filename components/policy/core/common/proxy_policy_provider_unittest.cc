@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyPolicyProvider unit tests
+// summary: Unit tests covering delegate swapping, policy refresh, and update forwarding behavior of ProxyPolicyProvider.
+// ---
+
 #include "components/policy/core/common/proxy_policy_provider.h"
 
 #include <memory>

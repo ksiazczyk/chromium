@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DMToken unit tests
+// summary: Unit tests verifying that DMToken correctly reports empty, invalid, and valid statuses and returns its value.
+// ---
+
 #include "components/policy/core/common/cloud/dm_token.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

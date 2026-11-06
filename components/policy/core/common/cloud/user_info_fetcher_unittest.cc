@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User info fetcher unit tests
+// summary: Unit tests for UserInfoFetcher covering successful fetches, network failures, and unparseable JSON responses using a test URL loader factory.
+// ---
+
 #include "components/policy/core/common/cloud/user_info_fetcher.h"
 
 #include "base/test/metrics/histogram_tester.h"

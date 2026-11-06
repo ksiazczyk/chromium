@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud policy validator unit tests
+// summary: Unit tests for CloudPolicyValidatorBase covering signature, timestamp, DM token, device ID, Gaia ID and policy value validation outcomes.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_validator.h"
 
 #include <stdint.h>

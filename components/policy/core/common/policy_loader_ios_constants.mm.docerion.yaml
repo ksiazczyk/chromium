@@ -1,0 +1,4 @@
+# Docerion header of policy_loader_ios_constants.mm.
+type: source
+title: Definition of the iOS managed app configuration defaults key
+summary: Defines the iOS managed app configuration key as com.apple.configuration.managed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command line policy provider unit tests
+// summary: Tests loading and refreshing of command-line policies and verifies that the provider is only created on allowed Android channels.
+// ---
+
 #include "components/policy/core/common/command_line_policy_provider.h"
 
 #include <memory>

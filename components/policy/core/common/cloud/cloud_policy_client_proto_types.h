@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install decision proto types header
+// summary: Declares the ExtensionInstallDecision struct holding an ExtensionInstallPolicy action and a set of reasons from the device management protobuf.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CLIENT_PROTO_TYPES_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CLIENT_PROTO_TYPES_H_
 

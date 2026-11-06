@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry tracking policy provider header
+// summary: Declares a provider that delegates policy fetching while tracking SchemaRegistry state to signal initialization for non-Chrome policy domains.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SCHEMA_REGISTRY_TRACKING_POLICY_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SCHEMA_REGISTRY_TRACKING_POLICY_PROVIDER_H_
 

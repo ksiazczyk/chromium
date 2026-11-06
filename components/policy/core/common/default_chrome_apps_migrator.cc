@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Chrome apps migrator implementation
+// summary: Migrates force-installed deprecated Chrome apps to corresponding web apps in the policy map, including pinning policies.
+// ---
+
 #include "components/policy/core/common/default_chrome_apps_migrator.h"
 
 #include "components/policy/policy_constants.h"
