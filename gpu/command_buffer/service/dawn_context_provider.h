@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn context provider declarations
+// summary: Declares DawnContextProvider, which creates and owns the wgpu device, adapter, and instance and initializes the Skia Graphite shared context.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DAWN_CONTEXT_PROVIDER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DAWN_CONTEXT_PROVIDER_H_
 

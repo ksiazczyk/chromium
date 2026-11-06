@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 client-service ID manager interface
+// summary: Declares IdManager, which maps GLES2 client ids to service ids and can be shared by multiple GLES2 decoders.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_ID_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_ID_MANAGER_H_
 

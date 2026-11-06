@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GrShaderCache unit tests
+// summary: Unit tests covering incognito cache exclusion, disk-backed cache loading, size limit enforcement, and pipeline cache storage.
+// ---
+
 #include "gpu/command_buffer/service/gr_shader_cache.h"
 
 #include <thread>

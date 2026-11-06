@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedBufferBindingHost implementation
+// summary: Implements tracking of indexed uniform and transform feedback buffer bindings, issuing glBindBufferBase and glBindBufferRange calls with size emulation adjustments.
+// ---
+
 #include "gpu/command_buffer/service/indexed_buffer_binding_host.h"
 
 #include "gpu/command_buffer/service/buffer_manager.h"

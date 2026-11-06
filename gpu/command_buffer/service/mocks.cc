@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementations of GPU service test mocks
+// summary: Implements mock objects such as AsyncAPIMock, MockDecoderClient, MockShaderTranslator, MockProgramCache and MockMemoryTracker for testing.
+// ---
+
 #include "gpu/command_buffer/service/mocks.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory region wrapper implementation
+// summary: Implements SharedMemoryRegionWrapper, which validates and maps shared memory from GPU memory buffer handles and exposes per-plane memory pointers and strides.
+// ---
+
 #include "gpu/command_buffer/service/shared_memory_region_wrapper.h"
 
 #include "base/compiler_specific.h"

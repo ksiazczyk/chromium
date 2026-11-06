@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn caching interface implementation
+// summary: Implements the Dawn caching interface over an in-memory memory cache, with a callback to persist cache blobs to disk, plus its factory.
+// ---
+
 #include "gpu/command_buffer/service/dawn_caching_interface.h"
 
 #include <cstring>

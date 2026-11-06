@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamplerManager implementation
+// summary: Implements GLES2 sampler objects and the manager that tracks them, validating and applying parameters such as filters, wrap modes, compare modes and LODs.
+// ---
+
 #include "gpu/command_buffer/service/sampler_manager.h"
 
 #include "base/check_op.h"

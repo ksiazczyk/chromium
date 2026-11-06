@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder context lost unit tests
+// summary: Unit tests for context loss handling in the GLES2 command decoder, covering MakeCurrent failures, robustness extension reset status, and cleanup after loss.
+// ---
+
 #include <array>
 
 #include "base/compiler_specific.h"

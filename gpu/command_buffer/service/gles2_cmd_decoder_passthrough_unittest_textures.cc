@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passthrough decoder texture and shared image tests
+// summary: Unit tests for texture and shared image commands in the passthrough decoder, including shared image creation and error-on-access backings.
+// ---
+
 #include <stdint.h>
 
 #include "base/compiler_specific.h"

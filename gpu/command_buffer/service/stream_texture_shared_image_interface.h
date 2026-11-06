@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamTextureSharedImageInterface
+// summary: Declares a ref-counted interface that lets AndroidVideoImageBacking draw video frames, handle overlay promotion and rendering, and access AHardwareBuffers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_STREAM_TEXTURE_SHARED_IMAGE_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_STREAM_TEXTURE_SHARED_IMAGE_INTERFACE_H_
 

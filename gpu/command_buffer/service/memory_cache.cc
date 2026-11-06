@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryCache implementation with LRU eviction
+// summary: Implements a thread-safe, size-limited memory cache with LRU eviction and memory-pressure-driven size limits for keyed byte entries such as cached shader data.
+// ---
+
 #include "gpu/command_buffer/service/memory_cache.h"
 
 #include "base/feature_list.h"

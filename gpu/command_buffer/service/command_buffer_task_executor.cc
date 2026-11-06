@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferTaskExecutor implementation
+// summary: Implements accessors for GPU service objects, lazily creating a trace outputter and a program cache used by InProcessCommandBuffer.
+// ---
+
 #include "gpu/command_buffer/service/command_buffer_task_executor.h"
 
 #include "gpu/command_buffer/service/gpu_tracer.h"

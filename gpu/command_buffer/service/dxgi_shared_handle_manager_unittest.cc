@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DXGISharedHandleManager unit tests
+// summary: Unit tests for DXGISharedHandleManager covering lookup by token across duplicated handles and multi-threaded access, using D3D11 textures created via ANGLE.
+// ---
+
 #include "gpu/command_buffer/service/dxgi_shared_handle_manager.h"
 
 #include <windows.h>

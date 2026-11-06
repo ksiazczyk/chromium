@@ -9,6 +9,12 @@
  * Skia file and then copied here.
  */
 
+// ---docerion
+// type: source
+// title: Skia Graphite precompilation implementation
+// summary: Implements Skia Graphite precompilation of paint option combinations, adapted from Skia's ChromePrecompileTest.cpp for Chrome's GPU service.
+// ---
+
 #include "gpu/command_buffer/service/graphite_precompile.h"
 
 #include "third_party/skia/include/gpu/graphite/PrecompileContext.h"

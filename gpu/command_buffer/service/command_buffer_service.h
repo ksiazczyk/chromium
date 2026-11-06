@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferService header
+// summary: Declares CommandBufferServiceBase, CommandBufferServiceClient and CommandBufferService, which manage a shared memory command buffer with put and get pointers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_SERVICE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_SERVICE_H_
 

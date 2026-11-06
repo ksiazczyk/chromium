@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 Chromium copy texture resource manager implementation
+// summary: Implements the GL_CHROMIUM_copy_texture extension with generated vertex and fragment shader variants covering many source and destination texture formats.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_copy_texture_chromium.h"
 
 #include <stddef.h>

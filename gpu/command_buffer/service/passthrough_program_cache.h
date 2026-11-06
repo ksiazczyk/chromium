@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughProgramCache class declaration
+// summary: Declares the passthrough program cache that stores program binaries in memory, can serialize them for disk storage, and hooks into the EGL blob cache extension.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_PASSTHROUGH_PROGRAM_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_PASSTHROUGH_PROGRAM_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual GL context delegate interface
+// summary: Defines the GLContextVirtualDelegate interface with methods for restoring GL state and accessing the query manager on behalf of virtual contexts.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GL_CONTEXT_VIRTUAL_DELEGATE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GL_CONTEXT_VIRTUAL_DELEGATE_H_
 

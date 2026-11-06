@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder client interface
+// summary: Declares the DecoderClient abstract interface used by GPU decoders to report console messages, cache blobs, manage fence sync scheduling and return data.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DECODER_CLIENT_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DECODER_CLIENT_H_
 

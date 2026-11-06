@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory GPU shader program cache implementation
+// summary: Implements MemoryProgramCache, serializing linked GL program binaries and shader metadata into protobufs with compression for in-memory program caching.
+// ---
+
 #include "gpu/command_buffer/service/memory_program_cache.h"
 
 #include <stddef.h>

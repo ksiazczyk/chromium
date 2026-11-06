@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough decoder Do-method implementations
+// summary: Implements the Do* methods that translate and forward GLES2 command buffer commands to the underlying GL API.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

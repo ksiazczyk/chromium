@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PassthroughProgramCache unit tests
+// summary: Unit tests for the passthrough program cache covering blob cache set and get, cache size limits, and memory pressure handling.
+// ---
+
 #include "gpu/command_buffer/service/passthrough_program_cache.h"
 
 #include <stddef.h>

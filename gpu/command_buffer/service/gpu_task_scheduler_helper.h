@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuTaskSchedulerHelper class declaration
+// summary: Declares GpuTaskSchedulerHelper, a wrapper around SingleTaskSequence that schedules GPU tasks for Skia and GL output surfaces with sync token fences.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_TASK_SCHEDULER_HELPER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GPU_TASK_SCHEDULER_HELPER_H_
 

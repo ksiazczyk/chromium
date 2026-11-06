@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Texture manager unit tests
+// summary: Unit tests for TextureManager and Texture, covering texture parameters, completeness, NPOT handling and manager lifecycle under GLES2 and GLES3 contexts.
+// ---
+
 #include "gpu/command_buffer/service/texture_manager.h"
 
 #include <stddef.h>

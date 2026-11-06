@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDrawManager implementation
+// summary: Implements the GLES2 multi-draw manager that validates and buffers MultiDrawArrays and MultiDrawElements calls before handing the collected draw parameters to the draw function.
+// ---
+
 #include "gpu/command_buffer/service/multi_draw_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn wire command serializer implementation
+// summary: Implements the Dawn wire command serializer that buffers serialized WebGPU commands on GPU main and worker threads and flushes them to the decoder client.
+// ---
+
 #include "gpu/command_buffer/service/dawn_service_serializer.h"
 
 #include "base/rand_util.h"

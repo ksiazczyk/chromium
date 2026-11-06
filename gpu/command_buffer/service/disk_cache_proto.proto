@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: GPU disk cache protobuf definitions
+// summary: Defines protobuf messages describing shader variables, attributes, uniforms, varyings, and compiled GPU programs used by the GPU shader disk cache.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

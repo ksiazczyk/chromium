@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU persistent cache header
+// summary: Declares GpuPersistentCache, a wrapper around a persistent cache used as a Dawn, Skia or ANGLE cache with memory caching and async disk write options.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_PERSISTENT_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GPU_PERSISTENT_CACHE_H_
 

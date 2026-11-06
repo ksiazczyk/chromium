@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: Mock GL expectations for ContextState initialization
+// summary: Test helper that sets up mock GL capability and state expectations used when initializing ContextState in unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_CONTEXT_STATE_TEST_HELPERS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_CONTEXT_STATE_TEST_HELPERS_H_
 

@@ -4,6 +4,12 @@
 
 // Contains various validation functions for the GLES2 service.
 
+// ---docerion
+// type: source
+// title: GLES2 command validator declarations
+// summary: Declares the Validators struct holding GLES2 command argument validation tables, with generated members and ES3 update methods.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_VALIDATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_VALIDATION_H_
 

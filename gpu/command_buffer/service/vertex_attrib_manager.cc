@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertex attribute manager implementation
+// summary: Implements VertexAttrib and VertexAttribManager classes that track bound vertex attribute state and buffer access checks for the GLES2 command buffer service.
+// ---
+
 #include "gpu/command_buffer/service/vertex_attrib_manager.h"
 
 #include <stdint.h>

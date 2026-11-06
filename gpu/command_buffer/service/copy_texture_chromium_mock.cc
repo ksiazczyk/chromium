@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock copy texture resource managers implementation
+// summary: Implements mock CopyTexImageResourceManager and CopyTextureResourceManager classes that serve as test doubles for GLES2 decoder tests.
+// ---
+
 #include "gpu/command_buffer/service/copy_texture_chromium_mock.h"
 
 namespace gpu {

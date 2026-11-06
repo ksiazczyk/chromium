@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder context state restore unit tests
+// summary: Unit tests for initializing and restoring GLES2 context state, including texture units, samplers, and ES3 unpack parameter expectations.
+// ---
+
 #include <stdint.h>
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn platform implementation
+// summary: Implements the Chromium Dawn platform adapter with async waitable events, worker task pools, caching hooks and UMA histogram reporting for WebGPU.
+// ---
+
 #include "gpu/command_buffer/service/dawn_platform.h"
 
 #include <mutex>

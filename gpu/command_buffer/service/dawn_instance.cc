@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn instance creation implementation
+// summary: Implements DawnInstance::Create, applying WGSL blocklists, Dawn toggles, safety levels, and runtime search paths derived from GPU preferences.
+// ---
+
 #include "gpu/command_buffer/service/dawn_instance.h"
 
 #include <dawn/webgpu_cpp.h>

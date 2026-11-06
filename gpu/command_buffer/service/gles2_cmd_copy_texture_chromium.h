@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 Chromium copy texture resource manager declaration
+// summary: Declares CopyTextureCHROMIUMResourceManager and the CopyTextureMethod enum for performing GL_CHROMIUM_copy_texture operations.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_COPY_TEXTURE_CHROMIUM_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_COPY_TEXTURE_CHROMIUM_H_
 

@@ -7,6 +7,12 @@
 // TODO(apatrick): This file "manually" defines some mock objects. Using gMock
 // would be definitely preferable, unfortunately it doesn't work on Windows yet.
 
+// ---docerion
+// type: test
+// title: Mock object definitions for GPU service tests
+// summary: Declares gmock-based mock classes including AsyncAPIMock, MockDecoderClient, MockShaderTranslator, MockProgramCache and MockMemoryTracker.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MOCKS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MOCKS_H_
 

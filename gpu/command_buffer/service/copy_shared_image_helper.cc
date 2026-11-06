@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image copy helper implementation
+// summary: Implements CopySharedImageHelper, which copies between shared images and textures using Skia surfaces, GL, and libyuv conversions.
+// ---
+
 #include "gpu/command_buffer/service/copy_shared_image_helper.h"
 
 #include <array>

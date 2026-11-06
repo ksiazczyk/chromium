@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External semaphore pool implementation
+// summary: Implements a pool that recycles external semaphores up to a platform-dependent cap, with deferred returns via the Vulkan fence helper.
+// ---
+
 #include "gpu/command_buffer/service/external_semaphore_pool.h"
 
 #include "build/build_config.h"

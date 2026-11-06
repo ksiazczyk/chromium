@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory region wrapper declaration
+// summary: Declares SharedMemoryRegionWrapper, a wrapper for shared memory regions from GPU memory buffers providing plane memory, strides and Skia pixmaps.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_MEMORY_REGION_WRAPPER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_MEMORY_REGION_WRAPPER_H_
 

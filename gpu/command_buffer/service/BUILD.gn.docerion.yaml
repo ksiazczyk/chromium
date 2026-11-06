@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the GPU command buffer service
+summary: Defines build targets, sources, dependencies, and platform-specific settings for the GPU command buffer service library.

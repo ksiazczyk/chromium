@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHelper declarations for GPU service tests
+// summary: Declares the TestHelper class with service texture IDs, GL limit constants and static setup methods for mock GL expectations in service unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_TEST_HELPER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_TEST_HELPER_H_
 

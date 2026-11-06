@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceTransferCache unit tests
+// summary: Unit tests verifying transfer cache entry limits, eviction on memory release, and stateful memory limit update behavior.
+// ---
+
 #include "gpu/command_buffer/service/service_transfer_cache.h"
 
 #include "base/functional/callback_helpers.h"

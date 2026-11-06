@@ -5,6 +5,12 @@
 // This file includes all the necessary GL headers and implements some useful
 // utilities.
 
+// ---docerion
+// type: source
+// title: GL utilities header
+// summary: Includes the required GL headers and declares utility functions for capabilities, shader precision, version strings and debug message logging.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GL_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GL_UTILS_H_
 

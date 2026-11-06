@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalSemaphorePool class declaration
+// summary: Declares ExternalSemaphorePool, which caches and reuses external semaphores for Vulkan and GL synchronization, including fence-guarded returns.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_EXTERNAL_SEMAPHORE_POOL_H_
 #define GPU_COMMAND_BUFFER_SERVICE_EXTERNAL_SEMAPHORE_POOL_H_
 

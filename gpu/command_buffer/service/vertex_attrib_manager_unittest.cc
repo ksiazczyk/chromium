@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertex attribute manager unit tests
+// summary: Unit tests for VertexAttribManager covering enabling attributes, setting attribute info, fixed attributes, and buffer access checks.
+// ---
+
 #include "gpu/command_buffer/service/vertex_attrib_manager.h"
 
 #include <stdint.h>

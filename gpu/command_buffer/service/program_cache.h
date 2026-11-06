@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgramCache base class declaration
+// summary: Declares the ProgramCache base class for caching linked GPU programs, defining hash types, link status enums, and the load, save, and trim interfaces.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_PROGRAM_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_PROGRAM_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query manager unit tests
+// summary: Unit tests for the GLES2 query manager using mock GL, covering query creation, begin and end, and pending query processing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

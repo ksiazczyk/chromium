@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferDirect header
+// summary: Declares CommandBufferDirect, a CommandBuffer, CommandBufferServiceClient and DecoderClient implementation that runs commands directly against a CommandBufferService.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_DIRECT_H_
 #define GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_DIRECT_H_
 

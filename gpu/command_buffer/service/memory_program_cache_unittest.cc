@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-memory GPU program cache
+// summary: GTest suite verifying MemoryProgramCache save, load, trimming and memory-pressure behavior using a program binary emulator and GL mocks.
+// ---
+
 #include "gpu/command_buffer/service/memory_program_cache.h"
 
 #include <stddef.h>

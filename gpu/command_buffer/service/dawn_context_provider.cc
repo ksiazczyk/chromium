@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn context provider implementation
+// summary: Implements creation of the Dawn WebGPU device, adapter, and instance, Skia Graphite context initialization, caching setup, and error and crash handling.
+// ---
+
 #include "gpu/command_buffer/service/dawn_context_provider.h"
 
 #include <atomic>

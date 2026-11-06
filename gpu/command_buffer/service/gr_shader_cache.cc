@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrShaderCache implementation
+// summary: Implements the Skia persistent shader cache, storing and loading shader binaries with LRU eviction, disk writes, and memory pressure limits.
+// ---
+
 #include "gpu/command_buffer/service/gr_shader_cache.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory GPU shader program cache interface
+// summary: Declares MemoryProgramCache, a ProgramCache that stores compiled shader program binaries entirely in memory and reacts to memory pressure limits.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MEMORY_PROGRAM_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MEMORY_PROGRAM_CACHE_H_
 

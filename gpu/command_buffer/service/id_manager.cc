@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 client-service ID manager implementation
+// summary: Implements mapping between GLES2 client ids and service ids for shared GPU resources.
+// ---
+
 #include "gpu/command_buffer/service/id_manager.h"
 #include "base/check.h"
 

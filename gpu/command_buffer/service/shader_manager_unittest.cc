@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the shader manager
+// summary: Tests shader creation, lookup, deletion, destruction, ownership, and compilation behavior of the GLES2 shader manager against mocked GL.
+// ---
+
 #include "gpu/command_buffer/service/shader_manager.h"
 
 #include "gpu/command_buffer/service/gpu_service_test.h"

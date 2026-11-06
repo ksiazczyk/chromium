@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphiteCacheController implementation
+// summary: Implements idle-driven cleanup of Skia Graphite recorder and shared context resources, using a global idle id shared across GPU threads.
+// ---
+
 #include "gpu/command_buffer/service/graphite_cache_controller.h"
 
 #include <atomic>

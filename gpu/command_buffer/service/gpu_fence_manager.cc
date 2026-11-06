@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU fence manager implementation
+// summary: Implements GpuFenceManager, creating, validating, waiting on and removing GPU fence entries backed by GL fences or fence handles.
+// ---
+
 #include "gpu/command_buffer/service/gpu_fence_manager.h"
 
 #include <memory>

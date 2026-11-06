@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU persistent cache implementation
+// summary: Implements GpuPersistentCache, wiring a persistent disk cache into GL blob cache callbacks for Dawn, Skia and ANGLE with metrics, tracing and async writes.
+// ---
+
 #include "gpu/command_buffer/service/gpu_persistent_cache.h"
 
 #include <optional>

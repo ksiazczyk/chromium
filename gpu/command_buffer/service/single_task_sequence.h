@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleTaskSequence interface
+// summary: Declares the SingleTaskSequence interface for running posted tasks in order with sync token dependencies, yielding, and sync point client state creation.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SINGLE_TASK_SEQUENCE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SINGLE_TASK_SEQUENCE_H_
 

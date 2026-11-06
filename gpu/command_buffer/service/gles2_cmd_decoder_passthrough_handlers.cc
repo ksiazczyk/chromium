@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough decoder custom command handlers
+// summary: Implements custom command handlers for the passthrough GLES2 decoder, including validation of texture image data in shared memory.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder_passthrough.h"
 
 #include "gpu/command_buffer/common/discardable_handle.h"

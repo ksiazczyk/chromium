@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgramManager implementation
+// summary: Implements the GLES2 program manager that tracks shaders and programs, handles linking, uniform and varying metadata, and interaction with the program cache.
+// ---
+
 #include "gpu/command_buffer/service/program_manager.h"
 
 #include <stddef.h>

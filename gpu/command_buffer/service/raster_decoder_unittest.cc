@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster decoder unit tests
+// summary: Unit tests for the raster decoder covering queries, mailbox copies, and raster commands with mocked GL and shared image factories.
+// ---
+
 #include "gpu/command_buffer/service/raster_decoder.h"
 
 #include <limits>

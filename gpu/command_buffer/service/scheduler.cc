@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU Scheduler implementation
+// summary: Implements the GPU command buffer scheduler that orders tasks across sequences by priority and sync token fences, with Perfetto tracing support.
+// ---
+
 #include "gpu/command_buffer/service/scheduler.h"
 
 #include <algorithm>

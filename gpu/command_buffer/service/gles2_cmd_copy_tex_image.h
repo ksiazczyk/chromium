@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 copy tex image resource manager declaration
+// summary: Declares CopyTexImageResourceManager, which provides the blit resources required to implement glCopyTexImage and glCopyTexSubImage commands.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_COPY_TEX_IMAGE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_COPY_TEX_IMAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferManager and Buffer class declarations
+// summary: Declares the GLES2 buffer manager and Buffer class with range validation and transform feedback binding tracking.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_BUFFER_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_BUFFER_MANAGER_H_
 

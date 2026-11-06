@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer buffer manager implementation
+// summary: Implements TransferBufferManager, which registers, destroys and looks up transfer buffers by ID while tracking allocated shared memory and reporting memory dumps.
+// ---
+
 #include "gpu/command_buffer/service/transfer_buffer_manager.h"
 
 #include <stdint.h>

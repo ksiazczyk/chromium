@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process Vulkan context provider unit tests
+// summary: Tests that memory pressure signals adjust the sync CPU memory limit of the Vulkan in-process context provider, including stateful and cooldown modes.
+// ---
+
 #include "gpu/command_buffer/service/vulkan_in_process_context_provider.h"
 
 #include "base/functional/callback_helpers.h"

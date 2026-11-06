@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock texture owner implementation
+// summary: Implements default gmock behavior for MockTextureOwner, returning success for UpdateTexImage and running buffer-available callbacks immediately.
+// ---
+
 #include "gpu/command_buffer/service/mock_texture_owner.h"
 
 namespace gpu {

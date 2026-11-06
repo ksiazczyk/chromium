@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common command buffer decoder base class
+// summary: Declares CommonDecoder, a helper base class for command buffer decoders, including the Bucket mechanism for transferring data and strings across shared memory.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_COMMON_DECODER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_COMMON_DECODER_H_
 

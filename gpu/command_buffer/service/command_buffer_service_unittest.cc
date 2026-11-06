@@ -4,6 +4,12 @@
 
 // Tests for the command parser.
 
+// ---docerion
+// type: test
+// title: CommandBufferService unit tests
+// summary: GTest fixture and tests for the command parser, exercising initialization, empty and simple commands, and error handling of CommandBufferService.
+// ---
+
 #include "gpu/command_buffer/service/command_buffer_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDrawManager class declaration
+// summary: Declares the MultiDrawManager class that batches and validates multi-draw GLES2 calls for arrays and elements variants, including its ResultData structure and index storage options.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MULTI_DRAW_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MULTI_DRAW_MANAGER_H_
 

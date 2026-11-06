@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn platform class declaration
+// summary: Declares DawnPlatform, a dawn::platform::Platform implementation providing histograms, caching interface access, worker task pools and progress reporting.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DAWN_PLATFORM_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DAWN_PLATFORM_H_
 

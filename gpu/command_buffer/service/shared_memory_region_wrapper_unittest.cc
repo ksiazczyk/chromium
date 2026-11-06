@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedMemoryRegionWrapper unit tests
+// summary: Unit tests verifying SharedMemoryRegionWrapper initialization for single and multi-plane formats, plane memory offsets, and rejection of undersized or mismatched buffers.
+// ---
+
 #include "gpu/command_buffer/service/shared_memory_region_wrapper.h"
 
 #include "components/viz/common/resources/shared_image_format_utils.h"

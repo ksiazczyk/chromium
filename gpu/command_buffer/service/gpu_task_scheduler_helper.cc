@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuTaskSchedulerHelper implementation
+// summary: Implements GpuTaskSchedulerHelper, which schedules GPU tasks on a task sequence and flushes the command buffer when sharing with command buffer users.
+// ---
+
 #include "gpu/command_buffer/service/gpu_task_scheduler_helper.h"
 
 #include "gpu/command_buffer/client/cmd_buffer_helper.h"

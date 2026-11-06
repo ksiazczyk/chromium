@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphiteImageProvider implementation
+// summary: Implements an LRU-cached image provider that creates Graphite-backed SkImages and purges images by size and last-use time.
+// ---
+
 #include "gpu/command_buffer/service/graphite_image_provider.h"
 #include "base/metrics/histogram_macros.h"
 #include "third_party/skia/include/gpu/graphite/Image.h"

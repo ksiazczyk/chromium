@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageReaderGLOwner unit tests
+// summary: Unit tests for ImageReaderGLOwner covering object creation, Java surface creation and destruction while a different GL context is current.
+// ---
+
 #include "gpu/command_buffer/service/image_reader_gl_owner.h"
 
 #include <stdint.h>

@@ -4,6 +4,12 @@
 
 // This file contains the Logger class.
 
+// ---docerion
+// type: source
+// title: Logger class declaration
+// summary: Declares the Logger class that limits and forwards GL error log messages via a callback, with options to disable the error limit and suppress performance logs.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_LOGGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_LOGGER_H_
 

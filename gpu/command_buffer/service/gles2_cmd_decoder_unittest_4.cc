@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder unit tests, part 4
+// summary: Fourth part of the GLES2 decoder unit tests that pulls in generated test cases from an autogen header.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder.h"
 
 #include <stdint.h>

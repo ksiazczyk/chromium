@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU persistent cache unit tests
+// summary: Unit tests for GpuPersistentCache covering store and load behavior, the Skia, ANGLE and Dawn caching interfaces, and multi-threaded use.
+// ---
+
 #include "gpu/command_buffer/service/gpu_persistent_cache.h"
 
 #include "base/barrier_closure.h"

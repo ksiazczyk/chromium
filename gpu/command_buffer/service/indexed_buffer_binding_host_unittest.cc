@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedBufferBindingHost unit tests
+// summary: Unit tests verifying indexed buffer binding behavior for uniform and transform feedback targets, including range clamping, buffer size changes and buffer removal.
+// ---
+
 #include "gpu/command_buffer/service/buffer_manager.h"
 #include "gpu/command_buffer/service/gpu_service_test.h"
 #include "gpu/command_buffer/service/indexed_buffer_binding_host.h"

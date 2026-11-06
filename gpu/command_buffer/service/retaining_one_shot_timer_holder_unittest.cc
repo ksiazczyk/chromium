@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RetainingOneShotTimerHolder unit tests
+// summary: Tests the timer holder's reset and destroy behavior for same-thread and multi-thread usage using mock time and a thread pool.
+// ---
+
 #include "gpu/command_buffer/service/retaining_one_shot_timer_holder.h"
 
 #include "base/check.h"

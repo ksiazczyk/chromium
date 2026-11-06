@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 query manager implementation
+// summary: Implements service-side GLES2 query types such as integer and boolean queries on top of the query manager for the GPU command buffer.
+// ---
+
 #include "gpu/command_buffer/service/gles2_query_manager.h"
 
 #include <stddef.h>

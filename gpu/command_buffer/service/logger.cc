@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logger implementation for GL error logging
+// summary: Implements the GLES2 Logger that logs synthesized GL errors with debug marker prefixes, enforcing a message limit unless disabled by a command-line switch.
+// ---
+
 #include "gpu/command_buffer/service/logger.h"
 
 #include <inttypes.h>

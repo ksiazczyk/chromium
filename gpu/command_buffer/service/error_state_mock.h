@@ -4,6 +4,12 @@
 
 // This file contains the mock ErrorState class.
 
+// ---docerion
+// type: test
+// title: MockErrorState gmock class declaration
+// summary: Declares MockErrorState, a gmock subclass of ErrorState that mocks the GL error methods for use in service unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_ERROR_STATE_MOCK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_ERROR_STATE_MOCK_H_
 

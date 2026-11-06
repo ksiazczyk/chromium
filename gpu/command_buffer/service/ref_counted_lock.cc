@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedLock implementation
+// summary: Implements the reference-counted lock and its DrDc helper used for thread-safe Android media GPU access.
+// ---
+
 #include "gpu/command_buffer/service/ref_counted_lock.h"
 
 #include "gpu/config/gpu_finch_features.h"

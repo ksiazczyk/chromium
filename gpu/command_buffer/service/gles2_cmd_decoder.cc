@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 command decoder implementation
+// summary: Implements the GLES2Decoder that translates GLES2 command buffer commands into GL calls, the core service-side decoder of the GPU command buffer.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder.h"
 
 #include <limits.h>

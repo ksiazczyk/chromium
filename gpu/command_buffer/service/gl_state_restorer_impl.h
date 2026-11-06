@@ -4,6 +4,12 @@
 
 // This file contains the GLStateRestorerImpl class.
 
+// ---docerion
+// type: source
+// title: GL state restorer class declaration
+// summary: Declares GLStateRestorerImpl, a gl::GLStateRestorer that forwards restore and query pause calls to a GLContextVirtualDelegate.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GL_STATE_RESTORER_IMPL_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GL_STATE_RESTORER_IMPL_H_
 

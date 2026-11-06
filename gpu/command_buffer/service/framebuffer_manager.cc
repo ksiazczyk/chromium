@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebufferManager implementation for framebuffer objects
+// summary: Implements framebuffer and attachment management, covering renderbuffer and texture attachments, clearing of uncleared attachments and completeness handling.
+// ---
+
 #include "gpu/command_buffer/service/framebuffer_manager.h"
 
 #include <stddef.h>

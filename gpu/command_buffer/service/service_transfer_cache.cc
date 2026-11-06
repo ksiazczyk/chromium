@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceTransferCache implementation
+// summary: Implements the GPU process transfer cache with size and entry count limits, memory pressure eviction, old entry pruning, and memory dump reporting.
+// ---
+
 #include "gpu/command_buffer/service/service_transfer_cache.h"
 
 #include <inttypes.h>

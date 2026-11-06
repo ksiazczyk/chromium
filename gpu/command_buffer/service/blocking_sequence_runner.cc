@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of BlockingSequenceRunner
+// summary: Implements a scheduler sequence whose tasks run blockingly, waiting on sync token fences until the sequence is empty.
+// ---
+
 #include "gpu/command_buffer/service/blocking_sequence_runner.h"
 
 #include "base/synchronization/lock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetainingOneShotTimerHolder class declaration
+// summary: Declares a ref-counted, thread-safe wrapper around a RetainingOneShotTimer with controlled timer resets and race-free timer destruction.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_RETAINING_ONE_SHOT_TIMER_HOLDER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_RETAINING_ONE_SHOT_TIMER_HOLDER_H_
 

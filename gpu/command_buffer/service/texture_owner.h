@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureOwner class declaration
+// summary: Declares the TextureOwner interface that owns a GL or Vulkan texture for Android media surfaces, with modes for AImageReader and hardware-protected video.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_TEXTURE_OWNER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_TEXTURE_OWNER_H_
 

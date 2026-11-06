@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used by gpu/command_buffer/service/.
 
+// ---docerion
+// type: source
+// title: GPU command buffer service switch declarations
+// summary: Declares the command-line switch constants used by the GPU command buffer service, including Vulkan and shader debugging flags.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_SWITCHES_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GPU_SWITCHES_H_
 

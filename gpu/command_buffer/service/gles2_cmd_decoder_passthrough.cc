@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 passthrough decoder implementation
+// summary: Implements GLES2DecoderPassthroughImpl, the service-side GLES2 command decoder that forwards GL commands to the native driver.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder_passthrough.h"
 
 #include <algorithm>

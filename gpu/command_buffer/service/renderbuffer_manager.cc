@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderbuffer manager implementation
+// summary: Implements Renderbuffer and RenderbufferManager, tracking renderbuffer state, allocation, clearing and memory dumps.
+// ---
+
 #include "gpu/command_buffer/service/renderbuffer_manager.h"
 
 #include <stddef.h>

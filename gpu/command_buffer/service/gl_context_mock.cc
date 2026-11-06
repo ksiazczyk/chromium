@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLContextMock test helper implementation
+// summary: Provides the constructor and destructor for the GLContextMock stub used by GPU service unit tests.
+// ---
+
 #include "gpu/command_buffer/service/gl_context_mock.h"
 
 namespace gpu {

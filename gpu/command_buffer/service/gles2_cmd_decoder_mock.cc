@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GLES2 decoder implementation
+// summary: Implements MockGLES2Decoder, a gmock test double for the GLES2 decoder with default MakeCurrent behavior.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder_mock.h"
 
 #include "gpu/command_buffer/common/context_creation_attribs.h"

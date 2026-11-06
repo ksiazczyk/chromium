@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebufferCompletenessCache implementation
+// summary: Implements a cache that stores framebuffer format signatures reported as complete by the GL driver and answers completeness queries.
+// ---
+
 #include "gpu/command_buffer/service/framebuffer_completeness_cache.h"
 
 

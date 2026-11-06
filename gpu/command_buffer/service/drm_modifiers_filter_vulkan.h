@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan DRM modifiers filter header
+// summary: Declares DrmModifiersFilterVulkan and a helper that populates the map of fourcc formats to modifiers supported for Vulkan import.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DRM_MODIFIERS_FILTER_VULKAN_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DRM_MODIFIERS_FILTER_VULKAN_H_
 

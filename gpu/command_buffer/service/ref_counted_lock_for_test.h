@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RefCountedLockForTest header
+// summary: Declares RefCountedLockForTest, a test double of RefCountedLock without a real lock.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_REF_COUNTED_LOCK_FOR_TEST_H_
 #define GPU_COMMAND_BUFFER_SERVICE_REF_COUNTED_LOCK_FOR_TEST_H_
 

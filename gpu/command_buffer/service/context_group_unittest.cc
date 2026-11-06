@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContextGroup initialization
+// summary: Unit tests verifying ContextGroup starts uninitialized and that initialization sets limits and creates the expected resource managers.
+// ---
+
 #include "gpu/command_buffer/service/context_group.h"
 
 #include <stdint.h>

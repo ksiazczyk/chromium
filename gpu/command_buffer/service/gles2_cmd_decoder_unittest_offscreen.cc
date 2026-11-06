@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder offscreen initialization unit tests
+// summary: Unit tests for GLES2DecoderImpl initialized in offscreen mode, using a NiceMock GL interface with default expectations instead of the shared strict fixture.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

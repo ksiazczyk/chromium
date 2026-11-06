@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureInfo implementation for GLES2 feature detection
+// summary: Implements detection of available GL extensions and features for a context group, including WebGL capability probes, framebuffer binding overrides and driver workarounds.
+// ---
+
 #include "gpu/command_buffer/service/feature_info.h"
 
 #include <stddef.h>

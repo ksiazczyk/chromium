@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingSequenceRunner class declaration
+// summary: Declares a runner that owns a TaskGraph sequence and supports blocking execution of its tasks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_BLOCKING_SEQUENCE_RUNNER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_BLOCKING_SEQUENCE_RUNNER_H_
 

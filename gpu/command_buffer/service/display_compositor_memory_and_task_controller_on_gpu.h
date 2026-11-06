@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display compositor GPU-side controller header
+// summary: Declares DisplayCompositorMemoryAndTaskControllerOnGpu, which owns GPU-thread data structures in a 1:1 relationship with the display compositor.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DISPLAY_COMPOSITOR_MEMORY_AND_TASK_CONTROLLER_ON_GPU_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DISPLAY_COMPOSITOR_MEMORY_AND_TASK_CONTROLLER_ON_GPU_H_
 

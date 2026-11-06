@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU tracer implementation
+// summary: Implements GPU tracing with TraceOutputter and GPUTrace classes that emit device and service trace events using GPU timing queries.
+// ---
+
 
 #include "gpu/command_buffer/service/gpu_tracer.h"
 

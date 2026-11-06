@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture manager class declarations
+// summary: Declares TexturePassthrough, Texture and TextureManager classes that wrap GL textures and manage texture metadata, references and sampler state in the GLES2 service.
+// ---
+
 
 #ifndef GPU_COMMAND_BUFFER_SERVICE_TEXTURE_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_TEXTURE_MANAGER_H_

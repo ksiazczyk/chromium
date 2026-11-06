@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FramebufferManager
+// summary: Unit tests covering framebuffer creation, deletion, attachments and clearing behavior in FramebufferManager using mocked GL and test managers.
+// ---
+
 
 #include "gpu/command_buffer/service/framebuffer_manager.h"
 

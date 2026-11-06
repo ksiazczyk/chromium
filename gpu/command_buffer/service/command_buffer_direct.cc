@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferDirect implementation
+// summary: Implements a synchronous in-process command buffer that forwards flushes, transfer buffer management and state queries to a CommandBufferService.
+// ---
+
 #include "gpu/command_buffer/service/command_buffer_direct.h"
 
 #include "base/functional/bind.h"

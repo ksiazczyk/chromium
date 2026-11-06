@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL utility functions for the GLES2 service
+// summary: Implements GL helpers including shader precision queries, compressed texture size validation for formats such as ASTC and S3TC, and capability population.
+// ---
+
 #include "gpu/command_buffer/service/gl_utils.h"
 
 #include <algorithm>

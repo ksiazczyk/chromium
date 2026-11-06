@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 copy tex image resource manager implementation
+// summary: Implements CopyTexImageResourceManager, a blit program with scratch textures that supports glCopyTexImage commands needing luminance-alpha emulation.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_copy_tex_image.h"
 
 #include <string>

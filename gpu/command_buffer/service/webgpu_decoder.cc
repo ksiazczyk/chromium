@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU decoder creation
+// summary: Creates the WebGPUDecoder, delegating to the Dawn-based implementation when Dawn is enabled and defining the base class constructor and destructor.
+// ---
+
 #include "gpu/command_buffer/service/webgpu_decoder.h"
 
 #include "gpu/command_buffer/service/shared_context_state.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader translator cache implementation
+// summary: Caches ShaderTranslator instances keyed by their initialization parameters and removes entries when translators are destroyed.
+// ---
+
 #include "gpu/command_buffer/service/shader_translator_cache.h"
 
 namespace gpu {

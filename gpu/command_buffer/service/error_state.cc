@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorState implementation for GL error tracking
+// summary: Implements ErrorStateImpl, which synthesizes, stores and clears GL errors, handles context loss and out-of-memory reporting through a client and logger.
+// ---
+
 #include "gpu/command_buffer/service/error_state.h"
 
 #include <stdint.h>

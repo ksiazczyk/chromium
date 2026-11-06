@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGISharedHandleManager and DXGISharedHandleState declarations
+// summary: Declares a manager that caches DXGI shared handle state keyed by token, holding D3D11 textures, keyed mutexes and Dawn shared texture memory for GPU memory buffers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DXGI_SHARED_HANDLE_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DXGI_SHARED_HANDLE_MANAGER_H_
 

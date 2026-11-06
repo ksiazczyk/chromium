@@ -4,6 +4,12 @@
 
 // This file contains the GLES2Decoder class.
 
+// ---docerion
+// type: source
+// title: GLES2 command decoder declaration
+// summary: Declares the GLES2Decoder class and DisallowedFeatures struct for decoding GLES2 commands and calling GL.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_H_
 

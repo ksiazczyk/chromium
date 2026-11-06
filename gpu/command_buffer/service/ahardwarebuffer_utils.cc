@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android hardware buffer to Vulkan and EGL image conversion utilities
+// summary: Implements creating Vulkan images and EGL images from Android AHardwareBuffer handles in the gpu namespace.
+// ---
+
 #include "gpu/command_buffer/service/ahardwarebuffer_utils.h"
 
 #include <android/hardware_buffer.h>

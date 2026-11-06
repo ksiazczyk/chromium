@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service utilities for the GPU command buffer decoder
+// summary: Declares helpers that generate GL context attribs, parse GPU preferences and GrContext type from the command line, and scale shader cache size under memory pressure or limits.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SERVICE_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SERVICE_UTILS_H_
 

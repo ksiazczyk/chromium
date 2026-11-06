@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn DRM modifiers filter implementation
+// summary: Queries a Dawn adapter for supported DRM format modifiers, blocklists multi-plane modifiers Dawn cannot import, and populates fourcc modifier maps for shared images.
+// ---
+
 #include "gpu/command_buffer/service/drm_modifiers_filter_dawn.h"
 
 #include <algorithm>

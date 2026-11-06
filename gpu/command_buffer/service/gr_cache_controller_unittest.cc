@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GrCacheController unit tests
+// summary: Unit tests verifying that the GrContext cache is purged after idle delays and that pending purges are reset when the context is reused.
+// ---
+
 #include "gpu/command_buffer/service/gr_cache_controller.h"
 
 #include "base/functional/callback_helpers.h"

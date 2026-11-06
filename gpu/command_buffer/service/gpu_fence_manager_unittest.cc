@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU fence manager unit tests
+// summary: Unit tests for GpuFenceManager covering fence creation, fence handles, server waits and destruction using mocked EGL.
+// ---
+
 #include "gpu/command_buffer/service/gpu_fence_manager.h"
 
 #include <memory>

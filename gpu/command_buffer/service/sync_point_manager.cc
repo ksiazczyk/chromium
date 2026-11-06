@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync point manager implementation
+// summary: Implements sync point ordering and fence release tracking for GPU command buffer synchronization, including order data processing and client state lifecycle.
+// ---
+
 #include "gpu/command_buffer/service/sync_point_manager.h"
 
 #include <limits.h>

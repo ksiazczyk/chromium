@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock texture owner for tests
+// summary: Declares a gmock mock of TextureOwner with a small amount of fake functionality, used in GPU service tests on Android.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MOCK_TEXTURE_OWNER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MOCK_TEXTURE_OWNER_H_
 

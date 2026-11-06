@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLContextMock class declaration
+// summary: Declares a mock GL context derived from GLContextStub with a mocked MakeCurrentImpl for use in GPU service tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GL_CONTEXT_MOCK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GL_CONTEXT_MOCK_H_
 

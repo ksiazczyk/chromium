@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskGraph unit tests
+// summary: Unit tests for the GPU service TaskGraph, covering sequence creation, sync token waits and releases, and task execution with sync point graph validation enabled.
+// ---
+
 #include "gpu/command_buffer/service/task_graph.h"
 
 #include <map>

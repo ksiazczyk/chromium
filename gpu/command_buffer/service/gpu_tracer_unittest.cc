@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPUTracer unit tests
+// summary: Unit tests for GPUTracer covering trace markers, outputter callbacks and GPU timing query behavior with mock GL bindings.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

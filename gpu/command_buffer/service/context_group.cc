@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextGroup implementation for shared GLES2 contexts
+// summary: Implements ContextGroup, which initializes and manages resource managers and capability limits for GLES2 decoder contexts that share resources.
+// ---
+
 #include "gpu/command_buffer/service/context_group.h"
 
 #include <stddef.h>

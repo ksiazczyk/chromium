@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn instance declarations with safety levels
+// summary: Declares the DawnInstance subclass of dawn::native::Instance and the SafetyLevel enum controlling which WebGPU features may be exposed.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DAWN_INSTANCE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DAWN_INSTANCE_H_
 

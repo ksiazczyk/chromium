@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader translator interface and implementation declarations
+// summary: Declares the ShaderTranslatorInterface and the ANGLE-backed ShaderTranslator for translating GLSL ES shaders and reporting options that affect compilation.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHADER_TRANSLATOR_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHADER_TRANSLATOR_H_
 

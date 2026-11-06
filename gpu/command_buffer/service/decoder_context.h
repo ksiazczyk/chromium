@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderContext abstract interface
+// summary: Abstract interface implemented by Raster and GLES2 decoders, exposing context, query, fence, and idle-work methods required by CommandBufferStub and video decoders.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DECODER_CONTEXT_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DECODER_CONTEXT_H_
 

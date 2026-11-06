@@ -4,6 +4,12 @@
 
 // This file contains the command parser class.
 
+// ---docerion
+// type: source
+// title: AsyncAPIInterface for asynchronous GPU command processing
+// summary: Defines the interface for asynchronous API handlers that demultiplex and execute command buffer commands.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_ASYNC_API_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_ASYNC_API_INTERFACE_H_
 

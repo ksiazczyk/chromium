@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeatureInfo feature detection
+// summary: Unit tests verifying FeatureInfo extension and feature detection across mocked GL versions, renderers, disallowed features and driver workarounds.
+// ---
+
 #include "gpu/command_buffer/service/feature_info.h"
 
 #include <stddef.h>

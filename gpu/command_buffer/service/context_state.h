@@ -4,6 +4,12 @@
 
 // This file contains the ContextState class.
 
+// ---docerion
+// type: source
+// title: ContextState class tracking GLES2 GL state
+// summary: Declares ContextState and TextureUnit, which track bound textures, buffers, and other GL state for GLES2 decoder contexts.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_CONTEXT_STATE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_CONTEXT_STATE_H_
 

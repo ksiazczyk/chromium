@@ -4,6 +4,12 @@
 
 // Contains the definition of ValueValidator for the uses in *_cmd_validation.h
 
+// ---docerion
+// type: source
+// title: ValueValidator template definition
+// summary: Defines a ValueValidator template that stores valid values and checks membership, used by command validation headers in the GPU service.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_VALUE_VALIDATOR_H_
 #define GPU_COMMAND_BUFFER_SERVICE_VALUE_VALIDATOR_H_
 

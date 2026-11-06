@@ -4,6 +4,12 @@
 
 // Contains various validation functions for the Raster service.
 
+// ---docerion
+// type: source
+// title: Raster command validation implementation
+// summary: Implements validation functions for raster service commands by including the generated validation tables.
+// ---
+
 #include "gpu/command_buffer/service/raster_cmd_validation.h"
 
 #include <algorithm>

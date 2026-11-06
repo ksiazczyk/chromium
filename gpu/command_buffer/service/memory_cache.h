@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe LRU memory cache for the GPU command buffer service
+// summary: Declares MemoryCache and MemoryCacheEntry, a thread-safe LRU key/value cache with size limits, eviction, memory-coordinator hooks and memory dump support.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MEMORY_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MEMORY_CACHE_H_
 

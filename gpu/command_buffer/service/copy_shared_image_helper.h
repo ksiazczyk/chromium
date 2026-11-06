@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopySharedImageHelper for shared image copy and readback
+// summary: Declares a helper class shared by raster and GL passthrough decoders for copying shared images, reading pixels back, and writing YUV pixels into shared images.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_COPY_SHARED_IMAGE_HELPER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_COPY_SHARED_IMAGE_HELPER_H_
 

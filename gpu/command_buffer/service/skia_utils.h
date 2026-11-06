@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GPU utilities declarations
+// summary: Declares helpers for Skia GPU integration such as context options, GL backend texture format handling, and cleanup tasks for flushes and Graphite recordings.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SKIA_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SKIA_UTILS_H_
 

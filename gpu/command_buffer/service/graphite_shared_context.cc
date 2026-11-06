@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphite shared context implementation
+// summary: Implements a thread-safe wrapper around Skia's Graphite Context with recording submission, semaphores, and UMA metrics for the GPU service.
+// ---
+
 #include "gpu/command_buffer/service/graphite_shared_context.h"
 
 #include <algorithm>
