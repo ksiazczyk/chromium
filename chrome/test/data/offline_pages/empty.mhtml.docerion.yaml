@@ -1,0 +1,4 @@
+# Docerion header of empty.mhtml.
+type: test
+title: Empty MHTML test file
+summary: Zero-byte MHTML file used as a test fixture for offline pages handling of empty archives.

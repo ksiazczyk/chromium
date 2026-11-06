@@ -1,0 +1,4 @@
+# Docerion header of amp.html.
+type: test
+title: AMP test page
+summary: Minimal AMP-format test page that loads a slow first-layout script to reduce flakiness in text dump browser tests.

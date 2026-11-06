@@ -1,0 +1,4 @@
+# Docerion header of video-with-metadata.html.
+type: test
+title: Test page showing a video with media session actions and metadata
+summary: Browser test page that plays a video with Big Buck Bunny Media Session metadata, action handlers, and functions to enable or disable picture-in-picture.

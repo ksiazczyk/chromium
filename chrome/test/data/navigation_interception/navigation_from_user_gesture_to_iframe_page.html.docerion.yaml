@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_user_gesture_to_iframe_page.html.
+type: test
+title: Navigation from user gesture to iframe page
+summary: Page that navigates to the iframe container page in response to a click user gesture.

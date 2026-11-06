@@ -1,0 +1,4 @@
+# Docerion header of engagement_test.html.
+type: test
+title: Media Engagement Test
+summary: Test page with an autoplaying video element that loads the shared engagement test helper script.

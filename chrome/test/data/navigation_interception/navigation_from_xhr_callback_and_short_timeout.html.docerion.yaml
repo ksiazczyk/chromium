@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback_and_short_timeout.html.
+type: test
+title: Navigation from XHR callback with short timeout test page
+summary: Test HTML page that navigates to hello.html via an XHR callback followed by a 100 ms setTimeout after a user click.

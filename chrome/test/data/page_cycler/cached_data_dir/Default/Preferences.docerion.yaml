@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Preferences data for cached Chrome test profile
+summary: Chrome profile preferences file with browser settings, default search provider and DNS prefetching host data for the page cycler cached profile test.

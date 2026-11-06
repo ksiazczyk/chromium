@@ -1,0 +1,4 @@
+# Docerion header of window-size.html.
+type: test
+title: Picture-in-Picture window size test page
+summary: Test page verifying Picture-in-Picture window sizing, resize and visibility events, and video source changes including media streams.

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Yahoo search plugin using POST
+summary: Firefox-derived Yahoo search plugin fixture that submits the search query via POST, used as test data for search engine handling.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Yahoo</ShortName>
 <Description>Yahoo Search</Description>

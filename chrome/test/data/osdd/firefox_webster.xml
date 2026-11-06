@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Webster search plugin with prefixed OpenSearch elements
+summary: Firefox-derived Webster dictionary search plugin fixture using os-prefixed OpenSearch elements, used in search engine tests.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
 <os:ShortName>Webster</os:ShortName>
 <os:Description>The Webster Dictionary</os:Description>

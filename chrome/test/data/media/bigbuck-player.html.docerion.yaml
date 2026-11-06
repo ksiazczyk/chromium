@@ -1,0 +1,4 @@
+# Docerion header of bigbuck-player.html.
+type: test
+title: Big Buck video player test page
+summary: Test page with a bigbuck.webm video, a fullscreen button and an iframe for exercising media playback and fullscreen behavior.

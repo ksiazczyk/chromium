@@ -1,0 +1,4 @@
+# Docerion header of japanese.txt.
+type: test
+title: Japanese OCR expected text
+summary: Expected OCR result for the Japanese sample image, containing the recognized phrase and its confidence score.

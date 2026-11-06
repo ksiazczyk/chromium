@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_muted.html.
+type: test
+title: Media Engagement test page with muted autoplaying video
+summary: Test page with a muted autoplaying video used to check media engagement behavior for muted playback.

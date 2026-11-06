@@ -1,0 +1,4 @@
+# Docerion header of iframe_with_external_navigation.html.
+type: test
+title: Iframe page with external navigation
+summary: Iframe content page that redirects to a market URL via a short timer after load.

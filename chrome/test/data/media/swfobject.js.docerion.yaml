@@ -1,0 +1,4 @@
+# Docerion header of swfobject.js.
+type: script
+title: SWFObject v2.2 Flash embedding library
+summary: Vendored SWFObject v2.2 JavaScript library under the MIT license for embedding Flash content, used as a helper in media tests.

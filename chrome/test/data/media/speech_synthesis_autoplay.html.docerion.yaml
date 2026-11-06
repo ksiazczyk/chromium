@@ -1,0 +1,4 @@
+# Docerion header of speech_synthesis_autoplay.html.
+type: test
+title: Speech synthesis autoplay test page
+summary: Test page that speaks an utterance to check speech synthesis without a user gesture when explicitly allowed by content settings.

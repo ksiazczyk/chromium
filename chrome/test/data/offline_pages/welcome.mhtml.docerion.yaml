@@ -1,0 +1,4 @@
+# Docerion header of welcome.mhtml.
+type: test
+title: Welcome MHTML test fixture
+summary: MHTML archive containing a simple Welcome HTML page from example.com, used as test data for offline pages.

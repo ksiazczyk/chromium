@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Dictionary.com OpenSearch description test data
+summary: OpenSearch description fixture for Dictionary.com with an HTTP search URL template, used in Chromium search engine tests.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Dictionary.com</ShortName>
 <Description>Look it up at Dictionary.com</Description>

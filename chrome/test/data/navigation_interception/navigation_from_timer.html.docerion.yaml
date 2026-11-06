@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_timer.html.
+type: test
+title: Navigation from timer
+summary: Page that navigates to hello.html after a two-second timer without any user gesture.

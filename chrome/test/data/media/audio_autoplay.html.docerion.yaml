@@ -1,0 +1,4 @@
+# Docerion header of audio_autoplay.html.
+type: test
+title: Audio autoplay test page
+summary: Test page that plays a WAV audio file to check audio playback without a user gesture when explicitly allowed by content settings.

@@ -1,0 +1,4 @@
+# Docerion header of autopip-toggle-registration.html.
+type: test
+title: Auto PiP registration toggle test page
+summary: Test page exposing functions to register and unregister the enterpictureinpicture media session action handler.

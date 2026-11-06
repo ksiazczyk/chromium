@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Wikipedia OpenSearch description test data
+summary: OpenSearch description for English Wikipedia with several input encodings, including an invalid one, used as test data for search engine parsing.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Wikipedia (English)</ShortName>
 <Description>Wikipedia (English)</Description>

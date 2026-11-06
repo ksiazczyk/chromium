@@ -1,0 +1,4 @@
+# Docerion header of autopip-delay.html.
+type: test
+title: Auto PiP on a delay test page
+summary: Test page that opens document or video picture-in-picture after a short delay while staying within the user gesture window.

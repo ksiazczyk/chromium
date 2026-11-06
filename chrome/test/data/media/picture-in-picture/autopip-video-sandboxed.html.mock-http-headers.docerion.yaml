@@ -1,0 +1,4 @@
+# Docerion header of autopip-video-sandboxed.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the sandboxed auto PiP page
+summary: Mock HTTP response headers that serve the sandboxed auto PiP page with a Content-Security-Policy sandbox allow-scripts directive.

@@ -1,0 +1,4 @@
+# Docerion header of documen_picture_in_picture_pixel_test.html.
+type: test
+title: Document picture-in-picture pixel test page
+summary: Test page that opens a document picture-in-picture window of a given size for use in pixel tests.

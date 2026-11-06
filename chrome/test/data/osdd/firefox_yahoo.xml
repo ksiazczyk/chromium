@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Yahoo search plugin with suggestions URL
+summary: Firefox-derived Yahoo search plugin fixture with a JSON suggestions URL and a MozParam, used as search engine test data.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Yahoo</ShortName>
 <Description>Yahoo Search</Description>

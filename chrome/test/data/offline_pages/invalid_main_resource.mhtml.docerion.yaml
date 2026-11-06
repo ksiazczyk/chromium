@@ -1,0 +1,4 @@
+# Docerion header of invalid_main_resource.mhtml.
+type: test
+title: MHTML fixture with invalid main resource
+summary: MHTML archive whose main resource is typed as JavaScript instead of HTML, for testing invalid main resource handling.

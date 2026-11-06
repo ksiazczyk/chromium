@@ -1,0 +1,4 @@
+# Docerion header of bad_format.pb.
+type: test
+title: Malformed protobuf test fixture
+summary: Invalid protobuf file copied to the build output as test data for the media engagement preload list.

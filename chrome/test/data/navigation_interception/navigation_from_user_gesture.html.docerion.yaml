@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_user_gesture.html.
+type: test
+title: Navigation from user gesture
+summary: Page that navigates to hello.html in response to a click user gesture.

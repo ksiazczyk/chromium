@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello test page
+summary: Simple hello test page that loads a slow first-layout script to give text dump requests time to reach the renderer.

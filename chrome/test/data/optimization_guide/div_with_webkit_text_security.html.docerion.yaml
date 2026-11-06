@@ -1,0 +1,4 @@
+# Docerion header of div_with_webkit_text_security.html.
+type: test
+title: Text security div test page
+summary: Test page with a fixed-position div using -webkit-text-security to render its text as discs, for redaction or masking tests.

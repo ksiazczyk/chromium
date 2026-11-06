@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: test
+title: MSDN OpenSearch description test data
+summary: Full OpenSearch description fixture for MSDN search with HTML, RSS and Atom URL types plus complete metadata, used in search tests.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
     <ShortName>Search &quot; MSDN</ShortName>
     <Description>Search MSDN with Windows Live</Description>

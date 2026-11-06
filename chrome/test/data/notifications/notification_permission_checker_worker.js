@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for notification permission checks
+// summary: Service worker that answers notification and push permission queries from test pages over a message port.
+// ---
+
 // Service Worker to be used with the platform_notification_service.html page.
 var messagePort = null;
 

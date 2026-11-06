@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_prerender.html.
+type: test
+title: Navigation from prerender
+summary: Page that prerenders hello.html via speculation rules and reloads on click to gain a user gesture.

@@ -1,0 +1,4 @@
+# Docerion header of player_metadata_poster.html.
+type: test
+title: Picture-in-Picture player metadata poster test page
+summary: Minimal test page with a poster image and a preload=metadata video that requests Picture-in-Picture.

@@ -1,0 +1,4 @@
+# Docerion header of otp_redaction.html.
+type: test
+title: OTP redaction test page
+summary: Test page with a visible one-time-code input holding 123456, providing a clear redaction box for OTP redaction tests.

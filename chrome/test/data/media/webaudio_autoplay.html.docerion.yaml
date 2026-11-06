@@ -1,0 +1,4 @@
+# Docerion header of webaudio_autoplay.html.
+type: test
+title: WebAudio autoplay test page
+summary: Test page that creates an AudioContext and verifies whether WebAudio playback runs or stays suspended without a user gesture, depending on content settings.

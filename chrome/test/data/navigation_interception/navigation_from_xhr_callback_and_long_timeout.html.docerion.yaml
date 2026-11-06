@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback_and_long_timeout.html.
+type: test
+title: Navigation from XHR callback and long timeout
+summary: Page that navigates to hello.html from an XHR callback followed by an eleven-second timeout.

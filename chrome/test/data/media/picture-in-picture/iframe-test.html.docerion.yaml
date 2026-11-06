@@ -1,0 +1,4 @@
+# Docerion header of iframe-test.html.
+type: test
+title: Picture-in-Picture iframe test page
+summary: Test page that embeds iframe-content.html or a URL-specified page in an iframe and provides Picture-in-Picture entry helpers.

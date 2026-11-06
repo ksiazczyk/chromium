@@ -1,0 +1,4 @@
+# Docerion header of video-conferencing.html.
+type: test
+title: Picture-in-Picture video conferencing test page
+summary: Test page using MediaSession handlers for microphone, camera and hang-up actions alongside Picture-in-Picture entry.

@@ -1,0 +1,4 @@
+# Docerion header of page_stability.html.
+type: test
+title: Page Stability Test Page
+summary: HTML test page with buttons that trigger fetches, busy main-thread work, endless tasks, and paints to exercise page stability browser tests.

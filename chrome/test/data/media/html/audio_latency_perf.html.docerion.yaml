@@ -1,0 +1,4 @@
+# Docerion header of audio_latency_perf.html.
+type: test
+title: Audio Loop Benchmark
+summary: Benchmark page that measures the latency of repeatedly looping a short audio clip and reports the average latency to the PyAuto test.

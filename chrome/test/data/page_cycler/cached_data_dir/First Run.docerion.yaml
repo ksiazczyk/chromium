@@ -1,0 +1,4 @@
+# Docerion header of First Run.
+type: test
+title: First Run marker file
+summary: Empty sentinel file in the cached profile directory that marks the profile as already run, suppressing Chrome's first-run experience during page cycler tests.

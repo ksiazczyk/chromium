@@ -1,0 +1,4 @@
+# Docerion header of hindi.txt.
+type: test
+title: Hindi OCR expected text
+summary: Expected OCR result for the Hindi sample image, containing the recognized proverb and its confidence score.

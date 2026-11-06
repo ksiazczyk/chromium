@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform notification service test service worker
+// summary: Service Worker used with platform_notification_service.html to handle notification click and close events, reporting actions back to the test page.
+// ---
+
 // Service Worker to be used with the platform_notification_service.html page.
 var messagePort = null;
 

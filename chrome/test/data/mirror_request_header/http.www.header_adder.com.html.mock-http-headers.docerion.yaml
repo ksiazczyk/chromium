@@ -1,0 +1,4 @@
+# Docerion header of http.www.header_adder.com.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for HTTP header_adder.com redirect
+summary: Mock response headers that answer the HTTP header_adder.com fixture with a 301 redirect to www.redirected_from_header_adder.com.

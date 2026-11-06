@@ -1,0 +1,4 @@
+# Docerion header of autopip-document.html.
+type: test
+title: Auto PiP document picture-in-picture test page
+summary: Test page that plays a video and requests a document picture-in-picture window through the enterpictureinpicture action handler.

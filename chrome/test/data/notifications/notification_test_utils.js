@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared service worker helpers for notification tests
+// summary: JavaScript utility that registers and activates a service worker and sets up a message port for the notification test pages.
+// ---
+
 var activatedServiceWorkerPromise = null;
 var messagePort = null;
 

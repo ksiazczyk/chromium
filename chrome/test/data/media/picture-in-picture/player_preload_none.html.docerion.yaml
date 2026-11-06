@@ -1,0 +1,4 @@
+# Docerion header of player_preload_none.html.
+type: test
+title: Picture-in-Picture player preload none test page
+summary: Test page with a preload=none video that plays, enters Picture-in-Picture and swaps the source to test metadata loading.

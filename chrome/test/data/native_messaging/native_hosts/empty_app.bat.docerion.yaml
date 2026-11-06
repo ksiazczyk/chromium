@@ -1,0 +1,4 @@
+# Docerion header of empty_app.bat.
+type: test
+title: Empty native messaging host batch launcher
+summary: Windows batch wrapper that starts the empty_app.py native messaging test host with Python.

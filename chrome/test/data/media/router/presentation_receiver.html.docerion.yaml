@@ -1,0 +1,4 @@
+# Docerion header of presentation_receiver.html.
+type: test
+title: Media Router integration test receiver page
+summary: Receiver page for Media Router integration tests that listens for presentation connections and replies with pong messages or closes on request.

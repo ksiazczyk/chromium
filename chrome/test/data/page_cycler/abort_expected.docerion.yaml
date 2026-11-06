@@ -1,0 +1,4 @@
+# Docerion header of abort_expected.
+type: test
+title: Page cycler expected abort message
+summary: Holds the expected output line for a page cycler run aborted by closing the browser early.

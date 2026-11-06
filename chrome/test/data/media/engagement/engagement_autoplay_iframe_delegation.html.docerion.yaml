@@ -1,0 +1,4 @@
+# Docerion header of engagement_autoplay_iframe_delegation.html.
+type: test
+title: Media Engagement Autoplay Iframe Delegation Test
+summary: Test page that embeds a subframe with autoplay permission delegation and relays frame messages into the document title.

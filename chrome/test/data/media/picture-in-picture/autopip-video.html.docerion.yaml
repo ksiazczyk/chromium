@@ -1,0 +1,4 @@
+# Docerion header of autopip-video.html.
+type: test
+title: Auto PiP video picture-in-picture test page
+summary: Test page that plays a video and requests video picture-in-picture through the enterpictureinpicture action handler.

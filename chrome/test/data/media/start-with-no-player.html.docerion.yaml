@@ -1,0 +1,4 @@
+# Docerion header of start-with-no-player.html.
+type: test
+title: On-demand player test page
+summary: Test page that starts with no player and adds a bigbuck.webm video element on demand via an addVideo function.

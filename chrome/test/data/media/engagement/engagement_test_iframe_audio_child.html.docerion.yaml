@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_iframe_audio_child.html.
+type: test
+title: Media Engagement test iframe child page with autoplaying audio
+summary: Autoplaying audio child page for iframe-based media engagement tests that reports Allowed or Denied playback to its parent via postMessage.

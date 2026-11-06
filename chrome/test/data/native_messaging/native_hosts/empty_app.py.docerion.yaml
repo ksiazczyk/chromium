@@ -1,0 +1,4 @@
+# Docerion header of empty_app.py.
+type: test
+title: Silent native messaging test host
+summary: Python native messaging host for Chrome tests that reads incoming messages but sends no responses.
