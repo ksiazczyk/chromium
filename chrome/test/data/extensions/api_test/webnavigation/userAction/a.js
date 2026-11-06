@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: a.js subframe loader script
+// summary: Script that reads the test server port from the query string and points the iframe in a.html at the hosted subframe.html page.
+// ---
+
 const port = location.search.slice(1);
 const f = document.getElementById('subframe');
 f.src = `http://127.0.0.1:${port}/` +

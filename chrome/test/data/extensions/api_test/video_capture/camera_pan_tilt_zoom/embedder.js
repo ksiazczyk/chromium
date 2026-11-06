@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera pan tilt zoom permission test
+// summary: Browser test verifying that camera move permission grants access to pan, tilt and zoom via getUserMedia and applyConstraints.
+// ---
+
 chrome.test.runTests([
   async function cameraMovePermissionGrantsAccessToPanTiltZoom() {
     window.focus();

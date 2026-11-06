@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: User script test extension manifest
+summary: Manifest for the user script test extension declaring a module service worker and userScripts, scripting, and tabs permissions for register API tests.

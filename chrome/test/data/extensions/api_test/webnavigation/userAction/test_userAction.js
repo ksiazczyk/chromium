@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: test_userAction.js webNavigation userAction test
+// summary: Browser test script that opens a tab and asserts the expected sequence of webNavigation API events for user-initiated and subframe navigations.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

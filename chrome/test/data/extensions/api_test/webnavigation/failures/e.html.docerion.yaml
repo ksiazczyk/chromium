@@ -1,0 +1,4 @@
+# Docerion header of e.html.
+type: test
+title: Test page loading the e.js script
+summary: Fixture HTML page that loads e.js as part of the webNavigation failures test scenarios.

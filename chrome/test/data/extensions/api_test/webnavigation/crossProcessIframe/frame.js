@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame script driving cross-host navigations
+// summary: Script running inside the test frame that notifies its parent and navigates the frame across the a.com, b.com and c.com hosts to trigger process switches.
+// ---
+
 onload = function() {
   setTimeout(function() {
     if (location.hostname === 'a.com') {

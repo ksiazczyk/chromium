@@ -1,0 +1,4 @@
+# Docerion header of prerender.html.
+type: test
+title: Prerender initiator page with speculation rules
+summary: HTML page that uses an inline speculationrules script to trigger prerendering of a.html as the initiator for the webNavigation test.

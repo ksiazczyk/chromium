@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forward and back webNavigation event test
+// summary: Browser test script that navigates between pages a and b and asserts the expected sequence of webNavigation events, including cache restores.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

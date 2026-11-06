@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: userScripts.execute API test service worker
+// summary: Service worker running chrome.test cases for the userScripts.execute API, covering script source validation, injection targets, and execution worlds.
+// ---
+
 import {findDocumentIdWithHostname, findFrameIdWithHostname, getFramesInTab, getInjectedElementIds, getInjectedElementIdsInOrder, openTab} from '/_test_resources/test_util/tabs_util.js';
 import {waitForUserScriptsAPIAllowed} from '/_test_resources/test_util/user_script_test_util.js';
 

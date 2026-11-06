@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: Test page loading the redirect script
+summary: HTML fixture for the webNavigation filtered test that loads a.js to start the navigation sequence.

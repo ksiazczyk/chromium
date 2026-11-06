@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation script with second navigation helper
+// summary: Redirects to the local test server on load and defines navigate2 to navigate to empty.html for the racing scenario.
+// ---
+
 const target =
     location.origin + location.pathname.replace('d.html', 'empty.html');
 

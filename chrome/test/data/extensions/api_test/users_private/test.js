@@ -6,6 +6,12 @@
 // that callbacks are correctly invoked, expected parameters are correct,
 // and failures are detected.
 
+// ---docerion
+// type: test
+// title: usersPrivate API interface tests
+// summary: JavaScript tests verifying that chrome.usersPrivate callbacks, parameters, and failures behave correctly for user add, remove, list, owner, and login status calls.
+// ---
+
 function callbackResult(result) {
   if (chrome.runtime.lastError) {
     chrome.test.fail(chrome.runtime.lastError.message);

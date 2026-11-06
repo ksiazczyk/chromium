@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User scripts API test extension service worker
+// summary: Background service worker for the userScripts API test extension that registers user scripts and a content script and reports API availability to the test.
+// ---
+
 const kMatches = ['http://example.com/*'];
 const kRunAt = 'document_end';
 

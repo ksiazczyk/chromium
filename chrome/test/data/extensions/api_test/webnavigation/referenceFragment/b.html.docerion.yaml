@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: b.html test page with anchor button
+summary: HTML page of the test that shows an anchor button and loads b.js.

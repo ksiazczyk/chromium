@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main test page
+summary: Top-level extension page that loads the script embedding the intermediate iframe.

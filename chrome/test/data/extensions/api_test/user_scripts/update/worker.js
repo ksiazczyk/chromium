@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: userScripts.update API test service worker
+// summary: Service worker running chrome.test suites for the userScripts.update API, covering errors like non-existent IDs, duplicate IDs and unreadable script files.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 import {waitForUserScriptsAPIAllowed} from '/_test_resources/test_util/user_script_test_util.js';
 

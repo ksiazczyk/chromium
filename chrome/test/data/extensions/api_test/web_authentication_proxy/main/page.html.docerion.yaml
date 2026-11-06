@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Web Authentication Proxy Test Extension Page
+summary: Empty HTML page belonging to the Web Authentication Proxy API test extension.

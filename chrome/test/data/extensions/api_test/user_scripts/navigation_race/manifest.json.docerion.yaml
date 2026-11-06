@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: UserScripts Navigation Race test manifest
+summary: Manifest for the user scripts navigation race API test extension, declaring the background service worker, the userScripts permission and host permissions.

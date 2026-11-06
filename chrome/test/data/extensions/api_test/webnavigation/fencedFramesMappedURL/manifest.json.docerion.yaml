@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the MappedURL test extension
+summary: Manifest V3 extension manifest requesting tabs and webNavigation permissions and registering background.js as the service worker.

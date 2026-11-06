@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScripts register API test service worker
+// summary: Service worker running browser tests for chrome.userScripts.register, covering duplicate and empty script IDs, execution worlds, and related API behavior.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 import {waitForUserScriptsAPIAllowed} from '/_test_resources/test_util/user_script_test_util.js';
 

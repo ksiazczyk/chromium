@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page of the test extension
+summary: Minimal HTML page that serves as the main page of the MappedURL test extension.

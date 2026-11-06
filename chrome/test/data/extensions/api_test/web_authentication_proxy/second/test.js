@@ -6,6 +6,12 @@
 // behavior with multiple installed proxy extensions. Test names correspond to
 // ones in the parent directory's test.js file.
 
+// ---docerion
+// type: test
+// title: Second extension WebAuthenticationProxy attach tests
+// summary: Test script for a second proxy extension that verifies attach fails while another extension is attached and succeeds once the first detaches.
+// ---
+
 const ERROR_ATTACH = 'Error: Another extension is already attached';
 
 const availableTests = [

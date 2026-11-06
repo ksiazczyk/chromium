@@ -1,0 +1,4 @@
+# Docerion header of iframe_slow_to_unload.html.
+type: test
+title: Main frame page embedding slow-to-unload iframe
+summary: HTML page that embeds slow_to_unload.html in an iframe, serving as the main frame for the webNavigation pending deletion test.

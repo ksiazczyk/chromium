@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: webNavigation iframe test extension manifest
+summary: Manifest for the webNavigation iframe test extension, registering test_iframe.js as a service worker with webNavigation and tabs permissions.

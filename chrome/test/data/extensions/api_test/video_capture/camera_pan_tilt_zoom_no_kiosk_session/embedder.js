@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture PTZ access test outside kiosk mode
+// summary: Browser test asserting that the videoCapture permission does not expose pan, tilt, and zoom track settings when the extension runs outside kiosk mode.
+// ---
+
 chrome.test.runTests([
   // Test that the videoCapture permission does not grant access to pan, tilt,
   // and zoom settings when extension is not running in kiosk mode.

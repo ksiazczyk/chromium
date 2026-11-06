@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the virtualKeyboardPrivate clipboard history
+// summary: Runs multipaste tests that check the order and data types of clipboard history items from chrome.virtualKeyboardPrivate.getClipboardHistory, including an empty result on the lock screen.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 const itemToDict = (item) => {

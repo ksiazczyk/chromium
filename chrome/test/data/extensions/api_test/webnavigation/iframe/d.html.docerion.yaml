@@ -1,0 +1,4 @@
+# Docerion header of d.html.
+type: test
+title: Test page d.html loading d.js
+summary: Test fixture page for the webNavigation iframe API test that loads the script d.js.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation crossProcessHistory API test
+// summary: Service worker test that verifies the expected webNavigation event sequences for cross-process history state updates.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

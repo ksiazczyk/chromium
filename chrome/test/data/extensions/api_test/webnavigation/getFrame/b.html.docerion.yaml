@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: Test page with removable iframe
+summary: Test page containing an iframe and loading b.js, which removes the frame on load for the getFrame tests.

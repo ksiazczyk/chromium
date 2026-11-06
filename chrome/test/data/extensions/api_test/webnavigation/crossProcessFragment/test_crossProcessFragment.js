@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected webNavigation events for crossProcessFragment test
+// summary: Test script that runs navigation scenarios and asserts the expected webNavigation API event sequences for cross-process fragment updates.
+// ---
+
 onload = async function() {
   const getURL = chrome.runtime.getURL;
   const tab = await promise(chrome.tabs.create, {url: 'about:blank'});

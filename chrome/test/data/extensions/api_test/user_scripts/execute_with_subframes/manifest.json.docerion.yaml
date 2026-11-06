@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: User script test extension manifest
+summary: Manifest for the test extension used to exercise user scripts API calls on tabs that contain subframes.

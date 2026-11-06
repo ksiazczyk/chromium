@@ -1,0 +1,4 @@
+# Docerion header of frame.html.
+type: test
+title: Frame page for the crossProcessIframe test
+summary: HTML page of the test extension that loads the frame script used in the cross-process iframe webNavigation test.

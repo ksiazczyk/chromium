@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: a.html
+summary: Test fixture page that loads a.js, whose onload handler opens a new tab for the webNavigation openTab API test.

@@ -1,0 +1,4 @@
+# Docerion header of slow_to_unload.html.
+type: test
+title: Page with slow unload handler
+summary: Test page whose unload event handler sleeps for 500 ms, simulating a frame that is slow to unload during navigation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent user scripts service worker test runner
+// summary: Service worker that registers user scripts, verifies they persist and are injected across three browser sessions, and manages content script registration via the scripting API.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 const injectDivScript = `var div = document.createElement('div');

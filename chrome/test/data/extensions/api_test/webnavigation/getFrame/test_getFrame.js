@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation getFrame API tests
+// summary: Main test script verifying chrome.webNavigation.getFrame across tabs, frames, document IDs, invalid inputs, and prerendered pages.
+// ---
+
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 let ready;

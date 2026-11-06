@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation targetBlank API test script
+// summary: Runs browser tests that load a.html and verify the expected sequence of webNavigation events for the original tab and the new tab created by the target=_blank link.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

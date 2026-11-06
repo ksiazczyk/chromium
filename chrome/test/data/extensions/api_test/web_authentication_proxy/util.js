@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for webAuthenticationProxy API tests
+// summary: Supplies dummy PublicKeyCredential responses and helper functions that complete WebAuthn proxy create and get requests during extension API tests.
+// ---
+
 // A dummy JSON-encoded PublicKeyCredential for completeCreateRequest(). The
 // credential ID is base64url('test') = 'dGVzdA'.
 const MAKE_CREDENTIAL_RESPONSE_JSON = `{

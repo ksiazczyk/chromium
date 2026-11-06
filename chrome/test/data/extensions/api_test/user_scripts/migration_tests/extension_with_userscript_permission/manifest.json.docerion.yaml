@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for userScripts permission extension test fixture
+summary: Manifest declaring a manifest_version 3 extension with the userScripts permission, serving as test data for the user scripts migration API tests.

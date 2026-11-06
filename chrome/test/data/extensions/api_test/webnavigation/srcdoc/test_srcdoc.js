@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation srcdoc event tests
+// summary: JavaScript test that loads the test framework and asserts the expected webNavigation event sequence for a page with a srcdoc iframe.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

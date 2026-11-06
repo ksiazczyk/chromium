@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User scripts world configuration test service worker
+// summary: Service worker that registers a user script, configures world messaging and CSP, and verifies the settings persist and reset across three browser sessions.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // Error when messaging is not allowed.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.wallpaper API test extension
+summary: Manifest for the Chrome extension that tests the chrome.wallpaper API, declaring the wallpaper permission and loading test.js as its background script.

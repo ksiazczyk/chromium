@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Intermediate iframe page
+summary: HTML page loaded inside the test's iframe that runs the script creating the fenced frame.

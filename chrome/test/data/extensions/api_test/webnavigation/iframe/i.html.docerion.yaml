@@ -1,0 +1,4 @@
+# Docerion header of i.html.
+type: test
+title: Test page loading the i.js script
+summary: Test fixture page for the webNavigation iframe tests that loads i.js to trigger frame navigations.

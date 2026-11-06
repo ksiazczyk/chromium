@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScripts navigation race test background script
+// summary: Background service worker that coordinates with the C++ test harness to call userScripts.execute during a tab navigation and expects a generic cross-origin access error.
+// ---
+
 chrome.test.getConfig(async function(config) {
   const url_a = await chrome.test.sendMessage('ready');
   const tab = await chrome.tabs.create({url: url_a});

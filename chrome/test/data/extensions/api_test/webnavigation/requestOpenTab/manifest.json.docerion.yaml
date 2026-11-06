@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for webNavigation requestOpenTab
+summary: Manifest version 3 extension manifest granting webNavigation and tabs permissions and registering the test service worker.

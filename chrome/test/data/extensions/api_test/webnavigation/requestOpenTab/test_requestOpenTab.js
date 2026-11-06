@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation requestOpenTab browser test
+// summary: Test script that opens a.html and asserts the expected webNavigation event sequence, including onCreatedNavigationTarget, when its link opens b.html in a new tab.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

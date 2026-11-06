@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web Authentication Proxy API Test Extension Manifest
+summary: Manifest for the incognito split test extension, granting the webAuthenticationProxy permission and loading test.js as a module service worker.

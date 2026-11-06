@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: Test page a loading a.js
+summary: HTML test page for the webNavigation back/forward cache extension test that loads the a.js redirect script.

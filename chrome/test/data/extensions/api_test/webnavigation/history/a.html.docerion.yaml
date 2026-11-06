@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: Test page a.html
+summary: HTML fixture page that loads a.js for the webNavigation history extension API test.

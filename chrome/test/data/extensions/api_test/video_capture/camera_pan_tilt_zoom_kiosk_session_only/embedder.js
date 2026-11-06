@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera pan tilt zoom kiosk permission test
+// summary: Runs a test asserting that videoCapture does not expose pan, tilt, and zoom settings unless the kiosk app was auto-launched.
+// ---
+
 chrome.test.runTests([
   // Test that the videoCapture permission does not grant access to pan, tilt,
   // and zoom settings when the extension running in kiosk mode was not

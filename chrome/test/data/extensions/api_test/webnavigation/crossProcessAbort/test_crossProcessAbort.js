@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: crossProcessAbort webNavigation event test
+// summary: Runs the crossProcessAbort test, asserting the sequence of webNavigation events when a cross-site navigation commits while a same-site navigation is in progress.
+// ---
+
 onload = async function() {
   const tab = await promise(chrome.tabs.create, {url: 'about:blank'});
   const config = await promise(chrome.test.getConfig);

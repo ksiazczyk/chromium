@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test extension page loading page.js
+summary: Minimal HTML page for the WebAssembly MV3 test extension that loads the page.js module script.

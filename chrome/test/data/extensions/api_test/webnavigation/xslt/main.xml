@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: test
+title: XML test document with XSLT stylesheet reference
+summary: Empty XML document that links transform.xsl as its stylesheet, so navigating to it triggers the webNavigation events under test during XSLT processing.
+-->
+
 <?xml-stylesheet href="transform.xsl" type="text/xsl"?>
 <MyData>
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the virtualKeyboardPrivate API test extension
+summary: Manifest for the test extension that requests the virtualKeyboardPrivate permission to run the API browser tests.

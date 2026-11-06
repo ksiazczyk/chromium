@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation prerendering event order test
+// summary: Browser test script that verifies the ordering of webNavigation events for prerendering frames and activation, covering onBeforeNavigate, onCommitted, onDOMContentLoaded, and onCompleted.
+// ---
+
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 let ready;

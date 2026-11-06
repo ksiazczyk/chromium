@@ -1,0 +1,4 @@
+# Docerion header of test_prerender.html.
+type: test
+title: Prerender webNavigation API test HTML harness
+summary: HTML page for the prerender webNavigation extension API test that loads the shared test framework and the test_prerender.js script.
