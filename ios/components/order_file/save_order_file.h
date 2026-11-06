@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save order file interface
+// summary: Declares CRWSaveOrderFile, which saves the procedure calls collected by the clang sanitizer and requires the sanitizer coverage build flag.
+// ---
+
 #ifndef IOS_COMPONENTS_ORDER_FILE_SAVE_ORDER_FILE_H_
 #define IOS_COMPONENTS_ORDER_FILE_SAVE_ORDER_FILE_H_
 

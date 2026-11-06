@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake HTTPS upgrade service for tests
+// summary: Implements FakeHttpsUpgradeService, which stores HTTP allowlist decisions in memory so tests can stand in for the real service.
+// ---
+
 #include "ios/components/security_interstitials/https_only_mode/https_upgrade_test_util.h"
 
 

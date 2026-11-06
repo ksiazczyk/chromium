@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_blocking_page_unittest.mm.
+type: test
+title: Lookalike URL blocking page unit tests
+summary: Unit tests the lookalike URL blocking page, verifying interstitial commands, decision histograms, and UKM logging using fake web state fixtures.

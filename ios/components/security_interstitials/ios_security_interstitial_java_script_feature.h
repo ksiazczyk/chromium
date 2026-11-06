@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS security interstitial JavaScript feature header
+// summary: Declares a singleton JavaScript feature that listens for script command messages sent from iOS error pages.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_SECURITY_INTERSTITIAL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_SECURITY_INTERSTITIAL_JAVA_SCRIPT_FEATURE_H_
 

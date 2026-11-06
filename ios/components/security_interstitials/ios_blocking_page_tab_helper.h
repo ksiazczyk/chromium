@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSBlockingPageTabHelper header
+// summary: Declares a WebStateUserData tab helper that manages IOSSecurityInterstitialPage lifetimes and dispatches interstitial JavaScript commands.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_TAB_HELPER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_TAB_HELPER_H_
 

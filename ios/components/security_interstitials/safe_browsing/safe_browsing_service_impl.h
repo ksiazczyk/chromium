@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Service Implementation Header
+// summary: Declares SafeBrowsingServiceImpl, the iOS implementation of the Safe Browsing service that manages the database manager, URL checkers, and network context.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_SERVICE_IMPL_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_SERVICE_IMPL_H_
 

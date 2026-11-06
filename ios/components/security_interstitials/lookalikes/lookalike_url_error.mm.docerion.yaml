@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_error.mm.
+type: source
+title: Lookalike URL error implementation
+summary: Defines the lookalike URL error domain and code and implements the helper that cancels a navigation with an NSError so the lookalike error is displayed.

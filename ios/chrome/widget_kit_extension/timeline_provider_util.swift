@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared timeline entries and providers
+// summary: Provides shared timeline entries and providers, including the configurable provider that resolves account avatar, gaia ID and email for widgets.
+// ---
+
 import SwiftUI
 import WidgetKit
 

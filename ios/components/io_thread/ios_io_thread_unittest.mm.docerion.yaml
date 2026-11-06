@@ -1,0 +1,4 @@
+# Docerion header of ios_io_thread_unittest.mm.
+type: test
+title: IOSIOThread unit tests
+summary: Verifies that a test IOSIOThread subclass exposes a system URL request context getter when started on a test IO thread.

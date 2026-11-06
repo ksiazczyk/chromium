@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the io_thread directory
+summary: Maps the directory to Monorail and Buganizer issue tracker components for bug routing.

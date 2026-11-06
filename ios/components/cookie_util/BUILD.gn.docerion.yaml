@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the cookie_util component
+summary: Defines GN source sets for the cookie_util component, its constants, and its unit tests together with their dependencies.

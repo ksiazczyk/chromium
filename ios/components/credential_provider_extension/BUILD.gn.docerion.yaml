@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for credential provider extension
+summary: Defines source_set targets for password_util, password_spec_fetcher and their unit tests with dependencies and frameworks.

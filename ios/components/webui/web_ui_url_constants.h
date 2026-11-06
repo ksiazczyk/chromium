@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL scheme and host constants
+// summary: Defines the chrome URL scheme and the sync-internals host used by feature-specific WebUIs on iOS.
+// ---
+
 #ifndef IOS_COMPONENTS_WEBUI_WEB_UI_URL_CONSTANTS_H_
 #define IOS_COMPONENTS_WEBUI_WEB_UI_URL_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only mode interstitial parameters container
+// summary: Declares a WebStateUserData helper storing URL parameters for interstitial reloads and the HTTP URL to navigate to on dismissal.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_CONTAINER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_CONTAINER_H_
 

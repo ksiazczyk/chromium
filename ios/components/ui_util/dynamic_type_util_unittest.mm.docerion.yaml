@@ -1,0 +1,4 @@
+# Docerion header of dynamic_type_util_unittest.mm.
+type: test
+title: Dynamic type utility unit tests
+summary: Verifies that body font sizes per content size category stay stable across iOS releases and that clamped font size multipliers behave as expected.

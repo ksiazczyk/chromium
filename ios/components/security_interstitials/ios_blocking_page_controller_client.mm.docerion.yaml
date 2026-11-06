@@ -1,0 +1,4 @@
+# Docerion header of ios_blocking_page_controller_client.mm.
+type: source
+title: IOSBlockingPageControllerClient implementation
+summary: Implements navigation actions such as go back, reload and opening URLs, plus asynchronous tab closing for the blocking page controller client.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WidgetKit extension appex build targets
+summary: GN build file defining the widget_kit_extension appex bundle, its entitlements, Info.plist tweaking, and optional privacy manifest targets.

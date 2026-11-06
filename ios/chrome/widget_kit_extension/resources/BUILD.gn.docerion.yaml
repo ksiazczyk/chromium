@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Widget Kit extension resources build configuration
+summary: GN build target that bundles the widget extension's asset catalog images, colors and symbol assets into the iOS Chrome build.

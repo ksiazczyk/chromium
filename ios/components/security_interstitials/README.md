@@ -1,3 +1,13 @@
+---
+type: readme
+title: Security Interstitials on iOS
+summary: Explains the iOS implementation of security interstitials, its central classes, and how it builds on the core interstitials component.
+relations:
+  - documents /ios/components/security_interstitials/ios_blocking_page_controller_client.h
+  - documents /ios/components/security_interstitials/ios_blocking_page_controller_client.mm
+  - documents /ios/components/security_interstitials/ios_blocking_page_tab_helper.h
+---
+
 # Security Interstitials on iOS
 
 This directory contains the iOS implementation of security interstitials --

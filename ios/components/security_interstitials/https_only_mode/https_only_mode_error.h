@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode error declarations
+// summary: Declares the error domain and code for the HTTPS-Only Mode interstitial and a helper that cancels navigation to show that error.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_ERROR_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_ERROR_H_
 

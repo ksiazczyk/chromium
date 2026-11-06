@@ -1,0 +1,4 @@
+# Docerion header of ios_security_interstitial_java_script_feature_unittest.mm.
+type: test
+title: IOS security interstitial JavaScript feature unit tests
+summary: Unit tests verifying that interstitial commands reach blocking pages only for user interactions originating from file URLs.

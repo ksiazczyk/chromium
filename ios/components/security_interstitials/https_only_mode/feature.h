@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of HTTPS-Only mode feature flags
+// summary: Declares feature flags for HTTPS-Only mode upgrades, HTTPS upgrades and the insecure form submission interstitial on iOS.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_FEATURE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_FEATURE_H_
 

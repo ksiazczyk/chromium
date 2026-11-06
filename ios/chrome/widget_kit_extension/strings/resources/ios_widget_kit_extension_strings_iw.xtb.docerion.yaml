@@ -1,0 +1,4 @@
+# Docerion header of ios_widget_kit_extension_strings_iw.xtb.
+type: data
+title: Chrome iOS widget strings in Hebrew (iw)
+summary: Hebrew translation bundle providing localized strings for the Chrome iOS WidgetKit extension, covering search, voice search, incognito, Dino game, and password manager widget labels.

@@ -1,0 +1,4 @@
+# Docerion header of crash_helper.mm.
+type: source
+title: CrashHelper implementation
+summary: Implements CrashHelper by starting the common Crashpad crash reporter for the widget extension.

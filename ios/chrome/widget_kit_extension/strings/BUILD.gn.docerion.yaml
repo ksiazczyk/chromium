@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Widget Kit extension strings build rules
+summary: GN build file defining the grit strings target that generates localized string resources and headers for the iOS widget kit extension.

@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_query_manager_unittest.mm.
+type: test
+title: SafeBrowsingQueryManager unit tests
+summary: Unit tests for SafeBrowsingQueryManager covering sync and async URL check results and observer notifications using fake services.

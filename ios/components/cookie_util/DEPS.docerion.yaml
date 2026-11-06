@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cookie_util component
+summary: Lists the allowed header include rules for the cookie_util directory, covering prefs, iOS web, and net dependencies.

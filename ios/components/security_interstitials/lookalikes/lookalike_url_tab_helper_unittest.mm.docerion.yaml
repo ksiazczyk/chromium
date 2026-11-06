@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_tab_helper_unittest.mm.
+type: test
+title: Lookalike URL tab helper unit tests
+summary: Unit tests verifying that LookalikeUrlTabHelper blocks lookalike IDN navigations while allowing subframe, non-HTTP/S, and allowlisted navigations, with UMA checks.

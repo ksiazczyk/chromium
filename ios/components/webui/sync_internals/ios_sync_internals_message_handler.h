@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS sync internals message handler declaration
+// summary: Declares the iOS-specific SyncInternalsMessageHandler that bridges sync internals messages between the shared handler and the iOS WebUI.
+// ---
+
 #ifndef IOS_COMPONENTS_WEBUI_SYNC_INTERNALS_IOS_SYNC_INTERNALS_MESSAGE_HANDLER_H_
 #define IOS_COMPONENTS_WEBUI_SYNC_INTERNALS_IOS_SYNC_INTERNALS_MESSAGE_HANDLER_H_
 

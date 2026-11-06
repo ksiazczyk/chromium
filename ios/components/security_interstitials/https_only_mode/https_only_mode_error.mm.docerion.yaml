@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_error.mm.
+type: source
+title: HTTPS-Only Mode error implementation
+summary: Defines the HTTPS-Only Mode NSError domain and code and creates the policy decision that cancels navigation to display the interstitial.

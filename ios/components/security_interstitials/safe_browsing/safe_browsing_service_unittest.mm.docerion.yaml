@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_service_unittest.mm.
+type: test
+title: Safe Browsing Service Unit Tests
+summary: Unit tests for the iOS Safe Browsing service covering database managers, realtime lookups, URL checkers, and browser state lifecycle behavior.

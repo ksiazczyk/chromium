@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL tab helper header
+// summary: Declares LookalikeUrlTabHelper, a per-WebState policy decider that decides whether main-frame responses may proceed or need a lookalike warning.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_TAB_HELPER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_TAB_HELPER_H_
 

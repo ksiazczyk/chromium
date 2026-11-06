@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync_internals
+summary: Declares the include directories that code in this directory is allowed to depend on.

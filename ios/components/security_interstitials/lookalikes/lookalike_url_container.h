@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL container interface
+// summary: Declares LookalikeUrlContainer, a WebStateUserData holding interstitial reload parameters and lookalike URL info for the blocking page UI.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_CONTAINER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select account intent and account entity
+// summary: Defines the SelectAccountIntent widget configuration intent and AccountDetail entity used to pick the account shown by configurable widgets.
+// ---
+
 import AppIntents
 import Foundation
 import SwiftUI

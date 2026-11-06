@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_service.mm.
+type: source
+title: HTTPS upgrade service implementation
+summary: Implements HttpsUpgradeService helpers for converting URLs between HTTP and HTTPS, handling test ports, fake HTTPS and the fallback delay.

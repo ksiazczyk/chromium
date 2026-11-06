@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for security interstitials
+summary: Lists the directories that code in this component is allowed to include from under Chromium's dependency checking rules.

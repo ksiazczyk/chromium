@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSpecFetcher Objective-C header
+// summary: Declares the PasswordSpecFetcher interface that fetches a password requirements spec for a given host via an API key.
+// ---
+
 #ifndef IOS_COMPONENTS_CREDENTIAL_PROVIDER_EXTENSION_PASSWORD_SPEC_FETCHER_H_
 #define IOS_COMPONENTS_CREDENTIAL_PROVIDER_EXTENSION_PASSWORD_SPEC_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitizer coverage callbacks collecting procedure calls
+// summary: Implements the clang sanitizer coverage callbacks that initialize guards and record each distinct procedure call in order into a shared queue.
+// ---
+
 #include <stdlib.h>
 
 #include "base/compiler_specific.h"

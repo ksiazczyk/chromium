@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_blocking_page_unittest.mm.
+type: test
+title: Unit tests for the HTTPS-Only mode blocking page
+summary: Tests blocking page command handling, host allow-listing, reloads and interstitial metrics using fake web state and services.

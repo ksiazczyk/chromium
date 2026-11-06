@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget URL constants
+// summary: Defines URL constants for each widget's deep links and a helper that appends the gaia ID as a query parameter.
+// ---
+
 import Foundation
 
 // Constants for WidgetKit extension URLs.

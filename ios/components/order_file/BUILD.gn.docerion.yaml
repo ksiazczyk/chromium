@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Order file component build definition
+summary: GN build rules defining the order_file source set with its C and Objective-C++ sources and a dependency on //base.

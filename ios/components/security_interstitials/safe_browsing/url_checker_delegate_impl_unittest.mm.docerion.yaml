@@ -1,0 +1,4 @@
+# Docerion header of url_checker_delegate_impl_unittest.mm.
+type: test
+title: UrlCheckerDelegateImpl unit tests
+summary: Unit tests verifying UrlCheckerDelegateImpl behavior for unsafe resource callbacks, allow list handling, and interstitial decisions using fake web states.

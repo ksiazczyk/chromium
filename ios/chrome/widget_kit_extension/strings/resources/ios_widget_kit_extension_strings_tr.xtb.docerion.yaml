@@ -1,0 +1,4 @@
+# Docerion header of ios_widget_kit_extension_strings_tr.xtb.
+type: data
+title: Widget Kit extension strings (Turkish)
+summary: Turkish translation bundle supplying localized strings for the Chrome iOS Widget Kit extension, including search, Lens, QR scanning, and widget account messages.

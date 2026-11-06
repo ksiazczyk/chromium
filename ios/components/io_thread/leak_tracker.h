@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeakTracker template header
+// summary: Header-only helper that tracks live instances of a class and reports allocation stacks for leaks in debug builds.
+// ---
+
 #ifndef IOS_COMPONENTS_IO_THREAD_LEAK_TRACKER_H_
 #define IOS_COMPONENTS_IO_THREAD_LEAK_TRACKER_H_
 

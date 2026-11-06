@@ -1,0 +1,4 @@
+# Docerion header of ios_security_interstitial_java_script_feature.mm.
+type: source
+title: IOS security interstitial JavaScript feature implementation
+summary: Implements the script message handler that validates interstitial commands from file-scheme error pages and forwards them to the blocking page tab helper.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the enterprise analysis features source set
+summary: Defines the features source_set for the iOS enterprise analysis component, listing features.h and features.mm as sources with a public dependency on //base.

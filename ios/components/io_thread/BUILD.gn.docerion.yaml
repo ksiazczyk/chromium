@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the io_thread component
+summary: Defines the io_thread component and unit_tests source_set with their sources and GN build dependencies.

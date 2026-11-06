@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS components
+summary: Restricts includes so components cannot depend on ios/chrome or ios/web_view and forbids dependency cycles between components.

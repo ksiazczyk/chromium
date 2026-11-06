@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Unsafe Resource Container Header
+// summary: Declares a WebState user data helper that stores pending unsafe resources for main frame navigations to populate error pages.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_UNSAFE_RESOURCE_CONTAINER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_UNSAFE_RESOURCE_CONTAINER_H_
 

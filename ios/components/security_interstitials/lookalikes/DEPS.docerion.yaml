@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lookalikes DEPS include rules
+summary: Declares include rules allowing dependencies on lookalikes core, reputation, UKM, url_formatter, iOS net, and metrics code.

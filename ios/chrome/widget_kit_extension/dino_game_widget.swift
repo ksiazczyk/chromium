@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dino game widget
+// summary: Defines the configurable Dino game widget with account selection, avatar display, and deleted account handling.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

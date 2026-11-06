@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts widget
+// summary: Implements the medium-size shortcuts widget showing most visited sites, with timeline providers, expiration handling and expired-state views.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

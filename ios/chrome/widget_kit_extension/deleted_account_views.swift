@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deleted account widget views
+// summary: Provides SwiftUI views shown in widgets when the selected account was deleted, and records that the view appeared.
+// ---
+
 import Foundation
 import SwiftUI
 

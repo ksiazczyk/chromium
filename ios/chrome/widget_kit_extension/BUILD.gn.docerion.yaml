@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WidgetKit extension BUILD.gn build configuration
+summary: Defines GN targets for the iOS Chrome WidgetKit extension, including Swift sources, crash helper, packed resources, and localized strings generation.

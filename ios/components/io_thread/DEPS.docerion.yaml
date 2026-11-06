@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for io_thread
+summary: Declares which directories the io_thread code may include from, including a temporary allowance for WebThreadImpl.

@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_tab_helper.mm.
+type: source
+title: Safe Browsing Tab Helper Implementation
+summary: Implements the tab helper that queries Safe Browsing during navigations, delays or cancels responses, and shows errors for unsafe resources.

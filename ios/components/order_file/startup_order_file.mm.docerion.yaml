@@ -1,0 +1,4 @@
+# Docerion header of startup_order_file.mm.
+type: source
+title: Startup order file trigger
+summary: Installs a run loop observer from a load method and schedules saving the startup order file after a fixed delay.

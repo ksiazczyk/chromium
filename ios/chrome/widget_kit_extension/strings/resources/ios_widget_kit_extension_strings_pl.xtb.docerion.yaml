@@ -1,0 +1,4 @@
+# Docerion header of ios_widget_kit_extension_strings_pl.xtb.
+type: data
+title: Polish widget strings for Chrome iOS
+summary: Polish translation bundle with localized strings for the Chrome iOS Widget Kit extension, covering widget labels such as search, voice search, QR scanning, and password manager.

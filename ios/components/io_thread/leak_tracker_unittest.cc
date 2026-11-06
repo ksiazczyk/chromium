@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LeakTracker unit tests
+// summary: Tests instance counting and leak checking behavior of LeakTracker for both enabled and disabled configurations.
+// ---
+
 #include "ios/components/io_thread/leak_tracker.h"
 
 #include <memory>

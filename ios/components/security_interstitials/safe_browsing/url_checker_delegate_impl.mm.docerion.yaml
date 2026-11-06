@@ -1,0 +1,4 @@
+# Docerion header of url_checker_delegate_impl.mm.
+type: source
+title: iOS Safe Browsing URL checker delegate implementation
+summary: Implements the iOS URL checker delegate, handling blocking page requests, allow list checks, and storage of unsafe resources for Safe Browsing interstitials.

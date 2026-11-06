@@ -1,0 +1,4 @@
+# Docerion header of ios_io_thread.mm.
+type: source
+title: IOSIOThread implementation
+summary: Implements IOSIOThread, building the global host resolver, system request context, proxy, auth, and cookie setup on the IO thread.

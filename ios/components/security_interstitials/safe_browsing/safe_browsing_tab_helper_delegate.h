@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Tab Helper Delegate Protocol
+// summary: Declares the delegate protocol for the Safe Browsing tab helper to open Safe Browsing settings and show the Enhanced Safe Browsing infobar.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_TAB_HELPER_DELEGATE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_TAB_HELPER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingQueryManager interface
+// summary: Header for a per-WebState manager of Safe Browsing URL queries, defining query, result and observer types for URL check completion.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_QUERY_MANAGER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_SAFE_BROWSING_QUERY_MANAGER_H_
 

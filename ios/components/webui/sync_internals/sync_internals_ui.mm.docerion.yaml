@@ -1,0 +1,4 @@
+# Docerion header of sync_internals_ui.mm.
+type: source
+title: SyncInternalsUI implementation for the iOS sync-internals WebUI page
+summary: Implements SyncInternalsUI by registering the sync-internals WebUI resources and adding the iOS message handler with sync services.

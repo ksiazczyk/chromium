@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lockscreen launcher widgets
+// summary: Defines lockscreen launcher widgets for search, incognito, voice search, and the dino game behind build-time flags.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

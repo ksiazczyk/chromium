@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL error header
+// summary: Declares the NSError domain and code for lookalike URL navigation errors and a helper that creates a policy decision cancelling navigation to show the lookalike error.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_ERROR_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_ERROR_H_
 

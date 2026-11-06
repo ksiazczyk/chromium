@@ -1,0 +1,4 @@
+# Docerion header of fake_safe_browsing_client.mm.
+type: source
+title: Fake Safe Browsing client implementation
+summary: Implements the fake SafeBrowsingClient, backed by a fake SafeBrowsingService, returning canned values for tests.

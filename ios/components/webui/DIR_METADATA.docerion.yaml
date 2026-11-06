@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the webui component
+summary: Points to the shared WebUI metadata mixins that apply to this directory.

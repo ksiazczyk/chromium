@@ -1,0 +1,4 @@
+# Docerion header of cookie_util.mm.
+type: source
+title: Cookie utility implementation
+summary: Implements cookie store creation with CookieMonster or CookieStoreIOS backends and session cookie clearing based on device reboot time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI provider interface for embedder services
+// summary: Declares functions that embedders such as ios/chrome and ios/web_view must implement to supply identity, sync, and channel information to WebUIs.
+// ---
+
 #ifndef IOS_COMPONENTS_WEBUI_WEB_UI_PROVIDER_H_
 #define IOS_COMPONENTS_WEBUI_WEB_UI_PROVIDER_H_
 

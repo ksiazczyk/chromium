@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe resource utility header
+// summary: Declares helpers that map an unsafe resource to its interstitial reason, metric prefix, allow list and main frame URL.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_IOS_UNSAFE_RESOURCE_UTIL_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_IOS_UNSAFE_RESOURCE_UTIL_H_
 
