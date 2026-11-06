@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-android.txt.
+type: test
+title: Sup test expectations for Android
+summary: Expected Android accessibility tree for the sup HTML test, showing the superscript node between surrounding text views.

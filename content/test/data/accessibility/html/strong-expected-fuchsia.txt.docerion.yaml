@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-fuchsia.txt.
+type: test
+title: Strong expected Fuchsia accessibility snapshot
+summary: Expected Fuchsia accessibility tree for the strong text test page, with static text labelled Strong text.

@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-mac.txt.
+type: test
+title: table-th-rowheader expected accessibility tree for macOS
+summary: Expected macOS accessibility tree output for the th rowheader table test, including AXRowHeaderUIElements and index ranges.

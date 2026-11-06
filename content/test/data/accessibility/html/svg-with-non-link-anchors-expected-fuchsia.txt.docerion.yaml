@@ -1,0 +1,4 @@
+# Docerion header of svg-with-non-link-anchors-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for SVG with non-link anchors
+summary: Expected Fuchsia accessibility tree snapshot for the SVG anchors test page.

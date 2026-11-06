@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-blink.txt.
+type: test
+title: table-th-rowheader expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the table with th row headers, listing rows, row headers and cells.

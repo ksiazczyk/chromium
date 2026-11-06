@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-mac.txt.
+type: test
+title: Focusable table sections expected macOS snapshot
+summary: Expected macOS accessibility tree snapshot with AXTable rows and columns for a table with focusable sections.

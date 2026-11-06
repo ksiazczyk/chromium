@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-auralinux.txt.
+type: test
+title: Table th column header expected Auralinux accessibility tree
+summary: Expected Auralinux accessibility tree dump for the table-th-colheader test page, listing column headers and cells with column header counts.

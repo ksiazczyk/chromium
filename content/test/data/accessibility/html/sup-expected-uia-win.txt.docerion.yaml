@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-uia-win.txt.
+type: test
+title: sup expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree on Windows for the sup test, describing text elements for the superscript paragraph.

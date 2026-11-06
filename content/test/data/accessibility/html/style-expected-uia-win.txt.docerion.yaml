@@ -1,0 +1,4 @@
+# Docerion header of style-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for style element test
+summary: Expected accessibility output for the style element test on Windows via the UIA API, marked to skip exposing the object.

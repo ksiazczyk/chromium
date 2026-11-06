@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-android.txt.
+type: test
+title: tabindex-with-link-children expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the tabindex-with-link-children test, showing link nodes inside a focusable view.

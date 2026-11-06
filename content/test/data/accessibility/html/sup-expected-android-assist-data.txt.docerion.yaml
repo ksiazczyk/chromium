@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-android-assist-data.txt.
+type: test
+title: Sup test expectations for Android assist data
+summary: Expected Android assist data structure for the sup HTML test, showing text sizes and html tags for superscript content.

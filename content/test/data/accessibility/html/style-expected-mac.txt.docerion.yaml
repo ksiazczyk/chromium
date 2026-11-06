@@ -1,0 +1,4 @@
+# Docerion header of style-expected-mac.txt.
+type: test
+title: Expected Mac output for style element test
+summary: Expected accessibility output for the style element test on macOS, marked to skip exposing the object.

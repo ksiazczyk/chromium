@@ -1,0 +1,4 @@
+# Docerion header of svg-symbol-with-role-expected-android.txt.
+type: test
+title: SVG symbol with role expected Android output
+summary: Expected Android accessibility tree snapshot for the SVG symbol with role test page, listing button nodes with the fancy button role description.

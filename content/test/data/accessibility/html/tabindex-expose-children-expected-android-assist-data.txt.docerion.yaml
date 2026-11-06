@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for tabindex expose children test
+summary: Expected Android assist data output for the tabindex expose children test, showing table cells inside a div with tabindex.

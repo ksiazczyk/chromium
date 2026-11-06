@@ -1,0 +1,4 @@
+# Docerion header of style-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia output for style element test
+summary: Expected accessibility output for the style element test on Fuchsia, listing unknown hidden nodes.

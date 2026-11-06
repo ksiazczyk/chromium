@@ -1,0 +1,4 @@
+# Docerion header of sub-expected-blink.txt.
+type: test
+title: Expected Blink tree for sub element test
+summary: Expected Blink accessibility tree snapshot for the sub element test, listing roles, text positions, styles and inline text boxes.

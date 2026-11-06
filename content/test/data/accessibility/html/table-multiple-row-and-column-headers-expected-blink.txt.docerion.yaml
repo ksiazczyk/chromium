@@ -1,0 +1,4 @@
+# Docerion header of table-multiple-row-and-column-headers-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table with multiple row and column headers
+summary: Expected Blink accessibility tree snapshot for the table with multiple row and column headers test.

@@ -1,0 +1,4 @@
+# Docerion header of sub-expected-android-external.txt.
+type: test
+title: Expected Android external tree for sub element test
+summary: Expected Android external-format snapshot for the sub element accessibility test, describing roles, actions and bundle information of the tree.

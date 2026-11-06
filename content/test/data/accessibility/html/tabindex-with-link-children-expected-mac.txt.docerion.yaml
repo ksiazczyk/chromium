@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-mac.txt.
+type: test
+title: Tabindex with link children expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the tabindex-with-link-children test page, showing static text and links inside a tabindex container.

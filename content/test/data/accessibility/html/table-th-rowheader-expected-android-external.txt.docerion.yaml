@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for table th row header test
+summary: Expected external Android accessibility snapshot for the table-th-rowheader test, showing rowHeader and cell collection item info for the Firstname and Lastname table.

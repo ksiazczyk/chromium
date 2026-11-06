@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-uia-win.txt.
+type: test
+title: table-th-rowheader expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree output for the th rowheader table test on Windows, with a grid table and data items.

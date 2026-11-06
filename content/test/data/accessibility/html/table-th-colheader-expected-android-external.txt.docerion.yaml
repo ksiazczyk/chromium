@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-android-external.txt.
+type: test
+title: Table th column header expected Android external dump
+summary: Expected external Android accessibility dump for the table-th-colheader test page, marking th cells as table and column headers.

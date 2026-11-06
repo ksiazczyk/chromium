@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for table with role=presentation
+summary: Expected macOS accessibility tree for the accessibility test of a table with role=presentation.

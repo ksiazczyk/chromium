@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-android-external.txt.
+type: test
+title: Focusable table sections expected Android external snapshot
+summary: Expected Android external accessibility snapshot listing roles and collection item info for a table with focusable header, body, and footer sections.

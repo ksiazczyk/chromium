@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-win.txt.
+type: test
+title: Summary test expectations for Windows
+summary: Expected Windows MSAA accessibility output for the summary HTML test, with pushbutton roles and summary-derived descriptions.

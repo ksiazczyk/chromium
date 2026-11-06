@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for static list
+summary: Expected Android assist data output for the static list test page, describing list items, markers and names for Kirk, Picard and Janeway.

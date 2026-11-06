@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-android.txt.
+type: test
+title: Summary expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the summary details and summary test page.

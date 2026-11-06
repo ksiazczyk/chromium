@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-uia-win.txt.
+type: test
+title: Focusable table sections expected Windows UIA snapshot
+summary: Expected Windows UIA accessibility snapshot with table and data item roles for a table with focusable sections.

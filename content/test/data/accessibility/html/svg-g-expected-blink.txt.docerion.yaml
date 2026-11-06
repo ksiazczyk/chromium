@@ -1,0 +1,4 @@
+# Docerion header of svg-g-expected-blink.txt.
+type: test
+title: SVG group accessibility tree expectation for Blink
+summary: Expected Blink accessibility tree snapshot for an SVG containing grouped text elements.

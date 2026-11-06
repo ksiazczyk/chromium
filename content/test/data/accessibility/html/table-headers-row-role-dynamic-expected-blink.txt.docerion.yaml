@@ -1,0 +1,4 @@
+# Docerion header of table-headers-row-role-dynamic-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table-headers-row-role-dynamic
+summary: Expected Blink accessibility tree after dynamic updates, showing cells that should become row headers in the table.

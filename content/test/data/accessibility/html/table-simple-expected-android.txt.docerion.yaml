@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for table-simple
+summary: Expected Android accessibility tree snapshot for the simple HTML table test page, listing roles, names and table cell positions.

@@ -1,0 +1,4 @@
+# Docerion header of svg-and-math-elements-expected-fuchsia.txt.
+type: test
+title: svg-and-math-elements expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the svg-and-math-elements test, with image and math labels for original and created elements.

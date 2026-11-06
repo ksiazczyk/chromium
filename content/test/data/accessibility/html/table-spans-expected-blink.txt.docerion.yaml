@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-blink.txt.
+type: test
+title: Table spans expected accessibility tree for Blink
+summary: Expected Blink accessibility tree dump for the table-spans HTML test page, listing tables, rows, cells and column counts for spanned layouts.

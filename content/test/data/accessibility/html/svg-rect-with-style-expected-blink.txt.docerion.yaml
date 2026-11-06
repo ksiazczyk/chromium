@@ -1,0 +1,4 @@
+# Docerion header of svg-rect-with-style-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for SVG rect with style
+summary: Expected Blink accessibility tree snapshot showing font and text style properties applied to an SVG rect element.

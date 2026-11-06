@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-fuchsia.txt.
+type: test
+title: tabindex-with-link-children expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the tabindex-with-link-children test, showing link and static text nodes.

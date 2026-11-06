@@ -1,0 +1,4 @@
+# Docerion header of svg-as-object-source-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for SVG object test
+summary: Expected Fuchsia accessibility tree snapshot for the SVG object test page with button labels for embedded SVG shapes.

@@ -1,0 +1,4 @@
+# Docerion header of svg-with-non-link-anchors-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for SVG with non-link anchors
+summary: Expected Android assist-data accessibility snapshot for the SVG-with-non-link-anchors test page, detailing focusable and non-focusable anchor nodes inside SVGs.

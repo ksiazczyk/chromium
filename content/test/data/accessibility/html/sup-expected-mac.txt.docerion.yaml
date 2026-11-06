@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-mac.txt.
+type: test
+title: sup expected accessibility tree for macOS
+summary: Expected macOS result for the sup test, marked as skipped because no accessible object is produced.

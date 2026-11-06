@@ -1,0 +1,4 @@
+# Docerion header of svg-with-link-to-document-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for SVG with link to document
+summary: Expected Fuchsia accessibility tree for the SVG-with-link-to-document test page, listing nodes with input focus and link actions.

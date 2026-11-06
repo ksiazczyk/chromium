@@ -1,0 +1,4 @@
+# Docerion header of svg-with-clickable-rect-expected-android-assist-data.txt.
+type: test
+title: SVG with clickable rect expected assist data for Android
+summary: Expected Android assist data snapshot for an SVG containing a clickable rect element.

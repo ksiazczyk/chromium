@@ -1,0 +1,4 @@
+# Docerion header of tab-panel.html.
+type: test
+title: Tab panel HTML accessibility test fixture
+summary: HTML test fixture with tab buttons and tab panels used to verify accessibility tree serialization of tab semantics.

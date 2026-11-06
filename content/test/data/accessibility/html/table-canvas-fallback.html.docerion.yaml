@@ -1,0 +1,4 @@
+# Docerion header of table-canvas-fallback.html.
+type: test
+title: Table canvas fallback HTML test page
+summary: HTML fixture with tables in canvas fallback content and a standalone layout table to test how tables are exposed to accessibility.

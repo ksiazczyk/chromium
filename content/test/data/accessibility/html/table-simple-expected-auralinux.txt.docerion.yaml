@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for table-simple
+summary: Expected Auralinux accessibility tree dump for the simple HTML table test, describing table rows, column headers and cells.

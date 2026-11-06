@@ -1,0 +1,4 @@
+# Docerion header of spans-separated-by-space-expected-android-external.txt.
+type: test
+title: Expected Android external output for spans separated by space
+summary: Expected Android external accessibility output listing the TextView nodes for the spans-separated-by-space test page.

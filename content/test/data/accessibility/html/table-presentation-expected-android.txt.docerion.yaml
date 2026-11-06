@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for table with role=presentation
+summary: Expected Android accessibility tree for the accessibility test of a table with role=presentation.

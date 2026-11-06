@@ -1,0 +1,4 @@
+# Docerion header of svg-style-element-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for SVG style element
+summary: Expected macOS accessibility tree snapshot for the SVG style element test.

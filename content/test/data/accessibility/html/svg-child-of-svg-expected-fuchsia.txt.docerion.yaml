@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-svg-expected-fuchsia.txt.
+type: test
+title: SVG child of SVG expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree dump for the nested SVG test, listing image and focusable unknown nodes.

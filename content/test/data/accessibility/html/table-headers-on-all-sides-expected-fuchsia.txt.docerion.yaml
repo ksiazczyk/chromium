@@ -1,0 +1,4 @@
+# Docerion header of table-headers-on-all-sides-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table-headers-on-all-sides
+summary: Expected Fuchsia accessibility tree for the table with headers on all sides, listing table rows, cells and header labels.

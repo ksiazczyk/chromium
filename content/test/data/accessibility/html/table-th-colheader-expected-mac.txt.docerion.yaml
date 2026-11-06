@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for table th column header test
+summary: Expected macOS AX accessibility tree snapshot for the table-th-colheader test, including AXColumnHeaderUIElements and column headers for the Firstname and Lastname table.

@@ -1,0 +1,4 @@
+# Docerion header of svg-with-link-to-document-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for SVG with link to document
+summary: Expected Auralinux accessibility tree dump for the SVG-with-link-to-document test page, showing the document, body, SVG frame, and link nodes.

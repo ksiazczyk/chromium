@@ -1,0 +1,4 @@
+# Docerion header of svg-elements-not-mapped-expected-blink-cros.txt.
+type: test
+title: SVG elements not mapped expected blink-cros output
+summary: Expected Blink on Chrome OS accessibility tree snapshot for the SVG elements not mapped test.

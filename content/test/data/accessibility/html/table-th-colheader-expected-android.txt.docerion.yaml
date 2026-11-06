@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-android.txt.
+type: test
+title: Table th column header expected Android accessibility tree
+summary: Expected Android accessibility tree dump for the table-th-colheader test page, showing collection items flagged as table headers for th cells.

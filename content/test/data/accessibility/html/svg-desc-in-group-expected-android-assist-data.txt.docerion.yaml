@@ -1,0 +1,4 @@
+# Docerion header of svg-desc-in-group-expected-android-assist-data.txt.
+type: test
+title: SVG desc in group expected Android assist data
+summary: Expected Android assist data dump for the SVG description-in-group test, showing an image with a group and a text view.

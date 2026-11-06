@@ -1,0 +1,4 @@
+# Docerion header of table-headers-empty-first-cell.html.
+type: test
+title: HTML test page for a table with headers and an empty first cell
+summary: HTML test page with a delivery slots table that has an empty first header cell, used to check header computation in accessibility.

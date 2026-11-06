@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-android-assist-data.txt.
+type: test
+title: Table th column header expected Android assist data
+summary: Expected Android assist data dump for the table-th-colheader HTML test page, showing a table with th column headers Firstname and Lastname.

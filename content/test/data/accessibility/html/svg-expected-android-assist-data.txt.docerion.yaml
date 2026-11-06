@@ -1,0 +1,4 @@
+# Docerion header of svg-expected-android-assist-data.txt.
+type: test
+title: SVG expected Android assist data output
+summary: Expected Android assist data accessibility tree snapshot for the SVG title tag test.

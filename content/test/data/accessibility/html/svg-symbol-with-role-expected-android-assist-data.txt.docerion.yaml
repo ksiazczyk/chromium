@@ -1,0 +1,4 @@
+# Docerion header of svg-symbol-with-role-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for SVG symbol with role
+summary: Expected Android assist data snapshot for the SVG symbol with role accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of span-line-break-expected-blink.txt.
+type: test
+title: span line break expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the span-line-break.html test, covering text runs across span boundaries at different paragraph widths.

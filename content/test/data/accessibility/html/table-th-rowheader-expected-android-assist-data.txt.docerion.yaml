@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for table th row header test
+summary: Expected Android assist data snapshot for the table-th-rowheader test, mapping the HTML table with th row headers Firstname and Lastname to Android views.

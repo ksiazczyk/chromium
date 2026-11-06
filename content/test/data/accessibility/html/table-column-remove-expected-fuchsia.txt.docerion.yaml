@@ -1,0 +1,4 @@
+# Docerion header of table-column-remove-expected-fuchsia.txt.
+type: test
+title: Table column remove expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree output for the table column removal test, showing the remaining table structure after the first column is hidden.

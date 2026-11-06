@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-uia-win.txt.
+type: test
+title: Tabindex with link children expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree on Windows for the tabindex-with-link-children test page, listing hyperlinks and text elements.

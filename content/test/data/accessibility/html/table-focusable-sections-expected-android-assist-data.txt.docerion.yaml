@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-android-assist-data.txt.
+type: test
+title: Focusable table sections expected Android assist data
+summary: Expected Android assist data snapshot describing the accessibility representation of a table with focusable thead, tbody, and tfoot sections.

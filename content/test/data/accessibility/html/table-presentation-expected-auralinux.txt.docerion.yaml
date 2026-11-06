@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for table with role=presentation
+summary: Expected Auralinux accessibility tree for the accessibility test of a table with role=presentation.

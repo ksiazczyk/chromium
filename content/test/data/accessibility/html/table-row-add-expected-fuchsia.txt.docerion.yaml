@@ -1,0 +1,4 @@
+# Docerion header of table-row-add-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table-row-add
+summary: Expected Fuchsia accessibility tree snapshot for the table-row-add test, describing table, rows and cells with row and column indices.

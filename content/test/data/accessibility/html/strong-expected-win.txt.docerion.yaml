@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-win.txt.
+type: test
+title: Expected Windows output for strong element test
+summary: Expected accessibility tree snapshot for the strong element test on Windows, marked as not mapped and skipped.

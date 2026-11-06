@@ -1,0 +1,4 @@
+# Docerion header of table-layout-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for table-layout accessibility test
+summary: Expected Android external accessibility tree snapshot for the table-layout HTML test page.

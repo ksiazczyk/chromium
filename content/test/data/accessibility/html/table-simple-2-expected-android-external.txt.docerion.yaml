@@ -1,0 +1,4 @@
+# Docerion header of table-simple-2-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for table-simple-2
+summary: Expected Android external accessibility description for the table-simple-2 test page, showing layout table roles and cell focus actions.

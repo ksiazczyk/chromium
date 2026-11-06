@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for table with role=presentation
+summary: Expected Android external accessibility output for the accessibility test of a table with role=presentation.

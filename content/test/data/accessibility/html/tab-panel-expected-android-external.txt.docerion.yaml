@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for the tab panel test
+summary: Expected Android external accessibility snapshot listing tab and tab panel roles, actions and selection state.

@@ -1,0 +1,4 @@
+# Docerion header of table-headers-empty-first-cell-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table-headers-empty-first-cell
+summary: Expected Fuchsia accessibility tree for the delivery slots table with an empty first header cell, including row and column indices.

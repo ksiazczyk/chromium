@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-svg-expected-android.txt.
+type: test
+title: svg-child-of-svg expected Android output
+summary: Expected Android accessibility tree for the svg-child-of-svg test, listing SVG images with focusable child views.

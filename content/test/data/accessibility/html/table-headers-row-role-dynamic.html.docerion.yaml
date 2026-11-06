@@ -1,0 +1,4 @@
+# Docerion header of table-headers-row-role-dynamic.html.
+type: test
+title: HTML test page for dynamic row header role changes in a table
+summary: HTML test page that dynamically adds cells to a table via script and waits for a Done status before checking row header roles.

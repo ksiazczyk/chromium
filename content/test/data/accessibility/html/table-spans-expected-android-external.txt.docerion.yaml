@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for table-spans
+summary: Expected Android external accessibility dump for the rowspan and colspan table test, listing collection info and cell spans.

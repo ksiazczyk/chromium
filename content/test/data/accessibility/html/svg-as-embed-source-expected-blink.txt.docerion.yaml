@@ -1,0 +1,4 @@
+# Docerion header of svg-as-embed-source-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for SVG embed test
+summary: Expected Blink accessibility tree snapshot for the SVG embed test page, listing embedded objects and their SVG child buttons.

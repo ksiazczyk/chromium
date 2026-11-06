@@ -1,0 +1,4 @@
+# Docerion header of span-expected-win.txt.
+type: test
+title: span expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree for the span.html test with role, state, and name annotations for text and links.

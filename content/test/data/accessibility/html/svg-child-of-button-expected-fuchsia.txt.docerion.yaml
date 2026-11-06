@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-button-expected-fuchsia.txt.
+type: test
+title: svg-child-of-button expected Fuchsia output
+summary: Expected Fuchsia accessibility output for the svg-child-of-button test, showing a labeled Search button with an image child node.

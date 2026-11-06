@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-android.txt.
+type: test
+title: Strong expected Android skip marker
+summary: Placeholder marking the Android accessibility expectation for the strong text test as skipped because it is not mapped.

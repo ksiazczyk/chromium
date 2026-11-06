@@ -1,0 +1,4 @@
+# Docerion header of svg-with-non-link-anchors-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for SVG with non-link anchors
+summary: Expected Auralinux accessibility tree dump for the SVG-with-non-link-anchors test page, showing SVG frames, sections, and static text nodes.

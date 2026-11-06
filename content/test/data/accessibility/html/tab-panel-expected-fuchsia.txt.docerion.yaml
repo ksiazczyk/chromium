@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the tab panel test
+summary: Expected Fuchsia accessibility tree snapshot for the tab panel test page.

@@ -1,0 +1,4 @@
+# Docerion header of span-expected-uia-win.txt.
+type: test
+title: span expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree for the span.html test with text and hyperlink elements grouped per paragraph.

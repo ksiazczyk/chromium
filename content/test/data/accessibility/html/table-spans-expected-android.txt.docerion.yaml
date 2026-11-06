@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for table-spans
+summary: Expected Android accessibility tree dump for the rowspan and colspan table test, marked to skip editable text nodes.

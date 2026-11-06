@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-mac.txt.
+type: test
+title: Strong expected Mac accessibility snapshot
+summary: Expected macOS accessibility tree for the strong text test page, with an AXStrongStyleGroup and static text value.

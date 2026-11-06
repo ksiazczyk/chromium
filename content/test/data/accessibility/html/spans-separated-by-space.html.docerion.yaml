@@ -1,0 +1,4 @@
+# Docerion header of spans-separated-by-space.html.
+type: test
+title: Spans separated by space test page
+summary: HTML test page with spans separated by a space, used to verify how the space is exposed in the accessibility tree.

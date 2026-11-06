@@ -1,0 +1,4 @@
+# Docerion header of sub-expected-mac.txt.
+type: test
+title: Expected macOS tree for sub element test
+summary: Expected macOS accessibility tree snapshot for the sub element test, listing AX roles, values and subroles for subscript content.

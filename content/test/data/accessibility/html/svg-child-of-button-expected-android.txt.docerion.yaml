@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-button-expected-android.txt.
+type: test
+title: svg-child-of-button expected Android output
+summary: Expected Android accessibility tree for the svg-child-of-button test, listing a clickable Search button with an SVG child view.

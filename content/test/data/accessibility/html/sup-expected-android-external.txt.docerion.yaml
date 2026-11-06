@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-android-external.txt.
+type: test
+title: Sup test expectations for Android external
+summary: Expected external Android accessibility output for the sup HTML test, listing focus actions and chrome roles for superscript text.

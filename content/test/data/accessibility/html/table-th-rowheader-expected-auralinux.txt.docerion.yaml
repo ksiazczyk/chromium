@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for table th row header test
+summary: Expected auralinux accessibility tree snapshot for the table-th-rowheader test, showing row headers Firstname and Lastname with their associated cells.

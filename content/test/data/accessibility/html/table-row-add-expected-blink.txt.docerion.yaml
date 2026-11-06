@@ -1,0 +1,4 @@
+# Docerion header of table-row-add-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table-row-add
+summary: Expected Blink accessibility tree snapshot for the table-row-add test, showing a table with four rows of Row and Foo cells.

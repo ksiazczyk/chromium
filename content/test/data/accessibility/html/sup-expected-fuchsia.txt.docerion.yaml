@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-fuchsia.txt.
+type: test
+title: sup expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the sup test, with static text labels for the superscript paragraph.

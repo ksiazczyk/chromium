@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-win.txt.
+type: test
+title: Static list expected Windows accessibility snapshot
+summary: Expected Windows MSAA role-based accessibility tree for the static list test page with three list items and static text labels.

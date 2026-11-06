@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-list-child-expected-blink.txt.
+type: test
+title: Tabindex with list child expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the tabindex-with-list-child test page, including list, list item and marker nodes.
