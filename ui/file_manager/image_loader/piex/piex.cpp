@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ emscripten bindings for piex image data
+// summary: Wraps the piex library with emscripten bindings to expose RAW image details, preview, and thumbnail metadata to JavaScript.
+// ---
+
 #include "node_modules/piex/src/piex.h"
 
 #include <assert.h>

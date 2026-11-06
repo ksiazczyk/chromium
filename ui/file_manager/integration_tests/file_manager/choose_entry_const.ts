@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Choose Entry test constants
+// summary: Defines the message property name for the chosen entry result and the placeholder used when no file entries are selected.
+// ---
+
 // The name of the property under which we store the selected file entry.
 export const CHOOSE_ENTRY_PROPERTY = 'chooseEntryResult';
 

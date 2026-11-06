@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XfTreeItem tree item element
+// summary: Custom element for a single tree row with label, icon, expand and collapse, selection, disabled and renaming states, used inside the xf-tree widget.
+// ---
+
 import 'chrome://resources/polymer/v3_0/paper-ripple/paper-ripple.js';
 import './xf_icon.js';
 

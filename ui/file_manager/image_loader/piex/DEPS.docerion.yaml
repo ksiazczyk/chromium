@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromium DEPS include rules
+summary: Grants include access to the piex library under node_modules for the C++ build.

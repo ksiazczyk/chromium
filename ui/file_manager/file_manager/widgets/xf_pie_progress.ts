@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pie progress indicator element
+// summary: Lit-based xf-pie-progress custom element that renders an SVG pie-shaped progress indicator driven by a progress property between 0 and 1.
+// ---
+
 import {css, customElement, html, property, svg, XfBase} from './xf_base.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP and Enterprise Connectors tests
+// summary: Integration tests for DLP and Enterprise Connectors warnings, policy setup and reporting during file transfers to removable volumes.
+// ---
+
 import {addEntries, EntryType, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

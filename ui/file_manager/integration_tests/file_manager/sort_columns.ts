@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sort column tests
+// summary: Integration tests verifying that file list columns sort correctly by name, size, type and date, including sort menu state and accessibility messages.
+// ---
+
 import {ENTRIES, RootPath, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

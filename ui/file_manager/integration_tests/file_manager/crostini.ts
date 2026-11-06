@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini Linux files integration tests
+// summary: Integration tests for mounting, enabling, disabling, and sharing paths with Crostini Linux files in the Files app.
+// ---
+
 import {ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

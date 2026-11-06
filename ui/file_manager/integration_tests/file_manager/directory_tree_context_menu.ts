@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Directory tree context menu tests
+// summary: Integration tests for the directory tree context menu, covering rename, cut, copy and paste operations on tree items.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, EntryType, getCaller, pending, REPEAT_UNTIL_INTERVAL, repeatUntil, RootPath, sendTestMessage, TestEntryInfo, wait} from '../test_util.js';
 

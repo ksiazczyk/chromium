@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gear menu integration tests
+// summary: Integration tests for the Files app gear menu, including toggling hidden files and Android hidden folders across local, Drive and Android roots.
+// ---
+
 import {addEntries, ENTRIES, getCaller, pending, repeatUntil, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

@@ -7,6 +7,12 @@
  * @suppress {checkTypes}
  */
 
+// ---docerion
+// type: test
+// title: Choose Entry test script
+// summary: Parses dialog parameters from the URL, invokes chrome.fileSystem.chooseEntry, and messages the selected entry names back to the test page.
+// ---
+
 import {CHOOSE_ENTRY_PROPERTY, NO_ENTRIES_CHOSEN} from './choose_entry_const.js';
 
 /**

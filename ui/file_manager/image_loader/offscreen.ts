@@ -6,6 +6,12 @@
  * @fileoverview Entry point for the Image Loader's offscreen document.
  */
 
+// ---docerion
+// type: source
+// title: Offscreen document entry point
+// summary: Entry point for the Image Loader offscreen document that validates message senders and forwards load image requests to the ImageLoader instance.
+// ---
+
 import {ImageLoader} from './image_loader.js';
 import type {LoadImageRequest, LoadImageResponse} from './load_image_request.js';
 

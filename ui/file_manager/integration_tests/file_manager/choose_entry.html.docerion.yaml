@@ -1,0 +1,4 @@
+# Docerion header of choose_entry.html.
+type: test
+title: Choose Entry test page
+summary: Minimal HTML page that hosts the choose entry script used by the file dialog integration test.

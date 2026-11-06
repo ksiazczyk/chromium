@@ -1,0 +1,4 @@
+# Docerion header of manifest_multiple_mounts.json.
+type: config
+title: Testing Provider multiple mounts manifest
+summary: Manifest variant of the testing provider extension that enables multiple mounts for Files app integration tests.

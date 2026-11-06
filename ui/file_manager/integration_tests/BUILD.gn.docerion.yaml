@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Files app integration tests
+summary: Defines GN targets that copy and compile the TypeScript integration test sources and runtime data for the Files app browser tests.

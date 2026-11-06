@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holding space banner integration tests
+// summary: Integration tests for the holding space welcome banner in the Files app, covering display, dismissal, modal dialogs and tablet mode text.
+// ---
+
 import {getCaller, openEntryChoosingWindow, pending, repeatUntil, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

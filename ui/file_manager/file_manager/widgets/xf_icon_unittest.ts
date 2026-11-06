@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon element unit tests
+// summary: Unit tests for the xf-icon element covering default and large sizes, low and high DPI icon sets, and blank icon rendering.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

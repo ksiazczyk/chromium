@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy between windows integration tests
+// summary: Integration tests for copying and pasting files between two Files app windows across Downloads, Drive, and USB volumes.
+// ---
+
 import type {TestEntryInfo} from '../test_util.js';
 import {addEntries, ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for piex build artifacts
+# summary: Ignores downloaded test images, node_modules, test results, and generated build outputs such as piex.out.js and bytecode files.
+# ---
+
 images
 node_modules
 tests.result.txt

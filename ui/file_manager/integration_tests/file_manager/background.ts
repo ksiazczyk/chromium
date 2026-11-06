@@ -6,6 +6,12 @@
  * This is the entry point for the integration test.
  */
 
+// ---docerion
+// type: test
+// title: Integration test entry point and remote call setup
+// summary: Entry point for the Files app integration test harness that configures the remote call helper, resolves root paths, and runs the requested test case.
+// ---
+
 import {RemoteCallFilesApp} from '../remote_call.js';
 import type {GetRootPathsResult} from '../test_util.js';
 import {RootPath, sendBrowserTestCommand} from '../test_util.js';

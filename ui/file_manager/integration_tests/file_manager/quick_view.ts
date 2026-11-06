@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick View integration tests
+// summary: Integration tests for the Files app Quick View preview dialog, covering opening and closing the dialog, preview behavior and UMA metrics.
+// ---
+
 import {DialogType, type ElementObject} from '../prod/file_manager/shared_types.js';
 import {ExecuteScriptError} from '../remote_call.js';
 import {addEntries, ENTRIES, EntryType, getCaller, getHistogramCount, pending, repeatUntil, RootPath, sanitizeDate, sendTestMessage, TestEntryInfo, wait} from '../test_util.js';

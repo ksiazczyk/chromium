@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create new folder integration tests
+// summary: Integration tests for creating and renaming new folders via keyboard shortcuts in Downloads and Drive in the Files app.
+// ---
+
 import {RootPath, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

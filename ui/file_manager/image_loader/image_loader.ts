@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoader core class
+// summary: Defines the ImageLoader singleton that receives load requests, handles cancellation and orientation, and queues image request tasks via the scheduler.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {ImageCache} from './cache.js';

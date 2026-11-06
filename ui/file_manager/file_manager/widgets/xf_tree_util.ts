@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tree widget utility helpers
+// summary: Helper functions to identify tree and tree item elements and to update tree selection and focus when the children slot changes.
+// ---
+
 import type {XfTree} from './xf_tree.js';
 import type {XfTreeItem} from './xf_tree_item.js';
 

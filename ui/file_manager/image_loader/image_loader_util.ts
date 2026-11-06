@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image resizing and cropping utilities
+// summary: Provides functions to compute target dimensions from scale, maximum, and exact size options and to draw resized, cropped, orientation-corrected images.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {isImageOrientation} from './image_orientation.js';

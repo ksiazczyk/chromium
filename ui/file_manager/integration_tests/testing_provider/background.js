@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing Provider background script
+// summary: Implements a fake Chrome file system provider for Files app integration tests, mounting test file systems and answering metadata, directory, mount, unmount and actions requests.
+// ---
+
 'use strict';
 
 // eslint-disable-next-line no-var

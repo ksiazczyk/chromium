@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Folder shortcuts integration tests
+// summary: Integration tests for folder shortcuts in the Files app directory tree, covering expanding the tree, navigating to folders and removing shortcuts on Drive.
+// ---
+
 import {type ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, getCaller, pending, repeatUntil, RootPath, sendTestMessage} from '../test_util.js';
 

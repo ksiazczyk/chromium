@@ -1,0 +1,4 @@
+# Docerion header of images.sh.
+type: script
+title: Script to fetch RAW test images
+summary: Clones the raw-test-images repository into ./images, after prompting, so the npm test run has its required input files.

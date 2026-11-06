@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load image request and response definitions
+// summary: Defines the LoadImageRequest and LoadImageResponse structures, cache value handling, cache key creation, and helpers for building and cancelling image load requests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {ImageOrientation, ImageTransformParam} from './image_orientation.js';

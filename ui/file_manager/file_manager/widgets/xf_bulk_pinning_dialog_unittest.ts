@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XfBulkPinningDialog unit tests
+// summary: Unit tests for the bulk pinning dialog checking that footers and buttons react correctly to bulk pinning app state changes.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 

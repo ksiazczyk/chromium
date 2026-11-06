@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ImageLoaderClient
+// summary: Tests client caching behavior for URLs and data URIs and the grantAccess flow using mocked chrome runtime messaging.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {ImageLoaderClient} from './image_loader_client.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cache key creation
+// summary: Tests creation of cache keys for load image requests, including rejection of keys for data URLs.
+// ---
+
 import {assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {cacheKey} from './load_image_request.js';

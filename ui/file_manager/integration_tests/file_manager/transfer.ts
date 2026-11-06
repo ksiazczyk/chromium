@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app file transfer integration tests
+// summary: Integration tests for copying and moving files between volumes such as Downloads, Drive and shared drives.
+// ---
+
 import {type ElementObject} from '../prod/file_manager/shared_types.js';
 import {ENTRIES, EntryType, getCaller, pending, repeatUntil, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 

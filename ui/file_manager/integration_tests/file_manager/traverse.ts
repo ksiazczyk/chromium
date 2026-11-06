@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app directory traversal integration tests
+// summary: Integration tests that traverse nested directories in Downloads and Drive to verify folder navigation.
+// ---
+
 import {addEntries, ENTRIES, RootPath} from '../test_util.js';
 
 import {remoteCall} from './background.js';

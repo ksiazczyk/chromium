@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler unit tests
+// summary: Unit tests for the Scheduler using fake tasks to verify add and remove behavior, priority ordering, and the maximum parallel task limit.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {ImageRequestTask} from './image_request_task.js';

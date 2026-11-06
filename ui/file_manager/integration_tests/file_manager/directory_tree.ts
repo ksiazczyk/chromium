@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Directory tree integration tests
+// summary: Integration tests for the Files app directory tree, covering selection, focus, aria descriptions and navigation between folders.
+// ---
+
 import {addEntries, ENTRIES, EntryType, getCaller, pending, repeatUntil, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

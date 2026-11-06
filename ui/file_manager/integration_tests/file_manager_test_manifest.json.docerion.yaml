@@ -1,0 +1,4 @@
+# Docerion header of file_manager_test_manifest.json.
+type: config
+title: Files test extension manifest
+summary: Manifest for the Files test extension used by integration tests, declaring its service worker, permissions and incognito behavior.

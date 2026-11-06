@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image orientation unit tests
+// summary: Unit tests for the ImageOrientation class covering size calculation after cancelling orientation, canvas pixel transforms, and conversion from rotation and scale parameters.
+// ---
+
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {ImageOrientation} from './image_orientation.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Piex WASM loader for RAW image previews
+// summary: Loads and manages the piex WASM module to extract thumbnails, orientation, color space, and IFD data from RAW images, with failure recovery handling.
+// ---
+
 /**
  * Declares the piex-wasm Module interface. The Module has many interfaces
  * but only declare the parts required for PIEX work.

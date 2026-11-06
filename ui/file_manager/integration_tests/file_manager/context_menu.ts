@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu integration tests
+// summary: Integration tests verifying that context menu commands are shown, enabled, disabled, or hidden correctly for different file types in the Files app.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 

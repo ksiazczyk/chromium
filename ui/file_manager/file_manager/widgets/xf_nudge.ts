@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge attention element
+// summary: XfNudge custom element that shows a dismissible bubble anchored to a screen area to highlight new features or changed files.
+// ---
+
 import {getTemplate} from './xf_nudge.html.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Chrome extension manifest for piexwasm test
+summary: Manifest version 2 configuration for a test Chrome extension that verifies the piexwasm module loads and runs, with a CSP permitting wasm evaluation.

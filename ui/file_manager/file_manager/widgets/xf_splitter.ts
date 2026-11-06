@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XfSplitter draggable pane splitter
+// summary: Lit custom element for the Files app that renders a draggable splitter bar resizing the panes before and after it, dispatching splitter drag and resize events.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {css, customElement, html, XfBase} from './xf_base.js';

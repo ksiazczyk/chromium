@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XfBreadcrumb unit tests
+// summary: Unit tests for the xf-breadcrumb widget covering path buttons, the elider drop-down menu and their visual states.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertFalse, assertGT, assertNotEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';

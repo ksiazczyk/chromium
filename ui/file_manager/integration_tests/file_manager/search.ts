@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search integration tests
+// summary: Integration tests for Files app search, covering results, empty results, clearing the search box, accessibility announcements and search option filters.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {addEntries, ENTRIES, EntryType, getCaller, getDateWithDayDiff, pending, repeatUntil, RootPath, sendTestMessage, SharedOption, TestEntryInfo} from '../test_util.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XfPasswordDialog custom element
+// summary: Implements the xf-password-dialog element that prompts for a password to open encrypted files, resolving a promise with the password or rejecting with USER_CANCELLED.
+// ---
+
 
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import type {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore preferences tests
+// summary: Integration tests verifying that the sorting order and the current view (list or thumbnail grid) are restored when opening new Files app windows.
+// ---
+
 import {ENTRIES, RootPath, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

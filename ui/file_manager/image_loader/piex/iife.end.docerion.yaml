@@ -1,0 +1,4 @@
+# Docerion header of iife.end.
+type: source
+title: IIFE wrapper closing fragment
+summary: Closing JavaScript fragment appended to the emscripten output to complete the IIFE wrapper.

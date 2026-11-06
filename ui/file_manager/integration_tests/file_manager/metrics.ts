@@ -5,6 +5,12 @@
  * @fileoverview Tests that enum metrics are recorded correctly.
  */
 
+// ---docerion
+// type: test
+// title: Metrics recording tests
+// summary: Tests that Files app metrics are recorded correctly in UMA histograms, covering enum metrics, SWA opens, directory list load times and available apps.
+// ---
+
 import {createTestFile, ENTRIES, getHistogramCount, getHistogramSum, RootPath} from '../test_util.js';
 
 import {remoteCall} from './background.js';

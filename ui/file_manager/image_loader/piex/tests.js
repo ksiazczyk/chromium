@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Puppeteer runner for the piex test page
+// summary: Node test runner that serves the test page, drives it with Puppeteer over a list of RAW sample images, and logs per-image results.
+// ---
+
 const example = 'node tests tests.html [options]';
 
 const program = require('commander');

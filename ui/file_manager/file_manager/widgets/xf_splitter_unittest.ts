@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XfSplitter unit tests
+// summary: Unit tests verifying the splitter's default layout and that mouse and touch drag events resize the child panes correctly.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertLT} from 'chrome://webui-test/chromeos/chai_assert.js';
 

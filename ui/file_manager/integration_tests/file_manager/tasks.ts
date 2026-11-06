@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File task tests
+// summary: Integration tests for file tasks, covering execution of the default task and selecting a default app through the default task dialog using fake tasks.
+// ---
+
 import type {ElementObject} from '../prod/file_manager/shared_types.js';
 import {getCaller, pending, repeatUntil, RootPath} from '../test_util.js';
 

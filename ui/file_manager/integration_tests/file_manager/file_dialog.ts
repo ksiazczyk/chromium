@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File dialog tests
+// summary: Integration tests for opening and closing file dialogs, selecting entries and interacting with dialog buttons and keys.
+// ---
+
 import type {TestEntryInfo} from '../test_util.js';
 import {addEntries, ENTRIES, getCaller, openEntryChoosingWindow, pending, pollForChosenEntry, repeatUntil, sendBrowserTestCommand, sendTestMessage} from '../test_util.js';
 

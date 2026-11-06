@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for image_loader
+summary: Base TypeScript compiler configuration for the image_loader directory, extending Chromium's shared tsconfig with DOM and ES2015+ libraries and custom type roots.

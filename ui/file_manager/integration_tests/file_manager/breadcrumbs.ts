@@ -5,6 +5,12 @@
  * @fileoverview Tests that breadcrumbs work.
  */
 
+// ---docerion
+// type: test
+// title: Breadcrumbs integration tests
+// summary: Integration tests checking breadcrumb navigation, short and long path rendering, and Downloads label translation in the Files app.
+// ---
+
 import {createNestedTestFolders, ENTRIES, getUserActionCount, RootPath, sendTestMessage, TestEntryInfo} from '../test_util.js';
 
 import {remoteCall} from './background.js';

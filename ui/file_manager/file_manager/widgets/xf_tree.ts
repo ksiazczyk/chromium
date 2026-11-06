@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XfTree tree container element
+// summary: Custom element that hosts xf-tree-item children and manages single selection, focus, keyboard interaction and ARIA attributes for the Files app directory tree.
+// ---
+
 import {isRTL} from 'chrome://resources/ash/common/util.js';
 
 import {css, customElement, html, query, state, XfBase} from './xf_base.js';

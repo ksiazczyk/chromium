@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XfTreeItem unit tests
+// summary: Unit tests covering rendering, nesting, selection, focus and attribute behavior of individual tree items.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {eventToPromise} from 'chrome://webui-test/test_util.js';

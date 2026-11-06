@@ -10,6 +10,12 @@
  * to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: Type definitions for chrome.imageLoaderPrivate
+// summary: Declares the chrome.imageLoaderPrivate API functions for fetching Drive, PDF, and ARC documents provider thumbnails.
+// ---
+
 
 
 declare namespace chrome {

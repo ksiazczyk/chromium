@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata operation tests
+// summary: Tests that measure the number of metadata operations the Files app performs when opening and navigating, guarding against performance regressions.
+// ---
+
 import type {MetadataStats} from '../prod/file_manager/shared_types.js';
 import {addEntries, createTestFile, ENTRIES, EntryType, RootPath, TestEntryInfo} from '../test_util.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for image copy parameters
+// summary: Tests calculation of copy parameters for resizing, rotating, and cropping images against expected source, target, and canvas dimensions.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {calculateCopyParameters, type CopyParameters} from './image_loader_util.js';

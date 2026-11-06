@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline sync status element
+// summary: xf-inline-status element used in table and grid views to show sync progress, offline availability and pinning state.
+// ---
+
 import {str, strf} from '../common/js/translations.js';
 import type {FilesTooltip} from '../foreground/elements/files_tooltip.js';
 

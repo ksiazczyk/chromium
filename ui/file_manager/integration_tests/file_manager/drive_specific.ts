@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Drive specific tests
+// summary: Integration tests for Google Drive specific behaviors such as offline files, shared with me views, search and Drive dialogs.
+// ---
+
 import {createTestFile, ENTRIES, EntryType, getCaller, getUserActionCount, pending, repeatUntil, RootPath, sendTestMessage, TestEntryInfo, waitForMediaApp} from '../test_util.js';
 
 import {remoteCall} from './background.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab index and focus tests
+// summary: Integration tests for tab focus order and keyboard focus behavior of Files app elements such as the search box, toolbar buttons and file list.
+// ---
+
 import {type ElementObject} from '../prod/file_manager/shared_types.js';
 import type {TestEntryInfo} from '../test_util.js';
 import {addEntries, RootPath} from '../test_util.js';

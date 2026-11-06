@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app ZIP archive integration tests
+// summary: Integration tests for mounting and extracting ZIP archives from Downloads, Drive and USB volumes.
+// ---
+
 import {addEntries, ENTRIES, expectHistogramTotalCount, getCaller, pending, repeatUntil, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

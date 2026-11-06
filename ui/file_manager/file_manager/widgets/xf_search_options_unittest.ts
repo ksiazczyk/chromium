@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search options unit tests
+// summary: Unit tests verifying that changing the location, recency, and file type selectors emits SEARCH_OPTIONS_CHANGED events with the expected option kind and value.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertDeepEquals} from 'chrome://webui-test/chai_assert.js';
 

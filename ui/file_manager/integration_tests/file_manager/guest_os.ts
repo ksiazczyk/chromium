@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS integration tests
+// summary: Integration tests for Guest OS entries in the Files app sidebar, covering listing guests and mounting or unmounting guest volumes.
+// ---
+
 import {ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';

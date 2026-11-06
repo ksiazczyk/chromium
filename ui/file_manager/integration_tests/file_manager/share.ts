@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encrypted file sharing tests
+// summary: Integration test verifying that the sharesheet for encrypted files only offers Drive-based and Nearby sharing options and removes other targets.
+// ---
+
 import {ENTRIES, RootPath, sendTestMessage} from '../test_util.js';
 
 import {remoteCall} from './background.js';
