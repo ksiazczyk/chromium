@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app management page handler
+// summary: Test double implementing the app management page handler interface to simulate app queries, permission changes, and settings updates in tests.
+// ---
+
 import type {App, PageHandlerInterface, PageRemote, Permission, RunOnOsLoginMode, WindowMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

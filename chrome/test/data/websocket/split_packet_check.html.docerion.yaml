@@ -1,0 +1,4 @@
+# Docerion header of split_packet_check.html.
+type: test
+title: WebSocket split packet close test
+summary: Test page that closes a WebSocket served with a split close packet and checks for a clean close with code 3004 and reason 'split test'.

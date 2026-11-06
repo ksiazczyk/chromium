@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for app settings WebUI tests
+summary: GN build configuration that assembles the app settings WebUI mocha tests, listing the TypeScript test files, path mappings, and build dependencies.

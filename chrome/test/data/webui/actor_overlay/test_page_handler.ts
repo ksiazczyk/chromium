@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay test page handler mock
+// summary: Test double implementing the actor overlay page handler Mojom interface to support the WebUI tests.
+// ---
+
 import type {ActorOverlayPageHandlerInterface} from 'chrome://actor-overlay/actor_overlay.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

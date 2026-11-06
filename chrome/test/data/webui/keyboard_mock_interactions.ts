@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard event simulation helpers
+// summary: Helpers to fire keydown, keyup and full key press events with modifiers on DOM elements during tests.
+// ---
+
 export type Modifier = 'alt'|'ctrl'|'meta'|'shift';
 export type ModifiersParam = Modifier|Modifier[];
 

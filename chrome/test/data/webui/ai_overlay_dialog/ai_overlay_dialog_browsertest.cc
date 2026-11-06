@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI overlay dialog WebUI Mocha browser test harness
+// summary: Browser test fixture that enables the AI overlay dialog features and runs the persona, conversation, and API session Mocha suites.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/ui_features.h"
 #include "chrome/common/webui_url_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI ComposeBox pixel test implementation
+// summary: Implements WebUIComposeBoxPixelTest setup and teardown applying dark or light backgrounds and RTL settings for ComposeBox pixel tests.
+// ---
+
 #include "chrome/test/data/webui/webui_composebox_pixel_test.h"
 
 #include "base/i18n/rtl.h"

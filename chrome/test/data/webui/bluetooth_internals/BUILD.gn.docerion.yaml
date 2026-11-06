@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Bluetooth internals WebUI tests
+summary: GN build file that defines the WebUI test target for the Bluetooth internals page, listing the C++ browser test and TypeScript test sources and dependencies.

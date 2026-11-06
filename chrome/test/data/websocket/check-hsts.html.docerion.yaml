@@ -1,0 +1,4 @@
+# Docerion header of check-hsts.html.
+type: test
+title: HSTS WebSocket connection check page
+summary: Test page that opens the WebSocket URL from the location hash and reports PASS when the clean close indicates the connection used SSL via HSTS.

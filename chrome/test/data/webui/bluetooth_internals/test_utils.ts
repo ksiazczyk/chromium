@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth internals test utilities
+// summary: Test doubles and fake data for the Bluetooth internals tests, including a fake BluetoothInternalsHandler, TestAdapter, and fake device and service info.
+// ---
+
 import {AdapterReceiver, ConnectResult, GattServiceRemote} from 'chrome://bluetooth-internals/adapter.mojom-webui.js';
 import type {AdapterInfo, AdapterObserver, GattServiceObserver} from 'chrome://bluetooth-internals/adapter.mojom-webui.js';
 import {BluetoothInternalsHandlerReceiver} from 'chrome://bluetooth-internals/bluetooth_internals.mojom-webui.js';

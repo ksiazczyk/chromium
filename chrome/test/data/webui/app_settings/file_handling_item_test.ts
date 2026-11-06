@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handling item test suite
+// summary: Tests the app management file handling item, including the overflow dialog and the learn more link behavior.
+// ---
+
 /** @fileoverview Test suite for AppManagementFileHandlingItem. */
 import 'chrome://app-settings/file_handling_item.js';
 

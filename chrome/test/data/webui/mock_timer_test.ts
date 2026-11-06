@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MockTimer
+// summary: Mocha suite verifying timeout, interval, clearing and interleaving behavior of the MockTimer utility.
+// ---
+
 import {assertEquals} from './chai_assert.js';
 
 import {MockTimer} from './mock_timer.js';

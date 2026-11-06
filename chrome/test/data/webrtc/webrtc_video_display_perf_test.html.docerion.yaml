@@ -1,0 +1,4 @@
+# Docerion header of webrtc_video_display_perf_test.html.
+type: test
+title: WebRTC video display performance test page
+summary: Automated test page that displays a remote WebRTC video stream and loads helper scripts for peer connection, SDP munging, getUserMedia, frame detection, and stats to support video display performance testing.

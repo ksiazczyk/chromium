@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for WebUI tests
+summary: Points the directory's metadata mixins at the shared WebUI common metadata file.

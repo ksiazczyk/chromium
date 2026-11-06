@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Second injected communication channel test helper
+// summary: Variant of the injected communication channel that responds to connect_request messages from an embedder.
+// ---
+
 // eslint-disable-next-line no-var
 var embedder = null;
 

@@ -1,0 +1,4 @@
+# Docerion header of multiple-connections.html.
+type: test
+title: WebSocket connection limit test
+summary: Test page that opens 255 WebSocket connections to verify WebSockets are not subject to the HTTP(S) connection limit.

@@ -1,0 +1,4 @@
+# Docerion header of connect_to_using_worker.html.
+type: test
+title: WebSocket connection test via dedicated worker
+summary: Test page that opens a WebSocket through a dedicated worker and reports the result by setting the document title to PASS or FAIL.

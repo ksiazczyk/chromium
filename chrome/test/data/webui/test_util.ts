@@ -5,6 +5,12 @@
 // Do not depend on the Chai Assertion Library in this file. Some consumers of
 // the following test utils are not configured to use Chai.
 
+// ---docerion
+// type: test
+// title: WebUI test utilities
+// summary: Shared WebUI test helpers for awaiting attributes and events, checking visibility, querying shadow DOM, verifying styles and debugging tests.
+// ---
+
 /**
  * Observes an HTML attribute and fires a promise when it matches a given
  * value.

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Fake app home page handler test double
+// summary: Test double implementing the app home PageHandlerInterface with fake app data and recorded method calls for use in the app list tests.
+// ---
+
 import type {AppInfo, ClickEvent, PageHandlerInterface, PageRemote, RunOnOsLoginMode} from 'chrome://apps/app_home.mojom-webui.js';
 import {AppType} from 'chrome://apps/app_home.mojom-webui.js';
 import {UserDisplayMode} from 'chrome://apps/user_display_mode.mojom-webui.js';

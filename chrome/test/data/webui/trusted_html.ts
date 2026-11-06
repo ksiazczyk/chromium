@@ -8,6 +8,12 @@
  * ui/webui/resources/js/static_types.ts because the HTML is not fully static.
  */
 
+// ---docerion
+// type: test
+// title: TrustedHTML helper for WebUI tests
+// summary: Creates TrustedHTML via a test-only trusted types policy for non-static HTML injected during WebUI tests, not for production use.
+// ---
+
 let policy: TrustedTypePolicy|null = null;
 
 export function getTrustedHtml(html: string): TrustedHTML {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock timer with virtual time for tests
+// summary: Replaces setTimeout, setInterval and related functions with virtual-time timers controlled via a tick method.
+// ---
+
 /** Overrides timeout and interval callbacks to mock timing behavior. */
 interface Timer {
   callback: Function;

@@ -1,0 +1,4 @@
+# Docerion header of check-origin.html.
+type: test
+title: WebSocket origin header check page
+summary: Test page that connects to a check-origin handler on the given port and sets the title to FILE, NULL, or FAIL based on the origin header the server reports.

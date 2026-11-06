@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock method and controller for test mocking
+// summary: Provides MockMethod and MockController to record calls, set expectations and verify mocked functions in tests.
+// ---
+
 import {assertDeepEquals, assertEquals} from './chai_assert.js';
 
 /**

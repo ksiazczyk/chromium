@@ -1,0 +1,4 @@
+# Docerion header of check_tests_referenced.gni.
+type: test
+title: GN template to check test file references
+summary: GN wrapper that runs a Node script verifying every Mocha TS test file is referenced by a C++ test.

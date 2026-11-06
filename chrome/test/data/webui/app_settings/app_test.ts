@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App settings page test suite
+// summary: Mocha tests for the web app settings page, covering element presence, permissions, supported links, and related page behavior with a fake page handler.
+// ---
+
 import 'chrome://app-settings/web_app_settings.js';
 
 import type {App, AppElement, PermissionItemElement, PermissionTypeIndex, SupportedLinksItemElement, SupportedLinksOverlappingAppsDialogElement, ToggleRowElement} from 'chrome://app-settings/web_app_settings.js';

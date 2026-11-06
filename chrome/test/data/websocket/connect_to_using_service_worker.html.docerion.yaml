@@ -1,0 +1,4 @@
+# Docerion header of connect_to_using_service_worker.html.
+type: test
+title: WebSocket connection via service worker page
+summary: Test page that registers a service worker, asks it to open the WebSocket URL from the ?url= parameter, and sets the title to PASS or FAIL based on the result.

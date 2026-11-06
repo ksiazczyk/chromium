@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Home WebUI Mocha browser test
+// summary: Browser test that loads the App Home WebUI page and runs the app_list Mocha test suite for the app list interface.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/ui_features.h"
 #include "chrome/common/webui_url_constants.h"

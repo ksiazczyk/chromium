@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser proxy tests
+// summary: Tests the access code cast browser proxy for dialog closing, dialog arguments, camera availability and QR scanning support.
+// ---
+
 import {BrowserProxy, DialogCloseReason} from 'chrome://access-code-cast/browser_proxy.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

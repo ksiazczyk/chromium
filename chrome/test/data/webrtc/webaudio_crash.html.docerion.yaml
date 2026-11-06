@@ -1,0 +1,4 @@
+# Docerion header of webaudio_crash.html.
+type: test
+title: Web Audio media stream crash regression page
+summary: Reproduces a crash scenario where a media stream track is freed while an AudioNode still references its source provider.

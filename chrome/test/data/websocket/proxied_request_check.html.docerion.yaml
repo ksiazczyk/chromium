@@ -1,0 +1,4 @@
+# Docerion header of proxied_request_check.html.
+type: test
+title: Proxied WebSocket request header check
+summary: Test page that connects to an echo-request-headers endpoint and fails if any proxy- prefixed headers reach the WebSocket server.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conversation behavior tests
+// summary: Mocha tests covering Conversation defaults, transcription and state handling, and tool calls using a TestBrowserProxy tools remote.
+// ---
+
 import type {PageCallbackRouter} from 'chrome-untrusted://ai-overlay-dialog/ai_overlay_dialog.mojom-webui.js';
 import {Conversation, DEFAULT_API_CONFIG, DEFAULT_PERSONA, DEFAULT_SYSTEM_INSTRUCTION, State} from 'chrome-untrusted://ai-overlay-dialog/internal/conversation.js';
 type ConversationMessage =|{

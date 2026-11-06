@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: RTCRtpSender replaceTrack test
+// summary: JavaScript test that verifies replacing an RTCRtpSender's video track changes the frames received remotely, using canvas streams and color polling.
+// ---
+
 /**
  * The resolver has a |promise| that can be resolved or rejected using |resolve|
  * or |reject|.

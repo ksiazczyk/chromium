@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebSocket test data README
+summary: Describes the resources used by the WebSocket test server, listing each test page and the browser tests that use it.
+---
+
 This directory contains resources used by WebSocket server for testing.
 Multiple tests may share one resource, or URI handler.
 

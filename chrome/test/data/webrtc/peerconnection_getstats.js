@@ -7,6 +7,12 @@
 
 // Public interface to tests.
 
+// ---docerion
+// type: test
+// title: getStats test helpers
+// summary: JavaScript helpers for WebRTC browser tests that fetch the getStats report dictionary, measure getStats performance, and verify stats against an allowlist.
+// ---
+
 /**
  * Gets the result of the promise-based |RTCPeerConnection.getStats| as a
  * dictionary of RTCStats-dictionaries.

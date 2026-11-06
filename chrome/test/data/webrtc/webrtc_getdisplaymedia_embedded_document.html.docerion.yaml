@@ -1,0 +1,4 @@
+# Docerion header of webrtc_getdisplaymedia_embedded_document.html.
+type: test
+title: Embedded getDisplayMedia test document
+summary: Runs getDisplayMedia inside an iframe and reports capture success or failure back to the parent window.

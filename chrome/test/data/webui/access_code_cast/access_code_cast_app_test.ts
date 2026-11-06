@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access Code Cast app element tests
+// summary: Mocha tests for the access-code-cast-app element covering code and QR input view switching, access code handling and sink casting behaviour.
+// ---
+
 import 'chrome://access-code-cast/access_code_cast_app.js';
 
 import {AddSinkResultCode, CastDiscoveryMethod} from 'chrome://access-code-cast/access_code_cast.mojom-webui.js';

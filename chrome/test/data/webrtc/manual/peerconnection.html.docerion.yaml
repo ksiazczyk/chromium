@@ -1,0 +1,4 @@
+# Docerion header of peerconnection.html.
+type: test
+title: WebRTC PeerConnection Manual Test redirect page
+summary: Redirects the old WebRTC PeerConnection manual test page to the sample pages now hosted on GitHub.

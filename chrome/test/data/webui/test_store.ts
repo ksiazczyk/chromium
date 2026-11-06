@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test store for WebUI tests
+// summary: Generic TestStore replacing the real Store in tests, with manual state control, action tracking and wait helpers.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {Action} from 'chrome://resources/js/store.js';
 import {Store} from 'chrome://resources/js/store.js';

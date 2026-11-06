@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App settings browser test launcher
+// summary: C++ WebUI mocha browser test that runs each app settings TypeScript test suite inside the web app settings page.
+// ---
+
 #include "chrome/browser/ui/webui/app_settings/web_app_settings_navigation_throttle.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

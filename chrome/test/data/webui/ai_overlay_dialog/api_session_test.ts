@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApiSession setup message tests
+// summary: Mocha tests verifying that ApiSession sends a correctly formatted setup message through an injected fake WebSocket.
+// ---
+
 import {ApiSession} from 'chrome-untrusted://ai-overlay-dialog/internal/api_session.js';
 import type {ApiSessionConfig} from 'chrome-untrusted://ai-overlay-dialog/internal/api_session.js';
 import {assertDeepEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';

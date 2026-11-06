@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Video frame capture helpers for WebRTC tests
+// summary: Records a video element with MediaRecorder and exposes the captured video as Base64 for tests to verify.
+// ---
+
 /**
  * FPS at which we would like to sample.
  * @private

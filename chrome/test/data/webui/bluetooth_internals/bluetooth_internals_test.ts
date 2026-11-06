@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth internals WebUI test suite
+// summary: Mocha test suite for the Bluetooth internals WebUI, exercising adapter, device, sidebar, and snackbar behavior using fake adapter and device data from test utilities.
+// ---
+
 import type {AdapterInfo} from 'chrome://bluetooth-internals/adapter.mojom-webui.js';
 import type {AdapterPage} from 'chrome://bluetooth-internals/adapter_page.js';
 import {adapterBroker, checkSystemPermissions, devices, initializeViews, pageManager, sidebarObj} from 'chrome://bluetooth-internals/bluetooth_internals.js';

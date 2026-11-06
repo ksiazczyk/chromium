@@ -1,0 +1,4 @@
+# Docerion header of webrtc_getdisplaymedia_test.html.
+type: test
+title: getDisplayMedia capture test page
+summary: Exercises getDisplayMedia with a CaptureController, checking zoom events, track settings and error handling for browser tests.

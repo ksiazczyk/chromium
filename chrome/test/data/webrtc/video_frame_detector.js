@@ -6,6 +6,12 @@
 
 // This file requires the functions defined in test_functions.js.
 
+// ---docerion
+// type: test
+// title: Video frame playback detection helpers
+// summary: Tracks requestVideoFrameCallback counts and playback quality so tests can detect whether a video element is playing.
+// ---
+
 var gNumVideoFrameCallbacks = 0;
 var gNumFramesSinceStartDetection = 0;
 var gVideoElements = {};

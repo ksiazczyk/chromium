@@ -12,6 +12,12 @@
  * test code.
  */
 
+// ---docerion
+// type: test
+// title: Mocha adapter for WebUI browser tests
+// summary: Configures Mocha and reports test results to the WebUIMochaBrowserTest C++ class via domAutomationController.
+// ---
+
 // Messages passed back to WebUIMochaBrowserTest C++ class.
 enum TestStatus {
   FAILURE = 'FAILURE',

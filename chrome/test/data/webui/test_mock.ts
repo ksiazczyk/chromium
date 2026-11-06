@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test mock base class
+// summary: Generic TestMock base class that mocks all methods of a given class and lets tests track calls and set results.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PromiseResolver} from '//resources/js/promise_resolver.js';
 

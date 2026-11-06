@@ -4,6 +4,12 @@
 
 /** @fileoverview Test implementation of PluralStringProxy. */
 
+// ---docerion
+// type: test
+// title: Test plural string proxy
+// summary: Test implementation of PluralStringProxy that records getPluralString calls and returns a configurable text.
+// ---
+
 // clang-format off
 import type {PluralStringProxy} from 'chrome://resources/js/plural_string_proxy.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build config for about_sys WebUI tests
+summary: Defines the GN build targets for the about_sys WebUI tests, listing the C++ browser test, TypeScript test files, path mappings, and TypeScript dependencies.

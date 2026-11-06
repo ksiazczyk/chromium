@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App home tests directory metadata
+summary: DIR_METADATA file that applies the chrome browser web applications common metadata mixins to this test directory.

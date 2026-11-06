@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: SDP munging helpers for WebRTC tests
+// summary: JavaScript helpers that modify SDP offers for WebRTC browser tests, such as setting default audio and video codecs, enabling Opus DTX, and setting target bitrate.
+// ---
+
 /**
  * See |setSdpDefaultCodec|.
  */

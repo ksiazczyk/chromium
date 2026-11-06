@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Web Audio peer connection helpers
+// summary: Loads an audio file into a Web Audio context and plays it through a peer connection during tests.
+// ---
+
 var gContext = null;
 
 function loadAudioAndAddToPeerConnection(url, peerconnection) {

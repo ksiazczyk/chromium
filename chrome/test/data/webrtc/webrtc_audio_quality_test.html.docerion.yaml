@@ -1,0 +1,4 @@
+# Docerion header of webrtc_audio_quality_test.html.
+type: test
+title: WebRTC audio quality test page
+summary: Hosts local and remote audio elements plus the shared test scripts for automated WebRTC audio quality tests.

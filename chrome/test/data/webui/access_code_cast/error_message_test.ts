@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error message element tests
+// summary: Verifies that the c2c-error-message element maps add sink and cast result codes to the expected message codes.
+// ---
+
 import 'chrome://access-code-cast/error_message/error_message.js';
 
 import {AddSinkResultCode} from 'chrome://access-code-cast/access_code_cast.mojom-webui.js';

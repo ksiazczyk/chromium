@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Access Code Cast WebUI tests build definition
+summary: GN build file that defines the build_webui_tests target listing the C++ browser test and TypeScript test files for access code cast.

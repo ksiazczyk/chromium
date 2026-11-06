@@ -6,6 +6,12 @@
 
 // Helper / error handling functions.
 
+// ---docerion
+// type: test
+// title: WebRTC test helper and error handling functions
+// summary: Shared debug, logging and error helpers used by the WebRTC browser test pages.
+// ---
+
 /**
  * Prints a debug message.
  */

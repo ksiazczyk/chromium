@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list UI mocha test suite
+// summary: TypeScript mocha and chai suite covering the app list UI, including app items, deprecated apps link, run on OS login modes, and user action metrics.
+// ---
+
 import 'chrome://apps/app_list.js';
 import 'chrome://apps/app_item.js';
 import 'chrome://apps/deprecated_apps_link.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Actor overlay WebUI tests build file
+summary: GN build rule that assembles the actor overlay WebUI test target from the C++ browser test and TypeScript test sources.

@@ -1,3 +1,9 @@
+---
+type: guide
+title: TTC WebUI Testing Constraints
+summary: Rules for writing WebUI Mocha tests, mandating public-API testing without any casts and TestBrowserProxy-based test doubles instead of ad-hoc stubs.
+---
+
 # TTC WebUI Testing Constraints (`AGENTS.md`)
 
 Rules in this file prevent brittle test doubles and compiler breaks when writing Mocha (`*test.ts`) tests.

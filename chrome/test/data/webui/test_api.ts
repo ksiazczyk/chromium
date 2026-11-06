@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for disabling animations and transitions
+// summary: Provides disableAnimationsAndTransitions, which forces all animations and transitions to zero duration in WebUI tests.
+// ---
+
 /**
  * Make all transitions and animations take 0ms. NOTE: this will completely
  * disable webkitTransitionEnd events. If your code relies on them firing, it

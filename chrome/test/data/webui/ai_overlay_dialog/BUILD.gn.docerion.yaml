@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build target for ai_overlay_dialog WebUI tests
+summary: Defines the build_webui_tests target with the C++ browser test, TypeScript test files, path mappings, and TypeScript dependencies.

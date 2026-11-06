@@ -6,6 +6,12 @@
  * @fileoverview Fake implementations of ChromeEvent.
  */
 
+// ---docerion
+// type: test
+// title: Fake ChromeEvent implementation
+// summary: Provides a fake ChromeEvent class that tracks listeners and dispatches calls to them for tests.
+// ---
+
 import {assertFalse, assertTrue} from './chai_assert.js';
 
 export class FakeChromeEvent {

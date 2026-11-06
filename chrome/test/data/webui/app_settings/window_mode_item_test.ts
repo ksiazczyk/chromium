@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window Mode Item Test Suite
+// summary: WebUI test suite verifying that the app-management-window-mode-item element is shown or hidden depending on the app's hideWindowMode flag.
+// ---
+
 /** @fileoverview Test suite for app-management-window-mode-item. */
 import 'chrome://app-settings/window_mode_item.js';
 

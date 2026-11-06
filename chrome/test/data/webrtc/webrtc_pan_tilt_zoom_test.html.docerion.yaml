@@ -1,0 +1,4 @@
+# Docerion header of webrtc_pan_tilt_zoom_test.html.
+type: test
+title: Camera pan-tilt-zoom permission and constraints test page
+summary: Tests camera pan, tilt and zoom permissions and constraints through getUserMedia and video track settings.
