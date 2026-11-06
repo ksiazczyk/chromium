@@ -6,6 +6,12 @@
 *  tree.
 */
 
+// ---docerion
+// type: source
+// title: Canvas capture stream to peer connection script
+// summary: Draws an animated canvas and streams it between two RTCPeerConnection objects for the canvas capture sample.
+// ---
+
 'use strict';
 
 const DEFAULT_FRAME_RATE = 30;

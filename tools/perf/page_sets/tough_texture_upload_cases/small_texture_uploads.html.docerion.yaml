@@ -1,0 +1,4 @@
+# Docerion header of small_texture_uploads.html.
+type: test
+title: Small texture upload benchmark page
+summary: WebGL page that benchmarks repeated texture uploads at up to 256 pixels using texture_upload_experiment.js.

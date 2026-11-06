@@ -1,0 +1,4 @@
+# Docerion header of navigation.html.
+type: test
+title: View transition navigation test page
+summary: HTML page for the view_transitions performance page set that navigates between pages with optional cross-document view transitions and records paint and transition results.

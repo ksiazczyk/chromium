@@ -1,0 +1,4 @@
+# Docerion header of encoded-insertable-streams.html.
+type: source
+title: Encoded insertable streams test page
+summary: WebRTC samples page that runs a test with a configurable number of peer connections using encoded insertable streams.

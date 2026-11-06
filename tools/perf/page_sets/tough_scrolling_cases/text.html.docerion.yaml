@@ -1,0 +1,4 @@
+# Docerion header of text.html.
+type: test
+title: Plain text tough scrolling test page
+summary: Benchmark page with a long lorem ipsum text body serving as a baseline scrolling case in the performance page set.

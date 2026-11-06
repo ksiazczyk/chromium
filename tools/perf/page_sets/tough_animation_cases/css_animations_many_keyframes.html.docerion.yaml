@@ -1,0 +1,4 @@
+# Docerion header of css_animations_many_keyframes.html.
+type: test
+title: CSS animations benchmark with many keyframes
+summary: Performance test page that animates 1000 targets along a 500-keyframe CSS keyframe path to measure animation performance.

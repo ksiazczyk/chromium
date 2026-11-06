@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gsutil helper module for availability checks and file downloads
+// summary: Node.js helper module that checks whether the gsutil command-line tool is available and downloads files from Google Cloud Storage into a local output directory.
+// ---
+
 'use strict';
 
 const child_process = require('child_process');

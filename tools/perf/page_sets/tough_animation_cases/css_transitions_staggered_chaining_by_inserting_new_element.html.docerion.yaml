@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_chaining_by_inserting_new_element.html.
+type: test
+title: CSS transitions staggered chaining by inserting new element
+summary: Performance test page that chains staggered CSS transitions by inserting keyframe trigger elements before targets on each transitionend event.

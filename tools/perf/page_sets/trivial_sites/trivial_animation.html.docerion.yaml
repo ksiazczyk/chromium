@@ -1,0 +1,4 @@
+# Docerion header of trivial_animation.html.
+type: source
+title: Trivial animation test page
+summary: Minimal page that moves an embedded image horizontally in a loop with setTimeout for animation performance testing.

@@ -1,0 +1,4 @@
+# Docerion header of compositor_heavy_animation.html.
+type: test
+title: Compositor-heavy animation benchmark page
+summary: Performance test page that runs 200 layered, 3D-transformed divs with infinite opacity animations to stress the compositor.

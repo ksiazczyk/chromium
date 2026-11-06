@@ -1,0 +1,4 @@
+# Docerion header of bouncing_balls.html.
+type: test
+title: Canvas 2D bouncing balls frame rate test page
+summary: HTML page hosting the Canvas 2D bouncing balls frame rate benchmark, setting up the canvas and hidden ball and background images.

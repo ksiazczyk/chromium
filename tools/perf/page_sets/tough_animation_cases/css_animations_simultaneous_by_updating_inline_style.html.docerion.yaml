@@ -1,0 +1,4 @@
+# Docerion header of css_animations_simultaneous_by_updating_inline_style.html.
+type: test
+title: 'Perf test: simultaneous CSS animations via inline style updates'
+summary: Benchmark page that updates the inline animation name on 1000 targets to restart their CSS animations simultaneously every second.

@@ -1,0 +1,4 @@
+# Docerion header of generate_profile_webview.py.
+type: source
+title: PGO profile generation script for WebView
+summary: Generates PGO profiles for Android WebView by profiling target apps such as AGSA and GMA and merging the resulting profile data.

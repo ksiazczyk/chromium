@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bouncing balls drawn as canvas sprite map
+// summary: Ball drawing variant that pre-renders fifty rotated ball sprites into a canvas sprite map and blits the matching rotation.
+// ---
+
 var spriteMap;
 var ballRadius;
 var spriteMapSize = 50;

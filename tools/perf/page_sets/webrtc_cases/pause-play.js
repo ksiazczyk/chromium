@@ -5,6 +5,12 @@
  */
 /* exported startTest */
 
+// ---docerion
+// type: source
+// title: Pause play test script
+// summary: Script that runs loopback peer connections over audio and video elements and repeatedly pauses and plays them to exercise the media pipeline.
+// ---
+
 'use strict';
 
 const $ = document.getElementById.bind(document);

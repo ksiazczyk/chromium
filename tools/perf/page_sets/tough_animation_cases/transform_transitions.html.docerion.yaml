@@ -1,0 +1,4 @@
+# Docerion header of transform_transitions.html.
+type: test
+title: CSS transform transitions with Buffon needle main-thread load
+summary: Benchmark page cycling CSS transform transitions through combinations of translate, rotate, scale, perspective, matrix and skew values while a Buffon needle computation loads the main thread.

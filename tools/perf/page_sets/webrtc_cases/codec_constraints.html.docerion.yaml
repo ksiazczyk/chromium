@@ -1,0 +1,4 @@
+# Docerion header of codec_constraints.html.
+type: source
+title: Peer connection with codec constraints page
+summary: WebRTC samples page for a peer connection call where the video codec (H264, VP8 or VP9) can be selected.

@@ -1,0 +1,4 @@
+# Docerion header of bouncing_png_images.html.
+type: source
+title: Bouncing PNG images canvas benchmark page
+summary: HTML page that loads a hidden PNG image and animates 500 bouncing copies of it on an 800x600 canvas through the benchmark loop.

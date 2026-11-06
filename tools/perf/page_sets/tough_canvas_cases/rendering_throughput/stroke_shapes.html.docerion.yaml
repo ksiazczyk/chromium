@@ -1,0 +1,4 @@
+# Docerion header of stroke_shapes.html.
+type: source
+title: Canvas stroke shapes benchmark page
+summary: HTML page that loads bench.js and stroke_shapes.js and runs a 1000-shape canvas stroke throughput benchmark on an 800x600 canvas.

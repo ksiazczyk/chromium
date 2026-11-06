@@ -1,0 +1,4 @@
+# Docerion header of background_color_animation_with_gradient.html.
+type: test
+title: Background color animation with gradient benchmark page
+summary: Performance test page that animates background colors on rotated divs under a repeating radial gradient overlay.

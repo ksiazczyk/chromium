@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_shadow.html.
+type: test
+title: CSS value type perf test for box-shadow animation
+summary: Performance test page that animates the box-shadow property between two multi-shadow values via the CSS value type helper.

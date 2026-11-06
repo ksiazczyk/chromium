@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_chaining_by_updating_inline_style.html.
+type: test
+title: CSS transitions staggered chaining by updating inline style
+summary: Performance test page that chains opacity transitions on 1000 targets by rewriting inline styles with staggered negative transition delays.

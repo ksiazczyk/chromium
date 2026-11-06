@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_simultaneous_by_updating_class.html.
+type: test
+title: CSS transitions simultaneous by updating class
+summary: Performance test page that starts CSS opacity transitions on all targets simultaneously by swapping keyframe class names.

@@ -8,6 +8,12 @@
 
 /* jshint esversion: 6 */
 
+// ---docerion
+// type: source
+// title: Encoded insertable streams peer connection test script
+// summary: JavaScript for the encoded insertable streams perf test page that creates loopback peer connections piping encoded frames and renders the remote video.
+// ---
+
 'use strict';
 
 var $ = document.getElementById.bind(document);

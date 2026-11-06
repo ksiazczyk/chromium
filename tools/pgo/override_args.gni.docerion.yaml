@@ -1,0 +1,4 @@
+# Docerion header of override_args.gni.
+type: config
+title: GN args override example for PGO profiles
+summary: Provides example GN arguments for overriding the PGO profile file and its Cloud Storage bucket on bots or locally.

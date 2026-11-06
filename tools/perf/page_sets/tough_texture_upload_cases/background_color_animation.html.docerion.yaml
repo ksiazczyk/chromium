@@ -1,0 +1,4 @@
+# Docerion header of background_color_animation.html.
+type: test
+title: Background color animation benchmark page
+summary: Performance test page that continuously animates background colors on stacked rotated divs.

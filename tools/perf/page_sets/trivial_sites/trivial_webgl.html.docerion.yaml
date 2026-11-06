@@ -1,0 +1,4 @@
+# Docerion header of trivial_webgl.html.
+type: source
+title: Trivial WebGL test page
+summary: Page that repeatedly clears a full-screen WebGL canvas with a shifting red color via requestAnimationFrame.

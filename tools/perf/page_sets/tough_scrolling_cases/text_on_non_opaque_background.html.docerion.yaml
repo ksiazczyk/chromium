@@ -1,0 +1,4 @@
+# Docerion header of text_on_non_opaque_background.html.
+type: test
+title: Text on non-opaque background scrolling test page
+summary: Small test page with a scrollable div whose text sits on a non-opaque background, exercising main-thread scrolling when composited scrolling is disabled.

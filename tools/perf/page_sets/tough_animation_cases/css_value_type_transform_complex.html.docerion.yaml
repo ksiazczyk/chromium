@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_transform_complex.html.
+type: test
+title: CSS value type perf test for complex transform animation
+summary: Performance test page that animates the transform property between combined rotate and translate values via the CSS value type helper.

@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Tablet layout stylesheet
+summary: Lays out a 550 by 800 pixel flex container of small green target elements for tablet-sized animation performance test pages.
+*/
+
 body {
   margin: 0;
   overflow: hidden;

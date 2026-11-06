@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extract histogram metrics from traces
+// summary: Exports a function that opens a trace URL in a browser and computes histogram metric values from the loaded trace model.
+// ---
+
 async function extractMetrics(browser, traceurl, metrics) {
   const page = await browser.newPage();
   let histograms = {};

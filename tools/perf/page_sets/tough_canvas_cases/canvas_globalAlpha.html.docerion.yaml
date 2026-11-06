@@ -1,0 +1,4 @@
+# Docerion header of canvas_globalAlpha.html.
+type: test
+title: Canvas globalAlpha stress test page
+summary: Performance test page that draws hundreds of moving, semi-transparent, overlapping rectangles to stress composited canvas draws with globalAlpha.

@@ -1,0 +1,4 @@
+# Docerion header of generate_images.sh.
+type: script
+title: Generate random images for tough canvas cases
+summary: Shell script that uses ImageMagick to generate 400 random-sized PNG images as test assets for the many_images canvas performance page set.

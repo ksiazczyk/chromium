@@ -1,0 +1,4 @@
+# Docerion header of get_image_data_gpu.html.
+type: test
+title: getImageData on GPU-accelerated canvas benchmark
+summary: Benchmark page that fills a 1024x1024 canvas and calls getImageData with willReadFrequently disabled to measure GPU-path pixel readback performance.

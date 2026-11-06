@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: Generate and transfer data script
+// summary: Chunks and sends data over an RTCDataChannel while tracking send progress, throughput and buffered amount.
+// ---
+
 'use strict';
 const MAX_CHUNK_SIZE = 262144;
 

@@ -1,0 +1,4 @@
+# Docerion header of canvas_lines.html.
+type: source
+title: Canvas lines benchmark page
+summary: HTML page that loads bench.js and canvas_lines.js and runs a 3000-line canvas drawing throughput benchmark on an 800x600 canvas.

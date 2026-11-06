@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web worker garbage generation script
+// summary: Worker script that allocates arrays as garbage in chunks until reaching a target byte count, then posts done and optionally closes itself.
+// ---
+
 let targetBytes;
 let closeWorker;
 let garbageBytes = 0;

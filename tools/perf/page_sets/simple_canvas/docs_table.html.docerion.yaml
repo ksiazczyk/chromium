@@ -1,0 +1,4 @@
+# Docerion header of docs_table.html.
+type: test
+title: Canvas table document rendering benchmark
+summary: Performance test page that renders a table-like document of many colored rectangles and clips on a large 2D canvas.

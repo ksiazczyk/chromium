@@ -1,0 +1,4 @@
+# Docerion header of keyframed_animations.html.
+type: test
+title: Keyframed CSS animations performance test page
+summary: Performance test page exercising many @keyframes transform and opacity animations on positioned divs to stress keyframed animation rendering.

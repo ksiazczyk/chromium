@@ -1,0 +1,4 @@
+# Docerion header of trivial_blur_animation.html.
+type: source
+title: Trivial blur animation test page
+summary: Page that animates a CSS blur filter over a full-screen gradient-filled canvas.

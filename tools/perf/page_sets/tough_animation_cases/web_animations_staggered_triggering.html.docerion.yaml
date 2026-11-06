@@ -1,0 +1,4 @@
+# Docerion header of web_animations_staggered_triggering.html.
+type: test
+title: Staggered triggering Web Animations benchmark
+summary: Benchmark page triggering opacity animations on many targets in a staggered fashion over one animation duration.

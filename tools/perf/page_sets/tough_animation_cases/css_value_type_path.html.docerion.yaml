@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_path.html.
+type: test
+title: CSS value type perf test for SVG path d property animation
+summary: Performance test page that animates the SVG path d property between two path() values using the shared CSS value type helper.

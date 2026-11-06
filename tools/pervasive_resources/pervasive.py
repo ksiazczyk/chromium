@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Pervasive resource collector script
+# summary: Queries the HTTP Archive dataset in BigQuery to find pervasive, static resources and generates URL patterns that are written to a C++ header file.
+# ---
+
 """Collects pervasive resources from HTTP Archive and generates a pattern list.
 
 This script queries the HTTP Archive dataset in BigQuery to find resources

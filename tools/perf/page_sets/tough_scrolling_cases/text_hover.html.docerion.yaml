@@ -1,0 +1,4 @@
+# Docerion header of text_hover.html.
+type: test
+title: Text hover effects tough scrolling test page
+summary: Benchmark page applying hover color and box-shadow styles to headings and paragraphs over a long lorem ipsum text body for scrolling tests.

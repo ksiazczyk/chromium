@@ -1,0 +1,4 @@
+# Docerion header of toBlob_small_canvas_in_worker.html.
+type: test
+title: Small OffscreenCanvas toBlob in a worker benchmark
+summary: Performance test page measuring convertToBlob on a small OffscreenCanvas inside a worker, referencing crbug.com/1053477 scheduling delays.

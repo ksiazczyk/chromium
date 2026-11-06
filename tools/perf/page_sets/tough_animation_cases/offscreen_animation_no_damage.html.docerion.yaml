@@ -1,0 +1,4 @@
+# Docerion header of offscreen_animation_no_damage.html.
+type: test
+title: Offscreen animation no-damage benchmark page
+summary: Benchmark page toggling opacity and z-index transitions on elements scrolled off screen to check that offscreen animations cause no damage.

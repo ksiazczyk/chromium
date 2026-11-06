@@ -5,6 +5,12 @@
 // benchmark (https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/developer.html).
 // Javascript code: https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/tests/simple/resources/tiled-canvas-image.js
 
+// ---docerion
+// type: source
+// title: Canvas put/get image data benchmark stage
+// summary: Defines tiled canvas image data put and get operations with shuffled output locations for the rendering throughput benchmark, inspired by the animometer tiled canvas test.
+// ---
+
 function ImageTile(x, y, width, height) {
   this.source_x = x;
   this.source_y = y;

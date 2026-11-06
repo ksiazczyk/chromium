@@ -1,0 +1,4 @@
+# Docerion header of simple_touch_drag.html.
+type: test
+title: Touch handler dragging test page
+summary: Baseline test page that drags a div in response to touch move events for measuring latency with non-empty JS touch handlers.

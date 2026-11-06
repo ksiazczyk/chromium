@@ -1,0 +1,4 @@
+# Docerion header of video_to_texture.html.
+type: test
+title: Video to WebGL texture upload benchmark
+summary: Performance test page uploading video frames with texImage2D while cycling flipY and premultiply alpha settings, then reading back a pixel.

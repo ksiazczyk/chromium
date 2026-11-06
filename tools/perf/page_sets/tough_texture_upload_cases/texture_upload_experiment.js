@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture upload experiment script
+// summary: WebGL helper that sets up shaders and a textured quad, then repeatedly uploads animated pixel data to drive the texture upload benchmark.
+// ---
+
 function SetupShaderProgram(gl) {
   // Create Vertex Shader.
   var vertex_shader = '' +

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swarming server query runner
+// summary: Uses the swarming binary to query tasks by tag and retrieve JSON output files for individual tasks from swarming servers.
+// ---
+
 'use strict';
 
 const child_process = require('child_process');

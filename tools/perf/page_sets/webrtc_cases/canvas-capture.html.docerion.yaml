@@ -1,0 +1,4 @@
+# Docerion header of canvas-capture.html.
+type: source
+title: Canvas capture stream to peer connection page
+summary: WebRTC samples page that captures a canvas stream and plays it back over a peer connection.

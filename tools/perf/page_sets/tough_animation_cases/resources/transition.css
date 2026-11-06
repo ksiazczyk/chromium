@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Opacity transition stylesheet
+summary: Applies a one-second linear opacity transition to target elements for transition-based performance test pages.
+*/
+
 target {
   transition: opacity 1000ms linear;
 }

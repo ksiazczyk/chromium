@@ -1,0 +1,4 @@
+# Docerion header of trivial_canvas.html.
+type: source
+title: Trivial canvas test page
+summary: Page that repeatedly fills a full-screen 2D canvas with a shifting red color via requestAnimationFrame.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bouncing balls drawn as filled path
+// summary: Ball drawing variant that draws each ball as a filled polygon path shaded with a radial gradient.
+// ---
+
 var ballRadius;
 var ballGradient;
 var segmentCount = 20;

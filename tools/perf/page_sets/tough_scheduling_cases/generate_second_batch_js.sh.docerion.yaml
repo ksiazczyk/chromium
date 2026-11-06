@@ -1,0 +1,4 @@
+# Docerion header of generate_second_batch_js.sh.
+type: script
+title: Second batch JS generation script
+summary: Shell script that generates light, medium and heavy minified JavaScript variants for the second batch JS benchmark using the Python generator and yui-compressor.

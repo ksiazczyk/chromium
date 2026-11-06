@@ -1,0 +1,4 @@
+# Docerion header of opacity.html.
+type: test
+title: Chrome 18 opacity test page
+summary: HTML test page that toggles the body opacity between 0.99 and 1.0 every second to exercise layer compositing in Chrome performance tests.

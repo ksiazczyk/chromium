@@ -1,0 +1,4 @@
+# Docerion header of css_animations_staggered_triggering_by_inserting_new_element.html.
+type: test
+title: 'Perf test: staggered CSS animation triggering via new element insertion'
+summary: Benchmark page that triggers CSS animations staggered over one second by repeatedly inserting and replacing new target elements.

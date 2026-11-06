@@ -1,0 +1,4 @@
+# Docerion header of static_webgl_to_hw_accelerated_canvas.html.
+type: test
+title: Static WebGL to hardware-accelerated canvas draw benchmark
+summary: Performance test page that repeatedly draws a static WebGL canvas into a 2D canvas with drawImage and flushes the result via a dummy canvas.

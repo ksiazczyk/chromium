@@ -1,0 +1,4 @@
+# Docerion header of css_value_type_length_simple.html.
+type: test
+title: CSS value type length simple
+summary: Performance test page measuring interpolation of simple pixel length values for the left property.

@@ -8,6 +8,12 @@
 
 /* jshint esversion: 6 */
 
+// ---docerion
+// type: source
+// title: Multiple peerconnections test script
+// summary: Script that sets up the requested number of loopback peer connections with optional CPU overuse detection for the multiple peerconnections test page.
+// ---
+
 'use strict';
 
 var $ = document.getElementById.bind(document);

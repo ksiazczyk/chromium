@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL query argument parser for canvas benchmark pages
+// summary: Provides getArgValue to read query string parameters from the page URL for the tough canvas benchmark pages.
+// ---
+
 function getArgValue(argname)
 {
   var url = window.location.href;

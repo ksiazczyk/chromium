@@ -5,6 +5,12 @@
 // benchmark (https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/developer.html).
 // Javascript code: https://pr.gg/animometer/tests/simple/resources/simple-canvas-paths.js
 
+// ---docerion
+// type: source
+// title: Canvas stroke shapes benchmark stage
+// summary: Defines randomly generated stroked quadratic, bezier, arc, arc-to, rectangle and ellipse shapes with a stage that draws them for the rendering throughput benchmark.
+// ---
+
 var shape_types = ["quadratic", "bezier", "arc_to",
                    "arc", "rectangle", "ellipse"];
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: System health story set definitions
+# summary: Defines story set classes that discover and assemble System Health user stories for desktop and mobile platforms, with filtering by case and tag.
+# ---
+
 import os
 
 from page_sets.system_health import chrome_stories

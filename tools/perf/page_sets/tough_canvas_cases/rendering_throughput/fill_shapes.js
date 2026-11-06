@@ -5,6 +5,12 @@
 // benchmark (https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/developer.html).
 // Javascript code: https://pr.gg/animometer/tests/simple/resources/simple-canvas-paths.js
 
+// ---docerion
+// type: source
+// title: Canvas fill shapes benchmark stage
+// summary: Defines randomly generated filled arc, arc-to, rectangle and ellipse shapes with a stage that draws them for the rendering throughput benchmark.
+// ---
+
 var shape_types = ["arc_to", "arc", "rectangle", "ellipse"];
 
 function CanvasFillShape() {

@@ -1,0 +1,4 @@
+# Docerion header of extra_large_texture_uploads.html.
+type: test
+title: Extra large texture upload benchmark page
+summary: WebGL page that benchmarks repeated texture uploads at up to 4096 pixels using texture_upload_experiment.js.

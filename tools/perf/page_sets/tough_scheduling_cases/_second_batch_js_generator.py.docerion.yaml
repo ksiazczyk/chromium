@@ -1,0 +1,4 @@
+# Docerion header of _second_batch_js_generator.py.
+type: script
+title: Second batch JS generator
+summary: Python generator that creates synthetic JavaScript for measuring parsing, compilation and initial execution speed, with configurable closures, functions and loops.

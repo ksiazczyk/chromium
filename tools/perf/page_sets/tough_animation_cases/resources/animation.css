@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Animation keyframes stylesheet
+summary: Defines one-second opacity keyframe animations and their reverse for target elements in the tough animation performance test pages.
+*/
+
 target {
   -webkit-animation: anim 1s linear;
 }

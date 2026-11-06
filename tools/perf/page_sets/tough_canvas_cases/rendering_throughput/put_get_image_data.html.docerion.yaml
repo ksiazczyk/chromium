@@ -1,0 +1,4 @@
+# Docerion header of put_get_image_data.html.
+type: source
+title: Canvas put/get image data benchmark page
+summary: HTML page that loads bench.js and put_get_image_data.js and runs a canvas getImageData and putImageData throughput benchmark on an 800x600 canvas.

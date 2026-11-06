@@ -1,0 +1,4 @@
+# Docerion header of raf_animation.html.
+type: test
+title: requestAnimationFrame with CSS animation test page
+summary: Performance test page combining a requestAnimationFrame loop with an infinite CSS animation on the status element.

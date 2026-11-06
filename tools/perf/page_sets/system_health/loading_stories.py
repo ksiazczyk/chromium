@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Loading system health stories
+# summary: Defines single-page load stories for search, e-commerce, and social network sites across desktop and mobile platforms.
+# ---
+
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags
 from page_sets.system_health import system_health_story

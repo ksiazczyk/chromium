@@ -1,0 +1,4 @@
+# Docerion header of canvas-font-cycler.html.
+type: test
+title: Canvas font cycling performance test page
+summary: Performance test page that cycles through many font names, weights and sizes each frame, drawing text to stress canvas font resolution.

@@ -1,0 +1,4 @@
+# Docerion header of negotiate-timing.html.
+type: test
+title: Peer connection negotiation timing test page
+summary: HTML page for measuring WebRTC peer connection negotiation timing, with start, call, renegotiate and hang up controls and a log area.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Long running system health stories
+# summary: Defines stories that keep pages such as Gmail idle in the foreground or background while periodically sampling memory usage.
+# ---
+
 from page_sets.login_helpers import google_login
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags

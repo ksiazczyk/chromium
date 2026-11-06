@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanvasRunner helper for canvas performance page sets
+// summary: JavaScript helper exposing CanvasRunner, which starts a video element, waits for playback, and provides forced garbage collection for canvas performance tests.
+// ---
+
 (function () {
     var MEASURE_DRAW_TIMES = 50;
     var MAX_MEASURE_DRAW_TIMES = 1000;

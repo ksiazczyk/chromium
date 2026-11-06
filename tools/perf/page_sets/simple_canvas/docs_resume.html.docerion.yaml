@@ -1,0 +1,4 @@
+# Docerion header of docs_resume.html.
+type: test
+title: Canvas resume document rendering benchmark
+summary: Performance test page that renders a resume-style document with Merriweather and Open Sans text on a large 2D canvas.

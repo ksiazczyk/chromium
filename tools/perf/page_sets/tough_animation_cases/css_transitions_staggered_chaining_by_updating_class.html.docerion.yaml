@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_chaining_by_updating_class.html.
+type: test
+title: CSS transitions staggered chaining by updating class
+summary: Performance test page that chains staggered CSS transitions by updating each target's keyframe class on its transitionend event.

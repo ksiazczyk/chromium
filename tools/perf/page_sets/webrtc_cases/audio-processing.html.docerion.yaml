@@ -1,0 +1,4 @@
+# Docerion header of audio-processing.html.
+type: source
+title: Audio processing with insertable streams page
+summary: WebRTC samples page demonstrating real-time low-pass filtering of microphone audio with the insertable streams API.

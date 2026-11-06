@@ -7,6 +7,12 @@
 # The number of lines will be reduced after 2018 update is complete and
 # the old stories are removed: https://crbug.com/878390.
 
+# ---docerion
+# type: source
+# title: Browsing system health stories
+# summary: Defines user stories that load sites and browse items or articles, using login helpers and shared browsing behavior base classes.
+# ---
+
 import re
 
 from page_sets.system_health import platforms

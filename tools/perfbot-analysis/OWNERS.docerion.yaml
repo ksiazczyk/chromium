@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for perfbot-analysis scripts
+summary: Lists the owners responsible for the perfbot-analysis scripts and delegates administration to the Chrome Graphics team.

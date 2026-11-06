@@ -1,0 +1,4 @@
+# Docerion header of simple_text_page.html.
+type: test
+title: Simple text page
+summary: Baseline performance test page containing only static filler text for scrolling measurements.

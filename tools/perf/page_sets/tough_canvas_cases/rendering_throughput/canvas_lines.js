@@ -5,6 +5,12 @@
 // benchmark (https://trac.webkit.org/export/HEAD/trunk/PerformanceTests/Animometer/developer.html).
 // Javascript code: https://pr.gg/animometer/tests/master/resources/canvas-tests.js
 
+// ---docerion
+// type: source
+// title: Canvas lines benchmark stage
+// summary: Defines oscillating canvas lines arranged around circles plus a stage that draws them for the rendering throughput benchmark, inspired by the animometer lines test.
+// ---
+
 function CanvasLine() {
 
   this.init = function(circle_x, circle_y, circle_radius, min_length,

@@ -1,0 +1,4 @@
+# Docerion header of css_transitions_staggered_triggering_by_inserting_style_element.html.
+type: test
+title: CSS transitions staggered triggering by inserting style element
+summary: Performance test page that triggers staggered CSS transitions by inserting new style elements with class rules for each step.

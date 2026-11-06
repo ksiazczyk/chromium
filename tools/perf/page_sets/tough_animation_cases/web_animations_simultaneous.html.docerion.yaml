@@ -1,0 +1,4 @@
+# Docerion header of web_animations_simultaneous.html.
+type: test
+title: Simultaneous Web Animations benchmark
+summary: Benchmark page repeatedly starting opacity animations on many targets at the same time using the Web Animations API.

@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: Audio processing with insertable streams script
+// summary: Implements the audio processing sample, piping microphone frames through a low-pass filter transform via insertable streams.
+// ---
+
 'use strict';
 
 /* global MediaStreamTrackProcessor, MediaStreamTrackGenerator */

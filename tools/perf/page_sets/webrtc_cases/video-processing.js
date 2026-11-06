@@ -6,6 +6,12 @@
  *  tree.
  */
 
+// ---docerion
+// type: source
+// title: JavaScript logic for the insertable streams video processing sample
+// summary: Implements the media stream sources, transforms and pipeline logic behind the insertable streams video processing sample page, including camera and canvas sources.
+// ---
+
 'use strict';
 
 /* global VideoMirrorHelper */ // defined in video-mirror-helper.js

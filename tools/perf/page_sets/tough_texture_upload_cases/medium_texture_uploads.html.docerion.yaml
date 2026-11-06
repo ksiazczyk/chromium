@@ -1,0 +1,4 @@
+# Docerion header of medium_texture_uploads.html.
+type: test
+title: Medium texture upload benchmark page
+summary: WebGL page that benchmarks repeated texture uploads at up to 1024 pixels using texture_upload_experiment.js.

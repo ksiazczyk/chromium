@@ -1,0 +1,4 @@
+# Docerion header of video-processing.html.
+type: source
+title: Video processing with insertable streams sample page
+summary: HTML page for the WebRTC insertable streams video processing sample, with options for stream source, transform and destination, used in the performance page set.

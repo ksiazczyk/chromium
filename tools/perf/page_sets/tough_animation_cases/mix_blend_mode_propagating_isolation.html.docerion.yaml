@@ -1,0 +1,4 @@
+# Docerion header of mix_blend_mode_propagating_isolation.html.
+type: test
+title: CSS blending deep tree painting benchmark page
+summary: Benchmark page painting a deeply nested element tree whose leaf uses mix-blend-mode, repainting each frame to stress CSS blending isolation.

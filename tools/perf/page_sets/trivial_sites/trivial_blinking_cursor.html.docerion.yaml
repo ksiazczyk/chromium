@@ -1,0 +1,4 @@
+# Docerion header of trivial_blinking_cursor.html.
+type: source
+title: Trivial blinking cursor test page
+summary: Page showing a Google Docs-style blinking text caret driven by CSS keyframe fade animations.

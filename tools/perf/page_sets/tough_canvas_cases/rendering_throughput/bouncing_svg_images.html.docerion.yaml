@@ -1,0 +1,4 @@
+# Docerion header of bouncing_svg_images.html.
+type: source
+title: Bouncing SVG images canvas benchmark page
+summary: HTML page that loads a hidden Chromium logo SVG and animates 300 bouncing copies of it on an 800x600 canvas through the benchmark loop.
