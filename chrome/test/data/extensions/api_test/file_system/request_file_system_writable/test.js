@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.fileSystem.requestFileSystem writable access
+// summary: Runs tests verifying that writable file system requests fail on read-only volumes and succeed only when write access is requested.
+// ---
+
 chrome.test.runTests([
   function readOnlyVolume() {
     // Requesting a writable access to a read-only volume is incorrect and

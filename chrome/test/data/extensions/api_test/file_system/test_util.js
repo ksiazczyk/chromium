@@ -5,6 +5,12 @@
 // This is a duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: test_util helpers for fileSystem API tests
+// summary: Shared helper for chrome.fileSystem API tests that checks an entry's name, readability, and writability by reading and writing expected content.
+// ---
+
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {
   chrome.test.assertEq(expectedName, entry.name);
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fileSystem suggested name test app
+summary: Extension manifest defining the test app, its background script, and the fileSystem permissions needed for the test.

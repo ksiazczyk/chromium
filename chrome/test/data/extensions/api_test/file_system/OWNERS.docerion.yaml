@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for fileSystem API tests
+summary: Delegates ownership of these test data files to the OWNERS file of the chrome.fileSystem browser-side API implementation.

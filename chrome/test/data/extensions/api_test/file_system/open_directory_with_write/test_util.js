@@ -5,6 +5,12 @@
 // This is a modified duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: Test utility for checking entry writability
+// summary: Helper that verifies entry names, readability, and write behavior; a modified duplicate of the shared file system test_util.
+// ---
+
 // TODO(sammc): Merge the changes back to the original test_util.js. See
 // http://crbug.com/41042737.
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem off-Chrome OS test app
+summary: Chrome App manifest declaring the test app with the fileSystem requestFileSystem permission for the non-Chrome OS API test.

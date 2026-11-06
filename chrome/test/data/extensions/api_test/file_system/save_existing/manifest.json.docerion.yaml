@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest
+summary: Manifest for the chrome.fileSystem save existing file test app, requesting the fileSystem permission.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.fileSystem directory write tests
+// summary: Runs browser tests for moving, copying, creating, and removing files and directories with write permission.
+// ---
+
 // Testing with directory access and write permission.
 chrome.test.runTests([
   function moveFile() {

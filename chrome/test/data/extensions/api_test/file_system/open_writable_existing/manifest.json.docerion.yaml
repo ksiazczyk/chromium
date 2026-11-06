@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem open writable file test app
+summary: Manifest v2 app manifest declaring the fileSystem permission and the background script for the test app.

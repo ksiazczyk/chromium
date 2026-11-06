@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem not-kiosk-session test app
+summary: Declares the Chrome app used to test chrome.fileSystem.requestFileSystem outside a kiosk session, with kiosk_enabled and the requestFileSystem permission.

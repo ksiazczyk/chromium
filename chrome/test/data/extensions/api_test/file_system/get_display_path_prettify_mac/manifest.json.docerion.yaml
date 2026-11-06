@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getDisplayPath prettify Mac test app
+summary: Chrome app manifest declaring the background script and the fileSystem permission for the getDisplayPath test on Mac.

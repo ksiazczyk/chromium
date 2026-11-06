@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test opening multiple existing writable files
+// summary: Runs a chrome.test case that uses chrome.fileSystem.chooseEntry with acceptsMultiple to open two writable files and verifies their names and order.
+// ---
+
 chrome.test.runTests([
   function openFile() {
     chrome.fileSystem.chooseEntry(

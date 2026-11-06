@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onVolumeListChanged test extension
+summary: Manifest version 2 app definition for the test extension, requesting the requestFileSystem permission and loading background.js.

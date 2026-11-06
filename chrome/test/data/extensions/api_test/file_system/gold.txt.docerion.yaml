@@ -1,0 +1,4 @@
+# Docerion header of gold.txt.
+type: data
+title: gold test fixture
+summary: Sample text file whose 'Can you see me?' contents are read and verified by the chrome.fileSystem extension API tests.

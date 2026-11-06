@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem getWritableFileEntry test app
+summary: Defines the test app for chrome.fileSystem.getWritableFileEntry, including the fileSystem permission and background script.

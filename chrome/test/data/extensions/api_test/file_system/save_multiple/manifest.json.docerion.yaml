@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem save multiple files test
+summary: Manifest defining the test app with fileSystem write permission for the save multiple files API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem save cancel test app
+summary: Extension manifest defining the test app and its fileSystem write permission for the save cancel API test.

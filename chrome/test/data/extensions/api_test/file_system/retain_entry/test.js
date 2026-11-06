@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.fileSystem.retainEntry API test
+// summary: Runs the test that opens another window, retains an entry, checks it is restorable, and restores it.
+// ---
+
 chrome.test.runTests([
   function retainEntryWorks() {
     chrome.app.window.create(

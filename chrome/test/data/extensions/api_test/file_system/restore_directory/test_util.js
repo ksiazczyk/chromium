@@ -5,6 +5,12 @@
 // This is a duplicate of the file test_util in
 // chrome/test/data/extensions/api_test/file_system
 
+// ---docerion
+// type: test
+// title: Shared entry check helpers for fileSystem API tests
+// summary: Provides the checkEntry helper verifying that an entry can be read and written only when expected, duplicated from the parent fileSystem test directory.
+// ---
+
 function checkEntry(entry, expectedName, isNew, shouldBeWritable) {
   chrome.test.assertEq(expectedName, entry.name);
   // Test that the file can be read.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.fileSystem save background test
+summary: Manifest for the test extension that loads background.js and requests fileSystem write permission to test saving from a background page.

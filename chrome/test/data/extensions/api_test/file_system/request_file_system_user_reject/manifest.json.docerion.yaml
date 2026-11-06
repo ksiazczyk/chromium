@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem user rejection test app
+summary: Chrome app manifest enabling kiosk mode and the requestFileSystem permission for the user consent rejection test.

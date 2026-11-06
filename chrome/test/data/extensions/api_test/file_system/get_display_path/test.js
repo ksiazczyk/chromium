@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.fileSystem.getDisplayPath API test
+// summary: Runs a Chrome test that picks a file entry and asserts getDisplayPath returns a path containing file_system and gold.txt.
+// ---
+
 chrome.test.runTests([
   function getDisplayPath() {
     chrome.fileSystem.chooseEntry(chrome.test.callbackPass(function(entry) {

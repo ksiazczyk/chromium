@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry chooser helper for the retainEntry test
+// summary: Chooses a file entry, retains and restores its ID to verify restorability, and reports back to the main test.
+// ---
+
 chrome.fileSystem.chooseEntry(
     {type: 'openFile'}, chrome.test.callbackPass(function(entry) {
       const id = chrome.fileSystem.retainEntry(entry);

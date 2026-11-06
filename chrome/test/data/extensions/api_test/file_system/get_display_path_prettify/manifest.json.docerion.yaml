@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest
+summary: Manifest for the chrome.fileSystem.getDisplayPath prettify test app, declaring the background script and fileSystem permission.

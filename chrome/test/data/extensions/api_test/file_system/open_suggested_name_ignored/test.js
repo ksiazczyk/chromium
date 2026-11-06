@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chooseEntry suggestedName behavior
+// summary: Verifies that chrome.fileSystem.chooseEntry ignores suggestedName for open dialogs and honors it for saveFile dialogs.
+// ---
+
 chrome.test.runTests([
   function openDirectorySuggestedNameIgnored() {
     chrome.fileSystem.chooseEntry(

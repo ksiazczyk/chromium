@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem whitelisted component test app
+summary: Manifest for a Chrome app test extension declaring the fileSystem requestFileSystem permission used to test whitelisted component access.

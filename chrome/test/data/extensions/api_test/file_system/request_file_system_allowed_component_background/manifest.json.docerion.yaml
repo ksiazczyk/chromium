@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the requestFileSystem background component test
+summary: Extension app manifest granting the requestFileSystem permission and loading the test utility and background test scripts for the whitelisted component test.

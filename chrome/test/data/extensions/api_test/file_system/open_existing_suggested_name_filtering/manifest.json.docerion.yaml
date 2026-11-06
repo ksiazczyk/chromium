@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the suggested name filtering test app
+summary: Manifest version 2 app declaring the fileSystem permission and background script for the chooseEntry filtering test.
