@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function dispatcher header
+// summary: Declares ExtensionFunctionDispatcher, which receives extension function requests from renderers and dispatches them to handlers on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FUNCTION_DISPATCHER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FUNCTION_DISPATCHER_H_
 

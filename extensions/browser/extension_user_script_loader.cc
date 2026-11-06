@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension user script loader implementation
+// summary: Implements loading of manifest and dynamic user scripts for extensions, reading script content from files or resource bundles and managing scripting API registrations.
+// ---
+
 #include "extensions/browser/extension_user_script_loader.h"
 
 #include <stddef.h>

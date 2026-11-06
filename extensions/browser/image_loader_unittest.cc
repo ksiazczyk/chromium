@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageLoader unit tests
+// summary: Unit tests verifying that ImageLoader loads extension icon images and image families correctly from test extension data.
+// ---
+
 #include "extensions/browser/image_loader.h"
 
 #include <stddef.h>

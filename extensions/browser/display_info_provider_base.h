@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfoProviderBase class header
+// summary: Declares the DisplayInfoProviderBase class, which provides a common implementation of DispatchOnDisplayChangedEvent shared by all DisplayInfoProvider subclasses.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_DISPLAY_INFO_PROVIDER_BASE_H_
 #define EXTENSIONS_BROWSER_DISPLAY_INFO_PROVIDER_BASE_H_
 

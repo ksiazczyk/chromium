@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProcessContextData implementation
+// summary: Implements ProcessContextData for render processes, including the controlled-frame capability check based on isolated context state.
+// ---
+
 #include "extensions/browser/browser_process_context_data.h"
 
 #include <memory>

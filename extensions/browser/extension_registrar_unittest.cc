@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension registrar unit tests
+// summary: Unit tests for ExtensionRegistrar covering install, load, reload, enable, disable and uninstall behavior using mocked delegates and a management policy.
+// ---
+
 #include "extensions/browser/extension_registrar.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFrameContextData unit tests
+// summary: Unit tests for BrowserFrameContextData covering cloning, local parent or opener resolution, and URL, origin and identifier retrieval.
+// ---
+
 #include "extensions/browser/browser_frame_context_data.h"
 
 #include <memory>

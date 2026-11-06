@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension creator filter unit tests
+// summary: Unit tests verifying which files and directories, such as metadata folders and OS artifacts, are excluded from packaged extensions.
+// ---
+
 #include "extensions/browser/extension_creator_filter.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localization message bundle utilities
+// summary: Implements helpers that load message bundle substitution maps for localized extensions, including the reserved extension ID message.
+// ---
+
 #include "extensions/browser/l10n_file_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoader implementation
+// summary: Implements asynchronous loading, decoding and resizing of extension images from resources, delivering results through callbacks.
+// ---
+
 #include "extensions/browser/image_loader.h"
 
 #include <stddef.h>

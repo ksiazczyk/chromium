@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension API test utilities implementation
+// summary: Implements helpers for tests to run extension API functions, wait for responses, and extract typed values from dictionaries.
+// ---
+
 #include "extensions/browser/api_test_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install prompt data implementation
+// summary: Implements the InstallPromptData class that builds dialog titles, button labels, and permission text for extension install, re-enable, repair, and related prompts.
+// ---
+
 #include "extensions/browser/install_prompt_data.h"
 
 #include "base/feature_list.h"

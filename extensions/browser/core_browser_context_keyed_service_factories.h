@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core keyed service factories header
+// summary: Declares EnsureCoreBrowserContextKeyedServiceFactoriesBuilt, which instantiates core extension service factories.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CORE_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 #define EXTENSIONS_BROWSER_CORE_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 

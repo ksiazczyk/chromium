@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension disable reason helpers
+// summary: Implements validation of extension disable reasons and conversion between bitflags and integer sets.
+// ---
+
 #include "extensions/browser/disable_reason.h"
 
 #include <ostream>

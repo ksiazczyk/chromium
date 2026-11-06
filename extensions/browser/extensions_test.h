@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionsTest unit test base class
+// summary: Declares ExtensionsTest, the base fixture for browser-process extensions unit tests, exposing browser and incognito contexts, prefs, and a mock extension system.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSIONS_TEST_H_
 #define EXTENSIONS_BROWSER_EXTENSIONS_TEST_H_
 

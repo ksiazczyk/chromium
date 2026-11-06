@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsFactory header
+// summary: Declares a browser-context keyed service factory that provides the ExtensionPrefs instance for each browser context, including a testing hook.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREFS_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREFS_FACTORY_H_
 

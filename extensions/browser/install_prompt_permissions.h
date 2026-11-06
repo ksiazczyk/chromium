@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install prompt permissions structure
+// summary: Declares the InstallPromptPermissions struct that stores permission messages and their visible and collapsed detail lines for display in install prompts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_PROMPT_PERMISSIONS_H_
 #define EXTENSIONS_BROWSER_INSTALL_PROMPT_PERMISSIONS_H_
 

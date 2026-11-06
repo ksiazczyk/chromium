@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSanitizer header
+// summary: Declares the ImageSanitizer class and its Client interface for decoding potentially unsafe extension images in a sandboxed process and re-encoding them for safe browser use.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_IMAGE_SANITIZER_H_
 #define EXTENSIONS_BROWSER_IMAGE_SANITIZER_H_
 

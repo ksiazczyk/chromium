@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedActionType enum
+// summary: Defines an enum of extension actions that can be blocked while awaiting user action, such as script injection and web requests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKED_ACTION_TYPE_H_
 #define EXTENSIONS_BROWSER_BLOCKED_ACTION_TYPE_H_
 

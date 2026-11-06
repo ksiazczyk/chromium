@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension event listener map declarations
+// summary: Declares the EventListener and EventListenerMap classes that represent and track endpoints to which extension events can be dispatched.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENT_LISTENER_MAP_H_
 #define EXTENSIONS_BROWSER_EVENT_LISTENER_MAP_H_
 

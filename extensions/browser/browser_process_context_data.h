@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProcessContextData class declaration
+// summary: Declares the browser-side ProcessContextData wrapper around a RenderProcessHost with cloning and capability-check methods.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_PROCESS_CONTEXT_DATA_H_
 #define EXTENSIONS_BROWSER_BROWSER_PROCESS_CONTEXT_DATA_H_
 

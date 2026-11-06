@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Computed hashes class declaration
+// summary: Declares the ComputedHashes class for storing and serializing SHA256 block hashes of extension files, with helpers to load from and write to computed_hashes.json.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_COMPUTED_HASHES_H_
 #define EXTENSIONS_BROWSER_COMPUTED_HASHES_H_
 

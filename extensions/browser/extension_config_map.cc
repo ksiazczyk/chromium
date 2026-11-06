@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension config map implementation
+// summary: Implements the config provider and keyed-service map that supply component extension settings, template replacements and resource path mappings for browser-internal navigations.
+// ---
+
 #include "extensions/browser/extension_config_map.h"
 
 #include <string>

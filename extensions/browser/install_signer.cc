@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install signer implementation for webstore signature verification
+// summary: Implements fetching and verifying signatures from the Chrome Web Store backend that prove a set of extension IDs are hosted in the web store.
+// ---
+
 #include "extensions/browser/install_signer.h"
 
 #include <stddef.h>

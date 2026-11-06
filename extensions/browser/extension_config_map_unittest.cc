@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension config map unit tests
+// summary: Unit tests verifying provider registration, host and ID lookups, resource path mapping and dynamic resource content generation for component extensions.
+// ---
+
 #include "extensions/browser/extension_config_map.h"
 
 #include <memory>

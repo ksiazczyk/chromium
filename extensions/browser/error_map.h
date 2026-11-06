@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorMap class header
+// summary: Declares ErrorMap and its Filter struct for storing and querying extension-related errors keyed by extension ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ERROR_MAP_H_
 #define EXTENSIONS_BROWSER_ERROR_MAP_H_
 

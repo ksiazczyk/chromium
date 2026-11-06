@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbedderUserScriptLoader implementation
+// summary: Implements loading of user scripts supplied by embedders such as WebUI and Controlled Frame, fetching script contents via embedder URL fetchers and serializing them into shared memory.
+// ---
+
 #include "extensions/browser/embedder_user_script_loader.h"
 
 #include <set>

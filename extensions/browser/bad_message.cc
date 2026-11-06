@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message handling implementation
+// summary: Logs and terminates extension renderer processes that sent malformed IPC messages, recording crash keys and histogram metrics.
+// ---
+
 #include "extensions/browser/bad_message.h"
 
 #include "base/debug/crash_logging.h"

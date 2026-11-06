@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist state fetcher implementation
+// summary: Implements requests to the safe browsing crx-list-info endpoint to obtain blocklist verdicts for installed extensions.
+// ---
+
 #include "extensions/browser/blocklist_state_fetcher.h"
 
 #include <optional>

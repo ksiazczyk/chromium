@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension registry test helper header
+// summary: Declares ExtensionRegistryTestHelper, a test utility that waits for an extension's manifest version and service worker start in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRY_TEST_HELPER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRY_TEST_HELPER_H_
 

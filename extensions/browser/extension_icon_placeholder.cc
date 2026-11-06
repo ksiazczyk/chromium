@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon placeholder implementation
+// summary: Implements placeholder extension icons that draw the first letter of the extension name on a gray background for various icon sizes.
+// ---
+
 #include "extensions/browser/extension_icon_placeholder.h"
 
 #include "base/i18n/rtl.h"

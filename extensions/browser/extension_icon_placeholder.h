@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon placeholder class interface
+// summary: Declares ExtensionIconPlaceholder, a canvas image source rendering a lettered placeholder icon for extensions without their own icon.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ICON_PLACEHOLDER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ICON_PLACEHOLDER_H_
 

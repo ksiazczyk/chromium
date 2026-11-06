@@ -6,6 +6,12 @@
 // http://google3/google/chrome/webstore/v2/resources.proto
 // http://google3/google/chrome/webstore/v2/item_service.proto
 
+// ---docerion
+// type: source
+// title: CWS item service protobuf definitions
+// summary: Defines protobuf messages for Chrome Web Store item store metadata, snippet, and enterprise block status requests and responses.
+// ---
+
 syntax = "proto3";
 
 package extensions;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon utilities implementation
+// summary: Implements parsing of extension action icons from canvas dictionaries and creation of placeholder icon data URLs.
+// ---
+
 #include "extensions/browser/icon_util.h"
 
 #include "base/base64.h"

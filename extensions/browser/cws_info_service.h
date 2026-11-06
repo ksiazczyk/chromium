@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWS Info Service header
+// summary: Declares the CWSInfoService interface and keyed service that caches and periodically refreshes Chrome Web Store metadata for installed extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CWS_INFO_SERVICE_H_
 #define EXTENSIONS_BROWSER_CWS_INFO_SERVICE_H_
 

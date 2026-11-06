@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension creator for packing CRX files
+// summary: Implements ExtensionCreator, which validates an extension directory and packages it into a signed .crx file with optional private key handling.
+// ---
+
 #include "extensions/browser/extension_creator.h"
 
 #include <stddef.h>

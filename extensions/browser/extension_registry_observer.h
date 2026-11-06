@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registry observer interface
+// summary: Defines the ExtensionRegistryObserver interface with callbacks for extension load, ready, unload, enable, reload, install and uninstall events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRY_OBSERVER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRY_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsonFileSanitizer unit tests
+// summary: Unit tests covering successful sanitization of valid JSON files and error reporting for missing, invalid, or unreadable files.
+// ---
+
 #include "extensions/browser/json_file_sanitizer.h"
 
 #include <memory>

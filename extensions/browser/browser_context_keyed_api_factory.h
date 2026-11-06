@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextKeyedAPIFactory template
+// summary: Header defining the BrowserContextKeyedAPI base and factory template for browser-context-keyed extension API services.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_CONTEXT_KEYED_API_FACTORY_H_
 #define EXTENSIONS_BROWSER_BROWSER_CONTEXT_KEYED_API_FACTORY_H_
 

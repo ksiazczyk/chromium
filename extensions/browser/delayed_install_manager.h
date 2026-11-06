@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedInstallManager header
+// summary: Declares the DelayedInstallManager keyed service that tracks extension installs delayed for various reasons and decides when to finish them.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_DELAYED_INSTALL_MANAGER_H_
 #define EXTENSIONS_BROWSER_DELAYED_INSTALL_MANAGER_H_
 

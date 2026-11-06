@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install preferences helper implementation
+// summary: Implements helpers that read and write extension install preferences such as install parameter, web store origin, default or OEM install flags, and install times.
+// ---
+
 #include "extensions/browser/install_prefs_helper.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist implementation
+// summary: Implements the Safe Browsing-backed extension blocklist service, querying the database manager and notifying observers of updates.
+// ---
+
 #include "extensions/browser/blocklist.h"
 
 #include <algorithm>

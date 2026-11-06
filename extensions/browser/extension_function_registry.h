@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function registry header
+// summary: Declares ExtensionFunctionRegistry, a factory map of all known extension functions with registration and test override support.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FUNCTION_REGISTRY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FUNCTION_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host implementation
+// summary: Implements the browser-side host for extension pages, setting up renderer processes and managing background pages, views, and dispatch metrics.
+// ---
+
 #include "extensions/browser/extension_host.h"
 
 #include <memory>

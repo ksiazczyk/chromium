@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsHelper implementation
+// summary: Implements setting, removing and querying extension-controlled preference values, persisting scoped values via ExtensionPrefs and updating the value map.
+// ---
+
 #include "extensions/browser/extension_prefs_helper.h"
 
 #include "build/build_config.h"

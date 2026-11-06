@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension protocols implementation
+// summary: Implements URL loader factories and request handling for extension URLs, including security checks, content verification and web-accessible resource rules.
+// ---
+
 #include "extensions/browser/extension_protocols.h"
 
 #include <stddef.h>

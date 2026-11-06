@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension navigation throttle implementation
+// summary: Implements the navigation throttle that lets the extensions subsystem allow or block navigations, including checks for platform app resources and guest views.
+// ---
+
 #include "extensions/browser/extension_navigation_throttle.h"
 
 #include <algorithm>

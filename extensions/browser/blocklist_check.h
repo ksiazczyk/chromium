@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlocklistCheck class declaration
+// summary: Declares the BlocklistCheck PreloadCheck subclass that asynchronously checks whether an extension is blocklisted.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKLIST_CHECK_H_
 #define EXTENSIONS_BROWSER_BLOCKLIST_CHECK_H_
 

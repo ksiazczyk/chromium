@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension Mojo binder registry unit tests
+// summary: Unit tests for the extension Mojo binder registry, exercising test binder providers for frames and service workers and Mojo JS enablement flags.
+// ---
+
 #include "extensions/browser/extension_mojo_binder_registry.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension preference name constants
+// summary: Defines constant preference names for extension state such as install parameter, web store origin, install times, and service worker startup.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREF_NAMES_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREF_NAMES_H_
 

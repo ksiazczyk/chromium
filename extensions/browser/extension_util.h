@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility functions header
+// summary: Declares utility functions covering extension incognito behavior, storage partition config, file access, idle state, and local file path mapping.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_UTIL_H_
 #define EXTENSIONS_BROWSER_EXTENSION_UTIL_H_
 

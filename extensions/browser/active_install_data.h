@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveInstallData struct declaration
+// summary: Declares the ActiveInstallData struct holding the extension ID and download progress of an active extension install.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ACTIVE_INSTALL_DATA_H_
 #define EXTENSIONS_BROWSER_ACTIVE_INSTALL_DATA_H_
 

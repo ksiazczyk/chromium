@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocklist extension prefs unit tests
+// summary: Unit tests verifying that Omaha and acknowledged blocklist states are added, checked and removed correctly in extension prefs.
+// ---
+
 #include "extensions/browser/blocklist_extension_prefs.h"
 
 #include "base/memory/raw_ptr.h"

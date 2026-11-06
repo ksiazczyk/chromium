@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: PRESUBMIT.py checks for extensions browser
+# summary: Chromium presubmit script that validates histogram enum values and bad message reasons for the extensions/browser directory.
+# ---
+
 """Chromium presubmit script for src/extensions/browser.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

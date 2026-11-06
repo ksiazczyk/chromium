@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Mojo binder registry interface
+// summary: Declares ExtensionMojoBinderRegistry and its provider interface for registering extension-scoped Mojo interface binders per browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_MOJO_BINDER_REGISTRY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_MOJO_BINDER_REGISTRY_H_
 

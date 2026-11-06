@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension user activation service unit tests
+// summary: Unit tests verifying transient user activation tracking for extensions, covering activation expiry timing, repeated gestures, and per-extension isolation.
+// ---
+
 #include "extensions/browser/extension_user_activation_service.h"
 
 #include "base/test/task_environment.h"

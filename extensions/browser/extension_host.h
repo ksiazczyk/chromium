@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host header
+// summary: Declares ExtensionHost, the browser component hosting an extension page with renderer setup, observers, and close handling.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_H_
 

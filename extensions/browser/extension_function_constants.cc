@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function constants
+// summary: Defines the error message constant used when the WebContents that sent an extension API call request cannot be found.
+// ---
+
 #include "extensions/browser/extension_function_constants.h"
 
 namespace extensions {

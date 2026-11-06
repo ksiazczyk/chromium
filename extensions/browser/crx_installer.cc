@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX installer implementation
+// summary: Implements the CRX installer that unpacks, verifies, and installs extension CRX packages with approval, policy, and blocklist checks.
+// ---
+
 #include "extensions/browser/crx_installer.h"
 
 #include <map>

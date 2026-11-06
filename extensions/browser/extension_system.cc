@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSystem implementation
+// summary: Implements the static Get accessor that returns the ExtensionSystem instance for a given browser context via the ExtensionsBrowserClient factory.
+// ---
+
 #include "extensions/browser/extension_system.h"
 
 #include "components/keyed_service/content/browser_context_keyed_service_factory.h"

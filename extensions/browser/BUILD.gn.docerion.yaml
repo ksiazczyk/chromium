@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the extensions browser module
+summary: Defines GN build targets, sources and dependencies for the browser side of the //extensions module, including the core extensions system and API implementations.

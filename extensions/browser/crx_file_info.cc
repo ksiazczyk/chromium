@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX file info implementation
+// summary: Implements CRXFileInfo constructors, copy semantics, and equality comparison for cached CRX file metadata.
+// ---
+
 #include "extensions/browser/crx_file_info.h"
 
 #include "base/check.h"

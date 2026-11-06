@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registrar factory header
+// summary: Declares ExtensionRegistrarFactory, a browser context keyed service factory whose ExtensionRegistrar instances are shared between incognito and original contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRAR_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRAR_FACTORY_H_
 

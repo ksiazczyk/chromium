@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWS Info Service implementation
+// summary: Implements a service that periodically fetches Chrome Web Store metadata for installed extensions to enforce availability policies.
+// ---
+
 #include "extensions/browser/cws_info_service.h"
 
 #include <algorithm>

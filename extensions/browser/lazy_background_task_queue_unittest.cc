@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lazy background task queue unit tests
+// summary: Unit tests for LazyBackgroundTaskQueue covering pending task processing and lazy background page creation using a stubbed test process manager.
+// ---
+
 #include "extensions/browser/lazy_background_task_queue.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUserActivationServiceFactory implementation
+// summary: Implements the keyed service factory that builds per-browser-context ExtensionUserActivationService instances and selects the owning context.
+// ---
+
 #include "extensions/browser/extension_user_activation_service_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

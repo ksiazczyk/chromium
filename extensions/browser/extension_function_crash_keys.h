@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function crash keys header
+// summary: Declares helpers that record which extensions have in-flight extension API calls in a list of crash keys for crash debugging.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FUNCTION_CRASH_KEYS_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FUNCTION_CRASH_KEYS_H_
 

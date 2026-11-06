@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content hash tree unit tests
+// summary: Unit tests verifying ComputeTreeHashRoot behavior for empty, single-node, and multi-level hash trees with various branch factors.
+// ---
+
 #include "extensions/browser/content_hash_tree.h"
 
 #include <memory>

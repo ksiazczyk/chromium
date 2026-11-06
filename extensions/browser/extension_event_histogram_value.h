@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension event histogram value enumeration
+// summary: Defines the stable HistogramValue enum listing histogram values for extension events, which must never be reordered or deleted.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_EVENT_HISTOGRAM_VALUE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_EVENT_HISTOGRAM_VALUE_H_
 

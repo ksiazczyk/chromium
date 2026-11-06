@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension installation stage enum
+// summary: Defines the InstallationStage enum listing the stages of the extension installation process, from copying the archive to completion.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_STAGE_H_
 #define EXTENSIONS_BROWSER_INSTALL_STAGE_H_
 

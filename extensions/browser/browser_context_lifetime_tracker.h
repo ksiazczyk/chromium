@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextLifetimeTracker interface
+// summary: Declares an interface for observing a BrowserContext and its off-the-record sibling lifecycle, obtained via ExtensionsBrowserClient.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_CONTEXT_LIFETIME_TRACKER_H_
 #define EXTENSIONS_BROWSER_BROWSER_CONTEXT_LIFETIME_TRACKER_H_
 

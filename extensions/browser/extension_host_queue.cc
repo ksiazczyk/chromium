@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host queue implementation
+// summary: Implements a global queue that creates renderers for deferred-start extension hosts one at a time with rate-limited delayed tasks on the UI thread.
+// ---
+
 #include "extensions/browser/extension_host_queue.h"
 
 #include <algorithm>

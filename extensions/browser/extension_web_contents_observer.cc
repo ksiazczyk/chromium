@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension web contents observer implementation
+// summary: Implements the WebContents observer that grants renderers access to extension URL schemes, dispatches extension APIs, and registers extension frames with the process manager.
+// ---
+
 #include "extensions/browser/extension_web_contents_observer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserFrameContextData implementation
+// summary: Implements FrameContextData for browser-side render frames, exposing URL, origin, opener lookup and controlled-frame capability checks.
+// ---
+
 #include "extensions/browser/browser_frame_context_data.h"
 
 #include <memory>

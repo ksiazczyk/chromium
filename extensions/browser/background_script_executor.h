@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background script executor header
+// summary: Declares a single-use test helper to run scripts in an extension's background context and collect results via chrome.test or legacy mechanisms.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BACKGROUND_SCRIPT_EXECUTOR_H_
 #define EXTENSIONS_BROWSER_BACKGROUND_SCRIPT_EXECUTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostAccessRequestsHelper class
+// summary: Declares a per-tab helper storing extension site access requests, restoring them on cross-origin navigation and reporting add, update and remove results.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_HOST_ACCESS_REQUEST_HELPER_H_
 #define EXTENSIONS_BROWSER_HOST_ACCESS_REQUEST_HELPER_H_
 

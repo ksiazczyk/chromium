@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallTracker unit tests
+// summary: Unit tests verifying that active extension installs are correctly registered, deregistered, and reported by InstallTracker and ScopedActiveInstall.
+// ---
+
 #include "extensions/browser/install_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallApproval implementation
+// summary: Implements factory methods that create InstallApproval objects for install prompts, shared module installs, and prompt-less installs with manifest checks.
+// ---
+
 #include "extensions/browser/install_approval.h"
 
 #include <memory>

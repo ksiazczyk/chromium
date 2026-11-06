@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File filter for extension packaging
+// summary: Implements ExtensionCreatorFilter, which excludes metadata folders, VCS files, dotfiles, backups, and hidden files from packaged extensions.
+// ---
+
 #include "extensions/browser/extension_creator_filter.h"
 
 #include <stddef.h>

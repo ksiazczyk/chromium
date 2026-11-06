@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host registry implementation
+// summary: Implements a keyed service factory and registry that tracks ExtensionHosts and notifies observers of render process, first load, and destruction events.
+// ---
+
 #include "extensions/browser/extension_host_registry.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API unit test base class
+// summary: Declares ApiUnitTest, a base fixture that loads a test extension and provides helpers to run API functions and check results or errors.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_UNITTEST_H_
 #define EXTENSIONS_BROWSER_API_UNITTEST_H_
 

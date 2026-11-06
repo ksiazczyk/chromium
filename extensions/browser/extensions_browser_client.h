@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions browser client interface
+// summary: Declares ExtensionsBrowserClient, the interface the extensions module uses to query browser-process embedder services such as install, process, network, and safe browsing support.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSIONS_BROWSER_CLIENT_H_
 #define EXTENSIONS_BROWSER_EXTENSIONS_BROWSER_CLIENT_H_
 

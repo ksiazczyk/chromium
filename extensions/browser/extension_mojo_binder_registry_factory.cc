@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Mojo binder registry factory implementation
+// summary: Implements the browser-context keyed service factory that returns or creates the per-profile ExtensionMojoBinderRegistry for extension Mojo binder registration.
+// ---
+
 #include "extensions/browser/extension_mojo_binder_registry_factory.h"
 
 #include "base/no_destructor.h"

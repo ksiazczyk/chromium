@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension navigation registry header
+// summary: Declares the ExtensionNavigationRegistry, which maps navigation handle IDs to URL and extension ID metadata for redirects intercepted by webRequest.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_REGISTRY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_REGISTRY_H_
 

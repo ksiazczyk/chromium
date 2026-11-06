@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark app locally installed utility
+// summary: Implements BookmarkAppIsLocallyInstalled, reading the locallyInstalled extension pref with a default of true.
+// ---
+
 #include "extensions/browser/bookmark_app_util.h"
 
 #include <map>

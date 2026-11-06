@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy context identifier declarations
+// summary: Declares LazyContextId, an identifier pairing a browser context and extension ID with a background page or service worker type for lazy context task queues.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LAZY_CONTEXT_ID_H_
 #define EXTENSIONS_BROWSER_LAZY_CONTEXT_ID_H_
 

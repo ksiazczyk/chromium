@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install-time permission provider unit tests
+// summary: Tests that the install-time permission provider returns allow rules for extension permissions and none for unrelated types or URLs.
+// ---
+
 #include "extensions/browser/content_settings_extension_install_time_permission_provider.h"
 
 #include <memory>

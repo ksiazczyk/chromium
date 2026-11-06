@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonFileSanitizer implementation
+// summary: Implements sanitization of potentially unsafe JSON files by reading, deleting, decoding, and re-encoding them for safe parsing in the browser process.
+// ---
+
 #include "extensions/browser/json_file_sanitizer.h"
 
 #include <optional>

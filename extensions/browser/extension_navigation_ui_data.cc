@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension navigation UI data implementation
+// summary: Implements construction of ExtensionNavigationUIData from navigation handles or render frame hosts, gathering frame, tab, and web view data for navigations.
+// ---
+
 #include "extensions/browser/extension_navigation_ui_data.h"
 
 #include "base/memory/ptr_util.h"

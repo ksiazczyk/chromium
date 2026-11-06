@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API unit test base implementation
+// summary: Implements the ApiUnitTest fixture, setting up a test extension and pref service and running API functions in unit tests.
+// ---
+
 #include "extensions/browser/api_unittest.h"
 
 #include "base/values.h"

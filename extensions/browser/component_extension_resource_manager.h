@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension resource manager interface
+// summary: Declares the ComponentExtensionResourceManager interface that maps component extension resources to resource bundle IDs and supplies i18n template replacements.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_COMPONENT_EXTENSION_RESOURCE_MANAGER_H_
 #define EXTENSIONS_BROWSER_COMPONENT_EXTENSION_RESOURCE_MANAGER_H_
 

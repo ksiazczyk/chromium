@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlocklistCheck unit tests
+// summary: Unit tests verifying BlocklistCheck flags blocklisted malware, passes clean extensions, and survives early destruction.
+// ---
+
 #include "extensions/browser/blocklist_check.h"
 
 #include "base/task/single_thread_task_runner.h"

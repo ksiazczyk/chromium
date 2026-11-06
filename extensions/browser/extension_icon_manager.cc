@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon manager implementation
+// summary: Implements ExtensionIconManager, which loads, caches and serves favicon-sized extension icons with a default vector icon fallback.
+// ---
+
 #include "extensions/browser/extension_icon_manager.h"
 
 #include "base/check_op.h"

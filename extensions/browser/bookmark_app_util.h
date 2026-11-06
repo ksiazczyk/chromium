@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark app utility declaration
+// summary: Declares BookmarkAppIsLocallyInstalled helpers that report whether a bookmark app is locally installed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BOOKMARK_APP_UTIL_H_
 #define EXTENSIONS_BROWSER_BOOKMARK_APP_UTIL_H_
 

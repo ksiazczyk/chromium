@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension frame host implementation
+// summary: Implements the mojom::LocalFrameHost interface, handling extension frame IPC such as script injection permission, message channels, and IPC keepalives.
+// ---
+
 #include "extensions/browser/extension_frame_host.h"
 
 #include <string>

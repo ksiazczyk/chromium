@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action declarations
+// summary: Declares the ExtensionAction class that encapsulates browser or page action state with global and per-tab properties.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ACTION_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ACTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core browser context keyed service factory initialization
+// summary: Builds all core extension BrowserContextKeyedService factories to ensure they exist at startup.
+// ---
+
 #include "extensions/browser/core_browser_context_keyed_service_factories.h"
 
 #include "build/build_config.h"

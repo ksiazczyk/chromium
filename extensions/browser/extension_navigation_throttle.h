@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension navigation throttle header
+// summary: Declares the UI-thread navigation throttle giving the extensions subsystem control over navigation start, redirects, and response processing.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_THROTTLE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsHelper header
+// summary: Declares a keyed service for managing preference values controlled by extensions, with support for regular and incognito scopes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREFS_HELPER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREFS_HELPER_H_
 

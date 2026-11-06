@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension navigation UI data header
+// summary: Declares ExtensionNavigationUIData, which carries frame and web view metadata for navigations, copied to the IO thread for the WebRequest API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_UI_DATA_H_
 #define EXTENSIONS_BROWSER_EXTENSION_NAVIGATION_UI_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoaderFactory implementation
+// summary: Implements a BrowserContextKeyedServiceFactory that provides per-context ImageLoader instances for extension image loading.
+// ---
+
 #include "extensions/browser/image_loader_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

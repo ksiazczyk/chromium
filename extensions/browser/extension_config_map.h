@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension config map class declarations
+// summary: Declares the ExtensionConfigProvider interface and ExtensionConfigMap service that map internal browser hosts and paths to component extension resources and settings.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_CONFIG_MAP_H_
 #define EXTENSIONS_BROWSER_EXTENSION_CONFIG_MAP_H_
 

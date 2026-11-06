@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefValueMap implementation
+// summary: Implements ExtensionPrefValueMap, storing per-extension preference values with regular, incognito and regular-only scopes and notifying observers of value changes.
+// ---
+
 #include "extensions/browser/extension_pref_value_map.h"
 
 #include <algorithm>

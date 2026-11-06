@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions browser client implementation
+// summary: Implements the ExtensionsBrowserClient singleton with default stubs for update clients, keep-alives, error reporting, activity and telemetry logging, and network access queries.
+// ---
+
 #include "extensions/browser/extensions_browser_client.h"
 
 #include <memory>

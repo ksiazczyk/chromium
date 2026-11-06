@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension registry test helper implementation
+// summary: Implements a test helper that observes extension loading to wait for manifest versions and service worker startup during tests.
+// ---
+
 #include "extensions/browser/extension_registry_test_helper.h"
 
 #include "base/run_loop.h"

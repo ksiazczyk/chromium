@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install-time content settings provider implementation
+// summary: Implements a content settings provider that grants geolocation and notification settings to extensions based on their declared API permissions.
+// ---
+
 #include "extensions/browser/content_settings_extension_install_time_permission_provider.h"
 
 #include <memory>

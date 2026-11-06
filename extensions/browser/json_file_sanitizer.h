@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonFileSanitizer class declaration
+// summary: Declares the JsonFileSanitizer class that re-encodes unsafe JSON files with dictionary roots so they can later be parsed safely in the browser process.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_JSON_FILE_SANITIZER_H_
 #define EXTENSIONS_BROWSER_JSON_FILE_SANITIZER_H_
 

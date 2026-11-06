@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAllowlist class header
+// summary: Declares the keyed service managing the Safe Browsing CRX allowlist, including state accessors, warning display logic, and observer notifications.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ALLOWLIST_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ALLOWLIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionManager class header
+// summary: Declares the keyed service that owns the ExtensionAction for each loaded extension, keyed by extension ID and shared with off-the-record contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ACTION_MANAGER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ACTION_MANAGER_H_
 

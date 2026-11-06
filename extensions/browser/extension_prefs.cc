@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefs implementation
+// summary: Implements ExtensionPrefs, managing global and per-extension preferences such as install location, manifest state, enablement and extension-controlled browser settings.
+// ---
+
 #include "extensions/browser/extension_prefs.h"
 
 #include <stddef.h>

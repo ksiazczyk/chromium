@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install prompt client interface
+// summary: Defines the embedder interface for showing extension install, re-enable and permission prompts and reporting their results.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_INSTALL_PROMPT_CLIENT_H_
 #define EXTENSIONS_BROWSER_EXTENSION_INSTALL_PROMPT_CLIENT_H_
 

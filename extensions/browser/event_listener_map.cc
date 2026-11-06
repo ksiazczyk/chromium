@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension event listener map implementation
+// summary: Implements the EventListener class and EventListenerMap that track listeners for extension events, including extension, URL, service worker and lazy listeners.
+// ---
+
 #include "extensions/browser/event_listener_map.h"
 
 #include <stddef.h>

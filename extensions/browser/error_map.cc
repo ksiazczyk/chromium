@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorMap implementation
+// summary: Implements ErrorMap, which stores up to 100 extension errors per extension ID and supports adding, filtering, and removing errors by extension, type, IDs, or incognito origin.
+// ---
+
 #include "extensions/browser/error_map.h"
 
 #include <utility>

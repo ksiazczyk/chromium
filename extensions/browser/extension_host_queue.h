@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host queue
+// summary: Declares ExtensionHostQueue, a singleton that initializes DeferredStartRenderHosts in insertion order with simple rate limiting and a test-only delay hook.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_QUEUE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension frame host class declaration
+// summary: Declares ExtensionFrameHost, which implements the extensions::mojom::LocalFrameHost mojo interface and is created and owned by ExtensionWebContentsObserver.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FRAME_HOST_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FRAME_HOST_H_
 

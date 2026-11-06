@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host registry
+// summary: Declares ExtensionHostRegistry, a per-browser-context keyed service tracking ExtensionHosts with an observer interface for host lifecycle changes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_REGISTRY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_REGISTRY_H_
 

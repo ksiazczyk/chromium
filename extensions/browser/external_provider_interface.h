@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderInterface for external extension providers
+// summary: Abstract interface for external extension providers that report registered extensions and readiness to a visitor such as the extensions service.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTERNAL_PROVIDER_INTERFACE_H_
 #define EXTENSIONS_BROWSER_EXTERNAL_PROVIDER_INTERFACE_H_
 

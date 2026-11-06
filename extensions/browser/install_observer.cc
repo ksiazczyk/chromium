@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallObserver implementation
+// summary: Implements the ExtensionInstallParams constructor used by InstallObserver to carry extension install notification details.
+// ---
+
 #include "extensions/browser/install_observer.h"
 
 #include "extensions/buildflags/buildflags.h"

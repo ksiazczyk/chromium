@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Computed hashes unit tests
+// summary: Unit tests verifying that ComputedHashes round-trips block sizes and hash lists through computed_hashes.json, including case-insensitive path lookups.
+// ---
+
 #include "extensions/browser/computed_hashes.h"
 
 #include <array>

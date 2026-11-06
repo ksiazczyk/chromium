@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension assets manager default implementation
+// summary: Implements the default ExtensionAssetsManager, which installs and uninstalls extension assets via file_util without shared-location support.
+// ---
+
 #include "extensions/browser/extension_assets_manager.h"
 
 #include "extensions/buildflags/buildflags.h"

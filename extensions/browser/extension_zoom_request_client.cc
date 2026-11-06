@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension zoom request client implementation
+// summary: Implements ExtensionZoomRequestClient, which wraps an extension requesting a zoom change and suppresses the zoom bubble when the ZoomWithoutBubble behavior feature is available to it.
+// ---
+
 #include "extensions/browser/extension_zoom_request_client.h"
 
 #include "extensions/common/features/behavior_feature.h"

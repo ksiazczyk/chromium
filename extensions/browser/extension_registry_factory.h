@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registry factory header
+// summary: Declares ExtensionRegistryFactory, which provides ExtensionRegistry instances shared between a browser context and its incognito counterpart.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRY_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRY_FACTORY_H_
 

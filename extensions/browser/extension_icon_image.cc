@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon image implementation
+// summary: Implements IconImage, which asynchronously loads extension icon resources and serves blank or default representations until the real image is ready.
+// ---
+
 #include "extensions/browser/extension_icon_image.h"
 
 #include <vector>

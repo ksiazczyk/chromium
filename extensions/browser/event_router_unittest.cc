@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension event router
+// summary: Unit tests for EventRouter covering listener registration, event dispatch, observers and metrics using mock renderers and test observers.
+// ---
+
 #include "extensions/browser/event_router.h"
 
 #include <array>

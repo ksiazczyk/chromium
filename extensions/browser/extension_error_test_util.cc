@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error test utilities
+// summary: Provides helper functions that create runtime and manifest extension errors for use in tests.
+// ---
+
 #include "extensions/browser/extension_error_test_util.h"
 
 #include "base/logging.h"

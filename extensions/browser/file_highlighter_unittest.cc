@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileHighlighter unit tests
+// summary: Unit tests verifying ManifestHighlighter feature bounds, including comments, escaped quotes, non-ASCII text, empty and malformed manifests.
+// ---
+
 #include "extensions/browser/file_highlighter.h"
 
 #include <string>

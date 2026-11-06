@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader implementation
+// summary: Implements BlobReader, which reads blob contents through Mojo data pipes and delivers the data and total size to a callback.
+// ---
+
 #include "extensions/browser/blob_reader.h"
 
 #include <limits>

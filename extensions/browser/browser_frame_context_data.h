@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserFrameContextData class declaration
+// summary: Declares the browser-side FrameContextData wrapper around a RenderFrameHost used for frame context queries such as URL, origin and access checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_FRAME_CONTEXT_DATA_H_
 #define EXTENSIONS_BROWSER_BROWSER_FRAME_CONTEXT_DATA_H_
 

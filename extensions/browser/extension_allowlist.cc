@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAllowlist implementation
+// summary: Implements the Safe Browsing CRX allowlist service that tracks extension allowlist state, reports Omaha attributes, and enforces disabling of non-allowlisted extensions.
+// ---
+
 #include "extensions/browser/extension_allowlist.h"
 
 #include "base/logging.h"

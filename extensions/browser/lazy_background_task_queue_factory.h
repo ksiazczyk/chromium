@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy background task queue factory declarations
+// summary: Declares the keyed service factory that provides LazyBackgroundTaskQueue instances for browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LAZY_BACKGROUND_TASK_QUEUE_FACTORY_H_
 #define EXTENSIONS_BROWSER_LAZY_BACKGROUND_TASK_QUEUE_FACTORY_H_
 

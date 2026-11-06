@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content hash reader implementation
+// summary: Implements ReadContentHashes, which loads expected block hashes for an extension file and verifies the tree hash root against fetched content hashes.
+// ---
+
 #include "extensions/browser/content_hash_reader.h"
 
 #include "base/types/optional_util.h"

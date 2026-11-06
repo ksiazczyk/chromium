@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionConfigMapFactory declarations
+// summary: Declares ExtensionConfigMapFactory, a keyed service factory exposing accessors for per-browser-context ExtensionConfigMap instances.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_CONFIG_MAP_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_CONFIG_MAP_FACTORY_H_
 

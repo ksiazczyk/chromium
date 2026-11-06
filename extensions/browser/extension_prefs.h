@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefs class declaration
+// summary: Declares ExtensionPrefs, the KeyedService that manages global, per-extension and extension-controlled preferences for installed extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREFS_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREFS_H_
 
