@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Transfer SAML IdP cookies during login policy
+# summary: Defines the ChromeOS device policy controlling whether SAML IdP cookies set during login are transferred to the user's profile on every sign-in or only the first login.
+# ---
+
 arc_support: Cookies transferred to the user's profile are not accessible to Android
   apps.
 caption: Transfer SAML IdP cookies during login

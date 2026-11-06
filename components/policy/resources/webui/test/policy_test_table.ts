@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test table element
+// summary: Lit element for the Chrome policy test page that renders the policy table, synchronizes rows with the policy schema, adds or clears rows, and serializes the configured test policies to JSON.
+// ---
+
 import './policy_test_row.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

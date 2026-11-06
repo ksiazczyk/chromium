@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable extensions system logging
+# summary: Policy controlling whether enterprise extension logs added via the chrome.systemLog API are persisted in the system log file.
+# ---
+
 caption: Enable extensions system logging
 desc: |-
   Enterprise extensions can add logs via the chrome.systemLog API to a system log file.

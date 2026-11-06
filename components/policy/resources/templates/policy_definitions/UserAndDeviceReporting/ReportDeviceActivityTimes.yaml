@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device activity times
+# summary: Chrome OS device policy that reports time periods when a user is active on the device, enabled by default and supported since Chrome OS 18.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device activity times
 desc: |-

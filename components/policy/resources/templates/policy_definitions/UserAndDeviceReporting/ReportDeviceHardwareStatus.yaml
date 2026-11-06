@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report hardware status policy (deprecated)
+# summary: Deprecated policy definition that had enrolled devices report hardware statistics such as CPU and RAM usage; replaced by more specific reporting policies since M96.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report hardware status
 deprecated: true

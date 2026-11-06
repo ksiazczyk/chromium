@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device second factor authentication mode policy
+# summary: Defines the ChromeOS device policy selecting how the on-board secure element provides second-factor authentication, including disabled, U2F, and extended attestation modes.
+# ---
+
 caption: Integrated second factor authentication mode
 desc: |-
   Specifies how the on-board secure element hardware can be used to provide a second-factor authentication if it is compatible with this feature. The machine power button is used to detect the user physical presence.

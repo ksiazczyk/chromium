@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserAndDeviceReporting policy atomic group
+# summary: Lists the policies belonging to the UserAndDeviceReporting atomic group, covering device reporting, heartbeats, log uploads, and metrics policies.
+# ---
+
 UserAndDeviceReporting:
   caption: User and device reporting
   policies:

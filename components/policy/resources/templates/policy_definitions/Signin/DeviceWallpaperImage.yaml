@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device wallpaper image policy
+# summary: Defines the ChromeOS device policy supplying a JPEG wallpaper URL and SHA-256 hash shown on the login screen before any user has signed in to the device.
+# ---
+
 caption: Device wallpaper image
 desc: |-
   Configure device-level wallpaper image that is shown on the login screen if no user has yet signed in to the device. The policy is set by specifying the URL from which the ChromeOS device can download the wallpaper image and a cryptographic hash used to verify the integrity of the download. The image must be in JPEG format, its file size must not exceed 16MB. The URL must be accessible without any authentication. The wallpaper image is downloaded and cached. It will be re-downloaded whenever the URL or the hash changes.

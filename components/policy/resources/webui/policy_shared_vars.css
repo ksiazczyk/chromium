@@ -5,6 +5,12 @@
  /* The google colors are taken from cr_shared_vars.css
   * This is done because that file is only available on polymer pages. */
 
+/*docerion
+type: source
+title: Policy WebUI shared CSS variables
+summary: Defines shared color and theme CSS custom properties for the policy WebUI, with light and dark color scheme values.
+*/
+
 html {
   --google-blue-300: rgb(138, 180, 248); /* #8ab4f8 */
   --google-blue-700: rgb(25, 103, 210); /* #1967d2 */

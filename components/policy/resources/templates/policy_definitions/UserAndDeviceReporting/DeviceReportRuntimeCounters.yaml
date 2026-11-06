@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device runtime counters
+# summary: Policy enabling enrolled devices with Intel vPro Gen 14+ to record and report device runtime counters.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device runtime counters
 default: false

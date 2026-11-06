@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebRTC diagnostic log collection allowed origins policy
+# summary: Defines the Chrome policy that enables WebRTC diagnostic log collection for origins matched by a list of URL patterns.
+# ---
+
 caption: Enable WebRTC diagnostic log collection for specific origins
 default: null
 desc: |-

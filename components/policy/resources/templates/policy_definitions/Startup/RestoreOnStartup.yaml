@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RestoreOnStartup policy definition
+# summary: Defines the Chrome policy choosing the startup action, such as opening the New Tab page, restoring the last session or opening a list of URLs.
+# ---
+
 caption: Action on startup
 desc: |-
   Setting the policy lets you specify system behavior on startup. Turning this setting off amounts to leaving it unset as <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> must have specified start up behavior.

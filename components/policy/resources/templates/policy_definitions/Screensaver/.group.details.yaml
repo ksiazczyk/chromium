@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Screensaver policy group details
+# summary: Group metadata for the Screensaver policy folder, describing settings that control screensavers on the device sign-in screen and the user lock screen.
+# ---
+
 caption: Screensaver Settings
 desc: Controls the screensaver settings for the device sign-in screen, and user lock screen.

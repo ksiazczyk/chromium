@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Send hardware data to Google to support improvements to ChromeOS Flex
+# summary: Policy allowing ChromeOS Flex devices to send additional hardware data to Google for overall product improvements.
+# ---
+
 owners:
 - tbrandston@google.com
 - chromeos-flex-eng@google.com

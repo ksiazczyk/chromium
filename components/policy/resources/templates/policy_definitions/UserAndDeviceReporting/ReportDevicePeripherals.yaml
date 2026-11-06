@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report peripheral details
+# summary: Chrome OS device policy definition that controls whether enrolled devices report information about peripherals plugged into the device.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report peripheral details
 default: false

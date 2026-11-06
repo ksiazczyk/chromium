@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report information about status of Android
+# summary: Chrome OS policy that makes enrolled devices report Android status information when Android apps are enabled, disabled by default and supported since Chrome OS 55.
+# ---
+
 caption: Report information about status of Android
 desc: |-
   If Android apps are on, then setting the policy to True has enrolled devices report Android status information.

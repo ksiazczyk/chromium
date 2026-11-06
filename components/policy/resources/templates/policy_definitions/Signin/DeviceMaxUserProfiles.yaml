@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceMaxUserProfiles policy
+# summary: Defines a ChromeOS device policy that limits the maximum number of user profiles retained on the device, deleting least recently used ones when exceeded.
+# ---
+
 caption: Maximum number of user profiles stored on the device
 desc: |-
   Controls the maximum number of user profiles retained on the device.

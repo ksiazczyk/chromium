@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenDomainAutoComplete policy
+# summary: Defines a ChromeOS device policy that enables domain name autocomplete during user sign-in, letting users type only their user name without the domain extension.
+# ---
+
 caption: Enable domain name autocomplete during user sign in
 desc: |-
   If this policy is set to a blank string or not configured, <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> will not show an autocomplete option during user sign-in flow.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenAutoSelectCertificateForUrls policy
+# summary: Defines a ChromeOS device policy that automatically selects client certificates for specified URL patterns on the sign-in screen during SAML flows.
+# ---
+
 caption: Automatically select client certificates for these sites on the sign-in screen
 desc: |-
   Allows you to specify a list of url patterns that specify sites for which a client certificate is automatically selected on the sign-in screen in the frame hosting the SAML flow, if the site requests a certificate. An example usage is to configure a device-wide certificate to be presented to the SAML IdP.

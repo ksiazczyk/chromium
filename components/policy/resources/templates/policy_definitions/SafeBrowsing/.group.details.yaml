@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Safe Browsing policy group details
+# summary: Defines the caption and description metadata for the Safe Browsing group of Chrome enterprise policies.
+# ---
+
 caption: Safe Browsing settings
 desc: Configure Safe Browsing related policies.

@@ -1,0 +1,4 @@
+# Docerion header of policy_conflict.html.
+type: source
+title: Policy conflict row HTML template
+summary: HTML template with inline styles for the policy-conflict element, showing a conflicting policy value with desktop and mobile layouts.

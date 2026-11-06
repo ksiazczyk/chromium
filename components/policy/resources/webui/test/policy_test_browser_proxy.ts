@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test browser proxy
+// summary: Browser proxy for the policy test page defining policy scope, level and source enums and bridging apply, revert, restart and affiliation calls to native handlers.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

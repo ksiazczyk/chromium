@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report extended detection and response (XDR) events
+# summary: Policy controlling whether enrolled devices report information related to extended detection and response (XDR) events.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report extended detection and response (XDR) events
 default: false

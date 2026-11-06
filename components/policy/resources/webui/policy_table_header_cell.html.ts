@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy table header cell template
+// summary: Lit HTML template that renders a header cell title together with ascending and descending sort buttons when sorting is enabled.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyTableHeaderCellElement} from './policy_table_header_cell.js';

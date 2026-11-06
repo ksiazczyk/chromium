@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: App usage reporting
+# summary: Chrome OS policy controlling app usage telemetry reporting for affiliated users across app types such as Chrome apps, Android apps, Linux apps and PWAs.
+# ---
+
 caption: App usage reporting
 default: []
 desc: |-

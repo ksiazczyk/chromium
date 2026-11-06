@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenExtensions policy
+# summary: Defines a ChromeOS device policy that configures the list of apps and extensions silently force-installed on the login screen.
+# ---
+
 caption: Configure the list of installed apps and extensions on the login screen
 desc: |2-
 

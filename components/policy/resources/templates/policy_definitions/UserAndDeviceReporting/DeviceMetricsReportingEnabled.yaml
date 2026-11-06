@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable metrics reporting
+# summary: Policy controlling whether ChromeOS reports usage metrics and diagnostic data, including crash reports, to Google.
+# ---
+
 arc_support: This policy also controls Android usage and diagnostic data collection.
 caption: Enable metrics reporting
 desc: |-

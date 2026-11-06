@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device users policy definition
+# summary: Defines the ReportDeviceUsers policy that controls whether enrolled Chrome OS devices report the list of recently signed-in device users.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device users
 desc: |-

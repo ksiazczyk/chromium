@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy table header cell element
+// summary: Lit custom element for sortable table header cells that maintains aria-sort attributes and fires sort-changed events on arrow clicks.
+// ---
+
 import '/strings.m.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -1,0 +1,4 @@
+# Docerion header of policy_test.html.
+type: test
+title: Policy test page HTML
+summary: HTML page for the policy test WebUI, offering buttons to restart the browser, apply, import, export, revert and clear policies, a user affiliation checkbox, and a policy table with a profile separation response area.

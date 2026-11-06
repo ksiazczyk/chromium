@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User screensaver lock screen enabled policy definition
+# summary: Defines the per-profile ChromeOS policy that enables a user screensaver on the lock screen, defaulting to false and supported since ChromeOS 116.
+# ---
+
 caption: User screensaver lock screen enabled.
 default: false
 desc: |-

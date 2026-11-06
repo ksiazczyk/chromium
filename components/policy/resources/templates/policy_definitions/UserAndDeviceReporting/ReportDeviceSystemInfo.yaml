@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report system info
+# summary: Chrome OS device policy definition that controls whether a device's system information is reported.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report system info
 desc: |-

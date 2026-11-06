@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy conflict Lit HTML template
+// summary: Lit HTML template for the policy-conflict element rendering the conflict value, source, scope, level and a copy-to-clipboard action.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyConflictElement} from './policy_conflict.js';

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report CRD sessions
+# summary: Chrome OS device policy that reports Chrome Remote Desktop session events on enrolled devices for affiliated users, disabled by default and supported since Chrome OS 99.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report CRD sessions
 default: false

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report network events
+# summary: Policy controlling whether network connection and signal strength events are reported on enrolled devices.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report network events
 default: false

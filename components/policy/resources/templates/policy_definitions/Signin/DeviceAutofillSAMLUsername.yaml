@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SAML username autofill policy
+# summary: Defines the ChromeOS device policy that autofills the user's email into a URL parameter on the SAML IdP login page during sign-in and lock screen authentication.
+# ---
+
 arc_support: This policy has no effect on Android apps.
 caption: Autofill username on SAML IdP page
 desc: |-

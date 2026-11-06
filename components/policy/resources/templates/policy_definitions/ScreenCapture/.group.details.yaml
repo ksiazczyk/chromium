@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ScreenCapture policy group details
+# summary: Group metadata giving the caption and description for the ScreenCapture policy group that controls screen-share APIs such as getDisplayMedia().
+# ---
+
 caption: Allow or deny screen capture
 desc: |-
   Configure policies to control the level of screen-share APIs (e.g., getDisplayMedia() or the Desktop Capture extension API)

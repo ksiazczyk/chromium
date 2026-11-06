@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report OS update status
+# summary: Chrome OS device policy definition that controls whether enrolled devices report OS update information such as update status, platform version, last update check and last reboot.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report OS update status
 desc: |-

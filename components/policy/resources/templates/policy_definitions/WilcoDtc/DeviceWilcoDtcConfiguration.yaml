@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceWilcoDtcConfiguration policy definition
+# summary: Defines the deprecated device-only policy that configures the Wilco DTC via a JSON configuration URL and cryptographic hash, cached and redownloaded when either changes.
+# ---
+
 caption: Wilco DTC configuration
 deprecated: true
 desc: |-

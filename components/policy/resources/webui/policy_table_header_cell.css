@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy table header cell styles
+summary: Styles the table header cell, including the sort arrow buttons and their active, rounded-icon, and coarse-pointer variants.
+*/
+
 :host {
   align-items: center;
   box-sizing: border-box;

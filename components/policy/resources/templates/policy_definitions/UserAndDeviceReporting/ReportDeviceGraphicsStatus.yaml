@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report display and graphics statuses policy
+# summary: Policy definition that controls whether enrolled Chrome OS devices report display and graphics information such as refresh rate and driver version; disabled by default.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report display and graphics statuses
 desc: |-

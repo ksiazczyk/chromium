@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated device startup flags policy
+# summary: Defines the deprecated ChromeOS device policy that applied Chrome flags on the login screen, removed in M66 because it was only for internal testing and a security liability.
+# ---
+
 caption: System wide flags to be applied on <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>
   start-up
 deprecated: true

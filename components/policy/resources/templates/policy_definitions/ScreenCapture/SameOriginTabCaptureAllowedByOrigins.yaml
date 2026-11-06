@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SameOriginTabCaptureAllowedByOrigins policy definition
+# summary: Defines a list policy of URL patterns whose sites may capture tabs of the same origin, overriding lower-priority capture policies.
+# ---
+
 caption: Allow Same Origin Tab capture by these origins
 desc: |-
   Setting the policy lets you set a list of URL patterns that can capture tabs with their same Origin.

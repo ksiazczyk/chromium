@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ScreenCaptureSettings atomic policy group
+# summary: Declares the ScreenCaptureSettings atomic group listing the related screen capture policies so they are handled together.
+# ---
+
 ScreenCaptureSettings:
   caption: Screen Capture settings
   policies:

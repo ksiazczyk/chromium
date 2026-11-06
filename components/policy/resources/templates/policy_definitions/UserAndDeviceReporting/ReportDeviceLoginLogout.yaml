@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report login/logout policy
+# summary: Policy definition that controls whether enrolled devices report login and logout events, including failed logins; disabled by default.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report login/logout
 default: false

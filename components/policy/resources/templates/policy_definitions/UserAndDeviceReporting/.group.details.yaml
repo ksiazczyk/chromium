@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: User and device reporting group details
+# summary: Group metadata defining the caption and description for the UserAndDeviceReporting policy group.
+# ---
+
 caption: User and device reporting
 desc: Controls what kind of user and device information is reported.

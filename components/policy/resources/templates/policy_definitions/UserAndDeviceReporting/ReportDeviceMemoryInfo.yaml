@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report memory info policy
+# summary: Policy definition that controls reporting of memory information on enrolled devices, enabled by default with an exception for free memory on M95 or below.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report memory info
 desc: |-

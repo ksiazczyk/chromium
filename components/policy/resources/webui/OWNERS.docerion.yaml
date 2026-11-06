@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the policy WebUI
+summary: Declares code owners for the directory and routes Mojom file reviews to the IPC security owners.

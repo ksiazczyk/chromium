@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ScreenCaptureAllowed policy definition
+# summary: Defines the main boolean policy that allows or denies pages from prompting users to share tab, window, or desktop video streams.
+# ---
+
 caption: Allow or deny screen capture
 default: true
 desc: "If enabled or not configured (default), a Web page can use\n      screen-share\

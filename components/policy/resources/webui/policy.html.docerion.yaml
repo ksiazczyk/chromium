@@ -1,0 +1,4 @@
+# Docerion header of policy.html.
+type: source
+title: Policy page HTML entry point
+summary: HTML shell for the policy WebUI that loads the page styles and mounts the policy-app element.

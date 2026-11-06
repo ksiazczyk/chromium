@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report storage status
+# summary: Chrome OS device policy definition that controls whether enrolled devices report hardware statistics and identifiers for storage devices.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report storage status
 desc: |-

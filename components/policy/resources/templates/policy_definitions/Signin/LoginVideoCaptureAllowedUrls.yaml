@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'LoginVideoCaptureAllowedUrls: video capture access on SAML login pages'
+# summary: Defines the ChromeOS policy listing URL patterns that are granted access to video capture devices on SAML login pages.
+# ---
+
 caption: URLs that will be granted access to video capture devices on SAML login pages
 desc: |-
   Patterns in this list will be matched against the security

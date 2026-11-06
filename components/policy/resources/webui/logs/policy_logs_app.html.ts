@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy logs app HTML template
+// summary: Lit template for the policy logs app showing version info, severity and text filters, the log list, and active variations.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyLogsAppElement} from './policy_logs_app.js';

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowHomeButton policy definition
+# summary: Defines the Chrome policy that shows or hides the Home button on the toolbar and locks the setting for users.
+# ---
+
 caption: Show Home button on toolbar
 desc: |-
   Setting the policy to Enabled shows the Home button on <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>'s toolbar. Setting the policy to Disabled keeps the Home button from appearing.

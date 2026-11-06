@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the policy WebUI
+summary: Defines the GN build target that compiles the policy WebUI's TypeScript, CSS, HTML and Mojo sources into the policy resource bundle.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Policy atomic groups for Signin policies
+# summary: Groups related Signin policy definitions into atomic groups such as LoginScreenOrigins, SAML, and ProfileSeparation.
+# ---
+
 LoginScreenOrigins:
   caption: Login and screen origins
   policies:

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy logs app styles
+summary: Lit CSS for the policy logs app, styling filter rows, buttons, log table layout, highlighting, and dark mode.
+*/
+
 :host {
   display: block;
 }

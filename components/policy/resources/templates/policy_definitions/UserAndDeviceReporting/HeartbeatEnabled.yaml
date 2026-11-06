@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Send network packets to the management server to monitor online status
+# summary: Chrome OS device policy that sends heartbeat network packets to the management server to detect offline devices, disabled by default and supported since Chrome OS 43.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Send network packets to the management server to monitor online status
 desc: |-

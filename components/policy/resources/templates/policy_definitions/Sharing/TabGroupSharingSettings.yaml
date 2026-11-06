@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TabGroupSharingSettings policy definition
+# summary: Chrome enterprise policy definition controlling whether users can access and share tab groups, with supported platforms, owners, and enum values.
+# ---
+
 caption: Tab group sharing settings
 desc: |-
   Control whether an entreprise user can access tab group sharing feature in Chrome.

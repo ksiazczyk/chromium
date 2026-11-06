@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SkyVault policy group details
+# summary: Metadata describing the Local user data storage policy group that controls local user data and cloud upload on ChromeOS.
+# ---
+
 caption: Local user data storage
 desc: |-
   Configure policies to control whether user data is allowed on the device, and whether existing data should be uploaded to the cloud.

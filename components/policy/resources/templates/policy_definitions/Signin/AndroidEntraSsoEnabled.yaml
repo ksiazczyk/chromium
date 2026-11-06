@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Android Microsoft cloud identity sign-in policy
+# summary: Defines the Android policy that controls automatic sign-in to Microsoft cloud identity providers in Chrome, requiring a Microsoft authentication broker app.
+# ---
+
 caption: Allow automatic sign-in to Microsoft® cloud identity providers on <ph name="ANDROID_NAME">Android</ph>
 default: 0
 desc: |-

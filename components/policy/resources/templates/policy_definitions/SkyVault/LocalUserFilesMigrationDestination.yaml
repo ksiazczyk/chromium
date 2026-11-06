@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalUserFilesMigrationDestination policy definition
+# summary: ChromeOS policy definition choosing how local files are handled when storage is blocked, migrating to Drive or OneDrive, read-only, or deleted.
+# ---
+
 caption: Local user files migration destination
 default: "read_only"
 desc: |-

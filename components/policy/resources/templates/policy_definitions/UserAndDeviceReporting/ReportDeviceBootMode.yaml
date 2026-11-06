@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceBootMode policy definition
+# summary: Defines the Chrome OS policy controlling whether enrolled devices report the state of the dev switch at boot.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device boot mode
 desc: |-

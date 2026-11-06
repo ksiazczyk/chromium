@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceCpuInfo policy definition
+# summary: Defines the Chrome OS policy controlling reporting of CPU model, architecture, clock speed and, for newer milestones, utilization and temperature.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report CPU info
 desc: |-

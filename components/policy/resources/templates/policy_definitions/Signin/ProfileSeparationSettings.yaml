@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'ProfileSeparationSettings: enterprise profile separation settings'
+# summary: Defines the policy controlling whether profile separation is suggested, enforced, or disabled after a managed account signs into the content area.
+# ---
+
 owners:
 - ydago@chromium.org
 - file://components/policy/OWNERS

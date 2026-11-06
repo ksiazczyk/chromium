@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Frequency of monitoring network packets
+# summary: Chrome OS device policy setting the heartbeat packet interval in milliseconds, clamped between 30 seconds and 24 hours with a default of 3 minutes.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Frequency of monitoring network packets
 desc: |-

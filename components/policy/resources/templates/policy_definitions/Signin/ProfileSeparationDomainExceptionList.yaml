@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'ProfileSeparationDomainExceptionList: secondary domain allowlist'
+# summary: Defines the policy listing domains whose account logins are not required to create a new separate profile.
+# ---
+
 owners:
 - ydago@chromium.org
 - file://components/policy/OWNERS

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebRTC atomic policy group definition
+# summary: Declares the WebRTC atomic policy group and lists its member policies such as WebRtcIPHandling and WebRtcPostQuantumKeyAgreement.
+# ---
+
 WebRtc:
   caption: WebRTC
   policies:

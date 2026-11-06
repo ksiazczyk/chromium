@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy app element styles
+summary: Styles the policy app layout, including toolbar, action rows, status boxes, toasts, warning banners and responsive behavior.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

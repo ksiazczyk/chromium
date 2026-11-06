@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy table element
+// summary: Lit custom element for the policy table that manages its data model, sorting, filter pattern, and visibility of policy rows in the Chrome policy page.
+// ---
+
 import '/strings.m.js';
 import './policy_precedence_row.js';
 import './policy_row.js';

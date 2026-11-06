@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: App usage telemetry collection rate in milliseconds
+# summary: Chrome OS policy setting the collection rate for app usage telemetry on enrolled devices, with a minimum of 5 minutes and a default of 15 minutes.
+# ---
+
 caption: App usage telemetry collection rate in milliseconds.
 default: 900000
 desc: |-

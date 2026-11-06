@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MultiScreenCaptureAllowedForUrls policy definition
+# summary: Defines a list policy that lets isolated web applications at given origins capture multiple screens via getAllScreensMedia without extra user permission.
+# ---
+
 caption: Enables automatic screencapture of multiple screens
 desc: |-
   The <ph name="GET_ALL_SCREENS_MEDIA_NAME">getAllScreensMedia</ph> API allows isolated web applications (identified by their origin) to capture multiple surfaces at once without additional user permission.

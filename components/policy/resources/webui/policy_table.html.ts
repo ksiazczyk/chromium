@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy table Lit template
+// summary: Lit HTML template that renders the policy table with sortable header cells, policy rows, an empty-state message, and an optional precedence row.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyTableElement} from './policy_table.js';

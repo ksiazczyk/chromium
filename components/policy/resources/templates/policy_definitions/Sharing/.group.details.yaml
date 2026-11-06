@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Sharing policy group details
+# summary: Group metadata giving the Sharing policy group its caption and description for policy documentation.
+# ---
+
 caption: Sharing Settings
 desc: Configure policies to control whether user is allowed to access shared data and features.

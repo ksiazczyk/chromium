@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the policy page
+// summary: Singleton proxy that sends policy page requests to the browser, switching between Mojo handlers and legacy chrome.send calls behind a migration flag.
+// ---
+
 import {addWebUiListener, sendWithPromise} from 'chrome://resources/js/cr.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

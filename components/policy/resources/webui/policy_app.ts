@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy app Lit element
+// summary: Main Lit element that loads policy groups and status, and handles search, reload, export, copy, report upload and banner actions.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/js/action_link.js';
 // <if expr="is_ios">

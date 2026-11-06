@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device network interfaces policy (deprecated)
+# summary: Deprecated policy definition that had enrolled devices report network interfaces with types and hardware addresses; replaced in M96 by network configuration and status policies.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device network interfaces
 deprecated: true

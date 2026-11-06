@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Show usernames on login screen policy
+# summary: Defines the ChromeOS device policy controlling whether existing users are listed on the login screen or a normal sign-in or SAML interstitial screen is shown instead.
+# ---
+
 caption: Show usernames on login screen
 desc: |-
   If this policy is set to true or not configured, <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> will show existing users on the login screen and allow to pick one.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test page controller
+// summary: TypeScript module wiring the policy test page buttons to import, apply, export, revert and clear test policies and updating the table on schema changes.
+// ---
+
 import '/strings.m.js';
 import './policy_test_table.js';
 

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy table styles
+summary: Styles the policy table WebUI component, covering the header grid layout, row layout, monospace values, and responsive behavior for narrow screens.
+*/
+
 :host(:not([hidden])) {
   display: block;
 }

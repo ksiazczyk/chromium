@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy row element
+// summary: Defines the policy-row Lit element that renders a single policy with expandable value, scope, level, status and conflict details.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/js/action_link.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

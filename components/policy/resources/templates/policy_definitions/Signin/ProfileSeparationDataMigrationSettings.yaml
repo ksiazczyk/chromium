@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'ProfileSeparationDataMigrationSettings: managed profile data migration'
+# summary: Defines the policy controlling whether users can bring existing browsing data into a managed profile created after a managed account sign-in.
+# ---
+
 owners:
 - ydago@chromium.org
 - file://components/policy/OWNERS

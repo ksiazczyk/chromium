@@ -1,0 +1,4 @@
+# Docerion header of policy.mojom.
+type: source
+title: Policy Mojom definitions
+summary: Defines Mojo structs and enums such as Log, Status, Policy, PolicyGroup, and Conflict used to pass policy information and metadata to the Chromium policy WebUI.

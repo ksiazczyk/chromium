@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Startup policy atomic groups
+# summary: Declares atomic policy groups bundling the homepage-related policies and the RestoreOnStartup policies with captions and owners.
+# ---
+
 Homepage:
   caption: Homepage
   policies:

@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Status box styles
+summary: Styles the status box card, including headings, status entries with labels and values, separators, links, and warning text.
+*/
+
 :host(:not([hidden])) {
   display: block;
 }

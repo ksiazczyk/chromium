@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test row template
+// summary: Lit HTML template rendering namespace, name, value, preset, source, scope and level inputs for a single policy test row.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {PolicyLevel, PolicyScope, PolicySource, Presets} from './policy_test_browser_proxy.js';

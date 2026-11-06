@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Website activity reporting allowlist policy definition
+# summary: Defines the URL allowlist controlling website opened and closed event reporting for affiliated users, reporting nothing when unset.
+# ---
+
 caption: Website activity reporting allowlist
 default: []
 desc: |-
