@@ -1,0 +1,4 @@
+# Docerion header of bear_192x320_270.nv12.yuv.json.
+type: data
+title: Bear NV12 frame metadata, 270-degree rotation
+summary: Metadata for a 192x320 NV12 bear frame rotated by 270 degrees, including an MD5 checksum for verification.

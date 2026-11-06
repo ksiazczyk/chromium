@@ -1,0 +1,4 @@
+# Docerion header of bear_320x192_180.nv12.yuv.json.
+type: test
+title: Bear 320x192 rotated NV12 frame metadata
+summary: Metadata for the bear_320x192 NV12 test frame rotated 180 degrees, with dimensions and a checksum for verification.

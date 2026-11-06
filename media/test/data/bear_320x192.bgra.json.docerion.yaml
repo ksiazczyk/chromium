@@ -1,0 +1,4 @@
+# Docerion header of bear_320x192.bgra.json.
+type: data
+title: Bear BGRA frame metadata
+summary: Metadata for a 320x192 BGRA bear frame, including an MD5 checksum for verification.

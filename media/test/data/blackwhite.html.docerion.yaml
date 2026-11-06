@@ -1,0 +1,4 @@
+# Docerion header of blackwhite.html.
+type: test
+title: Black and white video pixel format test page
+summary: Test page that plays black-and-white clips in many pixel formats and compares rendered frames against a reference image.
