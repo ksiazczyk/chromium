@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the media renderer host folder
+summary: Lists code owners for the media renderer host directory, including mediastream and WebRTC owners used for review routing.

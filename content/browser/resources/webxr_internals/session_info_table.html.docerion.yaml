@@ -1,0 +1,4 @@
+# Docerion header of session_info_table.html.
+type: source
+title: Session info table template
+summary: HTML template with inline styles and an empty table element used by the session info table custom element.

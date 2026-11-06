@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDevicesManager unit tests
+// summary: Unit tests for MediaDevicesManager verifying enumeration caching, cache invalidation, device monitoring and enumeration outcome metrics with fake devices.
+// ---
+
 #include "content/browser/renderer_host/media/media_devices_manager.h"
 
 #include <memory>

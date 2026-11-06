@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamPowerLogger implementation
+// summary: Implements logging of system power events such as suspend, resume, and thermal state changes into the media stream native logs.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_power_logger.h"
 
 #include "base/power_monitor/power_monitor.h"

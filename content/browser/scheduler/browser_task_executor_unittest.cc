@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserTaskExecutor unit tests
+// summary: Unit tests covering task runner selection, queue types, and draining of pending tasks on the UI and IO threads.
+// ---
+
 #include "content/browser/scheduler/browser_task_executor.h"
 
 #include <map>

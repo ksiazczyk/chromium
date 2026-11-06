@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the IndexedDB bucket list
+// summary: Lit template that renders IndexedDB partitions, origins, storage keys, and buckets with size, paths, connection counts, and control actions.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {IdbPartitionMetadata} from './indexed_db_internals.mojom-webui.js';

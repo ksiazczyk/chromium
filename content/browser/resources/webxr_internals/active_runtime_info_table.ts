@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active runtimes table web component
+// summary: Custom element that rebuilds the active runtimes table rows from runtime info, formatting device IDs and session features.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {getTemplate} from './active_runtime_info_table.html.js';

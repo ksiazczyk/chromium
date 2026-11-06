@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC logging dispatcher unit tests
+// summary: Unit tests verifying that the RTC logging dispatcher forwards diagnostic logging calls to a mocked content browser client when the RTC diagnostic logging feature is enabled.
+// ---
+
 #include "content/browser/renderer_host/media/rtc_logging_dispatcher.h"
 
 #include <memory>

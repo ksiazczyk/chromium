@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureProviderSwitcher implementation
+// summary: Implements VideoCaptureProviderSwitcher, routing device launches for camera devices to the media device provider and all other capture types to the other types provider.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_provider_switcher.h"
 
 #include <utility>

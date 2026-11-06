@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUINativeEventObserver implementation
+// summary: Implements native event observation hooks for Linux, ChromeOS, and Windows, with stubs for Android, Fuchsia, and iOS, forwarding will-run and did-run callbacks.
+// ---
+
 // Needed for BUILDFLAG(IS_WIN)
 #include "build/build_config.h"
 

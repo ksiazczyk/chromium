@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTaskQueues API
+// summary: Declares the BrowserTaskQueues class that holds all task queues needed by browser threads, defining queue types and a thread-safe Handle for cross-thread use.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_BROWSER_TASK_QUEUES_H_
 #define CONTENT_BROWSER_SCHEDULER_BROWSER_TASK_QUEUES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture controller event handler implementation
+// summary: Implements the ReadyBuffer value type that carries a captured buffer ID and frame info between the video capture controller and its clients.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_controller_event_handler.h"
 
 #include <memory>

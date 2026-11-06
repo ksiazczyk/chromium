@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserUIThreadScheduler implementation
+// summary: Implements the UI thread scheduler that creates and configures the sequence manager and task queues carrying out the browser scheduling policy.
+// ---
+
 #include "content/browser/scheduler/browser_ui_thread_scheduler.h"
 
 #include <memory>

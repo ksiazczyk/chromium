@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDevicesManager implementation
+// summary: Implements media device enumeration with result caching and device monitoring for audio input, video input and audio output device types.
+// ---
+
 #include "content/browser/renderer_host/media/media_devices_manager.h"
 
 #include <stddef.h>

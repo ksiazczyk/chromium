@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaStreamManager unit tests
+// summary: Unit tests for MediaStreamManager covering stream generation, device updates, captured surface control, and platform audio managers.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_manager.h"
 
 #include <stddef.h>

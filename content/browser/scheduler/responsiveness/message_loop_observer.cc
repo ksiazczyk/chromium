@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message loop task observer implementation
+// summary: Implements a task observer that forwards WillProcessTask and DidProcessTask notifications to provided callbacks and enables queue time recording.
+// ---
+
 #include "content/browser/scheduler/responsiveness/message_loop_observer.h"
 
 #include "base/task/current_thread.h"

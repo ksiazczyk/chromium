@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Screen details directory metadata
+summary: Chromium DIR_METADATA file assigning the directory to the Blink>Screen>MultiScreen component, the pwa-dev team email and a Buganizer component.

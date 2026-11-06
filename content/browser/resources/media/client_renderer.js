@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client renderer for the Media Internals UI
+// summary: Renders the Media Internals interface, building player lists, property tables, logs, graphs, and copy or download actions from backend data.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

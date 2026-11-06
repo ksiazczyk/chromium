@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameAudioInputStreamFactory implementation
+// summary: Implements per-frame audio input stream creation, including media device ID translation and loopback capture source handling.
+// ---
+
 #include "content/browser/renderer_host/media/render_frame_audio_input_stream_factory.h"
 
 #include <cstdint>

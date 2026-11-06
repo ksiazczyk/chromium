@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for quota internals resources
+summary: Delegates ownership of the quota internals resources to the owners of the storage/browser/quota directory.

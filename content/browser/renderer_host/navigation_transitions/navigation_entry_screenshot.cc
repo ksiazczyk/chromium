@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry screenshot implementation
+// summary: Implements capture, ETC1 compression and display of page screenshots used for back and forward navigation transition previews.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot.h"
 
 #include <GLES2/gl2.h>

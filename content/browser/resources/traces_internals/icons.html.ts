@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iconset with cloud upload icon
+// summary: Registers the trace-report-icons iconset with a cloud upload SVG icon, selecting a variant for rounded WebUI icons.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

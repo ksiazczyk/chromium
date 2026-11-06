@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio input device manager implementation
+// summary: Implements AudioInputDeviceManager, handling open, close and lookup of audio input devices for media streams on the browser IO thread.
+// ---
+
 #include "content/browser/renderer_host/media/audio_input_device_manager.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the service worker resources folder
+summary: Delegates code ownership to the OWNERS file of the content/browser/service_worker directory.

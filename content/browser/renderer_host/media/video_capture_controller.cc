@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureController implementation
+// summary: Implements VideoCaptureController, which distributes captured video frames to multiple connected clients and manages client add, remove, pause, and resume.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_controller.h"
 
 #include <stddef.h>

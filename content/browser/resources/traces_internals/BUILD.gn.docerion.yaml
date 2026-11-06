@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the traces internals WebUI
+summary: GN build rules that bundle, minify and package the traces_internals WebUI, including the bufbuild protobuf bundle and the Perfetto config proto library.

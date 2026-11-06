@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process launched video capture device implementation
+// summary: Implements LaunchedVideoCaptureDevice for a device running in-process, dispatching photo, suspend, and buffer calls to the device task runner.
+// ---
+
 #include "content/browser/renderer_host/media/in_process_launched_video_capture_device.h"
 
 #include <utility>

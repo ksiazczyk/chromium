@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDevicesDispatcherHost class declaration
+// summary: Declares the MediaDevicesDispatcherHost Mojo interface for device enumeration, capabilities, listeners, capture handle config and preferred sink selection.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_DEVICES_DISPATCHER_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_DEVICES_DISPATCHER_HOST_H_
 

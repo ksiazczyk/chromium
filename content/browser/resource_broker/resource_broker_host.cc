@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource broker host implementation
+// summary: Implements the browser-side singleton that lazily launches the broker utility service, applies a relaunch cooldown, and permanently disables the service after crash loops.
+// ---
+
 #include "content/browser/resource_broker/resource_broker_host.h"
 
 #include <memory>

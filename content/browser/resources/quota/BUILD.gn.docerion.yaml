@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the quota internals WebUI
+summary: GN build configuration that assembles the quota internals WebUI from static files, TypeScript sources, Mojo bindings and TypeScript dependencies.

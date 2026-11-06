@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: P2P directory metadata
+summary: Directory metadata mapping the p2p folder to the Blink>WebRTC monorail component and a public Buganizer component.

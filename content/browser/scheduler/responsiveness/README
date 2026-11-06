@@ -1,3 +1,9 @@
+---
+type: readme
+title: Responsiveness measurement overview
+summary: Explains how the folder's classes estimate Chrome responsiveness by measuring execution duration of work items on the browser's UI and IO threads, and links the design doc.
+---
+
 The classes in this folder estimate the responsiveness of Chrome by measuring
 execution duration of individual work items on the UI and IO threads of the
 browser process.

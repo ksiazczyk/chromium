@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricSource class interface
+// summary: Declares MetricSource and its Delegate interface for observing tasks and events on the browser's UI and IO threads as the source of responsiveness metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_METRIC_SOURCE_H_
 #define CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_METRIC_SOURCE_H_
 

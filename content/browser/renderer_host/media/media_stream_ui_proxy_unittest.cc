@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream UI proxy unit tests
+// summary: Unit tests for MediaStreamUIProxy using mock render frame host delegates, UI objects and response callbacks.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_ui_proxy.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedVideoSourceProvider implementation
+// summary: Implements ref-counted shared ownership of a video capture VideoSourceProvider mojo remote with a destruction callback.
+// ---
+
 #include "content/browser/renderer_host/media/ref_counted_video_source_provider.h"
 
 #include "content/public/browser/video_capture_service.h"

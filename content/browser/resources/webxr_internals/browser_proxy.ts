@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for WebXR internals Mojo calls
+// summary: Singleton proxy that subscribes to XR session events and fetches device and active runtime info from the browser over Mojo.
+// ---
+
 import type {DeviceInfo, RuntimeInfo} from './webxr_internals.mojom-webui.js';
 import {WebXrInternalsHandler, XRInternalsSessionListenerCallbackRouter} from './webxr_internals.mojom-webui.js';
 

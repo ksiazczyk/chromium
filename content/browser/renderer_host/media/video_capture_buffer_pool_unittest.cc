@@ -4,6 +4,12 @@
 
 // Unit test for VideoCaptureBufferPool.
 
+// ---docerion
+// type: test
+// title: VideoCaptureBufferPool unit tests
+// summary: Unit tests for VideoCaptureBufferPool across pixel formats and buffer types, including shared memory and GPU memory buffers on Windows and Mac.
+// ---
+
 #include "media/capture/video/video_capture_buffer_pool.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTaskExecutor implementation
+// summary: Implements the executor that maps browser task traits to UI and IO thread task queues, including queue type selection and Android main thread support.
+// ---
+
 #include "content/browser/scheduler/browser_task_executor.h"
 
 #include <atomic>

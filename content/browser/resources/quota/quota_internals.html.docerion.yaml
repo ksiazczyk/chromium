@@ -1,0 +1,4 @@
+# Docerion header of quota_internals.html.
+type: source
+title: Quota Internals WebUI page
+summary: HTML page for the Quota Internals WebUI with summary and usage tabs covering disk availability, eviction statistics and bucket usage data.

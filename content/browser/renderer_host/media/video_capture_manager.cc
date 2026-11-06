@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureManager implementation
+// summary: Implements opening, closing, starting, and stopping video capture devices and managing controllers, including queued device start requests and error histogram logging.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_manager.h"
 
 #include <algorithm>

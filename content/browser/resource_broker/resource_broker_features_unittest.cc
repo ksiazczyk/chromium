@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource broker feature flag unit tests
+// summary: Unit tests asserting the default disabled state of kResourceBroker and the default, overridden, and invalid-fallback values of its grace window parameter.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/time/time.h"

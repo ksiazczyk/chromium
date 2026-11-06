@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the media resources folder
+summary: Lists owners for the directory, inheriting the media owners and adding an owner for WebRTC internals related changes.

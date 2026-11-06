@@ -10,6 +10,12 @@
 // The work for enumerate/open/close is handled asynchronously on Media Stream
 // device thread, while GetOpenedDeviceById is synchronous on the IO thread.
 
+// ---docerion
+// type: source
+// title: Audio input device manager class declaration
+// summary: Declares AudioInputDeviceManager, the MediaStreamProvider that manages audio input device sessions, listeners and pending opens on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_AUDIO_INPUT_DEVICE_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_AUDIO_INPUT_DEVICE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op P2P socket manager implementation
+// summary: Implements a P2PSocketManager that performs no networking, reporting an empty network list, never resolving host addresses, and never creating sockets.
+// ---
+
 #include "content/browser/renderer_host/p2p/no_op_p2p_socket_manager.h"
 
 #include <memory>

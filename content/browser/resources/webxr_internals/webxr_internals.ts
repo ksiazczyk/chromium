@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR Internals page controller
+// summary: Entry script that bootstraps the page, wires sidebar tab switching, and renders the device, runtime, session, and statistics tables.
+// ---
+
 import './active_runtime_info_table.js';
 import './device_info_table.js';
 import './runtime_changelog_table.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualVideoCaptureDevicesChangedObserver implementation
+// summary: Implements the devices changed observer by notifying the global SystemMonitor of video capture device changes.
+// ---
+
 #include "content/browser/renderer_host/media/virtual_video_capture_devices_changed_observer.h"
 
 #include "base/system/system_monitor.h"

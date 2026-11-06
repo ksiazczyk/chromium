@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing scenarios config element
+// summary: Lit element that loads field and local tracing scenarios, manages privacy filter and Windows system tracing settings, and handles enable, reset, and confirm actions via the browser proxy.
+// ---
+
 import './tracing_scenario.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_toast/cr_toast.js';

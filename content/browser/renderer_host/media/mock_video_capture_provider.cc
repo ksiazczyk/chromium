@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video capture provider implementation
+// summary: Provides default constructors and destructors for the video capture provider, device launcher and launched device mock classes.
+// ---
+
 #include "content/browser/renderer_host/media/mock_video_capture_provider.h"
 
 namespace content {

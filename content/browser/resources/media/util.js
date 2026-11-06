@@ -7,6 +7,12 @@
  * code.
  */
 
+// ---docerion
+// type: source
+// title: Utility functions for media internals
+// summary: JavaScript module exporting shared helpers for the media internals UI, including object iteration and millisecond time-to-string formatting.
+// ---
+
 /**
  * Calls a function for each element in an object/map/hash.
  *

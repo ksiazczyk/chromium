@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation entry screenshot cache implementation
+// summary: Implements the per-FrameTree cache that stores navigation entry screenshots and evicts them under a memory budget.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot_cache.h"
 
 #include <optional>

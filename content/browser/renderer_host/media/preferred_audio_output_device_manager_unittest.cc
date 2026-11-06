@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreferredAudioOutputDeviceManager unit tests
+// summary: Unit tests for the preferred audio output device manager using mock device switchers for main frames and subframes.
+// ---
+
 #include "content/browser/renderer_host/media/preferred_audio_output_device_manager.h"
 
 #include <string>

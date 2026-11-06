@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service-launched video capture device implementation
+// summary: Implements a launched video capture device backed by the video capture service, forwarding photo capture, suspend, resume, buffer invalidation, and utilization reports over Mojo.
+// ---
+
 #include "content/browser/renderer_host/media/service_launched_video_capture_device.h"
 
 #include <utility>

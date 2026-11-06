@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process launched video capture device class declaration
+// summary: Declares InProcessLaunchedVideoCaptureDevice, which wraps an in-process media::VideoCaptureDevice behind SequenceBound.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_IN_PROCESS_LAUNCHED_VIDEO_CAPTURE_DEVICE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_IN_PROCESS_LAUNCHED_VIDEO_CAPTURE_DEVICE_H_
 

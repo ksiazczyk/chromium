@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Shared styles for IndexedDB internals pages
+summary: Provides shared CSS styles for metadata list items and clickable controls used across the IndexedDB internals WebUI.
+*/
+
 .metadata-list-item {
     display: block;
     border-inline-start: solid 1px black;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation entry screenshot browser tests
+// summary: Browser tests for capturing, caching and reusing navigation entry screenshots during gesture back and forward transitions.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_entry_screenshot.h"
 
 #include <optional>

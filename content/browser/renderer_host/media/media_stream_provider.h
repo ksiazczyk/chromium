@@ -9,6 +9,12 @@
 // The MediaStreamManager is expected to be called on Browser::IO thread and
 // the listener will be called on the same thread.
 
+// ---docerion
+// type: source
+// title: Media stream provider interface
+// summary: Declares the MediaStreamProvider interface, its error enum and listener callbacks for opening and closing media capture devices.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_PROVIDER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_PROVIDER_H_
 

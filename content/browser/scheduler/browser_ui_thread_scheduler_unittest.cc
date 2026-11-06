@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUIThreadScheduler unit tests
+// summary: Unit tests covering task execution during shutdown, prioritization of main frame navigation responses, and preemption by user input tasks.
+// ---
+
 #include "content/browser/scheduler/browser_ui_thread_scheduler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Responsiveness calculator implementation
+// summary: Implements the Calculator that splits measurement intervals into slices, marks congested ones, and emits responsiveness UMA histograms and trace events.
+// ---
+
 #include "content/browser/scheduler/responsiveness/calculator.h"
 
 #include <algorithm>

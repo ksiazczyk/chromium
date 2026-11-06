@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamManager implementation
+// summary: Implements the browser-side manager that opens, tracks, and closes media capture devices and handles media access requests and UI proxies.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service-launched video capture device header
+// summary: Declares ServiceLaunchedVideoCaptureDevice, a LaunchedVideoCaptureDevice implementation that communicates with the video capture service through Mojo video source and subscription remotes.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_SERVICE_LAUNCHED_VIDEO_CAPTURE_DEVICE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_SERVICE_LAUNCHED_VIDEO_CAPTURE_DEVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of webxr_internals.html.
+type: source
+title: WebXR Internals page shell
+summary: Main HTML page of the WebXR Internals debugging UI with sidebar tabs for device info, runtime info, session info, and session statistics.

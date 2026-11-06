@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op P2P socket manager class declaration
+// summary: Declares NoOpP2PSocketManager, a no-op P2PSocketManager bound for documents whose connection allowlist blocks WebRTC so renderers fail gracefully.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_P2P_NO_OP_P2P_SOCKET_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_P2P_NO_OP_P2P_SOCKET_MANAGER_H_
 

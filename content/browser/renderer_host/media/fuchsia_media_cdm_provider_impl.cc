@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia media CDM provider implementation
+// summary: Implements the FuchsiaMediaCdmProvider Mojo interface to create content decryption modules for a render frame on Fuchsia.
+// ---
+
 #include "content/browser/renderer_host/media/fuchsia_media_cdm_provider_impl.h"
 
 #include <fuchsia/mediacodec/cpp/fidl.h>

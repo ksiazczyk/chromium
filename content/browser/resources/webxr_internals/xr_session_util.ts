@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR session enum helpers
+// summary: Utilities that convert XR session enums for modes, features, errors, and depth formats and usage into display strings.
+// ---
+
 import {RequestSessionError, XRDepthDataFormat, XRDepthUsage, XRSessionFeature, XRSessionMode} from './xr_session.mojom-webui.js';
 
 export function depthFormatToString(format: XRDepthDataFormat): string {

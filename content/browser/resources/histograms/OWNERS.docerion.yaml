@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the histograms resources directory
+summary: Designates asvitkine@chromium.org as the owner of the histograms resources directory.

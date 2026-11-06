@@ -4,6 +4,12 @@
 
 // Unit test for VideoCaptureManager.
 
+// ---docerion
+// type: test
+// title: VideoCaptureManager unit tests
+// summary: Unit tests for VideoCaptureManager that verify device enumeration, stream handling, and suspend/resume behavior using a wrapped fake video capture device factory.
+// ---
+
 #include "content/browser/renderer_host/media/video_capture_manager.h"
 
 #include <stdint.h>

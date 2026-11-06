@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture devices changed observer unit tests
+// summary: Tests that the video capture devices changed observer receives device change events and handles service disconnection using mocked video capture service components.
+// ---
+
 #include "base/test/mock_devices_changed_observer.h"
 #include "content/browser/renderer_host/media/media_devices_manager.h"
 #include "content/public/browser/video_capture_service.h"

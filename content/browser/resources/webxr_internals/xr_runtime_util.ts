@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR device ID helpers
+// summary: Utility that maps XR device ID enum values to human-readable device names such as OpenXR, ARCore, and Cardboard.
+// ---
+
 import {XRDeviceId} from './xr_device.mojom-webui.js';
 
 export function deviceIdToString(deviceId: XRDeviceId): string {

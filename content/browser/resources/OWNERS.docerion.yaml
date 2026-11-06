@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for browser resources
+summary: Points to the WebUI platform owners for trivial or mechanical JS, CSS and HTML changes in this directory.

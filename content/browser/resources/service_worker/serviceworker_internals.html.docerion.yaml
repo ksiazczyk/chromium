@@ -1,0 +1,4 @@
+# Docerion header of serviceworker_internals.html.
+type: source
+title: Service worker internals page markup
+summary: HTML shell for the service worker internals WebUI page that loads the styles and module script and hosts the options and worker list containers.

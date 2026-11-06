@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedVideoSourceProvider class declaration
+// summary: Declares a ref-counted wrapper that shares ownership of a video capture VideoSourceProvider mojo remote.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_REF_COUNTED_VIDEO_SOURCE_PROVIDER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_REF_COUNTED_VIDEO_SOURCE_PROVIDER_H_
 

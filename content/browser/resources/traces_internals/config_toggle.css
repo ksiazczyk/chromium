@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the config toggle row
+summary: Styles for the config toggle component that places a description next to a toggle control.
+*/
+
 .config-toggle-container {
   align-items: center;
   font-size: 1.2em;

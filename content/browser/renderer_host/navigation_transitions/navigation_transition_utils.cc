@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation transition utils implementation
+// summary: Implements NavigationTransitionUtils for capturing and caching navigation entry screenshots, with Android-specific paths, metrics and test hooks.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_transition_utils.h"
 
 #include "base/android/android_info.h"

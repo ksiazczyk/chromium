@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation transition config implementation
+// summary: Implements NavigationTransitionConfig, computing device RAM requirements, screenshot cache size limits and cleanup delays for back/forward visual transitions.
+// ---
+
 #include "content/browser/renderer_host/navigation_transitions/navigation_transition_config.h"
 
 #include "base/android/callback_android.h"

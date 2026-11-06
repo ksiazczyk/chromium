@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream track metrics host implementation
+// summary: Implements the browser-side host that records UMA histograms of WebRTC audio and video track lifetimes per render process.
+// ---
+
 #include "content/browser/renderer_host/media/media_stream_track_metrics_host.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -1,0 +1,4 @@
+# Docerion header of traces_internals.html.
+type: source
+title: Local Traces page entry HTML
+summary: Entry HTML document for the local traces WebUI that loads the app module and hosts the traces-app element.

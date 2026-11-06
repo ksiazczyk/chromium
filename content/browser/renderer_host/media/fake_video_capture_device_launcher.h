@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVideoCaptureDeviceLauncher class declaration
+// summary: Declares the VideoCaptureDeviceLauncher implementation that starts fake video capture devices from a VideoCaptureSystem.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_FAKE_VIDEO_CAPTURE_DEVICE_LAUNCHER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_FAKE_VIDEO_CAPTURE_DEVICE_LAUNCHER_H_
 

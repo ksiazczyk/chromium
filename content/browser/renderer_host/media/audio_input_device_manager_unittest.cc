@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio input device manager unit tests
+// summary: Unit tests for AudioInputDeviceManager that verify opening and closing audio input devices using fake devices and mock listeners.
+// ---
+
 #include "content/browser/renderer_host/media/audio_input_device_manager.h"
 
 #include <stddef.h>

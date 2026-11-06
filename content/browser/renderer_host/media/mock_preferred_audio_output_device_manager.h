@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock preferred audio output device manager header
+// summary: Declares a gmock mock of PreferredAudioOutputDeviceManager with mocked sink selection and switcher methods for testing.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_MOCK_PREFERRED_AUDIO_OUTPUT_DEVICE_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_MOCK_PREFERRED_AUDIO_OUTPUT_DEVICE_MANAGER_H_
 

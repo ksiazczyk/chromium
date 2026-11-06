@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceVideoCaptureDeviceLauncher unit tests
+// summary: Unit tests for ServiceVideoCaptureDeviceLauncher covering device launch, abort, and connection loss using mock video capture service bindings.
+// ---
+
 #include "content/browser/renderer_host/media/service_video_capture_device_launcher.h"
 
 #include "base/functional/bind.h"

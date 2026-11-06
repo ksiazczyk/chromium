@@ -4,6 +4,12 @@
 
 // Unit tests for AudioOutputAuthorizationHandler.
 
+// ---docerion
+// type: test
+// title: Audio output authorization handler unit tests
+// summary: Unit tests for AudioOutputAuthorizationHandler covering device authorization, permission overrides and hashed device id handling.
+// ---
+
 #include "content/browser/renderer_host/media/audio_output_authorization_handler.h"
 
 #include "base/command_line.h"

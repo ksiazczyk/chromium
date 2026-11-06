@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watcher class interface
+// summary: Declares Watcher, a ref-counted MetricSource delegate that observes task and event execution and feeds timing metadata into the responsiveness Calculator.
+// ---
+
 #ifndef CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_WATCHER_H_
 #define CONTENT_BROWSER_SCHEDULER_RESPONSIVENESS_WATCHER_H_
 

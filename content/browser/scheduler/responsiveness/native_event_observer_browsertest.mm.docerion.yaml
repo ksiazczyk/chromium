@@ -1,0 +1,4 @@
+# Docerion header of native_event_observer_browsertest.mm.
+type: source
+title: macOS browser test for native event observer
+summary: macOS browser test verifying that native events sent through NSApp trigger the observer's will-run and did-run callbacks with matching event identifiers.

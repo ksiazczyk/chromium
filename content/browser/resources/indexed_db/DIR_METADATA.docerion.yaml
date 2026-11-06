@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for IndexedDB WebUI resources
+summary: Points to the shared directory metadata mixins of the IndexedDB browser folder.

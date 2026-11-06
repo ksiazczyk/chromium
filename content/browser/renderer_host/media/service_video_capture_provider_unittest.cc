@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceVideoCaptureProvider unit tests
+// summary: Unit tests for ServiceVideoCaptureProvider verifying lazy service connection, device info retrieval, and disconnection using mocked Mojo interfaces.
+// ---
+
 #include "content/browser/renderer_host/media/service_video_capture_provider.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Service Worker internals WebUI
+summary: Defines the WebUI build for the service worker internals page, listing its static files, TypeScript sources and build dependencies.

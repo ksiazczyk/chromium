@@ -1,0 +1,4 @@
+# Docerion header of session_statistics_table.html.
+type: source
+title: Session statistics table template
+summary: HTML template with a frames statistics heading, a copy-to-clipboard button, and an empty statistics table.

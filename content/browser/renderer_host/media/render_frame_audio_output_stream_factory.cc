@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render frame audio output stream factory implementation
+// summary: Implements the per-render-frame audio output stream factory that verifies stream creation is allowed, handles device authorization, and forwards requests to the ForwardingAudioStreamFactory.
+// ---
+
 #include "content/browser/renderer_host/media/render_frame_audio_output_stream_factory.h"
 
 #include <inttypes.h>

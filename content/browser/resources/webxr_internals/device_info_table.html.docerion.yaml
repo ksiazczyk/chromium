@@ -1,0 +1,4 @@
+# Docerion header of device_info_table.html.
+type: source
+title: Device info table template
+summary: HTML template for the device info table with property and value columns.

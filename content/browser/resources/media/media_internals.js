@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Internals bootstrap and tab navigation
+// summary: Boots the Manager and ClientRenderer and handles toolbar tab switching, hash-based navigation, and layout updates on resize.
+// ---
+
 import {ClientRenderer} from './client_renderer.js';
 import {initialize} from './main.js';
 import {Manager} from './manager.js';

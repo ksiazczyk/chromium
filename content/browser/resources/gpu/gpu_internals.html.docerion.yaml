@@ -1,0 +1,4 @@
+# Docerion header of gpu_internals.html.
+type: source
+title: GPU Internals page shell
+summary: HTML shell for the browser's GPU internals debug page, loading gpu_internals.js as a module and rendering the info-view element with light-dark color scheme styling.

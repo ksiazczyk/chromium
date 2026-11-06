@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime changelog table web component
+// summary: Custom element that records runtime added and removed events with timestamps in the changelog table.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import {getTemplate} from './runtime_changelog_table.html.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Resource broker directory owners
+summary: Lists the email addresses of the owners responsible for reviewing changes to the resource_broker directory.

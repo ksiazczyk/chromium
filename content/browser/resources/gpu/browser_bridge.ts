@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bridge for GPU info communication
+// summary: TypeScript class that fetches GPU, client and log message data from the C++ backend via WebUI handlers and dispatches update events, with synthetic data support for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {addWebUiListener, sendWithPromise} from 'chrome://resources/js/cr.js';
 

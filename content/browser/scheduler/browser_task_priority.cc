@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser task priority settings implementation
+// summary: Implements conversion of browser task priorities to trace proto priorities and thread types, and builds the sequence manager priority settings.
+// ---
+
 #include "content/browser/scheduler/browser_task_priority.h"
 
 #include "base/notreached.h"

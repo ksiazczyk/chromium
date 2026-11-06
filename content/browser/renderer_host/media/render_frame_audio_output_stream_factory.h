@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render frame audio output stream factory header
+// summary: Declares RenderFrameAudioOutputStreamFactory, which validates audio output stream requests from a render frame and forwards them to the appropriate ForwardingAudioStreamFactory on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_RENDER_FRAME_AUDIO_OUTPUT_STREAM_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_RENDER_FRAME_AUDIO_OUTPUT_STREAM_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the jank monitor
+// summary: Tests the lifecycle, observer notifications, and jank detection of JankMonitorImpl using a mock metric source and mock time.
+// ---
+
 #include "content/browser/scheduler/responsiveness/jank_monitor_impl.h"
 
 #include "base/functional/callback.h"

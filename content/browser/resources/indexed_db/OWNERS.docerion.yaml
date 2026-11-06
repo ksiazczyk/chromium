@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for IndexedDB WebUI resources
+summary: Delegates ownership review to the OWNERS file of the content/browser/indexed_db directory.

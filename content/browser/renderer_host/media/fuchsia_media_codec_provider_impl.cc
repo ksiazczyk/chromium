@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia media codec provider implementation
+// summary: Implements FuchsiaMediaCodecProvider via Fuchsia CodecFactory APIs, mapping codec profiles and reporting supported video decoder configurations.
+// ---
+
 #include "content/browser/renderer_host/media/fuchsia_media_codec_provider_impl.h"
 
 #include <fuchsia/media/cpp/fidl.h>

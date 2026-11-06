@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service video capture device launcher implementation
+// summary: Launches video capture devices through the out-of-process video capture service, connecting to the device factory and reporting launch success, failure, or abort via callbacks.
+// ---
+
 #include "content/browser/renderer_host/media/service_video_capture_device_launcher.h"
 
 #include <utility>

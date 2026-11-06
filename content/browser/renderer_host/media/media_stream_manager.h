@@ -7,6 +7,12 @@
 // If either user or test harness selects --use-fake-device-for-media-stream,
 // a fake video device or devices are used instead of real ones.
 
+// ---docerion
+// type: source
+// title: MediaStreamManager class declaration
+// summary: Declares MediaStreamManager, which generates and closes media devices and answers stream requests through callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_MANAGER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MEDIA_MEDIA_STREAM_MANAGER_H_
 

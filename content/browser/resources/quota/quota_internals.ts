@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota Internals UI logic
+// summary: TypeScript module that renders disk availability, eviction statistics and bucket usage tables and wires up storage pressure simulation in the Quota Internals page.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 
 import type {Time} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';

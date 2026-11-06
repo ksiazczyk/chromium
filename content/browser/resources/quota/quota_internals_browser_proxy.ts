@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota Internals browser proxy
+// summary: Browser proxy that forwards Quota Internals requests such as disk availability, global usage, eviction statistics and storage pressure simulation to the browser via Mojo.
+// ---
+
 import type {Origin} from 'chrome://resources/mojo/url/mojom/origin.mojom-webui.js';
 
 import type {BucketTableEntry} from './quota_internals.mojom-webui.js';

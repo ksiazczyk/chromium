@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watcher implementation
+// summary: Implements Watcher, the MetricSource delegate that tracks running tasks and events on the UI and IO threads and reports their timings to the Calculator.
+// ---
+
 #include "content/browser/scheduler/responsiveness/watcher.h"
 
 #include <variant>

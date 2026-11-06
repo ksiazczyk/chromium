@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen details test utilities implementation
+// summary: Builds an expected list of screen detail dictionaries from display::Screen data, sorted by position, for comparison in ScreenDetails browser tests.
+// ---
+
 #include "content/browser/screen_details/screen_details_test_utils.h"
 
 #include <algorithm>

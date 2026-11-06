@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media renderer host folder metadata
+summary: Directory metadata specifying the Blink>GetUserMedia monorail component, the webrtc-dev team email and a Buganizer component for this media folder.

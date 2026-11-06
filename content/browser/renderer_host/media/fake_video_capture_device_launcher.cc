@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVideoCaptureDeviceLauncher implementation
+// summary: Launches fake video capture devices in-process, wrapping them in a LaunchedVideoCaptureDevice with buffer pools and device clients for testing.
+// ---
+
 #include "content/browser/renderer_host/media/fake_video_capture_device_launcher.h"
 
 #include <memory>

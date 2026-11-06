@@ -1,0 +1,4 @@
+# Docerion header of runtime_changelog_table.html.
+type: source
+title: Runtime changelog table template
+summary: HTML template for the Added/Removed Runtimes table with device ID, state, time, features and AR columns.

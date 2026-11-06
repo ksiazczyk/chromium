@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenChangeMonitor implementation
+// summary: Implements a display observer that caches displays and runs a callback when the set of screens changes, reporting whether the multi-screen plurality changed.
+// ---
+
 #include "content/browser/screen_details/screen_change_monitor.h"
 
 #include "ui/display/screen.h"

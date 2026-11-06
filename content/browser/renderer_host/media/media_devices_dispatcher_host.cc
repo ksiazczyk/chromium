@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDevicesDispatcherHost implementation
+// summary: Implements the per-frame Mojo host serving renderer requests for media device enumeration, capabilities, device change listeners and audio output selection.
+// ---
+
 #include "content/browser/renderer_host/media/media_devices_dispatcher_host.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputStreamObserverImpl implementation
+// summary: Implements the browser-side audio output stream observer that reports playback start, stop and audible state changes to AudioStreamMonitor and handles reparenting the stream to a new frame.
+// ---
+
 #include "content/browser/renderer_host/media/audio_output_stream_observer_impl.h"
 
 #include "content/browser/media/audio_stream_monitor.h"
