@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI omnibox action factory header
+// summary: Declares Android JNI factory functions that create Java omnibox action objects and convert a C++ OmniboxAction list into a Java list.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_FACTORY_ANDROID_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_FACTORY_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolMode and request type utilities
+// summary: Utility class that identifies AI versus conventional autocomplete request types and maps between ToolMode values and AutocompleteRequestType values.
+// ---
+
 package org.chromium.components.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

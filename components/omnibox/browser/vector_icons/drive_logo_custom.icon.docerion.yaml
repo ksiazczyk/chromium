@@ -1,0 +1,4 @@
+# Docerion header of drive_logo_custom.icon.
+type: asset
+title: Drive logo vector icon
+summary: Vector icon definition of the Google Drive logo for the omnibox, drawn as three colored paths on a 192px canvas.

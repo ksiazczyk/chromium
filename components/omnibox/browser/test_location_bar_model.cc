@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLocationBarModel implementation
+// summary: Implements a configurable LocationBarModel fake whose URL, security level and display values are controlled by setters for omnibox tests.
+// ---
+
 #include "components/omnibox/browser/test_location_bar_model.h"
 
 #include "base/strings/utf_string_conversions.h"

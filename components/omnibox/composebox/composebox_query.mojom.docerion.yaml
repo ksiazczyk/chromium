@@ -1,0 +1,4 @@
+# Docerion header of composebox_query.mojom.
+type: source
+title: Composebox query Mojom definitions
+summary: Defines Mojo structs and enums for composebox queries, covering tool and model modes, input state, and context upload status and error types.

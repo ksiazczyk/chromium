@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZeroSuggestVerbatimMatchProvider unit tests
+// summary: Unit tests for the omnibox zero-suggest verbatim match provider, covering page classifications where verbatim matches are eligible.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_verbatim_match_provider.h"
 
 #include <memory>

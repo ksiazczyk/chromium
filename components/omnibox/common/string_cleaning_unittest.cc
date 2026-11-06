@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String cleaning unit tests
+// summary: Unit tests verifying URL and title cleanup behavior, including truncation of long strings, credential stripping, and empty input handling.
+// ---
+
 #include "components/omnibox/common/string_cleaning.h"
 
 #include "base/strings/utf_string_conversions.h"

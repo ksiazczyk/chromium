@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VoiceSuggestProvider unit tests
+// summary: Unit tests covering voice suggestion ordering by confidence, deduplication of duplicates, cache clearing, and non-reuse of suggestions across autocomplete requests.
+// ---
+
 #include "components/omnibox/browser/voice_suggest_provider.h"
 
 #include <memory>

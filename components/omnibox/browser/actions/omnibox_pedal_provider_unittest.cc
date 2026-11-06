@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox pedal provider unit tests
+// summary: Unit tests checking that provider queries trigger pedals, for example matching the phrase clear history to the clear browsing data pedal.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_pedal_provider.h"
 
 #include "base/environment.h"

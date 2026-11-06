@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox pedal unit tests
+// summary: Unit tests for synonym group matching and concept match behavior of OmniboxPedal, covering required, optional, and extra token cases.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_pedal.h"
 
 #include "base/strings/utf_string_conversions.h"

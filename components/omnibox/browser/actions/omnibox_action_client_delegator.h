@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionClientDelegator header
+// summary: Declares OmniboxActionClientDelegator, a delegating OmniboxAction::Client implementation that forwards all client calls such as sharing, incognito, Lens, and contextual search to a delegate instance.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_CLIENT_DELEGATOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_CLIENT_DELEGATOR_H_
 

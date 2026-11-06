@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device tab omnibox action implementation
+// summary: Implements the omnibox action that opens the synced tabs page in history for a tab last active on another device.
+// ---
+
 #include "components/omnibox/browser/actions/cross_device_tab_action.h"
 
 #include "base/time/time.h"

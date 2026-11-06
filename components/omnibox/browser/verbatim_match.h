@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verbatim match header
+// summary: Declares functions that create verbatim autocomplete matches for URLs, inputs and context-only queries with configurable relevance.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_VERBATIM_MATCH_H_
 #define COMPONENTS_OMNIBOX_BROWSER_VERBATIM_MATCH_H_
 

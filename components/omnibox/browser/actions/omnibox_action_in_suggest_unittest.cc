@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxActionInSuggest unit tests
+// summary: Unit tests for OmniboxActionInSuggest verifying labels for known action types, metrics recording, and execution behavior.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action_in_suggest.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omnibox common include rules
+summary: Declares the additional include dependencies permitted for the omnibox common component, such as url_formatter and the omnibox and lens protos.

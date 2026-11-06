@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest inventory fallback utilities declaration
+// summary: Declares functions that return randomized fallback prompt strings and create fallback autocomplete matches for a given suggest inventory.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SUGGEST_INVENTORY_FALLBACK_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SUGGEST_INVENTORY_FALLBACK_UTILS_H_
 

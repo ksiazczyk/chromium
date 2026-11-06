@@ -1,0 +1,4 @@
+# Docerion header of calc.
+type: test
+title: 'Fuzz corpus: calculator suggest response'
+summary: Sample Google suggest response for the query 1+1 with calculator and entity suggestions, used as fuzzing input for omnibox suggest parsing.

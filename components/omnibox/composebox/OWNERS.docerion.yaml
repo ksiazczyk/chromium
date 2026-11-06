@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for composebox files
+summary: Lists owning teams for the directory and assigns IPC security owners to Mojom and Mojom traits files.

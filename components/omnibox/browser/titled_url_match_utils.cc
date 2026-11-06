@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Titled URL match to autocomplete match conversion
+// summary: Implements conversion of bookmark and history titled URL matches into omnibox autocomplete matches, including title, path and URL formatting and classification.
+// ---
+
 #include "components/omnibox/browser/titled_url_match_utils.h"
 
 #include <numeric>

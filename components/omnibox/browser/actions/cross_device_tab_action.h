@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device tab omnibox action declarations
+// summary: Declares CrossDeviceTabAction, an omnibox action linking to synced tabs that carries the remote tab's last active time.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_CROSS_DEVICE_TAB_ACTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_CROSS_DEVICE_TAB_ACTION_H_
 

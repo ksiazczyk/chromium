@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox metrics utility declarations
+// summary: Declares the persisted ContextType and early exit reason enums and helper functions that convert omnibox metric enums to strings.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_OMNIBOX_METRICS_UTILS_H_
 #define COMPONENTS_OMNIBOX_COMMON_OMNIBOX_METRICS_UTILS_H_
 

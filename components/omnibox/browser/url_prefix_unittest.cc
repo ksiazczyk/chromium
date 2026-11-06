@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL prefix unit tests
+// summary: Unit tests verifying BestURLPrefix matching for http, https, ftp and www prefixes across case and prefix suffix variations.
+// ---
+
 #include "components/omnibox/browser/url_prefix.h"
 
 #include "base/strings/utf_string_conversions.h"

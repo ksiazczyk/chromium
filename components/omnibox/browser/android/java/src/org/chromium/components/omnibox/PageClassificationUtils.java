@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page classification utilities
+// summary: Utility class that checks whether a page classification value represents Android Hub Search or the Tab Search Overlay.
+// ---
+
 package org.chromium.components.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

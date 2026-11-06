@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the composebox directory
+summary: Specifies allowed include dependencies for the composebox directory, granting unit tests extra Mojo test support.

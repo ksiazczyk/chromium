@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolModeUtils unit tests
+// summary: Robolectric tests for ToolModeUtils covering AI and conventional request detection and the mappings between request types and tool modes, including attachment handling.
+// ---
+
 package org.chromium.components.omnibox;
 
 import static org.junit.Assert.assertEquals;

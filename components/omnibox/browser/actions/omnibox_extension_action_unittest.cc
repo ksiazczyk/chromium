@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox extension action unit tests
+// summary: Unit tests verifying the extension action's identifier, label strings, callback execution, and icon image handling.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_extension_action.h"
 
 #include <memory>

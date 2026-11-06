@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL index private data unit tests
+// summary: Unit tests for URLIndexPrivateData covering row indexing, scheme allowlisting, search term caching and equality of the in-memory URL index state.
+// ---
+
 #include "components/omnibox/browser/url_index_private_data.h"
 
 #include <cstdint>

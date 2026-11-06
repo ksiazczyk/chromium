@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab matcher implementation
+// summary: Implements TabMatcher by flagging map entries whose URL has an open tab and returning an empty list of open tabs.
+// ---
+
 #include "components/omnibox/browser/tab_matcher.h"
 
 void TabMatcher::FindMatchingTabs(GURLToTabInfoMap* map,

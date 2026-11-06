@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteRequestType
+// summary: IntDef annotation enumerating autocomplete request fulfillment types, including search, prefetch, AI mode, image generation, canvas, and deep search.
+// ---
+
 package org.chromium.components.omnibox;
 
 import androidx.annotation.IntDef;

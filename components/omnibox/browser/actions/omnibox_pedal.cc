@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox pedal implementation
+// summary: Implements OmniboxPedal and its TokenSequence matching container used to detect user intentions in omnibox suggestions and execute fixed actions.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_pedal.h"
 
 #include <algorithm>

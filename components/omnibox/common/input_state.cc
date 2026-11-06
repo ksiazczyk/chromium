@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputState implementation
+// summary: Implements memory usage estimation for InputState and its config protos and derives the default model from the allowed model list.
+// ---
+
 #include "components/omnibox/common/input_state.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

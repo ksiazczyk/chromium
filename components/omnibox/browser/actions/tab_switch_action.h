@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitchAction omnibox action header
+// summary: Declares the TabSwitchAction class, an OmniboxAction subclass that executes a switch to an existing tab for a given URL in the Chromium omnibox.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_TAB_SWITCH_ACTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_TAB_SWITCH_ACTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox action client delegator implementation
+// summary: Implements a delegator that forwards omnibox action client calls such as sharing hub, incognito, and Lens overlay to the embedder.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action_client_delegator.h"
 
 OmniboxActionClientDelegator::OmniboxActionClientDelegator(

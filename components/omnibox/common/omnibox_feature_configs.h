@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox feature configs framework header
+// summary: Header defining a caching framework for omnibox Finch feature parameters, with config structs such as CalcProvider and AiMode plus test override utilities.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FEATURE_CONFIGS_H_
 #define COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FEATURE_CONFIGS_H_
 

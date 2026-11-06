@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scoring signals annotator header
+// summary: Declares UrlScoringSignalsAnnotator, which annotates URL autocomplete suggestions with scoring signals derived from query-URL matching.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_URL_SCORING_SIGNALS_ANNOTATOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_URL_SCORING_SIGNALS_ANNOTATOR_H_
 

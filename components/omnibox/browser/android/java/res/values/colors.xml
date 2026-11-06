@@ -4,6 +4,13 @@ Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox URL emphasis color definitions
+summary: Defines Android color resources for the omnibox URL emphasizer, mapping emphasized and non-emphasized text colors for dark and light variants.
+-->
+
 <resources>
     <!-- URL Emphasizer colors -->
     <color name="url_emphasis_non_emphasized_text">@color/default_text_color_secondary_dark</color>

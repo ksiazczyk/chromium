@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxClient implementation
+// summary: Implements a fake OmniboxClient with gmock stubs, a fake provider client and test services for use in omnibox unit tests.
+// ---
+
 #include "components/omnibox/browser/test_omnibox_client.h"
 
 #include <memory>

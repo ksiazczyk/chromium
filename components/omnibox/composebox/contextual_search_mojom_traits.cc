@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search Mojom traits implementation
+// summary: Implements Mojo enum and struct traits that convert between omnibox proto types and composebox query Mojom types, safely handling unknown enum values.
+// ---
+
 #include "components/omnibox/composebox/contextual_search_mojom_traits.h"
 
 #include "base/logging.h"

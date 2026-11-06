@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSchemeClassifier class declaration
+// summary: Declares a test subclass of AutocompleteSchemeClassifier that classifies URL schemes for omnibox tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TEST_SCHEME_CLASSIFIER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TEST_SCHEME_CLASSIFIER_H_
 

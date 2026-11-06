@@ -1,0 +1,4 @@
+# Docerion header of drive_pdf_custom.icon.
+type: asset
+title: Drive PDF vector icon
+summary: Vector icon definition of the Google Drive PDF file badge, converted from an SVG source to a 32dp Skia path.

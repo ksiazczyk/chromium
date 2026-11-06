@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Omnibox no encryption icon
+summary: Vector drawable of an open padlock indicating no encryption, scaled to 20dp within a 24dp canvas for the omnibox.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

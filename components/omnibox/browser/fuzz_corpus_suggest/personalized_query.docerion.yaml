@@ -1,0 +1,4 @@
+# Docerion header of personalized_query.
+type: test
+title: 'Fuzz corpus: personalized query suggest response'
+summary: Sample Google suggest response for google with personalized query suggestions from history, used as fuzzing input for omnibox suggest parsing.

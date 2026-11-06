@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group provider implementation
+// summary: Implements an autocomplete provider that scores saved tab groups against user input and creates matching omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/tab_group_provider.h"
 
 #include <algorithm>

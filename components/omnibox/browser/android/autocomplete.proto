@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete result proto definitions
+// summary: Defines protobuf messages for autocomplete results and matches, including suggestion text, classifications, URLs, and grouping, for native-to-Android exchange.
+// ---
+
 syntax = "proto3";
 
 import "third_party/omnibox_proto/groups.proto";

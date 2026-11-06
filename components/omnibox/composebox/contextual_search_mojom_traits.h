@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search Mojom traits declarations
+// summary: Declares Mojo enum and struct trait mappings between omnibox proto types, contextual search types, and composebox query Mojom types.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMPOSEBOX_CONTEXTUAL_SEARCH_MOJOM_TRAITS_H_
 #define COMPONENTS_OMNIBOX_COMPOSEBOX_CONTEXTUAL_SEARCH_MOJOM_TRAITS_H_
 

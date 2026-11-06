@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionSiteSearch header
+// summary: Declares OmniboxActionSiteSearch, an OmniboxAction subclass built from a TemplateURL that enters keyword mode for site search.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_SITE_SEARCH_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_SITE_SEARCH_H_
 

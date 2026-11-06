@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion group utility header
+// summary: Defines relevance constants for zero-prefix suggestion types and declares helpers that build default suggestion group configurations for an input.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SUGGESTION_GROUP_UTIL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SUGGESTION_GROUP_UTIL_H_
 

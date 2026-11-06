@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMatcher interface for matching URLs to open tabs
+// summary: Declares an abstraction for checking whether a URL is open in a browser tab, with batch tab matching and open tab enumeration used by the omnibox OpenTabProvider.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TAB_MATCHER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TAB_MATCHER_H_
 

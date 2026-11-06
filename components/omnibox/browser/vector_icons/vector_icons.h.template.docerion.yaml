@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: vector_icons.h template
+summary: Template from which the build generates vector_icons.h, declaring extern gfx::VectorIcon constants for the omnibox.

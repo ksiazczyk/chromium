@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest inventory fallback utilities implementation
+// summary: Builds randomized fallback prompt suggestions and search-suggest autocomplete matches for the suggest inventory supplied in the autocomplete input.
+// ---
+
 #include "components/omnibox/browser/suggest_inventory_fallback_utils.h"
 
 #include <algorithm>

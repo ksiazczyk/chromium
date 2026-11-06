@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox dropdown corner radius dimension for tablets
+summary: Android resource XML that sets the omnibox suggestion dropdown corner radius to 24dp for 600dp-wide tablet configurations.
+-->
+
 <resources>
   <dimen name="omnibox_suggestion_dropdown_round_corner_radius">24dp</dimen>
 </resources>

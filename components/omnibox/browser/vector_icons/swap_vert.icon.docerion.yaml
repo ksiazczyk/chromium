@@ -1,0 +1,4 @@
+# Docerion header of swap_vert.icon.
+type: asset
+title: Swap vert vector icon
+summary: Defines the vector path data for the swap vertical arrows icon drawn on a 16px canvas for use in the omnibox.

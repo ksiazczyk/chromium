@@ -6,6 +6,12 @@
 // provider is invoked when the user focuses in the omnibox prior to editing,
 // and generates search query suggestions based on the current URL.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestProvider class header
+// summary: Declares ZeroSuggestProvider, an autocomplete provider that generates search query suggestions based on the current URL when the user focuses the omnibox before typing.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_PROVIDER_H_
 

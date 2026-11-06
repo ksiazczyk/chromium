@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageClassificationUtils unit tests
+// summary: Robolectric tests verifying that isHubOrTabSearch accepts Android Hub and Tab Search Overlay classifications and rejects NTP and blank ones.
+// ---
+
 package org.chromium.components.omnibox;
 
 import static org.junit.Assert.assertFalse;

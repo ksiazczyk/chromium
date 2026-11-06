@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxFeatureMap
+// summary: Singleton Java accessor for the state of Omnibox feature flags, extending the base FeatureMap and bridging to the native feature map via JNI.
+// ---
+
 package org.chromium.components.omnibox;
 
 import org.jni_zero.JNINamespace;

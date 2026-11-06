@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox security status icon utility
+// summary: Utility that maps connection security levels and malicious content statuses to the appropriate omnibox security icon drawable and accessibility description resources.
+// ---
+
 package org.chromium.components.omnibox;
 
 import androidx.annotation.DrawableRes;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailoredWordBreakIterator class declaration
+// summary: Declares a BreakIterator subclass that breaks words on underscores and numbers in addition to standard word boundaries.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TAILORED_WORD_BREAK_ITERATOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TAILORED_WORD_BREAK_ITERATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox common build targets
+summary: GN build file defining the omnibox common source set, unit tests, and Android JNI and Java feature targets with their dependencies.

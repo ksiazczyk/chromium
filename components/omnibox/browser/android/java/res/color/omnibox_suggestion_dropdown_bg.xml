@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Omnibox suggestion dropdown background color selector
+summary: Android color selector resource that sets the omnibox suggestion dropdown background to the theme's colorSurfaceContainer attribute.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainer"/>
 </selector>

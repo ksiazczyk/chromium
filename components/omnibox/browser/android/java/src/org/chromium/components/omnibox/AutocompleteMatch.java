@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteMatch
+// summary: Container class for a single omnibox suggestion, carrying display text classifications, URLs, group IDs, actions, and native match linkage.
+// ---
+
 package org.chromium.components.omnibox;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxCapabilities
+// summary: Java class that reports device and OS capabilities relevant to the Omnibox, such as low-memory device detection, desktop experience checks, and Fusebox device type support.
+// ---
+
 package org.chromium.components.omnibox;
 
 import android.content.Context;

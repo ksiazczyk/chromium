@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox URL emphasizer
+// summary: Helper class that emphasizes URL components such as scheme and host with color and strikethrough spans in the Android Omnibox and Page Info popup, delegating parsing to native code.
+// ---
+
 package org.chromium.components.omnibox;
 
 import android.content.Context;

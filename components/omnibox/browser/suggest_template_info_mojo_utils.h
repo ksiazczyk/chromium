@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest template info Mojo utils header
+// summary: Declares CreateSuggestTemplateInfo, which builds the rendering-relevant SuggestTemplateInfo mojom object for an autocomplete match.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SUGGEST_TEMPLATE_INFO_MOJO_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SUGGEST_TEMPLATE_INFO_MOJO_UTILS_H_
 

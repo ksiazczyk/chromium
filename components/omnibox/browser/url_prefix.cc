@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL prefix matching implementation
+// summary: Implements URLPrefix helpers that match scheme and www prefixes against text and compute inline autocomplete offsets for omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/url_prefix.h"
 
 #include "base/check_op.h"

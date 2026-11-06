@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestProvider implementation
+// summary: Implements the zero-prefix autocomplete provider that fetches search suggestions when the omnibox is focused, including eligibility checks, response caching, deletions, and metrics.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_provider.h"
 
 #include <optional>

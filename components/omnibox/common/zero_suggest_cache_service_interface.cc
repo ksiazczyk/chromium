@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero suggest cache service interface implementation
+// summary: Implements cache entry and suggest result constructors plus memory usage estimation for the zero suggest cache service interface.
+// ---
+
 #include "components/omnibox/common/zero_suggest_cache_service_interface.h"
 
 #include <string>

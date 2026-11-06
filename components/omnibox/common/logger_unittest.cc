@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logger unit tests
+// summary: Unit tests verifying that the omnibox Logger notifies observers of log messages with proto type names and base64 payloads via the builder and macros.
+// ---
+
 #include "components/omnibox/common/logger.h"
 
 #include <optional>

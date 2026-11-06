@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZeroSuggestCacheService unit tests
+// summary: Unit tests verifying storage and updates of cached zero suggest responses, composebox isolation from NTP entries, observer notifications, and cache clearing.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_cache_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TailoredWordBreakIterator implementation
+// summary: Implements a word break iterator that additionally splits on underscores and digits, used to segment omnibox input text.
+// ---
+
 #include "components/omnibox/browser/tailored_word_break_iterator.h"
 
 #include <string>

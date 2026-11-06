@@ -1,0 +1,4 @@
+# Docerion header of rich3.
+type: test
+title: 'Fuzz corpus: rich multi-entity suggest response'
+summary: Sample Google suggest response for Avatar with several entity suggestions, used as fuzzing input for omnibox suggest parsing.

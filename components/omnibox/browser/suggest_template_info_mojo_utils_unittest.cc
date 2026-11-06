@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggest template info Mojo utils unit tests
+// summary: Unit tests verifying secondary text placement synthesis and server precedence, image population and other conversions in the suggest template info Mojo utilities.
+// ---
+
 #include "components/omnibox/browser/suggest_template_info_mojo_utils.h"
 
 #include <array>

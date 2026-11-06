@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteInput
+// summary: Holds the input to autocomplete and fusebox, defining autocomplete, display, and refine action states as fully serializable data free of external dependencies.
+// ---
+
 package org.chromium.components.omnibox;
 
 import android.text.TextUtils;

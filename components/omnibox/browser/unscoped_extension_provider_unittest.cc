@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the unscoped extension provider
+// summary: Unit tests verifying when the unscoped extension provider starts or stops requests to extensions, including minimal changes and async match handling.
+// ---
+
 #include "components/omnibox/browser/unscoped_extension_provider.h"
 
 #include <stddef.h>

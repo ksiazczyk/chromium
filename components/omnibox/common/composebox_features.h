@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox feature declarations
+// summary: Declares composebox feature flags and parameters with comments explaining each gated behavior, plus helper checks for tab deselection and tooltips.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_COMPOSEBOX_FEATURES_H_
 #define COMPONENTS_OMNIBOX_COMMON_COMPOSEBOX_FEATURES_H_
 

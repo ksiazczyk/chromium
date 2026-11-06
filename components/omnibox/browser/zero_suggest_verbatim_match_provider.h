@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ZeroSuggestVerbatimMatchProvider class header
+// summary: Declares ZeroSuggestVerbatimMatchProvider, which supplies the verbatim match for the visited site on omnibox focus for platforms that always need it, such as Android.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_VERBATIM_MATCH_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_VERBATIM_MATCH_PROVIDER_H_
 

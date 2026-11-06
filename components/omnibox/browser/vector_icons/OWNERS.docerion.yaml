@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox vector icons owners
+summary: Owners entry that forwards code review ownership to the OWNERS file of components/vector_icons.

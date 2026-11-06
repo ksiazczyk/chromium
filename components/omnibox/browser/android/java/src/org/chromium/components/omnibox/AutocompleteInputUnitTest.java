@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteInputUnitTest
+// summary: Robolectric unit tests for AutocompleteInput covering reset behavior, user text handling, and cacheable zero-suggest page contexts.
+// ---
+
 package org.chromium.components.omnibox;
 
 import static org.junit.Assert.assertEquals;

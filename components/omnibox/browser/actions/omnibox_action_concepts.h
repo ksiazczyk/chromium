@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionId enum header
+// summary: Defines the OmniboxActionId enum listing unique identifiers for non-pedal omnibox actions such as history clusters, tab switch, site search, and cross-device tab, with a generated Java counterpart.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_CONCEPTS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_ACTION_CONCEPTS_H_
 

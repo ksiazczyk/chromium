@@ -1,0 +1,4 @@
+# Docerion header of answer_currency_old.icon.
+type: asset
+title: Answer currency vector icon (old)
+summary: Vector icon for the currency conversion answer in the omnibox, converted from an SVG via Skiafy on a 16px canvas.

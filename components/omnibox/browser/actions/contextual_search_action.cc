@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search omnibox action implementation
+// summary: Implements omnibox actions that fulfill contextual search through the Lens CSB flow, including alternative label selection and CTR metrics.
+// ---
+
 #include "components/omnibox/browser/actions/contextual_search_action.h"
 
 #include "components/omnibox/common/omnibox_features.h"

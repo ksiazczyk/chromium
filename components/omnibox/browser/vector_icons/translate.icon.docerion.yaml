@@ -1,0 +1,4 @@
+# Docerion header of translate.icon.
+type: asset
+title: Translate vector icon
+summary: Defines the vector path data for the translate icon drawn on a 16px canvas for use in the omnibox.

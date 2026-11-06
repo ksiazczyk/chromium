@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index private data implementation
+// summary: Implements URLIndexPrivateData, which stores and updates the in-memory history index used to score history items for omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/url_index_private_data.h"
 
 #include <stdint.h>

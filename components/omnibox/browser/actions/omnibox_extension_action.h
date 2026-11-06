@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox extension action class declaration
+// summary: Declares OmniboxExtensionAction, an omnibox action attached to unscoped suggestions created by extensions that runs a caller-supplied callback.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_EXTENSION_ACTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_OMNIBOX_EXTENSION_ACTION_H_
 

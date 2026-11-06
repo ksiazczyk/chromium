@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox drawable alias definitions
+summary: Defines Android drawable aliases that map omnibox and action icons such as the default action, dino game, HTTPS page info, and omnibox info to concrete drawables.
+-->
+
 <resources>
     <drawable name="action_default">@drawable/fre_product_logo</drawable>
     <drawable name="action_dino_game">@drawable/ic_dino</drawable>

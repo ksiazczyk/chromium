@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for composebox Mojo bindings and tests
+summary: Defines GN targets for the composebox_query Mojom bindings, C++ typemaps, and the traits unit test source set.
