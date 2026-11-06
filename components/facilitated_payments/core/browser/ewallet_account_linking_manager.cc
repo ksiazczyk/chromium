@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ewallet account linking manager implementation
+// summary: Implements the eWallet account linking flow, including prompt triggering, strike database use, UI events and network call handling.
+// ---
+
 #include "components/facilitated_payments/core/browser/ewallet_account_linking_manager.h"
 
 #include <utility>

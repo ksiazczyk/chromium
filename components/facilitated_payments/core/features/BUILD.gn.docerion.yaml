@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for facilitated payments features
+summary: GN build file that defines the static library target compiling the facilitated payments feature flag sources with a dependency on //base.

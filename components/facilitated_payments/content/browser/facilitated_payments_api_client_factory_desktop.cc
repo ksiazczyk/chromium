@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop facilitated payments API client factory implementation
+// summary: Desktop implementation of the API client factory returning a null creator, because desktop only runs payment QR code detection and never calls the API.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

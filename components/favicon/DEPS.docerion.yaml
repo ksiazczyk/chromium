@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Favicon component dependency rules
+summary: Defines the include rules that specify which other components and directories the favicon component may depend on.

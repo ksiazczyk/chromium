@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testable wrapper around Android's package manager
+// summary: Wraps Android's package manager queries for activities, app labels and icons so the behaviour can be tested.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import android.content.Intent;

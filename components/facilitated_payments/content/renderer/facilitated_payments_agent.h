@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments agent header
+// summary: Declares the FacilitatedPaymentsAgent, a RenderFrameObserver that listens to Blink lifecycle events and reports page heuristic signals to the browser process.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CONTENT_RENDERER_FACILITATED_PAYMENTS_AGENT_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CONTENT_RENDERER_FACILITATED_PAYMENTS_AGENT_H_
 

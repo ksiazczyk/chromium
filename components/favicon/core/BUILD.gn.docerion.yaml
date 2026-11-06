@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Favicon core GN build targets
+summary: Defines GN static_library targets for the favicon core, database and history-backed service plus the unit_tests source_set, listing sources and dependencies.

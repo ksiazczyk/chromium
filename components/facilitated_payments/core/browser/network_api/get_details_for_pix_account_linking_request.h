@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForPixAccountLinkingRequest class declaration
+// summary: Declares the PaymentsRequest that queries the Payments server for Pix account linking eligibility and reports the result and action token via a callback.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_GET_DETAILS_FOR_PIX_ACCOUNT_LINKING_REQUEST_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_GET_DETAILS_FOR_PIX_ACCOUNT_LINKING_REQUEST_H_
 

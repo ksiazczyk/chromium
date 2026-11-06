@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon client interface
+// summary: Abstract interface for embedder-dependent favicon operations, such as detecting native application and Reader Mode URLs and fetching their favicons.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_CLIENT_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_CLIENT_H_
 

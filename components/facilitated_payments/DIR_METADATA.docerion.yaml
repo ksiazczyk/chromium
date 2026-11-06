@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Facilitated payments issue tracking metadata
+summary: Configures issue tracking for the component, mapping it to the Blink>Payments monorail component, Buganizer ID 1456412, and the payments-dev@chromium.org team email.

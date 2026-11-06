@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ewallet account linking manager class
+// summary: Declares the manager that drives the eWallet account linking flow, its callbacks, UI state handling and strike database integration.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_EWALLET_ACCOUNT_LINKING_MANAGER_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_EWALLET_ACCOUNT_LINKING_MANAGER_H_
 

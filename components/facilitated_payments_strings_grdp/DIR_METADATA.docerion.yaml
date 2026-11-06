@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for facilitated payments strings
+summary: Declares the Blink>Payments monorail component, the payments-dev team email and a public Buganizer component for this directory.

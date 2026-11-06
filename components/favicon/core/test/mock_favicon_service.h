@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleMock mock of FaviconService
+// summary: Declares MockFaviconService, a GoogleMock subclass stubbing FaviconService methods such as favicon image and raw bitmap fetches for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_TEST_MOCK_FAVICON_SERVICE_H_
 #define COMPONENTS_FAVICON_CORE_TEST_MOCK_FAVICON_SERVICE_H_
 

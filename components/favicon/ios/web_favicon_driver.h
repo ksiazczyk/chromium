@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebFaviconDriver class declaration
+// summary: Declares WebFaviconDriver, a FaviconDriver that observes WebState events to start favicon downloads and update the favicon status on iOS.
+// ---
+
 #ifndef COMPONENTS_FAVICON_IOS_WEB_FAVICON_DRIVER_H_
 #define COMPONENTS_FAVICON_IOS_WEB_FAVICON_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceImpl implementation
+// summary: Implements FaviconService methods by querying the history backend and selecting or resizing favicon bitmaps before running the callbacks.
+// ---
+
 #include "components/favicon/core/favicon_service_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurePayload JNI conversion implementation
+// summary: Implements conversion of a native SecurePayload with action token and secure data entries into a Java object via JNI for Android.
+// ---
+
 #include "components/facilitated_payments/android/secure_payload_android.h"
 
 #include "base/android/jni_android.h"

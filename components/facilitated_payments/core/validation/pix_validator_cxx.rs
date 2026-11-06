@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CXX bridge for the Pix QR code validator
+// summary: Exposes the Rust Pix QR code validator to C++ through a cxx bridge that flattens results and errors into a single enum.
+// ---
+
 chromium::import! {
     "//components/facilitated_payments/core/validation:pix_validator_rs";
 }

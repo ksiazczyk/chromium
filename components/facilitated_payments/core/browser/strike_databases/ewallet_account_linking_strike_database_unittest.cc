@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ewallet account linking strike database unit tests
+// summary: Unit tests verifying the three-strike limit, seven-day delay, non-expiring strikes, and strike clearing behavior of the eWallet account linking strike database.
+// ---
+
 #include "components/facilitated_payments/core/browser/strike_databases/ewallet_account_linking_strike_database.h"
 
 #include <memory>

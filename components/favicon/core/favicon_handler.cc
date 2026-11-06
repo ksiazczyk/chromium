@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon handler implementation
+// summary: Implements FaviconHandler, which fetches favicons via CoreFaviconService, checks for expired or incomplete results, and downloads or selects icons for a page.
+// ---
+
 #include "components/favicon/core/favicon_handler.h"
 
 #include <algorithm>

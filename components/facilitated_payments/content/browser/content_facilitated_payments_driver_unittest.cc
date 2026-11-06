@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContentFacilitatedPaymentsDriver
+// summary: Unit tests for the content facilitated payments driver covering payment link handling, heuristic signal reporting, and Pix and payment link manager interactions.
+// ---
+
 #include "components/facilitated_payments/content/browser/content_facilitated_payments_driver.h"
 
 #include <memory>

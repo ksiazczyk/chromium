@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Favicon content include rules
+summary: DEPS file listing the allowed includes for the favicon content directory, with an extra rule for the utility unit test.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments metrics build targets
+summary: GN build file defining the metrics static library, its unit test target, and Android Java enum generation for facilitated payments.

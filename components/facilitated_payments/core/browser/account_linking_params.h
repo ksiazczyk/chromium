@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account linking parameters struct
+// summary: Defines AccountLinkingParams carrying the form-of-payment type, display name and strike count used for account linking prompts.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_ACCOUNT_LINKING_PARAMS_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_ACCOUNT_LINKING_PARAMS_H_
 

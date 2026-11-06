@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Eye dropper component build definition
+summary: Defines the eye_dropper static library, color_mixer source set, and unit_tests target with their sources and dependencies for the GN build.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the facilitated payments renderer
+summary: Lists the include rules permitting content renderer and test, Mojo bindings, Blink public, and gfx geometry headers within this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon database unit tests
+// summary: Unit tests verifying the favicon database schema, version migrations, icon mappings and bitmap expiry using golden database files.
+// ---
+
 #include "components/favicon/core/favicon_database.h"
 
 #include <stddef.h>

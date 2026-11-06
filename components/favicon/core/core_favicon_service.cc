@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreFaviconService implementation
+// summary: Implements helpers that compute pixel sizes for favicon scale factors and extract SkBitmaps at supported scales from a gfx::Image for storage.
+// ---
+
 #include "components/favicon/core/core_favicon_service.h"
 
 #include <algorithm>

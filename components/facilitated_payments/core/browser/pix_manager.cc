@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pix manager implementation
+// summary: Implements the Pix payment flow, validating copied Pix codes, checking merchant and PSP allowlists, and driving the payment prompt and network calls.
+// ---
+
 #include "components/facilitated_payments/core/browser/pix_manager.h"
 
 #include <algorithm>

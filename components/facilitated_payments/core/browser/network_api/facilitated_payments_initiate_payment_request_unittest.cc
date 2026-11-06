@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the initiate payment request
+// summary: Unit tests verifying the request URL, content type, and JSON request content for Pix payment flows, including iframe and PSP hostname variants.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_initiate_payment_request.h"
 
 #include <memory>

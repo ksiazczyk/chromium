@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android device delegate
+// summary: Verifies app status listener behavior of DeviceDelegateAndroid, including callback invocation when Chrome moves to background and back to foreground.
+// ---
+
 #include "components/facilitated_payments/android/device_delegate_android.h"
 
 #include "base/android/application_status_listener.h"

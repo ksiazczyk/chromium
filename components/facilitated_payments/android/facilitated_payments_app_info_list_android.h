@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacilitatedPaymentsAppInfoListAndroid class declaration
+// summary: Declares the Android FacilitatedPaymentsAppInfoList class that wraps a Java object array of payment apps and reports its size.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_ANDROID_FACILITATED_PAYMENTS_APP_INFO_LIST_ANDROID_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_ANDROID_FACILITATED_PAYMENTS_APP_INFO_LIST_ANDROID_H_
 

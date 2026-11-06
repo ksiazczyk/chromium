@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFaviconDriver implementation
+// summary: Implements the content-layer favicon driver that observes WebContents events, downloads favicons and web manifest icons, and updates navigation entries.
+// ---
+
 #include "components/favicon/content/content_favicon_driver.h"
 
 #include "base/functional/bind.h"

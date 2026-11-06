@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device delegate implementation
+// summary: Implements the Android device delegate that observes Chrome app state, queries supported payment apps over JNI, and invokes payment apps for Pix flows.
+// ---
+
 #include "components/facilitated_payments/android/device_delegate_android.h"
 
 #include <memory>

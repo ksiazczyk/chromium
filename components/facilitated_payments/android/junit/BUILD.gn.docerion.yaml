@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments Android JUnit tests build config
+summary: GN build file defining the robolectric_library target for facilitated payments Android unit tests, listing test sources and their dependencies.

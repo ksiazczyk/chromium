@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account linking result for instrument manager flow
+// summary: Holds the outcome of the instrument manager account linking flow, including success flag, instrument ID and error code, with a builder for construction.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.jni_zero.CalledByNative;

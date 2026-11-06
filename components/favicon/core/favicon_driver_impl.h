@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon driver implementation header
+// summary: Declares FaviconDriverImpl, which works with FaviconHandlers and CoreFaviconService to fetch and cache favicons for different embedders.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_DRIVER_IMPL_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_DRIVER_IMPL_H_
 

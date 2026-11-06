@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UI favicon request handler interface
+// summary: Declares the HistoryUiFaviconRequestHandler keyed service interface for serving history UI favicon requests by page URL from local storage or the Google server.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_HISTORY_UI_FAVICON_REQUEST_HANDLER_H_
 #define COMPONENTS_FAVICON_CORE_HISTORY_UI_FAVICON_REQUEST_HANDLER_H_
 

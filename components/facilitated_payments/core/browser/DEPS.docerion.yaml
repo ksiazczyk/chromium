@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the facilitated payments browser directory
+summary: Restricts and grants include dependencies for the directory, with extra rules for manager unit test files.

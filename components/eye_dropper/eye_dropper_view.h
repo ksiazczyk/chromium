@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eye dropper view class declaration
+// summary: Declares EyeDropperView, the Aura eye dropper widget handling screen capture, cursor tracking, input events, and color selection callbacks.
+// ---
+
 #ifndef COMPONENTS_EYE_DROPPER_EYE_DROPPER_VIEW_H_
 #define COMPONENTS_EYE_DROPPER_EYE_DROPPER_VIEW_H_
 

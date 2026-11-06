@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ewallet account linking strike database header
+// summary: Defines the eWallet account linking strike database with a three-strike limit, no strike expiry, and a seven-day delay between strikes.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_STRIKE_DATABASES_EWALLET_ACCOUNT_LINKING_STRIKE_DATABASE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_STRIKE_DATABASES_EWALLET_ACCOUNT_LINKING_STRIKE_DATABASE_H_
 

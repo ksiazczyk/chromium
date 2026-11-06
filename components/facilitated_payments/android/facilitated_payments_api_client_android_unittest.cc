@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android facilitated payments API client
+// summary: Tests default behavior of the Android facilitated payments API client, covering availability, client token, purchase action, and instrument manager callbacks.
+// ---
+
 #include "components/facilitated_payments/android/facilitated_payments_api_client_android.h"
 
 #include <jni.h>

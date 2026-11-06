@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eye dropper color mixer implementation
+// summary: Adds a color mixer that defines EyeDropper boundary, central pixel ring, and grid colors in the UI color provider.
+// ---
+
 #include "components/eye_dropper/color_mixer.h"
 
 #include "components/color/color_id.h"

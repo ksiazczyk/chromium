@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Large icon service implementation unit tests
+// summary: Unit tests for the LargeIconService implementation, covering icon fetching, resizing, and fallback icon style behavior using a mocked image fetcher and favicon service.
+// ---
+
 #include "components/favicon/core/large_icon_service_impl.h"
 
 #include <memory>

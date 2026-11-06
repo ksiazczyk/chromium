@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Favicon component tracker metadata
+summary: Declares the Monorail and Buganizer components used for tracking issues in the favicon directory.

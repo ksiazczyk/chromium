@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for facilitated payments content browser
+summary: Declares allowed include rules for the facilitated payments content browser directory, with extra rules for its unit test files.

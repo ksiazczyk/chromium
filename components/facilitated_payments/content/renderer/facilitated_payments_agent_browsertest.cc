@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the facilitated payments agent
+// summary: Verifies heuristic signal calculation on real rendered pages, covering payment links, keyword matching in titles, meta descriptions, URLs, and QR code image candidates.
+// ---
+
 #include "components/facilitated_payments/content/renderer/facilitated_payments_agent.h"
 
 #include <string>

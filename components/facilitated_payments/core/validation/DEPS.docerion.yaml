@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for validation dependencies
+summary: Grants the validation directory include access to the third-party fuzztest and re2 libraries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura event handling for the eye dropper view
+// summary: Implements Aura-specific keyboard, focus, and pointer handling for EyeDropperView, including arrow-key movement and selection or cancel keys.
+// ---
+
 #include <algorithm>
 
 #include "base/memory/raw_ptr.h"

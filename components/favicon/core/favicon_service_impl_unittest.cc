@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaviconServiceImpl unit tests
+// summary: Tests that FaviconServiceImpl correctly records, reports, and clears icons that were unable to be downloaded.
+// ---
+
 #include "components/favicon/core/favicon_service_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native account linking handler implementation
+// summary: Implements the handler coordinating native account linking for Pix and eWallets, covering strike database checks, client token fetching, GMSCore results, and metrics logging.
+// ---
+
 #include "components/facilitated_payments/core/browser/native_account_linking_handler.h"
 
 #include <utility>

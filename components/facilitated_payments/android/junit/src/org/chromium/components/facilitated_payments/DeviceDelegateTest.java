@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceDelegateTest
+// summary: Robolectric unit tests for DeviceDelegate, covering Pix support availability via Gboard, A2A transaction outcomes, payment intents, and input method handling.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import static org.junit.Assert.assertEquals;

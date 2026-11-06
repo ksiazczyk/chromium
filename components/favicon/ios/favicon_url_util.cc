@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL conversion utilities implementation
+// summary: Implements conversion of web::FaviconURL objects into favicon::FaviconURL objects, mapping web icon types to favicon_base icon types.
+// ---
+
 #include "components/favicon/ios/favicon_url_util.h"
 
 #include <algorithm>

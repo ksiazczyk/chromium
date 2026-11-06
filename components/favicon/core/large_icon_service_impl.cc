@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon service implementation
+// summary: Implements LargeIconService, building Google favicon server V2 request URLs, trimming page URLs, and coordinating local database lookups with image fetching.
+// ---
+
 #include "components/favicon/core/large_icon_service_impl.h"
 
 #include <algorithm>

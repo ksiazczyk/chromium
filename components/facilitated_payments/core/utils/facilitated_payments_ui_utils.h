@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments UI enums header
+// summary: C++ header defining enums for UI screens, bottom sheet events, and FOP selector user actions in the Facilitated Payments feature, with values persisted to logs and shared with Java.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_UTILS_FACILITATED_PAYMENTS_UI_UTILS_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_UTILS_FACILITATED_PAYMENTS_UI_UTILS_H_
 

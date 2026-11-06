@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContentFacilitatedPaymentsDriverFactory
+// summary: Unit tests for the driver factory covering QR code detection eligibility, heuristic signal handling, and Android Pix copy detection behavior.
+// ---
+
 #include "components/facilitated_payments/content/browser/content_facilitated_payments_driver_factory.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaviconHandler unit tests
+// summary: Unit tests for FaviconHandler covering favicon selection, image and manifest downloads, candidate updates, and icon type handling using mock services.
+// ---
+
 #include "components/favicon/core/favicon_handler.h"
 
 #include <stddef.h>

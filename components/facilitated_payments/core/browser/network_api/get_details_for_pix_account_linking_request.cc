@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: GetDetailsForPixAccountLinkingRequest implementation
+// summary: Implements the Payments server request that checks Pix account linking eligibility, builds the JSON request body, and parses the action token from the response.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/get_details_for_pix_account_linking_request.h"
 
 #include <string>

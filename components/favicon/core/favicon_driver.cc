@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon driver base implementation
+// summary: Implements observer registration and favicon update notifications for the FaviconDriver base class.
+// ---
+
 #include "components/favicon/core/favicon_driver.h"
 #include "base/observer_list.h"
 

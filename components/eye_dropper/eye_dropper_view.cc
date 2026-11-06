@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eye dropper view implementation
+// summary: Implements the EyeDropperView widget that captures the screen, tracks the cursor, and reports the selected color for the JS EyeDropper API.
+// ---
+
 #include "components/eye_dropper/eye_dropper_view.h"
 
 #include <utility>

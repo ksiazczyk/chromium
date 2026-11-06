@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the facilitated payments strings directory
+summary: Delegates review ownership of this strings directory to the owners listed in components/facilitated_payments/OWNERS.

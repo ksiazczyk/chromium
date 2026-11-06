@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments result code enums header
+// summary: C++ header defining enums for purchase manager action results and instrument manager account linking result codes in the facilitated payments component.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_UTILS_FACILITATED_PAYMENTS_UTILS_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_UTILS_FACILITATED_PAYMENTS_UTILS_H_
 

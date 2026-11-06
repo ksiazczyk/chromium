@@ -5,6 +5,12 @@
 // A Pix code uses the format defined in EMV Merchant-Presented QR codes:
 // https://www.emvco.com/emv-technologies/qr-codes/
 
+// ---docerion
+// type: source
+// title: Pix QR code validator in Rust
+// summary: Parses EMV merchant-presented QR codes to determine whether a Pix code is static or dynamic, reporting detailed errors for invalid input.
+// ---
+
 const PIX_GLOBALLY_UNIQUE_IDENTIFIER: &str = "br.gov.bcb.pix";
 
 const PAYLOAD_FORMAT_INDICATOR_DATA_OBJECT_ID: &str = "00";

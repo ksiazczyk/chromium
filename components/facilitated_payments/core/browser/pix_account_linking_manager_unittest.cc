@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pix account linking manager unit tests
+// summary: Unit tests for PixAccountLinkingManager covering prompt display, eligibility, account linking results, metrics, and strike database behavior.
+// ---
+
 #include "components/facilitated_payments/core/browser/pix_account_linking_manager.h"
 
 #include <memory>

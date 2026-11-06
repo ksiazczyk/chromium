@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LargeIconBridge class declaration
+// summary: Declares the LargeIconBridge class, the C++ counterpart to Java's LargeIconBridge that exposes LargeIconService to Java on Android.
+// ---
+
 #ifndef COMPONENTS_FAVICON_ANDROID_LARGE_ICON_BRIDGE_H_
 #define COMPONENTS_FAVICON_ANDROID_LARGE_ICON_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments initiate payment response details implementation
+// summary: Provides the constructor and destructor for the response details class that carries data parsed from an initiate payment response.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_initiate_payment_response_details.h"
 
 namespace payments::facilitated {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL conversion utilities header
+// summary: Declares functions that create favicon::FaviconURL values from web::FaviconURL inputs for use on iOS.
+// ---
+
 #ifndef COMPONENTS_FAVICON_IOS_FAVICON_URL_UTIL_H_
 #define COMPONENTS_FAVICON_IOS_FAVICON_URL_UTIL_H_
 

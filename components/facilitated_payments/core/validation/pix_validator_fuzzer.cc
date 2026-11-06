@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for the Pix QR code validator
+// summary: Fuzzes the Pix QR code type detection with regex-generated inputs and seed strings to ensure any string can be parsed safely.
+// ---
+
 #include <string>
 
 #include "base/strings/string_view_rust.h"

@@ -5,6 +5,12 @@
 // This file defines the browser-specific base::FeatureList features that are
 // limited to top chrome UI.
 
+// ---docerion
+// type: source
+// title: Eye Dropper Feature Flag Declarations
+// summary: Declares the browser-specific Eye Dropper feature flag for WGC screen capture that is limited to top chrome UI.
+// ---
+
 #ifndef COMPONENTS_EYE_DROPPER_FEATURES_H_
 #define COMPONENTS_EYE_DROPPER_FEATURES_H_
 

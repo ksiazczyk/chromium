@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge between native code and the payments API client
+// summary: Forwards native calls to the facilitated payments API client and delivers availability, client token, purchase and instrument manager results back to C++.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments core utils build configuration
+summary: GN build file defining the utils source set and, on Android, the Java library and enum generation targets for the facilitated payments utility headers.

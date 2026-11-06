@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility implementation
+// summary: Implements GetFaviconImageForPageURL, adapting raw bitmap results from the favicon service into image callbacks for favicon requests by page URL.
+// ---
+
 #include "components/favicon/core/favicon_util.h"
 
 #include "base/functional/bind.h"

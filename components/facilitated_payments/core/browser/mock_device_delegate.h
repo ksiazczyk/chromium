@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDeviceDelegate
+// summary: GMock implementation of DeviceDelegate for testing payment app invocation, app listing, and Pix support via Gboard.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_DEVICE_DELEGATE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_DEVICE_DELEGATE_H_
 

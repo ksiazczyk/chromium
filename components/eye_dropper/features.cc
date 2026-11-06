@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eye Dropper Feature Flag Definitions
+// summary: Defines the kAllowEyeDropperWGCScreenCapture feature flag, which enables Windows Graphics Capture for Eye Dropper screen capture by default on Windows.
+// ---
+
 #include "components/eye_dropper/features.h"
 
 #include "build/build_config.h"

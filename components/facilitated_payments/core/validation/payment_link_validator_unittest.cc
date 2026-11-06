@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the payment link validator
+// summary: Verifies that the payment link validator accepts valid scheme URLs, rejects invalid ones, and sanitizes URLs correctly for payment app retrieval.
+// ---
+
 #include "components/facilitated_payments/core/validation/payment_link_validator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

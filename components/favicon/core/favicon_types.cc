@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon data type definitions
+// summary: Defines constructors, destructors, and assignment operators for favicon data structures such as IconMapping, FaviconBitmap, and SetFaviconsResult.
+// ---
+
 #include "components/favicon/core/favicon_types.h"
 
 namespace favicon {

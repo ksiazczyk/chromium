@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UI favicon request handler implementation
+// summary: Implements the history UI favicon request handler, attempting local storage lookups first and falling back to the Google favicon server when user settings allow.
+// ---
+
 #include "components/favicon/core/history_ui_favicon_request_handler_impl.h"
 
 #include <utility>

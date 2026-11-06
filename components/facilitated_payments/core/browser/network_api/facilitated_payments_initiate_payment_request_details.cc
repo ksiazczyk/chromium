@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments initiate payment request details implementation
+// summary: Implements the request details class, including the IsReadyForPixPayment check that all required fields for a Pix payment request are present.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_initiate_payment_request_details.h"
 
 namespace payments::facilitated {

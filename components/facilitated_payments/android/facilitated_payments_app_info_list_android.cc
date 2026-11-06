@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app info list implementation
+// summary: Implements the Android wrapper that holds a Java array of supported payment apps and reports its size for facilitated payments.
+// ---
+
 #include "components/facilitated_payments/android/facilitated_payments_app_info_list_android.h"
 
 #include "base/android/jni_android.h"

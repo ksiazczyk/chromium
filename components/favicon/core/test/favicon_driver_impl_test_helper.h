@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the FaviconDriverImpl test helper
+// summary: Declares the FaviconDriverImplTestHelper class giving tests access to FaviconDriverImpl internals to reset its handler to a given notification icon type.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_TEST_FAVICON_DRIVER_IMPL_TEST_HELPER_H_
 #define COMPONENTS_FAVICON_CORE_TEST_FAVICON_DRIVER_IMPL_TEST_HELPER_H_
 

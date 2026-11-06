@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForEwalletAccountLinkingRequest unit tests
+// summary: Unit tests verifying request content, response parsing, and eligibility and action token handling for the eWallet account linking request.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/get_details_for_ewallet_account_linking_request.h"
 
 #include <cstdint>

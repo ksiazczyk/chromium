@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pix validator fuzzer utility unit tests
+// summary: Unit tests verifying that the regex pattern used by the Pix validator fuzzer matches valid br.gov.bcb.pix QR code domains, including uppercase variants, and rejects malformed ones.
+// ---
+
 #include "components/facilitated_payments/core/validation/pix_validator_fuzzer_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

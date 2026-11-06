@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security checker implementation for facilitated payments
+// summary: Implements security checks for payment link handling, verifying trustworthy URLs, HTTPS, payment Permissions Policy, and valid SSL certificates.
+// ---
+
 #include "components/facilitated_payments/content/browser/security_checker.h"
 
 #include "base/check.h"

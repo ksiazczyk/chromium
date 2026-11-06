@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for facilitated payments content browser
+summary: Defines the browser static library and unit_tests source set for the facilitated payments content layer, listing sources and GN dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the eWallet account linking manager
+// summary: Tests the eWallet account linking flow with mocks, covering payloads, histogram suffixes, UI state and result handling.
+// ---
+
 #include "components/facilitated_payments/core/browser/ewallet_account_linking_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account linking result struct
+// summary: Defines AccountLinkingResult holding a success flag, payment instrument ID and error code for account linking outcomes.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_ACCOUNT_LINKING_RESULT_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_ACCOUNT_LINKING_RESULT_H_
 

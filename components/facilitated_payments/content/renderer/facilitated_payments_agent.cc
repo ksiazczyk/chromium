@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments agent implementation
+// summary: Implements the renderer agent that scans documents for payment link markers, square QR code image candidates, and keyword matches, reporting heuristic signals to the browser.
+// ---
+
 #include "components/facilitated_payments/content/renderer/facilitated_payments_agent.h"
 
 #include <algorithm>

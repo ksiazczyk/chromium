@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForPixAccountLinkingRequest unit tests
+// summary: Unit tests verifying request content, response parsing, and eligibility and action token handling for the Pix account linking request.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/get_details_for_pix_account_linking_request.h"
 
 #include "base/functional/callback_helpers.h"

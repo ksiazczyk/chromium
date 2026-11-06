@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments Android Java GN build file
+summary: Defines the android_library target for the facilitated payments component, listing Java sources, dependencies, and JNI header generation.

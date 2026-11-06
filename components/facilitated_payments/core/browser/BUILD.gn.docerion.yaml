@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the facilitated payments browser component
+summary: Defines the static library and unit test targets, source lists including Android-only payment flows, and dependencies for the browser component.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Eye dropper issue tracking metadata
+summary: Maps the directory to the Blink>Forms>Color monorail component and Buganizer component 1456485 for issue tracking.

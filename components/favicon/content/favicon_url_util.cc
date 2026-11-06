@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL conversion utilities
+// summary: Converts blink mojom favicon URLs and icon types into favicon::FaviconURL objects for use by the favicon component.
+// ---
+
 #include "components/favicon/content/favicon_url_util.h"
 
 #include <algorithm>

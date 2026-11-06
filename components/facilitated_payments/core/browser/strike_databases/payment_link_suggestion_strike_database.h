@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link suggestion strike database header
+// summary: Defines the payment link suggestion strike database with a five-strike limit and strikes that expire after 60 days.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_STRIKE_DATABASES_PAYMENT_LINK_SUGGESTION_STRIKE_DATABASE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_STRIKE_DATABASES_PAYMENT_LINK_SUGGESTION_STRIKE_DATABASE_H_
 

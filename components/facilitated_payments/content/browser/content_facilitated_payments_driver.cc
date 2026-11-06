@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFacilitatedPaymentsDriver implementation
+// summary: Implements the content-layer facilitated payments driver, handling Android payment links, heuristic signal reporting, and Mojo bindings to the renderer agent.
+// ---
+
 #include "components/facilitated_payments/content/browser/content_facilitated_payments_driver.h"
 
 #include <memory>
