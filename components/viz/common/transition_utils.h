@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View transition utilities declarations for render passes
+// summary: Declares TransitionUtils with helpers to copy render passes with quad filtering, compute next render pass IDs, and compute pixel alignment offsets from transforms.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_TRANSITION_UTILS_H_
 #define COMPONENTS_VIZ_COMMON_TRANSITION_UTILS_H_
 

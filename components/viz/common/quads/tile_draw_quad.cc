@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileDrawQuad implementation
+// summary: Implements setup, MaterialCast, and tracing for tiled content draw quads backed by a tile resource with texture coordinates.
+// ---
+
 #include "components/viz/common/quads/tile_draw_quad.h"
 
 #include "base/check.h"

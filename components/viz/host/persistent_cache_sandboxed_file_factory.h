@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache sandboxed file factory class declaration
+// summary: Declares PersistentCacheSandboxedFileFactory, which opens versioned persistent cache files for the GPU process with synchronous and asynchronous creation APIs.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_PERSISTENT_CACHE_SANDBOXED_FILE_FACTORY_H_
 #define COMPONENTS_VIZ_HOST_PERSISTENT_CACHE_SANDBOXED_FILE_FACTORY_H_
 

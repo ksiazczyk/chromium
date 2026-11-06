@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the viz demo client
+summary: Defines the DEPS include rules that allow the demo client directory to depend on the viz public interfaces.

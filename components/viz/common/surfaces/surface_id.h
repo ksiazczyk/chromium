@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceId class combining FrameSinkId and LocalSurfaceId
+// summary: Defines the SurfaceId class that pairs a FrameSinkId with a LocalSurfaceId to uniquely identify a surface in the display compositor.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_ID_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_ID_H_
 

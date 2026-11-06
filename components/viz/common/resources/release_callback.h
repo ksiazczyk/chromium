@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Release callback types for resource ownership
+// summary: Defines the ReleaseCallback and ResourceEvictedCallback types used to return ownership of resources and handle surface eviction in viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_RELEASE_CALLBACK_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_RELEASE_CALLBACK_H_
 

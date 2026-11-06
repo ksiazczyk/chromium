@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz demo application entry point
+// summary: Entry point for the viz demo app that initializes base, Mojo, and UI components and creates the native platform window for the display compositor.
+// ---
+
 #include <utility>
 
 #include "base/at_exit.h"

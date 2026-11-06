@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reserved resource ID tracker implementation
+// summary: Implements ReservedResourceIdTracker, which allocates, refs, and unrefs resource IDs in the reserved viz ID range with refcount tracking.
+// ---
+
 #include "components/viz/common/resources/resource_id.h"
 
 namespace viz {

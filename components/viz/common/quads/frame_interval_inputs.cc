@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame interval inputs implementation
+// summary: Implements string conversion and trace serialization for frame interval inputs that viz clients provide for computing ideal frame intervals.
+// ---
+
 #include "components/viz/common/quads/frame_interval_inputs.h"
 
 #include "base/trace_event/traced_value.h"

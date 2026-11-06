@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedElementDrawQuad class header
+// summary: Declares a DrawQuad subclass that renders a view transition shared element, carrying a ViewTransitionElementResourceId and material cast helper.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_SHARED_ELEMENT_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_SHARED_ELEMENT_DRAW_QUAD_H_
 

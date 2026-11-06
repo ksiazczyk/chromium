@@ -1,3 +1,12 @@
+---
+type: readme
+title: 'Supplemental Documentation: CopyOutputRequests'
+summary: Explains the design rationale, controls, and patching workflow of CopyOutputRequests for efficient video capture in Viz.
+relations:
+  - documents /components/viz/common/frame_sinks/copy_output_request.h
+  - documents /components/viz/common/frame_sinks/copy_output_result.h
+  - references /components/viz/common/frame_sinks/conceptual_diagram.png
+---
 
 # [Supplemental Documentation: CopyOutputRequests](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/components/viz/common/frame_sinks/README.md)
 

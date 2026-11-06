@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia helper implementation for overdraw and opacity filters
+// summary: Implements SkiaHelper methods that build an overdraw color filter for debug overlays and an opacity image filter using Skia color matrices.
+// ---
+
 #include "components/viz/common/skia_helper.h"
 
 #include <array>

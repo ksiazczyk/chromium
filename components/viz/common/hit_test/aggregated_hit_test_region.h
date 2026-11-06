@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedHitTestRegion struct for shared hit-test data
+// summary: Defines the AggregatedHitTestRegion struct used to store aggregated hit-test data in shared memory so the viz service can write it and the viz host can read it without process hops.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_HIT_TEST_AGGREGATED_HIT_TEST_REGION_H_
 #define COMPONENTS_VIZ_COMMON_HIT_TEST_AGGREGATED_HIT_TEST_REGION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildLocalSurfaceIdAllocator implementation
+// summary: Implements the child-side allocator that merges parent-allocated LocalSurfaceIds and generates new child sequence numbers with tracing events.
+// ---
+
 #include "components/viz/common/surfaces/child_local_surface_id_allocator.h"
 
 #include "base/rand_util.h"

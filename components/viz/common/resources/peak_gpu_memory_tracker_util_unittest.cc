@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for peak GPU memory tracker utilities
+// summary: Parameterized tests verifying sequence number generation and location decoding for browser and GPU processes, including extreme counter values.
+// ---
+
 #include "components/viz/common/resources/peak_gpu_memory_tracker_util.h"
 
 #include "base/rand_util.h"

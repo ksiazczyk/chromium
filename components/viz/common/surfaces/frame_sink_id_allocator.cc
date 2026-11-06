@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkIdAllocator implementation
+// summary: Defines the shared invalid FrameSinkId constant returned by FrameSinkIdAllocator::InvalidFrameSinkId.
+// ---
+
 #include "components/viz/common/surfaces/frame_sink_id_allocator.h"
 
 namespace viz {

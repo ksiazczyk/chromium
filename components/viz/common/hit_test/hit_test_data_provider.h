@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestDataProvider interface
+// summary: Declares an interface implemented by HostFrameSinkManager and FrameSinkManagerImpl so RenderWidgetHostInputEventRouter can find target views synchronously and register hit-test region observers.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_DATA_PROVIDER_H_
 #define COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_DATA_PROVIDER_H_
 

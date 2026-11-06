@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlitRequest declarations
+// summary: Declares BlendBitmap, LetterboxingBehavior, and BlitRequest for placing CopyOutputRequest results into caller-owned shared images.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_BLIT_REQUEST_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_BLIT_REQUEST_H_
 

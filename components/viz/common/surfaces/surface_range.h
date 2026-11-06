@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceRange class representing a range of surfaces
+// summary: Defines the SurfaceRange class representing an ordered range of SurfaceIds with an optional start surface acting as a fallback.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_RANGE_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_RANGE_H_
 

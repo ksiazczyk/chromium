@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer settings creation API declaration
+// summary: Declares the CreateRendererSettings and CreateDefaultDebugRendererSettings functions exported from the viz host component.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_RENDERER_SETTINGS_CREATION_H_
 #define COMPONENTS_VIZ_HOST_RENDERER_SETTINGS_CREATION_H_
 

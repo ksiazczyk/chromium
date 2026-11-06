@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceInfo class describing an embedded surface
+// summary: Defines the SurfaceInfo class holding the SurfaceId, device scale factor and pixel size of a surface being embedded.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_INFO_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SURFACE_INFO_H_
 

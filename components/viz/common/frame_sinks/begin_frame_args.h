@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameArgs declarations
+// summary: Declares BeginFrameId, PossibleDeadline, PossibleDeadlines, and BeginFrameArgs structures that carry frame timing and deadline data in Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_BEGIN_FRAME_ARGS_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_BEGIN_FRAME_ARGS_H_
 

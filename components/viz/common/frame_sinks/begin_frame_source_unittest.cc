@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BeginFrameSource
+// summary: Unit tests covering BeginFrameSource variants such as BackToBackBeginFrameSource using mock time and mock observers.
+// ---
+
 #include "components/viz/common/frame_sinks/begin_frame_source.h"
 
 #include <stdint.h>

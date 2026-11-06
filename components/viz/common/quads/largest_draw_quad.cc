@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Largest draw quad size and alignment
+// summary: Computes the maximum size and alignment among all draw quad types for use in quad storage allocation.
+// ---
+
 #include "components/viz/common/quads/largest_draw_quad.h"
 
 #include <stddef.h>

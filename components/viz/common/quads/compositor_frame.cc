@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrame implementation
+// summary: Implements the compositor frame, including checks for copy output requests and visually non-empty content plus trace value serialization.
+// ---
+
 #include "components/viz/common/quads/compositor_frame.h"
 
 #include <ranges>

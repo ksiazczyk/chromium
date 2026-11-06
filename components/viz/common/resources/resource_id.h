@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource ID types and reserved ID tracker
+// summary: Declares the ResourceId type, an ID generator that skips the reserved range, a hasher, and ReservedResourceIdTracker for refcounting reserved resources.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_RESOURCE_ID_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_RESOURCE_ID_H_
 

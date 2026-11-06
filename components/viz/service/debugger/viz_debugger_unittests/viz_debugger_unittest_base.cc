@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz debugger test base implementation
+// summary: Implements VisualDebuggerTestBase, providing filter setup, frame data retrieval, and per-test reset of the debugger instance.
+// ---
+
 #include "components/viz/service/debugger/viz_debugger_unittests/viz_debugger_unittest_base.h"
 
 #include <algorithm>

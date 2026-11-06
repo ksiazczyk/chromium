@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame timing details class
+// summary: Defines a class holding timestamps and feedback for frame receipt, embedding, drawing, swap, and presentation in viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_TIMING_DETAILS_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_TIMING_DETAILS_H_
 

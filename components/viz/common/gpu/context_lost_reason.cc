@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context lost reason mapping
+// summary: Maps GPU command buffer error codes to the corresponding viz ContextLostReason values.
+// ---
+
 #include "components/viz/common/gpu/context_lost_reason.h"
 
 #include "base/notreached.h"

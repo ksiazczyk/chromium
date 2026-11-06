@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for viz common
+summary: DEPS file restricting allowable includes for viz common, with specific exceptions for GL helpers, tests, benchmarks, and features.

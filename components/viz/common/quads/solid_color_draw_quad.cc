@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorDrawQuad implementation
+// summary: Implements setup, MaterialCast, and tracing for draw quads that fill a rectangle with a solid color and optional anti-aliasing override.
+// ---
+
 #include "components/viz/common/quads/solid_color_draw_quad.h"
 
 #include <algorithm>

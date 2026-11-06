@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalSurfaceId unit tests
+// summary: Unit tests verifying that LocalSurfaceId string output respects log verbosity and that IsNewerThan handles independently advanced parent and child sequence numbers.
+// ---
+
 #include "components/viz/common/surfaces/local_surface_id.h"
 
 #include "base/logging.h"

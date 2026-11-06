@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the persistent cache sandboxed file factory
+// summary: Unit tests covering file creation, version-based stale file cleanup, retry behavior, and disk size metric recording for the sandboxed cache factory.
+// ---
+
 #include "components/viz/host/persistent_cache_sandboxed_file_factory.h"
 
 #include "base/files/file_enumerator.h"

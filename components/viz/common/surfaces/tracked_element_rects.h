@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked element rects definitions
+// summary: Defines the TrackedElementFeature enum, the TrackedElementRect struct holding visible bounds and frame tokens, and the feature-to-rects map type used by browser tracking features.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_TRACKED_ELEMENT_RECTS_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_TRACKED_ELEMENT_RECTS_H_
 

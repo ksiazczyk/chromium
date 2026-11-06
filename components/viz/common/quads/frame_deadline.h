@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameDeadline class declaration
+// summary: Declares the FrameDeadline class representing a compositor frame's activation deadline from start time, deadline in frames and frame interval.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_FRAME_DEADLINE_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_FRAME_DEADLINE_H_
 

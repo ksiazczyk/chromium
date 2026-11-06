@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Viz debugger mojom build file
+summary: GN build file that defines the mojom bindings target for viz_debugger.mojom, enabling the use_viz_debugger feature when that build flag is set.

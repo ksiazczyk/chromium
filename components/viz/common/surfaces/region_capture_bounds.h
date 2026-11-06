@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionCaptureBounds
+// summary: Declares RegionCaptureBounds, which maps region capture crop IDs to viewport rectangles used for cropping in tab capture, matching the same-named mojom class.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_REGION_CAPTURE_BOUNDS_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_REGION_CAPTURE_BOUNDS_H_
 

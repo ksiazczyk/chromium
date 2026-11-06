@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traced value helpers for Viz trace event snapshots
+// summary: Implements TracedValue helpers that write ID references and implicit snapshot dictionaries into base trace event TracedValue objects.
+// ---
+
 #include "components/viz/common/traced_value.h"
 
 #include <cinttypes>

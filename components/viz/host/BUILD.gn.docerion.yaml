@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Viz host build definition
+summary: Defines the viz host component's sources, dependencies, and unit test targets for the GN build, including Windows, Apple, and Ozone conditionals.

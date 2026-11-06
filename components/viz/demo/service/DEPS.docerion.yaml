@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the viz demo service
+summary: Defines the allowed include dependencies for the components/viz/demo/service directory, covering viz common, service, GPU IPC, and privileged viz service paths.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render pass IO unit tests
+// summary: Unit tests verifying that render passes, filters, and quads survive conversion to and from dictionary values unchanged.
+// ---
+
 #include "components/viz/common/quads/render_pass_io.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostDisplayClient implementation
+// summary: Implements the mojom::DisplayClient relay for platform-specific display updates such as macOS CALayer params and Windows layered window updates.
+// ---
+
 #include "components/viz/host/host_display_client.h"
 
 #include "base/logging.h"

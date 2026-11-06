@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParentLocalSurfaceIdAllocator unit tests
+// summary: Unit tests checking that GenerateId and UpdateFromChild change only the expected LocalSurfaceId components while accessors behave as expected.
+// ---
+
 #include "components/viz/common/surfaces/parent_local_surface_id_allocator.h"
 
 #include <memory>

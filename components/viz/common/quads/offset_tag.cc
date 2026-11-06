@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offset tag implementation
+// summary: Implements offset tags, values, constraints, and definitions that let the display compositor move tagged quads at draw time.
+// ---
+
 #include "components/viz/common/quads/offset_tag.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz debugger unit tests
+// summary: Unit tests verifying draw, text, and log submissions, filtering, and cached frame data of the visual debugger.
+// ---
+
 #include <stddef.h>
 
 #include <cstdio>

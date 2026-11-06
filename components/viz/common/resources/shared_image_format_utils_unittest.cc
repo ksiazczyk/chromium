@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for shared image format utilities
+// summary: Tests ToClosestSkColorType conversions for single- and multi-plane formats such as NV12, NV16, NV24, YV12, I420, P010, P210, and P410.
+// ---
+
 #include "components/viz/common/resources/shared_image_format_utils.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizDebugger implementation
+// summary: Implements the VizDebugger singleton that registers sources, filters, buffers, and submits graphical debug draw data to a remote client over Mojo.
+// ---
+
 #include "components/viz/service/debugger/viz_debugger.h"
 
 #include <algorithm>

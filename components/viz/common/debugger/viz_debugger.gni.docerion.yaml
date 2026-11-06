@@ -1,0 +1,4 @@
+# Docerion header of viz_debugger.gni.
+type: config
+title: Viz debugger build arguments
+summary: GN build configuration declaring the use_viz_debugger argument, enabled by default only on non-official and non-Fuchsia builds for security and performance reasons.

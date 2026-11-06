@@ -1,3 +1,11 @@
+---
+type: readme
+title: Viz Remote Visual Debugger overview
+summary: Documents the motivation, usage, operation, performance, and security of the Viz remote visual debugger, which streams graphical and text debug data to a remote client.
+relations:
+  - references /components/viz/service/debugger/viz_debugger.h
+---
+
 # //components/viz/service/debugger
 
 ## Viz Remote Visual Debugger

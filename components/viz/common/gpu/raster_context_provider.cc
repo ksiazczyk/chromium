@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterContextProvider implementation
+// summary: Implements ScopedRasterContextLock, which acquires the context lock, marks the client busy with the cache controller, and sets the active URL, plus the RasterContextProviderWrapper.
+// ---
+
 #include "components/viz/common/gpu/raster_context_provider.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture target implementation
+// summary: Implements VideoCaptureTarget constructors and validates that capture sub-targets such as crop IDs and subtree capture IDs are valid.
+// ---
+
 #include "components/viz/common/surfaces/video_capture_target.h"
 
 #include <variant>

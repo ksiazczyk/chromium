@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy output utility unit tests
+// summary: Unit tests verifying ComputeResultRect scaling behavior across non-scaling, doubling, and halving ratios, including extreme values that trigger overflow conditions.
+// ---
+
 #include "components/viz/common/frame_sinks/copy_output_util.h"
 
 #include <limits>

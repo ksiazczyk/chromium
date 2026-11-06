@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtreeCaptureId class for identifying capturable layer subtrees
+// summary: Defines the SubtreeCaptureId class that uniquely identifies a layer subtree within a CompositorFrameSink for independent capture by FrameSinkVideoCapturer.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SUBTREE_CAPTURE_ID_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SUBTREE_CAPTURE_ID_H_
 

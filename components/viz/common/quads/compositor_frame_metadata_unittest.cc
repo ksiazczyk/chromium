@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorFrameMetadata unit tests
+// summary: Unit tests verifying cloning and field equality of compositor frame metadata, including latency info, delegated ink metadata, frame deadlines, and transition directives.
+// ---
+
 #include "components/viz/common/quads/compositor_frame_metadata.h"
 
 #include "base/time/time.h"

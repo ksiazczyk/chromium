@@ -1,0 +1,4 @@
+# Docerion header of viz_debugger.pdl.
+type: reference
+title: VisualDebugger protocol definition
+summary: PDL specification of the VisualDebugger domain, defining filterStream, startStream and stopStream commands plus the frameResponse event that carries per-frame debug data.

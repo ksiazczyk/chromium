@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceInfo string conversion implementation
+// summary: Implements ToString for SurfaceInfo, formatting the surface id, device scale factor and pixel size for debugging.
+// ---
+
 #include "components/viz/common/surfaces/surface_info.h"
 
 #include <ostream>

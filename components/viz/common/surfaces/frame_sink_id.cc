@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkId string and trace methods
+// summary: Implements string formatting, stream output, and perfetto trace serialization for the FrameSinkId type.
+// ---
+
 #include "components/viz/common/surfaces/frame_sink_id.h"
 
 #include <ostream>

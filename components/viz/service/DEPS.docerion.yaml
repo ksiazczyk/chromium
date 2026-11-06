@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz service dependency rules
+summary: DEPS file with include rules specifying which headers and modules the viz service is allowed to depend on.

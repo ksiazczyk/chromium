@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProvider ScopedContextLock implementation
+// summary: Implements ScopedContextLock, which acquires the context lock and marks the client busy while the context is in use.
+// ---
+
 #include "components/viz/common/gpu/context_provider.h"
 
 #include <utility>

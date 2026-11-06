@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedRenderPass class declaration
+// summary: Declares the render pass produced by aggregating passes from relevant surfaces, with a unique ID, quad list helpers, and copy methods.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_AGGREGATED_RENDER_PASS_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_AGGREGATED_RENDER_PASS_H_
 

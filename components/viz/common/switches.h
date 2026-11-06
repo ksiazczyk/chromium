@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz command-line switch declarations
+// summary: Declares exported switch name constants and functions to read the surface synchronization deadline and the delegated ink renderer mode.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SWITCHES_H_
 #define COMPONENTS_VIZ_COMMON_SWITCHES_H_
 

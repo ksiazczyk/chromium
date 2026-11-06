@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDrawQuadBase class declaration
+// summary: Declares the ContentDrawQuadBase draw quad that stores texture coordinates and nearest-neighbor and anti-aliasing settings for content quads.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_CONTENT_DRAW_QUAD_BASE_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_CONTENT_DRAW_QUAD_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizTouchState shared-memory touch state header
+// summary: Defines the VizTouchState struct placed in shared memory by the Viz process, tracking whether a touch sequence is active and the last transferred-back down time to prevent immediate re-transfer to Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_INPUT_VIZ_TOUCH_STATE_H_
 #define COMPONENTS_VIZ_COMMON_INPUT_VIZ_TOUCH_STATE_H_
 

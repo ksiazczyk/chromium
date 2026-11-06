@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestQuery class declaration
+// summary: Declares HitTestQuery, which finds the event target FrameSinkId and transformed location for a point based on the AggregatedHitTestRegion list produced by HitTestAggregator.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_QUERY_H_
 #define COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_QUERY_H_
 

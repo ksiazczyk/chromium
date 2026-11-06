@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS external begin frame source header driven by CADisplayLink VSync
+// summary: Declares ExternalBeginFrameSourceIOS, an external begin frame source that receives VSync signals from CADisplayLink on iOS.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_EXTERNAL_BEGIN_FRAME_SOURCE_IOS_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_EXTERNAL_BEGIN_FRAME_SOURCE_IOS_H_
 

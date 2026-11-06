@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugBorderDrawQuad implementation
+// summary: Implements the debug border draw quad, setting its color and width and exposing them for tracing.
+// ---
+
 #include "components/viz/common/quads/debug_border_draw_quad.h"
 
 #include "base/check.h"

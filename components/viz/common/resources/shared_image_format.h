@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageFormat class for image formats
+// summary: Declares SharedImageFormat, representing single-plane and multiplanar YUV image formats via plane config, subsampling, and channel format enums.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_SHARED_IMAGE_FORMAT_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_SHARED_IMAGE_FORMAT_H_
 

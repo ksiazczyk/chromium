@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayeredWindowUpdaterImpl implementation
+// summary: Implements layered window drawing on Windows by updating an HWND from a shared memory buffer drawn by the GPU process, since UpdateLayeredWindow is sandbox-blocked.
+// ---
+
 #include "components/viz/host/layered_window_updater_impl.h"
 
 #include <utility>

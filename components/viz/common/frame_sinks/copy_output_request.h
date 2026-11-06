@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOutputRequest class declaration
+// summary: Declares the CopyOutputRequest API used to submit copy requests into the compositing pipeline, with result format, destination, scaling, task runner, and callback properties.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_COPY_OUTPUT_REQUEST_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_COPY_OUTPUT_REQUEST_H_
 

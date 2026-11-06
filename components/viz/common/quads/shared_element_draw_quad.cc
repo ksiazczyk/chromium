@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedElementDrawQuad implementation
+// summary: Implements SharedElementDrawQuad setup, material casting, and traced value output for view transition element resource IDs.
+// ---
+
 #include "components/viz/common/quads/shared_element_draw_quad.h"
 
 #include "base/trace_event/traced_value.h"

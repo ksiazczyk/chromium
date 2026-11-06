@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedRenderPassDrawQuad implementation
+// summary: Implements the draw quad that references an aggregated render pass, covering equality comparison, SetNew and SetAll initialization, and tracing.
+// ---
+
 #include "components/viz/common/quads/aggregated_render_pass_draw_quad.h"
 
 #include <utility>

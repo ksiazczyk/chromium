@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the viz quads directory
+summary: Defines allowable include dependencies for the quads directory, with special rules for unittest files and compositor_frame_metadata.h.

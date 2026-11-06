@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render pass serialization API
+// summary: Declares functions that serialize compositor render passes and frame data to and from dictionary values, plus blend mode helpers.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_IO_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_RENDER_PASS_IO_H_
 

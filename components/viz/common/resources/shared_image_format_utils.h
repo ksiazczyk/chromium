@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image format utilities declarations
+// summary: Declares SharedImageFormat helpers, including a UMA enum, conversions to and from SkColorType, native buffer support checks, and shared memory offset and size calculations.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_RESOURCES_SHARED_IMAGE_FORMAT_UTILS_H_
 #define COMPONENTS_VIZ_COMMON_RESOURCES_SHARED_IMAGE_FORMAT_UTILS_H_
 

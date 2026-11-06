@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameTransitionDirective implementation
+// summary: Implements factory methods, constructors, and tracing for compositor frame transition directives used by the JavaScript view transitions API.
+// ---
+
 #include "components/viz/common/quads/compositor_frame_transition_directive.h"
 
 #include <string>

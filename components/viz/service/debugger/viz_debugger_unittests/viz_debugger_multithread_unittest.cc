@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz debugger multithread unit tests
+// summary: Unit tests that run reader and writer threads issuing draw rect and log debug commands to verify VizDebugger behavior under concurrency.
+// ---
+
 #include <stddef.h>
 
 #include <array>

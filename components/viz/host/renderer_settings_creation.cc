@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer settings creation from command line switches
+// summary: Builds viz RendererSettings and debug settings from command-line switches and platform defaults such as overlay strategies and occlusion culling limits.
+// ---
+
 #include "components/viz/host/renderer_settings_creation.h"
 
 #include <string>

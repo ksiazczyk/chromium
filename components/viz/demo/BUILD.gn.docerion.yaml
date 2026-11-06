@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Viz demo build definitions
+summary: Defines GN targets for the viz demo, including common, client, host, and service libraries plus the viz_demo executable with its dependencies.

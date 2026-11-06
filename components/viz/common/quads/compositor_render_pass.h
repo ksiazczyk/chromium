@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorRenderPass class declaration
+// summary: Declares the mojo-serializable render pass class with quad lists, subtree capture fields, and view transition resource IDs.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_RENDER_PASS_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_RENDER_PASS_H_
 

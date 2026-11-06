@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for viz common hit_test
+summary: Lists the email addresses of the code owners responsible for reviewing changes in the hit_test directory.

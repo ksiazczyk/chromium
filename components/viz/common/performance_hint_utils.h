@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz performance hint utilities for Android thread scheduling
+// summary: Declares a Thread struct describing frame-production threads and a check that thread IDs reported by sandboxed processes do not belong to the current process for Android performance hints.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_PERFORMANCE_HINT_UTILS_H_
 #define COMPONENTS_VIZ_COMMON_PERFORMANCE_HINT_UTILS_H_
 

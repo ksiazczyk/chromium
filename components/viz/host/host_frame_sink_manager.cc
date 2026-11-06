@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostFrameSinkManager implementation
+// summary: Implements the browser-side FrameSinkManager wrapper that registers frame sinks, manages mojo connections, and creates compositor frame sinks.
+// ---
+
 #include "components/viz/host/host_frame_sink_manager.h"
 
 #include <algorithm>

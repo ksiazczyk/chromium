@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display scheduler draw result enum
+// summary: Defines the DisplaySchedulerDrawResult enum describing whether a scheduled frame was drawn normally, drawn late, possibly drawn late, or skipped.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_DISPLAY_DISPLAY_SCHEDULER_DRAW_RESULT_H_
 #define COMPONENTS_VIZ_COMMON_DISPLAY_DISPLAY_SCHEDULER_DRAW_RESULT_H_
 

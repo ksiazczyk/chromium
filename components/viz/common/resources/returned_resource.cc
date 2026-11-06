@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Returned resource struct implementation
+// summary: Implements constructors and move operations for the ReturnedResource and ReturnedResourceViz structs.
+// ---
+
 #include "components/viz/common/resources/returned_resource.h"
 
 #include <utility>

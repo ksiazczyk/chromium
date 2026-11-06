@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileDrawQuad class header
+// summary: Declares the TileDrawQuad draw quad for tiled content, with setters that take a resource ID, texture coordinate rect, and nearest-neighbor and anti-aliasing flags, plus a MaterialCast helper.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_TILE_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_TILE_DRAW_QUAD_H_
 

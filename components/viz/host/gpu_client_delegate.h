@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU client delegate interface
+// summary: Declares the delegate interface GpuClient uses to obtain the current GpuHostImpl instance, launching the GPU service if needed.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_GPU_CLIENT_DELEGATE_H_
 #define COMPONENTS_VIZ_HOST_GPU_CLIENT_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalSurfaceId implementation
+// summary: Implements hashing, string formatting, ordering comparisons such as IsNewerThan, and perfetto trace serialization for LocalSurfaceId.
+// ---
+
 #include "components/viz/common/surfaces/local_surface_id.h"
 
 #include <limits>

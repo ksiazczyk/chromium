@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Viz demo include rules
+summary: Restricts allowed includes for the viz demo directory, granting extra include permissions specifically to demo_main.cc.

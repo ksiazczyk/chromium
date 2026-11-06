@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for viz frame_sinks
+summary: Chromium checkdeps configuration listing the include rules and allowed dependencies for the viz common frame_sinks directory.

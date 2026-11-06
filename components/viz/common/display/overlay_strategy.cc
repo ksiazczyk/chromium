@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay strategy parsing implementation
+// summary: Implements ParseOverlayStrategies, which converts a comma-separated string of overlay strategy names such as single-fullscreen and underlay into OverlayStrategy enum values.
+// ---
+
 #include "components/viz/common/display/overlay_strategy.h"
 
 #include "base/logging.h"

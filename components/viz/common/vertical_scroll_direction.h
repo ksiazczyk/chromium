@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical scroll direction enum for the root layer
+// summary: Defines the VerticalScrollDirection enum used to indicate the root layer's vertical scroll direction, matching the corresponding mojom definition.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_VERTICAL_SCROLL_DIRECTION_H_
 #define COMPONENTS_VIZ_COMMON_VERTICAL_SCROLL_DIRECTION_H_
 

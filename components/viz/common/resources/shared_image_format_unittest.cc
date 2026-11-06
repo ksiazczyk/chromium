@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageFormat unit tests
+// summary: Unit tests verifying channel counts per plane and estimated byte sizes for various single-plane and multiplane formats like NV12, YV12, and I420.
+// ---
+
 #include "components/viz/common/resources/shared_image_format.h"
 
 #include <limits>

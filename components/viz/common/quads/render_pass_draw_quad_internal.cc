@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderPassDrawQuadInternal filter implementation
+// summary: Implements RenderPassDrawQuadInternal methods that set foreground and backdrop filter data and export quad values for tracing.
+// ---
+
 #include "components/viz/common/quads/render_pass_draw_quad_internal.h"
 
 #include "base/trace_event/traced_value.h"

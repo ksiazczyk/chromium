@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame timing details map type
+// summary: Defines FrameTimingDetailsMap as a flat map associating frame tokens with their FrameTimingDetails.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_TIMING_DETAILS_MAP_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_TIMING_DETAILS_MAP_H_
 

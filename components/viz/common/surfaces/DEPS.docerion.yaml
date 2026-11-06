@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for viz surfaces
+summary: Defines the allowed include dependencies for the surfaces directory, such as Mojo bindings and latency info headers.

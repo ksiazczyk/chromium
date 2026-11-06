@@ -1,3 +1,9 @@
+---
+type: readme
+title: gpu/ directory overview
+summary: Describes the gpu/ directory, which holds viz APIs for accessing GPU services, and introduces the ContextProvider interface.
+---
+
 # gpu/
 
 This directory contains viz APIs for access to the gpu services.

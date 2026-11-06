@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestQuery implementation
+// summary: Implements target finding for mouse and touch locations and location transforms against aggregated hit-test region data, including debug naming of flags and async hit-test reasons.
+// ---
+
 #include "components/viz/common/hit_test/hit_test_query.h"
 
 #include <sstream>

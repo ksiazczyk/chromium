@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostDisplayClient class declaration
+// summary: Declares HostDisplayClient, a mojom::DisplayClient implementation that forwards display calls to platform-specific handlers for a given accelerated widget.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_HOST_DISPLAY_CLIENT_H_
 #define COMPONENTS_VIZ_HOST_HOST_DISPLAY_CLIENT_H_
 

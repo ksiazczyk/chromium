@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuHostImpl implementation
+// summary: Implements the host-side GPU service connection, forwarding GPU info, font render params, and shader disk cache handling between the embedder and the viz GPU process.
+// ---
+
 #include "components/viz/host/gpu_host_impl.h"
 
 #include <utility>

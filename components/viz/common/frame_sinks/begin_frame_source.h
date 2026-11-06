@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameSource interface declarations
+// summary: Declares the BeginFrameObserver interface and BeginFrameSource classes that distribute BeginFrame messages to observers in Viz.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_BEGIN_FRAME_SOURCE_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_BEGIN_FRAME_SOURCE_H_
 

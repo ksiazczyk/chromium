@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSurfaceIdAllocator
+// summary: Declares a scoped object that suppresses allocation from a ParentLocalSurfaceIdAllocator while alive and invokes an allocation callback on destruction.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_SURFACES_SCOPED_SURFACE_ID_ALLOCATOR_H_
 #define COMPONENTS_VIZ_COMMON_SURFACES_SCOPED_SURFACE_ID_ALLOCATOR_H_
 

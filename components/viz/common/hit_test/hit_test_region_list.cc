@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestRegionList implementation
+// summary: Implements constructors, assignment operators, and equality comparison for HitTestRegionList and HitTestRegion.
+// ---
+
 #include "components/viz/common/hit_test/hit_test_region_list.h"
 
 namespace viz {

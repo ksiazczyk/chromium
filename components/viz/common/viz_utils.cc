@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz utility function implementations
+// summary: Implements viz helpers for gathering file descriptor stats, computing clipped quad rectangles, expanded bounds for pixel-moving filters, and view transition transforms.
+// ---
+
 #include "components/viz/common/viz_utils.h"
 
 #include <algorithm>

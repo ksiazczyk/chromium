@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for viz common hit_test
+summary: Defines the allowed include dependencies for the hit_test directory, permitting mojo bindings and viz public mojom headers.

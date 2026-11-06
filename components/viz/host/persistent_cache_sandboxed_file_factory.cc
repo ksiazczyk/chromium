@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache sandboxed file factory implementation
+// summary: Implements a singleton factory that creates and versions persistent cache files for GPU caches, deleting stale versioned directories and recording UMA metrics.
+// ---
+
 #include "components/viz/host/persistent_cache_sandboxed_file_factory.h"
 
 #include <utility>

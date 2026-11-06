@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoHost implementation for the viz demo
+// summary: Implements the privileged demo host that runs on its own thread, manages the frame sink manager, resizes the display, and embeds demo clients with the viz compositor service over Mojo.
+// ---
+
 #include "components/viz/demo/host/demo_host.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedRenderPass implementation
+// summary: Implements the aggregated render pass class, including quad copying and appending, shallow and deep copies, blending checks, and trace serialization.
+// ---
+
 #include "components/viz/common/quads/aggregated_render_pass.h"
 
 #include <unordered_map>

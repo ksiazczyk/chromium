@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayBasedTimeSource implementation
+// summary: Implements a time source that maintains an average tick rate close to the requested interval despite millisecond task granularity and queueing delays, using base::TimeTicks.
+// ---
+
 #include "components/viz/common/frame_sinks/delay_based_time_source.h"
 
 #include <algorithm>

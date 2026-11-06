@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageFormat implementation
+// summary: Implements SharedImageFormat methods such as plane counts, validity checks, size estimation, and string conversion for single- and multiplane formats.
+// ---
+
 #include "components/viz/common/resources/shared_image_format.h"
 
 #include <compare>

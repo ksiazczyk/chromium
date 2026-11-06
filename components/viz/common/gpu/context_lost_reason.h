@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextLostReason enum definition
+// summary: Defines the ContextLostReason enum persisted in logs and a helper that derives it from GPU errors.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_GPU_CONTEXT_LOST_REASON_H_
 #define COMPONENTS_VIZ_COMMON_GPU_CONTEXT_LOST_REASON_H_
 

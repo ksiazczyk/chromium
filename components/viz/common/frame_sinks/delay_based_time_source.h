@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayBasedTimeSource class declaration
+// summary: Declares DelayBasedTimeSource and its client interface for driving periodic timer ticks at a specified interval for frame scheduling.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_FRAME_SINKS_DELAY_BASED_TIME_SOURCE_H_
 #define COMPONENTS_VIZ_COMMON_FRAME_SINKS_DELAY_BASED_TIME_SOURCE_H_
 

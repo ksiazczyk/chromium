@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayeredWindowUpdaterImpl class declaration
+// summary: Declares LayeredWindowUpdaterImpl, a mojom::LayeredWindowUpdater that applies GPU-drawn shared memory buffers to Windows layered windows.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_LAYERED_WINDOW_UPDATER_IMPL_H_
 #define COMPONENTS_VIZ_HOST_LAYERED_WINDOW_UPDATER_IMPL_H_
 

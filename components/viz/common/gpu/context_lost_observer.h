@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextLostObserver interface
+// summary: Declares the ContextLostObserver interface that is notified when a ContextProvider's context is lost.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_GPU_CONTEXT_LOST_OBSERVER_H_
 #define COMPONENTS_VIZ_COMMON_GPU_CONTEXT_LOST_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestRegionObserver interface for Viz Host
+// summary: Declares the HitTestRegionObserver interface that lets a Viz Host receive notifications when aggregated hit test region lists are updated.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_REGION_OBSERVER_H_
 #define COMPONENTS_VIZ_COMMON_HIT_TEST_HIT_TEST_REGION_OBSERVER_H_
 

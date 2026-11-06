@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render pass dictionary serialization
+// summary: Converts compositor render passes and frames to and from dictionary values, covering quads, shared quad states, and frame data.
+// ---
+
 #include "components/viz/common/quads/render_pass_io.h"
 
 #include <optional>

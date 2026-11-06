@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositing mode reporter implementation
+// summary: Implements the CompositingModeReporter Mojo interface that notifies registered watchers when compositing falls back to software.
+// ---
+
 #include "components/viz/host/compositing_mode_reporter_impl.h"
 
 namespace viz {

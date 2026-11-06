@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU client class declaration
+// summary: Declares the mojom::Gpu client that manages GPU channels, disk cache handles, video encode accelerator providers, and WebNN context providers.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_GPU_CLIENT_H_
 #define COMPONENTS_VIZ_HOST_GPU_CLIENT_H_
 

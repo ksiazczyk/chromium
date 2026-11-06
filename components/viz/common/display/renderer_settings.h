@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer settings declarations
+// summary: Declares RendererSettings with rendering options and occlusion culler settings, plus the runtime-changeable DebugRendererSettings debug flags struct.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_DISPLAY_RENDERER_SETTINGS_H_
 #define COMPONENTS_VIZ_COMMON_DISPLAY_RENDERER_SETTINGS_H_
 

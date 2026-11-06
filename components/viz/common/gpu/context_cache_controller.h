@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextCacheController header
+// summary: Declares ContextCacheController, which tracks client visibility and busy state to decide when to clear ContextProvider caches.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_GPU_CONTEXT_CACHE_CONTROLLER_H_
 #define COMPONENTS_VIZ_COMMON_GPU_CONTEXT_CACHE_CONTROLLER_H_
 

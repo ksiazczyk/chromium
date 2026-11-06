@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugBorderDrawQuad class declaration
+// summary: Declares the DebugBorderDrawQuad draw quad that renders debug borders with a color and width.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_DEBUG_BORDER_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_DEBUG_BORDER_DRAW_QUAD_H_
 

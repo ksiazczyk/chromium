@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorRenderPassDrawQuad class declaration
+// summary: Declares the render pass draw quad holding a render pass ID, mask resource, and filter settings for compositing.
+// ---
+
 #ifndef COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_RENDER_PASS_DRAW_QUAD_H_
 #define COMPONENTS_VIZ_COMMON_QUADS_COMPOSITOR_RENDER_PASS_DRAW_QUAD_H_
 

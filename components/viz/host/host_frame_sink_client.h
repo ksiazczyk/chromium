@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostFrameSinkClient interface
+// summary: Declares the HostFrameSinkClient interface with callbacks for first surface activation and frame token changes for registered frame sinks.
+// ---
+
 #ifndef COMPONENTS_VIZ_HOST_HOST_FRAME_SINK_CLIENT_H_
 #define COMPONENTS_VIZ_HOST_HOST_FRAME_SINK_CLIENT_H_
 

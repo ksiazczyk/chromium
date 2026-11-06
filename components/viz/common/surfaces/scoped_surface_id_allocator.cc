@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSurfaceIdAllocator implementation
+// summary: Implements scoped suppression of a ParentLocalSurfaceIdAllocator, restoring allocation and running the allocation callback when the scope ends.
+// ---
+
 #include "components/viz/common/surfaces/scoped_surface_id_allocator.h"
 
 #include <utility>
