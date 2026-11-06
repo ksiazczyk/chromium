@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_de.xtb.
+type: data
+title: German Chrome iOS translation bundle
+summary: XTB translation bundle providing German translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.

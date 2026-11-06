@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_fr-CA.xtb.
+type: data
+title: Canadian French translation bundle for iOS Chrome strings
+summary: XML translation bundle with Canadian French localized UI strings for the iOS Chrome app, keyed by numeric message IDs and containing placeholders.

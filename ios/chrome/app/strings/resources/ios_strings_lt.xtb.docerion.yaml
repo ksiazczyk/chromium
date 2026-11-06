@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_lt.xtb.
+type: data
+title: Lithuanian iOS Chrome translation bundle
+summary: XML translation bundle supplying Lithuanian localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

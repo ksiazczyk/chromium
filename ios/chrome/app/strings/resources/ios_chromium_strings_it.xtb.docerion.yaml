@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_it.xtb.
+type: data
+title: Italian Chromium iOS strings
+summary: Italian translation bundle with localized Chromium iOS interface strings for menus, password manager, Face ID protection, and updates.

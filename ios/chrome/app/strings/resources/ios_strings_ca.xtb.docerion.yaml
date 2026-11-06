@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ca.xtb.
+type: data
+title: Catalan Chrome iOS translation bundle
+summary: XTB translation bundle providing Catalan translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.

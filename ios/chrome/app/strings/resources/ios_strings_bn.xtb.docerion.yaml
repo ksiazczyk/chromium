@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_bn.xtb.
+type: data
+title: iOS Chrome strings translation bundle (Bengali)
+summary: XML translation bundle with Bengali UI strings for Chrome on iOS, covering tabs, passwords, sync, and other browser features.

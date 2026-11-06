@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_si.xtb.
+type: data
+title: Chromium iOS strings (Sinhala)
+summary: Sinhala translation bundle with localized Chromium iOS interface strings covering default-browser setup, sign-in, and privacy features.

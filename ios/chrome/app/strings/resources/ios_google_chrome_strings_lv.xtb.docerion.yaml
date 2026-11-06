@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_lv.xtb.
+type: data
+title: Latvian iOS Chrome strings translation bundle
+summary: XML translation bundle providing Chrome for iOS UI strings in Latvian, including password manager, tab grid, and default browser prompts.

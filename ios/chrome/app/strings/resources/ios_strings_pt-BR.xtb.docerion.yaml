@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese Chrome iOS strings translation bundle
+summary: XML translation bundle providing Brazilian Portuguese translations of Chrome for iOS interface strings, keyed by numeric message IDs.

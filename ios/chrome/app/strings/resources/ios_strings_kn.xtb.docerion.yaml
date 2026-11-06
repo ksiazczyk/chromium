@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_kn.xtb.
+type: data
+title: Kannada iOS Chrome translation bundle
+summary: XML translation bundle supplying Kannada localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

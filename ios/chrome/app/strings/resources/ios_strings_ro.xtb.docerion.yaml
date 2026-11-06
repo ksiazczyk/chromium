@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ro.xtb.
+type: data
+title: 'Chrome iOS strings: Romanian'
+summary: Romanian translation bundle holding localized Chrome iOS UI strings such as tab, password, and Gemini messages.

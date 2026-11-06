@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_nl.xtb.
+type: data
+title: Dutch Chrome iOS strings translation bundle
+summary: XML translation bundle providing Dutch translations of Chrome for iOS interface strings, keyed by numeric message IDs.

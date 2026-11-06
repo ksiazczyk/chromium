@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_zh-TW.xtb.
+type: data
+title: iOS Chrome strings in Chinese (Taiwan)
+summary: XML translation bundle with Chrome iOS UI strings localized for Traditional Chinese (Taiwan), including placeholders and plural rules.

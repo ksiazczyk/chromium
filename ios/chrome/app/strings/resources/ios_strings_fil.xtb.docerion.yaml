@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_fil.xtb.
+type: data
+title: Chrome iOS strings translation bundle (Filipino)
+summary: Filipino translations of Chrome for iOS user interface strings, stored as an XML translation bundle that maps numeric message IDs to localized text.

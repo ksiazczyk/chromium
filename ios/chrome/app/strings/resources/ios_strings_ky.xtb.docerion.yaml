@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ky.xtb.
+type: data
+title: Kyrgyz iOS Chrome translation bundle
+summary: XML translation bundle supplying Kyrgyz localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_iw.xtb.
+type: data
+title: Hebrew Chromium iOS strings
+summary: Hebrew translation bundle with localized Chromium iOS interface strings for menus, incognito tabs, sign-in, and update notices.

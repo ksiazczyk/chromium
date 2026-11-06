@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_sr.xtb.
+type: data
+title: Chromium iOS strings (Serbian, Cyrillic script)
+summary: Serbian (Cyrillic script) translation bundle with localized Chromium iOS interface strings for browser menus, sign-in, and security features.

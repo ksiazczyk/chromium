@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_ur.xtb.
+type: data
+title: 'Google Chrome iOS strings: Urdu'
+summary: Urdu translation bundle containing localized Chrome for iOS UI strings for sign-in, updates, usage metrics consent, and default browser prompts.

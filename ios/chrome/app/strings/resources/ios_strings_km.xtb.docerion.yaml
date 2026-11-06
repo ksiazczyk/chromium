@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_km.xtb.
+type: data
+title: Khmer iOS Chrome translation bundle
+summary: XML translation bundle supplying Khmer localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

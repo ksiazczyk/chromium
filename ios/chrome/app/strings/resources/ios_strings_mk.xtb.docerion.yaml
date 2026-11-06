@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_mk.xtb.
+type: data
+title: Macedonian iOS Chrome translation bundle
+summary: XML translation bundle supplying Macedonian localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

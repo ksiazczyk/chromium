@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_af.xtb.
+type: data
+title: iOS Chrome strings translation bundle (Afrikaans)
+summary: XML translation bundle with Afrikaans UI strings for Chrome on iOS, covering tabs, passwords, sync, and other browser features.

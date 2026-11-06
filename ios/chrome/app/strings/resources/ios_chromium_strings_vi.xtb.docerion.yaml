@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_vi.xtb.
+type: data
+title: Vietnamese Chromium iOS strings
+summary: Vietnamese translation bundle with localized UI strings for the iOS Chromium browser, covering menus, settings, sign-in and other interface text.

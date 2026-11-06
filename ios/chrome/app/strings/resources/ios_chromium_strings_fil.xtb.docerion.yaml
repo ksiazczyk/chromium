@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_fil.xtb.
+type: data
+title: Chromium iOS strings in Filipino
+summary: Filipino translation bundle with localized Chromium iOS browser UI strings covering menus, settings, sign-in, and safety prompts.

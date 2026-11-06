@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_ru.xtb.
+type: data
+title: Chromium iOS strings (Russian)
+summary: Russian translation bundle providing localized Chromium iOS interface strings such as default-browser prompts, sign-in messages, and password manager texts.

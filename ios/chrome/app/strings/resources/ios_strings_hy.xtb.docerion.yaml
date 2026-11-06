@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_hy.xtb.
+type: data
+title: Chrome iOS strings translation bundle (Armenian)
+summary: XML translation bundle with Armenian localized UI strings for Chrome on iOS, covering tabs, passwords, settings, and Gemini features.

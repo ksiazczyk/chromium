@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_hr.xtb.
+type: data
+title: Chromium iOS strings in Croatian
+summary: Croatian translation bundle with localized Chromium iOS browser UI strings covering menus, settings, sign-in, and safety prompts.

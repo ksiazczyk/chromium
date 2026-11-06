@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ml.xtb.
+type: data
+title: Malayalam iOS Chrome translation bundle
+summary: XML translation bundle supplying Malayalam localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

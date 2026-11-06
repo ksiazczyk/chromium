@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ja.xtb.
+type: data
+title: Chrome iOS strings translation bundle (Japanese)
+summary: XML translation bundle with Japanese localized UI strings for Chrome on iOS, covering tabs, passwords, settings, and Gemini features.

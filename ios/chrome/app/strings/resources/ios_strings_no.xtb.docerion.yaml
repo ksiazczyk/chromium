@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_no.xtb.
+type: data
+title: Norwegian Chrome iOS strings translation bundle
+summary: XML translation bundle providing Norwegian translations of Chrome for iOS interface strings, keyed by numeric message IDs.

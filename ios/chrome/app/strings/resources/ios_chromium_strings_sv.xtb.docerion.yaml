@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_sv.xtb.
+type: data
+title: Chromium iOS strings (Swedish)
+summary: Swedish translation bundle with localized Chromium iOS interface strings for default-browser setup, incognito tabs, and password management.

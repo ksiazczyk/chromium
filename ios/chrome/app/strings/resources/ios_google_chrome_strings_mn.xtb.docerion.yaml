@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_mn.xtb.
+type: data
+title: Mongolian iOS Chrome strings translation bundle
+summary: XML translation bundle providing Chrome for iOS UI strings in Mongolian, covering sync, default browser setup, and usage metrics explanations.

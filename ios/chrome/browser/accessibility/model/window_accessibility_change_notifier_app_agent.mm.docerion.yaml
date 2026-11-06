@@ -1,0 +1,4 @@
+# Docerion header of window_accessibility_change_notifier_app_agent.mm.
+type: source
+title: WindowAccessibilityChangeNotifierAppAgent implementation
+summary: Implements the app agent, observing profile and scene state transitions to announce the visible window count to VoiceOver users after a short delay.

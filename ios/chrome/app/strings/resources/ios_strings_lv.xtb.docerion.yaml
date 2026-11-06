@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_lv.xtb.
+type: data
+title: Latvian iOS Chrome translation bundle
+summary: XML translation bundle supplying Latvian localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

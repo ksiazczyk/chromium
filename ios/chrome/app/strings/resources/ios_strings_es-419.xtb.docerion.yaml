@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_es-419.xtb.
+type: data
+title: Latin American Spanish Chrome iOS translation bundle
+summary: XTB translation bundle providing Latin American Spanish translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.
