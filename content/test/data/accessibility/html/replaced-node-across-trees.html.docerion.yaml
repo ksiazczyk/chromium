@@ -1,0 +1,4 @@
+# Docerion header of replaced-node-across-trees.html.
+type: test
+title: Replaced node across trees HTML test page
+summary: HTML test page with spans and a cross-process iframe used to check accessibility tree replacement across trees.

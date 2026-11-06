@@ -1,0 +1,4 @@
+# Docerion header of selection-in-contenteditable-expected-android-external.txt.
+type: test
+title: Expected Android external output for selection in contenteditable
+summary: Expected Android accessibility tree snapshot in external format for the selection-in-contenteditable test page.

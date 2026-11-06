@@ -1,0 +1,4 @@
+# Docerion header of q-expected-blink.txt.
+type: test
+title: q element expected Blink output
+summary: Expected Blink accessibility tree for the q element test showing static text nodes around the quoted 'Chromium Blink' content.

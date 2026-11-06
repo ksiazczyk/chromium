@@ -1,0 +1,4 @@
+# Docerion header of select-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for select test
+summary: Expected Fuchsia accessibility tree snapshot with focusable, hidden and selected states for the select elements in the test page.

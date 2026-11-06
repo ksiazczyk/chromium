@@ -1,0 +1,4 @@
+# Docerion header of scrollable-expected-uia-win.txt.
+type: test
+title: Scrollable test expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree snapshot for the scrollable HTML test, including scroll properties such as HorizontallyScrollable and VerticallyScrollable.

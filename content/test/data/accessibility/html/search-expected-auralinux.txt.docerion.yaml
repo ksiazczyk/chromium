@@ -1,0 +1,4 @@
+# Docerion header of search-expected-auralinux.txt.
+type: test
+title: Search element expected Linux accessibility tree
+summary: Expected Linux (auralinux) accessibility tree snapshot for the HTML search element test page.

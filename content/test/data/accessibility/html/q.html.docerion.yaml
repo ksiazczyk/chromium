@@ -1,0 +1,4 @@
+# Docerion header of q.html.
+type: test
+title: q quotation element test page
+summary: HTML test page rendering a paragraph with a q inline quotation for accessibility tree testing.

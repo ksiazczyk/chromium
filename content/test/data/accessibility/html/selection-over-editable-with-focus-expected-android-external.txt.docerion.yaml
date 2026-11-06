@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-with-focus-expected-android-external.txt.
+type: test
+title: Expected Android external output for selection over editable with focus
+summary: Expected Android accessibility tree snapshot in external format for the selection-over-editable-with-focus test page.

@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for select open
+summary: Empty expected Android assist data snapshot for the select open accessibility test, indicating no assist data is expected.

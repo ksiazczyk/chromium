@@ -1,0 +1,4 @@
+# Docerion header of span-expected-android.txt.
+type: test
+title: span expected Android accessibility tree
+summary: Expected Android accessibility tree for the span.html test, currently marked as skipped because of a whitespace error.

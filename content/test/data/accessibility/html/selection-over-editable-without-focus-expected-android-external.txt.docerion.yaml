@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus-expected-android-external.txt.
+type: test
+title: Selection over editable without focus expected Android external output
+summary: Expected Android external accessibility snapshot for the selection-over-editable-without-focus test, describing TextView and EditText nodes with extended selection markers.

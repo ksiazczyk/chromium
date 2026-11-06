@@ -1,0 +1,4 @@
+# Docerion header of overflow-actions-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for overflow actions test
+summary: Expected Android assist data accessibility tree for the overflow actions test, covering scrollable and hidden overflow containers with paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-win.txt.
+type: test
+title: Ruby expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the ruby HTML test page, showing ruby annotations exposed via IA2 sections.

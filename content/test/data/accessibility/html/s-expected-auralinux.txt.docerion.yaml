@@ -1,0 +1,4 @@
+# Docerion header of s-expected-auralinux.txt.
+type: test
+title: Strikethrough expected Linux accessibility tree
+summary: Expected Linux ATK accessibility tree snapshot for the strikethrough element test page.

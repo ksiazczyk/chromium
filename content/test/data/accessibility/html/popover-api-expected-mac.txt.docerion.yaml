@@ -1,0 +1,4 @@
+# Docerion header of popover-api-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for popover API test
+summary: Expected macOS AX tree snapshot for the popover API test with button expansion states and popover groups.

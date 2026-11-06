@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-auralinux.txt.
+type: test
+title: Ruby expected Aura Linux output
+summary: Expected Aura Linux accessibility tree dump for the ruby HTML test page.

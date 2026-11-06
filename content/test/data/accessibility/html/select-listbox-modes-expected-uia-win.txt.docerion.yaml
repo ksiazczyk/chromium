@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes-expected-uia-win.txt.
+type: test
+title: Select listbox modes expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree snapshot for the select-listbox-modes test, describing combo boxes and lists with selection properties.

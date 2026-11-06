@@ -1,0 +1,4 @@
+# Docerion header of small-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for small test
+summary: Expected Android assist data snapshot capturing text sizes for a page with normal and small text content.

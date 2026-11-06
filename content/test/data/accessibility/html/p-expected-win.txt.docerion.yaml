@@ -1,0 +1,4 @@
+# Docerion header of p-expected-win.txt.
+type: test
+title: p-expected-win.txt
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the paragraph test page p.html, including the IA2 paragraph role.

@@ -1,0 +1,4 @@
+# Docerion header of span-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for span.html
+summary: Expected Android assist data for the span.html test page, listing TextView nodes with text, style and link information for paragraphs containing spans.

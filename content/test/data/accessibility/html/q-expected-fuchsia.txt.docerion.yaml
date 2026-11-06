@@ -1,0 +1,4 @@
+# Docerion header of q-expected-fuchsia.txt.
+type: test
+title: q expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree dump for the q inline quotation test page.

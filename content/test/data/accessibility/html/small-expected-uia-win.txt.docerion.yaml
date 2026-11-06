@@ -1,0 +1,4 @@
+# Docerion header of small-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for small.html
+summary: Expected UIA Windows accessibility output for the small.html test page, marked as skipped because the page has no accessible.

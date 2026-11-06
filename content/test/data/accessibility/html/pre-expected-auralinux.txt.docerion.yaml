@@ -1,0 +1,4 @@
+# Docerion header of pre-expected-auralinux.txt.
+type: test
+title: Pre expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree output for the pre formatting test, listing section and static text nodes.

@@ -1,0 +1,4 @@
+# Docerion header of overflow-actions-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for overflow actions test
+summary: Expected Android external-format accessibility tree for the overflow actions test with generic containers and paragraph text nodes.

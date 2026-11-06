@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for select listbox modes
+summary: Expected Windows accessibility tree snapshot for the select listbox modes test, covering combobox and list roles for various select configurations.

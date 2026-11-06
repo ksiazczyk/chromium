@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-auralinux.txt.
+type: test
+title: Selection container expected Linux accessibility snapshot
+summary: Expected Linux ATK/AT-SPI accessibility tree for the selection container test with a named list box and selectable list items.

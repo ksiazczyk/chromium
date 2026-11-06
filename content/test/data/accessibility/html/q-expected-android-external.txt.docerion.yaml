@@ -1,0 +1,4 @@
+# Docerion header of q-expected-android-external.txt.
+type: test
+title: q element expected Android external output
+summary: Expected external Android accessibility output for the q element test with a paragraph containing quoted text.

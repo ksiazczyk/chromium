@@ -1,0 +1,4 @@
+# Docerion header of span-expected-auralinux.txt.
+type: test
+title: span expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the span.html test, describing paragraphs, static text nodes, and links produced by the page.

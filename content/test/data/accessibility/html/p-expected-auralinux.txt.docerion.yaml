@@ -1,0 +1,4 @@
+# Docerion header of p-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for paragraph test
+summary: Expected Aura Linux accessibility tree snapshot describing how a paragraph element between text nodes is exposed.

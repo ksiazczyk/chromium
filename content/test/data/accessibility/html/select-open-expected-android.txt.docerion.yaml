@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for select-open test
+summary: Expected Android accessibility tree snapshot for the select-open test, listing menu pop up buttons with collapsed and expanded states.

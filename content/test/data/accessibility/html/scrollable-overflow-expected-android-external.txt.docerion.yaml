@@ -1,0 +1,4 @@
+# Docerion header of scrollable-overflow-expected-android-external.txt.
+type: test
+title: Scrollable overflow test expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree for the scrollable overflow HTML test, listing actions and chrome roles for each overflow variant.

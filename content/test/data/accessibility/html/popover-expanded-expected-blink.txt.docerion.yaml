@@ -1,0 +1,4 @@
+# Docerion header of popover-expanded-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the expanded popover test
+summary: Expected Blink accessibility tree snapshot showing the expanded popover state for the popover-expanded test.

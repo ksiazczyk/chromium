@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-with-focus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for selection over editable with focus
+summary: Expected Linux accessibility tree snapshot for the selection-over-editable-with-focus test page.

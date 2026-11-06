@@ -1,0 +1,4 @@
+# Docerion header of select-expected-win.txt.
+type: test
+title: Windows expectations for the select accessibility test
+summary: Expected Windows/IA2 accessibility tree for the select element test, listing combobox, list and listitem roles with their states and values.

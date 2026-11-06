@@ -1,0 +1,4 @@
+# Docerion header of small-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for small.html
+summary: Expected Android accessibility tree output for the small.html test page, describing the WebView and paragraph nodes with their actions.

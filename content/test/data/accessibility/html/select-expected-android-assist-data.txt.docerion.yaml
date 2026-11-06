@@ -1,0 +1,4 @@
+# Docerion header of select-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for select test
+summary: Expected Android assist data snapshot describing views, text sizes, colors and HTML info for the select elements in the test page.

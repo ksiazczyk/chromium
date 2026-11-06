@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for select multiple activate options
+summary: Expected Linux AT-SPI accessibility snapshot for the select multiple activate options test with both list items selected.

@@ -1,0 +1,4 @@
+# Docerion header of script-expected-fuchsia.txt.
+type: test
+title: script expected accessibility output for Fuchsia
+summary: Expected Fuchsia accessibility output for the script element test page, listing unknown focusable and hidden nodes.

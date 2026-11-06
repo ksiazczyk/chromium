@@ -1,0 +1,4 @@
+# Docerion header of search-expected-android-assist-data.txt.
+type: test
+title: Search element expected Android assist data
+summary: Expected Android assist-data accessibility snapshot for the HTML search element test page.

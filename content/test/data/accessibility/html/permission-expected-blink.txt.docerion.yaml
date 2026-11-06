@@ -1,0 +1,4 @@
+# Docerion header of permission-expected-blink.txt.
+type: test
+title: Permission expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the permission test page, describing focusable buttons for camera and microphone use.

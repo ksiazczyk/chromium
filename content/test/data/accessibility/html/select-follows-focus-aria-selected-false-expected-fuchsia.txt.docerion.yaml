@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-fuchsia.txt.
+type: test
+title: Fuchsia expectations for select-follows-focus-aria-selected-false
+summary: Expected Fuchsia accessibility tree for the select-follows-focus-aria-selected-false test with two tab nodes and a Done static text label.

@@ -1,0 +1,4 @@
+# Docerion header of small-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for small.html
+summary: Expected Auralinux accessibility tree for the small.html test page showing document, paragraph and static text nodes.

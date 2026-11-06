@@ -1,0 +1,4 @@
+# Docerion header of samp-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the samp element test
+summary: Expected Android assist data snapshot for the HTML page testing the samp element.

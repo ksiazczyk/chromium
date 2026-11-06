@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for select multiple activate options
+summary: Expected Blink internal accessibility tree for the select multiple activate options test with both list box options selected.

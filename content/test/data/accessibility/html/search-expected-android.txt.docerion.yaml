@@ -1,0 +1,4 @@
+# Docerion header of search-expected-android.txt.
+type: test
+title: Search element expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the HTML search element test page.

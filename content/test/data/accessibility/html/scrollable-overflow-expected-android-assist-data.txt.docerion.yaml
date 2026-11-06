@@ -1,0 +1,4 @@
+# Docerion header of scrollable-overflow-expected-android-assist-data.txt.
+type: test
+title: Scrollable overflow test expected Android assist data
+summary: Expected Android assist data snapshot for the scrollable overflow HTML test, covering overflow-x and overflow-y values hidden, auto, scroll and visible.

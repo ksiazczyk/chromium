@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-fuchsia.txt.
+type: test
+title: Selection container expected Fuchsia snapshot
+summary: Expected Fuchsia accessibility tree for the selection container test with focusable nodes, labels and default actions for the list and options.

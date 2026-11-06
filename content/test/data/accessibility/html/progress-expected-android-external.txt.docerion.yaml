@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-android-external.txt.
+type: test
+title: Expected accessibility tree for progress test on Android (external)
+summary: Expected Android accessibility tree snapshot for the progress HTML test as seen through an external WebView, including progress bar range info and indeterminate state.

@@ -1,0 +1,4 @@
+# Docerion header of s-expected-blink.txt.
+type: test
+title: Strikethrough expected Blink tree
+summary: Expected Blink internal accessibility tree snapshot for the strikethrough element test page.

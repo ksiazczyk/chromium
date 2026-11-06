@@ -1,0 +1,4 @@
+# Docerion header of select-open-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for select-open test
+summary: Expected Windows accessibility tree snapshot for the select-open test, using combobox, list and list item roles with expanded and selected states.

@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for select multiple activate options
+summary: Expected macOS accessibility snapshot for the select multiple activate options test listing both selected options as static text.

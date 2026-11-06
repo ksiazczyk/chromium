@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-win.txt.
+type: test
+title: Select in canvas expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the select-in-canvas test, showing combobox and static text roles.

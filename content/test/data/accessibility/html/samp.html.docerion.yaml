@@ -1,0 +1,4 @@
+# Docerion header of samp.html.
+type: test
+title: samp element accessibility test page
+summary: HTML test page containing a samp element with sample computer program output for accessibility testing.

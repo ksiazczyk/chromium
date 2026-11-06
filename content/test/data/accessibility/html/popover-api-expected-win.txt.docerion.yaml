@@ -1,0 +1,4 @@
+# Docerion header of popover-api-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for popover API test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the popover API test, including details-from and ispopup annotations.

@@ -1,0 +1,4 @@
+# Docerion header of s-expected-android-assist-data.txt.
+type: test
+title: Strikethrough expected Android assist data
+summary: Expected Android assist data snapshot for the strikethrough element test page, including text size and style details.

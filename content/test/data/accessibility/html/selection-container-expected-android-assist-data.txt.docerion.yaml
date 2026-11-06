@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-android-assist-data.txt.
+type: test
+title: Selection container expected Android assist data
+summary: Expected Android assist data snapshot of the accessibility tree for the selection container test, listing a listbox with four options.

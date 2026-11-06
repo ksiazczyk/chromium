@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus.html.
+type: test
+title: Selection over editable without focus test page
+summary: HTML test page that creates a text selection spanning paragraphs and editable inputs without setting element focus, for accessibility tree verification.

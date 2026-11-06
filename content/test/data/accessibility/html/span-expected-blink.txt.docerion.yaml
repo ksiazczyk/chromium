@@ -1,0 +1,4 @@
+# Docerion header of span-expected-blink.txt.
+type: test
+title: span expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the span.html test, including inline text boxes for paragraphs, links, and static text.

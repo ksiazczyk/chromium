@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-android.txt.
+type: test
+title: Android expectations for select-follows-focus-aria-selected-false
+summary: Expected Android accessibility tree for the select-follows-focus-aria-selected-false test, showing a tab list with two unselected tabs and a Done label.

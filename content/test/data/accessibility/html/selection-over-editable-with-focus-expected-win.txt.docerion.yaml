@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-with-focus-expected-win.txt.
+type: test
+title: Expected Windows output for selection over editable with focus
+summary: Expected Windows accessibility tree snapshot for the selection-over-editable-with-focus test page.

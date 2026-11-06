@@ -1,0 +1,4 @@
+# Docerion header of popover-hint-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the popover hint test
+summary: Expected Blink accessibility tree snapshot covering hint popovers with text, images, tables, inputs and title-based descriptions.

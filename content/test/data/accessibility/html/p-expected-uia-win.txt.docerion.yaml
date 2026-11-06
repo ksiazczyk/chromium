@@ -1,0 +1,4 @@
+# Docerion header of p-expected-uia-win.txt.
+type: test
+title: p-expected-uia-win.txt
+summary: Expected Windows UIA accessibility tree snapshot for the paragraph test page p.html, with document, text and group nodes.

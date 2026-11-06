@@ -1,0 +1,4 @@
+# Docerion header of selection-over-editable-without-focus-expected-mac.txt.
+type: test
+title: Selection over editable without focus expected macOS output
+summary: Expected macOS AX accessibility snapshot for the selection-over-editable-without-focus test, capturing AXSelectedText across paragraphs and text fields.

@@ -1,0 +1,4 @@
+# Docerion header of replaced-node-across-trees-expected-android-external.txt.
+type: test
+title: Replaced node across trees expected Android external output
+summary: Expected Android external accessibility tree dump for the replaced-node-across-trees HTML test page.

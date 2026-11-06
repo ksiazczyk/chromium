@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for select multiple activate options
+summary: Expected Android accessibility snapshot for the select multiple activate options test, showing a multiselectable list with both options selected.

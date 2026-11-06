@@ -1,0 +1,4 @@
+# Docerion header of param-expected-android.txt.
+type: test
+title: param-expected-android.txt
+summary: Expected Android accessibility tree snapshot for the param test page, containing only a marker that the case is skipped as not mapped.

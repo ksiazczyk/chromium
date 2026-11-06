@@ -1,0 +1,4 @@
+# Docerion header of search-expected-fuchsia.txt.
+type: test
+title: Search element expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the HTML search element test page.

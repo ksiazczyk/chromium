@@ -1,0 +1,4 @@
+# Docerion header of param-expected-auralinux.txt.
+type: test
+title: param-expected-auralinux.txt
+summary: Expected Linux accessibility tree snapshot for the param object test page, with document, section and embedded component nodes.

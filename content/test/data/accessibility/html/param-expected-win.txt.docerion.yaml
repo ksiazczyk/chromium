@@ -1,0 +1,4 @@
+# Docerion header of param-expected-win.txt.
+type: test
+title: Param expected accessibility tree for Windows
+summary: Expected accessibility tree snapshot for the param HTML test on Windows, containing a skip marker because it is not mapped.

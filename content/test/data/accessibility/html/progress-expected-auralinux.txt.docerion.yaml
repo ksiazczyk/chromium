@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for progress test on Linux (auralinux)
+summary: Expected Linux accessibility tree for the progress HTML test, listing progress bar value text, current, minimum, and maximum values plus the indeterminate state.

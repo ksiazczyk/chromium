@@ -1,0 +1,4 @@
+# Docerion header of progress-expected-uia-win.txt.
+type: test
+title: Expected accessibility tree for progress test on Windows (UIA)
+summary: Expected Windows UIA accessibility tree for the progress HTML test with progress bar range value properties for determinate and indeterminate elements.

@@ -1,0 +1,4 @@
+# Docerion header of picture-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for picture element test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the picture element test, listing graphic roles for images with different alt attribute states.

@@ -1,0 +1,4 @@
+# Docerion header of small-alt-expected-blink.txt.
+type: test
+title: Expected Blink output for small alt test
+summary: Expected Blink accessibility tree snapshot showing image nodes with short alt names for the small alt test page.

@@ -1,0 +1,4 @@
+# Docerion header of shadow-dom-first-child.html.
+type: test
+title: Shadow DOM first child accessibility test page
+summary: HTML test page defining a custom element that attaches an open shadow root and asynchronously adds an aria-labelled div as its first child.

@@ -1,0 +1,4 @@
+# Docerion header of search-expected-android-external.txt.
+type: test
+title: Search element expected Android external tree
+summary: Expected external-format Android accessibility tree snapshot for the HTML search element test page.

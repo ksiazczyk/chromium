@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-mac.txt.
+type: test
+title: Mac expectations for select-follows-focus-aria-selected-false
+summary: Expected macOS accessibility tree for the select-follows-focus-aria-selected-false test with a tab group of two unselected tab buttons.

@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for select-in-canvas
+summary: Expected Android accessibility tree snapshot for a select element inside a canvas, showing the menu pop up button and surrounding static text.

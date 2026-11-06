@@ -1,0 +1,4 @@
+# Docerion header of selection-container-expected-mac.txt.
+type: test
+title: Selection container expected macOS snapshot
+summary: Expected macOS AX accessibility tree for the selection container test with an AXList, an AXGroup and static text values One through Four.

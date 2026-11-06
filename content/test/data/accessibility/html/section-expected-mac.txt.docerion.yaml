@@ -1,0 +1,4 @@
+# Docerion header of section-expected-mac.txt.
+type: test
+title: Section test expectations for macOS
+summary: Expected macOS accessibility tree for the HTML section element test, covering group and landmark region roles.

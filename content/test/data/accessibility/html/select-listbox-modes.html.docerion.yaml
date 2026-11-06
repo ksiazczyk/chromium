@@ -1,0 +1,4 @@
+# Docerion header of select-listbox-modes.html.
+type: test
+title: HTML test page for select element listbox modes
+summary: Accessibility test page rendering select elements with no attributes, multiple, size=4, and multiple size=1 variants for tree comparison.

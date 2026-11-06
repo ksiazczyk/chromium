@@ -1,0 +1,4 @@
+# Docerion header of script.html.
+type: test
+title: script element accessibility test page
+summary: HTML test page containing an empty script element for accessibility testing.

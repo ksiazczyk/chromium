@@ -1,0 +1,4 @@
+# Docerion header of select-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for select test
+summary: Expected Android accessibility tree snapshot listing views, list views and option items for the select elements in the test page.

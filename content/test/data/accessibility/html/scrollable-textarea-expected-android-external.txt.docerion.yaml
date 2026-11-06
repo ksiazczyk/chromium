@@ -1,0 +1,4 @@
+# Docerion header of scrollable-textarea-expected-android-external.txt.
+type: test
+title: Scrollable textarea Android external expectation
+summary: Expected Android external accessibility snapshot for the scrollable textarea test, listing EditText actions and bundle details.

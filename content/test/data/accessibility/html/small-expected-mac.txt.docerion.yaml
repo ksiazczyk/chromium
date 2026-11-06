@@ -1,0 +1,4 @@
+# Docerion header of small-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for small.html
+summary: Expected Mac accessibility tree for the small.html test page with AXWebArea and AXStaticText nodes.

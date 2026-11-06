@@ -1,0 +1,4 @@
+# Docerion header of search-expected-win.txt.
+type: test
+title: Search element expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the HTML search element test page.

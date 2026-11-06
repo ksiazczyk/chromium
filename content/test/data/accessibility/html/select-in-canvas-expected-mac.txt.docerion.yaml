@@ -1,0 +1,4 @@
+# Docerion header of select-in-canvas-expected-mac.txt.
+type: test
+title: Select in canvas expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the select-in-canvas test, showing popup buttons and menu items for the select elements.

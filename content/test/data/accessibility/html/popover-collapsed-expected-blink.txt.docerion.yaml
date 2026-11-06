@@ -1,0 +1,4 @@
+# Docerion header of popover-collapsed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for collapsed popover
+summary: Expected Blink accessibility tree snapshot showing a button in collapsed state after its popover has closed.

@@ -1,0 +1,4 @@
+# Docerion header of section-expected-auralinux.txt.
+type: test
+title: Section test expectations for Linux accessibility
+summary: Expected Linux accessibility tree for the HTML section element test, showing section and landmark roles.

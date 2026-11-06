@@ -1,0 +1,4 @@
+# Docerion header of ruby-expected-android-assist-data.txt.
+type: test
+title: Ruby expected Android assist data
+summary: Expected Android assist-data accessibility tree dump for the ruby HTML test page.

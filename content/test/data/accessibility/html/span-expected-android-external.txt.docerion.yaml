@@ -1,0 +1,4 @@
+# Docerion header of span-expected-android-external.txt.
+type: test
+title: span expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree snapshot for the span.html test, listing views, static text, and link roles with their actions and bundles.

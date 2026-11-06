@@ -1,0 +1,4 @@
+# Docerion header of samp-expected-win.txt.
+type: test
+title: samp expected accessibility output for Windows
+summary: Expected Windows accessibility output for the samp element test page, marked as skipped because the element has no accessible.

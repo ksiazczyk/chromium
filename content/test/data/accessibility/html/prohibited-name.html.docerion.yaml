@@ -1,0 +1,4 @@
+# Docerion header of prohibited-name.html.
+type: test
+title: Prohibited name accessibility test page
+summary: HTML fixture with divs using aria-label to test how prohibited or redundant labels are exposed to accessibility APIs.

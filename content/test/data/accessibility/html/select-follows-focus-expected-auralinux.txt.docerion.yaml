@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-expected-auralinux.txt.
+type: test
+title: Select follows focus expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for the select-follows-focus HTML test, listing page tabs and their selected states before and after the Done action.

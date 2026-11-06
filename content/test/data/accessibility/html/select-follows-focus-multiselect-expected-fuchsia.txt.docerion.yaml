@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-multiselect-expected-fuchsia.txt.
+type: test
+title: Select follows focus multiselect expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the multiselect variant of the select-follows-focus HTML test, showing a multiselectable tab list.

@@ -1,0 +1,4 @@
+# Docerion header of select-follows-focus-aria-selected-false-expected-auralinux.txt.
+type: test
+title: Auralinux expectations for select-follows-focus-aria-selected-false
+summary: Expected Auralinux accessibility tree for the select-follows-focus-aria-selected-false test with a page tab list of two tabs and a Done static text.
