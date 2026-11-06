@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the webnn utility folder
+summary: Inherits the WebNN service owners and routes review of webnn_sandbox_init files to the Windows sandbox owners with no parent lookup.

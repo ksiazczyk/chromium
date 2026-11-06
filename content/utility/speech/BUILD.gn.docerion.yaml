@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Speech recognition sandbox hook build definition
+summary: Defines the speech_recognition_sandbox_hook source set with its sources and dependencies for the GN build.

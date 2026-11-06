@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Utility process owners and review rules
+summary: OWNERS file requiring security-team review for service bindings, browser-exposed interfaces, and mojom files in content/utility.

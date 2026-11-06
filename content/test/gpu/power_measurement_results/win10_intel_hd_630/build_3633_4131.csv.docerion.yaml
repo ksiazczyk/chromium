@@ -1,0 +1,4 @@
+# Docerion header of build_3633_4131.csv.
+type: data
+title: Power measurement results for builds 3633 to 4131
+summary: Tabulated GPU power measurements (DRAM, GT, IA) for Basic and 720p MP4 video tests on Windows 10 Intel HD 630, with one row per bot build in the range 3633 to 4131.

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Script for determining GPU test shard times
+# summary: Command-line script that estimates GPU test shard runtimes and overheads by sampling recent builds from GPU builders via the bb tool, with results treated as estimates.
+# ---
+
 """Script for determining GPU test shard times.
 
 Reported data should be taken as estimates rather than concrete numbers since

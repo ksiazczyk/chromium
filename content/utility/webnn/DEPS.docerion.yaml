@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webnn utility folder
+summary: Grants the content/utility/webnn directory include access to the services/webnn tree.

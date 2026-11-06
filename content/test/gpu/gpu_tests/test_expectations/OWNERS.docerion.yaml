@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for GPU test expectations
+summary: Defines ownership of the GPU test expectation files, granting the Chrome Graphics team overall administration, per-file ownership for WebCodecs and WebRTC expectations, and access to automated expectation service accounts.

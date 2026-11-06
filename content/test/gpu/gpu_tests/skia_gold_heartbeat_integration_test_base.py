@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Skia Gold heartbeat test base
+# summary: Base class for Skia Gold integration tests that uses a websocket heartbeat loop to control test pages, run actions, and capture screenshots.
+# ---
+
 import dataclasses
 import json
 import logging

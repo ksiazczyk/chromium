@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process utility thread implementation
+// summary: Implements InProcessUtilityThread, which runs the utility main thread in-process and uses a lock to ensure only one utility thread exists at a time.
+// ---
+
 #include "content/utility/in_process_utility_thread.h"
 
 #include <memory>

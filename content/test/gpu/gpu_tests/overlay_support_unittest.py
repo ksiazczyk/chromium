@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Video overlay support unit tests
+# summary: Unit tests for the overlay support module, covering presentation mode strings and GPU overlay configuration behavior across pixel formats.
+# ---
+
 """Unittests for overlay_support.py"""
 
 import json

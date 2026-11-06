@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process utility thread declaration
+// summary: Declares the InProcessUtilityThread class and CreateInProcessUtilityThread factory for running utility process logic inside an existing process.
+// ---
+
 #ifndef CONTENT_UTILITY_IN_PROCESS_UTILITY_THREAD_H_
 #define CONTENT_UTILITY_IN_PROCESS_UTILITY_THREAD_H_
 

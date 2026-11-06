@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility thread class declaration
+// summary: Declares UtilityThreadImpl, the utility process thread that extends UtilityThread and ChildThreadImpl and handles service requests from browser-side ServiceProcessHost.
+// ---
+
 #ifndef CONTENT_UTILITY_UTILITY_THREAD_IMPL_H_
 #define CONTENT_UTILITY_UTILITY_THREAD_IMPL_H_
 

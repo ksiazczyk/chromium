@@ -1,0 +1,4 @@
+# Docerion header of build_4426_4759_repeat3.csv.
+type: data
+title: Power measurement results for builds 4426 to 4759, three repeats
+summary: Tabulated GPU power measurements for builds 4426 to 4759 on Windows 10 Intel HD 630, recording three repeated iterations per build for Basic and 720p MP4 video tests.

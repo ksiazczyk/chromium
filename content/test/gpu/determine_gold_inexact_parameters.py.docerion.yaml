@@ -1,0 +1,4 @@
+# Docerion header of determine_gold_inexact_parameters.py.
+type: script
+title: Skia Gold inexact matching parameter optimizer
+summary: Runs binary search, local minima, or brute force optimizers to suggest values for Skia Gold inexact image matching parameters.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the webnn_sandbox_init source set
+summary: Defines the webnn_sandbox_init source set with Windows-only dependencies on the WebNN service, switches, cpp and mojom targets.

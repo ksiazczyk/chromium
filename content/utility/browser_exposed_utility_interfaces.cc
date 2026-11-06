@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility interfaces exposed to the browser
+// summary: Implements ExposeUtilityInterfacesToBrowser, binding Mojo interfaces such as ResourceUsageReporter that utility processes expose to the browser process.
+// ---
+
 #include "content/utility/browser_exposed_utility_interfaces.h"
 
 #include <stdint.h>

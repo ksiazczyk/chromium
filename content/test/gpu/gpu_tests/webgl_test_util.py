@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebGL test path utilities
+# summary: Defines filesystem paths and URL prefixes for the WebGL conformance SDK and GPU extension test data used by GPU tests.
+# ---
+
 from __future__ import print_function
 
 import os

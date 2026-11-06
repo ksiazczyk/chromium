@@ -1,0 +1,4 @@
+# Docerion header of gpu_builders_unittest.py.
+type: test
+title: Unit tests for GPU builders
+summary: Unit tests verifying builder test matching for isolated scripts and Skylab, Android isolate suffixes, and non-Chromium builder entry conversion.

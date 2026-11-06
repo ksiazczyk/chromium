@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Host information helpers for GPU tests
+# summary: Supplies cached helpers that report platform, CPU architecture, system memory, and present GPU vendors for cases where the browser cannot provide this information.
+# ---
+
 """Helper functions for getting information about the host.
 
 Most of the time, information should be pulled from the browser, e.g. via

@@ -4,6 +4,12 @@
 
 # This is more akin to a .pyl/JSON file, so it's expected to be long.
 
+# ---docerion
+# type: test
+# title: Trace test page definitions
+# summary: Defines dataclasses and page lists used by GPU trace integration tests, including WebGPU caching tests and reused pixel test pages.
+# ---
+
 import dataclasses
 import functools
 from typing import Any

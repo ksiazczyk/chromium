@@ -5,6 +5,12 @@
 # It's reasonable for unittests to be messing with protected members.
 # Additionally, there is a lot to test, so line count is expected to be large.
 
+# ---docerion
+# type: test
+# title: Unit tests for the GPU integration test base class
+# summary: Unit tests covering GpuIntegrationTest behavior, including platform tags, browser arguments, and test generation.
+# ---
+
 
 import copy
 import dataclasses

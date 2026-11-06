@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: GPU test project configuration
+# summary: Defines the ChromiumConfig used by GPU test runners, pointing at the gpu_tests benchmark directory and setting up perf paths.
+# ---
+
 import os
 
 import gpu_path_util

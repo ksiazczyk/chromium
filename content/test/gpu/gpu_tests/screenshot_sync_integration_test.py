@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Screenshot sync GPU integration test
+# summary: Integration test verifying that screenshots match the frame they were requested on, under both software and GPU rasterization.
+# ---
+
 import logging
 import math
 import os

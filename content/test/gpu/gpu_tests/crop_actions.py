@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Screenshot crop actions for pixel tests
+# summary: Defines crop action classes that determine how screenshots are cropped in pixel-related GPU tests.
+# ---
+
 """Classes for defining how to crop screenshots in pixel-related tests."""
 
 import abc

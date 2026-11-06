@@ -1,0 +1,4 @@
+# Docerion header of run_gpu_integration_test_fuchsia.py.
+type: script
+title: Fuchsia GPU integration test wrapper
+summary: Wrapper that launches GPU integration tests on Fuchsia devices via the fuchsia_util helper.

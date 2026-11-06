@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition pre-sandbox hook implementation for Linux
+// summary: Loads the SODA binary and grants broker file permissions needed by speech recognition before the Linux sandbox engages.
+// ---
+
 #include "content/utility/speech/speech_recognition_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

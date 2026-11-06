@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Info collection test unit tests
+# summary: Unit tests for the GPU info collection test, covering command-line argument parsing and vendor and device ID matching against GPU info.
+# ---
+
 import argparse
 import unittest
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for browser-exposed utility interfaces
+// summary: Declares ExposeUtilityInterfacesToBrowser, which registers the Mojo interfaces utility processes expose to the browser via BindReceiver.
+// ---
+
 #ifndef CONTENT_UTILITY_BROWSER_EXPOSED_UTILITY_INTERFACES_H_
 #define CONTENT_UTILITY_BROWSER_EXPOSED_UTILITY_INTERFACES_H_
 

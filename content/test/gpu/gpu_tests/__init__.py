@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU tests package initialization
+# summary: Initializes the gpu_tests package and sets up Telemetry and Chromium build paths for GPU testing.
+# ---
+
 import gpu_path_util
 from gpu_path_util import setup_telemetry_paths  # pylint: disable=unused-import  # noqa: F401
 

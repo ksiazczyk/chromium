@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebGPU compat mode CTS integration test
+# summary: Runs the WebGPU conformance suite in compat mode, using compat-specific expectations and verifying the ANGLE OpenGL ES 3.1 backend.
+# ---
+
 import os
 import sys
 from typing import Any

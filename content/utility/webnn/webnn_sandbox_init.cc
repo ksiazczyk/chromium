@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN compiler sandbox pre-initialization for Windows
+// summary: Implements PreSandboxInit, which parses command-line switches and initializes the ONNX Runtime execution-provider environment before Windows sandbox lockdown.
+// ---
+
 #include "content/utility/webnn/webnn_sandbox_init.h"
 
 #include <optional>

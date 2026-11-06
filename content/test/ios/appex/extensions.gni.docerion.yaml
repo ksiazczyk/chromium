@@ -1,0 +1,4 @@
+# Docerion header of extensions.gni.
+type: config
+title: extensions.gni template for iOS test app extensions
+summary: GN template that builds iOS app extension bundles for content tests, wiring up entitlements, Info.plist tweaks, and bundle data.

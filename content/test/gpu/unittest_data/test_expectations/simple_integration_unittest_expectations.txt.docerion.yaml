@@ -1,0 +1,4 @@
+# Docerion header of simple_integration_unittest_expectations.txt.
+type: test
+title: Simple integration unittest expectations fixture
+summary: Minimal test expectations fixture listing expected failure, flaky and skip results for a simple integration unit test.

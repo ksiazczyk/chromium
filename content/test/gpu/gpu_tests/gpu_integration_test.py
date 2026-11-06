@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU integration test base class
+# summary: Base class for GPU integration tests handling browser launches, platform tags, expectations, retries, and result reporting.
+# ---
+
 
 import collections
 from collections.abc import Generator, Iterable

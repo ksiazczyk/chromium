@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU test helper utilities
+# summary: Helper functions for GPU tests covering GPU vendor and device ID parsing, driver tags, and Intel architecture detection.
+# ---
+
 import functools
 import os
 import re

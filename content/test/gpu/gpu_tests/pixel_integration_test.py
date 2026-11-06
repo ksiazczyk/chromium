@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Pixel GPU integration test
+# summary: GPU pixel integration test backed by Skia Gold and Telemetry, with platform-specific serial test handling and screenshot capture logic.
+# ---
+
 import logging
 import os
 import posixpath

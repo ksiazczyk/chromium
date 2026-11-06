@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Buganizer bug updater for bad machine reports
+# summary: Posts automated bad machine reports as comments on Buganizer bugs while skipping bots reported within the grace period.
+# ---
+
 """Code for interacting with Buganizer."""
 
 import datetime

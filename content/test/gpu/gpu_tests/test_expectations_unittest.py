@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for GPU test expectations
+# summary: Unit tests validating GPU test expectation files, checking for broken expectations, tag conflicts, and valid bug references.
+# ---
+
 import inspect
 import os
 import re

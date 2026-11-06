@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Bad machine detection from Swarming data
+# summary: Detects bad Swarming machines, stores them with reasons grouped by mixin, filters low-confidence entries, and generates Markdown reports.
+# ---
+
 """Code for detecting bad machines from Swarming task data."""
 
 import collections

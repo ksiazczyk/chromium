@@ -6,6 +6,12 @@
 # trigger undefined-variables.
 # pytype: disable=name-error
 
+# ---docerion
+# type: test
+# title: macOS display color profile helpers
+# summary: Provides macOS-specific helpers that read and set display color profiles through the ColorSync and Quartz frameworks.
+# ---
+
 
 from gpu_tests.util import host_information
 

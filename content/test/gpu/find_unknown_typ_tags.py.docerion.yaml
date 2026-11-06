@@ -1,0 +1,4 @@
+# Docerion header of find_unknown_typ_tags.py.
+type: script
+title: Find unknown typ tags on GPU bots
+summary: Compares typ tags from expectation files with tags generated on bots via BigQuery to report unused and stale tags.

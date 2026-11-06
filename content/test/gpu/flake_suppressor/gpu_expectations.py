@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GPU expectation processor for flake suppression
+# summary: Locates GPU test expectation files for suites and computes expected results such as RetryOnFailure or Failure for flaky tests.
+# ---
+
 import os
 from typing import List
 

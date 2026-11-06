@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Skia Gold integration test base class
+# summary: Base class for GPU integration tests that upload rendered images to Skia Gold, handling image parameters, sessions, and comparison failures.
+# ---
+
 import logging
 import os
 import re

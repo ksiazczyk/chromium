@@ -1,0 +1,4 @@
+# Docerion header of gather_swarming_json_results.py.
+type: script
+title: Gather swarming JSON results for sharding
+summary: Fetches merged swarming JSON results from the waterfall to feed per-test times into the browser test runner's sharding algorithm.

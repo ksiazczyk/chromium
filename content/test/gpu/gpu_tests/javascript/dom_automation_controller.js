@@ -6,6 +6,12 @@
 // expected_color. Requires that websocket_heartbeat.js be prepended or
 // otherwise evaluated first.
 
+// ---docerion
+// type: test
+// title: DOM automation controller script for GPU pixel and color tests
+// summary: Evaluated by pixel and expected_color GPU suites to expose a domAutomationController that reports readiness and results and wraps WebGL calls in heartbeats.
+// ---
+
 var test_iframe = undefined;
 function getIframe() {
   if (test_iframe === undefined) {

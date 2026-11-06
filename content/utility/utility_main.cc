@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process main entry point
+// summary: Entry point for the Chromium utility process that initializes the child process, configures sandboxing with platform-specific sandbox hooks, and runs the main message loop.
+// ---
+
 #include <optional>
 
 #include "base/allocator/partition_alloc_support.h"

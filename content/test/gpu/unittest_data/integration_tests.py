@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Sample GPU integration tests for framework unit testing
+# summary: Defines sample GPU integration test classes, including SimpleTest and BrowserStartFailureTest, that exercise the GPU integration test framework in unit tests.
+# ---
+
 import json
 import logging
 import os

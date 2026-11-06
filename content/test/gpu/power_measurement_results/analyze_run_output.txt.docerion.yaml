@@ -1,0 +1,4 @@
+# Docerion header of analyze_run_output.txt.
+type: data
+title: Power Measurement Analysis Run Output
+summary: Debug output from a run of the power measurement analysis script, listing potential bad bots and standard deviations per test.

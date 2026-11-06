@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Brute force parameter optimizer
+# summary: Exhaustively tests edge threshold, max diff, and delta threshold combinations to find the smallest successful parameter values, trading speed for completeness.
+# ---
+
 import logging
 
 from gold_inexact_matching import (

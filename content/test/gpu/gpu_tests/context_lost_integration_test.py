@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU context loss integration test
+# summary: Runs integration tests that verify WebGL and WebGPU context loss handling and GPU process crash behavior.
+# ---
+
 import functools
 import logging
 import os

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Base Skia Gold parameter optimizer
+# summary: Abstract base class for optimizing inexact image matching parameters, handling goldctl invocation, expectation downloads, and shared command-line arguments.
+# ---
+
 import collections
 import glob
 import hashlib

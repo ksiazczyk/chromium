@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for the on-device model sandbox init files
+summary: OWNERS file delegating to the on-device model service owners and assigning sandbox Linux owners to the sandbox init files.

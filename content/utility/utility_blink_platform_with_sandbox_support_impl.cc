@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility Blink platform with sandbox support implementation
+// summary: Implements a Blink platform for utility processes that adds platform-specific WebSandboxSupport, sets up the font service loader on Linux and ChromeOS, and provides media and IO task runners.
+// ---
+
 #include "content/utility/utility_blink_platform_with_sandbox_support_impl.h"
 
 #include "build/build_config.h"

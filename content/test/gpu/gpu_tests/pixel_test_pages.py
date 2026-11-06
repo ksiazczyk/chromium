@@ -4,6 +4,12 @@
 
 # This is more akin to a .pyl/JSON file, so it's expected to be long.
 
+# ---docerion
+# type: source
+# title: Pixel test page definitions
+# summary: Defines pixel test pages with URLs, browser arguments, crop actions, timeouts, and Skia Gold matching parameters for the pixel integration tests.
+# ---
+
 from collections.abc import Callable
 from enum import Enum
 import json

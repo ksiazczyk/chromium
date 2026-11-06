@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the Wayland server utility
+# summary: Tests compositor binary discovery, startup, environment updates, and shutdown behavior of the WaylandServer helper using pyfakefs and mocks.
+# ---
+
 import os
 import unittest
 from unittest import mock

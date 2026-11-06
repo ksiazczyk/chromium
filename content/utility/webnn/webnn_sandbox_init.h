@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the WebNN PreSandboxInit hook
+// summary: Declares the Windows-only PreSandboxInit function that must run before LowerToken in the WebNN model-compilation utility process.
+// ---
+
 #ifndef CONTENT_UTILITY_WEBNN_WEBNN_SANDBOX_INIT_H_
 #define CONTENT_UTILITY_WEBNN_WEBNN_SANDBOX_INIT_H_
 

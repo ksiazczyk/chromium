@@ -1,0 +1,4 @@
+# Docerion header of gpu_results_unittest.py.
+type: test
+title: Unit tests for GPU result processing
+summary: Unit tests verifying aggregation, filtering, and conversion of GPU test results against expectation files.

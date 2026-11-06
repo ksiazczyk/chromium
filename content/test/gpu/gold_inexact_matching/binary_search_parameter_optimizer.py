@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Binary search parameter optimizer
+# summary: Finds optimal inexact matching parameters via binary search when exactly one parameter, such as the Sobel edge threshold, is allowed to vary.
+# ---
+
 
 import enum
 import logging

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GPU BigQuery queries for unexpected passes
+# summary: GPU-specific queries module defining BigQuery SQL that collects recent CI and try build GPU test results for unexpected pass detection.
+# ---
+
 """GPU-specific implementation of the unexpected passes' queries module."""
 
 from typing import Iterable, Optional

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility service registration declarations
+// summary: Declares RegisterIOThreadServices and RegisterMainThreadServices, which register the Mojo services available in the utility process.
+// ---
+
 #ifndef CONTENT_UTILITY_SERVICES_H_
 #define CONTENT_UTILITY_SERVICES_H_
 

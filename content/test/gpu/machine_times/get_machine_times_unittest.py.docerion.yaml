@@ -1,0 +1,4 @@
+# Docerion header of get_machine_times_unittest.py.
+type: test
+title: Unit tests for get_machine_times
+summary: Unit tests covering buildbucket authentication, shard time collection per builder, build ID lookup, and step output retrieval for the GPU shard time script.

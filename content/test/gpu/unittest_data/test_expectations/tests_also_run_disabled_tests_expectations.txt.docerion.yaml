@@ -1,0 +1,4 @@
+# Docerion header of tests_also_run_disabled_tests_expectations.txt.
+type: test
+title: Expectations fixture for tests also run disabled tests
+summary: Minimal test expectations fixture with failure, flaky and skip entries for the tests-also-run-disabled-tests unit test.

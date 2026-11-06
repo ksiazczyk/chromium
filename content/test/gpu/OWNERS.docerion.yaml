@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the GPU test directory
+summary: Lists the code owners responsible for reviewing changes in the GPU test directory, including emeritus owners.

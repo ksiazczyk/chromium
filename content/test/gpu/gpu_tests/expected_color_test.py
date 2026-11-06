@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Expected color GPU integration test
+# summary: Runs GPU integration tests that verify expected colors in screenshot regions instead of pixel comparison, uploading images to Skia Gold for triage.
+# ---
+
 import logging
 import os
 import sys

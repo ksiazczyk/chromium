@@ -4,6 +4,12 @@
 
 # TODO(dawn:549) Move WebGPU caching tests to a separate module to trim file.
 
+# ---docerion
+# type: test
+# title: GPU trace integration tests
+# summary: Integration tests that capture browser traces to verify GPU behavior, including WebGPU caching, overlays, and media frame statistics.
+# ---
+
 import collections
 from collections.abc import Generator
 import dataclasses

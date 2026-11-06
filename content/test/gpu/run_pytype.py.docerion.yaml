@@ -1,0 +1,4 @@
+# Docerion header of run_pytype.py.
+type: script
+title: Pytype runner for GPU Python code
+summary: Runs pytype static type checking over the GPU test directories and helper scripts with the required extra import paths.

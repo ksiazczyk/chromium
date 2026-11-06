@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: GPU test constants and vendor IDs
+# summary: Defines GPU testing constants shared across modules, including a GpuVendor enum of hardware vendor IDs.
+# ---
+
 """Constants used in GPU testing not specific to a particular module.
 
 This module should **not** have any dependencies on any other GPU code to avoid

@@ -1,0 +1,4 @@
+# Docerion header of sandbox_delegate_data.mojom.
+type: source
+title: Utility sandbox startup data Mojom struct
+summary: Defines the UtilityConfig Mojom struct carrying Windows-only pre-sandbox startup data, such as preload libraries and a bootstrap event handle, to utility_main.cc.

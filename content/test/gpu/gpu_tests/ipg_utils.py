@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Intel Power Gadget helper functions
+# summary: Helper functions to locate, run, and analyze Intel Power Gadget logs for power measurements on Windows and Mac machines with Intel CPUs.
+# ---
+
 """This script implements a few IntelPowerGadget related helper functions.
 
 This script only works on Windows/Mac with Intel CPU. Intel Power Gadget needs

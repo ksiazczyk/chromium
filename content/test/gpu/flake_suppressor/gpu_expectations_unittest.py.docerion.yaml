@@ -1,0 +1,4 @@
+# Docerion header of gpu_expectations_unittest.py.
+type: test
+title: Unit tests for GPU expectation processing
+summary: Unit tests verifying GPU expectation file lookup, origin expectation file fetching over HTTP, and local checkout expectation handling.

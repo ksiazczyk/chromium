@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Utility process build targets
+summary: GN build configuration for the content utility process, defining the utility source_set with its sources and platform-conditional dependencies.

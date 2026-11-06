@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU info collection integration test
+# summary: Integration test that collects browser GPU system info and validates vendor and device IDs, feature status, and host information.
+# ---
+
 import dataclasses
 import os
 import sys

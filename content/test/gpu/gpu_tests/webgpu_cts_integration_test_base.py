@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebGPU CTS integration test base class
+# summary: Base class for WebGPU CTS tests that drives test pages over websocket, managing timeouts, expectations, worker types, and result reporting.
+# ---
+
 from collections.abc import Mapping
 import dataclasses
 import enum
