@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostStatusProviderImpl unit tests
+// summary: Tests HostStatusProviderImpl status computation and observer notifications using fake delegates, verifiers, eligible device providers, and device sync clients.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_status_provider_impl.h"
 
 #include <memory>

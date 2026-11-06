@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Recording service team and bug tracking metadata
+summary: Maps the recording service folder to the ChromeOS window manager team, Buganizer components, and the UI>Shell>ScreenCapture component.

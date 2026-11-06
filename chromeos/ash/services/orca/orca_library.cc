@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OrcaLibrary implementation
+// summary: Implements OrcaLibrary, which loads the Orca native shared library, sets up logging, and binds a Mojo receiver to the Orca service.
+// ---
+
 #include "chromeos/ash/services/orca/orca_library.h"
 #include "base/files/file_path.h"
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosNetworkConfig class declaration
+// summary: Declares the CrosNetworkConfig service class that exposes network state, device state and configuration operations over Mojo.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_CROS_NETWORK_CONFIG_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_CROS_NETWORK_CONFIG_H_
 

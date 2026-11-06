@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair decryption unit tests
+// summary: Unit tests verifying parsing of decrypted Fast Pair responses, extended responses, and passkeys under various feature flag configurations.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_decryption.h"
 
 #include <algorithm>

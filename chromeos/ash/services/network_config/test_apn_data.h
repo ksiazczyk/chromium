@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestApnData test helper declaration
+// summary: Declares a struct holding full APN test data with conversions to Mojo, ONC and Shill formats and equality checks against them.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_TEST_APN_DATA_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_TEST_APN_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Quick Pair process manager
+// summary: GMock implementation of QuickPairProcessManager providing mock process references and Fast Pair data parser remotes for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_MOCK_QUICK_PAIR_PROCESS_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_MOCK_QUICK_PAIR_PROCESS_MANAGER_H_
 

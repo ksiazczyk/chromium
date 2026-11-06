@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature state manager implementation
+// summary: Implements FeatureStateManagerImpl, deriving multi-device feature states from preferences, host status, and Phone Hub sub-feature logic.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/feature_state_manager_impl.h"
 
 #include <array>

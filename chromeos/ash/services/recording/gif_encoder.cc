@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GIF encoder implementation
+// summary: Implements encoding of video frames into an animated GIF, including color palette management and GIF block construction.
+// ---
+
 #include "chromeos/ash/services/recording/gif_encoder.h"
 
 #include <cmath>

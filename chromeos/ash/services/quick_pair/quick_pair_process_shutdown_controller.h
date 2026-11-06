@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process shutdown controller header
+// summary: Declares QuickPairProcessShutdownController, which starts and stops the shutdown flow for the Quick Pair utility process once it has no active references.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_SHUTDOWN_CONTROLLER_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_SHUTDOWN_CONTROLLER_H_
 

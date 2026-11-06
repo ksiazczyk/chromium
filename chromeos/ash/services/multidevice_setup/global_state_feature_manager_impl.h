@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalStateFeatureManagerImpl header
+// summary: Declares the concrete GlobalStateFeatureManager that syncs a feature's host enabled state on the backend for all synced devices.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GLOBAL_STATE_FEATURE_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GLOBAL_STATE_FEATURE_MANAGER_IMPL_H_
 

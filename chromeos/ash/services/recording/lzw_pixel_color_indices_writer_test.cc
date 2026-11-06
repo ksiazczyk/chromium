@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LZW pixel color indices writer unit test
+// summary: Unit test that verifies the LZW encoder produces the expected compressed byte stream for a sample three-color image written to a temp GIF file.
+// ---
+
 #include "chromeos/ash/services/recording/lzw_pixel_color_indices_writer.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Octree color quantizer implementation
+// summary: Implements the Octree-based color quantizer that extracts up to 256 colors from video frames and applies Floyd-Steinberg dithering for GIF encoding.
+// ---
+
 #include "chromeos/ash/services/recording/octree_color_quantizer.h"
 
 #include <algorithm>

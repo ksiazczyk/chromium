@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostBackendDelegateImpl Unit Tests
+// summary: Unit tests for HostBackendDelegateImpl covering host setting, pending requests, retries, and observer notifications using fake dependencies and mock timers.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_backend_delegate_impl.h"
 
 #include <memory>

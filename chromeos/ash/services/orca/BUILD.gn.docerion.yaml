@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Orca service build configuration
+summary: GN build file defining the orca source set, its dependencies, and the unit test target with test shared library data deps.

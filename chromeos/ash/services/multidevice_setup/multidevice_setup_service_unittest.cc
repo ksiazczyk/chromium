@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiDeviceSetupService unit tests
+// summary: Unit tests for MultiDeviceSetupService verifying that it creates and binds a shared MultiDeviceSetup implementation with the expected dependencies.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

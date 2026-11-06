@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the network_config directory
+summary: Allowlists component includes for the directory and adds extra include rules for the unit test file.

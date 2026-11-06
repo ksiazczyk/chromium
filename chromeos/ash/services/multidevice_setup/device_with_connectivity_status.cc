@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceWithConnectivityStatus struct implementation
+// summary: Implements a value type pairing a remote device reference with its CryptAuth connectivity status, including equality comparison.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/device_with_connectivity_status.h"
 
 #include "base/base64.h"

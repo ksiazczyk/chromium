@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStatusProviderImpl implementation
+// summary: Implements HostStatusProvider by tracking host status changes from backend delegate, verifier, and device sync events, and logs host status metrics every 30 minutes.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_status_provider_impl.h"
 
 #include <algorithm>

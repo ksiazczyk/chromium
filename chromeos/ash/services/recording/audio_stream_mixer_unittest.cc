@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio stream mixer unit tests
+// summary: Unit tests verifying that AudioStreamMixer correctly mixes audio buses from multiple streams and delivers timestamped mixed output.
+// ---
+
 #include "chromeos/ash/services/recording/audio_stream_mixer.h"
 
 #include <algorithm>

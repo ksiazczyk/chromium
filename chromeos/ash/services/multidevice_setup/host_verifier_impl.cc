@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostVerifierImpl implementation
+// summary: Implements host verification with exponential backoff retries, persisting retry timing in preferences and using DeviceSyncClient to find eligible devices and notify them.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_verifier_impl.h"
 
 #include <utility>

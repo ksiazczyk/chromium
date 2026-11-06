@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GifFileWriter class header
+// summary: Declares the GifFileWriter class that creates the GIF output file and writes encoded data, handling IO errors and DriveFS quota.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_GIF_FILE_WRITER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_GIF_FILE_WRITER_H_
 

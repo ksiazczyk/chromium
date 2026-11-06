@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceWithConnectivityStatus struct for multidevice setup
+// summary: Defines a struct pairing a remote device with its connectivity status, used to sort devices in the multidevice setup dropdown.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_DEVICE_WITH_CONNECTIVITY_STATUS_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_DEVICE_WITH_CONNECTIVITY_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake mojom FeatureStateObserver for tests
+// summary: Declares a fake mojom::FeatureStateObserver that records feature state updates and can generate a Mojo pending remote.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_FEATURE_STATE_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_FEATURE_STATE_OBSERVER_H_
 

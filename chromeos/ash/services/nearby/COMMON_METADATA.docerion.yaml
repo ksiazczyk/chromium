@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Nearby common metadata
+summary: Sets the Buganizer component and team email used as common metadata for the Nearby directory.

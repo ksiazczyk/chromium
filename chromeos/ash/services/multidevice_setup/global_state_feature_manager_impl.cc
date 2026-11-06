@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalStateFeatureManagerImpl implementation
+// summary: Implements GlobalStateFeatureManager by toggling the WifiSync host state via DeviceSyncClient, with pending-state prefs and a retry timer.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/global_state_feature_manager_impl.h"
 
 #include <memory>

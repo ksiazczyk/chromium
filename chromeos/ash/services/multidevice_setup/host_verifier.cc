@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostVerifier base class
+// summary: Implements shared HostVerifier behavior such as observer management and guarded verification attempts, leaving the actual verification to subclasses.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_verifier.h"
 
 #include "base/logging.h"

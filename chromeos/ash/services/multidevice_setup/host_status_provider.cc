@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStatusProvider
+// summary: Implementation of HostStatusProvider helpers, including HostStatusWithDevice validation and comparison plus observer notification of host status changes.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_status_provider.h"
 
 #include "base/logging.h"

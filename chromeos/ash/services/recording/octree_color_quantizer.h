@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Octree color quantizer for GIF palettes
+// summary: Declares the OctreeColorQuantizer class that builds a color palette of up to 256 colors and maps pixel colors to palette indices with dithering.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_OCTREE_COLOR_QUANTIZER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_OCTREE_COLOR_QUANTIZER_H_
 

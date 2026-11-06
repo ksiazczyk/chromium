@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivilegedHostDeviceSetterBase implementation
+// summary: Implements receiver binding for the PrivilegedHostDeviceSetter Mojo interface base class.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/privileged_host_device_setter_base.h"
 
 namespace ash {

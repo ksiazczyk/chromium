@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivilegedHostDeviceSetterImpl unit tests
+// summary: Unit tests verifying that PrivilegedHostDeviceSetterImpl forwards SetHostDevice calls to a fake MultiDeviceSetup and correctly reports success or failure results.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/privileged_host_device_setter_impl.h"
 
 #include <memory>

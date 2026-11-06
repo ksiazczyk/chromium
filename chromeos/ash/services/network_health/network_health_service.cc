@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health service implementation
+// summary: Implements the NetworkHealthService mojo interface, mapping network config state to health state and notifying observers of changes.
+// ---
+
 #include "chromeos/ash/services/network_health/network_health_service.h"
 
 #include <cstdint>

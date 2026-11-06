@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording encoder interface
+// summary: Defines the common interface and capability queries for encoding and muxing audio and video frames during screen recording.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_ENCODER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_ENCODER_H_
 

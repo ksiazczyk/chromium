@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture parameters implementation
+// summary: Implements capture parameter subclasses for fullscreen, window and region recordings, including resolution constraints and video size change handling.
+// ---
+
 #include "chromeos/ash/services/recording/video_capture_params.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalStrengthTracker class header
+// summary: Declares the SignalStrengthTracker class, which keeps a fixed-size sliding window of network signal strength samples and exposes average, standard deviation and raw sample accessors.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_SIGNAL_STRENGTH_TRACKER_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_SIGNAL_STRENGTH_TRACKER_H_
 

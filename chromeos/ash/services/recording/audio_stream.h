@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioStream class declaration
+// summary: Declares AudioStream, a contiguous FIFO of audio buses that supports timestamped appends and mixing frames into a destination bus.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_STREAM_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_STREAM_H_
 

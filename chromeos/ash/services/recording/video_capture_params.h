@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture parameters
+// summary: Declares VideoCaptureParams, which encapsulates parameters for ongoing captures and initializes video capturers for fullscreen, window or region recording.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_VIDEO_CAPTURE_PARAMS_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_VIDEO_CAPTURE_PARAMS_H_
 

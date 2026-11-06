@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupBase implementation
+// summary: Implements Mojo receiver binding for the MultiDeviceSetup interface so clients can bind to the service and all receivers can be closed.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/multidevice_setup_base.h"
 
 namespace ash {

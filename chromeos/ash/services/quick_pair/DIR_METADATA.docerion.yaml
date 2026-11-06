@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Quick Pair directory metadata
+summary: Points this directory at the shared ash Quick Pair common metadata mixins.

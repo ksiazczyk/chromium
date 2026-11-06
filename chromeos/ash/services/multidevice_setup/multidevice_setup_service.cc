@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupService implementation
+// summary: Implements the service that registers profile prefs and binds MultiDeviceSetup and PrivilegedHostDeviceSetter receivers to a shared implementation.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/multidevice_setup_service.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair process shutdown controller unit tests
+// summary: Unit tests using mock time to verify the shutdown callback fires after the five-second timeout and that calling Stop cancels the pending shutdown.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process_shutdown_controller.h"
 
 #include "base/memory/weak_ptr.h"

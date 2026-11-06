@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process manager implementation header
+// summary: Declares QuickPairProcessManagerImpl and its process reference implementation for managing the Quick Pair utility process over Mojo.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_MANAGER_IMPL_H_
 

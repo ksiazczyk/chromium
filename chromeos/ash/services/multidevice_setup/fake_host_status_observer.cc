@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host status observer implementation
+// summary: Implements the fake mojom::HostStatusObserver used in tests, recording host status changes and exposing a mojo remote for the observer.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_host_status_observer.h"
 
 namespace ash {

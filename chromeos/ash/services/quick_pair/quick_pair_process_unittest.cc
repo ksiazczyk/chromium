@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair process unit tests
+// summary: Unit tests for the quick_pair_process helpers, using a fake process manager with a Mojo FastPairDataParser to check parsing behavior when no process manager is set.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process.h"
 
 #include <cstdint>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the parent directory
+summary: Points to chromeos/services/network_config/OWNERS so this directory inherits its owners and review requirements.

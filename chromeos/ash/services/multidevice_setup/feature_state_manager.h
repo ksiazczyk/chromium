@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature state manager interface
+// summary: Declares the FeatureStateManager interface that tracks multi-device feature states with a getter, observers, and controlled toggling.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FEATURE_STATE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FEATURE_STATE_MANAGER_H_
 

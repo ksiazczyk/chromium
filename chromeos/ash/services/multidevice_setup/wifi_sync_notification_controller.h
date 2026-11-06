@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiSyncNotificationController header
+// summary: Declares the WifiSyncNotificationController that shows the Wifi Sync setup notification based on host status, feature state, prefs, and session or power events.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_WIFI_SYNC_NOTIFICATION_CONTROLLER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_WIFI_SYNC_NOTIFICATION_CONTROLLER_H_
 

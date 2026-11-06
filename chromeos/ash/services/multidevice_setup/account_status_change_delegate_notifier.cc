@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountStatusChangeDelegateNotifier base class implementation
+// summary: Implements the base notifier class that binds the MultiDeviceSetup account status change delegate remote and provides a testing flush hook.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/account_status_change_delegate_notifier.h"
 
 #include "base/logging.h"

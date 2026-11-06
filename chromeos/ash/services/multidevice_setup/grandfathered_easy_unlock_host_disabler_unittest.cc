@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GrandfatheredEasyUnlockHostDisabler unit tests
+// summary: Unit tests for the EasyUnlock host disabler covering host changes, devices stored in prefs, and retry behavior.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/grandfathered_easy_unlock_host_disabler.h"
 
 #include <memory>

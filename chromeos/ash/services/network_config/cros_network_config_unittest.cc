@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrosNetworkConfig
+// summary: Exercises the CrosNetworkConfig service against fake network handlers, covering network, cellular, APN and proxy configuration behavior.
+// ---
+
 #include "chromeos/ash/services/network_config/cros_network_config.h"
 
 #include <algorithm>

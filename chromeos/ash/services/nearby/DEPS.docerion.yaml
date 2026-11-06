@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby DEPS include rules
+summary: Declares include rules allowing keyed service and Bluetooth UUID headers as dependencies for the Nearby directory.

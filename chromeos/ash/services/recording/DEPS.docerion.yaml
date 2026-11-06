@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Recording service dependency rules
+summary: Sets include rules for the recording service utility process, allowing base, media, and mojo headers while banning most Abseil features.

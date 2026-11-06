@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake feature state manager implementation
+// summary: Implements the test FakeFeatureStateManager with default unavailable feature states and an observer that records feature state updates.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_feature_state_manager.h"
 
 namespace ash {

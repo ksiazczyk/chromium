@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrandfatheredEasyUnlockHostDisabler header
+// summary: Declares the class that watches for BetterTogether host removal on the backend and disables the EasyUnlock host feature in response.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GRANDFATHERED_EASY_UNLOCK_HOST_DISABLER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GRANDFATHERED_EASY_UNLOCK_HOST_DISABLER_H_
 

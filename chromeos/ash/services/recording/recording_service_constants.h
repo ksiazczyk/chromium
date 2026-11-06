@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording service constants
+// summary: Defines constants for the recording service such as maximum frame rate, minimum capture period, resize throttling period and the video color space.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_SERVICE_CONSTANTS_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_SERVICE_CONSTANTS_H_
 

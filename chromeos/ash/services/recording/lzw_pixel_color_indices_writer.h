@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LZW pixel color indices writer for GIF encoding
+// summary: Header for the class that LZW-compresses video frame pixel color indices and writes the compressed output to a GIF file.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_LZW_PIXEL_COLOR_INDICES_WRITER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_LZW_PIXEL_COLOR_INDICES_WRITER_H_
 

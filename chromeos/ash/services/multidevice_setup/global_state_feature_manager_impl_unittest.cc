@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalStateFeatureManagerImpl unit tests
+// summary: Unit tests for GlobalStateFeatureManagerImpl covering WifiSync enable and disable requests, pending states, and retry behavior.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/global_state_feature_manager_impl.h"
 
 #include <memory>

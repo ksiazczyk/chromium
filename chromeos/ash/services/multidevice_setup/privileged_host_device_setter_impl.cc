@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivilegedHostDeviceSetterImpl implementation
+// summary: Implements the privileged host device setter by delegating SetHostDevice calls to MultiDeviceSetupBase without an auth token, with a factory supporting test injection.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/privileged_host_device_setter_impl.h"
 
 #include "base/memory/ptr_util.h"

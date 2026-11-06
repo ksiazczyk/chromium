@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalStateFeatureManager interface
+// summary: Interface for managing features whose host enabled state is synced globally across all connected devices rather than set locally.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GLOBAL_STATE_FEATURE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_GLOBAL_STATE_FEATURE_MANAGER_H_
 

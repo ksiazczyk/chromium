@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair data parser interface
+// summary: Declares the FastPairDataParser Mojo service responsible for parsing untrusted bytes received from Bluetooth devices during Fast Pair.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_FAST_PAIR_DATA_PARSER_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_FAST_PAIR_DATA_PARSER_H_
 

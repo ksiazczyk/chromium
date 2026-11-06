@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process manager implementation
+// summary: Implements the process manager by binding Mojo remotes to the Quick Pair utility process and tracking process references and shutdown handling.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process_manager_impl.h"
 
 #include <memory>

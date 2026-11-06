@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multidevice_setup service
+summary: GN build file defining the multidevice_setup static library with its sources, dependencies, and visibility, plus a test_support target with fake implementations.

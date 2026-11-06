@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosNetworkConfig Mojo service implementation
+// summary: Implements the CrosNetworkConfig Mojo interface, translating network configuration requests into calls on the ChromeOS network subsystem.
+// ---
+
 #include "chromeos/ash/services/network_config/cros_network_config.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair decryption interface
+// summary: Declares helpers that decrypt and parse encrypted Fast Pair responses and passkeys using a 16-byte AES key.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_FAST_PAIR_DECRYPTION_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_FAST_PAIR_DECRYPTION_H_
 

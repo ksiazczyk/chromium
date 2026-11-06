@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake feature state manager for tests
+// summary: Declares FakeFeatureStateManager and FakeFeatureStateManagerObserver test doubles for the FeatureStateManager interface.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_FEATURE_STATE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_FEATURE_STATE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHealthService class declaration
+// summary: Declares the NetworkHealthService class implementing the mojo interface, network config observation, signal strength tracking and service provider requests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_NETWORK_HEALTH_SERVICE_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_NETWORK_HEALTH_SERVICE_H_
 

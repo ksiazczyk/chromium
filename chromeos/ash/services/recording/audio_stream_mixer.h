@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioStreamMixer class header
+// summary: Declares the AudioStreamMixer class that captures audio from multiple devices, mixes their streams, and delivers the result via a callback.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_STREAM_MIXER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_STREAM_MIXER_H_
 

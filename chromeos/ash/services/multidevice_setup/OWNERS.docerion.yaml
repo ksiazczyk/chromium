@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointing to multidevice OWNERS
+summary: Delegates code ownership and review for this directory to the chromeos/ash/components/multidevice OWNERS file.

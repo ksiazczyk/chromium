@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host device timestamp manager for tests
+// summary: Header for a test fake of HostDeviceTimestampManager that lets tests set the host-set flag and the setup completion and verification timestamps.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_DEVICE_TIMESTAMP_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_DEVICE_TIMESTAMP_MANAGER_H_
 

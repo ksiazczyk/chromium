@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the recording service
+summary: Defines the GN source sets for the recording service, its test support library, and the unit test targets with their dependencies.

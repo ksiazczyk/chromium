@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioStream unit tests
+// summary: Unit tests covering AudioStream timestamp handling, frame consumption, and zero-filling of gaps between appended audio buses.
+// ---
+
 #include "chromeos/ash/services/recording/audio_stream.h"
 
 #include "base/memory/aligned_memory.h"

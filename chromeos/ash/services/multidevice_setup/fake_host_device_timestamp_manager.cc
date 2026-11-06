@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host device timestamp manager implementation
+// summary: Implements FakeHostDeviceTimestampManager with settable host-set-from-this-Chromebook flag and setup or verification timestamps.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_host_device_timestamp_manager.h"
 
 namespace ash {

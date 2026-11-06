@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair decryption implementation
+// summary: Decrypts AES-encrypted Fast Pair responses and passkeys and parses them into decrypted response and passkey structures per the Fast Pair spec.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_decryption.h"
 
 #include <algorithm>

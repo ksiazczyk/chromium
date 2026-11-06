@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountStatusChangeDelegateNotifier class declaration
+// summary: Declares the base class that notifies the MultiDeviceSetup delegate when a potential host is found, the host switches, or a new Chromebook is added.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ACCOUNT_STATUS_CHANGE_DELEGATE_NOTIFIER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ACCOUNT_STATUS_CHANGE_DELEGATE_NOTIFIER_H_
 

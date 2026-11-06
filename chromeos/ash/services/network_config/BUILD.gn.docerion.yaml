@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the network_config service
+summary: Defines the static library, in-process instance component, test support and unit test targets for the ChromeOS network configuration service.

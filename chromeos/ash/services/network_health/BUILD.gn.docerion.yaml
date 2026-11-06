@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network Health build configuration
+summary: GN build file defining the network_health static library, the in_process_instance component and the unit test source set.
