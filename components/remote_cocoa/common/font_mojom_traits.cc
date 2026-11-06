@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits implementation for gfx::Font
+// summary: Implements Mojo StructTraits that serialize and deserialize gfx::Font between the browser and remote_cocoa processes.
+// ---
+
 #include "components/remote_cocoa/common/font_mojom_traits.h"
 
 namespace mojo {

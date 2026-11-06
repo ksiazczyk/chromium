@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed immersive mode controller interface
+// summary: Declares ImmersiveModeTabbedControllerCocoa, a fullscreen controller variant that manages a separate tab overlay window during immersive mode.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_TABBED_CONTROLLER_COCOA_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_TABBED_CONTROLLER_COCOA_H_
 

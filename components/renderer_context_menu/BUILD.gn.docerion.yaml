@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for renderer context menu
+summary: Defines the renderer_context_menu static library target with its sources and dependencies, adding views-specific sources when toolkit_views is enabled.

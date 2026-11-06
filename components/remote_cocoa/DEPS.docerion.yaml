@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for remote_cocoa
+summary: Defines the include rules for the remote_cocoa directory, listing allowed dependencies such as ui/base and mojo bindings while forbidding ui/views.

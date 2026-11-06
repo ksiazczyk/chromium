@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities feature switches
+// summary: Defines feature flags for search engine choice screens, dynamic profile country updates, and prepopulated engines migration.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_switches.h"
 
 #include "base/feature_list.h"

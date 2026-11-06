@@ -1,3 +1,9 @@
+---
+type: readme
+title: Remote Cocoa directory overview
+summary: Describes Remote Cocoa, the system that bridges Cocoa objects with their Chromium C++ counterparts, either in-process in the browser or out-of-process in PWA app shims.
+---
+
 This directory contains mechanisms for Remote Cocoa, which is the system that
 bridges Cocoa objects with their Chromium C++ counterparts, which can be either
 in-process (the browser) or out-of-process (PWA app shims).

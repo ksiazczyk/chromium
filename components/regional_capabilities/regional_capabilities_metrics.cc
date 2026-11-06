@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities metrics implementation
+// summary: Records UMA histograms for country matching, active regional programs, and search engine choice screen funnel stages.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_metrics.h"
 
 #include "base/containers/flat_map.h"

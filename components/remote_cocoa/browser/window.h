@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native window mapping and lookup header
+// summary: Declares ScopedNativeWindowMapping and lookup helpers for the application host, window bridge and Mojo interface of a browser-side NativeWindow.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_BROWSER_WINDOW_H_
 #define COMPONENTS_REMOTE_COCOA_BROWSER_WINDOW_H_
 

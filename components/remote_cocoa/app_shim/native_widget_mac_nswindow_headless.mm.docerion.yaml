@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_nswindow_headless.mm.
+type: source
+title: Headless NSWindow swizzler implementation
+summary: Swizzles NativeWidgetMacNSWindow methods with a donor class so headless windows fake visibility, key state, geometry, fullscreen, zoom, and miniaturization.

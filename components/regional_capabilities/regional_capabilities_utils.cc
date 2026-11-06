@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities utilities
+// summary: Implements helpers for resolving regional settings, prepopulated search engine lists per country, and engine migration mappings.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_utils.h"
 
 #include <algorithm>

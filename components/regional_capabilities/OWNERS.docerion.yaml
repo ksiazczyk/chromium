@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for regional capabilities
+summary: Declares code owners for the directory by referencing the compliance owners file and listing an additional owner.

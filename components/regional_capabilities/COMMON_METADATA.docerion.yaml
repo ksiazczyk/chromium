@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Team metadata for the regional_capabilities component
+summary: Specifies the owning team email address and public Buganizer component for this directory.

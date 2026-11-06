@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertBridge interface for showing NSAlert dialogs over Mojo
+// summary: Declares AlertBridge, a Mojo-backed class that displays NSAlert dialogs and reports the chosen disposition.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_ALERT_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_ALERT_H_
 

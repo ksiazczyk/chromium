@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Country access reason enum and pass key
+// summary: Defines the CountryAccessReason enum and the CountryAccessKey pass key class that restrict access to country data to a fixed set of friend classes and tests.
+// ---
+
 #ifndef COMPONENTS_REGIONAL_CAPABILITIES_ACCESS_COUNTRY_ACCESS_REASON_H_
 #define COMPONENTS_REGIONAL_CAPABILITIES_ACCESS_COUNTRY_ACCESS_REASON_H_
 

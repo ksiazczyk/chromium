@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views NSWindow delegate declarations
+// summary: Declares ViewsNSWindowDelegate, the NSWindow delegate installed by NativeWidgetNSWindowBridge for cursor, ordering, color, space, and aspect ratio handling.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_VIEWS_NSWINDOW_DELEGATE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_VIEWS_NSWINDOW_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserNativeWidgetWindow NSWindow subclass header
+// summary: Declares BrowserNativeWidgetWindow, an NSWindow subclass that can pin traffic lights visible and hold a thin titlebar accessory used as a fullscreen workaround.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_BROWSER_NATIVE_WIDGET_WINDOW_MAC_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_BROWSER_NATIVE_WIDGET_WINDOW_MAC_H_
 

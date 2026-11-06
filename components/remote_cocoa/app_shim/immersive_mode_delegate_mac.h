@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode delegate protocol for macOS windows
+// summary: Defines the ImmersiveModeDelegate protocol extending NSWindowDelegate with accessors for the original hosting and browser windows.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_DELEGATE_MAC_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_DELEGATE_MAC_H_
 

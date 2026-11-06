@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the remote cocoa browser component
+summary: GN build definition for the browser component that runs in the app shim process, listing sources, dependencies and the Cocoa framework.

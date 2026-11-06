@@ -1,0 +1,4 @@
+# Docerion header of ns_view_ids.mm.
+type: source
+title: NSView identifier mapping implementation
+summary: Implements bidirectional maps between NSViews and their identifiers, with a scoped mapping that registers and unregisters views.

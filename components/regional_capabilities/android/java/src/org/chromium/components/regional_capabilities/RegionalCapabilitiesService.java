@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionalCapabilitiesService Android JNI wrapper
+// summary: Android Java wrapper around the C++ RegionalCapabilitiesService that exposes whether the profile country is an EEA member via JNI, usable only from the UI thread.
+// ---
+
 package org.chromium.components.regional_capabilities;
 
 import androidx.annotation.MainThread;

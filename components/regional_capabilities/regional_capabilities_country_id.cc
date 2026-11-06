@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities country ID holder implementation
+// summary: Implements CountryIdHolder, which wraps a country ID and exposes it only through restricted or test-only access methods.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_country_id.h"
 
 #include "base/check_is_test.h"

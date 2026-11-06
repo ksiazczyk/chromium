@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_frameless_nswindow.mm.
+type: source
+title: Frameless NSWindow subclass implementation
+summary: Implements the frameless window by supplying a custom frame view class whose titlebar height is zero.

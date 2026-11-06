@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional program settings implementation
+// summary: Implements per-program settings for programs like Waffle, Taiyaki and Scone, including region membership checks.
+// ---
+
 #include "components/regional_capabilities/program_settings.h"
 
 #include <algorithm>

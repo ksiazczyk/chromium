@@ -1,0 +1,4 @@
+# Docerion header of browser_native_widget_window_mac_unittests.mm.
+type: test
+title: BrowserNativeWidgetWindow unit tests
+summary: Unit tests covering traffic light visibility, fullscreen, and window frame behavior of BrowserNativeWidgetWindow on macOS.

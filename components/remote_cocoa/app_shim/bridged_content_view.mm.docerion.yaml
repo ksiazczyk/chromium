@@ -1,0 +1,4 @@
+# Docerion header of bridged_content_view.mm.
+type: source
+title: BridgedContentView implementation for events and text input
+summary: Implements BridgedContentView, handling key events, input methods, drag and drop, tooltips and coordinate conversion for bridged windows.

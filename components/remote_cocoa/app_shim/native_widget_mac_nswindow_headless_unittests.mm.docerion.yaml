@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_nswindow_headless_unittests.mm.
+type: test
+title: Headless NSWindow unit tests
+summary: Tests headless window behavior, including headless info creation, swizzling of subclasses, unaffected unrelated windows, and ordering of headless windows.

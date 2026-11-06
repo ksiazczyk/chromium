@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the regional_capabilities component
+summary: Defines the static library and source sets, their sources and dependencies for building the regional capabilities component.

@@ -1,0 +1,4 @@
+# Docerion header of select_file_dialog.mojom.
+type: source
+title: SelectFileDialog Mojo interface
+summary: Defines the Mojo interface for macOS file selection dialogs, including dialog types, allowed file type information, and the Show method with its parameters and results.

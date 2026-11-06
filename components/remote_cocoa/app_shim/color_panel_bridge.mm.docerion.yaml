@@ -1,0 +1,4 @@
+# Docerion header of color_panel_bridge.mm.
+type: source
+title: Color panel bridge implementation
+summary: Implements ColorPanelBridge, forwarding NSColorPanel color choices and close events to the browser process over Mojo.

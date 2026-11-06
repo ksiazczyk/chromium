@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCGWindowID registry header
+// summary: Declares ScopedCGWindowID, a UI-thread registry of CGWindowIDs for remote cocoa windows used to find frame sink IDs for efficient video capture.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_BROWSER_SCOPED_CG_WINDOW_ID_H_
 #define COMPONENTS_REMOTE_COCOA_BROWSER_SCOPED_CG_WINDOW_ID_H_
 

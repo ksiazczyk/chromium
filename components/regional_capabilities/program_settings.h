@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional program settings declarations
+// summary: Declares the Program enum, search engine list types and settings structs that configure choice screen eligibility per program.
+// ---
+
 #ifndef COMPONENTS_REGIONAL_CAPABILITIES_PROGRAM_SETTINGS_H_
 #define COMPONENTS_REGIONAL_CAPABILITIES_PROGRAM_SETTINGS_H_
 

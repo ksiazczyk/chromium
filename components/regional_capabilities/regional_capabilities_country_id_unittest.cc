@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities country ID holder unit tests
+// summary: Tests equality comparison of CountryIdHolder instances and the GetRestricted access path.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_country_id.h"
 
 #include "components/country_codes/country_codes.h"

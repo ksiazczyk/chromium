@@ -1,0 +1,4 @@
+# Docerion header of menu_controller_cocoa_delegate_impl.mm.
+type: source
+title: Cocoa menu controller delegate implementation
+summary: Implements the Cocoa menu controller delegate, drawing new-feature badges and IPH dots and using private APIs to highlight menu items on older macOS.

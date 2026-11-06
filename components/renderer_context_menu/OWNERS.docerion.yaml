@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for renderer context menu
+summary: Lists avi@chromium.org as the code owner for this directory.

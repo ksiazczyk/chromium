@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode controller for macOS fullscreen
+// summary: Declares ImmersiveModeControllerCocoa, which manages a single macOS fullscreen session including toolbar reveal locks and overlay window hosting.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_CONTROLLER_COCOA_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_IMMERSIVE_MODE_CONTROLLER_COCOA_H_
 

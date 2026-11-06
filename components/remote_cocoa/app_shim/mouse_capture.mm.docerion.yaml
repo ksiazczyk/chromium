@@ -1,0 +1,4 @@
+# Docerion header of mouse_capture.mm.
+type: source
+title: CocoaMouseCapture implementation with event monitors
+summary: Implements CocoaMouseCapture using local and global NSEvent monitors to forward or swallow mouse events and manage the active capture window.

@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_nswindow.mm.
+type: source
+title: NativeWidgetMacNSWindow implementation
+summary: Implements NativeWidgetMacNSWindow behavior including child window reordering workarounds, headless shadow disabling, and other AppKit quirks handling.

@@ -1,0 +1,4 @@
+# Docerion header of native_widget_ns_window_bridge.mm.
+type: source
+title: NativeWidgetNSWindowBridge implementation
+summary: Implements the Cocoa-side bridge for NSWindow-backed widgets, covering visibility, frames, capture exclusion, drag and drop, and text input over Mojo.

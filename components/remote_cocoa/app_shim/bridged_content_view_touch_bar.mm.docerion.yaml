@@ -1,0 +1,4 @@
+# Docerion header of bridged_content_view_touch_bar.mm.
+type: source
+title: Touch Bar dialog button support for BridgedContentView
+summary: Adds a Touch Bar category to BridgedContentView showing OK and Cancel dialog buttons driven through the Mojo host.

@@ -1,0 +1,4 @@
+# Docerion header of window_move_loop.mm.
+type: source
+title: Cocoa window move loop implementation
+summary: Implements a nested run loop that tracks macOS window dragging, including a workaround that keeps child windows aligned with their parent during tab drags on macOS 14.

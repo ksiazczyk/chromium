@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa menu controller delegate interface
+// summary: Declares MenuControllerCocoaDelegateImpl, an Objective-C delegate for the Cocoa menu controller configured from Mojo menu parameters.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_MENU_CONTROLLER_COCOA_DELEGATE_IMPL_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_MENU_CONTROLLER_COCOA_DELEGATE_IMPL_H_
 

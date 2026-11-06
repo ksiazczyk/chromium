@@ -1,0 +1,4 @@
+# Docerion header of application_host.mm.
+type: source
+title: ApplicationHost implementation
+summary: Implements ApplicationHost, binding the Mojo Application receiver and resolving the host for a native view through its window.

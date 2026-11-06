@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window touch bar delegate protocol
+// summary: Declares a Cocoa protocol that bridge delegates implement to create and return a touch bar for the browser window.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_WINDOW_TOUCH_BAR_DELEGATE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_WINDOW_TOUCH_BAR_DELEGATE_H_
 

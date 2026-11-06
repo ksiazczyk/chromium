@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views scrollbar bridge declarations
+// summary: Declares ViewsScrollbarBridge, which forwards NSScroller style change notifications and the preferred scroller style to Cocoa scrollbars.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_VIEWS_SCROLLBAR_BRIDGE_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_VIEWS_SCROLLBAR_BRIDGE_H_
 

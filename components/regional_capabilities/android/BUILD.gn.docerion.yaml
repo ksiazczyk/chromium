@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for regional capabilities Android component
+summary: Defines GN build targets for the regional capabilities Android Java library, including enum srcjar generation, JNI headers, and Robolectric unit tests.

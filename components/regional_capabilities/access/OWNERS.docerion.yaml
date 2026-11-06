@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to compliance owners
+summary: Sets noparent ownership and delegates approvals to the regional capabilities COMPLIANCE_OWNERS file.

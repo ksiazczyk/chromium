@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regional capabilities service unit tests
+// summary: Unit tests for the regional capabilities service covering country fetching, program assignment, prefs migration, and choice screen behavior.
+// ---
+
 #include "components/regional_capabilities/regional_capabilities_service.h"
 
 #include <memory>

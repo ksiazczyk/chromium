@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropClient interface
+// summary: Defines the DragDropClient interface connecting a bridged window's content view to drag-and-drop handling in the browser process.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_DRAG_DROP_CLIENT_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_DRAG_DROP_CLIENT_H_
 

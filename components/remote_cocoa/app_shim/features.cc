@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote Cocoa app shim feature flags
+// summary: Defines feature flags for the Mac app shim, including immersive fullscreen mitigations, auxiliary file dialog behavior, and move-loop adjustments.
+// ---
+
 #include "components/remote_cocoa/app_shim/features.h"
 
 namespace remote_cocoa::features {

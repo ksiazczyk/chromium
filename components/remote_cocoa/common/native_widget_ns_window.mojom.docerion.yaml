@@ -1,0 +1,4 @@
+# Docerion header of native_widget_ns_window.mojom.
+type: source
+title: Native widget NSWindow Mojo definitions
+summary: Defines window classes, creation parameters, visibility states and related types for native widget NSWindows over Mojo.

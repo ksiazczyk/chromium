@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BridgedContentView interface bridging NSWindow content to views
+// summary: Declares BridgedContentView, the root NSView that forwards Cocoa events and text input to the hosted views toolkit.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_BRIDGED_CONTENT_VIEW_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_BRIDGED_CONTENT_VIEW_H_
 

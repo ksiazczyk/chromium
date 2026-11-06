@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa window move loop declarations
+// summary: Declares CocoaWindowMoveLoop, which runs a nested mouse-tracking loop for dragging detached tabs and updates the window frame during the drag.
+// ---
+
 #ifndef COMPONENTS_REMOTE_COCOA_APP_SHIM_WINDOW_MOVE_LOOP_H_
 #define COMPONENTS_REMOTE_COCOA_APP_SHIM_WINDOW_MOVE_LOOP_H_
 
