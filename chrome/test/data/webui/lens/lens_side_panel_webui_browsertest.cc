@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel WebUI browser test fixture
+// summary: Browser test fixture that runs Mocha tests for the Lens side panel WebUI, covering results frame, toasts, searchbox, and ghost loader behavior.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/in_process_browser_test.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

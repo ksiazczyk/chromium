@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome page WebUI tests
+// summary: WebUI test suite verifying the welcome app element, covering metrics opt-in labels, default browser toggle, and dialog actions.
+// ---
+
 import 'chrome://intro/welcome/app.js';
 
 import {browserProxyFactory as welcomeMojoProxyFactory, WelcomePageHandlerRemote} from 'chrome://intro/welcome.mojom-webui.js';

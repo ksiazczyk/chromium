@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task queue helper for net-internals tests
+// summary: Test helper providing Task and TaskQueue classes that run queued test steps sequentially for net-internals tests.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 
 import {assertEquals, assertFalse, assertNotReached, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client skills section
+// summary: Test client section for creating, updating, fetching, and listing Glic skills and opening the manage and browse skills UIs.
+// ---
+
 import type {SkillPreview, SkillSource} from '/glic/glic_api/glic_api.js';
 
 import {client, getBrowser, logMessage} from '../client.js';

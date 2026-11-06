@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/actor/glic_actor_task_lifecycle_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic actor task lifecycle browser tests
+// summary: Browser tests for actor task lifecycle, covering pause, resume, stop, cancellation, and Gmail OTP confirmation response modes.
+// ---
+
 import {ActorTaskInterruptReason, ActorTaskPauseReason, ActorTaskState, ActorTaskStopReason, CancelActionsResult} from '/glic/glic_api/glic_api.js';
 import type {GmailOtpConfirmationRequest, GmailOtpOptInRequest} from '/glic/glic_api/glic_api.js';
 

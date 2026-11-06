@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay selection test utilities
+// summary: Offers helpers to simulate clicks and drags on the Lens selection overlay and to normalize boxes against an element's size during testing.
+// ---
+
 import type {Point, RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';
 import type {SelectionOverlayElement} from 'chrome-untrusted://lens-overlay/selection_overlay.js';
 import {flushTasks, waitAfterNextRender} from 'chrome-untrusted://webui-test/polymer_test_util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client get page context section
+// summary: Requests page context from the focused tab and displays screenshots, favicons, PDF data, and annotated page content.
+// ---
+
 import {getBrowser, logMessage, readStream} from '../client.js';
 import {$} from '../page_element_types.js';
 

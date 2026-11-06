@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histograms internals TypeScript test suite
+// summary: TypeScript Mocha suite verifying the histograms internals page, covering refresh behavior, downloaded histogram text output, stopping monitoring, and the subprocess checkbox in normal and monitoring modes.
+// ---
+
 import 'chrome://histograms/histograms_internals.js';
 
 import {generateHistogramsAsText, monitoringStopped} from 'chrome://histograms/histograms_internals.js';

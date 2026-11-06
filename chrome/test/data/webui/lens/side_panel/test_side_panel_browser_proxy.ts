@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens side panel browser proxy
+// summary: Test doubles for the Lens side panel browser proxy and page handler that record WebUI-to-browser calls for reuse across the side panel test suites.
+// ---
+
 import {LensSidePanelPageCallbackRouter} from 'chrome-untrusted://lens/lens_side_panel.mojom-webui.js';
 import type {LensSidePanelPageHandlerInterface, LensSidePanelPageRemote} from 'chrome-untrusted://lens/lens_side_panel.mojom-webui.js';
 import type {SidePanelBrowserProxy} from 'chrome-untrusted://lens/side_panel/side_panel_browser_proxy.js';

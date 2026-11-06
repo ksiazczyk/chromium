@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link click test
+// summary: WebUI test verifying that privileged link clicks navigate to file and chrome URLs and that listeners are removed when the app element is removed.
+// ---
+
 import {BrowserProxyImpl, getTrustedHTML} from 'chrome://history/history.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Android test web client
+// summary: Mock Glic web client for Android tests that registers over Mojo and records prompts and focused tab context for test runners.
+// ---
+
 import type {GlicBrowserHost, GlicWebClient, InvokeOptions, TabData} from '/glic/glic_api/glic_api.js';
 
 import {createGlicHostRegistryOnLoad} from '../api_boot.js';

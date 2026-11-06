@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorUtils tests
+// summary: Tests conversion between SkColor values and hex or rgba color strings, including handling of malformed hex input.
+// ---
+
 import {hexColorToSkColor, skColorToHexColor, skColorToRgba} from 'chrome://resources/js/color_utils.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 

@@ -5,6 +5,12 @@
 // Note: This file implements listeners/actions for multiple permission related
 // sections in the test client.
 
+// ---docerion
+// type: test
+// title: Glic test client permissions section
+// summary: Test client section wiring permission switches for microphone, location, and tab context, plus OS settings shortcuts and a mic permission flow demo.
+// ---
+
 import type {PermissionSwitchName} from '../client.js';
 import {getBrowser, logMessage, permissionSwitches} from '../client.js';
 import {$} from '../page_element_types.js';

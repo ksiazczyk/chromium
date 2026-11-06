@@ -1,0 +1,4 @@
+# Docerion header of serve.py.
+type: script
+title: Build and serve script for the Glic test client
+summary: Builds the test client with autoninja and serves it over HTTP, including endpoints for parsing AnnotatedPageContent protos.

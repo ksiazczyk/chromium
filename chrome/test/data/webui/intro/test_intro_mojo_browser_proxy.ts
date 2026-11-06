@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test intro Mojo browser proxy
+// summary: Test double implementing IntroBrowserProxy with a fake media query list for WebUI intro page tests.
+// ---
+
 import {IntroPageCallbackRouter} from 'chrome://intro/intro.mojom-webui.js';
 import type {IntroBrowserProxy} from 'chrome://intro/intro_browser_proxy.js';
 

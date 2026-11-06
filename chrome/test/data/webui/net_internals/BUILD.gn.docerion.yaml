@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: NetInternals WebUI test resources build file
+summary: GN build rules that copy and preprocess the net_internals WebUI test scripts and generate the resources.grdp bundle.

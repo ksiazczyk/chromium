@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackedElement manager WebUI tests
+// summary: TypeScript test suite for TrackedElementManager that mocks the Mojo handler and proxy to verify element visibility, activation, and custom event reporting.
+// ---
+
 import {TRACKED_ELEMENT_VISIBILITY_CHANGED_EVENT, TrackedElementManager} from 'chrome://resources/js/tracked_element/tracked_element_manager.js';
 import type {TrackedElement, TrackedElementVisibilityChangedEvent} from 'chrome://resources/js/tracked_element/tracked_element_manager.js';
 import type {TrackedElementProxy} from 'chrome://resources/js/tracked_element/tracked_element_proxy.js';

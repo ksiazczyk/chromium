@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar focus test
+// summary: WebUI test checking search bar focus on load in wide and narrow modes and keyboard shortcuts for opening the history search field.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryAppElement} from 'chrome://history/history.js';

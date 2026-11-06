@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History list tests
+// summary: Tests the history list covering query results, incremental loading, scrolling, selection and deletion of history entries.
+// ---
+
 import type {CrA11yAnnouncerMessagesSentEvent, HistoryAppElement, HistoryEntry, HistoryItemElement, HistoryListElement, HistoryToolbarElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl, CrRouter} from 'chrome://history/history.js';
 import {CriticalActionType, OpenConversationResult} from 'chrome://resources/cr_components/history/history.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared table row test helper
+// summary: Shared test helper that reads the text contents of a table row so metrics-internals tests can assert on displayed values.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {assertGT} from 'chrome://webui-test/chai_assert.js';
 

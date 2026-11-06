@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client interaction mode section
+// summary: Switches the test client between text and audio interaction modes via browser mode change calls.
+// ---
+
 import {WebClientMode} from '/glic/glic_api/glic_api.js';
 
 import {getBrowser, logMessage} from '../client.js';

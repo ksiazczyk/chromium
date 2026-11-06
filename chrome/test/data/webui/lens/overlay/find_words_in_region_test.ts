@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find words in region tests
+// summary: Tests finding words inside a selection region and the polygon helpers toPolygon, areaOfPolygon, rotate, clip, isInsideEdge and intersectionWithEdge.
+// ---
+
 import 'chrome-untrusted://lens-overlay/find_words_in_region.js';
 
 import {areaOfPolygon, clip, ClippingEdge, findWordsInRegion, intersectionWithEdge, isInsideEdge, rotate, toPolygon} from 'chrome-untrusted://lens-overlay/find_words_in_region.js';

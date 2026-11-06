@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post-selection renderer tests
+// summary: WebUI tests for the post-selection renderer covering corner drags, bounding box geometry, gesture handling, and related user action metrics.
+// ---
+
 import 'chrome-untrusted://lens-overlay/post_selection_renderer.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

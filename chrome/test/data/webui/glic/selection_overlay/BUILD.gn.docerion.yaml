@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for selection overlay WebUI tests
+summary: GN build configuration that defines the build_webui_tests target wiring the TypeScript test suites and the C++ browser test together.

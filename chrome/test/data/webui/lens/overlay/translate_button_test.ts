@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay translate button WebUI tests
+// summary: WebUI test suite for the Lens overlay translate button element, covering click handling, translate mode state, language selection via mocked proxies, and metrics.
+// ---
+
 import 'chrome-untrusted://lens-overlay/translate_button.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

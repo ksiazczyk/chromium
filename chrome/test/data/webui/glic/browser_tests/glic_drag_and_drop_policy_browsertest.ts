@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/host/glic_drag_and_drop_policy_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic drag and drop policy browser tests
+// summary: Browser tests verifying DLP policy enforcement for drag and drop, including allowed drops, blocked drops, and blocked web-to-Glic invocations.
+// ---
+
 import {InvocationSource} from '/glic/glic_api/glic_api.js';
 import type {InvokeOptions} from '/glic/glic_api/glic_api.js';
 

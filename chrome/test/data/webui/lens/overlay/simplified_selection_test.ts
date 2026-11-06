@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Simplified selection tests
+// summary: WebUI tests for the simplified text layer covering text selection, copy, and translate timeouts with curved and top-to-bottom text.
+// ---
+
 import 'chrome-untrusted://lens-overlay/selection_overlay.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

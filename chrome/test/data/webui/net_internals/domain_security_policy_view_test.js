@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the net-internals domain security policy view
+// summary: Mocha suite that tests HSTS queries, additions, and deletions in the net-internals domain security policy view.
+// ---
+
 import {DomainSecurityPolicyView} from 'chrome://net-internals/domain_security_policy_view.js';
 import {$} from 'chrome://resources/js/util.js';
 import {assertEquals, assertLE, assertNotEquals} from 'chrome://webui-test/chai_assert.js';

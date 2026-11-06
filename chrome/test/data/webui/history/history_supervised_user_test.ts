@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user history tests
+// summary: Tests that selection, deletion and the remove menu are disabled for supervised users in the history list.
+// ---
+
 import type {HistoryAppElement, HistoryEntry, HistoryListElement, HistoryToolbarElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl} from 'chrome://history/history.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

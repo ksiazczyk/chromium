@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History test utilities
+// summary: Shared helpers for history WebUI tests that create fake history entries, search results, history queries and event waiting utilities.
+// ---
+
 import type {ForeignSession, ForeignSessionTab, ForeignSessionWindow, HistoryAppElement} from 'chrome://history/history.js';
 import type {HistoryEntry, HistoryQuery} from 'chrome://resources/cr_components/history/history.mojom-webui.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

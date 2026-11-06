@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Finish or continue screen tests
+// summary: WebUI tests for the finish-or-continue intro screen, checking button presence, ordering, labels, and showcase URL parameter behavior.
+// ---
+
 import 'chrome://intro/finish_or_continue/app.js';
 
 import {browserProxyFactory as finishOrContinueMojoProxyFactory, FinishOrContinuePageHandlerRemote} from 'chrome://intro/finish_or_continue.mojom-webui.js';

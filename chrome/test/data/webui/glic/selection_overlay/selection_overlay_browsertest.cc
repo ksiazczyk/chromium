@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection overlay browser test runner
+// summary: C++ WebUI mocha browser test that runs the inline fulfillment host, explain fulfillment, and markdown test suites in the chrome-untrusted Glic WebUI.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_environment.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics internals tests with a log present
+// summary: WebUI test suite verifying UMA and UKM log tables and exported log contents when a log is available.
+// ---
+
 import 'chrome://metrics-internals/app.js';
 
 import type {MetricsInternalsAppElement} from 'chrome://metrics-internals/app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parse HTML subset Trusted Types tests
+// summary: Verifies that parseHtmlSubset parses HTML without triggering a Trusted Types violation under a require-trusted-types-for policy.
+// ---
+
 import {parseHtmlSubset} from 'chrome://resources/js/parse_html_subset.js';
 import {assertNotReached} from 'chrome://webui-test/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel message toast tests
+// summary: WebUI test verifying that the message toast becomes visible when showToast is invoked through the side panel callback router.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import type {LensSidePanelPageRemote} from 'chrome-untrusted://lens-overlay/lens_side_panel.mojom-webui.js';

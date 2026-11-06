@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test harness for net-internals WebUI tests
+// summary: C++ browser test fixture that runs the net-internals JavaScript mocha suites for DNS, main, domain security policy, and shared dictionary views.
+// ---
+
 #include <string>
 
 #include "base/strings/stringprintf.h"

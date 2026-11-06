@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the iwa-dev combobox element
+// summary: Tests the iwa-dev combobox element, covering default rendering, suggestion dropdown behavior, keyboard navigation, clearing, and accessibility attributes.
+// ---
+
 import 'chrome://iwa-dev/combobox.js';
 
 import type {ComboboxOption, IwaDevComboboxElement} from 'chrome://iwa-dev/combobox.js';

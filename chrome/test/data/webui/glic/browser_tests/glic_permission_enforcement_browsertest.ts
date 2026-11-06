@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/host/glic_permission_enforcement_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic permission enforcement browser tests
+// summary: Browser tests verifying enforcement of microphone, tab context, and location permissions for the Glic web client in allow and deny cases.
+// ---
+
 import {ApiTestFixtureBase, assertEquals, assertRejects, assertTrue, testMain} from './browser_test_base.js';
 
 class GlicPermissionEnforcementApiTest extends ApiTestFixtureBase {

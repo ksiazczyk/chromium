@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo WebUI tests build file
+summary: GN build file defining the Mojo bindings and WebUI browser test targets for this directory.

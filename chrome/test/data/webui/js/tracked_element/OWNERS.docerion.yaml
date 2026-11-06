@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tracked element test data
+summary: Points to the OWNERS file of the tracked element resources to define code ownership for this test data directory.

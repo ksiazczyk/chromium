@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test history browser proxy
+// summary: Test double implementing the history browser proxy with mocked Mojo handlers, configurable identity state and metrics recording for history WebUI tests.
+// ---
+
 import type {BrowserProxy, HistoryIdentityState} from 'chrome://history/history.js';
 import {HistorySignInState, SyncState} from 'chrome://history/history.js';
 import {OpenConversationResult, PageCallbackRouter, PageHandlerRemote} from 'chrome://resources/cr_components/history/history.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trials tests for the metrics internals page
+// summary: WebUI tests for the field trials section of the metrics internals page, using a fake browser proxy to stub backend calls.
+// ---
+
 import 'chrome://metrics-internals/app.js';
 
 import {MetricsInternalsBrowserProxyImpl} from 'chrome://metrics-internals/browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private metrics tests for the metrics internals page
+// summary: WebUI tests for the private metrics section, stubbing the browser proxy to exercise seed and encryption key UI.
+// ---
+
 import 'chrome://metrics-internals/app.js';
 
 import {MetricsInternalsBrowserProxyImpl} from 'chrome://metrics-internals/browser_proxy.js';

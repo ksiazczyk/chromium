@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Footer app WebUI tests
+// summary: Mocha test suite for the new tab footer app element, mocking Mojo handlers and window proxy to verify footer, customize, and metrics behavior.
+// ---
+
 import type {NewTabFooterAppElement} from 'chrome://newtab-footer/app.js';
 import {CustomizeDialogPage, FooterCustomizeChromeEntryPoint, FooterElement} from 'chrome://newtab-footer/app.js';
 import type {CustomizeButtonsDocumentRemote} from 'chrome://newtab-footer/customize_buttons.mojom-webui.js';

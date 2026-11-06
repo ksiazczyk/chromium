@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login app Mocha test suite
+// summary: Mocha suite verifying the inline login app's initialization, WebUI listener callbacks, and authenticator event handling using test proxies and fakes.
+// ---
+
 import 'chrome://chrome-signin/inline_login_app.js';
 
 import type {InlineLoginAppElement} from 'chrome://chrome-signin/inline_login_app.js';

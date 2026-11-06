@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/host/glic_api_skills_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic skills API browser tests
+// summary: Browser tests for the Glic skills API, verifying skill previews, skill retrieval, and enabled and disabled state handling.
+// ---
+
 import {SkillSource, SkillsWebClientEvent} from '/glic/glic_api/glic_api.js';
 
 import {ApiTestFixtureBase, assertDefined, assertEquals, assertRejects, assertTrue, assertUndefined, observeSequence, testMain} from './browser_test_base.js';

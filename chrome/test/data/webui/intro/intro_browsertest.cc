@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intro browser test harness
+// summary: C++ WebUI mocha browser test fixture that runs the intro sign-in promo, app, welcome and related test suites under various first-run refresh and revamp feature flags.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Utility function tests
+// summary: Tests util.js helpers such as element lookup, string quoting for regex use, and detection of undo keyboard events across modifier combinations.
+// ---
+
 import {isMac} from 'chrome://resources/js/platform.js';
 import {$, getRequiredElement, isUndoKeyboardEvent, quoteString as quoteStringJs, quoteString} from 'chrome://resources/js/util.js';
 import {assertEquals, assertFalse, assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';

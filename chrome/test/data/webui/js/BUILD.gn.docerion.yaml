@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for WebUI JS tests
+summary: GN build target that registers the WebUI JavaScript Mocha test files, browser test sources, TypeScript definitions, and build dependencies.

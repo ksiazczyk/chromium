@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/android/glic_android_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic Android browser tests
+// summary: Browser tests for Glic on Android, checking page context fetching including PDF tabs and device rotation Mojo resiliency.
+// ---
+
 import {ApiTestFixtureBase, assertDefined, assertEquals, assertFalse, assertTrue, readStream, testMain} from './browser_test_base.js';
 
 class GlicAndroidBrowserTests extends ApiTestFixtureBase {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client capture region section
+// summary: Starts and cancels region capture subscriptions and deletes captured regions through the Glic browser API.
+// ---
+
 import type {CaptureRegionResult, Subscriber} from '/glic/glic_api/glic_api.js';
 
 import {client, getBrowser, logMessage} from '../client.js';

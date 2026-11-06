@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens ghost loader test browser proxy
+// summary: Test double of the browser proxy that connects the Lens ghost loader to the browser, provided for use in its WebUI tests.
+// ---
+
 import {LensGhostLoaderPageCallbackRouter} from 'chrome-untrusted://lens/lens/shared/lens_ghost_loader.mojom-webui.js';
 import type {LensGhostLoaderPageRemote} from 'chrome-untrusted://lens/lens/shared/lens_ghost_loader.mojom-webui.js';
 import type {BrowserProxy} from 'chrome-untrusted://lens/lens/shared/searchbox_ghost_loader_browser_proxy.js';

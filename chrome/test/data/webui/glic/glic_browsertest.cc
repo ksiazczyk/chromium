@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic WebUI browser tests
+// summary: C++ browser tests that run glic WebUI mocha unit tests for the webview, observable, API client, mojo logging, and overlay.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/glic/test_support/glic_test_environment.h"

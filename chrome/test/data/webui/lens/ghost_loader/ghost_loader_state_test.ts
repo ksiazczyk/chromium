@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens ghost loader state WebUI tests
+// summary: WebUI test suite verifying that the Lens searchbox ghost loader shows a loading state and switches to the error state after the autocomplete timeout.
+// ---
+
 import 'chrome-untrusted://lens/lens/shared/searchbox_ghost_loader.js';
 
 import type {SearchboxGhostLoaderElement} from 'chrome-untrusted://lens/lens/shared/searchbox_ghost_loader.js';

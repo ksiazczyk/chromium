@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline fulfillment host tests
+// summary: Mocha tests for the inline fulfillment host element, covering card loading, Mojo channel passing, and handling of unknown, failed, or throwing modules.
+// ---
+
 import 'chrome-untrusted://glic/inline_fulfillment_host.js';
 
 import {GenericAssociatedInterface, GenericAssociatedInterfaceRemote} from '//resources/mojo/mojo/public/mojom/base/generic_pending_associated_receiver.mojom-webui.js';

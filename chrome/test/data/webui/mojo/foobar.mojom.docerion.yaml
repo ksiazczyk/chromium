@@ -1,0 +1,4 @@
+# Docerion header of foobar.mojom.
+type: test
+title: Test Mojo interfaces Foo, Bar and Baz
+summary: Defines the test Mojo interfaces Foo, Bar and Baz used by the Mojo WebUI controller browser tests.

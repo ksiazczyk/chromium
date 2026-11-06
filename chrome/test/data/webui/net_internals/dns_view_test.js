@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the net-internals DNS view
+// summary: Mocha suite that verifies DNS lookups in the net-internals DNS view, including alternative endpoints, ECH, and cache clearing.
+// ---
+
 import {DnsView} from 'chrome://net-internals/dns_view.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 import {$} from 'chrome://resources/js/util.js';

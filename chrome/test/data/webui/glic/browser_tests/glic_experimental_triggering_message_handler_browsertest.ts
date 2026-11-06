@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/sharing/glic_experimental_triggering/glic_experimental_triggering_message_handler_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic experimental triggering browser tests
+// summary: Browser tests for the experimental triggering message handler, covering update relaying with sequence numbers, conversation registration, and actuation requests.
+// ---
+
 import {ActuationTarget, ExperimentalTriggeringUpdateType} from '/glic/glic_api/glic_api.js';
 import type {ExperimentalTriggeringUpdate, Observable2} from '/glic/glic_api/glic_api.js';
 import {Subject} from '/glic/observable.js';

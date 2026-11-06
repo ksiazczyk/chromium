@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters internals WebUI tests build file
+summary: GN build file that defines the WebUI test target wiring the C++ browser test and TypeScript Mocha tests for the history clusters internals page.

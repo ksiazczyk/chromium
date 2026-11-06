@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History page metrics tests
+// summary: Tests that the history page records histograms and user actions for page views, context menus and synced tabs.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryAppElement, HistoryEntry, HistoryItemElement} from 'chrome://history/history.js';

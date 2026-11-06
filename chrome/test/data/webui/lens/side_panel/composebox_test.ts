@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel composebox tests
+// summary: WebUI tests for the composebox in the Lens side panel, mocking composebox and searchbox handlers to verify autocomplete results, visibility, and transition behavior.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import type {LensSidePanelAppElement} from 'chrome-untrusted://lens/side_panel/side_panel_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel composebox pixel test
+// summary: Runs pixel screenshot tests of the Lens side panel composebox across dark mode, RTL, and text variations.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/data/webui/webui_composebox_pixel_test.h"

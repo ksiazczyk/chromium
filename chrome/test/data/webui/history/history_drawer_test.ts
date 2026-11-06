@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History drawer tests
+// summary: Verifies the history navigation drawer opens and its side bar selects the correct menu entry such as synced tabs.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryAppElement, HistorySideBarElement} from 'chrome://history/history.js';

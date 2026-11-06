@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic overlay UI unit tests
+// summary: Unit tests for the Glic overlay element, checking floating and side panel loading styles and the visibility of the various error panels via a mocked browser proxy.
+// ---
+
 import {ErrorPanelType, GlicOverlayBrowserProxyImpl, GlicOverlayPageCallbackRouter, GlicOverlayPageHandlerRemote, LoadingStyle} from 'chrome://glic/glic_overlay.js';
 import type {GlicOverlayBrowserProxy, GlicOverlayElement, GlicOverlayPageRemote} from 'chrome://glic/glic_overlay.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

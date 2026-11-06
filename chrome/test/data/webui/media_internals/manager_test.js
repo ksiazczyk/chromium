@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media internals manager tests
+// summary: Mocha test suite for the player Manager class, covering adding players, duplicate player IDs, player removal, and the error thrown when selecting a non-existent player.
+// ---
+
 import {assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('manager tests', function() {

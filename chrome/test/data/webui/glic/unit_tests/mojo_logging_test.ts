@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo logging unit tests
+// summary: Unit tests verifying the logging proxy around Mojo remotes, including enabling via load time data, request and response logging, error logging, and ignored methods.
+// ---
+
 import {maybeWrapWithLogging, toDebugJson} from '//webui-test/glic/glic_api_impl/mojo_logging.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

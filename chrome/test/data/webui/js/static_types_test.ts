@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Static Trusted Types helper tests
+// summary: Tests getTrustedHTML, getTrustedScript, and getTrustedScriptURL for Trusted Types compatibility, correct return types, and rejection of non-template-literal input.
+// ---
+
 import {getTrustedHTML, getTrustedScript, getTrustedScriptURL} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertNotReached, assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

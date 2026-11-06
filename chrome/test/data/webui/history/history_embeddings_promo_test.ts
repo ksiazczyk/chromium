@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History embeddings promo tests
+// summary: Tests showing and dismissing the history embeddings and answers promo cards based on localStorage keys.
+// ---
+
 import 'chrome://history/history.js';
 
 import {HISTORY_EMBEDDINGS_ANSWERS_PROMO_SHOWN_KEY, HISTORY_EMBEDDINGS_PROMO_SHOWN_KEY} from 'chrome://history/history.js';

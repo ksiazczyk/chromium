@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multistep filter tests
+summary: Grants the test directory include access to components/multistep_filter/core.

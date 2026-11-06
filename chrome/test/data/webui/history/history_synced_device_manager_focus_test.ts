@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synced device manager focus test
+// summary: WebUI test verifying keyboard navigation and focus behavior across history synced device cards, including collapsing and expanding cards.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistorySyncedDeviceManagerElement} from 'chrome://history/history.js';

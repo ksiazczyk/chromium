@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inspect UI C++ browser tests
+// summary: C++ browser tests that open the inspect page, launch native UI DevTools, and run the matching Mocha test cases, including shared worker scenarios.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/browser_process.h"

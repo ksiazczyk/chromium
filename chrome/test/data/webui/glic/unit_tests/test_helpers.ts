@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic unit test helpers
+// summary: Shared helpers for the Glic WebUI unit tests, providing load time data configuration, fake browser proxies and delegates, and assertion and waiting utilities.
+// ---
+
 import type {BrowserProxy, PageHandlerInterface, WebviewDelegate} from 'chrome://glic/glic.js';
 import {PageCallbackRouter, PreloadPageCallbackRouter} from 'chrome://glic/glic.js';
 import type {GuestPageType} from 'chrome://glic/glic.js';

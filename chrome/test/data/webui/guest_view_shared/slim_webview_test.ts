@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slim webview WebUI test suite
+// summary: TypeScript mocha suite testing the SlimWebviewElement, covering load events, in-guest evaluation, permission requests, and cross-origin behavior.
+// ---
+
 import '//glic/shared/guest_view/slim_webview.js';
 
 import {OnBeforeSendHeadersParams, OriginCheckParams} from '//glic/shared/guest_view/request_throttlers.js';

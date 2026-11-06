@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inspect UI TypeScript tests
+// summary: TypeScript Mocha tests verifying that the inspect page lists page, worker, and shared storage targets and reflects the remote debugging checkbox state.
+// ---
+
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 function assertNativeUIButtonDisabled(disabled: boolean) {

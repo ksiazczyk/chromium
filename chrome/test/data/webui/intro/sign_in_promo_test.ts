@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo tests
+// summary: WebUI tests for the sign-in promo element, covering sign-in button actions, button resets, and managed-device disclaimer updates.
+// ---
+
 import 'chrome://intro/sign_in_promo.js';
 
 import {IntroBrowserProxyImpl} from 'chrome://intro/browser_proxy.js';

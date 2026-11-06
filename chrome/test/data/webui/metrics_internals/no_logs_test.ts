@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics internals tests without logs
+// summary: WebUI test suite checking that summary tables render and logs appear empty when no UMA or UKM logs exist.
+// ---
+
 import 'chrome://metrics-internals/app.js';
 
 import type {MetricsInternalsAppElement} from 'chrome://metrics-internals/app.js';

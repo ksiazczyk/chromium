@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser refresh UI tests
+// summary: WebUI tests for the refreshed default browser screen, covering confirm and skip button clicks, button disabling, and reset events.
+// ---
+
 import 'chrome://intro/default_browser/app_refresh.js';
 
 import type {AppRefreshElement} from 'chrome://intro/default_browser/app_refresh.js';

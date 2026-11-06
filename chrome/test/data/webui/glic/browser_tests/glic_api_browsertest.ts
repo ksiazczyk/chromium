@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/host/glic_api_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic API browser tests
+// summary: Main browser test suite for the Glic web API, covering panel state, tab context, metrics, use counters, and invocation behavior.
+// ---
+
 import {                             //
   CancelActionsResult,               //
   ClientCapabilities,                //

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view shared WebUI tests build definition
+summary: GN build file that defines the WebUI test target for the slim webview browser and TypeScript tests, including TypeScript dependencies and path mappings.

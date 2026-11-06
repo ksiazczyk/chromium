@@ -1,0 +1,4 @@
+# Docerion header of page2.html.
+type: test
+title: Glic test page with red favicon
+summary: Test fixture HTML page linking a red favicon, used as sample content in Glic web UI tests.

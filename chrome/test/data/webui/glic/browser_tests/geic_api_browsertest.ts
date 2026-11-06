@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/gemini_enterprise/geic_api_browsertest.cc
 
+// ---docerion
+// type: test
+// title: GEIC API browser tests
+// summary: Browser tests for the Gemini Enterprise client API, covering sign-in and auth tab open and close behavior with allowed and disallowed URLs.
+// ---
+
 import type {GeicBrowserHost} from '/glic/glic_api/glic_api.js';
 import {AuthTabPurpose, CloseAuthTabResult, CloseSignInTabResult, OpenAuthTabResult, OpenSignInTabResult} from '/glic/glic_api/glic_api.js';
 

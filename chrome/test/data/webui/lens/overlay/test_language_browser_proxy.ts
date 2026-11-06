@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test language browser proxy
+// summary: Test double for the Lens overlay language browser proxy that returns fake language lists and stores locale and language data for assertions.
+// ---
+
 import {LanguageBrowserProxyImpl} from 'chrome-untrusted://lens-overlay/language_browser_proxy.js';
 import type {Language} from 'chrome-untrusted://lens-overlay/translate.mojom-webui.js';
 

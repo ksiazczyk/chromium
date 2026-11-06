@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal Glic web client for browser tests
+// summary: Implements a minimal GlicWebClient that registers with the Glic host registry on load and records performance marks used by Glic browser tests.
+// ---
+
 import type {GlicBrowserHost, GlicWebClient, OpenPanelInfo, PanelOpeningData, PanelState, WebClientMode} from '/glic/glic_api/glic_api.js';
 
 import {createGlicHostRegistryOnLoad} from '../api_boot.js';

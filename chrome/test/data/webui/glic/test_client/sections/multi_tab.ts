@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client multi-tab section
+// summary: Test client section that tracks pinned tabs, fetches their context, and renders the pinned tab list with context versions and error reasons.
+// ---
+
 import type {ObservableValue, PinCandidate, Subscriber, TabContextResult, TabData} from '/glic/glic_api/glic_api.js';
 import {DEFAULT_PDF_SIZE_LIMIT} from '/glic/glic_api/glic_api.js';
 

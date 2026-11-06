@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox back button tests
+// summary: WebUI tests verifying that clicking the searchbox back button calls the browser proxy and that back arrow visibility is toggled correctly.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

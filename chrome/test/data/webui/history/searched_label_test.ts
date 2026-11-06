@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searched label test
+// summary: WebUI test checking that the history searched label bolds text matching the current search term and clears it when the term changes.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistorySearchedLabelElement} from 'chrome://history/history.js';

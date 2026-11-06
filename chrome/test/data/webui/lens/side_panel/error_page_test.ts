@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel error page tests
+// summary: WebUI tests verifying that the Lens side panel error page shows and hides via callback router status changes and respects the enableErrorPage flag.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import type {LensSidePanelPageRemote} from 'chrome-untrusted://lens/lens_side_panel.mojom-webui.js';

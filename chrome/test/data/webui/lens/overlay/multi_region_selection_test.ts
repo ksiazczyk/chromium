@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-region selection tests
+// summary: Tests multi-region selection handling in the post-selection renderer with a fake selection overlay base handler for region updates, adjustments and deletion.
+// ---
+
 import 'chrome-untrusted://lens-overlay/post_selection_renderer.js';
 
 import type {BitmapMappedFromTrustedProcess} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo String16 converter tests
+// summary: Tests conversion between JavaScript strings and mojo String16 data, including chunking boundaries, emoji, and CJK characters.
+// ---
+
 import {String16Converter} from 'chrome://resources/mojo/mojo/public/mojom/base/string16_converter.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic API client TabObservableSet unit tests
+// summary: Unit tests for the Glic API client's per-tab observables, covering subscription, notification of multiple and late subscribers, and completion cleanup.
+// ---
+
 import {GlicClientStorageImpl} from '//webui-test/glic/glic_api_impl/client/glic_api_client.js';
 import type {ClientStorageHandler} from '//webui-test/glic/glic_api_impl/client/glic_api_client.js';
 import {TabObservable, TabObservableSet} from '//webui-test/glic/glic_api_impl/client/observable_set_by_tab_id.js';

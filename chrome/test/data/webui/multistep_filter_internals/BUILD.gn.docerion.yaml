@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for multistep filter internals WebUI tests
+summary: Defines the webui tests build for the multistep filter internals page, listing the C++ browser test and TypeScript test files with their TypeScript dependencies.

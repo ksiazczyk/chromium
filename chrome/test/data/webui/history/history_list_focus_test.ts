@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History list focus and keyboard navigation tests
+// summary: Tests keyboard navigation and focus row behavior across history list items using arrow keys.
+// ---
+
 import type {HistoryAppElement, HistoryEntry, HistoryListElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl} from 'chrome://history/history.js';
 import {isMac} from 'chrome://resources/js/platform.js';

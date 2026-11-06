@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user history browser test
+// summary: C++ browser test harness that runs the supervised user history JS tests with history deletion disallowed.
+// ---
+
 #include "build/android_buildflags.h"
 #include "chrome/browser/history/history_service_factory.h"
 #include "chrome/browser/profiles/profile.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for glic WebUI tests
+summary: Defines GN targets that build the glic WebUI test TypeScript libraries, copy HTML test pages, and assemble test client dependencies.

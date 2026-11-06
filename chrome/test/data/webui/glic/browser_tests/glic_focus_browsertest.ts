@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/host/glic_focus_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic focus browser tests
+// summary: Browser tests checking focus behavior of the Glic side panel, including focus on open and invoke and blur when the omnibox takes focus.
+// ---
+
 import {ApiTestFixtureBase, runUntil, testMain} from './browser_test_base.js';
 
 class GlicFocusBrowserTest extends ApiTestFixtureBase {

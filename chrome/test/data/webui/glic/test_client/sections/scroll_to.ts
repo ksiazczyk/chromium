@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client scroll-to section
+// summary: Test client section that fetches annotated page content, lists document nodes, and invokes scrollTo with text or node selectors.
+// ---
+
 import type {ScrollToParams, ScrollToSelector} from '/glic/glic_api/glic_api.js';
 
 import {getBrowser, logMessage, readStream} from '../client.js';

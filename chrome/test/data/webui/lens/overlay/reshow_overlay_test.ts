@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay reshow tests
+// summary: WebUI tests verifying screenshot fetching and attribute updates when the Lens overlay is reshown, including side panel open state.
+// ---
+
 import 'chrome-untrusted://lens-overlay/selection_overlay.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

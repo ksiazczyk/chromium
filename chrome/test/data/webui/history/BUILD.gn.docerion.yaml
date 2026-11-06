@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History WebUI tests build definition
+summary: Defines the GN build target for the history WebUI test suites, listing the TypeScript and C++ test files, path mappings, and TypeScript dependencies.

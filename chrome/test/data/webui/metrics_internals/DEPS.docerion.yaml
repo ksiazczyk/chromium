@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for metrics_internals tests
+summary: Declares the include rules allowing the metrics_internals tests to depend on metrics, metrics services manager and UKM components.

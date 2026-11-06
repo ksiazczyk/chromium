@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test searchbox browser proxy
+// summary: Test double for the omnibox searchbox browser proxy that tracks browser call arguments with named parameters for searchbox tests.
+// ---
+
 import type {SuggestInventory} from '//resources/mojo/components/omnibox/browser/fusebox_action.mojom-webui.js';
 import type {NavigationPredictor} from '//resources/mojo/components/omnibox/browser/omnibox.mojom-webui.js';
 import type {ActionModifiers, InputMethod, KeywordActivationMethod, OmniboxPopupSelection, PageHandlerInterface, PageRemote, PlaceholderConfig, SelectedFileInfo, SmartComposeStats} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

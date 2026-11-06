@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay text test utilities
+// summary: Provides helpers that build and send fake text, paragraph and word results to the Lens overlay page via the callback router for WebUI tests.
+// ---
+
 import {hexColorToSkColor} from '//resources/js/color_utils.js';
 import type {RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';
 import {CenterRotatedBox_CoordinateType} from 'chrome-untrusted://lens-overlay/geometry.mojom-webui.js';

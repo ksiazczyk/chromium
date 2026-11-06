@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic webview controller unit tests
+// summary: Unit tests for the Glic webview controller covering zoom in, out, and reset actions, zoom boundary conditions, and accessibility announcements for zoom changes.
+// ---
+
 import {GuestPageType, WebviewController, WebviewPersistentState, ZoomAction} from 'chrome://glic/glic.js';
 import {ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';
 import type {CrA11yAnnouncerMessagesSentEvent} from 'chrome://resources/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';

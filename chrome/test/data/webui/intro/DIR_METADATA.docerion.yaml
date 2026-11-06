@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for intro tests
+summary: Chromium metadata file that inherits the browser profiles COMMON_METADATA mixins for the intro test directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrRouter tests
+// summary: Tests the CrRouter singleton, URL path, hash and query parameter handling, and change listener events.
+// ---
+
 import {CrRouter} from 'chrome://resources/js/cr_router.js';
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';
 

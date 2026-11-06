@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo JS interface broker browser test
+// summary: Browser test that verifies Mojo interface binding between trusted and untrusted WebUI controllers using the JS interface broker.
+// ---
+
 #include <memory>
 
 #include "base/memory/ref_counted_memory.h"

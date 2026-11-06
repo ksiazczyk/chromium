@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomElement tests
+// summary: Tests the CustomElement base class template rendering and element lookup helpers such as $, $all, and getRequiredElement.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

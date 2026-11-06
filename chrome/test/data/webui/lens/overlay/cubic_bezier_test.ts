@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cubic bezier easing tests
+// summary: WebUI tests for the CubicBezier easing solver, covering basic sampling, common easing functions, linear equivalents and control points outside the unit square.
+// ---
+
 import 'chrome-untrusted://lens-overlay/cubic_bezier.js';
 
 import {CubicBezier} from 'chrome-untrusted://lens-overlay/cubic_bezier.js';

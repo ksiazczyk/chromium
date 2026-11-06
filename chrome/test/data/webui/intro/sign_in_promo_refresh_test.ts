@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo refresh tests
+// summary: WebUI tests for the refreshed sign-in promo, covering accept and decline sign-in actions and managed-device button behavior.
+// ---
+
 import 'chrome://intro/sign_in_promo_refresh.js';
 
 import {IntroBrowserProxyImpl as IntroMojoBrowserProxyImpl} from 'chrome://intro/intro_browser_proxy.js';

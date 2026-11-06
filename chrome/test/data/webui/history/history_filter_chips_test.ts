@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History filter chips tests
+// summary: Tests the history filter chips element, including actor filter visibility, option selection, and filter-changed event details.
+// ---
+
 import 'chrome://history/history.js';
 
 import {BrowserProxyImpl} from 'chrome://history/history.js';

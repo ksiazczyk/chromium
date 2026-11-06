@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the iwa-dev update options dialog
+// summary: Tests the iwa-dev update options dialog, covering channel and pinned version selection, validation, allow-downgrades toggle, and manifest parsing callbacks.
+// ---
+
 import 'chrome://iwa-dev/update_options_dialog.js';
 
 import type {ChannelMetadata, IwaDevModeAppInfo, UpdateManifest, VersionEntry} from 'chrome://iwa-dev/iwa_dev.mojom-webui.js';

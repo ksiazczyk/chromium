@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client audio capture section
+// summary: Records microphone audio with MediaRecorder and plays the captured WebM blob back in the test client.
+// ---
+
 import {$} from '../page_element_types.js';
 
 class AudioCapture {

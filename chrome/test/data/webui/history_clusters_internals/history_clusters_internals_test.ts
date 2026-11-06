@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters internals Mocha test suite
+// summary: TypeScript Mocha suite that checks debug log message counts on the internals page for the disabled and enabled feature states.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('HistoryClustersInternalsTest', () => {

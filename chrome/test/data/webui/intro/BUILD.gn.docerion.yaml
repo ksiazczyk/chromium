@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for intro WebUI tests
+summary: GN build configuration that defines the intro browser test target, listing its TypeScript test files, path mappings and build dependencies.

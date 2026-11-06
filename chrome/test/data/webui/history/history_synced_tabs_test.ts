@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synced tabs test
+// summary: WebUI tests for the history synced device manager covering foreign session cards, window separators and no synced tabs messages.
+// ---
+
 import type {ForeignSession, HistorySyncedDeviceCardElement, HistorySyncedDeviceManagerElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl, foreignSessionBrowserProxyFactory, HistorySignInState, SyncState} from 'chrome://history/history.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

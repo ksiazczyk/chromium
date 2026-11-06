@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Explain fulfillment card tests
+// summary: Mocha tests for the Glic explain fulfillment card, covering explanation display, link-triggered search, the Ask Gemini button, close events, and the sharing disclaimer.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {create} from 'chrome-untrusted://glic/explain_fulfillment.js';
 import type {ExplainFulfillmentElement} from 'chrome-untrusted://glic/explain_fulfillment.js';

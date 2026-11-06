@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Cast feedback WebUI tests build file
+summary: GN build definition that assembles the cast feedback WebUI browser tests, including TypeScript sources, path mappings, definitions and dependencies.
